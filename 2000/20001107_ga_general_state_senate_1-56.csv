@@ -1,0 +1,303 @@
+country,office,district,party,candidate,votes
+BRYAN,State Senate,1,Republican,ERIC JOHNSON,3001
+CHATHAM,State Senate,1,Republican,ERIC JOHNSON,33169
+CHATHAM,State Senate,2,Democrat,REGINA THOMAS,22723
+CHATHAM,State Senate,2,Republican,DALE YOUNGER,6494
+BRYAN,State Senate,3,Democrat,RENE' KEMP,1138
+GLYNN,State Senate,3,Democrat,RENE' KEMP,4727
+LIBERTY,State Senate,3,Democrat,RENE' KEMP,5630
+LONG,State Senate,3,Democrat,RENE' KEMP,1039
+MCINTOSH,State Senate,3,Democrat,RENE' KEMP,2164
+BRYAN,State Senate,3,Republican,JIM CARTER,819
+GLYNN,State Senate,3,Republican,JIM CARTER,4351
+LIBERTY,State Senate,3,Republican,JIM CARTER,2606
+LONG,State Senate,3,Republican,JIM CARTER,702
+MCINTOSH,State Senate,3,Republican,JIM CARTER,1329
+BULLOCH,State Senate,4,Democrat,JACK HILL,11590
+EFFINGHAM,State Senate,4,Democrat,JACK HILL,6690
+EVANS,State Senate,4,Democrat,JACK HILL,1663
+JENKINS,State Senate,4,Democrat,JACK HILL,1263
+SCREVEN,State Senate,4,Democrat,JACK HILL,2300
+TATTNALL,State Senate,4,Democrat,JACK HILL,3202
+DEKALB,State Senate,5,Republican,JOE BURTON,15853
+GWINNETT,State Senate,5,Republican,JOE BURTON,19552
+APPLING,State Senate,6,Democrat,ERIC WILSON,1164
+BRANTLEY,State Senate,6,Democrat,ERIC WILSON,2294
+GLYNN,State Senate,6,Democrat,ERIC WILSON,2528
+MONTGOMERY,State Senate,6,Democrat,ERIC WILSON,795
+PIERCE,State Senate,6,Democrat,ERIC WILSON,956
+TOOMBS,State Senate,6,Democrat,ERIC WILSON,1286
+WAYNE,State Senate,6,Democrat,ERIC WILSON,2403
+APPLING,State Senate,6,Republican,TOM WILLIAMS,3931
+BRANTLEY,State Senate,6,Republican,TOM WILLIAMS,1897
+GLYNN,State Senate,6,Republican,TOM WILLIAMS,9971
+MONTGOMERY,State Senate,6,Republican,TOM WILLIAMS,1282
+PIERCE,State Senate,6,Republican,TOM WILLIAMS,3061
+TOOMBS,State Senate,6,Republican,TOM WILLIAMS,5063
+WAYNE,State Senate,6,Republican,TOM WILLIAMS,5478
+BERRIEN,State Senate,7,Democrat,PEG BLITCH,2014
+CAMDEN,State Senate,7,Democrat,PEG BLITCH,3694
+CHARLTON,State Senate,7,Democrat,PEG BLITCH,1561
+CLINCH,State Senate,7,Democrat,PEG BLITCH,1305
+COOK,State Senate,7,Democrat,PEG BLITCH,2345
+ECHOLS,State Senate,7,Democrat,PEG BLITCH,428
+LANIER,State Senate,7,Democrat,PEG BLITCH,1124
+WARE,State Senate,7,Democrat,PEG BLITCH,5211
+BERRIEN,State Senate,7,Republican,ED PERRY,2528
+CAMDEN,State Senate,7,Republican,ED PERRY,4506
+CHARLTON,State Senate,7,Republican,ED PERRY,870
+CLINCH,State Senate,7,Republican,ED PERRY,526
+COOK,State Senate,7,Republican,ED PERRY,1702
+ECHOLS,State Senate,7,Republican,ED PERRY,274
+LANIER,State Senate,7,Republican,ED PERRY,580
+WARE,State Senate,7,Republican,ED PERRY,4601
+BROOKS,State Senate,8,Democrat,TIM GOLDEN,1840
+LOWNDES,State Senate,8,Democrat,TIM GOLDEN,20592
+THOMAS,State Senate,8,Democrat,TIM GOLDEN,5829
+GWINNETT,State Senate,9,Republican,DON BALFOUR,48062
+DEKALB,State Senate,10,Democrat,NADINE THOMAS,28770
+DEKALB,State Senate,10,Republican,DAVE WALKER,5264
+COLQUITT,State Senate,11,Democrat,HAROLD RAGAN,1753
+DECATUR,State Senate,11,Democrat,HAROLD RAGAN,3520
+EARLY,State Senate,11,Democrat,HAROLD RAGAN,2849
+GRADY,State Senate,11,Democrat,HAROLD RAGAN,4077
+MILLER,State Senate,11,Democrat,HAROLD RAGAN,856
+MITCHELL,State Senate,11,Democrat,HAROLD RAGAN,4858
+SEMINOLE,State Senate,11,Democrat,HAROLD RAGAN,2073
+THOMAS,State Senate,11,Democrat,HAROLD RAGAN,2275
+BAKER,State Senate,12,Democrat,MIKE VON BREMEN,466
+CALHOUN,State Senate,12,Democrat,MIKE VON BREMEN,1575
+CLAY,State Senate,12,Democrat,MIKE VON BREMEN,534
+DOUGHERTY,State Senate,12,Democrat,MIKE VON BREMEN,24547
+QUITMAN,State Senate,12,Democrat,MIKE VON BREMEN,293
+RANDOLPH,State Senate,12,Democrat,MIKE VON BREMEN,1928
+COLQUITT,State Senate,13,Democrat,ROONEY BOWEN,1807
+CRISP,State Senate,13,Democrat,ROONEY BOWEN,3462
+DOOLY,State Senate,13,Democrat,ROONEY BOWEN,2111
+TIFT,State Senate,13,Democrat,ROONEY BOWEN,4438
+TURNER,State Senate,13,Democrat,ROONEY BOWEN,1891
+WILCOX,State Senate,13,Democrat,ROONEY BOWEN,1132
+WORTH,State Senate,13,Democrat,ROONEY BOWEN,4327
+LEE,State Senate,14,Democrat,GEORGE HOOKS,5821
+MACON,State Senate,14,Democrat,GEORGE HOOKS,2194
+PEACH,State Senate,14,Democrat,GEORGE HOOKS,3446
+SCHLEY,State Senate,14,Democrat,GEORGE HOOKS,590
+STEWART,State Senate,14,Democrat,GEORGE HOOKS,658
+SUMTER,State Senate,14,Democrat,GEORGE HOOKS,5507
+TAYLOR,State Senate,14,Democrat,GEORGE HOOKS,1964
+TERRELL,State Senate,14,Democrat,GEORGE HOOKS,1451
+WEBSTER,State Senate,14,Democrat,GEORGE HOOKS,382
+CHATTAHOOCHEE,State Senate,15,Democrat,ED HARBISON,573
+MUSCOGEE,State Senate,15,Democrat,ED HARBISON,17529
+HARRIS,State Senate,16,Democrat,LOIS COHEN,3016
+MARION,State Senate,16,Democrat,LOIS COHEN,1208
+MUSCOGEE,State Senate,16,Democrat,LOIS COHEN,13167
+TALBOT,State Senate,16,Democrat,LOIS COHEN,1162
+HARRIS,State Senate,16,Republican,SETH HARP,4357
+MARION,State Senate,16,Republican,SETH HARP,833
+MUSCOGEE,State Senate,16,Republican,SETH HARP,19437
+TALBOT,State Senate,16,Republican,SETH HARP,607
+BUTTS,State Senate,17,Republican,MIKE CROTTS,3874
+HENRY,State Senate,17,Republican,MIKE CROTTS,29323
+NEWTON,State Senate,17,Republican,MIKE CROTTS,5354
+ROCKDALE,State Senate,17,Republican,MIKE CROTTS,9876
+BIBB,State Senate,18,Democrat,MILLER HEATH,622
+BLECKLEY,State Senate,18,Democrat,MILLER HEATH,842
+HOUSTON,State Senate,18,Democrat,MILLER HEATH,11492
+PULASKI,State Senate,18,Democrat,MILLER HEATH,691
+BIBB,State Senate,18,Republican,SONNY PERDUE,1277
+BLECKLEY,State Senate,18,Republican,SONNY PERDUE,2020
+HOUSTON,State Senate,18,Republican,SONNY PERDUE,25596
+PULASKI,State Senate,18,Republican,SONNY PERDUE,1788
+ATKINSON,State Senate,19,Democrat,VAN STREAT SR.,944
+BACON,State Senate,19,Democrat,VAN STREAT SR.,1291
+BEN HILL,State Senate,19,Democrat,VAN STREAT SR.,3927
+COFFEE,State Senate,19,Democrat,VAN STREAT SR.,4767
+DODGE,State Senate,19,Democrat,VAN STREAT SR.,2051
+IRWIN,State Senate,19,Democrat,VAN STREAT SR.,1430
+JEFF DAVIS,State Senate,19,Democrat,VAN STREAT SR.,1763
+TELFAIR,State Senate,19,Democrat,VAN STREAT SR.,1353
+CANDLER,State Senate,20,Democrat,HUGH GILLIS SR.,1210
+EMANUEL,State Senate,20,Democrat,HUGH GILLIS SR.,2718
+JEFFERSON,State Senate,20,Democrat,HUGH GILLIS SR.,561
+JOHNSON,State Senate,20,Democrat,HUGH GILLIS SR.,1444
+LAURENS,State Senate,20,Democrat,HUGH GILLIS SR.,6664
+TREUTLEN,State Senate,20,Democrat,HUGH GILLIS SR.,1364
+WASHINGTON,State Senate,20,Democrat,HUGH GILLIS SR.,2992
+WHEELER,State Senate,20,Democrat,HUGH GILLIS SR.,1107
+CANDLER,State Senate,20,Republican,FELIX C. MORING,620
+EMANUEL,State Senate,20,Republican,FELIX C. MORING,951
+JEFFERSON,State Senate,20,Republican,FELIX C. MORING,122
+JOHNSON,State Senate,20,Republican,FELIX C. MORING,656
+LAURENS,State Senate,20,Republican,FELIX C. MORING,2778
+TREUTLEN,State Senate,20,Republican,FELIX C. MORING,610
+WASHINGTON,State Senate,20,Republican,FELIX C. MORING,1171
+WHEELER,State Senate,20,Republican,FELIX C. MORING,381
+COBB,State Senate,21,Democrat,AKHTAR SADIQ,16402
+COBB,State Senate,21,Republican,BOB LAMUTT,46169
+RICHMOND,State Senate,22,Democrat,CHARLES W. WALKER,21830
+RICHMOND,State Senate,22,Republican,D. L. JOHNSON,7257
+BURKE,State Senate,23,Democrat,DON CHEEKS,3117
+GLASCOCK,State Senate,23,Democrat,DON CHEEKS,326
+JEFFERSON,State Senate,23,Democrat,DON CHEEKS,1971
+RICHMOND,State Senate,23,Democrat,DON CHEEKS,20073
+WARREN,State Senate,23,Democrat,DON CHEEKS,886
+COLUMBIA,State Senate,24,Republican,BEN 'JOEY' BRUSH,28414
+LINCOLN,State Senate,24,Republican,BEN 'JOEY' BRUSH,2099
+MCDUFFIE,State Senate,24,Republican,BEN 'JOEY' BRUSH,4551
+OGLETHORPE,State Senate,24,Republican,BEN 'JOEY' BRUSH,2875
+WILKES,State Senate,24,Republican,BEN 'JOEY' BRUSH,1392
+BALDWIN,State Senate,25,Democrat,FAYE SMITH,6389
+GREENE,State Senate,25,Democrat,FAYE SMITH,2610
+HANCOCK,State Senate,25,Democrat,FAYE SMITH,1976
+JASPER,State Senate,25,Democrat,FAYE SMITH,1689
+JONES,State Senate,25,Democrat,FAYE SMITH,3673
+MORGAN,State Senate,25,Democrat,FAYE SMITH,2640
+PUTNAM,State Senate,25,Democrat,FAYE SMITH,2955
+TALIAFERRO,State Senate,25,Democrat,FAYE SMITH,500
+BALDWIN,State Senate,25,Republican,JOHN GRANT,5412
+GREENE,State Senate,25,Republican,JOHN GRANT,2575
+HANCOCK,State Senate,25,Republican,JOHN GRANT,453
+JASPER,State Senate,25,Republican,JOHN GRANT,1727
+JONES,State Senate,25,Republican,JOHN GRANT,4248
+MORGAN,State Senate,25,Republican,JOHN GRANT,3152
+PUTNAM,State Senate,25,Republican,JOHN GRANT,3196
+TALIAFERRO,State Senate,25,Republican,JOHN GRANT,167
+BIBB,State Senate,26,Democrat,ROBERT BROWN,17923
+JONES,State Senate,26,Democrat,ROBERT BROWN,1
+TWIGGS,State Senate,26,Democrat,ROBERT BROWN,2207
+WILKINSON,State Senate,26,Democrat,ROBERT BROWN,1322
+BIBB,State Senate,26,Republican,GREG WILLIAMS,3700
+JONES,State Senate,26,Republican,GREG WILLIAMS,0
+TWIGGS,State Senate,26,Republican,GREG WILLIAMS,1110
+WILKINSON,State Senate,26,Republican,GREG WILLIAMS,681
+BIBB,State Senate,27,Democrat,JAMES PIERSON,7923
+CRAWFORD,State Senate,27,Democrat,JAMES PIERSON,1156
+LAMAR,State Senate,27,Democrat,JAMES PIERSON,2272
+MONROE,State Senate,27,Democrat,JAMES PIERSON,3436
+UPSON,State Senate,27,Democrat,JAMES PIERSON,3612
+BIBB,State Senate,27,Republican,SUSAN CABLE,17953
+CRAWFORD,State Senate,27,Republican,SUSAN CABLE,1526
+LAMAR,State Senate,27,Republican,SUSAN CABLE,2860
+MONROE,State Senate,27,Republican,SUSAN CABLE,4102
+UPSON,State Senate,27,Republican,SUSAN CABLE,4508
+COWETA,State Senate,28,Republican,MITCH SEABAUGH,23151
+FAYETTE,State Senate,28,Republican,MITCH SEABAUGH,18291
+SPALDING,State Senate,28,Republican,MITCH SEABAUGH,5443
+HEARD,State Senate,29,Democrat,DAN LEE,1407
+MERIWETHER,State Senate,29,Democrat,DAN LEE,4103
+PIKE,State Senate,29,Democrat,DAN LEE,1879
+SPALDING,State Senate,29,Democrat,DAN LEE,1458
+TROUP,State Senate,29,Democrat,DAN LEE,8795
+HEARD,State Senate,29,Republican,TOM MILLS,1636
+MERIWETHER,State Senate,29,Republican,TOM MILLS,2616
+PIKE,State Senate,29,Republican,TOM MILLS,2760
+SPALDING,State Senate,29,Republican,TOM MILLS,1080
+TROUP,State Senate,29,Republican,TOM MILLS,8894
+CARROLL,State Senate,30,Democrat,JOHN PAULK,9633
+DOUGLAS,State Senate,30,Democrat,JOHN PAULK,7254
+CARROLL,State Senate,30,Republican,BILL HAMRICK,15491
+DOUGLAS,State Senate,30,Republican,BILL HAMRICK,14984
+BARTOW,State Senate,31,Democrat,NATHAN DEAN,6862
+HARALSON,State Senate,31,Democrat,NATHAN DEAN,5869
+PAULDING,State Senate,31,Democrat,NATHAN DEAN,12648
+POLK,State Senate,31,Democrat,NATHAN DEAN,7515
+BARTOW,State Senate,31,Republican,DIANE COKER,3815
+HARALSON,State Senate,31,Republican,DIANE COKER,2365
+PAULDING,State Senate,31,Republican,DIANE COKER,10806
+POLK,State Senate,31,Republican,DIANE COKER,2679
+COBB,State Senate,32,Democrat,MIKE TODD,19862
+COBB,State Senate,32,Republican,CHARLIE TANKSLEY,32867
+COBB,State Senate,33,Democrat,STEVE THOMPSON,26608
+COBB,State Senate,33,Republican,ERIC ECKERT,12422
+CLAYTON,State Senate,34,Democrat,GREG HECHT,18542
+DOUGLAS,State Senate,34,Democrat,GREG HECHT,4716
+FAYETTE,State Senate,34,Democrat,GREG HECHT,8225
+FULTON,State Senate,34,Democrat,GREG HECHT,1210
+CLAYTON,State Senate,34,Republican,BRYAN HILTON,6777
+DOUGLAS,State Senate,34,Republican,BRYAN HILTON,3282
+FAYETTE,State Senate,34,Republican,BRYAN HILTON,9334
+FULTON,State Senate,34,Republican,BRYAN HILTON,941
+FULTON,State Senate,35,Democrat,DONZELLA JAMES,28588
+FULTON,State Senate,36,Democrat,DAVID SCOTT,21782
+CHEROKEE,State Senate,37,Republican,PHIL GINGREY,18035
+COBB,State Senate,37,Republican,PHIL GINGREY,51999
+COBB,State Senate,38,Democrat,HORACENA TATE,1860
+FULTON,State Senate,38,Democrat,HORACENA TATE,26734
+FULTON,State Senate,39,Democrat,VINCENT FORT,23031
+FULTON,State Senate,40,Republican,RUSTY PAUL,38965
+DEKALB,State Senate,41,Republican,BART LADD,19062
+GWINNETT,State Senate,41,Republican,BART LADD,15634
+DEKALB,State Senate,42,Democrat,MIKE POLAK,26485
+DEKALB,State Senate,42,Republican,MARIANNE SHAVER,14402
+DEKALB,State Senate,43,Democrat,CONNIE STOKES,46255
+CLAYTON,State Senate,44,Democrat,TERRELL A. STARR,27263
+BARROW,State Senate,45,Republican,BOB GUHL,4805
+NEWTON,State Senate,45,Republican,BOB GUHL,7912
+ROCKDALE,State Senate,45,Republican,BOB GUHL,7633
+WALTON,State Senate,45,Republican,BOB GUHL,14578
+BARROW,State Senate,46,Democrat,DOUG HAINES,2108
+CLARKE,State Senate,46,Democrat,DOUG HAINES,15429
+OCONEE,State Senate,46,Democrat,DOUG HAINES,3804
+BARROW,State Senate,46,Republican,JIM IVEY,3731
+CLARKE,State Senate,46,Republican,JIM IVEY,10001
+OCONEE,State Senate,46,Republican,JIM IVEY,7112
+BANKS,State Senate,47,Democrat,EDDIE MADDEN,2081
+ELBERT,State Senate,47,Democrat,EDDIE MADDEN,3784
+FRANKLIN,State Senate,47,Democrat,EDDIE MADDEN,2872
+HART,State Senate,47,Democrat,EDDIE MADDEN,3228
+JACKSON,State Senate,47,Democrat,EDDIE MADDEN,4647
+MADISON,State Senate,47,Democrat,EDDIE MADDEN,3357
+BANKS,State Senate,47,Republican,MIKE BEATTY,2483
+ELBERT,State Senate,47,Republican,MIKE BEATTY,2370
+FRANKLIN,State Senate,47,Republican,MIKE BEATTY,2999
+HART,State Senate,47,Republican,MIKE BEATTY,3387
+JACKSON,State Senate,47,Republican,MIKE BEATTY,6876
+MADISON,State Senate,47,Republican,MIKE BEATTY,3831
+FORSYTH,State Senate,48,Republican,BILLY RAY,17205
+FULTON,State Senate,48,Republican,BILLY RAY,8084
+GWINNETT,State Senate,48,Republican,BILLY RAY,58052
+FORSYTH,State Senate,49,Democrat,BOB VASS,2985
+HALL,State Senate,49,Democrat,BOB VASS,13986
+FORSYTH,State Senate,49,Republican,CASEY CAGLE,10520
+HALL,State Senate,49,Republican,CASEY CAGLE,23904
+DAWSON,State Senate,50,Democrat,CAROL JACKSON,2118
+HABERSHAM,State Senate,50,Democrat,CAROL JACKSON,4338
+LUMPKIN,State Senate,50,Democrat,CAROL JACKSON,2742
+RABUN,State Senate,50,Democrat,CAROL JACKSON,2669
+STEPHENS,State Senate,50,Democrat,CAROL JACKSON,4210
+TOWNS,State Senate,50,Democrat,CAROL JACKSON,2350
+UNION,State Senate,50,Democrat,CAROL JACKSON,3833
+WHITE,State Senate,50,Democrat,CAROL JACKSON,4593
+DAWSON,State Senate,50,Republican,GUY MIDDLETON,3659
+HABERSHAM,State Senate,50,Republican,GUY MIDDLETON,4891
+LUMPKIN,State Senate,50,Republican,GUY MIDDLETON,4070
+RABUN,State Senate,50,Republican,GUY MIDDLETON,2362
+STEPHENS,State Senate,50,Republican,GUY MIDDLETON,3459
+TOWNS,State Senate,50,Republican,GUY MIDDLETON,2047
+UNION,State Senate,50,Republican,GUY MIDDLETON,3086
+WHITE,State Senate,50,Republican,GUY MIDDLETON,2604
+CHEROKEE,State Senate,51,Republican,BILL STEPHENS,15621
+FANNIN,State Senate,51,Republican,BILL STEPHENS,5732
+GILMER,State Senate,51,Republican,BILL STEPHENS,4890
+GORDON,State Senate,51,Republican,BILL STEPHENS,7307
+PICKENS,State Senate,51,Republican,BILL STEPHENS,4271
+BARTOW,State Senate,52,Democrat,RICHARD O. MARABLE,5009
+FLOYD,State Senate,52,Democrat,RICHARD O. MARABLE,15944
+BARTOW,State Senate,52,Republican,CHUCK SHIFLETT,6615
+FLOYD,State Senate,52,Republican,CHUCK SHIFLETT,10887
+CHATTOOGA,State Senate,53,Democrat,SONNY HUGGINS,3907
+DADE,State Senate,53,Democrat,SONNY HUGGINS,1845
+WALKER,State Senate,53,Democrat,SONNY HUGGINS,7935
+WHITFIELD,State Senate,53,Democrat,SONNY HUGGINS,2548
+CHATTOOGA,State Senate,53,Republican,JEFF MULLIS,2558
+DADE,State Senate,53,Republican,JEFF MULLIS,2553
+WALKER,State Senate,53,Republican,JEFF MULLIS,10883
+WHITFIELD,State Senate,53,Republican,JEFF MULLIS,4165
+CATOOSA,State Senate,54,Republican,DON R. THOMAS,12627
+MURRAY,State Senate,54,Republican,DON R. THOMAS,5750
+WHITFIELD,State Senate,54,Republican,DON R. THOMAS,12717
+DEKALB,State Senate,55,Democrat,GLORIA BUTLER,30481
+CHEROKEE,State Senate,56,Republican,TOM PRICE,7990
+FULTON,State Senate,56,Republican,TOM PRICE,43077
+GWINNETT,State Senate,56,Republican,TOM PRICE,3839
