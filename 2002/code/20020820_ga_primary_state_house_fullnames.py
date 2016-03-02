@@ -1,24 +1,27 @@
 # python 3.5
 
-import sqlite3
 from urllib.request import urlopen
 
 from bs4 import BeautifulSoup
+import psycopg2
 
 
-conn = sqlite3.connect('openelections2002.db')
+conn = psycopg2.connect(
+    database='dev',
+    user='jreed',
+    host='127.0.0.1',
+    port='5432'
+)
 
 cur = conn.cursor()
 
-#cur.execute('create table ga_primary_state_house_20020820_fullnames (name text, last_name text, party text, district_number text, votes text, percent text);')
-
-html = urlopen("http://sos.ga.gov/elections/election_results/2000_0718/house.htm")
+html = urlopen("http://sos.ga.gov/elections/election_results/2002_0820/senate.htm")
 bs = BeautifulSoup(html.read(), "lxml")
 
 SQL = """
 INSERT INTO ga_primary_state_house_20020820_fullnames
     (name, party, district_number, votes, percent)
-    VALUES (:name, :party, :district_number, :votes, :percent)
+    VALUES (%(name)s, %(party)s, %(district_number)s, %(votes)s, %(percent)s);
 """
 
 districts = bs.findAll('h4')[1:]
@@ -26,7 +29,7 @@ names = bs.findAll('pre')
 
 for counter, name in enumerate(names):
 
-    district_info = districts[counter].get_text().replace("STATE REPRESENTATIVE - ", "")
+    district_info = districts[counter].get_text().replace("STATE SENATOR - ", "")
 
     if 'Republican' in district_info:
         party = 'Republican'
@@ -41,8 +44,8 @@ for counter, name in enumerate(names):
     name_parts = n.split('\n')[3:-1]
 
     for line in name_parts:
-        name = line[:25]
-        votes = line[25:30].replace(',', '').replace(' ', '')
+        name = line[:24]
+        votes = line[24:30].replace(',', '').replace(' ', '')
         percent = line[30:].replace(' ', '')
 
         data = {
@@ -53,9 +56,7 @@ for counter, name in enumerate(names):
             'percent': percent
         }
 
-        #print(data)
         cur.execute(SQL, data)
 
 conn.commit()
-cur.close()
 conn.close()
