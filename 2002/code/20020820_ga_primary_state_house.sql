@@ -47,7 +47,7 @@ where rtrim(name) = 'DON R. THOMAS';
 -- Check that we have good clean data...
 select *
 from ga_primary_state_house_20020820_fullnames
-order by last_name;
+order by district_number::int;
 
 ---------------------------------------------------------
 ---------------------------------------------------------
@@ -74,7 +74,7 @@ from ga_primary_state_house_20020820_county_votes
 group by district_number
 order by district_number::int;
 
-select max(district_number)
+select max(district_number::int)
 from ga_primary_state_house_20020820_county_votes;
 
 update ga_primary_state_house_20020820_county_votes
@@ -83,25 +83,16 @@ update ga_primary_state_house_20020820_county_votes
 update ga_primary_state_house_20020820_county_votes
   set county_votes = replace(county_votes, ',', '');
 
-update ga_primary_state_house_20020820_county_votes
-  set last_name = 'VON EPPS'
-where last_name = 'VON_EPPS';
+select *
+from ga_primary_state_house_20020820_county_votes
+where district_number = '12'
+order by last_name;
 
 update ga_primary_state_house_20020820_county_votes
-  set last_name = 'WESTMORELAND'
-where last_name = 'WESTMORLND'
-  and district_number = '104';
+  set last_name = 'VON BREMEN'
+where last_name = 'VON_BREMEN'
+  and district_number = '12';
 
-update ga_primary_state_house_20020820_county_votes
-  set last_name = 'BILLINGSLEA'
-where last_name = 'BILLNGSLEA'
-  and district_number = '96';
-
--- This person got zero votes and is not in the fullname website...
-delete from ga_primary_state_house_20020820_county_votes
-where last_name = 'COOPER'
-  and district_number = '86'
-  and total_votes = '0';
 
 -- QC to make sure we are matching both sides...
 select *
@@ -134,7 +125,7 @@ select distinct last_name, district_number
 from ga_primary_state_house_20020820_county_votes;
 
 -- Generate the final output .csv file...
-select b.county_name as country, 'State House' as office,
+select b.county_name as country, 'State Senate' as office,
   a.district_number as district, a.party as party,
   a.name as candidate, b.county_votes as votes
 from ga_primary_state_house_20020820_fullnames as a
