@@ -19,7 +19,7 @@ html = urlopen("http://sos.ga.gov/elections/election_results/2002_0820/senate.ht
 bs = BeautifulSoup(html.read(), "lxml")
 
 SQL = """
-INSERT INTO ga_primary_state_house_20020820_fullnames
+INSERT INTO ga_primary_state_senate_20020820_fullnames
     (name, party, district_number, votes, percent)
     VALUES (%(name)s, %(party)s, %(district_number)s, %(votes)s, %(percent)s);
 """

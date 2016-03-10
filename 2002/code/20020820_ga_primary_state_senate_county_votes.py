@@ -84,7 +84,7 @@ def extract_data(input_url):
 
 
 SQL = """
-INSERT INTO ga_primary_state_house_20020820_county_votes
+INSERT INTO ga_primary_state_senate_20020820_county_votes
     (last_name, party, total_votes,
         percent_votes, district_number,
         county_name, county_votes)
