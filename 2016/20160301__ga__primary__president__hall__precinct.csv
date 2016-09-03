@@ -1,0 +1,545 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Hall,,President,,REP,JEB BUSH,162,24,86,51,1
+Hall,01-Wilson,President,,REP,JEB BUSH,7,1,2,4,0
+Hall,02-Chicopee,President,,REP,JEB BUSH,3,0,2,1,0
+Hall,03-Oakwood I,President,,REP,JEB BUSH,5,2,1,2,0
+Hall,04-Oakwood II,President,,REP,JEB BUSH,2,0,2,0,0
+Hall,05-Flowery Branch I,President,,REP,JEB BUSH,11,0,5,6,0
+Hall,06-Flowery Branch II,President,,REP,JEB BUSH,2,0,0,2,0
+Hall,07-Roberts,President,,REP,JEB BUSH,10,2,3,5,0
+Hall,08-Morgan I,President,,REP,JEB BUSH,5,1,4,0,0
+Hall,09-Morgan II,President,,REP,JEB BUSH,4,0,3,1,0
+Hall,10-Candler,President,,REP,JEB BUSH,7,1,6,0,0
+Hall,11-Tadmore,President,,REP,JEB BUSH,5,0,3,2,0
+Hall,12-Glade,President,,REP,JEB BUSH,5,0,4,1,0
+Hall,13-Lula,President,,REP,JEB BUSH,3,0,2,1,0
+Hall,14-Clermont,President,,REP,JEB BUSH,5,0,3,2,0
+Hall,15-Quillians,President,,REP,JEB BUSH,2,0,2,0,0
+Hall,16-Bark Camp,President,,REP,JEB BUSH,6,0,5,1,0
+Hall,17-Chestatee,President,,REP,JEB BUSH,4,1,3,0,0
+Hall,18-Fork,President,,REP,JEB BUSH,5,2,1,2,0
+Hall,19-Whelchel,President,,REP,JEB BUSH,8,2,5,1,0
+Hall,20-West Whelchel,President,,REP,JEB BUSH,21,8,6,7,0
+Hall,21-Gainesville I,President,,REP,JEB BUSH,5,2,3,0,0
+Hall,22-Gainesville II,President,,REP,JEB BUSH,0,0,0,0,0
+Hall,23-Gainesville III,President,,REP,JEB BUSH,4,0,2,1,1
+Hall,24-Gainesville IV,President,,REP,JEB BUSH,2,0,1,1,0
+Hall,25-Gainesville V,President,,REP,JEB BUSH,0,0,0,0,0
+Hall,26-Gillsville,President,,REP,JEB BUSH,3,0,3,0,0
+Hall,214-Big Hickory,President,,REP,JEB BUSH,2,0,1,1,0
+Hall,28-Friendship I,President,,REP,JEB BUSH,11,2,4,5,0
+Hall,29-Friendship II,President,,REP,JEB BUSH,5,0,4,1,0
+Hall,30-Friendship III,President,,REP,JEB BUSH,6,0,4,2,0
+Hall,31-Friendship IV,President,,REP,JEB BUSH,4,0,2,2,0
+Hall,,President,,REP,BEN CARSON,2298,23,2040,232,3
+Hall,01-Wilson,President,,REP,BEN CARSON,93,1,73,19,0
+Hall,02-Chicopee,President,,REP,BEN CARSON,31,0,27,4,0
+Hall,03-Oakwood I,President,,REP,BEN CARSON,42,0,37,5,0
+Hall,04-Oakwood II,President,,REP,BEN CARSON,114,0,102,12,0
+Hall,05-Flowery Branch I,President,,REP,BEN CARSON,63,1,60,2,0
+Hall,06-Flowery Branch II,President,,REP,BEN CARSON,66,1,60,5,0
+Hall,07-Roberts,President,,REP,BEN CARSON,81,0,75,6,0
+Hall,08-Morgan I,President,,REP,BEN CARSON,113,0,106,7,0
+Hall,09-Morgan II,President,,REP,BEN CARSON,102,1,94,7,0
+Hall,10-Candler,President,,REP,BEN CARSON,115,0,104,11,0
+Hall,11-Tadmore,President,,REP,BEN CARSON,44,0,38,6,0
+Hall,12-Glade,President,,REP,BEN CARSON,62,0,57,5,0
+Hall,13-Lula,President,,REP,BEN CARSON,53,0,50,3,0
+Hall,14-Clermont,President,,REP,BEN CARSON,91,3,86,2,0
+Hall,15-Quillians,President,,REP,BEN CARSON,76,0,71,5,0
+Hall,16-Bark Camp,President,,REP,BEN CARSON,117,2,102,13,0
+Hall,17-Chestatee,President,,REP,BEN CARSON,89,2,75,12,0
+Hall,18-Fork,President,,REP,BEN CARSON,55,0,50,5,0
+Hall,19-Whelchel,President,,REP,BEN CARSON,101,1,88,12,0
+Hall,20-West Whelchel,President,,REP,BEN CARSON,110,4,96,10,0
+Hall,21-Gainesville I,President,,REP,BEN CARSON,89,2,76,11,0
+Hall,22-Gainesville II,President,,REP,BEN CARSON,6,0,6,0,0
+Hall,23-Gainesville III,President,,REP,BEN CARSON,50,0,41,9,0
+Hall,24-Gainesville IV,President,,REP,BEN CARSON,37,0,31,5,1
+Hall,25-Gainesville V,President,,REP,BEN CARSON,23,0,20,1,2
+Hall,26-Gillsville,President,,REP,BEN CARSON,37,0,37,0,0
+Hall,214-Big Hickory,President,,REP,BEN CARSON,93,3,74,16,0
+Hall,28-Friendship I,President,,REP,BEN CARSON,158,1,135,22,0
+Hall,29-Friendship II,President,,REP,BEN CARSON,68,1,58,9,0
+Hall,30-Friendship III,President,,REP,BEN CARSON,81,0,75,6,0
+Hall,31-Friendship IV,President,,REP,BEN CARSON,38,0,36,2,0
+Hall,,President,,REP,CHRIS CHRISTIE,26,0,18,8,0
+Hall,01-Wilson,President,,REP,CHRIS CHRISTIE,1,0,0,1,0
+Hall,02-Chicopee,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,03-Oakwood I,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,04-Oakwood II,President,,REP,CHRIS CHRISTIE,3,0,3,0,0
+Hall,05-Flowery Branch I,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
+Hall,06-Flowery Branch II,President,,REP,CHRIS CHRISTIE,2,0,1,1,0
+Hall,07-Roberts,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
+Hall,08-Morgan I,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,09-Morgan II,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,10-Candler,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,11-Tadmore,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,12-Glade,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,13-Lula,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,14-Clermont,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
+Hall,15-Quillians,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,16-Bark Camp,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,17-Chestatee,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,18-Fork,President,,REP,CHRIS CHRISTIE,3,0,2,1,0
+Hall,19-Whelchel,President,,REP,CHRIS CHRISTIE,1,0,0,1,0
+Hall,20-West Whelchel,President,,REP,CHRIS CHRISTIE,2,0,1,1,0
+Hall,21-Gainesville I,President,,REP,CHRIS CHRISTIE,3,0,2,1,0
+Hall,22-Gainesville II,President,,REP,CHRIS CHRISTIE,2,0,1,1,0
+Hall,23-Gainesville III,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,24-Gainesville IV,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,25-Gainesville V,President,,REP,CHRIS CHRISTIE,2,0,2,0,0
+Hall,26-Gillsville,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,214-Big Hickory,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,28-Friendship I,President,,REP,CHRIS CHRISTIE,2,0,1,1,0
+Hall,29-Friendship II,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,30-Friendship III,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Hall,31-Friendship IV,President,,REP,CHRIS CHRISTIE,2,0,2,0,0
+Hall,,President,,REP,TED CRUZ,9080,134,7667,1267,12
+Hall,01-Wilson,President,,REP,TED CRUZ,337,5,221,111,0
+Hall,02-Chicopee,President,,REP,TED CRUZ,95,3,66,26,0
+Hall,03-Oakwood I,President,,REP,TED CRUZ,117,2,100,15,0
+Hall,04-Oakwood II,President,,REP,TED CRUZ,361,1,303,57,0
+Hall,05-Flowery Branch I,President,,REP,TED CRUZ,365,5,326,34,0
+Hall,06-Flowery Branch II,President,,REP,TED CRUZ,236,3,208,23,2
+Hall,07-Roberts,President,,REP,TED CRUZ,399,7,351,41,0
+Hall,08-Morgan I,President,,REP,TED CRUZ,348,2,315,31,0
+Hall,09-Morgan II,President,,REP,TED CRUZ,398,2,339,57,0
+Hall,10-Candler,President,,REP,TED CRUZ,480,9,413,58,0
+Hall,11-Tadmore,President,,REP,TED CRUZ,203,2,183,18,0
+Hall,12-Glade,President,,REP,TED CRUZ,240,5,194,41,0
+Hall,13-Lula,President,,REP,TED CRUZ,292,4,257,31,0
+Hall,14-Clermont,President,,REP,TED CRUZ,349,3,305,41,0
+Hall,15-Quillians,President,,REP,TED CRUZ,307,6,258,41,2
+Hall,16-Bark Camp,President,,REP,TED CRUZ,539,0,463,75,1
+Hall,17-Chestatee,President,,REP,TED CRUZ,327,7,275,44,1
+Hall,18-Fork,President,,REP,TED CRUZ,280,3,227,50,0
+Hall,19-Whelchel,President,,REP,TED CRUZ,409,8,349,52,0
+Hall,20-West Whelchel,President,,REP,TED CRUZ,373,18,313,42,0
+Hall,21-Gainesville I,President,,REP,TED CRUZ,228,7,185,34,2
+Hall,22-Gainesville II,President,,REP,TED CRUZ,9,0,9,0,0
+Hall,23-Gainesville III,President,,REP,TED CRUZ,126,0,100,26,0
+Hall,24-Gainesville IV,President,,REP,TED CRUZ,128,1,103,22,2
+Hall,25-Gainesville V,President,,REP,TED CRUZ,75,1,61,13,0
+Hall,26-Gillsville,President,,REP,TED CRUZ,124,1,118,5,0
+Hall,214-Big Hickory,President,,REP,TED CRUZ,447,8,390,49,0
+Hall,28-Friendship I,President,,REP,TED CRUZ,702,15,557,130,0
+Hall,29-Friendship II,President,,REP,TED CRUZ,244,5,208,31,0
+Hall,30-Friendship III,President,,REP,TED CRUZ,355,1,305,47,2
+Hall,31-Friendship IV,President,,REP,TED CRUZ,187,0,165,22,0
+Hall,,President,,REP,CARLY FIORINA,25,3,15,7,0
+Hall,01-Wilson,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,02-Chicopee,President,,REP,CARLY FIORINA,1,0,1,0,0
+Hall,03-Oakwood I,President,,REP,CARLY FIORINA,1,0,1,0,0
+Hall,04-Oakwood II,President,,REP,CARLY FIORINA,2,0,2,0,0
+Hall,05-Flowery Branch I,President,,REP,CARLY FIORINA,1,0,1,0,0
+Hall,06-Flowery Branch II,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,07-Roberts,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,08-Morgan I,President,,REP,CARLY FIORINA,1,0,0,1,0
+Hall,09-Morgan II,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,10-Candler,President,,REP,CARLY FIORINA,1,0,1,0,0
+Hall,11-Tadmore,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,12-Glade,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,13-Lula,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,14-Clermont,President,,REP,CARLY FIORINA,2,0,1,1,0
+Hall,15-Quillians,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,16-Bark Camp,President,,REP,CARLY FIORINA,2,0,2,0,0
+Hall,17-Chestatee,President,,REP,CARLY FIORINA,1,1,0,0,0
+Hall,18-Fork,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,19-Whelchel,President,,REP,CARLY FIORINA,3,0,1,2,0
+Hall,20-West Whelchel,President,,REP,CARLY FIORINA,4,2,0,2,0
+Hall,21-Gainesville I,President,,REP,CARLY FIORINA,1,0,1,0,0
+Hall,22-Gainesville II,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,23-Gainesville III,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,24-Gainesville IV,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,25-Gainesville V,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,26-Gillsville,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,214-Big Hickory,President,,REP,CARLY FIORINA,0,0,0,0,0
+Hall,28-Friendship I,President,,REP,CARLY FIORINA,1,0,0,1,0
+Hall,29-Friendship II,President,,REP,CARLY FIORINA,1,0,1,0,0
+Hall,30-Friendship III,President,,REP,CARLY FIORINA,2,0,2,0,0
+Hall,31-Friendship IV,President,,REP,CARLY FIORINA,1,0,1,0,0
+Hall,,President,,REP,LINDSEY GRAHAM,5,0,4,1,0
+Hall,01-Wilson,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,02-Chicopee,President,,REP,LINDSEY GRAHAM,1,0,1,0,0
+Hall,03-Oakwood I,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,04-Oakwood II,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,05-Flowery Branch I,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,06-Flowery Branch II,President,,REP,LINDSEY GRAHAM,1,0,1,0,0
+Hall,07-Roberts,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,08-Morgan I,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,09-Morgan II,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,10-Candler,President,,REP,LINDSEY GRAHAM,1,0,1,0,0
+Hall,11-Tadmore,President,,REP,LINDSEY GRAHAM,1,0,1,0,0
+Hall,12-Glade,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,13-Lula,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,14-Clermont,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,15-Quillians,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,16-Bark Camp,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,17-Chestatee,President,,REP,LINDSEY GRAHAM,1,0,0,1,0
+Hall,18-Fork,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,19-Whelchel,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,20-West Whelchel,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,21-Gainesville I,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,22-Gainesville II,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,23-Gainesville III,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,24-Gainesville IV,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,25-Gainesville V,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,26-Gillsville,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,214-Big Hickory,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,28-Friendship I,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,29-Friendship II,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,30-Friendship III,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,31-Friendship IV,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Hall,,President,,REP,MIKE HUCKABEE,55,4,43,8,0
+Hall,01-Wilson,President,,REP,MIKE HUCKABEE,3,1,1,1,0
+Hall,02-Chicopee,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Hall,03-Oakwood I,President,,REP,MIKE HUCKABEE,4,0,2,2,0
+Hall,04-Oakwood II,President,,REP,MIKE HUCKABEE,2,0,2,0,0
+Hall,05-Flowery Branch I,President,,REP,MIKE HUCKABEE,1,0,1,0,0
+Hall,06-Flowery Branch II,President,,REP,MIKE HUCKABEE,2,0,1,1,0
+Hall,07-Roberts,President,,REP,MIKE HUCKABEE,2,0,2,0,0
+Hall,08-Morgan I,President,,REP,MIKE HUCKABEE,1,0,0,1,0
+Hall,09-Morgan II,President,,REP,MIKE HUCKABEE,2,1,1,0,0
+Hall,10-Candler,President,,REP,MIKE HUCKABEE,5,0,5,0,0
+Hall,11-Tadmore,President,,REP,MIKE HUCKABEE,4,0,2,2,0
+Hall,12-Glade,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Hall,13-Lula,President,,REP,MIKE HUCKABEE,1,0,1,0,0
+Hall,14-Clermont,President,,REP,MIKE HUCKABEE,1,0,1,0,0
+Hall,15-Quillians,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Hall,16-Bark Camp,President,,REP,MIKE HUCKABEE,2,0,2,0,0
+Hall,17-Chestatee,President,,REP,MIKE HUCKABEE,2,0,2,0,0
+Hall,18-Fork,President,,REP,MIKE HUCKABEE,3,0,3,0,0
+Hall,19-Whelchel,President,,REP,MIKE HUCKABEE,4,0,4,0,0
+Hall,20-West Whelchel,President,,REP,MIKE HUCKABEE,5,0,4,1,0
+Hall,21-Gainesville I,President,,REP,MIKE HUCKABEE,3,1,2,0,0
+Hall,22-Gainesville II,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Hall,23-Gainesville III,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Hall,24-Gainesville IV,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Hall,25-Gainesville V,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Hall,26-Gillsville,President,,REP,MIKE HUCKABEE,1,0,1,0,0
+Hall,214-Big Hickory,President,,REP,MIKE HUCKABEE,2,1,1,0,0
+Hall,28-Friendship I,President,,REP,MIKE HUCKABEE,2,0,2,0,0
+Hall,29-Friendship II,President,,REP,MIKE HUCKABEE,2,0,2,0,0
+Hall,30-Friendship III,President,,REP,MIKE HUCKABEE,1,0,1,0,0
+Hall,31-Friendship IV,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Hall,,President,,REP,JOHN R. KASICH,1537,44,1218,274,1
+Hall,01-Wilson,President,,REP,JOHN R. KASICH,91,3,53,35,0
+Hall,02-Chicopee,President,,REP,JOHN R. KASICH,5,0,2,3,0
+Hall,03-Oakwood I,President,,REP,JOHN R. KASICH,15,1,9,5,0
+Hall,04-Oakwood II,President,,REP,JOHN R. KASICH,68,0,49,19,0
+Hall,05-Flowery Branch I,President,,REP,JOHN R. KASICH,48,3,40,5,0
+Hall,06-Flowery Branch II,President,,REP,JOHN R. KASICH,30,1,23,6,0
+Hall,07-Roberts,President,,REP,JOHN R. KASICH,63,0,51,12,0
+Hall,08-Morgan I,President,,REP,JOHN R. KASICH,35,0,32,3,0
+Hall,09-Morgan II,President,,REP,JOHN R. KASICH,57,2,49,6,0
+Hall,10-Candler,President,,REP,JOHN R. KASICH,42,0,36,6,0
+Hall,11-Tadmore,President,,REP,JOHN R. KASICH,22,0,20,2,0
+Hall,12-Glade,President,,REP,JOHN R. KASICH,20,0,17,3,0
+Hall,13-Lula,President,,REP,JOHN R. KASICH,19,0,19,0,0
+Hall,14-Clermont,President,,REP,JOHN R. KASICH,38,1,33,4,0
+Hall,15-Quillians,President,,REP,JOHN R. KASICH,32,0,30,2,0
+Hall,16-Bark Camp,President,,REP,JOHN R. KASICH,46,2,29,15,0
+Hall,17-Chestatee,President,,REP,JOHN R. KASICH,44,0,32,12,0
+Hall,18-Fork,President,,REP,JOHN R. KASICH,56,2,40,14,0
+Hall,19-Whelchel,President,,REP,JOHN R. KASICH,75,1,65,9,0
+Hall,20-West Whelchel,President,,REP,JOHN R. KASICH,165,21,114,30,0
+Hall,21-Gainesville I,President,,REP,JOHN R. KASICH,76,2,64,10,0
+Hall,22-Gainesville II,President,,REP,JOHN R. KASICH,3,0,2,1,0
+Hall,23-Gainesville III,President,,REP,JOHN R. KASICH,26,0,21,5,0
+Hall,24-Gainesville IV,President,,REP,JOHN R. KASICH,47,0,34,13,0
+Hall,25-Gainesville V,President,,REP,JOHN R. KASICH,38,1,30,6,1
+Hall,26-Gillsville,President,,REP,JOHN R. KASICH,10,0,10,0,0
+Hall,214-Big Hickory,President,,REP,JOHN R. KASICH,68,0,59,9,0
+Hall,28-Friendship I,President,,REP,JOHN R. KASICH,169,2,146,21,0
+Hall,29-Friendship II,President,,REP,JOHN R. KASICH,33,2,27,4,0
+Hall,30-Friendship III,President,,REP,JOHN R. KASICH,40,0,33,7,0
+Hall,31-Friendship IV,President,,REP,JOHN R. KASICH,56,0,49,7,0
+Hall,,President,,REP,GEORGE PATAKI,3,0,3,0,0
+Hall,01-Wilson,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,02-Chicopee,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,03-Oakwood I,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,04-Oakwood II,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,05-Flowery Branch I,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,06-Flowery Branch II,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,07-Roberts,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,08-Morgan I,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,09-Morgan II,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,10-Candler,President,,REP,GEORGE PATAKI,2,0,2,0,0
+Hall,11-Tadmore,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,12-Glade,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,13-Lula,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,14-Clermont,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,15-Quillians,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,16-Bark Camp,President,,REP,GEORGE PATAKI,1,0,1,0,0
+Hall,17-Chestatee,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,18-Fork,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,19-Whelchel,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,20-West Whelchel,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,21-Gainesville I,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,22-Gainesville II,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,23-Gainesville III,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,24-Gainesville IV,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,25-Gainesville V,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,26-Gillsville,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,214-Big Hickory,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,28-Friendship I,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,29-Friendship II,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,30-Friendship III,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,31-Friendship IV,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Hall,,President,,REP,RAND PAUL,66,8,51,7,0
+Hall,01-Wilson,President,,REP,RAND PAUL,1,1,0,0,0
+Hall,02-Chicopee,President,,REP,RAND PAUL,0,0,0,0,0
+Hall,03-Oakwood I,President,,REP,RAND PAUL,1,0,1,0,0
+Hall,04-Oakwood II,President,,REP,RAND PAUL,1,0,1,0,0
+Hall,05-Flowery Branch I,President,,REP,RAND PAUL,6,0,6,0,0
+Hall,06-Flowery Branch II,President,,REP,RAND PAUL,2,0,2,0,0
+Hall,07-Roberts,President,,REP,RAND PAUL,0,0,0,0,0
+Hall,08-Morgan I,President,,REP,RAND PAUL,0,0,0,0,0
+Hall,09-Morgan II,President,,REP,RAND PAUL,9,1,7,1,0
+Hall,10-Candler,President,,REP,RAND PAUL,6,0,5,1,0
+Hall,11-Tadmore,President,,REP,RAND PAUL,1,0,1,0,0
+Hall,12-Glade,President,,REP,RAND PAUL,0,0,0,0,0
+Hall,13-Lula,President,,REP,RAND PAUL,1,0,1,0,0
+Hall,14-Clermont,President,,REP,RAND PAUL,2,2,0,0,0
+Hall,15-Quillians,President,,REP,RAND PAUL,0,0,0,0,0
+Hall,16-Bark Camp,President,,REP,RAND PAUL,4,1,3,0,0
+Hall,17-Chestatee,President,,REP,RAND PAUL,3,0,2,1,0
+Hall,18-Fork,President,,REP,RAND PAUL,1,0,1,0,0
+Hall,19-Whelchel,President,,REP,RAND PAUL,2,0,1,1,0
+Hall,20-West Whelchel,President,,REP,RAND PAUL,2,0,1,1,0
+Hall,21-Gainesville I,President,,REP,RAND PAUL,2,0,2,0,0
+Hall,22-Gainesville II,President,,REP,RAND PAUL,0,0,0,0,0
+Hall,23-Gainesville III,President,,REP,RAND PAUL,3,2,1,0,0
+Hall,24-Gainesville IV,President,,REP,RAND PAUL,4,0,4,0,0
+Hall,25-Gainesville V,President,,REP,RAND PAUL,2,0,1,1,0
+Hall,26-Gillsville,President,,REP,RAND PAUL,1,0,1,0,0
+Hall,214-Big Hickory,President,,REP,RAND PAUL,3,1,2,0,0
+Hall,28-Friendship I,President,,REP,RAND PAUL,2,0,1,1,0
+Hall,29-Friendship II,President,,REP,RAND PAUL,1,0,1,0,0
+Hall,30-Friendship III,President,,REP,RAND PAUL,5,0,5,0,0
+Hall,31-Friendship IV,President,,REP,RAND PAUL,1,0,1,0,0
+Hall,,President,,REP,MARCO RUBIO,6791,179,5452,1148,12
+Hall,01-Wilson,President,,REP,MARCO RUBIO,399,13,204,182,0
+Hall,02-Chicopee,President,,REP,MARCO RUBIO,63,0,58,5,0
+Hall,03-Oakwood I,President,,REP,MARCO RUBIO,64,1,56,6,1
+Hall,04-Oakwood II,President,,REP,MARCO RUBIO,261,4,210,47,0
+Hall,05-Flowery Branch I,President,,REP,MARCO RUBIO,236,6,202,27,1
+Hall,06-Flowery Branch II,President,,REP,MARCO RUBIO,180,7,153,20,0
+Hall,07-Roberts,President,,REP,MARCO RUBIO,361,8,310,43,0
+Hall,08-Morgan I,President,,REP,MARCO RUBIO,211,0,192,19,0
+Hall,09-Morgan II,President,,REP,MARCO RUBIO,274,8,225,41,0
+Hall,10-Candler,President,,REP,MARCO RUBIO,250,4,198,48,0
+Hall,11-Tadmore,President,,REP,MARCO RUBIO,92,0,78,13,1
+Hall,12-Glade,President,,REP,MARCO RUBIO,121,3,95,21,2
+Hall,13-Lula,President,,REP,MARCO RUBIO,99,0,93,6,0
+Hall,14-Clermont,President,,REP,MARCO RUBIO,190,1,160,29,0
+Hall,15-Quillians,President,,REP,MARCO RUBIO,139,7,110,22,0
+Hall,16-Bark Camp,President,,REP,MARCO RUBIO,271,10,221,40,0
+Hall,17-Chestatee,President,,REP,MARCO RUBIO,213,4,165,44,0
+Hall,18-Fork,President,,REP,MARCO RUBIO,261,6,193,62,0
+Hall,19-Whelchel,President,,REP,MARCO RUBIO,265,7,209,49,0
+Hall,20-West Whelchel,President,,REP,MARCO RUBIO,533,39,422,72,0
+Hall,21-Gainesville I,President,,REP,MARCO RUBIO,233,7,191,35,0
+Hall,22-Gainesville II,President,,REP,MARCO RUBIO,6,0,3,3,0
+Hall,23-Gainesville III,President,,REP,MARCO RUBIO,105,0,84,18,3
+Hall,24-Gainesville IV,President,,REP,MARCO RUBIO,135,1,108,23,3
+Hall,25-Gainesville V,President,,REP,MARCO RUBIO,77,1,63,13,0
+Hall,26-Gillsville,President,,REP,MARCO RUBIO,34,2,26,6,0
+Hall,214-Big Hickory,President,,REP,MARCO RUBIO,297,10,242,45,0
+Hall,28-Friendship I,President,,REP,MARCO RUBIO,751,24,626,100,1
+Hall,29-Friendship II,President,,REP,MARCO RUBIO,208,1,184,23,0
+Hall,30-Friendship III,President,,REP,MARCO RUBIO,240,3,200,37,0
+Hall,31-Friendship IV,President,,REP,MARCO RUBIO,222,2,171,49,0
+Hall,,President,,REP,RICK SANTORUM,13,0,11,2,0
+Hall,01-Wilson,President,,REP,RICK SANTORUM,1,0,0,1,0
+Hall,02-Chicopee,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,03-Oakwood I,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,04-Oakwood II,President,,REP,RICK SANTORUM,1,0,1,0,0
+Hall,05-Flowery Branch I,President,,REP,RICK SANTORUM,1,0,1,0,0
+Hall,06-Flowery Branch II,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,07-Roberts,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,08-Morgan I,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,09-Morgan II,President,,REP,RICK SANTORUM,1,0,1,0,0
+Hall,10-Candler,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,11-Tadmore,President,,REP,RICK SANTORUM,1,0,0,1,0
+Hall,12-Glade,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,13-Lula,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,14-Clermont,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,15-Quillians,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,16-Bark Camp,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,17-Chestatee,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,18-Fork,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,19-Whelchel,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,20-West Whelchel,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,21-Gainesville I,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,22-Gainesville II,President,,REP,RICK SANTORUM,1,0,1,0,0
+Hall,23-Gainesville III,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,24-Gainesville IV,President,,REP,RICK SANTORUM,1,0,1,0,0
+Hall,25-Gainesville V,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,26-Gillsville,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,214-Big Hickory,President,,REP,RICK SANTORUM,2,0,2,0,0
+Hall,28-Friendship I,President,,REP,RICK SANTORUM,3,0,3,0,0
+Hall,29-Friendship II,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,30-Friendship III,President,,REP,RICK SANTORUM,0,0,0,0,0
+Hall,31-Friendship IV,President,,REP,RICK SANTORUM,1,0,1,0,0
+Hall,,President,,REP,DONALD J. TRUMP,12562,239,9992,2306,25
+Hall,01-Wilson,President,,REP,DONALD J. TRUMP,609,15,342,252,0
+Hall,02-Chicopee,President,,REP,DONALD J. TRUMP,147,2,106,38,1
+Hall,03-Oakwood I,President,,REP,DONALD J. TRUMP,229,4,188,36,1
+Hall,04-Oakwood II,President,,REP,DONALD J. TRUMP,525,5,396,124,0
+Hall,05-Flowery Branch I,President,,REP,DONALD J. TRUMP,450,7,390,52,1
+Hall,06-Flowery Branch II,President,,REP,DONALD J. TRUMP,355,3,310,41,1
+Hall,07-Roberts,President,,REP,DONALD J. TRUMP,638,6,557,74,1
+Hall,08-Morgan I,President,,REP,DONALD J. TRUMP,457,4,365,86,2
+Hall,09-Morgan II,President,,REP,DONALD J. TRUMP,539,14,408,117,0
+Hall,10-Candler,President,,REP,DONALD J. TRUMP,481,6,389,84,2
+Hall,11-Tadmore,President,,REP,DONALD J. TRUMP,291,2,236,53,0
+Hall,12-Glade,President,,REP,DONALD J. TRUMP,397,25,311,60,1
+Hall,13-Lula,President,,REP,DONALD J. TRUMP,444,5,394,45,0
+Hall,14-Clermont,President,,REP,DONALD J. TRUMP,463,4,411,48,0
+Hall,15-Quillians,President,,REP,DONALD J. TRUMP,389,5,335,48,1
+Hall,16-Bark Camp,President,,REP,DONALD J. TRUMP,674,5,566,102,1
+Hall,17-Chestatee,President,,REP,DONALD J. TRUMP,466,5,339,122,0
+Hall,18-Fork,President,,REP,DONALD J. TRUMP,481,7,387,87,0
+Hall,19-Whelchel,President,,REP,DONALD J. TRUMP,531,11,418,102,0
+Hall,20-West Whelchel,President,,REP,DONALD J. TRUMP,480,25,348,107,0
+Hall,21-Gainesville I,President,,REP,DONALD J. TRUMP,297,7,225,65,0
+Hall,22-Gainesville II,President,,REP,DONALD J. TRUMP,21,0,16,5,0
+Hall,23-Gainesville III,President,,REP,DONALD J. TRUMP,213,5,148,60,0
+Hall,24-Gainesville IV,President,,REP,DONALD J. TRUMP,198,2,136,55,5
+Hall,25-Gainesville V,President,,REP,DONALD J. TRUMP,119,5,90,22,2
+Hall,26-Gillsville,President,,REP,DONALD J. TRUMP,162,7,143,10,2
+Hall,214-Big Hickory,President,,REP,DONALD J. TRUMP,528,15,450,62,1
+Hall,28-Friendship I,President,,REP,DONALD J. TRUMP,920,17,713,189,1
+Hall,29-Friendship II,President,,REP,DONALD J. TRUMP,377,15,314,48,0
+Hall,30-Friendship III,President,,REP,DONALD J. TRUMP,441,6,358,75,2
+Hall,31-Friendship IV,President,,REP,DONALD J. TRUMP,240,0,203,37,0
+Hall,,President,,DEM,HILLARY CLINTON,3495,97,2692,693,13
+Hall,01-Wilson,President,,DEM,HILLARY CLINTON,170,4,94,72,0
+Hall,02-Chicopee,President,,DEM,HILLARY CLINTON,73,3,54,16,0
+Hall,03-Oakwood I,President,,DEM,HILLARY CLINTON,68,2,53,12,1
+Hall,04-Oakwood II,President,,DEM,HILLARY CLINTON,122,0,99,23,0
+Hall,05-Flowery Branch I,President,,DEM,HILLARY CLINTON,88,0,78,10,0
+Hall,06-Flowery Branch II,President,,DEM,HILLARY CLINTON,94,3,79,12,0
+Hall,07-Roberts,President,,DEM,HILLARY CLINTON,124,5,94,24,1
+Hall,08-Morgan I,President,,DEM,HILLARY CLINTON,59,1,50,8,0
+Hall,09-Morgan II,President,,DEM,HILLARY CLINTON,158,2,137,19,0
+Hall,10-Candler,President,,DEM,HILLARY CLINTON,148,1,128,19,0
+Hall,11-Tadmore,President,,DEM,HILLARY CLINTON,214,3,165,45,1
+Hall,12-Glade,President,,DEM,HILLARY CLINTON,83,3,57,21,2
+Hall,13-Lula,President,,DEM,HILLARY CLINTON,54,0,49,5,0
+Hall,14-Clermont,President,,DEM,HILLARY CLINTON,36,0,30,6,0
+Hall,15-Quillians,President,,DEM,HILLARY CLINTON,29,1,23,5,0
+Hall,16-Bark Camp,President,,DEM,HILLARY CLINTON,103,3,82,18,0
+Hall,17-Chestatee,President,,DEM,HILLARY CLINTON,68,1,52,15,0
+Hall,18-Fork,President,,DEM,HILLARY CLINTON,70,2,54,14,0
+Hall,19-Whelchel,President,,DEM,HILLARY CLINTON,104,3,81,20,0
+Hall,20-West Whelchel,President,,DEM,HILLARY CLINTON,133,9,101,23,0
+Hall,21-Gainesville I,President,,DEM,HILLARY CLINTON,167,6,123,36,2
+Hall,22-Gainesville II,President,,DEM,HILLARY CLINTON,451,21,342,86,2
+Hall,23-Gainesville III,President,,DEM,HILLARY CLINTON,141,6,106,28,1
+Hall,24-Gainesville IV,President,,DEM,HILLARY CLINTON,109,4,75,30,0
+Hall,25-Gainesville V,President,,DEM,HILLARY CLINTON,54,0,46,8,0
+Hall,26-Gillsville,President,,DEM,HILLARY CLINTON,21,0,19,2,0
+Hall,214-Big Hickory,President,,DEM,HILLARY CLINTON,52,0,45,7,0
+Hall,28-Friendship I,President,,DEM,HILLARY CLINTON,275,14,182,79,0
+Hall,29-Friendship II,President,,DEM,HILLARY CLINTON,73,0,63,9,1
+Hall,30-Friendship III,President,,DEM,HILLARY CLINTON,97,0,81,14,2
+Hall,31-Friendship IV,President,,DEM,HILLARY CLINTON,57,0,50,7,0
+Hall,,President,,DEM,MARTIN O'MALLEY,24,0,19,5,0
+Hall,01-Wilson,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,02-Chicopee,President,,DEM,MARTIN O'MALLEY,1,0,0,1,0
+Hall,03-Oakwood I,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
+Hall,04-Oakwood II,President,,DEM,MARTIN O'MALLEY,4,0,3,1,0
+Hall,05-Flowery Branch I,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,06-Flowery Branch II,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,07-Roberts,President,,DEM,MARTIN O'MALLEY,2,0,2,0,0
+Hall,08-Morgan I,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
+Hall,09-Morgan II,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,10-Candler,President,,DEM,MARTIN O'MALLEY,3,0,2,1,0
+Hall,11-Tadmore,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
+Hall,12-Glade,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,13-Lula,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,14-Clermont,President,,DEM,MARTIN O'MALLEY,2,0,2,0,0
+Hall,15-Quillians,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,16-Bark Camp,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
+Hall,17-Chestatee,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,18-Fork,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
+Hall,19-Whelchel,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,20-West Whelchel,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,21-Gainesville I,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,22-Gainesville II,President,,DEM,MARTIN O'MALLEY,2,0,2,0,0
+Hall,23-Gainesville III,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
+Hall,24-Gainesville IV,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,25-Gainesville V,President,,DEM,MARTIN O'MALLEY,1,0,0,1,0
+Hall,26-Gillsville,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,214-Big Hickory,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,28-Friendship I,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
+Hall,29-Friendship II,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,30-Friendship III,President,,DEM,MARTIN O'MALLEY,2,0,1,1,0
+Hall,31-Friendship IV,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Hall,,President,,DEM,BERNIE SANDERS,2256,43,1897,305,11
+Hall,01-Wilson,President,,DEM,BERNIE SANDERS,111,2,81,28,0
+Hall,02-Chicopee,President,,DEM,BERNIE SANDERS,65,2,51,10,2
+Hall,03-Oakwood I,President,,DEM,BERNIE SANDERS,79,2,67,10,0
+Hall,04-Oakwood II,President,,DEM,BERNIE SANDERS,95,1,79,15,0
+Hall,05-Flowery Branch I,President,,DEM,BERNIE SANDERS,89,3,75,11,0
+Hall,06-Flowery Branch II,President,,DEM,BERNIE SANDERS,93,0,82,11,0
+Hall,07-Roberts,President,,DEM,BERNIE SANDERS,85,2,78,5,0
+Hall,08-Morgan I,President,,DEM,BERNIE SANDERS,41,2,32,7,0
+Hall,09-Morgan II,President,,DEM,BERNIE SANDERS,74,0,67,7,0
+Hall,10-Candler,President,,DEM,BERNIE SANDERS,116,2,105,9,0
+Hall,11-Tadmore,President,,DEM,BERNIE SANDERS,96,0,83,13,0
+Hall,12-Glade,President,,DEM,BERNIE SANDERS,52,0,46,5,1
+Hall,13-Lula,President,,DEM,BERNIE SANDERS,25,0,22,3,0
+Hall,14-Clermont,President,,DEM,BERNIE SANDERS,43,0,38,4,1
+Hall,15-Quillians,President,,DEM,BERNIE SANDERS,42,0,36,6,0
+Hall,16-Bark Camp,President,,DEM,BERNIE SANDERS,92,6,75,10,1
+Hall,17-Chestatee,President,,DEM,BERNIE SANDERS,70,1,60,9,0
+Hall,18-Fork,President,,DEM,BERNIE SANDERS,66,1,58,7,0
+Hall,19-Whelchel,President,,DEM,BERNIE SANDERS,69,1,61,7,0
+Hall,20-West Whelchel,President,,DEM,BERNIE SANDERS,68,3,52,13,0
+Hall,21-Gainesville I,President,,DEM,BERNIE SANDERS,92,3,78,10,1
+Hall,22-Gainesville II,President,,DEM,BERNIE SANDERS,54,0,46,8,0
+Hall,23-Gainesville III,President,,DEM,BERNIE SANDERS,124,2,105,15,2
+Hall,24-Gainesville IV,President,,DEM,BERNIE SANDERS,88,2,67,18,1
+Hall,25-Gainesville V,President,,DEM,BERNIE SANDERS,43,0,35,7,1
+Hall,26-Gillsville,President,,DEM,BERNIE SANDERS,8,0,6,2,0
+Hall,214-Big Hickory,President,,DEM,BERNIE SANDERS,48,2,38,7,1
+Hall,28-Friendship I,President,,DEM,BERNIE SANDERS,133,4,108,21,0
+Hall,29-Friendship II,President,,DEM,BERNIE SANDERS,57,0,53,4,0
+Hall,30-Friendship III,President,,DEM,BERNIE SANDERS,95,2,77,16,0
+Hall,31-Friendship IV,President,,DEM,BERNIE SANDERS,43,0,36,7,0
+Hall,,President,,DEM,MICHAEL STEINBERG,26,0,22,4,0
+Hall,01-Wilson,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Hall,02-Chicopee,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Hall,03-Oakwood I,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Hall,04-Oakwood II,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Hall,05-Flowery Branch I,President,,DEM,MICHAEL STEINBERG,2,0,2,0,0
+Hall,06-Flowery Branch II,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Hall,07-Roberts,President,,DEM,MICHAEL STEINBERG,2,0,2,0,0
+Hall,08-Morgan I,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Hall,09-Morgan II,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Hall,10-Candler,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Hall,11-Tadmore,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Hall,12-Glade,President,,DEM,MICHAEL STEINBERG,2,0,2,0,0
+Hall,13-Lula,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Hall,14-Clermont,President,,DEM,MICHAEL STEINBERG,3,0,1,2,0
+Hall,15-Quillians,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Hall,16-Bark Camp,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Hall,17-Chestatee,President,,DEM,MICHAEL STEINBERG,1,0,0,1,0
+Hall,18-Fork,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Hall,19-Whelchel,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Hall,20-West Whelchel,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Hall,21-Gainesville I,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Hall,22-Gainesville II,President,,DEM,MICHAEL STEINBERG,2,0,1,1,0
+Hall,23-Gainesville III,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Hall,24-Gainesville IV,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Hall,25-Gainesville V,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Hall,26-Gillsville,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Hall,214-Big Hickory,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Hall,28-Friendship I,President,,DEM,MICHAEL STEINBERG,3,0,3,0,0
+Hall,29-Friendship II,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Hall,30-Friendship III,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Hall,31-Friendship IV,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0

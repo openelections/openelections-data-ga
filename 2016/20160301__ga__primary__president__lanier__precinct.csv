@@ -1,0 +1,86 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Lanier,,President,,REP,JEB BUSH,4,0,1,3,0
+Lanier,Lakeland,President,,REP,JEB BUSH,3,0,1,2,0
+Lanier,Sirmans,President,,REP,JEB BUSH,1,0,0,1,0
+Lanier,Stockton,President,,REP,JEB BUSH,0,0,0,0,0
+Lanier,Westside,President,,REP,JEB BUSH,0,0,0,0,0
+Lanier,,President,,REP,BEN CARSON,50,0,37,13,0
+Lanier,Lakeland,President,,REP,BEN CARSON,34,0,23,11,0
+Lanier,Sirmans,President,,REP,BEN CARSON,3,0,1,2,0
+Lanier,Stockton,President,,REP,BEN CARSON,5,0,5,0,0
+Lanier,Westside,President,,REP,BEN CARSON,8,0,8,0,0
+Lanier,,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
+Lanier,Lakeland,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
+Lanier,Sirmans,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Lanier,Stockton,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Lanier,Westside,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Lanier,,President,,REP,TED CRUZ,197,0,150,46,1
+Lanier,Lakeland,President,,REP,TED CRUZ,98,0,66,31,1
+Lanier,Sirmans,President,,REP,TED CRUZ,17,0,17,0,0
+Lanier,Stockton,President,,REP,TED CRUZ,47,0,42,5,0
+Lanier,Westside,President,,REP,TED CRUZ,35,0,25,10,0
+Lanier,,President,,REP,CARLY FIORINA,0,0,0,0,0
+Lanier,Lakeland,President,,REP,CARLY FIORINA,0,0,0,0,0
+Lanier,Sirmans,President,,REP,CARLY FIORINA,0,0,0,0,0
+Lanier,Stockton,President,,REP,CARLY FIORINA,0,0,0,0,0
+Lanier,Westside,President,,REP,CARLY FIORINA,0,0,0,0,0
+Lanier,,President,,REP,LINDSEY GRAHAM,1,0,0,1,0
+Lanier,Lakeland,President,,REP,LINDSEY GRAHAM,1,0,0,1,0
+Lanier,Sirmans,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Lanier,Stockton,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Lanier,Westside,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Lanier,,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Lanier,Lakeland,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Lanier,Sirmans,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Lanier,Stockton,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Lanier,Westside,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Lanier,,President,,REP,JOHN R. KASICH,24,0,17,7,0
+Lanier,Lakeland,President,,REP,JOHN R. KASICH,11,0,8,3,0
+Lanier,Sirmans,President,,REP,JOHN R. KASICH,7,0,6,1,0
+Lanier,Stockton,President,,REP,JOHN R. KASICH,5,0,2,3,0
+Lanier,Westside,President,,REP,JOHN R. KASICH,1,0,1,0,0
+Lanier,,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Lanier,Lakeland,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Lanier,Sirmans,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Lanier,Stockton,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Lanier,Westside,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Lanier,,President,,REP,RAND PAUL,1,0,0,1,0
+Lanier,Lakeland,President,,REP,RAND PAUL,1,0,0,1,0
+Lanier,Sirmans,President,,REP,RAND PAUL,0,0,0,0,0
+Lanier,Stockton,President,,REP,RAND PAUL,0,0,0,0,0
+Lanier,Westside,President,,REP,RAND PAUL,0,0,0,0,0
+Lanier,,President,,REP,MARCO RUBIO,113,1,76,34,2
+Lanier,Lakeland,President,,REP,MARCO RUBIO,65,1,43,21,0
+Lanier,Sirmans,President,,REP,MARCO RUBIO,17,0,14,2,1
+Lanier,Stockton,President,,REP,MARCO RUBIO,17,0,9,8,0
+Lanier,Westside,President,,REP,MARCO RUBIO,14,0,10,3,1
+Lanier,,President,,REP,RICK SANTORUM,0,0,0,0,0
+Lanier,Lakeland,President,,REP,RICK SANTORUM,0,0,0,0,0
+Lanier,Sirmans,President,,REP,RICK SANTORUM,0,0,0,0,0
+Lanier,Stockton,President,,REP,RICK SANTORUM,0,0,0,0,0
+Lanier,Westside,President,,REP,RICK SANTORUM,0,0,0,0,0
+Lanier,,President,,REP,DONALD J. TRUMP,515,6,361,145,3
+Lanier,Lakeland,President,,REP,DONALD J. TRUMP,323,4,217,101,1
+Lanier,Sirmans,President,,REP,DONALD J. TRUMP,53,1,39,12,1
+Lanier,Stockton,President,,REP,DONALD J. TRUMP,92,1,65,25,1
+Lanier,Westside,President,,REP,DONALD J. TRUMP,47,0,40,7,0
+Lanier,,President,,DEM,HILLARY CLINTON,234,2,189,43,0
+Lanier,Lakeland,President,,DEM,HILLARY CLINTON,177,1,143,33,0
+Lanier,Sirmans,President,,DEM,HILLARY CLINTON,17,1,15,1,0
+Lanier,Stockton,President,,DEM,HILLARY CLINTON,14,0,10,4,0
+Lanier,Westside,President,,DEM,HILLARY CLINTON,26,0,21,5,0
+Lanier,,President,,DEM,MARTIN O'MALLEY,3,0,2,1,0
+Lanier,Lakeland,President,,DEM,MARTIN O'MALLEY,2,0,1,1,0
+Lanier,Sirmans,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Lanier,Stockton,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Lanier,Westside,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
+Lanier,,President,,DEM,BERNIE SANDERS,70,0,50,19,1
+Lanier,Lakeland,President,,DEM,BERNIE SANDERS,46,0,32,14,0
+Lanier,Sirmans,President,,DEM,BERNIE SANDERS,7,0,4,2,1
+Lanier,Stockton,President,,DEM,BERNIE SANDERS,9,0,9,0,0
+Lanier,Westside,President,,DEM,BERNIE SANDERS,8,0,5,3,0
+Lanier,,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Lanier,Lakeland,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Lanier,Sirmans,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Lanier,Stockton,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Lanier,Westside,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
