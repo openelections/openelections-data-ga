@@ -3,9 +3,13 @@ import requests
 import zipfile, StringIO
 import unicodecsv
 
-def statewide_results():
+def statewide_results(url):
+    j = clarify.Jurisdiction(url=url, level="state")
+    r = requests.get(j.report_url('xml'), stream=True)
+    z = zipfile.ZipFile(StringIO.StringIO(r.content))
+    z.extractall()
     p = clarify.Parser()
-    p.parse("/Users/derekwillis/Downloads/detail.xml")
+    p.parse("detail.xml")
     results = []
     for result in p.results:
         candidate = result.choice.text
@@ -58,9 +62,13 @@ def precinct_results(county_name, filename):
         candidate = result.choice.text
         office, district = parse_office(result.contest.text)
         party = parse_party(result.contest.text)
-        if party is None and '(' in candidate:
-            candidate, party = candidate.split('(')
-            candidate = candidate.strip()
+        if '(' in candidate and party is None:
+            if '(I)' in candidate:
+                candidate, party = candidate.split('(I)')
+                candidate = candidate.strip() + ' (I)'
+            else:
+                candidate, party = candidate.split('(')
+                candidate = candidate.strip()
             party = party.replace(')','').strip()
         county = p.region
         if result.jurisdiction:
@@ -88,21 +96,25 @@ def precinct_results(county_name, filename):
 
 
 def parse_office(office_text):
-    office = office_text.split(',')[0]
+    if ' - ' in office_text:
+        office = office_text.split('-')[0]
+    else:
+        office = office_text.split(',')[0]
     if ', District' in office_text:
         district = office_text.split(', District')[1].split(' - ')[0].strip()
-    elif office == 'United States Senator':
+    elif 'United States Senator' in office_text:
+        office = 'United States Senator'
         district = None
     elif ',' in office_text:
         district = office_text.split(', ')[1]
     else:
         district = None
-    return [office, district]
+    return [office.strip(), district]
 
 def parse_party(office_text):
-    if ' REP' in office_text:
+    if '- REP' in office_text:
         party = 'REP'
-    elif ' DEM' in office_text:
+    elif '- DEM' in office_text:
         party = 'DEM'
     else:
         party = None
