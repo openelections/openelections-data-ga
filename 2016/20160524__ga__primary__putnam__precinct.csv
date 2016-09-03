@@ -1,0 +1,292 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Putnam,,United States Senator,,REP,MARY KAY BACALLAO,357,11,224,122,0
+Putnam,101,United States Senator,,REP,MARY KAY BACALLAO,67,6,38,23,0
+Putnam,104,United States Senator,,REP,MARY KAY BACALLAO,66,1,35,30,0
+Putnam,105,United States Senator,,REP,MARY KAY BACALLAO,85,2,51,32,0
+Putnam,106,United States Senator,,REP,MARY KAY BACALLAO,51,0,33,18,0
+Putnam,107,United States Senator,,REP,MARY KAY BACALLAO,88,2,67,19,0
+Putnam,,United States Senator,,REP,DERRICK GRAYSON,333,5,210,118,0
+Putnam,101,United States Senator,,REP,DERRICK GRAYSON,57,1,34,22,0
+Putnam,104,United States Senator,,REP,DERRICK GRAYSON,68,2,28,38,0
+Putnam,105,United States Senator,,REP,DERRICK GRAYSON,73,2,48,23,0
+Putnam,106,United States Senator,,REP,DERRICK GRAYSON,49,0,33,16,0
+Putnam,107,United States Senator,,REP,DERRICK GRAYSON,86,0,67,19,0
+Putnam,,United States Senator,,REP,JOHNNY ISAKSON (I),2811,102,1671,1037,1
+Putnam,101,United States Senator,,REP,JOHNNY ISAKSON (I),509,19,244,246,0
+Putnam,104,United States Senator,,REP,JOHNNY ISAKSON (I),522,25,245,251,1
+Putnam,105,United States Senator,,REP,JOHNNY ISAKSON (I),742,27,487,228,0
+Putnam,106,United States Senator,,REP,JOHNNY ISAKSON (I),256,4,175,77,0
+Putnam,107,United States Senator,,REP,JOHNNY ISAKSON (I),782,27,520,235,0
+Putnam,,United States Senator,,DEM,JIM BARKSDALE,182,13,120,49,0
+Putnam,101,United States Senator,,DEM,JIM BARKSDALE,57,3,32,22,0
+Putnam,104,United States Senator,,DEM,JIM BARKSDALE,81,9,56,16,0
+Putnam,105,United States Senator,,DEM,JIM BARKSDALE,10,0,8,2,0
+Putnam,106,United States Senator,,DEM,JIM BARKSDALE,2,0,2,0,0
+Putnam,107,United States Senator,,DEM,JIM BARKSDALE,32,1,22,9,0
+Putnam,,United States Senator,,DEM,CHERYL COPELAND,197,16,125,56,0
+Putnam,101,United States Senator,,DEM,CHERYL COPELAND,48,1,30,17,0
+Putnam,104,United States Senator,,DEM,CHERYL COPELAND,90,11,53,26,0
+Putnam,105,United States Senator,,DEM,CHERYL COPELAND,21,0,16,5,0
+Putnam,106,United States Senator,,DEM,CHERYL COPELAND,4,2,2,0,0
+Putnam,107,United States Senator,,DEM,CHERYL COPELAND,34,2,24,8,0
+Putnam,,United States Senator,,DEM,JOHN F COYNE III,13,3,9,1,0
+Putnam,101,United States Senator,,DEM,JOHN F COYNE III,2,0,2,0,0
+Putnam,104,United States Senator,,DEM,JOHN F COYNE III,7,1,5,1,0
+Putnam,105,United States Senator,,DEM,JOHN F COYNE III,0,0,0,0,0
+Putnam,106,United States Senator,,DEM,JOHN F COYNE III,0,0,0,0,0
+Putnam,107,United States Senator,,DEM,JOHN F COYNE III,4,2,2,0,0
+Putnam,,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,404,14,240,150,0
+Putnam,101,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,59,5,25,29,0
+Putnam,104,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,79,3,37,39,0
+Putnam,105,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,98,4,60,34,0
+Putnam,106,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,59,1,39,19,0
+Putnam,107,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,109,1,79,29,0
+Putnam,,Public Service Commission,2,REP,TIM ECHOLS (I),2293,81,1388,823,1
+Putnam,101,Public Service Commission,2,REP,TIM ECHOLS (I),413,15,199,199,0
+Putnam,104,Public Service Commission,2,REP,TIM ECHOLS (I),416,16,197,202,1
+Putnam,105,Public Service Commission,2,REP,TIM ECHOLS (I),621,24,411,186,0
+Putnam,106,Public Service Commission,2,REP,TIM ECHOLS (I),204,2,149,53,0
+Putnam,107,Public Service Commission,2,REP,TIM ECHOLS (I),639,24,432,183,0
+Putnam,,Public Service Commission,2,REP,MICHELLE MILLER,585,11,346,228,0
+Putnam,101,Public Service Commission,2,REP,MICHELLE MILLER,132,3,77,52,0
+Putnam,104,Public Service Commission,2,REP,MICHELLE MILLER,120,3,60,57,0
+Putnam,105,Public Service Commission,2,REP,MICHELLE MILLER,111,1,68,42,0
+Putnam,106,Public Service Commission,2,REP,MICHELLE MILLER,68,0,37,31,0
+Putnam,107,Public Service Commission,2,REP,MICHELLE MILLER,154,4,104,46,0
+Putnam,,U.S. Representative,10,REP,JODY HICE (I),3112,96,1869,1146,1
+Putnam,101,U.S. Representative,10,REP,JODY HICE (I),554,20,272,262,0
+Putnam,104,U.S. Representative,10,REP,JODY HICE (I),584,19,272,292,1
+Putnam,105,U.S. Representative,10,REP,JODY HICE (I),806,25,533,248,0
+Putnam,106,U.S. Representative,10,REP,JODY HICE (I),311,3,208,100,0
+Putnam,107,U.S. Representative,10,REP,JODY HICE (I),857,29,584,244,0
+Putnam,,State Senator,25,REP,BURT JONES (I),2995,97,1845,1052,1
+Putnam,101,State Senator,25,REP,BURT JONES (I),538,20,269,249,0
+Putnam,104,State Senator,25,REP,BURT JONES (I),568,19,273,275,1
+Putnam,105,State Senator,25,REP,BURT JONES (I),763,26,519,218,0
+Putnam,106,State Senator,25,REP,BURT JONES (I),296,3,204,89,0
+Putnam,107,State Senator,25,REP,BURT JONES (I),830,29,580,221,0
+Putnam,,State Representative,120,REP,TREY RHODES (I),2058,69,1207,782,0
+Putnam,101,State Representative,120,REP,TREY RHODES (I),540,21,277,242,0
+Putnam,104,State Representative,120,REP,TREY RHODES (I),443,19,199,225,0
+Putnam,105,State Representative,120,REP,TREY RHODES (I),776,26,527,223,0
+Putnam,106,State Representative,120,REP,TREY RHODES (I),299,3,204,92,0
+Putnam,,State Representative,145,REP,TOM GLOVER,540,10,364,166,0
+Putnam,101,State Representative,145,REP,TOM GLOVER,0,0,0,0,0
+Putnam,104,State Representative,145,REP,TOM GLOVER,56,0,31,25,0
+Putnam,107,State Representative,145,REP,TOM GLOVER,484,10,333,141,0
+Putnam,,State Representative,145,REP,RICKY A WILLIAMS,536,22,358,156,0
+Putnam,101,State Representative,145,REP,RICKY A WILLIAMS,0,0,0,0,0
+Putnam,104,State Representative,145,REP,RICKY A WILLIAMS,82,1,48,33,0
+Putnam,107,State Representative,145,REP,RICKY A WILLIAMS,454,21,310,123,0
+Putnam,,State Representative,145,DEM,FLOYD GRIFFIN,66,3,49,14,0
+Putnam,101,State Representative,145,DEM,FLOYD GRIFFIN,0,0,0,0,0
+Putnam,104,State Representative,145,DEM,FLOYD GRIFFIN,32,3,29,0,0
+Putnam,107,State Representative,145,DEM,FLOYD GRIFFIN,34,0,20,14,0
+Putnam,,State Representative,145,DEM,JOHN REID,166,22,103,41,0
+Putnam,101,State Representative,145,DEM,JOHN REID,1,0,0,1,0
+Putnam,104,State Representative,145,DEM,JOHN REID,139,19,85,35,0
+Putnam,107,State Representative,145,DEM,JOHN REID,26,3,18,5,0
+Putnam,,State Representative,145,DEM,HAROLD B.  SIMMONS,11,3,6,2,0
+Putnam,101,State Representative,145,DEM,HAROLD B.  SIMMONS,0,0,0,0,0
+Putnam,104,State Representative,145,DEM,HAROLD B.  SIMMONS,2,0,1,1,0
+Putnam,107,State Representative,145,DEM,HAROLD B.  SIMMONS,9,3,5,1,0
+Putnam,,District Attorney,Ocmulgee Circuit - REP,REP,STEPHEN BRADLEY (I),2886,96,1749,1040,1
+Putnam,101,District Attorney,Ocmulgee Circuit - REP,REP,STEPHEN BRADLEY (I),507,18,243,246,0
+Putnam,104,District Attorney,Ocmulgee Circuit - REP,REP,STEPHEN BRADLEY (I),562,19,272,270,1
+Putnam,105,District Attorney,Ocmulgee Circuit - REP,REP,STEPHEN BRADLEY (I),717,25,476,216,0
+Putnam,106,District Attorney,Ocmulgee Circuit - REP,REP,STEPHEN BRADLEY (I),291,3,196,92,0
+Putnam,107,District Attorney,Ocmulgee Circuit - REP,REP,STEPHEN BRADLEY (I),809,31,562,216,0
+Putnam,,Superior Court Clerk - R,,I,S. PERRY,3082,98,1846,1137,1
+Putnam,101,Superior Court Clerk - R,,I,S. PERRY,576,20,285,271,0
+Putnam,104,Superior Court Clerk - R,,I,S. PERRY,609,21,288,299,1
+Putnam,105,Superior Court Clerk - R,,I,S. PERRY,762,25,500,237,0
+Putnam,106,Superior Court Clerk - R,,I,S. PERRY,300,3,201,96,0
+Putnam,107,Superior Court Clerk - R,,I,S. PERRY,835,29,572,234,0
+Putnam,,Sheriff - R,,,"D. J. SCOTT, JR.",1412,41,822,548,1
+Putnam,101,Sheriff - R,,,"D. J. SCOTT, JR.",330,14,167,149,0
+Putnam,104,Sheriff - R,,,"D. J. SCOTT, JR.",344,12,175,156,1
+Putnam,105,Sheriff - R,,,"D. J. SCOTT, JR.",287,6,190,91,0
+Putnam,106,Sheriff - R,,,"D. J. SCOTT, JR.",135,0,87,48,0
+Putnam,107,Sheriff - R,,,"D. J. SCOTT, JR.",316,9,203,104,0
+Putnam,,Sheriff - R,,I,H. SILLS,2304,82,1407,815,0
+Putnam,101,Sheriff - R,,I,H. SILLS,366,13,185,168,0
+Putnam,104,Sheriff - R,,I,H. SILLS,378,17,169,192,0
+Putnam,105,Sheriff - R,,I,H. SILLS,650,26,421,203,0
+Putnam,106,Sheriff - R,,I,H. SILLS,235,4,163,68,0
+Putnam,107,Sheriff - R,,I,H. SILLS,675,22,469,184,0
+Putnam,,Tax Commissioner - R,,I,P. LANCASTER,3179,99,1910,1169,1
+Putnam,101,Tax Commissioner - R,,I,P. LANCASTER,597,21,295,281,0
+Putnam,104,Tax Commissioner - R,,I,P. LANCASTER,610,20,294,295,1
+Putnam,105,Tax Commissioner - R,,I,P. LANCASTER,801,24,524,253,0
+Putnam,106,Tax Commissioner - R,,I,P. LANCASTER,319,4,216,99,0
+Putnam,107,Tax Commissioner - R,,I,P. LANCASTER,852,30,581,241,0
+Putnam,,Coroner - R,,I,G. MCELHENNEY,3114,98,1862,1153,1
+Putnam,101,Coroner - R,,I,G. MCELHENNEY,593,21,291,281,0
+Putnam,104,Coroner - R,,I,G. MCELHENNEY,609,20,290,298,1
+Putnam,105,Coroner - R,,I,G. MCELHENNEY,762,24,498,240,0
+Putnam,106,Coroner - R,,I,G. MCELHENNEY,307,4,207,96,0
+Putnam,107,Coroner - R,,I,G. MCELHENNEY,843,29,576,238,0
+Putnam,,County Comm Chair - R,,I,S. HERSEY,2814,91,1731,991,1
+Putnam,101,County Comm Chair - R,,I,S. HERSEY,494,19,245,230,0
+Putnam,104,County Comm Chair - R,,I,S. HERSEY,511,18,257,235,1
+Putnam,105,County Comm Chair - R,,I,S. HERSEY,739,24,489,226,0
+Putnam,106,County Comm Chair - R,,I,S. HERSEY,280,3,193,84,0
+Putnam,107,County Comm Chair - R,,I,S. HERSEY,790,27,547,216,0
+Putnam,,County Comm 1 - R,,,K. IRVIN,515,20,250,245,0
+Putnam,101,County Comm 1 - R,,,K. IRVIN,515,20,250,245,0
+Putnam,,County Comm 1 - D,,I,F. WARD,111,4,70,37,0
+Putnam,101,County Comm 1 - D,,I,F. WARD,111,4,70,37,0
+Putnam,,County Comm 2 - R,,,D. W. BROWN,598,18,296,284,0
+Putnam,104,County Comm 2 - R,,,D. W. BROWN,598,18,296,284,0
+Putnam,,County Comm 2 - D,,I,J. B. REID,194,21,137,36,0
+Putnam,104,County Comm 2 - D,,I,J. B. REID,194,21,137,36,0
+Putnam,,County Comm 3 - R,,I,A. FOSTER,852,26,568,258,0
+Putnam,105,County Comm 3 - R,,I,A. FOSTER,630,25,409,196,0
+Putnam,106,County Comm 3 - R,,I,A. FOSTER,222,1,159,62,0
+Putnam,,County Comm 3 - R,,,S. PITOCCHELLI,411,10,258,143,0
+Putnam,105,County Comm 3 - R,,,S. PITOCCHELLI,279,7,176,96,0
+Putnam,106,County Comm 3 - R,,,S. PITOCCHELLI,132,3,82,47,0
+Putnam,,County Comm 4 - R,,,T. ADDISON,853,28,584,241,0
+Putnam,107,County Comm 4 - R,,,T. ADDISON,853,28,584,241,0
+Putnam,,BOE 3 - R,,I,S. WEINER,823,27,526,270,0
+Putnam,101,BOE 3 - R,,I,S. WEINER,38,1,14,23,0
+Putnam,104,BOE 3 - R,,I,S. WEINER,30,2,18,10,0
+Putnam,105,BOE 3 - R,,I,S. WEINER,755,24,494,237,0
+Putnam,,BOE 4 - R,,I,T. LAWRENCE,633,21,450,162,0
+Putnam,107,BOE 4 - R,,I,T. LAWRENCE,633,21,450,162,0
+Putnam,,BOE 5 - R,,,L. GILPIN,664,19,402,243,0
+Putnam,104,BOE 5 - R,,,L. GILPIN,213,8,98,107,0
+Putnam,106,BOE 5 - R,,,L. GILPIN,293,3,197,93,0
+Putnam,107,BOE 5 - R,,,L. GILPIN,158,8,107,43,0
+Putnam,,Republican Party Question 1,,REP,YES,2702,75,1662,964,1
+Putnam,101,Republican Party Question 1,,REP,YES,504,16,264,224,0
+Putnam,104,Republican Party Question 1,,REP,YES,548,18,265,264,1
+Putnam,105,Republican Party Question 1,,REP,YES,702,20,469,213,0
+Putnam,106,Republican Party Question 1,,REP,YES,242,2,172,68,0
+Putnam,107,Republican Party Question 1,,REP,YES,706,19,492,195,0
+Putnam,,Republican Party Question 1,,REP,NO,904,39,510,355,0
+Putnam,101,Republican Party Question 1,,REP,NO,155,8,66,81,0
+Putnam,104,Republican Party Question 1,,REP,NO,141,9,64,68,0
+Putnam,105,Republican Party Question 1,,REP,NO,225,11,134,80,0
+Putnam,106,Republican Party Question 1,,REP,NO,115,1,70,44,0
+Putnam,107,Republican Party Question 1,,REP,NO,268,10,176,82,0
+Putnam,,Democratic Party Question 1,,DEM,YES,417,27,279,111,0
+Putnam,101,Democratic Party Question 1,,DEM,YES,109,1,67,41,0
+Putnam,104,Democratic Party Question 1,,DEM,YES,202,20,140,42,0
+Putnam,105,Democratic Party Question 1,,DEM,YES,30,0,21,9,0
+Putnam,106,Democratic Party Question 1,,DEM,YES,6,2,4,0,0
+Putnam,107,Democratic Party Question 1,,DEM,YES,70,4,47,19,0
+Putnam,,Democratic Party Question 1,,DEM,NO,54,8,34,12,0
+Putnam,101,Democratic Party Question 1,,DEM,NO,15,2,10,3,0
+Putnam,104,Democratic Party Question 1,,DEM,NO,21,3,11,7,0
+Putnam,105,Democratic Party Question 1,,DEM,NO,7,1,6,0,0
+Putnam,106,Democratic Party Question 1,,DEM,NO,1,0,1,0,0
+Putnam,107,Democratic Party Question 1,,DEM,NO,10,2,6,2,0
+Putnam,,Democratic Party Question 2,,DEM,YES,437,32,290,115,0
+Putnam,101,Democratic Party Question 2,,DEM,YES,117,4,70,43,0
+Putnam,104,Democratic Party Question 2,,DEM,YES,209,22,144,43,0
+Putnam,105,Democratic Party Question 2,,DEM,YES,36,0,27,9,0
+Putnam,106,Democratic Party Question 2,,DEM,YES,6,2,4,0,0
+Putnam,107,Democratic Party Question 2,,DEM,YES,69,4,45,20,0
+Putnam,,Democratic Party Question 2,,DEM,NO,39,4,25,10,0
+Putnam,101,Democratic Party Question 2,,DEM,NO,9,0,6,3,0
+Putnam,104,Democratic Party Question 2,,DEM,NO,16,2,8,6,0
+Putnam,105,Democratic Party Question 2,,DEM,NO,3,0,3,0,0
+Putnam,106,Democratic Party Question 2,,DEM,NO,1,0,1,0,0
+Putnam,107,Democratic Party Question 2,,DEM,NO,10,2,7,1,0
+Putnam,,Democratic Party Question 3,,DEM,YES,387,29,256,102,0
+Putnam,101,Democratic Party Question 3,,DEM,YES,103,4,58,41,0
+Putnam,104,Democratic Party Question 3,,DEM,YES,172,16,121,35,0
+Putnam,105,Democratic Party Question 3,,DEM,YES,38,1,30,7,0
+Putnam,106,Democratic Party Question 3,,DEM,YES,6,2,4,0,0
+Putnam,107,Democratic Party Question 3,,DEM,YES,68,6,43,19,0
+Putnam,,Democratic Party Question 3,,DEM,NO,87,7,58,22,0
+Putnam,101,Democratic Party Question 3,,DEM,NO,23,0,19,4,0
+Putnam,104,Democratic Party Question 3,,DEM,NO,50,7,29,14,0
+Putnam,105,Democratic Party Question 3,,DEM,NO,2,0,0,2,0
+Putnam,106,Democratic Party Question 3,,DEM,NO,1,0,1,0,0
+Putnam,107,Democratic Party Question 3,,DEM,NO,11,0,9,2,0
+Putnam,,Democratic Party Question 4,,DEM,YES,381,24,257,100,0
+Putnam,101,Democratic Party Question 4,,DEM,YES,107,3,64,40,0
+Putnam,104,Democratic Party Question 4,,DEM,YES,174,16,122,36,0
+Putnam,105,Democratic Party Question 4,,DEM,YES,33,0,24,9,0
+Putnam,106,Democratic Party Question 4,,DEM,YES,7,2,5,0,0
+Putnam,107,Democratic Party Question 4,,DEM,YES,60,3,42,15,0
+Putnam,,Democratic Party Question 4,,DEM,NO,86,11,53,22,0
+Putnam,101,Democratic Party Question 4,,DEM,NO,18,1,12,5,0
+Putnam,104,Democratic Party Question 4,,DEM,NO,43,7,25,11,0
+Putnam,105,Democratic Party Question 4,,DEM,NO,6,0,6,0,0
+Putnam,106,Democratic Party Question 4,,DEM,NO,0,0,0,0,0
+Putnam,107,Democratic Party Question 4,,DEM,NO,19,3,10,6,0
+Putnam,,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,3287,124,2017,1145,1
+Putnam,101,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,606,22,309,275,0
+Putnam,104,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,706,38,372,295,1
+Putnam,105,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,805,24,539,242,0
+Putnam,106,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,302,5,202,95,0
+Putnam,107,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,868,35,595,238,0
+Putnam,,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,3309,129,2021,1158,1
+Putnam,101,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,619,22,320,277,0
+Putnam,104,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,719,40,376,302,1
+Putnam,105,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,815,26,540,249,0
+Putnam,106,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,297,5,201,91,0
+Putnam,107,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,859,36,584,239,0
+Putnam,,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,3280,125,2010,1145,0
+Putnam,101,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,618,24,317,277,0
+Putnam,104,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,705,37,368,300,0
+Putnam,105,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,803,25,535,243,0
+Putnam,106,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,296,5,203,88,0
+Putnam,107,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,858,34,587,237,0
+Putnam,,Superior Court Judge,Ocmulgee Circuit (Burleson),I,ALISON T. BURLESON,3280,123,2013,1144,0
+Putnam,101,Superior Court Judge,Ocmulgee Circuit (Burleson),I,ALISON T. BURLESON,608,22,311,275,0
+Putnam,104,Superior Court Judge,Ocmulgee Circuit (Burleson),I,ALISON T. BURLESON,705,36,370,299,0
+Putnam,105,Superior Court Judge,Ocmulgee Circuit (Burleson),I,ALISON T. BURLESON,805,24,537,244,0
+Putnam,106,Superior Court Judge,Ocmulgee Circuit (Burleson),I,ALISON T. BURLESON,300,5,206,89,0
+Putnam,107,Superior Court Judge,Ocmulgee Circuit (Burleson),I,ALISON T. BURLESON,862,36,589,237,0
+Putnam,,Superior Court Judge,Ocmulgee Circuit (Prior),I,WILLIAM A. PRIOR JR,3400,127,2057,1216,0
+Putnam,101,Superior Court Judge,Ocmulgee Circuit (Prior),I,WILLIAM A. PRIOR JR,659,24,331,304,0
+Putnam,104,Superior Court Judge,Ocmulgee Circuit (Prior),I,WILLIAM A. PRIOR JR,743,37,385,321,0
+Putnam,105,Superior Court Judge,Ocmulgee Circuit (Prior),I,WILLIAM A. PRIOR JR,809,26,536,247,0
+Putnam,106,Superior Court Judge,Ocmulgee Circuit (Prior),I,WILLIAM A. PRIOR JR,304,5,206,93,0
+Putnam,107,Superior Court Judge,Ocmulgee Circuit (Prior),I,WILLIAM A. PRIOR JR,885,35,599,251,0
+Putnam,,Superior Court Judge,Ocmulgee Circuit (Trammell),I,BRENDA HOLBERT TRAMMELL,3341,132,2023,1186,0
+Putnam,101,Superior Court Judge,Ocmulgee Circuit (Trammell),I,BRENDA HOLBERT TRAMMELL,635,25,318,292,0
+Putnam,104,Superior Court Judge,Ocmulgee Circuit (Trammell),I,BRENDA HOLBERT TRAMMELL,740,40,382,318,0
+Putnam,105,Superior Court Judge,Ocmulgee Circuit (Trammell),I,BRENDA HOLBERT TRAMMELL,805,26,538,241,0
+Putnam,106,Superior Court Judge,Ocmulgee Circuit (Trammell),I,BRENDA HOLBERT TRAMMELL,296,5,200,91,0
+Putnam,107,Superior Court Judge,Ocmulgee Circuit (Trammell),I,BRENDA HOLBERT TRAMMELL,865,36,585,244,0
+Putnam,,Superior Court Judge,Ocmulgee Circuit (Wingfield),,DAWN M. BASKIN,1292,64,762,466,0
+Putnam,101,Superior Court Judge,Ocmulgee Circuit (Wingfield),,DAWN M. BASKIN,305,11,166,128,0
+Putnam,104,Superior Court Judge,Ocmulgee Circuit (Wingfield),,DAWN M. BASKIN,356,24,198,134,0
+Putnam,105,Superior Court Judge,Ocmulgee Circuit (Wingfield),,DAWN M. BASKIN,248,12,159,77,0
+Putnam,106,Superior Court Judge,Ocmulgee Circuit (Wingfield),,DAWN M. BASKIN,87,1,50,36,0
+Putnam,107,Superior Court Judge,Ocmulgee Circuit (Wingfield),,DAWN M. BASKIN,296,16,189,91,0
+Putnam,,Superior Court Judge,Ocmulgee Circuit (Wingfield),,CHRISTIAN G. HENRY,521,22,290,209,0
+Putnam,101,Superior Court Judge,Ocmulgee Circuit (Wingfield),,CHRISTIAN G. HENRY,106,5,50,51,0
+Putnam,104,Superior Court Judge,Ocmulgee Circuit (Wingfield),,CHRISTIAN G. HENRY,104,6,36,62,0
+Putnam,105,Superior Court Judge,Ocmulgee Circuit (Wingfield),,CHRISTIAN G. HENRY,145,8,92,45,0
+Putnam,106,Superior Court Judge,Ocmulgee Circuit (Wingfield),,CHRISTIAN G. HENRY,54,0,41,13,0
+Putnam,107,Superior Court Judge,Ocmulgee Circuit (Wingfield),,CHRISTIAN G. HENRY,112,3,71,38,0
+Putnam,,Superior Court Judge,Ocmulgee Circuit (Wingfield),,AMANDA S. PETTY,2050,61,1288,700,1
+Putnam,101,Superior Court Judge,Ocmulgee Circuit (Wingfield),,AMANDA S. PETTY,344,12,178,154,0
+Putnam,104,Superior Court Judge,Ocmulgee Circuit (Wingfield),,AMANDA S. PETTY,416,18,222,175,1
+Putnam,105,Superior Court Judge,Ocmulgee Circuit (Wingfield),,AMANDA S. PETTY,484,9,320,155,0
+Putnam,106,Superior Court Judge,Ocmulgee Circuit (Wingfield),,AMANDA S. PETTY,206,5,142,59,0
+Putnam,107,Superior Court Judge,Ocmulgee Circuit (Wingfield),,AMANDA S. PETTY,600,17,426,157,0
+Putnam,,Probate Judge,,I,P. S. UNDERKOFLER,3406,130,2084,1192,0
+Putnam,101,Probate Judge,,I,P. S. UNDERKOFLER,654,25,335,294,0
+Putnam,104,Probate Judge,,I,P. S. UNDERKOFLER,756,38,400,318,0
+Putnam,105,Probate Judge,,I,P. S. UNDERKOFLER,816,26,541,249,0
+Putnam,106,Probate Judge,,I,P. S. UNDERKOFLER,301,5,206,90,0
+Putnam,107,Probate Judge,,I,P. S. UNDERKOFLER,879,36,602,241,0
+Putnam,,Special - ESPLOST,,,YES,2666,95,1650,920,1
+Putnam,101,Special - ESPLOST,,,YES,519,21,270,228,0
+Putnam,104,Special - ESPLOST,,,YES,603,32,334,236,1
+Putnam,105,Special - ESPLOST,,,YES,629,14,427,188,0
+Putnam,106,Special - ESPLOST,,,YES,231,4,153,74,0
+Putnam,107,Special - ESPLOST,,,YES,684,24,466,194,0
+Putnam,,Special - ESPLOST,,,NO,1457,59,854,544,0
+Putnam,101,Special - ESPLOST,,,NO,281,8,145,128,0
+Putnam,104,Special - ESPLOST,,,NO,315,18,147,150,0
+Putnam,105,Special - ESPLOST,,,NO,350,18,218,114,0
+Putnam,106,Special - ESPLOST,,,NO,134,2,92,40,0
+Putnam,107,Special - ESPLOST,,,NO,377,13,252,112,0

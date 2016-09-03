@@ -1,0 +1,341 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Peach,,United States Senator,,REP,MARY KAY BACALLAO,100,2,66,32,0
+Peach,BYRON #1,United States Senator,,REP,MARY KAY BACALLAO,34,0,25,9,0
+Peach,BYRON #2,United States Senator,,REP,MARY KAY BACALLAO,26,0,15,11,0
+Peach,CLAUDE,United States Senator,,REP,MARY KAY BACALLAO,1,0,1,0,0
+Peach,FORT VALLEY #1,United States Senator,,REP,MARY KAY BACALLAO,20,2,12,6,0
+Peach,FORT VALLEY #2,United States Senator,,REP,MARY KAY BACALLAO,3,0,2,1,0
+Peach,FORT VALLEY #3,United States Senator,,REP,MARY KAY BACALLAO,5,0,4,1,0
+Peach,POWERSVILLE,United States Senator,,REP,MARY KAY BACALLAO,11,0,7,4,0
+Peach,,United States Senator,,REP,DERRICK GRAYSON,120,1,73,46,0
+Peach,BYRON #1,United States Senator,,REP,DERRICK GRAYSON,27,0,16,11,0
+Peach,BYRON #2,United States Senator,,REP,DERRICK GRAYSON,34,0,21,13,0
+Peach,CLAUDE,United States Senator,,REP,DERRICK GRAYSON,9,0,7,2,0
+Peach,FORT VALLEY #1,United States Senator,,REP,DERRICK GRAYSON,23,1,12,10,0
+Peach,FORT VALLEY #2,United States Senator,,REP,DERRICK GRAYSON,6,0,3,3,0
+Peach,FORT VALLEY #3,United States Senator,,REP,DERRICK GRAYSON,4,0,4,0,0
+Peach,POWERSVILLE,United States Senator,,REP,DERRICK GRAYSON,17,0,10,7,0
+Peach,,United States Senator,,REP,JOHNNY ISAKSON (I),998,39,526,433,0
+Peach,BYRON #1,United States Senator,,REP,JOHNNY ISAKSON (I),247,9,128,110,0
+Peach,BYRON #2,United States Senator,,REP,JOHNNY ISAKSON (I),265,16,157,92,0
+Peach,CLAUDE,United States Senator,,REP,JOHNNY ISAKSON (I),46,1,33,12,0
+Peach,FORT VALLEY #1,United States Senator,,REP,JOHNNY ISAKSON (I),239,13,97,129,0
+Peach,FORT VALLEY #2,United States Senator,,REP,JOHNNY ISAKSON (I),68,0,25,43,0
+Peach,FORT VALLEY #3,United States Senator,,REP,JOHNNY ISAKSON (I),18,0,8,10,0
+Peach,POWERSVILLE,United States Senator,,REP,JOHNNY ISAKSON (I),115,0,78,37,0
+Peach,,United States Senator,,DEM,JIM BARKSDALE,530,12,289,228,1
+Peach,BYRON #1,United States Senator,,DEM,JIM BARKSDALE,49,0,37,12,0
+Peach,BYRON #2,United States Senator,,DEM,JIM BARKSDALE,50,0,35,15,0
+Peach,CLAUDE,United States Senator,,DEM,JIM BARKSDALE,4,0,4,0,0
+Peach,FORT VALLEY #1,United States Senator,,DEM,JIM BARKSDALE,119,4,68,46,1
+Peach,FORT VALLEY #2,United States Senator,,DEM,JIM BARKSDALE,97,4,40,53,0
+Peach,FORT VALLEY #3,United States Senator,,DEM,JIM BARKSDALE,193,4,89,100,0
+Peach,POWERSVILLE,United States Senator,,DEM,JIM BARKSDALE,18,0,16,2,0
+Peach,,United States Senator,,DEM,CHERYL COPELAND,514,13,252,249,0
+Peach,BYRON #1,United States Senator,,DEM,CHERYL COPELAND,52,1,35,16,0
+Peach,BYRON #2,United States Senator,,DEM,CHERYL COPELAND,71,2,39,30,0
+Peach,CLAUDE,United States Senator,,DEM,CHERYL COPELAND,3,0,0,3,0
+Peach,FORT VALLEY #1,United States Senator,,DEM,CHERYL COPELAND,117,8,52,57,0
+Peach,FORT VALLEY #2,United States Senator,,DEM,CHERYL COPELAND,100,1,48,51,0
+Peach,FORT VALLEY #3,United States Senator,,DEM,CHERYL COPELAND,151,1,66,84,0
+Peach,POWERSVILLE,United States Senator,,DEM,CHERYL COPELAND,20,0,12,8,0
+Peach,,United States Senator,,DEM,JOHN F COYNE III,35,1,9,25,0
+Peach,BYRON #1,United States Senator,,DEM,JOHN F COYNE III,4,0,1,3,0
+Peach,BYRON #2,United States Senator,,DEM,JOHN F COYNE III,5,0,2,3,0
+Peach,CLAUDE,United States Senator,,DEM,JOHN F COYNE III,1,0,1,0,0
+Peach,FORT VALLEY #1,United States Senator,,DEM,JOHN F COYNE III,6,1,0,5,0
+Peach,FORT VALLEY #2,United States Senator,,DEM,JOHN F COYNE III,5,0,0,5,0
+Peach,FORT VALLEY #3,United States Senator,,DEM,JOHN F COYNE III,13,0,4,9,0
+Peach,POWERSVILLE,United States Senator,,DEM,JOHN F COYNE III,1,0,1,0,0
+Peach,,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,152,6,81,65,0
+Peach,BYRON #1,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,47,0,23,24,0
+Peach,BYRON #2,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,42,1,29,12,0
+Peach,CLAUDE,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,5,1,4,0,0
+Peach,FORT VALLEY #1,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,36,4,13,19,0
+Peach,FORT VALLEY #2,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,4,0,2,2,0
+Peach,FORT VALLEY #3,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,3,0,3,0,0
+Peach,POWERSVILLE,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,15,0,7,8,0
+Peach,,Public Service Commission,2,REP,TIM ECHOLS (I),812,29,437,346,0
+Peach,BYRON #1,Public Service Commission,2,REP,TIM ECHOLS (I),188,7,106,75,0
+Peach,BYRON #2,Public Service Commission,2,REP,TIM ECHOLS (I),211,12,124,75,0
+Peach,CLAUDE,Public Service Commission,2,REP,TIM ECHOLS (I),40,0,27,13,0
+Peach,FORT VALLEY #1,Public Service Commission,2,REP,TIM ECHOLS (I),194,10,83,101,0
+Peach,FORT VALLEY #2,Public Service Commission,2,REP,TIM ECHOLS (I),64,0,27,37,0
+Peach,FORT VALLEY #3,Public Service Commission,2,REP,TIM ECHOLS (I),16,0,7,9,0
+Peach,POWERSVILLE,Public Service Commission,2,REP,TIM ECHOLS (I),99,0,63,36,0
+Peach,,Public Service Commission,2,REP,MICHELLE MILLER,163,2,97,64,0
+Peach,BYRON #1,Public Service Commission,2,REP,MICHELLE MILLER,43,0,23,20,0
+Peach,BYRON #2,Public Service Commission,2,REP,MICHELLE MILLER,50,1,29,20,0
+Peach,CLAUDE,Public Service Commission,2,REP,MICHELLE MILLER,8,0,7,1,0
+Peach,FORT VALLEY #1,Public Service Commission,2,REP,MICHELLE MILLER,35,1,19,15,0
+Peach,FORT VALLEY #2,Public Service Commission,2,REP,MICHELLE MILLER,4,0,0,4,0
+Peach,FORT VALLEY #3,Public Service Commission,2,REP,MICHELLE MILLER,4,0,3,1,0
+Peach,POWERSVILLE,Public Service Commission,2,REP,MICHELLE MILLER,19,0,16,3,0
+Peach,,U.S. Representative,2,REP,GREG DUKE,691,24,376,291,0
+Peach,BYRON #1,U.S. Representative,2,REP,GREG DUKE,180,5,109,66,0
+Peach,BYRON #2,U.S. Representative,2,REP,GREG DUKE,157,9,95,53,0
+Peach,CLAUDE,U.S. Representative,2,REP,GREG DUKE,28,1,19,8,0
+Peach,FORT VALLEY #1,U.S. Representative,2,REP,GREG DUKE,178,9,78,91,0
+Peach,FORT VALLEY #2,U.S. Representative,2,REP,GREG DUKE,52,0,18,34,0
+Peach,FORT VALLEY #3,U.S. Representative,2,REP,GREG DUKE,11,0,6,5,0
+Peach,POWERSVILLE,U.S. Representative,2,REP,GREG DUKE,85,0,51,34,0
+Peach,,U.S. Representative,2,REP,DIANE VANN,151,5,85,61,0
+Peach,BYRON #1,U.S. Representative,2,REP,DIANE VANN,32,0,17,15,0
+Peach,BYRON #2,U.S. Representative,2,REP,DIANE VANN,57,2,34,21,0
+Peach,CLAUDE,U.S. Representative,2,REP,DIANE VANN,8,0,7,1,0
+Peach,FORT VALLEY #1,U.S. Representative,2,REP,DIANE VANN,32,3,13,16,0
+Peach,FORT VALLEY #2,U.S. Representative,2,REP,DIANE VANN,5,0,2,3,0
+Peach,FORT VALLEY #3,U.S. Representative,2,REP,DIANE VANN,5,0,2,3,0
+Peach,POWERSVILLE,U.S. Representative,2,REP,DIANE VANN,12,0,10,2,0
+Peach,,U.S. Representative,2,DEM,SANFORD BISHOP (I),1244,32,614,597,1
+Peach,BYRON #1,U.S. Representative,2,DEM,SANFORD BISHOP (I),117,1,76,40,0
+Peach,BYRON #2,U.S. Representative,2,DEM,SANFORD BISHOP (I),143,3,87,53,0
+Peach,CLAUDE,U.S. Representative,2,DEM,SANFORD BISHOP (I),8,0,5,3,0
+Peach,FORT VALLEY #1,U.S. Representative,2,DEM,SANFORD BISHOP (I),262,18,115,128,1
+Peach,FORT VALLEY #2,U.S. Representative,2,DEM,SANFORD BISHOP (I),247,5,112,130,0
+Peach,FORT VALLEY #3,U.S. Representative,2,DEM,SANFORD BISHOP (I),423,4,186,233,0
+Peach,POWERSVILLE,U.S. Representative,2,DEM,SANFORD BISHOP (I),44,1,33,10,0
+Peach,,State Senator,18,REP,JOHN F KENNEDY (I),1016,33,551,432,0
+Peach,BYRON #1,State Senator,18,REP,JOHN F KENNEDY (I),263,7,141,115,0
+Peach,BYRON #2,State Senator,18,REP,JOHN F KENNEDY (I),267,13,161,93,0
+Peach,CLAUDE,State Senator,18,REP,JOHN F KENNEDY (I),41,1,28,12,0
+Peach,FORT VALLEY #1,State Senator,18,REP,JOHN F KENNEDY (I),242,12,103,127,0
+Peach,FORT VALLEY #2,State Senator,18,REP,JOHN F KENNEDY (I),65,0,28,37,0
+Peach,FORT VALLEY #3,State Senator,18,REP,JOHN F KENNEDY (I),19,0,9,10,0
+Peach,POWERSVILLE,State Senator,18,REP,JOHN F KENNEDY (I),119,0,81,38,0
+Peach,,State Representative,139,DEM,PATTY J. BENTLEY (I),945,27,420,497,1
+Peach,FORT VALLEY #1,State Representative,139,DEM,PATTY J. BENTLEY (I),272,17,127,127,1
+Peach,FORT VALLEY #2,State Representative,139,DEM,PATTY J. BENTLEY (I),247,5,108,134,0
+Peach,FORT VALLEY #3,State Representative,139,DEM,PATTY J. BENTLEY (I),426,5,185,236,0
+Peach,,State Representative,140,REP,ROBERT DICKEY (I),735,22,431,282,0
+Peach,BYRON #1,State Representative,140,REP,ROBERT DICKEY (I),280,9,147,124,0
+Peach,BYRON #2,State Representative,140,REP,ROBERT DICKEY (I),284,12,167,105,0
+Peach,CLAUDE,State Representative,140,REP,ROBERT DICKEY (I),44,1,32,11,0
+Peach,POWERSVILLE,State Representative,140,REP,ROBERT DICKEY (I),127,0,85,42,0
+Peach,,District Attorney,Macon Circuit - DEM,DEM,DAVID COOKE (I),1041,31,506,503,1
+Peach,BYRON #1,District Attorney,Macon Circuit - DEM,DEM,DAVID COOKE (I),101,1,66,34,0
+Peach,BYRON #2,District Attorney,Macon Circuit - DEM,DEM,DAVID COOKE (I),123,2,74,47,0
+Peach,CLAUDE,District Attorney,Macon Circuit - DEM,DEM,DAVID COOKE (I),10,0,6,4,0
+Peach,FORT VALLEY #1,District Attorney,Macon Circuit - DEM,DEM,DAVID COOKE (I),230,17,103,109,1
+Peach,FORT VALLEY #2,District Attorney,Macon Circuit - DEM,DEM,DAVID COOKE (I),182,5,78,99,0
+Peach,FORT VALLEY #3,District Attorney,Macon Circuit - DEM,DEM,DAVID COOKE (I),351,5,147,199,0
+Peach,POWERSVILLE,District Attorney,Macon Circuit - DEM,DEM,DAVID COOKE (I),44,1,32,11,0
+Peach,,CLERK SUPERIOR CT - D,,I,J. WILDER,1122,30,543,548,1
+Peach,BYRON #1,CLERK SUPERIOR CT - D,,I,J. WILDER,108,1,71,36,0
+Peach,BYRON #2,CLERK SUPERIOR CT - D,,I,J. WILDER,125,2,74,49,0
+Peach,CLAUDE,CLERK SUPERIOR CT - D,,I,J. WILDER,7,0,3,4,0
+Peach,FORT VALLEY #1,CLERK SUPERIOR CT - D,,I,J. WILDER,253,17,118,117,1
+Peach,FORT VALLEY #2,CLERK SUPERIOR CT - D,,I,J. WILDER,212,4,90,118,0
+Peach,FORT VALLEY #3,CLERK SUPERIOR CT - D,,I,J. WILDER,374,5,156,213,0
+Peach,POWERSVILLE,CLERK SUPERIOR CT - D,,I,J. WILDER,43,1,31,11,0
+Peach,,SHERIFF - D,,I,T. W. DEESE,1204,29,603,571,1
+Peach,BYRON #1,SHERIFF - D,,I,T. W. DEESE,113,1,75,37,0
+Peach,BYRON #2,SHERIFF - D,,I,T. W. DEESE,131,2,79,50,0
+Peach,CLAUDE,SHERIFF - D,,I,T. W. DEESE,9,0,5,4,0
+Peach,FORT VALLEY #1,SHERIFF - D,,I,T. W. DEESE,263,16,129,117,1
+Peach,FORT VALLEY #2,SHERIFF - D,,I,T. W. DEESE,246,5,108,133,0
+Peach,FORT VALLEY #3,SHERIFF - D,,I,T. W. DEESE,397,5,175,217,0
+Peach,POWERSVILLE,SHERIFF - D,,I,T. W. DEESE,45,0,32,13,0
+Peach,,TAX COMMISSIONER - D,,I,W. L. BROWN,1148,29,571,547,1
+Peach,BYRON #1,TAX COMMISSIONER - D,,I,W. L. BROWN,118,1,77,40,0
+Peach,BYRON #2,TAX COMMISSIONER - D,,I,W. L. BROWN,129,2,78,49,0
+Peach,CLAUDE,TAX COMMISSIONER - D,,I,W. L. BROWN,10,0,6,4,0
+Peach,FORT VALLEY #1,TAX COMMISSIONER - D,,I,W. L. BROWN,250,17,120,112,1
+Peach,FORT VALLEY #2,TAX COMMISSIONER - D,,I,W. L. BROWN,213,4,94,115,0
+Peach,FORT VALLEY #3,TAX COMMISSIONER - D,,I,W. L. BROWN,383,5,163,215,0
+Peach,POWERSVILLE,TAX COMMISSIONER - D,,I,W. L. BROWN,45,0,33,12,0
+Peach,,CORONER - R,,I,K. E. ROOKS,1085,31,590,464,0
+Peach,BYRON #1,CORONER - R,,I,K. E. ROOKS,277,8,147,122,0
+Peach,BYRON #2,CORONER - R,,I,K. E. ROOKS,274,10,167,97,0
+Peach,CLAUDE,CORONER - R,,I,K. E. ROOKS,45,1,32,12,0
+Peach,FORT VALLEY #1,CORONER - R,,I,K. E. ROOKS,269,12,116,141,0
+Peach,FORT VALLEY #2,CORONER - R,,I,K. E. ROOKS,70,0,28,42,0
+Peach,FORT VALLEY #3,CORONER - R,,I,K. E. ROOKS,20,0,13,7,0
+Peach,POWERSVILLE,CORONER - R,,I,K. E. ROOKS,130,0,87,43,0
+Peach,,CC P5 AT LARGE - R,,,W. YODER,912,27,479,406,0
+Peach,BYRON #1,CC P5 AT LARGE - R,,,W. YODER,206,4,109,93,0
+Peach,BYRON #2,CC P5 AT LARGE - R,,,W. YODER,220,9,136,75,0
+Peach,CLAUDE,CC P5 AT LARGE - R,,,W. YODER,40,0,29,11,0
+Peach,FORT VALLEY #1,CC P5 AT LARGE - R,,,W. YODER,260,14,109,137,0
+Peach,FORT VALLEY #2,CC P5 AT LARGE - R,,,W. YODER,64,0,26,38,0
+Peach,FORT VALLEY #3,CC P5 AT LARGE - R,,,W. YODER,20,0,10,10,0
+Peach,POWERSVILLE,CC P5 AT LARGE - R,,,W. YODER,102,0,60,42,0
+Peach,,CC P5 AT LARGE - D,,,K. V. KENDRICK,1175,32,575,567,1
+Peach,BYRON #1,CC P5 AT LARGE - D,,,K. V. KENDRICK,90,1,63,26,0
+Peach,BYRON #2,CC P5 AT LARGE - D,,,K. V. KENDRICK,128,3,76,49,0
+Peach,CLAUDE,CC P5 AT LARGE - D,,,K. V. KENDRICK,6,0,2,4,0
+Peach,FORT VALLEY #1,CC P5 AT LARGE - D,,,K. V. KENDRICK,260,17,115,127,1
+Peach,FORT VALLEY #2,CC P5 AT LARGE - D,,,K. V. KENDRICK,236,5,105,126,0
+Peach,FORT VALLEY #3,CC P5 AT LARGE - D,,,K. V. KENDRICK,412,5,181,226,0
+Peach,POWERSVILLE,CC P5 AT LARGE - D,,,K. V. KENDRICK,43,1,33,9,0
+Peach,,CC P1 - R,,I,R. LEWIS,315,13,192,110,0
+Peach,BYRON #2,CC P1 - R,,I,R. LEWIS,268,12,162,94,0
+Peach,CLAUDE,CC P1 - R,,I,R. LEWIS,12,1,5,6,0
+Peach,POWERSVILLE,CC P1 - R,,I,R. LEWIS,35,0,25,10,0
+Peach,,CC P3 - R,,,B. J. CRUMP,62,1,33,28,0
+Peach,CLAUDE,CC P3 - R,,,B. J. CRUMP,16,0,12,4,0
+Peach,FORT VALLEY #1,CC P3 - R,,,B. J. CRUMP,15,1,4,10,0
+Peach,FORT VALLEY #2,CC P3 - R,,,B. J. CRUMP,12,0,6,6,0
+Peach,FORT VALLEY #3,CC P3 - R,,,B. J. CRUMP,19,0,11,8,0
+Peach,,CC P3 - D,,I,B. C. HILL,375,8,167,200,0
+Peach,CLAUDE,CC P3 - D,,I,B. C. HILL,3,0,3,0,0
+Peach,FORT VALLEY #1,CC P3 - D,,I,B. C. HILL,60,7,25,28,0
+Peach,FORT VALLEY #2,CC P3 - D,,I,B. C. HILL,5,0,5,0,0
+Peach,FORT VALLEY #3,CC P3 - D,,I,B. C. HILL,307,1,134,172,0
+Peach,,BOE P1 - R,,I,B. MCDANIEL,321,13,192,116,0
+Peach,BYRON #2,BOE P1 - R,,I,B. MCDANIEL,271,12,161,98,0
+Peach,CLAUDE,BOE P1 - R,,I,B. MCDANIEL,15,1,6,8,0
+Peach,POWERSVILLE,BOE P1 - R,,I,B. MCDANIEL,35,0,25,10,0
+Peach,,BOE P1 - D,,,S. P. WILLIAMS,133,3,75,55,0
+Peach,BYRON #2,BOE P1 - D,,,S. P. WILLIAMS,120,3,68,49,0
+Peach,CLAUDE,BOE P1 - D,,,S. P. WILLIAMS,4,0,0,4,0
+Peach,POWERSVILLE,BOE P1 - D,,,S. P. WILLIAMS,9,0,7,2,0
+Peach,,BOE P3 - D,,,B. M. JACKSON,349,6,146,197,0
+Peach,CLAUDE,BOE P3 - D,,,B. M. JACKSON,2,0,2,0,0
+Peach,FORT VALLEY #1,BOE P3 - D,,,B. M. JACKSON,52,5,21,26,0
+Peach,FORT VALLEY #2,BOE P3 - D,,,B. M. JACKSON,6,0,5,1,0
+Peach,FORT VALLEY #3,BOE P3 - D,,,B. M. JACKSON,289,1,118,170,0
+Peach,,Republican Party Question 1,,REP,YES,987,31,544,412,0
+Peach,BYRON #1,Republican Party Question 1,,REP,YES,256,8,139,109,0
+Peach,BYRON #2,Republican Party Question 1,,REP,YES,273,11,167,95,0
+Peach,CLAUDE,Republican Party Question 1,,REP,YES,43,1,35,7,0
+Peach,FORT VALLEY #1,Republican Party Question 1,,REP,YES,224,11,98,115,0
+Peach,FORT VALLEY #2,Republican Party Question 1,,REP,YES,59,0,24,35,0
+Peach,FORT VALLEY #3,Republican Party Question 1,,REP,YES,16,0,8,8,0
+Peach,POWERSVILLE,Republican Party Question 1,,REP,YES,116,0,73,43,0
+Peach,,Republican Party Question 1,,REP,NO,231,6,124,101,0
+Peach,BYRON #1,Republican Party Question 1,,REP,NO,55,1,33,21,0
+Peach,BYRON #2,Republican Party Question 1,,REP,NO,52,2,28,22,0
+Peach,CLAUDE,Republican Party Question 1,,REP,NO,12,0,5,7,0
+Peach,FORT VALLEY #1,Republican Party Question 1,,REP,NO,58,3,24,31,0
+Peach,FORT VALLEY #2,Republican Party Question 1,,REP,NO,17,0,6,11,0
+Peach,FORT VALLEY #3,Republican Party Question 1,,REP,NO,9,0,6,3,0
+Peach,POWERSVILLE,Republican Party Question 1,,REP,NO,28,0,22,6,0
+Peach,,Democratic Party Question 1,,DEM,YES,1124,29,568,526,1
+Peach,BYRON #1,Democratic Party Question 1,,DEM,YES,110,1,76,33,0
+Peach,BYRON #2,Democratic Party Question 1,,DEM,YES,133,3,82,48,0
+Peach,CLAUDE,Democratic Party Question 1,,DEM,YES,8,0,4,4,0
+Peach,FORT VALLEY #1,Democratic Party Question 1,,DEM,YES,242,16,111,114,1
+Peach,FORT VALLEY #2,Democratic Party Question 1,,DEM,YES,212,4,98,110,0
+Peach,FORT VALLEY #3,Democratic Party Question 1,,DEM,YES,376,4,166,206,0
+Peach,POWERSVILLE,Democratic Party Question 1,,DEM,YES,43,1,31,11,0
+Peach,,Democratic Party Question 1,,DEM,NO,211,4,95,112,0
+Peach,BYRON #1,Democratic Party Question 1,,DEM,NO,19,0,11,8,0
+Peach,BYRON #2,Democratic Party Question 1,,DEM,NO,21,0,14,7,0
+Peach,CLAUDE,Democratic Party Question 1,,DEM,NO,2,0,2,0,0
+Peach,FORT VALLEY #1,Democratic Party Question 1,,DEM,NO,53,2,27,24,0
+Peach,FORT VALLEY #2,Democratic Party Question 1,,DEM,NO,49,1,17,31,0
+Peach,FORT VALLEY #3,Democratic Party Question 1,,DEM,NO,60,1,20,39,0
+Peach,POWERSVILLE,Democratic Party Question 1,,DEM,NO,7,0,4,3,0
+Peach,,Democratic Party Question 2,,DEM,YES,1236,30,616,589,1
+Peach,BYRON #1,Democratic Party Question 2,,DEM,YES,112,1,78,33,0
+Peach,BYRON #2,Democratic Party Question 2,,DEM,YES,144,2,92,50,0
+Peach,CLAUDE,Democratic Party Question 2,,DEM,YES,9,0,5,4,0
+Peach,FORT VALLEY #1,Democratic Party Question 2,,DEM,YES,259,17,117,124,1
+Peach,FORT VALLEY #2,Democratic Party Question 2,,DEM,YES,255,4,114,137,0
+Peach,FORT VALLEY #3,Democratic Party Question 2,,DEM,YES,417,5,180,232,0
+Peach,POWERSVILLE,Democratic Party Question 2,,DEM,YES,40,1,30,9,0
+Peach,,Democratic Party Question 2,,DEM,NO,107,4,51,52,0
+Peach,BYRON #1,Democratic Party Question 2,,DEM,NO,16,0,8,8,0
+Peach,BYRON #2,Democratic Party Question 2,,DEM,NO,11,1,4,6,0
+Peach,CLAUDE,Democratic Party Question 2,,DEM,NO,1,0,1,0,0
+Peach,FORT VALLEY #1,Democratic Party Question 2,,DEM,NO,32,2,17,13,0
+Peach,FORT VALLEY #2,Democratic Party Question 2,,DEM,NO,15,1,4,10,0
+Peach,FORT VALLEY #3,Democratic Party Question 2,,DEM,NO,25,0,12,13,0
+Peach,POWERSVILLE,Democratic Party Question 2,,DEM,NO,7,0,5,2,0
+Peach,,Democratic Party Question 3,,DEM,YES,1161,31,586,543,1
+Peach,BYRON #1,Democratic Party Question 3,,DEM,YES,116,1,78,37,0
+Peach,BYRON #2,Democratic Party Question 3,,DEM,YES,136,3,89,44,0
+Peach,CLAUDE,Democratic Party Question 3,,DEM,YES,8,0,4,4,0
+Peach,FORT VALLEY #1,Democratic Party Question 3,,DEM,YES,249,17,118,113,1
+Peach,FORT VALLEY #2,Democratic Party Question 3,,DEM,YES,229,5,101,123,0
+Peach,FORT VALLEY #3,Democratic Party Question 3,,DEM,YES,378,4,165,209,0
+Peach,POWERSVILLE,Democratic Party Question 3,,DEM,YES,45,1,31,13,0
+Peach,,Democratic Party Question 3,,DEM,NO,162,2,76,84,0
+Peach,BYRON #1,Democratic Party Question 3,,DEM,NO,11,0,8,3,0
+Peach,BYRON #2,Democratic Party Question 3,,DEM,NO,17,0,6,11,0
+Peach,CLAUDE,Democratic Party Question 3,,DEM,NO,2,0,2,0,0
+Peach,FORT VALLEY #1,Democratic Party Question 3,,DEM,NO,43,2,15,26,0
+Peach,FORT VALLEY #2,Democratic Party Question 3,,DEM,NO,35,0,15,20,0
+Peach,FORT VALLEY #3,Democratic Party Question 3,,DEM,NO,50,0,26,24,0
+Peach,POWERSVILLE,Democratic Party Question 3,,DEM,NO,4,0,4,0,0
+Peach,,Democratic Party Question 4,,DEM,YES,1124,31,569,523,1
+Peach,BYRON #1,Democratic Party Question 4,,DEM,YES,107,1,74,32,0
+Peach,BYRON #2,Democratic Party Question 4,,DEM,YES,139,3,88,48,0
+Peach,CLAUDE,Democratic Party Question 4,,DEM,YES,6,0,3,3,0
+Peach,FORT VALLEY #1,Democratic Party Question 4,,DEM,YES,236,16,106,113,1
+Peach,FORT VALLEY #2,Democratic Party Question 4,,DEM,YES,222,5,101,116,0
+Peach,FORT VALLEY #3,Democratic Party Question 4,,DEM,YES,375,5,167,203,0
+Peach,POWERSVILLE,Democratic Party Question 4,,DEM,YES,39,1,30,8,0
+Peach,,Democratic Party Question 4,,DEM,NO,197,3,90,104,0
+Peach,BYRON #1,Democratic Party Question 4,,DEM,NO,20,0,11,9,0
+Peach,BYRON #2,Democratic Party Question 4,,DEM,NO,13,0,7,6,0
+Peach,CLAUDE,Democratic Party Question 4,,DEM,NO,4,0,3,1,0
+Peach,FORT VALLEY #1,Democratic Party Question 4,,DEM,NO,54,3,26,25,0
+Peach,FORT VALLEY #2,Democratic Party Question 4,,DEM,NO,39,0,16,23,0
+Peach,FORT VALLEY #3,Democratic Party Question 4,,DEM,NO,57,0,22,35,0
+Peach,POWERSVILLE,Democratic Party Question 4,,DEM,NO,10,0,5,5,0
+Peach,,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,2076,60,1087,928,1
+Peach,BYRON #1,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,370,8,210,152,0
+Peach,BYRON #2,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,375,13,231,131,0
+Peach,CLAUDE,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,47,1,32,14,0
+Peach,FORT VALLEY #1,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,468,29,202,236,1
+Peach,FORT VALLEY #2,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,271,4,126,141,0
+Peach,FORT VALLEY #3,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,376,5,165,206,0
+Peach,POWERSVILLE,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,169,0,121,48,0
+Peach,,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,2116,60,1104,951,1
+Peach,BYRON #1,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,362,7,211,144,0
+Peach,BYRON #2,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,379,13,229,137,0
+Peach,CLAUDE,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,48,1,31,16,0
+Peach,FORT VALLEY #1,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,488,29,211,247,1
+Peach,FORT VALLEY #2,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,284,4,132,148,0
+Peach,FORT VALLEY #3,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,384,5,170,209,0
+Peach,POWERSVILLE,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,171,1,120,50,0
+Peach,,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,2081,58,1089,933,1
+Peach,BYRON #1,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,364,7,211,146,0
+Peach,BYRON #2,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,375,12,229,134,0
+Peach,CLAUDE,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,46,1,29,16,0
+Peach,FORT VALLEY #1,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,478,28,207,242,1
+Peach,FORT VALLEY #2,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,267,5,123,139,0
+Peach,FORT VALLEY #3,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,384,5,171,208,0
+Peach,POWERSVILLE,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,167,0,119,48,0
+Peach,,Superior Court Judge,Macon Circuit (Colvin),I,VERDA M. COLVIN,2090,59,1077,953,1
+Peach,BYRON #1,Superior Court Judge,Macon Circuit (Colvin),I,VERDA M. COLVIN,358,7,204,147,0
+Peach,BYRON #2,Superior Court Judge,Macon Circuit (Colvin),I,VERDA M. COLVIN,371,12,223,136,0
+Peach,CLAUDE,Superior Court Judge,Macon Circuit (Colvin),I,VERDA M. COLVIN,46,1,29,16,0
+Peach,FORT VALLEY #1,Superior Court Judge,Macon Circuit (Colvin),I,VERDA M. COLVIN,484,28,211,244,1
+Peach,FORT VALLEY #2,Superior Court Judge,Macon Circuit (Colvin),I,VERDA M. COLVIN,276,5,124,147,0
+Peach,FORT VALLEY #3,Superior Court Judge,Macon Circuit (Colvin),I,VERDA M. COLVIN,389,5,171,213,0
+Peach,POWERSVILLE,Superior Court Judge,Macon Circuit (Colvin),I,VERDA M. COLVIN,166,1,115,50,0
+Peach,,Superior Court Judge,Macon Circuit (Ennis),I,EDGAR WILLIAM ENNIS JR,2082,62,1084,935,1
+Peach,BYRON #1,Superior Court Judge,Macon Circuit (Ennis),I,EDGAR WILLIAM ENNIS JR,357,9,208,140,0
+Peach,BYRON #2,Superior Court Judge,Macon Circuit (Ennis),I,EDGAR WILLIAM ENNIS JR,375,12,230,133,0
+Peach,CLAUDE,Superior Court Judge,Macon Circuit (Ennis),I,EDGAR WILLIAM ENNIS JR,50,1,33,16,0
+Peach,FORT VALLEY #1,Superior Court Judge,Macon Circuit (Ennis),I,EDGAR WILLIAM ENNIS JR,479,30,206,242,1
+Peach,FORT VALLEY #2,Superior Court Judge,Macon Circuit (Ennis),I,EDGAR WILLIAM ENNIS JR,273,5,126,142,0
+Peach,FORT VALLEY #3,Superior Court Judge,Macon Circuit (Ennis),I,EDGAR WILLIAM ENNIS JR,380,5,163,212,0
+Peach,POWERSVILLE,Superior Court Judge,Macon Circuit (Ennis),I,EDGAR WILLIAM ENNIS JR,168,0,118,50,0
+Peach,,JUDGE PROBATE CT,,,K. D. VINSON,1236,31,623,581,1
+Peach,BYRON #1,JUDGE PROBATE CT,,,K. D. VINSON,88,2,60,26,0
+Peach,BYRON #2,JUDGE PROBATE CT,,,K. D. VINSON,130,2,78,50,0
+Peach,CLAUDE,JUDGE PROBATE CT,,,K. D. VINSON,17,1,13,3,0
+Peach,FORT VALLEY #1,JUDGE PROBATE CT,,,K. D. VINSON,247,16,114,116,1
+Peach,FORT VALLEY #2,JUDGE PROBATE CT,,,K. D. VINSON,253,5,116,132,0
+Peach,FORT VALLEY #3,JUDGE PROBATE CT,,,K. D. VINSON,452,4,204,244,0
+Peach,POWERSVILLE,JUDGE PROBATE CT,,,K. D. VINSON,49,1,38,10,0
+Peach,,JUDGE PROBATE CT,,,K. WILSON,1498,37,800,661,0
+Peach,BYRON #1,JUDGE PROBATE CT,,,K. WILSON,381,8,211,162,0
+Peach,BYRON #2,JUDGE PROBATE CT,,,K. WILSON,359,9,222,128,0
+Peach,CLAUDE,JUDGE PROBATE CT,,,K. WILSON,47,0,32,15,0
+Peach,FORT VALLEY #1,JUDGE PROBATE CT,,,K. WILSON,378,19,154,205,0
+Peach,FORT VALLEY #2,JUDGE PROBATE CT,,,K. WILSON,126,0,52,74,0
+Peach,FORT VALLEY #3,JUDGE PROBATE CT,,,K. WILSON,51,1,28,22,0
+Peach,POWERSVILLE,JUDGE PROBATE CT,,,K. WILSON,156,0,101,55,0
+Peach,,CHIEF MAGISTRATE,,I,L. C. LEE,2264,59,1162,1042,1
+Peach,BYRON #1,CHIEF MAGISTRATE,,I,L. C. LEE,386,9,224,153,0
+Peach,BYRON #2,CHIEF MAGISTRATE,,I,L. C. LEE,393,12,242,139,0
+Peach,CLAUDE,CHIEF MAGISTRATE,,I,L. C. LEE,50,1,32,17,0
+Peach,FORT VALLEY #1,CHIEF MAGISTRATE,,I,L. C. LEE,549,28,232,288,1
+Peach,FORT VALLEY #2,CHIEF MAGISTRATE,,I,L. C. LEE,316,4,137,175,0
+Peach,FORT VALLEY #3,CHIEF MAGISTRATE,,I,L. C. LEE,396,5,174,217,0
+Peach,POWERSVILLE,CHIEF MAGISTRATE,,I,L. C. LEE,174,0,121,53,0

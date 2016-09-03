@@ -1,0 +1,239 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Stewart,,United States Senator,,REP,MARY KAY BACALLAO,1,0,1,0,0
+Stewart,Richland,United States Senator,,REP,MARY KAY BACALLAO,1,0,1,0,0
+Stewart,Louvale,United States Senator,,REP,MARY KAY BACALLAO,0,0,0,0,0
+Stewart,Lumpkin,United States Senator,,REP,MARY KAY BACALLAO,0,0,0,0,0
+Stewart,Omaha,United States Senator,,REP,MARY KAY BACALLAO,0,0,0,0,0
+Stewart,,United States Senator,,REP,DERRICK GRAYSON,4,0,1,3,0
+Stewart,Richland,United States Senator,,REP,DERRICK GRAYSON,2,0,0,2,0
+Stewart,Louvale,United States Senator,,REP,DERRICK GRAYSON,0,0,0,0,0
+Stewart,Lumpkin,United States Senator,,REP,DERRICK GRAYSON,1,0,0,1,0
+Stewart,Omaha,United States Senator,,REP,DERRICK GRAYSON,1,0,1,0,0
+Stewart,,United States Senator,,REP,JOHNNY ISAKSON (I),5,0,5,0,0
+Stewart,Richland,United States Senator,,REP,JOHNNY ISAKSON (I),3,0,3,0,0
+Stewart,Louvale,United States Senator,,REP,JOHNNY ISAKSON (I),1,0,1,0,0
+Stewart,Lumpkin,United States Senator,,REP,JOHNNY ISAKSON (I),0,0,0,0,0
+Stewart,Omaha,United States Senator,,REP,JOHNNY ISAKSON (I),1,0,1,0,0
+Stewart,,United States Senator,,DEM,JIM BARKSDALE,344,71,196,67,10
+Stewart,Richland,United States Senator,,DEM,JIM BARKSDALE,157,44,88,22,3
+Stewart,Louvale,United States Senator,,DEM,JIM BARKSDALE,30,2,23,0,5
+Stewart,Lumpkin,United States Senator,,DEM,JIM BARKSDALE,138,20,77,39,2
+Stewart,Omaha,United States Senator,,DEM,JIM BARKSDALE,19,5,8,6,0
+Stewart,,United States Senator,,DEM,CHERYL COPELAND,348,86,202,56,4
+Stewart,Richland,United States Senator,,DEM,CHERYL COPELAND,159,50,94,13,2
+Stewart,Louvale,United States Senator,,DEM,CHERYL COPELAND,30,0,27,3,0
+Stewart,Lumpkin,United States Senator,,DEM,CHERYL COPELAND,140,34,65,39,2
+Stewart,Omaha,United States Senator,,DEM,CHERYL COPELAND,19,2,16,1,0
+Stewart,,United States Senator,,DEM,JOHN F COYNE III,44,8,20,16,0
+Stewart,Richland,United States Senator,,DEM,JOHN F COYNE III,20,5,9,6,0
+Stewart,Louvale,United States Senator,,DEM,JOHN F COYNE III,2,0,1,1,0
+Stewart,Lumpkin,United States Senator,,DEM,JOHN F COYNE III,20,3,8,9,0
+Stewart,Omaha,United States Senator,,DEM,JOHN F COYNE III,2,0,2,0,0
+Stewart,,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,2,0,1,1,0
+Stewart,Richland,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,1,0,0,1,0
+Stewart,Louvale,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,0,0,0,0,0
+Stewart,Lumpkin,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,0,0,0,0,0
+Stewart,Omaha,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,1,0,1,0,0
+Stewart,,Public Service Commission,2,REP,TIM ECHOLS (I),5,0,4,1,0
+Stewart,Richland,Public Service Commission,2,REP,TIM ECHOLS (I),3,0,3,0,0
+Stewart,Louvale,Public Service Commission,2,REP,TIM ECHOLS (I),1,0,1,0,0
+Stewart,Lumpkin,Public Service Commission,2,REP,TIM ECHOLS (I),1,0,0,1,0
+Stewart,Omaha,Public Service Commission,2,REP,TIM ECHOLS (I),0,0,0,0,0
+Stewart,,Public Service Commission,2,REP,MICHELLE MILLER,3,0,2,1,0
+Stewart,Richland,Public Service Commission,2,REP,MICHELLE MILLER,2,0,1,1,0
+Stewart,Louvale,Public Service Commission,2,REP,MICHELLE MILLER,0,0,0,0,0
+Stewart,Lumpkin,Public Service Commission,2,REP,MICHELLE MILLER,0,0,0,0,0
+Stewart,Omaha,Public Service Commission,2,REP,MICHELLE MILLER,1,0,1,0,0
+Stewart,,U.S. Representative,2,REP,GREG DUKE,4,0,3,1,0
+Stewart,Richland,U.S. Representative,2,REP,GREG DUKE,3,0,2,1,0
+Stewart,Louvale,U.S. Representative,2,REP,GREG DUKE,1,0,1,0,0
+Stewart,Lumpkin,U.S. Representative,2,REP,GREG DUKE,0,0,0,0,0
+Stewart,Omaha,U.S. Representative,2,REP,GREG DUKE,0,0,0,0,0
+Stewart,,U.S. Representative,2,REP,DIANE VANN,1,0,1,0,0
+Stewart,Richland,U.S. Representative,2,REP,DIANE VANN,1,0,1,0,0
+Stewart,Louvale,U.S. Representative,2,REP,DIANE VANN,0,0,0,0,0
+Stewart,Lumpkin,U.S. Representative,2,REP,DIANE VANN,0,0,0,0,0
+Stewart,Omaha,U.S. Representative,2,REP,DIANE VANN,0,0,0,0,0
+Stewart,,U.S. Representative,2,DEM,SANFORD BISHOP (I),1106,242,635,209,20
+Stewart,Richland,U.S. Representative,2,DEM,SANFORD BISHOP (I),474,127,280,55,12
+Stewart,Louvale,U.S. Representative,2,DEM,SANFORD BISHOP (I),97,1,89,3,4
+Stewart,Lumpkin,U.S. Representative,2,DEM,SANFORD BISHOP (I),461,107,206,144,4
+Stewart,Omaha,U.S. Representative,2,DEM,SANFORD BISHOP (I),74,7,60,7,0
+Stewart,,State Senator,12,DEM,FREDDIE POWELL SIMS (I),706,181,374,135,16
+Stewart,Richland,State Senator,12,DEM,FREDDIE POWELL SIMS (I),311,100,159,42,10
+Stewart,Louvale,State Senator,12,DEM,FREDDIE POWELL SIMS (I),53,1,47,3,2
+Stewart,Lumpkin,State Senator,12,DEM,FREDDIE POWELL SIMS (I),300,73,138,85,4
+Stewart,Omaha,State Senator,12,DEM,FREDDIE POWELL SIMS (I),42,7,30,5,0
+Stewart,,State Representative,151,REP,GERALD GREENE (I),9,0,7,2,0
+Stewart,Richland,State Representative,151,REP,GERALD GREENE (I),5,0,4,1,0
+Stewart,Louvale,State Representative,151,REP,GERALD GREENE (I),1,0,1,0,0
+Stewart,Lumpkin,State Representative,151,REP,GERALD GREENE (I),1,0,0,1,0
+Stewart,Omaha,State Representative,151,REP,GERALD GREENE (I),2,0,2,0,0
+Stewart,,District Attorney,Southwestern Circuit - REP,REP,PLEZ H. HARDIN (I),6,0,5,1,0
+Stewart,Richland,District Attorney,Southwestern Circuit - REP,REP,PLEZ H. HARDIN (I),4,0,3,1,0
+Stewart,Louvale,District Attorney,Southwestern Circuit - REP,REP,PLEZ H. HARDIN (I),0,0,0,0,0
+Stewart,Lumpkin,District Attorney,Southwestern Circuit - REP,REP,PLEZ H. HARDIN (I),0,0,0,0,0
+Stewart,Omaha,District Attorney,Southwestern Circuit - REP,REP,PLEZ H. HARDIN (I),2,0,2,0,0
+Stewart,,CLERK,SUPERIOR COURT - D,,A. BRADSHAW,658,155,339,156,8
+Stewart,Richland,CLERK,SUPERIOR COURT - D,,A. BRADSHAW,235,57,134,40,4
+Stewart,Louvale,CLERK,SUPERIOR COURT - D,,A. BRADSHAW,45,2,39,2,2
+Stewart,Lumpkin,CLERK,SUPERIOR COURT - D,,A. BRADSHAW,344,93,140,109,2
+Stewart,Omaha,CLERK,SUPERIOR COURT - D,,A. BRADSHAW,34,3,26,5,0
+Stewart,,CLERK,SUPERIOR COURT - D,,M. DUDLEY,759,167,434,145,13
+Stewart,Richland,CLERK,SUPERIOR COURT - D,,M. DUDLEY,377,112,209,48,8
+Stewart,Louvale,CLERK,SUPERIOR COURT - D,,M. DUDLEY,77,3,66,5,3
+Stewart,Lumpkin,CLERK,SUPERIOR COURT - D,,M. DUDLEY,253,47,117,87,2
+Stewart,Omaha,CLERK,SUPERIOR COURT - D,,M. DUDLEY,52,5,42,5,0
+Stewart,,Sheriff - D,,,J. CADENHEAD,294,39,167,84,4
+Stewart,Richland,Sheriff - D,,,J. CADENHEAD,100,14,60,24,2
+Stewart,Louvale,Sheriff - D,,,J. CADENHEAD,35,3,29,1,2
+Stewart,Lumpkin,Sheriff - D,,,J. CADENHEAD,128,21,57,50,0
+Stewart,Omaha,Sheriff - D,,,J. CADENHEAD,31,1,21,9,0
+Stewart,,Sheriff - D,,I,L. JONES,1184,292,645,229,18
+Stewart,Richland,Sheriff - D,,I,L. JONES,546,163,303,71,9
+Stewart,Louvale,Sheriff - D,,I,L. JONES,87,2,76,6,3
+Stewart,Lumpkin,Sheriff - D,,I,L. JONES,492,120,215,151,6
+Stewart,Omaha,Sheriff - D,,I,L. JONES,59,7,51,1,0
+Stewart,,Tax Commissioner - D,,I,K. BASS,1037,207,596,214,20
+Stewart,Richland,Tax Commissioner - D,,I,K. BASS,478,121,279,66,12
+Stewart,Louvale,Tax Commissioner - D,,I,K. BASS,84,1,75,4,4
+Stewart,Lumpkin,Tax Commissioner - D,,I,K. BASS,416,78,199,135,4
+Stewart,Omaha,Tax Commissioner - D,,I,K. BASS,59,7,43,9,0
+Stewart,,Coroner - D,,I,S. AMMONS,896,204,489,187,16
+Stewart,Richland,Coroner - D,,I,S. AMMONS,384,107,217,50,10
+Stewart,Louvale,Coroner - D,,I,S. AMMONS,83,1,74,4,4
+Stewart,Lumpkin,Coroner - D,,I,S. AMMONS,387,89,170,126,2
+Stewart,Omaha,Coroner - D,,I,S. AMMONS,42,7,28,7,0
+Stewart,,Chief Magistrate - D,,I,G. AMMONS,926,217,494,202,13
+Stewart,Richland,Chief Magistrate - D,,I,G. AMMONS,361,103,197,56,5
+Stewart,Louvale,Chief Magistrate - D,,I,G. AMMONS,87,4,73,6,4
+Stewart,Lumpkin,Chief Magistrate - D,,I,G. AMMONS,428,105,186,133,4
+Stewart,Omaha,Chief Magistrate - D,,I,G. AMMONS,50,5,38,7,0
+Stewart,,Chief Magistrate - D,,,M. SMITH,367,77,197,83,10
+Stewart,Richland,Chief Magistrate - D,,,M. SMITH,200,53,114,27,6
+Stewart,Louvale,Chief Magistrate - D,,,M. SMITH,27,1,23,1,2
+Stewart,Lumpkin,Chief Magistrate - D,,,M. SMITH,122,21,46,53,2
+Stewart,Omaha,Chief Magistrate - D,,,M. SMITH,18,2,14,2,0
+Stewart,,CC,D1 - D,,J. HARVEY,137,18,89,30,0
+Stewart,Lumpkin,CC,D1 - D,,J. HARVEY,90,14,48,28,0
+Stewart,Omaha,CC,D1 - D,,J. HARVEY,47,4,41,2,0
+Stewart,,CC,D1 - D,I,J. LEE,174,14,101,59,0
+Stewart,Lumpkin,CC,D1 - D,I,J. LEE,129,10,67,52,0
+Stewart,Omaha,CC,D1 - D,I,J. LEE,45,4,34,7,0
+Stewart,,CC,D3 - D,I,E. BROWN,189,65,88,29,7
+Stewart,Richland,CC,D3 - D,I,E. BROWN,160,53,81,19,7
+Stewart,Lumpkin,CC,D3 - D,I,E. BROWN,29,12,7,10,0
+Stewart,,CC,D3 - D,,L. WESTBROOK,164,57,81,26,0
+Stewart,Richland,CC,D3 - D,,L. WESTBROOK,147,50,74,23,0
+Stewart,Lumpkin,CC,D3 - D,,L. WESTBROOK,17,7,7,3,0
+Stewart,,CC,D5 - D,I,A. SCOTT,206,65,86,51,4
+Stewart,Richland,CC,D5 - D,I,A. SCOTT,33,6,15,10,2
+Stewart,Lumpkin,CC,D5 - D,I,A. SCOTT,173,59,71,41,2
+Stewart,,Republican Party Question 1,,REP,YES,9,0,6,3,0
+Stewart,Richland,Republican Party Question 1,,REP,YES,5,0,3,2,0
+Stewart,Louvale,Republican Party Question 1,,REP,YES,1,0,1,0,0
+Stewart,Lumpkin,Republican Party Question 1,,REP,YES,1,0,0,1,0
+Stewart,Omaha,Republican Party Question 1,,REP,YES,2,0,2,0,0
+Stewart,,Republican Party Question 1,,REP,NO,1,0,0,1,0
+Stewart,Richland,Republican Party Question 1,,REP,NO,0,0,0,0,0
+Stewart,Louvale,Republican Party Question 1,,REP,NO,0,0,0,0,0
+Stewart,Lumpkin,Republican Party Question 1,,REP,NO,1,0,0,1,0
+Stewart,Omaha,Republican Party Question 1,,REP,NO,0,0,0,0,0
+Stewart,,Democratic Party Question 1,,DEM,YES,905,215,495,179,16
+Stewart,Richland,Democratic Party Question 1,,DEM,YES,402,116,231,47,8
+Stewart,Louvale,Democratic Party Question 1,,DEM,YES,78,5,64,5,4
+Stewart,Lumpkin,Democratic Party Question 1,,DEM,YES,379,91,161,123,4
+Stewart,Omaha,Democratic Party Question 1,,DEM,YES,46,3,39,4,0
+Stewart,,Democratic Party Question 1,,DEM,NO,337,44,199,90,4
+Stewart,Richland,Democratic Party Question 1,,DEM,NO,150,21,91,34,4
+Stewart,Louvale,Democratic Party Question 1,,DEM,NO,28,0,26,2,0
+Stewart,Lumpkin,Democratic Party Question 1,,DEM,NO,140,19,70,51,0
+Stewart,Omaha,Democratic Party Question 1,,DEM,NO,19,4,12,3,0
+Stewart,,Democratic Party Question 2,,DEM,YES,1020,230,569,203,18
+Stewart,Richland,Democratic Party Question 2,,DEM,YES,442,121,252,57,12
+Stewart,Louvale,Democratic Party Question 2,,DEM,YES,91,5,79,5,2
+Stewart,Lumpkin,Democratic Party Question 2,,DEM,YES,427,97,191,135,4
+Stewart,Omaha,Democratic Party Question 2,,DEM,YES,60,7,47,6,0
+Stewart,,Democratic Party Question 2,,DEM,NO,232,29,137,64,2
+Stewart,Richland,Democratic Party Question 2,,DEM,NO,109,13,73,23,0
+Stewart,Louvale,Democratic Party Question 2,,DEM,NO,19,0,15,2,2
+Stewart,Lumpkin,Democratic Party Question 2,,DEM,NO,95,16,42,37,0
+Stewart,Omaha,Democratic Party Question 2,,DEM,NO,9,0,7,2,0
+Stewart,,Democratic Party Question 3,,DEM,YES,970,213,526,214,17
+Stewart,Richland,Democratic Party Question 3,,DEM,YES,413,111,236,55,11
+Stewart,Louvale,Democratic Party Question 3,,DEM,YES,88,5,78,3,2
+Stewart,Lumpkin,Democratic Party Question 3,,DEM,YES,415,90,172,149,4
+Stewart,Omaha,Democratic Party Question 3,,DEM,YES,54,7,40,7,0
+Stewart,,Democratic Party Question 3,,DEM,NO,224,40,134,48,2
+Stewart,Richland,Democratic Party Question 3,,DEM,NO,104,20,61,23,0
+Stewart,Louvale,Democratic Party Question 3,,DEM,NO,13,0,8,3,2
+Stewart,Lumpkin,Democratic Party Question 3,,DEM,NO,93,20,52,21,0
+Stewart,Omaha,Democratic Party Question 3,,DEM,NO,14,0,13,1,0
+Stewart,,Democratic Party Question 4,,DEM,YES,857,190,478,171,18
+Stewart,Richland,Democratic Party Question 4,,DEM,YES,366,101,213,40,12
+Stewart,Louvale,Democratic Party Question 4,,DEM,YES,73,0,66,3,4
+Stewart,Lumpkin,Democratic Party Question 4,,DEM,YES,368,84,161,121,2
+Stewart,Omaha,Democratic Party Question 4,,DEM,YES,50,5,38,7,0
+Stewart,,Democratic Party Question 4,,DEM,NO,318,65,167,84,2
+Stewart,Richland,Democratic Party Question 4,,DEM,NO,142,32,76,34,0
+Stewart,Louvale,Democratic Party Question 4,,DEM,NO,28,5,19,4,0
+Stewart,Lumpkin,Democratic Party Question 4,,DEM,NO,130,26,57,45,2
+Stewart,Omaha,Democratic Party Question 4,,DEM,NO,18,2,15,1,0
+Stewart,,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,731,149,419,149,14
+Stewart,Richland,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,310,80,184,36,10
+Stewart,Louvale,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,55,1,48,4,2
+Stewart,Lumpkin,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,311,61,144,104,2
+Stewart,Omaha,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,55,7,43,5,0
+Stewart,,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,745,150,432,147,16
+Stewart,Richland,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,315,78,193,34,10
+Stewart,Louvale,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,55,1,48,4,2
+Stewart,Lumpkin,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,319,64,147,104,4
+Stewart,Omaha,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,56,7,44,5,0
+Stewart,,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,719,143,410,150,16
+Stewart,Richland,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,308,76,187,35,10
+Stewart,Louvale,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,56,1,49,4,2
+Stewart,Lumpkin,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,303,59,134,106,4
+Stewart,Omaha,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,52,7,40,5,0
+Stewart,,Superior Court Judge,Southwestern Circuit (Peagler),,JIMMIE  BROWN,820,171,445,188,16
+Stewart,Richland,Superior Court Judge,Southwestern Circuit (Peagler),,JIMMIE  BROWN,343,85,193,55,10
+Stewart,Louvale,Superior Court Judge,Southwestern Circuit (Peagler),,JIMMIE  BROWN,77,5,67,3,2
+Stewart,Lumpkin,Superior Court Judge,Southwestern Circuit (Peagler),,JIMMIE  BROWN,352,75,148,125,4
+Stewart,Omaha,Superior Court Judge,Southwestern Circuit (Peagler),,JIMMIE  BROWN,48,6,37,5,0
+Stewart,,Superior Court Judge,Southwestern Circuit (Peagler),,KEVIN KWASHNAK,72,19,37,16,0
+Stewart,Richland,Superior Court Judge,Southwestern Circuit (Peagler),,KEVIN KWASHNAK,42,14,22,6,0
+Stewart,Louvale,Superior Court Judge,Southwestern Circuit (Peagler),,KEVIN KWASHNAK,3,0,2,1,0
+Stewart,Lumpkin,Superior Court Judge,Southwestern Circuit (Peagler),,KEVIN KWASHNAK,21,4,9,8,0
+Stewart,Omaha,Superior Court Judge,Southwestern Circuit (Peagler),,KEVIN KWASHNAK,6,1,4,1,0
+Stewart,,Superior Court Judge,Southwestern Circuit (Peagler),,LEWIS R. LAMB,200,35,113,52,0
+Stewart,Richland,Superior Court Judge,Southwestern Circuit (Peagler),,LEWIS R. LAMB,100,25,55,20,0
+Stewart,Louvale,Superior Court Judge,Southwestern Circuit (Peagler),,LEWIS R. LAMB,15,0,14,1,0
+Stewart,Lumpkin,Superior Court Judge,Southwestern Circuit (Peagler),,LEWIS R. LAMB,79,10,41,28,0
+Stewart,Omaha,Superior Court Judge,Southwestern Circuit (Peagler),,LEWIS R. LAMB,6,0,3,3,0
+Stewart,,Superior Court Judge,Southwestern Circuit (Smith),I,R. RUCKER SMITH,877,167,497,197,16
+Stewart,Richland,Superior Court Judge,Southwestern Circuit (Smith),I,R. RUCKER SMITH,376,88,222,54,12
+Stewart,Louvale,Superior Court Judge,Southwestern Circuit (Smith),I,R. RUCKER SMITH,73,1,66,4,2
+Stewart,Lumpkin,Superior Court Judge,Southwestern Circuit (Smith),I,R. RUCKER SMITH,374,71,168,133,2
+Stewart,Omaha,Superior Court Judge,Southwestern Circuit (Smith),I,R. RUCKER SMITH,54,7,41,6,0
+Stewart,,Probate Judge,,I,J. BRAZIER,1205,226,701,257,21
+Stewart,Richland,Probate Judge,,I,J. BRAZIER,509,116,312,69,12
+Stewart,Louvale,Probate Judge,,I,J. BRAZIER,110,4,97,6,3
+Stewart,Lumpkin,Probate Judge,,I,J. BRAZIER,500,99,222,173,6
+Stewart,Omaha,Probate Judge,,I,J. BRAZIER,86,7,70,9,0
+Stewart,,BOE,D1,I,K. NELSON,217,21,132,64,0
+Stewart,Lumpkin,BOE,D1,I,K. NELSON,138,16,67,55,0
+Stewart,Omaha,BOE,D1,I,K. NELSON,79,5,65,9,0
+Stewart,,BOE,D1,,J. SLAUGHTER,82,9,48,25,0
+Stewart,Lumpkin,BOE,D1,,J. SLAUGHTER,74,7,42,25,0
+Stewart,Omaha,BOE,D1,,J. SLAUGHTER,8,2,6,0,0
+Stewart,,BOE,D4,,D. BROWN,111,30,67,12,2
+Stewart,Richland,BOE,D4,,D. BROWN,111,30,67,12,2
+Stewart,,BOE,D4,,K. HODGES,70,10,58,2,0
+Stewart,Richland,BOE,D4,,K. HODGES,70,10,58,2,0
+Stewart,,BOE,D4,I,S. JONES,63,11,42,10,0
+Stewart,Richland,BOE,D4,I,S. JONES,63,11,42,10,0
+Stewart,,BOE,D5,I,T. REDDING,155,50,59,46,0
+Stewart,Richland,BOE,D5,I,T. REDDING,23,11,5,7,0
+Stewart,Lumpkin,BOE,D5,I,T. REDDING,132,39,54,39,0
+Stewart,,BOE,D5,,C. WRIGHT,100,29,42,25,4
+Stewart,Richland,BOE,D5,,C. WRIGHT,27,0,13,12,2
+Stewart,Lumpkin,BOE,D5,,C. WRIGHT,73,29,29,13,2

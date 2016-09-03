@@ -1,0 +1,327 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Marion,,United States Senator,,REP,MARY KAY BACALLAO,65,1,53,11,0
+Marion,Pineknot,United States Senator,,REP,MARY KAY BACALLAO,10,0,10,0,0
+Marion,Buena Vista,United States Senator,,REP,MARY KAY BACALLAO,28,0,21,7,0
+Marion,Tazewell,United States Senator,,REP,MARY KAY BACALLAO,3,0,3,0,0
+Marion,Brantley,United States Senator,,REP,MARY KAY BACALLAO,5,0,5,0,0
+Marion,Ft. Perry,United States Senator,,REP,MARY KAY BACALLAO,19,1,14,4,0
+Marion,,United States Senator,,REP,DERRICK GRAYSON,99,2,82,15,0
+Marion,Pineknot,United States Senator,,REP,DERRICK GRAYSON,24,1,21,2,0
+Marion,Buena Vista,United States Senator,,REP,DERRICK GRAYSON,35,0,23,12,0
+Marion,Tazewell,United States Senator,,REP,DERRICK GRAYSON,11,0,11,0,0
+Marion,Brantley,United States Senator,,REP,DERRICK GRAYSON,11,0,10,1,0
+Marion,Ft. Perry,United States Senator,,REP,DERRICK GRAYSON,18,1,17,0,0
+Marion,,United States Senator,,REP,JOHNNY ISAKSON (I),611,12,449,150,0
+Marion,Pineknot,United States Senator,,REP,JOHNNY ISAKSON (I),110,1,103,6,0
+Marion,Buena Vista,United States Senator,,REP,JOHNNY ISAKSON (I),250,5,138,107,0
+Marion,Tazewell,United States Senator,,REP,JOHNNY ISAKSON (I),89,2,77,10,0
+Marion,Brantley,United States Senator,,REP,JOHNNY ISAKSON (I),96,3,74,19,0
+Marion,Ft. Perry,United States Senator,,REP,JOHNNY ISAKSON (I),66,1,57,8,0
+Marion,,United States Senator,,DEM,JIM BARKSDALE,203,33,115,55,0
+Marion,Pineknot,United States Senator,,DEM,JIM BARKSDALE,17,0,14,3,0
+Marion,Buena Vista,United States Senator,,DEM,JIM BARKSDALE,153,29,80,44,0
+Marion,Tazewell,United States Senator,,DEM,JIM BARKSDALE,10,1,8,1,0
+Marion,Brantley,United States Senator,,DEM,JIM BARKSDALE,6,3,0,3,0
+Marion,Ft. Perry,United States Senator,,DEM,JIM BARKSDALE,17,0,13,4,0
+Marion,,United States Senator,,DEM,CHERYL COPELAND,169,11,111,47,0
+Marion,Pineknot,United States Senator,,DEM,CHERYL COPELAND,12,0,8,4,0
+Marion,Buena Vista,United States Senator,,DEM,CHERYL COPELAND,131,11,83,37,0
+Marion,Tazewell,United States Senator,,DEM,CHERYL COPELAND,6,0,6,0,0
+Marion,Brantley,United States Senator,,DEM,CHERYL COPELAND,8,0,3,5,0
+Marion,Ft. Perry,United States Senator,,DEM,CHERYL COPELAND,12,0,11,1,0
+Marion,,United States Senator,,DEM,JOHN F COYNE III,22,4,11,7,0
+Marion,Pineknot,United States Senator,,DEM,JOHN F COYNE III,1,0,1,0,0
+Marion,Buena Vista,United States Senator,,DEM,JOHN F COYNE III,14,2,6,6,0
+Marion,Tazewell,United States Senator,,DEM,JOHN F COYNE III,2,0,1,1,0
+Marion,Brantley,United States Senator,,DEM,JOHN F COYNE III,0,0,0,0,0
+Marion,Ft. Perry,United States Senator,,DEM,JOHN F COYNE III,5,2,3,0,0
+Marion,,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,85,1,65,19,0
+Marion,Pineknot,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,14,0,13,1,0
+Marion,Buena Vista,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,32,0,20,12,0
+Marion,Tazewell,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,10,0,10,0,0
+Marion,Brantley,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,10,0,7,3,0
+Marion,Ft. Perry,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,19,1,15,3,0
+Marion,,Public Service Commission,2,REP,TIM ECHOLS (I),479,13,348,118,0
+Marion,Pineknot,Public Service Commission,2,REP,TIM ECHOLS (I),86,2,80,4,0
+Marion,Buena Vista,Public Service Commission,2,REP,TIM ECHOLS (I),203,5,113,85,0
+Marion,Tazewell,Public Service Commission,2,REP,TIM ECHOLS (I),59,2,48,9,0
+Marion,Brantley,Public Service Commission,2,REP,TIM ECHOLS (I),80,3,65,12,0
+Marion,Ft. Perry,Public Service Commission,2,REP,TIM ECHOLS (I),51,1,42,8,0
+Marion,,Public Service Commission,2,REP,MICHELLE MILLER,172,1,137,34,0
+Marion,Pineknot,Public Service Commission,2,REP,MICHELLE MILLER,36,0,33,3,0
+Marion,Buena Vista,Public Service Commission,2,REP,MICHELLE MILLER,72,0,46,26,0
+Marion,Tazewell,Public Service Commission,2,REP,MICHELLE MILLER,21,0,21,0,0
+Marion,Brantley,Public Service Commission,2,REP,MICHELLE MILLER,18,0,14,4,0
+Marion,Ft. Perry,Public Service Commission,2,REP,MICHELLE MILLER,25,1,23,1,0
+Marion,,U.S. Representative,2,REP,GREG DUKE,433,7,306,120,0
+Marion,Pineknot,U.S. Representative,2,REP,GREG DUKE,55,1,49,5,0
+Marion,Buena Vista,U.S. Representative,2,REP,GREG DUKE,204,4,114,86,0
+Marion,Tazewell,U.S. Representative,2,REP,GREG DUKE,46,0,39,7,0
+Marion,Brantley,U.S. Representative,2,REP,GREG DUKE,68,2,52,14,0
+Marion,Ft. Perry,U.S. Representative,2,REP,GREG DUKE,60,0,52,8,0
+Marion,,U.S. Representative,2,REP,DIANE VANN,152,4,114,34,0
+Marion,Pineknot,U.S. Representative,2,REP,DIANE VANN,26,1,23,2,0
+Marion,Buena Vista,U.S. Representative,2,REP,DIANE VANN,67,0,42,25,0
+Marion,Tazewell,U.S. Representative,2,REP,DIANE VANN,17,0,15,2,0
+Marion,Brantley,U.S. Representative,2,REP,DIANE VANN,21,1,17,3,0
+Marion,Ft. Perry,U.S. Representative,2,REP,DIANE VANN,21,2,17,2,0
+Marion,,U.S. Representative,2,DEM,SANFORD BISHOP (I),479,54,306,119,0
+Marion,Pineknot,U.S. Representative,2,DEM,SANFORD BISHOP (I),32,0,29,3,0
+Marion,Buena Vista,U.S. Representative,2,DEM,SANFORD BISHOP (I),381,49,229,103,0
+Marion,Tazewell,U.S. Representative,2,DEM,SANFORD BISHOP (I),21,2,17,2,0
+Marion,Brantley,U.S. Representative,2,DEM,SANFORD BISHOP (I),10,3,1,6,0
+Marion,Ft. Perry,U.S. Representative,2,DEM,SANFORD BISHOP (I),35,0,30,5,0
+Marion,,State Senator,15,DEM,ED HARBISON (I),402,52,244,106,0
+Marion,Pineknot,State Senator,15,DEM,ED HARBISON (I),26,0,22,4,0
+Marion,Buena Vista,State Senator,15,DEM,ED HARBISON (I),314,47,179,88,0
+Marion,Tazewell,State Senator,15,DEM,ED HARBISON (I),19,2,15,2,0
+Marion,Brantley,State Senator,15,DEM,ED HARBISON (I),11,3,1,7,0
+Marion,Ft. Perry,State Senator,15,DEM,ED HARBISON (I),32,0,27,5,0
+Marion,,State Representative,138,REP,MIKE CHEOKAS (I),487,11,362,114,0
+Marion,Pineknot,State Representative,138,REP,MIKE CHEOKAS (I),92,2,85,5,0
+Marion,Buena Vista,State Representative,138,REP,MIKE CHEOKAS (I),187,5,102,80,0
+Marion,Tazewell,State Representative,138,REP,MIKE CHEOKAS (I),57,0,51,6,0
+Marion,Brantley,State Representative,138,REP,MIKE CHEOKAS (I),82,3,63,16,0
+Marion,Ft. Perry,State Representative,138,REP,MIKE CHEOKAS (I),69,1,61,7,0
+Marion,,State Representative,138,REP,TOMMY PILCHER,337,5,260,72,0
+Marion,Pineknot,State Representative,138,REP,TOMMY PILCHER,56,0,53,3,0
+Marion,Buena Vista,State Representative,138,REP,TOMMY PILCHER,151,1,96,54,0
+Marion,Tazewell,State Representative,138,REP,TOMMY PILCHER,53,2,47,4,0
+Marion,Brantley,State Representative,138,REP,TOMMY PILCHER,36,0,31,5,0
+Marion,Ft. Perry,State Representative,138,REP,TOMMY PILCHER,41,2,33,6,0
+Marion,,State Representative,138,DEM,BILL MCGOWAN,346,44,212,90,0
+Marion,Pineknot,State Representative,138,DEM,BILL MCGOWAN,24,0,20,4,0
+Marion,Buena Vista,State Representative,138,DEM,BILL MCGOWAN,267,41,152,74,0
+Marion,Tazewell,State Representative,138,DEM,BILL MCGOWAN,18,2,14,2,0
+Marion,Brantley,State Representative,138,DEM,BILL MCGOWAN,8,1,2,5,0
+Marion,Ft. Perry,State Representative,138,DEM,BILL MCGOWAN,29,0,24,5,0
+Marion,,District Attorney,Chattahoochee Circuit - DEM,DEM,JULIA  SLATER (I),401,51,243,107,0
+Marion,Pineknot,District Attorney,Chattahoochee Circuit - DEM,DEM,JULIA  SLATER (I),29,0,25,4,0
+Marion,Buena Vista,District Attorney,Chattahoochee Circuit - DEM,DEM,JULIA  SLATER (I),311,46,174,91,0
+Marion,Tazewell,District Attorney,Chattahoochee Circuit - DEM,DEM,JULIA  SLATER (I),20,2,16,2,0
+Marion,Brantley,District Attorney,Chattahoochee Circuit - DEM,DEM,JULIA  SLATER (I),11,3,3,5,0
+Marion,Ft. Perry,District Attorney,Chattahoochee Circuit - DEM,DEM,JULIA  SLATER (I),30,0,25,5,0
+Marion,,CLERK,SUPERIOR COURT - D,I,J. SMITH,403,53,233,117,0
+Marion,Pineknot,CLERK,SUPERIOR COURT - D,I,J. SMITH,30,0,25,5,0
+Marion,Buena Vista,CLERK,SUPERIOR COURT - D,I,J. SMITH,302,48,157,97,0
+Marion,Tazewell,CLERK,SUPERIOR COURT - D,I,J. SMITH,24,2,20,2,0
+Marion,Brantley,CLERK,SUPERIOR COURT - D,I,J. SMITH,14,3,4,7,0
+Marion,Ft. Perry,CLERK,SUPERIOR COURT - D,I,J. SMITH,33,0,27,6,0
+Marion,,SHERIFF - R,,,J. BAXTER,44,0,34,10,0
+Marion,Pineknot,SHERIFF - R,,,J. BAXTER,8,0,8,0,0
+Marion,Buena Vista,SHERIFF - R,,,J. BAXTER,20,0,14,6,0
+Marion,Tazewell,SHERIFF - R,,,J. BAXTER,7,0,5,2,0
+Marion,Brantley,SHERIFF - R,,,J. BAXTER,3,0,1,2,0
+Marion,Ft. Perry,SHERIFF - R,,,J. BAXTER,6,0,6,0,0
+Marion,,SHERIFF - R,,,G. GRIMSLEY,307,7,216,84,0
+Marion,Pineknot,SHERIFF - R,,,G. GRIMSLEY,62,1,61,0,0
+Marion,Buena Vista,SHERIFF - R,,,G. GRIMSLEY,120,4,51,65,0
+Marion,Tazewell,SHERIFF - R,,,G. GRIMSLEY,33,0,30,3,0
+Marion,Brantley,SHERIFF - R,,,G. GRIMSLEY,43,0,34,9,0
+Marion,Ft. Perry,SHERIFF - R,,,G. GRIMSLEY,49,2,40,7,0
+Marion,,SHERIFF - R,,,E. IVEY,246,6,202,38,0
+Marion,Pineknot,SHERIFF - R,,,E. IVEY,50,1,45,4,0
+Marion,Buena Vista,SHERIFF - R,,,E. IVEY,93,1,67,25,0
+Marion,Tazewell,SHERIFF - R,,,E. IVEY,24,0,22,2,0
+Marion,Brantley,SHERIFF - R,,,E. IVEY,45,3,39,3,0
+Marion,Ft. Perry,SHERIFF - R,,,E. IVEY,34,1,29,4,0
+Marion,,SHERIFF - R,,,M. KIRBY,195,1,155,39,0
+Marion,Pineknot,SHERIFF - R,,,M. KIRBY,26,0,24,2,0
+Marion,Buena Vista,SHERIFF - R,,,M. KIRBY,88,0,60,28,0
+Marion,Tazewell,SHERIFF - R,,,M. KIRBY,40,1,37,2,0
+Marion,Brantley,SHERIFF - R,,,M. KIRBY,23,0,19,4,0
+Marion,Ft. Perry,SHERIFF - R,,,M. KIRBY,18,0,15,3,0
+Marion,,SHERIFF - D,,I,D. NEAL,530,55,343,132,0
+Marion,Pineknot,SHERIFF - D,,I,D. NEAL,39,0,33,6,0
+Marion,Buena Vista,SHERIFF - D,,I,D. NEAL,410,49,253,108,0
+Marion,Tazewell,SHERIFF - D,,I,D. NEAL,22,2,18,2,0
+Marion,Brantley,SHERIFF - D,,I,D. NEAL,14,3,4,7,0
+Marion,Ft. Perry,SHERIFF - D,,I,D. NEAL,45,1,35,9,0
+Marion,,TAX COMMISSIONER - D,,I,P. E. GIBSON,443,53,274,116,0
+Marion,Pineknot,TAX COMMISSIONER - D,,I,P. E. GIBSON,37,0,31,6,0
+Marion,Buena Vista,TAX COMMISSIONER - D,,I,P. E. GIBSON,332,48,188,96,0
+Marion,Tazewell,TAX COMMISSIONER - D,,I,P. E. GIBSON,23,2,19,2,0
+Marion,Brantley,TAX COMMISSIONER - D,,I,P. E. GIBSON,14,3,4,7,0
+Marion,Ft. Perry,TAX COMMISSIONER - D,,I,P. E. GIBSON,37,0,32,5,0
+Marion,,CORONER - R,,,J. RODEHEAVER,665,14,504,147,0
+Marion,Pineknot,CORONER - R,,,J. RODEHEAVER,124,2,114,8,0
+Marion,Buena Vista,CORONER - R,,,J. RODEHEAVER,267,4,162,101,0
+Marion,Tazewell,CORONER - R,,,J. RODEHEAVER,88,2,76,10,0
+Marion,Brantley,CORONER - R,,,J. RODEHEAVER,95,3,76,16,0
+Marion,Ft. Perry,CORONER - R,,,J. RODEHEAVER,91,3,76,12,0
+Marion,,CORONER - D,,,T. L. WELCH,411,51,250,110,0
+Marion,Pineknot,CORONER - D,,,T. L. WELCH,30,0,26,4,0
+Marion,Buena Vista,CORONER - D,,,T. L. WELCH,311,46,172,93,0
+Marion,Tazewell,CORONER - D,,,T. L. WELCH,22,2,18,2,0
+Marion,Brantley,CORONER - D,,,T. L. WELCH,14,3,4,7,0
+Marion,Ft. Perry,CORONER - D,,,T. L. WELCH,34,0,30,4,0
+Marion,,Judge,Probate/Magistrate - R,I,H. I. STUART,768,15,581,172,0
+Marion,Pineknot,Judge,Probate/Magistrate - R,I,H. I. STUART,138,2,128,8,0
+Marion,Buena Vista,Judge,Probate/Magistrate - R,I,H. I. STUART,311,5,184,122,0
+Marion,Tazewell,Judge,Probate/Magistrate - R,I,H. I. STUART,109,2,95,12,0
+Marion,Brantley,Judge,Probate/Magistrate - R,I,H. I. STUART,107,3,86,18,0
+Marion,Ft. Perry,Judge,Probate/Magistrate - R,I,H. I. STUART,103,3,88,12,0
+Marion,,Judge,Probate/Magistrate - D,,K. T. BROWN,394,47,251,96,0
+Marion,Pineknot,Judge,Probate/Magistrate - D,,K. T. BROWN,25,0,21,4,0
+Marion,Buena Vista,Judge,Probate/Magistrate - D,,K. T. BROWN,315,44,190,81,0
+Marion,Tazewell,Judge,Probate/Magistrate - D,,K. T. BROWN,15,2,12,1,0
+Marion,Brantley,Judge,Probate/Magistrate - D,,K. T. BROWN,8,1,3,4,0
+Marion,Ft. Perry,Judge,Probate/Magistrate - D,,K. T. BROWN,31,0,25,6,0
+Marion,,CC,AT LARGE - R,,J. KEYT,496,13,384,99,0
+Marion,Pineknot,CC,AT LARGE - R,,J. KEYT,114,2,104,8,0
+Marion,Buena Vista,CC,AT LARGE - R,,J. KEYT,175,3,106,66,0
+Marion,Tazewell,CC,AT LARGE - R,,J. KEYT,62,2,55,5,0
+Marion,Brantley,CC,AT LARGE - R,,J. KEYT,71,3,56,12,0
+Marion,Ft. Perry,CC,AT LARGE - R,,J. KEYT,74,3,63,8,0
+Marion,,CC,AT LARGE - D,I,S. YOUNG,389,48,230,111,0
+Marion,Pineknot,CC,AT LARGE - D,I,S. YOUNG,32,0,26,6,0
+Marion,Buena Vista,CC,AT LARGE - D,I,S. YOUNG,287,43,154,90,0
+Marion,Tazewell,CC,AT LARGE - D,I,S. YOUNG,23,2,19,2,0
+Marion,Brantley,CC,AT LARGE - D,I,S. YOUNG,14,3,4,7,0
+Marion,Ft. Perry,CC,AT LARGE - D,I,S. YOUNG,33,0,27,6,0
+Marion,,CC,D1 - D,I,N. ROYAL,175,32,94,49,0
+Marion,Buena Vista,CC,D1 - D,I,N. ROYAL,171,29,94,48,0
+Marion,Brantley,CC,D1 - D,I,N. ROYAL,4,3,0,1,0
+Marion,,CC,D4 - D,I,"G. NEAL, JR",154,15,107,32,0
+Marion,Buena Vista,CC,D4 - D,I,"G. NEAL, JR",154,15,107,32,0
+Marion,,Republican Party Question 1,,REP,YES,569,9,444,116,0
+Marion,Pineknot,Republican Party Question 1,,REP,YES,120,2,112,6,0
+Marion,Buena Vista,Republican Party Question 1,,REP,YES,202,4,120,78,0
+Marion,Tazewell,Republican Party Question 1,,REP,YES,84,2,74,8,0
+Marion,Brantley,Republican Party Question 1,,REP,YES,69,0,58,11,0
+Marion,Ft. Perry,Republican Party Question 1,,REP,YES,94,1,80,13,0
+Marion,,Republican Party Question 1,,REP,NO,235,4,169,62,0
+Marion,Pineknot,Republican Party Question 1,,REP,NO,31,0,29,2,0
+Marion,Buena Vista,Republican Party Question 1,,REP,NO,121,1,71,49,0
+Marion,Tazewell,Republican Party Question 1,,REP,NO,21,0,20,1,0
+Marion,Brantley,Republican Party Question 1,,REP,NO,44,1,34,9,0
+Marion,Ft. Perry,Republican Party Question 1,,REP,NO,18,2,15,1,0
+Marion,,Democratic Party Question 1,,DEM,YES,432,50,282,100,0
+Marion,Pineknot,Democratic Party Question 1,,DEM,YES,33,0,27,6,0
+Marion,Buena Vista,Democratic Party Question 1,,DEM,YES,327,45,201,81,0
+Marion,Tazewell,Democratic Party Question 1,,DEM,YES,20,2,17,1,0
+Marion,Brantley,Democratic Party Question 1,,DEM,YES,13,3,4,6,0
+Marion,Ft. Perry,Democratic Party Question 1,,DEM,YES,39,0,33,6,0
+Marion,,Democratic Party Question 1,,DEM,NO,77,8,39,30,0
+Marion,Pineknot,Democratic Party Question 1,,DEM,NO,4,0,3,1,0
+Marion,Buena Vista,Democratic Party Question 1,,DEM,NO,60,5,30,25,0
+Marion,Tazewell,Democratic Party Question 1,,DEM,NO,4,0,3,1,0
+Marion,Brantley,Democratic Party Question 1,,DEM,NO,2,0,0,2,0
+Marion,Ft. Perry,Democratic Party Question 1,,DEM,NO,7,3,3,1,0
+Marion,,Democratic Party Question 2,,DEM,YES,466,53,295,118,0
+Marion,Pineknot,Democratic Party Question 2,,DEM,YES,32,0,25,7,0
+Marion,Buena Vista,Democratic Party Question 2,,DEM,YES,363,46,219,98,0
+Marion,Tazewell,Democratic Party Question 2,,DEM,YES,16,2,14,0,0
+Marion,Brantley,Democratic Party Question 2,,DEM,YES,13,3,3,7,0
+Marion,Ft. Perry,Democratic Party Question 2,,DEM,YES,42,2,34,6,0
+Marion,,Democratic Party Question 2,,DEM,NO,54,6,33,15,0
+Marion,Pineknot,Democratic Party Question 2,,DEM,NO,6,0,6,0,0
+Marion,Buena Vista,Democratic Party Question 2,,DEM,NO,32,5,16,11,0
+Marion,Tazewell,Democratic Party Question 2,,DEM,NO,8,0,6,2,0
+Marion,Brantley,Democratic Party Question 2,,DEM,NO,2,0,1,1,0
+Marion,Ft. Perry,Democratic Party Question 2,,DEM,NO,6,1,4,1,0
+Marion,,Democratic Party Question 3,,DEM,YES,441,52,280,109,0
+Marion,Pineknot,Democratic Party Question 3,,DEM,YES,34,0,27,7,0
+Marion,Buena Vista,Democratic Party Question 3,,DEM,YES,331,44,199,88,0
+Marion,Tazewell,Democratic Party Question 3,,DEM,YES,20,2,17,1,0
+Marion,Brantley,Democratic Party Question 3,,DEM,YES,12,3,3,6,0
+Marion,Ft. Perry,Democratic Party Question 3,,DEM,YES,44,3,34,7,0
+Marion,,Democratic Party Question 3,,DEM,NO,64,4,40,20,0
+Marion,Pineknot,Democratic Party Question 3,,DEM,NO,4,0,4,0,0
+Marion,Buena Vista,Democratic Party Question 3,,DEM,NO,51,4,29,18,0
+Marion,Tazewell,Democratic Party Question 3,,DEM,NO,5,0,4,1,0
+Marion,Brantley,Democratic Party Question 3,,DEM,NO,2,0,1,1,0
+Marion,Ft. Perry,Democratic Party Question 3,,DEM,NO,2,0,2,0,0
+Marion,,Democratic Party Question 4,,DEM,YES,410,43,263,104,0
+Marion,Pineknot,Democratic Party Question 4,,DEM,YES,32,0,25,7,0
+Marion,Buena Vista,Democratic Party Question 4,,DEM,YES,314,36,192,86,0
+Marion,Tazewell,Democratic Party Question 4,,DEM,YES,18,2,15,1,0
+Marion,Brantley,Democratic Party Question 4,,DEM,YES,11,3,3,5,0
+Marion,Ft. Perry,Democratic Party Question 4,,DEM,YES,35,2,28,5,0
+Marion,,Democratic Party Question 4,,DEM,NO,85,7,57,21,0
+Marion,Pineknot,Democratic Party Question 4,,DEM,NO,6,0,6,0,0
+Marion,Buena Vista,Democratic Party Question 4,,DEM,NO,59,7,35,17,0
+Marion,Tazewell,Democratic Party Question 4,,DEM,NO,7,0,6,1,0
+Marion,Brantley,Democratic Party Question 4,,DEM,NO,3,0,1,2,0
+Marion,Ft. Perry,Democratic Party Question 4,,DEM,NO,10,0,9,1,0
+Marion,,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,1026,60,726,240,0
+Marion,Pineknot,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,153,2,141,10,0
+Marion,Buena Vista,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,541,45,315,181,0
+Marion,Tazewell,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,109,4,95,10,0
+Marion,Brantley,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,105,6,78,21,0
+Marion,Ft. Perry,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,118,3,97,18,0
+Marion,,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,1037,57,734,246,0
+Marion,Pineknot,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,152,2,139,11,0
+Marion,Buena Vista,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,549,42,323,184,0
+Marion,Tazewell,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,107,4,93,10,0
+Marion,Brantley,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,106,6,77,23,0
+Marion,Ft. Perry,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,123,3,102,18,0
+Marion,,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,1028,58,725,245,0
+Marion,Pineknot,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,148,2,136,10,0
+Marion,Buena Vista,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,543,43,316,184,0
+Marion,Tazewell,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,109,4,95,10,0
+Marion,Brantley,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,106,6,77,23,0
+Marion,Ft. Perry,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,122,3,101,18,0
+Marion,,Superior Court Judge,Chattahoochee Circuit (McBride),I,GIL MCBRIDE,1031,60,734,237,0
+Marion,Pineknot,Superior Court Judge,Chattahoochee Circuit (McBride),I,GIL MCBRIDE,151,2,138,11,0
+Marion,Buena Vista,Superior Court Judge,Chattahoochee Circuit (McBride),I,GIL MCBRIDE,545,44,324,177,0
+Marion,Tazewell,Superior Court Judge,Chattahoochee Circuit (McBride),I,GIL MCBRIDE,105,4,92,9,0
+Marion,Brantley,Superior Court Judge,Chattahoochee Circuit (McBride),I,GIL MCBRIDE,112,6,82,24,0
+Marion,Ft. Perry,Superior Court Judge,Chattahoochee Circuit (McBride),I,GIL MCBRIDE,118,4,98,16,0
+Marion,,Superior Court Judge,Chattahoochee Circuit (Peters),I,BOBBY G. PETERS,1092,62,768,262,0
+Marion,Pineknot,Superior Court Judge,Chattahoochee Circuit (Peters),I,BOBBY G. PETERS,160,2,147,11,0
+Marion,Buena Vista,Superior Court Judge,Chattahoochee Circuit (Peters),I,BOBBY G. PETERS,584,47,339,198,0
+Marion,Tazewell,Superior Court Judge,Chattahoochee Circuit (Peters),I,BOBBY G. PETERS,111,4,97,10,0
+Marion,Brantley,Superior Court Judge,Chattahoochee Circuit (Peters),I,BOBBY G. PETERS,112,6,82,24,0
+Marion,Ft. Perry,Superior Court Judge,Chattahoochee Circuit (Peters),I,BOBBY G. PETERS,125,3,103,19,0
+Marion,,Superior Court Judge,Chattahoochee Circuit (Rumer),I,WILLIAM C.  RUMER,1026,58,723,245,0
+Marion,Pineknot,Superior Court Judge,Chattahoochee Circuit (Rumer),I,WILLIAM C.  RUMER,149,2,136,11,0
+Marion,Buena Vista,Superior Court Judge,Chattahoochee Circuit (Rumer),I,WILLIAM C.  RUMER,542,43,315,184,0
+Marion,Tazewell,Superior Court Judge,Chattahoochee Circuit (Rumer),I,WILLIAM C.  RUMER,105,4,92,9,0
+Marion,Brantley,Superior Court Judge,Chattahoochee Circuit (Rumer),I,WILLIAM C.  RUMER,110,6,81,23,0
+Marion,Ft. Perry,Superior Court Judge,Chattahoochee Circuit (Rumer),I,WILLIAM C.  RUMER,120,3,99,18,0
+Marion,,Superior Court Judge,Chattahoochee Circuit (Smith),I,ART SMITH,994,59,703,232,0
+Marion,Pineknot,Superior Court Judge,Chattahoochee Circuit (Smith),I,ART SMITH,147,2,135,10,0
+Marion,Buena Vista,Superior Court Judge,Chattahoochee Circuit (Smith),I,ART SMITH,521,44,304,173,0
+Marion,Tazewell,Superior Court Judge,Chattahoochee Circuit (Smith),I,ART SMITH,105,4,92,9,0
+Marion,Brantley,Superior Court Judge,Chattahoochee Circuit (Smith),I,ART SMITH,106,6,78,22,0
+Marion,Ft. Perry,Superior Court Judge,Chattahoochee Circuit (Smith),I,ART SMITH,115,3,94,18,0
+Marion,,Superior Court Judge,Chattahoochee Circuit (Mullins),I,RON MULLINS,917,37,665,215,0
+Marion,Pineknot,Superior Court Judge,Chattahoochee Circuit (Mullins),I,RON MULLINS,155,2,141,12,0
+Marion,Buena Vista,Superior Court Judge,Chattahoochee Circuit (Mullins),I,RON MULLINS,432,22,252,158,0
+Marion,Tazewell,Superior Court Judge,Chattahoochee Circuit (Mullins),I,RON MULLINS,115,2,102,11,0
+Marion,Brantley,Superior Court Judge,Chattahoochee Circuit (Mullins),I,RON MULLINS,113,6,83,24,0
+Marion,Ft. Perry,Superior Court Judge,Chattahoochee Circuit (Mullins),I,RON MULLINS,102,5,87,10,0
+Marion,,Superior Court Judge,Chattahoochee Circuit (Mullins),,ALONZA WHITAKER,357,31,235,91,0
+Marion,Pineknot,Superior Court Judge,Chattahoochee Circuit (Mullins),,ALONZA WHITAKER,21,0,20,1,0
+Marion,Buena Vista,Superior Court Judge,Chattahoochee Circuit (Mullins),,ALONZA WHITAKER,270,28,166,76,0
+Marion,Tazewell,Superior Court Judge,Chattahoochee Circuit (Mullins),,ALONZA WHITAKER,15,2,11,2,0
+Marion,Brantley,Superior Court Judge,Chattahoochee Circuit (Mullins),,ALONZA WHITAKER,13,0,9,4,0
+Marion,Ft. Perry,Superior Court Judge,Chattahoochee Circuit (Mullins),,ALONZA WHITAKER,38,1,29,8,0
+Marion,,Superior Court Judge,Chattahoochee Circuit (Gottfried),I,MAUREEN C GOTTFRIED,1001,59,708,234,0
+Marion,Pineknot,Superior Court Judge,Chattahoochee Circuit (Gottfried),I,MAUREEN C GOTTFRIED,152,2,140,10,0
+Marion,Buena Vista,Superior Court Judge,Chattahoochee Circuit (Gottfried),I,MAUREEN C GOTTFRIED,526,44,305,177,0
+Marion,Tazewell,Superior Court Judge,Chattahoochee Circuit (Gottfried),I,MAUREEN C GOTTFRIED,106,4,94,8,0
+Marion,Brantley,Superior Court Judge,Chattahoochee Circuit (Gottfried),I,MAUREEN C GOTTFRIED,103,6,75,22,0
+Marion,Ft. Perry,Superior Court Judge,Chattahoochee Circuit (Gottfried),I,MAUREEN C GOTTFRIED,114,3,94,17,0
+Marion,,BOE,D2,I,A. C. WATSON,323,10,256,57,0
+Marion,Buena Vista,BOE,D2,I,A. C. WATSON,65,3,36,26,0
+Marion,Tazewell,BOE,D2,I,A. C. WATSON,123,4,106,13,0
+Marion,Ft. Perry,BOE,D2,I,A. C. WATSON,135,3,114,18,0
+Marion,,BOE,D3,I,S. GOODROE,282,5,242,35,0
+Marion,Pineknot,BOE,D3,I,S. GOODROE,168,2,155,11,0
+Marion,Brantley,BOE,D3,I,S. GOODROE,114,3,87,24,0
+Marion,,BOE,D4,I,L. WILLIAMS,289,15,196,78,0
+Marion,Buena Vista,BOE,D4,I,L. WILLIAMS,289,15,196,78,0
+Marion,,REFERENDUM,,,YES,747,32,572,143,0
+Marion,Pineknot,REFERENDUM,,,YES,115,1,109,5,0
+Marion,Buena Vista,REFERENDUM,,,YES,388,22,253,113,0
+Marion,Tazewell,REFERENDUM,,,YES,89,1,82,6,0
+Marion,Brantley,REFERENDUM,,,YES,68,4,56,8,0
+Marion,Ft. Perry,REFERENDUM,,,YES,87,4,72,11,0
+Marion,,REFERENDUM,,,NO,577,39,371,167,0
+Marion,Pineknot,REFERENDUM,,,NO,71,1,61,9,0
+Marion,Buena Vista,REFERENDUM,,,NO,336,34,181,121,0
+Marion,Tazewell,REFERENDUM,,,NO,45,3,35,7,0
+Marion,Brantley,REFERENDUM,,,NO,60,0,40,20,0
+Marion,Ft. Perry,REFERENDUM,,,NO,65,1,54,10,0

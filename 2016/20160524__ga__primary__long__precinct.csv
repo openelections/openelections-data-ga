@@ -1,0 +1,365 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Long,,United States Senator,,REP,MARY KAY BACALLAO,40,0,22,17,1
+Long,Beards Creek,United States Senator,,REP,MARY KAY BACALLAO,4,0,4,0,0
+Long,Rye Patch/Oak Dale,United States Senator,,REP,MARY KAY BACALLAO,18,0,10,7,1
+Long,South Ludowici,United States Senator,,REP,MARY KAY BACALLAO,3,0,3,0,0
+Long,North Ludowici,United States Senator,,REP,MARY KAY BACALLAO,3,0,0,3,0
+Long,Tibet,United States Senator,,REP,MARY KAY BACALLAO,2,0,2,0,0
+Long,Alma Flournoy,United States Senator,,REP,MARY KAY BACALLAO,3,0,0,3,0
+Long,Faith Baptist Annex,United States Senator,,REP,MARY KAY BACALLAO,7,0,3,4,0
+Long,,United States Senator,,REP,DERRICK GRAYSON,40,2,20,18,0
+Long,Beards Creek,United States Senator,,REP,DERRICK GRAYSON,5,0,5,0,0
+Long,Rye Patch/Oak Dale,United States Senator,,REP,DERRICK GRAYSON,11,0,9,2,0
+Long,South Ludowici,United States Senator,,REP,DERRICK GRAYSON,3,1,1,1,0
+Long,North Ludowici,United States Senator,,REP,DERRICK GRAYSON,9,1,2,6,0
+Long,Tibet,United States Senator,,REP,DERRICK GRAYSON,1,0,1,0,0
+Long,Alma Flournoy,United States Senator,,REP,DERRICK GRAYSON,3,0,0,3,0
+Long,Faith Baptist Annex,United States Senator,,REP,DERRICK GRAYSON,8,0,2,6,0
+Long,,United States Senator,,REP,JOHNNY ISAKSON (I),191,7,108,76,0
+Long,Beards Creek,United States Senator,,REP,JOHNNY ISAKSON (I),29,1,24,4,0
+Long,Rye Patch/Oak Dale,United States Senator,,REP,JOHNNY ISAKSON (I),59,3,40,16,0
+Long,South Ludowici,United States Senator,,REP,JOHNNY ISAKSON (I),12,0,7,5,0
+Long,North Ludowici,United States Senator,,REP,JOHNNY ISAKSON (I),37,2,9,26,0
+Long,Tibet,United States Senator,,REP,JOHNNY ISAKSON (I),11,0,9,2,0
+Long,Alma Flournoy,United States Senator,,REP,JOHNNY ISAKSON (I),14,1,3,10,0
+Long,Faith Baptist Annex,United States Senator,,REP,JOHNNY ISAKSON (I),29,0,16,13,0
+Long,,United States Senator,,DEM,JIM BARKSDALE,485,6,305,172,2
+Long,Beards Creek,United States Senator,,DEM,JIM BARKSDALE,88,1,69,18,0
+Long,Rye Patch/Oak Dale,United States Senator,,DEM,JIM BARKSDALE,111,0,75,36,0
+Long,South Ludowici,United States Senator,,DEM,JIM BARKSDALE,55,3,30,21,1
+Long,North Ludowici,United States Senator,,DEM,JIM BARKSDALE,60,2,34,24,0
+Long,Tibet,United States Senator,,DEM,JIM BARKSDALE,48,0,45,3,0
+Long,Alma Flournoy,United States Senator,,DEM,JIM BARKSDALE,53,0,20,33,0
+Long,Faith Baptist Annex,United States Senator,,DEM,JIM BARKSDALE,70,0,32,37,1
+Long,,United States Senator,,DEM,CHERYL COPELAND,406,18,210,177,1
+Long,Beards Creek,United States Senator,,DEM,CHERYL COPELAND,82,13,45,24,0
+Long,Rye Patch/Oak Dale,United States Senator,,DEM,CHERYL COPELAND,72,1,41,30,0
+Long,South Ludowici,United States Senator,,DEM,CHERYL COPELAND,60,0,25,34,1
+Long,North Ludowici,United States Senator,,DEM,CHERYL COPELAND,69,1,40,28,0
+Long,Tibet,United States Senator,,DEM,CHERYL COPELAND,29,1,24,4,0
+Long,Alma Flournoy,United States Senator,,DEM,CHERYL COPELAND,35,0,17,18,0
+Long,Faith Baptist Annex,United States Senator,,DEM,CHERYL COPELAND,59,2,18,39,0
+Long,,United States Senator,,DEM,JOHN F COYNE III,88,1,41,45,1
+Long,Beards Creek,United States Senator,,DEM,JOHN F COYNE III,8,0,5,3,0
+Long,Rye Patch/Oak Dale,United States Senator,,DEM,JOHN F COYNE III,19,0,8,11,0
+Long,South Ludowici,United States Senator,,DEM,JOHN F COYNE III,9,0,5,4,0
+Long,North Ludowici,United States Senator,,DEM,JOHN F COYNE III,16,0,8,7,1
+Long,Tibet,United States Senator,,DEM,JOHN F COYNE III,10,0,7,3,0
+Long,Alma Flournoy,United States Senator,,DEM,JOHN F COYNE III,10,0,1,9,0
+Long,Faith Baptist Annex,United States Senator,,DEM,JOHN F COYNE III,16,1,7,8,0
+Long,,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,35,0,21,13,1
+Long,Beards Creek,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,6,0,5,1,0
+Long,Rye Patch/Oak Dale,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,13,0,6,6,1
+Long,South Ludowici,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,1,0,1,0,0
+Long,North Ludowici,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,2,0,0,2,0
+Long,Tibet,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,0,0,0,0,0
+Long,Alma Flournoy,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,3,0,2,1,0
+Long,Faith Baptist Annex,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,10,0,7,3,0
+Long,,Public Service Commission,2,REP,TIM ECHOLS (I),157,5,87,65,0
+Long,Beards Creek,Public Service Commission,2,REP,TIM ECHOLS (I),25,1,21,3,0
+Long,Rye Patch/Oak Dale,Public Service Commission,2,REP,TIM ECHOLS (I),44,1,33,10,0
+Long,South Ludowici,Public Service Commission,2,REP,TIM ECHOLS (I),11,0,6,5,0
+Long,North Ludowici,Public Service Commission,2,REP,TIM ECHOLS (I),35,2,7,26,0
+Long,Tibet,Public Service Commission,2,REP,TIM ECHOLS (I),12,0,11,1,0
+Long,Alma Flournoy,Public Service Commission,2,REP,TIM ECHOLS (I),12,1,1,10,0
+Long,Faith Baptist Annex,Public Service Commission,2,REP,TIM ECHOLS (I),18,0,8,10,0
+Long,,Public Service Commission,2,REP,MICHELLE MILLER,63,2,33,28,0
+Long,Beards Creek,Public Service Commission,2,REP,MICHELLE MILLER,7,0,7,0,0
+Long,Rye Patch/Oak Dale,Public Service Commission,2,REP,MICHELLE MILLER,27,0,18,9,0
+Long,South Ludowici,Public Service Commission,2,REP,MICHELLE MILLER,5,1,3,1,0
+Long,North Ludowici,Public Service Commission,2,REP,MICHELLE MILLER,7,1,1,5,0
+Long,Tibet,Public Service Commission,2,REP,MICHELLE MILLER,1,0,0,1,0
+Long,Alma Flournoy,Public Service Commission,2,REP,MICHELLE MILLER,3,0,0,3,0
+Long,Faith Baptist Annex,Public Service Commission,2,REP,MICHELLE MILLER,13,0,4,9,0
+Long,,U.S. Representative,1,REP,EARL “BUDDY” CARTER (I),246,9,132,104,1
+Long,Beards Creek,U.S. Representative,1,REP,EARL “BUDDY” CARTER (I),35,1,30,4,0
+Long,Rye Patch/Oak Dale,U.S. Representative,1,REP,EARL “BUDDY” CARTER (I),80,3,51,25,1
+Long,South Ludowici,U.S. Representative,1,REP,EARL “BUDDY” CARTER (I),17,1,10,6,0
+Long,North Ludowici,U.S. Representative,1,REP,EARL “BUDDY” CARTER (I),45,3,9,33,0
+Long,Tibet,U.S. Representative,1,REP,EARL “BUDDY” CARTER (I),13,0,11,2,0
+Long,Alma Flournoy,U.S. Representative,1,REP,EARL “BUDDY” CARTER (I),19,1,3,15,0
+Long,Faith Baptist Annex,U.S. Representative,1,REP,EARL “BUDDY” CARTER (I),37,0,18,19,0
+Long,,State Senator,19,REP,DELVIS DUTTON,77,1,49,26,1
+Long,Beards Creek,State Senator,19,REP,DELVIS DUTTON,19,0,19,0,0
+Long,Rye Patch/Oak Dale,State Senator,19,REP,DELVIS DUTTON,26,0,16,9,1
+Long,South Ludowici,State Senator,19,REP,DELVIS DUTTON,3,0,3,0,0
+Long,North Ludowici,State Senator,19,REP,DELVIS DUTTON,12,1,4,7,0
+Long,Tibet,State Senator,19,REP,DELVIS DUTTON,3,0,2,1,0
+Long,Alma Flournoy,State Senator,19,REP,DELVIS DUTTON,5,0,1,4,0
+Long,Faith Baptist Annex,State Senator,19,REP,DELVIS DUTTON,9,0,4,5,0
+Long,,State Senator,19,REP,KEVIN PARKER,81,3,46,32,0
+Long,Beards Creek,State Senator,19,REP,KEVIN PARKER,10,0,9,1,0
+Long,Rye Patch/Oak Dale,State Senator,19,REP,KEVIN PARKER,24,1,17,6,0
+Long,South Ludowici,State Senator,19,REP,KEVIN PARKER,7,0,6,1,0
+Long,North Ludowici,State Senator,19,REP,KEVIN PARKER,12,1,1,10,0
+Long,Tibet,State Senator,19,REP,KEVIN PARKER,6,0,5,1,0
+Long,Alma Flournoy,State Senator,19,REP,KEVIN PARKER,6,1,0,5,0
+Long,Faith Baptist Annex,State Senator,19,REP,KEVIN PARKER,16,0,8,8,0
+Long,,State Senator,19,REP,BLAKE TILLERY,93,3,44,46,0
+Long,Beards Creek,State Senator,19,REP,BLAKE TILLERY,8,1,4,3,0
+Long,Rye Patch/Oak Dale,State Senator,19,REP,BLAKE TILLERY,31,0,22,9,0
+Long,South Ludowici,State Senator,19,REP,BLAKE TILLERY,7,1,1,5,0
+Long,North Ludowici,State Senator,19,REP,BLAKE TILLERY,19,1,3,15,0
+Long,Tibet,State Senator,19,REP,BLAKE TILLERY,6,0,5,1,0
+Long,Alma Flournoy,State Senator,19,REP,BLAKE TILLERY,6,0,1,5,0
+Long,Faith Baptist Annex,State Senator,19,REP,BLAKE TILLERY,16,0,8,8,0
+Long,,State Representative,167,REP,JEFF JONES (I),198,6,109,82,1
+Long,Beards Creek,State Representative,167,REP,JEFF JONES (I),32,1,28,3,0
+Long,Rye Patch/Oak Dale,State Representative,167,REP,JEFF JONES (I),64,1,41,21,1
+Long,South Ludowici,State Representative,167,REP,JEFF JONES (I),17,1,10,6,0
+Long,North Ludowici,State Representative,167,REP,JEFF JONES (I),30,2,6,22,0
+Long,Tibet,State Representative,167,REP,JEFF JONES (I),10,0,8,2,0
+Long,Alma Flournoy,State Representative,167,REP,JEFF JONES (I),15,1,2,12,0
+Long,Faith Baptist Annex,State Representative,167,REP,JEFF JONES (I),30,0,14,16,0
+Long,,CLERK,SUPERIOR COURT - D,I,S. LONG,1442,37,782,613,10
+Long,Beards Creek,CLERK,SUPERIOR COURT - D,I,S. LONG,243,12,169,61,1
+Long,Rye Patch/Oak Dale,CLERK,SUPERIOR COURT - D,I,S. LONG,308,4,178,125,1
+Long,South Ludowici,CLERK,SUPERIOR COURT - D,I,S. LONG,166,5,77,82,2
+Long,North Ludowici,CLERK,SUPERIOR COURT - D,I,S. LONG,211,5,113,89,4
+Long,Tibet,CLERK,SUPERIOR COURT - D,I,S. LONG,132,5,116,11,0
+Long,Alma Flournoy,CLERK,SUPERIOR COURT - D,I,S. LONG,157,2,52,103,0
+Long,Faith Baptist Annex,CLERK,SUPERIOR COURT - D,I,S. LONG,225,4,77,142,2
+Long,,SHERIFF - R,,,T. WORKS,117,5,75,37,0
+Long,Beards Creek,SHERIFF - R,,,T. WORKS,22,1,19,2,0
+Long,Rye Patch/Oak Dale,SHERIFF - R,,,T. WORKS,39,2,28,9,0
+Long,South Ludowici,SHERIFF - R,,,T. WORKS,9,1,6,2,0
+Long,North Ludowici,SHERIFF - R,,,T. WORKS,12,1,3,8,0
+Long,Tibet,SHERIFF - R,,,T. WORKS,8,0,6,2,0
+Long,Alma Flournoy,SHERIFF - R,,,T. WORKS,4,0,1,3,0
+Long,Faith Baptist Annex,SHERIFF - R,,,T. WORKS,23,0,12,11,0
+Long,,SHERIFF - D,,,S. MIDDLETON,412,12,231,169,0
+Long,Beards Creek,SHERIFF - D,,,S. MIDDLETON,30,4,18,8,0
+Long,Rye Patch/Oak Dale,SHERIFF - D,,,S. MIDDLETON,98,1,58,39,0
+Long,South Ludowici,SHERIFF - D,,,S. MIDDLETON,55,2,30,23,0
+Long,North Ludowici,SHERIFF - D,,,S. MIDDLETON,59,0,36,23,0
+Long,Tibet,SHERIFF - D,,,S. MIDDLETON,46,2,44,0,0
+Long,Alma Flournoy,SHERIFF - D,,,S. MIDDLETON,45,0,7,38,0
+Long,Faith Baptist Annex,SHERIFF - D,,,S. MIDDLETON,79,3,38,38,0
+Long,,SHERIFF - D,,I,C. NOBLES,1449,44,815,579,11
+Long,Beards Creek,SHERIFF - D,,I,C. NOBLES,320,19,229,71,1
+Long,Rye Patch/Oak Dale,SHERIFF - D,,I,C. NOBLES,292,3,172,116,1
+Long,South Ludowici,SHERIFF - D,,I,C. NOBLES,161,5,80,73,3
+Long,North Ludowici,SHERIFF - D,,I,C. NOBLES,201,6,107,85,3
+Long,Tibet,SHERIFF - D,,I,C. NOBLES,108,3,93,12,0
+Long,Alma Flournoy,SHERIFF - D,,I,C. NOBLES,150,2,61,87,0
+Long,Faith Baptist Annex,SHERIFF - D,,I,C. NOBLES,217,6,73,135,3
+Long,,TAX COMMISSIONER - D,,I,R. S. FOWLER,1461,43,805,601,12
+Long,Beards Creek,TAX COMMISSIONER - D,,I,R. S. FOWLER,267,18,188,60,1
+Long,Rye Patch/Oak Dale,TAX COMMISSIONER - D,,I,R. S. FOWLER,300,3,177,119,1
+Long,South Ludowici,TAX COMMISSIONER - D,,I,R. S. FOWLER,179,5,83,88,3
+Long,North Ludowici,TAX COMMISSIONER - D,,I,R. S. FOWLER,189,6,109,70,4
+Long,Tibet,TAX COMMISSIONER - D,,I,R. S. FOWLER,129,5,114,10,0
+Long,Alma Flournoy,TAX COMMISSIONER - D,,I,R. S. FOWLER,165,2,54,109,0
+Long,Faith Baptist Annex,TAX COMMISSIONER - D,,I,R. S. FOWLER,232,4,80,145,3
+Long,,CORONER - D,,I,E. M. PATTERSON,1333,43,709,573,8
+Long,Beards Creek,CORONER - D,,I,E. M. PATTERSON,207,16,143,47,1
+Long,Rye Patch/Oak Dale,CORONER - D,,I,E. M. PATTERSON,284,4,160,119,1
+Long,South Ludowici,CORONER - D,,I,E. M. PATTERSON,162,6,75,79,2
+Long,North Ludowici,CORONER - D,,I,E. M. PATTERSON,183,6,100,75,2
+Long,Tibet,CORONER - D,,I,E. M. PATTERSON,121,5,104,12,0
+Long,Alma Flournoy,CORONER - D,,I,E. M. PATTERSON,150,1,46,103,0
+Long,Faith Baptist Annex,CORONER - D,,I,E. M. PATTERSON,226,5,81,138,2
+Long,,CC,D1 - R,,B. J. BRAY,28,1,23,4,0
+Long,Beards Creek,CC,D1 - R,,B. J. BRAY,28,1,23,4,0
+Long,,CC,D1 - D,I,G. M. BLOCKER,159,2,124,32,1
+Long,Beards Creek,CC,D1 - D,I,G. M. BLOCKER,159,2,124,32,1
+Long,,CC,D1 - D,,D. RICHARDSON,191,21,124,46,0
+Long,Beards Creek,CC,D1 - D,,D. RICHARDSON,191,21,124,46,0
+Long,,CC,D2 - R,,M. RIDDLE,54,1,33,19,1
+Long,Rye Patch/Oak Dale,CC,D2 - R,,M. RIDDLE,54,1,33,19,1
+Long,,CC,D2 - D,,C. R. BRADY,126,1,82,43,0
+Long,Rye Patch/Oak Dale,CC,D2 - D,,C. R. BRADY,126,1,82,43,0
+Long,,CC,D2 - D,I,R. A. LONG,130,2,81,47,0
+Long,Rye Patch/Oak Dale,CC,D2 - D,I,R. A. LONG,130,2,81,47,0
+Long,,CC,D2 - D,,W. A. SHAW  I,125,0,65,60,0
+Long,Rye Patch/Oak Dale,CC,D2 - D,,W. A. SHAW  I,125,0,65,60,0
+Long,,CC,D3 - D,,W. PELTON,99,5,46,48,0
+Long,South Ludowici,CC,D3 - D,,W. PELTON,99,5,46,48,0
+Long,,CC,D3 - D,I,W. F. THOMPSON,103,2,57,43,1
+Long,South Ludowici,CC,D3 - D,I,W. F. THOMPSON,103,2,57,43,1
+Long,,CC,D4 - R,I,C. L. DELOACH,41,3,8,29,1
+Long,North Ludowici,CC,D4 - R,I,C. L. DELOACH,41,3,8,29,1
+Long,,CC,D5 - R,,R. L. KLINGENSMITH,50,0,21,29,0
+Long,Tibet,CC,D5 - R,,R. L. KLINGENSMITH,9,0,7,2,0
+Long,Alma Flournoy,CC,D5 - R,,R. L. KLINGENSMITH,12,0,2,10,0
+Long,Faith Baptist Annex,CC,D5 - R,,R. L. KLINGENSMITH,29,0,12,17,0
+Long,,CC,D5 - D,I,D. GORDON,297,8,157,132,0
+Long,Tibet,CC,D5 - D,I,D. GORDON,81,3,75,3,0
+Long,Alma Flournoy,CC,D5 - D,I,D. GORDON,76,1,26,49,0
+Long,Faith Baptist Annex,CC,D5 - D,I,D. GORDON,140,4,56,80,0
+Long,,CC,D5 - D,,B. WALKER,312,5,146,161,0
+Long,Tibet,CC,D5 - D,,B. WALKER,68,2,58,8,0
+Long,Alma Flournoy,CC,D5 - D,,B. WALKER,112,0,39,73,0
+Long,Faith Baptist Annex,CC,D5 - D,,B. WALKER,132,3,49,80,0
+Long,,Republican Party Question 1,,REP,YES,193,5,107,80,1
+Long,Beards Creek,Republican Party Question 1,,REP,YES,32,0,28,4,0
+Long,Rye Patch/Oak Dale,Republican Party Question 1,,REP,YES,57,2,37,17,1
+Long,South Ludowici,Republican Party Question 1,,REP,YES,14,1,9,4,0
+Long,North Ludowici,Republican Party Question 1,,REP,YES,38,1,9,28,0
+Long,Tibet,Republican Party Question 1,,REP,YES,13,0,11,2,0
+Long,Alma Flournoy,Republican Party Question 1,,REP,YES,12,1,2,9,0
+Long,Faith Baptist Annex,Republican Party Question 1,,REP,YES,27,0,11,16,0
+Long,,Republican Party Question 1,,REP,NO,78,4,39,35,0
+Long,Beards Creek,Republican Party Question 1,,REP,NO,8,1,7,0,0
+Long,Rye Patch/Oak Dale,Republican Party Question 1,,REP,NO,29,1,17,11,0
+Long,South Ludowici,Republican Party Question 1,,REP,NO,3,0,1,2,0
+Long,North Ludowici,Republican Party Question 1,,REP,NO,13,2,2,9,0
+Long,Tibet,Republican Party Question 1,,REP,NO,2,0,2,0,0
+Long,Alma Flournoy,Republican Party Question 1,,REP,NO,8,0,1,7,0
+Long,Faith Baptist Annex,Republican Party Question 1,,REP,NO,15,0,9,6,0
+Long,,Democratic Party Question 1,,DEM,YES,1110,37,633,429,11
+Long,Beards Creek,Democratic Party Question 1,,DEM,YES,221,18,151,51,1
+Long,Rye Patch/Oak Dale,Democratic Party Question 1,,DEM,YES,227,1,140,85,1
+Long,South Ludowici,Democratic Party Question 1,,DEM,YES,148,4,76,65,3
+Long,North Ludowici,Democratic Party Question 1,,DEM,YES,152,5,86,57,4
+Long,Tibet,Democratic Party Question 1,,DEM,YES,91,5,80,6,0
+Long,Alma Flournoy,Democratic Party Question 1,,DEM,YES,108,0,44,64,0
+Long,Faith Baptist Annex,Democratic Party Question 1,,DEM,YES,163,4,56,101,2
+Long,,Democratic Party Question 1,,DEM,NO,595,10,322,262,1
+Long,Beards Creek,Democratic Party Question 1,,DEM,NO,83,1,63,19,0
+Long,Rye Patch/Oak Dale,Democratic Party Question 1,,DEM,NO,137,3,76,58,0
+Long,South Ludowici,Democratic Party Question 1,,DEM,NO,48,2,19,27,0
+Long,North Ludowici,Democratic Party Question 1,,DEM,NO,92,1,47,44,0
+Long,Tibet,Democratic Party Question 1,,DEM,NO,53,0,47,6,0
+Long,Alma Flournoy,Democratic Party Question 1,,DEM,NO,74,1,23,50,0
+Long,Faith Baptist Annex,Democratic Party Question 1,,DEM,NO,108,2,47,58,1
+Long,,Democratic Party Question 2,,DEM,YES,1357,43,759,545,10
+Long,Beards Creek,Democratic Party Question 2,,DEM,YES,250,19,176,54,1
+Long,Rye Patch/Oak Dale,Democratic Party Question 2,,DEM,YES,276,3,167,105,1
+Long,South Ludowici,Democratic Party Question 2,,DEM,YES,167,6,83,75,3
+Long,North Ludowici,Democratic Party Question 2,,DEM,YES,191,6,103,79,3
+Long,Tibet,Democratic Party Question 2,,DEM,YES,116,5,101,10,0
+Long,Alma Flournoy,Democratic Party Question 2,,DEM,YES,141,1,44,96,0
+Long,Faith Baptist Annex,Democratic Party Question 2,,DEM,YES,216,3,85,126,2
+Long,,Democratic Party Question 2,,DEM,NO,366,5,202,157,2
+Long,Beards Creek,Democratic Party Question 2,,DEM,NO,59,0,42,17,0
+Long,Rye Patch/Oak Dale,Democratic Party Question 2,,DEM,NO,93,1,52,40,0
+Long,South Ludowici,Democratic Party Question 2,,DEM,NO,31,0,14,17,0
+Long,North Ludowici,Democratic Party Question 2,,DEM,NO,52,0,29,22,1
+Long,Tibet,Democratic Party Question 2,,DEM,NO,29,0,27,2,0
+Long,Alma Flournoy,Democratic Party Question 2,,DEM,NO,41,1,19,21,0
+Long,Faith Baptist Annex,Democratic Party Question 2,,DEM,NO,61,3,19,38,1
+Long,,Democratic Party Question 3,,DEM,YES,1402,40,775,576,11
+Long,Beards Creek,Democratic Party Question 3,,DEM,YES,262,18,179,64,1
+Long,Rye Patch/Oak Dale,Democratic Party Question 3,,DEM,YES,288,3,175,110,0
+Long,South Ludowici,Democratic Party Question 3,,DEM,YES,168,6,77,82,3
+Long,North Ludowici,Democratic Party Question 3,,DEM,YES,204,5,108,87,4
+Long,Tibet,Democratic Party Question 3,,DEM,YES,120,3,105,12,0
+Long,Alma Flournoy,Democratic Party Question 3,,DEM,YES,155,0,54,101,0
+Long,Faith Baptist Annex,Democratic Party Question 3,,DEM,YES,205,5,77,120,3
+Long,,Democratic Party Question 3,,DEM,NO,312,6,187,119,0
+Long,Beards Creek,Democratic Party Question 3,,DEM,NO,46,1,38,7,0
+Long,Rye Patch/Oak Dale,Democratic Party Question 3,,DEM,NO,80,1,45,34,0
+Long,South Ludowici,Democratic Party Question 3,,DEM,NO,27,0,18,9,0
+Long,North Ludowici,Democratic Party Question 3,,DEM,NO,39,0,26,13,0
+Long,Tibet,Democratic Party Question 3,,DEM,NO,24,2,22,0,0
+Long,Alma Flournoy,Democratic Party Question 3,,DEM,NO,26,1,11,14,0
+Long,Faith Baptist Annex,Democratic Party Question 3,,DEM,NO,70,1,27,42,0
+Long,,Democratic Party Question 4,,DEM,YES,1141,32,647,456,6
+Long,Beards Creek,Democratic Party Question 4,,DEM,YES,215,14,152,49,0
+Long,Rye Patch/Oak Dale,Democratic Party Question 4,,DEM,YES,229,2,141,85,1
+Long,South Ludowici,Democratic Party Question 4,,DEM,YES,158,5,73,78,2
+Long,North Ludowici,Democratic Party Question 4,,DEM,YES,160,4,89,66,1
+Long,Tibet,Democratic Party Question 4,,DEM,YES,99,4,85,10,0
+Long,Alma Flournoy,Democratic Party Question 4,,DEM,YES,119,0,47,72,0
+Long,Faith Baptist Annex,Democratic Party Question 4,,DEM,YES,161,3,60,96,2
+Long,,Democratic Party Question 4,,DEM,NO,525,13,290,216,6
+Long,Beards Creek,Democratic Party Question 4,,DEM,NO,78,4,57,16,1
+Long,Rye Patch/Oak Dale,Democratic Party Question 4,,DEM,NO,132,2,77,53,0
+Long,South Ludowici,Democratic Party Question 4,,DEM,NO,32,0,18,13,1
+Long,North Ludowici,Democratic Party Question 4,,DEM,NO,79,2,42,32,3
+Long,Tibet,Democratic Party Question 4,,DEM,NO,40,1,37,2,0
+Long,Alma Flournoy,Democratic Party Question 4,,DEM,NO,57,1,17,39,0
+Long,Faith Baptist Annex,Democratic Party Question 4,,DEM,NO,107,3,42,61,1
+Long,,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,1363,34,754,569,6
+Long,Beards Creek,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,231,14,166,51,0
+Long,Rye Patch/Oak Dale,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,306,3,194,108,1
+Long,South Ludowici,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,155,3,77,73,2
+Long,North Ludowici,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,200,6,97,95,2
+Long,Tibet,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,107,3,93,11,0
+Long,Alma Flournoy,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,138,1,40,97,0
+Long,Faith Baptist Annex,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,226,4,87,134,1
+Long,,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,1378,38,761,573,6
+Long,Beards Creek,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,241,16,174,51,0
+Long,Rye Patch/Oak Dale,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,306,3,193,109,1
+Long,South Ludowici,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,156,5,74,75,2
+Long,North Ludowici,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,197,6,97,92,2
+Long,Tibet,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,110,3,95,12,0
+Long,Alma Flournoy,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,141,1,42,98,0
+Long,Faith Baptist Annex,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,227,4,86,136,1
+Long,,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,1355,38,746,567,4
+Long,Beards Creek,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,232,16,168,48,0
+Long,Rye Patch/Oak Dale,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,303,3,190,109,1
+Long,South Ludowici,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,155,5,74,75,1
+Long,North Ludowici,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,200,6,96,96,2
+Long,Tibet,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,108,3,94,11,0
+Long,Alma Flournoy,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,137,1,39,97,0
+Long,Faith Baptist Annex,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,220,4,85,131,0
+Long,,Superior Court Judge,Atlantic Circuit (Rose),I,CHARLES PAUL ROSE JR,1500,47,823,626,4
+Long,Beards Creek,Superior Court Judge,Atlantic Circuit (Rose),I,CHARLES PAUL ROSE JR,258,16,188,54,0
+Long,Rye Patch/Oak Dale,Superior Court Judge,Atlantic Circuit (Rose),I,CHARLES PAUL ROSE JR,334,6,206,121,1
+Long,South Ludowici,Superior Court Judge,Atlantic Circuit (Rose),I,CHARLES PAUL ROSE JR,166,5,77,83,1
+Long,North Ludowici,Superior Court Judge,Atlantic Circuit (Rose),I,CHARLES PAUL ROSE JR,211,8,103,98,2
+Long,Tibet,Superior Court Judge,Atlantic Circuit (Rose),I,CHARLES PAUL ROSE JR,126,4,108,14,0
+Long,Alma Flournoy,Superior Court Judge,Atlantic Circuit (Rose),I,CHARLES PAUL ROSE JR,158,3,49,106,0
+Long,Faith Baptist Annex,Superior Court Judge,Atlantic Circuit (Rose),I,CHARLES PAUL ROSE JR,247,5,92,150,0
+Long,,Superior Court Judge,Atlantic Circuit (Russell),I,ROBERT L. RUSSELL,1505,45,819,636,5
+Long,Beards Creek,Superior Court Judge,Atlantic Circuit (Russell),I,ROBERT L. RUSSELL,264,15,188,61,0
+Long,Rye Patch/Oak Dale,Superior Court Judge,Atlantic Circuit (Russell),I,ROBERT L. RUSSELL,334,6,203,124,1
+Long,South Ludowici,Superior Court Judge,Atlantic Circuit (Russell),I,ROBERT L. RUSSELL,172,5,80,85,2
+Long,North Ludowici,Superior Court Judge,Atlantic Circuit (Russell),I,ROBERT L. RUSSELL,211,9,101,99,2
+Long,Tibet,Superior Court Judge,Atlantic Circuit (Russell),I,ROBERT L. RUSSELL,123,4,106,13,0
+Long,Alma Flournoy,Superior Court Judge,Atlantic Circuit (Russell),I,ROBERT L. RUSSELL,156,2,49,105,0
+Long,Faith Baptist Annex,Superior Court Judge,Atlantic Circuit (Russell),I,ROBERT L. RUSSELL,245,4,92,149,0
+Long,,JUDGE,STATE COURT,I,J. L. ARNOLD,1525,43,835,641,6
+Long,Beards Creek,JUDGE,STATE COURT,I,J. L. ARNOLD,266,16,191,59,0
+Long,Rye Patch/Oak Dale,JUDGE,STATE COURT,I,J. L. ARNOLD,348,6,214,126,2
+Long,South Ludowici,JUDGE,STATE COURT,I,J. L. ARNOLD,171,5,83,81,2
+Long,North Ludowici,JUDGE,STATE COURT,I,J. L. ARNOLD,216,8,105,101,2
+Long,Tibet,JUDGE,STATE COURT,I,J. L. ARNOLD,122,3,106,13,0
+Long,Alma Flournoy,JUDGE,STATE COURT,I,J. L. ARNOLD,156,1,47,108,0
+Long,Faith Baptist Annex,JUDGE,STATE COURT,I,J. L. ARNOLD,246,4,89,153,0
+Long,,Probate Judge,,,R. S. DEEN,573,19,341,211,2
+Long,Beards Creek,Probate Judge,,,R. S. DEEN,95,8,74,13,0
+Long,Rye Patch/Oak Dale,Probate Judge,,,R. S. DEEN,103,2,62,38,1
+Long,South Ludowici,Probate Judge,,,R. S. DEEN,80,1,41,38,0
+Long,North Ludowici,Probate Judge,,,R. S. DEEN,72,3,43,26,0
+Long,Tibet,Probate Judge,,,R. S. DEEN,72,2,65,5,0
+Long,Alma Flournoy,Probate Judge,,,R. S. DEEN,69,1,21,47,0
+Long,Faith Baptist Annex,Probate Judge,,,R. S. DEEN,82,2,35,44,1
+Long,,Probate Judge,,,T. L. ODUM,634,16,352,262,4
+Long,Beards Creek,Probate Judge,,,T. L. ODUM,84,5,63,16,0
+Long,Rye Patch/Oak Dale,Probate Judge,,,T. L. ODUM,170,1,102,66,1
+Long,South Ludowici,Probate Judge,,,T. L. ODUM,51,1,25,23,2
+Long,North Ludowici,Probate Judge,,,T. L. ODUM,113,5,58,50,0
+Long,Tibet,Probate Judge,,,T. L. ODUM,44,1,38,5,0
+Long,Alma Flournoy,Probate Judge,,,T. L. ODUM,63,0,21,42,0
+Long,Faith Baptist Annex,Probate Judge,,,T. L. ODUM,109,3,45,60,1
+Long,,Probate Judge,,,B. H. SMITH,912,29,491,385,7
+Long,Beards Creek,Probate Judge,,,B. H. SMITH,196,10,135,50,1
+Long,Rye Patch/Oak Dale,Probate Judge,,,B. H. SMITH,201,4,120,77,0
+Long,South Ludowici,Probate Judge,,,B. H. SMITH,98,6,53,39,0
+Long,North Ludowici,Probate Judge,,,B. H. SMITH,125,1,51,68,5
+Long,Tibet,Probate Judge,,,B. H. SMITH,56,2,49,5,0
+Long,Alma Flournoy,Probate Judge,,,B. H. SMITH,83,2,30,51,0
+Long,Faith Baptist Annex,Probate Judge,,,B. H. SMITH,153,4,53,95,1
+Long,,BOE,D1,I,M. D. DELOAC,290,15,215,60,0
+Long,Beards Creek,BOE,D1,I,M. D. DELOAC,290,15,215,60,0
+Long,,BOE,D2,,A. DAVIS,148,3,91,54,0
+Long,Rye Patch/Oak Dale,BOE,D2,,A. DAVIS,148,3,91,54,0
+Long,,BOE,D2,I,C. L. WILLIAMSON,293,4,172,116,1
+Long,Rye Patch/Oak Dale,BOE,D2,I,C. L. WILLIAMSON,293,4,172,116,1
+Long,,BOE,D3,I,F. O. BAGGS,183,4,95,83,1
+Long,South Ludowici,BOE,D3,I,F. O. BAGGS,183,4,95,83,1
+Long,,BOE,D4,,L. S. DELOACH,185,9,72,101,3
+Long,North Ludowici,BOE,D4,,L. S. DELOACH,185,9,72,101,3
+Long,,BOE,D4,I,J. M. WATFORD,120,0,78,42,0
+Long,North Ludowici,BOE,D4,I,J. M. WATFORD,120,0,78,42,0
+Long,,BOE,D5,I,J. N. DAWSON,384,10,183,191,0
+Long,Tibet,BOE,D5,I,J. N. DAWSON,105,2,93,10,0
+Long,Alma Flournoy,BOE,D5,I,J. N. DAWSON,118,2,32,84,0
+Long,Faith Baptist Annex,BOE,D5,I,J. N. DAWSON,161,6,58,97,0
+Long,,BOE,D5,,B. HOWARD,304,6,154,144,0
+Long,Tibet,BOE,D5,,B. HOWARD,60,2,53,5,0
+Long,Alma Flournoy,BOE,D5,,B. HOWARD,90,1,36,53,0
+Long,Faith Baptist Annex,BOE,D5,,B. HOWARD,154,3,65,86,0
