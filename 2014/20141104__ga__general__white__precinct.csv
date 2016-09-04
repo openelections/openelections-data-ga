@@ -1,0 +1,541 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+White,,United States Senator,,R,DAVID A. PERDUE,5948,331,3923,1692,2
+White,Blue Creek,United States Senator,,R,DAVID A. PERDUE,770,29,534,207,0
+White,Blue Ridge,United States Senator,,R,DAVID A. PERDUE,267,11,185,71,0
+White,Helen,United States Senator,,R,DAVID A. PERDUE,151,2,115,34,0
+White,Mossy Creek,United States Senator,,R,DAVID A. PERDUE,866,54,635,176,1
+White,Mt. Yonah,United States Senator,,R,DAVID A. PERDUE,1212,81,698,433,0
+White,Nacoochee,United States Senator,,R,DAVID A. PERDUE,541,38,299,203,1
+White,Robertstown,United States Senator,,R,DAVID A. PERDUE,114,8,86,20,0
+White,Shoal Creek,United States Senator,,R,DAVID A. PERDUE,652,34,471,147,0
+White,Tesnatee,United States Senator,,R,DAVID A. PERDUE,355,22,208,125,0
+White,Town Creek,United States Senator,,R,DAVID A. PERDUE,465,20,294,151,0
+White,White Creek,United States Senator,,R,DAVID A. PERDUE,555,32,398,125,0
+White,,United States Senator,,D,M. MICHELLE NUNN,1512,101,871,539,1
+White,Blue Creek,United States Senator,,D,M. MICHELLE NUNN,213,5,116,91,1
+White,Blue Ridge,United States Senator,,D,M. MICHELLE NUNN,67,1,41,25,0
+White,Helen,United States Senator,,D,M. MICHELLE NUNN,72,3,51,18,0
+White,Mossy Creek,United States Senator,,D,M. MICHELLE NUNN,179,19,103,57,0
+White,Mt. Yonah,United States Senator,,D,M. MICHELLE NUNN,280,29,127,124,0
+White,Nacoochee,United States Senator,,D,M. MICHELLE NUNN,238,17,131,90,0
+White,Robertstown,United States Senator,,D,M. MICHELLE NUNN,43,3,27,13,0
+White,Shoal Creek,United States Senator,,D,M. MICHELLE NUNN,149,5,105,39,0
+White,Tesnatee,United States Senator,,D,M. MICHELLE NUNN,91,4,44,43,0
+White,Town Creek,United States Senator,,D,M. MICHELLE NUNN,94,6,60,28,0
+White,White Creek,United States Senator,,D,M. MICHELLE NUNN,86,9,66,11,0
+White,,United States Senator,,L,AMANDA C. SWAFFORD,222,17,164,41,0
+White,Blue Creek,United States Senator,,L,AMANDA C. SWAFFORD,41,3,35,3,0
+White,Blue Ridge,United States Senator,,L,AMANDA C. SWAFFORD,5,0,5,0,0
+White,Helen,United States Senator,,L,AMANDA C. SWAFFORD,10,0,8,2,0
+White,Mossy Creek,United States Senator,,L,AMANDA C. SWAFFORD,26,7,15,4,0
+White,Mt. Yonah,United States Senator,,L,AMANDA C. SWAFFORD,37,1,26,10,0
+White,Nacoochee,United States Senator,,L,AMANDA C. SWAFFORD,9,1,6,2,0
+White,Robertstown,United States Senator,,L,AMANDA C. SWAFFORD,7,0,5,2,0
+White,Shoal Creek,United States Senator,,L,AMANDA C. SWAFFORD,23,1,20,2,0
+White,Tesnatee,United States Senator,,L,AMANDA C. SWAFFORD,15,0,9,6,0
+White,Town Creek,United States Senator,,L,AMANDA C. SWAFFORD,22,3,14,5,0
+White,White Creek,United States Senator,,L,AMANDA C. SWAFFORD,27,1,21,5,0
+White,,Governor,,(R,J. NATHAN DEAL (I),5985,340,3952,1690,3
+White,Blue Creek,Governor,,(R,J. NATHAN DEAL (I),768,29,533,205,1
+White,Blue Ridge,Governor,,(R,J. NATHAN DEAL (I),272,11,188,73,0
+White,Helen,Governor,,(R,J. NATHAN DEAL (I),145,2,115,28,0
+White,Mossy Creek,Governor,,(R,J. NATHAN DEAL (I),869,59,635,174,1
+White,Mt. Yonah,Governor,,(R,J. NATHAN DEAL (I),1227,85,704,438,0
+White,Nacoochee,Governor,,(R,J. NATHAN DEAL (I),542,36,300,205,1
+White,Robertstown,Governor,,(R,J. NATHAN DEAL (I),121,9,92,20,0
+White,Shoal Creek,Governor,,(R,J. NATHAN DEAL (I),663,35,481,147,0
+White,Tesnatee,Governor,,(R,J. NATHAN DEAL (I),352,20,208,124,0
+White,Town Creek,Governor,,(R,J. NATHAN DEAL (I),459,19,293,147,0
+White,White Creek,Governor,,(R,J. NATHAN DEAL (I),567,35,403,129,0
+White,,Governor,,D,JASON J. CARTER,1417,86,812,519,0
+White,Blue Creek,Governor,,D,JASON J. CARTER,212,4,114,94,0
+White,Blue Ridge,Governor,,D,JASON J. CARTER,59,1,33,25,0
+White,Helen,Governor,,D,JASON J. CARTER,72,3,47,22,0
+White,Mossy Creek,Governor,,D,JASON J. CARTER,161,15,90,56,0
+White,Mt. Yonah,Governor,,D,JASON J. CARTER,257,23,124,110,0
+White,Nacoochee,Governor,,D,JASON J. CARTER,226,19,122,85,0
+White,Robertstown,Governor,,D,JASON J. CARTER,37,1,24,12,0
+White,Shoal Creek,Governor,,D,JASON J. CARTER,129,2,93,34,0
+White,Tesnatee,Governor,,D,JASON J. CARTER,100,6,51,43,0
+White,Town Creek,Governor,,D,JASON J. CARTER,92,6,58,28,0
+White,White Creek,Governor,,D,JASON J. CARTER,72,6,56,10,0
+White,,Governor,,L,ANDREW T. HUNT,263,21,184,58,0
+White,Blue Creek,Governor,,L,ANDREW T. HUNT,45,4,36,5,0
+White,Blue Ridge,Governor,,L,ANDREW T. HUNT,10,0,10,0,0
+White,Helen,Governor,,L,ANDREW T. HUNT,10,0,8,2,0
+White,Mossy Creek,Governor,,L,ANDREW T. HUNT,30,6,20,4,0
+White,Mt. Yonah,Governor,,L,ANDREW T. HUNT,45,3,26,16,0
+White,Nacoochee,Governor,,L,ANDREW T. HUNT,17,1,11,5,0
+White,Robertstown,Governor,,L,ANDREW T. HUNT,8,1,4,3,0
+White,Shoal Creek,Governor,,L,ANDREW T. HUNT,30,2,23,5,0
+White,Tesnatee,Governor,,L,ANDREW T. HUNT,12,0,8,4,0
+White,Town Creek,Governor,,L,ANDREW T. HUNT,31,3,17,11,0
+White,White Creek,Governor,,L,ANDREW T. HUNT,25,1,21,3,0
+White,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",6414,359,4231,1821,3
+White,Blue Creek,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",840,30,581,228,1
+White,Blue Ridge,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",285,11,198,76,0
+White,Helen,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",173,2,132,39,0
+White,Mossy Creek,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",924,62,672,189,1
+White,Mt. Yonah,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1304,90,750,464,0
+White,Nacoochee,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",573,38,322,212,1
+White,Robertstown,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",130,9,94,27,0
+White,Shoal Creek,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",705,35,510,160,0
+White,Tesnatee,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",386,21,225,140,0
+White,Town Creek,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",493,25,313,155,0
+White,White Creek,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",601,36,434,131,0
+White,,Lieutenant Governor,,D,CONNIE J. STOKES,1175,81,666,428,0
+White,Blue Creek,Lieutenant Governor,,D,CONNIE J. STOKES,168,5,91,72,0
+White,Blue Ridge,Lieutenant Governor,,D,CONNIE J. STOKES,49,1,27,21,0
+White,Helen,Lieutenant Governor,,D,CONNIE J. STOKES,54,3,37,14,0
+White,Mossy Creek,Lieutenant Governor,,D,CONNIE J. STOKES,139,14,76,49,0
+White,Mt. Yonah,Lieutenant Governor,,D,CONNIE J. STOKES,214,20,96,98,0
+White,Nacoochee,Lieutenant Governor,,D,CONNIE J. STOKES,206,18,111,77,0
+White,Robertstown,Lieutenant Governor,,D,CONNIE J. STOKES,34,2,24,8,0
+White,Shoal Creek,Lieutenant Governor,,D,CONNIE J. STOKES,105,3,79,23,0
+White,Tesnatee,Lieutenant Governor,,D,CONNIE J. STOKES,72,5,36,31,0
+White,Town Creek,Lieutenant Governor,,D,CONNIE J. STOKES,77,4,46,27,0
+White,White Creek,Lieutenant Governor,,D,CONNIE J. STOKES,57,6,43,8,0
+White,,Secretary Of State,,(R,BRIAN P. KEMP (I),6291,346,4166,1776,3
+White,Blue Creek,Secretary Of State,,(R,BRIAN P. KEMP (I),810,27,559,223,1
+White,Blue Ridge,Secretary Of State,,(R,BRIAN P. KEMP (I),277,11,191,75,0
+White,Helen,Secretary Of State,,(R,BRIAN P. KEMP (I),165,2,126,37,0
+White,Mossy Creek,Secretary Of State,,(R,BRIAN P. KEMP (I),913,57,670,185,1
+White,Mt. Yonah,Secretary Of State,,(R,BRIAN P. KEMP (I),1291,86,746,459,0
+White,Nacoochee,Secretary Of State,,(R,BRIAN P. KEMP (I),560,39,313,207,1
+White,Robertstown,Secretary Of State,,(R,BRIAN P. KEMP (I),127,10,92,25,0
+White,Shoal Creek,Secretary Of State,,(R,BRIAN P. KEMP (I),692,35,508,149,0
+White,Tesnatee,Secretary Of State,,(R,BRIAN P. KEMP (I),369,20,216,133,0
+White,Town Creek,Secretary Of State,,(R,BRIAN P. KEMP (I),488,22,311,155,0
+White,White Creek,Secretary Of State,,(R,BRIAN P. KEMP (I),599,37,434,128,0
+White,,Secretary Of State,,D,DOREEN CARTER,1280,90,718,472,0
+White,Blue Creek,Secretary Of State,,D,DOREEN CARTER,190,7,108,75,0
+White,Blue Ridge,Secretary Of State,,D,DOREEN CARTER,57,1,33,23,0
+White,Helen,Secretary Of State,,D,DOREEN CARTER,61,3,42,16,0
+White,Mossy Creek,Secretary Of State,,D,DOREEN CARTER,145,19,73,53,0
+White,Mt. Yonah,Secretary Of State,,D,DOREEN CARTER,222,22,100,100,0
+White,Nacoochee,Secretary Of State,,D,DOREEN CARTER,217,17,117,83,0
+White,Robertstown,Secretary Of State,,D,DOREEN CARTER,37,1,26,10,0
+White,Shoal Creek,Secretary Of State,,D,DOREEN CARTER,118,3,80,35,0
+White,Tesnatee,Secretary Of State,,D,DOREEN CARTER,89,6,44,39,0
+White,Town Creek,Secretary Of State,,D,DOREEN CARTER,87,6,53,28,0
+White,White Creek,Secretary Of State,,D,DOREEN CARTER,57,5,42,10,0
+White,,Attorney General,,(R,SAMUEL S. OLENS (I),6230,339,4124,1764,3
+White,Blue Creek,Attorney General,,(R,SAMUEL S. OLENS (I),806,25,566,214,1
+White,Blue Ridge,Attorney General,,(R,SAMUEL S. OLENS (I),274,10,190,74,0
+White,Helen,Attorney General,,(R,SAMUEL S. OLENS (I),154,2,119,33,0
+White,Mossy Creek,Attorney General,,(R,SAMUEL S. OLENS (I),905,62,658,184,1
+White,Mt. Yonah,Attorney General,,(R,SAMUEL S. OLENS (I),1262,81,730,451,0
+White,Nacoochee,Attorney General,,(R,SAMUEL S. OLENS (I),565,36,315,213,1
+White,Robertstown,Attorney General,,(R,SAMUEL S. OLENS (I),124,10,89,25,0
+White,Shoal Creek,Attorney General,,(R,SAMUEL S. OLENS (I),700,33,513,154,0
+White,Tesnatee,Attorney General,,(R,SAMUEL S. OLENS (I),369,22,217,130,0
+White,Town Creek,Attorney General,,(R,SAMUEL S. OLENS (I),478,22,303,153,0
+White,White Creek,Attorney General,,(R,SAMUEL S. OLENS (I),593,36,424,133,0
+White,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",1331,93,757,481,0
+White,Blue Creek,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",198,9,106,83,0
+White,Blue Ridge,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",60,1,35,24,0
+White,Helen,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",71,3,49,19,0
+White,Mossy Creek,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",149,13,83,53,0
+White,Mt. Yonah,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",247,27,116,104,0
+White,Nacoochee,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",210,19,113,78,0
+White,Robertstown,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",41,1,30,10,0
+White,Shoal Creek,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",109,5,74,30,0
+White,Tesnatee,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",90,4,44,42,0
+White,Town Creek,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",95,6,59,30,0
+White,White Creek,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",61,5,48,8,0
+White,,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),6358,342,4231,1782,3
+White,Blue Creek,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),831,29,577,224,1
+White,Blue Ridge,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),284,10,195,79,0
+White,Helen,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),166,2,130,34,0
+White,Mossy Creek,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),933,57,687,188,1
+White,Mt. Yonah,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1289,82,754,453,0
+White,Nacoochee,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),575,39,324,211,1
+White,Robertstown,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),123,9,87,27,0
+White,Shoal Creek,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),701,36,511,154,0
+White,Tesnatee,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),382,20,230,132,0
+White,Town Creek,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),484,22,308,154,0
+White,White Creek,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),590,36,428,126,0
+White,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,1230,92,675,463,0
+White,Blue Creek,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,180,6,96,78,0
+White,Blue Ridge,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,52,1,32,19,0
+White,Helen,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,60,3,39,18,0
+White,Mossy Creek,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,127,18,61,48,0
+White,Mt. Yonah,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,220,25,92,103,0
+White,Nacoochee,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,194,16,104,74,0
+White,Robertstown,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,39,2,29,8,0
+White,Shoal Creek,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,116,3,82,31,0
+White,Tesnatee,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,79,6,33,40,0
+White,Town Creek,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,93,6,57,30,0
+White,White Creek,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,70,6,50,14,0
+White,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),6086,325,4025,1733,3
+White,Blue Creek,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),777,25,537,214,1
+White,Blue Ridge,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),265,9,184,72,0
+White,Helen,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),154,2,121,31,0
+White,Mossy Creek,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),890,55,648,186,1
+White,Mt. Yonah,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1247,78,725,444,0
+White,Nacoochee,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),556,37,309,209,1
+White,Robertstown,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),121,9,86,26,0
+White,Shoal Creek,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),675,33,494,148,0
+White,Tesnatee,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),361,22,209,130,0
+White,Town Creek,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),462,21,293,148,0
+White,White Creek,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),578,34,419,125,0
+White,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",1162,89,641,432,0
+White,Blue Creek,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",167,4,88,75,0
+White,Blue Ridge,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",52,2,28,22,0
+White,Helen,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",56,3,38,15,0
+White,Mossy Creek,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",128,16,67,45,0
+White,Mt. Yonah,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",204,24,88,92,0
+White,Nacoochee,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",198,18,107,73,0
+White,Robertstown,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",35,2,26,7,0
+White,Shoal Creek,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",104,3,69,32,0
+White,Tesnatee,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",82,4,42,36,0
+White,Town Creek,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",81,6,48,27,0
+White,White Creek,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",55,7,40,8,0
+White,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",332,19,231,82,0
+White,Blue Creek,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",63,4,48,11,0
+White,Blue Ridge,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",17,0,13,4,0
+White,Helen,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",14,0,9,5,0
+White,Mossy Creek,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",43,6,32,5,0
+White,Mt. Yonah,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",60,5,32,23,0
+White,Nacoochee,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",22,0,15,7,0
+White,Robertstown,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",6,0,4,2,0
+White,Shoal Creek,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",36,2,28,6,0
+White,Tesnatee,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",16,0,10,6,0
+White,Town Creek,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",32,1,23,8,0
+White,White Creek,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",23,1,17,5,0
+White,,State School Superintendent,,R,RICHARD L. WOODS,6064,333,4009,1719,3
+White,Blue Creek,State School Superintendent,,R,RICHARD L. WOODS,793,29,548,215,1
+White,Blue Ridge,State School Superintendent,,R,RICHARD L. WOODS,269,10,187,72,0
+White,Helen,State School Superintendent,,R,RICHARD L. WOODS,157,2,121,34,0
+White,Mossy Creek,State School Superintendent,,R,RICHARD L. WOODS,871,60,635,175,1
+White,Mt. Yonah,State School Superintendent,,R,RICHARD L. WOODS,1211,80,698,433,0
+White,Nacoochee,State School Superintendent,,R,RICHARD L. WOODS,548,35,304,208,1
+White,Robertstown,State School Superintendent,,R,RICHARD L. WOODS,121,8,88,25,0
+White,Shoal Creek,State School Superintendent,,R,RICHARD L. WOODS,679,33,496,150,0
+White,Tesnatee,State School Superintendent,,R,RICHARD L. WOODS,365,21,215,129,0
+White,Town Creek,State School Superintendent,,R,RICHARD L. WOODS,478,20,306,152,0
+White,White Creek,State School Superintendent,,R,RICHARD L. WOODS,572,35,411,126,0
+White,,State School Superintendent,,D,VALARIE D. WILSON,1462,101,844,517,0
+White,Blue Creek,State School Superintendent,,D,VALARIE D. WILSON,210,7,119,84,0
+White,Blue Ridge,State School Superintendent,,D,VALARIE D. WILSON,65,1,38,26,0
+White,Helen,State School Superintendent,,D,VALARIE D. WILSON,64,3,43,18,0
+White,Mossy Creek,State School Superintendent,,D,VALARIE D. WILSON,170,15,96,59,0
+White,Mt. Yonah,State School Superintendent,,D,VALARIE D. WILSON,281,25,137,119,0
+White,Nacoochee,State School Superintendent,,D,VALARIE D. WILSON,220,21,119,80,0
+White,Robertstown,State School Superintendent,,D,VALARIE D. WILSON,43,3,30,10,0
+White,Shoal Creek,State School Superintendent,,D,VALARIE D. WILSON,131,6,89,36,0
+White,Tesnatee,State School Superintendent,,D,VALARIE D. WILSON,96,5,48,43,0
+White,Town Creek,State School Superintendent,,D,VALARIE D. WILSON,96,8,59,29,0
+White,White Creek,State School Superintendent,,D,VALARIE D. WILSON,86,7,66,13,0
+White,,Commissioner Of Labor,,(R,J. MARK BUTLER (I),6224,339,4117,1765,3
+White,Blue Creek,Commissioner Of Labor,,(R,J. MARK BUTLER (I),798,29,555,213,1
+White,Blue Ridge,Commissioner Of Labor,,(R,J. MARK BUTLER (I),278,10,191,77,0
+White,Helen,Commissioner Of Labor,,(R,J. MARK BUTLER (I),164,2,126,36,0
+White,Mossy Creek,Commissioner Of Labor,,(R,J. MARK BUTLER (I),904,63,655,185,1
+White,Mt. Yonah,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1264,80,731,453,0
+White,Nacoochee,Commissioner Of Labor,,(R,J. MARK BUTLER (I),559,34,313,211,1
+White,Robertstown,Commissioner Of Labor,,(R,J. MARK BUTLER (I),129,9,93,27,0
+White,Shoal Creek,Commissioner Of Labor,,(R,J. MARK BUTLER (I),695,34,508,153,0
+White,Tesnatee,Commissioner Of Labor,,(R,J. MARK BUTLER (I),361,20,213,128,0
+White,Town Creek,Commissioner Of Labor,,(R,J. MARK BUTLER (I),483,20,309,154,0
+White,White Creek,Commissioner Of Labor,,(R,J. MARK BUTLER (I),589,38,423,128,0
+White,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,1265,92,705,468,0
+White,Blue Creek,Commissioner Of Labor,,D,ROBBIN K. SHIPP,196,6,109,81,0
+White,Blue Ridge,Commissioner Of Labor,,D,ROBBIN K. SHIPP,54,1,32,21,0
+White,Helen,Commissioner Of Labor,,D,ROBBIN K. SHIPP,57,3,38,16,0
+White,Mossy Creek,Commissioner Of Labor,,D,ROBBIN K. SHIPP,139,12,74,53,0
+White,Mt. Yonah,Commissioner Of Labor,,D,ROBBIN K. SHIPP,229,28,97,104,0
+White,Nacoochee,Commissioner Of Labor,,D,ROBBIN K. SHIPP,208,20,110,78,0
+White,Robertstown,Commissioner Of Labor,,D,ROBBIN K. SHIPP,36,2,26,8,0
+White,Shoal Creek,Commissioner Of Labor,,D,ROBBIN K. SHIPP,109,4,76,29,0
+White,Tesnatee,Commissioner Of Labor,,D,ROBBIN K. SHIPP,88,5,43,40,0
+White,Town Creek,Commissioner Of Labor,,D,ROBBIN K. SHIPP,89,7,53,29,0
+White,White Creek,Commissioner Of Labor,,D,ROBBIN K. SHIPP,60,4,47,9,0
+White,,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",6224,352,4082,1787,3
+White,Blue Creek,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",791,27,546,217,1
+White,Blue Ridge,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",271,11,185,75,0
+White,Helen,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",160,2,124,34,0
+White,Mossy Creek,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",895,60,647,187,1
+White,Mt. Yonah,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1273,90,725,458,0
+White,Nacoochee,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",585,40,319,225,1
+White,Robertstown,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",127,10,90,27,0
+White,Shoal Creek,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",691,31,506,154,0
+White,Tesnatee,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",378,24,221,133,0
+White,Town Creek,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",477,21,306,150,0
+White,White Creek,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",576,36,413,127,0
+White,,Public Service Commission,1,L,JOHN H. MONDS,1091,73,655,363,0
+White,Blue Creek,Public Service Commission,1,L,JOHN H. MONDS,179,8,109,62,0
+White,Blue Ridge,Public Service Commission,1,L,JOHN H. MONDS,52,0,33,19,0
+White,Helen,Public Service Commission,1,L,JOHN H. MONDS,50,3,31,16,0
+White,Mossy Creek,Public Service Commission,1,L,JOHN H. MONDS,140,15,82,43,0
+White,Mt. Yonah,Public Service Commission,1,L,JOHN H. MONDS,189,17,95,77,0
+White,Nacoochee,Public Service Commission,1,L,JOHN H. MONDS,134,12,76,46,0
+White,Robertstown,Public Service Commission,1,L,JOHN H. MONDS,27,1,19,7,0
+White,Shoal Creek,Public Service Commission,1,L,JOHN H. MONDS,98,5,70,23,0
+White,Tesnatee,Public Service Commission,1,L,JOHN H. MONDS,68,1,37,30,0
+White,Town Creek,Public Service Commission,1,L,JOHN H. MONDS,87,6,50,31,0
+White,White Creek,Public Service Commission,1,L,JOHN H. MONDS,67,5,53,9,0
+White,,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",5851,318,3849,1681,3
+White,Blue Creek,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",744,25,514,204,1
+White,Blue Ridge,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",256,9,175,72,0
+White,Helen,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",156,2,123,31,0
+White,Mossy Creek,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",844,53,614,176,1
+White,Mt. Yonah,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1182,79,675,428,0
+White,Nacoochee,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",548,37,303,207,1
+White,Robertstown,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",117,9,83,25,0
+White,Shoal Creek,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",650,31,473,146,0
+White,Tesnatee,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",354,19,209,126,0
+White,Town Creek,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",447,21,281,145,0
+White,White Creek,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",553,33,399,121,0
+White,,Public Service Commission,4,D,DANIEL A. BLACKMAN,1218,90,689,439,0
+White,Blue Creek,Public Service Commission,4,D,DANIEL A. BLACKMAN,172,5,94,73,0
+White,Blue Ridge,Public Service Commission,4,D,DANIEL A. BLACKMAN,55,2,28,25,0
+White,Helen,Public Service Commission,4,D,DANIEL A. BLACKMAN,55,3,36,16,0
+White,Mossy Creek,Public Service Commission,4,D,DANIEL A. BLACKMAN,143,15,79,49,0
+White,Mt. Yonah,Public Service Commission,4,D,DANIEL A. BLACKMAN,233,24,110,99,0
+White,Nacoochee,Public Service Commission,4,D,DANIEL A. BLACKMAN,199,18,106,75,0
+White,Robertstown,Public Service Commission,4,D,DANIEL A. BLACKMAN,35,1,27,7,0
+White,Shoal Creek,Public Service Commission,4,D,DANIEL A. BLACKMAN,103,5,71,27,0
+White,Tesnatee,Public Service Commission,4,D,DANIEL A. BLACKMAN,77,7,36,34,0
+White,Town Creek,Public Service Commission,4,D,DANIEL A. BLACKMAN,84,5,53,26,0
+White,White Creek,Public Service Commission,4,D,DANIEL A. BLACKMAN,62,5,49,8,0
+White,,Public Service Commission,4,L,ROBIN AARON GILMER,471,29,314,128,0
+White,Blue Creek,Public Service Commission,4,L,ROBIN AARON GILMER,92,6,63,23,0
+White,Blue Ridge,Public Service Commission,4,L,ROBIN AARON GILMER,19,0,18,1,0
+White,Helen,Public Service Commission,4,L,ROBIN AARON GILMER,11,0,6,5,0
+White,Mossy Creek,Public Service Commission,4,L,ROBIN AARON GILMER,62,9,40,13,0
+White,Mt. Yonah,Public Service Commission,4,L,ROBIN AARON GILMER,85,4,49,32,0
+White,Nacoochee,Public Service Commission,4,L,ROBIN AARON GILMER,28,1,19,8,0
+White,Robertstown,Public Service Commission,4,L,ROBIN AARON GILMER,13,1,9,3,0
+White,Shoal Creek,Public Service Commission,4,L,ROBIN AARON GILMER,54,2,40,12,0
+White,Tesnatee,Public Service Commission,4,L,ROBIN AARON GILMER,26,0,15,11,0
+White,Town Creek,Public Service Commission,4,L,ROBIN AARON GILMER,42,2,28,12,0
+White,White Creek,Public Service Commission,4,L,ROBIN AARON GILMER,39,4,27,8,0
+White,,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",6299,353,4156,1787,3
+White,Blue Creek,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",814,31,564,218,1
+White,Blue Ridge,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",278,10,196,72,0
+White,Helen,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",158,2,120,36,0
+White,Mossy Creek,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",921,65,666,189,1
+White,Mt. Yonah,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",1280,86,737,457,0
+White,Nacoochee,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",562,38,312,211,1
+White,Robertstown,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",124,9,90,25,0
+White,Shoal Creek,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",704,32,517,155,0
+White,Tesnatee,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",373,21,216,136,0
+White,Town Creek,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",484,23,306,155,0
+White,White Creek,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",601,36,432,133,0
+White,,U.S. Representative,9,D,DAVID D. VOGEL,1318,85,756,477,0
+White,Blue Creek,U.S. Representative,9,D,DAVID D. VOGEL,200,6,113,81,0
+White,Blue Ridge,U.S. Representative,9,D,DAVID D. VOGEL,57,1,32,24,0
+White,Helen,U.S. Representative,9,D,DAVID D. VOGEL,66,3,46,17,0
+White,Mossy Creek,U.S. Representative,9,D,DAVID D. VOGEL,140,13,77,50,0
+White,Mt. Yonah,U.S. Representative,9,D,DAVID D. VOGEL,235,24,106,105,0
+White,Nacoochee,U.S. Representative,9,D,DAVID D. VOGEL,221,17,124,80,0
+White,Robertstown,U.S. Representative,9,D,DAVID D. VOGEL,41,2,29,10,0
+White,Shoal Creek,U.S. Representative,9,D,DAVID D. VOGEL,113,3,77,33,0
+White,Tesnatee,U.S. Representative,9,D,DAVID D. VOGEL,89,5,46,38,0
+White,Town Creek,U.S. Representative,9,D,DAVID D. VOGEL,93,5,57,31,0
+White,White Creek,U.S. Representative,9,D,DAVID D. VOGEL,63,6,49,8,0
+White,,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",6807,365,4485,1955,2
+White,Blue Creek,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",891,28,616,247,0
+White,Blue Ridge,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",297,10,203,84,0
+White,Helen,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",178,2,135,41,0
+White,Mossy Creek,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",973,65,697,210,1
+White,Mt. Yonah,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",1395,90,802,503,0
+White,Nacoochee,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",639,42,364,232,1
+White,Robertstown,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",139,10,98,31,0
+White,Shoal Creek,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",752,33,553,166,0
+White,Tesnatee,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",409,23,241,145,0
+White,Town Creek,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",514,24,327,163,0
+White,White Creek,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",620,38,449,133,0
+White,,State Representative,8,R,STEPHEN T. ALLISON (I),1520,69,990,461,0
+White,Blue Ridge,State Representative,8,R,STEPHEN T. ALLISON (I),292,11,201,80,0
+White,Helen,State Representative,8,R,STEPHEN T. ALLISON (I),175,2,132,41,0
+White,Robertstown,State Representative,8,R,STEPHEN T. ALLISON (I),136,9,96,31,0
+White,Tesnatee,State Representative,8,R,STEPHEN T. ALLISON (I),407,24,236,147,0
+White,Town Creek,State Representative,8,R,STEPHEN T. ALLISON (I),510,23,325,162,0
+White,,State Representative,10,(R,T. A ROGERS (I),4808,290,3124,1392,2
+White,Blue Creek,State Representative,10,(R,T. A ROGERS (I),882,29,607,246,0
+White,Mossy Creek,State Representative,10,(R,T. A ROGERS (I),971,63,697,210,1
+White,Mt. Yonah,State Representative,10,(R,T. A ROGERS (I),1387,89,800,498,0
+White,Nacoochee,State Representative,10,(R,T. A ROGERS (I),637,45,359,232,1
+White,Shoal Creek,State Representative,10,(R,T. A ROGERS (I),313,26,214,73,0
+White,White Creek,State Representative,10,(R,T. A ROGERS (I),618,38,447,133,0
+White,,State Representative,27,R,B. LEE HAWKINS (I),437,9,338,90,0
+White,Shoal Creek,State Representative,27,R,B. LEE HAWKINS (I),437,9,338,90,0
+White,,District Attorney,Enotah Circuit,R,"W. J. ""JEFF"" LANGLEY (I)",6734,364,4435,1933,2
+White,Blue Creek,District Attorney,Enotah Circuit,R,"W. J. ""JEFF"" LANGLEY (I)",871,28,599,244,0
+White,Blue Ridge,District Attorney,Enotah Circuit,R,"W. J. ""JEFF"" LANGLEY (I)",290,11,199,80,0
+White,Helen,District Attorney,Enotah Circuit,R,"W. J. ""JEFF"" LANGLEY (I)",178,1,135,42,0
+White,Mossy Creek,District Attorney,Enotah Circuit,R,"W. J. ""JEFF"" LANGLEY (I)",959,63,688,207,1
+White,Mt. Yonah,District Attorney,Enotah Circuit,R,"W. J. ""JEFF"" LANGLEY (I)",1373,88,789,496,0
+White,Nacoochee,District Attorney,Enotah Circuit,R,"W. J. ""JEFF"" LANGLEY (I)",642,43,364,234,1
+White,Robertstown,District Attorney,Enotah Circuit,R,"W. J. ""JEFF"" LANGLEY (I)",138,10,98,30,0
+White,Shoal Creek,District Attorney,Enotah Circuit,R,"W. J. ""JEFF"" LANGLEY (I)",746,34,550,162,0
+White,Tesnatee,District Attorney,Enotah Circuit,R,"W. J. ""JEFF"" LANGLEY (I)",411,24,239,148,0
+White,Town Creek,District Attorney,Enotah Circuit,R,"W. J. ""JEFF"" LANGLEY (I)",513,24,328,161,0
+White,White Creek,District Attorney,Enotah Circuit,R,"W. J. ""JEFF"" LANGLEY (I)",613,38,446,129,0
+White,,County Comm 2,,(R,LYN HOLCOMB (I),1579,102,1141,335,1
+White,Mossy Creek,County Comm 2,,(R,LYN HOLCOMB (I),969,65,698,205,1
+White,White Creek,County Comm 2,,(R,LYN HOLCOMB (I),610,37,443,130,0
+White,,County Comm 3,,(R,EDWIN NIX (I),1611,71,1113,427,0
+White,Blue Ridge,County Comm 3,,(R,EDWIN NIX (I),293,11,203,79,0
+White,Mt. Yonah,County Comm 3,,(R,EDWIN NIX (I),14,0,9,5,0
+White,Shoal Creek,County Comm 3,,(R,EDWIN NIX (I),745,35,549,161,0
+White,Tesnatee,County Comm 3,,(R,EDWIN NIX (I),50,1,28,21,0
+White,Town Creek,County Comm 3,,(R,EDWIN NIX (I),509,24,324,161,0
+White,,BOE 2,,R,ROGER FITZPATRICK,6780,368,4458,1952,2
+White,Blue Creek,BOE 2,,R,ROGER FITZPATRICK,860,28,586,246,0
+White,Blue Ridge,BOE 2,,R,ROGER FITZPATRICK,300,11,207,82,0
+White,Helen,BOE 2,,R,ROGER FITZPATRICK,182,4,137,41,0
+White,Mossy Creek,BOE 2,,R,ROGER FITZPATRICK,968,64,697,206,1
+White,Mt. Yonah,BOE 2,,R,ROGER FITZPATRICK,1387,90,794,503,0
+White,Nacoochee,BOE 2,,R,ROGER FITZPATRICK,639,41,366,231,1
+White,Robertstown,BOE 2,,R,ROGER FITZPATRICK,141,10,100,31,0
+White,Shoal Creek,BOE 2,,R,ROGER FITZPATRICK,747,34,548,165,0
+White,Tesnatee,BOE 2,,R,ROGER FITZPATRICK,421,24,247,150,0
+White,Town Creek,BOE 2,,R,ROGER FITZPATRICK,517,24,328,165,0
+White,White Creek,BOE 2,,R,ROGER FITZPATRICK,618,38,448,132,0
+White,,BOE 4,,(R,BARRY VANDIVER (I),6793,359,4482,1950,2
+White,Blue Creek,BOE 4,,(R,BARRY VANDIVER (I),874,27,600,247,0
+White,Blue Ridge,BOE 4,,(R,BARRY VANDIVER (I),294,11,203,80,0
+White,Helen,BOE 4,,(R,BARRY VANDIVER (I),185,2,140,43,0
+White,Mossy Creek,BOE 4,,(R,BARRY VANDIVER (I),972,63,701,207,1
+White,Mt. Yonah,BOE 4,,(R,BARRY VANDIVER (I),1394,86,803,505,0
+White,Nacoochee,BOE 4,,(R,BARRY VANDIVER (I),640,42,364,233,1
+White,Robertstown,BOE 4,,(R,BARRY VANDIVER (I),141,10,100,31,0
+White,Shoal Creek,BOE 4,,(R,BARRY VANDIVER (I),750,36,550,164,0
+White,Tesnatee,BOE 4,,(R,BARRY VANDIVER (I),421,23,247,151,0
+White,Town Creek,BOE 4,,(R,BARRY VANDIVER (I),511,22,328,161,0
+White,White Creek,BOE 4,,(R,BARRY VANDIVER (I),611,37,446,128,0
+White,,Soil and Water Conservation,,,DAVID SILLS (I),6668,361,4362,1943,2
+White,Blue Creek,Soil and Water Conservation,,,DAVID SILLS (I),871,25,589,257,0
+White,Blue Ridge,Soil and Water Conservation,,,DAVID SILLS (I),279,11,190,78,0
+White,Helen,Soil and Water Conservation,,,DAVID SILLS (I),180,4,135,41,0
+White,Mossy Creek,Soil and Water Conservation,,,DAVID SILLS (I),961,65,690,205,1
+White,Mt. Yonah,Soil and Water Conservation,,,DAVID SILLS (I),1363,87,776,500,0
+White,Nacoochee,Soil and Water Conservation,,,DAVID SILLS (I),639,44,358,236,1
+White,Robertstown,Soil and Water Conservation,,,DAVID SILLS (I),144,8,103,33,0
+White,Shoal Creek,Soil and Water Conservation,,,DAVID SILLS (I),728,36,534,158,0
+White,Tesnatee,Soil and Water Conservation,,,DAVID SILLS (I),414,23,239,152,0
+White,Town Creek,Soil and Water Conservation,,,DAVID SILLS (I),491,22,314,155,0
+White,White Creek,Soil and Water Conservation,,,DAVID SILLS (I),598,36,434,128,0
+White,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,6140,368,3949,1821,2
+White,Blue Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,835,31,558,246,0
+White,Blue Ridge,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,273,11,188,74,0
+White,Helen,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,180,3,138,39,0
+White,Mossy Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,868,64,599,204,1
+White,Mt. Yonah,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1227,87,690,450,0
+White,Nacoochee,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,597,40,337,219,1
+White,Robertstown,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,128,9,92,27,0
+White,Shoal Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,658,36,465,157,0
+White,Tesnatee,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,376,22,210,144,0
+White,Town Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,478,29,298,151,0
+White,White Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,520,36,374,110,0
+White,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,1424,65,933,425,1
+White,Blue Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,175,5,118,51,1
+White,Blue Ridge,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,60,1,38,21,0
+White,Helen,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,45,0,31,14,0
+White,Mossy Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,185,12,141,32,0
+White,Mt. Yonah,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,288,21,156,111,0
+White,Nacoochee,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,172,13,88,71,0
+White,Robertstown,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,34,2,25,7,0
+White,Shoal Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,153,2,122,29,0
+White,Tesnatee,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,82,4,49,29,0
+White,Town Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,101,0,69,32,0
+White,White Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,129,5,96,28,0
+White,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,5296,322,3377,1594,3
+White,Blue Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,688,20,461,206,1
+White,Blue Ridge,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,252,10,167,75,0
+White,Helen,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,159,3,120,36,0
+White,Mossy Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,754,57,520,176,1
+White,Mt. Yonah,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1063,86,585,392,0
+White,Nacoochee,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,557,40,305,211,1
+White,Robertstown,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,116,10,80,26,0
+White,Shoal Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,561,27,397,137,0
+White,Tesnatee,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,323,22,181,120,0
+White,Town Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,402,22,256,124,0
+White,White Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,421,25,305,91,0
+White,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,2160,97,1447,616,0
+White,Blue Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,312,17,210,85,0
+White,Blue Ridge,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,74,1,52,21,0
+White,Helen,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,68,1,51,16,0
+White,Mossy Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,285,15,211,59,0
+White,Mt. Yonah,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,424,19,246,159,0
+White,Nacoochee,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,205,12,118,75,0
+White,Robertstown,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,44,0,36,8,0
+White,Shoal Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,240,8,186,46,0
+White,Tesnatee,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,131,4,77,50,0
+White,Town Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,170,7,105,58,0
+White,White Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,207,13,155,39,0
+White,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,5149,293,3316,1538,2
+White,Blue Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,665,19,453,192,1
+White,Blue Ridge,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,234,9,157,68,0
+White,Helen,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,143,3,109,31,0
+White,Mossy Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,740,47,525,167,1
+White,Mt. Yonah,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1014,68,572,374,0
+White,Nacoochee,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,558,44,296,218,0
+White,Robertstown,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,98,7,75,16,0
+White,Shoal Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,570,30,402,138,0
+White,Tesnatee,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,302,16,175,111,0
+White,Town Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,389,22,241,126,0
+White,White Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,436,28,311,97,0
+White,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,2324,138,1499,686,1
+White,Blue Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,333,18,212,103,0
+White,Blue Ridge,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,92,3,61,28,0
+White,Helen,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,82,1,60,21,0
+White,Mossy Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,300,28,203,69,0
+White,Mt. Yonah,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,479,37,260,182,0
+White,Nacoochee,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,209,11,126,71,1
+White,Robertstown,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,58,4,37,17,0
+White,Shoal Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,234,7,183,44,0
+White,Tesnatee,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,152,9,82,61,0
+White,Town Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,181,7,120,54,0
+White,White Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,204,13,155,36,0
+White,,Special - Land Use,,,YES,3761,216,2258,1287,0
+White,Blue Creek,Special - Land Use,,,YES,481,11,304,166,0
+White,Blue Ridge,Special - Land Use,,,YES,179,6,107,66,0
+White,Helen,Special - Land Use,,,YES,153,2,114,37,0
+White,Mossy Creek,Special - Land Use,,,YES,477,25,329,123,0
+White,Mt. Yonah,Special - Land Use,,,YES,787,64,400,323,0
+White,Nacoochee,Special - Land Use,,,YES,482,37,247,198,0
+White,Robertstown,Special - Land Use,,,YES,61,3,45,13,0
+White,Shoal Creek,Special - Land Use,,,YES,370,22,247,101,0
+White,Tesnatee,Special - Land Use,,,YES,215,8,116,91,0
+White,Town Creek,Special - Land Use,,,YES,311,20,185,106,0
+White,White Creek,Special - Land Use,,,YES,245,18,164,63,0
+White,,Special - Land Use,,,NO,3361,184,2326,848,3
+White,Blue Creek,Special - Land Use,,,NO,462,23,333,105,1
+White,Blue Ridge,Special - Land Use,,,NO,142,4,110,28,0
+White,Helen,Special - Land Use,,,NO,62,1,47,14,0
+White,Mossy Creek,Special - Land Use,,,NO,517,46,365,105,1
+White,Mt. Yonah,Special - Land Use,,,NO,634,36,385,213,0
+White,Nacoochee,Special - Land Use,,,NO,243,9,158,75,1
+White,Robertstown,Special - Land Use,,,NO,89,6,63,20,0
+White,Shoal Creek,Special - Land Use,,,NO,387,15,294,78,0
+White,Tesnatee,Special - Land Use,,,NO,226,16,136,74,0
+White,Town Creek,Special - Land Use,,,NO,238,8,161,69,0
+White,White Creek,Special - Land Use,,,NO,361,20,274,67,0
+White,,Special - Homestead Exemption,,,YES,5917,386,3649,1880,2
+White,Blue Creek,Special - Homestead Exemption,,,YES,824,34,525,264,1
+White,Blue Ridge,Special - Homestead Exemption,,,YES,275,9,179,87,0
+White,Helen,Special - Homestead Exemption,,,YES,185,4,134,47,0
+White,Mossy Creek,Special - Homestead Exemption,,,YES,822,61,562,198,1
+White,Mt. Yonah,Special - Homestead Exemption,,,YES,1145,101,599,445,0
+White,Nacoochee,Special - Homestead Exemption,,,YES,584,49,304,231,0
+White,Robertstown,Special - Homestead Exemption,,,YES,123,7,89,27,0
+White,Shoal Creek,Special - Homestead Exemption,,,YES,653,33,464,156,0
+White,Tesnatee,Special - Homestead Exemption,,,YES,348,22,179,147,0
+White,Town Creek,Special - Homestead Exemption,,,YES,458,28,271,159,0
+White,White Creek,Special - Homestead Exemption,,,YES,500,38,343,119,0
+White,,Special - Homestead Exemption,,,NO,1639,53,1218,367,1
+White,Blue Creek,Special - Homestead Exemption,,,NO,186,2,148,36,0
+White,Blue Ridge,Special - Homestead Exemption,,,NO,59,3,45,11,0
+White,Helen,Special - Homestead Exemption,,,NO,43,0,37,6,0
+White,Mossy Creek,Special - Homestead Exemption,,,NO,230,17,172,41,0
+White,Mt. Yonah,Special - Homestead Exemption,,,NO,356,9,239,108,0
+White,Nacoochee,Special - Homestead Exemption,,,NO,188,6,123,58,1
+White,Robertstown,Special - Homestead Exemption,,,NO,36,4,26,6,0
+White,Shoal Creek,Special - Homestead Exemption,,,NO,158,3,124,31,0
+White,Tesnatee,Special - Homestead Exemption,,,NO,112,3,82,27,0
+White,Town Creek,Special - Homestead Exemption,,,NO,120,2,94,24,0
+White,White Creek,Special - Homestead Exemption,,,NO,151,4,128,19,0

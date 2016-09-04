@@ -1,0 +1,535 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Crawford,,United States Senator,,REP,PAUL COLLINS BROUN,52,1,43,7,1
+Crawford,1A,United States Senator,,REP,PAUL COLLINS BROUN,3,0,2,1,0
+Crawford,1B,United States Senator,,REP,PAUL COLLINS BROUN,2,0,2,0,0
+Crawford,2,United States Senator,,REP,PAUL COLLINS BROUN,11,0,8,3,0
+Crawford,3,United States Senator,,REP,PAUL COLLINS BROUN,11,1,8,1,1
+Crawford,4,United States Senator,,REP,PAUL COLLINS BROUN,12,0,12,0,0
+Crawford,5,United States Senator,,REP,PAUL COLLINS BROUN,13,0,11,2,0
+Crawford,,United States Senator,,REP,"ARTHUR A. ""ART"" GARDNER",3,0,1,2,0
+Crawford,1A,United States Senator,,REP,"ARTHUR A. ""ART"" GARDNER",0,0,0,0,0
+Crawford,1B,United States Senator,,REP,"ARTHUR A. ""ART"" GARDNER",0,0,0,0,0
+Crawford,2,United States Senator,,REP,"ARTHUR A. ""ART"" GARDNER",1,0,0,1,0
+Crawford,3,United States Senator,,REP,"ARTHUR A. ""ART"" GARDNER",1,0,1,0,0
+Crawford,4,United States Senator,,REP,"ARTHUR A. ""ART"" GARDNER",0,0,0,0,0
+Crawford,5,United States Senator,,REP,"ARTHUR A. ""ART"" GARDNER",1,0,0,1,0
+Crawford,,United States Senator,,REP,"J. P. ""PHIL"" GINGREY",51,1,40,10,0
+Crawford,1A,United States Senator,,REP,"J. P. ""PHIL"" GINGREY",5,0,5,0,0
+Crawford,1B,United States Senator,,REP,"J. P. ""PHIL"" GINGREY",4,0,4,0,0
+Crawford,2,United States Senator,,REP,"J. P. ""PHIL"" GINGREY",6,0,3,3,0
+Crawford,3,United States Senator,,REP,"J. P. ""PHIL"" GINGREY",13,0,12,1,0
+Crawford,4,United States Senator,,REP,"J. P. ""PHIL"" GINGREY",16,1,13,2,0
+Crawford,5,United States Senator,,REP,"J. P. ""PHIL"" GINGREY",7,0,3,4,0
+Crawford,,United States Senator,,REP,DERRICK E. GRAYSON,7,0,4,3,0
+Crawford,1A,United States Senator,,REP,DERRICK E. GRAYSON,0,0,0,0,0
+Crawford,1B,United States Senator,,REP,DERRICK E. GRAYSON,0,0,0,0,0
+Crawford,2,United States Senator,,REP,DERRICK E. GRAYSON,2,0,1,1,0
+Crawford,3,United States Senator,,REP,DERRICK E. GRAYSON,3,0,2,1,0
+Crawford,4,United States Senator,,REP,DERRICK E. GRAYSON,1,0,0,1,0
+Crawford,5,United States Senator,,REP,DERRICK E. GRAYSON,1,0,1,0,0
+Crawford,,United States Senator,,REP,KAREN C. HANDEL,84,3,65,16,0
+Crawford,1A,United States Senator,,REP,KAREN C. HANDEL,6,0,6,0,0
+Crawford,1B,United States Senator,,REP,KAREN C. HANDEL,7,0,6,1,0
+Crawford,2,United States Senator,,REP,KAREN C. HANDEL,10,0,8,2,0
+Crawford,3,United States Senator,,REP,KAREN C. HANDEL,20,1,14,5,0
+Crawford,4,United States Senator,,REP,KAREN C. HANDEL,22,2,14,6,0
+Crawford,5,United States Senator,,REP,KAREN C. HANDEL,19,0,17,2,0
+Crawford,,United States Senator,,REP,"J. H. ""JACK"" KINGSTON",227,7,159,61,0
+Crawford,1A,United States Senator,,REP,"J. H. ""JACK"" KINGSTON",8,0,8,0,0
+Crawford,1B,United States Senator,,REP,"J. H. ""JACK"" KINGSTON",24,1,16,7,0
+Crawford,2,United States Senator,,REP,"J. H. ""JACK"" KINGSTON",56,0,29,27,0
+Crawford,3,United States Senator,,REP,"J. H. ""JACK"" KINGSTON",43,3,28,12,0
+Crawford,4,United States Senator,,REP,"J. H. ""JACK"" KINGSTON",53,3,40,10,0
+Crawford,5,United States Senator,,REP,"J. H. ""JACK"" KINGSTON",43,0,38,5,0
+Crawford,,United States Senator,,REP,DAVID A. PERDUE,320,10,244,66,0
+Crawford,1A,United States Senator,,REP,DAVID A. PERDUE,11,0,5,6,0
+Crawford,1B,United States Senator,,REP,DAVID A. PERDUE,23,0,17,6,0
+Crawford,2,United States Senator,,REP,DAVID A. PERDUE,72,3,49,20,0
+Crawford,3,United States Senator,,REP,DAVID A. PERDUE,71,3,54,14,0
+Crawford,4,United States Senator,,REP,DAVID A. PERDUE,55,3,41,11,0
+Crawford,5,United States Senator,,REP,DAVID A. PERDUE,88,1,78,9,0
+Crawford,,United States Senator,,DEM,"O. ""STEEN"" MILES",15,0,11,4,0
+Crawford,1A,United States Senator,,DEM,"O. ""STEEN"" MILES",0,0,0,0,0
+Crawford,1B,United States Senator,,DEM,"O. ""STEEN"" MILES",8,0,7,1,0
+Crawford,2,United States Senator,,DEM,"O. ""STEEN"" MILES",5,0,2,3,0
+Crawford,3,United States Senator,,DEM,"O. ""STEEN"" MILES",1,0,1,0,0
+Crawford,4,United States Senator,,DEM,"O. ""STEEN"" MILES",0,0,0,0,0
+Crawford,5,United States Senator,,DEM,"O. ""STEEN"" MILES",1,0,1,0,0
+Crawford,,United States Senator,,DEM,M. MICHELLE NUNN,236,9,180,47,0
+Crawford,1A,United States Senator,,DEM,M. MICHELLE NUNN,28,2,24,2,0
+Crawford,1B,United States Senator,,DEM,M. MICHELLE NUNN,71,2,55,14,0
+Crawford,2,United States Senator,,DEM,M. MICHELLE NUNN,83,3,58,22,0
+Crawford,3,United States Senator,,DEM,M. MICHELLE NUNN,23,1,18,4,0
+Crawford,4,United States Senator,,DEM,M. MICHELLE NUNN,20,1,15,4,0
+Crawford,5,United States Senator,,DEM,M. MICHELLE NUNN,11,0,10,1,0
+Crawford,,United States Senator,,DEM,"BRANKO ""RAD"" RADULOVACKI",13,0,9,4,0
+Crawford,1A,United States Senator,,DEM,"BRANKO ""RAD"" RADULOVACKI",3,0,3,0,0
+Crawford,1B,United States Senator,,DEM,"BRANKO ""RAD"" RADULOVACKI",5,0,3,2,0
+Crawford,2,United States Senator,,DEM,"BRANKO ""RAD"" RADULOVACKI",3,0,1,2,0
+Crawford,3,United States Senator,,DEM,"BRANKO ""RAD"" RADULOVACKI",1,0,1,0,0
+Crawford,4,United States Senator,,DEM,"BRANKO ""RAD"" RADULOVACKI",1,0,1,0,0
+Crawford,5,United States Senator,,DEM,"BRANKO ""RAD"" RADULOVACKI",0,0,0,0,0
+Crawford,,United States Senator,,DEM,TODD ANTHONY ROBINSON,30,0,24,6,0
+Crawford,1A,United States Senator,,DEM,TODD ANTHONY ROBINSON,5,0,5,0,0
+Crawford,1B,United States Senator,,DEM,TODD ANTHONY ROBINSON,14,0,11,3,0
+Crawford,2,United States Senator,,DEM,TODD ANTHONY ROBINSON,8,0,5,3,0
+Crawford,3,United States Senator,,DEM,TODD ANTHONY ROBINSON,1,0,1,0,0
+Crawford,4,United States Senator,,DEM,TODD ANTHONY ROBINSON,1,0,1,0,0
+Crawford,5,United States Senator,,DEM,TODD ANTHONY ROBINSON,1,0,1,0,0
+Crawford,,Governor,,REP,JOHN D. BARGE,107,3,79,25,0
+Crawford,1A,Governor,,REP,JOHN D. BARGE,4,0,3,1,0
+Crawford,1B,Governor,,REP,JOHN D. BARGE,15,0,13,2,0
+Crawford,2,Governor,,REP,JOHN D. BARGE,22,0,14,8,0
+Crawford,3,Governor,,REP,JOHN D. BARGE,25,1,20,4,0
+Crawford,4,Governor,,REP,JOHN D. BARGE,24,2,15,7,0
+Crawford,5,Governor,,REP,JOHN D. BARGE,17,0,14,3,0
+Crawford,,Governor,,REP,J. NATHAN DEAL (I),562,17,420,125,0
+Crawford,1A,Governor,,REP,J. NATHAN DEAL (I),26,0,20,6,0
+Crawford,1B,Governor,,REP,J. NATHAN DEAL (I),41,0,29,12,0
+Crawford,2,Governor,,REP,J. NATHAN DEAL (I),128,3,78,47,0
+Crawford,3,Governor,,REP,J. NATHAN DEAL (I),115,7,85,23,0
+Crawford,4,Governor,,REP,J. NATHAN DEAL (I),110,7,86,17,0
+Crawford,5,Governor,,REP,J. NATHAN DEAL (I),142,0,122,20,0
+Crawford,,Governor,,REP,DAVID E. PENNINGTON III.,74,2,57,14,1
+Crawford,1A,Governor,,REP,DAVID E. PENNINGTON III.,3,0,3,0,0
+Crawford,1B,Governor,,REP,DAVID E. PENNINGTON III.,4,1,3,0,0
+Crawford,2,Governor,,REP,DAVID E. PENNINGTON III.,8,0,6,2,0
+Crawford,3,Governor,,REP,DAVID E. PENNINGTON III.,20,0,12,7,1
+Crawford,4,Governor,,REP,DAVID E. PENNINGTON III.,23,0,18,5,0
+Crawford,5,Governor,,REP,DAVID E. PENNINGTON III.,16,1,15,0,0
+Crawford,,Governor,,DEM,JASON J. CARTER,259,7,191,61,0
+Crawford,1A,Governor,,DEM,JASON J. CARTER,34,2,30,2,0
+Crawford,1B,Governor,,DEM,JASON J. CARTER,81,1,59,21,0
+Crawford,2,Governor,,DEM,JASON J. CARTER,85,3,55,27,0
+Crawford,3,Governor,,DEM,JASON J. CARTER,28,1,22,5,0
+Crawford,4,Governor,,DEM,JASON J. CARTER,18,0,13,5,0
+Crawford,5,Governor,,DEM,JASON J. CARTER,13,0,12,1,0
+Crawford,,Lieutenant Governor,,REP,"L. S. ""CASEY"" CAGLE (I)",617,16,463,138,0
+Crawford,1A,Lieutenant Governor,,REP,"L. S. ""CASEY"" CAGLE (I)",30,0,24,6,0
+Crawford,1B,Lieutenant Governor,,REP,"L. S. ""CASEY"" CAGLE (I)",44,1,32,11,0
+Crawford,2,Lieutenant Governor,,REP,"L. S. ""CASEY"" CAGLE (I)",130,3,84,43,0
+Crawford,3,Lieutenant Governor,,REP,"L. S. ""CASEY"" CAGLE (I)",124,3,92,29,0
+Crawford,4,Lieutenant Governor,,REP,"L. S. ""CASEY"" CAGLE (I)",133,8,98,27,0
+Crawford,5,Lieutenant Governor,,REP,"L. S. ""CASEY"" CAGLE (I)",156,1,133,22,0
+Crawford,,Lieutenant Governor,,DEM,CONNIE J. STOKES,222,7,163,52,0
+Crawford,1A,Lieutenant Governor,,DEM,CONNIE J. STOKES,26,2,23,1,0
+Crawford,1B,Lieutenant Governor,,DEM,CONNIE J. STOKES,75,1,57,17,0
+Crawford,2,Lieutenant Governor,,DEM,CONNIE J. STOKES,70,3,42,25,0
+Crawford,3,Lieutenant Governor,,DEM,CONNIE J. STOKES,23,1,19,3,0
+Crawford,4,Lieutenant Governor,,DEM,CONNIE J. STOKES,18,0,13,5,0
+Crawford,5,Lieutenant Governor,,DEM,CONNIE J. STOKES,10,0,9,1,0
+Crawford,,Secretary Of State,,REP,BRIAN P. KEMP (I),605,15,451,138,1
+Crawford,1A,Secretary Of State,,REP,BRIAN P. KEMP (I),30,0,24,6,0
+Crawford,1B,Secretary Of State,,REP,BRIAN P. KEMP (I),44,1,32,11,0
+Crawford,2,Secretary Of State,,REP,BRIAN P. KEMP (I),130,3,84,43,0
+Crawford,3,Secretary Of State,,REP,BRIAN P. KEMP (I),124,3,91,29,1
+Crawford,4,Secretary Of State,,REP,BRIAN P. KEMP (I),123,7,90,26,0
+Crawford,5,Secretary Of State,,REP,BRIAN P. KEMP (I),154,1,130,23,0
+Crawford,,Secretary Of State,,DEM,GERALD B. BECKUM,117,4,87,26,0
+Crawford,1A,Secretary Of State,,DEM,GERALD B. BECKUM,7,0,7,0,0
+Crawford,1B,Secretary Of State,,DEM,GERALD B. BECKUM,45,2,33,10,0
+Crawford,2,Secretary Of State,,DEM,GERALD B. BECKUM,38,0,25,13,0
+Crawford,3,Secretary Of State,,DEM,GERALD B. BECKUM,11,1,8,2,0
+Crawford,4,Secretary Of State,,DEM,GERALD B. BECKUM,12,1,10,1,0
+Crawford,5,Secretary Of State,,DEM,GERALD B. BECKUM,4,0,4,0,0
+Crawford,,Secretary Of State,,DEM,DOREEN CARTER,152,5,116,31,0
+Crawford,1A,Secretary Of State,,DEM,DOREEN CARTER,28,2,24,2,0
+Crawford,1B,Secretary Of State,,DEM,DOREEN CARTER,42,0,34,8,0
+Crawford,2,Secretary Of State,,DEM,DOREEN CARTER,54,3,36,15,0
+Crawford,3,Secretary Of State,,DEM,DOREEN CARTER,12,0,11,1,0
+Crawford,4,Secretary Of State,,DEM,DOREEN CARTER,9,0,5,4,0
+Crawford,5,Secretary Of State,,DEM,DOREEN CARTER,7,0,6,1,0
+Crawford,,Attorney General,,REP,SAMUEL S. OLENS (I),566,17,424,124,1
+Crawford,1A,Attorney General,,REP,SAMUEL S. OLENS (I),28,0,22,6,0
+Crawford,1B,Attorney General,,REP,SAMUEL S. OLENS (I),40,1,28,11,0
+Crawford,2,Attorney General,,REP,SAMUEL S. OLENS (I),126,3,85,38,0
+Crawford,3,Attorney General,,REP,SAMUEL S. OLENS (I),114,3,83,27,1
+Crawford,4,Attorney General,,REP,SAMUEL S. OLENS (I),121,9,88,24,0
+Crawford,5,Attorney General,,REP,SAMUEL S. OLENS (I),137,1,118,18,0
+Crawford,,Attorney General,,DEM,"GREGORY K. ""GREG"" HECHT",226,7,169,50,0
+Crawford,1A,Attorney General,,DEM,"GREGORY K. ""GREG"" HECHT",26,2,22,2,0
+Crawford,1B,Attorney General,,DEM,"GREGORY K. ""GREG"" HECHT",72,1,56,15,0
+Crawford,2,Attorney General,,DEM,"GREGORY K. ""GREG"" HECHT",79,3,52,24,0
+Crawford,3,Attorney General,,DEM,"GREGORY K. ""GREG"" HECHT",23,1,19,3,0
+Crawford,4,Attorney General,,DEM,"GREGORY K. ""GREG"" HECHT",17,0,12,5,0
+Crawford,5,Attorney General,,DEM,"GREGORY K. ""GREG"" HECHT",9,0,8,1,0
+Crawford,,Commissioner Of Agriculture,,REP,GARY W. BLACK (I),610,17,455,137,1
+Crawford,1A,Commissioner Of Agriculture,,REP,GARY W. BLACK (I),32,0,24,8,0
+Crawford,1B,Commissioner Of Agriculture,,REP,GARY W. BLACK (I),48,1,37,10,0
+Crawford,2,Commissioner Of Agriculture,,REP,GARY W. BLACK (I),135,3,88,44,0
+Crawford,3,Commissioner Of Agriculture,,REP,GARY W. BLACK (I),123,3,90,29,1
+Crawford,4,Commissioner Of Agriculture,,REP,GARY W. BLACK (I),126,9,93,24,0
+Crawford,5,Commissioner Of Agriculture,,REP,GARY W. BLACK (I),146,1,123,22,0
+Crawford,,Commissioner Of Agriculture,,DEM,CHRISTOPHER JAMES IRVIN,246,8,186,52,0
+Crawford,1A,Commissioner Of Agriculture,,DEM,CHRISTOPHER JAMES IRVIN,28,2,24,2,0
+Crawford,1B,Commissioner Of Agriculture,,DEM,CHRISTOPHER JAMES IRVIN,78,1,61,16,0
+Crawford,2,Commissioner Of Agriculture,,DEM,CHRISTOPHER JAMES IRVIN,85,3,57,25,0
+Crawford,3,Commissioner Of Agriculture,,DEM,CHRISTOPHER JAMES IRVIN,24,1,19,4,0
+Crawford,4,Commissioner Of Agriculture,,DEM,CHRISTOPHER JAMES IRVIN,20,1,15,4,0
+Crawford,5,Commissioner Of Agriculture,,DEM,CHRISTOPHER JAMES IRVIN,11,0,10,1,0
+Crawford,,Commissioner Of Insurance,,REP,RALPH T. HUDGENS (I),561,17,417,126,1
+Crawford,1A,Commissioner Of Insurance,,REP,RALPH T. HUDGENS (I),30,0,23,7,0
+Crawford,1B,Commissioner Of Insurance,,REP,RALPH T. HUDGENS (I),41,1,29,11,0
+Crawford,2,Commissioner Of Insurance,,REP,RALPH T. HUDGENS (I),123,3,83,37,0
+Crawford,3,Commissioner Of Insurance,,REP,RALPH T. HUDGENS (I),115,3,83,28,1
+Crawford,4,Commissioner Of Insurance,,REP,RALPH T. HUDGENS (I),119,9,86,24,0
+Crawford,5,Commissioner Of Insurance,,REP,RALPH T. HUDGENS (I),133,1,113,19,0
+Crawford,,Commissioner Of Insurance,,DEM,KEITH G. HEARD,90,6,61,23,0
+Crawford,1A,Commissioner Of Insurance,,DEM,KEITH G. HEARD,6,0,6,0,0
+Crawford,1B,Commissioner Of Insurance,,DEM,KEITH G. HEARD,28,2,17,9,0
+Crawford,2,Commissioner Of Insurance,,DEM,KEITH G. HEARD,38,2,24,12,0
+Crawford,3,Commissioner Of Insurance,,DEM,KEITH G. HEARD,11,1,8,2,0
+Crawford,4,Commissioner Of Insurance,,DEM,KEITH G. HEARD,5,1,4,0,0
+Crawford,5,Commissioner Of Insurance,,DEM,KEITH G. HEARD,2,0,2,0,0
+Crawford,,Commissioner Of Insurance,,DEM,ELIZABETH N. JOHNSON,160,3,124,33,0
+Crawford,1A,Commissioner Of Insurance,,DEM,ELIZABETH N. JOHNSON,24,2,20,2,0
+Crawford,1B,Commissioner Of Insurance,,DEM,ELIZABETH N. JOHNSON,48,0,40,8,0
+Crawford,2,Commissioner Of Insurance,,DEM,ELIZABETH N. JOHNSON,51,1,35,15,0
+Crawford,3,Commissioner Of Insurance,,DEM,ELIZABETH N. JOHNSON,12,0,9,3,0
+Crawford,4,Commissioner Of Insurance,,DEM,ELIZABETH N. JOHNSON,16,0,12,4,0
+Crawford,5,Commissioner Of Insurance,,DEM,ELIZABETH N. JOHNSON,9,0,8,1,0
+Crawford,,State School Superintendent,,REP,MARY KAY BACALLAO,64,1,45,18,0
+Crawford,1A,State School Superintendent,,REP,MARY KAY BACALLAO,5,0,4,1,0
+Crawford,1B,State School Superintendent,,REP,MARY KAY BACALLAO,3,0,2,1,0
+Crawford,2,State School Superintendent,,REP,MARY KAY BACALLAO,16,0,12,4,0
+Crawford,3,State School Superintendent,,REP,MARY KAY BACALLAO,11,1,7,3,0
+Crawford,4,State School Superintendent,,REP,MARY KAY BACALLAO,15,0,6,9,0
+Crawford,5,State School Superintendent,,REP,MARY KAY BACALLAO,14,0,14,0,0
+Crawford,,State School Superintendent,,REP,ASHLEY D. BELL,80,4,57,19,0
+Crawford,1A,State School Superintendent,,REP,ASHLEY D. BELL,1,0,1,0,0
+Crawford,1B,State School Superintendent,,REP,ASHLEY D. BELL,7,1,4,2,0
+Crawford,2,State School Superintendent,,REP,ASHLEY D. BELL,11,0,7,4,0
+Crawford,3,State School Superintendent,,REP,ASHLEY D. BELL,16,3,9,4,0
+Crawford,4,State School Superintendent,,REP,ASHLEY D. BELL,25,0,21,4,0
+Crawford,5,State School Superintendent,,REP,ASHLEY D. BELL,20,0,15,5,0
+Crawford,,State School Superintendent,,REP,"MICHAEL L. ""MIKE"" BUCK",128,5,105,18,0
+Crawford,1A,State School Superintendent,,REP,"MICHAEL L. ""MIKE"" BUCK",4,0,2,2,0
+Crawford,1B,State School Superintendent,,REP,"MICHAEL L. ""MIKE"" BUCK",10,0,8,2,0
+Crawford,2,State School Superintendent,,REP,"MICHAEL L. ""MIKE"" BUCK",31,3,24,4,0
+Crawford,3,State School Superintendent,,REP,"MICHAEL L. ""MIKE"" BUCK",24,0,19,5,0
+Crawford,4,State School Superintendent,,REP,"MICHAEL L. ""MIKE"" BUCK",28,2,22,4,0
+Crawford,5,State School Superintendent,,REP,"MICHAEL L. ""MIKE"" BUCK",31,0,30,1,0
+Crawford,,State School Superintendent,,REP,SHARYL H. DAWES,27,0,22,5,0
+Crawford,1A,State School Superintendent,,REP,SHARYL H. DAWES,1,0,1,0,0
+Crawford,1B,State School Superintendent,,REP,SHARYL H. DAWES,1,0,1,0,0
+Crawford,2,State School Superintendent,,REP,SHARYL H. DAWES,2,0,2,0,0
+Crawford,3,State School Superintendent,,REP,SHARYL H. DAWES,5,0,4,1,0
+Crawford,4,State School Superintendent,,REP,SHARYL H. DAWES,4,0,3,1,0
+Crawford,5,State School Superintendent,,REP,SHARYL H. DAWES,14,0,11,3,0
+Crawford,,State School Superintendent,,REP,ALLEN BOWLES FORT,23,0,15,8,0
+Crawford,1A,State School Superintendent,,REP,ALLEN BOWLES FORT,1,0,1,0,0
+Crawford,1B,State School Superintendent,,REP,ALLEN BOWLES FORT,1,0,1,0,0
+Crawford,2,State School Superintendent,,REP,ALLEN BOWLES FORT,9,0,3,6,0
+Crawford,3,State School Superintendent,,REP,ALLEN BOWLES FORT,3,0,2,1,0
+Crawford,4,State School Superintendent,,REP,ALLEN BOWLES FORT,6,0,5,1,0
+Crawford,5,State School Superintendent,,REP,ALLEN BOWLES FORT,3,0,3,0,0
+Crawford,,State School Superintendent,,REP,NANCY T. JESTER,66,4,39,22,1
+Crawford,1A,State School Superintendent,,REP,NANCY T. JESTER,5,0,4,1,0
+Crawford,1B,State School Superintendent,,REP,NANCY T. JESTER,2,0,1,1,0
+Crawford,2,State School Superintendent,,REP,NANCY T. JESTER,11,0,3,8,0
+Crawford,3,State School Superintendent,,REP,NANCY T. JESTER,21,2,14,4,1
+Crawford,4,State School Superintendent,,REP,NANCY T. JESTER,13,1,8,4,0
+Crawford,5,State School Superintendent,,REP,NANCY T. JESTER,14,1,9,4,0
+Crawford,,State School Superintendent,,REP,T. FITZ JOHNSON,42,2,28,12,0
+Crawford,1A,State School Superintendent,,REP,T. FITZ JOHNSON,2,0,2,0,0
+Crawford,1B,State School Superintendent,,REP,T. FITZ JOHNSON,4,0,3,1,0
+Crawford,2,State School Superintendent,,REP,T. FITZ JOHNSON,11,0,3,8,0
+Crawford,3,State School Superintendent,,REP,T. FITZ JOHNSON,6,0,5,1,0
+Crawford,4,State School Superintendent,,REP,T. FITZ JOHNSON,8,2,5,1,0
+Crawford,5,State School Superintendent,,REP,T. FITZ JOHNSON,11,0,10,1,0
+Crawford,,State School Superintendent,,REP,KIRA G. WILLIS,11,1,9,1,0
+Crawford,1A,State School Superintendent,,REP,KIRA G. WILLIS,1,0,1,0,0
+Crawford,1B,State School Superintendent,,REP,KIRA G. WILLIS,2,0,2,0,0
+Crawford,2,State School Superintendent,,REP,KIRA G. WILLIS,1,0,0,1,0
+Crawford,3,State School Superintendent,,REP,KIRA G. WILLIS,1,1,0,0,0
+Crawford,4,State School Superintendent,,REP,KIRA G. WILLIS,0,0,0,0,0
+Crawford,5,State School Superintendent,,REP,KIRA G. WILLIS,6,0,6,0,0
+Crawford,,State School Superintendent,,REP,RICHARD L. WOODS,151,3,114,34,0
+Crawford,1A,State School Superintendent,,REP,RICHARD L. WOODS,8,0,6,2,0
+Crawford,1B,State School Superintendent,,REP,RICHARD L. WOODS,16,0,13,3,0
+Crawford,2,State School Superintendent,,REP,RICHARD L. WOODS,26,0,16,10,0
+Crawford,3,State School Superintendent,,REP,RICHARD L. WOODS,42,0,34,8,0
+Crawford,4,State School Superintendent,,REP,RICHARD L. WOODS,30,3,22,5,0
+Crawford,5,State School Superintendent,,REP,RICHARD L. WOODS,29,0,23,6,0
+Crawford,,State School Superintendent,,DEM,TARNISHA L. DENT,63,1,46,16,0
+Crawford,1A,State School Superintendent,,DEM,TARNISHA L. DENT,7,0,7,0,0
+Crawford,1B,State School Superintendent,,DEM,TARNISHA L. DENT,24,1,17,6,0
+Crawford,2,State School Superintendent,,DEM,TARNISHA L. DENT,25,0,16,9,0
+Crawford,3,State School Superintendent,,DEM,TARNISHA L. DENT,2,0,2,0,0
+Crawford,4,State School Superintendent,,DEM,TARNISHA L. DENT,3,0,2,1,0
+Crawford,5,State School Superintendent,,DEM,TARNISHA L. DENT,2,0,2,0,0
+Crawford,,State School Superintendent,,DEM,"MARION SPENCER ""DENISE"" FREEMAN",51,3,36,12,0
+Crawford,1A,State School Superintendent,,DEM,"MARION SPENCER ""DENISE"" FREEMAN",5,0,5,0,0
+Crawford,1B,State School Superintendent,,DEM,"MARION SPENCER ""DENISE"" FREEMAN",10,0,9,1,0
+Crawford,2,State School Superintendent,,DEM,"MARION SPENCER ""DENISE"" FREEMAN",22,2,12,8,0
+Crawford,3,State School Superintendent,,DEM,"MARION SPENCER ""DENISE"" FREEMAN",7,1,4,2,0
+Crawford,4,State School Superintendent,,DEM,"MARION SPENCER ""DENISE"" FREEMAN",5,0,4,1,0
+Crawford,5,State School Superintendent,,DEM,"MARION SPENCER ""DENISE"" FREEMAN",2,0,2,0,0
+Crawford,,State School Superintendent,,DEM,JURITA F. MAYS,25,0,17,8,0
+Crawford,1A,State School Superintendent,,DEM,JURITA F. MAYS,2,0,2,0,0
+Crawford,1B,State School Superintendent,,DEM,JURITA F. MAYS,13,0,9,4,0
+Crawford,2,State School Superintendent,,DEM,JURITA F. MAYS,6,0,3,3,0
+Crawford,3,State School Superintendent,,DEM,JURITA F. MAYS,1,0,1,0,0
+Crawford,4,State School Superintendent,,DEM,JURITA F. MAYS,1,0,1,0,0
+Crawford,5,State School Superintendent,,DEM,JURITA F. MAYS,2,0,1,1,0
+Crawford,,State School Superintendent,,DEM,ALISHA T. MORGAN,44,2,38,4,0
+Crawford,1A,State School Superintendent,,DEM,ALISHA T. MORGAN,6,2,4,0,0
+Crawford,1B,State School Superintendent,,DEM,ALISHA T. MORGAN,17,0,14,3,0
+Crawford,2,State School Superintendent,,DEM,ALISHA T. MORGAN,12,0,11,1,0
+Crawford,3,State School Superintendent,,DEM,ALISHA T. MORGAN,5,0,5,0,0
+Crawford,4,State School Superintendent,,DEM,ALISHA T. MORGAN,1,0,1,0,0
+Crawford,5,State School Superintendent,,DEM,ALISHA T. MORGAN,3,0,3,0,0
+Crawford,,State School Superintendent,,DEM,"R. ""RITA"" ROBINZINE",15,1,11,3,0
+Crawford,1A,State School Superintendent,,DEM,"R. ""RITA"" ROBINZINE",1,0,1,0,0
+Crawford,1B,State School Superintendent,,DEM,"R. ""RITA"" ROBINZINE",3,0,3,0,0
+Crawford,2,State School Superintendent,,DEM,"R. ""RITA"" ROBINZINE",8,1,4,3,0
+Crawford,3,State School Superintendent,,DEM,"R. ""RITA"" ROBINZINE",3,0,3,0,0
+Crawford,4,State School Superintendent,,DEM,"R. ""RITA"" ROBINZINE",0,0,0,0,0
+Crawford,5,State School Superintendent,,DEM,"R. ""RITA"" ROBINZINE",0,0,0,0,0
+Crawford,,State School Superintendent,,DEM,VALARIE D. WILSON,67,1,52,14,0
+Crawford,1A,State School Superintendent,,DEM,VALARIE D. WILSON,11,0,9,2,0
+Crawford,1B,State School Superintendent,,DEM,VALARIE D. WILSON,22,1,17,4,0
+Crawford,2,State School Superintendent,,DEM,VALARIE D. WILSON,19,0,14,5,0
+Crawford,3,State School Superintendent,,DEM,VALARIE D. WILSON,3,0,2,1,0
+Crawford,4,State School Superintendent,,DEM,VALARIE D. WILSON,9,0,7,2,0
+Crawford,5,State School Superintendent,,DEM,VALARIE D. WILSON,3,0,3,0,0
+Crawford,,Commissioner Of Labor,,REP,J. MARK BUTLER (I),565,17,420,127,1
+Crawford,1A,Commissioner Of Labor,,REP,J. MARK BUTLER (I),29,0,22,7,0
+Crawford,1B,Commissioner Of Labor,,REP,J. MARK BUTLER (I),42,1,31,10,0
+Crawford,2,Commissioner Of Labor,,REP,J. MARK BUTLER (I),116,3,76,37,0
+Crawford,3,Commissioner Of Labor,,REP,J. MARK BUTLER (I),118,3,86,28,1
+Crawford,4,Commissioner Of Labor,,REP,J. MARK BUTLER (I),118,9,85,24,0
+Crawford,5,Commissioner Of Labor,,REP,J. MARK BUTLER (I),142,1,120,21,0
+Crawford,,Commissioner Of Labor,,DEM,ROBBIN K. SHIPP,222,7,163,52,0
+Crawford,1A,Commissioner Of Labor,,DEM,ROBBIN K. SHIPP,28,2,25,1,0
+Crawford,1B,Commissioner Of Labor,,DEM,ROBBIN K. SHIPP,63,1,45,17,0
+Crawford,2,Commissioner Of Labor,,DEM,ROBBIN K. SHIPP,79,3,50,26,0
+Crawford,3,Commissioner Of Labor,,DEM,ROBBIN K. SHIPP,23,1,19,3,0
+Crawford,4,Commissioner Of Labor,,DEM,ROBBIN K. SHIPP,18,0,14,4,0
+Crawford,5,Commissioner Of Labor,,DEM,ROBBIN K. SHIPP,11,0,10,1,0
+Crawford,,"Public Service Commission, District 1",1,REP,"HERMAN D. ""DOUG"" EVERETT (I)",549,16,408,125,0
+Crawford,1A,"Public Service Commission, District 1",1,REP,"HERMAN D. ""DOUG"" EVERETT (I)",29,0,22,7,0
+Crawford,1B,"Public Service Commission, District 1",1,REP,"HERMAN D. ""DOUG"" EVERETT (I)",42,1,31,10,0
+Crawford,2,"Public Service Commission, District 1",1,REP,"HERMAN D. ""DOUG"" EVERETT (I)",112,3,72,37,0
+Crawford,3,"Public Service Commission, District 1",1,REP,"HERMAN D. ""DOUG"" EVERETT (I)",114,3,83,28,0
+Crawford,4,"Public Service Commission, District 1",1,REP,"HERMAN D. ""DOUG"" EVERETT (I)",115,8,84,23,0
+Crawford,5,"Public Service Commission, District 1",1,REP,"HERMAN D. ""DOUG"" EVERETT (I)",137,1,116,20,0
+Crawford,,"Public Service Commission, District 4",4,REP,DOUGLAS T. KIDD,160,6,106,48,0
+Crawford,1A,"Public Service Commission, District 4",4,REP,DOUGLAS T. KIDD,5,0,2,3,0
+Crawford,1B,"Public Service Commission, District 4",4,REP,DOUGLAS T. KIDD,13,1,10,2,0
+Crawford,2,"Public Service Commission, District 4",4,REP,DOUGLAS T. KIDD,32,0,16,16,0
+Crawford,3,"Public Service Commission, District 4",4,REP,DOUGLAS T. KIDD,35,2,25,8,0
+Crawford,4,"Public Service Commission, District 4",4,REP,DOUGLAS T. KIDD,35,3,21,11,0
+Crawford,5,"Public Service Commission, District 4",4,REP,DOUGLAS T. KIDD,40,0,32,8,0
+Crawford,,"Public Service Commission, District 4",4,REP,"CHARLES C. ""CRAIG"" LUTZ",87,3,72,12,0
+Crawford,1A,"Public Service Commission, District 4",4,REP,"CHARLES C. ""CRAIG"" LUTZ",4,0,2,2,0
+Crawford,1B,"Public Service Commission, District 4",4,REP,"CHARLES C. ""CRAIG"" LUTZ",5,0,5,0,0
+Crawford,2,"Public Service Commission, District 4",4,REP,"CHARLES C. ""CRAIG"" LUTZ",11,0,9,2,0
+Crawford,3,"Public Service Commission, District 4",4,REP,"CHARLES C. ""CRAIG"" LUTZ",19,1,13,5,0
+Crawford,4,"Public Service Commission, District 4",4,REP,"CHARLES C. ""CRAIG"" LUTZ",21,1,17,3,0
+Crawford,5,"Public Service Commission, District 4",4,REP,"CHARLES C. ""CRAIG"" LUTZ",27,1,26,0,0
+Crawford,,"Public Service Commission, District 4",4,REP,"LAUREN W. ""BUBBA"" MCDONALD (I)",412,10,314,88,0
+Crawford,1A,"Public Service Commission, District 4",4,REP,"LAUREN W. ""BUBBA"" MCDONALD (I)",22,0,20,2,0
+Crawford,1B,"Public Service Commission, District 4",4,REP,"LAUREN W. ""BUBBA"" MCDONALD (I)",30,0,22,8,0
+Crawford,2,"Public Service Commission, District 4",4,REP,"LAUREN W. ""BUBBA"" MCDONALD (I)",93,3,60,30,0
+Crawford,3,"Public Service Commission, District 4",4,REP,"LAUREN W. ""BUBBA"" MCDONALD (I)",86,2,65,19,0
+Crawford,4,"Public Service Commission, District 4",4,REP,"LAUREN W. ""BUBBA"" MCDONALD (I)",84,5,64,15,0
+Crawford,5,"Public Service Commission, District 4",4,REP,"LAUREN W. ""BUBBA"" MCDONALD (I)",97,0,83,14,0
+Crawford,,"Public Service Commission, District 4",4,DEM,DANIEL A. BLACKMAN,214,7,156,51,0
+Crawford,1A,"Public Service Commission, District 4",4,DEM,DANIEL A. BLACKMAN,26,2,22,2,0
+Crawford,1B,"Public Service Commission, District 4",4,DEM,DANIEL A. BLACKMAN,62,1,46,15,0
+Crawford,2,"Public Service Commission, District 4",4,DEM,DANIEL A. BLACKMAN,74,3,46,25,0
+Crawford,3,"Public Service Commission, District 4",4,DEM,DANIEL A. BLACKMAN,24,1,19,4,0
+Crawford,4,"Public Service Commission, District 4",4,DEM,DANIEL A. BLACKMAN,18,0,14,4,0
+Crawford,5,"Public Service Commission, District 4",4,DEM,DANIEL A. BLACKMAN,10,0,9,1,0
+Crawford,,"U.S. Representative, District 2",2,REP,VIVIAN L. CHILDS,201,3,152,46,0
+Crawford,1A,"U.S. Representative, District 2",2,REP,VIVIAN L. CHILDS,11,0,10,1,0
+Crawford,1B,"U.S. Representative, District 2",2,REP,VIVIAN L. CHILDS,10,0,6,4,0
+Crawford,2,"U.S. Representative, District 2",2,REP,VIVIAN L. CHILDS,37,0,21,16,0
+Crawford,3,"U.S. Representative, District 2",2,REP,VIVIAN L. CHILDS,44,2,35,7,0
+Crawford,4,"U.S. Representative, District 2",2,REP,VIVIAN L. CHILDS,42,1,29,12,0
+Crawford,5,"U.S. Representative, District 2",2,REP,VIVIAN L. CHILDS,57,0,51,6,0
+Crawford,,"U.S. Representative, District 2",2,REP,"GREGORY P. ""GREG"" DUKE",431,16,319,96,0
+Crawford,1A,"U.S. Representative, District 2",2,REP,"GREGORY P. ""GREG"" DUKE",18,0,13,5,0
+Crawford,1B,"U.S. Representative, District 2",2,REP,"GREGORY P. ""GREG"" DUKE",33,1,27,5,0
+Crawford,2,"U.S. Representative, District 2",2,REP,"GREGORY P. ""GREG"" DUKE",87,3,54,30,0
+Crawford,3,"U.S. Representative, District 2",2,REP,"GREGORY P. ""GREG"" DUKE",93,3,67,23,0
+Crawford,4,"U.S. Representative, District 2",2,REP,"GREGORY P. ""GREG"" DUKE",98,8,72,18,0
+Crawford,5,"U.S. Representative, District 2",2,REP,"GREGORY P. ""GREG"" DUKE",102,1,86,15,0
+Crawford,,"U.S. Representative, District 2",2,DEM,SANFORD D. BISHOP (I,270,5,204,61,0
+Crawford,1A,"U.S. Representative, District 2",2,DEM,SANFORD D. BISHOP (I,32,0,30,2,0
+Crawford,1B,"U.S. Representative, District 2",2,DEM,SANFORD D. BISHOP (I,92,1,70,21,0
+Crawford,2,"U.S. Representative, District 2",2,DEM,SANFORD D. BISHOP (I,90,3,59,28,0
+Crawford,3,"U.S. Representative, District 2",2,DEM,SANFORD D. BISHOP (I,26,1,20,5,0
+Crawford,4,"U.S. Representative, District 2",2,DEM,SANFORD D. BISHOP (I,19,0,15,4,0
+Crawford,5,"U.S. Representative, District 2",2,DEM,SANFORD D. BISHOP (I,11,0,10,1,0
+Crawford,,"State Senator, District 18",18,REP,JOHN F. KENNEDY,377,14,279,84,0
+Crawford,1A,"State Senator, District 18",18,REP,JOHN F. KENNEDY,16,0,13,3,0
+Crawford,1B,"State Senator, District 18",18,REP,JOHN F. KENNEDY,34,1,25,8,0
+Crawford,2,"State Senator, District 18",18,REP,JOHN F. KENNEDY,72,0,45,27,0
+Crawford,3,"State Senator, District 18",18,REP,JOHN F. KENNEDY,83,6,65,12,0
+Crawford,4,"State Senator, District 18",18,REP,JOHN F. KENNEDY,86,7,60,19,0
+Crawford,5,"State Senator, District 18",18,REP,JOHN F. KENNEDY,86,0,71,15,0
+Crawford,,"State Senator, District 18",18,REP,SPENCER T. PRICE,380,8,288,83,1
+Crawford,1A,"State Senator, District 18",18,REP,SPENCER T. PRICE,18,0,13,5,0
+Crawford,1B,"State Senator, District 18",18,REP,SPENCER T. PRICE,28,0,22,6,0
+Crawford,2,"State Senator, District 18",18,REP,SPENCER T. PRICE,86,3,54,29,0
+Crawford,3,"State Senator, District 18",18,REP,SPENCER T. PRICE,85,2,60,22,1
+Crawford,4,"State Senator, District 18",18,REP,SPENCER T. PRICE,73,2,59,12,0
+Crawford,5,"State Senator, District 18",18,REP,SPENCER T. PRICE,90,1,80,9,0
+Crawford,,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),637,19,478,139,1
+Crawford,1A,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),30,0,24,6,0
+Crawford,1B,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),51,1,38,12,0
+Crawford,2,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),135,3,86,46,0
+Crawford,3,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),134,5,99,29,1
+Crawford,4,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),134,9,101,24,0
+Crawford,5,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),153,1,130,22,0
+Crawford,,"CC, D1",D1 - R,,LARRY COOLEY,82,1,63,18,0
+Crawford,1A,"CC, D1",D1 - R,,LARRY COOLEY,31,0,23,8,0
+Crawford,1B,"CC, D1",D1 - R,,LARRY COOLEY,51,1,40,10,0
+Crawford,,"CC, D1",D1 - D,,STERLING BRASWELL,112,3,88,21,0
+Crawford,1A,"CC, D1",D1 - D,,STERLING BRASWELL,32,2,28,2,0
+Crawford,1B,"CC, D1",D1 - D,,STERLING BRASWELL,80,1,60,19,0
+Crawford,,"CC, D5",D5 - R,,PAUL W. CHAPMAN (I),155,1,130,24,0
+Crawford,5,"CC, D5",D5 - R,,PAUL W. CHAPMAN (I),155,1,130,24,0
+Crawford,,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,YES,273,9,206,58,0
+Crawford,1A,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,YES,33,2,29,2,0
+Crawford,1B,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,YES,96,2,73,21,0
+Crawford,2,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,YES,84,3,56,25,0
+Crawford,3,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,YES,26,1,20,5,0
+Crawford,4,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,YES,21,1,16,4,0
+Crawford,5,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,YES,13,0,12,1,0
+Crawford,,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,NO,27,0,23,4,0
+Crawford,1A,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,NO,3,0,3,0,0
+Crawford,1B,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,NO,5,0,4,1,0
+Crawford,2,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,NO,13,0,11,2,0
+Crawford,3,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,NO,3,0,3,0,0
+Crawford,4,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,NO,3,0,2,1,0
+Crawford,5,Democratic Party Question 1<br>Should Georgia raise the state minimum wage above the current $5.15 an hour?,,DEM,NO,0,0,0,0,0
+Crawford,,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,YES,243,8,178,57,0
+Crawford,1A,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,YES,34,2,30,2,0
+Crawford,1B,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,YES,79,2,56,21,0
+Crawford,2,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,YES,80,3,52,25,0
+Crawford,3,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,YES,25,1,19,5,0
+Crawford,4,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,YES,14,0,11,3,0
+Crawford,5,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,YES,11,0,10,1,0
+Crawford,,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,NO,49,1,43,5,0
+Crawford,1A,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,NO,4,0,4,0,0
+Crawford,1B,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,NO,14,0,14,0,0
+Crawford,2,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,NO,16,0,12,4,0
+Crawford,3,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,NO,4,0,4,0,0
+Crawford,4,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,NO,9,1,7,1,0
+Crawford,5,Democratic Party Question 2<br>Should Georgians' federal tax dollars be retunred to Georgia to fund Medicaid expansion and relieve the indigent care burden on our hospitals?,,DEM,NO,2,0,2,0,0
+Crawford,,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,YES,198,8,146,44,0
+Crawford,1A,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,YES,27,2,23,2,0
+Crawford,1B,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,YES,56,1,42,13,0
+Crawford,2,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,YES,69,3,44,22,0
+Crawford,3,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,YES,19,1,14,4,0
+Crawford,4,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,YES,15,1,12,2,0
+Crawford,5,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,YES,12,0,11,1,0
+Crawford,,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,NO,74,0,60,14,0
+Crawford,1A,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,NO,8,0,8,0,0
+Crawford,1B,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,NO,28,0,23,5,0
+Crawford,2,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,NO,23,0,16,7,0
+Crawford,3,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,NO,7,0,7,0,0
+Crawford,4,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,NO,7,0,5,2,0
+Crawford,5,Democratic Party Question 3<br>Independent Ethics Commission Question,,DEM,NO,1,0,1,0,0
+Crawford,,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,YES,231,6,172,53,0
+Crawford,1A,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,YES,29,0,27,2,0
+Crawford,1B,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,YES,74,1,58,15,0
+Crawford,2,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,YES,82,3,52,27,0
+Crawford,3,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,YES,20,1,14,5,0
+Crawford,4,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,YES,17,1,13,3,0
+Crawford,5,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,YES,9,0,8,1,0
+Crawford,,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,NO,55,2,46,7,0
+Crawford,1A,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,NO,7,2,5,0,0
+Crawford,1B,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,NO,16,0,12,4,0
+Crawford,2,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,NO,14,0,12,2,0
+Crawford,3,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,NO,8,0,8,0,0
+Crawford,4,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,NO,6,0,5,1,0
+Crawford,5,Democratic Party Question 4 <br>Should the Constitution of Georgia be amended to make the education budget Georgia's first funding priority?,,DEM,NO,4,0,4,0,0
+Crawford,,Supreme Court Justice,Benham,,ROBERT BENHAM (I),783,22,581,180,0
+Crawford,1A,Supreme Court Justice,Benham,,ROBERT BENHAM (I),57,2,47,8,0
+Crawford,1B,Supreme Court Justice,Benham,,ROBERT BENHAM (I),102,2,78,22,0
+Crawford,2,Supreme Court Justice,Benham,,ROBERT BENHAM (I),201,6,127,68,0
+Crawford,3,Supreme Court Justice,Benham,,ROBERT BENHAM (I),138,4,101,33,0
+Crawford,4,Supreme Court Justice,Benham,,ROBERT BENHAM (I),138,7,102,29,0
+Crawford,5,Supreme Court Justice,Benham,,ROBERT BENHAM (I),147,1,126,20,0
+Crawford,,Supreme Court Justice,Blackwell,,KEITH R. BLACKWELL (I),779,24,578,177,0
+Crawford,1A,Supreme Court Justice,Blackwell,,KEITH R. BLACKWELL (I),58,2,47,9,0
+Crawford,1B,Supreme Court Justice,Blackwell,,KEITH R. BLACKWELL (I),97,2,75,20,0
+Crawford,2,Supreme Court Justice,Blackwell,,KEITH R. BLACKWELL (I),202,6,127,69,0
+Crawford,3,Supreme Court Justice,Blackwell,,KEITH R. BLACKWELL (I),140,4,105,31,0
+Crawford,4,Supreme Court Justice,Blackwell,,KEITH R. BLACKWELL (I),135,9,98,28,0
+Crawford,5,Supreme Court Justice,Blackwell,,KEITH R. BLACKWELL (I),147,1,126,20,0
+Crawford,,Supreme Court Justice,Hines,,P. HARRIS HINES (I),778,23,579,176,0
+Crawford,1A,Supreme Court Justice,Hines,,P. HARRIS HINES (I),57,2,46,9,0
+Crawford,1B,Supreme Court Justice,Hines,,P. HARRIS HINES (I),98,2,76,20,0
+Crawford,2,Supreme Court Justice,Hines,,P. HARRIS HINES (I),205,6,129,70,0
+Crawford,3,Supreme Court Justice,Hines,,P. HARRIS HINES (I),140,4,105,31,0
+Crawford,4,Supreme Court Justice,Hines,,P. HARRIS HINES (I),133,8,98,27,0
+Crawford,5,Supreme Court Justice,Hines,,P. HARRIS HINES (I),145,1,125,19,0
+Crawford,,Appeals Court Judge,Andrews,,GARY B. ANDREWS (I),784,25,585,173,1
+Crawford,1A,Appeals Court Judge,Andrews,,GARY B. ANDREWS (I),58,2,48,8,0
+Crawford,1B,Appeals Court Judge,Andrews,,GARY B. ANDREWS (I),104,3,81,20,0
+Crawford,2,Appeals Court Judge,Andrews,,GARY B. ANDREWS (I),206,6,130,70,0
+Crawford,3,Appeals Court Judge,Andrews,,GARY B. ANDREWS (I),138,4,102,31,1
+Crawford,4,Appeals Court Judge,Andrews,,GARY B. ANDREWS (I),134,9,99,26,0
+Crawford,5,Appeals Court Judge,Andrews,,GARY B. ANDREWS (I),144,1,125,18,0
+Crawford,,Appeals Court Judge,Branch,,"ELIZABETH L. ""LISA"" BRANCH (I)",772,23,584,165,0
+Crawford,1A,Appeals Court Judge,Branch,,"ELIZABETH L. ""LISA"" BRANCH (I)",57,2,47,8,0
+Crawford,1B,Appeals Court Judge,Branch,,"ELIZABETH L. ""LISA"" BRANCH (I)",101,2,80,19,0
+Crawford,2,Appeals Court Judge,Branch,,"ELIZABETH L. ""LISA"" BRANCH (I)",203,6,131,66,0
+Crawford,3,Appeals Court Judge,Branch,,"ELIZABETH L. ""LISA"" BRANCH (I)",138,4,104,30,0
+Crawford,4,Appeals Court Judge,Branch,,"ELIZABETH L. ""LISA"" BRANCH (I)",130,8,96,26,0
+Crawford,5,Appeals Court Judge,Branch,,"ELIZABETH L. ""LISA"" BRANCH (I)",143,1,126,16,0
+Crawford,,Appeals Court Judge,Doyle,,SARA L. DOYLE (I),776,25,582,169,0
+Crawford,1A,Appeals Court Judge,Doyle,,SARA L. DOYLE (I),57,2,48,7,0
+Crawford,1B,Appeals Court Judge,Doyle,,SARA L. DOYLE (I),104,3,81,20,0
+Crawford,2,Appeals Court Judge,Doyle,,SARA L. DOYLE (I),200,6,126,68,0
+Crawford,3,Appeals Court Judge,Doyle,,SARA L. DOYLE (I),137,4,103,30,0
+Crawford,4,Appeals Court Judge,Doyle,,SARA L. DOYLE (I),133,9,98,26,0
+Crawford,5,Appeals Court Judge,Doyle,,SARA L. DOYLE (I),145,1,126,18,0
+Crawford,,Appeals Court Judge,McMillian,,CARLA W. MCMILLIAN (I),762,23,566,173,0
+Crawford,1A,Appeals Court Judge,McMillian,,CARLA W. MCMILLIAN (I),56,2,47,7,0
+Crawford,1B,Appeals Court Judge,McMillian,,CARLA W. MCMILLIAN (I),96,2,74,20,0
+Crawford,2,Appeals Court Judge,McMillian,,CARLA W. MCMILLIAN (I),200,6,126,68,0
+Crawford,3,Appeals Court Judge,McMillian,,CARLA W. MCMILLIAN (I),137,4,103,30,0
+Crawford,4,Appeals Court Judge,McMillian,,CARLA W. MCMILLIAN (I),130,8,93,29,0
+Crawford,5,Appeals Court Judge,McMillian,,CARLA W. MCMILLIAN (I),143,1,123,19,0
+Crawford,,Appeals Court Judge,Ray,,WILLIAM M. RAY (I),781,23,583,175,0
+Crawford,1A,Appeals Court Judge,Ray,,WILLIAM M. RAY (I),58,2,49,7,0
+Crawford,1B,Appeals Court Judge,Ray,,WILLIAM M. RAY (I),100,2,78,20,0
+Crawford,2,Appeals Court Judge,Ray,,WILLIAM M. RAY (I),203,6,129,68,0
+Crawford,3,Appeals Court Judge,Ray,,WILLIAM M. RAY (I),139,4,103,32,0
+Crawford,4,Appeals Court Judge,Ray,,WILLIAM M. RAY (I),136,8,100,28,0
+Crawford,5,Appeals Court Judge,Ray,,WILLIAM M. RAY (I),145,1,124,20,0
+Crawford,,Superior Court Judge,Macon Circuit (Raymond III),,P. RAYMOND III (I),770,22,574,174,0
+Crawford,1A,Superior Court Judge,Macon Circuit (Raymond III),,P. RAYMOND III (I),58,2,49,7,0
+Crawford,1B,Superior Court Judge,Macon Circuit (Raymond III),,P. RAYMOND III (I),98,2,75,21,0
+Crawford,2,Superior Court Judge,Macon Circuit (Raymond III),,P. RAYMOND III (I),200,6,127,67,0
+Crawford,3,Superior Court Judge,Macon Circuit (Raymond III),,P. RAYMOND III (I),139,4,103,32,0
+Crawford,4,Superior Court Judge,Macon Circuit (Raymond III),,P. RAYMOND III (I),129,7,95,27,0
+Crawford,5,Superior Court Judge,Macon Circuit (Raymond III),,P. RAYMOND III (I),146,1,125,20,0
+Crawford,,Superior Court Judge,Macon Circuit (Self),I,TILMAN E SELF III,828,24,610,194,0
+Crawford,1A,Superior Court Judge,Macon Circuit (Self),I,TILMAN E SELF III,59,2,49,8,0
+Crawford,1B,Superior Court Judge,Macon Circuit (Self),I,TILMAN E SELF III,106,2,83,21,0
+Crawford,2,Superior Court Judge,Macon Circuit (Self),I,TILMAN E SELF III,218,6,132,80,0
+Crawford,3,Superior Court Judge,Macon Circuit (Self),I,TILMAN E SELF III,148,4,111,33,0
+Crawford,4,Superior Court Judge,Macon Circuit (Self),I,TILMAN E SELF III,145,9,106,30,0
+Crawford,5,Superior Court Judge,Macon Circuit (Self),I,TILMAN E SELF III,152,1,129,22,0
+Crawford,,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS (I),791,24,583,184,0
+Crawford,1A,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS (I),57,2,48,7,0
+Crawford,1B,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS (I),102,2,78,22,0
+Crawford,2,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS (I),204,6,124,74,0
+Crawford,3,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS (I),142,4,108,30,0
+Crawford,4,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS (I),139,9,101,29,0
+Crawford,5,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS (I),147,1,124,22,0
+Crawford,,BOE,D1,,RAYMOND DICKEY (I),176,2,146,28,0
+Crawford,1A,BOE,D1,,RAYMOND DICKEY (I),49,0,45,4,0
+Crawford,1B,BOE,D1,,RAYMOND DICKEY (I),127,2,101,24,0
+Crawford,,BOE,D1,,BILL PATTON,76,3,55,18,0
+Crawford,1A,BOE,D1,,BILL PATTON,25,2,18,5,0
+Crawford,1B,BOE,D1,,BILL PATTON,51,1,37,13,0
+Crawford,,BOE,D5,,JACKSON E DEFORE III,144,0,123,21,0
+Crawford,5,BOE,D5,,JACKSON E DEFORE III,144,0,123,21,0

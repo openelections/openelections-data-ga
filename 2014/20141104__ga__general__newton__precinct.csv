@@ -1,0 +1,979 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Newton,,United States Senator,,R,DAVID A. PERDUE,13650,571,8792,4286,1
+Newton,City Pond,United States Senator,,R,DAVID A. PERDUE,175,10,107,58,0
+Newton,Town,United States Senator,,R,DAVID A. PERDUE,267,17,127,123,0
+Newton,Almon,United States Senator,,R,DAVID A. PERDUE,477,28,308,141,0
+Newton,Alcovy,United States Senator,,R,DAVID A. PERDUE,959,35,523,401,0
+Newton,Covington Mills,United States Senator,,R,DAVID A. PERDUE,515,27,303,184,1
+Newton,Brewers,United States Senator,,R,DAVID A. PERDUE,915,33,659,223,0
+Newton,Brick Store,United States Senator,,R,DAVID A. PERDUE,886,29,556,301,0
+Newton,Cedar Shoals,United States Senator,,R,DAVID A. PERDUE,366,12,251,103,0
+Newton,Livingston,United States Senator,,R,DAVID A. PERDUE,469,24,265,180,0
+Newton,Downs,United States Senator,,R,DAVID A. PERDUE,1166,35,759,372,0
+Newton,Gum Creek,United States Senator,,R,DAVID A. PERDUE,1451,64,916,471,0
+Newton,Beaverdam,United States Senator,,R,DAVID A. PERDUE,439,29,263,147,0
+Newton,Leguinn,United States Senator,,R,DAVID A. PERDUE,696,20,488,188,0
+Newton,Mansfield,United States Senator,,R,DAVID A. PERDUE,587,16,469,102,0
+Newton,Newborn,United States Senator,,R,DAVID A. PERDUE,300,12,246,42,0
+Newton,Oxford,United States Senator,,R,DAVID A. PERDUE,675,31,436,208,0
+Newton,Rocky Plains,United States Senator,,R,DAVID A. PERDUE,637,20,477,140,0
+Newton,Buck Creek,United States Senator,,R,DAVID A. PERDUE,851,45,527,279,0
+Newton,Stansells,United States Senator,,R,DAVID A. PERDUE,479,27,250,202,0
+Newton,Fairview,United States Senator,,R,DAVID A. PERDUE,159,11,97,51,0
+Newton,Crowell,United States Senator,,R,DAVID A. PERDUE,221,6,132,83,0
+Newton,Hub,United States Senator,,R,DAVID A. PERDUE,960,40,633,287,0
+Newton,,United States Senator,,D,M. MICHELLE NUNN,14230,538,7608,6084,0
+Newton,City Pond,United States Senator,,D,M. MICHELLE NUNN,374,22,176,176,0
+Newton,Town,United States Senator,,D,M. MICHELLE NUNN,1090,102,513,475,0
+Newton,Almon,United States Senator,,D,M. MICHELLE NUNN,1199,37,630,532,0
+Newton,Alcovy,United States Senator,,D,M. MICHELLE NUNN,637,21,321,295,0
+Newton,Covington Mills,United States Senator,,D,M. MICHELLE NUNN,514,11,294,209,0
+Newton,Brewers,United States Senator,,D,M. MICHELLE NUNN,328,6,208,114,0
+Newton,Brick Store,United States Senator,,D,M. MICHELLE NUNN,277,13,154,110,0
+Newton,Cedar Shoals,United States Senator,,D,M. MICHELLE NUNN,416,14,229,173,0
+Newton,Livingston,United States Senator,,D,M. MICHELLE NUNN,1081,37,513,531,0
+Newton,Downs,United States Senator,,D,M. MICHELLE NUNN,1086,36,565,485,0
+Newton,Gum Creek,United States Senator,,D,M. MICHELLE NUNN,528,12,273,243,0
+Newton,Beaverdam,United States Senator,,D,M. MICHELLE NUNN,1412,31,796,585,0
+Newton,Leguinn,United States Senator,,D,M. MICHELLE NUNN,197,8,111,78,0
+Newton,Mansfield,United States Senator,,D,M. MICHELLE NUNN,103,7,73,23,0
+Newton,Newborn,United States Senator,,D,M. MICHELLE NUNN,66,3,52,11,0
+Newton,Oxford,United States Senator,,D,M. MICHELLE NUNN,328,18,185,125,0
+Newton,Rocky Plains,United States Senator,,D,M. MICHELLE NUNN,504,14,296,194,0
+Newton,Buck Creek,United States Senator,,D,M. MICHELLE NUNN,875,34,451,390,0
+Newton,Stansells,United States Senator,,D,M. MICHELLE NUNN,1045,46,544,455,0
+Newton,Fairview,United States Senator,,D,M. MICHELLE NUNN,661,20,410,231,0
+Newton,Crowell,United States Senator,,D,M. MICHELLE NUNN,1330,35,711,584,0
+Newton,Hub,United States Senator,,D,M. MICHELLE NUNN,179,11,103,65,0
+Newton,,United States Senator,,L,AMANDA C. SWAFFORD,508,29,353,126,0
+Newton,City Pond,United States Senator,,L,AMANDA C. SWAFFORD,10,0,4,6,0
+Newton,Town,United States Senator,,L,AMANDA C. SWAFFORD,15,1,9,5,0
+Newton,Almon,United States Senator,,L,AMANDA C. SWAFFORD,14,2,7,5,0
+Newton,Alcovy,United States Senator,,L,AMANDA C. SWAFFORD,37,3,21,13,0
+Newton,Covington Mills,United States Senator,,L,AMANDA C. SWAFFORD,20,1,17,2,0
+Newton,Brewers,United States Senator,,L,AMANDA C. SWAFFORD,26,2,16,8,0
+Newton,Brick Store,United States Senator,,L,AMANDA C. SWAFFORD,27,3,21,3,0
+Newton,Cedar Shoals,United States Senator,,L,AMANDA C. SWAFFORD,25,0,21,4,0
+Newton,Livingston,United States Senator,,L,AMANDA C. SWAFFORD,22,0,10,12,0
+Newton,Downs,United States Senator,,L,AMANDA C. SWAFFORD,58,1,46,11,0
+Newton,Gum Creek,United States Senator,,L,AMANDA C. SWAFFORD,40,1,35,4,0
+Newton,Beaverdam,United States Senator,,L,AMANDA C. SWAFFORD,21,2,6,13,0
+Newton,Leguinn,United States Senator,,L,AMANDA C. SWAFFORD,15,0,11,4,0
+Newton,Mansfield,United States Senator,,L,AMANDA C. SWAFFORD,18,1,12,5,0
+Newton,Newborn,United States Senator,,L,AMANDA C. SWAFFORD,11,0,11,0,0
+Newton,Oxford,United States Senator,,L,AMANDA C. SWAFFORD,30,2,21,7,0
+Newton,Rocky Plains,United States Senator,,L,AMANDA C. SWAFFORD,25,1,21,3,0
+Newton,Buck Creek,United States Senator,,L,AMANDA C. SWAFFORD,37,1,30,6,0
+Newton,Stansells,United States Senator,,L,AMANDA C. SWAFFORD,25,5,10,10,0
+Newton,Fairview,United States Senator,,L,AMANDA C. SWAFFORD,7,1,4,2,0
+Newton,Crowell,United States Senator,,L,AMANDA C. SWAFFORD,11,2,7,2,0
+Newton,Hub,United States Senator,,L,AMANDA C. SWAFFORD,14,0,13,1,0
+Newton,,Governor,,(R,J. NATHAN DEAL (I),13605,582,8737,4285,1
+Newton,City Pond,Governor,,(R,J. NATHAN DEAL (I),168,8,105,55,0
+Newton,Town,Governor,,(R,J. NATHAN DEAL (I),283,18,136,129,0
+Newton,Almon,Governor,,(R,J. NATHAN DEAL (I),493,30,309,154,0
+Newton,Alcovy,Governor,,(R,J. NATHAN DEAL (I),948,39,505,404,0
+Newton,Covington Mills,Governor,,(R,J. NATHAN DEAL (I),517,23,306,187,1
+Newton,Brewers,Governor,,(R,J. NATHAN DEAL (I),902,33,650,219,0
+Newton,Brick Store,Governor,,(R,J. NATHAN DEAL (I),867,29,543,295,0
+Newton,Cedar Shoals,Governor,,(R,J. NATHAN DEAL (I),370,13,251,106,0
+Newton,Livingston,Governor,,(R,J. NATHAN DEAL (I),463,25,257,181,0
+Newton,Downs,Governor,,(R,J. NATHAN DEAL (I),1176,36,764,376,0
+Newton,Gum Creek,Governor,,(R,J. NATHAN DEAL (I),1421,60,898,463,0
+Newton,Beaverdam,Governor,,(R,J. NATHAN DEAL (I),455,30,273,152,0
+Newton,Leguinn,Governor,,(R,J. NATHAN DEAL (I),671,20,469,182,0
+Newton,Mansfield,Governor,,(R,J. NATHAN DEAL (I),585,16,473,96,0
+Newton,Newborn,Governor,,(R,J. NATHAN DEAL (I),303,12,248,43,0
+Newton,Oxford,Governor,,(R,J. NATHAN DEAL (I),666,33,429,204,0
+Newton,Rocky Plains,Governor,,(R,J. NATHAN DEAL (I),634,20,479,135,0
+Newton,Buck Creek,Governor,,(R,J. NATHAN DEAL (I),850,47,527,276,0
+Newton,Stansells,Governor,,(R,J. NATHAN DEAL (I),483,30,252,201,0
+Newton,Fairview,Governor,,(R,J. NATHAN DEAL (I),164,13,100,51,0
+Newton,Crowell,Governor,,(R,J. NATHAN DEAL (I),233,9,137,87,0
+Newton,Hub,Governor,,(R,J. NATHAN DEAL (I),953,38,626,289,0
+Newton,,Governor,,D,JASON J. CARTER,14067,537,7522,6007,1
+Newton,City Pond,Governor,,D,JASON J. CARTER,372,23,177,172,0
+Newton,Town,Governor,,D,JASON J. CARTER,1058,101,498,459,0
+Newton,Almon,Governor,,D,JASON J. CARTER,1170,36,618,516,0
+Newton,Alcovy,Governor,,D,JASON J. CARTER,626,19,322,285,0
+Newton,Covington Mills,Governor,,D,JASON J. CARTER,507,16,292,199,0
+Newton,Brewers,Governor,,D,JASON J. CARTER,335,7,209,119,0
+Newton,Brick Store,Governor,,D,JASON J. CARTER,285,15,159,111,0
+Newton,Cedar Shoals,Governor,,D,JASON J. CARTER,414,13,235,166,0
+Newton,Livingston,Governor,,D,JASON J. CARTER,1073,34,505,533,1
+Newton,Downs,Governor,,D,JASON J. CARTER,1088,36,563,489,0
+Newton,Gum Creek,Governor,,D,JASON J. CARTER,549,15,286,248,0
+Newton,Beaverdam,Governor,,D,JASON J. CARTER,1375,32,766,577,0
+Newton,Leguinn,Governor,,D,JASON J. CARTER,211,8,123,80,0
+Newton,Mansfield,Governor,,D,JASON J. CARTER,97,8,63,26,0
+Newton,Newborn,Governor,,D,JASON J. CARTER,61,3,47,11,0
+Newton,Oxford,Governor,,D,JASON J. CARTER,324,17,185,122,0
+Newton,Rocky Plains,Governor,,D,JASON J. CARTER,504,15,294,195,0
+Newton,Buck Creek,Governor,,D,JASON J. CARTER,870,31,456,383,0
+Newton,Stansells,Governor,,D,JASON J. CARTER,1037,46,534,457,0
+Newton,Fairview,Governor,,D,JASON J. CARTER,646,18,398,230,0
+Newton,Crowell,Governor,,D,JASON J. CARTER,1298,33,696,569,0
+Newton,Hub,Governor,,D,JASON J. CARTER,167,11,96,60,0
+Newton,,Governor,,L,ANDREW T. HUNT,530,17,375,138,0
+Newton,City Pond,Governor,,L,ANDREW T. HUNT,11,0,6,5,0
+Newton,Town,Governor,,L,ANDREW T. HUNT,20,2,11,7,0
+Newton,Almon,Governor,,L,ANDREW T. HUNT,19,1,11,7,0
+Newton,Alcovy,Governor,,L,ANDREW T. HUNT,47,1,30,16,0
+Newton,Covington Mills,Governor,,L,ANDREW T. HUNT,25,0,17,8,0
+Newton,Brewers,Governor,,L,ANDREW T. HUNT,29,1,20,8,0
+Newton,Brick Store,Governor,,L,ANDREW T. HUNT,28,1,24,3,0
+Newton,Cedar Shoals,Governor,,L,ANDREW T. HUNT,18,0,14,4,0
+Newton,Livingston,Governor,,L,ANDREW T. HUNT,28,3,13,12,0
+Newton,Downs,Governor,,L,ANDREW T. HUNT,33,0,27,6,0
+Newton,Gum Creek,Governor,,L,ANDREW T. HUNT,43,2,37,4,0
+Newton,Beaverdam,Governor,,L,ANDREW T. HUNT,17,0,6,11,0
+Newton,Leguinn,Governor,,L,ANDREW T. HUNT,13,0,10,3,0
+Newton,Mansfield,Governor,,L,ANDREW T. HUNT,23,0,16,7,0
+Newton,Newborn,Governor,,L,ANDREW T. HUNT,13,0,13,0,0
+Newton,Oxford,Governor,,L,ANDREW T. HUNT,33,0,28,5,0
+Newton,Rocky Plains,Governor,,L,ANDREW T. HUNT,24,0,20,4,0
+Newton,Buck Creek,Governor,,L,ANDREW T. HUNT,43,2,34,7,0
+Newton,Stansells,Governor,,L,ANDREW T. HUNT,21,1,13,7,0
+Newton,Fairview,Governor,,L,ANDREW T. HUNT,5,1,2,2,0
+Newton,Crowell,Governor,,L,ANDREW T. HUNT,18,1,9,8,0
+Newton,Hub,Governor,,L,ANDREW T. HUNT,19,1,14,4,0
+Newton,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",14800,623,9548,4627,2
+Newton,City Pond,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",190,7,119,64,0
+Newton,Town,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",314,22,144,148,0
+Newton,Almon,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",532,33,331,168,0
+Newton,Alcovy,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1041,39,567,435,0
+Newton,Covington Mills,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",580,27,351,201,1
+Newton,Brewers,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",960,35,692,233,0
+Newton,Brick Store,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",939,32,599,308,0
+Newton,Cedar Shoals,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",415,13,289,113,0
+Newton,Livingston,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",527,27,293,206,1
+Newton,Downs,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1281,35,846,400,0
+Newton,Gum Creek,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1530,64,974,492,0
+Newton,Beaverdam,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",491,34,292,165,0
+Newton,Leguinn,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",727,20,511,196,0
+Newton,Mansfield,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",622,18,497,107,0
+Newton,Newborn,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",321,13,264,44,0
+Newton,Oxford,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",731,40,476,215,0
+Newton,Rocky Plains,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",678,22,512,144,0
+Newton,Buck Creek,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",942,50,590,302,0
+Newton,Stansells,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",544,32,283,229,0
+Newton,Fairview,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",190,12,118,60,0
+Newton,Crowell,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",262,8,150,104,0
+Newton,Hub,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",983,40,650,293,0
+Newton,,Lieutenant Governor,,D,CONNIE J. STOKES,13313,501,7052,5760,0
+Newton,City Pond,Lieutenant Governor,,D,CONNIE J. STOKES,359,24,167,168,0
+Newton,Town,Lieutenant Governor,,D,CONNIE J. STOKES,1028,95,491,442,0
+Newton,Almon,Lieutenant Governor,,D,CONNIE J. STOKES,1142,34,599,509,0
+Newton,Alcovy,Lieutenant Governor,,D,CONNIE J. STOKES,570,18,285,267,0
+Newton,Covington Mills,Lieutenant Governor,,D,CONNIE J. STOKES,461,11,262,188,0
+Newton,Brewers,Lieutenant Governor,,D,CONNIE J. STOKES,305,6,188,111,0
+Newton,Brick Store,Lieutenant Governor,,D,CONNIE J. STOKES,238,12,128,98,0
+Newton,Cedar Shoals,Lieutenant Governor,,D,CONNIE J. STOKES,389,12,212,165,0
+Newton,Livingston,Lieutenant Governor,,D,CONNIE J. STOKES,1023,35,483,505,0
+Newton,Downs,Lieutenant Governor,,D,CONNIE J. STOKES,1008,37,506,465,0
+Newton,Gum Creek,Lieutenant Governor,,D,CONNIE J. STOKES,467,13,235,219,0
+Newton,Beaverdam,Lieutenant Governor,,D,CONNIE J. STOKES,1353,28,758,567,0
+Newton,Leguinn,Lieutenant Governor,,D,CONNIE J. STOKES,168,7,90,71,0
+Newton,Mansfield,Lieutenant Governor,,D,CONNIE J. STOKES,83,6,55,22,0
+Newton,Newborn,Lieutenant Governor,,D,CONNIE J. STOKES,51,2,39,10,0
+Newton,Oxford,Lieutenant Governor,,D,CONNIE J. STOKES,291,10,163,118,0
+Newton,Rocky Plains,Lieutenant Governor,,D,CONNIE J. STOKES,484,13,280,191,0
+Newton,Buck Creek,Lieutenant Governor,,D,CONNIE J. STOKES,805,29,416,360,0
+Newton,Stansells,Lieutenant Governor,,D,CONNIE J. STOKES,1004,45,521,438,0
+Newton,Fairview,Lieutenant Governor,,D,CONNIE J. STOKES,632,19,387,226,0
+Newton,Crowell,Lieutenant Governor,,D,CONNIE J. STOKES,1292,35,694,563,0
+Newton,Hub,Lieutenant Governor,,D,CONNIE J. STOKES,160,10,93,57,0
+Newton,,Secretary Of State,,(R,BRIAN P. KEMP (I),14575,625,9402,4547,1
+Newton,City Pond,Secretary Of State,,(R,BRIAN P. KEMP (I),187,9,120,58,0
+Newton,Town,Secretary Of State,,(R,BRIAN P. KEMP (I),301,22,135,144,0
+Newton,Almon,Secretary Of State,,(R,BRIAN P. KEMP (I),512,32,324,156,0
+Newton,Alcovy,Secretary Of State,,(R,BRIAN P. KEMP (I),1023,39,555,429,0
+Newton,Covington Mills,Secretary Of State,,(R,BRIAN P. KEMP (I),580,29,346,204,1
+Newton,Brewers,Secretary Of State,,(R,BRIAN P. KEMP (I),950,35,681,234,0
+Newton,Brick Store,Secretary Of State,,(R,BRIAN P. KEMP (I),941,31,601,309,0
+Newton,Cedar Shoals,Secretary Of State,,(R,BRIAN P. KEMP (I),403,13,282,108,0
+Newton,Livingston,Secretary Of State,,(R,BRIAN P. KEMP (I),499,27,279,193,0
+Newton,Downs,Secretary Of State,,(R,BRIAN P. KEMP (I),1256,35,828,393,0
+Newton,Gum Creek,Secretary Of State,,(R,BRIAN P. KEMP (I),1528,61,971,496,0
+Newton,Beaverdam,Secretary Of State,,(R,BRIAN P. KEMP (I),477,33,287,157,0
+Newton,Leguinn,Secretary Of State,,(R,BRIAN P. KEMP (I),716,21,503,192,0
+Newton,Mansfield,Secretary Of State,,(R,BRIAN P. KEMP (I),613,18,489,106,0
+Newton,Newborn,Secretary Of State,,(R,BRIAN P. KEMP (I),319,13,262,44,0
+Newton,Oxford,Secretary Of State,,(R,BRIAN P. KEMP (I),723,39,469,215,0
+Newton,Rocky Plains,Secretary Of State,,(R,BRIAN P. KEMP (I),672,23,507,142,0
+Newton,Buck Creek,Secretary Of State,,(R,BRIAN P. KEMP (I),930,50,578,302,0
+Newton,Stansells,Secretary Of State,,(R,BRIAN P. KEMP (I),524,34,273,217,0
+Newton,Fairview,Secretary Of State,,(R,BRIAN P. KEMP (I),179,12,110,57,0
+Newton,Crowell,Secretary Of State,,(R,BRIAN P. KEMP (I),255,9,145,101,0
+Newton,Hub,Secretary Of State,,(R,BRIAN P. KEMP (I),987,40,657,290,0
+Newton,,Secretary Of State,,D,DOREEN CARTER,13565,501,7200,5863,1
+Newton,City Pond,Secretary Of State,,D,DOREEN CARTER,362,22,163,177,0
+Newton,Town,Secretary Of State,,D,DOREEN CARTER,1045,97,504,444,0
+Newton,Almon,Secretary Of State,,D,DOREEN CARTER,1164,35,612,517,0
+Newton,Alcovy,Secretary Of State,,D,DOREEN CARTER,586,19,301,266,0
+Newton,Covington Mills,Secretary Of State,,D,DOREEN CARTER,468,10,269,189,0
+Newton,Brewers,Secretary Of State,,D,DOREEN CARTER,315,6,200,109,0
+Newton,Brick Store,Secretary Of State,,D,DOREEN CARTER,241,12,130,99,0
+Newton,Cedar Shoals,Secretary Of State,,D,DOREEN CARTER,400,13,217,170,0
+Newton,Livingston,Secretary Of State,,D,DOREEN CARTER,1057,34,500,522,1
+Newton,Downs,Secretary Of State,,D,DOREEN CARTER,1036,37,522,477,0
+Newton,Gum Creek,Secretary Of State,,D,DOREEN CARTER,473,16,234,223,0
+Newton,Beaverdam,Secretary Of State,,D,DOREEN CARTER,1368,28,762,578,0
+Newton,Leguinn,Secretary Of State,,D,DOREEN CARTER,179,7,98,74,0
+Newton,Mansfield,Secretary Of State,,D,DOREEN CARTER,88,6,58,24,0
+Newton,Newborn,Secretary Of State,,D,DOREEN CARTER,53,1,42,10,0
+Newton,Oxford,Secretary Of State,,D,DOREEN CARTER,290,10,164,116,0
+Newton,Rocky Plains,Secretary Of State,,D,DOREEN CARTER,489,12,283,194,0
+Newton,Buck Creek,Secretary Of State,,D,DOREEN CARTER,828,29,429,370,0
+Newton,Stansells,Secretary Of State,,D,DOREEN CARTER,1021,44,527,450,0
+Newton,Fairview,Secretary Of State,,D,DOREEN CARTER,641,19,397,225,0
+Newton,Crowell,Secretary Of State,,D,DOREEN CARTER,1303,34,701,568,0
+Newton,Hub,Secretary Of State,,D,DOREEN CARTER,158,10,87,61,0
+Newton,,Attorney General,,(R,SAMUEL S. OLENS (I),14452,610,9314,4526,2
+Newton,City Pond,Attorney General,,(R,SAMUEL S. OLENS (I),185,8,115,62,0
+Newton,Town,Attorney General,,(R,SAMUEL S. OLENS (I),311,18,144,149,0
+Newton,Almon,Attorney General,,(R,SAMUEL S. OLENS (I),518,30,329,159,0
+Newton,Alcovy,Attorney General,,(R,SAMUEL S. OLENS (I),1003,40,546,417,0
+Newton,Covington Mills,Attorney General,,(R,SAMUEL S. OLENS (I),560,29,337,193,1
+Newton,Brewers,Attorney General,,(R,SAMUEL S. OLENS (I),948,34,682,232,0
+Newton,Brick Store,Attorney General,,(R,SAMUEL S. OLENS (I),920,31,586,303,0
+Newton,Cedar Shoals,Attorney General,,(R,SAMUEL S. OLENS (I),401,13,283,105,0
+Newton,Livingston,Attorney General,,(R,SAMUEL S. OLENS (I),503,26,281,195,1
+Newton,Downs,Attorney General,,(R,SAMUEL S. OLENS (I),1254,35,824,395,0
+Newton,Gum Creek,Attorney General,,(R,SAMUEL S. OLENS (I),1503,63,953,487,0
+Newton,Beaverdam,Attorney General,,(R,SAMUEL S. OLENS (I),477,33,286,158,0
+Newton,Leguinn,Attorney General,,(R,SAMUEL S. OLENS (I),702,20,494,188,0
+Newton,Mansfield,Attorney General,,(R,SAMUEL S. OLENS (I),601,16,479,106,0
+Newton,Newborn,Attorney General,,(R,SAMUEL S. OLENS (I),317,13,260,44,0
+Newton,Oxford,Attorney General,,(R,SAMUEL S. OLENS (I),720,38,463,219,0
+Newton,Rocky Plains,Attorney General,,(R,SAMUEL S. OLENS (I),655,22,490,143,0
+Newton,Buck Creek,Attorney General,,(R,SAMUEL S. OLENS (I),925,50,575,300,0
+Newton,Stansells,Attorney General,,(R,SAMUEL S. OLENS (I),527,33,274,220,0
+Newton,Fairview,Attorney General,,(R,SAMUEL S. OLENS (I),184,11,113,60,0
+Newton,Crowell,Attorney General,,(R,SAMUEL S. OLENS (I),264,8,155,101,0
+Newton,Hub,Attorney General,,(R,SAMUEL S. OLENS (I),974,39,645,290,0
+Newton,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",13641,507,7280,5854,0
+Newton,City Pond,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",360,23,169,168,0
+Newton,Town,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",1022,99,491,432,0
+Newton,Almon,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",1160,37,606,517,0
+Newton,Alcovy,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",604,18,307,279,0
+Newton,Covington Mills,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",488,10,277,201,0
+Newton,Brewers,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",320,7,203,110,0
+Newton,Brick Store,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",260,12,142,106,0
+Newton,Cedar Shoals,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",402,13,217,172,0
+Newton,Livingston,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",1048,35,494,519,0
+Newton,Downs,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",1029,35,526,468,0
+Newton,Gum Creek,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",491,13,252,226,0
+Newton,Beaverdam,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",1365,27,762,576,0
+Newton,Leguinn,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",191,7,105,79,0
+Newton,Mansfield,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",97,7,68,22,0
+Newton,Newborn,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",55,1,44,10,0
+Newton,Oxford,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",298,11,173,114,0
+Newton,Rocky Plains,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",505,13,297,195,0
+Newton,Buck Creek,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",831,29,434,368,0
+Newton,Stansells,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",1021,45,530,446,0
+Newton,Fairview,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",631,20,390,221,0
+Newton,Crowell,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",1293,34,691,568,0
+Newton,Hub,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",170,11,102,57,0
+Newton,,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),14778,617,9581,4578,2
+Newton,City Pond,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),199,9,126,64,0
+Newton,Town,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),321,21,152,148,0
+Newton,Almon,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),540,29,350,161,0
+Newton,Alcovy,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1023,40,563,420,0
+Newton,Covington Mills,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),571,29,345,196,1
+Newton,Brewers,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),959,36,685,238,0
+Newton,Brick Store,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),947,32,602,313,0
+Newton,Cedar Shoals,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),404,14,284,106,0
+Newton,Livingston,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),522,26,295,200,1
+Newton,Downs,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1281,36,848,397,0
+Newton,Gum Creek,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1523,60,977,486,0
+Newton,Beaverdam,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),504,33,300,171,0
+Newton,Leguinn,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),711,22,505,184,0
+Newton,Mansfield,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),619,17,497,105,0
+Newton,Newborn,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),320,13,262,45,0
+Newton,Oxford,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),728,35,478,215,0
+Newton,Rocky Plains,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),674,22,508,144,0
+Newton,Buck Creek,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),949,50,596,303,0
+Newton,Stansells,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),540,36,281,223,0
+Newton,Fairview,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),186,11,115,60,0
+Newton,Crowell,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),275,8,159,108,0
+Newton,Hub,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),982,38,653,291,0
+Newton,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,13189,495,6935,5759,0
+Newton,City Pond,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,347,22,158,167,0
+Newton,Town,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,1008,95,483,430,0
+Newton,Almon,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,1131,37,580,514,0
+Newton,Alcovy,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,580,18,287,275,0
+Newton,Covington Mills,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,468,9,264,195,0
+Newton,Brewers,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,302,5,194,103,0
+Newton,Brick Store,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,230,11,124,95,0
+Newton,Cedar Shoals,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,389,10,209,170,0
+Newton,Livingston,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,1022,36,476,510,0
+Newton,Downs,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,1000,34,498,468,0
+Newton,Gum Creek,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,463,17,226,220,0
+Newton,Beaverdam,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,1339,28,752,559,0
+Newton,Leguinn,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,177,6,95,76,0
+Newton,Mansfield,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,88,7,56,25,0
+Newton,Newborn,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,45,1,36,8,0
+Newton,Oxford,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,289,13,155,121,0
+Newton,Rocky Plains,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,482,12,276,194,0
+Newton,Buck Creek,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,785,28,402,355,0
+Newton,Stansells,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,1003,41,519,443,0
+Newton,Fairview,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,622,19,382,221,0
+Newton,Crowell,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,1261,35,676,550,0
+Newton,Hub,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,158,11,87,60,0
+Newton,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),14100,606,9047,4446,1
+Newton,City Pond,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),190,9,118,63,0
+Newton,Town,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),296,22,137,137,0
+Newton,Almon,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),513,29,322,162,0
+Newton,Alcovy,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),982,38,525,419,0
+Newton,Covington Mills,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),541,27,325,188,1
+Newton,Brewers,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),915,33,657,225,0
+Newton,Brick Store,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),917,31,579,307,0
+Newton,Cedar Shoals,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),389,14,267,108,0
+Newton,Livingston,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),480,25,268,187,0
+Newton,Downs,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1220,36,795,389,0
+Newton,Gum Creek,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1482,58,936,488,0
+Newton,Beaverdam,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),468,35,281,152,0
+Newton,Leguinn,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),693,20,488,185,0
+Newton,Mansfield,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),585,18,468,99,0
+Newton,Newborn,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),298,11,243,44,0
+Newton,Oxford,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),704,41,453,210,0
+Newton,Rocky Plains,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),652,23,487,142,0
+Newton,Buck Creek,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),889,47,547,295,0
+Newton,Stansells,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),516,33,268,215,0
+Newton,Fairview,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),173,10,107,56,0
+Newton,Crowell,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),246,7,145,94,0
+Newton,Hub,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),951,39,631,281,0
+Newton,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",13246,485,7008,5752,1
+Newton,City Pond,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",344,22,160,162,0
+Newton,Town,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",1027,95,492,440,0
+Newton,Almon,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",1133,37,590,506,0
+Newton,Alcovy,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",559,18,280,261,0
+Newton,Covington Mills,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",465,10,260,195,0
+Newton,Brewers,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",309,4,199,106,0
+Newton,Brick Store,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",237,11,127,99,0
+Newton,Cedar Shoals,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",386,11,208,167,0
+Newton,Livingston,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",1038,35,488,514,1
+Newton,Downs,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",999,35,509,455,0
+Newton,Gum Creek,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",448,13,224,211,0
+Newton,Beaverdam,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",1345,26,748,571,0
+Newton,Leguinn,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",176,6,97,73,0
+Newton,Mansfield,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",87,6,58,23,0
+Newton,Newborn,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",50,2,39,9,0
+Newton,Oxford,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",280,8,154,118,0
+Newton,Rocky Plains,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",485,12,282,191,0
+Newton,Buck Creek,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",809,29,419,361,0
+Newton,Stansells,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",1001,40,517,444,0
+Newton,Fairview,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",632,19,391,222,0
+Newton,Crowell,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",1284,35,683,566,0
+Newton,Hub,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",152,11,83,58,0
+Newton,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",738,22,512,204,0
+Newton,City Pond,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",8,0,5,3,0
+Newton,Town,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",24,0,11,13,0
+Newton,Almon,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",26,1,18,7,0
+Newton,Alcovy,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",65,1,44,20,0
+Newton,Covington Mills,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",41,1,31,9,0
+Newton,Brewers,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",42,3,28,11,0
+Newton,Brick Store,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",26,2,20,4,0
+Newton,Cedar Shoals,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",25,0,22,3,0
+Newton,Livingston,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",33,1,19,13,0
+Newton,Downs,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",72,0,49,23,0
+Newton,Gum Creek,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",62,3,47,12,0
+Newton,Beaverdam,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",39,1,20,18,0
+Newton,Leguinn,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",23,1,16,6,0
+Newton,Mansfield,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",31,0,23,8,0
+Newton,Newborn,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",19,1,17,1,0
+Newton,Oxford,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",32,0,25,7,0
+Newton,Rocky Plains,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",25,0,20,5,0
+Newton,Buck Creek,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",53,2,39,12,0
+Newton,Stansells,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",26,4,14,8,0
+Newton,Fairview,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",9,0,5,4,0
+Newton,Crowell,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",20,1,13,6,0
+Newton,Hub,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",37,0,26,11,0
+Newton,,State School Superintendent,,R,RICHARD L. WOODS,14128,599,9113,4415,1
+Newton,City Pond,State School Superintendent,,R,RICHARD L. WOODS,182,9,112,61,0
+Newton,Town,State School Superintendent,,R,RICHARD L. WOODS,285,20,134,131,0
+Newton,Almon,State School Superintendent,,R,RICHARD L. WOODS,498,31,309,158,0
+Newton,Alcovy,State School Superintendent,,R,RICHARD L. WOODS,996,38,539,419,0
+Newton,Covington Mills,State School Superintendent,,R,RICHARD L. WOODS,552,28,328,195,1
+Newton,Brewers,State School Superintendent,,R,RICHARD L. WOODS,938,34,672,232,0
+Newton,Brick Store,State School Superintendent,,R,RICHARD L. WOODS,914,30,579,305,0
+Newton,Cedar Shoals,State School Superintendent,,R,RICHARD L. WOODS,394,14,275,105,0
+Newton,Livingston,State School Superintendent,,R,RICHARD L. WOODS,483,24,272,187,0
+Newton,Downs,State School Superintendent,,R,RICHARD L. WOODS,1237,35,816,386,0
+Newton,Gum Creek,State School Superintendent,,R,RICHARD L. WOODS,1477,61,946,470,0
+Newton,Beaverdam,State School Superintendent,,R,RICHARD L. WOODS,454,32,267,155,0
+Newton,Leguinn,State School Superintendent,,R,RICHARD L. WOODS,697,20,490,187,0
+Newton,Mansfield,State School Superintendent,,R,RICHARD L. WOODS,592,17,469,106,0
+Newton,Newborn,State School Superintendent,,R,RICHARD L. WOODS,314,13,256,45,0
+Newton,Oxford,State School Superintendent,,R,RICHARD L. WOODS,703,34,453,216,0
+Newton,Rocky Plains,State School Superintendent,,R,RICHARD L. WOODS,658,24,493,141,0
+Newton,Buck Creek,State School Superintendent,,R,RICHARD L. WOODS,895,48,560,287,0
+Newton,Stansells,State School Superintendent,,R,RICHARD L. WOODS,503,32,263,208,0
+Newton,Fairview,State School Superintendent,,R,RICHARD L. WOODS,163,10,100,53,0
+Newton,Crowell,State School Superintendent,,R,RICHARD L. WOODS,232,7,139,86,0
+Newton,Hub,State School Superintendent,,R,RICHARD L. WOODS,961,38,641,282,0
+Newton,,State School Superintendent,,D,VALARIE D. WILSON,14034,509,7515,6009,1
+Newton,City Pond,State School Superintendent,,D,VALARIE D. WILSON,372,22,177,173,0
+Newton,Town,State School Superintendent,,D,VALARIE D. WILSON,1072,98,513,461,0
+Newton,Almon,State School Superintendent,,D,VALARIE D. WILSON,1177,36,622,519,0
+Newton,Alcovy,State School Superintendent,,D,VALARIE D. WILSON,616,18,321,277,0
+Newton,Covington Mills,State School Superintendent,,D,VALARIE D. WILSON,502,11,291,200,0
+Newton,Brewers,State School Superintendent,,D,VALARIE D. WILSON,330,6,210,114,0
+Newton,Brick Store,State School Superintendent,,D,VALARIE D. WILSON,271,14,152,105,0
+Newton,Cedar Shoals,State School Superintendent,,D,VALARIE D. WILSON,409,11,225,173,0
+Newton,Livingston,State School Superintendent,,D,VALARIE D. WILSON,1077,35,510,531,1
+Newton,Downs,State School Superintendent,,D,VALARIE D. WILSON,1060,35,537,488,0
+Newton,Gum Creek,State School Superintendent,,D,VALARIE D. WILSON,510,14,256,240,0
+Newton,Beaverdam,State School Superintendent,,D,VALARIE D. WILSON,1404,30,792,582,0
+Newton,Leguinn,State School Superintendent,,D,VALARIE D. WILSON,198,7,114,77,0
+Newton,Mansfield,State School Superintendent,,D,VALARIE D. WILSON,105,7,74,24,0
+Newton,Newborn,State School Superintendent,,D,VALARIE D. WILSON,59,1,49,9,0
+Newton,Oxford,State School Superintendent,,D,VALARIE D. WILSON,309,13,177,119,0
+Newton,Rocky Plains,State School Superintendent,,D,VALARIE D. WILSON,498,11,292,195,0
+Newton,Buck Creek,State School Superintendent,,D,VALARIE D. WILSON,861,30,449,382,0
+Newton,Stansells,State School Superintendent,,D,VALARIE D. WILSON,1045,44,543,458,0
+Newton,Fairview,State School Superintendent,,D,VALARIE D. WILSON,654,19,405,230,0
+Newton,Crowell,State School Superintendent,,D,VALARIE D. WILSON,1326,36,706,584,0
+Newton,Hub,State School Superintendent,,D,VALARIE D. WILSON,179,11,100,68,0
+Newton,,Commissioner Of Labor,,(R,J. MARK BUTLER (I),14447,611,9307,4527,2
+Newton,City Pond,Commissioner Of Labor,,(R,J. MARK BUTLER (I),190,7,116,67,0
+Newton,Town,Commissioner Of Labor,,(R,J. MARK BUTLER (I),302,22,140,140,0
+Newton,Almon,Commissioner Of Labor,,(R,J. MARK BUTLER (I),516,31,324,161,0
+Newton,Alcovy,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1020,38,549,433,0
+Newton,Covington Mills,Commissioner Of Labor,,(R,J. MARK BUTLER (I),573,28,343,201,1
+Newton,Brewers,Commissioner Of Labor,,(R,J. MARK BUTLER (I),941,35,672,234,0
+Newton,Brick Store,Commissioner Of Labor,,(R,J. MARK BUTLER (I),943,30,600,313,0
+Newton,Cedar Shoals,Commissioner Of Labor,,(R,J. MARK BUTLER (I),403,13,283,107,0
+Newton,Livingston,Commissioner Of Labor,,(R,J. MARK BUTLER (I),495,24,276,194,1
+Newton,Downs,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1235,36,815,384,0
+Newton,Gum Creek,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1518,62,971,485,0
+Newton,Beaverdam,Commissioner Of Labor,,(R,J. MARK BUTLER (I),471,34,277,160,0
+Newton,Leguinn,Commissioner Of Labor,,(R,J. MARK BUTLER (I),709,20,507,182,0
+Newton,Mansfield,Commissioner Of Labor,,(R,J. MARK BUTLER (I),600,17,477,106,0
+Newton,Newborn,Commissioner Of Labor,,(R,J. MARK BUTLER (I),316,12,260,44,0
+Newton,Oxford,Commissioner Of Labor,,(R,J. MARK BUTLER (I),714,37,460,217,0
+Newton,Rocky Plains,Commissioner Of Labor,,(R,J. MARK BUTLER (I),665,23,501,141,0
+Newton,Buck Creek,Commissioner Of Labor,,(R,J. MARK BUTLER (I),911,48,569,294,0
+Newton,Stansells,Commissioner Of Labor,,(R,J. MARK BUTLER (I),521,34,265,222,0
+Newton,Fairview,Commissioner Of Labor,,(R,J. MARK BUTLER (I),185,12,114,59,0
+Newton,Crowell,Commissioner Of Labor,,(R,J. MARK BUTLER (I),252,8,147,97,0
+Newton,Hub,Commissioner Of Labor,,(R,J. MARK BUTLER (I),967,40,641,286,0
+Newton,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,13609,503,7235,5871,0
+Newton,City Pond,Commissioner Of Labor,,D,ROBBIN K. SHIPP,356,24,167,165,0
+Newton,Town,Commissioner Of Labor,,D,ROBBIN K. SHIPP,1045,96,499,450,0
+Newton,Almon,Commissioner Of Labor,,D,ROBBIN K. SHIPP,1164,36,608,520,0
+Newton,Alcovy,Commissioner Of Labor,,D,ROBBIN K. SHIPP,585,18,306,261,0
+Newton,Covington Mills,Commissioner Of Labor,,D,ROBBIN K. SHIPP,474,9,274,191,0
+Newton,Brewers,Commissioner Of Labor,,D,ROBBIN K. SHIPP,320,6,204,110,0
+Newton,Brick Store,Commissioner Of Labor,,D,ROBBIN K. SHIPP,238,13,127,98,0
+Newton,Cedar Shoals,Commissioner Of Labor,,D,ROBBIN K. SHIPP,394,12,214,168,0
+Newton,Livingston,Commissioner Of Labor,,D,ROBBIN K. SHIPP,1056,37,496,523,0
+Newton,Downs,Commissioner Of Labor,,D,ROBBIN K. SHIPP,1042,35,527,480,0
+Newton,Gum Creek,Commissioner Of Labor,,D,ROBBIN K. SHIPP,472,15,234,223,0
+Newton,Beaverdam,Commissioner Of Labor,,D,ROBBIN K. SHIPP,1380,28,773,579,0
+Newton,Leguinn,Commissioner Of Labor,,D,ROBBIN K. SHIPP,181,7,96,78,0
+Newton,Mansfield,Commissioner Of Labor,,D,ROBBIN K. SHIPP,95,6,66,23,0
+Newton,Newborn,Commissioner Of Labor,,D,ROBBIN K. SHIPP,53,2,41,10,0
+Newton,Oxford,Commissioner Of Labor,,D,ROBBIN K. SHIPP,295,12,167,116,0
+Newton,Rocky Plains,Commissioner Of Labor,,D,ROBBIN K. SHIPP,498,12,289,197,0
+Newton,Buck Creek,Commissioner Of Labor,,D,ROBBIN K. SHIPP,833,30,432,371,0
+Newton,Stansells,Commissioner Of Labor,,D,ROBBIN K. SHIPP,1024,43,534,447,0
+Newton,Fairview,Commissioner Of Labor,,D,ROBBIN K. SHIPP,632,18,390,224,0
+Newton,Crowell,Commissioner Of Labor,,D,ROBBIN K. SHIPP,1306,35,696,575,0
+Newton,Hub,Commissioner Of Labor,,D,ROBBIN K. SHIPP,166,9,95,62,0
+Newton,,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",15922,664,10003,5253,2
+Newton,City Pond,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",237,13,141,83,0
+Newton,Town,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",417,28,193,196,0
+Newton,Almon,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",666,35,394,237,0
+Newton,Alcovy,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1077,41,578,458,0
+Newton,Covington Mills,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",612,28,365,218,1
+Newton,Brewers,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",964,35,682,247,0
+Newton,Brick Store,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",940,31,594,315,0
+Newton,Cedar Shoals,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",436,14,294,128,0
+Newton,Livingston,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",636,24,344,267,1
+Newton,Downs,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1346,41,859,446,0
+Newton,Gum Creek,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1535,64,959,512,0
+Newton,Beaverdam,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",660,36,380,244,0
+Newton,Leguinn,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",721,21,513,187,0
+Newton,Mansfield,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",590,18,470,102,0
+Newton,Newborn,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",312,12,256,44,0
+Newton,Oxford,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",756,42,482,232,0
+Newton,Rocky Plains,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",711,23,521,167,0
+Newton,Buck Creek,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",997,51,599,347,0
+Newton,Stansells,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",664,38,353,273,0
+Newton,Fairview,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",247,14,155,78,0
+Newton,Crowell,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",432,11,237,184,0
+Newton,Hub,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",966,44,634,288,0
+Newton,,Public Service Commission,1,L,JOHN H. MONDS,8815,320,4930,3565,0
+Newton,City Pond,Public Service Commission,1,L,JOHN H. MONDS,201,11,100,90,0
+Newton,Town,Public Service Commission,1,L,JOHN H. MONDS,603,55,297,251,0
+Newton,Almon,Public Service Commission,1,L,JOHN H. MONDS,741,22,405,314,0
+Newton,Alcovy,Public Service Commission,1,L,JOHN H. MONDS,399,11,209,179,0
+Newton,Covington Mills,Public Service Commission,1,L,JOHN H. MONDS,319,6,190,123,0
+Newton,Brewers,Public Service Commission,1,L,JOHN H. MONDS,242,5,161,76,0
+Newton,Brick Store,Public Service Commission,1,L,JOHN H. MONDS,181,10,109,62,0
+Newton,Cedar Shoals,Public Service Commission,1,L,JOHN H. MONDS,257,7,147,103,0
+Newton,Livingston,Public Service Commission,1,L,JOHN H. MONDS,650,25,323,302,0
+Newton,Downs,Public Service Commission,1,L,JOHN H. MONDS,673,23,373,277,0
+Newton,Gum Creek,Public Service Commission,1,L,JOHN H. MONDS,374,9,216,149,0
+Newton,Beaverdam,Public Service Commission,1,L,JOHN H. MONDS,870,16,494,360,0
+Newton,Leguinn,Public Service Commission,1,L,JOHN H. MONDS,121,6,70,45,0
+Newton,Mansfield,Public Service Commission,1,L,JOHN H. MONDS,85,2,64,19,0
+Newton,Newborn,Public Service Commission,1,L,JOHN H. MONDS,40,2,31,7,0
+Newton,Oxford,Public Service Commission,1,L,JOHN H. MONDS,183,6,111,66,0
+Newton,Rocky Plains,Public Service Commission,1,L,JOHN H. MONDS,322,9,200,113,0
+Newton,Buck Creek,Public Service Commission,1,L,JOHN H. MONDS,553,20,309,224,0
+Newton,Stansells,Public Service Commission,1,L,JOHN H. MONDS,633,31,322,280,0
+Newton,Fairview,Public Service Commission,1,L,JOHN H. MONDS,406,14,252,140,0
+Newton,Crowell,Public Service Commission,1,L,JOHN H. MONDS,818,25,460,333,0
+Newton,Hub,Public Service Commission,1,L,JOHN H. MONDS,144,5,87,52,0
+Newton,,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",13640,589,8773,4277,1
+Newton,City Pond,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",173,7,110,56,0
+Newton,Town,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",283,23,126,134,0
+Newton,Almon,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",486,27,306,153,0
+Newton,Alcovy,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",939,36,500,403,0
+Newton,Covington Mills,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",526,26,318,181,1
+Newton,Brewers,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",909,32,653,224,0
+Newton,Brick Store,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",893,28,562,303,0
+Newton,Cedar Shoals,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",373,13,256,104,0
+Newton,Livingston,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",455,21,260,174,0
+Newton,Downs,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1173,36,766,371,0
+Newton,Gum Creek,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1442,60,919,463,0
+Newton,Beaverdam,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",444,32,265,147,0
+Newton,Leguinn,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",670,21,474,175,0
+Newton,Mansfield,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",567,17,453,97,0
+Newton,Newborn,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",303,12,248,43,0
+Newton,Oxford,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",687,37,441,209,0
+Newton,Rocky Plains,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",622,21,469,132,0
+Newton,Buck Creek,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",862,48,533,281,0
+Newton,Stansells,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",498,31,257,210,0
+Newton,Fairview,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",166,10,108,48,0
+Newton,Crowell,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",238,9,136,93,0
+Newton,Hub,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",931,42,613,276,0
+Newton,,Public Service Commission,4,D,DANIEL A. BLACKMAN,13322,483,7049,5789,1
+Newton,City Pond,Public Service Commission,4,D,DANIEL A. BLACKMAN,358,23,165,170,0
+Newton,Town,Public Service Commission,4,D,DANIEL A. BLACKMAN,1028,95,498,435,0
+Newton,Almon,Public Service Commission,4,D,DANIEL A. BLACKMAN,1149,37,600,512,0
+Newton,Alcovy,Public Service Commission,4,D,DANIEL A. BLACKMAN,571,19,288,264,0
+Newton,Covington Mills,Public Service Commission,4,D,DANIEL A. BLACKMAN,469,10,263,196,0
+Newton,Brewers,Public Service Commission,4,D,DANIEL A. BLACKMAN,300,6,190,104,0
+Newton,Brick Store,Public Service Commission,4,D,DANIEL A. BLACKMAN,240,10,131,99,0
+Newton,Cedar Shoals,Public Service Commission,4,D,DANIEL A. BLACKMAN,379,13,203,163,0
+Newton,Livingston,Public Service Commission,4,D,DANIEL A. BLACKMAN,1036,32,483,520,1
+Newton,Downs,Public Service Commission,4,D,DANIEL A. BLACKMAN,1011,32,515,464,0
+Newton,Gum Creek,Public Service Commission,4,D,DANIEL A. BLACKMAN,467,13,233,221,0
+Newton,Beaverdam,Public Service Commission,4,D,DANIEL A. BLACKMAN,1353,29,751,573,0
+Newton,Leguinn,Public Service Commission,4,D,DANIEL A. BLACKMAN,182,5,103,74,0
+Newton,Mansfield,Public Service Commission,4,D,DANIEL A. BLACKMAN,88,6,59,23,0
+Newton,Newborn,Public Service Commission,4,D,DANIEL A. BLACKMAN,51,2,40,9,0
+Newton,Oxford,Public Service Commission,4,D,DANIEL A. BLACKMAN,279,10,152,117,0
+Newton,Rocky Plains,Public Service Commission,4,D,DANIEL A. BLACKMAN,492,13,285,194,0
+Newton,Buck Creek,Public Service Commission,4,D,DANIEL A. BLACKMAN,808,27,418,363,0
+Newton,Stansells,Public Service Commission,4,D,DANIEL A. BLACKMAN,1010,43,519,448,0
+Newton,Fairview,Public Service Commission,4,D,DANIEL A. BLACKMAN,626,20,384,222,0
+Newton,Crowell,Public Service Commission,4,D,DANIEL A. BLACKMAN,1273,30,683,560,0
+Newton,Hub,Public Service Commission,4,D,DANIEL A. BLACKMAN,152,8,86,58,0
+Newton,,Public Service Commission,4,L,ROBIN AARON GILMER,1114,28,754,332,0
+Newton,City Pond,Public Service Commission,4,L,ROBIN AARON GILMER,16,1,9,6,0
+Newton,Town,Public Service Commission,4,L,ROBIN AARON GILMER,37,1,19,17,0
+Newton,Almon,Public Service Commission,4,L,ROBIN AARON GILMER,38,2,23,13,0
+Newton,Alcovy,Public Service Commission,4,L,ROBIN AARON GILMER,94,1,60,33,0
+Newton,Covington Mills,Public Service Commission,4,L,ROBIN AARON GILMER,52,1,35,16,0
+Newton,Brewers,Public Service Commission,4,L,ROBIN AARON GILMER,52,2,36,14,0
+Newton,Brick Store,Public Service Commission,4,L,ROBIN AARON GILMER,49,3,38,8,0
+Newton,Cedar Shoals,Public Service Commission,4,L,ROBIN AARON GILMER,43,0,35,8,0
+Newton,Livingston,Public Service Commission,4,L,ROBIN AARON GILMER,58,5,32,21,0
+Newton,Downs,Public Service Commission,4,L,ROBIN AARON GILMER,101,2,71,28,0
+Newton,Gum Creek,Public Service Commission,4,L,ROBIN AARON GILMER,84,1,59,24,0
+Newton,Beaverdam,Public Service Commission,4,L,ROBIN AARON GILMER,52,1,28,23,0
+Newton,Leguinn,Public Service Commission,4,L,ROBIN AARON GILMER,43,1,28,14,0
+Newton,Mansfield,Public Service Commission,4,L,ROBIN AARON GILMER,46,0,38,8,0
+Newton,Newborn,Public Service Commission,4,L,ROBIN AARON GILMER,18,0,16,2,0
+Newton,Oxford,Public Service Commission,4,L,ROBIN AARON GILMER,47,0,36,11,0
+Newton,Rocky Plains,Public Service Commission,4,L,ROBIN AARON GILMER,47,0,37,10,0
+Newton,Buck Creek,Public Service Commission,4,L,ROBIN AARON GILMER,76,2,55,19,0
+Newton,Stansells,Public Service Commission,4,L,ROBIN AARON GILMER,41,3,28,10,0
+Newton,Fairview,Public Service Commission,4,L,ROBIN AARON GILMER,23,0,10,13,0
+Newton,Crowell,Public Service Commission,4,L,ROBIN AARON GILMER,41,2,23,16,0
+Newton,Hub,Public Service Commission,4,L,ROBIN AARON GILMER,56,0,38,18,0
+Newton,,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",15710,607,8726,6377,0
+Newton,City Pond,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",438,26,218,194,0
+Newton,Town,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",1151,104,561,486,0
+Newton,Almon,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",1376,51,747,578,0
+Newton,Alcovy,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",908,28,488,392,0
+Newton,Covington Mills,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",708,20,435,253,0
+Newton,Cedar Shoals,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",580,19,350,211,0
+Newton,Livingston,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",1242,42,593,607,0
+Newton,Downs,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",1533,50,883,600,0
+Newton,Gum Creek,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",1008,33,606,369,0
+Newton,Beaverdam,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",1571,42,903,626,0
+Newton,Oxford,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",571,27,356,188,0
+Newton,Rocky Plains,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",100,6,53,41,0
+Newton,Buck Creek,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",1192,40,683,469,0
+Newton,Stansells,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",1215,58,648,509,0
+Newton,Fairview,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",711,23,438,250,0
+Newton,Crowell,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",1405,37,764,604,0
+Newton,Hub,U.S. Representative,4,D,"HENRY C. ""HANK"" JOHNSON JR. (I)",1,1,0,0,0
+Newton,,U.S. Representative,10,R,JODY B. HICE,5283,175,3745,1363,0
+Newton,Alcovy,U.S. Representative,10,R,JODY B. HICE,138,3,82,53,0
+Newton,Brewers,U.S. Representative,10,R,JODY B. HICE,963,34,693,236,0
+Newton,Brick Store,U.S. Representative,10,R,JODY B. HICE,943,31,600,312,0
+Newton,Leguinn,U.S. Representative,10,R,JODY B. HICE,714,21,501,192,0
+Newton,Mansfield,U.S. Representative,10,R,JODY B. HICE,618,17,492,109,0
+Newton,Newborn,U.S. Representative,10,R,JODY B. HICE,319,12,264,43,0
+Newton,Rocky Plains,U.S. Representative,10,R,JODY B. HICE,603,17,461,125,0
+Newton,Hub,U.S. Representative,10,R,JODY B. HICE,985,40,652,293,0
+Newton,,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",1468,54,866,548,0
+Newton,Alcovy,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",31,0,13,18,0
+Newton,Brewers,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",306,7,192,107,0
+Newton,Brick Store,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",240,11,130,99,0
+Newton,Leguinn,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",181,7,102,72,0
+Newton,Mansfield,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",82,6,55,21,0
+Newton,Newborn,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",50,2,38,10,0
+Newton,Rocky Plains,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",413,11,244,158,0
+Newton,Hub,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",165,10,92,63,0
+Newton,,State Senator,17,R,RICHARD M. JEFFARES (I),9341,313,6176,2851,1
+Newton,Alcovy,State Senator,17,R,RICHARD M. JEFFARES (I),1215,43,654,518,0
+Newton,Covington Mills,State Senator,17,R,RICHARD M. JEFFARES (I),729,29,445,254,1
+Newton,Brewers,State Senator,17,R,RICHARD M. JEFFARES (I),1102,37,780,285,0
+Newton,Brick Store,State Senator,17,R,RICHARD M. JEFFARES (I),1024,35,651,338,0
+Newton,Downs,State Senator,17,R,RICHARD M. JEFFARES (I),1635,52,1024,559,0
+Newton,Leguinn,State Senator,17,R,RICHARD M. JEFFARES (I),774,21,539,214,0
+Newton,Mansfield,State Senator,17,R,RICHARD M. JEFFARES (I),625,17,498,110,0
+Newton,Newborn,State Senator,17,R,RICHARD M. JEFFARES (I),332,13,277,42,0
+Newton,Rocky Plains,State Senator,17,R,RICHARD M. JEFFARES (I),850,23,620,207,0
+Newton,Hub,State Senator,17,R,RICHARD M. JEFFARES (I),1055,43,688,324,0
+Newton,,State Senator,43,D,RONALD B. RAMSEY SR. (I),12412,497,6829,5086,0
+Newton,City Pond,State Senator,43,D,RONALD B. RAMSEY SR. (I),440,25,217,198,0
+Newton,Town,State Senator,43,D,RONALD B. RAMSEY SR. (I),1129,105,546,478,0
+Newton,Almon,State Senator,43,D,RONALD B. RAMSEY SR. (I),1358,50,730,578,0
+Newton,Cedar Shoals,State Senator,43,D,RONALD B. RAMSEY SR. (I),571,17,344,210,0
+Newton,Livingston,State Senator,43,D,RONALD B. RAMSEY SR. (I),1217,39,588,590,0
+Newton,Gum Creek,State Senator,43,D,RONALD B. RAMSEY SR. (I),1018,33,603,382,0
+Newton,Beaverdam,State Senator,43,D,RONALD B. RAMSEY SR. (I),1567,41,902,624,0
+Newton,Oxford,State Senator,43,D,RONALD B. RAMSEY SR. (I),579,27,359,193,0
+Newton,Buck Creek,State Senator,43,D,RONALD B. RAMSEY SR. (I),1203,41,688,474,0
+Newton,Stansells,State Senator,43,D,RONALD B. RAMSEY SR. (I),1209,59,645,505,0
+Newton,Fairview,State Senator,43,D,RONALD B. RAMSEY SR. (I),718,24,442,252,0
+Newton,Crowell,State Senator,43,D,RONALD B. RAMSEY SR. (I),1403,36,765,602,0
+Newton,,State Representative,109,(R,DALE RUTLEDGE (I),2102,77,1272,753,0
+Newton,Livingston,State Representative,109,(R,DALE RUTLEDGE (I),477,26,259,192,0
+Newton,Downs,State Representative,109,(R,DALE RUTLEDGE (I),1625,51,1013,561,0
+Newton,,State Representative,110,(R,ANDREW WELCH (I),851,27,623,201,0
+Newton,Brewers,State Representative,110,(R,ANDREW WELCH (I),196,6,126,64,0
+Newton,Rocky Plains,State Representative,110,(R,ANDREW WELCH (I),655,21,497,137,0
+Newton,,State Representative,110,D,KAYE SHIPLEY,563,16,322,225,0
+Newton,Brewers,State Representative,110,D,KAYE SHIPLEY,60,2,33,25,0
+Newton,Rocky Plains,State Representative,110,D,KAYE SHIPLEY,503,14,289,200,0
+Newton,,State Representative,112,R,"D. C. ""DAVE"" BELTON",8091,310,5353,2428,0
+Newton,City Pond,State Representative,112,R,"D. C. ""DAVE"" BELTON",178,9,109,60,0
+Newton,Alcovy,State Representative,112,R,"D. C. ""DAVE"" BELTON",995,37,543,415,0
+Newton,Covington Mills,State Representative,112,R,"D. C. ""DAVE"" BELTON",494,21,303,170,0
+Newton,Brewers,State Representative,112,R,"D. C. ""DAVE"" BELTON",744,28,550,166,0
+Newton,Brick Store,State Representative,112,R,"D. C. ""DAVE"" BELTON",921,32,581,308,0
+Newton,Gum Creek,State Representative,112,R,"D. C. ""DAVE"" BELTON",1474,63,937,474,0
+Newton,Leguinn,State Representative,112,R,"D. C. ""DAVE"" BELTON",697,19,491,187,0
+Newton,Mansfield,State Representative,112,R,"D. C. ""DAVE"" BELTON",606,16,484,106,0
+Newton,Newborn,State Representative,112,R,"D. C. ""DAVE"" BELTON",312,12,259,41,0
+Newton,Oxford,State Representative,112,R,"D. C. ""DAVE"" BELTON",708,34,458,216,0
+Newton,Hub,State Representative,112,R,"D. C. ""DAVE"" BELTON",962,39,638,285,0
+Newton,,State Representative,112,D,"B. P. ""PATSY"" HARRIS",3182,115,1746,1321,0
+Newton,City Pond,State Representative,112,D,"B. P. ""PATSY"" HARRIS",372,22,177,173,0
+Newton,Alcovy,State Representative,112,D,"B. P. ""PATSY"" HARRIS",592,19,301,272,0
+Newton,Covington Mills,State Representative,112,D,"B. P. ""PATSY"" HARRIS",361,8,198,155,0
+Newton,Brewers,State Representative,112,D,"B. P. ""PATSY"" HARRIS",264,5,172,87,0
+Newton,Brick Store,State Representative,112,D,"B. P. ""PATSY"" HARRIS",256,9,144,103,0
+Newton,Gum Creek,State Representative,112,D,"B. P. ""PATSY"" HARRIS",506,12,258,236,0
+Newton,Leguinn,State Representative,112,D,"B. P. ""PATSY"" HARRIS",195,9,110,76,0
+Newton,Mansfield,State Representative,112,D,"B. P. ""PATSY"" HARRIS",94,6,64,24,0
+Newton,Newborn,State Representative,112,D,"B. P. ""PATSY"" HARRIS",57,2,45,10,0
+Newton,Oxford,State Representative,112,D,"B. P. ""PATSY"" HARRIS",307,13,173,121,0
+Newton,Hub,State Representative,112,D,"B. P. ""PATSY"" HARRIS",178,10,104,64,0
+Newton,,State Representative,113,D,"PAMELA A. ""PAM"" DICKERSON (I)",9977,403,5470,4104,0
+Newton,Town,State Representative,113,D,"PAMELA A. ""PAM"" DICKERSON (I)",1138,105,548,485,0
+Newton,Almon,State Representative,113,D,"PAMELA A. ""PAM"" DICKERSON (I)",1376,51,742,583,0
+Newton,Covington Mills,State Representative,113,D,"PAMELA A. ""PAM"" DICKERSON (I)",145,6,89,50,0
+Newton,Cedar Shoals,State Representative,113,D,"PAMELA A. ""PAM"" DICKERSON (I)",573,18,346,209,0
+Newton,Livingston,State Representative,113,D,"PAMELA A. ""PAM"" DICKERSON (I)",642,22,310,310,0
+Newton,Beaverdam,State Representative,113,D,"PAMELA A. ""PAM"" DICKERSON (I)",1571,39,899,633,0
+Newton,Buck Creek,State Representative,113,D,"PAMELA A. ""PAM"" DICKERSON (I)",1194,42,685,467,0
+Newton,Stansells,State Representative,113,D,"PAMELA A. ""PAM"" DICKERSON (I)",1215,59,648,508,0
+Newton,Fairview,State Representative,113,D,"PAMELA A. ""PAM"" DICKERSON (I)",719,24,438,257,0
+Newton,Crowell,State Representative,113,D,"PAMELA A. ""PAM"" DICKERSON (I)",1404,37,765,602,0
+Newton,,County Comm 2,,R,RICKY CORLEY,2545,127,1539,879,0
+Newton,Livingston,County Comm 2,,R,RICKY CORLEY,303,25,154,124,0
+Newton,Downs,County Comm 2,,R,RICKY CORLEY,832,20,548,264,0
+Newton,Buck Creek,County Comm 2,,R,RICKY CORLEY,915,49,570,296,0
+Newton,Stansells,County Comm 2,,R,RICKY CORLEY,495,33,267,195,0
+Newton,,County Comm 2,,(D,LANIER SIMS (I),2970,98,1538,1334,0
+Newton,Livingston,County Comm 2,,(D,LANIER SIMS (I),454,9,227,218,0
+Newton,Downs,County Comm 2,,(D,LANIER SIMS (I),715,19,391,305,0
+Newton,Buck Creek,County Comm 2,,(D,LANIER SIMS (I),824,29,428,367,0
+Newton,Stansells,County Comm 2,,(D,LANIER SIMS (I),977,41,492,444,0
+Newton,,County Comm 4,,(D,J. C. HENDERSON (I),3294,158,1816,1320,0
+Newton,City Pond,County Comm 4,,(D,J. C. HENDERSON (I),406,18,211,177,0
+Newton,Town,County Comm 4,,(D,J. C. HENDERSON (I),1128,104,549,475,0
+Newton,Almon,County Comm 4,,(D,J. C. HENDERSON (I),10,0,7,3,0
+Newton,Covington Mills,County Comm 4,,(D,J. C. HENDERSON (I),145,5,90,50,0
+Newton,Cedar Shoals,County Comm 4,,(D,J. C. HENDERSON (I),341,9,189,143,0
+Newton,Beaverdam,County Comm 4,,(D,J. C. HENDERSON (I),714,15,434,265,0
+Newton,Oxford,County Comm 4,,(D,J. C. HENDERSON (I),193,4,123,66,0
+Newton,Crowell,County Comm 4,,(D,J. C. HENDERSON (I),357,3,213,141,0
+Newton,,BOE 1,,R,STAN EDWARDS,5043,177,3551,1315,0
+Newton,Brewers,BOE 1,,R,STAN EDWARDS,1014,37,714,263,0
+Newton,Brick Store,BOE 1,,R,STAN EDWARDS,1034,36,660,338,0
+Newton,Downs,BOE 1,,R,STAN EDWARDS,527,26,314,187,0
+Newton,Mansfield,BOE 1,,R,STAN EDWARDS,617,19,496,102,0
+Newton,Newborn,BOE 1,,R,STAN EDWARDS,330,13,274,43,0
+Newton,Rocky Plains,BOE 1,,R,STAN EDWARDS,853,24,620,209,0
+Newton,Hub,BOE 1,,R,STAN EDWARDS,668,22,473,173,0
+Newton,,BOE 3,,ID,S HENDERSON-BAKER,4829,157,2734,1938,0
+Newton,Almon,BOE 3,,ID,S HENDERSON-BAKER,1341,50,719,572,0
+Newton,Gum Creek,BOE 3,,ID,S HENDERSON-BAKER,852,28,535,289,0
+Newton,Beaverdam,BOE 3,,ID,S HENDERSON-BAKER,841,21,468,352,0
+Newton,Stansells,BOE 3,,ID,S HENDERSON-BAKER,44,1,28,15,0
+Newton,Fairview,BOE 3,,ID,S HENDERSON-BAKER,718,23,442,253,0
+Newton,Crowell,BOE 3,,ID,S HENDERSON-BAKER,1033,34,542,457,0
+Newton,,BOE 5,,(R,ABIGAIL COGGIN (I),4717,174,2831,1712,0
+Newton,City Pond,BOE 5,,(R,ABIGAIL COGGIN (I),17,1,7,9,0
+Newton,Alcovy,BOE 5,,(R,ABIGAIL COGGIN (I),1230,44,656,530,0
+Newton,Covington Mills,BOE 5,,(R,ABIGAIL COGGIN (I),645,24,397,224,0
+Newton,Brewers,BOE 5,,(R,ABIGAIL COGGIN (I),94,1,69,24,0
+Newton,Cedar Shoals,BOE 5,,(R,ABIGAIL COGGIN (I),250,4,187,59,0
+Newton,Livingston,BOE 5,,(R,ABIGAIL COGGIN (I),448,11,244,193,0
+Newton,Gum Creek,BOE 5,,(R,ABIGAIL COGGIN (I),208,7,104,97,0
+Newton,Leguinn,BOE 5,,(R,ABIGAIL COGGIN (I),776,22,540,214,0
+Newton,Mansfield,BOE 5,,(R,ABIGAIL COGGIN (I),16,0,8,8,0
+Newton,Oxford,BOE 5,,(R,ABIGAIL COGGIN (I),645,40,399,206,0
+Newton,Hub,BOE 5,,(R,ABIGAIL COGGIN (I),388,20,220,148,0
+Newton,,Soil and Water Conservation,,(R,TIM ANDERSON,7105,320,4350,2434,1
+Newton,City Pond,Soil and Water Conservation,,(R,TIM ANDERSON,155,7,83,65,0
+Newton,Town,Soil and Water Conservation,,(R,TIM ANDERSON,345,28,170,147,0
+Newton,Almon,Soil and Water Conservation,,(R,TIM ANDERSON,403,23,213,167,0
+Newton,Alcovy,Soil and Water Conservation,,(R,TIM ANDERSON,344,10,186,148,0
+Newton,Covington Mills,Soil and Water Conservation,,(R,TIM ANDERSON,230,9,138,82,1
+Newton,Brewers,Soil and Water Conservation,,(R,TIM ANDERSON,402,13,287,102,0
+Newton,Brick Store,Soil and Water Conservation,,(R,TIM ANDERSON,285,19,198,68,0
+Newton,Cedar Shoals,Soil and Water Conservation,,(R,TIM ANDERSON,206,9,133,64,0
+Newton,Livingston,Soil and Water Conservation,,(R,TIM ANDERSON,397,18,211,168,0
+Newton,Downs,Soil and Water Conservation,,(R,TIM ANDERSON,584,21,361,202,0
+Newton,Gum Creek,Soil and Water Conservation,,(R,TIM ANDERSON,443,19,271,153,0
+Newton,Beaverdam,Soil and Water Conservation,,(R,TIM ANDERSON,485,22,271,192,0
+Newton,Leguinn,Soil and Water Conservation,,(R,TIM ANDERSON,221,13,145,63,0
+Newton,Mansfield,Soil and Water Conservation,,(R,TIM ANDERSON,167,9,130,28,0
+Newton,Newborn,Soil and Water Conservation,,(R,TIM ANDERSON,79,3,69,7,0
+Newton,Oxford,Soil and Water Conservation,,(R,TIM ANDERSON,254,14,166,74,0
+Newton,Rocky Plains,Soil and Water Conservation,,(R,TIM ANDERSON,345,15,251,79,0
+Newton,Buck Creek,Soil and Water Conservation,,(R,TIM ANDERSON,469,17,291,161,0
+Newton,Stansells,Soil and Water Conservation,,(R,TIM ANDERSON,362,16,194,152,0
+Newton,Fairview,Soil and Water Conservation,,(R,TIM ANDERSON,229,8,148,73,0
+Newton,Crowell,Soil and Water Conservation,,(R,TIM ANDERSON,387,11,221,155,0
+Newton,Hub,Soil and Water Conservation,,(R,TIM ANDERSON,313,16,213,84,0
+Newton,,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,6327,318,3775,2234,0
+Newton,City Pond,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,129,7,71,51,0
+Newton,Town,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,299,28,150,121,0
+Newton,Almon,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,451,17,248,186,0
+Newton,Alcovy,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,417,22,220,175,0
+Newton,Covington Mills,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,260,16,137,107,0
+Newton,Brewers,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,284,13,208,63,0
+Newton,Brick Store,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,308,12,200,96,0
+Newton,Cedar Shoals,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,162,5,99,58,0
+Newton,Livingston,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,302,17,158,127,0
+Newton,Downs,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,389,18,234,137,0
+Newton,Gum Creek,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,445,31,258,156,0
+Newton,Beaverdam,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,446,12,276,158,0
+Newton,Leguinn,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,220,4,156,60,0
+Newton,Mansfield,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,172,10,129,33,0
+Newton,Newborn,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,70,1,58,11,0
+Newton,Oxford,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,268,17,154,97,0
+Newton,Rocky Plains,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,239,6,157,76,0
+Newton,Buck Creek,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,312,18,181,113,0
+Newton,Stansells,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,344,20,208,116,0
+Newton,Fairview,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,192,10,119,63,0
+Newton,Crowell,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,385,21,209,155,0
+Newton,Hub,Soil and Water Conservation,,(R,CHARLES H. BERRY IV.,233,13,145,75,0
+Newton,,Soil and Water Conservation,,,DAVID T. HAYS (I),14843,614,8729,5499,1
+Newton,City Pond,Soil and Water Conservation,,,DAVID T. HAYS (I),253,22,124,107,0
+Newton,Town,Soil and Water Conservation,,,DAVID T. HAYS (I),597,53,252,292,0
+Newton,Almon,Soil and Water Conservation,,,DAVID T. HAYS (I),826,32,471,323,0
+Newton,Alcovy,Soil and Water Conservation,,,DAVID T. HAYS (I),894,33,465,396,0
+Newton,Covington Mills,Soil and Water Conservation,,,DAVID T. HAYS (I),524,22,309,192,1
+Newton,Brewers,Soil and Water Conservation,,,DAVID T. HAYS (I),782,29,547,206,0
+Newton,Brick Store,Soil and Water Conservation,,,DAVID T. HAYS (I),739,27,451,261,0
+Newton,Cedar Shoals,Soil and Water Conservation,,,DAVID T. HAYS (I),388,12,244,132,0
+Newton,Livingston,Soil and Water Conservation,,,DAVID T. HAYS (I),719,26,364,329,0
+Newton,Downs,Soil and Water Conservation,,,DAVID T. HAYS (I),1193,45,698,450,0
+Newton,Gum Creek,Soil and Water Conservation,,,DAVID T. HAYS (I),1096,40,650,406,0
+Newton,Beaverdam,Soil and Water Conservation,,,DAVID T. HAYS (I),909,32,499,378,0
+Newton,Leguinn,Soil and Water Conservation,,,DAVID T. HAYS (I),548,17,366,165,0
+Newton,Mansfield,Soil and Water Conservation,,,DAVID T. HAYS (I),436,11,348,77,0
+Newton,Newborn,Soil and Water Conservation,,,DAVID T. HAYS (I),247,11,200,36,0
+Newton,Oxford,Soil and Water Conservation,,,DAVID T. HAYS (I),585,28,357,200,0
+Newton,Rocky Plains,Soil and Water Conservation,,,DAVID T. HAYS (I),579,15,412,152,0
+Newton,Buck Creek,Soil and Water Conservation,,,DAVID T. HAYS (I),924,45,515,364,0
+Newton,Stansells,Soil and Water Conservation,,,DAVID T. HAYS (I),772,41,386,345,0
+Newton,Fairview,Soil and Water Conservation,,,DAVID T. HAYS (I),364,16,217,131,0
+Newton,Crowell,Soil and Water Conservation,,,DAVID T. HAYS (I),699,20,361,318,0
+Newton,Hub,Soil and Water Conservation,,,DAVID T. HAYS (I),769,37,493,239,0
+Newton,,Soil and Water Conservation,,,JEFFREY S. HUDGINS,4548,206,2646,1696,0
+Newton,City Pond,Soil and Water Conservation,,,JEFFREY S. HUDGINS,80,1,40,39,0
+Newton,Town,Soil and Water Conservation,,,JEFFREY S. HUDGINS,208,20,99,89,0
+Newton,Almon,Soil and Water Conservation,,,JEFFREY S. HUDGINS,297,13,155,129,0
+Newton,Alcovy,Soil and Water Conservation,,,JEFFREY S. HUDGINS,241,12,129,100,0
+Newton,Covington Mills,Soil and Water Conservation,,,JEFFREY S. HUDGINS,171,7,108,56,0
+Newton,Brewers,Soil and Water Conservation,,,JEFFREY S. HUDGINS,213,13,140,60,0
+Newton,Brick Store,Soil and Water Conservation,,,JEFFREY S. HUDGINS,182,7,116,59,0
+Newton,Cedar Shoals,Soil and Water Conservation,,,JEFFREY S. HUDGINS,122,4,77,41,0
+Newton,Livingston,Soil and Water Conservation,,,JEFFREY S. HUDGINS,268,9,143,116,0
+Newton,Downs,Soil and Water Conservation,,,JEFFREY S. HUDGINS,360,19,205,136,0
+Newton,Gum Creek,Soil and Water Conservation,,,JEFFREY S. HUDGINS,268,11,163,94,0
+Newton,Beaverdam,Soil and Water Conservation,,,JEFFREY S. HUDGINS,326,6,187,133,0
+Newton,Leguinn,Soil and Water Conservation,,,JEFFREY S. HUDGINS,143,3,93,47,0
+Newton,Mansfield,Soil and Water Conservation,,,JEFFREY S. HUDGINS,118,3,88,27,0
+Newton,Newborn,Soil and Water Conservation,,,JEFFREY S. HUDGINS,59,0,44,15,0
+Newton,Oxford,Soil and Water Conservation,,,JEFFREY S. HUDGINS,132,8,83,41,0
+Newton,Rocky Plains,Soil and Water Conservation,,,JEFFREY S. HUDGINS,208,7,128,73,0
+Newton,Buck Creek,Soil and Water Conservation,,,JEFFREY S. HUDGINS,274,19,153,102,0
+Newton,Stansells,Soil and Water Conservation,,,JEFFREY S. HUDGINS,259,14,129,116,0
+Newton,Fairview,Soil and Water Conservation,,,JEFFREY S. HUDGINS,159,8,92,59,0
+Newton,Crowell,Soil and Water Conservation,,,JEFFREY S. HUDGINS,303,14,173,116,0
+Newton,Hub,Soil and Water Conservation,,,JEFFREY S. HUDGINS,157,8,101,48,0
+Newton,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,20802,891,12182,7728,1
+Newton,City Pond,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,368,20,193,155,0
+Newton,Town,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,852,77,411,364,0
+Newton,Almon,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1199,49,657,493,0
+Newton,Alcovy,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1204,48,633,523,0
+Newton,Covington Mills,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,776,31,426,318,1
+Newton,Brewers,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,980,36,667,277,0
+Newton,Brick Store,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,948,32,575,341,0
+Newton,Cedar Shoals,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,572,21,364,187,0
+Newton,Livingston,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1098,43,538,517,0
+Newton,Downs,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1701,61,984,656,0
+Newton,Gum Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1608,68,967,573,0
+Newton,Beaverdam,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1275,52,693,530,0
+Newton,Leguinn,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,701,24,466,211,0
+Newton,Mansfield,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,571,18,452,101,0
+Newton,Newborn,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,281,12,229,40,0
+Newton,Oxford,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,782,46,494,242,0
+Newton,Rocky Plains,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,871,27,589,255,0
+Newton,Buck Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1304,60,748,496,0
+Newton,Stansells,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1113,65,573,475,0
+Newton,Fairview,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,565,26,330,209,0
+Newton,Crowell,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1086,33,586,467,0
+Newton,Hub,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,947,42,607,298,0
+Newton,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,7120,213,4296,2610,1
+Newton,City Pond,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,174,11,87,76,0
+Newton,Town,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,471,31,222,218,0
+Newton,Almon,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,476,16,279,181,0
+Newton,Alcovy,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,384,9,209,166,0
+Newton,Covington Mills,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,270,6,189,75,0
+Newton,Brewers,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,271,5,203,63,0
+Newton,Brick Store,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,220,8,146,66,0
+Newton,Cedar Shoals,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,227,5,134,88,0
+Newton,Livingston,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,456,18,237,200,1
+Newton,Downs,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,589,11,370,208,0
+Newton,Gum Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,381,8,233,140,0
+Newton,Beaverdam,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,573,8,360,205,0
+Newton,Leguinn,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,170,3,119,48,0
+Newton,Mansfield,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,117,5,84,28,0
+Newton,Newborn,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,80,3,68,9,0
+Newton,Oxford,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,238,5,143,90,0
+Newton,Rocky Plains,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,272,7,190,75,0
+Newton,Buck Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,435,18,248,169,0
+Newton,Stansells,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,431,13,230,188,0
+Newton,Fairview,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,252,6,172,74,0
+Newton,Crowell,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,450,9,248,193,0
+Newton,Hub,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,183,8,125,50,0
+Newton,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,20004,822,11763,7417,2
+Newton,City Pond,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,407,27,210,170,0
+Newton,Town,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,969,89,465,415,0
+Newton,Almon,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1236,40,682,514,0
+Newton,Alcovy,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1114,43,594,477,0
+Newton,Covington Mills,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,772,24,458,289,1
+Newton,Brewers,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,867,26,611,230,0
+Newton,Brick Store,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,802,29,502,271,0
+Newton,Cedar Shoals,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,584,20,368,196,0
+Newton,Livingston,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1114,38,548,527,1
+Newton,Downs,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1626,54,958,614,0
+Newton,Gum Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1327,49,788,490,0
+Newton,Beaverdam,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1364,48,752,564,0
+Newton,Leguinn,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,590,24,400,166,0
+Newton,Mansfield,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,444,19,346,79,0
+Newton,Newborn,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,252,11,204,37,0
+Newton,Oxford,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,715,32,448,235,0
+Newton,Rocky Plains,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,825,24,560,241,0
+Newton,Buck Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1285,62,744,479,0
+Newton,Stansells,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1149,62,594,493,0
+Newton,Fairview,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,612,24,383,205,0
+Newton,Crowell,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1181,38,639,504,0
+Newton,Hub,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,769,39,509,221,0
+Newton,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,7641,261,4548,2832,0
+Newton,City Pond,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,121,3,62,56,0
+Newton,Town,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,337,20,155,162,0
+Newton,Almon,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,429,24,247,158,0
+Newton,Alcovy,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,462,14,237,211,0
+Newton,Covington Mills,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,262,11,151,100,0
+Newton,Brewers,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,380,15,258,107,0
+Newton,Brick Store,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,346,11,207,128,0
+Newton,Cedar Shoals,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,205,6,122,77,0
+Newton,Livingston,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,430,21,225,184,0
+Newton,Downs,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,657,18,391,248,0
+Newton,Gum Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,629,21,399,209,0
+Newton,Beaverdam,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,470,11,286,173,0
+Newton,Leguinn,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,271,3,180,88,0
+Newton,Mansfield,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,236,2,189,45,0
+Newton,Newborn,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,110,4,94,12,0
+Newton,Oxford,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,285,18,173,94,0
+Newton,Rocky Plains,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,307,8,211,88,0
+Newton,Buck Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,432,17,241,174,0
+Newton,Stansells,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,380,15,197,168,0
+Newton,Fairview,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,193,5,113,75,0
+Newton,Crowell,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,350,4,194,152,0
+Newton,Hub,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,349,10,216,123,0
+Newton,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,21352,823,12597,7931,1
+Newton,City Pond,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,407,26,202,179,0
+Newton,Town,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1036,85,494,457,0
+Newton,Almon,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1341,48,744,549,0
+Newton,Alcovy,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1186,40,640,506,0
+Newton,Covington Mills,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,802,27,461,314,0
+Newton,Brewers,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,928,28,658,242,0
+Newton,Brick Store,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,828,26,522,280,0
+Newton,Cedar Shoals,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,615,21,382,212,0
+Newton,Livingston,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1228,43,619,565,1
+Newton,Downs,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1748,61,1011,676,0
+Newton,Gum Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1455,54,870,531,0
+Newton,Beaverdam,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1502,49,847,606,0
+Newton,Leguinn,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,649,22,439,188,0
+Newton,Mansfield,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,482,19,381,82,0
+Newton,Newborn,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,273,13,224,36,0
+Newton,Oxford,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,706,31,441,234,0
+Newton,Rocky Plains,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,860,24,588,248,0
+Newton,Buck Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1348,56,780,512,0
+Newton,Stansells,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1226,59,657,510,0
+Newton,Fairview,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,658,24,406,228,0
+Newton,Crowell,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1263,36,687,540,0
+Newton,Hub,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,811,31,544,236,0
+Newton,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,6403,256,3785,2361,1
+Newton,City Pond,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,130,3,74,53,0
+Newton,Town,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,283,21,138,124,0
+Newton,Almon,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,329,17,188,124,0
+Newton,Alcovy,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,401,16,197,188,0
+Newton,Covington Mills,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,239,10,148,80,1
+Newton,Brewers,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,321,13,211,97,0
+Newton,Brick Store,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,334,13,197,124,0
+Newton,Cedar Shoals,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,172,5,106,61,0
+Newton,Livingston,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,317,14,155,148,0
+Newton,Downs,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,530,11,335,184,0
+Newton,Gum Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,509,17,322,170,0
+Newton,Beaverdam,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,344,8,206,130,0
+Newton,Leguinn,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,216,6,141,69,0
+Newton,Mansfield,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,203,4,154,45,0
+Newton,Newborn,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,90,2,74,14,0
+Newton,Oxford,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,294,19,182,93,0
+Newton,Rocky Plains,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,273,9,183,81,0
+Newton,Buck Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,382,22,215,145,0
+Newton,Stansells,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,306,17,142,147,0
+Newton,Fairview,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,151,6,95,50,0
+Newton,Crowell,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,272,5,143,124,0
+Newton,Hub,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,307,18,179,110,0

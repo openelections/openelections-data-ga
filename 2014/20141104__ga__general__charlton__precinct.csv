@@ -1,0 +1,409 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Charlton,,United States Senator,,R,DAVID A. PERDUE,1396,53,854,486,3
+Charlton,Folkston Library,United States Senator,,R,DAVID A. PERDUE,125,5,62,58,0
+Charlton,Folkston,United States Senator,,R,DAVID A. PERDUE,161,7,80,74,0
+Charlton,Bend Fire Station,United States Senator,,R,DAVID A. PERDUE,81,2,76,1,2
+Charlton,St. George,United States Senator,,R,DAVID A. PERDUE,159,7,137,14,1
+Charlton,Traders Hill,United States Senator,,R,DAVID A. PERDUE,35,2,22,11,0
+Charlton,Homeland,United States Senator,,R,DAVID A. PERDUE,410,18,227,165,0
+Charlton,Folkston Fire Station,United States Senator,,R,DAVID A. PERDUE,240,7,118,115,0
+Charlton,Racepond,United States Senator,,R,DAVID A. PERDUE,86,3,52,31,0
+Charlton,Winokur,United States Senator,,R,DAVID A. PERDUE,99,2,80,17,0
+Charlton,,United States Senator,,D,M. MICHELLE NUNN,585,27,377,180,1
+Charlton,Folkston Library,United States Senator,,D,M. MICHELLE NUNN,220,11,133,75,1
+Charlton,Folkston,United States Senator,,D,M. MICHELLE NUNN,158,2,112,44,0
+Charlton,Bend Fire Station,United States Senator,,D,M. MICHELLE NUNN,14,2,11,1,0
+Charlton,St. George,United States Senator,,D,M. MICHELLE NUNN,18,2,14,2,0
+Charlton,Traders Hill,United States Senator,,D,M. MICHELLE NUNN,11,1,7,3,0
+Charlton,Homeland,United States Senator,,D,M. MICHELLE NUNN,79,3,62,14,0
+Charlton,Folkston Fire Station,United States Senator,,D,M. MICHELLE NUNN,59,4,23,32,0
+Charlton,Racepond,United States Senator,,D,M. MICHELLE NUNN,8,0,4,4,0
+Charlton,Winokur,United States Senator,,D,M. MICHELLE NUNN,18,2,11,5,0
+Charlton,,United States Senator,,L,AMANDA C. SWAFFORD,42,0,23,19,0
+Charlton,Folkston Library,United States Senator,,L,AMANDA C. SWAFFORD,9,0,5,4,0
+Charlton,Folkston,United States Senator,,L,AMANDA C. SWAFFORD,3,0,3,0,0
+Charlton,Bend Fire Station,United States Senator,,L,AMANDA C. SWAFFORD,1,0,1,0,0
+Charlton,St. George,United States Senator,,L,AMANDA C. SWAFFORD,4,0,3,1,0
+Charlton,Traders Hill,United States Senator,,L,AMANDA C. SWAFFORD,0,0,0,0,0
+Charlton,Homeland,United States Senator,,L,AMANDA C. SWAFFORD,10,0,5,5,0
+Charlton,Folkston Fire Station,United States Senator,,L,AMANDA C. SWAFFORD,13,0,5,8,0
+Charlton,Racepond,United States Senator,,L,AMANDA C. SWAFFORD,1,0,1,0,0
+Charlton,Winokur,United States Senator,,L,AMANDA C. SWAFFORD,1,0,0,1,0
+Charlton,,Governor,,R,J. NATHAN DEAL (I),1287,47,792,445,3
+Charlton,Folkston Library,Governor,,R,J. NATHAN DEAL (I),128,5,67,56,0
+Charlton,Folkston,Governor,,R,J. NATHAN DEAL (I),142,6,72,64,0
+Charlton,Bend Fire Station,Governor,,R,J. NATHAN DEAL (I),73,1,69,1,2
+Charlton,St. George,Governor,,R,J. NATHAN DEAL (I),153,7,130,15,1
+Charlton,Traders Hill,Governor,,R,J. NATHAN DEAL (I),32,3,20,9,0
+Charlton,Homeland,Governor,,R,J. NATHAN DEAL (I),368,15,203,150,0
+Charlton,Folkston Fire Station,Governor,,R,J. NATHAN DEAL (I),230,5,111,114,0
+Charlton,Racepond,Governor,,R,J. NATHAN DEAL (I),70,3,47,20,0
+Charlton,Winokur,Governor,,R,J. NATHAN DEAL (I),91,2,73,16,0
+Charlton,,Governor,,D,JASON J. CARTER,658,27,419,211,1
+Charlton,Folkston Library,Governor,,D,JASON J. CARTER,229,11,131,86,1
+Charlton,Folkston,Governor,,D,JASON J. CARTER,166,2,117,47,0
+Charlton,Bend Fire Station,Governor,,D,JASON J. CARTER,17,3,13,1,0
+Charlton,St. George,Governor,,D,JASON J. CARTER,23,2,19,2,0
+Charlton,Traders Hill,Governor,,D,JASON J. CARTER,13,0,8,5,0
+Charlton,Homeland,Governor,,D,JASON J. CARTER,104,5,80,19,0
+Charlton,Folkston Fire Station,Governor,,D,JASON J. CARTER,67,4,26,37,0
+Charlton,Racepond,Governor,,D,JASON J. CARTER,18,0,8,10,0
+Charlton,Winokur,Governor,,D,JASON J. CARTER,21,0,17,4,0
+Charlton,,Governor,,L,ANDREW T. HUNT,66,5,33,28,0
+Charlton,Folkston Library,Governor,,L,ANDREW T. HUNT,3,0,1,2,0
+Charlton,Folkston,Governor,,L,ANDREW T. HUNT,8,0,4,4,0
+Charlton,Bend Fire Station,Governor,,L,ANDREW T. HUNT,3,0,3,0,0
+Charlton,St. George,Governor,,L,ANDREW T. HUNT,4,0,3,1,0
+Charlton,Traders Hill,Governor,,L,ANDREW T. HUNT,0,0,0,0,0
+Charlton,Homeland,Governor,,L,ANDREW T. HUNT,22,1,12,9,0
+Charlton,Folkston Fire Station,Governor,,L,ANDREW T. HUNT,17,2,8,7,0
+Charlton,Racepond,Governor,,L,ANDREW T. HUNT,5,0,1,4,0
+Charlton,Winokur,Governor,,L,ANDREW T. HUNT,4,2,1,1,0
+Charlton,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1382,53,833,493,3
+Charlton,Folkston Library,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",130,5,66,59,0
+Charlton,Folkston,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",158,6,78,74,0
+Charlton,Bend Fire Station,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",81,1,77,1,2
+Charlton,St. George,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",160,7,136,16,1
+Charlton,Traders Hill,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",38,3,23,12,0
+Charlton,Homeland,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",393,18,212,163,0
+Charlton,Folkston Fire Station,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",246,8,119,119,0
+Charlton,Racepond,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",80,3,47,30,0
+Charlton,Winokur,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",96,2,75,19,0
+Charlton,,Lieutenant Governor,,D,CONNIE J. STOKES,621,26,404,190,1
+Charlton,Folkston Library,Lieutenant Governor,,D,CONNIE J. STOKES,226,11,134,80,1
+Charlton,Folkston,Lieutenant Governor,,D,CONNIE J. STOKES,164,2,117,45,0
+Charlton,Bend Fire Station,Lieutenant Governor,,D,CONNIE J. STOKES,16,3,12,1,0
+Charlton,St. George,Lieutenant Governor,,D,CONNIE J. STOKES,19,2,16,1,0
+Charlton,Traders Hill,Lieutenant Governor,,D,CONNIE J. STOKES,9,0,6,3,0
+Charlton,Homeland,Lieutenant Governor,,D,CONNIE J. STOKES,94,3,74,17,0
+Charlton,Folkston Fire Station,Lieutenant Governor,,D,CONNIE J. STOKES,61,3,25,33,0
+Charlton,Racepond,Lieutenant Governor,,D,CONNIE J. STOKES,12,0,6,6,0
+Charlton,Winokur,Lieutenant Governor,,D,CONNIE J. STOKES,20,2,14,4,0
+Charlton,,Secretary Of State,,R,BRIAN P. KEMP (I),1423,55,867,498,3
+Charlton,Folkston Library,Secretary Of State,,R,BRIAN P. KEMP (I),135,5,66,64,0
+Charlton,Folkston,Secretary Of State,,R,BRIAN P. KEMP (I),167,7,84,76,0
+Charlton,Bend Fire Station,Secretary Of State,,R,BRIAN P. KEMP (I),81,1,77,1,2
+Charlton,St. George,Secretary Of State,,R,BRIAN P. KEMP (I),158,7,134,16,1
+Charlton,Traders Hill,Secretary Of State,,R,BRIAN P. KEMP (I),37,3,22,12,0
+Charlton,Homeland,Secretary Of State,,R,BRIAN P. KEMP (I),410,18,230,162,0
+Charlton,Folkston Fire Station,Secretary Of State,,R,BRIAN P. KEMP (I),253,9,124,120,0
+Charlton,Racepond,Secretary Of State,,R,BRIAN P. KEMP (I),85,3,51,31,0
+Charlton,Winokur,Secretary Of State,,R,BRIAN P. KEMP (I),97,2,79,16,0
+Charlton,,Secretary Of State,,D,DOREEN CARTER,589,25,380,183,1
+Charlton,Folkston Library,Secretary Of State,,D,DOREEN CARTER,224,11,133,79,1
+Charlton,Folkston,Secretary Of State,,D,DOREEN CARTER,155,2,111,42,0
+Charlton,Bend Fire Station,Secretary Of State,,D,DOREEN CARTER,16,3,12,1,0
+Charlton,St. George,Secretary Of State,,D,DOREEN CARTER,21,2,18,1,0
+Charlton,Traders Hill,Secretary Of State,,D,DOREEN CARTER,10,0,7,3,0
+Charlton,Homeland,Secretary Of State,,D,DOREEN CARTER,82,3,63,16,0
+Charlton,Folkston Fire Station,Secretary Of State,,D,DOREEN CARTER,54,2,21,31,0
+Charlton,Racepond,Secretary Of State,,D,DOREEN CARTER,8,0,4,4,0
+Charlton,Winokur,Secretary Of State,,D,DOREEN CARTER,19,2,11,6,0
+Charlton,,Attorney General,,R,SAMUEL S. OLENS (I),1395,53,845,494,3
+Charlton,Folkston Library,Attorney General,,R,SAMUEL S. OLENS (I),135,4,66,65,0
+Charlton,Folkston,Attorney General,,R,SAMUEL S. OLENS (I),160,7,77,76,0
+Charlton,Bend Fire Station,Attorney General,,R,SAMUEL S. OLENS (I),80,1,76,1,2
+Charlton,St. George,Attorney General,,R,SAMUEL S. OLENS (I),158,7,134,16,1
+Charlton,Traders Hill,Attorney General,,R,SAMUEL S. OLENS (I),37,3,22,12,0
+Charlton,Homeland,Attorney General,,R,SAMUEL S. OLENS (I),404,17,229,158,0
+Charlton,Folkston Fire Station,Attorney General,,R,SAMUEL S. OLENS (I),253,9,123,121,0
+Charlton,Racepond,Attorney General,,R,SAMUEL S. OLENS (I),80,3,47,30,0
+Charlton,Winokur,Attorney General,,R,SAMUEL S. OLENS (I),88,2,71,15,0
+Charlton,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",593,27,381,184,1
+Charlton,Folkston Library,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",221,12,130,78,1
+Charlton,Folkston,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",155,2,111,42,0
+Charlton,Bend Fire Station,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",16,3,12,1,0
+Charlton,St. George,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",19,2,16,1,0
+Charlton,Traders Hill,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",9,0,6,3,0
+Charlton,Homeland,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",82,4,60,18,0
+Charlton,Folkston Fire Station,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",54,2,21,31,0
+Charlton,Racepond,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",11,0,7,4,0
+Charlton,Winokur,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",26,2,18,6,0
+Charlton,,Commissioner Of Agriculture,,R,GARY W. BLACK (I),1411,54,852,502,3
+Charlton,Folkston Library,Commissioner Of Agriculture,,R,GARY W. BLACK (I),139,5,69,65,0
+Charlton,Folkston,Commissioner Of Agriculture,,R,GARY W. BLACK (I),161,7,79,75,0
+Charlton,Bend Fire Station,Commissioner Of Agriculture,,R,GARY W. BLACK (I),82,1,78,1,2
+Charlton,St. George,Commissioner Of Agriculture,,R,GARY W. BLACK (I),161,7,136,17,1
+Charlton,Traders Hill,Commissioner Of Agriculture,,R,GARY W. BLACK (I),38,3,23,12,0
+Charlton,Homeland,Commissioner Of Agriculture,,R,GARY W. BLACK (I),411,18,230,163,0
+Charlton,Folkston Fire Station,Commissioner Of Agriculture,,R,GARY W. BLACK (I),247,8,119,120,0
+Charlton,Racepond,Commissioner Of Agriculture,,R,GARY W. BLACK (I),82,3,46,33,0
+Charlton,Winokur,Commissioner Of Agriculture,,R,GARY W. BLACK (I),90,2,72,16,0
+Charlton,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,592,26,383,182,1
+Charlton,Folkston Library,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,222,11,131,79,1
+Charlton,Folkston,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,155,2,112,41,0
+Charlton,Bend Fire Station,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,15,3,11,1,0
+Charlton,St. George,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,19,2,17,0,0
+Charlton,Traders Hill,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,8,0,5,3,0
+Charlton,Homeland,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,78,3,59,16,0
+Charlton,Folkston Fire Station,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,61,3,25,33,0
+Charlton,Racepond,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,9,0,6,3,0
+Charlton,Winokur,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,25,2,17,6,0
+Charlton,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1344,49,815,477,3
+Charlton,Folkston Library,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),124,4,59,61,0
+Charlton,Folkston,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),152,7,75,70,0
+Charlton,Bend Fire Station,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),78,1,74,1,2
+Charlton,St. George,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),158,7,136,14,1
+Charlton,Traders Hill,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),38,2,24,12,0
+Charlton,Homeland,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),392,17,215,160,0
+Charlton,Folkston Fire Station,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),234,6,115,113,0
+Charlton,Racepond,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),78,3,46,29,0
+Charlton,Winokur,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),90,2,71,17,0
+Charlton,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",592,28,382,181,1
+Charlton,Folkston Library,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",226,12,135,78,1
+Charlton,Folkston,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",156,2,112,42,0
+Charlton,Bend Fire Station,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",14,3,10,1,0
+Charlton,St. George,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",19,2,16,1,0
+Charlton,Traders Hill,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",8,1,4,3,0
+Charlton,Homeland,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",81,3,62,16,0
+Charlton,Folkston Fire Station,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",57,3,22,32,0
+Charlton,Racepond,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",10,0,7,3,0
+Charlton,Winokur,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",21,2,14,5,0
+Charlton,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",63,3,39,21,0
+Charlton,Folkston Library,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",7,0,4,3,0
+Charlton,Folkston,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",9,0,7,2,0
+Charlton,Bend Fire Station,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",4,0,4,0,0
+Charlton,St. George,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",4,0,2,2,0
+Charlton,Traders Hill,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",0,0,0,0,0
+Charlton,Homeland,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",12,1,8,3,0
+Charlton,Folkston Fire Station,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",19,2,9,8,0
+Charlton,Racepond,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",3,0,1,2,0
+Charlton,Winokur,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",5,0,4,1,0
+Charlton,,State School Superintendent,,R,RICHARD L. WOODS,1397,53,845,496,3
+Charlton,Folkston Library,State School Superintendent,,R,RICHARD L. WOODS,129,5,59,65,0
+Charlton,Folkston,State School Superintendent,,R,RICHARD L. WOODS,160,7,81,72,0
+Charlton,Bend Fire Station,State School Superintendent,,R,RICHARD L. WOODS,81,1,77,1,2
+Charlton,St. George,State School Superintendent,,R,RICHARD L. WOODS,161,7,137,16,1
+Charlton,Traders Hill,State School Superintendent,,R,RICHARD L. WOODS,41,3,26,12,0
+Charlton,Homeland,State School Superintendent,,R,RICHARD L. WOODS,397,16,223,158,0
+Charlton,Folkston Fire Station,State School Superintendent,,R,RICHARD L. WOODS,247,9,117,121,0
+Charlton,Racepond,State School Superintendent,,R,RICHARD L. WOODS,84,3,48,33,0
+Charlton,Winokur,State School Superintendent,,R,RICHARD L. WOODS,97,2,77,18,0
+Charlton,,State School Superintendent,,D,VALARIE D. WILSON,617,27,401,188,1
+Charlton,Folkston Library,State School Superintendent,,D,VALARIE D. WILSON,234,11,142,80,1
+Charlton,Folkston,State School Superintendent,,D,VALARIE D. WILSON,158,2,112,44,0
+Charlton,Bend Fire Station,State School Superintendent,,D,VALARIE D. WILSON,16,3,12,1,0
+Charlton,St. George,State School Superintendent,,D,VALARIE D. WILSON,19,2,16,1,0
+Charlton,Traders Hill,State School Superintendent,,D,VALARIE D. WILSON,6,0,3,3,0
+Charlton,Homeland,State School Superintendent,,D,VALARIE D. WILSON,95,5,69,21,0
+Charlton,Folkston Fire Station,State School Superintendent,,D,VALARIE D. WILSON,61,2,27,32,0
+Charlton,Racepond,State School Superintendent,,D,VALARIE D. WILSON,8,0,6,2,0
+Charlton,Winokur,State School Superintendent,,D,VALARIE D. WILSON,20,2,14,4,0
+Charlton,,Commissioner Of Labor,,R,J. MARK BUTLER (I),1395,51,843,498,3
+Charlton,Folkston Library,Commissioner Of Labor,,R,J. MARK BUTLER (I),133,5,63,65,0
+Charlton,Folkston,Commissioner Of Labor,,R,J. MARK BUTLER (I),159,7,77,75,0
+Charlton,Bend Fire Station,Commissioner Of Labor,,R,J. MARK BUTLER (I),79,1,75,1,2
+Charlton,St. George,Commissioner Of Labor,,R,J. MARK BUTLER (I),156,7,133,15,1
+Charlton,Traders Hill,Commissioner Of Labor,,R,J. MARK BUTLER (I),37,2,23,12,0
+Charlton,Homeland,Commissioner Of Labor,,R,J. MARK BUTLER (I),403,15,224,164,0
+Charlton,Folkston Fire Station,Commissioner Of Labor,,R,J. MARK BUTLER (I),247,9,122,116,0
+Charlton,Racepond,Commissioner Of Labor,,R,J. MARK BUTLER (I),85,3,49,33,0
+Charlton,Winokur,Commissioner Of Labor,,R,J. MARK BUTLER (I),96,2,77,17,0
+Charlton,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,599,29,388,181,1
+Charlton,Folkston Library,Commissioner Of Labor,,D,ROBBIN K. SHIPP,226,11,135,79,1
+Charlton,Folkston,Commissioner Of Labor,,D,ROBBIN K. SHIPP,152,2,110,40,0
+Charlton,Bend Fire Station,Commissioner Of Labor,,D,ROBBIN K. SHIPP,18,3,14,1,0
+Charlton,St. George,Commissioner Of Labor,,D,ROBBIN K. SHIPP,21,2,17,2,0
+Charlton,Traders Hill,Commissioner Of Labor,,D,ROBBIN K. SHIPP,9,1,5,3,0
+Charlton,Homeland,Commissioner Of Labor,,D,ROBBIN K. SHIPP,84,6,64,14,0
+Charlton,Folkston Fire Station,Commissioner Of Labor,,D,ROBBIN K. SHIPP,61,2,23,36,0
+Charlton,Racepond,Commissioner Of Labor,,D,ROBBIN K. SHIPP,9,0,7,2,0
+Charlton,Winokur,Commissioner Of Labor,,D,ROBBIN K. SHIPP,19,2,13,4,0
+Charlton,,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1473,54,910,506,3
+Charlton,Folkston Library,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",157,7,82,68,0
+Charlton,Folkston,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",185,7,98,80,0
+Charlton,Bend Fire Station,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",81,1,77,1,2
+Charlton,St. George,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",162,7,139,15,1
+Charlton,Traders Hill,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",40,3,24,13,0
+Charlton,Homeland,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",422,16,241,165,0
+Charlton,Folkston Fire Station,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",246,8,119,119,0
+Charlton,Racepond,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",83,3,50,30,0
+Charlton,Winokur,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",97,2,80,15,0
+Charlton,,Public Service Commission,1,L,JOHN H. MONDS,354,16,222,115,1
+Charlton,Folkston Library,Public Service Commission,1,L,JOHN H. MONDS,125,5,70,49,1
+Charlton,Folkston,Public Service Commission,1,L,JOHN H. MONDS,77,0,59,18,0
+Charlton,Bend Fire Station,Public Service Commission,1,L,JOHN H. MONDS,13,3,9,1,0
+Charlton,St. George,Public Service Commission,1,L,JOHN H. MONDS,15,0,13,2,0
+Charlton,Traders Hill,Public Service Commission,1,L,JOHN H. MONDS,4,0,4,0,0
+Charlton,Homeland,Public Service Commission,1,L,JOHN H. MONDS,51,3,38,10,0
+Charlton,Folkston Fire Station,Public Service Commission,1,L,JOHN H. MONDS,45,3,18,24,0
+Charlton,Racepond,Public Service Commission,1,L,JOHN H. MONDS,7,0,3,4,0
+Charlton,Winokur,Public Service Commission,1,L,JOHN H. MONDS,17,2,8,7,0
+Charlton,,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1344,46,818,477,3
+Charlton,Folkston Library,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",124,4,60,60,0
+Charlton,Folkston,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",151,7,74,70,0
+Charlton,Bend Fire Station,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",77,0,74,1,2
+Charlton,St. George,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",155,7,134,13,1
+Charlton,Traders Hill,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",39,3,24,12,0
+Charlton,Homeland,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",387,15,213,159,0
+Charlton,Folkston Fire Station,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",241,7,115,119,0
+Charlton,Racepond,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",78,1,49,28,0
+Charlton,Winokur,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",92,2,75,15,0
+Charlton,,Public Service Commission,4,D,DANIEL A. BLACKMAN,580,29,378,172,1
+Charlton,Folkston Library,Public Service Commission,4,D,DANIEL A. BLACKMAN,221,12,130,78,1
+Charlton,Folkston,Public Service Commission,4,D,DANIEL A. BLACKMAN,163,2,119,42,0
+Charlton,Bend Fire Station,Public Service Commission,4,D,DANIEL A. BLACKMAN,15,3,11,1,0
+Charlton,St. George,Public Service Commission,4,D,DANIEL A. BLACKMAN,16,2,13,1,0
+Charlton,Traders Hill,Public Service Commission,4,D,DANIEL A. BLACKMAN,6,0,3,3,0
+Charlton,Homeland,Public Service Commission,4,D,DANIEL A. BLACKMAN,80,5,62,13,0
+Charlton,Folkston Fire Station,Public Service Commission,4,D,DANIEL A. BLACKMAN,52,3,21,28,0
+Charlton,Racepond,Public Service Commission,4,D,DANIEL A. BLACKMAN,6,0,4,2,0
+Charlton,Winokur,Public Service Commission,4,D,DANIEL A. BLACKMAN,21,2,15,4,0
+Charlton,,Public Service Commission,4,L,ROBIN AARON GILMER,84,3,47,34,0
+Charlton,Folkston Library,Public Service Commission,4,L,ROBIN AARON GILMER,13,0,7,6,0
+Charlton,Folkston,Public Service Commission,4,L,ROBIN AARON GILMER,10,0,6,4,0
+Charlton,Bend Fire Station,Public Service Commission,4,L,ROBIN AARON GILMER,5,1,4,0,0
+Charlton,St. George,Public Service Commission,4,L,ROBIN AARON GILMER,9,0,6,3,0
+Charlton,Traders Hill,Public Service Commission,4,L,ROBIN AARON GILMER,1,0,1,0,0
+Charlton,Homeland,Public Service Commission,4,L,ROBIN AARON GILMER,20,1,12,7,0
+Charlton,Folkston Fire Station,Public Service Commission,4,L,ROBIN AARON GILMER,16,1,9,6,0
+Charlton,Racepond,Public Service Commission,4,L,ROBIN AARON GILMER,7,0,2,5,0
+Charlton,Winokur,Public Service Commission,4,L,ROBIN AARON GILMER,3,0,0,3,0
+Charlton,,U.S. Representative,1,R,"E. L. ""BUDDY"" CARTER",1465,53,893,516,3
+Charlton,Folkston Library,U.S. Representative,1,R,"E. L. ""BUDDY"" CARTER",145,6,70,69,0
+Charlton,Folkston,U.S. Representative,1,R,"E. L. ""BUDDY"" CARTER",168,6,89,73,0
+Charlton,Bend Fire Station,U.S. Representative,1,R,"E. L. ""BUDDY"" CARTER",81,1,77,1,2
+Charlton,St. George,U.S. Representative,1,R,"E. L. ""BUDDY"" CARTER",167,6,144,16,1
+Charlton,Traders Hill,U.S. Representative,1,R,"E. L. ""BUDDY"" CARTER",40,3,24,13,0
+Charlton,Homeland,U.S. Representative,1,R,"E. L. ""BUDDY"" CARTER",422,18,233,171,0
+Charlton,Folkston Fire Station,U.S. Representative,1,R,"E. L. ""BUDDY"" CARTER",253,9,124,120,0
+Charlton,Racepond,U.S. Representative,1,R,"E. L. ""BUDDY"" CARTER",89,2,53,34,0
+Charlton,Winokur,U.S. Representative,1,R,"E. L. ""BUDDY"" CARTER",100,2,79,19,0
+Charlton,,U.S. Representative,1,D,BRIAN CORWIN REESE,563,26,365,171,1
+Charlton,Folkston Library,U.S. Representative,1,D,BRIAN CORWIN REESE,218,10,132,75,1
+Charlton,Folkston,U.S. Representative,1,D,BRIAN CORWIN REESE,155,3,108,44,0
+Charlton,Bend Fire Station,U.S. Representative,1,D,BRIAN CORWIN REESE,15,3,11,1,0
+Charlton,St. George,U.S. Representative,1,D,BRIAN CORWIN REESE,16,3,12,1,0
+Charlton,Traders Hill,U.S. Representative,1,D,BRIAN CORWIN REESE,7,0,5,2,0
+Charlton,Homeland,U.S. Representative,1,D,BRIAN CORWIN REESE,72,3,59,10,0
+Charlton,Folkston Fire Station,U.S. Representative,1,D,BRIAN CORWIN REESE,56,2,22,32,0
+Charlton,Racepond,U.S. Representative,1,D,BRIAN CORWIN REESE,6,0,4,2,0
+Charlton,Winokur,U.S. Representative,1,D,BRIAN CORWIN REESE,18,2,12,4,0
+Charlton,,State Senator,3,R,WILLIAM T. LIGON JR. (I),1087,37,619,430,1
+Charlton,Folkston Library,State Senator,3,R,WILLIAM T. LIGON JR. (I),208,8,106,93,1
+Charlton,Folkston,State Senator,3,R,WILLIAM T. LIGON JR. (I),207,8,113,86,0
+Charlton,Homeland,State Senator,3,R,WILLIAM T. LIGON JR. (I),293,8,186,99,0
+Charlton,Folkston Fire Station,State Senator,3,R,WILLIAM T. LIGON JR. (I),274,9,132,133,0
+Charlton,Winokur,State Senator,3,R,WILLIAM T. LIGON JR. (I),105,4,82,19,0
+Charlton,,State Senator,7,R,TYLER J. HARPER (I),546,24,379,140,3
+Charlton,Bend Fire Station,State Senator,7,R,TYLER J. HARPER (I),85,2,80,1,2
+Charlton,St. George,State Senator,7,R,TYLER J. HARPER (I),174,6,150,17,1
+Charlton,Traders Hill,State Senator,7,R,TYLER J. HARPER (I),43,3,27,13,0
+Charlton,Homeland,State Senator,7,R,TYLER J. HARPER (I),152,10,67,75,0
+Charlton,Racepond,State Senator,7,R,TYLER J. HARPER (I),92,3,55,34,0
+Charlton,,State Representative,174,R,JOHN L. CORBETT,1219,48,724,444,3
+Charlton,Folkston Library,State Representative,174,R,JOHN L. CORBETT,130,5,63,62,0
+Charlton,Folkston,State Representative,174,R,JOHN L. CORBETT,160,7,78,75,0
+Charlton,Bend Fire Station,State Representative,174,R,JOHN L. CORBETT,81,1,77,1,2
+Charlton,St. George,State Representative,174,R,JOHN L. CORBETT,163,6,141,15,1
+Charlton,Traders Hill,State Representative,174,R,JOHN L. CORBETT,37,3,23,11,0
+Charlton,Homeland,State Representative,174,R,JOHN L. CORBETT,397,17,221,159,0
+Charlton,Folkston Fire Station,State Representative,174,R,JOHN L. CORBETT,251,9,121,121,0
+Charlton,,State Representative,174,D,JESSIE SMITH,599,25,381,192,1
+Charlton,Folkston Library,State Representative,174,D,JESSIE SMITH,242,11,143,87,1
+Charlton,Folkston,State Representative,174,D,JESSIE SMITH,163,2,118,43,0
+Charlton,Bend Fire Station,State Representative,174,D,JESSIE SMITH,16,3,12,1,0
+Charlton,St. George,State Representative,174,D,JESSIE SMITH,19,3,14,2,0
+Charlton,Traders Hill,State Representative,174,D,JESSIE SMITH,9,0,5,4,0
+Charlton,Homeland,State Representative,174,D,JESSIE SMITH,90,4,65,21,0
+Charlton,Folkston Fire Station,State Representative,174,D,JESSIE SMITH,60,2,24,34,0
+Charlton,,State Representative,180,R,JASON C. SPENCER (I),202,5,142,55,0
+Charlton,Homeland,State Representative,180,R,JASON C. SPENCER (I),9,0,6,3,0
+Charlton,Racepond,State Representative,180,R,JASON C. SPENCER (I),90,2,56,32,0
+Charlton,Winokur,State Representative,180,R,JASON C. SPENCER (I),103,3,80,20,0
+Charlton,,District Attorney,Waycross Circuit,R,GEORGE E. BARNHILL,1630,58,998,570,4
+Charlton,Folkston Library,District Attorney,Waycross Circuit,R,GEORGE E. BARNHILL,202,8,103,90,1
+Charlton,Folkston,District Attorney,Waycross Circuit,R,GEORGE E. BARNHILL,214,8,115,91,0
+Charlton,Bend Fire Station,District Attorney,Waycross Circuit,R,GEORGE E. BARNHILL,85,1,81,1,2
+Charlton,St. George,District Attorney,Waycross Circuit,R,GEORGE E. BARNHILL,174,6,150,17,1
+Charlton,Traders Hill,District Attorney,Waycross Circuit,R,GEORGE E. BARNHILL,43,3,27,13,0
+Charlton,Homeland,District Attorney,Waycross Circuit,R,GEORGE E. BARNHILL,443,18,256,169,0
+Charlton,Folkston Fire Station,District Attorney,Waycross Circuit,R,GEORGE E. BARNHILL,275,8,132,135,0
+Charlton,Racepond,District Attorney,Waycross Circuit,R,GEORGE E. BARNHILL,91,3,54,34,0
+Charlton,Winokur,District Attorney,Waycross Circuit,R,GEORGE E. BARNHILL,103,3,80,20,0
+Charlton,,CC,D1,R,CHRIS C. CONNER,128,3,62,63,0
+Charlton,Folkston Library,CC,D1,R,CHRIS C. CONNER,128,3,62,63,0
+Charlton,,CC,D1,D,ALPHYA BENEFIELD (I),214,12,126,75,1
+Charlton,Folkston Library,CC,D1,D,ALPHYA BENEFIELD (I),214,12,126,75,1
+Charlton,,CC,D4,R,RONNIE POLLOCK,329,12,200,117,0
+Charlton,Homeland,CC,D4,R,RONNIE POLLOCK,329,12,200,117,0
+Charlton,,CC,D4,D,JANET SNOWDEN,157,7,93,57,0
+Charlton,Homeland,CC,D4,D,JANET SNOWDEN,157,7,93,57,0
+Charlton,,CC,D5,R,JOHN F. MEYER (I),220,13,121,86,0
+Charlton,Folkston Fire Station,CC,D5,R,JOHN F. MEYER (I),131,7,66,58,0
+Charlton,Racepond,CC,D5,R,JOHN F. MEYER (I),34,2,19,13,0
+Charlton,Winokur,CC,D5,R,JOHN F. MEYER (I),55,4,36,15,0
+Charlton,,CC,D5,IND,LUCAS GOWEN,309,5,174,130,0
+Charlton,Folkston Fire Station,CC,D5,IND,LUCAS GOWEN,181,4,79,98,0
+Charlton,Racepond,CC,D5,IND,LUCAS GOWEN,64,1,39,24,0
+Charlton,Winokur,CC,D5,IND,LUCAS GOWEN,64,0,56,8,0
+Charlton,,BOE,D1,D,LUCILLE HANNANS (I),284,12,163,108,1
+Charlton,Folkston Library,BOE,D1,D,LUCILLE HANNANS (I),284,12,163,108,1
+Charlton,,BOE,D3,R,JONATHAN CHANCY (I),230,3,204,21,2
+Charlton,Bend Fire Station,BOE,D3,R,JONATHAN CHANCY (I),80,1,76,1,2
+Charlton,St. George,BOE,D3,R,JONATHAN CHANCY (I),118,1,107,10,0
+Charlton,Traders Hill,BOE,D3,R,JONATHAN CHANCY (I),32,1,21,10,0
+Charlton,,BOE,D5,R,"L ""PENDER"" LLOYD (I)",478,17,276,185,0
+Charlton,Folkston Fire Station,BOE,D5,R,"L ""PENDER"" LLOYD (I)",277,10,135,132,0
+Charlton,Racepond,BOE,D5,R,"L ""PENDER"" LLOYD (I)",90,3,54,33,0
+Charlton,Winokur,BOE,D5,R,"L ""PENDER"" LLOYD (I)",111,4,87,20,0
+Charlton,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,1481,56,919,503,3
+Charlton,Folkston Library,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,229,8,126,95,0
+Charlton,Folkston,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,228,6,137,85,0
+Charlton,Bend Fire Station,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,76,4,68,2,2
+Charlton,St. George,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,139,8,116,14,1
+Charlton,Traders Hill,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,39,3,25,11,0
+Charlton,Homeland,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,380,15,229,136,0
+Charlton,Folkston Fire Station,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,227,7,100,120,0
+Charlton,Racepond,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,73,3,45,25,0
+Charlton,Winokur,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,90,2,73,15,0
+Charlton,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,527,21,328,177,1
+Charlton,Folkston Library,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,121,7,68,45,1
+Charlton,Folkston,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,96,3,62,31,0
+Charlton,Bend Fire Station,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,19,0,19,0,0
+Charlton,St. George,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,43,1,39,3,0
+Charlton,Traders Hill,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,6,0,4,2,0
+Charlton,Homeland,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,108,5,62,41,0
+Charlton,Folkston Fire Station,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,83,3,44,36,0
+Charlton,Racepond,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,23,0,11,12,0
+Charlton,Winokur,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,28,2,19,7,0
+Charlton,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,1230,43,781,404,2
+Charlton,Folkston Library,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,219,6,124,89,0
+Charlton,Folkston,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,211,8,132,71,0
+Charlton,Bend Fire Station,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,52,4,44,2,2
+Charlton,St. George,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,111,3,98,10,0
+Charlton,Traders Hill,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,27,1,20,6,0
+Charlton,Homeland,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,297,10,189,98,0
+Charlton,Folkston Fire Station,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,178,5,72,101,0
+Charlton,Racepond,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,51,2,37,12,0
+Charlton,Winokur,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,84,4,65,15,0
+Charlton,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,746,29,447,268,2
+Charlton,Folkston Library,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,129,9,68,51,1
+Charlton,Folkston,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,101,1,59,41,0
+Charlton,Bend Fire Station,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,42,0,42,0,0
+Charlton,St. George,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,64,3,54,6,1
+Charlton,Traders Hill,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,18,2,9,7,0
+Charlton,Homeland,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,181,8,98,75,0
+Charlton,Folkston Fire Station,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,133,5,72,56,0
+Charlton,Racepond,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,44,1,18,25,0
+Charlton,Winokur,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,34,0,27,7,0
+Charlton,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,1357,53,866,436,2
+Charlton,Folkston Library,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,258,10,153,95,0
+Charlton,Folkston,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,231,7,156,68,0
+Charlton,Bend Fire Station,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,56,4,48,2,2
+Charlton,St. George,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,134,6,116,12,0
+Charlton,Traders Hill,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,31,3,21,7,0
+Charlton,Homeland,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,300,11,184,105,0
+Charlton,Folkston Fire Station,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,207,6,89,112,0
+Charlton,Racepond,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,65,2,40,23,0
+Charlton,Winokur,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,75,4,59,12,0
+Charlton,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,640,24,376,238,2
+Charlton,Folkston Library,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,94,4,43,46,1
+Charlton,Folkston,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,91,2,43,46,0
+Charlton,Bend Fire Station,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,37,0,37,0,0
+Charlton,St. George,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,48,3,39,5,1
+Charlton,Traders Hill,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,14,0,8,6,0
+Charlton,Homeland,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,181,10,103,68,0
+Charlton,Folkston Fire Station,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,102,4,55,43,0
+Charlton,Racepond,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,29,1,15,13,0
+Charlton,Winokur,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,44,0,33,11,0

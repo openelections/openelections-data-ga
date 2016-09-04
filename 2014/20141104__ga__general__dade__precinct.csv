@@ -1,0 +1,353 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Dade,,United States Senator,,R,DAVID A. PERDUE,2577,84,1756,732,5
+Dade,SOUTH DADE,United States Senator,,R,DAVID A. PERDUE,234,6,164,64,0
+Dade,NEW SALEM,United States Senator,,R,DAVID A. PERDUE,322,6,258,58,0
+Dade,DAVIS,United States Senator,,R,DAVID A. PERDUE,448,15,325,107,1
+Dade,NEW HOME,United States Senator,,R,DAVID A. PERDUE,175,4,141,29,1
+Dade,WEST BROW,United States Senator,,R,DAVID A. PERDUE,348,16,261,70,1
+Dade,TRENTON,United States Senator,,R,DAVID A. PERDUE,645,19,346,280,0
+Dade,NORTH DADE,United States Senator,,R,DAVID A. PERDUE,405,18,261,124,2
+Dade,,United States Senator,,D,M. MICHELLE NUNN,725,27,451,246,1
+Dade,SOUTH DADE,United States Senator,,D,M. MICHELLE NUNN,82,2,52,28,0
+Dade,NEW SALEM,United States Senator,,D,M. MICHELLE NUNN,117,1,85,31,0
+Dade,DAVIS,United States Senator,,D,M. MICHELLE NUNN,112,4,72,36,0
+Dade,NEW HOME,United States Senator,,D,M. MICHELLE NUNN,37,0,34,3,0
+Dade,WEST BROW,United States Senator,,D,M. MICHELLE NUNN,62,6,43,13,0
+Dade,TRENTON,United States Senator,,D,M. MICHELLE NUNN,149,11,58,79,1
+Dade,NORTH DADE,United States Senator,,D,M. MICHELLE NUNN,166,3,107,56,0
+Dade,,United States Senator,,L,AMANDA C. SWAFFORD,119,2,85,29,3
+Dade,SOUTH DADE,United States Senator,,L,AMANDA C. SWAFFORD,7,0,6,1,0
+Dade,NEW SALEM,United States Senator,,L,AMANDA C. SWAFFORD,21,0,18,3,0
+Dade,DAVIS,United States Senator,,L,AMANDA C. SWAFFORD,22,0,19,3,0
+Dade,NEW HOME,United States Senator,,L,AMANDA C. SWAFFORD,12,0,6,6,0
+Dade,WEST BROW,United States Senator,,L,AMANDA C. SWAFFORD,13,0,10,3,0
+Dade,TRENTON,United States Senator,,L,AMANDA C. SWAFFORD,28,0,17,9,2
+Dade,NORTH DADE,United States Senator,,L,AMANDA C. SWAFFORD,16,2,9,4,1
+Dade,,Governor,,R,J. NATHAN DEAL (I),2450,80,1626,738,6
+Dade,SOUTH DADE,Governor,,R,J. NATHAN DEAL (I),224,6,153,65,0
+Dade,NEW SALEM,Governor,,R,J. NATHAN DEAL (I),314,7,248,59,0
+Dade,DAVIS,Governor,,R,J. NATHAN DEAL (I),423,15,297,110,1
+Dade,NEW HOME,Governor,,R,J. NATHAN DEAL (I),173,4,135,33,1
+Dade,WEST BROW,Governor,,R,J. NATHAN DEAL (I),332,14,245,72,1
+Dade,TRENTON,Governor,,R,J. NATHAN DEAL (I),607,16,310,281,0
+Dade,NORTH DADE,Governor,,R,J. NATHAN DEAL (I),377,18,238,118,3
+Dade,,Governor,,D,JASON J. CARTER,859,29,559,270,1
+Dade,SOUTH DADE,Governor,,D,JASON J. CARTER,87,2,56,29,0
+Dade,NEW SALEM,Governor,,D,JASON J. CARTER,125,0,95,30,0
+Dade,DAVIS,Governor,,D,JASON J. CARTER,142,4,97,41,0
+Dade,NEW HOME,Governor,,D,JASON J. CARTER,43,0,37,6,0
+Dade,WEST BROW,Governor,,D,JASON J. CARTER,78,7,55,16,0
+Dade,TRENTON,Governor,,D,JASON J. CARTER,193,13,94,85,1
+Dade,NORTH DADE,Governor,,D,JASON J. CARTER,191,3,125,63,0
+Dade,,Governor,,L,ANDREW T. HUNT,127,5,98,22,2
+Dade,SOUTH DADE,Governor,,L,ANDREW T. HUNT,13,0,12,1,0
+Dade,NEW SALEM,Governor,,L,ANDREW T. HUNT,18,0,15,3,0
+Dade,DAVIS,Governor,,L,ANDREW T. HUNT,20,0,18,2,0
+Dade,NEW HOME,Governor,,L,ANDREW T. HUNT,11,0,8,3,0
+Dade,WEST BROW,Governor,,L,ANDREW T. HUNT,15,1,13,1,0
+Dade,TRENTON,Governor,,L,ANDREW T. HUNT,33,2,19,10,2
+Dade,NORTH DADE,Governor,,L,ANDREW T. HUNT,17,2,13,2,0
+Dade,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",2535,81,1699,747,8
+Dade,SOUTH DADE,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",226,6,155,65,0
+Dade,NEW SALEM,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",336,7,263,66,0
+Dade,DAVIS,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",431,14,309,107,1
+Dade,NEW HOME,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",180,4,141,34,1
+Dade,WEST BROW,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",340,15,251,73,1
+Dade,TRENTON,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",624,17,327,278,2
+Dade,NORTH DADE,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",398,18,253,124,3
+Dade,,Lieutenant Governor,,D,CONNIE J. STOKES,789,28,511,249,1
+Dade,SOUTH DADE,Lieutenant Governor,,D,CONNIE J. STOKES,83,2,54,27,0
+Dade,NEW SALEM,Lieutenant Governor,,D,CONNIE J. STOKES,117,0,90,27,0
+Dade,DAVIS,Lieutenant Governor,,D,CONNIE J. STOKES,134,5,93,36,0
+Dade,NEW HOME,Lieutenant Governor,,D,CONNIE J. STOKES,46,0,39,7,0
+Dade,WEST BROW,Lieutenant Governor,,D,CONNIE J. STOKES,71,7,51,13,0
+Dade,TRENTON,Lieutenant Governor,,D,CONNIE J. STOKES,163,10,71,81,1
+Dade,NORTH DADE,Lieutenant Governor,,D,CONNIE J. STOKES,175,4,113,58,0
+Dade,,Secretary Of State,,R,BRIAN P. KEMP (I),2562,79,1716,759,8
+Dade,SOUTH DADE,Secretary Of State,,R,BRIAN P. KEMP (I),228,6,155,67,0
+Dade,NEW SALEM,Secretary Of State,,R,BRIAN P. KEMP (I),340,6,269,65,0
+Dade,DAVIS,Secretary Of State,,R,BRIAN P. KEMP (I),439,14,314,110,1
+Dade,NEW HOME,Secretary Of State,,R,BRIAN P. KEMP (I),177,4,137,35,1
+Dade,WEST BROW,Secretary Of State,,R,BRIAN P. KEMP (I),345,16,255,73,1
+Dade,TRENTON,Secretary Of State,,R,BRIAN P. KEMP (I),633,15,332,284,2
+Dade,NORTH DADE,Secretary Of State,,R,BRIAN P. KEMP (I),400,18,254,125,3
+Dade,,Secretary Of State,,D,DOREEN CARTER,779,28,504,246,1
+Dade,SOUTH DADE,Secretary Of State,,D,DOREEN CARTER,85,2,57,26,0
+Dade,NEW SALEM,Secretary Of State,,D,DOREEN CARTER,112,0,86,26,0
+Dade,DAVIS,Secretary Of State,,D,DOREEN CARTER,134,5,92,37,0
+Dade,NEW HOME,Secretary Of State,,D,DOREEN CARTER,48,0,41,7,0
+Dade,WEST BROW,Secretary Of State,,D,DOREEN CARTER,71,6,51,14,0
+Dade,TRENTON,Secretary Of State,,D,DOREEN CARTER,164,11,72,80,1
+Dade,NORTH DADE,Secretary Of State,,D,DOREEN CARTER,165,4,105,56,0
+Dade,,Attorney General,,R,SAMUEL S. OLENS (I),2525,79,1700,738,8
+Dade,SOUTH DADE,Attorney General,,R,SAMUEL S. OLENS (I),222,6,153,63,0
+Dade,NEW SALEM,Attorney General,,R,SAMUEL S. OLENS (I),325,5,256,64,0
+Dade,DAVIS,Attorney General,,R,SAMUEL S. OLENS (I),437,14,315,107,1
+Dade,NEW HOME,Attorney General,,R,SAMUEL S. OLENS (I),178,4,140,33,1
+Dade,WEST BROW,Attorney General,,R,SAMUEL S. OLENS (I),345,17,256,71,1
+Dade,TRENTON,Attorney General,,R,SAMUEL S. OLENS (I),618,15,325,276,2
+Dade,NORTH DADE,Attorney General,,R,SAMUEL S. OLENS (I),400,18,255,124,3
+Dade,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",775,28,499,247,1
+Dade,SOUTH DADE,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",84,2,57,25,0
+Dade,NEW SALEM,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",117,1,91,25,0
+Dade,DAVIS,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",130,5,88,37,0
+Dade,NEW HOME,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",47,0,39,8,0
+Dade,WEST BROW,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",67,5,48,14,0
+Dade,TRENTON,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",163,12,68,82,1
+Dade,NORTH DADE,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",167,3,108,56,0
+Dade,,Commissioner Of Agriculture,,R,GARY W. BLACK (I),2578,82,1726,762,8
+Dade,SOUTH DADE,Commissioner Of Agriculture,,R,GARY W. BLACK (I),232,6,159,67,0
+Dade,NEW SALEM,Commissioner Of Agriculture,,R,GARY W. BLACK (I),339,7,265,67,0
+Dade,DAVIS,Commissioner Of Agriculture,,R,GARY W. BLACK (I),442,14,318,109,1
+Dade,NEW HOME,Commissioner Of Agriculture,,R,GARY W. BLACK (I),181,4,143,33,1
+Dade,WEST BROW,Commissioner Of Agriculture,,R,GARY W. BLACK (I),345,16,251,77,1
+Dade,TRENTON,Commissioner Of Agriculture,,R,GARY W. BLACK (I),633,15,332,284,2
+Dade,NORTH DADE,Commissioner Of Agriculture,,R,GARY W. BLACK (I),406,20,258,125,3
+Dade,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,743,27,481,234,1
+Dade,SOUTH DADE,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,85,2,59,24,0
+Dade,NEW SALEM,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,111,0,87,24,0
+Dade,DAVIS,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,130,5,89,36,0
+Dade,NEW HOME,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,44,0,37,7,0
+Dade,WEST BROW,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,66,6,49,11,0
+Dade,TRENTON,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,153,12,65,75,1
+Dade,NORTH DADE,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,154,2,95,57,0
+Dade,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),2419,75,1624,715,5
+Dade,SOUTH DADE,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),211,6,147,58,0
+Dade,NEW SALEM,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),315,5,248,62,0
+Dade,DAVIS,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),413,13,299,100,1
+Dade,NEW HOME,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),168,4,134,29,1
+Dade,WEST BROW,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),324,16,238,70,0
+Dade,TRENTON,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),601,14,314,273,0
+Dade,NORTH DADE,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),387,17,244,123,3
+Dade,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",731,26,464,240,1
+Dade,SOUTH DADE,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",80,2,51,27,0
+Dade,NEW SALEM,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",105,1,80,24,0
+Dade,DAVIS,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",124,5,86,33,0
+Dade,NEW HOME,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",46,0,38,8,0
+Dade,WEST BROW,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",61,5,44,12,0
+Dade,TRENTON,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",158,11,66,80,1
+Dade,NORTH DADE,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",157,2,99,56,0
+Dade,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",167,6,120,38,3
+Dade,SOUTH DADE,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",19,0,14,5,0
+Dade,NEW SALEM,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",25,0,22,3,0
+Dade,DAVIS,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",32,0,22,10,0
+Dade,NEW HOME,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",14,0,10,4,0
+Dade,WEST BROW,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",23,0,18,4,1
+Dade,TRENTON,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",31,2,20,7,2
+Dade,NORTH DADE,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",23,4,14,5,0
+Dade,,State School Superintendent,,R,RICHARD L. WOODS,2495,80,1678,729,8
+Dade,SOUTH DADE,State School Superintendent,,R,RICHARD L. WOODS,221,6,154,61,0
+Dade,NEW SALEM,State School Superintendent,,R,RICHARD L. WOODS,323,6,255,62,0
+Dade,DAVIS,State School Superintendent,,R,RICHARD L. WOODS,439,14,310,114,1
+Dade,NEW HOME,State School Superintendent,,R,RICHARD L. WOODS,176,4,137,34,1
+Dade,WEST BROW,State School Superintendent,,R,RICHARD L. WOODS,340,16,253,70,1
+Dade,TRENTON,State School Superintendent,,R,RICHARD L. WOODS,599,15,316,266,2
+Dade,NORTH DADE,State School Superintendent,,R,RICHARD L. WOODS,397,19,253,122,3
+Dade,,State School Superintendent,,D,VALARIE D. WILSON,828,28,530,269,1
+Dade,SOUTH DADE,State School Superintendent,,D,VALARIE D. WILSON,84,2,53,29,0
+Dade,NEW SALEM,State School Superintendent,,D,VALARIE D. WILSON,128,1,98,29,0
+Dade,DAVIS,State School Superintendent,,D,VALARIE D. WILSON,132,5,95,32,0
+Dade,NEW HOME,State School Superintendent,,D,VALARIE D. WILSON,50,0,43,7,0
+Dade,WEST BROW,State School Superintendent,,D,VALARIE D. WILSON,73,5,53,15,0
+Dade,TRENTON,State School Superintendent,,D,VALARIE D. WILSON,186,11,79,95,1
+Dade,NORTH DADE,State School Superintendent,,D,VALARIE D. WILSON,175,4,109,62,0
+Dade,,Commissioner Of Labor,,R,J. MARK BUTLER (I),2497,77,1674,738,8
+Dade,SOUTH DADE,Commissioner Of Labor,,R,J. MARK BUTLER (I),221,6,153,62,0
+Dade,NEW SALEM,Commissioner Of Labor,,R,J. MARK BUTLER (I),329,6,259,64,0
+Dade,DAVIS,Commissioner Of Labor,,R,J. MARK BUTLER (I),432,14,310,107,1
+Dade,NEW HOME,Commissioner Of Labor,,R,J. MARK BUTLER (I),176,4,139,32,1
+Dade,WEST BROW,Commissioner Of Labor,,R,J. MARK BUTLER (I),335,16,247,71,1
+Dade,TRENTON,Commissioner Of Labor,,R,J. MARK BUTLER (I),603,15,314,272,2
+Dade,NORTH DADE,Commissioner Of Labor,,R,J. MARK BUTLER (I),401,16,252,130,3
+Dade,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,781,27,508,245,1
+Dade,SOUTH DADE,Commissioner Of Labor,,D,ROBBIN K. SHIPP,82,2,53,27,0
+Dade,NEW SALEM,Commissioner Of Labor,,D,ROBBIN K. SHIPP,114,0,89,25,0
+Dade,DAVIS,Commissioner Of Labor,,D,ROBBIN K. SHIPP,134,5,91,38,0
+Dade,NEW HOME,Commissioner Of Labor,,D,ROBBIN K. SHIPP,50,0,41,9,0
+Dade,WEST BROW,Commissioner Of Labor,,D,ROBBIN K. SHIPP,75,5,55,15,0
+Dade,TRENTON,Commissioner Of Labor,,D,ROBBIN K. SHIPP,164,11,74,78,1
+Dade,NORTH DADE,Commissioner Of Labor,,D,ROBBIN K. SHIPP,162,4,105,53,0
+Dade,,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",2540,75,1692,767,6
+Dade,SOUTH DADE,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",231,6,157,68,0
+Dade,NEW SALEM,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",337,5,262,70,0
+Dade,DAVIS,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",436,13,315,107,1
+Dade,NEW HOME,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",178,4,140,33,1
+Dade,WEST BROW,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",325,12,241,71,1
+Dade,TRENTON,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",628,17,325,286,0
+Dade,NORTH DADE,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",405,18,252,132,3
+Dade,,Public Service Commission,1,L,JOHN H. MONDS,577,26,397,152,2
+Dade,SOUTH DADE,Public Service Commission,1,L,JOHN H. MONDS,54,2,37,15,0
+Dade,NEW SALEM,Public Service Commission,1,L,JOHN H. MONDS,87,1,72,14,0
+Dade,DAVIS,Public Service Commission,1,L,JOHN H. MONDS,106,5,78,23,0
+Dade,NEW HOME,Public Service Commission,1,L,JOHN H. MONDS,42,0,34,8,0
+Dade,WEST BROW,Public Service Commission,1,L,JOHN H. MONDS,67,7,48,12,0
+Dade,TRENTON,Public Service Commission,1,L,JOHN H. MONDS,107,7,53,45,2
+Dade,NORTH DADE,Public Service Commission,1,L,JOHN H. MONDS,114,4,75,35,0
+Dade,,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",2350,71,1571,702,6
+Dade,SOUTH DADE,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",210,6,143,61,0
+Dade,NEW SALEM,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",306,5,239,62,0
+Dade,DAVIS,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",402,12,288,101,1
+Dade,NEW HOME,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",163,4,131,27,1
+Dade,WEST BROW,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",316,14,235,66,1
+Dade,TRENTON,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",581,13,304,264,0
+Dade,NORTH DADE,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",372,17,231,121,3
+Dade,,Public Service Commission,4,D,DANIEL A. BLACKMAN,723,26,466,230,1
+Dade,SOUTH DADE,Public Service Commission,4,D,DANIEL A. BLACKMAN,81,2,55,24,0
+Dade,NEW SALEM,Public Service Commission,4,D,DANIEL A. BLACKMAN,103,0,80,23,0
+Dade,DAVIS,Public Service Commission,4,D,DANIEL A. BLACKMAN,121,5,84,32,0
+Dade,NEW HOME,Public Service Commission,4,D,DANIEL A. BLACKMAN,43,0,34,9,0
+Dade,WEST BROW,Public Service Commission,4,D,DANIEL A. BLACKMAN,66,7,44,15,0
+Dade,TRENTON,Public Service Commission,4,D,DANIEL A. BLACKMAN,160,11,70,78,1
+Dade,NORTH DADE,Public Service Commission,4,D,DANIEL A. BLACKMAN,149,1,99,49,0
+Dade,,Public Service Commission,4,L,ROBIN AARON GILMER,229,5,165,57,2
+Dade,SOUTH DADE,Public Service Commission,4,L,ROBIN AARON GILMER,22,0,15,7,0
+Dade,NEW SALEM,Public Service Commission,4,L,ROBIN AARON GILMER,35,1,28,6,0
+Dade,DAVIS,Public Service Commission,4,L,ROBIN AARON GILMER,47,1,35,11,0
+Dade,NEW HOME,Public Service Commission,4,L,ROBIN AARON GILMER,22,0,17,5,0
+Dade,WEST BROW,Public Service Commission,4,L,ROBIN AARON GILMER,27,0,23,4,0
+Dade,TRENTON,Public Service Commission,4,L,ROBIN AARON GILMER,39,1,22,14,2
+Dade,NORTH DADE,Public Service Commission,4,L,ROBIN AARON GILMER,37,2,25,10,0
+Dade,,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",2809,84,1892,825,8
+Dade,SOUTH DADE,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",264,7,179,78,0
+Dade,NEW SALEM,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",370,7,291,72,0
+Dade,DAVIS,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",476,13,351,111,1
+Dade,NEW HOME,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",193,4,153,35,1
+Dade,WEST BROW,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",364,18,270,75,1
+Dade,TRENTON,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",679,17,350,310,2
+Dade,NORTH DADE,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",463,18,298,144,3
+Dade,,State Senator,53,R,JEFF E. MULLIS (I),2768,80,1877,803,8
+Dade,SOUTH DADE,State Senator,53,R,JEFF E. MULLIS (I),261,7,179,75,0
+Dade,NEW SALEM,State Senator,53,R,JEFF E. MULLIS (I),365,5,294,66,0
+Dade,DAVIS,State Senator,53,R,JEFF E. MULLIS (I),475,13,350,111,1
+Dade,NEW HOME,State Senator,53,R,JEFF E. MULLIS (I),188,4,150,33,1
+Dade,WEST BROW,State Senator,53,R,JEFF E. MULLIS (I),362,19,266,76,1
+Dade,TRENTON,State Senator,53,R,JEFF E. MULLIS (I),675,18,348,307,2
+Dade,NORTH DADE,State Senator,53,R,JEFF E. MULLIS (I),442,14,290,135,3
+Dade,,State Representative,1,R,JOHN V. DEFFENBAUGH (I),2303,74,1548,674,7
+Dade,SOUTH DADE,State Representative,1,R,JOHN V. DEFFENBAUGH (I),195,4,130,61,0
+Dade,NEW SALEM,State Representative,1,R,JOHN V. DEFFENBAUGH (I),293,5,233,55,0
+Dade,DAVIS,State Representative,1,R,JOHN V. DEFFENBAUGH (I),399,12,284,102,1
+Dade,NEW HOME,State Representative,1,R,JOHN V. DEFFENBAUGH (I),164,4,129,30,1
+Dade,WEST BROW,State Representative,1,R,JOHN V. DEFFENBAUGH (I),329,15,246,67,1
+Dade,TRENTON,State Representative,1,R,JOHN V. DEFFENBAUGH (I),546,17,283,244,2
+Dade,NORTH DADE,State Representative,1,R,JOHN V. DEFFENBAUGH (I),377,17,243,115,2
+Dade,,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",1070,33,681,354,2
+Dade,SOUTH DADE,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",124,4,83,37,0
+Dade,NEW SALEM,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",159,2,122,35,0
+Dade,DAVIS,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",174,5,120,49,0
+Dade,NEW HOME,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",58,0,47,11,0
+Dade,WEST BROW,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",91,7,62,22,0
+Dade,TRENTON,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",261,11,118,131,1
+Dade,NORTH DADE,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",203,4,129,69,1
+Dade,,CC,D1,R,MITCHELL SMITH (I),2821,82,1888,843,8
+Dade,SOUTH DADE,CC,D1,R,MITCHELL SMITH (I),279,7,185,87,0
+Dade,NEW SALEM,CC,D1,R,MITCHELL SMITH (I),360,6,283,71,0
+Dade,DAVIS,CC,D1,R,MITCHELL SMITH (I),474,12,348,113,1
+Dade,NEW HOME,CC,D1,R,MITCHELL SMITH (I),189,4,148,36,1
+Dade,WEST BROW,CC,D1,R,MITCHELL SMITH (I),370,19,273,77,1
+Dade,TRENTON,CC,D1,R,MITCHELL SMITH (I),681,16,357,306,2
+Dade,NORTH DADE,CC,D1,R,MITCHELL SMITH (I),468,18,294,153,3
+Dade,,CC,D2,R,SCOTTIE PITTMAN (I),2715,74,1838,795,8
+Dade,SOUTH DADE,CC,D2,R,SCOTTIE PITTMAN (I),248,7,169,72,0
+Dade,NEW SALEM,CC,D2,R,SCOTTIE PITTMAN (I),362,5,286,71,0
+Dade,DAVIS,CC,D2,R,SCOTTIE PITTMAN (I),461,12,344,104,1
+Dade,NEW HOME,CC,D2,R,SCOTTIE PITTMAN (I),184,4,143,36,1
+Dade,WEST BROW,CC,D2,R,SCOTTIE PITTMAN (I),360,19,262,78,1
+Dade,TRENTON,CC,D2,R,SCOTTIE PITTMAN (I),660,14,348,296,2
+Dade,NORTH DADE,CC,D2,R,SCOTTIE PITTMAN (I),440,13,286,138,3
+Dade,,BOE,D1,R,CINDY SHAW (I),2472,82,1658,724,8
+Dade,SOUTH DADE,BOE,D1,R,CINDY SHAW (I),237,7,158,72,0
+Dade,NEW SALEM,BOE,D1,R,CINDY SHAW (I),303,4,245,54,0
+Dade,DAVIS,BOE,D1,R,CINDY SHAW (I),428,13,312,102,1
+Dade,NEW HOME,BOE,D1,R,CINDY SHAW (I),175,4,141,29,1
+Dade,WEST BROW,BOE,D1,R,CINDY SHAW (I),331,15,244,71,1
+Dade,TRENTON,BOE,D1,R,CINDY SHAW (I),617,21,318,276,2
+Dade,NORTH DADE,BOE,D1,R,CINDY SHAW (I),381,18,240,120,3
+Dade,,BOE,D1,D,JANE DIXON,877,29,557,290,1
+Dade,SOUTH DADE,BOE,D1,D,JANE DIXON,77,1,53,23,0
+Dade,NEW SALEM,BOE,D1,D,JANE DIXON,143,3,103,37,0
+Dade,DAVIS,BOE,D1,D,JANE DIXON,137,5,87,45,0
+Dade,NEW HOME,BOE,D1,D,JANE DIXON,49,0,37,12,0
+Dade,WEST BROW,BOE,D1,D,JANE DIXON,83,7,59,17,0
+Dade,TRENTON,BOE,D1,D,JANE DIXON,192,8,91,92,1
+Dade,NORTH DADE,BOE,D1,D,JANE DIXON,196,5,127,64,0
+Dade,,BOE,D2,R,J. HARTLINE,2736,76,1833,820,7
+Dade,SOUTH DADE,BOE,D2,R,J. HARTLINE,262,7,176,79,0
+Dade,NEW SALEM,BOE,D2,R,J. HARTLINE,355,5,277,73,0
+Dade,DAVIS,BOE,D2,R,J. HARTLINE,461,12,328,120,1
+Dade,NEW HOME,BOE,D2,R,J. HARTLINE,189,4,148,36,1
+Dade,WEST BROW,BOE,D2,R,J. HARTLINE,358,17,265,75,1
+Dade,TRENTON,BOE,D2,R,J. HARTLINE,659,14,350,294,1
+Dade,NORTH DADE,BOE,D2,R,J. HARTLINE,452,17,289,143,3
+Dade,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,2646,92,1785,762,7
+Dade,SOUTH DADE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,242,6,174,62,0
+Dade,NEW SALEM,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,356,7,281,68,0
+Dade,DAVIS,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,447,15,327,104,1
+Dade,NEW HOME,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,182,4,142,35,1
+Dade,WEST BROW,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,324,16,239,68,1
+Dade,TRENTON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,653,24,334,293,2
+Dade,NORTH DADE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,442,20,288,132,2
+Dade,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,703,19,441,241,2
+Dade,SOUTH DADE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,74,2,41,31,0
+Dade,NEW SALEM,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,93,0,70,23,0
+Dade,DAVIS,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,116,3,76,37,0
+Dade,NEW HOME,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,44,0,39,5,0
+Dade,WEST BROW,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,87,6,63,18,0
+Dade,TRENTON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,157,5,70,81,1
+Dade,NORTH DADE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,132,3,82,46,1
+Dade,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,2085,62,1402,617,4
+Dade,SOUTH DADE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,188,7,125,56,0
+Dade,NEW SALEM,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,314,4,241,69,0
+Dade,DAVIS,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,332,7,244,80,1
+Dade,NEW HOME,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,128,3,103,21,1
+Dade,WEST BROW,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,255,14,184,57,0
+Dade,TRENTON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,502,15,269,218,0
+Dade,NORTH DADE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,366,12,236,116,2
+Dade,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,1192,43,787,357,5
+Dade,SOUTH DADE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,117,1,82,34,0
+Dade,NEW SALEM,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,126,3,99,24,0
+Dade,DAVIS,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,223,10,159,54,0
+Dade,NEW HOME,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,94,1,74,19,0
+Dade,WEST BROW,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,147,8,112,26,1
+Dade,TRENTON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,285,11,130,141,3
+Dade,NORTH DADE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,200,9,131,59,1
+Dade,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,2263,70,1531,656,6
+Dade,SOUTH DADE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,213,6,148,59,0
+Dade,NEW SALEM,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,297,7,232,58,0
+Dade,DAVIS,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,388,12,283,92,1
+Dade,NEW HOME,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,149,3,124,22,0
+Dade,WEST BROW,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,273,10,198,64,1
+Dade,TRENTON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,559,21,290,245,3
+Dade,NORTH DADE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,384,11,256,116,1
+Dade,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,1010,38,650,319,3
+Dade,SOUTH DADE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,93,2,60,31,0
+Dade,NEW SALEM,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,136,0,104,32,0
+Dade,DAVIS,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,172,7,112,53,0
+Dade,NEW HOME,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,76,1,56,18,1
+Dade,WEST BROW,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,126,12,94,20,0
+Dade,TRENTON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,228,5,113,110,0
+Dade,NORTH DADE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,179,11,111,55,2
+Dade,,CC,D3 SPECIAL,R,BEN BRANDON,755,26,479,247,3
+Dade,SOUTH DADE,CC,D3 SPECIAL,R,BEN BRANDON,89,1,66,22,0
+Dade,NEW SALEM,CC,D3 SPECIAL,R,BEN BRANDON,82,0,61,21,0
+Dade,DAVIS,CC,D3 SPECIAL,R,BEN BRANDON,134,4,92,38,0
+Dade,NEW HOME,CC,D3 SPECIAL,R,BEN BRANDON,58,0,44,14,0
+Dade,WEST BROW,CC,D3 SPECIAL,R,BEN BRANDON,64,5,44,15,0
+Dade,TRENTON,CC,D3 SPECIAL,R,BEN BRANDON,173,8,76,87,2
+Dade,NORTH DADE,CC,D3 SPECIAL,R,BEN BRANDON,155,8,96,50,1
+Dade,,CC,D3 SPECIAL,R,RICK BREEDEN (I),1118,46,796,272,4
+Dade,SOUTH DADE,CC,D3 SPECIAL,R,RICK BREEDEN (I),118,5,84,29,0
+Dade,NEW SALEM,CC,D3 SPECIAL,R,RICK BREEDEN (I),161,4,130,27,0
+Dade,DAVIS,CC,D3 SPECIAL,R,RICK BREEDEN (I),173,6,125,41,1
+Dade,NEW HOME,CC,D3 SPECIAL,R,RICK BREEDEN (I),64,2,54,7,1
+Dade,WEST BROW,CC,D3 SPECIAL,R,RICK BREEDEN (I),173,11,136,26,0
+Dade,TRENTON,CC,D3 SPECIAL,R,RICK BREEDEN (I),238,7,134,97,0
+Dade,NORTH DADE,CC,D3 SPECIAL,R,RICK BREEDEN (I),191,11,133,45,2
+Dade,,CC,D3 SPECIAL,R,ROBERT GOFF,1423,36,904,481,2
+Dade,SOUTH DADE,CC,D3 SPECIAL,R,ROBERT GOFF,120,2,71,47,0
+Dade,NEW SALEM,CC,D3 SPECIAL,R,ROBERT GOFF,191,2,149,40,0
+Dade,DAVIS,CC,D3 SPECIAL,R,ROBERT GOFF,258,7,185,66,0
+Dade,NEW HOME,CC,D3 SPECIAL,R,ROBERT GOFF,98,2,76,20,0
+Dade,WEST BROW,CC,D3 SPECIAL,R,ROBERT GOFF,137,4,91,41,1
+Dade,TRENTON,CC,D3 SPECIAL,R,ROBERT GOFF,413,14,209,189,1
+Dade,NORTH DADE,CC,D3 SPECIAL,R,ROBERT GOFF,206,5,123,78,0

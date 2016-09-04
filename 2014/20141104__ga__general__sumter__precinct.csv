@@ -1,0 +1,470 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Sumter,,United States Senator,,R,DAVID A. PERDUE,3674,159,2204,1311,0
+Sumter,C1-27,United States Senator,,R,DAVID A. PERDUE,277,18,142,117,0
+Sumter,C2-27,United States Senator,,R,DAVID A. PERDUE,724,54,434,236,0
+Sumter,C3-27,United States Senator,,R,DAVID A. PERDUE,180,10,79,91,0
+Sumter,E-27,United States Senator,,R,DAVID A. PERDUE,522,18,246,258,0
+Sumter,N-26,United States Senator,,R,DAVID A. PERDUE,149,3,122,24,0
+Sumter,O-26,United States Senator,,R,DAVID A. PERDUE,224,6,161,57,0
+Sumter,W-27,United States Senator,,R,DAVID A. PERDUE,553,17,280,256,0
+Sumter,15,United States Senator,,R,DAVID A. PERDUE,457,13,323,121,0
+Sumter,17,United States Senator,,R,DAVID A. PERDUE,156,10,108,38,0
+Sumter,28,United States Senator,,R,DAVID A. PERDUE,293,8,194,91,0
+Sumter,29,United States Senator,,R,DAVID A. PERDUE,139,2,115,22,0
+Sumter,,United States Senator,,D,M. MICHELLE NUNN,4253,358,1951,1939,5
+Sumter,C1-27,United States Senator,,D,M. MICHELLE NUNN,852,103,343,405,1
+Sumter,C2-27,United States Senator,,D,M. MICHELLE NUNN,561,34,257,270,0
+Sumter,C3-27,United States Senator,,D,M. MICHELLE NUNN,1006,106,411,489,0
+Sumter,E-27,United States Senator,,D,M. MICHELLE NUNN,397,8,172,217,0
+Sumter,N-26,United States Senator,,D,M. MICHELLE NUNN,31,2,17,12,0
+Sumter,O-26,United States Senator,,D,M. MICHELLE NUNN,270,23,193,54,0
+Sumter,W-27,United States Senator,,D,M. MICHELLE NUNN,394,31,146,217,0
+Sumter,15,United States Senator,,D,M. MICHELLE NUNN,356,33,216,107,0
+Sumter,17,United States Senator,,D,M. MICHELLE NUNN,156,9,89,54,4
+Sumter,28,United States Senator,,D,M. MICHELLE NUNN,174,8,66,100,0
+Sumter,29,United States Senator,,D,M. MICHELLE NUNN,56,1,41,14,0
+Sumter,,United States Senator,,L,AMANDA C. SWAFFORD,87,4,50,33,0
+Sumter,C1-27,United States Senator,,L,AMANDA C. SWAFFORD,18,1,11,6,0
+Sumter,C2-27,United States Senator,,L,AMANDA C. SWAFFORD,14,0,10,4,0
+Sumter,C3-27,United States Senator,,L,AMANDA C. SWAFFORD,10,1,5,4,0
+Sumter,E-27,United States Senator,,L,AMANDA C. SWAFFORD,4,0,0,4,0
+Sumter,N-26,United States Senator,,L,AMANDA C. SWAFFORD,5,0,5,0,0
+Sumter,O-26,United States Senator,,L,AMANDA C. SWAFFORD,6,0,5,1,0
+Sumter,W-27,United States Senator,,L,AMANDA C. SWAFFORD,8,2,3,3,0
+Sumter,15,United States Senator,,L,AMANDA C. SWAFFORD,8,0,7,1,0
+Sumter,17,United States Senator,,L,AMANDA C. SWAFFORD,7,0,2,5,0
+Sumter,28,United States Senator,,L,AMANDA C. SWAFFORD,6,0,1,5,0
+Sumter,29,United States Senator,,L,AMANDA C. SWAFFORD,1,0,1,0,0
+Sumter,,Governor,,R,J. NATHAN DEAL (I),3572,166,2112,1293,1
+Sumter,C1-27,Governor,,R,J. NATHAN DEAL (I),278,21,138,119,0
+Sumter,C2-27,Governor,,R,J. NATHAN DEAL (I),698,56,406,236,0
+Sumter,C3-27,Governor,,R,J. NATHAN DEAL (I),182,10,76,96,0
+Sumter,E-27,Governor,,R,J. NATHAN DEAL (I),502,18,238,246,0
+Sumter,N-26,Governor,,R,J. NATHAN DEAL (I),143,3,118,22,0
+Sumter,O-26,Governor,,R,J. NATHAN DEAL (I),199,6,140,53,0
+Sumter,W-27,Governor,,R,J. NATHAN DEAL (I),540,20,273,247,0
+Sumter,15,Governor,,R,J. NATHAN DEAL (I),458,13,326,119,0
+Sumter,17,Governor,,R,J. NATHAN DEAL (I),153,9,101,42,1
+Sumter,28,Governor,,R,J. NATHAN DEAL (I),286,8,187,91,0
+Sumter,29,Governor,,R,J. NATHAN DEAL (I),133,2,109,22,0
+Sumter,,Governor,,D,JASON J. CARTER,4344,352,2030,1958,4
+Sumter,C1-27,Governor,,D,JASON J. CARTER,843,101,342,399,1
+Sumter,C2-27,Governor,,D,JASON J. CARTER,585,31,283,271,0
+Sumter,C3-27,Governor,,D,JASON J. CARTER,1001,106,409,486,0
+Sumter,E-27,Governor,,D,JASON J. CARTER,413,8,178,227,0
+Sumter,N-26,Governor,,D,JASON J. CARTER,37,2,22,13,0
+Sumter,O-26,Governor,,D,JASON J. CARTER,296,23,214,59,0
+Sumter,W-27,Governor,,D,JASON J. CARTER,414,29,157,228,0
+Sumter,15,Governor,,D,JASON J. CARTER,359,33,218,108,0
+Sumter,17,Governor,,D,JASON J. CARTER,161,10,95,53,3
+Sumter,28,Governor,,D,JASON J. CARTER,178,8,69,101,0
+Sumter,29,Governor,,D,JASON J. CARTER,57,1,43,13,0
+Sumter,,Governor,,L,ANDREW T. HUNT,82,4,49,29,0
+Sumter,C1-27,Governor,,L,ANDREW T. HUNT,18,0,12,6,0
+Sumter,C2-27,Governor,,L,ANDREW T. HUNT,10,2,6,2,0
+Sumter,C3-27,Governor,,L,ANDREW T. HUNT,12,1,8,3,0
+Sumter,E-27,Governor,,L,ANDREW T. HUNT,9,0,3,6,0
+Sumter,N-26,Governor,,L,ANDREW T. HUNT,5,0,4,1,0
+Sumter,O-26,Governor,,L,ANDREW T. HUNT,5,0,3,2,0
+Sumter,W-27,Governor,,L,ANDREW T. HUNT,6,1,1,4,0
+Sumter,15,Governor,,L,ANDREW T. HUNT,6,0,5,1,0
+Sumter,17,Governor,,L,ANDREW T. HUNT,3,0,2,1,0
+Sumter,28,Governor,,L,ANDREW T. HUNT,5,0,2,3,0
+Sumter,29,Governor,,L,ANDREW T. HUNT,3,0,3,0,0
+Sumter,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",3865,177,2283,1404,1
+Sumter,C1-27,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",300,23,151,126,0
+Sumter,C2-27,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",779,59,459,261,0
+Sumter,C3-27,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",209,10,85,114,0
+Sumter,E-27,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",541,20,256,265,0
+Sumter,N-26,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",153,2,126,25,0
+Sumter,O-26,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",229,7,164,58,0
+Sumter,W-27,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",571,21,289,261,0
+Sumter,15,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",479,15,334,130,0
+Sumter,17,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",162,10,109,42,1
+Sumter,28,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",296,8,192,96,0
+Sumter,29,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",146,2,118,26,0
+Sumter,,Lieutenant Governor,,D,CONNIE J. STOKES,4047,341,1871,1831,4
+Sumter,C1-27,Lieutenant Governor,,D,CONNIE J. STOKES,837,96,343,397,1
+Sumter,C2-27,Lieutenant Governor,,D,CONNIE J. STOKES,498,30,229,239,0
+Sumter,C3-27,Lieutenant Governor,,D,CONNIE J. STOKES,969,107,407,455,0
+Sumter,E-27,Lieutenant Governor,,D,CONNIE J. STOKES,382,5,161,216,0
+Sumter,N-26,Lieutenant Governor,,D,CONNIE J. STOKES,30,3,16,11,0
+Sumter,O-26,Lieutenant Governor,,D,CONNIE J. STOKES,265,22,188,55,0
+Sumter,W-27,Lieutenant Governor,,D,CONNIE J. STOKES,373,29,138,206,0
+Sumter,15,Lieutenant Governor,,D,CONNIE J. STOKES,324,31,202,91,0
+Sumter,17,Lieutenant Governor,,D,CONNIE J. STOKES,154,9,89,53,3
+Sumter,28,Lieutenant Governor,,D,CONNIE J. STOKES,167,8,61,98,0
+Sumter,29,Lieutenant Governor,,D,CONNIE J. STOKES,48,1,37,10,0
+Sumter,,Secretary Of State,,R,BRIAN P. KEMP (I),3866,172,2276,1417,1
+Sumter,C1-27,Secretary Of State,,R,BRIAN P. KEMP (I),297,22,145,130,0
+Sumter,C2-27,Secretary Of State,,R,BRIAN P. KEMP (I),788,57,459,272,0
+Sumter,C3-27,Secretary Of State,,R,BRIAN P. KEMP (I),208,10,87,111,0
+Sumter,E-27,Secretary Of State,,R,BRIAN P. KEMP (I),535,19,253,263,0
+Sumter,N-26,Secretary Of State,,R,BRIAN P. KEMP (I),153,2,126,25,0
+Sumter,O-26,Secretary Of State,,R,BRIAN P. KEMP (I),233,7,165,61,0
+Sumter,W-27,Secretary Of State,,R,BRIAN P. KEMP (I),571,19,288,264,0
+Sumter,15,Secretary Of State,,R,BRIAN P. KEMP (I),473,16,331,126,0
+Sumter,17,Secretary Of State,,R,BRIAN P. KEMP (I),161,10,109,41,1
+Sumter,28,Secretary Of State,,R,BRIAN P. KEMP (I),302,8,195,99,0
+Sumter,29,Secretary Of State,,R,BRIAN P. KEMP (I),145,2,118,25,0
+Sumter,,Secretary Of State,,D,DOREEN CARTER,4056,348,1865,1839,4
+Sumter,C1-27,Secretary Of State,,D,DOREEN CARTER,840,98,344,397,1
+Sumter,C2-27,Secretary Of State,,D,DOREEN CARTER,486,32,223,231,0
+Sumter,C3-27,Secretary Of State,,D,DOREEN CARTER,972,108,400,464,0
+Sumter,E-27,Secretary Of State,,D,DOREEN CARTER,384,7,165,212,0
+Sumter,N-26,Secretary Of State,,D,DOREEN CARTER,31,3,17,11,0
+Sumter,O-26,Secretary Of State,,D,DOREEN CARTER,264,21,188,55,0
+Sumter,W-27,Secretary Of State,,D,DOREEN CARTER,382,31,140,211,0
+Sumter,15,Secretary Of State,,D,DOREEN CARTER,330,30,203,97,0
+Sumter,17,Secretary Of State,,D,DOREEN CARTER,154,9,89,53,3
+Sumter,28,Secretary Of State,,D,DOREEN CARTER,166,8,60,98,0
+Sumter,29,Secretary Of State,,D,DOREEN CARTER,47,1,36,10,0
+Sumter,,Attorney General,,R,SAMUEL S. OLENS (I),3832,169,2280,1382,1
+Sumter,C1-27,Attorney General,,R,SAMUEL S. OLENS (I),293,24,142,127,0
+Sumter,C2-27,Attorney General,,R,SAMUEL S. OLENS (I),773,55,460,258,0
+Sumter,C3-27,Attorney General,,R,SAMUEL S. OLENS (I),217,9,95,113,0
+Sumter,E-27,Attorney General,,R,SAMUEL S. OLENS (I),527,21,248,258,0
+Sumter,N-26,Attorney General,,R,SAMUEL S. OLENS (I),154,3,127,24,0
+Sumter,O-26,Attorney General,,R,SAMUEL S. OLENS (I),226,5,162,59,0
+Sumter,W-27,Attorney General,,R,SAMUEL S. OLENS (I),565,19,291,255,0
+Sumter,15,Attorney General,,R,SAMUEL S. OLENS (I),470,15,328,127,0
+Sumter,17,Attorney General,,R,SAMUEL S. OLENS (I),158,8,107,42,1
+Sumter,28,Attorney General,,R,SAMUEL S. OLENS (I),303,8,201,94,0
+Sumter,29,Attorney General,,R,SAMUEL S. OLENS (I),146,2,119,25,0
+Sumter,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",4073,350,1855,1864,4
+Sumter,C1-27,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",843,97,346,399,1
+Sumter,C2-27,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",506,34,227,245,0
+Sumter,C3-27,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",957,109,391,457,0
+Sumter,E-27,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",391,5,163,223,0
+Sumter,N-26,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",30,2,16,12,0
+Sumter,O-26,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",268,24,189,55,0
+Sumter,W-27,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",384,31,138,215,0
+Sumter,15,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",334,31,207,96,0
+Sumter,17,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",153,9,88,53,3
+Sumter,28,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",161,7,55,99,0
+Sumter,29,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",46,1,35,10,0
+Sumter,,Commissioner Of Agriculture,,R,GARY W. BLACK (I),3866,178,2275,1412,1
+Sumter,C1-27,Commissioner Of Agriculture,,R,GARY W. BLACK (I),294,23,141,130,0
+Sumter,C2-27,Commissioner Of Agriculture,,R,GARY W. BLACK (I),777,57,452,268,0
+Sumter,C3-27,Commissioner Of Agriculture,,R,GARY W. BLACK (I),226,13,91,122,0
+Sumter,E-27,Commissioner Of Agriculture,,R,GARY W. BLACK (I),539,20,258,261,0
+Sumter,N-26,Commissioner Of Agriculture,,R,GARY W. BLACK (I),153,2,126,25,0
+Sumter,O-26,Commissioner Of Agriculture,,R,GARY W. BLACK (I),233,7,169,57,0
+Sumter,W-27,Commissioner Of Agriculture,,R,GARY W. BLACK (I),565,21,288,256,0
+Sumter,15,Commissioner Of Agriculture,,R,GARY W. BLACK (I),468,15,328,125,0
+Sumter,17,Commissioner Of Agriculture,,R,GARY W. BLACK (I),161,10,108,42,1
+Sumter,28,Commissioner Of Agriculture,,R,GARY W. BLACK (I),305,8,196,101,0
+Sumter,29,Commissioner Of Agriculture,,R,GARY W. BLACK (I),145,2,118,25,0
+Sumter,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,4002,340,1834,1824,4
+Sumter,C1-27,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,832,97,341,393,1
+Sumter,C2-27,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,487,31,225,231,0
+Sumter,C3-27,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,943,105,390,448,0
+Sumter,E-27,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,378,6,156,216,0
+Sumter,N-26,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,31,3,17,11,0
+Sumter,O-26,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,259,22,181,56,0
+Sumter,W-27,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,385,28,141,216,0
+Sumter,15,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,326,31,199,96,0
+Sumter,17,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,151,9,86,53,3
+Sumter,28,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,162,7,61,94,0
+Sumter,29,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,48,1,37,10,0
+Sumter,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),3756,165,2223,1367,1
+Sumter,C1-27,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),280,21,140,119,0
+Sumter,C2-27,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),758,57,446,255,0
+Sumter,C3-27,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),210,10,85,115,0
+Sumter,E-27,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),521,20,247,254,0
+Sumter,N-26,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),153,2,126,25,0
+Sumter,O-26,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),228,5,165,58,0
+Sumter,W-27,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),545,16,280,249,0
+Sumter,15,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),464,15,320,129,0
+Sumter,17,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),157,10,105,41,1
+Sumter,28,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),300,7,195,98,0
+Sumter,29,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),140,2,114,24,0
+Sumter,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",4017,342,1834,1837,4
+Sumter,C1-27,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",834,96,337,400,1
+Sumter,C2-27,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",489,31,227,231,0
+Sumter,C3-27,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",954,106,392,456,0
+Sumter,E-27,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",382,6,158,218,0
+Sumter,N-26,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",30,3,16,11,0
+Sumter,O-26,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",262,23,183,56,0
+Sumter,W-27,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",385,30,138,217,0
+Sumter,15,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",326,30,203,93,0
+Sumter,17,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",147,9,85,50,3
+Sumter,28,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",159,7,58,94,0
+Sumter,29,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",49,1,37,11,0
+Sumter,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",109,4,61,44,0
+Sumter,C1-27,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",19,1,11,7,0
+Sumter,C2-27,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",24,0,12,12,0
+Sumter,C3-27,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",17,0,9,8,0
+Sumter,E-27,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",13,0,6,7,0
+Sumter,N-26,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",0,0,0,0,0
+Sumter,O-26,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",4,1,3,0,0
+Sumter,W-27,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",15,2,7,6,0
+Sumter,15,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",6,0,5,1,0
+Sumter,17,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",8,0,5,3,0
+Sumter,28,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",1,0,1,0,0
+Sumter,29,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",2,0,2,0,0
+Sumter,,State School Superintendent,,R,RICHARD L. WOODS,3722,168,2207,1346,1
+Sumter,C1-27,State School Superintendent,,R,RICHARD L. WOODS,279,22,142,115,0
+Sumter,C2-27,State School Superintendent,,R,RICHARD L. WOODS,753,55,443,255,0
+Sumter,C3-27,State School Superintendent,,R,RICHARD L. WOODS,199,12,86,101,0
+Sumter,E-27,State School Superintendent,,R,RICHARD L. WOODS,527,20,250,257,0
+Sumter,N-26,State School Superintendent,,R,RICHARD L. WOODS,154,2,127,25,0
+Sumter,O-26,State School Superintendent,,R,RICHARD L. WOODS,219,6,154,59,0
+Sumter,W-27,State School Superintendent,,R,RICHARD L. WOODS,552,18,284,250,0
+Sumter,15,State School Superintendent,,R,RICHARD L. WOODS,461,14,321,126,0
+Sumter,17,State School Superintendent,,R,RICHARD L. WOODS,149,9,102,37,1
+Sumter,28,State School Superintendent,,R,RICHARD L. WOODS,293,8,188,97,0
+Sumter,29,State School Superintendent,,R,RICHARD L. WOODS,136,2,110,24,0
+Sumter,,State School Superintendent,,D,VALARIE D. WILSON,4230,352,1952,1922,4
+Sumter,C1-27,State School Superintendent,,D,VALARIE D. WILSON,870,100,354,415,1
+Sumter,C2-27,State School Superintendent,,D,VALARIE D. WILSON,526,34,243,249,0
+Sumter,C3-27,State School Superintendent,,D,VALARIE D. WILSON,988,105,404,479,0
+Sumter,E-27,State School Superintendent,,D,VALARIE D. WILSON,397,6,168,223,0
+Sumter,N-26,State School Superintendent,,D,VALARIE D. WILSON,30,3,16,11,0
+Sumter,O-26,State School Superintendent,,D,VALARIE D. WILSON,278,23,199,56,0
+Sumter,W-27,State School Superintendent,,D,VALARIE D. WILSON,403,31,148,224,0
+Sumter,15,State School Superintendent,,D,VALARIE D. WILSON,343,32,213,98,0
+Sumter,17,State School Superintendent,,D,VALARIE D. WILSON,161,9,93,56,3
+Sumter,28,State School Superintendent,,D,VALARIE D. WILSON,177,8,68,101,0
+Sumter,29,State School Superintendent,,D,VALARIE D. WILSON,57,1,46,10,0
+Sumter,,Commissioner Of Labor,,R,J. MARK BUTLER (I),3832,173,2276,1382,1
+Sumter,C1-27,Commissioner Of Labor,,R,J. MARK BUTLER (I),295,23,145,127,0
+Sumter,C2-27,Commissioner Of Labor,,R,J. MARK BUTLER (I),779,56,458,265,0
+Sumter,C3-27,Commissioner Of Labor,,R,J. MARK BUTLER (I),214,11,94,109,0
+Sumter,E-27,Commissioner Of Labor,,R,J. MARK BUTLER (I),531,20,253,258,0
+Sumter,N-26,Commissioner Of Labor,,R,J. MARK BUTLER (I),155,3,127,25,0
+Sumter,O-26,Commissioner Of Labor,,R,J. MARK BUTLER (I),228,6,163,59,0
+Sumter,W-27,Commissioner Of Labor,,R,J. MARK BUTLER (I),561,19,289,253,0
+Sumter,15,Commissioner Of Labor,,R,J. MARK BUTLER (I),473,16,331,126,0
+Sumter,17,Commissioner Of Labor,,R,J. MARK BUTLER (I),157,9,107,40,1
+Sumter,28,Commissioner Of Labor,,R,J. MARK BUTLER (I),298,8,194,96,0
+Sumter,29,Commissioner Of Labor,,R,J. MARK BUTLER (I),141,2,115,24,0
+Sumter,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,4076,343,1861,1868,4
+Sumter,C1-27,Commissioner Of Labor,,D,ROBBIN K. SHIPP,836,97,345,393,1
+Sumter,C2-27,Commissioner Of Labor,,D,ROBBIN K. SHIPP,489,33,222,234,0
+Sumter,C3-27,Commissioner Of Labor,,D,ROBBIN K. SHIPP,973,106,392,475,0
+Sumter,E-27,Commissioner Of Labor,,D,ROBBIN K. SHIPP,390,6,165,219,0
+Sumter,N-26,Commissioner Of Labor,,D,ROBBIN K. SHIPP,28,2,15,11,0
+Sumter,O-26,Commissioner Of Labor,,D,ROBBIN K. SHIPP,266,23,189,54,0
+Sumter,W-27,Commissioner Of Labor,,D,ROBBIN K. SHIPP,389,29,140,220,0
+Sumter,15,Commissioner Of Labor,,D,ROBBIN K. SHIPP,328,30,202,96,0
+Sumter,17,Commissioner Of Labor,,D,ROBBIN K. SHIPP,159,9,91,56,3
+Sumter,28,Commissioner Of Labor,,D,ROBBIN K. SHIPP,167,7,60,100,0
+Sumter,29,Commissioner Of Labor,,D,ROBBIN K. SHIPP,51,1,40,10,0
+Sumter,,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",4298,215,2467,1613,3
+Sumter,C1-27,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",379,29,190,160,0
+Sumter,C2-27,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",854,65,479,310,0
+Sumter,C3-27,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",300,23,116,161,0
+Sumter,E-27,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",578,20,268,290,0
+Sumter,N-26,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",160,4,129,27,0
+Sumter,O-26,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",265,11,188,66,0
+Sumter,W-27,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",619,23,311,285,0
+Sumter,15,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",507,17,355,135,0
+Sumter,17,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",173,13,108,49,3
+Sumter,28,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",314,8,200,106,0
+Sumter,29,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",149,2,123,24,0
+Sumter,,Public Service Commission,1,L,JOHN H. MONDS,2328,184,1105,1037,2
+Sumter,C1-27,Public Service Commission,1,L,JOHN H. MONDS,501,59,211,230,1
+Sumter,C2-27,Public Service Commission,1,L,JOHN H. MONDS,281,15,138,128,0
+Sumter,C3-27,Public Service Commission,1,L,JOHN H. MONDS,555,54,251,250,0
+Sumter,E-27,Public Service Commission,1,L,JOHN H. MONDS,220,5,97,118,0
+Sumter,N-26,Public Service Commission,1,L,JOHN H. MONDS,16,1,9,6,0
+Sumter,O-26,Public Service Commission,1,L,JOHN H. MONDS,156,16,107,33,0
+Sumter,W-27,Public Service Commission,1,L,JOHN H. MONDS,222,14,80,128,0
+Sumter,15,Public Service Commission,1,L,JOHN H. MONDS,157,13,90,54,0
+Sumter,17,Public Service Commission,1,L,JOHN H. MONDS,96,4,61,30,1
+Sumter,28,Public Service Commission,1,L,JOHN H. MONDS,94,3,37,54,0
+Sumter,29,Public Service Commission,1,L,JOHN H. MONDS,30,0,24,6,0
+Sumter,,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",3763,174,2241,1347,1
+Sumter,C1-27,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",281,22,143,116,0
+Sumter,C2-27,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",755,56,446,253,0
+Sumter,C3-27,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",191,9,79,103,0
+Sumter,E-27,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",528,20,254,254,0
+Sumter,N-26,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",152,3,125,24,0
+Sumter,O-26,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",231,8,164,59,0
+Sumter,W-27,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",561,21,285,255,0
+Sumter,15,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",474,16,328,130,0
+Sumter,17,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",153,10,105,37,1
+Sumter,28,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",297,8,195,94,0
+Sumter,29,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",140,1,117,22,0
+Sumter,,Public Service Commission,4,D,DANIEL A. BLACKMAN,3987,335,1809,1839,4
+Sumter,C1-27,Public Service Commission,4,D,DANIEL A. BLACKMAN,820,95,329,395,1
+Sumter,C2-27,Public Service Commission,4,D,DANIEL A. BLACKMAN,482,33,217,232,0
+Sumter,C3-27,Public Service Commission,4,D,DANIEL A. BLACKMAN,972,105,397,470,0
+Sumter,E-27,Public Service Commission,4,D,DANIEL A. BLACKMAN,381,5,159,217,0
+Sumter,N-26,Public Service Commission,4,D,DANIEL A. BLACKMAN,29,2,15,12,0
+Sumter,O-26,Public Service Commission,4,D,DANIEL A. BLACKMAN,256,21,182,53,0
+Sumter,W-27,Public Service Commission,4,D,DANIEL A. BLACKMAN,373,27,135,211,0
+Sumter,15,Public Service Commission,4,D,DANIEL A. BLACKMAN,314,30,193,91,0
+Sumter,17,Public Service Commission,4,D,DANIEL A. BLACKMAN,149,8,87,51,3
+Sumter,28,Public Service Commission,4,D,DANIEL A. BLACKMAN,164,8,59,97,0
+Sumter,29,Public Service Commission,4,D,DANIEL A. BLACKMAN,47,1,36,10,0
+Sumter,,Public Service Commission,4,L,ROBIN AARON GILMER,143,6,81,56,0
+Sumter,C1-27,Public Service Commission,4,L,ROBIN AARON GILMER,29,1,18,10,0
+Sumter,C2-27,Public Service Commission,4,L,ROBIN AARON GILMER,28,0,15,13,0
+Sumter,C3-27,Public Service Commission,4,L,ROBIN AARON GILMER,16,1,9,6,0
+Sumter,E-27,Public Service Commission,4,L,ROBIN AARON GILMER,13,0,7,6,0
+Sumter,N-26,Public Service Commission,4,L,ROBIN AARON GILMER,1,0,1,0,0
+Sumter,O-26,Public Service Commission,4,L,ROBIN AARON GILMER,8,0,5,3,0
+Sumter,W-27,Public Service Commission,4,L,ROBIN AARON GILMER,18,2,9,7,0
+Sumter,15,Public Service Commission,4,L,ROBIN AARON GILMER,12,0,10,2,0
+Sumter,17,Public Service Commission,4,L,ROBIN AARON GILMER,9,1,5,3,0
+Sumter,28,Public Service Commission,4,L,ROBIN AARON GILMER,5,0,1,4,0
+Sumter,29,Public Service Commission,4,L,ROBIN AARON GILMER,4,1,1,2,0
+Sumter,,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",3516,152,2103,1260,1
+Sumter,C1-27,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",265,21,131,113,0
+Sumter,C2-27,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",707,52,424,231,0
+Sumter,C3-27,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",178,9,74,95,0
+Sumter,E-27,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",480,14,233,233,0
+Sumter,N-26,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",147,3,122,22,0
+Sumter,O-26,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",215,6,154,55,0
+Sumter,W-27,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",533,18,272,243,0
+Sumter,15,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",440,11,312,117,0
+Sumter,17,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",146,10,97,38,1
+Sumter,28,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",278,6,182,90,0
+Sumter,29,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",127,2,102,23,0
+Sumter,,U.S. Representative,2,D,SANFORD D. BISHOP (I),4506,367,2103,2033,3
+Sumter,C1-27,U.S. Representative,2,D,SANFORD D. BISHOP (I),882,100,362,419,1
+Sumter,C2-27,U.S. Representative,2,D,SANFORD D. BISHOP (I),583,36,273,274,0
+Sumter,C3-27,U.S. Representative,2,D,SANFORD D. BISHOP (I),1023,109,424,490,0
+Sumter,E-27,U.S. Representative,2,D,SANFORD D. BISHOP (I),450,11,191,248,0
+Sumter,N-26,U.S. Representative,2,D,SANFORD D. BISHOP (I),40,2,24,14,0
+Sumter,O-26,U.S. Representative,2,D,SANFORD D. BISHOP (I),287,23,203,61,0
+Sumter,W-27,U.S. Representative,2,D,SANFORD D. BISHOP (I),428,32,160,236,0
+Sumter,15,U.S. Representative,2,D,SANFORD D. BISHOP (I),377,35,231,111,0
+Sumter,17,U.S. Representative,2,D,SANFORD D. BISHOP (I),175,9,104,60,2
+Sumter,28,U.S. Representative,2,D,SANFORD D. BISHOP (I),193,10,76,107,0
+Sumter,29,U.S. Representative,2,D,SANFORD D. BISHOP (I),68,0,55,13,0
+Sumter,,State Senator,12,D,FREDDIE K. POWELL SIMS (I),4036,335,1968,1729,4
+Sumter,C1-27,State Senator,12,D,FREDDIE K. POWELL SIMS (I),887,106,374,406,1
+Sumter,C2-27,State Senator,12,D,FREDDIE K. POWELL SIMS (I),875,52,460,363,0
+Sumter,C3-27,State Senator,12,D,FREDDIE K. POWELL SIMS (I),1027,105,435,487,0
+Sumter,N-26,State Senator,12,D,FREDDIE K. POWELL SIMS (I),84,4,57,23,0
+Sumter,O-26,State Senator,12,D,FREDDIE K. POWELL SIMS (I),379,25,272,82,0
+Sumter,W-27,State Senator,12,D,FREDDIE K. POWELL SIMS (I),565,32,238,295,0
+Sumter,17,State Senator,12,D,FREDDIE K. POWELL SIMS (I),219,11,132,73,3
+Sumter,,State Senator,13,R,"G. M. ""GREG"" KIRK",1819,56,1101,662,0
+Sumter,C1-27,State Senator,13,R,"G. M. ""GREG"" KIRK",21,0,9,12,0
+Sumter,E-27,State Senator,13,R,"G. M. ""GREG"" KIRK",657,22,315,320,0
+Sumter,W-27,State Senator,13,R,"G. M. ""GREG"" KIRK",64,4,41,19,0
+Sumter,15,State Senator,13,R,"G. M. ""GREG"" KIRK",553,17,384,152,0
+Sumter,28,State Senator,13,R,"G. M. ""GREG"" KIRK",357,11,216,130,0
+Sumter,29,State Senator,13,R,"G. M. ""GREG"" KIRK",167,2,136,29,0
+Sumter,,State Representative,138,R,"M. A. ""MIKE"" CHEOKAS (I)",3257,149,1875,1233,0
+Sumter,C1-27,State Representative,138,R,"M. A. ""MIKE"" CHEOKAS (I)",308,23,151,134,0
+Sumter,C2-27,State Representative,138,R,"M. A. ""MIKE"" CHEOKAS (I)",793,57,462,274,0
+Sumter,C3-27,State Representative,138,R,"M. A. ""MIKE"" CHEOKAS (I)",209,12,91,106,0
+Sumter,E-27,State Representative,138,R,"M. A. ""MIKE"" CHEOKAS (I)",533,20,256,257,0
+Sumter,N-26,State Representative,138,R,"M. A. ""MIKE"" CHEOKAS (I)",152,3,126,23,0
+Sumter,O-26,State Representative,138,R,"M. A. ""MIKE"" CHEOKAS (I)",239,7,176,56,0
+Sumter,W-27,State Representative,138,R,"M. A. ""MIKE"" CHEOKAS (I)",579,17,298,264,0
+Sumter,28,State Representative,138,R,"M. A. ""MIKE"" CHEOKAS (I)",298,8,196,94,0
+Sumter,29,State Representative,138,R,"M. A. ""MIKE"" CHEOKAS (I)",146,2,119,25,0
+Sumter,,State Representative,138,D,KEVIN T. BROWN,3624,305,1582,1736,1
+Sumter,C1-27,State Representative,138,D,KEVIN T. BROWN,844,98,345,400,1
+Sumter,C2-27,State Representative,138,D,KEVIN T. BROWN,493,30,228,235,0
+Sumter,C3-27,State Representative,138,D,KEVIN T. BROWN,997,106,408,483,0
+Sumter,E-27,State Representative,138,D,KEVIN T. BROWN,395,6,168,221,0
+Sumter,N-26,State Representative,138,D,KEVIN T. BROWN,32,2,18,12,0
+Sumter,O-26,State Representative,138,D,KEVIN T. BROWN,258,21,179,58,0
+Sumter,W-27,State Representative,138,D,KEVIN T. BROWN,385,33,137,215,0
+Sumter,28,State Representative,138,D,KEVIN T. BROWN,170,8,61,101,0
+Sumter,29,State Representative,138,D,KEVIN T. BROWN,50,1,38,11,0
+Sumter,,State Representative,152,R,EUGENE RYNDERS (I),763,28,523,208,4
+Sumter,N-26,State Representative,152,R,EUGENE RYNDERS (I),0,0,0,0,0
+Sumter,15,State Representative,152,R,EUGENE RYNDERS (I),542,16,379,147,0
+Sumter,17,State Representative,152,R,EUGENE RYNDERS (I),221,12,144,61,4
+Sumter,,CC,D2,R,MARK WADDELL (I),1516,84,795,636,1
+Sumter,C1-27,CC,D2,R,MARK WADDELL (I),336,23,162,150,1
+Sumter,C2-27,CC,D2,R,MARK WADDELL (I),702,46,407,249,0
+Sumter,C3-27,CC,D2,R,MARK WADDELL (I),56,1,26,29,0
+Sumter,E-27,CC,D2,R,MARK WADDELL (I),422,14,200,208,0
+Sumter,,CC,D4,D,RANDY HOWARD (I),972,55,578,339,0
+Sumter,C1-27,CC,D4,D,RANDY HOWARD (I),113,5,67,41,0
+Sumter,C2-27,CC,D4,D,RANDY HOWARD (I),177,9,91,77,0
+Sumter,E-27,CC,D4,D,RANDY HOWARD (I),105,1,47,57,0
+Sumter,15,CC,D4,D,RANDY HOWARD (I),577,40,373,164,0
+Sumter,,SOIL AND WATER,,D,WILLIAM WILSON REID,5789,362,3103,2319,5
+Sumter,C1-27,SOIL AND WATER,,D,WILLIAM WILSON REID,801,93,348,359,1
+Sumter,C2-27,SOIL AND WATER,,D,WILLIAM WILSON REID,971,60,523,388,0
+Sumter,C3-27,SOIL AND WATER,,D,WILLIAM WILSON REID,812,79,363,370,0
+Sumter,E-27,SOIL AND WATER,,D,WILLIAM WILSON REID,696,23,320,353,0
+Sumter,N-26,SOIL AND WATER,,D,WILLIAM WILSON REID,145,5,110,30,0
+Sumter,O-26,SOIL AND WATER,,D,WILLIAM WILSON REID,391,24,281,86,0
+Sumter,W-27,SOIL AND WATER,,D,WILLIAM WILSON REID,708,34,322,352,0
+Sumter,15,SOIL AND WATER,,D,WILLIAM WILSON REID,533,21,369,143,0
+Sumter,17,SOIL AND WATER,,D,WILLIAM WILSON REID,230,12,147,67,4
+Sumter,28,SOIL AND WATER,,D,WILLIAM WILSON REID,352,9,198,145,0
+Sumter,29,SOIL AND WATER,,D,WILLIAM WILSON REID,150,2,122,26,0
+Sumter,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,5397,361,2831,2202,3
+Sumter,C1-27,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,701,81,303,317,0
+Sumter,C2-27,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,914,64,503,347,0
+Sumter,C3-27,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,688,66,270,352,0
+Sumter,E-27,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,676,24,296,356,0
+Sumter,N-26,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,138,4,110,24,0
+Sumter,O-26,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,322,17,221,84,0
+Sumter,W-27,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,690,38,322,330,0
+Sumter,15,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,574,37,367,170,0
+Sumter,17,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,219,13,144,59,3
+Sumter,28,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,332,15,185,132,0
+Sumter,29,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,143,2,110,31,0
+Sumter,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,2434,142,1289,1001,2
+Sumter,C1-27,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,411,37,175,198,1
+Sumter,C2-27,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,358,22,185,151,0
+Sumter,C3-27,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,482,47,219,216,0
+Sumter,E-27,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,242,3,121,118,0
+Sumter,N-26,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,43,1,31,11,0
+Sumter,O-26,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,162,11,124,27,0
+Sumter,W-27,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,250,7,107,136,0
+Sumter,15,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,225,8,166,51,0
+Sumter,17,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,95,6,55,33,1
+Sumter,28,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,127,0,69,58,0
+Sumter,29,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,39,0,37,2,0
+Sumter,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,5259,385,2731,2139,4
+Sumter,C1-27,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,787,100,331,355,1
+Sumter,C2-27,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,897,67,495,335,0
+Sumter,C3-27,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,811,84,345,382,0
+Sumter,E-27,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,605,21,270,314,0
+Sumter,N-26,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,107,1,85,21,0
+Sumter,O-26,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,305,19,216,70,0
+Sumter,W-27,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,600,35,258,307,0
+Sumter,15,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,520,35,348,137,0
+Sumter,17,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,213,14,127,69,3
+Sumter,28,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,294,8,162,124,0
+Sumter,29,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,120,1,94,25,0
+Sumter,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,2409,103,1289,1016,1
+Sumter,C1-27,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,310,16,135,159,0
+Sumter,C2-27,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,357,19,180,158,0
+Sumter,C3-27,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,335,22,136,177,0
+Sumter,E-27,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,293,6,142,145,0
+Sumter,N-26,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,70,4,53,13,0
+Sumter,O-26,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,170,10,121,39,0
+Sumter,W-27,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,323,8,161,154,0
+Sumter,15,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,256,7,172,77,0
+Sumter,17,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,87,5,57,24,1
+Sumter,28,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,151,5,84,62,0
+Sumter,29,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,57,1,48,8,0
+Sumter,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,5603,377,2922,2300,4
+Sumter,C1-27,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,813,82,356,374,1
+Sumter,C2-27,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,910,63,500,347,0
+Sumter,C3-27,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,904,84,374,446,0
+Sumter,E-27,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,659,21,296,342,0
+Sumter,N-26,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,115,5,89,21,0
+Sumter,O-26,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,333,22,237,74,0
+Sumter,W-27,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,657,37,294,326,0
+Sumter,15,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,538,37,352,149,0
+Sumter,17,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,235,17,145,70,3
+Sumter,28,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,316,8,182,126,0
+Sumter,29,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,123,1,97,25,0
+Sumter,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,2162,122,1148,891,1
+Sumter,C1-27,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,295,38,120,137,0
+Sumter,C2-27,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,357,21,183,153,0
+Sumter,C3-27,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,263,26,113,124,0
+Sumter,E-27,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,252,6,118,128,0
+Sumter,N-26,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,63,0,49,14,0
+Sumter,O-26,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,145,7,102,36,0
+Sumter,W-27,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,275,9,128,138,0
+Sumter,15,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,252,5,179,68,0
+Sumter,17,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,72,2,45,24,1
+Sumter,28,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,133,7,66,60,0
+Sumter,29,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,55,1,45,9,0

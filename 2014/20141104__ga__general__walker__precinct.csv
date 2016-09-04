@@ -1,0 +1,493 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Walker,,United States Senator,,R,DAVID A. PERDUE,9331,465,6139,2727,0
+Walker,LAFAYETTE,United States Senator,,R,DAVID A. PERDUE,1302,71,749,482,0
+Walker,CENTER POST,United States Senator,,R,DAVID A. PERDUE,457,22,316,119,0
+Walker,ROCK SPRING,United States Senator,,R,DAVID A. PERDUE,1492,52,920,520,0
+Walker,ARMUCHEE VALLEY,United States Senator,,R,DAVID A. PERDUE,306,11,265,30,0
+Walker,MOUNTAIN,United States Senator,,R,DAVID A. PERDUE,284,14,237,33,0
+Walker,CHATTANOOGA VALLEY,United States Senator,,R,DAVID A. PERDUE,1376,79,1036,261,0
+Walker,KENSINGTON,United States Senator,,R,DAVID A. PERDUE,301,10,258,33,0
+Walker,ROSSVILLE,United States Senator,,R,DAVID A. PERDUE,1129,88,659,382,0
+Walker,CHICKAMAUGA,United States Senator,,R,DAVID A. PERDUE,1687,67,973,647,0
+Walker,FAIRYLAND,United States Senator,,R,DAVID A. PERDUE,429,6,317,106,0
+Walker,FAIRVIEW,United States Senator,,R,DAVID A. PERDUE,568,45,409,114,0
+Walker,,United States Senator,,D,M. MICHELLE NUNN,2662,124,1696,842,0
+Walker,LAFAYETTE,United States Senator,,D,M. MICHELLE NUNN,403,19,225,159,0
+Walker,CENTER POST,United States Senator,,D,M. MICHELLE NUNN,106,6,59,41,0
+Walker,ROCK SPRING,United States Senator,,D,M. MICHELLE NUNN,381,20,226,135,0
+Walker,ARMUCHEE VALLEY,United States Senator,,D,M. MICHELLE NUNN,95,2,84,9,0
+Walker,MOUNTAIN,United States Senator,,D,M. MICHELLE NUNN,88,0,77,11,0
+Walker,CHATTANOOGA VALLEY,United States Senator,,D,M. MICHELLE NUNN,411,20,300,91,0
+Walker,KENSINGTON,United States Senator,,D,M. MICHELLE NUNN,105,4,79,22,0
+Walker,ROSSVILLE,United States Senator,,D,M. MICHELLE NUNN,375,19,233,123,0
+Walker,CHICKAMAUGA,United States Senator,,D,M. MICHELLE NUNN,392,24,197,171,0
+Walker,FAIRYLAND,United States Senator,,D,M. MICHELLE NUNN,135,1,87,47,0
+Walker,FAIRVIEW,United States Senator,,D,M. MICHELLE NUNN,171,9,129,33,0
+Walker,,United States Senator,,L,AMANDA C. SWAFFORD,385,25,291,69,0
+Walker,LAFAYETTE,United States Senator,,L,AMANDA C. SWAFFORD,63,4,49,10,0
+Walker,CENTER POST,United States Senator,,L,AMANDA C. SWAFFORD,21,0,19,2,0
+Walker,ROCK SPRING,United States Senator,,L,AMANDA C. SWAFFORD,71,6,50,15,0
+Walker,ARMUCHEE VALLEY,United States Senator,,L,AMANDA C. SWAFFORD,18,0,17,1,0
+Walker,MOUNTAIN,United States Senator,,L,AMANDA C. SWAFFORD,12,1,10,1,0
+Walker,CHATTANOOGA VALLEY,United States Senator,,L,AMANDA C. SWAFFORD,50,2,40,8,0
+Walker,KENSINGTON,United States Senator,,L,AMANDA C. SWAFFORD,9,0,7,2,0
+Walker,ROSSVILLE,United States Senator,,L,AMANDA C. SWAFFORD,52,4,39,9,0
+Walker,CHICKAMAUGA,United States Senator,,L,AMANDA C. SWAFFORD,51,4,31,16,0
+Walker,FAIRYLAND,United States Senator,,L,AMANDA C. SWAFFORD,8,0,6,2,0
+Walker,FAIRVIEW,United States Senator,,L,AMANDA C. SWAFFORD,30,4,23,3,0
+Walker,,Governor,,R,J. NATHAN DEAL (I),8664,459,5604,2601,0
+Walker,LAFAYETTE,Governor,,R,J. NATHAN DEAL (I),1153,69,641,443,0
+Walker,CENTER POST,Governor,,R,J. NATHAN DEAL (I),424,21,289,114,0
+Walker,ROCK SPRING,Governor,,R,J. NATHAN DEAL (I),1369,52,821,496,0
+Walker,ARMUCHEE VALLEY,Governor,,R,J. NATHAN DEAL (I),292,12,246,34,0
+Walker,MOUNTAIN,Governor,,R,J. NATHAN DEAL (I),280,14,236,30,0
+Walker,CHATTANOOGA VALLEY,Governor,,R,J. NATHAN DEAL (I),1277,75,950,252,0
+Walker,KENSINGTON,Governor,,R,J. NATHAN DEAL (I),281,10,238,33,0
+Walker,ROSSVILLE,Governor,,R,J. NATHAN DEAL (I),1063,88,605,370,0
+Walker,CHICKAMAUGA,Governor,,R,J. NATHAN DEAL (I),1569,68,886,615,0
+Walker,FAIRYLAND,Governor,,R,J. NATHAN DEAL (I),422,6,309,107,0
+Walker,FAIRVIEW,Governor,,R,J. NATHAN DEAL (I),534,44,383,107,0
+Walker,,Governor,,D,JASON J. CARTER,3257,138,2170,949,0
+Walker,LAFAYETTE,Governor,,D,JASON J. CARTER,522,22,310,190,0
+Walker,CENTER POST,Governor,,D,JASON J. CARTER,141,7,83,51,0
+Walker,ROCK SPRING,Governor,,D,JASON J. CARTER,503,23,322,158,0
+Walker,ARMUCHEE VALLEY,Governor,,D,JASON J. CARTER,110,1,103,6,0
+Walker,MOUNTAIN,Governor,,D,JASON J. CARTER,87,0,75,12,0
+Walker,CHATTANOOGA VALLEY,Governor,,D,JASON J. CARTER,492,22,366,104,0
+Walker,KENSINGTON,Governor,,D,JASON J. CARTER,123,4,94,25,0
+Walker,ROSSVILLE,Governor,,D,JASON J. CARTER,437,21,291,125,0
+Walker,CHICKAMAUGA,Governor,,D,JASON J. CARTER,494,26,274,194,0
+Walker,FAIRYLAND,Governor,,D,JASON J. CARTER,136,1,90,45,0
+Walker,FAIRVIEW,Governor,,D,JASON J. CARTER,212,11,162,39,0
+Walker,,Governor,,L,ANDREW T. HUNT,418,20,302,96,0
+Walker,LAFAYETTE,Governor,,L,ANDREW T. HUNT,80,5,60,15,0
+Walker,CENTER POST,Governor,,L,ANDREW T. HUNT,26,0,22,4,0
+Walker,ROCK SPRING,Governor,,L,ANDREW T. HUNT,73,3,52,18,0
+Walker,ARMUCHEE VALLEY,Governor,,L,ANDREW T. HUNT,16,0,14,2,0
+Walker,MOUNTAIN,Governor,,L,ANDREW T. HUNT,17,1,12,4,0
+Walker,CHATTANOOGA VALLEY,Governor,,L,ANDREW T. HUNT,54,4,43,7,0
+Walker,KENSINGTON,Governor,,L,ANDREW T. HUNT,13,0,11,2,0
+Walker,ROSSVILLE,Governor,,L,ANDREW T. HUNT,40,1,27,12,0
+Walker,CHICKAMAUGA,Governor,,L,ANDREW T. HUNT,73,3,43,27,0
+Walker,FAIRYLAND,Governor,,L,ANDREW T. HUNT,7,0,4,3,0
+Walker,FAIRVIEW,Governor,,L,ANDREW T. HUNT,19,3,14,2,0
+Walker,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",9401,463,6160,2778,0
+Walker,LAFAYETTE,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1284,70,733,481,0
+Walker,CENTER POST,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",476,22,323,131,0
+Walker,ROCK SPRING,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1511,52,931,528,0
+Walker,ARMUCHEE VALLEY,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",330,11,284,35,0
+Walker,MOUNTAIN,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",286,14,241,31,0
+Walker,CHATTANOOGA VALLEY,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1385,77,1037,271,0
+Walker,KENSINGTON,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",299,10,253,36,0
+Walker,ROSSVILLE,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1123,88,650,385,0
+Walker,CHICKAMAUGA,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1712,69,983,660,0
+Walker,FAIRYLAND,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",435,6,321,108,0
+Walker,FAIRVIEW,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",560,44,404,112,0
+Walker,,Lieutenant Governor,,D,CONNIE J. STOKES,2836,144,1858,834,0
+Walker,LAFAYETTE,Lieutenant Governor,,D,CONNIE J. STOKES,446,24,265,157,0
+Walker,CENTER POST,Lieutenant Governor,,D,CONNIE J. STOKES,111,6,72,33,0
+Walker,ROCK SPRING,Lieutenant Governor,,D,CONNIE J. STOKES,407,24,245,138,0
+Walker,ARMUCHEE VALLEY,Lieutenant Governor,,D,CONNIE J. STOKES,87,1,82,4,0
+Walker,MOUNTAIN,Lieutenant Governor,,D,CONNIE J. STOKES,92,1,79,12,0
+Walker,CHATTANOOGA VALLEY,Lieutenant Governor,,D,CONNIE J. STOKES,434,23,318,93,0
+Walker,KENSINGTON,Lieutenant Governor,,D,CONNIE J. STOKES,119,4,91,24,0
+Walker,ROSSVILLE,Lieutenant Governor,,D,CONNIE J. STOKES,412,22,271,119,0
+Walker,CHICKAMAUGA,Lieutenant Governor,,D,CONNIE J. STOKES,407,25,206,176,0
+Walker,FAIRYLAND,Lieutenant Governor,,D,CONNIE J. STOKES,129,1,84,44,0
+Walker,FAIRVIEW,Lieutenant Governor,,D,CONNIE J. STOKES,192,13,145,34,0
+Walker,,Secretary Of State,,R,BRIAN P. KEMP (I),9500,471,6234,2795,0
+Walker,LAFAYETTE,Secretary Of State,,R,BRIAN P. KEMP (I),1297,71,744,482,0
+Walker,CENTER POST,Secretary Of State,,R,BRIAN P. KEMP (I),481,22,327,132,0
+Walker,ROCK SPRING,Secretary Of State,,R,BRIAN P. KEMP (I),1524,56,940,528,0
+Walker,ARMUCHEE VALLEY,Secretary Of State,,R,BRIAN P. KEMP (I),324,10,280,34,0
+Walker,MOUNTAIN,Secretary Of State,,R,BRIAN P. KEMP (I),293,14,248,31,0
+Walker,CHATTANOOGA VALLEY,Secretary Of State,,R,BRIAN P. KEMP (I),1394,78,1046,270,0
+Walker,KENSINGTON,Secretary Of State,,R,BRIAN P. KEMP (I),307,10,259,38,0
+Walker,ROSSVILLE,Secretary Of State,,R,BRIAN P. KEMP (I),1144,89,665,390,0
+Walker,CHICKAMAUGA,Secretary Of State,,R,BRIAN P. KEMP (I),1719,72,979,668,0
+Walker,FAIRYLAND,Secretary Of State,,R,BRIAN P. KEMP (I),446,6,328,112,0
+Walker,FAIRVIEW,Secretary Of State,,R,BRIAN P. KEMP (I),571,43,418,110,0
+Walker,,Secretary Of State,,D,DOREEN CARTER,2774,130,1806,838,0
+Walker,LAFAYETTE,Secretary Of State,,D,DOREEN CARTER,434,23,250,161,0
+Walker,CENTER POST,Secretary Of State,,D,DOREEN CARTER,113,6,73,34,0
+Walker,ROCK SPRING,Secretary Of State,,D,DOREEN CARTER,400,19,243,138,0
+Walker,ARMUCHEE VALLEY,Secretary Of State,,D,DOREEN CARTER,91,1,84,6,0
+Walker,MOUNTAIN,Secretary Of State,,D,DOREEN CARTER,89,1,76,12,0
+Walker,CHATTANOOGA VALLEY,Secretary Of State,,D,DOREEN CARTER,420,22,306,92,0
+Walker,KENSINGTON,Secretary Of State,,D,DOREEN CARTER,114,4,88,22,0
+Walker,ROSSVILLE,Secretary Of State,,D,DOREEN CARTER,399,20,257,122,0
+Walker,CHICKAMAUGA,Secretary Of State,,D,DOREEN CARTER,403,21,210,172,0
+Walker,FAIRYLAND,Secretary Of State,,D,DOREEN CARTER,120,1,76,43,0
+Walker,FAIRVIEW,Secretary Of State,,D,DOREEN CARTER,191,12,143,36,0
+Walker,,Attorney General,,R,SAMUEL S. OLENS (I),9444,462,6196,2786,0
+Walker,LAFAYETTE,Attorney General,,R,SAMUEL S. OLENS (I),1279,70,730,479,0
+Walker,CENTER POST,Attorney General,,R,SAMUEL S. OLENS (I),475,22,324,129,0
+Walker,ROCK SPRING,Attorney General,,R,SAMUEL S. OLENS (I),1527,55,943,529,0
+Walker,ARMUCHEE VALLEY,Attorney General,,R,SAMUEL S. OLENS (I),331,11,285,35,0
+Walker,MOUNTAIN,Attorney General,,R,SAMUEL S. OLENS (I),286,14,241,31,0
+Walker,CHATTANOOGA VALLEY,Attorney General,,R,SAMUEL S. OLENS (I),1396,76,1048,272,0
+Walker,KENSINGTON,Attorney General,,R,SAMUEL S. OLENS (I),304,10,257,37,0
+Walker,ROSSVILLE,Attorney General,,R,SAMUEL S. OLENS (I),1135,86,663,386,0
+Walker,CHICKAMAUGA,Attorney General,,R,SAMUEL S. OLENS (I),1708,68,974,666,0
+Walker,FAIRYLAND,Attorney General,,R,SAMUEL S. OLENS (I),439,6,324,109,0
+Walker,FAIRVIEW,Attorney General,,R,SAMUEL S. OLENS (I),564,44,407,113,0
+Walker,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",2763,139,1807,817,0
+Walker,LAFAYETTE,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",442,24,262,156,0
+Walker,CENTER POST,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",111,6,72,33,0
+Walker,ROCK SPRING,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",396,21,239,136,0
+Walker,ARMUCHEE VALLEY,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",89,2,81,6,0
+Walker,MOUNTAIN,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",90,1,78,11,0
+Walker,CHATTANOOGA VALLEY,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",414,23,304,87,0
+Walker,KENSINGTON,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",113,4,86,23,0
+Walker,ROSSVILLE,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",395,22,253,120,0
+Walker,CHICKAMAUGA,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",396,23,206,167,0
+Walker,FAIRYLAND,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",126,1,80,45,0
+Walker,FAIRVIEW,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",191,12,146,33,0
+Walker,,Commissioner Of Agriculture,,R,GARY W. BLACK (I),9595,466,6318,2811,0
+Walker,LAFAYETTE,Commissioner Of Agriculture,,R,GARY W. BLACK (I),1300,66,752,482,0
+Walker,CENTER POST,Commissioner Of Agriculture,,R,GARY W. BLACK (I),487,24,330,133,0
+Walker,ROCK SPRING,Commissioner Of Agriculture,,R,GARY W. BLACK (I),1559,55,966,538,0
+Walker,ARMUCHEE VALLEY,Commissioner Of Agriculture,,R,GARY W. BLACK (I),341,11,294,36,0
+Walker,MOUNTAIN,Commissioner Of Agriculture,,R,GARY W. BLACK (I),288,14,242,32,0
+Walker,CHATTANOOGA VALLEY,Commissioner Of Agriculture,,R,GARY W. BLACK (I),1399,77,1054,268,0
+Walker,KENSINGTON,Commissioner Of Agriculture,,R,GARY W. BLACK (I),313,11,265,37,0
+Walker,ROSSVILLE,Commissioner Of Agriculture,,R,GARY W. BLACK (I),1141,87,667,387,0
+Walker,CHICKAMAUGA,Commissioner Of Agriculture,,R,GARY W. BLACK (I),1745,73,996,676,0
+Walker,FAIRYLAND,Commissioner Of Agriculture,,R,GARY W. BLACK (I),448,6,332,110,0
+Walker,FAIRVIEW,Commissioner Of Agriculture,,R,GARY W. BLACK (I),574,42,420,112,0
+Walker,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,2631,132,1689,810,0
+Walker,LAFAYETTE,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,426,25,243,158,0
+Walker,CENTER POST,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,100,4,65,31,0
+Walker,ROCK SPRING,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,365,21,218,126,0
+Walker,ARMUCHEE VALLEY,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,78,1,72,5,0
+Walker,MOUNTAIN,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,90,1,77,12,0
+Walker,CHATTANOOGA VALLEY,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,404,21,295,88,0
+Walker,KENSINGTON,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,102,3,76,23,0
+Walker,ROSSVILLE,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,389,21,248,120,0
+Walker,CHICKAMAUGA,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,378,20,191,167,0
+Walker,FAIRYLAND,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,117,1,71,45,0
+Walker,FAIRVIEW,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,182,14,133,35,0
+Walker,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),9065,447,5917,2701,0
+Walker,LAFAYETTE,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1244,66,708,470,0
+Walker,CENTER POST,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),456,22,306,128,0
+Walker,ROCK SPRING,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1465,52,896,517,0
+Walker,ARMUCHEE VALLEY,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),309,11,266,32,0
+Walker,MOUNTAIN,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),274,13,233,28,0
+Walker,CHATTANOOGA VALLEY,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1324,74,983,267,0
+Walker,KENSINGTON,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),291,11,246,34,0
+Walker,ROSSVILLE,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1077,84,624,369,0
+Walker,CHICKAMAUGA,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1653,68,942,643,0
+Walker,FAIRYLAND,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),430,6,317,107,0
+Walker,FAIRVIEW,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),542,40,396,106,0
+Walker,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",2632,129,1710,793,0
+Walker,LAFAYETTE,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",410,23,240,147,0
+Walker,CENTER POST,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",104,5,65,34,0
+Walker,ROCK SPRING,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",365,19,225,121,0
+Walker,ARMUCHEE VALLEY,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",82,1,75,6,0
+Walker,MOUNTAIN,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",84,1,73,10,0
+Walker,CHATTANOOGA VALLEY,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",411,22,303,86,0
+Walker,KENSINGTON,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",106,3,80,23,0
+Walker,ROSSVILLE,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",396,22,252,122,0
+Walker,CHICKAMAUGA,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",377,20,191,166,0
+Walker,FAIRYLAND,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",119,1,76,42,0
+Walker,FAIRVIEW,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",178,12,130,36,0
+Walker,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",515,22,375,118,0
+Walker,LAFAYETTE,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",77,3,52,22,0
+Walker,CENTER POST,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",27,1,24,2,0
+Walker,ROCK SPRING,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",90,5,58,27,0
+Walker,ARMUCHEE VALLEY,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",26,0,23,3,0
+Walker,MOUNTAIN,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",21,1,14,6,0
+Walker,CHATTANOOGA VALLEY,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",77,2,63,12,0
+Walker,KENSINGTON,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",14,0,11,3,0
+Walker,ROSSVILLE,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",59,2,44,13,0
+Walker,CHICKAMAUGA,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",80,4,52,24,0
+Walker,FAIRYLAND,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",14,0,10,4,0
+Walker,FAIRVIEW,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",30,4,24,2,0
+Walker,,State School Superintendent,,R,RICHARD L. WOODS,9255,455,6059,2741,0
+Walker,LAFAYETTE,State School Superintendent,,R,RICHARD L. WOODS,1257,63,726,468,0
+Walker,CENTER POST,State School Superintendent,,R,RICHARD L. WOODS,471,23,322,126,0
+Walker,ROCK SPRING,State School Superintendent,,R,RICHARD L. WOODS,1513,53,938,522,0
+Walker,ARMUCHEE VALLEY,State School Superintendent,,R,RICHARD L. WOODS,324,13,277,34,0
+Walker,MOUNTAIN,State School Superintendent,,R,RICHARD L. WOODS,288,13,243,32,0
+Walker,CHATTANOOGA VALLEY,State School Superintendent,,R,RICHARD L. WOODS,1356,75,1014,267,0
+Walker,KENSINGTON,State School Superintendent,,R,RICHARD L. WOODS,289,10,245,34,0
+Walker,ROSSVILLE,State School Superintendent,,R,RICHARD L. WOODS,1109,88,634,387,0
+Walker,CHICKAMAUGA,State School Superintendent,,R,RICHARD L. WOODS,1663,70,940,653,0
+Walker,FAIRYLAND,State School Superintendent,,R,RICHARD L. WOODS,429,6,314,109,0
+Walker,FAIRVIEW,State School Superintendent,,R,RICHARD L. WOODS,556,41,406,109,0
+Walker,,State School Superintendent,,D,VALARIE D. WILSON,3017,145,1981,891,0
+Walker,LAFAYETTE,State School Superintendent,,D,VALARIE D. WILSON,475,29,272,174,0
+Walker,CENTER POST,State School Superintendent,,D,VALARIE D. WILSON,122,5,74,43,0
+Walker,ROCK SPRING,State School Superintendent,,D,VALARIE D. WILSON,418,22,254,142,0
+Walker,ARMUCHEE VALLEY,State School Superintendent,,D,VALARIE D. WILSON,96,0,90,6,0
+Walker,MOUNTAIN,State School Superintendent,,D,VALARIE D. WILSON,91,2,77,12,0
+Walker,CHATTANOOGA VALLEY,State School Superintendent,,D,VALARIE D. WILSON,452,22,334,96,0
+Walker,KENSINGTON,State School Superintendent,,D,VALARIE D. WILSON,130,4,100,26,0
+Walker,ROSSVILLE,State School Superintendent,,D,VALARIE D. WILSON,434,21,287,126,0
+Walker,CHICKAMAUGA,State School Superintendent,,D,VALARIE D. WILSON,458,24,250,184,0
+Walker,FAIRYLAND,State School Superintendent,,D,VALARIE D. WILSON,133,1,88,44,0
+Walker,FAIRVIEW,State School Superintendent,,D,VALARIE D. WILSON,208,15,155,38,0
+Walker,,Commissioner Of Labor,,R,J. MARK BUTLER (I),9396,460,6143,2793,0
+Walker,LAFAYETTE,Commissioner Of Labor,,R,J. MARK BUTLER (I),1277,68,723,486,0
+Walker,CENTER POST,Commissioner Of Labor,,R,J. MARK BUTLER (I),476,22,322,132,0
+Walker,ROCK SPRING,Commissioner Of Labor,,R,J. MARK BUTLER (I),1520,54,932,534,0
+Walker,ARMUCHEE VALLEY,Commissioner Of Labor,,R,J. MARK BUTLER (I),330,13,283,34,0
+Walker,MOUNTAIN,Commissioner Of Labor,,R,J. MARK BUTLER (I),288,14,242,32,0
+Walker,CHATTANOOGA VALLEY,Commissioner Of Labor,,R,J. MARK BUTLER (I),1383,76,1037,270,0
+Walker,KENSINGTON,Commissioner Of Labor,,R,J. MARK BUTLER (I),297,11,249,37,0
+Walker,ROSSVILLE,Commissioner Of Labor,,R,J. MARK BUTLER (I),1111,84,643,384,0
+Walker,CHICKAMAUGA,Commissioner Of Labor,,R,J. MARK BUTLER (I),1715,69,979,667,0
+Walker,FAIRYLAND,Commissioner Of Labor,,R,J. MARK BUTLER (I),440,6,327,107,0
+Walker,FAIRVIEW,Commissioner Of Labor,,R,J. MARK BUTLER (I),559,43,406,110,0
+Walker,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,2788,138,1830,820,0
+Walker,LAFAYETTE,Commissioner Of Labor,,D,ROBBIN K. SHIPP,439,24,264,151,0
+Walker,CENTER POST,Commissioner Of Labor,,D,ROBBIN K. SHIPP,114,6,73,35,0
+Walker,ROCK SPRING,Commissioner Of Labor,,D,ROBBIN K. SHIPP,391,20,241,130,0
+Walker,ARMUCHEE VALLEY,Commissioner Of Labor,,D,ROBBIN K. SHIPP,91,0,84,7,0
+Walker,MOUNTAIN,Commissioner Of Labor,,D,ROBBIN K. SHIPP,89,1,77,11,0
+Walker,CHATTANOOGA VALLEY,Commissioner Of Labor,,D,ROBBIN K. SHIPP,413,23,300,90,0
+Walker,KENSINGTON,Commissioner Of Labor,,D,ROBBIN K. SHIPP,122,3,96,23,0
+Walker,ROSSVILLE,Commissioner Of Labor,,D,ROBBIN K. SHIPP,418,24,270,124,0
+Walker,CHICKAMAUGA,Commissioner Of Labor,,D,ROBBIN K. SHIPP,398,22,206,170,0
+Walker,FAIRYLAND,Commissioner Of Labor,,D,ROBBIN K. SHIPP,119,1,73,45,0
+Walker,FAIRVIEW,Commissioner Of Labor,,D,ROBBIN K. SHIPP,194,14,146,34,0
+Walker,,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",9682,472,6316,2894,0
+Walker,LAFAYETTE,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1339,70,765,504,0
+Walker,CENTER POST,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",490,25,329,136,0
+Walker,ROCK SPRING,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1540,54,943,543,0
+Walker,ARMUCHEE VALLEY,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",327,12,281,34,0
+Walker,MOUNTAIN,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",298,14,248,36,0
+Walker,CHATTANOOGA VALLEY,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1409,81,1051,277,0
+Walker,KENSINGTON,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",327,12,275,40,0
+Walker,ROSSVILLE,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1173,88,687,398,0
+Walker,CHICKAMAUGA,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1739,66,980,693,0
+Walker,FAIRYLAND,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",465,5,343,117,0
+Walker,FAIRVIEW,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",575,45,414,116,0
+Walker,,Public Service Commission,1,L,JOHN H. MONDS,1983,102,1362,519,0
+Walker,LAFAYETTE,Public Service Commission,1,L,JOHN H. MONDS,308,14,201,93,0
+Walker,CENTER POST,Public Service Commission,1,L,JOHN H. MONDS,80,3,54,23,0
+Walker,ROCK SPRING,Public Service Commission,1,L,JOHN H. MONDS,308,21,196,91,0
+Walker,ARMUCHEE VALLEY,Public Service Commission,1,L,JOHN H. MONDS,71,1,65,5,0
+Walker,MOUNTAIN,Public Service Commission,1,L,JOHN H. MONDS,66,1,58,7,0
+Walker,CHATTANOOGA VALLEY,Public Service Commission,1,L,JOHN H. MONDS,312,16,241,55,0
+Walker,KENSINGTON,Public Service Commission,1,L,JOHN H. MONDS,65,0,51,14,0
+Walker,ROSSVILLE,Public Service Commission,1,L,JOHN H. MONDS,284,17,177,90,0
+Walker,CHICKAMAUGA,Public Service Commission,1,L,JOHN H. MONDS,283,18,161,104,0
+Walker,FAIRYLAND,Public Service Commission,1,L,JOHN H. MONDS,61,2,41,18,0
+Walker,FAIRVIEW,Public Service Commission,1,L,JOHN H. MONDS,145,9,117,19,0
+Walker,,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",8960,442,5818,2700,0
+Walker,LAFAYETTE,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1233,65,696,472,0
+Walker,CENTER POST,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",460,22,309,129,0
+Walker,ROCK SPRING,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1432,48,877,507,0
+Walker,ARMUCHEE VALLEY,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",305,12,263,30,0
+Walker,MOUNTAIN,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",271,13,228,30,0
+Walker,CHATTANOOGA VALLEY,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1296,76,960,260,0
+Walker,KENSINGTON,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",295,10,251,34,0
+Walker,ROSSVILLE,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1078,85,617,376,0
+Walker,CHICKAMAUGA,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1638,65,922,651,0
+Walker,FAIRYLAND,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",420,5,310,105,0
+Walker,FAIRVIEW,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",532,41,385,106,0
+Walker,,Public Service Commission,4,D,DANIEL A. BLACKMAN,2584,129,1688,767,0
+Walker,LAFAYETTE,Public Service Commission,4,D,DANIEL A. BLACKMAN,396,21,233,142,0
+Walker,CENTER POST,Public Service Commission,4,D,DANIEL A. BLACKMAN,91,5,53,33,0
+Walker,ROCK SPRING,Public Service Commission,4,D,DANIEL A. BLACKMAN,377,23,236,118,0
+Walker,ARMUCHEE VALLEY,Public Service Commission,4,D,DANIEL A. BLACKMAN,84,0,77,7,0
+Walker,MOUNTAIN,Public Service Commission,4,D,DANIEL A. BLACKMAN,83,0,74,9,0
+Walker,CHATTANOOGA VALLEY,Public Service Commission,4,D,DANIEL A. BLACKMAN,395,20,290,85,0
+Walker,KENSINGTON,Public Service Commission,4,D,DANIEL A. BLACKMAN,109,4,83,22,0
+Walker,ROSSVILLE,Public Service Commission,4,D,DANIEL A. BLACKMAN,377,21,237,119,0
+Walker,CHICKAMAUGA,Public Service Commission,4,D,DANIEL A. BLACKMAN,378,21,200,157,0
+Walker,FAIRYLAND,Public Service Commission,4,D,DANIEL A. BLACKMAN,119,1,76,42,0
+Walker,FAIRVIEW,Public Service Commission,4,D,DANIEL A. BLACKMAN,175,13,129,33,0
+Walker,,Public Service Commission,4,L,ROBIN AARON GILMER,669,30,489,150,0
+Walker,LAFAYETTE,Public Service Commission,4,L,ROBIN AARON GILMER,103,6,71,26,0
+Walker,CENTER POST,Public Service Commission,4,L,ROBIN AARON GILMER,37,1,31,5,0
+Walker,ROCK SPRING,Public Service Commission,4,L,ROBIN AARON GILMER,113,5,65,43,0
+Walker,ARMUCHEE VALLEY,Public Service Commission,4,L,ROBIN AARON GILMER,29,1,25,3,0
+Walker,MOUNTAIN,Public Service Commission,4,L,ROBIN AARON GILMER,23,2,17,4,0
+Walker,CHATTANOOGA VALLEY,Public Service Commission,4,L,ROBIN AARON GILMER,108,3,89,16,0
+Walker,KENSINGTON,Public Service Commission,4,L,ROBIN AARON GILMER,15,0,11,4,0
+Walker,ROSSVILLE,Public Service Commission,4,L,ROBIN AARON GILMER,79,3,61,15,0
+Walker,CHICKAMAUGA,Public Service Commission,4,L,ROBIN AARON GILMER,95,5,63,27,0
+Walker,FAIRYLAND,Public Service Commission,4,L,ROBIN AARON GILMER,20,1,15,4,0
+Walker,FAIRVIEW,Public Service Commission,4,L,ROBIN AARON GILMER,47,3,41,3,0
+Walker,,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",10575,492,7016,3067,0
+Walker,LAFAYETTE,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",1482,79,861,542,0
+Walker,CENTER POST,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",522,26,354,142,0
+Walker,ROCK SPRING,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",1674,56,1052,566,0
+Walker,ARMUCHEE VALLEY,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",363,12,317,34,0
+Walker,MOUNTAIN,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",316,14,262,40,0
+Walker,CHATTANOOGA VALLEY,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",1567,80,1187,300,0
+Walker,KENSINGTON,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",361,13,304,44,0
+Walker,ROSSVILLE,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",1314,88,792,434,0
+Walker,CHICKAMAUGA,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",1852,76,1060,716,0
+Walker,FAIRYLAND,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",481,5,356,120,0
+Walker,FAIRVIEW,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",643,43,471,129,0
+Walker,,State Senator,53,R,JEFF E. MULLIS (I),10210,487,6764,2959,0
+Walker,LAFAYETTE,State Senator,53,R,JEFF E. MULLIS (I),1365,76,792,497,0
+Walker,CENTER POST,State Senator,53,R,JEFF E. MULLIS (I),469,24,316,129,0
+Walker,ROCK SPRING,State Senator,53,R,JEFF E. MULLIS (I),1584,55,999,530,0
+Walker,ARMUCHEE VALLEY,State Senator,53,R,JEFF E. MULLIS (I),341,11,301,29,0
+Walker,MOUNTAIN,State Senator,53,R,JEFF E. MULLIS (I),316,14,263,39,0
+Walker,CHATTANOOGA VALLEY,State Senator,53,R,JEFF E. MULLIS (I),1535,79,1156,300,0
+Walker,KENSINGTON,State Senator,53,R,JEFF E. MULLIS (I),333,10,282,41,0
+Walker,ROSSVILLE,State Senator,53,R,JEFF E. MULLIS (I),1307,87,791,429,0
+Walker,CHICKAMAUGA,State Senator,53,R,JEFF E. MULLIS (I),1844,83,1047,714,0
+Walker,FAIRYLAND,State Senator,53,R,JEFF E. MULLIS (I),489,5,362,122,0
+Walker,FAIRVIEW,State Senator,53,R,JEFF E. MULLIS (I),627,43,455,129,0
+Walker,,State Representative,1,R,JOHN V. DEFFENBAUGH (I),4781,256,3335,1190,0
+Walker,CENTER POST,State Representative,1,R,JOHN V. DEFFENBAUGH (I),175,5,144,26,0
+Walker,MOUNTAIN,State Representative,1,R,JOHN V. DEFFENBAUGH (I),291,13,240,38,0
+Walker,CHATTANOOGA VALLEY,State Representative,1,R,JOHN V. DEFFENBAUGH (I),1361,77,1022,262,0
+Walker,KENSINGTON,State Representative,1,R,JOHN V. DEFFENBAUGH (I),294,9,248,37,0
+Walker,ROSSVILLE,State Representative,1,R,JOHN V. DEFFENBAUGH (I),1113,83,651,379,0
+Walker,CHICKAMAUGA,State Representative,1,R,JOHN V. DEFFENBAUGH (I),540,22,295,223,0
+Walker,FAIRYLAND,State Representative,1,R,JOHN V. DEFFENBAUGH (I),440,5,324,111,0
+Walker,FAIRVIEW,State Representative,1,R,JOHN V. DEFFENBAUGH (I),567,42,411,114,0
+Walker,,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",1609,79,1110,420,0
+Walker,CENTER POST,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",42,4,34,4,0
+Walker,MOUNTAIN,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",93,2,82,9,0
+Walker,CHATTANOOGA VALLEY,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",460,22,338,100,0
+Walker,KENSINGTON,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",121,4,94,23,0
+Walker,ROSSVILLE,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",425,24,268,133,0
+Walker,CHICKAMAUGA,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",145,8,67,70,0
+Walker,FAIRYLAND,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",125,1,78,46,0
+Walker,FAIRVIEW,State Representative,1,D,"THOMAS A. ""TOM"" MCMAHAN",198,14,149,35,0
+Walker,,State Representative,2,R,"THOMAS S. ""STEVE"" TARVIN (I)",5043,223,3132,1688,0
+Walker,LAFAYETTE,State Representative,2,R,"THOMAS S. ""STEVE"" TARVIN (I)",1453,79,846,528,0
+Walker,CENTER POST,State Representative,2,R,"THOMAS S. ""STEVE"" TARVIN (I)",329,18,197,114,0
+Walker,ROCK SPRING,State Representative,2,R,"THOMAS S. ""STEVE"" TARVIN (I)",1650,58,1038,554,0
+Walker,ARMUCHEE VALLEY,State Representative,2,R,"THOMAS S. ""STEVE"" TARVIN (I)",357,11,312,34,0
+Walker,CHICKAMAUGA,State Representative,2,R,"THOMAS S. ""STEVE"" TARVIN (I)",1254,57,739,458,0
+Walker,,BOE P2,,R,CHARLES WILSON,9801,457,6562,2782,0
+Walker,LAFAYETTE,BOE P2,,R,CHARLES WILSON,1455,77,843,535,0
+Walker,CENTER POST,BOE P2,,R,CHARLES WILSON,510,24,350,136,0
+Walker,ROCK SPRING,BOE P2,,R,CHARLES WILSON,1652,58,1041,553,0
+Walker,ARMUCHEE VALLEY,BOE P2,,R,CHARLES WILSON,353,9,309,35,0
+Walker,MOUNTAIN,BOE P2,,R,CHARLES WILSON,317,12,267,38,0
+Walker,CHATTANOOGA VALLEY,BOE P2,,R,CHARLES WILSON,1542,77,1161,304,0
+Walker,KENSINGTON,BOE P2,,R,CHARLES WILSON,353,12,298,43,0
+Walker,ROSSVILLE,BOE P2,,R,CHARLES WILSON,1293,86,778,429,0
+Walker,CHICKAMAUGA,BOE P2,,R,CHARLES WILSON,1199,53,684,462,0
+Walker,FAIRYLAND,BOE P2,,R,CHARLES WILSON,487,5,361,121,0
+Walker,FAIRVIEW,BOE P2,,R,CHARLES WILSON,640,44,470,126,0
+Walker,,BOE P3,,R,MIKE CARRUTH (I),9825,462,6565,2798,0
+Walker,LAFAYETTE,BOE P3,,R,MIKE CARRUTH (I),1454,77,837,540,0
+Walker,CENTER POST,BOE P3,,R,MIKE CARRUTH (I),514,26,343,145,0
+Walker,ROCK SPRING,BOE P3,,R,MIKE CARRUTH (I),1650,58,1034,558,0
+Walker,ARMUCHEE VALLEY,BOE P3,,R,MIKE CARRUTH (I),349,10,308,31,0
+Walker,MOUNTAIN,BOE P3,,R,MIKE CARRUTH (I),320,13,268,39,0
+Walker,CHATTANOOGA VALLEY,BOE P3,,R,MIKE CARRUTH (I),1557,78,1173,306,0
+Walker,KENSINGTON,BOE P3,,R,MIKE CARRUTH (I),356,12,300,44,0
+Walker,ROSSVILLE,BOE P3,,R,MIKE CARRUTH (I),1303,87,785,431,0
+Walker,CHICKAMAUGA,BOE P3,,R,MIKE CARRUTH (I),1200,53,690,457,0
+Walker,FAIRYLAND,BOE P3,,R,MIKE CARRUTH (I),486,5,358,123,0
+Walker,FAIRVIEW,BOE P3,,R,MIKE CARRUTH (I),636,43,469,124,0
+Walker,,SOIL & WATER,,,J. B. LEMONS (I),9934,489,6554,2891,0
+Walker,LAFAYETTE,SOIL & WATER,,,J. B. LEMONS (I),1436,82,831,523,0
+Walker,CENTER POST,SOIL & WATER,,,J. B. LEMONS (I),495,25,330,140,0
+Walker,ROCK SPRING,SOIL & WATER,,,J. B. LEMONS (I),1559,56,988,515,0
+Walker,ARMUCHEE VALLEY,SOIL & WATER,,,J. B. LEMONS (I),333,10,291,32,0
+Walker,MOUNTAIN,SOIL & WATER,,,J. B. LEMONS (I),287,13,237,37,0
+Walker,CHATTANOOGA VALLEY,SOIL & WATER,,,J. B. LEMONS (I),1450,78,1087,285,0
+Walker,KENSINGTON,SOIL & WATER,,,J. B. LEMONS (I),340,13,280,47,0
+Walker,ROSSVILLE,SOIL & WATER,,,J. B. LEMONS (I),1227,87,745,395,0
+Walker,CHICKAMAUGA,SOIL & WATER,,,J. B. LEMONS (I),1735,79,977,679,0
+Walker,FAIRYLAND,SOIL & WATER,,,J. B. LEMONS (I),457,3,334,120,0
+Walker,FAIRVIEW,SOIL & WATER,,,J. B. LEMONS (I),615,43,454,118,0
+Walker,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,9870,494,6477,2899,0
+Walker,LAFAYETTE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1389,70,821,498,0
+Walker,CENTER POST,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,475,23,317,135,0
+Walker,ROCK SPRING,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1622,65,997,560,0
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,343,12,297,34,0
+Walker,MOUNTAIN,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,315,15,269,31,0
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1474,82,1106,286,0
+Walker,KENSINGTON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,317,12,262,43,0
+Walker,ROSSVILLE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1223,90,732,401,0
+Walker,CHICKAMAUGA,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1707,76,955,676,0
+Walker,FAIRYLAND,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,431,5,304,122,0
+Walker,FAIRVIEW,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,574,44,417,113,0
+Walker,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,2455,104,1619,732,0
+Walker,LAFAYETTE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,369,25,193,151,0
+Walker,CENTER POST,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,118,4,82,32,0
+Walker,ROCK SPRING,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,326,10,203,113,0
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,76,1,68,7,0
+Walker,MOUNTAIN,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,68,0,54,14,0
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,348,17,253,78,0
+Walker,KENSINGTON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,101,2,83,16,0
+Walker,ROSSVILLE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,322,17,201,104,0
+Walker,CHICKAMAUGA,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,416,17,243,156,0
+Walker,FAIRYLAND,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,128,1,96,31,0
+Walker,FAIRVIEW,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,183,10,143,30,0
+Walker,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,7870,423,5113,2334,0
+Walker,LAFAYETTE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1147,67,646,434,0
+Walker,CENTER POST,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,346,20,229,97,0
+Walker,ROCK SPRING,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1263,57,774,432,0
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,233,6,203,24,0
+Walker,MOUNTAIN,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,236,8,196,32,0
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1206,73,895,238,0
+Walker,KENSINGTON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,250,10,201,39,0
+Walker,ROSSVILLE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1009,80,603,326,0
+Walker,CHICKAMAUGA,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1319,59,748,512,0
+Walker,FAIRYLAND,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,371,5,260,106,0
+Walker,FAIRVIEW,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,490,38,358,94,0
+Walker,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,4212,159,2826,1227,0
+Walker,LAFAYETTE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,582,26,347,209,0
+Walker,CENTER POST,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,238,6,165,67,0
+Walker,ROCK SPRING,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,649,19,401,229,0
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,174,7,153,14,0
+Walker,MOUNTAIN,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,135,5,117,13,0
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,577,22,438,117,0
+Walker,KENSINGTON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,159,3,136,20,0
+Walker,ROSSVILLE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,504,25,314,165,0
+Walker,CHICKAMAUGA,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,765,30,429,306,0
+Walker,FAIRYLAND,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,175,1,127,47,0
+Walker,FAIRVIEW,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,254,15,199,40,0
+Walker,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,8904,437,5836,2631,0
+Walker,LAFAYETTE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1248,65,701,482,0
+Walker,CENTER POST,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,424,21,284,119,0
+Walker,ROCK SPRING,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1395,46,876,473,0
+Walker,ARMUCHEE VALLEY,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,293,10,255,28,0
+Walker,MOUNTAIN,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,270,13,229,28,0
+Walker,CHATTANOOGA VALLEY,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1306,76,965,265,0
+Walker,KENSINGTON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,305,13,250,42,0
+Walker,ROSSVILLE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1136,74,704,358,0
+Walker,CHICKAMAUGA,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1542,69,863,610,0
+Walker,FAIRYLAND,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,434,4,308,122,0
+Walker,FAIRVIEW,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,551,46,401,104,0
+Walker,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,3227,153,2150,924,0
+Walker,LAFAYETTE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,477,29,293,155,0
+Walker,CENTER POST,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,168,7,114,47,0
+Walker,ROCK SPRING,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,521,29,310,182,0
+Walker,ARMUCHEE VALLEY,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,127,3,111,13,0
+Walker,MOUNTAIN,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,104,0,88,16,0
+Walker,CHATTANOOGA VALLEY,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,475,20,369,86,0
+Walker,KENSINGTON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,112,1,94,17,0
+Walker,ROSSVILLE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,374,30,208,136,0
+Walker,CHICKAMAUGA,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,556,24,325,207,0
+Walker,FAIRYLAND,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,116,2,83,31,0
+Walker,FAIRVIEW,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,197,8,155,34,0
+Walker,,REFERENDUM,,,YES,5828,226,3950,1652,0
+Walker,LAFAYETTE,REFERENDUM,,,YES,800,32,495,273,0
+Walker,CENTER POST,REFERENDUM,,,YES,240,3,160,77,0
+Walker,ROCK SPRING,REFERENDUM,,,YES,819,33,511,275,0
+Walker,ARMUCHEE VALLEY,REFERENDUM,,,YES,196,2,181,13,0
+Walker,MOUNTAIN,REFERENDUM,,,YES,177,5,153,19,0
+Walker,CHATTANOOGA VALLEY,REFERENDUM,,,YES,867,37,670,160,0
+Walker,KENSINGTON,REFERENDUM,,,YES,176,7,141,28,0
+Walker,ROSSVILLE,REFERENDUM,,,YES,789,48,497,244,0
+Walker,CHICKAMAUGA,REFERENDUM,,,YES,1009,40,575,394,0
+Walker,FAIRYLAND,REFERENDUM,,,YES,428,3,314,111,0
+Walker,FAIRVIEW,REFERENDUM,,,YES,327,16,253,58,0
+Walker,,REFERENDUM,,,NO,6626,385,4231,2010,0
+Walker,LAFAYETTE,REFERENDUM,,,NO,974,64,528,382,0
+Walker,CENTER POST,REFERENDUM,,,NO,359,24,246,89,0
+Walker,ROCK SPRING,REFERENDUM,,,NO,1137,45,692,400,0
+Walker,ARMUCHEE VALLEY,REFERENDUM,,,NO,230,11,191,28,0
+Walker,MOUNTAIN,REFERENDUM,,,NO,213,10,176,27,0
+Walker,CHATTANOOGA VALLEY,REFERENDUM,,,NO,975,63,706,206,0
+Walker,KENSINGTON,REFERENDUM,,,NO,244,7,205,32,0
+Walker,ROSSVILLE,REFERENDUM,,,NO,772,62,441,269,0
+Walker,CHICKAMAUGA,REFERENDUM,,,NO,1145,55,644,446,0
+Walker,FAIRYLAND,REFERENDUM,,,NO,139,4,91,44,0
+Walker,FAIRVIEW,REFERENDUM,,,NO,438,40,311,87,0

@@ -1,0 +1,547 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Gilmer,,United States Senator,,R,DAVID A. PERDUE,6104,298,3818,1977,11
+Gilmer,ELLIJAY SOUTH,United States Senator,,R,DAVID A. PERDUE,776,38,416,321,1
+Gilmer,CARTECAY,United States Senator,,R,DAVID A. PERDUE,509,15,319,174,1
+Gilmer,TAILS CREEK,United States Senator,,R,DAVID A. PERDUE,359,16,265,77,1
+Gilmer,TOWN CREEK,United States Senator,,R,DAVID A. PERDUE,306,11,223,71,1
+Gilmer,LEACHES,United States Senator,,R,DAVID A. PERDUE,667,29,414,223,1
+Gilmer,CHERRY LOG,United States Senator,,R,DAVID A. PERDUE,295,11,221,63,0
+Gilmer,BOARDTOWN,United States Senator,,R,DAVID A. PERDUE,460,13,289,158,0
+Gilmer,MOUNTAINTOWN,United States Senator,,R,DAVID A. PERDUE,362,11,267,84,0
+Gilmer,EAST ELLIJAY,United States Senator,,R,DAVID A. PERDUE,466,35,250,181,0
+Gilmer,ELLIJAY NORTH,United States Senator,,R,DAVID A. PERDUE,466,47,276,142,1
+Gilmer,YUKON,United States Senator,,R,DAVID A. PERDUE,370,12,280,76,2
+Gilmer,BIG CREEK,United States Senator,,R,DAVID A. PERDUE,466,13,303,148,2
+Gilmer,ELLIJAY NORTHEAST,United States Senator,,R,DAVID A. PERDUE,602,47,295,259,1
+Gilmer,,United States Senator,,D,M. MICHELLE NUNN,1592,70,930,587,5
+Gilmer,ELLIJAY SOUTH,United States Senator,,D,M. MICHELLE NUNN,214,10,114,88,2
+Gilmer,CARTECAY,United States Senator,,D,M. MICHELLE NUNN,126,6,65,54,1
+Gilmer,TAILS CREEK,United States Senator,,D,M. MICHELLE NUNN,96,1,72,23,0
+Gilmer,TOWN CREEK,United States Senator,,D,M. MICHELLE NUNN,69,2,56,10,1
+Gilmer,LEACHES,United States Senator,,D,M. MICHELLE NUNN,195,6,106,83,0
+Gilmer,CHERRY LOG,United States Senator,,D,M. MICHELLE NUNN,115,4,92,19,0
+Gilmer,BOARDTOWN,United States Senator,,D,M. MICHELLE NUNN,107,6,56,45,0
+Gilmer,MOUNTAINTOWN,United States Senator,,D,M. MICHELLE NUNN,75,2,46,27,0
+Gilmer,EAST ELLIJAY,United States Senator,,D,M. MICHELLE NUNN,128,10,72,46,0
+Gilmer,ELLIJAY NORTH,United States Senator,,D,M. MICHELLE NUNN,108,5,69,34,0
+Gilmer,YUKON,United States Senator,,D,M. MICHELLE NUNN,76,3,52,21,0
+Gilmer,BIG CREEK,United States Senator,,D,M. MICHELLE NUNN,130,4,75,51,0
+Gilmer,ELLIJAY NORTHEAST,United States Senator,,D,M. MICHELLE NUNN,153,11,55,86,1
+Gilmer,,United States Senator,,L,AMANDA C. SWAFFORD,193,11,140,42,0
+Gilmer,ELLIJAY SOUTH,United States Senator,,L,AMANDA C. SWAFFORD,21,1,16,4,0
+Gilmer,CARTECAY,United States Senator,,L,AMANDA C. SWAFFORD,14,0,12,2,0
+Gilmer,TAILS CREEK,United States Senator,,L,AMANDA C. SWAFFORD,19,1,11,7,0
+Gilmer,TOWN CREEK,United States Senator,,L,AMANDA C. SWAFFORD,15,1,13,1,0
+Gilmer,LEACHES,United States Senator,,L,AMANDA C. SWAFFORD,28,1,17,10,0
+Gilmer,CHERRY LOG,United States Senator,,L,AMANDA C. SWAFFORD,12,0,11,1,0
+Gilmer,BOARDTOWN,United States Senator,,L,AMANDA C. SWAFFORD,10,1,8,1,0
+Gilmer,MOUNTAINTOWN,United States Senator,,L,AMANDA C. SWAFFORD,12,2,10,0,0
+Gilmer,EAST ELLIJAY,United States Senator,,L,AMANDA C. SWAFFORD,13,1,10,2,0
+Gilmer,ELLIJAY NORTH,United States Senator,,L,AMANDA C. SWAFFORD,15,1,5,9,0
+Gilmer,YUKON,United States Senator,,L,AMANDA C. SWAFFORD,9,1,7,1,0
+Gilmer,BIG CREEK,United States Senator,,L,AMANDA C. SWAFFORD,11,1,8,2,0
+Gilmer,ELLIJAY NORTHEAST,United States Senator,,L,AMANDA C. SWAFFORD,14,0,12,2,0
+Gilmer,,Governor,,R,J. NATHAN DEAL (I),5956,294,3724,1926,12
+Gilmer,ELLIJAY SOUTH,Governor,,R,J. NATHAN DEAL (I),750,35,397,316,2
+Gilmer,CARTECAY,Governor,,R,J. NATHAN DEAL (I),508,15,324,168,1
+Gilmer,TAILS CREEK,Governor,,R,J. NATHAN DEAL (I),349,15,261,72,1
+Gilmer,TOWN CREEK,Governor,,R,J. NATHAN DEAL (I),295,9,216,69,1
+Gilmer,LEACHES,Governor,,R,J. NATHAN DEAL (I),653,28,402,222,1
+Gilmer,CHERRY LOG,Governor,,R,J. NATHAN DEAL (I),297,11,225,61,0
+Gilmer,BOARDTOWN,Governor,,R,J. NATHAN DEAL (I),451,13,283,155,0
+Gilmer,MOUNTAINTOWN,Governor,,R,J. NATHAN DEAL (I),358,10,261,87,0
+Gilmer,EAST ELLIJAY,Governor,,R,J. NATHAN DEAL (I),443,36,235,172,0
+Gilmer,ELLIJAY NORTH,Governor,,R,J. NATHAN DEAL (I),459,49,277,132,1
+Gilmer,YUKON,Governor,,R,J. NATHAN DEAL (I),363,13,273,75,2
+Gilmer,BIG CREEK,Governor,,R,J. NATHAN DEAL (I),458,15,294,147,2
+Gilmer,ELLIJAY NORTHEAST,Governor,,R,J. NATHAN DEAL (I),572,45,276,250,1
+Gilmer,,Governor,,D,JASON J. CARTER,1609,72,953,580,4
+Gilmer,ELLIJAY SOUTH,Governor,,D,JASON J. CARTER,228,13,126,88,1
+Gilmer,CARTECAY,Governor,,D,JASON J. CARTER,120,6,64,49,1
+Gilmer,TAILS CREEK,Governor,,D,JASON J. CARTER,98,2,73,23,0
+Gilmer,TOWN CREEK,Governor,,D,JASON J. CARTER,75,3,62,9,1
+Gilmer,LEACHES,Governor,,D,JASON J. CARTER,195,8,106,81,0
+Gilmer,CHERRY LOG,Governor,,D,JASON J. CARTER,105,4,82,19,0
+Gilmer,BOARDTOWN,Governor,,D,JASON J. CARTER,106,5,59,42,0
+Gilmer,MOUNTAINTOWN,Governor,,D,JASON J. CARTER,74,3,47,24,0
+Gilmer,EAST ELLIJAY,Governor,,D,JASON J. CARTER,146,9,86,51,0
+Gilmer,ELLIJAY NORTH,Governor,,D,JASON J. CARTER,106,3,65,38,0
+Gilmer,YUKON,Governor,,D,JASON J. CARTER,70,2,47,21,0
+Gilmer,BIG CREEK,Governor,,D,JASON J. CARTER,126,3,72,51,0
+Gilmer,ELLIJAY NORTHEAST,Governor,,D,JASON J. CARTER,160,11,64,84,1
+Gilmer,,Governor,,L,ANDREW T. HUNT,261,12,177,72,0
+Gilmer,ELLIJAY SOUTH,Governor,,L,ANDREW T. HUNT,30,0,22,8,0
+Gilmer,CARTECAY,Governor,,L,ANDREW T. HUNT,20,0,14,6,0
+Gilmer,TAILS CREEK,Governor,,L,ANDREW T. HUNT,17,1,8,8,0
+Gilmer,TOWN CREEK,Governor,,L,ANDREW T. HUNT,17,2,12,3,0
+Gilmer,LEACHES,Governor,,L,ANDREW T. HUNT,35,0,25,10,0
+Gilmer,CHERRY LOG,Governor,,L,ANDREW T. HUNT,15,0,13,2,0
+Gilmer,BOARDTOWN,Governor,,L,ANDREW T. HUNT,15,3,6,6,0
+Gilmer,MOUNTAINTOWN,Governor,,L,ANDREW T. HUNT,13,2,11,0,0
+Gilmer,EAST ELLIJAY,Governor,,L,ANDREW T. HUNT,18,1,13,4,0
+Gilmer,ELLIJAY NORTH,Governor,,L,ANDREW T. HUNT,20,1,8,11,0
+Gilmer,YUKON,Governor,,L,ANDREW T. HUNT,12,1,10,1,0
+Gilmer,BIG CREEK,Governor,,L,ANDREW T. HUNT,19,1,16,2,0
+Gilmer,ELLIJAY NORTHEAST,Governor,,L,ANDREW T. HUNT,30,0,19,11,0
+Gilmer,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",6446,321,4044,2068,13
+Gilmer,ELLIJAY SOUTH,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",828,40,445,341,2
+Gilmer,CARTECAY,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",539,19,339,180,1
+Gilmer,TAILS CREEK,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",377,15,278,83,1
+Gilmer,TOWN CREEK,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",325,10,240,74,1
+Gilmer,LEACHES,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",717,30,450,236,1
+Gilmer,CHERRY LOG,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",324,11,247,66,0
+Gilmer,BOARDTOWN,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",482,16,297,169,0
+Gilmer,MOUNTAINTOWN,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",369,12,270,87,0
+Gilmer,EAST ELLIJAY,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",491,37,271,183,0
+Gilmer,ELLIJAY NORTH,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",492,49,293,149,1
+Gilmer,YUKON,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",379,13,288,76,2
+Gilmer,BIG CREEK,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",493,18,319,154,2
+Gilmer,ELLIJAY NORTHEAST,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",630,51,307,270,2
+Gilmer,,Lieutenant Governor,,D,CONNIE J. STOKES,1295,56,753,484,2
+Gilmer,ELLIJAY SOUTH,Lieutenant Governor,,D,CONNIE J. STOKES,166,7,92,66,1
+Gilmer,CARTECAY,Lieutenant Governor,,D,CONNIE J. STOKES,100,1,53,45,1
+Gilmer,TAILS CREEK,Lieutenant Governor,,D,CONNIE J. STOKES,86,3,61,22,0
+Gilmer,TOWN CREEK,Lieutenant Governor,,D,CONNIE J. STOKES,57,4,46,7,0
+Gilmer,LEACHES,Lieutenant Governor,,D,CONNIE J. STOKES,165,5,84,76,0
+Gilmer,CHERRY LOG,Lieutenant Governor,,D,CONNIE J. STOKES,93,4,72,17,0
+Gilmer,BOARDTOWN,Lieutenant Governor,,D,CONNIE J. STOKES,83,5,46,32,0
+Gilmer,MOUNTAINTOWN,Lieutenant Governor,,D,CONNIE J. STOKES,65,3,42,20,0
+Gilmer,EAST ELLIJAY,Lieutenant Governor,,D,CONNIE J. STOKES,106,8,58,40,0
+Gilmer,ELLIJAY NORTH,Lieutenant Governor,,D,CONNIE J. STOKES,82,4,50,28,0
+Gilmer,YUKON,Lieutenant Governor,,D,CONNIE J. STOKES,66,3,42,21,0
+Gilmer,BIG CREEK,Lieutenant Governor,,D,CONNIE J. STOKES,107,2,60,45,0
+Gilmer,ELLIJAY NORTHEAST,Lieutenant Governor,,D,CONNIE J. STOKES,119,7,47,65,0
+Gilmer,,Secretary Of State,,,BRIAN P. KEMP (I),6073,309,3776,1975,13
+Gilmer,ELLIJAY SOUTH,Secretary Of State,,,BRIAN P. KEMP (I),763,36,409,317,1
+Gilmer,CARTECAY,Secretary Of State,,,BRIAN P. KEMP (I),500,16,313,169,2
+Gilmer,TAILS CREEK,Secretary Of State,,,BRIAN P. KEMP (I),356,16,260,79,1
+Gilmer,TOWN CREEK,Secretary Of State,,,BRIAN P. KEMP (I),306,11,226,68,1
+Gilmer,LEACHES,Secretary Of State,,,BRIAN P. KEMP (I),682,30,421,230,1
+Gilmer,CHERRY LOG,Secretary Of State,,,BRIAN P. KEMP (I),308,12,235,61,0
+Gilmer,BOARDTOWN,Secretary Of State,,,BRIAN P. KEMP (I),449,15,276,158,0
+Gilmer,MOUNTAINTOWN,Secretary Of State,,,BRIAN P. KEMP (I),353,11,261,81,0
+Gilmer,EAST ELLIJAY,Secretary Of State,,,BRIAN P. KEMP (I),471,36,256,179,0
+Gilmer,ELLIJAY NORTH,Secretary Of State,,,BRIAN P. KEMP (I),466,49,272,144,1
+Gilmer,YUKON,Secretary Of State,,,BRIAN P. KEMP (I),362,13,270,77,2
+Gilmer,BIG CREEK,Secretary Of State,,,BRIAN P. KEMP (I),461,16,296,147,2
+Gilmer,ELLIJAY NORTHEAST,Secretary Of State,,,BRIAN P. KEMP (I),596,48,281,265,2
+Gilmer,,Secretary Of State,,D,DOREEN CARTER,1375,62,808,502,3
+Gilmer,ELLIJAY SOUTH,Secretary Of State,,D,DOREEN CARTER,188,10,101,75,2
+Gilmer,CARTECAY,Secretary Of State,,D,DOREEN CARTER,112,4,61,47,0
+Gilmer,TAILS CREEK,Secretary Of State,,D,DOREEN CARTER,86,1,64,21,0
+Gilmer,TOWN CREEK,Secretary Of State,,D,DOREEN CARTER,63,3,51,8,1
+Gilmer,LEACHES,Secretary Of State,,D,DOREEN CARTER,172,6,89,77,0
+Gilmer,CHERRY LOG,Secretary Of State,,D,DOREEN CARTER,101,3,78,20,0
+Gilmer,BOARDTOWN,Secretary Of State,,D,DOREEN CARTER,93,5,50,38,0
+Gilmer,MOUNTAINTOWN,Secretary Of State,,D,DOREEN CARTER,71,4,46,21,0
+Gilmer,EAST ELLIJAY,Secretary Of State,,D,DOREEN CARTER,109,9,58,42,0
+Gilmer,ELLIJAY NORTH,Secretary Of State,,D,DOREEN CARTER,84,4,51,29,0
+Gilmer,YUKON,Secretary Of State,,D,DOREEN CARTER,61,2,42,17,0
+Gilmer,BIG CREEK,Secretary Of State,,D,DOREEN CARTER,112,2,68,42,0
+Gilmer,ELLIJAY NORTHEAST,Secretary Of State,,D,DOREEN CARTER,123,9,49,65,0
+Gilmer,,Attorney General,,R,SAMUEL S. OLENS (I),6183,310,3847,2014,12
+Gilmer,ELLIJAY SOUTH,Attorney General,,R,SAMUEL S. OLENS (I),787,39,421,325,2
+Gilmer,CARTECAY,Attorney General,,R,SAMUEL S. OLENS (I),515,14,324,176,1
+Gilmer,TAILS CREEK,Attorney General,,R,SAMUEL S. OLENS (I),358,16,259,82,1
+Gilmer,TOWN CREEK,Attorney General,,R,SAMUEL S. OLENS (I),307,10,224,72,1
+Gilmer,LEACHES,Attorney General,,R,SAMUEL S. OLENS (I),696,31,427,237,1
+Gilmer,CHERRY LOG,Attorney General,,R,SAMUEL S. OLENS (I),316,11,240,65,0
+Gilmer,BOARDTOWN,Attorney General,,R,SAMUEL S. OLENS (I),459,16,284,159,0
+Gilmer,MOUNTAINTOWN,Attorney General,,R,SAMUEL S. OLENS (I),356,12,260,84,0
+Gilmer,EAST ELLIJAY,Attorney General,,R,SAMUEL S. OLENS (I),473,37,260,176,0
+Gilmer,ELLIJAY NORTH,Attorney General,,R,SAMUEL S. OLENS (I),479,49,284,145,1
+Gilmer,YUKON,Attorney General,,R,SAMUEL S. OLENS (I),370,14,275,79,2
+Gilmer,BIG CREEK,Attorney General,,R,SAMUEL S. OLENS (I),471,14,303,152,2
+Gilmer,ELLIJAY NORTHEAST,Attorney General,,R,SAMUEL S. OLENS (I),596,47,286,262,1
+Gilmer,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",1461,63,878,516,4
+Gilmer,ELLIJAY SOUTH,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",189,8,106,74,1
+Gilmer,CARTECAY,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",111,6,60,44,1
+Gilmer,TAILS CREEK,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",98,1,74,23,0
+Gilmer,TOWN CREEK,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",77,4,62,10,1
+Gilmer,LEACHES,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",180,5,97,78,0
+Gilmer,CHERRY LOG,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",101,4,80,17,0
+Gilmer,BOARDTOWN,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",99,5,55,39,0
+Gilmer,MOUNTAINTOWN,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",77,2,53,22,0
+Gilmer,EAST ELLIJAY,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",117,9,63,45,0
+Gilmer,ELLIJAY NORTH,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",89,3,56,30,0
+Gilmer,YUKON,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",67,2,47,18,0
+Gilmer,BIG CREEK,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",117,3,70,44,0
+Gilmer,ELLIJAY NORTHEAST,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",139,11,55,72,1
+Gilmer,,Commissioner Of Agriculture,,R,GARY W. BLACK (I),6370,312,4014,2032,12
+Gilmer,ELLIJAY SOUTH,Commissioner Of Agriculture,,R,GARY W. BLACK (I),805,39,433,332,1
+Gilmer,CARTECAY,Commissioner Of Agriculture,,R,GARY W. BLACK (I),538,17,341,179,1
+Gilmer,TAILS CREEK,Commissioner Of Agriculture,,R,GARY W. BLACK (I),368,15,271,81,1
+Gilmer,TOWN CREEK,Commissioner Of Agriculture,,R,GARY W. BLACK (I),321,10,236,73,2
+Gilmer,LEACHES,Commissioner Of Agriculture,,R,GARY W. BLACK (I),714,31,445,237,1
+Gilmer,CHERRY LOG,Commissioner Of Agriculture,,R,GARY W. BLACK (I),327,12,250,65,0
+Gilmer,BOARDTOWN,Commissioner Of Agriculture,,R,GARY W. BLACK (I),476,17,295,164,0
+Gilmer,MOUNTAINTOWN,Commissioner Of Agriculture,,R,GARY W. BLACK (I),377,12,279,86,0
+Gilmer,EAST ELLIJAY,Commissioner Of Agriculture,,R,GARY W. BLACK (I),487,37,271,179,0
+Gilmer,ELLIJAY NORTH,Commissioner Of Agriculture,,R,GARY W. BLACK (I),483,48,292,143,0
+Gilmer,YUKON,Commissioner Of Agriculture,,R,GARY W. BLACK (I),383,13,290,78,2
+Gilmer,BIG CREEK,Commissioner Of Agriculture,,R,GARY W. BLACK (I),480,15,310,153,2
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Agriculture,,R,GARY W. BLACK (I),611,46,301,262,2
+Gilmer,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,1318,63,755,496,4
+Gilmer,ELLIJAY SOUTH,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,171,8,94,67,2
+Gilmer,CARTECAY,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,98,4,50,43,1
+Gilmer,TAILS CREEK,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,93,2,68,23,0
+Gilmer,TOWN CREEK,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,62,4,50,8,0
+Gilmer,LEACHES,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,164,5,81,78,0
+Gilmer,CHERRY LOG,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,92,3,72,17,0
+Gilmer,BOARDTOWN,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,85,4,47,34,0
+Gilmer,MOUNTAINTOWN,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,60,2,38,20,0
+Gilmer,EAST ELLIJAY,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,111,9,57,45,0
+Gilmer,ELLIJAY NORTH,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,85,5,46,33,1
+Gilmer,YUKON,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,59,3,37,19,0
+Gilmer,BIG CREEK,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,106,2,66,38,0
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,132,12,49,71,0
+Gilmer,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),6011,299,3742,1958,12
+Gilmer,ELLIJAY SOUTH,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),749,35,397,316,1
+Gilmer,CARTECAY,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),499,16,319,163,1
+Gilmer,TAILS CREEK,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),350,14,258,77,1
+Gilmer,TOWN CREEK,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),309,9,227,72,1
+Gilmer,LEACHES,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),677,29,413,234,1
+Gilmer,CHERRY LOG,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),301,11,230,60,0
+Gilmer,BOARDTOWN,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),452,16,277,159,0
+Gilmer,MOUNTAINTOWN,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),359,11,264,84,0
+Gilmer,EAST ELLIJAY,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),452,34,240,178,0
+Gilmer,ELLIJAY NORTH,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),466,48,275,142,1
+Gilmer,YUKON,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),362,12,268,80,2
+Gilmer,BIG CREEK,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),447,15,290,140,2
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),588,49,284,253,2
+Gilmer,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",1304,59,763,479,3
+Gilmer,ELLIJAY SOUTH,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",179,9,96,73,1
+Gilmer,CARTECAY,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",100,4,48,47,1
+Gilmer,TAILS CREEK,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",89,3,66,20,0
+Gilmer,TOWN CREEK,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",55,4,44,6,1
+Gilmer,LEACHES,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",166,5,91,70,0
+Gilmer,CHERRY LOG,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",99,4,77,18,0
+Gilmer,BOARDTOWN,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",84,3,49,32,0
+Gilmer,MOUNTAINTOWN,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",58,1,38,19,0
+Gilmer,EAST ELLIJAY,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",109,10,61,38,0
+Gilmer,ELLIJAY NORTH,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",82,4,52,26,0
+Gilmer,YUKON,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",58,2,39,17,0
+Gilmer,BIG CREEK,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",101,1,56,44,0
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",124,9,46,69,0
+Gilmer,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",334,15,218,100,1
+Gilmer,ELLIJAY SOUTH,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",46,3,28,14,1
+Gilmer,CARTECAY,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",31,0,21,10,0
+Gilmer,TAILS CREEK,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",18,0,12,6,0
+Gilmer,TOWN CREEK,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",23,1,19,3,0
+Gilmer,LEACHES,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",35,2,20,13,0
+Gilmer,CHERRY LOG,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",13,0,8,5,0
+Gilmer,BOARDTOWN,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",25,2,14,9,0
+Gilmer,MOUNTAINTOWN,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",13,1,10,2,0
+Gilmer,EAST ELLIJAY,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",27,1,22,4,0
+Gilmer,ELLIJAY NORTH,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",22,1,11,10,0
+Gilmer,YUKON,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",17,2,15,0,0
+Gilmer,BIG CREEK,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",36,2,23,11,0
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",28,0,15,13,0
+Gilmer,,State School Superintendent,,R,RICHARD L. WOODS,6132,302,3837,1983,10
+Gilmer,ELLIJAY SOUTH,State School Superintendent,,R,RICHARD L. WOODS,786,36,424,325,1
+Gilmer,CARTECAY,State School Superintendent,,R,RICHARD L. WOODS,509,15,321,172,1
+Gilmer,TAILS CREEK,State School Superintendent,,R,RICHARD L. WOODS,359,15,264,79,1
+Gilmer,TOWN CREEK,State School Superintendent,,R,RICHARD L. WOODS,313,12,226,73,2
+Gilmer,LEACHES,State School Superintendent,,R,RICHARD L. WOODS,685,30,419,236,0
+Gilmer,CHERRY LOG,State School Superintendent,,R,RICHARD L. WOODS,312,11,238,63,0
+Gilmer,BOARDTOWN,State School Superintendent,,R,RICHARD L. WOODS,463,16,287,160,0
+Gilmer,MOUNTAINTOWN,State School Superintendent,,R,RICHARD L. WOODS,360,11,266,83,0
+Gilmer,EAST ELLIJAY,State School Superintendent,,R,RICHARD L. WOODS,463,35,253,175,0
+Gilmer,ELLIJAY NORTH,State School Superintendent,,R,RICHARD L. WOODS,458,48,269,140,1
+Gilmer,YUKON,State School Superintendent,,R,RICHARD L. WOODS,365,12,274,77,2
+Gilmer,BIG CREEK,State School Superintendent,,R,RICHARD L. WOODS,468,14,309,144,1
+Gilmer,ELLIJAY NORTHEAST,State School Superintendent,,R,RICHARD L. WOODS,591,47,287,256,1
+Gilmer,,State School Superintendent,,D,VALARIE D. WILSON,1501,71,886,540,4
+Gilmer,ELLIJAY SOUTH,State School Superintendent,,D,VALARIE D. WILSON,194,11,103,78,2
+Gilmer,CARTECAY,State School Superintendent,,D,VALARIE D. WILSON,125,6,69,49,1
+Gilmer,TAILS CREEK,State School Superintendent,,D,VALARIE D. WILSON,97,2,71,24,0
+Gilmer,TOWN CREEK,State School Superintendent,,D,VALARIE D. WILSON,69,2,60,7,0
+Gilmer,LEACHES,State School Superintendent,,D,VALARIE D. WILSON,185,6,100,79,0
+Gilmer,CHERRY LOG,State School Superintendent,,D,VALARIE D. WILSON,101,4,77,20,0
+Gilmer,BOARDTOWN,State School Superintendent,,D,VALARIE D. WILSON,93,5,50,38,0
+Gilmer,MOUNTAINTOWN,State School Superintendent,,D,VALARIE D. WILSON,76,4,47,25,0
+Gilmer,EAST ELLIJAY,State School Superintendent,,D,VALARIE D. WILSON,125,10,70,45,0
+Gilmer,ELLIJAY NORTH,State School Superintendent,,D,VALARIE D. WILSON,107,5,69,33,0
+Gilmer,YUKON,State School Superintendent,,D,VALARIE D. WILSON,69,3,48,18,0
+Gilmer,BIG CREEK,State School Superintendent,,D,VALARIE D. WILSON,117,2,68,47,0
+Gilmer,ELLIJAY NORTHEAST,State School Superintendent,,D,VALARIE D. WILSON,143,11,54,77,1
+Gilmer,,Commissioner Of Labor,,R,J. MARK BUTLER (I),6148,305,3841,1990,12
+Gilmer,ELLIJAY SOUTH,Commissioner Of Labor,,R,J. MARK BUTLER (I),781,36,417,327,1
+Gilmer,CARTECAY,Commissioner Of Labor,,R,J. MARK BUTLER (I),512,15,324,171,2
+Gilmer,TAILS CREEK,Commissioner Of Labor,,R,J. MARK BUTLER (I),362,15,267,79,1
+Gilmer,TOWN CREEK,Commissioner Of Labor,,R,J. MARK BUTLER (I),316,11,231,73,1
+Gilmer,LEACHES,Commissioner Of Labor,,R,J. MARK BUTLER (I),688,30,424,233,1
+Gilmer,CHERRY LOG,Commissioner Of Labor,,R,J. MARK BUTLER (I),305,11,231,63,0
+Gilmer,BOARDTOWN,Commissioner Of Labor,,R,J. MARK BUTLER (I),455,16,277,162,0
+Gilmer,MOUNTAINTOWN,Commissioner Of Labor,,R,J. MARK BUTLER (I),367,12,270,85,0
+Gilmer,EAST ELLIJAY,Commissioner Of Labor,,R,J. MARK BUTLER (I),470,38,256,176,0
+Gilmer,ELLIJAY NORTH,Commissioner Of Labor,,R,J. MARK BUTLER (I),462,48,278,135,1
+Gilmer,YUKON,Commissioner Of Labor,,R,J. MARK BUTLER (I),364,12,274,76,2
+Gilmer,BIG CREEK,Commissioner Of Labor,,R,J. MARK BUTLER (I),467,14,307,144,2
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Labor,,R,J. MARK BUTLER (I),599,47,285,266,1
+Gilmer,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,1425,68,842,511,4
+Gilmer,ELLIJAY SOUTH,Commissioner Of Labor,,D,ROBBIN K. SHIPP,189,11,105,71,2
+Gilmer,CARTECAY,Commissioner Of Labor,,D,ROBBIN K. SHIPP,116,6,63,47,0
+Gilmer,TAILS CREEK,Commissioner Of Labor,,D,ROBBIN K. SHIPP,90,1,66,23,0
+Gilmer,TOWN CREEK,Commissioner Of Labor,,D,ROBBIN K. SHIPP,65,3,53,8,1
+Gilmer,LEACHES,Commissioner Of Labor,,D,ROBBIN K. SHIPP,180,6,94,80,0
+Gilmer,CHERRY LOG,Commissioner Of Labor,,D,ROBBIN K. SHIPP,104,4,81,19,0
+Gilmer,BOARDTOWN,Commissioner Of Labor,,D,ROBBIN K. SHIPP,94,5,55,34,0
+Gilmer,MOUNTAINTOWN,Commissioner Of Labor,,D,ROBBIN K. SHIPP,65,3,43,19,0
+Gilmer,EAST ELLIJAY,Commissioner Of Labor,,D,ROBBIN K. SHIPP,110,8,59,43,0
+Gilmer,ELLIJAY NORTH,Commissioner Of Labor,,D,ROBBIN K. SHIPP,98,5,57,36,0
+Gilmer,YUKON,Commissioner Of Labor,,D,ROBBIN K. SHIPP,68,4,46,18,0
+Gilmer,BIG CREEK,Commissioner Of Labor,,D,ROBBIN K. SHIPP,114,3,67,44,0
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Labor,,D,ROBBIN K. SHIPP,132,9,53,69,1
+Gilmer,,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",6185,308,3855,2011,11
+Gilmer,ELLIJAY SOUTH,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",799,37,424,337,1
+Gilmer,CARTECAY,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",523,17,329,175,2
+Gilmer,TAILS CREEK,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",356,15,260,80,1
+Gilmer,TOWN CREEK,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",303,10,223,69,1
+Gilmer,LEACHES,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",694,31,423,240,0
+Gilmer,CHERRY LOG,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",315,11,243,61,0
+Gilmer,BOARDTOWN,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",459,16,283,160,0
+Gilmer,MOUNTAINTOWN,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",362,11,268,83,0
+Gilmer,EAST ELLIJAY,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",466,34,258,174,0
+Gilmer,ELLIJAY NORTH,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",468,48,281,138,1
+Gilmer,YUKON,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",362,12,266,82,2
+Gilmer,BIG CREEK,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",467,15,305,145,2
+Gilmer,ELLIJAY NORTHEAST,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",611,51,292,267,1
+Gilmer,,Public Service Commission,4,L,JOHN H. MONDS,1119,52,685,378,4
+Gilmer,ELLIJAY SOUTH,Public Service Commission,4,L,JOHN H. MONDS,143,9,87,45,2
+Gilmer,CARTECAY,Public Service Commission,4,L,JOHN H. MONDS,83,3,47,33,0
+Gilmer,TAILS CREEK,Public Service Commission,4,L,JOHN H. MONDS,82,2,61,19,0
+Gilmer,TOWN CREEK,Public Service Commission,4,L,JOHN H. MONDS,57,4,43,9,1
+Gilmer,LEACHES,Public Service Commission,4,L,JOHN H. MONDS,136,4,78,54,0
+Gilmer,CHERRY LOG,Public Service Commission,4,L,JOHN H. MONDS,65,4,50,11,0
+Gilmer,BOARDTOWN,Public Service Commission,4,L,JOHN H. MONDS,76,5,40,31,0
+Gilmer,MOUNTAINTOWN,Public Service Commission,4,L,JOHN H. MONDS,53,2,39,12,0
+Gilmer,EAST ELLIJAY,Public Service Commission,4,L,JOHN H. MONDS,89,8,52,29,0
+Gilmer,ELLIJAY NORTH,Public Service Commission,4,L,JOHN H. MONDS,77,4,44,29,0
+Gilmer,YUKON,Public Service Commission,4,L,JOHN H. MONDS,63,2,50,11,0
+Gilmer,BIG CREEK,Public Service Commission,4,L,JOHN H. MONDS,98,3,57,38,0
+Gilmer,ELLIJAY NORTHEAST,Public Service Commission,4,L,JOHN H. MONDS,97,2,37,57,1
+Gilmer,,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",5809,279,3601,1918,11
+Gilmer,ELLIJAY SOUTH,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",745,33,392,319,1
+Gilmer,CARTECAY,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",487,12,305,169,1
+Gilmer,TAILS CREEK,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",338,15,249,73,1
+Gilmer,TOWN CREEK,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",285,8,208,67,2
+Gilmer,LEACHES,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",644,28,391,224,1
+Gilmer,CHERRY LOG,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",282,10,213,59,0
+Gilmer,BOARDTOWN,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",446,15,273,158,0
+Gilmer,MOUNTAINTOWN,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",349,11,254,84,0
+Gilmer,EAST ELLIJAY,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",437,31,233,173,0
+Gilmer,ELLIJAY NORTH,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",447,46,268,132,1
+Gilmer,YUKON,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",343,11,257,73,2
+Gilmer,BIG CREEK,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",436,13,284,137,2
+Gilmer,ELLIJAY NORTHEAST,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",570,46,274,250,0
+Gilmer,,Public Service Commission,1,D,DANIEL A. BLACKMAN,1285,60,749,472,4
+Gilmer,ELLIJAY SOUTH,Public Service Commission,1,D,DANIEL A. BLACKMAN,164,11,87,64,2
+Gilmer,CARTECAY,Public Service Commission,1,D,DANIEL A. BLACKMAN,108,7,59,41,1
+Gilmer,TAILS CREEK,Public Service Commission,1,D,DANIEL A. BLACKMAN,88,2,65,21,0
+Gilmer,TOWN CREEK,Public Service Commission,1,D,DANIEL A. BLACKMAN,61,3,51,7,0
+Gilmer,LEACHES,Public Service Commission,1,D,DANIEL A. BLACKMAN,157,6,82,69,0
+Gilmer,CHERRY LOG,Public Service Commission,1,D,DANIEL A. BLACKMAN,100,4,78,18,0
+Gilmer,BOARDTOWN,Public Service Commission,1,D,DANIEL A. BLACKMAN,76,3,44,29,0
+Gilmer,MOUNTAINTOWN,Public Service Commission,1,D,DANIEL A. BLACKMAN,59,1,36,22,0
+Gilmer,EAST ELLIJAY,Public Service Commission,1,D,DANIEL A. BLACKMAN,105,9,56,40,0
+Gilmer,ELLIJAY NORTH,Public Service Commission,1,D,DANIEL A. BLACKMAN,80,1,48,31,0
+Gilmer,YUKON,Public Service Commission,1,D,DANIEL A. BLACKMAN,61,2,41,18,0
+Gilmer,BIG CREEK,Public Service Commission,1,D,DANIEL A. BLACKMAN,101,0,58,43,0
+Gilmer,ELLIJAY NORTHEAST,Public Service Commission,1,D,DANIEL A. BLACKMAN,125,11,44,69,1
+Gilmer,,Public Service Commission,1,L,ROBIN AARON GILMER,519,31,354,133,1
+Gilmer,ELLIJAY SOUTH,Public Service Commission,1,L,ROBIN AARON GILMER,67,4,44,19,0
+Gilmer,CARTECAY,Public Service Commission,1,L,ROBIN AARON GILMER,35,1,23,11,0
+Gilmer,TAILS CREEK,Public Service Commission,1,L,ROBIN AARON GILMER,30,0,21,9,0
+Gilmer,TOWN CREEK,Public Service Commission,1,L,ROBIN AARON GILMER,33,2,26,5,0
+Gilmer,LEACHES,Public Service Commission,1,L,ROBIN AARON GILMER,65,2,43,20,0
+Gilmer,CHERRY LOG,Public Service Commission,1,L,ROBIN AARON GILMER,26,1,20,5,0
+Gilmer,BOARDTOWN,Public Service Commission,1,L,ROBIN AARON GILMER,32,3,19,10,0
+Gilmer,MOUNTAINTOWN,Public Service Commission,1,L,ROBIN AARON GILMER,31,2,28,1,0
+Gilmer,EAST ELLIJAY,Public Service Commission,1,L,ROBIN AARON GILMER,35,5,23,7,0
+Gilmer,ELLIJAY NORTH,Public Service Commission,1,L,ROBIN AARON GILMER,42,5,23,14,0
+Gilmer,YUKON,Public Service Commission,1,L,ROBIN AARON GILMER,33,3,27,3,0
+Gilmer,BIG CREEK,Public Service Commission,1,L,ROBIN AARON GILMER,49,3,34,12,0
+Gilmer,ELLIJAY NORTHEAST,Public Service Commission,1,L,ROBIN AARON GILMER,41,0,23,17,1
+Gilmer,,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",6244,314,3891,2028,11
+Gilmer,ELLIJAY SOUTH,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",793,38,422,331,2
+Gilmer,CARTECAY,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",525,15,331,178,1
+Gilmer,TAILS CREEK,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",368,16,270,81,1
+Gilmer,TOWN CREEK,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",317,11,233,72,1
+Gilmer,LEACHES,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",689,30,424,235,0
+Gilmer,CHERRY LOG,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",306,12,230,64,0
+Gilmer,BOARDTOWN,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",468,16,289,163,0
+Gilmer,MOUNTAINTOWN,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",367,13,266,88,0
+Gilmer,EAST ELLIJAY,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",481,36,266,179,0
+Gilmer,ELLIJAY NORTH,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",469,49,276,143,1
+Gilmer,YUKON,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",376,13,282,79,2
+Gilmer,BIG CREEK,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",477,17,309,149,2
+Gilmer,ELLIJAY NORTHEAST,U.S. Representative,9,R,"DOUGLAS A. ""DOUG"" COLLINS (I)",608,48,293,266,1
+Gilmer,,U.S. Representative,9,D,DAVID D. VOGEL,1455,62,872,517,4
+Gilmer,ELLIJAY SOUTH,U.S. Representative,9,D,DAVID D. VOGEL,182,11,102,68,1
+Gilmer,CARTECAY,U.S. Representative,9,D,DAVID D. VOGEL,114,4,62,47,1
+Gilmer,TAILS CREEK,U.S. Representative,9,D,DAVID D. VOGEL,96,2,71,23,0
+Gilmer,TOWN CREEK,U.S. Representative,9,D,DAVID D. VOGEL,68,3,55,9,1
+Gilmer,LEACHES,U.S. Representative,9,D,DAVID D. VOGEL,187,6,104,77,0
+Gilmer,CHERRY LOG,U.S. Representative,9,D,DAVID D. VOGEL,105,3,83,19,0
+Gilmer,BOARDTOWN,U.S. Representative,9,D,DAVID D. VOGEL,92,5,49,38,0
+Gilmer,MOUNTAINTOWN,U.S. Representative,9,D,DAVID D. VOGEL,72,1,50,21,0
+Gilmer,EAST ELLIJAY,U.S. Representative,9,D,DAVID D. VOGEL,113,8,63,42,0
+Gilmer,ELLIJAY NORTH,U.S. Representative,9,D,DAVID D. VOGEL,105,4,65,36,0
+Gilmer,YUKON,U.S. Representative,9,D,DAVID D. VOGEL,67,3,45,19,0
+Gilmer,BIG CREEK,U.S. Representative,9,D,DAVID D. VOGEL,117,2,67,48,0
+Gilmer,ELLIJAY NORTHEAST,U.S. Representative,9,D,DAVID D. VOGEL,137,10,56,70,1
+Gilmer,,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",6720,327,4205,2172,16
+Gilmer,ELLIJAY SOUTH,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",860,44,467,346,3
+Gilmer,CARTECAY,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",549,17,343,187,2
+Gilmer,TAILS CREEK,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",408,16,297,94,1
+Gilmer,TOWN CREEK,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",338,10,253,73,2
+Gilmer,LEACHES,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",763,31,466,265,1
+Gilmer,CHERRY LOG,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",342,11,261,70,0
+Gilmer,BOARDTOWN,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",494,17,302,175,0
+Gilmer,MOUNTAINTOWN,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",385,12,281,92,0
+Gilmer,EAST ELLIJAY,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",511,39,288,184,0
+Gilmer,ELLIJAY NORTH,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",504,50,305,148,1
+Gilmer,YUKON,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",389,13,294,80,2
+Gilmer,BIG CREEK,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",511,16,332,161,2
+Gilmer,ELLIJAY NORTHEAST,State Senator,51,R,"STEPHEN W. ""STEVE"" GOOCH (I)",666,51,316,297,2
+Gilmer,,State Representative,7,R,DAVID E. RALSTON (I),6521,316,4114,2076,15
+Gilmer,ELLIJAY SOUTH,State Representative,7,R,DAVID E. RALSTON (I),844,44,463,334,3
+Gilmer,CARTECAY,State Representative,7,R,DAVID E. RALSTON (I),538,17,337,182,2
+Gilmer,TAILS CREEK,State Representative,7,R,DAVID E. RALSTON (I),394,15,295,83,1
+Gilmer,TOWN CREEK,State Representative,7,R,DAVID E. RALSTON (I),330,12,248,68,2
+Gilmer,LEACHES,State Representative,7,R,DAVID E. RALSTON (I),750,31,461,258,0
+Gilmer,CHERRY LOG,State Representative,7,R,DAVID E. RALSTON (I),335,10,261,64,0
+Gilmer,BOARDTOWN,State Representative,7,R,DAVID E. RALSTON (I),474,18,294,162,0
+Gilmer,MOUNTAINTOWN,State Representative,7,R,DAVID E. RALSTON (I),376,13,273,90,0
+Gilmer,EAST ELLIJAY,State Representative,7,R,DAVID E. RALSTON (I),493,35,282,176,0
+Gilmer,ELLIJAY NORTH,State Representative,7,R,DAVID E. RALSTON (I),479,44,291,143,1
+Gilmer,YUKON,State Representative,7,R,DAVID E. RALSTON (I),370,12,285,71,2
+Gilmer,BIG CREEK,State Representative,7,R,DAVID E. RALSTON (I),500,17,320,161,2
+Gilmer,ELLIJAY NORTHEAST,State Representative,7,R,DAVID E. RALSTON (I),638,48,304,284,2
+Gilmer,,CC,CHAIRMAN,R,CHARLIE PARIS,6666,324,4120,2206,16
+Gilmer,ELLIJAY SOUTH,CC,CHAIRMAN,R,CHARLIE PARIS,870,43,467,357,3
+Gilmer,CARTECAY,CC,CHAIRMAN,R,CHARLIE PARIS,522,15,323,182,2
+Gilmer,TAILS CREEK,CC,CHAIRMAN,R,CHARLIE PARIS,400,17,291,91,1
+Gilmer,TOWN CREEK,CC,CHAIRMAN,R,CHARLIE PARIS,338,11,251,74,2
+Gilmer,LEACHES,CC,CHAIRMAN,R,CHARLIE PARIS,762,33,453,275,1
+Gilmer,CHERRY LOG,CC,CHAIRMAN,R,CHARLIE PARIS,336,9,258,69,0
+Gilmer,BOARDTOWN,CC,CHAIRMAN,R,CHARLIE PARIS,510,20,313,177,0
+Gilmer,MOUNTAINTOWN,CC,CHAIRMAN,R,CHARLIE PARIS,385,14,276,95,0
+Gilmer,EAST ELLIJAY,CC,CHAIRMAN,R,CHARLIE PARIS,514,38,284,192,0
+Gilmer,ELLIJAY NORTH,CC,CHAIRMAN,R,CHARLIE PARIS,502,47,297,157,1
+Gilmer,YUKON,CC,CHAIRMAN,R,CHARLIE PARIS,384,14,287,81,2
+Gilmer,BIG CREEK,CC,CHAIRMAN,R,CHARLIE PARIS,494,15,315,162,2
+Gilmer,ELLIJAY NORTHEAST,CC,CHAIRMAN,R,CHARLIE PARIS,649,48,305,294,2
+Gilmer,,CC,P2,R,TRAVIS CROUCH,6656,325,4107,2208,16
+Gilmer,ELLIJAY SOUTH,CC,P2,R,TRAVIS CROUCH,864,44,466,351,3
+Gilmer,CARTECAY,CC,P2,R,TRAVIS CROUCH,538,15,329,192,2
+Gilmer,TAILS CREEK,CC,P2,R,TRAVIS CROUCH,401,17,290,93,1
+Gilmer,TOWN CREEK,CC,P2,R,TRAVIS CROUCH,326,11,241,72,2
+Gilmer,LEACHES,CC,P2,R,TRAVIS CROUCH,768,33,461,273,1
+Gilmer,CHERRY LOG,CC,P2,R,TRAVIS CROUCH,346,9,265,72,0
+Gilmer,BOARDTOWN,CC,P2,R,TRAVIS CROUCH,501,18,305,178,0
+Gilmer,MOUNTAINTOWN,CC,P2,R,TRAVIS CROUCH,384,14,277,93,0
+Gilmer,EAST ELLIJAY,CC,P2,R,TRAVIS CROUCH,503,37,277,189,0
+Gilmer,ELLIJAY NORTH,CC,P2,R,TRAVIS CROUCH,499,48,295,155,1
+Gilmer,YUKON,CC,P2,R,TRAVIS CROUCH,379,14,282,81,2
+Gilmer,BIG CREEK,CC,P2,R,TRAVIS CROUCH,498,16,315,165,2
+Gilmer,ELLIJAY NORTHEAST,CC,P2,R,TRAVIS CROUCH,649,49,304,294,2
+Gilmer,,SOIL & WATER,,R,CARL K. MCCLURE,6048,289,3767,1982,10
+Gilmer,ELLIJAY SOUTH,SOIL & WATER,,R,CARL K. MCCLURE,800,39,438,321,2
+Gilmer,CARTECAY,SOIL & WATER,,R,CARL K. MCCLURE,491,15,305,169,2
+Gilmer,TAILS CREEK,SOIL & WATER,,R,CARL K. MCCLURE,363,14,264,84,1
+Gilmer,TOWN CREEK,SOIL & WATER,,R,CARL K. MCCLURE,309,12,228,68,1
+Gilmer,LEACHES,SOIL & WATER,,R,CARL K. MCCLURE,688,30,412,246,0
+Gilmer,CHERRY LOG,SOIL & WATER,,R,CARL K. MCCLURE,302,4,241,57,0
+Gilmer,BOARDTOWN,SOIL & WATER,,R,CARL K. MCCLURE,434,11,268,155,0
+Gilmer,MOUNTAINTOWN,SOIL & WATER,,R,CARL K. MCCLURE,364,12,271,81,0
+Gilmer,EAST ELLIJAY,SOIL & WATER,,R,CARL K. MCCLURE,456,35,255,166,0
+Gilmer,ELLIJAY NORTH,SOIL & WATER,,R,CARL K. MCCLURE,447,45,259,142,1
+Gilmer,YUKON,SOIL & WATER,,R,CARL K. MCCLURE,354,13,264,76,1
+Gilmer,BIG CREEK,SOIL & WATER,,R,CARL K. MCCLURE,454,11,294,149,0
+Gilmer,ELLIJAY NORTHEAST,SOIL & WATER,,R,CARL K. MCCLURE,586,48,268,268,2
+Gilmer,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,6140,307,3782,2039,12
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,793,38,432,320,3
+Gilmer,CARTECAY,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,506,16,312,176,2
+Gilmer,TAILS CREEK,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,362,16,266,79,1
+Gilmer,TOWN CREEK,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,292,11,215,65,1
+Gilmer,LEACHES,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,728,32,444,252,0
+Gilmer,CHERRY LOG,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,320,13,243,64,0
+Gilmer,BOARDTOWN,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,440,19,263,158,0
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,357,10,258,89,0
+Gilmer,EAST ELLIJAY,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,447,36,236,175,0
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,455,42,258,154,1
+Gilmer,YUKON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,359,14,263,80,2
+Gilmer,BIG CREEK,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,463,15,299,149,0
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,618,45,293,278,2
+Gilmer,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,1531,65,965,500,1
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,192,10,98,84,0
+Gilmer,CARTECAY,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,124,4,75,45,0
+Gilmer,TAILS CREEK,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,100,2,74,24,0
+Gilmer,TOWN CREEK,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,88,2,70,16,0
+Gilmer,LEACHES,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,141,3,78,60,0
+Gilmer,CHERRY LOG,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,92,2,73,17,0
+Gilmer,BOARDTOWN,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,108,2,69,37,0
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,85,5,59,21,0
+Gilmer,EAST ELLIJAY,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,148,9,92,47,0
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,120,10,83,27,0
+Gilmer,YUKON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,82,2,64,16,0
+Gilmer,BIG CREEK,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,123,5,72,45,1
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,128,9,58,61,0
+Gilmer,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,5116,261,3163,1681,11
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,700,39,361,298,2
+Gilmer,CARTECAY,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,422,16,264,140,2
+Gilmer,TAILS CREEK,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,293,5,226,62,0
+Gilmer,TOWN CREEK,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,239,9,180,49,1
+Gilmer,LEACHES,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,586,23,348,214,1
+Gilmer,CHERRY LOG,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,266,8,202,56,0
+Gilmer,BOARDTOWN,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,375,14,236,125,0
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,301,11,215,75,0
+Gilmer,EAST ELLIJAY,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,381,30,216,135,0
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,386,31,234,121,0
+Gilmer,YUKON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,263,13,195,53,2
+Gilmer,BIG CREEK,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,396,17,253,124,2
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,508,45,233,229,1
+Gilmer,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,2460,99,1526,830,5
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,281,10,167,103,1
+Gilmer,CARTECAY,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,197,2,123,72,0
+Gilmer,TAILS CREEK,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,161,13,107,40,1
+Gilmer,TOWN CREEK,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,136,4,100,31,1
+Gilmer,LEACHES,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,282,12,171,99,0
+Gilmer,CHERRY LOG,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,134,1,109,24,0
+Gilmer,BOARDTOWN,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,167,6,95,66,0
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,134,4,96,34,0
+Gilmer,EAST ELLIJAY,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,209,14,110,85,0
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,178,19,100,58,1
+Gilmer,YUKON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,167,1,125,41,0
+Gilmer,BIG CREEK,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,188,2,115,71,0
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,226,11,108,106,1
+Gilmer,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,5222,261,3324,1626,11
+Gilmer,ELLIJAY SOUTH,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,694,36,370,287,1
+Gilmer,CARTECAY,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,430,17,274,138,1
+Gilmer,TAILS CREEK,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,306,8,233,64,1
+Gilmer,TOWN CREEK,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,262,12,195,54,1
+Gilmer,LEACHES,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,572,21,366,184,1
+Gilmer,CHERRY LOG,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,269,10,216,43,0
+Gilmer,BOARDTOWN,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,369,9,243,117,0
+Gilmer,MOUNTAINTOWN,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,292,10,214,68,0
+Gilmer,EAST ELLIJAY,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,412,33,243,136,0
+Gilmer,ELLIJAY NORTH,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,397,35,242,120,0
+Gilmer,YUKON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,291,10,222,57,2
+Gilmer,BIG CREEK,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,410,16,252,140,2
+Gilmer,ELLIJAY NORTHEAST,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,518,44,254,218,2
+Gilmer,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,2379,103,1380,891,5
+Gilmer,ELLIJAY SOUTH,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,288,13,153,120,2
+Gilmer,CARTECAY,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,188,1,110,76,1
+Gilmer,TAILS CREEK,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,154,10,107,37,0
+Gilmer,TOWN CREEK,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,115,1,87,26,1
+Gilmer,LEACHES,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,295,13,156,126,0
+Gilmer,CHERRY LOG,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,134,2,97,35,0
+Gilmer,BOARDTOWN,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,176,11,87,78,0
+Gilmer,MOUNTAINTOWN,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,139,5,96,38,0
+Gilmer,EAST ELLIJAY,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,183,13,83,87,0
+Gilmer,ELLIJAY NORTH,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,163,15,91,56,1
+Gilmer,YUKON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,145,6,100,39,0
+Gilmer,BIG CREEK,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,177,2,119,56,0
+Gilmer,ELLIJAY NORTHEAST,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,222,11,94,117,0

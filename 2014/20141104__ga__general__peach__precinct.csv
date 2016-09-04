@@ -1,0 +1,333 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Peach,,United States Senator,,R,DAVID A. PERDUE,3729,128,1926,1669,6
+Peach,BYRON #1,United States Senator,,R,DAVID A. PERDUE,834,13,445,375,1
+Peach,BYRON #2,United States Senator,,R,DAVID A. PERDUE,1184,38,590,553,3
+Peach,CLAUDE,United States Senator,,R,DAVID A. PERDUE,312,11,229,72,0
+Peach,FORT VALLEY #1,United States Senator,,R,DAVID A. PERDUE,500,28,164,308,0
+Peach,FORT VALLEY #2,United States Senator,,R,DAVID A. PERDUE,309,11,147,151,0
+Peach,FORT VALLEY #3,United States Senator,,R,DAVID A. PERDUE,122,7,39,75,1
+Peach,POWERSVILLE,United States Senator,,R,DAVID A. PERDUE,468,20,312,135,1
+Peach,,United States Senator,,D,M. MICHELLE NUNN,3510,86,1684,1738,2
+Peach,BYRON #1,United States Senator,,D,M. MICHELLE NUNN,323,3,167,153,0
+Peach,BYRON #2,United States Senator,,D,M. MICHELLE NUNN,599,9,316,273,1
+Peach,CLAUDE,United States Senator,,D,M. MICHELLE NUNN,53,1,32,20,0
+Peach,FORT VALLEY #1,United States Senator,,D,M. MICHELLE NUNN,645,17,281,346,1
+Peach,FORT VALLEY #2,United States Senator,,D,M. MICHELLE NUNN,683,21,337,325,0
+Peach,FORT VALLEY #3,United States Senator,,D,M. MICHELLE NUNN,1047,29,459,559,0
+Peach,POWERSVILLE,United States Senator,,D,M. MICHELLE NUNN,160,6,92,62,0
+Peach,,United States Senator,,L,AMANDA C. SWAFFORD,95,2,53,40,0
+Peach,BYRON #1,United States Senator,,L,AMANDA C. SWAFFORD,20,0,13,7,0
+Peach,BYRON #2,United States Senator,,L,AMANDA C. SWAFFORD,22,1,12,9,0
+Peach,CLAUDE,United States Senator,,L,AMANDA C. SWAFFORD,4,0,4,0,0
+Peach,FORT VALLEY #1,United States Senator,,L,AMANDA C. SWAFFORD,13,0,5,8,0
+Peach,FORT VALLEY #2,United States Senator,,L,AMANDA C. SWAFFORD,13,1,5,7,0
+Peach,FORT VALLEY #3,United States Senator,,L,AMANDA C. SWAFFORD,11,0,5,6,0
+Peach,POWERSVILLE,United States Senator,,L,AMANDA C. SWAFFORD,12,0,9,3,0
+Peach,,Governor,,R,J. NATHAN DEAL (I),3614,123,1868,1618,5
+Peach,BYRON #1,Governor,,R,J. NATHAN DEAL (I),796,12,433,350,1
+Peach,BYRON #2,Governor,,R,J. NATHAN DEAL (I),1144,34,568,540,2
+Peach,CLAUDE,Governor,,R,J. NATHAN DEAL (I),302,11,220,71,0
+Peach,FORT VALLEY #1,Governor,,R,J. NATHAN DEAL (I),495,28,164,303,0
+Peach,FORT VALLEY #2,Governor,,R,J. NATHAN DEAL (I),298,10,139,149,0
+Peach,FORT VALLEY #3,Governor,,R,J. NATHAN DEAL (I),121,8,39,73,1
+Peach,POWERSVILLE,Governor,,R,J. NATHAN DEAL (I),458,20,305,132,1
+Peach,,Governor,,D,JASON J. CARTER,3514,90,1673,1749,2
+Peach,BYRON #1,Governor,,D,JASON J. CARTER,342,4,170,168,0
+Peach,BYRON #2,Governor,,D,JASON J. CARTER,621,13,324,283,1
+Peach,CLAUDE,Governor,,D,JASON J. CARTER,58,1,36,21,0
+Peach,FORT VALLEY #1,Governor,,D,JASON J. CARTER,650,16,281,352,1
+Peach,FORT VALLEY #2,Governor,,D,JASON J. CARTER,672,22,340,310,0
+Peach,FORT VALLEY #3,Governor,,D,JASON J. CARTER,1013,28,435,550,0
+Peach,POWERSVILLE,Governor,,D,JASON J. CARTER,158,6,87,65,0
+Peach,,Governor,,L,ANDREW T. HUNT,109,2,71,35,1
+Peach,BYRON #1,Governor,,L,ANDREW T. HUNT,27,0,17,10,0
+Peach,BYRON #2,Governor,,L,ANDREW T. HUNT,27,0,21,5,1
+Peach,CLAUDE,Governor,,L,ANDREW T. HUNT,3,0,3,0,0
+Peach,FORT VALLEY #1,Governor,,L,ANDREW T. HUNT,12,1,4,7,0
+Peach,FORT VALLEY #2,Governor,,L,ANDREW T. HUNT,16,1,7,8,0
+Peach,FORT VALLEY #3,Governor,,L,ANDREW T. HUNT,10,0,7,3,0
+Peach,POWERSVILLE,Governor,,L,ANDREW T. HUNT,14,0,12,2,0
+Peach,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",3944,132,2044,1762,6
+Peach,BYRON #1,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",875,15,467,392,1
+Peach,BYRON #2,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1234,38,621,572,3
+Peach,CLAUDE,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",313,11,233,69,0
+Peach,FORT VALLEY #1,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",558,30,185,343,0
+Peach,FORT VALLEY #2,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",329,11,156,162,0
+Peach,FORT VALLEY #3,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",140,7,47,85,1
+Peach,POWERSVILLE,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",495,20,335,139,1
+Peach,,Lieutenant Governor,,D,CONNIE J. STOKES,3268,82,1566,1618,2
+Peach,BYRON #1,Lieutenant Governor,,D,CONNIE J. STOKES,287,1,151,135,0
+Peach,BYRON #2,Lieutenant Governor,,D,CONNIE J. STOKES,548,9,284,254,1
+Peach,CLAUDE,Lieutenant Governor,,D,CONNIE J. STOKES,49,1,29,19,0
+Peach,FORT VALLEY #1,Lieutenant Governor,,D,CONNIE J. STOKES,579,14,257,307,1
+Peach,FORT VALLEY #2,Lieutenant Governor,,D,CONNIE J. STOKES,659,22,333,304,0
+Peach,FORT VALLEY #3,Lieutenant Governor,,D,CONNIE J. STOKES,1010,29,441,540,0
+Peach,POWERSVILLE,Lieutenant Governor,,D,CONNIE J. STOKES,136,6,71,59,0
+Peach,,Secretary Of State,,R,BRIAN P. KEMP (I),3902,131,2032,1733,6
+Peach,BYRON #1,Secretary Of State,,R,BRIAN P. KEMP (I),864,15,463,385,1
+Peach,BYRON #2,Secretary Of State,,R,BRIAN P. KEMP (I),1219,37,616,563,3
+Peach,CLAUDE,Secretary Of State,,R,BRIAN P. KEMP (I),319,11,235,73,0
+Peach,FORT VALLEY #1,Secretary Of State,,R,BRIAN P. KEMP (I),545,30,183,332,0
+Peach,FORT VALLEY #2,Secretary Of State,,R,BRIAN P. KEMP (I),327,11,155,161,0
+Peach,FORT VALLEY #3,Secretary Of State,,R,BRIAN P. KEMP (I),146,7,55,83,1
+Peach,POWERSVILLE,Secretary Of State,,R,BRIAN P. KEMP (I),482,20,325,136,1
+Peach,,Secretary Of State,,D,DOREEN CARTER,3310,81,1584,1643,2
+Peach,BYRON #1,Secretary Of State,,D,DOREEN CARTER,299,1,158,140,0
+Peach,BYRON #2,Secretary Of State,,D,DOREEN CARTER,566,10,292,263,1
+Peach,CLAUDE,Secretary Of State,,D,DOREEN CARTER,45,1,27,17,0
+Peach,FORT VALLEY #1,Secretary Of State,,D,DOREEN CARTER,584,14,257,312,1
+Peach,FORT VALLEY #2,Secretary Of State,,D,DOREEN CARTER,660,21,335,304,0
+Peach,FORT VALLEY #3,Secretary Of State,,D,DOREEN CARTER,1009,28,435,546,0
+Peach,POWERSVILLE,Secretary Of State,,D,DOREEN CARTER,147,6,80,61,0
+Peach,,Attorney General,,,SAMUEL S. OLENS (I),3852,128,2008,1710,6
+Peach,BYRON #1,Attorney General,,,SAMUEL S. OLENS (I),861,15,464,381,1
+Peach,BYRON #2,Attorney General,,,SAMUEL S. OLENS (I),1211,38,609,561,3
+Peach,CLAUDE,Attorney General,,,SAMUEL S. OLENS (I),311,11,230,70,0
+Peach,FORT VALLEY #1,Attorney General,,,SAMUEL S. OLENS (I),531,28,178,325,0
+Peach,FORT VALLEY #2,Attorney General,,,SAMUEL S. OLENS (I),320,11,153,156,0
+Peach,FORT VALLEY #3,Attorney General,,,SAMUEL S. OLENS (I),137,7,50,79,1
+Peach,POWERSVILLE,Attorney General,,,SAMUEL S. OLENS (I),481,18,324,138,1
+Peach,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",3364,86,1612,1664,2
+Peach,BYRON #1,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",307,1,158,148,0
+Peach,BYRON #2,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",574,10,300,263,1
+Peach,CLAUDE,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",53,1,32,20,0
+Peach,FORT VALLEY #1,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",602,15,265,321,1
+Peach,FORT VALLEY #2,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",658,22,333,303,0
+Peach,FORT VALLEY #3,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",1019,29,442,548,0
+Peach,POWERSVILLE,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",151,8,82,61,0
+Peach,,Commissioner Of Agriculture,,R,GARY W. BLACK (I),3933,129,2041,1757,6
+Peach,BYRON #1,Commissioner Of Agriculture,,R,GARY W. BLACK (I),855,15,461,378,1
+Peach,BYRON #2,Commissioner Of Agriculture,,R,GARY W. BLACK (I),1219,36,617,563,3
+Peach,CLAUDE,Commissioner Of Agriculture,,R,GARY W. BLACK (I),313,11,232,70,0
+Peach,FORT VALLEY #1,Commissioner Of Agriculture,,R,GARY W. BLACK (I),559,29,184,346,0
+Peach,FORT VALLEY #2,Commissioner Of Agriculture,,R,GARY W. BLACK (I),342,11,162,169,0
+Peach,FORT VALLEY #3,Commissioner Of Agriculture,,R,GARY W. BLACK (I),162,7,60,94,1
+Peach,POWERSVILLE,Commissioner Of Agriculture,,R,GARY W. BLACK (I),483,20,325,137,1
+Peach,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,3238,84,1549,1603,2
+Peach,BYRON #1,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,299,1,149,149,0
+Peach,BYRON #2,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,553,11,286,255,1
+Peach,CLAUDE,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,49,1,29,19,0
+Peach,FORT VALLEY #1,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,573,14,255,303,1
+Peach,FORT VALLEY #2,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,640,22,325,293,0
+Peach,FORT VALLEY #3,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,981,29,426,526,0
+Peach,POWERSVILLE,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,143,6,79,58,0
+Peach,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),3740,129,1946,1660,5
+Peach,BYRON #1,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),831,14,448,368,1
+Peach,BYRON #2,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1178,36,592,548,2
+Peach,CLAUDE,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),307,11,229,67,0
+Peach,FORT VALLEY #1,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),517,30,168,319,0
+Peach,FORT VALLEY #2,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),308,11,149,148,0
+Peach,FORT VALLEY #3,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),129,7,45,76,1
+Peach,POWERSVILLE,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),470,20,315,134,1
+Peach,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",3278,81,1565,1631,1
+Peach,BYRON #1,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",297,2,152,143,0
+Peach,BYRON #2,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",553,9,283,260,1
+Peach,CLAUDE,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",50,1,30,19,0
+Peach,FORT VALLEY #1,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",583,12,261,310,0
+Peach,FORT VALLEY #2,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",652,22,329,301,0
+Peach,FORT VALLEY #3,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",1000,29,431,540,0
+Peach,POWERSVILLE,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",143,6,79,58,0
+Peach,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",154,1,92,59,2
+Peach,BYRON #1,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",37,0,21,16,0
+Peach,BYRON #2,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",38,1,27,9,1
+Peach,CLAUDE,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",3,0,2,1,0
+Peach,FORT VALLEY #1,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",21,0,11,9,1
+Peach,FORT VALLEY #2,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",20,0,8,12,0
+Peach,FORT VALLEY #3,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",22,0,14,8,0
+Peach,POWERSVILLE,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",13,0,9,4,0
+Peach,,State School Superintendent,,R,RICHARD L. WOODS,3757,128,1928,1695,6
+Peach,BYRON #1,State School Superintendent,,R,RICHARD L. WOODS,844,14,443,386,1
+Peach,BYRON #2,State School Superintendent,,R,RICHARD L. WOODS,1176,38,585,550,3
+Peach,CLAUDE,State School Superintendent,,R,RICHARD L. WOODS,304,11,226,67,0
+Peach,FORT VALLEY #1,State School Superintendent,,R,RICHARD L. WOODS,519,28,166,325,0
+Peach,FORT VALLEY #2,State School Superintendent,,R,RICHARD L. WOODS,318,11,149,158,0
+Peach,FORT VALLEY #3,State School Superintendent,,R,RICHARD L. WOODS,123,6,41,75,1
+Peach,POWERSVILLE,State School Superintendent,,R,RICHARD L. WOODS,473,20,318,134,1
+Peach,,State School Superintendent,,D,VALARIE D. WILSON,3469,83,1687,1697,2
+Peach,BYRON #1,State School Superintendent,,D,VALARIE D. WILSON,324,2,177,145,0
+Peach,BYRON #2,State School Superintendent,,D,VALARIE D. WILSON,604,9,320,274,1
+Peach,CLAUDE,State School Superintendent,,D,VALARIE D. WILSON,57,1,36,20,0
+Peach,FORT VALLEY #1,State School Superintendent,,D,VALARIE D. WILSON,614,15,277,321,1
+Peach,FORT VALLEY #2,State School Superintendent,,D,VALARIE D. WILSON,676,21,341,314,0
+Peach,FORT VALLEY #3,State School Superintendent,,D,VALARIE D. WILSON,1037,29,451,557,0
+Peach,POWERSVILLE,State School Superintendent,,D,VALARIE D. WILSON,157,6,85,66,0
+Peach,,Commissioner Of Labor,,R,J. MARK BUTLER (I),3842,130,1995,1711,6
+Peach,BYRON #1,Commissioner Of Labor,,R,J. MARK BUTLER (I),855,16,456,382,1
+Peach,BYRON #2,Commissioner Of Labor,,R,J. MARK BUTLER (I),1211,37,610,561,3
+Peach,CLAUDE,Commissioner Of Labor,,R,J. MARK BUTLER (I),312,11,234,67,0
+Peach,FORT VALLEY #1,Commissioner Of Labor,,R,J. MARK BUTLER (I),530,29,174,327,0
+Peach,FORT VALLEY #2,Commissioner Of Labor,,R,J. MARK BUTLER (I),321,11,152,158,0
+Peach,FORT VALLEY #3,Commissioner Of Labor,,R,J. MARK BUTLER (I),133,6,48,78,1
+Peach,POWERSVILLE,Commissioner Of Labor,,R,J. MARK BUTLER (I),480,20,321,138,1
+Peach,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,3357,81,1611,1663,2
+Peach,BYRON #1,Commissioner Of Labor,,D,ROBBIN K. SHIPP,307,0,162,145,0
+Peach,BYRON #2,Commissioner Of Labor,,D,ROBBIN K. SHIPP,565,9,293,262,1
+Peach,CLAUDE,Commissioner Of Labor,,D,ROBBIN K. SHIPP,48,1,28,19,0
+Peach,FORT VALLEY #1,Commissioner Of Labor,,D,ROBBIN K. SHIPP,596,13,269,313,1
+Peach,FORT VALLEY #2,Commissioner Of Labor,,D,ROBBIN K. SHIPP,672,22,336,314,0
+Peach,FORT VALLEY #3,Commissioner Of Labor,,D,ROBBIN K. SHIPP,1019,30,440,549,0
+Peach,POWERSVILLE,Commissioner Of Labor,,D,ROBBIN K. SHIPP,150,6,83,61,0
+Peach,,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",4255,138,2191,1920,6
+Peach,BYRON #1,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",884,14,479,390,1
+Peach,BYRON #2,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1287,38,647,599,3
+Peach,CLAUDE,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",312,11,231,70,0
+Peach,FORT VALLEY #1,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",627,33,224,370,0
+Peach,FORT VALLEY #2,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",383,13,178,192,0
+Peach,FORT VALLEY #3,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",282,11,111,159,1
+Peach,POWERSVILLE,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",480,18,321,140,1
+Peach,,Public Service Commission,1,L,JOHN H. MONDS,1956,37,1010,908,1
+Peach,BYRON #1,Public Service Commission,1,L,JOHN H. MONDS,212,1,109,102,0
+Peach,BYRON #2,Public Service Commission,1,L,JOHN H. MONDS,331,6,188,137,0
+Peach,CLAUDE,Public Service Commission,1,L,JOHN H. MONDS,37,1,24,12,0
+Peach,FORT VALLEY #1,Public Service Commission,1,L,JOHN H. MONDS,339,3,152,183,1
+Peach,FORT VALLEY #2,Public Service Commission,1,L,JOHN H. MONDS,394,9,219,166,0
+Peach,FORT VALLEY #3,Public Service Commission,1,L,JOHN H. MONDS,538,14,256,268,0
+Peach,POWERSVILLE,Public Service Commission,1,L,JOHN H. MONDS,105,3,62,40,0
+Peach,,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",3710,120,1916,1669,5
+Peach,BYRON #1,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",826,15,445,365,1
+Peach,BYRON #2,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1172,35,585,550,2
+Peach,CLAUDE,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",296,10,218,68,0
+Peach,FORT VALLEY #1,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",517,28,173,316,0
+Peach,FORT VALLEY #2,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",308,10,141,157,0
+Peach,FORT VALLEY #3,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",129,4,43,81,1
+Peach,POWERSVILLE,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",462,18,311,132,1
+Peach,,Public Service Commission,4,D,DANIEL A. BLACKMAN,3292,82,1577,1631,2
+Peach,BYRON #1,Public Service Commission,4,D,DANIEL A. BLACKMAN,293,1,146,146,0
+Peach,BYRON #2,Public Service Commission,4,D,DANIEL A. BLACKMAN,557,9,292,255,1
+Peach,CLAUDE,Public Service Commission,4,D,DANIEL A. BLACKMAN,48,2,27,19,0
+Peach,FORT VALLEY #1,Public Service Commission,4,D,DANIEL A. BLACKMAN,588,14,262,311,1
+Peach,FORT VALLEY #2,Public Service Commission,4,D,DANIEL A. BLACKMAN,657,22,334,301,0
+Peach,FORT VALLEY #3,Public Service Commission,4,D,DANIEL A. BLACKMAN,1003,28,435,540,0
+Peach,POWERSVILLE,Public Service Commission,4,D,DANIEL A. BLACKMAN,146,6,81,59,0
+Peach,,Public Service Commission,4,L,ROBIN AARON GILMER,204,6,118,79,1
+Peach,BYRON #1,Public Service Commission,4,L,ROBIN AARON GILMER,44,0,27,17,0
+Peach,BYRON #2,Public Service Commission,4,L,ROBIN AARON GILMER,52,3,31,17,1
+Peach,CLAUDE,Public Service Commission,4,L,ROBIN AARON GILMER,14,0,12,2,0
+Peach,FORT VALLEY #1,Public Service Commission,4,L,ROBIN AARON GILMER,22,0,10,12,0
+Peach,FORT VALLEY #2,Public Service Commission,4,L,ROBIN AARON GILMER,26,0,12,14,0
+Peach,FORT VALLEY #3,Public Service Commission,4,L,ROBIN AARON GILMER,23,1,11,11,0
+Peach,POWERSVILLE,Public Service Commission,4,L,ROBIN AARON GILMER,23,2,15,6,0
+Peach,,U.S. Representative,2,R,GREGORY DUKE,3707,124,1924,1653,6
+Peach,BYRON #1,U.S. Representative,2,R,GREGORY DUKE,828,12,446,369,1
+Peach,BYRON #2,U.S. Representative,2,R,GREGORY DUKE,1183,37,589,554,3
+Peach,CLAUDE,U.S. Representative,2,R,GREGORY DUKE,298,11,219,68,0
+Peach,FORT VALLEY #1,U.S. Representative,2,R,GREGORY DUKE,507,27,165,315,0
+Peach,FORT VALLEY #2,U.S. Representative,2,R,GREGORY DUKE,305,12,151,142,0
+Peach,FORT VALLEY #3,U.S. Representative,2,R,GREGORY DUKE,125,6,41,77,1
+Peach,POWERSVILLE,U.S. Representative,2,R,GREGORY DUKE,461,19,313,128,1
+Peach,,U.S. Representative,2,D,SANFORD BISHOP (I),3570,90,1707,1771,2
+Peach,BYRON #1,U.S. Representative,2,D,SANFORD BISHOP (I),342,4,176,162,0
+Peach,BYRON #2,U.S. Representative,2,D,SANFORD BISHOP (I),612,10,324,277,1
+Peach,CLAUDE,U.S. Representative,2,D,SANFORD BISHOP (I),66,1,43,22,0
+Peach,FORT VALLEY #1,U.S. Representative,2,D,SANFORD BISHOP (I),637,17,277,342,1
+Peach,FORT VALLEY #2,U.S. Representative,2,D,SANFORD BISHOP (I),693,21,335,337,0
+Peach,FORT VALLEY #3,U.S. Representative,2,D,SANFORD BISHOP (I),1044,30,455,559,0
+Peach,POWERSVILLE,U.S. Representative,2,D,SANFORD BISHOP (I),176,7,97,72,0
+Peach,,State Senator,18,R,JOHN F. KENNEDY,5150,143,2748,2252,7
+Peach,BYRON #1,State Senator,18,R,JOHN F. KENNEDY,993,12,538,442,1
+Peach,BYRON #2,State Senator,18,R,JOHN F. KENNEDY,1433,40,732,657,4
+Peach,CLAUDE,State Senator,18,R,JOHN F. KENNEDY,328,10,240,78,0
+Peach,FORT VALLEY #1,State Senator,18,R,JOHN F. KENNEDY,769,33,305,431,0
+Peach,FORT VALLEY #2,State Senator,18,R,JOHN F. KENNEDY,573,17,311,245,0
+Peach,FORT VALLEY #3,State Senator,18,R,JOHN F. KENNEDY,520,14,260,245,1
+Peach,POWERSVILLE,State Senator,18,R,JOHN F. KENNEDY,534,17,362,154,1
+Peach,,State Representative,139,D,PATTY J BENTLEY (I),2688,81,1216,1391,0
+Peach,FORT VALLEY #1,State Representative,139,D,PATTY J BENTLEY (I),826,22,349,455,0
+Peach,FORT VALLEY #2,State Representative,139,D,PATTY J BENTLEY (I),800,26,404,370,0
+Peach,FORT VALLEY #3,State Representative,139,D,PATTY J BENTLEY (I),1062,33,463,566,0
+Peach,,State Representative,140,R,ROBERT L DICKEY (I),3316,84,1890,1336,6
+Peach,BYRON #1,State Representative,140,R,ROBERT L DICKEY (I),1008,14,540,453,1
+Peach,BYRON #2,State Representative,140,R,ROBERT L DICKEY (I),1434,41,740,649,4
+Peach,CLAUDE,State Representative,140,R,ROBERT L DICKEY (I),330,10,244,76,0
+Peach,POWERSVILLE,State Representative,140,R,ROBERT L DICKEY (I),544,19,366,158,1
+Peach,,CC P2,,D,WALTER L. SMITH (I),1180,38,607,535,0
+Peach,CLAUDE,CC P2,,D,WALTER L. SMITH (I),72,1,53,18,0
+Peach,FORT VALLEY #1,CC P2,,D,WALTER L. SMITH (I),258,8,119,131,0
+Peach,FORT VALLEY #2,CC P2,,D,WALTER L. SMITH (I),519,18,259,242,0
+Peach,FORT VALLEY #3,CC P2,,D,WALTER L. SMITH (I),251,11,116,124,0
+Peach,POWERSVILLE,CC P2,,D,WALTER L. SMITH (I),80,0,60,20,0
+Peach,,CC P4,,R,M. MOSELEY JR (I),1848,46,928,873,1
+Peach,BYRON #1,CC P4,,R,M. MOSELEY JR (I),1011,13,545,452,1
+Peach,FORT VALLEY #1,CC P4,,R,M. MOSELEY JR (I),431,21,155,255,0
+Peach,FORT VALLEY #2,CC P4,,R,M. MOSELEY JR (I),156,4,70,82,0
+Peach,POWERSVILLE,CC P4,,R,M. MOSELEY JR (I),250,8,158,84,0
+Peach,,BOE P5 AT LARGE,,R,BEN HOOTS,3896,130,2015,1745,6
+Peach,BYRON #1,BOE P5 AT LARGE,,R,BEN HOOTS,868,14,461,392,1
+Peach,BYRON #2,BOE P5 AT LARGE,,R,BEN HOOTS,1208,35,608,562,3
+Peach,CLAUDE,BOE P5 AT LARGE,,R,BEN HOOTS,304,11,224,69,0
+Peach,FORT VALLEY #1,BOE P5 AT LARGE,,R,BEN HOOTS,572,31,194,347,0
+Peach,FORT VALLEY #2,BOE P5 AT LARGE,,R,BEN HOOTS,324,12,154,158,0
+Peach,FORT VALLEY #3,BOE P5 AT LARGE,,R,BEN HOOTS,131,7,43,80,1
+Peach,POWERSVILLE,BOE P5 AT LARGE,,R,BEN HOOTS,489,20,331,137,1
+Peach,,BOE P5 AT LARGE,,D,DONALD WILLIAMS (I),3314,84,1590,1638,2
+Peach,BYRON #1,BOE P5 AT LARGE,,D,DONALD WILLIAMS (I),297,2,156,139,0
+Peach,BYRON #2,BOE P5 AT LARGE,,D,DONALD WILLIAMS (I),556,12,290,253,1
+Peach,CLAUDE,BOE P5 AT LARGE,,D,DONALD WILLIAMS (I),52,1,32,19,0
+Peach,FORT VALLEY #1,BOE P5 AT LARGE,,D,DONALD WILLIAMS (I),571,13,251,306,1
+Peach,FORT VALLEY #2,BOE P5 AT LARGE,,D,DONALD WILLIAMS (I),671,21,334,316,0
+Peach,FORT VALLEY #3,BOE P5 AT LARGE,,D,DONALD WILLIAMS (I),1025,29,448,548,0
+Peach,POWERSVILLE,BOE P5 AT LARGE,,D,DONALD WILLIAMS (I),142,6,79,57,0
+Peach,,BOE P2,,D,JAMIE J JOHNSON (I),1186,36,609,541,0
+Peach,CLAUDE,BOE P2,,D,JAMIE J JOHNSON (I),63,1,47,15,0
+Peach,FORT VALLEY #1,BOE P2,,D,JAMIE J JOHNSON (I),253,7,119,127,0
+Peach,FORT VALLEY #2,BOE P2,,D,JAMIE J JOHNSON (I),534,17,263,254,0
+Peach,FORT VALLEY #3,BOE P2,,D,JAMIE J JOHNSON (I),259,11,121,127,0
+Peach,POWERSVILLE,BOE P2,,D,JAMIE J JOHNSON (I),77,0,59,18,0
+Peach,,BOE P4,,R,B. J. WALKER,1509,42,749,717,1
+Peach,BYRON #1,BOE P4,,R,B. J. WALKER,846,13,443,389,1
+Peach,FORT VALLEY #1,BOE P4,,R,B. J. WALKER,324,19,109,196,0
+Peach,FORT VALLEY #2,BOE P4,,R,B. J. WALKER,114,3,50,61,0
+Peach,POWERSVILLE,BOE P4,,R,B. J. WALKER,225,7,147,71,0
+Peach,,BOE P4,,D,ROBERT HAMMACK (I),748,19,360,369,0
+Peach,BYRON #1,BOE P4,,D,ROBERT HAMMACK (I),318,3,176,139,0
+Peach,FORT VALLEY #1,BOE P4,,D,ROBERT HAMMACK (I),259,6,104,149,0
+Peach,FORT VALLEY #2,BOE P4,,D,ROBERT HAMMACK (I),101,3,48,50,0
+Peach,POWERSVILLE,BOE P4,,D,ROBERT HAMMACK (I),70,7,32,31,0
+Peach,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,5211,161,2577,2465,8
+Peach,BYRON #1,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,934,15,504,414,1
+Peach,BYRON #2,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,1384,37,689,654,4
+Peach,CLAUDE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,298,11,219,68,0
+Peach,FORT VALLEY #1,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,762,32,272,457,1
+Peach,FORT VALLEY #2,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,626,20,293,313,0
+Peach,FORT VALLEY #3,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,716,24,287,404,1
+Peach,POWERSVILLE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,491,22,313,155,1
+Peach,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,1917,48,998,871,0
+Peach,BYRON #1,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,233,1,118,114,0
+Peach,BYRON #2,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,369,7,207,155,0
+Peach,CLAUDE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,52,0,37,15,0
+Peach,FORT VALLEY #1,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,357,11,164,182,0
+Peach,FORT VALLEY #2,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,359,13,189,157,0
+Peach,FORT VALLEY #3,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,412,12,192,208,0
+Peach,POWERSVILLE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,135,4,91,40,0
+Peach,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,4692,148,2359,2182,3
+Peach,BYRON #1,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,733,11,403,318,1
+Peach,BYRON #2,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,1154,33,597,524,0
+Peach,CLAUDE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,209,7,150,52,0
+Peach,FORT VALLEY #1,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,752,30,291,430,1
+Peach,FORT VALLEY #2,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,665,25,331,309,0
+Peach,FORT VALLEY #3,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,778,26,330,422,0
+Peach,POWERSVILLE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,401,16,257,127,1
+Peach,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,2403,60,1204,1134,5
+Peach,BYRON #1,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,425,3,214,208,0
+Peach,BYRON #2,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,582,13,288,277,4
+Peach,CLAUDE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,140,5,102,33,0
+Peach,FORT VALLEY #1,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,360,11,141,208,0
+Peach,FORT VALLEY #2,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,321,8,155,158,0
+Peach,FORT VALLEY #3,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,356,10,160,185,1
+Peach,POWERSVILLE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,219,10,144,65,0
+Peach,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,5109,156,2579,2368,6
+Peach,BYRON #1,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,796,12,425,358,1
+Peach,BYRON #2,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,1233,35,615,581,2
+Peach,CLAUDE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,244,10,173,61,0
+Peach,FORT VALLEY #1,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,776,31,322,422,1
+Peach,FORT VALLEY #2,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,732,23,369,340,0
+Peach,FORT VALLEY #3,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,877,29,384,463,1
+Peach,POWERSVILLE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,451,16,291,143,1
+Peach,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,2025,54,1005,964,2
+Peach,BYRON #1,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,369,2,197,170,0
+Peach,BYRON #2,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,508,12,271,223,2
+Peach,CLAUDE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,109,2,85,22,0
+Peach,FORT VALLEY #1,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,343,12,114,217,0
+Peach,FORT VALLEY #2,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,257,9,116,132,0
+Peach,FORT VALLEY #3,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,264,7,110,147,0
+Peach,POWERSVILLE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,175,10,112,53,0
