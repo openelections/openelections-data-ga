@@ -106,7 +106,7 @@ def parse_office(office_text):
         office = 'United States Senator'
         district = None
     elif ',' in office_text:
-        district = office_text.split(', ')[1]
+        district = office_text.split(',')[1]
     else:
         district = None
     return [office.strip(), district]
