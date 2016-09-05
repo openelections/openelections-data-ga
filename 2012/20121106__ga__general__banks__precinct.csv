@@ -1,0 +1,435 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Banks,,President of the United States,,R,MITT ROMNEY,5354,194,3379,1780,1
+Banks,Anderson,President of the United States,,R,MITT ROMNEY,643,15,400,228,0
+Banks,Baldwin,President of the United States,,R,MITT ROMNEY,358,29,225,104,0
+Banks,Berlin,President of the United States,,R,MITT ROMNEY,193,2,108,83,0
+Banks,Bushville,President of the United States,,R,MITT ROMNEY,309,12,194,103,0
+Banks,Columbia,President of the United States,,R,MITT ROMNEY,198,11,164,23,0
+Banks,Davids,President of the United States,,R,MITT ROMNEY,702,25,440,237,0
+Banks,Golden Hill,President of the United States,,R,MITT ROMNEY,377,13,253,111,0
+Banks,Grove River,President of the United States,,R,MITT ROMNEY,279,13,224,42,0
+Banks,Hollingsworth,President of the United States,,R,MITT ROMNEY,305,11,201,92,1
+Banks,Homer,President of the United States,,R,MITT ROMNEY,617,20,296,301,0
+Banks,Poplar Springs,President of the United States,,R,MITT ROMNEY,766,24,503,239,0
+Banks,Washington,President of the United States,,R,MITT ROMNEY,324,10,206,108,0
+Banks,Wilmonts,President of the United States,,R,MITT ROMNEY,283,9,165,109,0
+Banks,,President of the United States,,(D,BARACK OBAMA (I),780,48,480,251,1
+Banks,Anderson,President of the United States,,(D,BARACK OBAMA (I),92,2,69,21,0
+Banks,Baldwin,President of the United States,,(D,BARACK OBAMA (I),55,3,35,17,0
+Banks,Berlin,President of the United States,,(D,BARACK OBAMA (I),15,0,11,4,0
+Banks,Bushville,President of the United States,,(D,BARACK OBAMA (I),47,3,30,14,0
+Banks,Columbia,President of the United States,,(D,BARACK OBAMA (I),22,1,16,5,0
+Banks,Davids,President of the United States,,(D,BARACK OBAMA (I),127,12,70,45,0
+Banks,Golden Hill,President of the United States,,(D,BARACK OBAMA (I),60,3,35,21,1
+Banks,Grove River,President of the United States,,(D,BARACK OBAMA (I),26,1,12,13,0
+Banks,Hollingsworth,President of the United States,,(D,BARACK OBAMA (I),50,0,31,19,0
+Banks,Homer,President of the United States,,(D,BARACK OBAMA (I),93,6,42,45,0
+Banks,Poplar Springs,President of the United States,,(D,BARACK OBAMA (I),85,6,49,30,0
+Banks,Washington,President of the United States,,(D,BARACK OBAMA (I),43,5,35,3,0
+Banks,Wilmonts,President of the United States,,(D,BARACK OBAMA (I),65,6,45,14,0
+Banks,,President of the United States,,L,GARY JOHNSON,59,6,44,9,0
+Banks,Anderson,President of the United States,,L,GARY JOHNSON,6,1,5,0,0
+Banks,Baldwin,President of the United States,,L,GARY JOHNSON,7,2,5,0,0
+Banks,Berlin,President of the United States,,L,GARY JOHNSON,2,0,2,0,0
+Banks,Bushville,President of the United States,,L,GARY JOHNSON,3,0,2,1,0
+Banks,Columbia,President of the United States,,L,GARY JOHNSON,2,0,2,0,0
+Banks,Davids,President of the United States,,L,GARY JOHNSON,11,2,7,2,0
+Banks,Golden Hill,President of the United States,,L,GARY JOHNSON,8,0,6,2,0
+Banks,Grove River,President of the United States,,L,GARY JOHNSON,0,0,0,0,0
+Banks,Hollingsworth,President of the United States,,L,GARY JOHNSON,2,0,2,0,0
+Banks,Homer,President of the United States,,L,GARY JOHNSON,9,1,6,2,0
+Banks,Poplar Springs,President of the United States,,L,GARY JOHNSON,6,0,5,1,0
+Banks,Washington,President of the United States,,L,GARY JOHNSON,3,0,2,1,0
+Banks,Wilmonts,President of the United States,,L,GARY JOHNSON,0,0,0,0,0
+Banks,,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),4623,177,2923,1522,1
+Banks,Anderson,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),568,14,354,200,0
+Banks,Baldwin,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),309,27,193,89,0
+Banks,Berlin,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),166,2,91,73,0
+Banks,Bushville,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),271,13,166,92,0
+Banks,Columbia,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),173,10,146,17,0
+Banks,Davids,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),627,20,399,208,0
+Banks,Golden Hill,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),309,8,204,97,0
+Banks,Grove River,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),247,12,200,35,0
+Banks,Hollingsworth,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),265,11,174,79,1
+Banks,Homer,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),538,18,263,257,0
+Banks,Poplar Springs,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),635,21,418,196,0
+Banks,Washington,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),277,13,174,90,0
+Banks,Wilmonts,"Public Service Commission, District 3",3,(R,CHUCK EATON (I),238,8,141,89,0
+Banks,,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,786,48,484,253,1
+Banks,Anderson,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,88,0,68,20,0
+Banks,Baldwin,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,57,4,37,16,0
+Banks,Berlin,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,17,0,12,5,0
+Banks,Bushville,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,42,3,28,11,0
+Banks,Columbia,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,21,1,15,5,0
+Banks,Davids,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,117,15,58,44,0
+Banks,Golden Hill,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,68,4,40,23,1
+Banks,Grove River,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,32,2,16,14,0
+Banks,Hollingsworth,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,48,0,30,18,0
+Banks,Homer,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,87,5,40,42,0
+Banks,Poplar Springs,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,106,6,67,33,0
+Banks,Washington,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,40,2,31,7,0
+Banks,Wilmonts,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,63,6,42,15,0
+Banks,,"Public Service Commission, District 3",3,L,BRAD PLOEGER,340,11,234,95,0
+Banks,Anderson,"Public Service Commission, District 3",3,L,BRAD PLOEGER,34,1,25,8,0
+Banks,Baldwin,"Public Service Commission, District 3",3,L,BRAD PLOEGER,25,3,16,6,0
+Banks,Berlin,"Public Service Commission, District 3",3,L,BRAD PLOEGER,10,0,8,2,0
+Banks,Bushville,"Public Service Commission, District 3",3,L,BRAD PLOEGER,25,0,17,8,0
+Banks,Columbia,"Public Service Commission, District 3",3,L,BRAD PLOEGER,11,0,8,3,0
+Banks,Davids,"Public Service Commission, District 3",3,L,BRAD PLOEGER,43,3,30,10,0
+Banks,Golden Hill,"Public Service Commission, District 3",3,L,BRAD PLOEGER,32,1,22,9,0
+Banks,Grove River,"Public Service Commission, District 3",3,L,BRAD PLOEGER,10,0,9,1,0
+Banks,Hollingsworth,"Public Service Commission, District 3",3,L,BRAD PLOEGER,21,0,17,4,0
+Banks,Homer,"Public Service Commission, District 3",3,L,BRAD PLOEGER,41,1,23,17,0
+Banks,Poplar Springs,"Public Service Commission, District 3",3,L,BRAD PLOEGER,55,2,37,16,0
+Banks,Washington,"Public Service Commission, District 3",3,L,BRAD PLOEGER,15,0,11,4,0
+Banks,Wilmonts,"Public Service Commission, District 3",3,L,BRAD PLOEGER,18,0,11,7,0
+Banks,,"Public Service Commission, District 5",5,(R,STAN WISE (I),4767,187,2995,1584,1
+Banks,Anderson,"Public Service Commission, District 5",5,(R,STAN WISE (I),575,13,359,203,0
+Banks,Baldwin,"Public Service Commission, District 5",5,(R,STAN WISE (I),325,28,201,96,0
+Banks,Berlin,"Public Service Commission, District 5",5,(R,STAN WISE (I),165,2,88,75,0
+Banks,Bushville,"Public Service Commission, District 5",5,(R,STAN WISE (I),285,13,177,95,0
+Banks,Columbia,"Public Service Commission, District 5",5,(R,STAN WISE (I),173,11,146,16,0
+Banks,Davids,"Public Service Commission, District 5",5,(R,STAN WISE (I),663,22,419,222,0
+Banks,Golden Hill,"Public Service Commission, District 5",5,(R,STAN WISE (I),311,9,204,98,0
+Banks,Grove River,"Public Service Commission, District 5",5,(R,STAN WISE (I),254,13,201,40,0
+Banks,Hollingsworth,"Public Service Commission, District 5",5,(R,STAN WISE (I),274,11,180,82,1
+Banks,Homer,"Public Service Commission, District 5",5,(R,STAN WISE (I),570,21,279,270,0
+Banks,Poplar Springs,"Public Service Commission, District 5",5,(R,STAN WISE (I),655,22,426,207,0
+Banks,Washington,"Public Service Commission, District 5",5,(R,STAN WISE (I),276,14,171,91,0
+Banks,Wilmonts,"Public Service Commission, District 5",5,(R,STAN WISE (I),241,8,144,89,0
+Banks,,"Public Service Commission, District 5",5,L,DAVID STAPLES,859,36,569,253,1
+Banks,Anderson,"Public Service Commission, District 5",5,L,DAVID STAPLES,106,1,79,26,0
+Banks,Baldwin,"Public Service Commission, District 5",5,L,DAVID STAPLES,54,4,37,13,0
+Banks,Berlin,"Public Service Commission, District 5",5,L,DAVID STAPLES,28,0,23,5,0
+Banks,Bushville,"Public Service Commission, District 5",5,L,DAVID STAPLES,47,3,31,13,0
+Banks,Columbia,"Public Service Commission, District 5",5,L,DAVID STAPLES,23,0,17,6,0
+Banks,Davids,"Public Service Commission, District 5",5,L,DAVID STAPLES,110,10,71,29,0
+Banks,Golden Hill,"Public Service Commission, District 5",5,L,DAVID STAPLES,85,3,55,26,1
+Banks,Grove River,"Public Service Commission, District 5",5,L,DAVID STAPLES,32,1,20,11,0
+Banks,Hollingsworth,"Public Service Commission, District 5",5,L,DAVID STAPLES,49,0,34,15,0
+Banks,Homer,"Public Service Commission, District 5",5,L,DAVID STAPLES,89,2,46,41,0
+Banks,Poplar Springs,"Public Service Commission, District 5",5,L,DAVID STAPLES,127,6,82,39,0
+Banks,Washington,"Public Service Commission, District 5",5,L,DAVID STAPLES,48,1,37,10,0
+Banks,Wilmonts,"Public Service Commission, District 5",5,L,DAVID STAPLES,61,5,37,19,0
+Banks,,U.S. Representative,9,R,DOUG COLLINS,4825,184,3001,1639,1
+Banks,Anderson,U.S. Representative,9,R,DOUG COLLINS,581,16,362,203,0
+Banks,Baldwin,U.S. Representative,9,R,DOUG COLLINS,315,29,192,94,0
+Banks,Berlin,U.S. Representative,9,R,DOUG COLLINS,169,2,89,78,0
+Banks,Bushville,U.S. Representative,9,R,DOUG COLLINS,295,12,183,100,0
+Banks,Columbia,U.S. Representative,9,R,DOUG COLLINS,175,8,150,17,0
+Banks,Davids,U.S. Representative,9,R,DOUG COLLINS,660,25,410,225,0
+Banks,Golden Hill,U.S. Representative,9,R,DOUG COLLINS,332,10,218,104,0
+Banks,Grove River,U.S. Representative,9,R,DOUG COLLINS,261,12,212,37,0
+Banks,Hollingsworth,U.S. Representative,9,R,DOUG COLLINS,269,9,177,82,1
+Banks,Homer,U.S. Representative,9,R,DOUG COLLINS,560,19,261,280,0
+Banks,Poplar Springs,U.S. Representative,9,R,DOUG COLLINS,680,21,437,222,0
+Banks,Washington,U.S. Representative,9,R,DOUG COLLINS,278,12,168,98,0
+Banks,Wilmonts,U.S. Representative,9,R,DOUG COLLINS,250,9,142,99,0
+Banks,,U.S. Representative,9,D,JODY COOLEY,1092,55,729,307,1
+Banks,Anderson,U.S. Representative,9,D,JODY COOLEY,125,2,94,29,0
+Banks,Baldwin,U.S. Representative,9,D,JODY COOLEY,89,4,61,24,0
+Banks,Berlin,U.S. Representative,9,D,JODY COOLEY,34,0,28,6,0
+Banks,Bushville,U.S. Representative,9,D,JODY COOLEY,48,4,32,12,0
+Banks,Columbia,U.S. Representative,9,D,JODY COOLEY,30,2,21,7,0
+Banks,Davids,U.S. Representative,9,D,JODY COOLEY,151,13,90,48,0
+Banks,Golden Hill,U.S. Representative,9,D,JODY COOLEY,92,3,63,25,1
+Banks,Grove River,U.S. Representative,9,D,JODY COOLEY,34,2,16,16,0
+Banks,Hollingsworth,U.S. Representative,9,D,JODY COOLEY,71,2,48,21,0
+Banks,Homer,U.S. Representative,9,D,JODY COOLEY,128,8,69,51,0
+Banks,Poplar Springs,U.S. Representative,9,D,JODY COOLEY,147,7,98,42,0
+Banks,Washington,U.S. Representative,9,D,JODY COOLEY,63,3,52,8,0
+Banks,Wilmonts,U.S. Representative,9,D,JODY COOLEY,80,5,57,18,0
+Banks,,State Senator,50,(R,JOHN WILKINSON (I),5412,189,3448,1773,2
+Banks,Anderson,State Senator,50,(R,JOHN WILKINSON (I),644,11,418,215,0
+Banks,Baldwin,State Senator,50,(R,JOHN WILKINSON (I),361,27,229,105,0
+Banks,Berlin,State Senator,50,(R,JOHN WILKINSON (I),191,2,110,79,0
+Banks,Bushville,State Senator,50,(R,JOHN WILKINSON (I),322,6,207,109,0
+Banks,Columbia,State Senator,50,(R,JOHN WILKINSON (I),200,10,171,19,0
+Banks,Davids,State Senator,50,(R,JOHN WILKINSON (I),727,27,462,238,0
+Banks,Golden Hill,State Senator,50,(R,JOHN WILKINSON (I),373,11,248,113,1
+Banks,Grove River,State Senator,50,(R,JOHN WILKINSON (I),276,13,218,45,0
+Banks,Hollingsworth,State Senator,50,(R,JOHN WILKINSON (I),307,10,205,91,1
+Banks,Homer,State Senator,50,(R,JOHN WILKINSON (I),639,24,314,301,0
+Banks,Poplar Springs,State Senator,50,(R,JOHN WILKINSON (I),766,24,497,245,0
+Banks,Washington,State Senator,50,(R,JOHN WILKINSON (I),310,14,192,104,0
+Banks,Wilmonts,State Senator,50,(R,JOHN WILKINSON (I),296,10,177,109,0
+Banks,,State Representative,28,R,DAN GASAWAY,5428,190,3448,1788,2
+Banks,Anderson,State Representative,28,R,DAN GASAWAY,657,11,424,222,0
+Banks,Baldwin,State Representative,28,R,DAN GASAWAY,361,26,232,103,0
+Banks,Berlin,State Representative,28,R,DAN GASAWAY,189,2,109,78,0
+Banks,Bushville,State Representative,28,R,DAN GASAWAY,322,6,207,109,0
+Banks,Columbia,State Representative,28,R,DAN GASAWAY,194,10,166,18,0
+Banks,Davids,State Representative,28,R,DAN GASAWAY,727,27,460,240,0
+Banks,Golden Hill,State Representative,28,R,DAN GASAWAY,377,11,252,113,1
+Banks,Grove River,State Representative,28,R,DAN GASAWAY,280,13,220,47,0
+Banks,Hollingsworth,State Representative,28,R,DAN GASAWAY,307,11,199,96,1
+Banks,Homer,State Representative,28,R,DAN GASAWAY,650,23,317,310,0
+Banks,Poplar Springs,State Representative,28,R,DAN GASAWAY,758,25,493,240,0
+Banks,Washington,State Representative,28,R,DAN GASAWAY,312,14,195,103,0
+Banks,Wilmonts,State Representative,28,R,DAN GASAWAY,294,11,174,109,0
+Banks,,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),5337,190,3388,1757,2
+Banks,Anderson,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),650,12,418,220,0
+Banks,Baldwin,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),357,26,224,107,0
+Banks,Berlin,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),184,2,103,79,0
+Banks,Bushville,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),316,6,206,104,0
+Banks,Columbia,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),191,10,163,18,0
+Banks,Davids,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),717,26,455,236,0
+Banks,Golden Hill,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),374,11,246,116,1
+Banks,Grove River,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),268,13,212,43,0
+Banks,Hollingsworth,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),297,11,200,85,1
+Banks,Homer,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),631,24,309,298,0
+Banks,Poplar Springs,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),758,25,490,243,0
+Banks,Washington,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),307,13,191,103,0
+Banks,Wilmonts,District Attorney, Piedmont Circuit,(R,BRAD SMITH (I),287,11,171,105,0
+Banks,,Superior Court Clerk,,(R,TIM HARPER (I),5506,192,3497,1815,2
+Banks,Anderson,Superior Court Clerk,,(R,TIM HARPER (I),669,14,430,225,0
+Banks,Baldwin,Superior Court Clerk,,(R,TIM HARPER (I),367,25,232,110,0
+Banks,Berlin,Superior Court Clerk,,(R,TIM HARPER (I),191,2,110,79,0
+Banks,Bushville,Superior Court Clerk,,(R,TIM HARPER (I),325,6,208,111,0
+Banks,Columbia,Superior Court Clerk,,(R,TIM HARPER (I),193,10,164,19,0
+Banks,Davids,Superior Court Clerk,,(R,TIM HARPER (I),741,27,469,245,0
+Banks,Golden Hill,Superior Court Clerk,,(R,TIM HARPER (I),394,12,263,118,1
+Banks,Grove River,Superior Court Clerk,,(R,TIM HARPER (I),280,14,217,49,0
+Banks,Hollingsworth,Superior Court Clerk,,(R,TIM HARPER (I),313,11,205,96,1
+Banks,Homer,Superior Court Clerk,,(R,TIM HARPER (I),656,24,320,312,0
+Banks,Poplar Springs,Superior Court Clerk,,(R,TIM HARPER (I),757,24,496,237,0
+Banks,Washington,Superior Court Clerk,,(R,TIM HARPER (I),326,13,206,107,0
+Banks,Wilmonts,Superior Court Clerk,,(R,TIM HARPER (I),294,10,177,107,0
+Banks,,Sheriff,,R,CARLTON SPEED,5438,190,3469,1777,2
+Banks,Anderson,Sheriff,,R,CARLTON SPEED,659,12,426,221,0
+Banks,Baldwin,Sheriff,,R,CARLTON SPEED,367,27,234,106,0
+Banks,Berlin,Sheriff,,R,CARLTON SPEED,186,2,108,76,0
+Banks,Bushville,Sheriff,,R,CARLTON SPEED,329,11,207,111,0
+Banks,Columbia,Sheriff,,R,CARLTON SPEED,196,11,167,18,0
+Banks,Davids,Sheriff,,R,CARLTON SPEED,730,25,463,242,0
+Banks,Golden Hill,Sheriff,,R,CARLTON SPEED,379,10,256,112,1
+Banks,Grove River,Sheriff,,R,CARLTON SPEED,276,13,216,47,0
+Banks,Hollingsworth,Sheriff,,R,CARLTON SPEED,305,10,204,90,1
+Banks,Homer,Sheriff,,R,CARLTON SPEED,646,23,318,305,0
+Banks,Poplar Springs,Sheriff,,R,CARLTON SPEED,744,23,484,237,0
+Banks,Washington,Sheriff,,R,CARLTON SPEED,323,13,207,103,0
+Banks,Wilmonts,Sheriff,,R,CARLTON SPEED,298,10,179,109,0
+Banks,,Tax Commissioner,,R,BECKY CARLAN,5456,194,3474,1786,2
+Banks,Anderson,Tax Commissioner,,R,BECKY CARLAN,664,13,431,220,0
+Banks,Baldwin,Tax Commissioner,,R,BECKY CARLAN,364,26,228,110,0
+Banks,Berlin,Tax Commissioner,,R,BECKY CARLAN,185,2,104,79,0
+Banks,Bushville,Tax Commissioner,,R,BECKY CARLAN,325,8,211,106,0
+Banks,Columbia,Tax Commissioner,,R,BECKY CARLAN,193,10,164,19,0
+Banks,Davids,Tax Commissioner,,R,BECKY CARLAN,744,27,470,247,0
+Banks,Golden Hill,Tax Commissioner,,R,BECKY CARLAN,384,11,257,115,1
+Banks,Grove River,Tax Commissioner,,R,BECKY CARLAN,279,14,216,49,0
+Banks,Hollingsworth,Tax Commissioner,,R,BECKY CARLAN,306,11,202,92,1
+Banks,Homer,Tax Commissioner,,R,BECKY CARLAN,651,24,320,307,0
+Banks,Poplar Springs,Tax Commissioner,,R,BECKY CARLAN,747,25,489,233,0
+Banks,Washington,Tax Commissioner,,R,BECKY CARLAN,321,13,205,103,0
+Banks,Wilmonts,Tax Commissioner,,R,BECKY CARLAN,293,10,177,106,0
+Banks,,Surveyor,,R,ANDREW JORDAN,5299,185,3374,1738,2
+Banks,Anderson,Surveyor,,R,ANDREW JORDAN,649,11,420,218,0
+Banks,Baldwin,Surveyor,,R,ANDREW JORDAN,352,23,221,108,0
+Banks,Berlin,Surveyor,,R,ANDREW JORDAN,178,2,101,75,0
+Banks,Bushville,Surveyor,,R,ANDREW JORDAN,314,6,202,106,0
+Banks,Columbia,Surveyor,,R,ANDREW JORDAN,189,10,162,17,0
+Banks,Davids,Surveyor,,R,ANDREW JORDAN,723,27,457,239,0
+Banks,Golden Hill,Surveyor,,R,ANDREW JORDAN,378,11,252,114,1
+Banks,Grove River,Surveyor,,R,ANDREW JORDAN,271,14,211,46,0
+Banks,Hollingsworth,Surveyor,,R,ANDREW JORDAN,296,10,195,90,1
+Banks,Homer,Surveyor,,R,ANDREW JORDAN,618,23,306,289,0
+Banks,Poplar Springs,Surveyor,,R,ANDREW JORDAN,738,25,481,232,0
+Banks,Washington,Surveyor,,R,ANDREW JORDAN,310,13,195,102,0
+Banks,Wilmonts,Surveyor,,R,ANDREW JORDAN,283,10,171,102,0
+Banks,,Coroner,,(R,BOBBY EUBANKS (I),5311,188,3379,1742,2
+Banks,Anderson,Coroner,,(R,BOBBY EUBANKS (I),650,12,422,216,0
+Banks,Baldwin,Coroner,,(R,BOBBY EUBANKS (I),354,23,223,108,0
+Banks,Berlin,Coroner,,(R,BOBBY EUBANKS (I),178,2,102,74,0
+Banks,Bushville,Coroner,,(R,BOBBY EUBANKS (I),315,6,202,107,0
+Banks,Columbia,Coroner,,(R,BOBBY EUBANKS (I),189,11,160,18,0
+Banks,Davids,Coroner,,(R,BOBBY EUBANKS (I),719,27,453,239,0
+Banks,Golden Hill,Coroner,,(R,BOBBY EUBANKS (I),377,11,250,115,1
+Banks,Grove River,Coroner,,(R,BOBBY EUBANKS (I),273,14,213,46,0
+Banks,Hollingsworth,Coroner,,(R,BOBBY EUBANKS (I),302,11,201,89,1
+Banks,Homer,Coroner,,(R,BOBBY EUBANKS (I),621,24,306,291,0
+Banks,Poplar Springs,Coroner,,(R,BOBBY EUBANKS (I),730,25,473,232,0
+Banks,Washington,Coroner,,(R,BOBBY EUBANKS (I),318,13,202,103,0
+Banks,Wilmonts,Coroner,,(R,BOBBY EUBANKS (I),285,9,172,104,0
+Banks,,County Comm Chair,,R,JIMMY HOOPER,5253,182,3363,1706,2
+Banks,Anderson,County Comm Chair,,R,JIMMY HOOPER,650,13,422,215,0
+Banks,Baldwin,County Comm Chair,,R,JIMMY HOOPER,353,25,221,107,0
+Banks,Berlin,County Comm Chair,,R,JIMMY HOOPER,172,2,102,68,0
+Banks,Bushville,County Comm Chair,,R,JIMMY HOOPER,312,6,197,109,0
+Banks,Columbia,County Comm Chair,,R,JIMMY HOOPER,185,10,158,17,0
+Banks,Davids,County Comm Chair,,R,JIMMY HOOPER,715,25,460,230,0
+Banks,Golden Hill,County Comm Chair,,R,JIMMY HOOPER,377,11,251,114,1
+Banks,Grove River,County Comm Chair,,R,JIMMY HOOPER,264,13,206,45,0
+Banks,Hollingsworth,County Comm Chair,,R,JIMMY HOOPER,294,10,197,86,1
+Banks,Homer,County Comm Chair,,R,JIMMY HOOPER,616,22,306,288,0
+Banks,Poplar Springs,County Comm Chair,,R,JIMMY HOOPER,731,24,479,228,0
+Banks,Washington,County Comm Chair,,R,JIMMY HOOPER,301,11,193,97,0
+Banks,Wilmonts,County Comm Chair,,R,JIMMY HOOPER,283,10,171,102,0
+Banks,,County Comm 2,,R,DAVID DUCKETT,5191,179,3339,1671,2
+Banks,Anderson,County Comm 2,,R,DAVID DUCKETT,642,11,417,214,0
+Banks,Baldwin,County Comm 2,,R,DAVID DUCKETT,342,25,217,100,0
+Banks,Berlin,County Comm 2,,R,DAVID DUCKETT,177,2,103,72,0
+Banks,Bushville,County Comm 2,,R,DAVID DUCKETT,309,5,202,102,0
+Banks,Columbia,County Comm 2,,R,DAVID DUCKETT,186,10,159,17,0
+Banks,Davids,County Comm 2,,R,DAVID DUCKETT,710,26,452,232,0
+Banks,Golden Hill,County Comm 2,,R,DAVID DUCKETT,374,11,248,114,1
+Banks,Grove River,County Comm 2,,R,DAVID DUCKETT,267,13,211,43,0
+Banks,Hollingsworth,County Comm 2,,R,DAVID DUCKETT,290,10,194,85,1
+Banks,Homer,County Comm 2,,R,DAVID DUCKETT,608,23,307,278,0
+Banks,Poplar Springs,County Comm 2,,R,DAVID DUCKETT,717,23,471,223,0
+Banks,Washington,County Comm 2,,R,DAVID DUCKETT,292,11,189,92,0
+Banks,Wilmonts,County Comm 2,,R,DAVID DUCKETT,277,9,169,99,0
+Banks,,County Comm 4,,(R,CHARLES TURK (I),5176,183,3308,1683,2
+Banks,Anderson,County Comm 4,,(R,CHARLES TURK (I),641,14,415,212,0
+Banks,Baldwin,County Comm 4,,(R,CHARLES TURK (I),343,24,218,101,0
+Banks,Berlin,County Comm 4,,(R,CHARLES TURK (I),172,2,99,71,0
+Banks,Bushville,County Comm 4,,(R,CHARLES TURK (I),302,7,194,101,0
+Banks,Columbia,County Comm 4,,(R,CHARLES TURK (I),188,10,160,18,0
+Banks,Davids,County Comm 4,,(R,CHARLES TURK (I),702,26,443,233,0
+Banks,Golden Hill,County Comm 4,,(R,CHARLES TURK (I),363,9,239,114,1
+Banks,Grove River,County Comm 4,,(R,CHARLES TURK (I),267,13,208,46,0
+Banks,Hollingsworth,County Comm 4,,(R,CHARLES TURK (I),291,11,195,84,1
+Banks,Homer,County Comm 4,,(R,CHARLES TURK (I),607,23,301,283,0
+Banks,Poplar Springs,County Comm 4,,(R,CHARLES TURK (I),726,23,481,222,0
+Banks,Washington,County Comm 4,,(R,CHARLES TURK (I),301,12,190,99,0
+Banks,Wilmonts,County Comm 4,,(R,CHARLES TURK (I),273,9,165,99,0
+Banks,,BOE 1,,R,ANTHONY SEABOLT,5286,182,3383,1719,2
+Banks,Anderson,BOE 1,,R,ANTHONY SEABOLT,649,11,425,213,0
+Banks,Baldwin,BOE 1,,R,ANTHONY SEABOLT,353,24,225,104,0
+Banks,Berlin,BOE 1,,R,ANTHONY SEABOLT,182,2,104,76,0
+Banks,Bushville,BOE 1,,R,ANTHONY SEABOLT,319,8,206,105,0
+Banks,Columbia,BOE 1,,R,ANTHONY SEABOLT,187,10,160,17,0
+Banks,Davids,BOE 1,,R,ANTHONY SEABOLT,731,25,460,246,0
+Banks,Golden Hill,BOE 1,,R,ANTHONY SEABOLT,369,10,246,112,1
+Banks,Grove River,BOE 1,,R,ANTHONY SEABOLT,269,13,209,47,0
+Banks,Hollingsworth,BOE 1,,R,ANTHONY SEABOLT,292,10,196,85,1
+Banks,Homer,BOE 1,,R,ANTHONY SEABOLT,620,23,311,286,0
+Banks,Poplar Springs,BOE 1,,R,ANTHONY SEABOLT,727,24,478,225,0
+Banks,Washington,BOE 1,,R,ANTHONY SEABOLT,307,12,195,100,0
+Banks,Wilmonts,BOE 1,,R,ANTHONY SEABOLT,281,10,168,103,0
+Banks,,BOE 2,,R,WES WHITFIELD,5225,181,3345,1697,2
+Banks,Anderson,BOE 2,,R,WES WHITFIELD,645,11,424,210,0
+Banks,Baldwin,BOE 2,,R,WES WHITFIELD,351,24,223,104,0
+Banks,Berlin,BOE 2,,R,WES WHITFIELD,178,2,103,73,0
+Banks,Bushville,BOE 2,,R,WES WHITFIELD,314,7,202,105,0
+Banks,Columbia,BOE 2,,R,WES WHITFIELD,187,10,160,17,0
+Banks,Davids,BOE 2,,R,WES WHITFIELD,715,25,453,237,0
+Banks,Golden Hill,BOE 2,,R,WES WHITFIELD,366,11,240,114,1
+Banks,Grove River,BOE 2,,R,WES WHITFIELD,269,13,209,47,0
+Banks,Hollingsworth,BOE 2,,R,WES WHITFIELD,289,10,193,85,1
+Banks,Homer,BOE 2,,R,WES WHITFIELD,614,23,308,283,0
+Banks,Poplar Springs,BOE 2,,R,WES WHITFIELD,721,23,472,226,0
+Banks,Washington,BOE 2,,R,WES WHITFIELD,301,12,192,97,0
+Banks,Wilmonts,BOE 2,,R,WES WHITFIELD,275,10,166,99,0
+Banks,,BOE 4,,R,ATHA DALTON,5146,175,3297,1672,2
+Banks,Anderson,BOE 4,,R,ATHA DALTON,632,11,413,208,0
+Banks,Baldwin,BOE 4,,R,ATHA DALTON,345,24,220,101,0
+Banks,Berlin,BOE 4,,R,ATHA DALTON,170,1,98,71,0
+Banks,Bushville,BOE 4,,R,ATHA DALTON,311,7,199,105,0
+Banks,Columbia,BOE 4,,R,ATHA DALTON,184,10,158,16,0
+Banks,Davids,BOE 4,,R,ATHA DALTON,712,25,451,236,0
+Banks,Golden Hill,BOE 4,,R,ATHA DALTON,369,10,244,114,1
+Banks,Grove River,BOE 4,,R,ATHA DALTON,262,13,205,44,0
+Banks,Hollingsworth,BOE 4,,R,ATHA DALTON,283,7,192,83,1
+Banks,Homer,BOE 4,,R,ATHA DALTON,596,23,301,272,0
+Banks,Poplar Springs,BOE 4,,R,ATHA DALTON,712,23,464,225,0
+Banks,Washington,BOE 4,,R,ATHA DALTON,298,12,188,98,0
+Banks,Wilmonts,BOE 4,,R,ATHA DALTON,272,9,164,99,0
+Banks,,Soil and Water,,,DENNIS T. BROWN (I),5014,177,3228,1607,2
+Banks,Anderson,Soil and Water,,,DENNIS T. BROWN (I),609,12,400,197,0
+Banks,Baldwin,Soil and Water,,,DENNIS T. BROWN (I),336,23,211,102,0
+Banks,Berlin,Soil and Water,,,DENNIS T. BROWN (I),172,2,101,69,0
+Banks,Bushville,Soil and Water,,,DENNIS T. BROWN (I),286,7,185,94,0
+Banks,Columbia,Soil and Water,,,DENNIS T. BROWN (I),180,10,153,17,0
+Banks,Davids,Soil and Water,,,DENNIS T. BROWN (I),689,25,442,222,0
+Banks,Golden Hill,Soil and Water,,,DENNIS T. BROWN (I),364,9,243,111,1
+Banks,Grove River,Soil and Water,,,DENNIS T. BROWN (I),261,14,203,44,0
+Banks,Hollingsworth,Soil and Water,,,DENNIS T. BROWN (I),270,11,180,78,1
+Banks,Homer,Soil and Water,,,DENNIS T. BROWN (I),598,23,301,274,0
+Banks,Poplar Springs,Soil and Water,,,DENNIS T. BROWN (I),692,22,458,212,0
+Banks,Washington,Soil and Water,,,DENNIS T. BROWN (I),293,10,186,97,0
+Banks,Wilmonts,Soil and Water,,,DENNIS T. BROWN (I),264,9,165,90,0
+Banks,,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,2625,119,1590,915,1
+Banks,Anderson,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,346,10,204,132,0
+Banks,Baldwin,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,207,16,129,62,0
+Banks,Berlin,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,104,1,52,51,0
+Banks,Bushville,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,152,10,82,60,0
+Banks,Columbia,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,95,10,71,14,0
+Banks,Davids,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,375,17,224,134,0
+Banks,Golden Hill,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,179,3,113,62,1
+Banks,Grove River,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,113,8,90,15,0
+Banks,Hollingsworth,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,129,1,88,40,0
+Banks,Homer,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,246,14,117,115,0
+Banks,Poplar Springs,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,389,14,243,132,0
+Banks,Washington,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,152,8,96,48,0
+Banks,Wilmonts,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,138,7,81,50,0
+Banks,,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,3319,112,2177,1029,1
+Banks,Anderson,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,360,5,251,104,0
+Banks,Baldwin,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,202,18,127,57,0
+Banks,Berlin,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,97,1,63,33,0
+Banks,Bushville,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,193,5,137,51,0
+Banks,Columbia,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,121,2,107,12,0
+Banks,Davids,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,428,20,271,137,0
+Banks,Golden Hill,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,252,11,174,67,0
+Banks,Grove River,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,179,5,139,35,0
+Banks,Hollingsworth,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,214,9,141,63,1
+Banks,Homer,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,441,12,216,213,0
+Banks,Poplar Springs,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,438,11,298,129,0
+Banks,Washington,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,196,5,131,60,0
+Banks,Wilmonts,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,198,8,122,68,0
+Banks,,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,3038,121,1879,1036,2
+Banks,Anderson,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,392,9,238,145,0
+Banks,Baldwin,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,229,16,137,76,0
+Banks,Berlin,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,98,0,59,39,0
+Banks,Bushville,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,174,6,105,63,0
+Banks,Columbia,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,112,10,86,16,0
+Banks,Davids,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,425,19,256,150,0
+Banks,Golden Hill,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,220,7,131,81,1
+Banks,Grove River,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,129,5,107,17,0
+Banks,Hollingsworth,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,176,3,117,55,1
+Banks,Homer,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,320,12,156,152,0
+Banks,Poplar Springs,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,421,19,281,121,0
+Banks,Washington,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,169,6,104,59,0
+Banks,Wilmonts,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,173,9,102,62,0
+Banks,,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,2655,112,1727,816,0
+Banks,Anderson,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,283,8,193,82,0
+Banks,Baldwin,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,163,17,105,41,0
+Banks,Berlin,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,93,2,53,38,0
+Banks,Bushville,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,162,9,104,49,0
+Banks,Columbia,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,91,1,82,8,0
+Banks,Davids,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,353,19,226,108,0
+Banks,Golden Hill,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,204,9,148,47,0
+Banks,Grove River,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,151,8,110,33,0
+Banks,Hollingsworth,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,152,8,101,43,0
+Banks,Homer,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,337,14,163,160,0
+Banks,Poplar Springs,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,368,6,242,120,0
+Banks,Washington,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,160,6,110,44,0
+Banks,Wilmonts,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,138,5,90,43,0
+Banks,,Sunday Sales,,,YES,2910,93,1847,969,1
+Banks,Anderson,Sunday Sales,,,YES,414,8,265,141,0
+Banks,Baldwin,Sunday Sales,,,YES,214,15,134,65,0
+Banks,Berlin,Sunday Sales,,,YES,124,1,73,50,0
+Banks,Bushville,Sunday Sales,,,YES,188,4,119,65,0
+Banks,Columbia,Sunday Sales,,,YES,84,5,67,12,0
+Banks,Davids,Sunday Sales,,,YES,411,18,259,134,0
+Banks,Golden Hill,Sunday Sales,,,YES,184,5,117,61,1
+Banks,Grove River,Sunday Sales,,,YES,104,6,75,23,0
+Banks,Hollingsworth,Sunday Sales,,,YES,156,3,102,51,0
+Banks,Homer,Sunday Sales,,,YES,334,7,171,156,0
+Banks,Poplar Springs,Sunday Sales,,,YES,363,13,244,106,0
+Banks,Washington,Sunday Sales,,,YES,169,4,114,51,0
+Banks,Wilmonts,Sunday Sales,,,YES,165,4,107,54,0
+Banks,,Sunday Sales,,,NO,3207,150,2013,1043,1
+Banks,Anderson,Sunday Sales,,,NO,317,9,204,104,0
+Banks,Baldwin,Sunday Sales,,,NO,202,17,129,56,0
+Banks,Berlin,Sunday Sales,,,NO,85,1,49,35,0
+Banks,Bushville,Sunday Sales,,,NO,169,11,106,52,0
+Banks,Columbia,Sunday Sales,,,NO,134,7,111,16,0
+Banks,Davids,Sunday Sales,,,NO,411,20,249,142,0
+Banks,Golden Hill,Sunday Sales,,,NO,255,10,172,73,0
+Banks,Grove River,Sunday Sales,,,NO,196,8,158,30,0
+Banks,Hollingsworth,Sunday Sales,,,NO,201,8,131,61,1
+Banks,Homer,Sunday Sales,,,NO,371,19,164,188,0
+Banks,Poplar Springs,Sunday Sales,,,NO,492,19,313,160,0
+Banks,Washington,Sunday Sales,,,NO,193,10,125,58,0
+Banks,Wilmonts,Sunday Sales,,,NO,181,11,102,68,0

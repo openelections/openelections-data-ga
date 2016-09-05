@@ -1,0 +1,403 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Clinch,,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),820,53,513,251,3
+Clinch,Arabia,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),31,0,28,3,0
+Clinch,Argyle,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),73,4,59,10,0
+Clinch,Dupont,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),47,9,31,6,1
+Clinch,Fargo,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),75,1,71,3,0
+Clinch,Homerville,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),594,39,324,229,2
+Clinch,,"Public Service Commission, District 3",3,REP,MATT REID,373,10,239,124,0
+Clinch,Arabia,"Public Service Commission, District 3",3,REP,MATT REID,14,0,13,1,0
+Clinch,Argyle,"Public Service Commission, District 3",3,REP,MATT REID,33,0,25,8,0
+Clinch,Dupont,"Public Service Commission, District 3",3,REP,MATT REID,30,1,25,4,0
+Clinch,Fargo,"Public Service Commission, District 3",3,REP,MATT REID,38,0,38,0,0
+Clinch,Homerville,"Public Service Commission, District 3",3,REP,MATT REID,258,9,138,111,0
+Clinch,,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,66,6,33,27,0
+Clinch,Arabia,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,1,0,1,0,0
+Clinch,Argyle,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,0,0,0,0,0
+Clinch,Dupont,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,7,0,5,2,0
+Clinch,Fargo,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,0,0,0,0,0
+Clinch,Homerville,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,58,6,27,25,0
+Clinch,,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,429,20,279,130,0
+Clinch,Arabia,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,13,0,10,3,0
+Clinch,Argyle,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,37,1,29,7,0
+Clinch,Dupont,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,45,7,31,7,0
+Clinch,Fargo,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,38,0,38,0,0
+Clinch,Homerville,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,296,12,171,113,0
+Clinch,,"Public Service Commission, District 5",5,REP,STAN WISE (I),695,43,427,223,2
+Clinch,Arabia,"Public Service Commission, District 5",5,REP,STAN WISE (I),31,0,30,1,0
+Clinch,Argyle,"Public Service Commission, District 5",5,REP,STAN WISE (I),67,3,53,11,0
+Clinch,Dupont,"Public Service Commission, District 5",5,REP,STAN WISE (I),32,3,23,5,1
+Clinch,Fargo,"Public Service Commission, District 5",5,REP,STAN WISE (I),54,2,49,3,0
+Clinch,Homerville,"Public Service Commission, District 5",5,REP,STAN WISE (I),511,35,272,203,1
+Clinch,,"U.S. Representative, District 1",1,REP,JACK KINGSTON (I),1192,57,757,374,4
+Clinch,Arabia,"U.S. Representative, District 1",1,REP,JACK KINGSTON (I),45,0,41,4,0
+Clinch,Argyle,"U.S. Representative, District 1",1,REP,JACK KINGSTON (I),107,3,86,18,0
+Clinch,Dupont,"U.S. Representative, District 1",1,REP,JACK KINGSTON (I),76,11,51,13,1
+Clinch,Fargo,"U.S. Representative, District 1",1,REP,JACK KINGSTON (I),102,2,96,4,0
+Clinch,Homerville,"U.S. Representative, District 1",1,REP,JACK KINGSTON (I),862,41,483,335,3
+Clinch,,"U.S. Representative, District 1",1,DEM,LESLI RAE MESSINGER,43,2,17,24,0
+Clinch,Arabia,"U.S. Representative, District 1",1,DEM,LESLI RAE MESSINGER,0,0,0,0,0
+Clinch,Argyle,"U.S. Representative, District 1",1,DEM,LESLI RAE MESSINGER,0,0,0,0,0
+Clinch,Dupont,"U.S. Representative, District 1",1,DEM,LESLI RAE MESSINGER,3,0,1,2,0
+Clinch,Fargo,"U.S. Representative, District 1",1,DEM,LESLI RAE MESSINGER,0,0,0,0,0
+Clinch,Homerville,"U.S. Representative, District 1",1,DEM,LESLI RAE MESSINGER,40,2,16,22,0
+Clinch,,"U.S. Representative, District 1",1,DEM,NATHAN C. RUSSO,31,4,19,8,0
+Clinch,Arabia,"U.S. Representative, District 1",1,DEM,NATHAN C. RUSSO,1,0,1,0,0
+Clinch,Argyle,"U.S. Representative, District 1",1,DEM,NATHAN C. RUSSO,0,0,0,0,0
+Clinch,Dupont,"U.S. Representative, District 1",1,DEM,NATHAN C. RUSSO,4,0,3,1,0
+Clinch,Fargo,"U.S. Representative, District 1",1,DEM,NATHAN C. RUSSO,0,0,0,0,0
+Clinch,Homerville,"U.S. Representative, District 1",1,DEM,NATHAN C. RUSSO,26,4,15,7,0
+Clinch,,"State Senator, District 8",8,REP,TIM GOLDEN (I),1073,56,677,338,2
+Clinch,Arabia,"State Senator, District 8",8,REP,TIM GOLDEN (I),40,0,36,4,0
+Clinch,Argyle,"State Senator, District 8",8,REP,TIM GOLDEN (I),94,3,76,15,0
+Clinch,Dupont,"State Senator, District 8",8,REP,TIM GOLDEN (I),75,11,50,13,1
+Clinch,Fargo,"State Senator, District 8",8,REP,TIM GOLDEN (I),93,2,88,3,0
+Clinch,Homerville,"State Senator, District 8",8,REP,TIM GOLDEN (I),771,40,427,303,1
+Clinch,,"State Senator, District 8",8,DEM,BIKRAM MOHANTY,67,6,33,28,0
+Clinch,Arabia,"State Senator, District 8",8,DEM,BIKRAM MOHANTY,1,0,1,0,0
+Clinch,Argyle,"State Senator, District 8",8,DEM,BIKRAM MOHANTY,0,0,0,0,0
+Clinch,Dupont,"State Senator, District 8",8,DEM,BIKRAM MOHANTY,7,0,4,3,0
+Clinch,Fargo,"State Senator, District 8",8,DEM,BIKRAM MOHANTY,0,0,0,0,0
+Clinch,Homerville,"State Senator, District 8",8,DEM,BIKRAM MOHANTY,59,6,28,25,0
+Clinch,,"State Representative, District 174",174,REP,ELLIS BLACK (I),1053,55,657,339,2
+Clinch,Arabia,"State Representative, District 174",174,REP,ELLIS BLACK (I),38,0,34,4,0
+Clinch,Argyle,"State Representative, District 174",174,REP,ELLIS BLACK (I),97,3,79,15,0
+Clinch,Dupont,"State Representative, District 174",174,REP,ELLIS BLACK (I),70,10,46,13,1
+Clinch,Fargo,"State Representative, District 174",174,REP,ELLIS BLACK (I),84,1,80,3,0
+Clinch,Homerville,"State Representative, District 174",174,REP,ELLIS BLACK (I),764,41,418,304,1
+Clinch,,"State Representative, District 174",174,DEM,TERESA LAWRENCE,69,7,32,30,0
+Clinch,Arabia,"State Representative, District 174",174,DEM,TERESA LAWRENCE,1,0,1,0,0
+Clinch,Argyle,"State Representative, District 174",174,DEM,TERESA LAWRENCE,1,1,0,0,0
+Clinch,Dupont,"State Representative, District 174",174,DEM,TERESA LAWRENCE,7,0,4,3,0
+Clinch,Fargo,"State Representative, District 174",174,DEM,TERESA LAWRENCE,0,0,0,0,0
+Clinch,Homerville,"State Representative, District 174",174,DEM,TERESA LAWRENCE,60,6,27,27,0
+Clinch,,"District Attorney, Alapaha Circuit", Alapaha Circuit - REP,REP,CATHY HELMS (I),859,38,559,259,3
+Clinch,Arabia,"District Attorney, Alapaha Circuit", Alapaha Circuit - REP,REP,CATHY HELMS (I),31,0,29,2,0
+Clinch,Argyle,"District Attorney, Alapaha Circuit", Alapaha Circuit - REP,REP,CATHY HELMS (I),84,4,71,9,0
+Clinch,Dupont,"District Attorney, Alapaha Circuit", Alapaha Circuit - REP,REP,CATHY HELMS (I),70,6,52,12,0
+Clinch,Fargo,"District Attorney, Alapaha Circuit", Alapaha Circuit - REP,REP,CATHY HELMS (I),85,1,83,1,0
+Clinch,Homerville,"District Attorney, Alapaha Circuit", Alapaha Circuit - REP,REP,CATHY HELMS (I),589,27,324,235,3
+Clinch,,"District Attorney, Alapaha Circuit", Alapaha Circuit - REP,REP,DICK PERRYMAN,757,69,425,262,1
+Clinch,Arabia,"District Attorney, Alapaha Circuit", Alapaha Circuit - REP,REP,DICK PERRYMAN,22,0,18,4,0
+Clinch,Argyle,"District Attorney, Alapaha Circuit", Alapaha Circuit - REP,REP,DICK PERRYMAN,60,4,41,15,0
+Clinch,Dupont,"District Attorney, Alapaha Circuit", Alapaha Circuit - REP,REP,DICK PERRYMAN,35,8,21,5,1
+Clinch,Fargo,"District Attorney, Alapaha Circuit", Alapaha Circuit - REP,REP,DICK PERRYMAN,66,4,53,9,0
+Clinch,Homerville,"District Attorney, Alapaha Circuit", Alapaha Circuit - REP,REP,DICK PERRYMAN,574,53,292,229,0
+Clinch,,"JUDGE, PROBATE COURT", PROBATE COURT - D,,KARLEEN S O'BERRY,104,9,53,42,0
+Clinch,Arabia,"JUDGE, PROBATE COURT", PROBATE COURT - D,,KARLEEN S O'BERRY,1,0,1,0,0
+Clinch,Argyle,"JUDGE, PROBATE COURT", PROBATE COURT - D,,KARLEEN S O'BERRY,3,2,1,0,0
+Clinch,Dupont,"JUDGE, PROBATE COURT", PROBATE COURT - D,,KARLEEN S O'BERRY,9,0,4,5,0
+Clinch,Fargo,"JUDGE, PROBATE COURT", PROBATE COURT - D,,KARLEEN S O'BERRY,1,0,0,1,0
+Clinch,Homerville,"JUDGE, PROBATE COURT", PROBATE COURT - D,,KARLEEN S O'BERRY,90,7,47,36,0
+Clinch,,"CLERK, SUPERIOR COURT", SUPERIOR COURT - R,,MARY RUTH HANDLEY,1260,57,790,409,4
+Clinch,Arabia,"CLERK, SUPERIOR COURT", SUPERIOR COURT - R,,MARY RUTH HANDLEY,47,0,42,5,0
+Clinch,Argyle,"CLERK, SUPERIOR COURT", SUPERIOR COURT - R,,MARY RUTH HANDLEY,115,3,91,21,0
+Clinch,Dupont,"CLERK, SUPERIOR COURT", SUPERIOR COURT - R,,MARY RUTH HANDLEY,78,9,55,13,1
+Clinch,Fargo,"CLERK, SUPERIOR COURT", SUPERIOR COURT - R,,MARY RUTH HANDLEY,121,3,113,5,0
+Clinch,Homerville,"CLERK, SUPERIOR COURT", SUPERIOR COURT - R,,MARY RUTH HANDLEY,899,42,489,365,3
+Clinch,,SHERIFF,,,WINSTON PETERSON,1255,94,756,400,5
+Clinch,Arabia,SHERIFF,,,WINSTON PETERSON,35,0,31,4,0
+Clinch,Argyle,SHERIFF,,,WINSTON PETERSON,101,5,73,23,0
+Clinch,Dupont,SHERIFF,,,WINSTON PETERSON,76,13,51,11,1
+Clinch,Fargo,SHERIFF,,,WINSTON PETERSON,127,5,113,9,0
+Clinch,Homerville,SHERIFF,,,WINSTON PETERSON,916,71,488,353,4
+Clinch,,SHERIFF,,,JEB STUART TURNER,382,12,237,133,0
+Clinch,Arabia,SHERIFF,,,JEB STUART TURNER,18,0,16,2,0
+Clinch,Argyle,SHERIFF,,,JEB STUART TURNER,45,3,39,3,0
+Clinch,Dupont,SHERIFF,,,JEB STUART TURNER,26,1,19,6,0
+Clinch,Fargo,SHERIFF,,,JEB STUART TURNER,30,0,29,1,0
+Clinch,Homerville,SHERIFF,,,JEB STUART TURNER,263,8,134,121,0
+Clinch,,TAX COMMISSIONER,,,JAMIE S. DOUGLAS ,111,9,55,47,0
+Clinch,Arabia,TAX COMMISSIONER,,,JAMIE S. DOUGLAS ,2,0,2,0,0
+Clinch,Argyle,TAX COMMISSIONER,,,JAMIE S. DOUGLAS ,3,2,1,0,0
+Clinch,Dupont,TAX COMMISSIONER,,,JAMIE S. DOUGLAS ,10,0,5,5,0
+Clinch,Fargo,TAX COMMISSIONER,,,JAMIE S. DOUGLAS ,1,0,0,1,0
+Clinch,Homerville,TAX COMMISSIONER,,,JAMIE S. DOUGLAS ,95,7,47,41,0
+Clinch,,SURVEYOR,,,KERRY TOMLINSON ,1206,56,769,377,4
+Clinch,Arabia,SURVEYOR,,,KERRY TOMLINSON ,42,0,38,4,0
+Clinch,Argyle,SURVEYOR,,,KERRY TOMLINSON ,107,3,89,15,0
+Clinch,Dupont,SURVEYOR,,,KERRY TOMLINSON ,79,11,56,11,1
+Clinch,Fargo,SURVEYOR,,,KERRY TOMLINSON ,108,2,102,4,0
+Clinch,Homerville,SURVEYOR,,,KERRY TOMLINSON ,870,40,484,343,3
+Clinch,,CORONER,,,FELTON ROUNDTREE ,99,9,50,40,0
+Clinch,Arabia,CORONER,,,FELTON ROUNDTREE ,2,0,2,0,0
+Clinch,Argyle,CORONER,,,FELTON ROUNDTREE ,3,2,1,0,0
+Clinch,Dupont,CORONER,,,FELTON ROUNDTREE ,11,0,6,5,0
+Clinch,Fargo,CORONER,,,FELTON ROUNDTREE ,1,0,0,1,0
+Clinch,Homerville,CORONER,,,FELTON ROUNDTREE ,82,7,41,34,0
+Clinch,,"CC, P2", P2 - R,,CHAD BROWN ,192,20,110,62,0
+Clinch,Arabia,"CC, P2", P2 - R,,CHAD BROWN ,15,0,11,4,0
+Clinch,Dupont,"CC, P2", P2 - R,,CHAD BROWN ,64,13,41,10,0
+Clinch,Homerville,"CC, P2", P2 - R,,CHAD BROWN ,113,7,58,48,0
+Clinch,,"CC, P2", P2 - R,,NASS HENDLEY JR.,155,7,84,64,0
+Clinch,Arabia,"CC, P2", P2 - R,,NASS HENDLEY JR.,20,0,19,1,0
+Clinch,Dupont,"CC, P2", P2 - R,,NASS HENDLEY JR.,11,0,11,0,0
+Clinch,Homerville,"CC, P2", P2 - R,,NASS HENDLEY JR.,124,7,54,63,0
+Clinch,,"CC, P2", P2 - R,,JAMES MIZELL JR.,40,1,25,14,0
+Clinch,Arabia,"CC, P2", P2 - R,,JAMES MIZELL JR.,18,0,17,1,0
+Clinch,Dupont,"CC, P2", P2 - R,,JAMES MIZELL JR.,5,0,4,1,0
+Clinch,Homerville,"CC, P2", P2 - R,,JAMES MIZELL JR.,17,1,4,12,0
+Clinch,,"CC, P3", P3 - R,,ROGER METTS,172,10,109,53,0
+Clinch,Argyle,"CC, P3", P3 - R,,ROGER METTS,60,5,51,4,0
+Clinch,Homerville,"CC, P3", P3 - R,,ROGER METTS,112,5,58,49,0
+Clinch,,"CC, P3", P3 - R,,DARRYL SMITH ,121,10,55,55,1
+Clinch,Argyle,"CC, P3", P3 - R,,DARRYL SMITH ,23,1,16,6,0
+Clinch,Homerville,"CC, P3", P3 - R,,DARRYL SMITH ,98,9,39,49,1
+Clinch,,"CC, P5", P5 - R,,RICK HENDRIX,63,2,48,13,0
+Clinch,Dupont,"CC, P5", P5 - R,,RICK HENDRIX,8,0,7,1,0
+Clinch,Fargo,"CC, P5", P5 - R,,RICK HENDRIX,12,0,11,1,0
+Clinch,Homerville,"CC, P5", P5 - R,,RICK HENDRIX,43,2,30,11,0
+Clinch,,"CC, P5", P5 - R,,HENRY MOYLAN,148,7,107,32,2
+Clinch,Dupont,"CC, P5", P5 - R,,HENRY MOYLAN,12,1,7,3,1
+Clinch,Fargo,"CC, P5", P5 - R,,HENRY MOYLAN,60,0,54,6,0
+Clinch,Homerville,"CC, P5", P5 - R,,HENRY MOYLAN,76,6,46,23,1
+Clinch,,"CC, P5", P5 - R,,DALE SMITH,107,5,93,8,1
+Clinch,Dupont,"CC, P5", P5 - R,,DALE SMITH,3,0,2,1,0
+Clinch,Fargo,"CC, P5", P5 - R,,DALE SMITH,83,5,75,3,0
+Clinch,Homerville,"CC, P5", P5 - R,,DALE SMITH,21,0,16,4,1
+Clinch,,BOE P2,,,JOHN DAVIS,302,18,168,116,0
+Clinch,Arabia,BOE P2,,,JOHN DAVIS,43,0,38,5,0
+Clinch,Dupont,BOE P2,,,JOHN DAVIS,52,7,37,8,0
+Clinch,Homerville,BOE P2,,,JOHN DAVIS,207,11,93,103,0
+Clinch,,BOE P3,,,NEIL SMITH,70,1,39,30,0
+Clinch,Argyle,BOE P3,,,NEIL SMITH,12,0,12,0,0
+Clinch,Homerville,BOE P3,,,NEIL SMITH,58,1,27,30,0
+Clinch,,BOE P3,,,SHANNON D. SMITH,201,13,117,70,1
+Clinch,Argyle,BOE P3,,,SHANNON D. SMITH,66,5,54,7,0
+Clinch,Homerville,BOE P3,,,SHANNON D. SMITH,135,8,63,63,1
+Clinch,,BOE P5,,,LISA B. JOHNSON,183,2,148,30,3
+Clinch,Dupont,BOE P5,,,LISA B. JOHNSON,18,1,14,2,1
+Clinch,Fargo,BOE P5,,,LISA B. JOHNSON,75,1,69,5,0
+Clinch,Homerville,BOE P5,,,LISA B. JOHNSON,90,0,65,23,2
+Clinch,,BOE P5,,,CHARLES HANDLEY ,12,1,5,6,0
+Clinch,Dupont,BOE P5,,,CHARLES HANDLEY ,5,0,2,3,0
+Clinch,Fargo,BOE P5,,,CHARLES HANDLEY ,2,1,0,1,0
+Clinch,Homerville,BOE P5,,,CHARLES HANDLEY ,5,0,3,2,0
+Clinch,,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,849,38,545,264,2
+Clinch,Arabia,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,32,0,26,6,0
+Clinch,Argyle,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,69,2,54,13,0
+Clinch,Dupont,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,63,8,48,6,1
+Clinch,Fargo,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,95,3,85,7,0
+Clinch,Homerville,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,590,25,332,232,1
+Clinch,,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,652,37,400,214,1
+Clinch,Arabia,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,20,0,20,0,0
+Clinch,Argyle,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,70,5,54,11,0
+Clinch,Dupont,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,38,3,25,10,0
+Clinch,Fargo,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,53,2,51,0,0
+Clinch,Homerville,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,471,27,250,193,1
+Clinch,,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,1011,49,626,334,2
+Clinch,Arabia,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,38,0,33,5,0
+Clinch,Argyle,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,89,6,70,13,0
+Clinch,Dupont,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,81,10,58,13,0
+Clinch,Fargo,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,86,4,77,5,0
+Clinch,Homerville,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,717,29,388,298,2
+Clinch,,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,382,14,265,102,1
+Clinch,Arabia,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,13,0,13,0,0
+Clinch,Argyle,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,39,0,33,6,0
+Clinch,Dupont,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,16,1,11,3,1
+Clinch,Fargo,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,40,1,39,0,0
+Clinch,Homerville,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,274,12,169,93,0
+Clinch,,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,955,44,602,307,2
+Clinch,Arabia,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,35,0,30,5,0
+Clinch,Argyle,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,85,6,64,15,0
+Clinch,Dupont,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,65,1,55,8,1
+Clinch,Fargo,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,92,4,83,5,0
+Clinch,Homerville,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,678,33,370,274,1
+Clinch,,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,505,29,322,152,2
+Clinch,Arabia,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,16,0,15,1,0
+Clinch,Argyle,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,47,0,41,6,0
+Clinch,Dupont,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,31,10,13,8,0
+Clinch,Fargo,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,46,1,43,1,1
+Clinch,Homerville,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,365,18,210,136,1
+Clinch,,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,757,34,489,232,2
+Clinch,Arabia,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,25,0,22,3,0
+Clinch,Argyle,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,68,3,56,9,0
+Clinch,Dupont,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,51,7,32,11,1
+Clinch,Fargo,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,77,1,75,1,0
+Clinch,Homerville,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,536,23,304,208,1
+Clinch,,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,643,35,396,211,1
+Clinch,Arabia,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,24,0,22,2,0
+Clinch,Argyle,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,59,3,43,13,0
+Clinch,Dupont,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,43,4,34,5,0
+Clinch,Fargo,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,47,4,41,2,0
+Clinch,Homerville,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,470,24,256,189,1
+Clinch,,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,952,34,605,310,3
+Clinch,Arabia,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,34,0,31,3,0
+Clinch,Argyle,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,91,2,76,13,0
+Clinch,Dupont,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,63,8,46,8,1
+Clinch,Fargo,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,90,1,85,4,0
+Clinch,Homerville,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,674,23,367,282,2
+Clinch,,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,348,18,222,108,0
+Clinch,Arabia,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,17,0,14,3,0
+Clinch,Argyle,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,30,3,21,6,0
+Clinch,Dupont,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,29,3,19,7,0
+Clinch,Fargo,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,20,4,16,0,0
+Clinch,Homerville,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,252,8,152,92,0
+Clinch,,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,55,3,32,20,0
+Clinch,Arabia,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,0,0,0,0,0
+Clinch,Argyle,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,1,0,1,0,0
+Clinch,Dupont,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,3,0,2,1,0
+Clinch,Fargo,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,0,0,0,0,0
+Clinch,Homerville,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,51,3,29,19,0
+Clinch,,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,57,7,26,24,0
+Clinch,Arabia,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,2,0,2,0,0
+Clinch,Argyle,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,2,2,0,0,0
+Clinch,Dupont,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,8,0,4,4,0
+Clinch,Fargo,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,2,1,0,1,0
+Clinch,Homerville,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,43,4,20,19,0
+Clinch,,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,75,10,37,28,0
+Clinch,Arabia,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,1,0,1,0,0
+Clinch,Argyle,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,2,2,0,0,0
+Clinch,Dupont,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,9,0,5,4,0
+Clinch,Fargo,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,2,1,0,1,0
+Clinch,Homerville,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,61,7,31,23,0
+Clinch,,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,33,0,19,14,0
+Clinch,Arabia,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,1,0,1,0,0
+Clinch,Argyle,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,0,0,0,0,0
+Clinch,Dupont,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,2,0,1,1,0
+Clinch,Fargo,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,0,0,0,0,0
+Clinch,Homerville,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,30,0,17,13,0
+Clinch,,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,92,7,47,38,0
+Clinch,Arabia,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,2,0,2,0,0
+Clinch,Argyle,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,2,2,0,0,0
+Clinch,Dupont,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,8,0,4,4,0
+Clinch,Fargo,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,0,0,0,0,0
+Clinch,Homerville,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,80,5,41,34,0
+Clinch,,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,22,3,10,9,0
+Clinch,Arabia,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,0,0,0,0,0
+Clinch,Argyle,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,0,0,0,0,0
+Clinch,Dupont,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,3,0,2,1,0
+Clinch,Fargo,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,2,1,0,1,0
+Clinch,Homerville,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,17,2,8,7,0
+Clinch,,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,105,9,54,42,0
+Clinch,Arabia,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,2,0,2,0,0
+Clinch,Argyle,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,3,2,1,0,0
+Clinch,Dupont,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,10,0,6,4,0
+Clinch,Fargo,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,2,1,0,1,0
+Clinch,Homerville,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,88,6,45,37,0
+Clinch,,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,8,0,3,5,0
+Clinch,Arabia,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,0,0,0,0,0
+Clinch,Argyle,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,0,0,0,0,0
+Clinch,Dupont,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,1,0,0,1,0
+Clinch,Fargo,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,0,0,0,0,0
+Clinch,Homerville,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,7,0,3,4,0
+Clinch,,Supreme Court Justice, Hunstein,,CAROL W. HUNSTEIN,1144,52,720,370,2
+Clinch,Arabia,Supreme Court Justice, Hunstein,,CAROL W. HUNSTEIN,43,0,39,4,0
+Clinch,Argyle,Supreme Court Justice, Hunstein,,CAROL W. HUNSTEIN,96,3,79,14,0
+Clinch,Dupont,Supreme Court Justice, Hunstein,,CAROL W. HUNSTEIN,79,9,53,16,1
+Clinch,Fargo,Supreme Court Justice, Hunstein,,CAROL W. HUNSTEIN,86,1,82,3,0
+Clinch,Homerville,Supreme Court Justice, Hunstein,,CAROL W. HUNSTEIN,840,39,467,333,1
+Clinch,,Supreme Court Justice, Hunstein,,Write-in,5,0,3,2,0
+Clinch,Arabia,Supreme Court Justice, Hunstein,,Write-in,1,0,1,0,0
+Clinch,Argyle,Supreme Court Justice, Hunstein,,Write-in,1,0,0,1,0
+Clinch,Dupont,Supreme Court Justice, Hunstein,,Write-in,0,0,0,0,0
+Clinch,Fargo,Supreme Court Justice, Hunstein,,Write-in,1,0,1,0,0
+Clinch,Homerville,Supreme Court Justice, Hunstein,,Write-in,2,0,1,1,0
+Clinch,,Supreme Court Justice, Melton,,HAROLD D. MELTON ,1120,51,705,362,2
+Clinch,Arabia,Supreme Court Justice, Melton,,HAROLD D. MELTON ,40,0,36,4,0
+Clinch,Argyle,Supreme Court Justice, Melton,,HAROLD D. MELTON ,98,3,82,13,0
+Clinch,Dupont,Supreme Court Justice, Melton,,HAROLD D. MELTON ,75,9,51,14,1
+Clinch,Fargo,Supreme Court Justice, Melton,,HAROLD D. MELTON ,87,1,83,3,0
+Clinch,Homerville,Supreme Court Justice, Melton,,HAROLD D. MELTON ,820,38,453,328,1
+Clinch,,Supreme Court Justice, Melton,,Write-in,3,0,1,2,0
+Clinch,Arabia,Supreme Court Justice, Melton,,Write-in,0,0,0,0,0
+Clinch,Argyle,Supreme Court Justice, Melton,,Write-in,0,0,0,0,0
+Clinch,Dupont,Supreme Court Justice, Melton,,Write-in,0,0,0,0,0
+Clinch,Fargo,Supreme Court Justice, Melton,,Write-in,1,0,1,0,0
+Clinch,Homerville,Supreme Court Justice, Melton,,Write-in,2,0,0,2,0
+Clinch,,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,1123,50,703,368,2
+Clinch,Arabia,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,42,0,38,4,0
+Clinch,Argyle,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,98,3,81,14,0
+Clinch,Dupont,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,77,9,51,16,1
+Clinch,Fargo,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,89,1,84,4,0
+Clinch,Homerville,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,817,37,449,330,1
+Clinch,,Supreme Court Justice, Thompson,,Write-in,2,0,0,2,0
+Clinch,Arabia,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Clinch,Argyle,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Clinch,Dupont,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Clinch,Fargo,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Clinch,Homerville,Supreme Court Justice, Thompson,,Write-in,2,0,0,2,0
+Clinch,,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,1121,55,696,368,2
+Clinch,Arabia,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,40,0,36,4,0
+Clinch,Argyle,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,98,5,80,13,0
+Clinch,Dupont,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,72,8,48,15,1
+Clinch,Fargo,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,88,2,83,3,0
+Clinch,Homerville,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,823,40,449,333,1
+Clinch,,Appeals Court Judge, Boggs,,Write-in,1,0,0,1,0
+Clinch,Arabia,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Clinch,Argyle,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Clinch,Dupont,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Clinch,Fargo,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Clinch,Homerville,Appeals Court Judge, Boggs,,Write-in,1,0,0,1,0
+Clinch,,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,1102,50,688,362,2
+Clinch,Arabia,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,39,0,35,4,0
+Clinch,Argyle,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,98,3,82,13,0
+Clinch,Dupont,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,73,8,49,15,1
+Clinch,Fargo,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,86,2,81,3,0
+Clinch,Homerville,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,806,37,441,327,1
+Clinch,,Appeals Court Judge, Dillard,,Write-in,1,0,0,1,0
+Clinch,Arabia,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Clinch,Argyle,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Clinch,Dupont,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Clinch,Fargo,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Clinch,Homerville,Appeals Court Judge, Dillard,,Write-in,1,0,0,1,0
+Clinch,,Appeals Court Judge, Ellington,,JOHN J ELLINGTON ,1099,48,683,365,3
+Clinch,Arabia,Appeals Court Judge, Ellington,,JOHN J ELLINGTON ,39,0,35,4,0
+Clinch,Argyle,Appeals Court Judge, Ellington,,JOHN J ELLINGTON ,97,3,81,13,0
+Clinch,Dupont,Appeals Court Judge, Ellington,,JOHN J ELLINGTON ,73,8,49,15,1
+Clinch,Fargo,Appeals Court Judge, Ellington,,JOHN J ELLINGTON ,87,2,82,3,0
+Clinch,Homerville,Appeals Court Judge, Ellington,,JOHN J ELLINGTON ,803,35,436,330,2
+Clinch,,Appeals Court Judge, Ellington,,Write-in,1,1,0,0,0
+Clinch,Arabia,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Clinch,Argyle,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Clinch,Dupont,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Clinch,Fargo,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Clinch,Homerville,Appeals Court Judge, Ellington,,Write-in,1,1,0,0,0
+Clinch,,Appeals Court Judge, Miller,,M. YVETTE MILLER ,1083,51,677,353,2
+Clinch,Arabia,Appeals Court Judge, Miller,,M. YVETTE MILLER ,39,0,35,4,0
+Clinch,Argyle,Appeals Court Judge, Miller,,M. YVETTE MILLER ,93,3,78,12,0
+Clinch,Dupont,Appeals Court Judge, Miller,,M. YVETTE MILLER ,75,9,49,16,1
+Clinch,Fargo,Appeals Court Judge, Miller,,M. YVETTE MILLER ,84,2,79,3,0
+Clinch,Homerville,Appeals Court Judge, Miller,,M. YVETTE MILLER ,792,37,436,318,1
+Clinch,,Appeals Court Judge, Miller,,Write-in,1,0,0,1,0
+Clinch,Arabia,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Clinch,Argyle,Appeals Court Judge, Miller,,Write-in,1,0,0,1,0
+Clinch,Dupont,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Clinch,Fargo,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Clinch,Homerville,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Clinch,,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,1089,51,681,355,2
+Clinch,Arabia,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,39,0,35,4,0
+Clinch,Argyle,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,96,3,79,14,0
+Clinch,Dupont,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,74,8,49,16,1
+Clinch,Fargo,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,84,2,79,3,0
+Clinch,Homerville,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,796,38,439,318,1
+Clinch,,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Clinch,Arabia,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Clinch,Argyle,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Clinch,Dupont,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Clinch,Fargo,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Clinch,Homerville,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Clinch,,Superior Court Judge, Alapaha Circuit (Perkins),,CARSON D PERKINS ,1212,56,752,401,3
+Clinch,Arabia,Superior Court Judge, Alapaha Circuit (Perkins),,CARSON D PERKINS ,51,0,47,4,0
+Clinch,Argyle,Superior Court Judge, Alapaha Circuit (Perkins),,CARSON D PERKINS ,103,5,83,15,0
+Clinch,Dupont,Superior Court Judge, Alapaha Circuit (Perkins),,CARSON D PERKINS ,77,8,50,18,1
+Clinch,Fargo,Superior Court Judge, Alapaha Circuit (Perkins),,CARSON D PERKINS ,103,1,96,6,0
+Clinch,Homerville,Superior Court Judge, Alapaha Circuit (Perkins),,CARSON D PERKINS ,878,42,476,358,2
+Clinch,,Superior Court Judge, Alapaha Circuit (Perkins),,Write-in,1,0,1,0,0
+Clinch,Arabia,Superior Court Judge, Alapaha Circuit (Perkins),,Write-in,0,0,0,0,0
+Clinch,Argyle,Superior Court Judge, Alapaha Circuit (Perkins),,Write-in,0,0,0,0,0
+Clinch,Dupont,Superior Court Judge, Alapaha Circuit (Perkins),,Write-in,0,0,0,0,0
+Clinch,Fargo,Superior Court Judge, Alapaha Circuit (Perkins),,Write-in,0,0,0,0,0
+Clinch,Homerville,Superior Court Judge, Alapaha Circuit (Perkins),,Write-in,1,0,1,0,0
+Clinch,,TSPLOST,,,YES,861,39,524,297,1
+Clinch,Arabia,TSPLOST,,,YES,26,0,24,2,0
+Clinch,Argyle,TSPLOST,,,YES,71,2,60,9,0
+Clinch,Dupont,TSPLOST,,,YES,56,10,35,11,0
+Clinch,Fargo,TSPLOST,,,YES,79,3,69,7,0
+Clinch,Homerville,TSPLOST,,,YES,629,24,336,268,1
+Clinch,,TSPLOST,,,NO,694,40,444,208,2
+Clinch,Arabia,TSPLOST,,,NO,28,0,25,3,0
+Clinch,Argyle,TSPLOST,,,NO,62,5,46,11,0
+Clinch,Dupont,TSPLOST,,,NO,50,1,38,10,1
+Clinch,Fargo,TSPLOST,,,NO,70,3,63,4,0
+Clinch,Homerville,TSPLOST,,,NO,484,31,272,180,1

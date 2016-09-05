@@ -1,0 +1,619 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Houston,,President of the United States,,R,MITT ROMNEY,34662,1552,14595,18510,5
+Houston,ANNX,President of the United States,,R,MITT ROMNEY,808,47,278,483,0
+Houston,BMS,President of the United States,,R,MITT ROMNEY,2662,112,1117,1431,2
+Houston,BON,President of the United States,,R,MITT ROMNEY,1789,95,729,965,0
+Houston,CENT,President of the United States,,R,MITT ROMNEY,1870,93,928,849,0
+Houston,ELBC,President of the United States,,R,MITT ROMNEY,377,29,213,135,0
+Houston,FMMS,President of the United States,,R,MITT ROMNEY,3038,95,1220,1722,1
+Houston,HAFS,President of the United States,,R,MITT ROMNEY,766,23,413,329,1
+Houston,HCHS,President of the United States,,R,MITT ROMNEY,1140,37,373,730,0
+Houston,HCTC,President of the United States,,R,MITT ROMNEY,2037,153,767,1117,0
+Houston,HEFS,President of the United States,,R,MITT ROMNEY,413,11,227,175,0
+Houston,KATH,President of the United States,,R,MITT ROMNEY,711,24,391,296,0
+Houston,MALL,President of the United States,,R,MITT ROMNEY,1053,37,523,493,0
+Houston,MCMS,President of the United States,,R,MITT ROMNEY,2968,120,1213,1634,1
+Houston,MILL,President of the United States,,R,MITT ROMNEY,882,34,467,381,0
+Houston,NSES,President of the United States,,R,MITT ROMNEY,1116,50,580,486,0
+Houston,NSMS,President of the United States,,R,MITT ROMNEY,906,52,448,406,0
+Houston,NSSH,President of the United States,,R,MITT ROMNEY,513,36,265,212,0
+Houston,QRUN,President of the United States,,R,MITT ROMNEY,1334,70,577,687,0
+Houston,RECR,President of the United States,,R,MITT ROMNEY,687,50,349,288,0
+Houston,ROZR,President of the United States,,R,MITT ROMNEY,4660,200,1395,3065,0
+Houston,TMS,President of the United States,,R,MITT ROMNEY,1688,86,747,855,0
+Houston,TWPK,President of the United States,,R,MITT ROMNEY,1144,37,557,550,0
+Houston,VHS,President of the United States,,R,MITT ROMNEY,2100,61,818,1221,0
+Houston,,President of the United States,,D,BARACK OBAMA (I),22702,857,9580,12250,15
+Houston,ANNX,President of the United States,,D,BARACK OBAMA (I),445,21,138,285,1
+Houston,BMS,President of the United States,,D,BARACK OBAMA (I),893,28,332,533,0
+Houston,BON,President of the United States,,D,BARACK OBAMA (I),628,27,245,356,0
+Houston,CENT,President of the United States,,D,BARACK OBAMA (I),882,34,419,429,0
+Houston,ELBC,President of the United States,,D,BARACK OBAMA (I),1731,58,993,678,2
+Houston,FMMS,President of the United States,,D,BARACK OBAMA (I),1905,65,640,1196,4
+Houston,HAFS,President of the United States,,D,BARACK OBAMA (I),304,12,163,129,0
+Houston,HCHS,President of the United States,,D,BARACK OBAMA (I),494,17,143,334,0
+Houston,HCTC,President of the United States,,D,BARACK OBAMA (I),1509,66,607,836,0
+Houston,HEFS,President of the United States,,D,BARACK OBAMA (I),332,4,205,123,0
+Houston,KATH,President of the United States,,D,BARACK OBAMA (I),284,5,141,138,0
+Houston,MALL,President of the United States,,D,BARACK OBAMA (I),768,29,417,320,2
+Houston,MCMS,President of the United States,,D,BARACK OBAMA (I),1410,67,430,913,0
+Houston,MILL,President of the United States,,D,BARACK OBAMA (I),524,25,295,204,0
+Houston,NSES,President of the United States,,D,BARACK OBAMA (I),732,20,311,401,0
+Houston,NSMS,President of the United States,,D,BARACK OBAMA (I),1364,44,610,708,2
+Houston,NSSH,President of the United States,,D,BARACK OBAMA (I),698,28,401,269,0
+Houston,QRUN,President of the United States,,D,BARACK OBAMA (I),401,24,172,205,0
+Houston,RECR,President of the United States,,D,BARACK OBAMA (I),1606,62,788,756,0
+Houston,ROZR,President of the United States,,D,BARACK OBAMA (I),2522,120,837,1563,2
+Houston,TMS,President of the United States,,D,BARACK OBAMA (I),1749,45,726,978,0
+Houston,TWPK,President of the United States,,D,BARACK OBAMA (I),789,21,304,462,2
+Houston,VHS,President of the United States,,D,BARACK OBAMA (I),732,35,263,434,0
+Houston,,President of the United States,,L,GARY JOHNSON,639,37,428,174,0
+Houston,ANNX,President of the United States,,L,GARY JOHNSON,18,0,9,9,0
+Houston,BMS,President of the United States,,L,GARY JOHNSON,30,5,16,9,0
+Houston,BON,President of the United States,,L,GARY JOHNSON,36,2,25,9,0
+Houston,CENT,President of the United States,,L,GARY JOHNSON,27,0,21,6,0
+Houston,ELBC,President of the United States,,L,GARY JOHNSON,17,1,13,3,0
+Houston,FMMS,President of the United States,,L,GARY JOHNSON,49,4,26,19,0
+Houston,HAFS,President of the United States,,L,GARY JOHNSON,7,0,6,1,0
+Houston,HCHS,President of the United States,,L,GARY JOHNSON,23,0,16,7,0
+Houston,HCTC,President of the United States,,L,GARY JOHNSON,54,3,38,13,0
+Houston,HEFS,President of the United States,,L,GARY JOHNSON,4,0,3,1,0
+Houston,KATH,President of the United States,,L,GARY JOHNSON,9,1,5,3,0
+Houston,MALL,President of the United States,,L,GARY JOHNSON,26,0,22,4,0
+Houston,MCMS,President of the United States,,L,GARY JOHNSON,38,4,24,10,0
+Houston,MILL,President of the United States,,L,GARY JOHNSON,29,2,24,3,0
+Houston,NSES,President of the United States,,L,GARY JOHNSON,24,0,19,5,0
+Houston,NSMS,President of the United States,,L,GARY JOHNSON,24,0,20,4,0
+Houston,NSSH,President of the United States,,L,GARY JOHNSON,15,0,14,1,0
+Houston,QRUN,President of the United States,,L,GARY JOHNSON,18,1,12,5,0
+Houston,RECR,President of the United States,,L,GARY JOHNSON,18,3,10,5,0
+Houston,ROZR,President of the United States,,L,GARY JOHNSON,73,6,31,36,0
+Houston,TMS,President of the United States,,L,GARY JOHNSON,48,0,40,8,0
+Houston,TWPK,President of the United States,,L,GARY JOHNSON,21,2,14,5,0
+Houston,VHS,President of the United States,,L,GARY JOHNSON,31,3,20,8,0
+Houston,,"Public Service Commission, District 3",3,R,CHUCK EATON (I),31632,1433,13176,17016,7
+Houston,ANNX,"Public Service Commission, District 3",3,R,CHUCK EATON (I),767,50,264,453,0
+Houston,BMS,"Public Service Commission, District 3",3,R,CHUCK EATON (I),2417,99,984,1332,2
+Houston,BON,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1627,81,661,885,0
+Houston,CENT,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1663,88,802,773,0
+Houston,ELBC,"Public Service Commission, District 3",3,R,CHUCK EATON (I),351,27,195,129,0
+Houston,FMMS,"Public Service Commission, District 3",3,R,CHUCK EATON (I),2810,88,1111,1609,2
+Houston,HAFS,"Public Service Commission, District 3",3,R,CHUCK EATON (I),677,23,350,303,1
+Houston,HCHS,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1041,36,337,668,0
+Houston,HCTC,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1807,131,668,1008,0
+Houston,HEFS,"Public Service Commission, District 3",3,R,CHUCK EATON (I),378,11,203,164,0
+Houston,KATH,"Public Service Commission, District 3",3,R,CHUCK EATON (I),643,22,357,264,0
+Houston,MALL,"Public Service Commission, District 3",3,R,CHUCK EATON (I),941,38,451,452,0
+Houston,MCMS,"Public Service Commission, District 3",3,R,CHUCK EATON (I),2739,109,1112,1517,1
+Houston,MILL,"Public Service Commission, District 3",3,R,CHUCK EATON (I),797,33,418,346,0
+Houston,NSES,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1020,46,531,443,0
+Houston,NSMS,"Public Service Commission, District 3",3,R,CHUCK EATON (I),822,49,401,372,0
+Houston,NSSH,"Public Service Commission, District 3",3,R,CHUCK EATON (I),464,31,240,193,0
+Houston,QRUN,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1221,71,533,617,0
+Houston,RECR,"Public Service Commission, District 3",3,R,CHUCK EATON (I),660,43,338,279,0
+Houston,ROZR,"Public Service Commission, District 3",3,R,CHUCK EATON (I),4249,190,1259,2800,0
+Houston,TMS,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1575,82,707,786,0
+Houston,TWPK,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1053,32,501,519,1
+Houston,VHS,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1910,53,753,1104,0
+Houston,,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,20319,710,8722,10879,8
+Houston,ANNX,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,382,16,117,248,1
+Houston,BMS,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,852,24,342,486,0
+Houston,BON,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,564,23,228,313,0
+Houston,CENT,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,827,27,421,379,0
+Houston,ELBC,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,1450,49,845,555,1
+Houston,FMMS,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,1713,58,571,1083,1
+Houston,HAFS,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,287,8,164,115,0
+Houston,HCHS,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,468,14,145,309,0
+Houston,HCTC,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,1364,57,567,740,0
+Houston,HEFS,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,299,3,188,108,0
+Houston,KATH,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,285,4,149,132,0
+Houston,MALL,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,713,23,399,289,2
+Houston,MCMS,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,1257,55,396,806,0
+Houston,MILL,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,489,24,277,188,0
+Houston,NSES,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,664,20,282,362,0
+Houston,NSMS,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,1228,40,546,641,1
+Houston,NSSH,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,596,20,345,231,0
+Houston,QRUN,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,350,18,143,189,0
+Houston,RECR,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,1349,52,661,636,0
+Houston,ROZR,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,2252,99,771,1380,2
+Houston,TMS,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,1565,32,652,881,0
+Houston,TWPK,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,707,22,283,402,0
+Houston,VHS,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,658,22,230,406,0
+Houston,,"Public Service Commission, District 3",3,L,BRAD PLOEGER,2048,99,1128,819,2
+Houston,ANNX,"Public Service Commission, District 3",3,L,BRAD PLOEGER,43,1,17,25,0
+Houston,BMS,"Public Service Commission, District 3",3,L,BRAD PLOEGER,129,12,63,54,0
+Houston,BON,"Public Service Commission, District 3",3,L,BRAD PLOEGER,100,8,58,34,0
+Houston,CENT,"Public Service Commission, District 3",3,L,BRAD PLOEGER,99,6,63,30,0
+Houston,ELBC,"Public Service Commission, District 3",3,L,BRAD PLOEGER,45,4,26,14,1
+Houston,FMMS,"Public Service Commission, District 3",3,L,BRAD PLOEGER,194,6,93,94,1
+Houston,HAFS,"Public Service Commission, District 3",3,L,BRAD PLOEGER,32,2,20,10,0
+Houston,HCHS,"Public Service Commission, District 3",3,L,BRAD PLOEGER,66,0,28,38,0
+Houston,HCTC,"Public Service Commission, District 3",3,L,BRAD PLOEGER,168,10,99,59,0
+Houston,HEFS,"Public Service Commission, District 3",3,L,BRAD PLOEGER,16,1,8,7,0
+Houston,KATH,"Public Service Commission, District 3",3,L,BRAD PLOEGER,36,2,17,17,0
+Houston,MALL,"Public Service Commission, District 3",3,L,BRAD PLOEGER,74,0,50,24,0
+Houston,MCMS,"Public Service Commission, District 3",3,L,BRAD PLOEGER,143,8,71,64,0
+Houston,MILL,"Public Service Commission, District 3",3,L,BRAD PLOEGER,64,2,51,11,0
+Houston,NSES,"Public Service Commission, District 3",3,L,BRAD PLOEGER,72,1,48,23,0
+Houston,NSMS,"Public Service Commission, District 3",3,L,BRAD PLOEGER,67,3,50,14,0
+Houston,NSSH,"Public Service Commission, District 3",3,L,BRAD PLOEGER,53,2,41,10,0
+Houston,QRUN,"Public Service Commission, District 3",3,L,BRAD PLOEGER,83,4,40,39,0
+Houston,RECR,"Public Service Commission, District 3",3,L,BRAD PLOEGER,69,3,46,20,0
+Houston,ROZR,"Public Service Commission, District 3",3,L,BRAD PLOEGER,202,10,87,105,0
+Houston,TMS,"Public Service Commission, District 3",3,L,BRAD PLOEGER,114,4,67,43,0
+Houston,TWPK,"Public Service Commission, District 3",3,L,BRAD PLOEGER,68,2,40,26,0
+Houston,VHS,"Public Service Commission, District 3",3,L,BRAD PLOEGER,111,8,45,58,0
+Houston,,"Public Service Commission, District 5",5,R,STAN WISE (I),35610,1574,14950,19076,10
+Houston,ANNX,"Public Service Commission, District 5",5,R,STAN WISE (I),836,52,285,499,0
+Houston,BMS,"Public Service Commission, District 5",5,R,STAN WISE (I),2628,104,1077,1445,2
+Houston,BON,"Public Service Commission, District 5",5,R,STAN WISE (I),1757,86,721,950,0
+Houston,CENT,"Public Service Commission, District 5",5,R,STAN WISE (I),1837,93,920,824,0
+Houston,ELBC,"Public Service Commission, District 5",5,R,STAN WISE (I),588,36,337,215,0
+Houston,FMMS,"Public Service Commission, District 5",5,R,STAN WISE (I),3154,103,1232,1817,2
+Houston,HAFS,"Public Service Commission, District 5",5,R,STAN WISE (I),731,24,381,325,1
+Houston,HCHS,"Public Service Commission, District 5",5,R,STAN WISE (I),1128,39,359,730,0
+Houston,HCTC,"Public Service Commission, District 5",5,R,STAN WISE (I),2133,145,825,1163,0
+Houston,HEFS,"Public Service Commission, District 5",5,R,STAN WISE (I),425,9,235,181,0
+Houston,KATH,"Public Service Commission, District 5",5,R,STAN WISE (I),699,23,384,292,0
+Houston,MALL,"Public Service Commission, District 5",5,R,STAN WISE (I),1108,40,550,516,2
+Houston,MCMS,"Public Service Commission, District 5",5,R,STAN WISE (I),2951,116,1177,1657,1
+Houston,MILL,"Public Service Commission, District 5",5,R,STAN WISE (I),902,35,488,379,0
+Houston,NSES,"Public Service Commission, District 5",5,R,STAN WISE (I),1173,50,586,537,0
+Houston,NSMS,"Public Service Commission, District 5",5,R,STAN WISE (I),1045,61,496,488,0
+Houston,NSSH,"Public Service Commission, District 5",5,R,STAN WISE (I),575,41,290,244,0
+Houston,QRUN,"Public Service Commission, District 5",5,R,STAN WISE (I),1304,73,568,663,0
+Houston,RECR,"Public Service Commission, District 5",5,R,STAN WISE (I),881,54,449,378,0
+Houston,ROZR,"Public Service Commission, District 5",5,R,STAN WISE (I),4625,211,1380,3033,1
+Houston,TMS,"Public Service Commission, District 5",5,R,STAN WISE (I),1882,88,838,956,0
+Houston,TWPK,"Public Service Commission, District 5",5,R,STAN WISE (I),1195,33,571,590,1
+Houston,VHS,"Public Service Commission, District 5",5,R,STAN WISE (I),2053,58,801,1194,0
+Houston,,"Public Service Commission, District 5",5,L,DAVID STAPLES,13008,448,6128,6425,7
+Houston,ANNX,"Public Service Commission, District 5",5,L,DAVID STAPLES,257,10,96,150,1
+Houston,BMS,"Public Service Commission, District 5",5,L,DAVID STAPLES,560,25,246,289,0
+Houston,BON,"Public Service Commission, District 5",5,L,DAVID STAPLES,427,19,195,213,0
+Houston,CENT,"Public Service Commission, District 5",5,L,DAVID STAPLES,558,21,302,235,0
+Houston,ELBC,"Public Service Commission, District 5",5,L,DAVID STAPLES,749,21,448,277,3
+Houston,FMMS,"Public Service Commission, District 5",5,L,DAVID STAPLES,1102,37,446,618,1
+Houston,HAFS,"Public Service Commission, District 5",5,L,DAVID STAPLES,163,6,100,57,0
+Houston,HCHS,"Public Service Commission, District 5",5,L,DAVID STAPLES,315,4,117,194,0
+Houston,HCTC,"Public Service Commission, District 5",5,L,DAVID STAPLES,909,37,397,475,0
+Houston,HEFS,"Public Service Commission, District 5",5,L,DAVID STAPLES,180,4,119,57,0
+Houston,KATH,"Public Service Commission, District 5",5,L,DAVID STAPLES,185,4,106,75,0
+Houston,MALL,"Public Service Commission, District 5",5,L,DAVID STAPLES,458,13,276,169,0
+Houston,MCMS,"Public Service Commission, District 5",5,L,DAVID STAPLES,880,40,303,537,0
+Houston,MILL,"Public Service Commission, District 5",5,L,DAVID STAPLES,350,14,199,137,0
+Houston,NSES,"Public Service Commission, District 5",5,L,DAVID STAPLES,427,8,218,201,0
+Houston,NSMS,"Public Service Commission, District 5",5,L,DAVID STAPLES,723,21,378,323,1
+Houston,NSSH,"Public Service Commission, District 5",5,L,DAVID STAPLES,369,8,242,119,0
+Houston,QRUN,"Public Service Commission, District 5",5,L,DAVID STAPLES,270,17,125,128,0
+Houston,RECR,"Public Service Commission, District 5",5,L,DAVID STAPLES,815,29,423,363,0
+Houston,ROZR,"Public Service Commission, District 5",5,L,DAVID STAPLES,1447,56,568,822,1
+Houston,TMS,"Public Service Commission, District 5",5,L,DAVID STAPLES,967,19,452,496,0
+Houston,TWPK,"Public Service Commission, District 5",5,L,DAVID STAPLES,441,15,187,239,0
+Houston,VHS,"Public Service Commission, District 5",5,L,DAVID STAPLES,456,20,185,251,0
+Houston,,U.S. Representative,8,R,AUSTIN SCOTT (I),44083,1843,19083,23144,13
+Houston,ANNX,U.S. Representative,8,R,AUSTIN SCOTT (I),1007,55,353,598,1
+Houston,BMS,U.S. Representative,8,R,AUSTIN SCOTT (I),3000,116,1248,1634,2
+Houston,BON,U.S. Representative,8,R,AUSTIN SCOTT (I),2033,95,842,1096,0
+Houston,CENT,U.S. Representative,8,R,AUSTIN SCOTT (I),2192,105,1113,974,0
+Houston,ELBC,U.S. Representative,8,R,AUSTIN SCOTT (I),1068,50,634,383,1
+Houston,FMMS,U.S. Representative,8,R,AUSTIN SCOTT (I),3839,130,1534,2173,2
+Houston,HAFS,U.S. Representative,8,R,AUSTIN SCOTT (I),852,28,462,361,1
+Houston,HCHS,U.S. Representative,8,R,AUSTIN SCOTT (I),1340,40,436,864,0
+Houston,HCTC,U.S. Representative,8,R,AUSTIN SCOTT (I),2744,166,1093,1485,0
+Houston,HEFS,U.S. Representative,8,R,AUSTIN SCOTT (I),537,11,310,216,0
+Houston,KATH,U.S. Representative,8,R,AUSTIN SCOTT (I),836,27,465,344,0
+Houston,MALL,U.S. Representative,8,R,AUSTIN SCOTT (I),1410,47,728,633,2
+Houston,MCMS,U.S. Representative,8,R,AUSTIN SCOTT (I),3550,140,1407,2002,1
+Houston,MILL,U.S. Representative,8,R,AUSTIN SCOTT (I),1137,42,627,468,0
+Houston,NSES,U.S. Representative,8,R,AUSTIN SCOTT (I),1428,56,725,647,0
+Houston,NSMS,U.S. Representative,8,R,AUSTIN SCOTT (I),1510,77,754,678,1
+Houston,NSSH,U.S. Representative,8,R,AUSTIN SCOTT (I),818,47,459,312,0
+Houston,QRUN,U.S. Representative,8,R,AUSTIN SCOTT (I),1488,77,662,749,0
+Houston,RECR,U.S. Representative,8,R,AUSTIN SCOTT (I),1401,76,721,604,0
+Houston,ROZR,U.S. Representative,8,R,AUSTIN SCOTT (I),5568,241,1751,3575,1
+Houston,TMS,U.S. Representative,8,R,AUSTIN SCOTT (I),2492,98,1141,1253,0
+Houston,TWPK,U.S. Representative,8,R,AUSTIN SCOTT (I),1466,40,689,736,1
+Houston,VHS,U.S. Representative,8,R,AUSTIN SCOTT (I),2367,79,929,1359,0
+Houston,,State Senator,18,R,CECIL STATON (I),7726,324,3912,3490,0
+Houston,CENT,State Senator,18,R,CECIL STATON (I),2152,101,1098,953,0
+Houston,MALL,State Senator,18,R,CECIL STATON (I),1364,45,719,600,0
+Houston,NSES,State Senator,18,R,CECIL STATON (I),1408,55,714,639,0
+Houston,NSMS,State Senator,18,R,CECIL STATON (I),1457,74,727,656,0
+Houston,TMS,State Senator,18,R,CECIL STATON (I),1345,49,654,642,0
+Houston,,State Senator,20,R,ROSS TOLLESON (I),34022,1356,13988,18671,7
+Houston,ANNX,State Senator,20,R,ROSS TOLLESON (I),1004,55,359,589,1
+Houston,BMS,State Senator,20,R,ROSS TOLLESON (I),2969,111,1244,1612,2
+Houston,BON,State Senator,20,R,ROSS TOLLESON (I),2014,85,842,1087,0
+Houston,FMMS,State Senator,20,R,ROSS TOLLESON (I),3801,127,1518,2155,1
+Houston,HAFS,State Senator,20,R,ROSS TOLLESON (I),860,27,461,371,1
+Houston,HCHS,State Senator,20,R,ROSS TOLLESON (I),1335,40,437,858,0
+Houston,HCTC,State Senator,20,R,ROSS TOLLESON (I),2708,156,1087,1465,0
+Houston,HEFS,State Senator,20,R,ROSS TOLLESON (I),543,12,319,212,0
+Houston,KATH,State Senator,20,R,ROSS TOLLESON (I),820,24,460,336,0
+Houston,MCMS,State Senator,20,R,ROSS TOLLESON (I),3505,137,1398,1970,0
+Houston,MILL,State Senator,20,R,ROSS TOLLESON (I),1119,41,622,456,0
+Houston,NSSH,State Senator,20,R,ROSS TOLLESON (I),787,39,450,298,0
+Houston,QRUN,State Senator,20,R,ROSS TOLLESON (I),1455,76,651,728,0
+Houston,RECR,State Senator,20,R,ROSS TOLLESON (I),568,24,308,236,0
+Houston,ROZR,State Senator,20,R,ROSS TOLLESON (I),5632,244,1762,3625,1
+Houston,TMS,State Senator,20,R,ROSS TOLLESON (I),1103,46,463,594,0
+Houston,TWPK,State Senator,20,R,ROSS TOLLESON (I),1448,39,680,728,1
+Houston,VHS,State Senator,20,R,ROSS TOLLESON (I),2351,73,927,1351,0
+Houston,,State Senator,26,R,BOBBY GALE,817,59,432,326,0
+Houston,ELBC,State Senator,26,R,BOBBY GALE,396,30,222,144,0
+Houston,RECR,State Senator,26,R,BOBBY GALE,421,29,210,182,0
+Houston,,State Senator,26,D,DAVID E. LUCAS SR,2434,93,1307,1034,0
+Houston,ELBC,State Senator,26,D,DAVID E. LUCAS SR,1585,53,910,622,0
+Houston,RECR,State Senator,26,D,DAVID E. LUCAS SR,849,40,397,412,0
+Houston,,State Representative,140,R,ROBERT DICKEY (I),4026,186,2112,1728,0
+Houston,ELBC,State Representative,140,R,ROBERT DICKEY (I),1017,51,600,366,0
+Houston,NSES,State Representative,140,R,ROBERT DICKEY (I),1394,56,702,636,0
+Houston,NSMS,State Representative,140,R,ROBERT DICKEY (I),1449,74,718,657,0
+Houston,RECR,State Representative,140,R,ROBERT DICKEY (I),166,5,92,69,0
+Houston,,State Representative,144,R,JAMES EPPS (I),2095,84,912,1098,1
+Houston,BMS,State Representative,144,R,JAMES EPPS (I),2095,84,912,1098,1
+Houston,,State Representative,144,D,MARY WHIPPLE-LUE,699,23,270,406,0
+Houston,BMS,State Representative,144,D,MARY WHIPPLE-LUE,699,23,270,406,0
+Houston,,State Representative,146,R,LARRY O'NEAL (I),18988,704,7151,11128,5
+Houston,BMS,State Representative,146,R,LARRY O'NEAL (I),534,21,185,327,1
+Houston,BON,State Representative,146,R,LARRY O'NEAL (I),1662,80,689,893,0
+Houston,FMMS,State Representative,146,R,LARRY O'NEAL (I),3828,127,1538,2162,1
+Houston,HCHS,State Representative,146,R,LARRY O'NEAL (I),1331,40,438,853,0
+Houston,MCMS,State Representative,146,R,LARRY O'NEAL (I),3512,139,1401,1971,1
+Houston,ROZR,State Representative,146,R,LARRY O'NEAL (I),4746,197,1541,3007,1
+Houston,TWPK,State Representative,146,R,LARRY O'NEAL (I),1455,40,678,736,1
+Houston,VHS,State Representative,146,R,LARRY O'NEAL (I),1920,60,681,1179,0
+Houston,,State Representative,147,R,WILLIE TALTON (I),15355,724,7150,7478,3
+Houston,ANNX,State Representative,147,R,WILLIE TALTON (I),1029,58,358,612,1
+Houston,BON,State Representative,147,R,WILLIE TALTON (I),375,9,155,211,0
+Houston,CENT,State Representative,147,R,WILLIE TALTON (I),2212,104,1116,992,0
+Houston,HCTC,State Representative,147,R,WILLIE TALTON (I),2831,167,1121,1543,0
+Houston,MALL,State Representative,147,R,WILLIE TALTON (I),1446,50,750,644,2
+Houston,MILL,State Representative,147,R,WILLIE TALTON (I),1178,42,654,482,0
+Houston,NSSH,State Representative,147,R,WILLIE TALTON (I),869,44,486,339,0
+Houston,QRUN,State Representative,147,R,WILLIE TALTON (I),1498,78,662,758,0
+Houston,RECR,State Representative,147,R,WILLIE TALTON (I),1368,75,694,599,0
+Houston,TMS,State Representative,147,R,WILLIE TALTON (I),2549,97,1154,1298,0
+Houston,,State Representative,148,R,BUDDY HARDEN (I),3370,113,1644,1613,0
+Houston,HAFS,State Representative,148,R,BUDDY HARDEN (I),825,27,445,353,0
+Houston,HEFS,State Representative,148,R,BUDDY HARDEN (I),526,12,307,207,0
+Houston,KATH,State Representative,148,R,BUDDY HARDEN (I),817,26,456,335,0
+Houston,ROZR,State Representative,148,R,BUDDY HARDEN (I),788,35,200,553,0
+Houston,VHS,State Representative,148,R,BUDDY HARDEN (I),414,13,236,165,0
+Houston,,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),43665,1809,18926,22916,14
+Houston,ANNX,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),1013,57,358,597,1
+Houston,BMS,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),2977,109,1248,1618,2
+Houston,BON,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),2012,89,831,1092,0
+Houston,CENT,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),2181,105,1103,973,0
+Houston,ELBC,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),1057,52,624,379,2
+Houston,FMMS,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),3811,129,1520,2160,2
+Houston,HAFS,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),836,27,452,356,1
+Houston,HCHS,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),1331,40,438,853,0
+Houston,HCTC,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),2700,159,1069,1472,0
+Houston,HEFS,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),529,12,309,208,0
+Houston,KATH,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),825,26,459,340,0
+Houston,MALL,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),1388,47,718,621,2
+Houston,MCMS,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),3495,139,1395,1960,1
+Houston,MILL,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),1128,45,626,457,0
+Houston,NSES,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),1426,56,719,651,0
+Houston,NSMS,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),1491,76,734,680,1
+Houston,NSSH,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),805,39,464,302,0
+Houston,QRUN,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),1461,77,650,734,0
+Houston,RECR,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),1406,77,728,601,0
+Houston,ROZR,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),5522,237,1737,3547,1
+Houston,TMS,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),2487,95,1142,1250,0
+Houston,TWPK,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),1461,41,684,735,1
+Houston,VHS,District Attorney, Houston Circuit,R,GEORGE HARTWIG (I),2323,75,918,1330,0
+Houston,,JUDGE PROBATE,,R,JANICE D SPIRES (I),43952,1816,19071,23050,15
+Houston,ANNX,JUDGE PROBATE,,R,JANICE D SPIRES (I),997,55,350,591,1
+Houston,BMS,JUDGE PROBATE,,R,JANICE D SPIRES (I),2996,110,1252,1632,2
+Houston,BON,JUDGE PROBATE,,R,JANICE D SPIRES (I),2024,90,837,1097,0
+Houston,CENT,JUDGE PROBATE,,R,JANICE D SPIRES (I),2157,101,1100,956,0
+Houston,ELBC,JUDGE PROBATE,,R,JANICE D SPIRES (I),1055,54,616,383,2
+Houston,FMMS,JUDGE PROBATE,,R,JANICE D SPIRES (I),3823,129,1533,2159,2
+Houston,HAFS,JUDGE PROBATE,,R,JANICE D SPIRES (I),847,27,458,361,1
+Houston,HCHS,JUDGE PROBATE,,R,JANICE D SPIRES (I),1336,39,435,862,0
+Houston,HCTC,JUDGE PROBATE,,R,JANICE D SPIRES (I),2749,163,1109,1477,0
+Houston,HEFS,JUDGE PROBATE,,R,JANICE D SPIRES (I),542,11,315,216,0
+Houston,KATH,JUDGE PROBATE,,R,JANICE D SPIRES (I),834,26,468,340,0
+Houston,MALL,JUDGE PROBATE,,R,JANICE D SPIRES (I),1404,48,731,623,2
+Houston,MCMS,JUDGE PROBATE,,R,JANICE D SPIRES (I),3508,139,1399,1969,1
+Houston,MILL,JUDGE PROBATE,,R,JANICE D SPIRES (I),1137,46,630,461,0
+Houston,NSES,JUDGE PROBATE,,R,JANICE D SPIRES (I),1429,56,721,652,0
+Houston,NSMS,JUDGE PROBATE,,R,JANICE D SPIRES (I),1503,74,737,691,1
+Houston,NSSH,JUDGE PROBATE,,R,JANICE D SPIRES (I),822,42,468,312,0
+Houston,QRUN,JUDGE PROBATE,,R,JANICE D SPIRES (I),1474,77,652,745,0
+Houston,RECR,JUDGE PROBATE,,R,JANICE D SPIRES (I),1414,75,742,597,0
+Houston,ROZR,JUDGE PROBATE,,R,JANICE D SPIRES (I),5560,236,1751,3571,2
+Houston,TMS,JUDGE PROBATE,,R,JANICE D SPIRES (I),2501,98,1144,1259,0
+Houston,TWPK,JUDGE PROBATE,,R,JANICE D SPIRES (I),1475,45,690,739,1
+Houston,VHS,JUDGE PROBATE,,R,JANICE D SPIRES (I),2365,75,933,1357,0
+Houston,,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),43983,1807,19063,23099,14
+Houston,ANNX,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),999,57,347,594,1
+Houston,BMS,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),2966,110,1242,1612,2
+Houston,BON,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),2024,89,845,1090,0
+Houston,CENT,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),2167,102,1097,968,0
+Houston,ELBC,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),1080,53,639,386,2
+Houston,FMMS,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),3837,127,1533,2175,2
+Houston,HAFS,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),855,25,460,369,1
+Houston,HCHS,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),1333,40,438,855,0
+Houston,HCTC,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),2755,158,1113,1484,0
+Houston,HEFS,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),553,12,325,216,0
+Houston,KATH,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),820,26,460,334,0
+Houston,MALL,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),1393,47,727,617,2
+Houston,MCMS,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),3491,139,1394,1957,1
+Houston,MILL,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),1150,46,636,468,0
+Houston,NSES,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),1436,57,722,657,0
+Houston,NSMS,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),1503,74,732,696,1
+Houston,NSSH,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),804,41,454,309,0
+Houston,QRUN,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),1470,78,652,740,0
+Houston,RECR,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),1420,76,737,607,0
+Houston,ROZR,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),5605,239,1749,3616,1
+Houston,TMS,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),2512,97,1148,1267,0
+Houston,TWPK,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),1464,40,686,737,1
+Houston,VHS,CLERK SUPERIOR COURT,,R,C. SULLIVAN (I),2346,74,927,1345,0
+Houston,,SHERIFF,,R,CULLEN TALTON (I),44780,1832,19388,23546,14
+Houston,ANNX,SHERIFF,,R,CULLEN TALTON (I),1019,57,357,604,1
+Houston,BMS,SHERIFF,,R,CULLEN TALTON (I),2990,111,1248,1629,2
+Houston,BON,SHERIFF,,R,CULLEN TALTON (I),2045,91,850,1104,0
+Houston,CENT,SHERIFF,,R,CULLEN TALTON (I),2185,102,1106,977,0
+Houston,ELBC,SHERIFF,,R,CULLEN TALTON (I),1184,54,697,431,2
+Houston,FMMS,SHERIFF,,R,CULLEN TALTON (I),3883,131,1545,2205,2
+Houston,HAFS,SHERIFF,,R,CULLEN TALTON (I),873,26,473,373,1
+Houston,HCHS,SHERIFF,,R,CULLEN TALTON (I),1344,40,433,871,0
+Houston,HCTC,SHERIFF,,R,CULLEN TALTON (I),2797,159,1124,1514,0
+Houston,HEFS,SHERIFF,,R,CULLEN TALTON (I),574,12,332,230,0
+Houston,KATH,SHERIFF,,R,CULLEN TALTON (I),833,27,465,341,0
+Houston,MALL,SHERIFF,,R,CULLEN TALTON (I),1428,50,748,628,2
+Houston,MCMS,SHERIFF,,R,CULLEN TALTON (I),3512,140,1403,1968,1
+Houston,MILL,SHERIFF,,R,CULLEN TALTON (I),1163,41,646,476,0
+Houston,NSES,SHERIFF,,R,CULLEN TALTON (I),1454,57,728,669,0
+Houston,NSMS,SHERIFF,,R,CULLEN TALTON (I),1564,76,764,723,1
+Houston,NSSH,SHERIFF,,R,CULLEN TALTON (I),836,44,471,321,0
+Houston,QRUN,SHERIFF,,R,CULLEN TALTON (I),1497,78,659,760,0
+Houston,RECR,SHERIFF,,R,CULLEN TALTON (I),1508,80,782,646,0
+Houston,ROZR,SHERIFF,,R,CULLEN TALTON (I),5689,242,1766,3680,1
+Houston,TMS,SHERIFF,,R,CULLEN TALTON (I),2532,97,1154,1281,0
+Houston,TWPK,SHERIFF,,R,CULLEN TALTON (I),1479,41,694,743,1
+Houston,VHS,SHERIFF,,R,CULLEN TALTON (I),2391,76,943,1372,0
+Houston,,TAX COMMISSIONER,,R,MARK KUSHINKA (I),43843,1806,18974,23050,13
+Houston,ANNX,TAX COMMISSIONER,,R,MARK KUSHINKA (I),1000,56,352,591,1
+Houston,BMS,TAX COMMISSIONER,,R,MARK KUSHINKA (I),2968,111,1241,1614,2
+Houston,BON,TAX COMMISSIONER,,R,MARK KUSHINKA (I),2030,88,848,1094,0
+Houston,CENT,TAX COMMISSIONER,,R,MARK KUSHINKA (I),2166,104,1097,965,0
+Houston,ELBC,TAX COMMISSIONER,,R,MARK KUSHINKA (I),1063,52,622,388,1
+Houston,FMMS,TAX COMMISSIONER,,R,MARK KUSHINKA (I),3834,129,1535,2168,2
+Houston,HAFS,TAX COMMISSIONER,,R,MARK KUSHINKA (I),841,27,453,360,1
+Houston,HCHS,TAX COMMISSIONER,,R,MARK KUSHINKA (I),1336,40,437,859,0
+Houston,HCTC,TAX COMMISSIONER,,R,MARK KUSHINKA (I),2754,158,1105,1491,0
+Houston,HEFS,TAX COMMISSIONER,,R,MARK KUSHINKA (I),544,12,317,215,0
+Houston,KATH,TAX COMMISSIONER,,R,MARK KUSHINKA (I),819,26,456,337,0
+Houston,MALL,TAX COMMISSIONER,,R,MARK KUSHINKA (I),1406,49,733,622,2
+Houston,MCMS,TAX COMMISSIONER,,R,MARK KUSHINKA (I),3502,137,1394,1970,1
+Houston,MILL,TAX COMMISSIONER,,R,MARK KUSHINKA (I),1145,43,631,471,0
+Houston,NSES,TAX COMMISSIONER,,R,MARK KUSHINKA (I),1435,57,730,648,0
+Houston,NSMS,TAX COMMISSIONER,,R,MARK KUSHINKA (I),1498,74,735,688,1
+Houston,NSSH,TAX COMMISSIONER,,R,MARK KUSHINKA (I),802,40,454,308,0
+Houston,QRUN,TAX COMMISSIONER,,R,MARK KUSHINKA (I),1470,77,648,745,0
+Houston,RECR,TAX COMMISSIONER,,R,MARK KUSHINKA (I),1420,77,733,610,0
+Houston,ROZR,TAX COMMISSIONER,,R,MARK KUSHINKA (I),5523,238,1726,3558,1
+Houston,TMS,TAX COMMISSIONER,,R,MARK KUSHINKA (I),2484,96,1134,1254,0
+Houston,TWPK,TAX COMMISSIONER,,R,MARK KUSHINKA (I),1454,41,675,737,1
+Houston,VHS,TAX COMMISSIONER,,R,MARK KUSHINKA (I),2349,74,918,1357,0
+Houston,,CORONER,,R,DANIEL GALPIN (I),43530,1811,18914,22791,14
+Houston,ANNX,CORONER,,R,DANIEL GALPIN (I),994,56,349,588,1
+Houston,BMS,CORONER,,R,DANIEL GALPIN (I),2938,108,1232,1596,2
+Houston,BON,CORONER,,R,DANIEL GALPIN (I),2009,89,839,1081,0
+Houston,CENT,CORONER,,R,DANIEL GALPIN (I),2142,102,1084,956,0
+Houston,ELBC,CORONER,,R,DANIEL GALPIN (I),1057,55,623,377,2
+Houston,FMMS,CORONER,,R,DANIEL GALPIN (I),3814,130,1525,2157,2
+Houston,HAFS,CORONER,,R,DANIEL GALPIN (I),832,27,451,353,1
+Houston,HCHS,CORONER,,R,DANIEL GALPIN (I),1321,40,430,851,0
+Houston,HCTC,CORONER,,R,DANIEL GALPIN (I),2736,159,1104,1473,0
+Houston,HEFS,CORONER,,R,DANIEL GALPIN (I),537,11,313,213,0
+Houston,KATH,CORONER,,R,DANIEL GALPIN (I),821,26,460,335,0
+Houston,MALL,CORONER,,R,DANIEL GALPIN (I),1393,49,732,610,2
+Houston,MCMS,CORONER,,R,DANIEL GALPIN (I),3474,139,1386,1948,1
+Houston,MILL,CORONER,,R,DANIEL GALPIN (I),1140,44,632,464,0
+Houston,NSES,CORONER,,R,DANIEL GALPIN (I),1432,58,725,649,0
+Houston,NSMS,CORONER,,R,DANIEL GALPIN (I),1485,73,730,681,1
+Houston,NSSH,CORONER,,R,DANIEL GALPIN (I),800,42,459,299,0
+Houston,QRUN,CORONER,,R,DANIEL GALPIN (I),1465,78,648,739,0
+Houston,RECR,CORONER,,R,DANIEL GALPIN (I),1422,75,736,611,0
+Houston,ROZR,CORONER,,R,DANIEL GALPIN (I),5468,237,1719,3511,1
+Houston,TMS,CORONER,,R,DANIEL GALPIN (I),2472,96,1134,1242,0
+Houston,TWPK,CORONER,,R,DANIEL GALPIN (I),1448,43,680,724,1
+Houston,VHS,CORONER,,R,DANIEL GALPIN (I),2330,74,923,1333,0
+Houston,,CC P3,,R,GAIL ROBINSON (I),43091,1760,18684,22635,12
+Houston,ANNX,CC P3,,R,GAIL ROBINSON (I),986,54,346,585,1
+Houston,BMS,CC P3,,R,GAIL ROBINSON (I),2930,110,1222,1596,2
+Houston,BON,CC P3,,R,GAIL ROBINSON (I),1989,85,831,1073,0
+Houston,CENT,CC P3,,R,GAIL ROBINSON (I),2134,100,1078,956,0
+Houston,ELBC,CC P3,,R,GAIL ROBINSON (I),1031,52,607,371,1
+Houston,FMMS,CC P3,,R,GAIL ROBINSON (I),3782,127,1522,2131,2
+Houston,HAFS,CC P3,,R,GAIL ROBINSON (I),822,27,444,350,1
+Houston,HCHS,CC P3,,R,GAIL ROBINSON (I),1313,39,425,849,0
+Houston,HCTC,CC P3,,R,GAIL ROBINSON (I),2693,151,1084,1458,0
+Houston,HEFS,CC P3,,R,GAIL ROBINSON (I),529,11,308,210,0
+Houston,KATH,CC P3,,R,GAIL ROBINSON (I),804,26,450,328,0
+Houston,MALL,CC P3,,R,GAIL ROBINSON (I),1374,50,712,610,2
+Houston,MCMS,CC P3,,R,GAIL ROBINSON (I),3456,135,1381,1939,1
+Houston,MILL,CC P3,,R,GAIL ROBINSON (I),1123,44,622,457,0
+Houston,NSES,CC P3,,R,GAIL ROBINSON (I),1402,56,705,641,0
+Houston,NSMS,CC P3,,R,GAIL ROBINSON (I),1462,71,720,671,0
+Houston,NSSH,CC P3,,R,GAIL ROBINSON (I),782,41,445,296,0
+Houston,QRUN,CC P3,,R,GAIL ROBINSON (I),1455,75,644,736,0
+Houston,RECR,CC P3,,R,GAIL ROBINSON (I),1395,76,724,595,0
+Houston,ROZR,CC P3,,R,GAIL ROBINSON (I),5428,225,1705,3497,1
+Houston,TMS,CC P3,,R,GAIL ROBINSON (I),2456,93,1126,1237,0
+Houston,TWPK,CC P3,,R,GAIL ROBINSON (I),1430,40,671,718,1
+Houston,VHS,CC P3,,R,GAIL ROBINSON (I),2315,72,912,1331,0
+Houston,,CC P4,,R,LARRY THOMSON (I),43010,1771,18647,22579,13
+Houston,ANNX,CC P4,,R,LARRY THOMSON (I),976,53,344,578,1
+Houston,BMS,CC P4,,R,LARRY THOMSON (I),2925,109,1223,1591,2
+Houston,BON,CC P4,,R,LARRY THOMSON (I),1985,83,828,1074,0
+Houston,CENT,CC P4,,R,LARRY THOMSON (I),2132,100,1077,955,0
+Houston,ELBC,CC P4,,R,LARRY THOMSON (I),1023,51,605,366,1
+Houston,FMMS,CC P4,,R,LARRY THOMSON (I),3766,128,1515,2121,2
+Houston,HAFS,CC P4,,R,LARRY THOMSON (I),821,28,443,349,1
+Houston,HCHS,CC P4,,R,LARRY THOMSON (I),1313,40,427,846,0
+Houston,HCTC,CC P4,,R,LARRY THOMSON (I),2668,152,1064,1452,0
+Houston,HEFS,CC P4,,R,LARRY THOMSON (I),537,11,318,208,0
+Houston,KATH,CC P4,,R,LARRY THOMSON (I),804,26,447,331,0
+Houston,MALL,CC P4,,R,LARRY THOMSON (I),1372,48,719,603,2
+Houston,MCMS,CC P4,,R,LARRY THOMSON (I),3449,137,1381,1930,1
+Houston,MILL,CC P4,,R,LARRY THOMSON (I),1113,41,617,455,0
+Houston,NSES,CC P4,,R,LARRY THOMSON (I),1410,56,711,643,0
+Houston,NSMS,CC P4,,R,LARRY THOMSON (I),1444,74,712,657,1
+Houston,NSSH,CC P4,,R,LARRY THOMSON (I),785,42,447,296,0
+Houston,QRUN,CC P4,,R,LARRY THOMSON (I),1445,75,637,733,0
+Houston,RECR,CC P4,,R,LARRY THOMSON (I),1388,76,715,597,0
+Houston,ROZR,CC P4,,R,LARRY THOMSON (I),5463,233,1710,3519,1
+Houston,TMS,CC P4,,R,LARRY THOMSON (I),2443,95,1120,1228,0
+Houston,TWPK,CC P4,,R,LARRY THOMSON (I),1428,40,670,717,1
+Houston,VHS,CC P4,,R,LARRY THOMSON (I),2320,73,917,1330,0
+Houston,,CC P5,,R,TOM MCMICHAEL (I),42963,1764,18652,22535,12
+Houston,ANNX,CC P5,,R,TOM MCMICHAEL (I),980,53,344,582,1
+Houston,BMS,CC P5,,R,TOM MCMICHAEL (I),2918,109,1220,1587,2
+Houston,BON,CC P5,,R,TOM MCMICHAEL (I),2001,86,833,1082,0
+Houston,CENT,CC P5,,R,TOM MCMICHAEL (I),2128,100,1074,954,0
+Houston,ELBC,CC P5,,R,TOM MCMICHAEL (I),1034,53,618,362,1
+Houston,FMMS,CC P5,,R,TOM MCMICHAEL (I),3772,129,1517,2124,2
+Houston,HAFS,CC P5,,R,TOM MCMICHAEL (I),815,27,440,347,1
+Houston,HCHS,CC P5,,R,TOM MCMICHAEL (I),1310,40,427,843,0
+Houston,HCTC,CC P5,,R,TOM MCMICHAEL (I),2681,151,1075,1455,0
+Houston,HEFS,CC P5,,R,TOM MCMICHAEL (I),529,11,307,211,0
+Houston,KATH,CC P5,,R,TOM MCMICHAEL (I),808,26,451,331,0
+Houston,MALL,CC P5,,R,TOM MCMICHAEL (I),1359,48,708,601,2
+Houston,MCMS,CC P5,,R,TOM MCMICHAEL (I),3444,136,1379,1928,1
+Houston,MILL,CC P5,,R,TOM MCMICHAEL (I),1114,42,614,458,0
+Houston,NSES,CC P5,,R,TOM MCMICHAEL (I),1407,56,714,637,0
+Houston,NSMS,CC P5,,R,TOM MCMICHAEL (I),1446,73,711,662,0
+Houston,NSSH,CC P5,,R,TOM MCMICHAEL (I),781,42,445,294,0
+Houston,QRUN,CC P5,,R,TOM MCMICHAEL (I),1449,74,640,735,0
+Houston,RECR,CC P5,,R,TOM MCMICHAEL (I),1379,74,717,588,0
+Houston,ROZR,CC P5,,R,TOM MCMICHAEL (I),5421,230,1707,3483,1
+Houston,TMS,CC P5,,R,TOM MCMICHAEL (I),2445,93,1124,1228,0
+Houston,TWPK,CC P5,,R,TOM MCMICHAEL (I),1425,39,670,715,1
+Houston,VHS,CC P5,,R,TOM MCMICHAEL (I),2317,72,917,1328,0
+Houston,,SOIL AND WATER,,,LARRY S. MORTON,43504,1767,18895,22829,13
+Houston,ANNX,SOIL AND WATER,,,LARRY S. MORTON,980,52,346,581,1
+Houston,BMS,SOIL AND WATER,,,LARRY S. MORTON,2847,105,1204,1536,2
+Houston,BON,SOIL AND WATER,,,LARRY S. MORTON,1958,79,824,1055,0
+Houston,CENT,SOIL AND WATER,,,LARRY S. MORTON,2103,94,1065,944,0
+Houston,ELBC,SOIL AND WATER,,,LARRY S. MORTON,1220,60,716,443,1
+Houston,FMMS,SOIL AND WATER,,,LARRY S. MORTON,3819,127,1505,2185,2
+Houston,HAFS,SOIL AND WATER,,,LARRY S. MORTON,818,28,441,348,1
+Houston,HCHS,SOIL AND WATER,,,LARRY S. MORTON,1293,38,418,837,0
+Houston,HCTC,SOIL AND WATER,,,LARRY S. MORTON,2750,154,1118,1478,0
+Houston,HEFS,SOIL AND WATER,,,LARRY S. MORTON,534,11,316,207,0
+Houston,KATH,SOIL AND WATER,,,LARRY S. MORTON,791,26,438,327,0
+Houston,MALL,SOIL AND WATER,,,LARRY S. MORTON,1377,49,730,596,2
+Houston,MCMS,SOIL AND WATER,,,LARRY S. MORTON,3414,134,1344,1935,1
+Houston,MILL,SOIL AND WATER,,,LARRY S. MORTON,1119,46,628,445,0
+Houston,NSES,SOIL AND WATER,,,LARRY S. MORTON,1422,55,711,656,0
+Houston,NSMS,SOIL AND WATER,,,LARRY S. MORTON,1609,75,774,759,1
+Houston,NSSH,SOIL AND WATER,,,LARRY S. MORTON,836,41,481,314,0
+Houston,QRUN,SOIL AND WATER,,,LARRY S. MORTON,1394,73,616,705,0
+Houston,RECR,SOIL AND WATER,,,LARRY S. MORTON,1530,76,786,668,0
+Houston,ROZR,SOIL AND WATER,,,LARRY S. MORTON,5445,238,1739,3467,1
+Houston,TMS,SOIL AND WATER,,,LARRY S. MORTON,2560,92,1161,1307,0
+Houston,TWPK,SOIL AND WATER,,,LARRY S. MORTON,1436,45,647,743,1
+Houston,VHS,SOIL AND WATER,,,LARRY S. MORTON,2249,69,887,1293,0
+Houston,,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,28899,1319,12311,15259,10
+Houston,ANNX,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,665,40,236,388,1
+Houston,BMS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,1765,83,695,986,1
+Houston,BON,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,1121,67,453,601,0
+Houston,CENT,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,1430,80,708,642,0
+Houston,ELBC,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,1125,40,661,422,2
+Houston,FMMS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,2607,102,1005,1498,2
+Houston,HAFS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,477,14,243,219,1
+Houston,HCHS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,844,34,259,551,0
+Houston,HCTC,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,1830,109,730,991,0
+Houston,HEFS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,334,5,190,139,0
+Houston,KATH,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,475,19,234,222,0
+Houston,MALL,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,963,36,488,438,1
+Houston,MCMS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,2204,110,796,1298,0
+Houston,MILL,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,691,34,363,294,0
+Houston,NSES,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,901,32,424,445,0
+Houston,NSMS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,1121,61,569,491,0
+Houston,NSSH,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,629,34,345,250,0
+Houston,QRUN,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,774,44,338,392,0
+Houston,RECR,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,1263,55,669,539,0
+Houston,ROZR,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,3441,156,1101,2183,1
+Houston,TMS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,1914,70,868,976,0
+Houston,TWPK,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,992,37,437,517,1
+Houston,VHS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,1333,57,499,777,0
+Houston,,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,26160,902,11165,14086,7
+Houston,ANNX,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,548,21,174,353,0
+Houston,BMS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,1687,56,732,898,1
+Houston,BON,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,1239,46,516,677,0
+Houston,CENT,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,1204,38,608,558,0
+Houston,ELBC,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,825,32,473,320,0
+Houston,FMMS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,2173,52,803,1316,2
+Houston,HAFS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,522,17,289,216,0
+Houston,HCHS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,752,15,254,483,0
+Houston,HCTC,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,1587,88,629,870,0
+Houston,HEFS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,361,8,219,134,0
+Houston,KATH,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,495,10,288,197,0
+Houston,MALL,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,803,26,435,341,1
+Houston,MCMS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,2007,62,799,1145,1
+Houston,MILL,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,695,25,395,275,0
+Houston,NSES,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,881,36,445,400,0
+Houston,NSMS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,1040,27,452,560,1
+Houston,NSSH,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,507,20,290,197,0
+Houston,QRUN,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,919,43,395,481,0
+Houston,RECR,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,886,41,403,442,0
+Houston,ROZR,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,3383,149,1052,2181,1
+Houston,TMS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,1391,45,578,768,0
+Houston,TWPK,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,887,20,402,465,0
+Houston,VHS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,1368,25,534,809,0
+Houston,,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,34055,1457,14327,18259,12
+Houston,ANNX,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,799,42,276,480,1
+Houston,BMS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,2302,101,909,1292,0
+Houston,BON,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1514,83,602,829,0
+Houston,CENT,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1697,79,831,787,0
+Houston,ELBC,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1102,38,657,404,3
+Houston,FMMS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,3000,104,1158,1736,2
+Houston,HAFS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,546,23,291,231,1
+Houston,HCHS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1069,37,330,702,0
+Houston,HCTC,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,2097,125,821,1151,0
+Houston,HEFS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,401,6,225,170,0
+Houston,KATH,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,572,18,306,248,0
+Houston,MALL,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1080,38,560,481,1
+Houston,MCMS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,2721,117,1020,1583,1
+Houston,MILL,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,838,39,445,354,0
+Houston,NSES,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1069,32,515,522,0
+Houston,NSMS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1252,63,607,582,0
+Houston,NSSH,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,653,36,339,278,0
+Houston,QRUN,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1080,55,461,564,0
+Houston,RECR,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1224,53,634,537,0
+Houston,ROZR,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,4095,186,1260,2647,2
+Houston,TMS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,2088,79,937,1072,0
+Houston,TWPK,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1156,39,513,603,1
+Houston,VHS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1700,64,630,1006,0
+Houston,,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,19085,658,8340,10081,6
+Houston,ANNX,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,386,15,120,251,0
+Houston,BMS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,1052,34,478,538,2
+Houston,BON,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,775,21,337,417,0
+Houston,CENT,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,842,37,437,368,0
+Houston,ELBC,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,795,32,441,322,0
+Houston,FMMS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,1606,40,578,986,2
+Houston,HAFS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,420,8,229,183,0
+Houston,HCHS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,487,8,176,303,0
+Houston,HCTC,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,1205,59,489,657,0
+Houston,HEFS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,268,6,169,93,0
+Houston,KATH,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,354,10,196,148,0
+Houston,MALL,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,628,21,334,272,1
+Houston,MCMS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,1319,51,508,760,0
+Houston,MILL,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,504,18,291,195,0
+Houston,NSES,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,659,29,326,304,0
+Houston,NSMS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,844,26,380,437,1
+Houston,NSSH,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,441,16,267,158,0
+Houston,QRUN,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,561,31,244,286,0
+Houston,RECR,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,858,41,415,402,0
+Houston,ROZR,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,2433,93,808,1532,0
+Houston,TMS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,1089,29,462,598,0
+Houston,TWPK,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,657,17,293,347,0
+Houston,VHS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,902,16,362,524,0
