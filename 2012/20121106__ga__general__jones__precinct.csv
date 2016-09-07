@@ -1,0 +1,330 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Jones,,President of the United States,,R,MITT ROMNEY,7744,445,3654,3641,4
+Jones,GRAY,President of the United States,,R,MITT ROMNEY,1202,51,418,732,1
+Jones,HAWKINS,President of the United States,,R,MITT ROMNEY,668,46,269,352,1
+Jones,ETHRIDGE,President of the United States,,R,MITT ROMNEY,668,52,246,370,0
+Jones,CLINTON,President of the United States,,R,MITT ROMNEY,1088,74,434,580,0
+Jones,ROBERTS,President of the United States,,R,MITT ROMNEY,921,70,495,355,1
+Jones,DAVIDSON,President of the United States,,R,MITT ROMNEY,676,15,372,289,0
+Jones,POPE,President of the United States,,R,MITT ROMNEY,659,31,340,288,0
+Jones,BARRON,President of the United States,,R,MITT ROMNEY,382,28,183,171,0
+Jones,WHITE,President of the United States,,R,MITT ROMNEY,196,10,144,42,0
+Jones,SANDERS,President of the United States,,R,MITT ROMNEY,86,1,72,13,0
+Jones,FINNEY,President of the United States,,R,MITT ROMNEY,1198,67,681,449,1
+Jones,,President of the United States,,D,BARACK OBAMA (I),4274,294,1740,2240,0
+Jones,GRAY,President of the United States,,D,BARACK OBAMA (I),419,21,132,266,0
+Jones,HAWKINS,President of the United States,,D,BARACK OBAMA (I),1194,74,434,686,0
+Jones,ETHRIDGE,President of the United States,,D,BARACK OBAMA (I),438,45,152,241,0
+Jones,CLINTON,President of the United States,,D,BARACK OBAMA (I),346,28,97,221,0
+Jones,ROBERTS,President of the United States,,D,BARACK OBAMA (I),513,22,248,243,0
+Jones,DAVIDSON,President of the United States,,D,BARACK OBAMA (I),183,23,83,77,0
+Jones,POPE,President of the United States,,D,BARACK OBAMA (I),472,30,241,201,0
+Jones,BARRON,President of the United States,,D,BARACK OBAMA (I),212,12,80,120,0
+Jones,WHITE,President of the United States,,D,BARACK OBAMA (I),55,5,22,28,0
+Jones,SANDERS,President of the United States,,D,BARACK OBAMA (I),32,1,27,4,0
+Jones,FINNEY,President of the United States,,D,BARACK OBAMA (I),410,33,224,153,0
+Jones,,President of the United States,,L,GARY JOHNSON,87,5,60,22,0
+Jones,GRAY,President of the United States,,L,GARY JOHNSON,15,1,9,5,0
+Jones,HAWKINS,President of the United States,,L,GARY JOHNSON,7,1,2,4,0
+Jones,ETHRIDGE,President of the United States,,L,GARY JOHNSON,10,1,4,5,0
+Jones,CLINTON,President of the United States,,L,GARY JOHNSON,6,0,6,0,0
+Jones,ROBERTS,President of the United States,,L,GARY JOHNSON,14,1,11,2,0
+Jones,DAVIDSON,President of the United States,,L,GARY JOHNSON,9,1,7,1,0
+Jones,POPE,President of the United States,,L,GARY JOHNSON,7,0,5,2,0
+Jones,BARRON,President of the United States,,L,GARY JOHNSON,6,0,4,2,0
+Jones,WHITE,President of the United States,,L,GARY JOHNSON,2,0,2,0,0
+Jones,SANDERS,President of the United States,,L,GARY JOHNSON,1,0,1,0,0
+Jones,FINNEY,President of the United States,,L,GARY JOHNSON,10,0,9,1,0
+Jones,,"Public Service Commission, District 3",3,R,CHUCK EATON (I),7000,445,3239,3312,4
+Jones,GRAY,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1083,50,375,657,1
+Jones,HAWKINS,"Public Service Commission, District 3",3,R,CHUCK EATON (I),636,50,249,336,1
+Jones,ETHRIDGE,"Public Service Commission, District 3",3,R,CHUCK EATON (I),637,53,229,355,0
+Jones,CLINTON,"Public Service Commission, District 3",3,R,CHUCK EATON (I),960,73,365,522,0
+Jones,ROBERTS,"Public Service Commission, District 3",3,R,CHUCK EATON (I),812,68,434,309,1
+Jones,DAVIDSON,"Public Service Commission, District 3",3,R,CHUCK EATON (I),585,15,310,260,0
+Jones,POPE,"Public Service Commission, District 3",3,R,CHUCK EATON (I),591,29,299,263,0
+Jones,BARRON,"Public Service Commission, District 3",3,R,CHUCK EATON (I),353,30,166,157,0
+Jones,WHITE,"Public Service Commission, District 3",3,R,CHUCK EATON (I),177,9,127,41,0
+Jones,SANDERS,"Public Service Commission, District 3",3,R,CHUCK EATON (I),77,0,65,12,0
+Jones,FINNEY,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1089,68,620,400,1
+Jones,,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,4004,265,1709,2030,0
+Jones,GRAY,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,404,18,128,258,0
+Jones,HAWKINS,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,1070,70,389,611,0
+Jones,ETHRIDGE,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,382,44,143,195,0
+Jones,CLINTON,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,355,26,121,208,0
+Jones,ROBERTS,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,504,19,245,240,0
+Jones,DAVIDSON,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,197,22,99,76,0
+Jones,POPE,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,431,29,233,169,0
+Jones,BARRON,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,183,9,75,99,0
+Jones,WHITE,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,57,5,28,24,0
+Jones,SANDERS,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,26,1,22,3,0
+Jones,FINNEY,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,395,22,226,147,0
+Jones,,"Public Service Commission, District 3",3,L,BRAD PLOEGER,339,22,177,140,0
+Jones,GRAY,"Public Service Commission, District 3",3,L,BRAD PLOEGER,59,4,26,29,0
+Jones,HAWKINS,"Public Service Commission, District 3",3,L,BRAD PLOEGER,41,1,14,26,0
+Jones,ETHRIDGE,"Public Service Commission, District 3",3,L,BRAD PLOEGER,28,1,12,15,0
+Jones,CLINTON,"Public Service Commission, District 3",3,L,BRAD PLOEGER,40,3,22,15,0
+Jones,ROBERTS,"Public Service Commission, District 3",3,L,BRAD PLOEGER,37,6,18,13,0
+Jones,DAVIDSON,"Public Service Commission, District 3",3,L,BRAD PLOEGER,33,1,21,11,0
+Jones,POPE,"Public Service Commission, District 3",3,L,BRAD PLOEGER,20,2,12,6,0
+Jones,BARRON,"Public Service Commission, District 3",3,L,BRAD PLOEGER,15,0,8,7,0
+Jones,WHITE,"Public Service Commission, District 3",3,L,BRAD PLOEGER,4,0,3,1,0
+Jones,SANDERS,"Public Service Commission, District 3",3,L,BRAD PLOEGER,9,1,7,1,0
+Jones,FINNEY,"Public Service Commission, District 3",3,L,BRAD PLOEGER,53,3,34,16,0
+Jones,,"Public Service Commission, District 5",5,R,STAN WISE (I),7735,483,3611,3637,4
+Jones,GRAY,"Public Service Commission, District 5",5,R,STAN WISE (I),1184,55,414,714,1
+Jones,HAWKINS,"Public Service Commission, District 5",5,R,STAN WISE (I),809,57,321,430,1
+Jones,ETHRIDGE,"Public Service Commission, District 5",5,R,STAN WISE (I),683,59,251,373,0
+Jones,CLINTON,"Public Service Commission, District 5",5,R,STAN WISE (I),1032,77,401,554,0
+Jones,ROBERTS,"Public Service Commission, District 5",5,R,STAN WISE (I),885,71,462,351,1
+Jones,DAVIDSON,"Public Service Commission, District 5",5,R,STAN WISE (I),638,19,347,272,0
+Jones,POPE,"Public Service Commission, District 5",5,R,STAN WISE (I),663,35,343,285,0
+Jones,BARRON,"Public Service Commission, District 5",5,R,STAN WISE (I),384,30,183,171,0
+Jones,WHITE,"Public Service Commission, District 5",5,R,STAN WISE (I),189,10,136,43,0
+Jones,SANDERS,"Public Service Commission, District 5",5,R,STAN WISE (I),81,1,68,12,0
+Jones,FINNEY,"Public Service Commission, District 5",5,R,STAN WISE (I),1187,69,685,432,1
+Jones,,"Public Service Commission, District 5",5,L,DAVID STAPLES,2514,147,1167,1200,0
+Jones,GRAY,"Public Service Commission, District 5",5,L,DAVID STAPLES,263,14,89,160,0
+Jones,HAWKINS,"Public Service Commission, District 5",5,L,DAVID STAPLES,601,30,241,330,0
+Jones,ETHRIDGE,"Public Service Commission, District 5",5,L,DAVID STAPLES,229,22,94,113,0
+Jones,CLINTON,"Public Service Commission, District 5",5,L,DAVID STAPLES,233,16,88,129,0
+Jones,ROBERTS,"Public Service Commission, District 5",5,L,DAVID STAPLES,361,19,195,147,0
+Jones,DAVIDSON,"Public Service Commission, District 5",5,L,DAVID STAPLES,127,8,71,48,0
+Jones,POPE,"Public Service Commission, District 5",5,L,DAVID STAPLES,251,15,131,105,0
+Jones,BARRON,"Public Service Commission, District 5",5,L,DAVID STAPLES,113,4,49,60,0
+Jones,WHITE,"Public Service Commission, District 5",5,L,DAVID STAPLES,36,1,21,14,0
+Jones,SANDERS,"Public Service Commission, District 5",5,L,DAVID STAPLES,23,1,20,2,0
+Jones,FINNEY,"Public Service Commission, District 5",5,L,DAVID STAPLES,277,17,168,92,0
+Jones,,U.S. Representative,8,R,AUSTIN SCOTT (I),9333,564,4404,4361,4
+Jones,GRAY,U.S. Representative,8,R,AUSTIN SCOTT (I),1370,63,484,822,1
+Jones,HAWKINS,U.S. Representative,8,R,AUSTIN SCOTT (I),1175,79,476,619,1
+Jones,ETHRIDGE,U.S. Representative,8,R,AUSTIN SCOTT (I),826,70,311,445,0
+Jones,CLINTON,U.S. Representative,8,R,AUSTIN SCOTT (I),1178,85,461,632,0
+Jones,ROBERTS,U.S. Representative,8,R,AUSTIN SCOTT (I),1142,80,616,445,1
+Jones,DAVIDSON,U.S. Representative,8,R,AUSTIN SCOTT (I),708,21,390,297,0
+Jones,POPE,U.S. Representative,8,R,AUSTIN SCOTT (I),819,46,434,339,0
+Jones,BARRON,U.S. Representative,8,R,AUSTIN SCOTT (I),468,32,222,214,0
+Jones,WHITE,U.S. Representative,8,R,AUSTIN SCOTT (I),206,11,146,49,0
+Jones,SANDERS,U.S. Representative,8,R,AUSTIN SCOTT (I),91,1,75,15,0
+Jones,FINNEY,U.S. Representative,8,R,AUSTIN SCOTT (I),1350,76,789,484,1
+Jones,,State Senator,25,R,BURT JONES,3474,209,1784,1480,1
+Jones,CLINTON,State Senator,25,R,BURT JONES,1010,71,406,533,0
+Jones,POPE,State Senator,25,R,BURT JONES,625,31,313,281,0
+Jones,BARRON,State Senator,25,R,BURT JONES,375,29,177,169,0
+Jones,WHITE,State Senator,25,R,BURT JONES,191,9,143,39,0
+Jones,SANDERS,State Senator,25,R,BURT JONES,87,1,74,12,0
+Jones,FINNEY,State Senator,25,R,BURT JONES,1186,68,671,446,1
+Jones,,State Senator,25,D,DARRELL BLACK,1458,98,688,672,0
+Jones,CLINTON,State Senator,25,D,DARRELL BLACK,325,26,99,200,0
+Jones,POPE,State Senator,25,D,DARRELL BLACK,464,29,248,187,0
+Jones,BARRON,State Senator,25,D,DARRELL BLACK,204,11,80,113,0
+Jones,WHITE,State Senator,25,D,DARRELL BLACK,55,5,22,28,0
+Jones,SANDERS,State Senator,25,D,DARRELL BLACK,26,1,21,4,0
+Jones,FINNEY,State Senator,25,D,DARRELL BLACK,384,26,218,140,0
+Jones,,State Senator,26,R,BOBBY GALE,4137,255,1761,2118,3
+Jones,GRAY,State Senator,26,R,BOBBY GALE,1180,53,405,721,1
+Jones,HAWKINS,State Senator,26,R,BOBBY GALE,672,50,264,357,1
+Jones,ETHRIDGE,State Senator,26,R,BOBBY GALE,682,54,255,373,0
+Jones,CLINTON,State Senator,26,R,BOBBY GALE,30,3,4,23,0
+Jones,ROBERTS,State Senator,26,R,BOBBY GALE,907,77,475,354,1
+Jones,DAVIDSON,State Senator,26,R,BOBBY GALE,666,18,358,290,0
+Jones,,State Senator,26,D,DAVID E. LUCAS SR,2595,172,1009,1414,0
+Jones,GRAY,State Senator,26,D,DAVID E. LUCAS SR,393,18,133,242,0
+Jones,HAWKINS,State Senator,26,D,DAVID E. LUCAS SR,1140,70,413,657,0
+Jones,ETHRIDGE,State Senator,26,D,DAVID E. LUCAS SR,391,44,133,214,0
+Jones,CLINTON,State Senator,26,D,DAVID E. LUCAS SR,9,0,2,7,0
+Jones,ROBERTS,State Senator,26,D,DAVID E. LUCAS SR,500,20,249,231,0
+Jones,DAVIDSON,State Senator,26,D,DAVID E. LUCAS SR,162,20,79,63,0
+Jones,,State Representative,129,R,SUSAN HOLMES (I),7175,459,3226,3487,3
+Jones,GRAY,State Representative,129,R,SUSAN HOLMES (I),1360,63,483,813,1
+Jones,HAWKINS,State Representative,129,R,SUSAN HOLMES (I),1176,83,474,618,1
+Jones,ETHRIDGE,State Representative,129,R,SUSAN HOLMES (I),838,70,317,451,0
+Jones,CLINTON,State Representative,129,R,SUSAN HOLMES (I),1179,83,460,636,0
+Jones,POPE,State Representative,129,R,SUSAN HOLMES (I),517,39,266,212,0
+Jones,BARRON,State Representative,129,R,SUSAN HOLMES (I),457,32,213,212,0
+Jones,WHITE,State Representative,129,R,SUSAN HOLMES (I),203,10,144,49,0
+Jones,SANDERS,State Representative,129,R,SUSAN HOLMES (I),88,1,74,13,0
+Jones,FINNEY,State Representative,129,R,SUSAN HOLMES (I),1357,78,795,483,1
+Jones,,State Representative,144,R,J. EPPS (I),1829,101,983,744,1
+Jones,ROBERTS,State Representative,144,R,J. EPPS (I),915,71,491,352,1
+Jones,DAVIDSON,State Representative,144,R,J. EPPS (I),673,21,363,289,0
+Jones,POPE,State Representative,144,R,J. EPPS (I),241,9,129,103,0
+Jones,,State Representative,144,D,M.A. WHIPPLE-LUE,804,49,390,365,0
+Jones,ROBERTS,State Representative,144,D,M.A. WHIPPLE-LUE,474,23,226,225,0
+Jones,DAVIDSON,State Representative,144,D,M.A. WHIPPLE-LUE,165,17,83,65,0
+Jones,POPE,State Representative,144,D,M.A. WHIPPLE-LUE,165,9,81,75,0
+Jones,,District Attorney, Ocmulgee Circuit,D,FRED BRIGHT (I),9557,592,4348,4617,0
+Jones,GRAY,District Attorney, Ocmulgee Circuit,D,FRED BRIGHT (I),1262,56,447,759,0
+Jones,HAWKINS,District Attorney, Ocmulgee Circuit,D,FRED BRIGHT (I),1564,100,583,881,0
+Jones,ETHRIDGE,District Attorney, Ocmulgee Circuit,D,FRED BRIGHT (I),896,87,331,478,0
+Jones,CLINTON,District Attorney, Ocmulgee Circuit,D,FRED BRIGHT (I),1110,82,417,611,0
+Jones,ROBERTS,District Attorney, Ocmulgee Circuit,D,FRED BRIGHT (I),1169,73,616,480,0
+Jones,DAVIDSON,District Attorney, Ocmulgee Circuit,D,FRED BRIGHT (I),658,31,362,265,0
+Jones,POPE,District Attorney, Ocmulgee Circuit,D,FRED BRIGHT (I),915,56,478,381,0
+Jones,BARRON,District Attorney, Ocmulgee Circuit,D,FRED BRIGHT (I),476,27,203,246,0
+Jones,WHITE,District Attorney, Ocmulgee Circuit,D,FRED BRIGHT (I),196,11,131,54,0
+Jones,SANDERS,District Attorney, Ocmulgee Circuit,D,FRED BRIGHT (I),85,1,74,10,0
+Jones,FINNEY,District Attorney, Ocmulgee Circuit,D,FRED BRIGHT (I),1226,68,706,452,0
+Jones,,CLERK SUPERIOR COURT,,R,BART W. JACKSON (I),9622,594,4493,4531,4
+Jones,GRAY,CLERK SUPERIOR COURT,,R,BART W. JACKSON (I),1400,61,505,833,1
+Jones,HAWKINS,CLERK SUPERIOR COURT,,R,BART W. JACKSON (I),1235,83,485,666,1
+Jones,ETHRIDGE,CLERK SUPERIOR COURT,,R,BART W. JACKSON (I),883,76,326,481,0
+Jones,CLINTON,CLERK SUPERIOR COURT,,R,BART W. JACKSON (I),1202,87,471,644,0
+Jones,ROBERTS,CLERK SUPERIOR COURT,,R,BART W. JACKSON (I),1161,86,623,451,1
+Jones,DAVIDSON,CLERK SUPERIOR COURT,,R,BART W. JACKSON (I),722,26,392,304,0
+Jones,POPE,CLERK SUPERIOR COURT,,R,BART W. JACKSON (I),856,47,446,363,0
+Jones,BARRON,CLERK SUPERIOR COURT,,R,BART W. JACKSON (I),480,33,221,226,0
+Jones,WHITE,CLERK SUPERIOR COURT,,R,BART W. JACKSON (I),218,13,151,54,0
+Jones,SANDERS,CLERK SUPERIOR COURT,,R,BART W. JACKSON (I),89,1,72,16,0
+Jones,FINNEY,CLERK SUPERIOR COURT,,R,BART W. JACKSON (I),1376,81,801,493,1
+Jones,,SHERIFF,,R,ROBERT REECE (I),9939,617,4605,4714,3
+Jones,GRAY,SHERIFF,,R,ROBERT REECE (I),1418,61,512,844,1
+Jones,HAWKINS,SHERIFF,,R,ROBERT REECE (I),1369,92,534,743,0
+Jones,ETHRIDGE,SHERIFF,,R,ROBERT REECE (I),904,77,333,494,0
+Jones,CLINTON,SHERIFF,,R,ROBERT REECE (I),1221,90,464,667,0
+Jones,ROBERTS,SHERIFF,,R,ROBERT REECE (I),1199,91,636,471,1
+Jones,DAVIDSON,SHERIFF,,R,ROBERT REECE (I),740,31,399,310,0
+Jones,POPE,SHERIFF,,R,ROBERT REECE (I),899,47,469,383,0
+Jones,BARRON,SHERIFF,,R,ROBERT REECE (I),502,35,228,239,0
+Jones,WHITE,SHERIFF,,R,ROBERT REECE (I),216,12,147,57,0
+Jones,SANDERS,SHERIFF,,R,ROBERT REECE (I),97,1,80,16,0
+Jones,FINNEY,SHERIFF,,R,ROBERT REECE (I),1374,80,803,490,1
+Jones,,TAX COMMISSIONER,,R,BRIAN JACKSON (I),9788,609,4565,4610,4
+Jones,GRAY,TAX COMMISSIONER,,R,BRIAN JACKSON (I),1410,61,506,842,1
+Jones,HAWKINS,TAX COMMISSIONER,,R,BRIAN JACKSON (I),1282,88,499,694,1
+Jones,ETHRIDGE,TAX COMMISSIONER,,R,BRIAN JACKSON (I),885,77,328,480,0
+Jones,CLINTON,TAX COMMISSIONER,,R,BRIAN JACKSON (I),1206,88,467,651,0
+Jones,ROBERTS,TAX COMMISSIONER,,R,BRIAN JACKSON (I),1205,88,650,466,1
+Jones,DAVIDSON,TAX COMMISSIONER,,R,BRIAN JACKSON (I),735,28,401,306,0
+Jones,POPE,TAX COMMISSIONER,,R,BRIAN JACKSON (I),879,49,457,373,0
+Jones,BARRON,TAX COMMISSIONER,,R,BRIAN JACKSON (I),485,32,224,229,0
+Jones,WHITE,TAX COMMISSIONER,,R,BRIAN JACKSON (I),219,13,150,56,0
+Jones,SANDERS,TAX COMMISSIONER,,R,BRIAN JACKSON (I),90,1,73,16,0
+Jones,FINNEY,TAX COMMISSIONER,,R,BRIAN JACKSON (I),1392,84,810,497,1
+Jones,,CORONER,,R,J. BRIDGES SR (I),9474,577,4472,4421,4
+Jones,GRAY,CORONER,,R,J. BRIDGES SR (I),1358,60,496,801,1
+Jones,HAWKINS,CORONER,,R,J. BRIDGES SR (I),1258,86,496,675,1
+Jones,ETHRIDGE,CORONER,,R,J. BRIDGES SR (I),870,78,332,460,0
+Jones,CLINTON,CORONER,,R,J. BRIDGES SR (I),1176,83,462,631,0
+Jones,ROBERTS,CORONER,,R,J. BRIDGES SR (I),1152,79,622,450,1
+Jones,DAVIDSON,CORONER,,R,J. BRIDGES SR (I),708,24,394,290,0
+Jones,POPE,CORONER,,R,J. BRIDGES SR (I),840,47,442,351,0
+Jones,BARRON,CORONER,,R,J. BRIDGES SR (I),469,30,220,219,0
+Jones,WHITE,CORONER,,R,J. BRIDGES SR (I),190,9,136,45,0
+Jones,SANDERS,CORONER,,R,J. BRIDGES SR (I),86,1,70,15,0
+Jones,FINNEY,CORONER,,R,J. BRIDGES SR (I),1367,80,802,484,1
+Jones,,CHAIR COUNTY COMMISSION,,R,J.P. HAWKINS (I),6492,414,3033,3041,4
+Jones,GRAY,CHAIR COUNTY COMMISSION,,R,J.P. HAWKINS (I),975,42,340,592,1
+Jones,HAWKINS,CHAIR COUNTY COMMISSION,,R,J.P. HAWKINS (I),547,33,198,315,1
+Jones,ETHRIDGE,CHAIR COUNTY COMMISSION,,R,J.P. HAWKINS (I),600,61,215,324,0
+Jones,CLINTON,CHAIR COUNTY COMMISSION,,R,J.P. HAWKINS (I),888,65,350,473,0
+Jones,ROBERTS,CHAIR COUNTY COMMISSION,,R,J.P. HAWKINS (I),725,71,391,262,1
+Jones,DAVIDSON,CHAIR COUNTY COMMISSION,,R,J.P. HAWKINS (I),565,17,304,244,0
+Jones,POPE,CHAIR COUNTY COMMISSION,,R,J.P. HAWKINS (I),580,25,302,253,0
+Jones,BARRON,CHAIR COUNTY COMMISSION,,R,J.P. HAWKINS (I),317,26,149,142,0
+Jones,WHITE,CHAIR COUNTY COMMISSION,,R,J.P. HAWKINS (I),150,7,110,33,0
+Jones,SANDERS,CHAIR COUNTY COMMISSION,,R,J.P. HAWKINS (I),74,1,62,11,0
+Jones,FINNEY,CHAIR COUNTY COMMISSION,,R,J.P. HAWKINS (I),1071,66,612,392,1
+Jones,,CHAIR COUNTY COMMISSION,,D,C. BAKER,5063,307,2176,2580,0
+Jones,GRAY,CHAIR COUNTY COMMISSION,,D,C. BAKER,596,29,204,363,0
+Jones,HAWKINS,CHAIR COUNTY COMMISSION,,D,C. BAKER,1234,83,467,684,0
+Jones,ETHRIDGE,CHAIR COUNTY COMMISSION,,D,C. BAKER,471,38,170,263,0
+Jones,CLINTON,CHAIR COUNTY COMMISSION,,D,C. BAKER,504,35,173,296,0
+Jones,ROBERTS,CHAIR COUNTY COMMISSION,,D,C. BAKER,652,23,318,311,0
+Jones,DAVIDSON,CHAIR COUNTY COMMISSION,,D,C. BAKER,271,21,141,109,0
+Jones,POPE,CHAIR COUNTY COMMISSION,,D,C. BAKER,483,33,247,203,0
+Jones,BARRON,CHAIR COUNTY COMMISSION,,D,C. BAKER,247,11,102,134,0
+Jones,WHITE,CHAIR COUNTY COMMISSION,,D,C. BAKER,87,6,51,30,0
+Jones,SANDERS,CHAIR COUNTY COMMISSION,,D,C. BAKER,38,1,33,4,0
+Jones,FINNEY,CHAIR COUNTY COMMISSION,,D,C. BAKER,480,27,270,183,0
+Jones,,CC D1,,R,LARRY CHILDS (I),2971,195,1514,1261,1
+Jones,GRAY,CC D1,,R,LARRY CHILDS (I),89,3,35,51,0
+Jones,ETHRIDGE,CC D1,,R,LARRY CHILDS (I),211,17,71,123,0
+Jones,CLINTON,CC D1,,R,LARRY CHILDS (I),905,69,370,466,0
+Jones,BARRON,CC D1,,R,LARRY CHILDS (I),240,21,113,106,0
+Jones,WHITE,CC D1,,R,LARRY CHILDS (I),80,3,57,20,0
+Jones,SANDERS,CC D1,,R,LARRY CHILDS (I),86,1,70,15,0
+Jones,FINNEY,CC D1,,R,LARRY CHILDS (I),1360,81,798,480,1
+Jones,,CC D2,,D,JONATHAN L. PITTS,2422,166,1089,1167,0
+Jones,GRAY,CC D2,,D,JONATHAN L. PITTS,235,11,94,130,0
+Jones,ETHRIDGE,CC D2,,D,JONATHAN L. PITTS,519,58,195,266,0
+Jones,CLINTON,CC D2,,D,JONATHAN L. PITTS,302,21,95,186,0
+Jones,DAVIDSON,CC D2,,D,JONATHAN L. PITTS,68,4,35,29,0
+Jones,POPE,CC D2,,D,JONATHAN L. PITTS,923,52,486,385,0
+Jones,BARRON,CC D2,,D,JONATHAN L. PITTS,263,13,109,141,0
+Jones,WHITE,CC D2,,D,JONATHAN L. PITTS,112,7,75,30,0
+Jones,,CC D3,,R,TOMMY ROBINSON (I),2480,124,1030,1325,1
+Jones,GRAY,CC D3,,R,TOMMY ROBINSON (I),1011,45,353,612,1
+Jones,HAWKINS,CC D3,,R,TOMMY ROBINSON (I),534,37,211,286,0
+Jones,ETHRIDGE,CC D3,,R,TOMMY ROBINSON (I),222,15,85,122,0
+Jones,ROBERTS,CC D3,,R,TOMMY ROBINSON (I),162,9,78,75,0
+Jones,DAVIDSON,CC D3,,R,TOMMY ROBINSON (I),537,17,299,221,0
+Jones,POPE,CC D3,,R,TOMMY ROBINSON (I),14,1,4,9,0
+Jones,,CC D4,,R,BERT LISTON (I),1146,82,588,474,2
+Jones,HAWKINS,CC D4,,R,BERT LISTON (I),249,14,103,131,1
+Jones,ROBERTS,CC D4,,R,BERT LISTON (I),809,66,440,302,1
+Jones,DAVIDSON,CC D4,,R,BERT LISTON (I),88,2,45,41,0
+Jones,,CC D4,,D,DAYLON MARTIN,1303,94,507,702,0
+Jones,HAWKINS,CC D4,,D,DAYLON MARTIN,883,67,309,507,0
+Jones,ROBERTS,CC D4,,D,DAYLON MARTIN,395,21,193,181,0
+Jones,DAVIDSON,CC D4,,D,DAYLON MARTIN,25,6,5,14,0
+Jones,,SOIL AND WATER,,,THOMAS R. YARBROUGH,9035,551,4235,4246,3
+Jones,GRAY,SOIL AND WATER,,,THOMAS R. YARBROUGH,1253,55,451,746,1
+Jones,HAWKINS,SOIL AND WATER,,,THOMAS R. YARBROUGH,1281,78,503,699,1
+Jones,ETHRIDGE,SOIL AND WATER,,,THOMAS R. YARBROUGH,795,77,296,422,0
+Jones,CLINTON,SOIL AND WATER,,,THOMAS R. YARBROUGH,1104,83,436,585,0
+Jones,ROBERTS,SOIL AND WATER,,,THOMAS R. YARBROUGH,1145,77,610,458,0
+Jones,DAVIDSON,SOIL AND WATER,,,THOMAS R. YARBROUGH,677,26,367,284,0
+Jones,POPE,SOIL AND WATER,,,THOMAS R. YARBROUGH,820,48,438,334,0
+Jones,BARRON,SOIL AND WATER,,,THOMAS R. YARBROUGH,438,24,201,213,0
+Jones,WHITE,SOIL AND WATER,,,THOMAS R. YARBROUGH,182,6,127,49,0
+Jones,SANDERS,SOIL AND WATER,,,THOMAS R. YARBROUGH,79,1,68,10,0
+Jones,FINNEY,SOIL AND WATER,,,THOMAS R. YARBROUGH,1261,76,738,446,1
+Jones,,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,5729,375,2610,2741,3
+Jones,GRAY,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,726,41,264,420,1
+Jones,HAWKINS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,961,61,378,521,1
+Jones,ETHRIDGE,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,476,51,167,258,0
+Jones,CLINTON,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,639,49,242,348,0
+Jones,ROBERTS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,749,53,365,331,0
+Jones,DAVIDSON,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,391,18,207,166,0
+Jones,POPE,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,507,30,269,208,0
+Jones,BARRON,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,258,14,118,126,0
+Jones,WHITE,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,103,4,71,28,0
+Jones,SANDERS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,59,2,47,10,0
+Jones,FINNEY,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,860,52,482,325,1
+Jones,,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,5819,318,2637,2863,1
+Jones,GRAY,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,850,29,280,541,0
+Jones,HAWKINS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,824,47,296,481,0
+Jones,ETHRIDGE,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,589,43,222,324,0
+Jones,CLINTON,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,735,46,279,410,0
+Jones,ROBERTS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,621,39,346,235,1
+Jones,DAVIDSON,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,425,18,231,176,0
+Jones,POPE,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,563,27,292,244,0
+Jones,BARRON,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,314,21,140,153,0
+Jones,WHITE,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,142,10,92,40,0
+Jones,SANDERS,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,55,0,50,5,0
+Jones,FINNEY,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,701,38,409,254,0
+Jones,,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,6813,391,3081,3338,3
+Jones,GRAY,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,936,41,329,565,1
+Jones,HAWKINS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1003,60,388,554,1
+Jones,ETHRIDGE,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,641,52,230,359,0
+Jones,CLINTON,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,812,55,302,455,0
+Jones,ROBERTS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,815,52,425,338,0
+Jones,DAVIDSON,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,479,20,249,210,0
+Jones,POPE,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,607,30,315,262,0
+Jones,BARRON,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,313,18,136,159,0
+Jones,WHITE,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,135,5,90,40,0
+Jones,SANDERS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,58,1,48,9,0
+Jones,FINNEY,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,1014,57,569,387,1
+Jones,,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,4251,287,1940,2024,0
+Jones,GRAY,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,574,26,194,354,0
+Jones,HAWKINS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,715,46,271,398,0
+Jones,ETHRIDGE,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,389,42,144,203,0
+Jones,CLINTON,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,487,38,180,269,0
+Jones,ROBERTS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,501,36,263,202,0
+Jones,DAVIDSON,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,303,14,167,122,0
+Jones,POPE,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,416,27,218,171,0
+Jones,BARRON,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,225,16,108,101,0
+Jones,WHITE,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,99,9,64,26,0
+Jones,SANDERS,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,49,1,42,6,0
+Jones,FINNEY,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,493,32,289,172,0

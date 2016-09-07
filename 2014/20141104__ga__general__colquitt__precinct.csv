@@ -1,0 +1,760 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Colquitt,,United States Senator,,R,DAVID A. PERDUE,5800,117,3995,1684,4
+Colquitt,Shaw,United States Senator,,R,DAVID A. PERDUE,180,2,82,96,0
+Colquitt,Moultrie,United States Senator,,R,DAVID A. PERDUE,964,19,514,431,0
+Colquitt,Autreyville,United States Senator,,R,DAVID A. PERDUE,335,4,225,106,0
+Colquitt,Bridgecreek,United States Senator,,R,DAVID A. PERDUE,390,10,248,130,2
+Colquitt,Crosland,United States Senator,,R,DAVID A. PERDUE,64,0,60,4,0
+Colquitt,Doerun,United States Senator,,R,DAVID A. PERDUE,172,1,151,20,0
+Colquitt,Funston,United States Senator,,R,DAVID A. PERDUE,356,8,262,86,0
+Colquitt,Hamilton,United States Senator,,R,DAVID A. PERDUE,196,5,164,27,0
+Colquitt,Hartsfield,United States Senator,,R,DAVID A. PERDUE,167,2,142,23,0
+Colquitt,Hopewell,United States Senator,,R,DAVID A. PERDUE,478,8,308,162,0
+Colquitt,Lee,United States Senator,,R,DAVID A. PERDUE,280,7,201,72,0
+Colquitt,Millcreek,United States Senator,,R,DAVID A. PERDUE,150,3,105,42,0
+Colquitt,Monk,United States Senator,,R,DAVID A. PERDUE,391,14,274,103,0
+Colquitt,Murphy,United States Senator,,R,DAVID A. PERDUE,348,5,223,120,0
+Colquitt,Norman Park,United States Senator,,R,DAVID A. PERDUE,540,12,373,154,1
+Colquitt,Robinson,United States Senator,,R,DAVID A. PERDUE,259,4,208,46,1
+Colquitt,Thigpen,United States Senator,,R,DAVID A. PERDUE,77,1,70,6,0
+Colquitt,Tyty,United States Senator,,R,DAVID A. PERDUE,147,4,135,8,0
+Colquitt,Warrior,United States Senator,,R,DAVID A. PERDUE,306,8,250,48,0
+Colquitt,,United States Senator,,D,M. MICHELLE NUNN,2082,49,1329,704,0
+Colquitt,Shaw,United States Senator,,D,M. MICHELLE NUNN,633,19,417,197,0
+Colquitt,Moultrie,United States Senator,,D,M. MICHELLE NUNN,540,13,310,217,0
+Colquitt,Autreyville,United States Senator,,D,M. MICHELLE NUNN,75,0,38,37,0
+Colquitt,Bridgecreek,United States Senator,,D,M. MICHELLE NUNN,66,3,43,20,0
+Colquitt,Crosland,United States Senator,,D,M. MICHELLE NUNN,21,0,17,4,0
+Colquitt,Doerun,United States Senator,,D,M. MICHELLE NUNN,99,2,88,9,0
+Colquitt,Funston,United States Senator,,D,M. MICHELLE NUNN,49,0,36,13,0
+Colquitt,Hamilton,United States Senator,,D,M. MICHELLE NUNN,47,1,40,6,0
+Colquitt,Hartsfield,United States Senator,,D,M. MICHELLE NUNN,9,0,5,4,0
+Colquitt,Hopewell,United States Senator,,D,M. MICHELLE NUNN,99,4,54,41,0
+Colquitt,Lee,United States Senator,,D,M. MICHELLE NUNN,37,0,22,15,0
+Colquitt,Millcreek,United States Senator,,D,M. MICHELLE NUNN,17,0,12,5,0
+Colquitt,Monk,United States Senator,,D,M. MICHELLE NUNN,93,3,58,32,0
+Colquitt,Murphy,United States Senator,,D,M. MICHELLE NUNN,44,2,20,22,0
+Colquitt,Norman Park,United States Senator,,D,M. MICHELLE NUNN,146,2,84,60,0
+Colquitt,Robinson,United States Senator,,D,M. MICHELLE NUNN,46,0,32,14,0
+Colquitt,Thigpen,United States Senator,,D,M. MICHELLE NUNN,15,0,13,2,0
+Colquitt,Tyty,United States Senator,,D,M. MICHELLE NUNN,5,0,3,2,0
+Colquitt,Warrior,United States Senator,,D,M. MICHELLE NUNN,41,0,37,4,0
+Colquitt,,United States Senator,,L,AMANDA C. SWAFFORD,161,5,113,43,0
+Colquitt,Shaw,United States Senator,,L,AMANDA C. SWAFFORD,11,0,5,6,0
+Colquitt,Moultrie,United States Senator,,L,AMANDA C. SWAFFORD,32,0,24,8,0
+Colquitt,Autreyville,United States Senator,,L,AMANDA C. SWAFFORD,12,0,7,5,0
+Colquitt,Bridgecreek,United States Senator,,L,AMANDA C. SWAFFORD,14,0,9,5,0
+Colquitt,Crosland,United States Senator,,L,AMANDA C. SWAFFORD,2,0,2,0,0
+Colquitt,Doerun,United States Senator,,L,AMANDA C. SWAFFORD,2,0,1,1,0
+Colquitt,Funston,United States Senator,,L,AMANDA C. SWAFFORD,8,0,7,1,0
+Colquitt,Hamilton,United States Senator,,L,AMANDA C. SWAFFORD,6,0,5,1,0
+Colquitt,Hartsfield,United States Senator,,L,AMANDA C. SWAFFORD,3,1,0,2,0
+Colquitt,Hopewell,United States Senator,,L,AMANDA C. SWAFFORD,5,0,5,0,0
+Colquitt,Lee,United States Senator,,L,AMANDA C. SWAFFORD,4,0,2,2,0
+Colquitt,Millcreek,United States Senator,,L,AMANDA C. SWAFFORD,11,1,10,0,0
+Colquitt,Monk,United States Senator,,L,AMANDA C. SWAFFORD,4,1,3,0,0
+Colquitt,Murphy,United States Senator,,L,AMANDA C. SWAFFORD,4,0,1,3,0
+Colquitt,Norman Park,United States Senator,,L,AMANDA C. SWAFFORD,17,1,10,6,0
+Colquitt,Robinson,United States Senator,,L,AMANDA C. SWAFFORD,9,0,9,0,0
+Colquitt,Thigpen,United States Senator,,L,AMANDA C. SWAFFORD,3,0,3,0,0
+Colquitt,Tyty,United States Senator,,L,AMANDA C. SWAFFORD,4,0,4,0,0
+Colquitt,Warrior,United States Senator,,L,AMANDA C. SWAFFORD,10,1,6,3,0
+Colquitt,,Governor,,R,J. NATHAN DEAL (I),5577,117,3828,1628,4
+Colquitt,Shaw,Governor,,R,J. NATHAN DEAL (I),181,2,86,93,0
+Colquitt,Moultrie,Governor,,R,J. NATHAN DEAL (I),956,18,512,426,0
+Colquitt,Autreyville,Governor,,R,J. NATHAN DEAL (I),321,3,209,109,0
+Colquitt,Bridgecreek,Governor,,R,J. NATHAN DEAL (I),375,9,245,119,2
+Colquitt,Crosland,Governor,,R,J. NATHAN DEAL (I),55,0,52,3,0
+Colquitt,Doerun,Governor,,R,J. NATHAN DEAL (I),169,1,147,21,0
+Colquitt,Funston,Governor,,R,J. NATHAN DEAL (I),336,9,246,81,0
+Colquitt,Hamilton,Governor,,R,J. NATHAN DEAL (I),186,5,155,26,0
+Colquitt,Hartsfield,Governor,,R,J. NATHAN DEAL (I),162,3,136,23,0
+Colquitt,Hopewell,Governor,,R,J. NATHAN DEAL (I),454,8,288,158,0
+Colquitt,Lee,Governor,,R,J. NATHAN DEAL (I),266,7,188,71,0
+Colquitt,Millcreek,Governor,,R,J. NATHAN DEAL (I),141,3,98,40,0
+Colquitt,Monk,Governor,,R,J. NATHAN DEAL (I),375,15,263,97,0
+Colquitt,Murphy,Governor,,R,J. NATHAN DEAL (I),324,5,207,112,0
+Colquitt,Norman Park,Governor,,R,J. NATHAN DEAL (I),522,12,362,147,1
+Colquitt,Robinson,Governor,,R,J. NATHAN DEAL (I),245,4,198,42,1
+Colquitt,Thigpen,Governor,,R,J. NATHAN DEAL (I),70,1,64,5,0
+Colquitt,Tyty,Governor,,R,J. NATHAN DEAL (I),145,4,133,8,0
+Colquitt,Warrior,Governor,,R,J. NATHAN DEAL (I),294,8,239,47,0
+Colquitt,,Governor,,D,JASON J. CARTER,2117,50,1369,698,0
+Colquitt,Shaw,Governor,,D,JASON J. CARTER,609,19,394,196,0
+Colquitt,Moultrie,Governor,,D,JASON J. CARTER,519,13,299,207,0
+Colquitt,Autreyville,Governor,,D,JASON J. CARTER,79,1,42,36,0
+Colquitt,Bridgecreek,Governor,,D,JASON J. CARTER,70,4,40,26,0
+Colquitt,Crosland,Governor,,D,JASON J. CARTER,25,0,21,4,0
+Colquitt,Doerun,Governor,,D,JASON J. CARTER,100,2,91,7,0
+Colquitt,Funston,Governor,,D,JASON J. CARTER,64,0,49,15,0
+Colquitt,Hamilton,Governor,,D,JASON J. CARTER,53,1,46,6,0
+Colquitt,Hartsfield,Governor,,D,JASON J. CARTER,15,0,10,5,0
+Colquitt,Hopewell,Governor,,D,JASON J. CARTER,102,4,61,37,0
+Colquitt,Lee,Governor,,D,JASON J. CARTER,43,0,27,16,0
+Colquitt,Millcreek,Governor,,D,JASON J. CARTER,27,0,19,8,0
+Colquitt,Monk,Governor,,D,JASON J. CARTER,94,2,61,31,0
+Colquitt,Murphy,Governor,,D,JASON J. CARTER,48,2,21,25,0
+Colquitt,Norman Park,Governor,,D,JASON J. CARTER,142,2,85,55,0
+Colquitt,Robinson,Governor,,D,JASON J. CARTER,52,0,38,14,0
+Colquitt,Thigpen,Governor,,D,JASON J. CARTER,18,0,15,3,0
+Colquitt,Tyty,Governor,,D,JASON J. CARTER,6,0,4,2,0
+Colquitt,Warrior,Governor,,D,JASON J. CARTER,51,0,46,5,0
+Colquitt,,Governor,,L,ANDREW T. HUNT,210,5,152,53,0
+Colquitt,Shaw,Governor,,L,ANDREW T. HUNT,19,0,13,6,0
+Colquitt,Moultrie,Governor,,L,ANDREW T. HUNT,35,1,23,11,0
+Colquitt,Autreyville,Governor,,L,ANDREW T. HUNT,12,0,7,5,0
+Colquitt,Bridgecreek,Governor,,L,ANDREW T. HUNT,14,0,11,3,0
+Colquitt,Crosland,Governor,,L,ANDREW T. HUNT,2,0,2,0,0
+Colquitt,Doerun,Governor,,L,ANDREW T. HUNT,3,0,3,0,0
+Colquitt,Funston,Governor,,L,ANDREW T. HUNT,10,0,8,2,0
+Colquitt,Hamilton,Governor,,L,ANDREW T. HUNT,6,0,5,1,0
+Colquitt,Hartsfield,Governor,,L,ANDREW T. HUNT,2,0,1,1,0
+Colquitt,Hopewell,Governor,,L,ANDREW T. HUNT,12,0,9,3,0
+Colquitt,Lee,Governor,,L,ANDREW T. HUNT,8,0,5,3,0
+Colquitt,Millcreek,Governor,,L,ANDREW T. HUNT,13,1,12,0,0
+Colquitt,Monk,Governor,,L,ANDREW T. HUNT,10,1,7,2,0
+Colquitt,Murphy,Governor,,L,ANDREW T. HUNT,10,0,7,3,0
+Colquitt,Norman Park,Governor,,L,ANDREW T. HUNT,22,1,13,8,0
+Colquitt,Robinson,Governor,,L,ANDREW T. HUNT,8,0,7,1,0
+Colquitt,Thigpen,Governor,,L,ANDREW T. HUNT,4,0,4,0,0
+Colquitt,Tyty,Governor,,L,ANDREW T. HUNT,8,0,8,0,0
+Colquitt,Warrior,Governor,,L,ANDREW T. HUNT,12,1,7,4,0
+Colquitt,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",6034,127,4151,1752,4
+Colquitt,Shaw,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",212,2,97,113,0
+Colquitt,Moultrie,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1029,23,556,450,0
+Colquitt,Autreyville,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",358,3,234,121,0
+Colquitt,Bridgecreek,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",409,10,268,129,2
+Colquitt,Crosland,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",62,0,58,4,0
+Colquitt,Doerun,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",175,1,151,23,0
+Colquitt,Funston,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",371,9,275,87,0
+Colquitt,Hamilton,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",207,5,176,26,0
+Colquitt,Hartsfield,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",171,3,142,26,0
+Colquitt,Hopewell,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",498,9,320,169,0
+Colquitt,Lee,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",274,7,199,68,0
+Colquitt,Millcreek,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",157,3,112,42,0
+Colquitt,Monk,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",401,16,280,105,0
+Colquitt,Murphy,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",357,6,228,123,0
+Colquitt,Norman Park,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",554,13,384,156,1
+Colquitt,Robinson,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",261,4,209,47,1
+Colquitt,Thigpen,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",78,1,72,5,0
+Colquitt,Tyty,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",149,4,137,8,0
+Colquitt,Warrior,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",311,8,253,50,0
+Colquitt,,Lieutenant Governor,,D,CONNIE J. STOKES,1843,44,1174,625,0
+Colquitt,Shaw,Lieutenant Governor,,D,CONNIE J. STOKES,601,19,400,182,0
+Colquitt,Moultrie,Lieutenant Governor,,D,CONNIE J. STOKES,473,8,275,190,0
+Colquitt,Autreyville,Lieutenant Governor,,D,CONNIE J. STOKES,59,1,29,29,0
+Colquitt,Bridgecreek,Lieutenant Governor,,D,CONNIE J. STOKES,51,3,26,22,0
+Colquitt,Crosland,Lieutenant Governor,,D,CONNIE J. STOKES,20,0,16,4,0
+Colquitt,Doerun,Lieutenant Governor,,D,CONNIE J. STOKES,89,2,80,7,0
+Colquitt,Funston,Lieutenant Governor,,D,CONNIE J. STOKES,37,0,25,12,0
+Colquitt,Hamilton,Lieutenant Governor,,D,CONNIE J. STOKES,43,1,34,8,0
+Colquitt,Hartsfield,Lieutenant Governor,,D,CONNIE J. STOKES,6,0,3,3,0
+Colquitt,Hopewell,Lieutenant Governor,,D,CONNIE J. STOKES,72,3,40,29,0
+Colquitt,Lee,Lieutenant Governor,,D,CONNIE J. STOKES,36,0,21,15,0
+Colquitt,Millcreek,Lieutenant Governor,,D,CONNIE J. STOKES,19,1,12,6,0
+Colquitt,Monk,Lieutenant Governor,,D,CONNIE J. STOKES,75,2,48,25,0
+Colquitt,Murphy,Lieutenant Governor,,D,CONNIE J. STOKES,34,1,13,20,0
+Colquitt,Norman Park,Lieutenant Governor,,D,CONNIE J. STOKES,125,2,71,52,0
+Colquitt,Robinson,Lieutenant Governor,,D,CONNIE J. STOKES,46,0,34,12,0
+Colquitt,Thigpen,Lieutenant Governor,,D,CONNIE J. STOKES,13,0,11,2,0
+Colquitt,Tyty,Lieutenant Governor,,D,CONNIE J. STOKES,8,0,6,2,0
+Colquitt,Warrior,Lieutenant Governor,,D,CONNIE J. STOKES,36,1,30,5,0
+Colquitt,,Secretary Of State,,R,BRIAN P. KEMP (I),6004,126,4111,1763,4
+Colquitt,Shaw,Secretary Of State,,R,BRIAN P. KEMP (I),199,2,92,105,0
+Colquitt,Moultrie,Secretary Of State,,R,BRIAN P. KEMP (I),1037,23,551,463,0
+Colquitt,Autreyville,Secretary Of State,,R,BRIAN P. KEMP (I),353,3,231,119,0
+Colquitt,Bridgecreek,Secretary Of State,,R,BRIAN P. KEMP (I),403,10,260,131,2
+Colquitt,Crosland,Secretary Of State,,R,BRIAN P. KEMP (I),65,0,62,3,0
+Colquitt,Doerun,Secretary Of State,,R,BRIAN P. KEMP (I),172,1,150,21,0
+Colquitt,Funston,Secretary Of State,,R,BRIAN P. KEMP (I),357,9,264,84,0
+Colquitt,Hamilton,Secretary Of State,,R,BRIAN P. KEMP (I),205,5,174,26,0
+Colquitt,Hartsfield,Secretary Of State,,R,BRIAN P. KEMP (I),172,3,142,27,0
+Colquitt,Hopewell,Secretary Of State,,R,BRIAN P. KEMP (I),494,9,317,168,0
+Colquitt,Lee,Secretary Of State,,R,BRIAN P. KEMP (I),275,7,198,70,0
+Colquitt,Millcreek,Secretary Of State,,R,BRIAN P. KEMP (I),161,3,114,44,0
+Colquitt,Monk,Secretary Of State,,R,BRIAN P. KEMP (I),394,15,274,105,0
+Colquitt,Murphy,Secretary Of State,,R,BRIAN P. KEMP (I),358,6,228,124,0
+Colquitt,Norman Park,Secretary Of State,,R,BRIAN P. KEMP (I),561,13,385,162,1
+Colquitt,Robinson,Secretary Of State,,R,BRIAN P. KEMP (I),269,4,217,47,1
+Colquitt,Thigpen,Secretary Of State,,R,BRIAN P. KEMP (I),75,1,69,5,0
+Colquitt,Tyty,Secretary Of State,,R,BRIAN P. KEMP (I),148,4,136,8,0
+Colquitt,Warrior,Secretary Of State,,R,BRIAN P. KEMP (I),306,8,247,51,0
+Colquitt,,Secretary Of State,,D,DOREEN CARTER,1899,45,1222,632,0
+Colquitt,Shaw,Secretary Of State,,D,DOREEN CARTER,619,19,407,193,0
+Colquitt,Moultrie,Secretary Of State,,D,DOREEN CARTER,480,9,285,186,0
+Colquitt,Autreyville,Secretary Of State,,D,DOREEN CARTER,60,1,31,28,0
+Colquitt,Bridgecreek,Secretary Of State,,D,DOREEN CARTER,58,3,33,22,0
+Colquitt,Crosland,Secretary Of State,,D,DOREEN CARTER,18,0,14,4,0
+Colquitt,Doerun,Secretary Of State,,D,DOREEN CARTER,91,2,80,9,0
+Colquitt,Funston,Secretary Of State,,D,DOREEN CARTER,54,0,40,14,0
+Colquitt,Hamilton,Secretary Of State,,D,DOREEN CARTER,43,1,35,7,0
+Colquitt,Hartsfield,Secretary Of State,,D,DOREEN CARTER,5,0,3,2,0
+Colquitt,Hopewell,Secretary Of State,,D,DOREEN CARTER,71,2,39,30,0
+Colquitt,Lee,Secretary Of State,,D,DOREEN CARTER,38,0,20,18,0
+Colquitt,Millcreek,Secretary Of State,,D,DOREEN CARTER,17,1,12,4,0
+Colquitt,Monk,Secretary Of State,,D,DOREEN CARTER,80,3,53,24,0
+Colquitt,Murphy,Secretary Of State,,D,DOREEN CARTER,34,1,15,18,0
+Colquitt,Norman Park,Secretary Of State,,D,DOREEN CARTER,125,2,71,52,0
+Colquitt,Robinson,Secretary Of State,,D,DOREEN CARTER,40,0,27,13,0
+Colquitt,Thigpen,Secretary Of State,,D,DOREEN CARTER,15,0,13,2,0
+Colquitt,Tyty,Secretary Of State,,D,DOREEN CARTER,11,0,9,2,0
+Colquitt,Warrior,Secretary Of State,,D,DOREEN CARTER,40,1,35,4,0
+Colquitt,,Attorney General,,R,SAMUEL S. OLENS (I),5942,123,4067,1748,4
+Colquitt,Shaw,Attorney General,,R,SAMUEL S. OLENS (I),209,2,96,111,0
+Colquitt,Moultrie,Attorney General,,R,SAMUEL S. OLENS (I),1032,23,550,459,0
+Colquitt,Autreyville,Attorney General,,R,SAMUEL S. OLENS (I),347,3,230,114,0
+Colquitt,Bridgecreek,Attorney General,,R,SAMUEL S. OLENS (I),401,9,260,130,2
+Colquitt,Crosland,Attorney General,,R,SAMUEL S. OLENS (I),65,0,62,3,0
+Colquitt,Doerun,Attorney General,,R,SAMUEL S. OLENS (I),170,1,147,22,0
+Colquitt,Funston,Attorney General,,R,SAMUEL S. OLENS (I),359,8,267,84,0
+Colquitt,Hamilton,Attorney General,,R,SAMUEL S. OLENS (I),207,5,175,27,0
+Colquitt,Hartsfield,Attorney General,,R,SAMUEL S. OLENS (I),163,3,136,24,0
+Colquitt,Hopewell,Attorney General,,R,SAMUEL S. OLENS (I),485,10,308,167,0
+Colquitt,Lee,Attorney General,,R,SAMUEL S. OLENS (I),270,7,194,69,0
+Colquitt,Millcreek,Attorney General,,R,SAMUEL S. OLENS (I),159,3,113,43,0
+Colquitt,Monk,Attorney General,,R,SAMUEL S. OLENS (I),394,14,276,104,0
+Colquitt,Murphy,Attorney General,,R,SAMUEL S. OLENS (I),354,6,226,122,0
+Colquitt,Norman Park,Attorney General,,R,SAMUEL S. OLENS (I),548,13,374,160,1
+Colquitt,Robinson,Attorney General,,R,SAMUEL S. OLENS (I),263,3,214,45,1
+Colquitt,Thigpen,Attorney General,,R,SAMUEL S. OLENS (I),73,1,67,5,0
+Colquitt,Tyty,Attorney General,,R,SAMUEL S. OLENS (I),142,4,130,8,0
+Colquitt,Warrior,Attorney General,,R,SAMUEL S. OLENS (I),301,8,242,51,0
+Colquitt,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",1937,46,1255,636,0
+Colquitt,Shaw,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",605,18,404,183,0
+Colquitt,Moultrie,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",484,9,285,190,0
+Colquitt,Autreyville,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",70,1,35,34,0
+Colquitt,Bridgecreek,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",60,4,34,22,0
+Colquitt,Crosland,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",20,0,16,4,0
+Colquitt,Doerun,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",95,2,85,8,0
+Colquitt,Funston,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",47,1,33,13,0
+Colquitt,Hamilton,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",43,1,35,7,0
+Colquitt,Hartsfield,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",9,0,6,3,0
+Colquitt,Hopewell,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",81,2,48,31,0
+Colquitt,Lee,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",42,0,25,17,0
+Colquitt,Millcreek,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",19,1,13,5,0
+Colquitt,Monk,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",77,3,51,23,0
+Colquitt,Murphy,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",37,1,16,20,0
+Colquitt,Norman Park,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",132,2,77,53,0
+Colquitt,Robinson,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",44,0,29,15,0
+Colquitt,Thigpen,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",16,0,14,2,0
+Colquitt,Tyty,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",14,0,12,2,0
+Colquitt,Warrior,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",42,1,37,4,0
+Colquitt,,Commissioner Of Agriculture,,R,GARY W. BLACK (I),6054,122,4147,1781,4
+Colquitt,Shaw,Commissioner Of Agriculture,,R,GARY W. BLACK (I),203,2,90,111,0
+Colquitt,Moultrie,Commissioner Of Agriculture,,R,GARY W. BLACK (I),1043,22,562,459,0
+Colquitt,Autreyville,Commissioner Of Agriculture,,R,GARY W. BLACK (I),355,1,231,123,0
+Colquitt,Bridgecreek,Commissioner Of Agriculture,,R,GARY W. BLACK (I),412,9,269,132,2
+Colquitt,Crosland,Commissioner Of Agriculture,,R,GARY W. BLACK (I),69,0,66,3,0
+Colquitt,Doerun,Commissioner Of Agriculture,,R,GARY W. BLACK (I),181,1,157,23,0
+Colquitt,Funston,Commissioner Of Agriculture,,R,GARY W. BLACK (I),373,9,274,90,0
+Colquitt,Hamilton,Commissioner Of Agriculture,,R,GARY W. BLACK (I),203,5,171,27,0
+Colquitt,Hartsfield,Commissioner Of Agriculture,,R,GARY W. BLACK (I),169,3,141,25,0
+Colquitt,Hopewell,Commissioner Of Agriculture,,R,GARY W. BLACK (I),494,9,315,170,0
+Colquitt,Lee,Commissioner Of Agriculture,,R,GARY W. BLACK (I),270,7,193,70,0
+Colquitt,Millcreek,Commissioner Of Agriculture,,R,GARY W. BLACK (I),156,3,111,42,0
+Colquitt,Monk,Commissioner Of Agriculture,,R,GARY W. BLACK (I),399,14,277,108,0
+Colquitt,Murphy,Commissioner Of Agriculture,,R,GARY W. BLACK (I),363,6,227,130,0
+Colquitt,Norman Park,Commissioner Of Agriculture,,R,GARY W. BLACK (I),564,13,387,163,1
+Colquitt,Robinson,Commissioner Of Agriculture,,R,GARY W. BLACK (I),265,4,216,44,1
+Colquitt,Thigpen,Commissioner Of Agriculture,,R,GARY W. BLACK (I),76,1,69,6,0
+Colquitt,Tyty,Commissioner Of Agriculture,,R,GARY W. BLACK (I),149,4,137,8,0
+Colquitt,Warrior,Commissioner Of Agriculture,,R,GARY W. BLACK (I),310,9,254,47,0
+Colquitt,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,1870,47,1204,619,0
+Colquitt,Shaw,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,601,18,401,182,0
+Colquitt,Moultrie,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,468,10,271,187,0
+Colquitt,Autreyville,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,65,2,38,25,0
+Colquitt,Bridgecreek,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,55,4,30,21,0
+Colquitt,Crosland,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,18,0,14,4,0
+Colquitt,Doerun,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,84,2,75,7,0
+Colquitt,Funston,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,41,0,31,10,0
+Colquitt,Hamilton,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,45,1,38,6,0
+Colquitt,Hartsfield,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,9,0,5,4,0
+Colquitt,Hopewell,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,76,3,43,30,0
+Colquitt,Lee,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,45,0,27,18,0
+Colquitt,Millcreek,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,20,1,13,6,0
+Colquitt,Monk,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,82,3,55,24,0
+Colquitt,Murphy,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,28,1,12,15,0
+Colquitt,Norman Park,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,124,2,69,53,0
+Colquitt,Robinson,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,46,0,30,16,0
+Colquitt,Thigpen,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,16,0,15,1,0
+Colquitt,Tyty,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,9,0,7,2,0
+Colquitt,Warrior,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,38,0,30,8,0
+Colquitt,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),5855,126,4014,1711,4
+Colquitt,Shaw,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),195,2,90,103,0
+Colquitt,Moultrie,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1007,23,535,449,0
+Colquitt,Autreyville,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),341,3,225,113,0
+Colquitt,Bridgecreek,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),399,9,260,128,2
+Colquitt,Crosland,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),63,0,59,4,0
+Colquitt,Doerun,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),170,2,147,21,0
+Colquitt,Funston,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),354,9,261,84,0
+Colquitt,Hamilton,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),198,5,167,26,0
+Colquitt,Hartsfield,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),168,3,141,24,0
+Colquitt,Hopewell,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),489,9,311,169,0
+Colquitt,Lee,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),267,7,195,65,0
+Colquitt,Millcreek,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),154,3,109,42,0
+Colquitt,Monk,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),386,14,273,99,0
+Colquitt,Murphy,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),342,6,216,120,0
+Colquitt,Norman Park,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),538,13,367,157,1
+Colquitt,Robinson,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),258,4,208,45,1
+Colquitt,Thigpen,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),75,1,69,5,0
+Colquitt,Tyty,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),145,4,133,8,0
+Colquitt,Warrior,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),306,9,248,49,0
+Colquitt,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",1877,41,1198,638,0
+Colquitt,Shaw,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",601,18,401,182,0
+Colquitt,Moultrie,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",470,9,269,192,0
+Colquitt,Autreyville,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",58,0,29,29,0
+Colquitt,Bridgecreek,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",52,3,27,22,0
+Colquitt,Crosland,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",21,0,17,4,0
+Colquitt,Doerun,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",93,1,83,9,0
+Colquitt,Funston,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",46,0,33,13,0
+Colquitt,Hamilton,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",46,1,38,7,0
+Colquitt,Hartsfield,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",7,0,4,3,0
+Colquitt,Hopewell,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",74,2,42,30,0
+Colquitt,Lee,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",40,0,21,19,0
+Colquitt,Millcreek,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",19,1,12,6,0
+Colquitt,Monk,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",85,3,53,29,0
+Colquitt,Murphy,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",40,1,18,21,0
+Colquitt,Norman Park,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",127,2,75,50,0
+Colquitt,Robinson,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",40,0,27,13,0
+Colquitt,Thigpen,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",13,0,11,2,0
+Colquitt,Tyty,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",10,0,8,2,0
+Colquitt,Warrior,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",35,0,30,5,0
+Colquitt,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",156,2,108,46,0
+Colquitt,Shaw,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",11,0,3,8,0
+Colquitt,Moultrie,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",34,0,26,8,0
+Colquitt,Autreyville,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",15,0,10,5,0
+Colquitt,Bridgecreek,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",12,1,7,4,0
+Colquitt,Crosland,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",1,0,1,0,0
+Colquitt,Doerun,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",2,0,2,0,0
+Colquitt,Funston,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",7,0,5,2,0
+Colquitt,Hamilton,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",5,0,4,1,0
+Colquitt,Hartsfield,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",2,0,1,1,0
+Colquitt,Hopewell,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",10,1,7,2,0
+Colquitt,Lee,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",4,0,2,2,0
+Colquitt,Millcreek,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",6,0,6,0,0
+Colquitt,Monk,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",7,0,4,3,0
+Colquitt,Murphy,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",7,0,5,2,0
+Colquitt,Norman Park,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",17,0,13,4,0
+Colquitt,Robinson,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",7,0,5,2,0
+Colquitt,Thigpen,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",3,0,3,0,0
+Colquitt,Tyty,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",1,0,1,0,0
+Colquitt,Warrior,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",5,0,3,2,0
+Colquitt,,State School Superintendent,,R,RICHARD L. WOODS,5926,125,4070,1727,4
+Colquitt,Shaw,State School Superintendent,,R,RICHARD L. WOODS,188,2,81,105,0
+Colquitt,Moultrie,State School Superintendent,,R,RICHARD L. WOODS,1001,22,540,439,0
+Colquitt,Autreyville,State School Superintendent,,R,RICHARD L. WOODS,350,4,228,118,0
+Colquitt,Bridgecreek,State School Superintendent,,R,RICHARD L. WOODS,406,9,267,128,2
+Colquitt,Crosland,State School Superintendent,,R,RICHARD L. WOODS,61,0,57,4,0
+Colquitt,Doerun,State School Superintendent,,R,RICHARD L. WOODS,176,1,154,21,0
+Colquitt,Funston,State School Superintendent,,R,RICHARD L. WOODS,352,9,262,81,0
+Colquitt,Hamilton,State School Superintendent,,R,RICHARD L. WOODS,206,5,175,26,0
+Colquitt,Hartsfield,State School Superintendent,,R,RICHARD L. WOODS,172,3,141,28,0
+Colquitt,Hopewell,State School Superintendent,,R,RICHARD L. WOODS,488,9,309,170,0
+Colquitt,Lee,State School Superintendent,,R,RICHARD L. WOODS,276,7,199,70,0
+Colquitt,Millcreek,State School Superintendent,,R,RICHARD L. WOODS,161,3,114,44,0
+Colquitt,Monk,State School Superintendent,,R,RICHARD L. WOODS,391,15,278,98,0
+Colquitt,Murphy,State School Superintendent,,R,RICHARD L. WOODS,348,6,221,121,0
+Colquitt,Norman Park,State School Superintendent,,R,RICHARD L. WOODS,558,13,381,163,1
+Colquitt,Robinson,State School Superintendent,,R,RICHARD L. WOODS,259,4,208,46,1
+Colquitt,Thigpen,State School Superintendent,,R,RICHARD L. WOODS,75,1,69,5,0
+Colquitt,Tyty,State School Superintendent,,R,RICHARD L. WOODS,149,4,137,8,0
+Colquitt,Warrior,State School Superintendent,,R,RICHARD L. WOODS,309,8,249,52,0
+Colquitt,,State School Superintendent,,D,VALARIE D. WILSON,2017,46,1289,682,0
+Colquitt,Shaw,State School Superintendent,,D,VALARIE D. WILSON,638,18,422,198,0
+Colquitt,Moultrie,State School Superintendent,,D,VALARIE D. WILSON,515,10,298,207,0
+Colquitt,Autreyville,State School Superintendent,,D,VALARIE D. WILSON,69,0,36,33,0
+Colquitt,Bridgecreek,State School Superintendent,,D,VALARIE D. WILSON,58,4,30,24,0
+Colquitt,Crosland,State School Superintendent,,D,VALARIE D. WILSON,24,0,20,4,0
+Colquitt,Doerun,State School Superintendent,,D,VALARIE D. WILSON,94,2,83,9,0
+Colquitt,Funston,State School Superintendent,,D,VALARIE D. WILSON,56,0,40,16,0
+Colquitt,Hamilton,State School Superintendent,,D,VALARIE D. WILSON,41,1,33,7,0
+Colquitt,Hartsfield,State School Superintendent,,D,VALARIE D. WILSON,7,0,5,2,0
+Colquitt,Hopewell,State School Superintendent,,D,VALARIE D. WILSON,85,3,52,30,0
+Colquitt,Lee,State School Superintendent,,D,VALARIE D. WILSON,40,0,22,18,0
+Colquitt,Millcreek,State School Superintendent,,D,VALARIE D. WILSON,20,1,14,5,0
+Colquitt,Monk,State School Superintendent,,D,VALARIE D. WILSON,90,3,53,34,0
+Colquitt,Murphy,State School Superintendent,,D,VALARIE D. WILSON,42,1,19,22,0
+Colquitt,Norman Park,State School Superintendent,,D,VALARIE D. WILSON,129,2,75,52,0
+Colquitt,Robinson,State School Superintendent,,D,VALARIE D. WILSON,47,0,34,13,0
+Colquitt,Thigpen,State School Superintendent,,D,VALARIE D. WILSON,14,0,12,2,0
+Colquitt,Tyty,State School Superintendent,,D,VALARIE D. WILSON,8,0,6,2,0
+Colquitt,Warrior,State School Superintendent,,D,VALARIE D. WILSON,40,1,35,4,0
+Colquitt,,Commissioner Of Labor,,R,J. MARK BUTLER (I),5966,125,4092,1745,4
+Colquitt,Shaw,Commissioner Of Labor,,R,J. MARK BUTLER (I),207,2,97,108,0
+Colquitt,Moultrie,Commissioner Of Labor,,R,J. MARK BUTLER (I),1014,22,542,450,0
+Colquitt,Autreyville,Commissioner Of Labor,,R,J. MARK BUTLER (I),351,2,231,118,0
+Colquitt,Bridgecreek,Commissioner Of Labor,,R,J. MARK BUTLER (I),406,10,265,129,2
+Colquitt,Crosland,Commissioner Of Labor,,R,J. MARK BUTLER (I),63,0,59,4,0
+Colquitt,Doerun,Commissioner Of Labor,,R,J. MARK BUTLER (I),175,1,153,21,0
+Colquitt,Funston,Commissioner Of Labor,,R,J. MARK BUTLER (I),359,9,265,85,0
+Colquitt,Hamilton,Commissioner Of Labor,,R,J. MARK BUTLER (I),203,5,170,28,0
+Colquitt,Hartsfield,Commissioner Of Labor,,R,J. MARK BUTLER (I),170,3,141,26,0
+Colquitt,Hopewell,Commissioner Of Labor,,R,J. MARK BUTLER (I),490,10,313,167,0
+Colquitt,Lee,Commissioner Of Labor,,R,J. MARK BUTLER (I),280,7,202,71,0
+Colquitt,Millcreek,Commissioner Of Labor,,R,J. MARK BUTLER (I),158,4,112,42,0
+Colquitt,Monk,Commissioner Of Labor,,R,J. MARK BUTLER (I),395,14,281,100,0
+Colquitt,Murphy,Commissioner Of Labor,,R,J. MARK BUTLER (I),346,6,217,123,0
+Colquitt,Norman Park,Commissioner Of Labor,,R,J. MARK BUTLER (I),556,13,381,161,1
+Colquitt,Robinson,Commissioner Of Labor,,R,J. MARK BUTLER (I),263,4,211,47,1
+Colquitt,Thigpen,Commissioner Of Labor,,R,J. MARK BUTLER (I),74,1,68,5,0
+Colquitt,Tyty,Commissioner Of Labor,,R,J. MARK BUTLER (I),148,4,136,8,0
+Colquitt,Warrior,Commissioner Of Labor,,R,J. MARK BUTLER (I),308,8,248,52,0
+Colquitt,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,1891,43,1208,640,0
+Colquitt,Shaw,Commissioner Of Labor,,D,ROBBIN K. SHIPP,606,18,403,185,0
+Colquitt,Moultrie,Commissioner Of Labor,,D,ROBBIN K. SHIPP,484,10,279,195,0
+Colquitt,Autreyville,Commissioner Of Labor,,D,ROBBIN K. SHIPP,64,1,33,30,0
+Colquitt,Bridgecreek,Commissioner Of Labor,,D,ROBBIN K. SHIPP,53,2,29,22,0
+Colquitt,Crosland,Commissioner Of Labor,,D,ROBBIN K. SHIPP,19,0,15,4,0
+Colquitt,Doerun,Commissioner Of Labor,,D,ROBBIN K. SHIPP,90,2,79,9,0
+Colquitt,Funston,Commissioner Of Labor,,D,ROBBIN K. SHIPP,47,0,34,13,0
+Colquitt,Hamilton,Commissioner Of Labor,,D,ROBBIN K. SHIPP,45,1,38,6,0
+Colquitt,Hartsfield,Commissioner Of Labor,,D,ROBBIN K. SHIPP,3,0,1,2,0
+Colquitt,Hopewell,Commissioner Of Labor,,D,ROBBIN K. SHIPP,76,2,42,32,0
+Colquitt,Lee,Commissioner Of Labor,,D,ROBBIN K. SHIPP,34,0,19,15,0
+Colquitt,Millcreek,Commissioner Of Labor,,D,ROBBIN K. SHIPP,20,0,14,6,0
+Colquitt,Monk,Commissioner Of Labor,,D,ROBBIN K. SHIPP,84,3,51,30,0
+Colquitt,Murphy,Commissioner Of Labor,,D,ROBBIN K. SHIPP,38,1,19,18,0
+Colquitt,Norman Park,Commissioner Of Labor,,D,ROBBIN K. SHIPP,125,2,71,52,0
+Colquitt,Robinson,Commissioner Of Labor,,D,ROBBIN K. SHIPP,43,0,30,13,0
+Colquitt,Thigpen,Commissioner Of Labor,,D,ROBBIN K. SHIPP,15,0,13,2,0
+Colquitt,Tyty,Commissioner Of Labor,,D,ROBBIN K. SHIPP,8,0,6,2,0
+Colquitt,Warrior,Commissioner Of Labor,,D,ROBBIN K. SHIPP,37,1,32,4,0
+Colquitt,,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",6160,128,4203,1825,4
+Colquitt,Shaw,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",255,4,130,121,0
+Colquitt,Moultrie,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1094,25,587,482,0
+Colquitt,Autreyville,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",361,2,233,126,0
+Colquitt,Bridgecreek,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",413,9,268,134,2
+Colquitt,Crosland,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",62,0,58,4,0
+Colquitt,Doerun,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",183,1,160,22,0
+Colquitt,Funston,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",363,9,269,85,0
+Colquitt,Hamilton,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",206,5,174,27,0
+Colquitt,Hartsfield,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",170,3,138,29,0
+Colquitt,Hopewell,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",495,8,316,171,0
+Colquitt,Lee,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",275,7,196,72,0
+Colquitt,Millcreek,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",158,3,110,45,0
+Colquitt,Monk,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",394,14,280,100,0
+Colquitt,Murphy,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",356,6,227,123,0
+Colquitt,Norman Park,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",567,14,381,171,1
+Colquitt,Robinson,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",263,4,212,46,1
+Colquitt,Thigpen,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",78,1,72,5,0
+Colquitt,Tyty,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",149,4,136,9,0
+Colquitt,Warrior,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",318,9,256,53,0
+Colquitt,,Public Service Commission,1,L,JOHN H. MONDS,1132,29,763,340,0
+Colquitt,Shaw,Public Service Commission,1,L,JOHN H. MONDS,338,12,231,95,0
+Colquitt,Moultrie,Public Service Commission,1,L,JOHN H. MONDS,243,5,148,90,0
+Colquitt,Autreyville,Public Service Commission,1,L,JOHN H. MONDS,42,1,24,17,0
+Colquitt,Bridgecreek,Public Service Commission,1,L,JOHN H. MONDS,35,1,21,13,0
+Colquitt,Crosland,Public Service Commission,1,L,JOHN H. MONDS,13,0,11,2,0
+Colquitt,Doerun,Public Service Commission,1,L,JOHN H. MONDS,51,2,42,7,0
+Colquitt,Funston,Public Service Commission,1,L,JOHN H. MONDS,37,0,27,10,0
+Colquitt,Hamilton,Public Service Commission,1,L,JOHN H. MONDS,30,0,24,6,0
+Colquitt,Hartsfield,Public Service Commission,1,L,JOHN H. MONDS,5,0,5,0,0
+Colquitt,Hopewell,Public Service Commission,1,L,JOHN H. MONDS,52,2,31,19,0
+Colquitt,Lee,Public Service Commission,1,L,JOHN H. MONDS,30,0,22,8,0
+Colquitt,Millcreek,Public Service Commission,1,L,JOHN H. MONDS,18,1,15,2,0
+Colquitt,Monk,Public Service Commission,1,L,JOHN H. MONDS,57,3,32,22,0
+Colquitt,Murphy,Public Service Commission,1,L,JOHN H. MONDS,24,1,12,11,0
+Colquitt,Norman Park,Public Service Commission,1,L,JOHN H. MONDS,88,1,60,27,0
+Colquitt,Robinson,Public Service Commission,1,L,JOHN H. MONDS,31,0,24,7,0
+Colquitt,Thigpen,Public Service Commission,1,L,JOHN H. MONDS,8,0,6,2,0
+Colquitt,Tyty,Public Service Commission,1,L,JOHN H. MONDS,6,0,6,0,0
+Colquitt,Warrior,Public Service Commission,1,L,JOHN H. MONDS,24,0,22,2,0
+Colquitt,,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",5821,118,3990,1709,4
+Colquitt,Shaw,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",190,2,87,101,0
+Colquitt,Moultrie,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1001,20,535,446,0
+Colquitt,Autreyville,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",336,1,222,113,0
+Colquitt,Bridgecreek,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",401,9,261,129,2
+Colquitt,Crosland,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",62,0,58,4,0
+Colquitt,Doerun,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",166,1,146,19,0
+Colquitt,Funston,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",349,9,256,84,0
+Colquitt,Hamilton,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",194,5,162,27,0
+Colquitt,Hartsfield,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",162,3,136,23,0
+Colquitt,Hopewell,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",478,9,306,163,0
+Colquitt,Lee,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",269,7,192,70,0
+Colquitt,Millcreek,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",154,3,108,43,0
+Colquitt,Monk,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",387,13,275,99,0
+Colquitt,Murphy,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",354,6,227,121,0
+Colquitt,Norman Park,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",542,13,367,161,1
+Colquitt,Robinson,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",253,4,204,44,1
+Colquitt,Thigpen,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",72,1,66,5,0
+Colquitt,Tyty,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",143,4,131,8,0
+Colquitt,Warrior,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",308,8,251,49,0
+Colquitt,,Public Service Commission,4,D,DANIEL A. BLACKMAN,1824,46,1159,619,0
+Colquitt,Shaw,Public Service Commission,4,D,DANIEL A. BLACKMAN,597,18,398,181,0
+Colquitt,Moultrie,Public Service Commission,4,D,DANIEL A. BLACKMAN,461,11,262,188,0
+Colquitt,Autreyville,Public Service Commission,4,D,DANIEL A. BLACKMAN,59,0,29,30,0
+Colquitt,Bridgecreek,Public Service Commission,4,D,DANIEL A. BLACKMAN,54,4,29,21,0
+Colquitt,Crosland,Public Service Commission,4,D,DANIEL A. BLACKMAN,21,0,17,4,0
+Colquitt,Doerun,Public Service Commission,4,D,DANIEL A. BLACKMAN,93,2,82,9,0
+Colquitt,Funston,Public Service Commission,4,D,DANIEL A. BLACKMAN,41,0,29,12,0
+Colquitt,Hamilton,Public Service Commission,4,D,DANIEL A. BLACKMAN,44,1,37,6,0
+Colquitt,Hartsfield,Public Service Commission,4,D,DANIEL A. BLACKMAN,7,0,4,3,0
+Colquitt,Hopewell,Public Service Commission,4,D,DANIEL A. BLACKMAN,77,3,42,32,0
+Colquitt,Lee,Public Service Commission,4,D,DANIEL A. BLACKMAN,36,0,20,16,0
+Colquitt,Millcreek,Public Service Commission,4,D,DANIEL A. BLACKMAN,15,1,9,5,0
+Colquitt,Monk,Public Service Commission,4,D,DANIEL A. BLACKMAN,75,2,49,24,0
+Colquitt,Murphy,Public Service Commission,4,D,DANIEL A. BLACKMAN,29,1,11,17,0
+Colquitt,Norman Park,Public Service Commission,4,D,DANIEL A. BLACKMAN,118,2,68,48,0
+Colquitt,Robinson,Public Service Commission,4,D,DANIEL A. BLACKMAN,39,0,26,13,0
+Colquitt,Thigpen,Public Service Commission,4,D,DANIEL A. BLACKMAN,13,0,11,2,0
+Colquitt,Tyty,Public Service Commission,4,D,DANIEL A. BLACKMAN,9,0,7,2,0
+Colquitt,Warrior,Public Service Commission,4,D,DANIEL A. BLACKMAN,36,1,29,6,0
+Colquitt,,Public Service Commission,4,L,ROBIN AARON GILMER,233,4,164,65,0
+Colquitt,Shaw,Public Service Commission,4,L,ROBIN AARON GILMER,25,0,14,11,0
+Colquitt,Moultrie,Public Service Commission,4,L,ROBIN AARON GILMER,42,0,31,11,0
+Colquitt,Autreyville,Public Service Commission,4,L,ROBIN AARON GILMER,18,2,10,6,0
+Colquitt,Bridgecreek,Public Service Commission,4,L,ROBIN AARON GILMER,9,0,7,2,0
+Colquitt,Crosland,Public Service Commission,4,L,ROBIN AARON GILMER,3,0,3,0,0
+Colquitt,Doerun,Public Service Commission,4,L,ROBIN AARON GILMER,4,0,2,2,0
+Colquitt,Funston,Public Service Commission,4,L,ROBIN AARON GILMER,14,0,12,2,0
+Colquitt,Hamilton,Public Service Commission,4,L,ROBIN AARON GILMER,11,0,10,1,0
+Colquitt,Hartsfield,Public Service Commission,4,L,ROBIN AARON GILMER,4,0,2,2,0
+Colquitt,Hopewell,Public Service Commission,4,L,ROBIN AARON GILMER,14,0,9,5,0
+Colquitt,Lee,Public Service Commission,4,L,ROBIN AARON GILMER,10,0,8,2,0
+Colquitt,Millcreek,Public Service Commission,4,L,ROBIN AARON GILMER,8,0,7,1,0
+Colquitt,Monk,Public Service Commission,4,L,ROBIN AARON GILMER,16,2,8,6,0
+Colquitt,Murphy,Public Service Commission,4,L,ROBIN AARON GILMER,6,0,3,3,0
+Colquitt,Norman Park,Public Service Commission,4,L,ROBIN AARON GILMER,24,0,18,6,0
+Colquitt,Robinson,Public Service Commission,4,L,ROBIN AARON GILMER,12,0,9,3,0
+Colquitt,Thigpen,Public Service Commission,4,L,ROBIN AARON GILMER,4,0,4,0,0
+Colquitt,Tyty,Public Service Commission,4,L,ROBIN AARON GILMER,3,0,3,0,0
+Colquitt,Warrior,Public Service Commission,4,L,ROBIN AARON GILMER,6,0,4,2,0
+Colquitt,,U.S. Representative,8,R,J. AUSTIN SCOTT (I),6748,132,4643,1969,4
+Colquitt,Shaw,U.S. Representative,8,R,J. AUSTIN SCOTT (I),417,4,257,156,0
+Colquitt,Moultrie,U.S. Representative,8,R,J. AUSTIN SCOTT (I),1197,24,654,519,0
+Colquitt,Autreyville,U.S. Representative,8,R,J. AUSTIN SCOTT (I),374,4,249,121,0
+Colquitt,Bridgecreek,U.S. Representative,8,R,J. AUSTIN SCOTT (I),421,8,274,137,2
+Colquitt,Crosland,U.S. Representative,8,R,J. AUSTIN SCOTT (I),71,0,66,5,0
+Colquitt,Doerun,U.S. Representative,8,R,J. AUSTIN SCOTT (I),206,1,179,26,0
+Colquitt,Funston,U.S. Representative,8,R,J. AUSTIN SCOTT (I),394,9,292,93,0
+Colquitt,Hamilton,U.S. Representative,8,R,J. AUSTIN SCOTT (I),223,5,189,29,0
+Colquitt,Hartsfield,U.S. Representative,8,R,J. AUSTIN SCOTT (I),175,2,143,30,0
+Colquitt,Hopewell,U.S. Representative,8,R,J. AUSTIN SCOTT (I),528,10,336,182,0
+Colquitt,Lee,U.S. Representative,8,R,J. AUSTIN SCOTT (I),296,7,213,76,0
+Colquitt,Millcreek,U.S. Representative,8,R,J. AUSTIN SCOTT (I),170,4,121,45,0
+Colquitt,Monk,U.S. Representative,8,R,J. AUSTIN SCOTT (I),430,16,300,114,0
+Colquitt,Murphy,U.S. Representative,8,R,J. AUSTIN SCOTT (I),367,6,230,131,0
+Colquitt,Norman Park,U.S. Representative,8,R,J. AUSTIN SCOTT (I),620,14,421,184,1
+Colquitt,Robinson,U.S. Representative,8,R,J. AUSTIN SCOTT (I),291,4,234,52,1
+Colquitt,Thigpen,U.S. Representative,8,R,J. AUSTIN SCOTT (I),82,1,75,6,0
+Colquitt,Tyty,U.S. Representative,8,R,J. AUSTIN SCOTT (I),156,4,142,10,0
+Colquitt,Warrior,U.S. Representative,8,R,J. AUSTIN SCOTT (I),330,9,268,53,0
+Colquitt,,State Senator,11,R,K. DEAN BURKE (I),6599,125,4548,1922,4
+Colquitt,Shaw,State Senator,11,R,K. DEAN BURKE (I),402,2,244,156,0
+Colquitt,Moultrie,State Senator,11,R,K. DEAN BURKE (I),1187,24,653,510,0
+Colquitt,Autreyville,State Senator,11,R,K. DEAN BURKE (I),364,3,241,120,0
+Colquitt,Bridgecreek,State Senator,11,R,K. DEAN BURKE (I),418,8,272,136,2
+Colquitt,Crosland,State Senator,11,R,K. DEAN BURKE (I),66,0,62,4,0
+Colquitt,Doerun,State Senator,11,R,K. DEAN BURKE (I),200,1,172,27,0
+Colquitt,Funston,State Senator,11,R,K. DEAN BURKE (I),382,9,281,92,0
+Colquitt,Hamilton,State Senator,11,R,K. DEAN BURKE (I),219,5,186,28,0
+Colquitt,Hartsfield,State Senator,11,R,K. DEAN BURKE (I),170,3,139,28,0
+Colquitt,Hopewell,State Senator,11,R,K. DEAN BURKE (I),521,10,334,177,0
+Colquitt,Lee,State Senator,11,R,K. DEAN BURKE (I),290,6,209,75,0
+Colquitt,Millcreek,State Senator,11,R,K. DEAN BURKE (I),167,4,121,42,0
+Colquitt,Monk,State Senator,11,R,K. DEAN BURKE (I),415,14,293,108,0
+Colquitt,Murphy,State Senator,11,R,K. DEAN BURKE (I),360,6,226,128,0
+Colquitt,Norman Park,State Senator,11,R,K. DEAN BURKE (I),600,13,411,175,1
+Colquitt,Robinson,State Senator,11,R,K. DEAN BURKE (I),283,4,229,49,1
+Colquitt,Thigpen,State Senator,11,R,K. DEAN BURKE (I),79,1,73,5,0
+Colquitt,Tyty,State Senator,11,R,K. DEAN BURKE (I),153,4,140,9,0
+Colquitt,Warrior,State Senator,11,R,K. DEAN BURKE (I),323,8,262,53,0
+Colquitt,,State Representative,171,R,"ALFRED J. ""JAY"" POWELL JR. (I)",2064,45,1541,476,2
+Colquitt,Bridgecreek,State Representative,171,R,"ALFRED J. ""JAY"" POWELL JR. (I)",417,8,272,135,2
+Colquitt,Doerun,State Representative,171,R,"ALFRED J. ""JAY"" POWELL JR. (I)",200,1,173,26,0
+Colquitt,Funston,State Representative,171,R,"ALFRED J. ""JAY"" POWELL JR. (I)",388,9,286,93,0
+Colquitt,Hamilton,State Representative,171,R,"ALFRED J. ""JAY"" POWELL JR. (I)",221,5,186,30,0
+Colquitt,Hartsfield,State Representative,171,R,"ALFRED J. ""JAY"" POWELL JR. (I)",169,3,138,28,0
+Colquitt,Millcreek,State Representative,171,R,"ALFRED J. ""JAY"" POWELL JR. (I)",167,4,120,43,0
+Colquitt,Monk,State Representative,171,R,"ALFRED J. ""JAY"" POWELL JR. (I)",422,14,294,114,0
+Colquitt,Thigpen,State Representative,171,R,"ALFRED J. ""JAY"" POWELL JR. (I)",80,1,72,7,0
+Colquitt,,State Representative,172,R,"SAMUEL L. ""SAM"" WATSON (I)",4615,82,3049,1482,2
+Colquitt,Shaw,State Representative,172,R,"SAMUEL L. ""SAM"" WATSON (I)",412,2,252,158,0
+Colquitt,Moultrie,State Representative,172,R,"SAMUEL L. ""SAM"" WATSON (I)",1201,24,662,515,0
+Colquitt,Autreyville,State Representative,172,R,"SAMUEL L. ""SAM"" WATSON (I)",371,3,243,125,0
+Colquitt,Crosland,State Representative,172,R,"SAMUEL L. ""SAM"" WATSON (I)",65,0,60,5,0
+Colquitt,Hopewell,State Representative,172,R,"SAMUEL L. ""SAM"" WATSON (I)",533,10,341,182,0
+Colquitt,Lee,State Representative,172,R,"SAMUEL L. ""SAM"" WATSON (I)",288,7,206,75,0
+Colquitt,Murphy,State Representative,172,R,"SAMUEL L. ""SAM"" WATSON (I)",368,6,231,131,0
+Colquitt,Norman Park,State Representative,172,R,"SAMUEL L. ""SAM"" WATSON (I)",607,13,415,178,1
+Colquitt,Robinson,State Representative,172,R,"SAMUEL L. ""SAM"" WATSON (I)",284,4,229,50,1
+Colquitt,Tyty,State Representative,172,R,"SAMUEL L. ""SAM"" WATSON (I)",154,4,140,10,0
+Colquitt,Warrior,State Representative,172,R,"SAMUEL L. ""SAM"" WATSON (I)",332,9,270,53,0
+Colquitt,,CC CHAIR,,R,TERRY CLARK,6725,126,4626,1969,4
+Colquitt,Shaw,CC CHAIR,,R,TERRY CLARK,409,2,250,157,0
+Colquitt,Moultrie,CC CHAIR,,R,TERRY CLARK,1222,24,676,522,0
+Colquitt,Autreyville,CC CHAIR,,R,TERRY CLARK,370,2,245,123,0
+Colquitt,Bridgecreek,CC CHAIR,,R,TERRY CLARK,422,9,274,137,2
+Colquitt,Crosland,CC CHAIR,,R,TERRY CLARK,71,0,66,5,0
+Colquitt,Doerun,CC CHAIR,,R,TERRY CLARK,206,1,178,27,0
+Colquitt,Funston,CC CHAIR,,R,TERRY CLARK,391,9,290,92,0
+Colquitt,Hamilton,CC CHAIR,,R,TERRY CLARK,217,3,184,30,0
+Colquitt,Hartsfield,CC CHAIR,,R,TERRY CLARK,174,3,143,28,0
+Colquitt,Hopewell,CC CHAIR,,R,TERRY CLARK,524,10,335,179,0
+Colquitt,Lee,CC CHAIR,,R,TERRY CLARK,293,7,209,77,0
+Colquitt,Millcreek,CC CHAIR,,R,TERRY CLARK,172,4,123,45,0
+Colquitt,Monk,CC CHAIR,,R,TERRY CLARK,422,15,291,116,0
+Colquitt,Murphy,CC CHAIR,,R,TERRY CLARK,366,6,234,126,0
+Colquitt,Norman Park,CC CHAIR,,R,TERRY CLARK,624,13,423,187,1
+Colquitt,Robinson,CC CHAIR,,R,TERRY CLARK,283,4,231,47,1
+Colquitt,Thigpen,CC CHAIR,,R,TERRY CLARK,83,1,75,7,0
+Colquitt,Tyty,CC CHAIR,,R,TERRY CLARK,152,4,138,10,0
+Colquitt,Warrior,CC CHAIR,,R,TERRY CLARK,324,9,261,54,0
+Colquitt,,CC,D1,D,LUKE P.STRONG JR (I),845,26,527,292,0
+Colquitt,Shaw,CC,D1,D,LUKE P.STRONG JR (I),733,20,463,250,0
+Colquitt,Moultrie,CC,D1,D,LUKE P.STRONG JR (I),112,6,64,42,0
+Colquitt,,CC,D3,R,MARC DEMOTT,1668,31,1116,519,2
+Colquitt,Moultrie,CC,D3,R,MARC DEMOTT,477,6,285,186,0
+Colquitt,Autreyville,CC,D3,R,MARC DEMOTT,121,3,90,28,0
+Colquitt,Bridgecreek,CC,D3,R,MARC DEMOTT,421,9,275,135,2
+Colquitt,Funston,CC,D3,R,MARC DEMOTT,64,3,47,14,0
+Colquitt,Hamilton,CC,D3,R,MARC DEMOTT,220,4,186,30,0
+Colquitt,Murphy,CC,D3,R,MARC DEMOTT,365,6,233,126,0
+Colquitt,,CC,D5,R,PAUL NAGY,1413,27,1070,316,0
+Colquitt,Doerun,CC,D5,R,PAUL NAGY,209,1,180,28,0
+Colquitt,Funston,CC,D5,R,PAUL NAGY,325,6,242,77,0
+Colquitt,Hartsfield,CC,D5,R,PAUL NAGY,171,2,143,26,0
+Colquitt,Millcreek,CC,D5,R,PAUL NAGY,169,4,121,44,0
+Colquitt,Monk,CC,D5,R,PAUL NAGY,417,13,292,112,0
+Colquitt,Norman Park,CC,D5,R,PAUL NAGY,36,0,14,22,0
+Colquitt,Thigpen,CC,D5,R,PAUL NAGY,86,1,78,7,0
+Colquitt,,SOIL AND WATER,,,THOMAS COLEMAN JR (I),6596,133,4511,1948,4
+Colquitt,Shaw,SOIL AND WATER,,,THOMAS COLEMAN JR (I),455,6,279,170,0
+Colquitt,Moultrie,SOIL AND WATER,,,THOMAS COLEMAN JR (I),1218,25,670,523,0
+Colquitt,Autreyville,SOIL AND WATER,,,THOMAS COLEMAN JR (I),351,3,227,121,0
+Colquitt,Bridgecreek,SOIL AND WATER,,,THOMAS COLEMAN JR (I),409,9,263,135,2
+Colquitt,Crosland,SOIL AND WATER,,,THOMAS COLEMAN JR (I),67,0,62,5,0
+Colquitt,Doerun,SOIL AND WATER,,,THOMAS COLEMAN JR (I),206,1,178,27,0
+Colquitt,Funston,SOIL AND WATER,,,THOMAS COLEMAN JR (I),373,9,274,90,0
+Colquitt,Hamilton,SOIL AND WATER,,,THOMAS COLEMAN JR (I),224,4,189,31,0
+Colquitt,Hartsfield,SOIL AND WATER,,,THOMAS COLEMAN JR (I),169,3,138,28,0
+Colquitt,Hopewell,SOIL AND WATER,,,THOMAS COLEMAN JR (I),523,10,330,183,0
+Colquitt,Lee,SOIL AND WATER,,,THOMAS COLEMAN JR (I),276,7,197,72,0
+Colquitt,Millcreek,SOIL AND WATER,,,THOMAS COLEMAN JR (I),167,3,121,43,0
+Colquitt,Monk,SOIL AND WATER,,,THOMAS COLEMAN JR (I),403,14,283,106,0
+Colquitt,Murphy,SOIL AND WATER,,,THOMAS COLEMAN JR (I),354,6,222,126,0
+Colquitt,Norman Park,SOIL AND WATER,,,THOMAS COLEMAN JR (I),595,15,403,176,1
+Colquitt,Robinson,SOIL AND WATER,,,THOMAS COLEMAN JR (I),266,4,216,45,1
+Colquitt,Thigpen,SOIL AND WATER,,,THOMAS COLEMAN JR (I),80,1,72,7,0
+Colquitt,Tyty,SOIL AND WATER,,,THOMAS COLEMAN JR (I),150,4,136,10,0
+Colquitt,Warrior,SOIL AND WATER,,,THOMAS COLEMAN JR (I),310,9,251,50,0
+Colquitt,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,6030,130,4077,1819,4
+Colquitt,Shaw,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,516,11,314,191,0
+Colquitt,Moultrie,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1122,24,614,484,0
+Colquitt,Autreyville,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,316,3,196,117,0
+Colquitt,Bridgecreek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,375,8,246,119,2
+Colquitt,Crosland,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,68,0,63,5,0
+Colquitt,Doerun,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,198,3,172,23,0
+Colquitt,Funston,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,328,8,237,83,0
+Colquitt,Hamilton,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,205,6,168,31,0
+Colquitt,Hartsfield,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,142,2,116,24,0
+Colquitt,Hopewell,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,448,11,280,157,0
+Colquitt,Lee,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,237,6,166,65,0
+Colquitt,Millcreek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,150,2,108,40,0
+Colquitt,Monk,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,354,15,243,96,0
+Colquitt,Murphy,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,316,6,191,119,0
+Colquitt,Norman Park,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,529,11,349,168,1
+Colquitt,Robinson,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,235,3,194,37,1
+Colquitt,Thigpen,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,75,1,67,7,0
+Colquitt,Tyty,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,135,4,124,7,0
+Colquitt,Warrior,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,281,6,229,46,0
+Colquitt,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,1817,36,1224,557,0
+Colquitt,Shaw,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,290,10,182,98,0
+Colquitt,Moultrie,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,376,7,212,157,0
+Colquitt,Autreyville,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,99,1,66,32,0
+Colquitt,Bridgecreek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,83,2,48,33,0
+Colquitt,Crosland,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,19,0,17,2,0
+Colquitt,Doerun,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,66,0,59,7,0
+Colquitt,Funston,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,72,1,57,14,0
+Colquitt,Hamilton,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,42,0,40,2,0
+Colquitt,Hartsfield,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,30,1,23,6,0
+Colquitt,Hopewell,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,111,1,73,37,0
+Colquitt,Lee,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,78,1,54,23,0
+Colquitt,Millcreek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,33,2,22,9,0
+Colquitt,Monk,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,120,2,82,36,0
+Colquitt,Murphy,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,69,1,44,24,0
+Colquitt,Norman Park,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,154,4,107,43,0
+Colquitt,Robinson,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,67,0,47,20,0
+Colquitt,Thigpen,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,16,0,15,1,0
+Colquitt,Tyty,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,23,0,20,3,0
+Colquitt,Warrior,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,69,3,56,10,0
+Colquitt,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,5284,116,3547,1618,3
+Colquitt,Shaw,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,557,14,338,205,0
+Colquitt,Moultrie,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1063,24,590,449,0
+Colquitt,Autreyville,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,280,2,168,110,0
+Colquitt,Bridgecreek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,307,5,195,106,1
+Colquitt,Crosland,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,52,0,49,3,0
+Colquitt,Doerun,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,183,2,155,26,0
+Colquitt,Funston,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,269,7,191,71,0
+Colquitt,Hamilton,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,161,5,135,21,0
+Colquitt,Hartsfield,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,110,2,88,20,0
+Colquitt,Hopewell,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,386,11,243,132,0
+Colquitt,Lee,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,215,4,146,65,0
+Colquitt,Millcreek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,116,1,82,33,0
+Colquitt,Monk,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,282,9,197,76,0
+Colquitt,Murphy,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,257,6,159,92,0
+Colquitt,Norman Park,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,455,11,316,127,1
+Colquitt,Robinson,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,194,3,156,34,1
+Colquitt,Thigpen,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,60,1,53,6,0
+Colquitt,Tyty,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,107,3,95,9,0
+Colquitt,Warrior,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,230,6,191,33,0
+Colquitt,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,2444,44,1673,726,1
+Colquitt,Shaw,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,235,7,152,76,0
+Colquitt,Moultrie,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,423,7,232,184,0
+Colquitt,Autreyville,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,128,2,89,37,0
+Colquitt,Bridgecreek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,145,5,95,44,1
+Colquitt,Crosland,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,33,0,29,4,0
+Colquitt,Doerun,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,79,1,74,4,0
+Colquitt,Funston,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,124,0,100,24,0
+Colquitt,Hamilton,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,82,1,68,13,0
+Colquitt,Hartsfield,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,58,1,48,9,0
+Colquitt,Hopewell,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,166,1,103,62,0
+Colquitt,Lee,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,95,3,69,23,0
+Colquitt,Millcreek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,65,3,46,16,0
+Colquitt,Monk,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,177,5,123,49,0
+Colquitt,Murphy,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,127,1,75,51,0
+Colquitt,Norman Park,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,218,3,133,82,0
+Colquitt,Robinson,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,102,1,77,24,0
+Colquitt,Thigpen,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,29,0,27,2,0
+Colquitt,Tyty,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,47,1,45,1,0
+Colquitt,Warrior,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,111,2,88,21,0
+Colquitt,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,5632,128,3869,1631,4
+Colquitt,Shaw,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,599,19,385,195,0
+Colquitt,Moultrie,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1091,25,617,449,0
+Colquitt,Autreyville,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,282,4,182,96,0
+Colquitt,Bridgecreek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,319,9,203,105,2
+Colquitt,Crosland,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,62,0,59,3,0
+Colquitt,Doerun,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,184,0,164,20,0
+Colquitt,Funston,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,298,7,218,73,0
+Colquitt,Hamilton,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,188,5,155,28,0
+Colquitt,Hartsfield,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,127,2,107,18,0
+Colquitt,Hopewell,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,408,9,257,142,0
+Colquitt,Lee,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,223,5,157,61,0
+Colquitt,Millcreek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,130,4,97,29,0
+Colquitt,Monk,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,330,10,232,88,0
+Colquitt,Murphy,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,284,6,177,101,0
+Colquitt,Norman Park,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,483,11,323,148,1
+Colquitt,Robinson,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,204,4,165,34,1
+Colquitt,Thigpen,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,71,1,63,7,0
+Colquitt,Tyty,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,114,3,103,8,0
+Colquitt,Warrior,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,235,4,205,26,0
+Colquitt,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,2156,38,1375,743,0
+Colquitt,Shaw,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,196,2,104,90,0
+Colquitt,Moultrie,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,401,6,201,194,0
+Colquitt,Autreyville,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,129,0,76,53,0
+Colquitt,Bridgecreek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,134,2,88,44,0
+Colquitt,Crosland,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,25,0,21,4,0
+Colquitt,Doerun,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,81,3,68,10,0
+Colquitt,Funston,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,100,2,75,23,0
+Colquitt,Hamilton,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,57,1,50,6,0
+Colquitt,Hartsfield,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,47,1,34,12,0
+Colquitt,Hopewell,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,150,3,89,58,0
+Colquitt,Lee,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,91,2,62,27,0
+Colquitt,Millcreek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,53,0,33,20,0
+Colquitt,Monk,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,141,7,92,42,0
+Colquitt,Murphy,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,101,1,56,44,0
+Colquitt,Norman Park,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,192,3,129,60,0
+Colquitt,Robinson,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,92,0,66,26,0
+Colquitt,Thigpen,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,16,0,16,0,0
+Colquitt,Tyty,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,38,1,35,2,0
+Colquitt,Warrior,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,112,4,80,28,0

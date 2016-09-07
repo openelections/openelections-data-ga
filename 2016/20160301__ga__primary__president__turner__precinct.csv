@@ -1,0 +1,77 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Turner,,President,,REP,JEB BUSH,5,0,1,4,0
+Turner,Ashburn,President,,REP,JEB BUSH,2,0,0,2,0
+Turner,Sycamore,President,,REP,JEB BUSH,3,0,1,2,0
+Turner,Rebecca,President,,REP,JEB BUSH,0,0,0,0,0
+Turner,,President,,REP,BEN CARSON,82,0,68,14,0
+Turner,Ashburn,President,,REP,BEN CARSON,32,0,27,5,0
+Turner,Sycamore,President,,REP,BEN CARSON,42,0,34,8,0
+Turner,Rebecca,President,,REP,BEN CARSON,8,0,7,1,0
+Turner,,President,,REP,CHRIS CHRISTIE,2,0,1,1,0
+Turner,Ashburn,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
+Turner,Sycamore,President,,REP,CHRIS CHRISTIE,1,0,0,1,0
+Turner,Rebecca,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Turner,,President,,REP,TED CRUZ,247,1,209,37,0
+Turner,Ashburn,President,,REP,TED CRUZ,104,0,89,15,0
+Turner,Sycamore,President,,REP,TED CRUZ,113,1,92,20,0
+Turner,Rebecca,President,,REP,TED CRUZ,30,0,28,2,0
+Turner,,President,,REP,CARLY FIORINA,0,0,0,0,0
+Turner,Ashburn,President,,REP,CARLY FIORINA,0,0,0,0,0
+Turner,Sycamore,President,,REP,CARLY FIORINA,0,0,0,0,0
+Turner,Rebecca,President,,REP,CARLY FIORINA,0,0,0,0,0
+Turner,,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Turner,Ashburn,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Turner,Sycamore,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Turner,Rebecca,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Turner,,President,,REP,MIKE HUCKABEE,2,0,1,1,0
+Turner,Ashburn,President,,REP,MIKE HUCKABEE,1,0,0,1,0
+Turner,Sycamore,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Turner,Rebecca,President,,REP,MIKE HUCKABEE,1,0,1,0,0
+Turner,,President,,REP,JOHN R. KASICH,31,0,23,8,0
+Turner,Ashburn,President,,REP,JOHN R. KASICH,14,0,7,7,0
+Turner,Sycamore,President,,REP,JOHN R. KASICH,17,0,16,1,0
+Turner,Rebecca,President,,REP,JOHN R. KASICH,0,0,0,0,0
+Turner,,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Turner,Ashburn,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Turner,Sycamore,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Turner,Rebecca,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Turner,,President,,REP,RAND PAUL,5,0,4,1,0
+Turner,Ashburn,President,,REP,RAND PAUL,2,0,2,0,0
+Turner,Sycamore,President,,REP,RAND PAUL,3,0,2,1,0
+Turner,Rebecca,President,,REP,RAND PAUL,0,0,0,0,0
+Turner,,President,,REP,MARCO RUBIO,120,0,84,35,1
+Turner,Ashburn,President,,REP,MARCO RUBIO,60,0,42,18,0
+Turner,Sycamore,President,,REP,MARCO RUBIO,47,0,32,14,1
+Turner,Rebecca,President,,REP,MARCO RUBIO,13,0,10,3,0
+Turner,,President,,REP,RICK SANTORUM,0,0,0,0,0
+Turner,Ashburn,President,,REP,RICK SANTORUM,0,0,0,0,0
+Turner,Sycamore,President,,REP,RICK SANTORUM,0,0,0,0,0
+Turner,Rebecca,President,,REP,RICK SANTORUM,0,0,0,0,0
+Turner,,President,,REP,DONALD J. TRUMP,653,2,497,153,1
+Turner,Ashburn,President,,REP,DONALD J. TRUMP,283,2,211,70,0
+Turner,Sycamore,President,,REP,DONALD J. TRUMP,282,0,207,74,1
+Turner,Rebecca,President,,REP,DONALD J. TRUMP,88,0,79,9,0
+Turner,,President,,DEM,HILLARY CLINTON,330,3,255,72,0
+Turner,Ashburn,President,,DEM,HILLARY CLINTON,291,2,222,67,0
+Turner,Sycamore,President,,DEM,HILLARY CLINTON,27,1,21,5,0
+Turner,Rebecca,President,,DEM,HILLARY CLINTON,12,0,12,0,0
+Turner,,President,,DEM,MARTIN O'MALLEY,4,0,1,3,0
+Turner,Ashburn,President,,DEM,MARTIN O'MALLEY,3,0,1,2,0
+Turner,Sycamore,President,,DEM,MARTIN O'MALLEY,1,0,0,1,0
+Turner,Rebecca,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Turner,,President,,DEM,BERNIE SANDERS,81,1,67,13,0
+Turner,Ashburn,President,,DEM,BERNIE SANDERS,65,1,52,12,0
+Turner,Sycamore,President,,DEM,BERNIE SANDERS,14,0,13,1,0
+Turner,Rebecca,President,,DEM,BERNIE SANDERS,2,0,2,0,0
+Turner,,President,,DEM,MICHAEL STEINBERG,3,0,3,0,0
+Turner,Ashburn,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Turner,Sycamore,President,,DEM,MICHAEL STEINBERG,2,0,2,0,0
+Turner,Rebecca,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Turner,,ESPLOST,,,YES,1201,7,916,277,1
+Turner,Ashburn,ESPLOST,,,YES,657,5,491,161,0
+Turner,Sycamore,ESPLOST,,,YES,421,2,315,103,1
+Turner,Rebecca,ESPLOST,,,YES,123,0,110,13,0
+Turner,,ESPLOST,,,NO,354,0,288,65,1
+Turner,Ashburn,ESPLOST,,,NO,190,0,153,37,0
+Turner,Sycamore,ESPLOST,,,NO,130,0,103,26,1
+Turner,Rebecca,ESPLOST,,,NO,34,0,32,2,0

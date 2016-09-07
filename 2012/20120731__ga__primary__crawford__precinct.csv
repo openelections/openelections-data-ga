@@ -1,0 +1,495 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Crawford,,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),670,26,484,150,10
+Crawford,1A,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),25,0,22,3,0
+Crawford,1B,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),50,3,34,13,0
+Crawford,2,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),124,4,78,39,3
+Crawford,3,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),159,8,103,45,3
+Crawford,4,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),175,10,129,34,2
+Crawford,5,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),137,1,118,16,2
+Crawford,,"Public Service Commission, District 3",3,REP,MATT REID,359,8,277,72,2
+Crawford,1A,"Public Service Commission, District 3",3,REP,MATT REID,15,1,13,1,0
+Crawford,1B,"Public Service Commission, District 3",3,REP,MATT REID,26,0,18,8,0
+Crawford,2,"Public Service Commission, District 3",3,REP,MATT REID,55,3,28,24,0
+Crawford,3,"Public Service Commission, District 3",3,REP,MATT REID,80,1,61,18,0
+Crawford,4,"Public Service Commission, District 3",3,REP,MATT REID,96,2,79,15,0
+Crawford,5,"Public Service Commission, District 3",3,REP,MATT REID,87,1,78,6,2
+Crawford,,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,470,12,325,127,6
+Crawford,1A,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,41,0,38,3,0
+Crawford,1B,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,93,0,75,18,0
+Crawford,2,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,183,9,104,67,3
+Crawford,3,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,79,2,54,22,1
+Crawford,4,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,46,1,34,11,0
+Crawford,5,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,28,0,20,6,2
+Crawford,,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,492,11,387,93,1
+Crawford,1A,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,18,1,15,2,0
+Crawford,1B,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,36,0,25,11,0
+Crawford,2,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,76,3,44,28,1
+Crawford,3,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,110,1,82,27,0
+Crawford,4,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,135,5,114,16,0
+Crawford,5,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,117,1,107,9,0
+Crawford,,"Public Service Commission, District 5",5,REP,STAN WISE (I),522,23,366,122,11
+Crawford,1A,"Public Service Commission, District 5",5,REP,STAN WISE (I),22,0,20,2,0
+Crawford,1B,"Public Service Commission, District 5",5,REP,STAN WISE (I),40,3,26,11,0
+Crawford,2,"Public Service Commission, District 5",5,REP,STAN WISE (I),98,4,59,33,2
+Crawford,3,"Public Service Commission, District 5",5,REP,STAN WISE (I),125,8,81,33,3
+Crawford,4,"Public Service Commission, District 5",5,REP,STAN WISE (I),129,7,90,30,2
+Crawford,5,"Public Service Commission, District 5",5,REP,STAN WISE (I),108,1,90,13,4
+Crawford,,"U.S. Representative, District 2",2,REP,RICK ALLEN,560,18,413,123,6
+Crawford,1A,"U.S. Representative, District 2",2,REP,RICK ALLEN,17,1,12,4,0
+Crawford,1B,"U.S. Representative, District 2",2,REP,RICK ALLEN,54,2,38,14,0
+Crawford,2,"U.S. Representative, District 2",2,REP,RICK ALLEN,91,2,56,31,2
+Crawford,3,"U.S. Representative, District 2",2,REP,RICK ALLEN,143,5,101,34,3
+Crawford,4,"U.S. Representative, District 2",2,REP,RICK ALLEN,143,7,107,29,0
+Crawford,5,"U.S. Representative, District 2",2,REP,RICK ALLEN,112,1,99,11,1
+Crawford,,"U.S. Representative, District 2",2,REP,KEN DELOACH,289,11,220,53,5
+Crawford,1A,"U.S. Representative, District 2",2,REP,KEN DELOACH,19,0,19,0,0
+Crawford,1B,"U.S. Representative, District 2",2,REP,KEN DELOACH,16,1,12,3,0
+Crawford,2,"U.S. Representative, District 2",2,REP,KEN DELOACH,40,0,23,16,1
+Crawford,3,"U.S. Representative, District 2",2,REP,KEN DELOACH,60,3,42,15,0
+Crawford,4,"U.S. Representative, District 2",2,REP,KEN DELOACH,78,6,61,9,2
+Crawford,5,"U.S. Representative, District 2",2,REP,KEN DELOACH,76,1,63,10,2
+Crawford,,"U.S. Representative, District 2",2,REP,JOHN HOUSE,160,5,122,32,1
+Crawford,1A,"U.S. Representative, District 2",2,REP,JOHN HOUSE,4,0,4,0,0
+Crawford,1B,"U.S. Representative, District 2",2,REP,JOHN HOUSE,7,0,4,3,0
+Crawford,2,"U.S. Representative, District 2",2,REP,JOHN HOUSE,32,3,19,10,0
+Crawford,3,"U.S. Representative, District 2",2,REP,JOHN HOUSE,27,1,20,6,0
+Crawford,4,"U.S. Representative, District 2",2,REP,JOHN HOUSE,50,1,39,10,0
+Crawford,5,"U.S. Representative, District 2",2,REP,JOHN HOUSE,40,0,36,3,1
+Crawford,,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),603,12,430,157,4
+Crawford,1A,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),55,0,52,3,0
+Crawford,1B,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),138,0,112,26,0
+Crawford,2,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),244,9,145,87,3
+Crawford,3,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),78,2,55,21,0
+Crawford,4,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),56,1,42,13,0
+Crawford,5,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),32,0,24,7,1
+Crawford,,"State Senator, District 18",18,REP,SPENCER PRICE,605,21,441,135,8
+Crawford,1A,"State Senator, District 18",18,REP,SPENCER PRICE,25,1,22,2,0
+Crawford,1B,"State Senator, District 18",18,REP,SPENCER PRICE,47,0,29,18,0
+Crawford,2,"State Senator, District 18",18,REP,SPENCER PRICE,96,4,50,39,3
+Crawford,3,"State Senator, District 18",18,REP,SPENCER PRICE,145,3,104,37,1
+Crawford,4,"State Senator, District 18",18,REP,SPENCER PRICE,160,11,119,28,2
+Crawford,5,"State Senator, District 18",18,REP,SPENCER PRICE,132,2,117,11,2
+Crawford,,"State Senator, District 18",18,REP,CECIL STATON (I),501,15,378,102,6
+Crawford,1A,"State Senator, District 18",18,REP,CECIL STATON (I),18,0,16,2,0
+Crawford,1B,"State Senator, District 18",18,REP,CECIL STATON (I),38,3,28,7,0
+Crawford,2,"State Senator, District 18",18,REP,CECIL STATON (I),91,2,64,25,0
+Crawford,3,"State Senator, District 18",18,REP,CECIL STATON (I),113,6,77,28,2
+Crawford,4,"State Senator, District 18",18,REP,CECIL STATON (I),132,4,100,26,2
+Crawford,5,"State Senator, District 18",18,REP,CECIL STATON (I),109,0,93,14,2
+Crawford,,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),1021,31,746,231,13
+Crawford,1A,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),41,0,36,5,0
+Crawford,1B,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),74,3,46,25,0
+Crawford,2,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),180,6,108,63,3
+Crawford,3,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),236,8,162,63,3
+Crawford,4,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),268,12,204,49,3
+Crawford,5,"State Representative, District 140",140,REP,ROBERT L. DICKEY (I),222,2,190,26,4
+Crawford,,"District Attorney, Macon Circuit", Macon Circuit - REP,REP,GREG WINTERS (I),926,28,682,206,10
+Crawford,1A,"District Attorney, Macon Circuit", Macon Circuit - REP,REP,GREG WINTERS (I),35,0,32,3,0
+Crawford,1B,"District Attorney, Macon Circuit", Macon Circuit - REP,REP,GREG WINTERS (I),75,3,48,24,0
+Crawford,2,"District Attorney, Macon Circuit", Macon Circuit - REP,REP,GREG WINTERS (I),164,3,104,54,3
+Crawford,3,"District Attorney, Macon Circuit", Macon Circuit - REP,REP,GREG WINTERS (I),203,8,133,59,3
+Crawford,4,"District Attorney, Macon Circuit", Macon Circuit - REP,REP,GREG WINTERS (I),244,12,187,44,1
+Crawford,5,"District Attorney, Macon Circuit", Macon Circuit - REP,REP,GREG WINTERS (I),205,2,178,22,3
+Crawford,,"District Attorney, Macon Circuit", Macon Circuit - DEM,DEM,DAVID COOKE,444,11,307,120,6
+Crawford,1A,"District Attorney, Macon Circuit", Macon Circuit - DEM,DEM,DAVID COOKE,37,0,34,3,0
+Crawford,1B,"District Attorney, Macon Circuit", Macon Circuit - DEM,DEM,DAVID COOKE,91,0,74,17,0
+Crawford,2,"District Attorney, Macon Circuit", Macon Circuit - DEM,DEM,DAVID COOKE,168,8,91,66,3
+Crawford,3,"District Attorney, Macon Circuit", Macon Circuit - DEM,DEM,DAVID COOKE,74,2,52,19,1
+Crawford,4,"District Attorney, Macon Circuit", Macon Circuit - DEM,DEM,DAVID COOKE,46,1,35,10,0
+Crawford,5,"District Attorney, Macon Circuit", Macon Circuit - DEM,DEM,DAVID COOKE,28,0,21,5,2
+Crawford,,SHERIFF,,,TOM WALLACE,725,24,552,140,9
+Crawford,1A,SHERIFF,,,TOM WALLACE,30,0,27,3,0
+Crawford,1B,SHERIFF,,,TOM WALLACE,45,3,32,10,0
+Crawford,2,SHERIFF,,,TOM WALLACE,106,3,68,32,3
+Crawford,3,SHERIFF,,,TOM WALLACE,150,6,101,42,1
+Crawford,4,SHERIFF,,,TOM WALLACE,202,11,158,32,1
+Crawford,5,SHERIFF,,,TOM WALLACE,192,1,166,21,4
+Crawford,,SHERIFF,,,LEWIS S. WALKER ,718,11,509,192,6
+Crawford,1A,SHERIFF,,,LEWIS S. WALKER ,63,0,60,3,0
+Crawford,1B,SHERIFF,,,LEWIS S. WALKER ,165,0,138,27,0
+Crawford,2,SHERIFF,,,LEWIS S. WALKER ,290,8,170,109,3
+Crawford,3,SHERIFF,,,LEWIS S. WALKER ,100,2,67,30,1
+Crawford,4,SHERIFF,,,LEWIS S. WALKER ,62,1,47,14,0
+Crawford,5,SHERIFF,,,LEWIS S. WALKER ,38,0,27,9,2
+Crawford,,TAX COMMISSIONER,,,BRYAN A. ROBERTS,780,23,590,157,10
+Crawford,1A,TAX COMMISSIONER,,,BRYAN A. ROBERTS,33,0,29,4,0
+Crawford,1B,TAX COMMISSIONER,,,BRYAN A. ROBERTS,56,3,40,13,0
+Crawford,2,TAX COMMISSIONER,,,BRYAN A. ROBERTS,120,3,78,36,3
+Crawford,3,TAX COMMISSIONER,,,BRYAN A. ROBERTS,175,7,116,51,1
+Crawford,4,TAX COMMISSIONER,,,BRYAN A. ROBERTS,208,9,162,35,2
+Crawford,5,TAX COMMISSIONER,,,BRYAN A. ROBERTS,188,1,165,18,4
+Crawford,,TAX COMMISSIONER,,,CYNTHIA G. DAVIS ,617,11,435,165,6
+Crawford,1A,TAX COMMISSIONER,,,CYNTHIA G. DAVIS ,49,0,46,3,0
+Crawford,1B,TAX COMMISSIONER,,,CYNTHIA G. DAVIS ,133,0,110,23,0
+Crawford,2,TAX COMMISSIONER,,,CYNTHIA G. DAVIS ,254,8,149,94,3
+Crawford,3,TAX COMMISSIONER,,,CYNTHIA G. DAVIS ,90,2,59,28,1
+Crawford,4,TAX COMMISSIONER,,,CYNTHIA G. DAVIS ,56,1,43,12,0
+Crawford,5,TAX COMMISSIONER,,,CYNTHIA G. DAVIS ,35,0,28,5,2
+Crawford,,SURVEYOR,,,CHARLES AULTMAN ,585,12,395,172,6
+Crawford,1A,SURVEYOR,,,CHARLES AULTMAN ,43,0,40,3,0
+Crawford,1B,SURVEYOR,,,CHARLES AULTMAN ,119,0,96,23,0
+Crawford,2,SURVEYOR,,,CHARLES AULTMAN ,250,9,138,100,3
+Crawford,3,SURVEYOR,,,CHARLES AULTMAN ,87,2,57,27,1
+Crawford,4,SURVEYOR,,,CHARLES AULTMAN ,52,1,38,13,0
+Crawford,5,SURVEYOR,,,CHARLES AULTMAN ,34,0,26,6,2
+Crawford,,CORONER,,,NELL MOORE,486,10,339,132,5
+Crawford,1A,CORONER,,,NELL MOORE,44,0,41,3,0
+Crawford,1B,CORONER,,,NELL MOORE,93,0,75,18,0
+Crawford,2,CORONER,,,NELL MOORE,194,7,110,74,3
+Crawford,3,CORONER,,,NELL MOORE,76,2,53,20,1
+Crawford,4,CORONER,,,NELL MOORE,48,1,37,10,0
+Crawford,5,CORONER,,,NELL MOORE,31,0,23,7,1
+Crawford,,"CC, D2", D2 - R,,CHUCK EVANS,150,5,94,48,3
+Crawford,2,"CC, D2", D2 - R,,CHUCK EVANS,150,5,94,48,3
+Crawford,,"CC, D2", D2 - D,,BOBBY BLASINGAME ,216,6,132,75,3
+Crawford,2,"CC, D2", D2 - D,,BOBBY BLASINGAME ,216,6,132,75,3
+Crawford,,"CC, D2", D2 - D,,HAROLD D. SPILLERS,89,3,42,44,0
+Crawford,2,"CC, D2", D2 - D,,HAROLD D. SPILLERS,89,3,42,44,0
+Crawford,,"CC, D3", D3 - R,,DEAN FRIPP ,196,8,132,54,2
+Crawford,3,"CC, D3", D3 - R,,DEAN FRIPP ,196,8,132,54,2
+Crawford,,"CC, D4", D4 - R,,JOHN M. THOMAS SR.,154,8,110,35,1
+Crawford,4,"CC, D4", D4 - R,,JOHN M. THOMAS SR.,154,8,110,35,1
+Crawford,,"CC, D4", D4 - R,,FRED D. WALKER,134,7,110,16,1
+Crawford,4,"CC, D4", D4 - R,,FRED D. WALKER,134,7,110,16,1
+Crawford,,"CC, D4", D4 - D,,GENE HAMLIN ,49,1,39,9,0
+Crawford,4,"CC, D4", D4 - D,,GENE HAMLIN ,49,1,39,9,0
+Crawford,,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,579,10,435,127,7
+Crawford,1A,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,18,0,16,2,0
+Crawford,1B,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,50,2,36,12,0
+Crawford,2,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,101,3,61,36,1
+Crawford,3,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,129,0,96,31,2
+Crawford,4,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,162,5,124,31,2
+Crawford,5,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,119,0,102,15,2
+Crawford,,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,571,30,413,121,7
+Crawford,1A,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,26,1,23,2,0
+Crawford,1B,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,36,1,21,14,0
+Crawford,2,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,97,4,59,32,2
+Crawford,3,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,137,9,91,36,1
+Crawford,4,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,143,13,104,24,2
+Crawford,5,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,132,2,115,13,2
+Crawford,,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,972,35,716,209,12
+Crawford,1A,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,37,0,33,4,0
+Crawford,1B,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,74,3,47,24,0
+Crawford,2,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,163,6,102,52,3
+Crawford,3,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,223,7,153,60,3
+Crawford,4,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,252,17,188,45,2
+Crawford,5,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,223,2,193,24,4
+Crawford,,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,160,3,120,36,1
+Crawford,1A,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,5,0,5,0,0
+Crawford,1B,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,11,0,9,2,0
+Crawford,2,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,29,0,16,13,0
+Crawford,3,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,40,2,31,7,0
+Crawford,4,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,47,1,35,10,1
+Crawford,5,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,28,0,24,4,0
+Crawford,,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,829,27,619,173,10
+Crawford,1A,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,35,1,31,3,0
+Crawford,1B,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,63,3,41,19,0
+Crawford,2,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,147,4,89,52,2
+Crawford,3,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,199,5,148,43,3
+Crawford,4,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,206,13,155,36,2
+Crawford,5,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,179,1,155,20,3
+Crawford,,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,316,12,223,78,3
+Crawford,1A,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,9,0,7,2,0
+Crawford,1B,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,21,0,14,7,0
+Crawford,2,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,49,2,29,17,1
+Crawford,3,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,67,4,39,24,0
+Crawford,4,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,97,5,72,19,1
+Crawford,5,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,73,1,62,9,1
+Crawford,,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,523,18,375,125,5
+Crawford,1A,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,17,0,13,4,0
+Crawford,1B,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,49,3,29,17,0
+Crawford,2,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,84,2,47,34,1
+Crawford,3,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,128,4,88,34,2
+Crawford,4,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,131,7,102,21,1
+Crawford,5,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,114,2,96,15,1
+Crawford,,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,602,21,448,125,8
+Crawford,1A,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,25,0,24,1,0
+Crawford,1B,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,35,0,26,9,0
+Crawford,2,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,110,5,69,34,2
+Crawford,3,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,129,5,89,34,1
+Crawford,4,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,169,11,122,34,2
+Crawford,5,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,134,0,118,13,3
+Crawford,,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,736,25,549,156,6
+Crawford,1A,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,31,1,27,3,0
+Crawford,1B,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,63,3,41,19,0
+Crawford,2,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,111,2,68,39,2
+Crawford,3,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,163,6,118,38,1
+Crawford,4,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,201,12,156,33,0
+Crawford,5,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,167,1,139,24,3
+Crawford,,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,339,9,247,78,5
+Crawford,1A,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,11,0,10,1,0
+Crawford,1B,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,19,0,13,6,0
+Crawford,2,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,66,2,41,22,1
+Crawford,3,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,86,2,57,26,1
+Crawford,4,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,81,4,55,20,2
+Crawford,5,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,76,1,71,3,1
+Crawford,,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,295,2,219,72,2
+Crawford,1A,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,30,0,30,0,0
+Crawford,1B,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,81,0,65,16,0
+Crawford,2,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,115,2,68,44,1
+Crawford,3,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,39,0,32,6,1
+Crawford,4,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,19,0,15,4,0
+Crawford,5,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,11,0,9,2,0
+Crawford,,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,415,10,271,130,4
+Crawford,1A,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,32,0,29,3,0
+Crawford,1B,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,74,0,57,17,0
+Crawford,2,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,170,7,91,70,2
+Crawford,3,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,65,2,40,23,0
+Crawford,4,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,45,1,34,10,0
+Crawford,5,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,29,0,20,7,2
+Crawford,,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,454,11,310,129,4
+Crawford,1A,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,34,0,32,2,0
+Crawford,1B,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,82,0,65,17,0
+Crawford,2,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,183,8,96,77,2
+Crawford,3,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,79,2,57,19,1
+Crawford,4,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,49,1,40,8,0
+Crawford,5,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,27,0,20,6,1
+Crawford,,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,242,1,168,71,2
+Crawford,1A,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,24,0,23,1,0
+Crawford,1B,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,68,0,52,16,0
+Crawford,2,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,97,1,59,36,1
+Crawford,3,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,25,0,16,9,0
+Crawford,4,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,14,0,8,6,0
+Crawford,5,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,14,0,10,3,1
+Crawford,,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,537,10,369,153,5
+Crawford,1A,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,50,0,47,3,0
+Crawford,1B,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,111,0,90,21,0
+Crawford,2,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,225,7,124,91,3
+Crawford,3,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,78,2,55,20,1
+Crawford,4,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,43,1,31,11,0
+Crawford,5,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,30,0,22,7,1
+Crawford,,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,173,1,121,50,1
+Crawford,1A,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,10,0,10,0,0
+Crawford,1B,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,43,0,32,11,0
+Crawford,2,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,64,1,38,25,0
+Crawford,3,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,26,0,17,9,0
+Crawford,4,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,19,0,16,3,0
+Crawford,5,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,11,0,8,2,1
+Crawford,,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,617,8,434,170,5
+Crawford,1A,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,54,0,51,3,0
+Crawford,1B,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,126,0,100,26,0
+Crawford,2,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,261,8,152,98,3
+Crawford,3,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,93,0,66,26,1
+Crawford,4,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,50,0,42,8,0
+Crawford,5,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,33,0,23,9,1
+Crawford,,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,111,4,70,36,1
+Crawford,1A,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,6,0,6,0,0
+Crawford,1B,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,32,0,25,7,0
+Crawford,2,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,39,1,19,19,0
+Crawford,3,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,12,2,6,4,0
+Crawford,4,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,13,1,6,6,0
+Crawford,5,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,9,0,8,0,1
+Crawford,,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,1410,38,1024,333,15
+Crawford,1A,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,77,0,71,6,0
+Crawford,1B,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,171,3,133,35,0
+Crawford,2,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,366,12,216,133,5
+Crawford,3,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,274,9,186,75,4
+Crawford,4,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,293,12,224,56,1
+Crawford,5,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,229,2,194,28,5
+Crawford,,Supreme Court Justice, Hunstein,,Write-in,4,0,4,0,0
+Crawford,1A,Supreme Court Justice, Hunstein,,Write-in,0,0,0,0,0
+Crawford,1B,Supreme Court Justice, Hunstein,,Write-in,1,0,1,0,0
+Crawford,2,Supreme Court Justice, Hunstein,,Write-in,0,0,0,0,0
+Crawford,3,Supreme Court Justice, Hunstein,,Write-in,1,0,1,0,0
+Crawford,4,Supreme Court Justice, Hunstein,,Write-in,1,0,1,0,0
+Crawford,5,Supreme Court Justice, Hunstein,,Write-in,1,0,1,0,0
+Crawford,,Supreme Court Justice, Melton,,HAROLD D. MELTON ,1383,40,1007,321,15
+Crawford,1A,Supreme Court Justice, Melton,,HAROLD D. MELTON ,84,1,77,6,0
+Crawford,1B,Supreme Court Justice, Melton,,HAROLD D. MELTON ,165,3,126,36,0
+Crawford,2,Supreme Court Justice, Melton,,HAROLD D. MELTON ,361,13,216,127,5
+Crawford,3,Supreme Court Justice, Melton,,HAROLD D. MELTON ,270,9,184,73,4
+Crawford,4,Supreme Court Justice, Melton,,HAROLD D. MELTON ,280,12,214,53,1
+Crawford,5,Supreme Court Justice, Melton,,HAROLD D. MELTON ,223,2,190,26,5
+Crawford,,Supreme Court Justice, Melton,,Write-in,3,0,3,0,0
+Crawford,1A,Supreme Court Justice, Melton,,Write-in,0,0,0,0,0
+Crawford,1B,Supreme Court Justice, Melton,,Write-in,0,0,0,0,0
+Crawford,2,Supreme Court Justice, Melton,,Write-in,0,0,0,0,0
+Crawford,3,Supreme Court Justice, Melton,,Write-in,1,0,1,0,0
+Crawford,4,Supreme Court Justice, Melton,,Write-in,1,0,1,0,0
+Crawford,5,Supreme Court Justice, Melton,,Write-in,1,0,1,0,0
+Crawford,,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,1366,38,1000,312,16
+Crawford,1A,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,80,0,74,6,0
+Crawford,1B,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,164,3,126,35,0
+Crawford,2,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,351,12,213,121,5
+Crawford,3,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,270,9,184,73,4
+Crawford,4,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,277,12,212,51,2
+Crawford,5,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,224,2,191,26,5
+Crawford,,Supreme Court Justice, Thompson,,Write-in,1,0,1,0,0
+Crawford,1A,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Crawford,1B,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Crawford,2,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Crawford,3,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Crawford,4,Supreme Court Justice, Thompson,,Write-in,1,0,1,0,0
+Crawford,5,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Crawford,,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,1366,36,1001,313,16
+Crawford,1A,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,85,0,79,6,0
+Crawford,1B,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,160,3,123,34,0
+Crawford,2,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,350,10,211,124,5
+Crawford,3,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,269,9,184,72,4
+Crawford,4,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,280,12,216,51,1
+Crawford,5,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,222,2,188,26,6
+Crawford,,Appeals Court Judge, Boggs,,Write-in,2,0,2,0,0
+Crawford,1A,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Crawford,1B,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Crawford,2,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Crawford,3,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Crawford,4,Appeals Court Judge, Boggs,,Write-in,1,0,1,0,0
+Crawford,5,Appeals Court Judge, Boggs,,Write-in,1,0,1,0,0
+Crawford,,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,1373,34,1007,315,17
+Crawford,1A,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,83,0,77,6,0
+Crawford,1B,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,168,3,131,34,0
+Crawford,2,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,347,8,210,124,5
+Crawford,3,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,269,9,183,73,4
+Crawford,4,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,281,12,215,52,2
+Crawford,5,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,225,2,191,26,6
+Crawford,,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Crawford,1A,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Crawford,1B,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Crawford,2,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Crawford,3,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Crawford,4,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Crawford,5,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Crawford,,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,1377,34,1013,313,17
+Crawford,1A,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,80,0,74,6,0
+Crawford,1B,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,169,3,132,34,0
+Crawford,2,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,352,8,214,125,5
+Crawford,3,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,267,9,183,71,4
+Crawford,4,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,280,12,215,51,2
+Crawford,5,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,229,2,195,26,6
+Crawford,,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Crawford,1A,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Crawford,1B,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Crawford,2,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Crawford,3,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Crawford,4,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Crawford,5,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Crawford,,Appeals Court Judge, Miller,,M. YVETTE MILLER ,1354,35,990,313,16
+Crawford,1A,Appeals Court Judge, Miller,,M. YVETTE MILLER ,80,0,74,6,0
+Crawford,1B,Appeals Court Judge, Miller,,M. YVETTE MILLER ,167,3,130,34,0
+Crawford,2,Appeals Court Judge, Miller,,M. YVETTE MILLER ,346,9,210,122,5
+Crawford,3,Appeals Court Judge, Miller,,M. YVETTE MILLER ,264,9,181,70,4
+Crawford,4,Appeals Court Judge, Miller,,M. YVETTE MILLER ,276,12,209,54,1
+Crawford,5,Appeals Court Judge, Miller,,M. YVETTE MILLER ,221,2,186,27,6
+Crawford,,Appeals Court Judge, Miller,,Write-in,1,0,1,0,0
+Crawford,1A,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Crawford,1B,Appeals Court Judge, Miller,,Write-in,1,0,1,0,0
+Crawford,2,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Crawford,3,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Crawford,4,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Crawford,5,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Crawford,,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,1338,34,984,304,16
+Crawford,1A,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,80,0,75,5,0
+Crawford,1B,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,158,3,123,32,0
+Crawford,2,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,341,8,209,119,5
+Crawford,3,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,267,9,182,72,4
+Crawford,4,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,275,12,211,51,1
+Crawford,5,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,217,2,184,25,6
+Crawford,,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Crawford,1A,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Crawford,1B,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Crawford,2,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Crawford,3,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Crawford,4,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Crawford,5,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Crawford,,Superior Court Judge, Macon Circuit (Brown),,S. PHILLIP BROWN ,1380,34,1020,310,16
+Crawford,1A,Superior Court Judge, Macon Circuit (Brown),,S. PHILLIP BROWN ,82,0,76,6,0
+Crawford,1B,Superior Court Judge, Macon Circuit (Brown),,S. PHILLIP BROWN ,164,3,128,33,0
+Crawford,2,Superior Court Judge, Macon Circuit (Brown),,S. PHILLIP BROWN ,355,8,218,124,5
+Crawford,3,Superior Court Judge, Macon Circuit (Brown),,S. PHILLIP BROWN ,270,9,188,69,4
+Crawford,4,Superior Court Judge, Macon Circuit (Brown),,S. PHILLIP BROWN ,278,12,214,51,1
+Crawford,5,Superior Court Judge, Macon Circuit (Brown),,S. PHILLIP BROWN ,231,2,196,27,6
+Crawford,,Superior Court Judge, Macon Circuit (Brown),,Write-in,2,0,0,2,0
+Crawford,1A,Superior Court Judge, Macon Circuit (Brown),,Write-in,0,0,0,0,0
+Crawford,1B,Superior Court Judge, Macon Circuit (Brown),,Write-in,1,0,0,1,0
+Crawford,2,Superior Court Judge, Macon Circuit (Brown),,Write-in,0,0,0,0,0
+Crawford,3,Superior Court Judge, Macon Circuit (Brown),,Write-in,0,0,0,0,0
+Crawford,4,Superior Court Judge, Macon Circuit (Brown),,Write-in,1,0,0,1,0
+Crawford,5,Superior Court Judge, Macon Circuit (Brown),,Write-in,0,0,0,0,0
+Crawford,,Superior Court Judge, Macon Circuit (Ennis),I,EDGAR W. ENNIS JR,1360,35,996,314,15
+Crawford,1A,Superior Court Judge, Macon Circuit (Ennis),I,EDGAR W. ENNIS JR,77,0,71,6,0
+Crawford,1B,Superior Court Judge, Macon Circuit (Ennis),I,EDGAR W. ENNIS JR,169,3,131,35,0
+Crawford,2,Superior Court Judge, Macon Circuit (Ennis),I,EDGAR W. ENNIS JR,339,9,205,120,5
+Crawford,3,Superior Court Judge, Macon Circuit (Ennis),I,EDGAR W. ENNIS JR,272,9,187,72,4
+Crawford,4,Superior Court Judge, Macon Circuit (Ennis),I,EDGAR W. ENNIS JR,278,12,212,53,1
+Crawford,5,Superior Court Judge, Macon Circuit (Ennis),I,EDGAR W. ENNIS JR,225,2,190,28,5
+Crawford,,Superior Court Judge, Macon Circuit (Ennis),,Write-in,0,0,0,0,0
+Crawford,1A,Superior Court Judge, Macon Circuit (Ennis),,Write-in,0,0,0,0,0
+Crawford,1B,Superior Court Judge, Macon Circuit (Ennis),,Write-in,0,0,0,0,0
+Crawford,2,Superior Court Judge, Macon Circuit (Ennis),,Write-in,0,0,0,0,0
+Crawford,3,Superior Court Judge, Macon Circuit (Ennis),,Write-in,0,0,0,0,0
+Crawford,4,Superior Court Judge, Macon Circuit (Ennis),,Write-in,0,0,0,0,0
+Crawford,5,Superior Court Judge, Macon Circuit (Ennis),,Write-in,0,0,0,0,0
+Crawford,,JUDGE, PROBATE COURT,,PAM LEWIS BUSBEE ,1633,42,1172,404,15
+Crawford,1A,JUDGE, PROBATE COURT,,PAM LEWIS BUSBEE ,89,0,82,7,0
+Crawford,1B,JUDGE, PROBATE COURT,,PAM LEWIS BUSBEE ,218,3,163,52,0
+Crawford,2,JUDGE, PROBATE COURT,,PAM LEWIS BUSBEE ,440,15,256,164,5
+Crawford,3,JUDGE, PROBATE COURT,,PAM LEWIS BUSBEE ,324,10,223,88,3
+Crawford,4,JUDGE, PROBATE COURT,,PAM LEWIS BUSBEE ,318,12,241,63,2
+Crawford,5,JUDGE, PROBATE COURT,,PAM LEWIS BUSBEE ,244,2,207,30,5
+Crawford,,JUDGE, PROBATE COURT,,Write-in,3,0,3,0,0
+Crawford,1A,JUDGE, PROBATE COURT,,Write-in,0,0,0,0,0
+Crawford,1B,JUDGE, PROBATE COURT,,Write-in,2,0,2,0,0
+Crawford,2,JUDGE, PROBATE COURT,,Write-in,0,0,0,0,0
+Crawford,3,JUDGE, PROBATE COURT,,Write-in,1,0,1,0,0
+Crawford,4,JUDGE, PROBATE COURT,,Write-in,0,0,0,0,0
+Crawford,5,JUDGE, PROBATE COURT,,Write-in,0,0,0,0,0
+Crawford,,CLERK, SUPERIOR COURT,,RYAN JOHNSON ,1512,41,1090,364,17
+Crawford,1A,CLERK, SUPERIOR COURT,,RYAN JOHNSON ,89,0,82,7,0
+Crawford,1B,CLERK, SUPERIOR COURT,,RYAN JOHNSON ,194,3,144,47,0
+Crawford,2,CLERK, SUPERIOR COURT,,RYAN JOHNSON ,392,15,229,143,5
+Crawford,3,CLERK, SUPERIOR COURT,,RYAN JOHNSON ,301,9,208,80,4
+Crawford,4,CLERK, SUPERIOR COURT,,RYAN JOHNSON ,301,12,229,58,2
+Crawford,5,CLERK, SUPERIOR COURT,,RYAN JOHNSON ,235,2,198,29,6
+Crawford,,CLERK, SUPERIOR COURT,,Write-in,4,0,3,1,0
+Crawford,1A,CLERK, SUPERIOR COURT,,Write-in,0,0,0,0,0
+Crawford,1B,CLERK, SUPERIOR COURT,,Write-in,1,0,1,0,0
+Crawford,2,CLERK, SUPERIOR COURT,,Write-in,1,0,1,0,0
+Crawford,3,CLERK, SUPERIOR COURT,,Write-in,0,0,0,0,0
+Crawford,4,CLERK, SUPERIOR COURT,,Write-in,1,0,0,1,0
+Crawford,5,CLERK, SUPERIOR COURT,,Write-in,1,0,1,0,0
+Crawford,,CHIEF MAGISTRATE,,,ANDREA' M. PETERMAN,1465,38,1061,349,17
+Crawford,1A,CHIEF MAGISTRATE,,,ANDREA' M. PETERMAN,85,0,78,7,0
+Crawford,1B,CHIEF MAGISTRATE,,,ANDREA' M. PETERMAN,186,3,142,41,0
+Crawford,2,CHIEF MAGISTRATE,,,ANDREA' M. PETERMAN,388,12,226,145,5
+Crawford,3,CHIEF MAGISTRATE,,,ANDREA' M. PETERMAN,288,9,200,75,4
+Crawford,4,CHIEF MAGISTRATE,,,ANDREA' M. PETERMAN,289,12,223,51,3
+Crawford,5,CHIEF MAGISTRATE,,,ANDREA' M. PETERMAN,229,2,192,30,5
+Crawford,,CHIEF MAGISTRATE,,,Write-in,11,0,6,5,0
+Crawford,1A,CHIEF MAGISTRATE,,,Write-in,0,0,0,0,0
+Crawford,1B,CHIEF MAGISTRATE,,,Write-in,1,0,1,0,0
+Crawford,2,CHIEF MAGISTRATE,,,Write-in,1,0,1,0,0
+Crawford,3,CHIEF MAGISTRATE,,,Write-in,3,0,2,1,0
+Crawford,4,CHIEF MAGISTRATE,,,Write-in,4,0,0,4,0
+Crawford,5,CHIEF MAGISTRATE,,,Write-in,2,0,2,0,0
+Crawford,,BOE D2,,,BRAD CODY,313,11,166,133,3
+Crawford,2,BOE D2,,,BRAD CODY,313,11,166,133,3
+Crawford,,BOE D2,,,EDDIE HARRIS ,167,6,108,50,3
+Crawford,2,BOE D2,,,EDDIE HARRIS ,167,6,108,50,3
+Crawford,,BOE D2,,,Write-in,0,0,0,0,0
+Crawford,2,BOE D2,,,Write-in,0,0,0,0,0
+Crawford,,BOE D3,,,RICHARD JACOBS,107,4,75,26,2
+Crawford,3,BOE D3,,,RICHARD JACOBS,107,4,75,26,2
+Crawford,,BOE D3,,,TIM JOHNSON ,158,6,107,45,0
+Crawford,3,BOE D3,,,TIM JOHNSON ,158,6,107,45,0
+Crawford,,BOE D3,,,SHERRY THOMPSON,74,1,54,17,2
+Crawford,3,BOE D3,,,SHERRY THOMPSON,74,1,54,17,2
+Crawford,,BOE D3,,,Write-in,0,0,0,0,0
+Crawford,3,BOE D3,,,Write-in,0,0,0,0,0
+Crawford,,BOE D4,,,LEE SANDERS ,285,9,218,56,2
+Crawford,4,BOE D4,,,LEE SANDERS ,285,9,218,56,2
+Crawford,,BOE D4,,,Write-in,2,0,0,2,0
+Crawford,4,BOE D4,,,Write-in,2,0,0,2,0
+Crawford,,TSPLOST,,,YES,665,13,486,158,8
+Crawford,1A,TSPLOST,,,YES,54,0,51,3,0
+Crawford,1B,TSPLOST,,,YES,102,0,78,24,0
+Crawford,2,TSPLOST,,,YES,205,5,120,76,4
+Crawford,3,TSPLOST,,,YES,118,5,85,27,1
+Crawford,4,TSPLOST,,,YES,104,3,81,19,1
+Crawford,5,TSPLOST,,,YES,82,0,71,9,2
+Crawford,,TSPLOST,,,NO,1213,37,876,290,10
+Crawford,1A,TSPLOST,,,NO,53,0,49,4,0
+Crawford,1B,TSPLOST,,,NO,139,3,105,31,0
+Crawford,2,TSPLOST,,,NO,291,10,171,108,2
+Crawford,3,TSPLOST,,,NO,256,6,177,70,3
+Crawford,4,TSPLOST,,,NO,263,16,196,49,2
+Crawford,5,TSPLOST,,,NO,211,2,178,28,3

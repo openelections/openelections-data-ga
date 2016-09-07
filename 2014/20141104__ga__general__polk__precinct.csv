@@ -1,0 +1,371 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Polk,,United States Senator,,R,DAVID A. PERDUE,5540,163,3258,2116,3
+Polk,ARAGON,United States Senator,,R,DAVID A. PERDUE,723,14,503,206,0
+Polk,BLOOMING GROVE,United States Senator,,R,DAVID A. PERDUE,379,12,250,117,0
+Polk,CEDARTOWN,United States Senator,,R,DAVID A. PERDUE,1260,66,566,628,0
+Polk,FISH CREEK,United States Senator,,R,DAVID A. PERDUE,708,16,456,236,0
+Polk,LAKE CREEK,United States Senator,,R,DAVID A. PERDUE,756,19,470,267,0
+Polk,ROCKMART,United States Senator,,R,DAVID A. PERDUE,1222,21,697,504,0
+Polk,YOUNGS GROVE,United States Senator,,R,DAVID A. PERDUE,492,15,316,158,3
+Polk,,United States Senator,,D,M. MICHELLE NUNN,2197,56,1119,1021,1
+Polk,ARAGON,United States Senator,,D,M. MICHELLE NUNN,221,1,139,81,0
+Polk,BLOOMING GROVE,United States Senator,,D,M. MICHELLE NUNN,136,7,61,68,0
+Polk,CEDARTOWN,United States Senator,,D,M. MICHELLE NUNN,749,28,323,398,0
+Polk,FISH CREEK,United States Senator,,D,M. MICHELLE NUNN,188,3,110,75,0
+Polk,LAKE CREEK,United States Senator,,D,M. MICHELLE NUNN,229,2,120,107,0
+Polk,ROCKMART,United States Senator,,D,M. MICHELLE NUNN,554,9,305,240,0
+Polk,YOUNGS GROVE,United States Senator,,D,M. MICHELLE NUNN,120,6,61,52,1
+Polk,,United States Senator,,L,AMANDA C. SWAFFORD,327,16,186,125,0
+Polk,ARAGON,United States Senator,,L,AMANDA C. SWAFFORD,41,0,30,11,0
+Polk,BLOOMING GROVE,United States Senator,,L,AMANDA C. SWAFFORD,38,3,18,17,0
+Polk,CEDARTOWN,United States Senator,,L,AMANDA C. SWAFFORD,71,8,26,37,0
+Polk,FISH CREEK,United States Senator,,L,AMANDA C. SWAFFORD,40,2,28,10,0
+Polk,LAKE CREEK,United States Senator,,L,AMANDA C. SWAFFORD,28,0,15,13,0
+Polk,ROCKMART,United States Senator,,L,AMANDA C. SWAFFORD,74,1,45,28,0
+Polk,YOUNGS GROVE,United States Senator,,L,AMANDA C. SWAFFORD,35,2,24,9,0
+Polk,,Governor,,,J. NATHAN DEAL (I),5322,165,3096,2057,4
+Polk,ARAGON,Governor,,,J. NATHAN DEAL (I),684,13,476,195,0
+Polk,BLOOMING GROVE,Governor,,,J. NATHAN DEAL (I),357,14,228,115,0
+Polk,CEDARTOWN,Governor,,,J. NATHAN DEAL (I),1229,69,544,616,0
+Polk,FISH CREEK,Governor,,,J. NATHAN DEAL (I),684,17,439,228,0
+Polk,LAKE CREEK,Governor,,,J. NATHAN DEAL (I),719,18,440,261,0
+Polk,ROCKMART,Governor,,,J. NATHAN DEAL (I),1175,21,661,493,0
+Polk,YOUNGS GROVE,Governor,,,J. NATHAN DEAL (I),474,13,308,149,4
+Polk,,Governor,,D,JASON J. CARTER,2387,63,1287,1037,0
+Polk,ARAGON,Governor,,D,JASON J. CARTER,245,1,161,83,0
+Polk,BLOOMING GROVE,Governor,,D,JASON J. CARTER,165,8,85,72,0
+Polk,CEDARTOWN,Governor,,D,JASON J. CARTER,774,29,346,399,0
+Polk,FISH CREEK,Governor,,D,JASON J. CARTER,217,3,132,82,0
+Polk,LAKE CREEK,Governor,,D,JASON J. CARTER,258,3,147,108,0
+Polk,ROCKMART,Governor,,D,JASON J. CARTER,582,10,335,237,0
+Polk,YOUNGS GROVE,Governor,,D,JASON J. CARTER,146,9,81,56,0
+Polk,,Governor,,L,ANDREW T. HUNT,281,7,154,120,0
+Polk,ARAGON,Governor,,L,ANDREW T. HUNT,42,1,24,17,0
+Polk,BLOOMING GROVE,Governor,,L,ANDREW T. HUNT,32,0,18,14,0
+Polk,CEDARTOWN,Governor,,L,ANDREW T. HUNT,71,4,27,40,0
+Polk,FISH CREEK,Governor,,L,ANDREW T. HUNT,27,1,19,7,0
+Polk,LAKE CREEK,Governor,,L,ANDREW T. HUNT,33,0,20,13,0
+Polk,ROCKMART,Governor,,L,ANDREW T. HUNT,58,0,33,25,0
+Polk,YOUNGS GROVE,Governor,,L,ANDREW T. HUNT,18,1,13,4,0
+Polk,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",6076,180,3573,2319,4
+Polk,ARAGON,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",791,15,561,215,0
+Polk,BLOOMING GROVE,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",412,15,275,122,0
+Polk,CEDARTOWN,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1415,76,641,698,0
+Polk,FISH CREEK,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",770,16,499,255,0
+Polk,LAKE CREEK,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",817,19,504,294,0
+Polk,ROCKMART,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1344,23,753,568,0
+Polk,YOUNGS GROVE,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",527,16,340,167,4
+Polk,,Lieutenant Governor,,D,CONNIE J. STOKES,1864,52,942,870,0
+Polk,ARAGON,Lieutenant Governor,,D,CONNIE J. STOKES,172,0,103,69,0
+Polk,BLOOMING GROVE,Lieutenant Governor,,D,CONNIE J. STOKES,132,7,54,71,0
+Polk,CEDARTOWN,Lieutenant Governor,,D,CONNIE J. STOKES,621,25,258,338,0
+Polk,FISH CREEK,Lieutenant Governor,,D,CONNIE J. STOKES,156,4,92,60,0
+Polk,LAKE CREEK,Lieutenant Governor,,D,CONNIE J. STOKES,193,2,98,93,0
+Polk,ROCKMART,Lieutenant Governor,,D,CONNIE J. STOKES,484,8,281,195,0
+Polk,YOUNGS GROVE,Lieutenant Governor,,D,CONNIE J. STOKES,106,6,56,44,0
+Polk,,Secretary Of State,,R,BRIAN P. KEMP (I),5888,175,3444,2265,4
+Polk,ARAGON,Secretary Of State,,R,BRIAN P. KEMP (I),768,15,539,214,0
+Polk,BLOOMING GROVE,Secretary Of State,,R,BRIAN P. KEMP (I),401,14,258,129,0
+Polk,CEDARTOWN,Secretary Of State,,R,BRIAN P. KEMP (I),1362,72,608,682,0
+Polk,FISH CREEK,Secretary Of State,,R,BRIAN P. KEMP (I),745,16,480,249,0
+Polk,LAKE CREEK,Secretary Of State,,R,BRIAN P. KEMP (I),788,19,486,283,0
+Polk,ROCKMART,Secretary Of State,,R,BRIAN P. KEMP (I),1307,22,744,541,0
+Polk,YOUNGS GROVE,Secretary Of State,,R,BRIAN P. KEMP (I),517,17,329,167,4
+Polk,,Secretary Of State,,D,DOREEN CARTER,2030,56,1040,934,0
+Polk,ARAGON,Secretary Of State,,D,DOREEN CARTER,193,0,121,72,0
+Polk,BLOOMING GROVE,Secretary Of State,,D,DOREEN CARTER,140,7,66,67,0
+Polk,CEDARTOWN,Secretary Of State,,D,DOREEN CARTER,670,29,286,355,0
+Polk,FISH CREEK,Secretary Of State,,D,DOREEN CARTER,181,4,108,69,0
+Polk,LAKE CREEK,Secretary Of State,,D,DOREEN CARTER,209,2,102,105,0
+Polk,ROCKMART,Secretary Of State,,D,DOREEN CARTER,520,9,292,219,0
+Polk,YOUNGS GROVE,Secretary Of State,,D,DOREEN CARTER,117,5,65,47,0
+Polk,,Attorney General,,R,SAMUEL S. OLENS (I),5777,170,3397,2206,4
+Polk,ARAGON,Attorney General,,R,SAMUEL S. OLENS (I),758,14,533,211,0
+Polk,BLOOMING GROVE,Attorney General,,R,SAMUEL S. OLENS (I),379,15,247,117,0
+Polk,CEDARTOWN,Attorney General,,R,SAMUEL S. OLENS (I),1338,71,601,666,0
+Polk,FISH CREEK,Attorney General,,R,SAMUEL S. OLENS (I),739,15,483,241,0
+Polk,LAKE CREEK,Attorney General,,R,SAMUEL S. OLENS (I),769,18,475,276,0
+Polk,ROCKMART,Attorney General,,R,SAMUEL S. OLENS (I),1283,22,726,535,0
+Polk,YOUNGS GROVE,Attorney General,,R,SAMUEL S. OLENS (I),511,15,332,160,4
+Polk,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",2125,61,1085,979,0
+Polk,ARAGON,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",203,1,127,75,0
+Polk,BLOOMING GROVE,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",158,7,75,76,0
+Polk,CEDARTOWN,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",691,29,296,366,0
+Polk,FISH CREEK,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",189,5,106,78,0
+Polk,LAKE CREEK,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",228,3,117,108,0
+Polk,ROCKMART,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",534,8,303,223,0
+Polk,YOUNGS GROVE,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",122,8,61,53,0
+Polk,,Commissioner Of Agriculture,,R,GARY W. BLACK (I),5924,174,3504,2242,4
+Polk,ARAGON,Commissioner Of Agriculture,,R,GARY W. BLACK (I),765,13,542,210,0
+Polk,BLOOMING GROVE,Commissioner Of Agriculture,,R,GARY W. BLACK (I),402,17,257,128,0
+Polk,CEDARTOWN,Commissioner Of Agriculture,,R,GARY W. BLACK (I),1374,76,628,670,0
+Polk,FISH CREEK,Commissioner Of Agriculture,,R,GARY W. BLACK (I),759,16,494,249,0
+Polk,LAKE CREEK,Commissioner Of Agriculture,,R,GARY W. BLACK (I),795,19,498,278,0
+Polk,ROCKMART,Commissioner Of Agriculture,,R,GARY W. BLACK (I),1296,19,738,539,0
+Polk,YOUNGS GROVE,Commissioner Of Agriculture,,R,GARY W. BLACK (I),533,14,347,168,4
+Polk,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,1958,56,973,929,0
+Polk,ARAGON,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,191,2,117,72,0
+Polk,BLOOMING GROVE,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,144,5,73,66,0
+Polk,CEDARTOWN,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,635,23,262,350,0
+Polk,FISH CREEK,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,166,4,94,68,0
+Polk,LAKE CREEK,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,204,2,94,108,0
+Polk,ROCKMART,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,511,11,281,219,0
+Polk,YOUNGS GROVE,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,107,9,52,46,0
+Polk,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),5712,167,3353,2188,4
+Polk,ARAGON,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),745,11,529,205,0
+Polk,BLOOMING GROVE,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),380,15,244,121,0
+Polk,CEDARTOWN,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1321,69,594,658,0
+Polk,FISH CREEK,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),742,16,472,254,0
+Polk,LAKE CREEK,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),764,18,473,273,0
+Polk,ROCKMART,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1262,24,716,522,0
+Polk,YOUNGS GROVE,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),498,14,325,155,4
+Polk,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",1920,51,968,901,0
+Polk,ARAGON,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",180,1,108,71,0
+Polk,BLOOMING GROVE,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",129,6,58,65,0
+Polk,CEDARTOWN,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",641,26,272,343,0
+Polk,FISH CREEK,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",155,2,95,58,0
+Polk,LAKE CREEK,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",204,1,102,101,0
+Polk,ROCKMART,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",504,7,283,214,0
+Polk,YOUNGS GROVE,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",107,8,50,49,0
+Polk,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",296,15,162,119,0
+Polk,ARAGON,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",38,3,22,13,0
+Polk,BLOOMING GROVE,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",38,1,25,12,0
+Polk,CEDARTOWN,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",77,6,30,41,0
+Polk,FISH CREEK,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",30,2,21,7,0
+Polk,LAKE CREEK,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",31,2,17,12,0
+Polk,ROCKMART,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",53,0,29,24,0
+Polk,YOUNGS GROVE,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",29,1,18,10,0
+Polk,,State School Superintendent,,R,RICHARD L. WOODS,5675,175,3318,2178,4
+Polk,ARAGON,State School Superintendent,,R,RICHARD L. WOODS,734,15,511,208,0
+Polk,BLOOMING GROVE,State School Superintendent,,R,RICHARD L. WOODS,381,13,251,117,0
+Polk,CEDARTOWN,State School Superintendent,,R,RICHARD L. WOODS,1310,73,587,650,0
+Polk,FISH CREEK,State School Superintendent,,R,RICHARD L. WOODS,725,16,464,245,0
+Polk,LAKE CREEK,State School Superintendent,,R,RICHARD L. WOODS,749,19,467,263,0
+Polk,ROCKMART,State School Superintendent,,R,RICHARD L. WOODS,1257,22,708,527,0
+Polk,YOUNGS GROVE,State School Superintendent,,R,RICHARD L. WOODS,519,17,330,168,4
+Polk,,State School Superintendent,,D,VALARIE D. WILSON,2219,56,1168,995,0
+Polk,ARAGON,State School Superintendent,,D,VALARIE D. WILSON,225,0,149,76,0
+Polk,BLOOMING GROVE,State School Superintendent,,D,VALARIE D. WILSON,162,9,74,79,0
+Polk,CEDARTOWN,State School Superintendent,,D,VALARIE D. WILSON,713,27,316,370,0
+Polk,FISH CREEK,State School Superintendent,,D,VALARIE D. WILSON,203,4,126,73,0
+Polk,LAKE CREEK,State School Superintendent,,D,VALARIE D. WILSON,237,2,117,118,0
+Polk,ROCKMART,State School Superintendent,,D,VALARIE D. WILSON,564,8,324,232,0
+Polk,YOUNGS GROVE,State School Superintendent,,D,VALARIE D. WILSON,115,6,62,47,0
+Polk,,Commissioner Of Labor,,R,J. MARK BUTLER (I),5808,174,3400,2230,4
+Polk,ARAGON,Commissioner Of Labor,,R,J. MARK BUTLER (I),751,14,529,208,0
+Polk,BLOOMING GROVE,Commissioner Of Labor,,R,J. MARK BUTLER (I),389,14,254,121,0
+Polk,CEDARTOWN,Commissioner Of Labor,,R,J. MARK BUTLER (I),1351,73,603,675,0
+Polk,FISH CREEK,Commissioner Of Labor,,R,J. MARK BUTLER (I),747,15,483,249,0
+Polk,LAKE CREEK,Commissioner Of Labor,,R,J. MARK BUTLER (I),772,19,477,276,0
+Polk,ROCKMART,Commissioner Of Labor,,R,J. MARK BUTLER (I),1287,23,723,541,0
+Polk,YOUNGS GROVE,Commissioner Of Labor,,R,J. MARK BUTLER (I),511,16,331,160,4
+Polk,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,2068,55,1068,945,0
+Polk,ARAGON,Commissioner Of Labor,,D,ROBBIN K. SHIPP,200,0,127,73,0
+Polk,BLOOMING GROVE,Commissioner Of Labor,,D,ROBBIN K. SHIPP,146,7,69,70,0
+Polk,CEDARTOWN,Commissioner Of Labor,,D,ROBBIN K. SHIPP,667,27,290,350,0
+Polk,FISH CREEK,Commissioner Of Labor,,D,ROBBIN K. SHIPP,184,5,110,69,0
+Polk,LAKE CREEK,Commissioner Of Labor,,D,ROBBIN K. SHIPP,219,2,108,109,0
+Polk,ROCKMART,Commissioner Of Labor,,D,ROBBIN K. SHIPP,533,7,305,221,0
+Polk,YOUNGS GROVE,Commissioner Of Labor,,D,ROBBIN K. SHIPP,119,7,59,53,0
+Polk,,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",5962,170,3496,2292,4
+Polk,ARAGON,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",749,8,532,209,0
+Polk,BLOOMING GROVE,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",395,17,259,119,0
+Polk,CEDARTOWN,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1435,73,645,717,0
+Polk,FISH CREEK,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",755,17,488,250,0
+Polk,LAKE CREEK,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",808,19,492,297,0
+Polk,ROCKMART,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1307,21,751,535,0
+Polk,YOUNGS GROVE,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",513,15,329,165,4
+Polk,,Public Service Commission,1,L,JOHN H. MONDS,1442,41,756,645,0
+Polk,ARAGON,Public Service Commission,1,L,JOHN H. MONDS,155,5,98,52,0
+Polk,BLOOMING GROVE,Public Service Commission,1,L,JOHN H. MONDS,116,3,54,59,0
+Polk,CEDARTOWN,Public Service Commission,1,L,JOHN H. MONDS,418,17,186,215,0
+Polk,FISH CREEK,Public Service Commission,1,L,JOHN H. MONDS,135,3,82,50,0
+Polk,LAKE CREEK,Public Service Commission,1,L,JOHN H. MONDS,142,2,72,68,0
+Polk,ROCKMART,Public Service Commission,1,L,JOHN H. MONDS,369,5,205,159,0
+Polk,YOUNGS GROVE,Public Service Commission,1,L,JOHN H. MONDS,107,6,59,42,0
+Polk,,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",5458,156,3219,2079,4
+Polk,ARAGON,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",714,10,506,198,0
+Polk,BLOOMING GROVE,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",348,12,226,110,0
+Polk,CEDARTOWN,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1246,67,555,624,0
+Polk,FISH CREEK,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",714,15,462,237,0
+Polk,LAKE CREEK,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",747,18,463,266,0
+Polk,ROCKMART,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1217,20,704,493,0
+Polk,YOUNGS GROVE,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",472,14,303,151,4
+Polk,,Public Service Commission,4,D,DANIEL A. BLACKMAN,2022,52,1031,939,0
+Polk,ARAGON,Public Service Commission,4,D,DANIEL A. BLACKMAN,200,0,127,73,0
+Polk,BLOOMING GROVE,Public Service Commission,4,D,DANIEL A. BLACKMAN,150,8,71,71,0
+Polk,CEDARTOWN,Public Service Commission,4,D,DANIEL A. BLACKMAN,677,24,296,357,0
+Polk,FISH CREEK,Public Service Commission,4,D,DANIEL A. BLACKMAN,167,4,101,62,0
+Polk,LAKE CREEK,Public Service Commission,4,D,DANIEL A. BLACKMAN,199,2,97,100,0
+Polk,ROCKMART,Public Service Commission,4,D,DANIEL A. BLACKMAN,512,6,280,226,0
+Polk,YOUNGS GROVE,Public Service Commission,4,D,DANIEL A. BLACKMAN,117,8,59,50,0
+Polk,,Public Service Commission,4,L,ROBIN AARON GILMER,418,22,224,172,0
+Polk,ARAGON,Public Service Commission,4,L,ROBIN AARON GILMER,47,5,27,15,0
+Polk,BLOOMING GROVE,Public Service Commission,4,L,ROBIN AARON GILMER,48,2,32,14,0
+Polk,CEDARTOWN,Public Service Commission,4,L,ROBIN AARON GILMER,108,9,39,60,0
+Polk,FISH CREEK,Public Service Commission,4,L,ROBIN AARON GILMER,42,2,23,17,0
+Polk,LAKE CREEK,Public Service Commission,4,L,ROBIN AARON GILMER,48,1,29,18,0
+Polk,ROCKMART,Public Service Commission,4,L,ROBIN AARON GILMER,81,2,44,35,0
+Polk,YOUNGS GROVE,Public Service Commission,4,L,ROBIN AARON GILMER,44,1,30,13,0
+Polk,,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",6714,193,3922,2595,4
+Polk,ARAGON,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",843,12,599,232,0
+Polk,BLOOMING GROVE,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",446,17,291,138,0
+Polk,CEDARTOWN,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",1660,83,741,836,0
+Polk,FISH CREEK,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",816,19,529,268,0
+Polk,LAKE CREEK,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",886,21,539,326,0
+Polk,ROCKMART,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",1487,23,859,605,0
+Polk,YOUNGS GROVE,U.S. Representative,14,R,"J. T. ""TOM"" GRAVES (I)",576,18,364,190,4
+Polk,,State Senator,31,R,"WILLIAM D. ""BILL"" HEATH (I)",5823,170,3455,2194,4
+Polk,ARAGON,State Senator,31,R,"WILLIAM D. ""BILL"" HEATH (I)",761,15,537,209,0
+Polk,BLOOMING GROVE,State Senator,31,R,"WILLIAM D. ""BILL"" HEATH (I)",400,15,265,120,0
+Polk,CEDARTOWN,State Senator,31,R,"WILLIAM D. ""BILL"" HEATH (I)",1326,69,606,651,0
+Polk,FISH CREEK,State Senator,31,R,"WILLIAM D. ""BILL"" HEATH (I)",743,16,483,244,0
+Polk,LAKE CREEK,State Senator,31,R,"WILLIAM D. ""BILL"" HEATH (I)",796,18,494,284,0
+Polk,ROCKMART,State Senator,31,R,"WILLIAM D. ""BILL"" HEATH (I)",1277,19,737,521,0
+Polk,YOUNGS GROVE,State Senator,31,R,"WILLIAM D. ""BILL"" HEATH (I)",520,18,333,165,4
+Polk,,State Senator,31,D,CHARLES L. R. WINTER,2066,57,1041,968,0
+Polk,ARAGON,State Senator,31,D,CHARLES L. R. WINTER,198,0,122,76,0
+Polk,BLOOMING GROVE,State Senator,31,D,CHARLES L. R. WINTER,140,7,64,69,0
+Polk,CEDARTOWN,State Senator,31,D,CHARLES L. R. WINTER,694,29,294,371,0
+Polk,FISH CREEK,State Senator,31,D,CHARLES L. R. WINTER,174,3,106,65,0
+Polk,LAKE CREEK,State Senator,31,D,CHARLES L. R. WINTER,203,3,102,98,0
+Polk,ROCKMART,State Senator,31,D,CHARLES L. R. WINTER,544,10,294,240,0
+Polk,YOUNGS GROVE,State Senator,31,D,CHARLES L. R. WINTER,113,5,59,49,0
+Polk,,State Representative,16,R,"O. D. ""TREY"" KELLEY (I)",6815,195,3974,2642,4
+Polk,ARAGON,State Representative,16,R,"O. D. ""TREY"" KELLEY (I)",852,14,603,235,0
+Polk,BLOOMING GROVE,State Representative,16,R,"O. D. ""TREY"" KELLEY (I)",464,17,301,146,0
+Polk,CEDARTOWN,State Representative,16,R,"O. D. ""TREY"" KELLEY (I)",1707,83,762,862,0
+Polk,FISH CREEK,State Representative,16,R,"O. D. ""TREY"" KELLEY (I)",820,19,534,267,0
+Polk,LAKE CREEK,State Representative,16,R,"O. D. ""TREY"" KELLEY (I)",897,21,544,332,0
+Polk,ROCKMART,State Representative,16,R,"O. D. ""TREY"" KELLEY (I)",1508,23,872,613,0
+Polk,YOUNGS GROVE,State Representative,16,R,"O. D. ""TREY"" KELLEY (I)",567,18,358,187,4
+Polk,,CC,D1,R,MICHAEL J. WARD (I),6607,190,3867,2546,4
+Polk,ARAGON,CC,D1,R,MICHAEL J. WARD (I),840,12,600,228,0
+Polk,BLOOMING GROVE,CC,D1,R,MICHAEL J. WARD (I),434,17,281,136,0
+Polk,CEDARTOWN,CC,D1,R,MICHAEL J. WARD (I),1649,81,739,829,0
+Polk,FISH CREEK,CC,D1,R,MICHAEL J. WARD (I),800,18,524,258,0
+Polk,LAKE CREEK,CC,D1,R,MICHAEL J. WARD (I),862,21,524,317,0
+Polk,ROCKMART,CC,D1,R,MICHAEL J. WARD (I),1456,23,844,589,0
+Polk,YOUNGS GROVE,CC,D1,R,MICHAEL J. WARD (I),566,18,355,189,4
+Polk,,CC,D2,R,JENNIFER HULSEY,6642,180,3889,2569,4
+Polk,ARAGON,CC,D2,R,JENNIFER HULSEY,831,12,593,226,0
+Polk,BLOOMING GROVE,CC,D2,R,JENNIFER HULSEY,446,17,289,140,0
+Polk,CEDARTOWN,CC,D2,R,JENNIFER HULSEY,1650,74,743,833,0
+Polk,FISH CREEK,CC,D2,R,JENNIFER HULSEY,811,17,524,270,0
+Polk,LAKE CREEK,CC,D2,R,JENNIFER HULSEY,857,19,522,316,0
+Polk,ROCKMART,CC,D2,R,JENNIFER HULSEY,1479,23,858,598,0
+Polk,YOUNGS GROVE,CC,D2,R,JENNIFER HULSEY,568,18,360,186,4
+Polk,,CC,D3,R,M. THAXTON (I),6429,178,3784,2463,4
+Polk,ARAGON,CC,D3,R,M. THAXTON (I),822,12,585,225,0
+Polk,BLOOMING GROVE,CC,D3,R,M. THAXTON (I),427,16,276,135,0
+Polk,CEDARTOWN,CC,D3,R,M. THAXTON (I),1548,72,695,781,0
+Polk,FISH CREEK,CC,D3,R,M. THAXTON (I),782,19,512,251,0
+Polk,LAKE CREEK,CC,D3,R,M. THAXTON (I),839,19,511,309,0
+Polk,ROCKMART,CC,D3,R,M. THAXTON (I),1467,23,860,584,0
+Polk,YOUNGS GROVE,CC,D3,R,M. THAXTON (I),544,17,345,178,4
+Polk,,BOE D1,,R,JANE HOLBROOKS (I),871,30,500,341,0
+Polk,BLOOMING GROVE,BOE D1,,R,JANE HOLBROOKS (I),432,16,285,131,0
+Polk,CEDARTOWN,BOE D1,,R,JANE HOLBROOKS (I),135,7,60,68,0
+Polk,LAKE CREEK,BOE D1,,R,JANE HOLBROOKS (I),304,7,155,142,0
+Polk,,BOE D2,,R,SUSAN L. BERRY (I),252,15,133,104,0
+Polk,CEDARTOWN,BOE D2,,R,SUSAN L. BERRY (I),252,15,133,104,0
+Polk,,BOE D2,,D,BERNARD MORGAN,324,10,140,174,0
+Polk,CEDARTOWN,BOE D2,,D,BERNARD MORGAN,324,10,140,174,0
+Polk,,BOE D4,,R,G. MCCRICKARD (I),814,26,512,273,3
+Polk,CEDARTOWN,BOE D4,,R,G. MCCRICKARD (I),135,12,68,55,0
+Polk,FISH CREEK,BOE D4,,R,G. MCCRICKARD (I),78,1,45,32,0
+Polk,LAKE CREEK,BOE D4,,R,G. MCCRICKARD (I),204,3,145,56,0
+Polk,YOUNGS GROVE,BOE D4,,R,G. MCCRICKARD (I),397,10,254,130,3
+Polk,,BOE D4,,D,R. ROBERTS,294,13,141,140,0
+Polk,CEDARTOWN,BOE D4,,D,R. ROBERTS,81,4,29,48,0
+Polk,FISH CREEK,BOE D4,,D,R. ROBERTS,7,0,3,4,0
+Polk,LAKE CREEK,BOE D4,,D,R. ROBERTS,80,2,41,37,0
+Polk,YOUNGS GROVE,BOE D4,,D,R. ROBERTS,126,7,68,51,0
+Polk,,BOE D5,,R,TERRY ESTES (I),1276,31,818,426,1
+Polk,ARAGON,BOE D5,,R,TERRY ESTES (I),257,1,160,96,0
+Polk,FISH CREEK,BOE D5,,R,TERRY ESTES (I),731,20,479,232,0
+Polk,ROCKMART,BOE D5,,R,TERRY ESTES (I),194,5,119,70,0
+Polk,YOUNGS GROVE,BOE D5,,R,TERRY ESTES (I),94,5,60,28,1
+Polk,,BOE D7,,R,TOMMY SANDERS (I),916,14,635,267,0
+Polk,ARAGON,BOE D7,,R,TOMMY SANDERS (I),573,11,433,129,0
+Polk,ROCKMART,BOE D7,,R,TOMMY SANDERS (I),343,3,202,138,0
+Polk,,SOIL & WATER,,R,JAMES M. LANGFORD,3099,79,1817,1199,4
+Polk,ARAGON,SOIL & WATER,,R,JAMES M. LANGFORD,455,7,329,119,0
+Polk,BLOOMING GROVE,SOIL & WATER,,R,JAMES M. LANGFORD,192,7,115,70,0
+Polk,CEDARTOWN,SOIL & WATER,,R,JAMES M. LANGFORD,648,32,280,336,0
+Polk,FISH CREEK,SOIL & WATER,,R,JAMES M. LANGFORD,387,9,253,125,0
+Polk,LAKE CREEK,SOIL & WATER,,R,JAMES M. LANGFORD,347,9,202,136,0
+Polk,ROCKMART,SOIL & WATER,,R,JAMES M. LANGFORD,827,7,478,342,0
+Polk,YOUNGS GROVE,SOIL & WATER,,R,JAMES M. LANGFORD,243,8,160,71,4
+Polk,,SOIL & WATER,,,JEWELL TUCK (I),3992,131,2217,1644,0
+Polk,ARAGON,SOIL & WATER,,,JEWELL TUCK (I),394,5,258,131,0
+Polk,BLOOMING GROVE,SOIL & WATER,,,JEWELL TUCK (I),306,13,194,99,0
+Polk,CEDARTOWN,SOIL & WATER,,,JEWELL TUCK (I),1205,61,529,615,0
+Polk,FISH CREEK,SOIL & WATER,,,JEWELL TUCK (I),431,11,266,154,0
+Polk,LAKE CREEK,SOIL & WATER,,,JEWELL TUCK (I),570,11,342,217,0
+Polk,ROCKMART,SOIL & WATER,,,JEWELL TUCK (I),733,18,417,298,0
+Polk,YOUNGS GROVE,SOIL & WATER,,,JEWELL TUCK (I),353,12,211,130,0
+Polk,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,6066,198,3410,2455,3
+Polk,ARAGON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,762,14,521,227,0
+Polk,BLOOMING GROVE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,410,18,238,154,0
+Polk,CEDARTOWN,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1539,86,673,780,0
+Polk,FISH CREEK,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,734,20,448,266,0
+Polk,LAKE CREEK,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,774,20,465,289,0
+Polk,ROCKMART,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1348,23,751,574,0
+Polk,YOUNGS GROVE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,499,17,314,165,3
+Polk,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,1865,30,1106,728,1
+Polk,ARAGON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,208,0,149,59,0
+Polk,BLOOMING GROVE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,134,4,90,40,0
+Polk,CEDARTOWN,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,494,13,224,257,0
+Polk,FISH CREEK,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,198,1,144,53,0
+Polk,LAKE CREEK,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,227,0,136,91,0
+Polk,ROCKMART,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,467,7,280,180,0
+Polk,YOUNGS GROVE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,137,5,83,48,1
+Polk,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,5268,154,3037,2074,3
+Polk,ARAGON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,631,7,454,170,0
+Polk,BLOOMING GROVE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,334,13,205,116,0
+Polk,CEDARTOWN,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1430,66,634,730,0
+Polk,FISH CREEK,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,609,14,399,196,0
+Polk,LAKE CREEK,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,644,16,391,237,0
+Polk,ROCKMART,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1201,20,698,483,0
+Polk,YOUNGS GROVE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,419,18,256,142,3
+Polk,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,2546,65,1422,1058,1
+Polk,ARAGON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,323,7,203,113,0
+Polk,BLOOMING GROVE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,201,8,121,72,0
+Polk,CEDARTOWN,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,575,26,248,301,0
+Polk,FISH CREEK,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,305,6,186,113,0
+Polk,LAKE CREEK,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,339,4,199,136,0
+Polk,ROCKMART,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,592,9,328,255,0
+Polk,YOUNGS GROVE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,211,5,137,68,1
+Polk,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,5458,155,3158,2142,3
+Polk,ARAGON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,657,9,476,172,0
+Polk,BLOOMING GROVE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,340,13,219,108,0
+Polk,CEDARTOWN,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1441,65,638,738,0
+Polk,FISH CREEK,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,640,14,415,211,0
+Polk,LAKE CREEK,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,682,14,430,238,0
+Polk,ROCKMART,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1288,23,730,535,0
+Polk,YOUNGS GROVE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,410,17,250,140,3
+Polk,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,2378,65,1297,1015,1
+Polk,ARAGON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,297,5,183,109,0
+Polk,BLOOMING GROVE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,195,8,103,84,0
+Polk,CEDARTOWN,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,574,30,242,302,0
+Polk,FISH CREEK,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,282,6,173,103,0
+Polk,LAKE CREEK,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,301,6,157,138,0
+Polk,ROCKMART,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,515,5,301,209,0
+Polk,YOUNGS GROVE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,214,5,138,70,1
+Polk,,PAID/VOLLUNTEER FIRE DEPARTMENT,,,YES,2851,78,1707,1064,2
+Polk,ARAGON,PAID/VOLLUNTEER FIRE DEPARTMENT,,,YES,432,7,307,118,0
+Polk,BLOOMING GROVE,PAID/VOLLUNTEER FIRE DEPARTMENT,,,YES,242,10,146,86,0
+Polk,CEDARTOWN,PAID/VOLLUNTEER FIRE DEPARTMENT,,,YES,461,28,189,244,0
+Polk,FISH CREEK,PAID/VOLLUNTEER FIRE DEPARTMENT,,,YES,442,10,294,138,0
+Polk,LAKE CREEK,PAID/VOLLUNTEER FIRE DEPARTMENT,,,YES,450,4,277,169,0
+Polk,ROCKMART,PAID/VOLLUNTEER FIRE DEPARTMENT,,,YES,547,10,322,215,0
+Polk,YOUNGS GROVE,PAID/VOLLUNTEER FIRE DEPARTMENT,,,YES,277,9,172,94,2
+Polk,,PAID/VOLLUNTEER FIRE DEPARTMENT,,,NO,2877,101,1614,1160,2
+Polk,ARAGON,PAID/VOLLUNTEER FIRE DEPARTMENT,,,NO,342,5,206,131,0
+Polk,BLOOMING GROVE,PAID/VOLLUNTEER FIRE DEPARTMENT,,,NO,298,11,179,108,0
+Polk,CEDARTOWN,PAID/VOLLUNTEER FIRE DEPARTMENT,,,NO,434,32,180,222,0
+Polk,FISH CREEK,PAID/VOLLUNTEER FIRE DEPARTMENT,,,NO,478,10,293,175,0
+Polk,LAKE CREEK,PAID/VOLLUNTEER FIRE DEPARTMENT,,,NO,539,16,315,208,0
+Polk,ROCKMART,PAID/VOLLUNTEER FIRE DEPARTMENT,,,NO,433,14,219,200,0
+Polk,YOUNGS GROVE,PAID/VOLLUNTEER FIRE DEPARTMENT,,,NO,353,13,222,116,2

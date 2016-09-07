@@ -1,0 +1,962 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Walton,,United States Senator,,R,DAVID A. PERDUE,20073,781,14730,4549,13
+Walton,Bold Springs,United States Senator,,R,DAVID A. PERDUE,1631,48,1256,327,0
+Walton,Whatley,United States Senator,,R,DAVID A. PERDUE,407,13,311,83,0
+Walton,Walker Park,United States Senator,,R,DAVID A. PERDUE,1266,57,830,377,2
+Walton,Gratis,United States Senator,,R,DAVID A. PERDUE,525,7,428,90,0
+Walton,Between,United States Senator,,R,DAVID A. PERDUE,1608,72,1136,399,1
+Walton,Walnut Grove,United States Senator,,R,DAVID A. PERDUE,849,25,682,142,0
+Walton,Loganville North,United States Senator,,R,DAVID A. PERDUE,1461,73,1091,297,0
+Walton,Social Circle,United States Senator,,R,DAVID A. PERDUE,1171,34,887,250,0
+Walton,South Monroe,United States Senator,,R,DAVID A. PERDUE,936,68,539,329,0
+Walton,North Monroe,United States Senator,,R,DAVID A. PERDUE,539,20,378,140,1
+Walton,Loganville South,United States Senator,,R,DAVID A. PERDUE,1125,68,808,249,0
+Walton,West Walton,United States Senator,,R,DAVID A. PERDUE,1654,72,1253,327,2
+Walton,Broken Arrow,United States Senator,,R,DAVID A. PERDUE,1400,43,1098,257,2
+Walton,Bay Creek,United States Senator,,R,DAVID A. PERDUE,1083,39,789,255,0
+Walton,E Monroe,United States Senator,,R,DAVID A. PERDUE,609,25,391,192,1
+Walton,W Monroe,United States Senator,,R,DAVID A. PERDUE,745,29,419,297,0
+Walton,Tara,United States Senator,,R,DAVID A. PERDUE,918,34,688,196,0
+Walton,Mountain,United States Senator,,R,DAVID A. PERDUE,377,7,282,88,0
+Walton,Jersey,United States Senator,,R,DAVID A. PERDUE,687,25,569,92,1
+Walton,Blasingame,United States Senator,,R,DAVID A. PERDUE,451,10,384,56,1
+Walton,Good Hope,United States Senator,,R,DAVID A. PERDUE,631,12,511,106,2
+Walton,,United States Senator,,D,M. MICHELLE NUNN,5427,261,3622,1541,3
+Walton,Bold Springs,United States Senator,,D,M. MICHELLE NUNN,276,15,191,70,0
+Walton,Whatley,United States Senator,,D,M. MICHELLE NUNN,74,1,49,24,0
+Walton,Walker Park,United States Senator,,D,M. MICHELLE NUNN,242,7,155,80,0
+Walton,Gratis,United States Senator,,D,M. MICHELLE NUNN,86,2,66,18,0
+Walton,Between,United States Senator,,D,M. MICHELLE NUNN,390,15,237,138,0
+Walton,Walnut Grove,United States Senator,,D,M. MICHELLE NUNN,131,4,90,37,0
+Walton,Loganville North,United States Senator,,D,M. MICHELLE NUNN,299,14,213,72,0
+Walton,Social Circle,United States Senator,,D,M. MICHELLE NUNN,536,46,386,104,0
+Walton,South Monroe,United States Senator,,D,M. MICHELLE NUNN,364,18,221,125,0
+Walton,North Monroe,United States Senator,,D,M. MICHELLE NUNN,745,32,466,247,0
+Walton,Loganville South,United States Senator,,D,M. MICHELLE NUNN,341,18,247,76,0
+Walton,West Walton,United States Senator,,D,M. MICHELLE NUNN,242,13,159,70,0
+Walton,Broken Arrow,United States Senator,,D,M. MICHELLE NUNN,249,12,180,57,0
+Walton,Bay Creek,United States Senator,,D,M. MICHELLE NUNN,159,10,109,40,0
+Walton,E Monroe,United States Senator,,D,M. MICHELLE NUNN,423,25,260,138,0
+Walton,W Monroe,United States Senator,,D,M. MICHELLE NUNN,167,7,79,80,1
+Walton,Tara,United States Senator,,D,M. MICHELLE NUNN,319,7,233,79,0
+Walton,Mountain,United States Senator,,D,M. MICHELLE NUNN,88,1,64,23,0
+Walton,Jersey,United States Senator,,D,M. MICHELLE NUNN,87,3,71,12,1
+Walton,Blasingame,United States Senator,,D,M. MICHELLE NUNN,81,4,58,18,1
+Walton,Good Hope,United States Senator,,D,M. MICHELLE NUNN,128,7,88,33,0
+Walton,,United States Senator,,L,AMANDA C. SWAFFORD,528,22,429,77,0
+Walton,Bold Springs,United States Senator,,L,AMANDA C. SWAFFORD,44,0,38,6,0
+Walton,Whatley,United States Senator,,L,AMANDA C. SWAFFORD,6,1,4,1,0
+Walton,Walker Park,United States Senator,,L,AMANDA C. SWAFFORD,29,1,18,10,0
+Walton,Gratis,United States Senator,,L,AMANDA C. SWAFFORD,9,0,6,3,0
+Walton,Between,United States Senator,,L,AMANDA C. SWAFFORD,31,0,26,5,0
+Walton,Walnut Grove,United States Senator,,L,AMANDA C. SWAFFORD,20,0,18,2,0
+Walton,Loganville North,United States Senator,,L,AMANDA C. SWAFFORD,57,4,49,4,0
+Walton,Social Circle,United States Senator,,L,AMANDA C. SWAFFORD,33,4,27,2,0
+Walton,South Monroe,United States Senator,,L,AMANDA C. SWAFFORD,27,2,24,1,0
+Walton,North Monroe,United States Senator,,L,AMANDA C. SWAFFORD,25,1,19,5,0
+Walton,Loganville South,United States Senator,,L,AMANDA C. SWAFFORD,38,1,32,5,0
+Walton,West Walton,United States Senator,,L,AMANDA C. SWAFFORD,32,2,25,5,0
+Walton,Broken Arrow,United States Senator,,L,AMANDA C. SWAFFORD,47,3,37,7,0
+Walton,Bay Creek,United States Senator,,L,AMANDA C. SWAFFORD,26,0,23,3,0
+Walton,E Monroe,United States Senator,,L,AMANDA C. SWAFFORD,30,1,19,10,0
+Walton,W Monroe,United States Senator,,L,AMANDA C. SWAFFORD,18,1,16,1,0
+Walton,Tara,United States Senator,,L,AMANDA C. SWAFFORD,19,0,18,1,0
+Walton,Mountain,United States Senator,,L,AMANDA C. SWAFFORD,11,0,9,2,0
+Walton,Jersey,United States Senator,,L,AMANDA C. SWAFFORD,11,1,10,0,0
+Walton,Blasingame,United States Senator,,L,AMANDA C. SWAFFORD,8,0,5,3,0
+Walton,Good Hope,United States Senator,,L,AMANDA C. SWAFFORD,7,0,6,1,0
+Walton,,Governor,,(R,J. NATHAN DEAL (I),19845,777,14598,4458,12
+Walton,Bold Springs,Governor,,(R,J. NATHAN DEAL (I),1632,48,1263,321,0
+Walton,Whatley,Governor,,(R,J. NATHAN DEAL (I),404,14,305,85,0
+Walton,Walker Park,Governor,,(R,J. NATHAN DEAL (I),1233,55,807,369,2
+Walton,Gratis,Governor,,(R,J. NATHAN DEAL (I),516,7,423,86,0
+Walton,Between,Governor,,(R,J. NATHAN DEAL (I),1588,67,1126,395,0
+Walton,Walnut Grove,Governor,,(R,J. NATHAN DEAL (I),829,25,663,141,0
+Walton,Loganville North,Governor,,(R,J. NATHAN DEAL (I),1440,74,1076,290,0
+Walton,Social Circle,Governor,,(R,J. NATHAN DEAL (I),1160,32,889,239,0
+Walton,South Monroe,Governor,,(R,J. NATHAN DEAL (I),931,71,543,317,0
+Walton,North Monroe,Governor,,(R,J. NATHAN DEAL (I),556,21,387,147,1
+Walton,Loganville South,Governor,,(R,J. NATHAN DEAL (I),1106,67,803,236,0
+Walton,West Walton,Governor,,(R,J. NATHAN DEAL (I),1617,69,1230,316,2
+Walton,Broken Arrow,Governor,,(R,J. NATHAN DEAL (I),1395,42,1096,255,2
+Walton,Bay Creek,Governor,,(R,J. NATHAN DEAL (I),1061,40,777,244,0
+Walton,E Monroe,Governor,,(R,J. NATHAN DEAL (I),615,29,396,189,1
+Walton,W Monroe,Governor,,(R,J. NATHAN DEAL (I),737,31,417,289,0
+Walton,Tara,Governor,,(R,J. NATHAN DEAL (I),915,32,688,195,0
+Walton,Mountain,Governor,,(R,J. NATHAN DEAL (I),367,6,275,86,0
+Walton,Jersey,Governor,,(R,J. NATHAN DEAL (I),671,22,557,91,1
+Walton,Blasingame,Governor,,(R,J. NATHAN DEAL (I),444,11,375,57,1
+Walton,Good Hope,Governor,,(R,J. NATHAN DEAL (I),628,14,502,110,2
+Walton,,Governor,,D,JASON J. CARTER,5364,272,3561,1527,4
+Walton,Bold Springs,Governor,,D,JASON J. CARTER,279,16,187,76,0
+Walton,Whatley,Governor,,D,JASON J. CARTER,77,1,53,23,0
+Walton,Walker Park,Governor,,D,JASON J. CARTER,242,8,156,78,0
+Walton,Gratis,Governor,,D,JASON J. CARTER,88,2,65,21,0
+Walton,Between,Governor,,D,JASON J. CARTER,381,18,233,129,1
+Walton,Walnut Grove,Governor,,D,JASON J. CARTER,130,4,94,32,0
+Walton,Loganville North,Governor,,D,JASON J. CARTER,305,15,222,68,0
+Walton,Social Circle,Governor,,D,JASON J. CARTER,530,50,378,102,0
+Walton,South Monroe,Governor,,D,JASON J. CARTER,362,17,216,129,0
+Walton,North Monroe,Governor,,D,JASON J. CARTER,712,33,439,240,0
+Walton,Loganville South,Governor,,D,JASON J. CARTER,344,18,249,77,0
+Walton,West Walton,Governor,,D,JASON J. CARTER,247,17,156,74,0
+Walton,Broken Arrow,Governor,,D,JASON J. CARTER,244,15,173,56,0
+Walton,Bay Creek,Governor,,D,JASON J. CARTER,160,9,109,42,0
+Walton,E Monroe,Governor,,D,JASON J. CARTER,418,21,257,140,0
+Walton,W Monroe,Governor,,D,JASON J. CARTER,164,6,76,81,1
+Walton,Tara,Governor,,D,JASON J. CARTER,313,8,228,77,0
+Walton,Mountain,Governor,,D,JASON J. CARTER,86,2,60,24,0
+Walton,Jersey,Governor,,D,JASON J. CARTER,86,4,71,10,1
+Walton,Blasingame,Governor,,D,JASON J. CARTER,78,3,57,17,1
+Walton,Good Hope,Governor,,D,JASON J. CARTER,118,5,82,31,0
+Walton,,Governor,,L,ANDREW T. HUNT,630,19,500,111,0
+Walton,Bold Springs,Governor,,L,ANDREW T. HUNT,35,0,31,4,0
+Walton,Whatley,Governor,,L,ANDREW T. HUNT,4,0,4,0,0
+Walton,Walker Park,Governor,,L,ANDREW T. HUNT,42,3,29,10,0
+Walton,Gratis,Governor,,L,ANDREW T. HUNT,14,0,10,4,0
+Walton,Between,Governor,,L,ANDREW T. HUNT,44,2,31,11,0
+Walton,Walnut Grove,Governor,,L,ANDREW T. HUNT,27,0,24,3,0
+Walton,Loganville North,Governor,,L,ANDREW T. HUNT,57,2,47,8,0
+Walton,Social Circle,Governor,,L,ANDREW T. HUNT,35,3,26,6,0
+Walton,South Monroe,Governor,,L,ANDREW T. HUNT,21,0,19,2,0
+Walton,North Monroe,Governor,,L,ANDREW T. HUNT,30,0,24,6,0
+Walton,Loganville South,Governor,,L,ANDREW T. HUNT,39,2,31,6,0
+Walton,West Walton,Governor,,L,ANDREW T. HUNT,50,2,42,6,0
+Walton,Broken Arrow,Governor,,L,ANDREW T. HUNT,46,1,37,8,0
+Walton,Bay Creek,Governor,,L,ANDREW T. HUNT,36,0,29,7,0
+Walton,E Monroe,Governor,,L,ANDREW T. HUNT,33,1,16,16,0
+Walton,W Monroe,Governor,,L,ANDREW T. HUNT,26,1,21,4,0
+Walton,Tara,Governor,,L,ANDREW T. HUNT,24,1,21,2,0
+Walton,Mountain,Governor,,L,ANDREW T. HUNT,14,0,12,2,0
+Walton,Jersey,Governor,,L,ANDREW T. HUNT,19,1,17,1,0
+Walton,Blasingame,Governor,,L,ANDREW T. HUNT,18,0,15,3,0
+Walton,Good Hope,Governor,,L,ANDREW T. HUNT,16,0,14,2,0
+Walton,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",21057,823,15522,4699,13
+Walton,Bold Springs,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1701,51,1318,332,0
+Walton,Whatley,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",416,15,316,85,0
+Walton,Walker Park,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1308,59,861,386,2
+Walton,Gratis,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",550,7,453,90,0
+Walton,Between,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1688,68,1203,416,1
+Walton,Walnut Grove,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",878,26,702,150,0
+Walton,Loganville North,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1547,77,1162,308,0
+Walton,Social Circle,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1237,41,942,254,0
+Walton,South Monroe,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",997,74,583,340,0
+Walton,North Monroe,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",603,24,418,160,1
+Walton,Loganville South,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1180,69,857,254,0
+Walton,West Walton,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1690,72,1286,330,2
+Walton,Broken Arrow,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1488,49,1172,265,2
+Walton,Bay Creek,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1132,41,833,258,0
+Walton,E Monroe,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",678,30,434,213,1
+Walton,W Monroe,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",785,32,446,307,0
+Walton,Tara,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",953,35,719,199,0
+Walton,Mountain,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",395,5,303,87,0
+Walton,Jersey,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",709,24,593,91,1
+Walton,Blasingame,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",470,11,397,61,1
+Walton,Good Hope,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",652,13,524,113,2
+Walton,,Lieutenant Governor,,D,CONNIE J. STOKES,4632,234,3033,1362,3
+Walton,Bold Springs,Lieutenant Governor,,D,CONNIE J. STOKES,230,13,149,68,0
+Walton,Whatley,Lieutenant Governor,,D,CONNIE J. STOKES,61,0,41,20,0
+Walton,Walker Park,Lieutenant Governor,,D,CONNIE J. STOKES,206,6,129,71,0
+Walton,Gratis,Lieutenant Governor,,D,CONNIE J. STOKES,54,2,36,16,0
+Walton,Between,Lieutenant Governor,,D,CONNIE J. STOKES,320,17,183,120,0
+Walton,Walnut Grove,Lieutenant Governor,,D,CONNIE J. STOKES,109,3,76,30,0
+Walton,Loganville North,Lieutenant Governor,,D,CONNIE J. STOKES,248,14,174,60,0
+Walton,Social Circle,Lieutenant Governor,,D,CONNIE J. STOKES,476,43,346,87,0
+Walton,South Monroe,Lieutenant Governor,,D,CONNIE J. STOKES,312,13,196,103,0
+Walton,North Monroe,Lieutenant Governor,,D,CONNIE J. STOKES,672,29,422,221,0
+Walton,Loganville South,Lieutenant Governor,,D,CONNIE J. STOKES,313,15,226,72,0
+Walton,West Walton,Lieutenant Governor,,D,CONNIE J. STOKES,221,16,140,65,0
+Walton,Broken Arrow,Lieutenant Governor,,D,CONNIE J. STOKES,191,9,132,50,0
+Walton,Bay Creek,Lieutenant Governor,,D,CONNIE J. STOKES,130,8,86,36,0
+Walton,E Monroe,Lieutenant Governor,,D,CONNIE J. STOKES,364,20,221,123,0
+Walton,W Monroe,Lieutenant Governor,,D,CONNIE J. STOKES,142,6,64,71,1
+Walton,Tara,Lieutenant Governor,,D,CONNIE J. STOKES,289,6,207,76,0
+Walton,Mountain,Lieutenant Governor,,D,CONNIE J. STOKES,66,3,41,22,0
+Walton,Jersey,Lieutenant Governor,,D,CONNIE J. STOKES,68,3,54,10,1
+Walton,Blasingame,Lieutenant Governor,,D,CONNIE J. STOKES,61,3,43,14,1
+Walton,Good Hope,Lieutenant Governor,,D,CONNIE J. STOKES,99,5,67,27,0
+Walton,,Secretary Of State,,(R,BRIAN P. KEMP (I),20855,825,15344,4673,13
+Walton,Bold Springs,Secretary Of State,,(R,BRIAN P. KEMP (I),1704,51,1315,338,0
+Walton,Whatley,Secretary Of State,,(R,BRIAN P. KEMP (I),412,15,312,85,0
+Walton,Walker Park,Secretary Of State,,(R,BRIAN P. KEMP (I),1296,55,852,387,2
+Walton,Gratis,Secretary Of State,,(R,BRIAN P. KEMP (I),540,7,443,90,0
+Walton,Between,Secretary Of State,,(R,BRIAN P. KEMP (I),1673,73,1187,412,1
+Walton,Walnut Grove,Secretary Of State,,(R,BRIAN P. KEMP (I),872,25,693,154,0
+Walton,Loganville North,Secretary Of State,,(R,BRIAN P. KEMP (I),1529,77,1147,305,0
+Walton,Social Circle,Secretary Of State,,(R,BRIAN P. KEMP (I),1218,38,927,253,0
+Walton,South Monroe,Secretary Of State,,(R,BRIAN P. KEMP (I),997,76,583,338,0
+Walton,North Monroe,Secretary Of State,,(R,BRIAN P. KEMP (I),592,24,414,153,1
+Walton,Loganville South,Secretary Of State,,(R,BRIAN P. KEMP (I),1173,70,857,246,0
+Walton,West Walton,Secretary Of State,,(R,BRIAN P. KEMP (I),1684,76,1279,327,2
+Walton,Broken Arrow,Secretary Of State,,(R,BRIAN P. KEMP (I),1473,46,1162,263,2
+Walton,Bay Creek,Secretary Of State,,(R,BRIAN P. KEMP (I),1115,40,817,258,0
+Walton,E Monroe,Secretary Of State,,(R,BRIAN P. KEMP (I),666,29,427,209,1
+Walton,W Monroe,Secretary Of State,,(R,BRIAN P. KEMP (I),785,33,446,306,0
+Walton,Tara,Secretary Of State,,(R,BRIAN P. KEMP (I),934,34,706,194,0
+Walton,Mountain,Secretary Of State,,(R,BRIAN P. KEMP (I),395,7,295,93,0
+Walton,Jersey,Secretary Of State,,(R,BRIAN P. KEMP (I),693,25,575,92,1
+Walton,Blasingame,Secretary Of State,,(R,BRIAN P. KEMP (I),462,10,389,62,1
+Walton,Good Hope,Secretary Of State,,(R,BRIAN P. KEMP (I),642,14,518,108,2
+Walton,,Secretary Of State,,D,DOREEN CARTER,4786,224,3162,1397,3
+Walton,Bold Springs,Secretary Of State,,D,DOREEN CARTER,236,13,157,66,0
+Walton,Whatley,Secretary Of State,,D,DOREEN CARTER,66,0,45,21,0
+Walton,Walker Park,Secretary Of State,,D,DOREEN CARTER,212,8,132,72,0
+Walton,Gratis,Secretary Of State,,D,DOREEN CARTER,66,2,47,17,0
+Walton,Between,Secretary Of State,,D,DOREEN CARTER,320,12,191,117,0
+Walton,Walnut Grove,Secretary Of State,,D,DOREEN CARTER,112,3,80,29,0
+Walton,Loganville North,Secretary Of State,,D,DOREEN CARTER,259,13,185,61,0
+Walton,Social Circle,Secretary Of State,,D,DOREEN CARTER,503,46,358,99,0
+Walton,South Monroe,Secretary Of State,,D,DOREEN CARTER,316,11,197,108,0
+Walton,North Monroe,Secretary Of State,,D,DOREEN CARTER,680,29,419,232,0
+Walton,Loganville South,Secretary Of State,,D,DOREEN CARTER,305,13,219,73,0
+Walton,West Walton,Secretary Of State,,D,DOREEN CARTER,218,12,140,66,0
+Walton,Broken Arrow,Secretary Of State,,D,DOREEN CARTER,211,11,149,51,0
+Walton,Bay Creek,Secretary Of State,,D,DOREEN CARTER,138,9,94,35,0
+Walton,E Monroe,Secretary Of State,,D,DOREEN CARTER,386,21,236,129,0
+Walton,W Monroe,Secretary Of State,,D,DOREEN CARTER,139,5,62,71,1
+Walton,Tara,Secretary Of State,,D,DOREEN CARTER,300,7,216,77,0
+Walton,Mountain,Secretary Of State,,D,DOREEN CARTER,69,1,48,20,0
+Walton,Jersey,Secretary Of State,,D,DOREEN CARTER,75,2,63,9,1
+Walton,Blasingame,Secretary Of State,,D,DOREEN CARTER,67,3,49,14,1
+Walton,Good Hope,Secretary Of State,,D,DOREEN CARTER,108,3,75,30,0
+Walton,,Attorney General,,(R,SAMUEL S. OLENS (I),20611,802,15165,4631,13
+Walton,Bold Springs,Attorney General,,(R,SAMUEL S. OLENS (I),1668,50,1287,331,0
+Walton,Whatley,Attorney General,,(R,SAMUEL S. OLENS (I),408,15,310,83,0
+Walton,Walker Park,Attorney General,,(R,SAMUEL S. OLENS (I),1278,56,837,383,2
+Walton,Gratis,Attorney General,,(R,SAMUEL S. OLENS (I),533,7,434,92,0
+Walton,Between,Attorney General,,(R,SAMUEL S. OLENS (I),1658,73,1177,407,1
+Walton,Walnut Grove,Attorney General,,(R,SAMUEL S. OLENS (I),862,24,684,154,0
+Walton,Loganville North,Attorney General,,(R,SAMUEL S. OLENS (I),1519,74,1145,300,0
+Walton,Social Circle,Attorney General,,(R,SAMUEL S. OLENS (I),1203,38,911,254,0
+Walton,South Monroe,Attorney General,,(R,SAMUEL S. OLENS (I),984,74,573,337,0
+Walton,North Monroe,Attorney General,,(R,SAMUEL S. OLENS (I),590,22,408,159,1
+Walton,Loganville South,Attorney General,,(R,SAMUEL S. OLENS (I),1173,66,857,250,0
+Walton,West Walton,Attorney General,,(R,SAMUEL S. OLENS (I),1660,72,1267,319,2
+Walton,Broken Arrow,Attorney General,,(R,SAMUEL S. OLENS (I),1456,46,1146,262,2
+Walton,Bay Creek,Attorney General,,(R,SAMUEL S. OLENS (I),1106,41,809,256,0
+Walton,E Monroe,Attorney General,,(R,SAMUEL S. OLENS (I),648,27,415,205,1
+Walton,W Monroe,Attorney General,,(R,SAMUEL S. OLENS (I),756,31,431,294,0
+Walton,Tara,Attorney General,,(R,SAMUEL S. OLENS (I),932,34,700,198,0
+Walton,Mountain,Attorney General,,(R,SAMUEL S. OLENS (I),384,5,291,88,0
+Walton,Jersey,Attorney General,,(R,SAMUEL S. OLENS (I),695,25,577,92,1
+Walton,Blasingame,Attorney General,,(R,SAMUEL S. OLENS (I),455,9,387,58,1
+Walton,Good Hope,Attorney General,,(R,SAMUEL S. OLENS (I),643,13,519,109,2
+Walton,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",5009,241,3329,1436,3
+Walton,Bold Springs,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",259,13,175,71,0
+Walton,Whatley,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",70,0,47,23,0
+Walton,Walker Park,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",230,7,149,74,0
+Walton,Gratis,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",75,2,57,16,0
+Walton,Between,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",347,13,208,126,0
+Walton,Walnut Grove,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",123,3,92,28,0
+Walton,Loganville North,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",269,15,189,65,0
+Walton,Social Circle,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",513,47,370,96,0
+Walton,South Monroe,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",325,11,205,109,0
+Walton,North Monroe,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",683,30,427,226,0
+Walton,Loganville South,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",306,15,219,72,0
+Walton,West Walton,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",234,14,148,72,0
+Walton,Broken Arrow,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",227,12,160,55,0
+Walton,Bay Creek,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",145,8,100,37,0
+Walton,E Monroe,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",400,23,245,132,0
+Walton,W Monroe,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",162,7,74,80,1
+Walton,Tara,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",303,6,222,75,0
+Walton,Mountain,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",78,3,52,23,0
+Walton,Jersey,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",79,2,67,9,1
+Walton,Blasingame,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",71,4,49,17,1
+Walton,Good Hope,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",110,6,74,30,0
+Walton,,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),20948,809,15465,4661,13
+Walton,Bold Springs,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1696,50,1313,333,0
+Walton,Whatley,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),416,15,318,83,0
+Walton,Walker Park,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1301,53,859,387,2
+Walton,Gratis,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),551,7,453,91,0
+Walton,Between,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1678,70,1197,410,1
+Walton,Walnut Grove,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),867,25,691,151,0
+Walton,Loganville North,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1527,73,1152,302,0
+Walton,Social Circle,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1246,39,951,256,0
+Walton,South Monroe,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1006,75,589,342,0
+Walton,North Monroe,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),602,22,423,156,1
+Walton,Loganville South,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1168,66,856,246,0
+Walton,West Walton,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1679,75,1286,316,2
+Walton,Broken Arrow,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1476,47,1166,261,2
+Walton,Bay Creek,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),1114,41,818,255,0
+Walton,E Monroe,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),675,27,428,219,1
+Walton,W Monroe,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),781,33,443,305,0
+Walton,Tara,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),945,35,711,199,0
+Walton,Mountain,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),403,6,305,92,0
+Walton,Jersey,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),701,25,587,88,1
+Walton,Blasingame,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),464,12,393,58,1
+Walton,Good Hope,Commissioner Of Agriculture,,(R,GARY W. BLACK (I),652,13,526,111,2
+Walton,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,4632,233,3035,1361,3
+Walton,Bold Springs,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,233,14,150,69,0
+Walton,Whatley,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,61,0,40,21,0
+Walton,Walker Park,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,205,10,127,68,0
+Walton,Gratis,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,60,2,40,18,0
+Walton,Between,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,309,14,180,115,0
+Walton,Walnut Grove,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,110,3,79,28,0
+Walton,Loganville North,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,251,14,177,60,0
+Walton,Social Circle,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,479,45,341,93,0
+Walton,South Monroe,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,295,12,185,98,0
+Walton,North Monroe,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,670,31,416,223,0
+Walton,Loganville South,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,312,15,218,79,0
+Walton,West Walton,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,225,12,141,72,0
+Walton,Broken Arrow,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,199,10,141,48,0
+Walton,Bay Creek,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,135,8,93,34,0
+Walton,E Monroe,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,368,23,227,118,0
+Walton,W Monroe,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,144,5,66,72,1
+Walton,Tara,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,284,5,208,71,0
+Walton,Mountain,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,61,2,39,20,0
+Walton,Jersey,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,69,2,55,11,1
+Walton,Blasingame,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,62,2,45,14,1
+Walton,Good Hope,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,100,4,67,29,0
+Walton,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),20133,789,14798,4534,12
+Walton,Bold Springs,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1641,51,1262,328,0
+Walton,Whatley,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),411,15,311,85,0
+Walton,Walker Park,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1248,53,822,371,2
+Walton,Gratis,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),526,7,433,86,0
+Walton,Between,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1624,69,1149,406,0
+Walton,Walnut Grove,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),849,25,676,148,0
+Walton,Loganville North,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1450,73,1088,289,0
+Walton,Social Circle,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1185,37,897,251,0
+Walton,South Monroe,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),961,71,563,327,0
+Walton,North Monroe,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),566,21,397,147,1
+Walton,Loganville South,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1126,68,810,248,0
+Walton,West Walton,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1639,73,1244,320,2
+Walton,Broken Arrow,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1431,47,1126,256,2
+Walton,Bay Creek,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1080,39,789,252,0
+Walton,E Monroe,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),638,28,413,196,1
+Walton,W Monroe,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),749,31,425,293,0
+Walton,Tara,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),900,31,676,193,0
+Walton,Mountain,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),381,6,285,90,0
+Walton,Jersey,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),672,23,562,86,1
+Walton,Blasingame,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),438,9,371,57,1
+Walton,Good Hope,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),618,12,499,105,2
+Walton,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",4595,219,3016,1357,3
+Walton,Bold Springs,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",232,12,155,65,0
+Walton,Whatley,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",65,0,45,20,0
+Walton,Walker Park,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",207,7,130,70,0
+Walton,Gratis,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",62,2,41,19,0
+Walton,Between,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",312,14,184,114,0
+Walton,Walnut Grove,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",106,3,74,29,0
+Walton,Loganville North,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",245,13,172,60,0
+Walton,Social Circle,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",474,40,346,88,0
+Walton,South Monroe,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",302,13,185,104,0
+Walton,North Monroe,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",672,32,415,225,0
+Walton,Loganville South,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",294,14,208,72,0
+Walton,West Walton,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",203,10,128,65,0
+Walton,Broken Arrow,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",189,9,133,47,0
+Walton,Bay Creek,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",127,8,87,32,0
+Walton,E Monroe,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",376,22,228,126,0
+Walton,W Monroe,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",142,5,64,72,1
+Walton,Tara,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",287,6,205,76,0
+Walton,Mountain,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",65,0,45,20,0
+Walton,Jersey,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",69,2,56,10,1
+Walton,Blasingame,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",61,3,42,15,1
+Walton,Good Hope,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",105,4,73,28,0
+Walton,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",910,38,699,172,1
+Walton,Bold Springs,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",60,1,51,8,0
+Walton,Whatley,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",6,0,5,1,0
+Walton,Walker Park,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",56,3,37,16,0
+Walton,Gratis,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",17,0,14,3,0
+Walton,Between,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",70,2,50,17,1
+Walton,Walnut Grove,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",35,0,31,4,0
+Walton,Loganville North,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",91,4,73,14,0
+Walton,Social Circle,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",57,6,43,8,0
+Walton,South Monroe,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",40,3,24,13,0
+Walton,North Monroe,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",31,0,23,8,0
+Walton,Loganville South,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",61,3,52,6,0
+Walton,West Walton,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",60,3,48,9,0
+Walton,Broken Arrow,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",67,2,51,14,0
+Walton,Bay Creek,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",46,1,36,9,0
+Walton,E Monroe,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",31,0,19,12,0
+Walton,W Monroe,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",33,2,22,9,0
+Walton,Tara,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",49,2,40,7,0
+Walton,Mountain,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",14,2,11,1,0
+Walton,Jersey,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",31,2,24,5,0
+Walton,Blasingame,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",25,1,21,3,0
+Walton,Good Hope,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",30,1,24,5,0
+Walton,,State School Superintendent,,R,RICHARD L. WOODS,20404,787,15020,4586,11
+Walton,Bold Springs,State School Superintendent,,R,RICHARD L. WOODS,1649,49,1265,335,0
+Walton,Whatley,State School Superintendent,,R,RICHARD L. WOODS,411,15,313,83,0
+Walton,Walker Park,State School Superintendent,,R,RICHARD L. WOODS,1285,56,844,383,2
+Walton,Gratis,State School Superintendent,,R,RICHARD L. WOODS,530,7,436,87,0
+Walton,Between,State School Superintendent,,R,RICHARD L. WOODS,1638,69,1166,403,0
+Walton,Walnut Grove,State School Superintendent,,R,RICHARD L. WOODS,861,25,685,151,0
+Walton,Loganville North,State School Superintendent,,R,RICHARD L. WOODS,1490,76,1120,294,0
+Walton,Social Circle,State School Superintendent,,R,RICHARD L. WOODS,1189,39,900,250,0
+Walton,South Monroe,State School Superintendent,,R,RICHARD L. WOODS,959,72,561,326,0
+Walton,North Monroe,State School Superintendent,,R,RICHARD L. WOODS,567,20,394,152,1
+Walton,Loganville South,State School Superintendent,,R,RICHARD L. WOODS,1157,65,843,249,0
+Walton,West Walton,State School Superintendent,,R,RICHARD L. WOODS,1650,73,1254,322,1
+Walton,Broken Arrow,State School Superintendent,,R,RICHARD L. WOODS,1444,45,1138,259,2
+Walton,Bay Creek,State School Superintendent,,R,RICHARD L. WOODS,1096,37,807,252,0
+Walton,E Monroe,State School Superintendent,,R,RICHARD L. WOODS,630,26,403,200,1
+Walton,W Monroe,State School Superintendent,,R,RICHARD L. WOODS,745,24,428,293,0
+Walton,Tara,State School Superintendent,,R,RICHARD L. WOODS,933,35,701,197,0
+Walton,Mountain,State School Superintendent,,R,RICHARD L. WOODS,391,7,294,90,0
+Walton,Jersey,State School Superintendent,,R,RICHARD L. WOODS,695,24,578,92,1
+Walton,Blasingame,State School Superintendent,,R,RICHARD L. WOODS,454,10,383,60,1
+Walton,Good Hope,State School Superintendent,,R,RICHARD L. WOODS,630,13,507,108,2
+Walton,,State School Superintendent,,D,VALARIE D. WILSON,5208,250,3489,1465,4
+Walton,Bold Springs,State School Superintendent,,D,VALARIE D. WILSON,279,14,198,67,0
+Walton,Whatley,State School Superintendent,,D,VALARIE D. WILSON,72,0,50,22,0
+Walton,Walker Park,State School Superintendent,,D,VALARIE D. WILSON,230,5,151,74,0
+Walton,Gratis,State School Superintendent,,D,VALARIE D. WILSON,77,2,56,19,0
+Walton,Between,State School Superintendent,,D,VALARIE D. WILSON,356,15,212,128,1
+Walton,Walnut Grove,State School Superintendent,,D,VALARIE D. WILSON,122,3,89,30,0
+Walton,Loganville North,State School Superintendent,,D,VALARIE D. WILSON,291,13,211,67,0
+Walton,Social Circle,State School Superintendent,,D,VALARIE D. WILSON,525,44,382,99,0
+Walton,South Monroe,State School Superintendent,,D,VALARIE D. WILSON,338,15,208,115,0
+Walton,North Monroe,State School Superintendent,,D,VALARIE D. WILSON,713,33,446,234,0
+Walton,Loganville South,State School Superintendent,,D,VALARIE D. WILSON,321,16,229,76,0
+Walton,West Walton,State School Superintendent,,D,VALARIE D. WILSON,246,13,166,67,0
+Walton,Broken Arrow,State School Superintendent,,D,VALARIE D. WILSON,235,13,169,53,0
+Walton,Bay Creek,State School Superintendent,,D,VALARIE D. WILSON,153,11,102,40,0
+Walton,E Monroe,State School Superintendent,,D,VALARIE D. WILSON,415,23,254,138,0
+Walton,W Monroe,State School Superintendent,,D,VALARIE D. WILSON,175,13,82,79,1
+Walton,Tara,State School Superintendent,,D,VALARIE D. WILSON,303,6,222,75,0
+Walton,Mountain,State School Superintendent,,D,VALARIE D. WILSON,77,1,53,23,0
+Walton,Jersey,State School Superintendent,,D,VALARIE D. WILSON,83,3,68,11,1
+Walton,Blasingame,State School Superintendent,,D,VALARIE D. WILSON,76,3,56,16,1
+Walton,Good Hope,State School Superintendent,,D,VALARIE D. WILSON,121,4,85,32,0
+Walton,,Commissioner Of Labor,,(R,J. MARK BUTLER (I),20633,807,15179,4636,11
+Walton,Bold Springs,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1669,49,1285,335,0
+Walton,Whatley,Commissioner Of Labor,,(R,J. MARK BUTLER (I),411,15,312,84,0
+Walton,Walker Park,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1286,55,844,385,2
+Walton,Gratis,Commissioner Of Labor,,(R,J. MARK BUTLER (I),532,7,439,86,0
+Walton,Between,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1670,69,1189,412,0
+Walton,Walnut Grove,Commissioner Of Labor,,(R,J. MARK BUTLER (I),858,25,683,150,0
+Walton,Loganville North,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1507,77,1131,299,0
+Walton,Social Circle,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1208,40,917,251,0
+Walton,South Monroe,Commissioner Of Labor,,(R,J. MARK BUTLER (I),979,74,568,337,0
+Walton,North Monroe,Commissioner Of Labor,,(R,J. MARK BUTLER (I),582,22,409,150,1
+Walton,Loganville South,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1163,67,848,248,0
+Walton,West Walton,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1663,73,1266,323,1
+Walton,Broken Arrow,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1454,48,1143,261,2
+Walton,Bay Creek,Commissioner Of Labor,,(R,J. MARK BUTLER (I),1108,40,812,256,0
+Walton,E Monroe,Commissioner Of Labor,,(R,J. MARK BUTLER (I),656,27,417,211,1
+Walton,W Monroe,Commissioner Of Labor,,(R,J. MARK BUTLER (I),762,30,435,297,0
+Walton,Tara,Commissioner Of Labor,,(R,J. MARK BUTLER (I),933,35,702,196,0
+Walton,Mountain,Commissioner Of Labor,,(R,J. MARK BUTLER (I),392,6,292,94,0
+Walton,Jersey,Commissioner Of Labor,,(R,J. MARK BUTLER (I),703,25,584,93,1
+Walton,Blasingame,Commissioner Of Labor,,(R,J. MARK BUTLER (I),458,10,387,60,1
+Walton,Good Hope,Commissioner Of Labor,,(R,J. MARK BUTLER (I),639,13,516,108,2
+Walton,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,4868,232,3239,1393,4
+Walton,Bold Springs,Commissioner Of Labor,,D,ROBBIN K. SHIPP,248,14,168,66,0
+Walton,Whatley,Commissioner Of Labor,,D,ROBBIN K. SHIPP,68,0,46,22,0
+Walton,Walker Park,Commissioner Of Labor,,D,ROBBIN K. SHIPP,220,8,144,68,0
+Walton,Gratis,Commissioner Of Labor,,D,ROBBIN K. SHIPP,63,2,45,16,0
+Walton,Between,Commissioner Of Labor,,D,ROBBIN K. SHIPP,323,15,189,118,1
+Walton,Walnut Grove,Commissioner Of Labor,,D,ROBBIN K. SHIPP,119,3,85,31,0
+Walton,Loganville North,Commissioner Of Labor,,D,ROBBIN K. SHIPP,268,13,196,59,0
+Walton,Social Circle,Commissioner Of Labor,,D,ROBBIN K. SHIPP,505,44,365,96,0
+Walton,South Monroe,Commissioner Of Labor,,D,ROBBIN K. SHIPP,316,12,198,106,0
+Walton,North Monroe,Commissioner Of Labor,,D,ROBBIN K. SHIPP,694,30,431,233,0
+Walton,Loganville South,Commissioner Of Labor,,D,ROBBIN K. SHIPP,314,14,225,75,0
+Walton,West Walton,Commissioner Of Labor,,D,ROBBIN K. SHIPP,222,12,143,67,0
+Walton,Broken Arrow,Commissioner Of Labor,,D,ROBBIN K. SHIPP,219,10,160,49,0
+Walton,Bay Creek,Commissioner Of Labor,,D,ROBBIN K. SHIPP,136,8,93,35,0
+Walton,E Monroe,Commissioner Of Labor,,D,ROBBIN K. SHIPP,385,23,234,128,0
+Walton,W Monroe,Commissioner Of Labor,,D,ROBBIN K. SHIPP,150,7,67,75,1
+Walton,Tara,Commissioner Of Labor,,D,ROBBIN K. SHIPP,299,6,217,76,0
+Walton,Mountain,Commissioner Of Labor,,D,ROBBIN K. SHIPP,72,2,52,18,0
+Walton,Jersey,Commissioner Of Labor,,D,ROBBIN K. SHIPP,72,2,60,9,1
+Walton,Blasingame,Commissioner Of Labor,,D,ROBBIN K. SHIPP,70,3,51,15,1
+Walton,Good Hope,Commissioner Of Labor,,D,ROBBIN K. SHIPP,105,4,70,31,0
+Walton,,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",20456,801,15011,4632,12
+Walton,Bold Springs,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1649,51,1268,330,0
+Walton,Whatley,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",417,14,315,88,0
+Walton,Walker Park,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1257,51,827,377,2
+Walton,Gratis,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",535,7,440,88,0
+Walton,Between,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1649,71,1165,413,0
+Walton,Walnut Grove,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",858,25,681,152,0
+Walton,Loganville North,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1468,75,1096,297,0
+Walton,Social Circle,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1221,46,919,256,0
+Walton,South Monroe,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",985,73,574,338,0
+Walton,North Monroe,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",646,25,446,174,1
+Walton,Loganville South,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1146,65,832,249,0
+Walton,West Walton,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1636,72,1242,321,1
+Walton,Broken Arrow,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1430,48,1123,257,2
+Walton,Bay Creek,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1082,39,794,249,0
+Walton,E Monroe,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",662,26,426,209,1
+Walton,W Monroe,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",758,31,436,290,1
+Walton,Tara,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",928,33,697,198,0
+Walton,Mountain,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",380,6,283,91,0
+Walton,Jersey,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",679,22,571,85,1
+Walton,Blasingame,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",448,8,379,60,1
+Walton,Good Hope,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",622,13,497,110,2
+Walton,,Public Service Commission,1,L,JOHN H. MONDS,3775,166,2631,975,3
+Walton,Bold Springs,Public Service Commission,1,L,JOHN H. MONDS,217,8,164,45,0
+Walton,Whatley,Public Service Commission,1,L,JOHN H. MONDS,44,1,30,13,0
+Walton,Walker Park,Public Service Commission,1,L,JOHN H. MONDS,201,6,128,67,0
+Walton,Gratis,Public Service Commission,1,L,JOHN H. MONDS,54,0,42,12,0
+Walton,Between,Public Service Commission,1,L,JOHN H. MONDS,247,10,156,80,1
+Walton,Walnut Grove,Public Service Commission,1,L,JOHN H. MONDS,98,3,73,22,0
+Walton,Loganville North,Public Service Commission,1,L,JOHN H. MONDS,252,10,199,43,0
+Walton,Social Circle,Public Service Commission,1,L,JOHN H. MONDS,345,28,250,67,0
+Walton,South Monroe,Public Service Commission,1,L,JOHN H. MONDS,224,10,143,71,0
+Walton,North Monroe,Public Service Commission,1,L,JOHN H. MONDS,417,21,264,132,0
+Walton,Loganville South,Public Service Commission,1,L,JOHN H. MONDS,247,7,192,48,0
+Walton,West Walton,Public Service Commission,1,L,JOHN H. MONDS,204,10,143,51,0
+Walton,Broken Arrow,Public Service Commission,1,L,JOHN H. MONDS,187,8,144,35,0
+Walton,Bay Creek,Public Service Commission,1,L,JOHN H. MONDS,137,6,97,34,0
+Walton,E Monroe,Public Service Commission,1,L,JOHN H. MONDS,261,14,156,91,0
+Walton,W Monroe,Public Service Commission,1,L,JOHN H. MONDS,118,5,62,51,0
+Walton,Tara,Public Service Commission,1,L,JOHN H. MONDS,215,5,163,47,0
+Walton,Mountain,Public Service Commission,1,L,JOHN H. MONDS,68,2,46,20,0
+Walton,Jersey,Public Service Commission,1,L,JOHN H. MONDS,80,5,61,13,1
+Walton,Blasingame,Public Service Commission,1,L,JOHN H. MONDS,64,5,46,12,1
+Walton,Good Hope,Public Service Commission,1,L,JOHN H. MONDS,95,2,72,21,0
+Walton,,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",19556,754,14381,4408,13
+Walton,Bold Springs,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1594,48,1235,311,0
+Walton,Whatley,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",404,14,306,84,0
+Walton,Walker Park,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1224,52,803,367,2
+Walton,Gratis,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",514,8,423,83,0
+Walton,Between,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1583,64,1124,394,1
+Walton,Walnut Grove,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",827,25,655,147,0
+Walton,Loganville North,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1389,66,1041,282,0
+Walton,Social Circle,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1149,38,868,243,0
+Walton,South Monroe,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",921,71,532,318,0
+Walton,North Monroe,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",545,19,382,143,1
+Walton,Loganville South,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1090,62,789,239,0
+Walton,West Walton,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1585,70,1204,309,2
+Walton,Broken Arrow,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1395,45,1097,251,2
+Walton,Bay Creek,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1061,39,780,242,0
+Walton,E Monroe,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",614,26,397,190,1
+Walton,W Monroe,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",729,31,416,282,0
+Walton,Tara,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",879,30,660,189,0
+Walton,Mountain,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",366,5,271,90,0
+Walton,Jersey,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",663,20,557,85,1
+Walton,Blasingame,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",426,8,360,57,1
+Walton,Good Hope,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",598,13,481,102,2
+Walton,,Public Service Commission,4,D,DANIEL A. BLACKMAN,4665,224,3061,1377,3
+Walton,Bold Springs,Public Service Commission,4,D,DANIEL A. BLACKMAN,232,11,152,69,0
+Walton,Whatley,Public Service Commission,4,D,DANIEL A. BLACKMAN,65,0,45,20,0
+Walton,Walker Park,Public Service Commission,4,D,DANIEL A. BLACKMAN,197,6,123,68,0
+Walton,Gratis,Public Service Commission,4,D,DANIEL A. BLACKMAN,62,2,44,16,0
+Walton,Between,Public Service Commission,4,D,DANIEL A. BLACKMAN,328,13,194,121,0
+Walton,Walnut Grove,Public Service Commission,4,D,DANIEL A. BLACKMAN,107,3,75,29,0
+Walton,Loganville North,Public Service Commission,4,D,DANIEL A. BLACKMAN,252,16,176,60,0
+Walton,Social Circle,Public Service Commission,4,D,DANIEL A. BLACKMAN,484,43,348,93,0
+Walton,South Monroe,Public Service Commission,4,D,DANIEL A. BLACKMAN,315,14,193,108,0
+Walton,North Monroe,Public Service Commission,4,D,DANIEL A. BLACKMAN,678,31,419,228,0
+Walton,Loganville South,Public Service Commission,4,D,DANIEL A. BLACKMAN,301,13,215,73,0
+Walton,West Walton,Public Service Commission,4,D,DANIEL A. BLACKMAN,205,13,130,62,0
+Walton,Broken Arrow,Public Service Commission,4,D,DANIEL A. BLACKMAN,195,8,139,48,0
+Walton,Bay Creek,Public Service Commission,4,D,DANIEL A. BLACKMAN,128,7,87,34,0
+Walton,E Monroe,Public Service Commission,4,D,DANIEL A. BLACKMAN,374,21,223,130,0
+Walton,W Monroe,Public Service Commission,4,D,DANIEL A. BLACKMAN,141,6,61,73,1
+Walton,Tara,Public Service Commission,4,D,DANIEL A. BLACKMAN,287,6,206,75,0
+Walton,Mountain,Public Service Commission,4,D,DANIEL A. BLACKMAN,67,1,51,15,0
+Walton,Jersey,Public Service Commission,4,D,DANIEL A. BLACKMAN,76,4,62,9,1
+Walton,Blasingame,Public Service Commission,4,D,DANIEL A. BLACKMAN,63,3,45,14,1
+Walton,Good Hope,Public Service Commission,4,D,DANIEL A. BLACKMAN,108,3,73,32,0
+Walton,,Public Service Commission,4,L,ROBIN AARON GILMER,1314,49,999,266,0
+Walton,Bold Springs,Public Service Commission,4,L,ROBIN AARON GILMER,96,2,74,20,0
+Walton,Whatley,Public Service Commission,4,L,ROBIN AARON GILMER,11,1,9,1,0
+Walton,Walker Park,Public Service Commission,4,L,ROBIN AARON GILMER,80,3,53,24,0
+Walton,Gratis,Public Service Commission,4,L,ROBIN AARON GILMER,24,0,19,5,0
+Walton,Between,Public Service Commission,4,L,ROBIN AARON GILMER,79,5,59,15,0
+Walton,Walnut Grove,Public Service Commission,4,L,ROBIN AARON GILMER,43,0,38,5,0
+Walton,Loganville North,Public Service Commission,4,L,ROBIN AARON GILMER,138,7,111,20,0
+Walton,Social Circle,Public Service Commission,4,L,ROBIN AARON GILMER,84,2,70,12,0
+Walton,South Monroe,Public Service Commission,4,L,ROBIN AARON GILMER,56,1,40,15,0
+Walton,North Monroe,Public Service Commission,4,L,ROBIN AARON GILMER,54,1,41,12,0
+Walton,Loganville South,Public Service Commission,4,L,ROBIN AARON GILMER,89,4,73,12,0
+Walton,West Walton,Public Service Commission,4,L,ROBIN AARON GILMER,105,3,81,21,0
+Walton,Broken Arrow,Public Service Commission,4,L,ROBIN AARON GILMER,89,4,68,17,0
+Walton,Bay Creek,Public Service Commission,4,L,ROBIN AARON GILMER,63,2,44,17,0
+Walton,E Monroe,Public Service Commission,4,L,ROBIN AARON GILMER,53,1,32,20,0
+Walton,W Monroe,Public Service Commission,4,L,ROBIN AARON GILMER,49,0,31,18,0
+Walton,Tara,Public Service Commission,4,L,ROBIN AARON GILMER,67,5,54,8,0
+Walton,Mountain,Public Service Commission,4,L,ROBIN AARON GILMER,30,2,22,6,0
+Walton,Jersey,Public Service Commission,4,L,ROBIN AARON GILMER,32,3,22,7,0
+Walton,Blasingame,Public Service Commission,4,L,ROBIN AARON GILMER,33,3,25,5,0
+Walton,Good Hope,Public Service Commission,4,L,ROBIN AARON GILMER,39,0,33,6,0
+Walton,,U.S. Representative,10,R,JODY B. HICE,20907,815,15380,4699,13
+Walton,Bold Springs,U.S. Representative,10,R,JODY B. HICE,1690,48,1304,338,0
+Walton,Whatley,U.S. Representative,10,R,JODY B. HICE,408,15,313,80,0
+Walton,Walker Park,U.S. Representative,10,R,JODY B. HICE,1307,53,860,392,2
+Walton,Gratis,U.S. Representative,10,R,JODY B. HICE,550,8,451,91,0
+Walton,Between,U.S. Representative,10,R,JODY B. HICE,1676,73,1190,412,1
+Walton,Walnut Grove,U.S. Representative,10,R,JODY B. HICE,873,26,693,154,0
+Walton,Loganville North,U.S. Representative,10,R,JODY B. HICE,1541,77,1160,304,0
+Walton,Social Circle,U.S. Representative,10,R,JODY B. HICE,1224,37,928,259,0
+Walton,South Monroe,U.S. Representative,10,R,JODY B. HICE,987,71,582,334,0
+Walton,North Monroe,U.S. Representative,10,R,JODY B. HICE,601,20,416,164,1
+Walton,Loganville South,U.S. Representative,10,R,JODY B. HICE,1173,72,852,249,0
+Walton,West Walton,U.S. Representative,10,R,JODY B. HICE,1693,76,1283,332,2
+Walton,Broken Arrow,U.S. Representative,10,R,JODY B. HICE,1485,48,1166,269,2
+Walton,Bay Creek,U.S. Representative,10,R,JODY B. HICE,1113,40,815,258,0
+Walton,E Monroe,U.S. Representative,10,R,JODY B. HICE,656,29,415,211,1
+Walton,W Monroe,U.S. Representative,10,R,JODY B. HICE,776,32,445,299,0
+Walton,Tara,U.S. Representative,10,R,JODY B. HICE,941,35,704,202,0
+Walton,Mountain,U.S. Representative,10,R,JODY B. HICE,393,7,295,91,0
+Walton,Jersey,U.S. Representative,10,R,JODY B. HICE,703,25,586,91,1
+Walton,Blasingame,U.S. Representative,10,R,JODY B. HICE,468,10,395,62,1
+Walton,Good Hope,U.S. Representative,10,R,JODY B. HICE,649,13,527,107,2
+Walton,,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",4833,223,3204,1403,3
+Walton,Bold Springs,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",245,14,166,65,0
+Walton,Whatley,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",68,0,45,23,0
+Walton,Walker Park,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",212,8,135,69,0
+Walton,Gratis,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",64,2,45,17,0
+Walton,Between,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",327,13,193,121,0
+Walton,Walnut Grove,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",117,3,85,29,0
+Walton,Loganville North,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",255,13,181,61,0
+Walton,Social Circle,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",497,47,362,88,0
+Walton,South Monroe,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",333,14,200,119,0
+Walton,North Monroe,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",687,30,429,228,0
+Walton,Loganville South,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",312,13,220,79,0
+Walton,West Walton,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",215,10,142,63,0
+Walton,Broken Arrow,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",201,8,144,49,0
+Walton,Bay Creek,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",148,9,103,36,0
+Walton,E Monroe,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",389,17,244,128,0
+Walton,W Monroe,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",146,5,65,75,1
+Walton,Tara,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",295,6,216,73,0
+Walton,Mountain,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",71,1,49,21,0
+Walton,Jersey,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",79,4,62,12,1
+Walton,Blasingame,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",65,3,47,14,1
+Walton,Good Hope,U.S. Representative,10,D,"I. K. ""KENNETH"" DIOUS",107,3,71,33,0
+Walton,,State Senator,25,R,"W. B. ""BURT"" JONES (I)",3455,111,2704,640,0
+Walton,Whatley,State Senator,25,R,"W. B. ""BURT"" JONES (I)",429,15,321,93,0
+Walton,Walnut Grove,State Senator,25,R,"W. B. ""BURT"" JONES (I)",913,25,722,166,0
+Walton,Social Circle,State Senator,25,R,"W. B. ""BURT"" JONES (I)",1379,44,1049,286,0
+Walton,Jersey,State Senator,25,R,"W. B. ""BURT"" JONES (I)",734,27,612,95,0
+Walton,,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",18906,731,13748,4415,12
+Walton,Bold Springs,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",1763,54,1363,346,0
+Walton,Walker Park,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",1379,55,917,405,2
+Walton,Gratis,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",566,8,463,95,0
+Walton,Between,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",1773,75,1246,451,1
+Walton,Loganville North,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",1629,79,1228,322,0
+Walton,South Monroe,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",1092,76,657,359,0
+Walton,North Monroe,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",825,28,564,232,1
+Walton,Loganville South,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",1266,62,934,270,0
+Walton,West Walton,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",1739,76,1324,337,2
+Walton,Broken Arrow,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",1531,51,1211,267,2
+Walton,Bay Creek,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",1148,43,844,261,0
+Walton,E Monroe,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",799,32,505,261,1
+Walton,W Monroe,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",807,30,461,315,1
+Walton,Tara,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",1014,35,770,209,0
+Walton,Mountain,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",418,5,316,97,0
+Walton,Blasingame,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",478,10,401,67,0
+Walton,Good Hope,State Senator,46,R,"W. S. ""BILL"" COWSERT (I)",679,12,544,121,2
+Walton,,State Representative,114,R,"L. THOMAS ""TOM"" KIRBY (I)",8372,367,6238,1766,1
+Walton,Bold Springs,State Representative,114,R,"L. THOMAS ""TOM"" KIRBY (I)",1671,50,1290,331,0
+Walton,Between,State Representative,114,R,"L. THOMAS ""TOM"" KIRBY (I)",482,36,320,126,0
+Walton,Loganville North,State Representative,114,R,"L. THOMAS ""TOM"" KIRBY (I)",1483,72,1110,301,0
+Walton,Loganville South,State Representative,114,R,"L. THOMAS ""TOM"" KIRBY (I)",1137,67,823,247,0
+Walton,West Walton,State Representative,114,R,"L. THOMAS ""TOM"" KIRBY (I)",1624,68,1235,320,1
+Walton,Bay Creek,State Representative,114,R,"L. THOMAS ""TOM"" KIRBY (I)",1059,41,775,243,0
+Walton,Tara,State Representative,114,R,"L. THOMAS ""TOM"" KIRBY (I)",916,33,685,198,0
+Walton,,State Representative,114,D,G. KEITH THOMAS,1739,76,1235,428,0
+Walton,Bold Springs,State Representative,114,D,G. KEITH THOMAS,260,13,178,69,0
+Walton,Between,State Representative,114,D,G. KEITH THOMAS,74,3,45,26,0
+Walton,Loganville North,State Representative,114,D,G. KEITH THOMAS,302,14,224,64,0
+Walton,Loganville South,State Representative,114,D,G. KEITH THOMAS,351,16,255,80,0
+Walton,West Walton,State Representative,114,D,G. KEITH THOMAS,281,17,191,73,0
+Walton,Bay Creek,State Representative,114,D,G. KEITH THOMAS,150,6,105,39,0
+Walton,Tara,State Representative,114,D,G. KEITH THOMAS,321,7,237,77,0
+Walton,,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",13320,462,9653,3194,11
+Walton,Whatley,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",434,15,327,92,0
+Walton,Walker Park,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",1364,58,903,401,2
+Walton,Gratis,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",575,8,469,98,0
+Walton,Between,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",1252,40,898,314,0
+Walton,Walnut Grove,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",908,25,717,166,0
+Walton,Social Circle,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",1381,44,1049,288,0
+Walton,South Monroe,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",1093,75,657,361,0
+Walton,North Monroe,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",838,27,575,235,1
+Walton,Broken Arrow,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",1524,50,1203,269,2
+Walton,Bay Creek,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",42,2,28,12,0
+Walton,E Monroe,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",808,33,511,263,1
+Walton,W Monroe,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",808,32,457,318,1
+Walton,Mountain,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",413,6,312,95,0
+Walton,Jersey,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",733,25,611,96,1
+Walton,Blasingame,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",476,10,399,66,1
+Walton,Good Hope,State Representative,115,R,"H. B. ""BRUCE"" WILLIAMSON III. (I)",671,12,537,120,2
+Walton,,County Comm 1,,(R,CLINTON AYERS (I),4147,161,3088,898,0
+Walton,Bold Springs,County Comm 1,,(R,CLINTON AYERS (I),752,22,619,111,0
+Walton,Between,County Comm 1,,(R,CLINTON AYERS (I),1401,68,975,358,0
+Walton,Loganville North,County Comm 1,,(R,CLINTON AYERS (I),863,31,664,168,0
+Walton,Bay Creek,County Comm 1,,(R,CLINTON AYERS (I),1131,40,830,261,0
+Walton,,County Comm 4,,R,LEE BRADFORD,4138,111,3113,911,3
+Walton,Whatley,County Comm 4,,R,LEE BRADFORD,435,15,328,92,0
+Walton,Gratis,County Comm 4,,R,LEE BRADFORD,280,4,241,35,0
+Walton,Between,County Comm 4,,R,LEE BRADFORD,17,0,14,3,0
+Walton,Social Circle,County Comm 4,,R,LEE BRADFORD,1380,46,1047,287,0
+Walton,W Monroe,County Comm 4,,R,LEE BRADFORD,629,20,356,253,0
+Walton,Mountain,County Comm 4,,R,LEE BRADFORD,367,5,273,89,0
+Walton,Blasingame,County Comm 4,,R,LEE BRADFORD,440,10,371,58,1
+Walton,Good Hope,County Comm 4,,R,LEE BRADFORD,590,11,483,94,2
+Walton,,County Comm 5,,(R,JEREMY T. ADAMS (I),4153,174,2781,1198,0
+Walton,Bold Springs,County Comm 5,,(R,JEREMY T. ADAMS (I),1011,31,745,235,0
+Walton,Walker Park,County Comm 5,,(R,JEREMY T. ADAMS (I),1188,46,789,353,0
+Walton,Gratis,County Comm 5,,(R,JEREMY T. ADAMS (I),114,0,89,25,0
+Walton,Between,County Comm 5,,(R,JEREMY T. ADAMS (I),342,10,249,83,0
+Walton,South Monroe,County Comm 5,,(R,JEREMY T. ADAMS (I),1001,67,598,336,0
+Walton,North Monroe,County Comm 5,,(R,JEREMY T. ADAMS (I),185,6,119,60,0
+Walton,E Monroe,County Comm 5,,(R,JEREMY T. ADAMS (I),177,5,110,62,0
+Walton,W Monroe,County Comm 5,,(R,JEREMY T. ADAMS (I),135,9,82,44,0
+Walton,,BOE 1,,(D,LYNN E. HILL (I),1297,66,861,368,2
+Walton,South Monroe,BOE 1,,(D,LYNN E. HILL (I),143,10,100,33,0
+Walton,North Monroe,BOE 1,,(D,LYNN E. HILL (I),685,28,452,204,1
+Walton,E Monroe,BOE 1,,(D,LYNN E. HILL (I),469,28,309,131,1
+Walton,,BOE 2,,(R,JEREMY KILBURN (I),3537,108,2735,690,4
+Walton,Whatley,BOE 2,,(R,JEREMY KILBURN (I),421,14,321,86,0
+Walton,Walnut Grove,BOE 2,,(R,JEREMY KILBURN (I),302,14,225,63,0
+Walton,Social Circle,BOE 2,,(R,JEREMY KILBURN (I),513,18,372,123,0
+Walton,North Monroe,BOE 2,,(R,JEREMY KILBURN (I),72,3,51,18,0
+Walton,E Monroe,BOE 2,,(R,JEREMY KILBURN (I),367,8,236,123,0
+Walton,Jersey,BOE 2,,(R,JEREMY KILBURN (I),724,27,602,94,1
+Walton,Blasingame,BOE 2,,(R,JEREMY KILBURN (I),473,11,395,66,1
+Walton,Good Hope,BOE 2,,(R,JEREMY KILBURN (I),665,13,533,117,2
+Walton,,BOE 5,,(R,TOM GIBSON (I),3114,92,2414,608,0
+Walton,Walnut Grove,BOE 5,,(R,TOM GIBSON (I),601,11,487,103,0
+Walton,Loganville North,BOE 5,,(R,TOM GIBSON (I),445,16,334,95,0
+Walton,Broken Arrow,BOE 5,,(R,TOM GIBSON (I),1523,50,1207,266,0
+Walton,Tara,BOE 5,,(R,TOM GIBSON (I),545,15,386,144,0
+Walton,,Soil and Water Conservation,,,DANIEL L. BENNETT (I),18811,774,13672,4353,12
+Walton,Bold Springs,Soil and Water Conservation,,,DANIEL L. BENNETT (I),1489,48,1142,299,0
+Walton,Whatley,Soil and Water Conservation,,,DANIEL L. BENNETT (I),351,13,257,81,0
+Walton,Walker Park,Soil and Water Conservation,,,DANIEL L. BENNETT (I),1121,53,727,339,2
+Walton,Gratis,Soil and Water Conservation,,,DANIEL L. BENNETT (I),472,8,380,84,0
+Walton,Between,Soil and Water Conservation,,,DANIEL L. BENNETT (I),1501,63,1062,375,1
+Walton,Walnut Grove,Soil and Water Conservation,,,DANIEL L. BENNETT (I),758,24,597,137,0
+Walton,Loganville North,Soil and Water Conservation,,,DANIEL L. BENNETT (I),1361,71,1009,281,0
+Walton,Social Circle,Soil and Water Conservation,,,DANIEL L. BENNETT (I),1114,41,831,242,0
+Walton,South Monroe,Soil and Water Conservation,,,DANIEL L. BENNETT (I),933,63,557,313,0
+Walton,North Monroe,Soil and Water Conservation,,,DANIEL L. BENNETT (I),680,27,452,200,1
+Walton,Loganville South,Soil and Water Conservation,,,DANIEL L. BENNETT (I),1118,62,805,251,0
+Walton,West Walton,Soil and Water Conservation,,,DANIEL L. BENNETT (I),1507,67,1142,297,1
+Walton,Broken Arrow,Soil and Water Conservation,,,DANIEL L. BENNETT (I),1344,49,1048,245,2
+Walton,Bay Creek,Soil and Water Conservation,,,DANIEL L. BENNETT (I),983,38,718,227,0
+Walton,E Monroe,Soil and Water Conservation,,,DANIEL L. BENNETT (I),647,32,399,216,0
+Walton,W Monroe,Soil and Water Conservation,,,DANIEL L. BENNETT (I),678,29,385,264,0
+Walton,Tara,Soil and Water Conservation,,,DANIEL L. BENNETT (I),870,33,644,193,0
+Walton,Mountain,Soil and Water Conservation,,,DANIEL L. BENNETT (I),360,4,274,82,0
+Walton,Jersey,Soil and Water Conservation,,,DANIEL L. BENNETT (I),573,26,480,66,1
+Walton,Blasingame,Soil and Water Conservation,,,DANIEL L. BENNETT (I),387,9,315,61,2
+Walton,Good Hope,Soil and Water Conservation,,,DANIEL L. BENNETT (I),564,14,448,100,2
+Walton,,Soil and Water Conservation,,,GEORGE MALCOM (I),16514,714,11960,3829,11
+Walton,Bold Springs,Soil and Water Conservation,,,GEORGE MALCOM (I),1288,46,973,269,0
+Walton,Whatley,Soil and Water Conservation,,,GEORGE MALCOM (I),330,10,250,70,0
+Walton,Walker Park,Soil and Water Conservation,,,GEORGE MALCOM (I),988,52,628,307,1
+Walton,Gratis,Soil and Water Conservation,,,GEORGE MALCOM (I),402,7,323,72,0
+Walton,Between,Soil and Water Conservation,,,GEORGE MALCOM (I),1335,56,941,338,0
+Walton,Walnut Grove,Soil and Water Conservation,,,GEORGE MALCOM (I),622,20,490,112,0
+Walton,Loganville North,Soil and Water Conservation,,,GEORGE MALCOM (I),1182,64,882,236,0
+Walton,Social Circle,Soil and Water Conservation,,,GEORGE MALCOM (I),1052,38,790,224,0
+Walton,South Monroe,Soil and Water Conservation,,,GEORGE MALCOM (I),866,65,518,283,0
+Walton,North Monroe,Soil and Water Conservation,,,GEORGE MALCOM (I),681,28,458,194,1
+Walton,Loganville South,Soil and Water Conservation,,,GEORGE MALCOM (I),945,54,671,220,0
+Walton,West Walton,Soil and Water Conservation,,,GEORGE MALCOM (I),1244,63,926,254,1
+Walton,Broken Arrow,Soil and Water Conservation,,,GEORGE MALCOM (I),1083,44,853,185,1
+Walton,Bay Creek,Soil and Water Conservation,,,GEORGE MALCOM (I),804,34,587,183,0
+Walton,E Monroe,Soil and Water Conservation,,,GEORGE MALCOM (I),633,31,390,211,1
+Walton,W Monroe,Soil and Water Conservation,,,GEORGE MALCOM (I),604,25,333,245,1
+Walton,Tara,Soil and Water Conservation,,,GEORGE MALCOM (I),767,29,570,168,0
+Walton,Mountain,Soil and Water Conservation,,,GEORGE MALCOM (I),295,4,228,63,0
+Walton,Jersey,Soil and Water Conservation,,,GEORGE MALCOM (I),507,22,425,59,1
+Walton,Blasingame,Soil and Water Conservation,,,GEORGE MALCOM (I),388,9,326,51,2
+Walton,Good Hope,Soil and Water Conservation,,,GEORGE MALCOM (I),498,13,398,85,2
+Walton,,Soil and Water Conservation,,,HERMAN D. WILEY (I),14977,720,10728,3520,9
+Walton,Bold Springs,Soil and Water Conservation,,,HERMAN D. WILEY (I),1186,44,892,250,0
+Walton,Whatley,Soil and Water Conservation,,,HERMAN D. WILEY (I),300,10,217,73,0
+Walton,Walker Park,Soil and Water Conservation,,,HERMAN D. WILEY (I),883,50,554,278,1
+Walton,Gratis,Soil and Water Conservation,,,HERMAN D. WILEY (I),355,10,281,64,0
+Walton,Between,Soil and Water Conservation,,,HERMAN D. WILEY (I),1231,56,865,310,0
+Walton,Walnut Grove,Soil and Water Conservation,,,HERMAN D. WILEY (I),576,22,455,99,0
+Walton,Loganville North,Soil and Water Conservation,,,HERMAN D. WILEY (I),1097,66,807,224,0
+Walton,Social Circle,Soil and Water Conservation,,,HERMAN D. WILEY (I),905,40,665,200,0
+Walton,South Monroe,Soil and Water Conservation,,,HERMAN D. WILEY (I),781,58,458,265,0
+Walton,North Monroe,Soil and Water Conservation,,,HERMAN D. WILEY (I),542,28,360,153,1
+Walton,Loganville South,Soil and Water Conservation,,,HERMAN D. WILEY (I),888,55,622,211,0
+Walton,West Walton,Soil and Water Conservation,,,HERMAN D. WILEY (I),1164,62,856,245,1
+Walton,Broken Arrow,Soil and Water Conservation,,,HERMAN D. WILEY (I),1013,44,792,176,1
+Walton,Bay Creek,Soil and Water Conservation,,,HERMAN D. WILEY (I),755,37,547,171,0
+Walton,E Monroe,Soil and Water Conservation,,,HERMAN D. WILEY (I),525,35,313,177,0
+Walton,W Monroe,Soil and Water Conservation,,,HERMAN D. WILEY (I),553,26,299,228,0
+Walton,Tara,Soil and Water Conservation,,,HERMAN D. WILEY (I),726,30,534,162,0
+Walton,Mountain,Soil and Water Conservation,,,HERMAN D. WILEY (I),278,4,214,60,0
+Walton,Jersey,Soil and Water Conservation,,,HERMAN D. WILEY (I),481,23,401,56,1
+Walton,Blasingame,Soil and Water Conservation,,,HERMAN D. WILEY (I),308,10,250,46,2
+Walton,Good Hope,Soil and Water Conservation,,,HERMAN D. WILEY (I),430,10,346,72,2
+Walton,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,20694,880,14898,4903,13
+Walton,Bold Springs,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1598,53,1223,322,0
+Walton,Whatley,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,389,14,286,89,0
+Walton,Walker Park,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1234,56,798,378,2
+Walton,Gratis,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,506,7,411,88,0
+Walton,Between,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1636,69,1130,437,0
+Walton,Walnut Grove,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,825,25,653,147,0
+Walton,Loganville North,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1456,81,1082,293,0
+Walton,Social Circle,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1298,68,964,266,0
+Walton,South Monroe,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1050,73,612,365,0
+Walton,North Monroe,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,905,40,584,280,1
+Walton,Loganville South,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1203,69,863,271,0
+Walton,West Walton,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1587,71,1179,335,2
+Walton,Broken Arrow,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1402,51,1084,265,2
+Walton,Bay Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1033,44,752,237,0
+Walton,E Monroe,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,766,39,476,250,1
+Walton,W Monroe,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,743,27,412,303,1
+Walton,Tara,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1008,34,745,229,0
+Walton,Mountain,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,388,7,289,92,0
+Walton,Jersey,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,620,26,514,78,2
+Walton,Blasingame,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,432,12,355,65,0
+Walton,Good Hope,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,615,14,486,113,2
+Walton,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,4772,142,3503,1124,3
+Walton,Bold Springs,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,317,10,233,74,0
+Walton,Whatley,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,90,1,71,18,0
+Walton,Walker Park,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,272,6,185,81,0
+Walton,Gratis,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,97,0,77,20,0
+Walton,Between,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,350,16,242,91,1
+Walton,Walnut Grove,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,159,3,122,34,0
+Walton,Loganville North,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,314,7,242,65,0
+Walton,Social Circle,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,408,11,317,80,0
+Walton,South Monroe,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,258,11,166,81,0
+Walton,North Monroe,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,349,7,243,99,0
+Walton,Loganville South,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,268,11,205,52,0
+Walton,West Walton,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,294,15,222,57,0
+Walton,Broken Arrow,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,283,7,229,47,0
+Walton,Bay Creek,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,210,5,148,57,0
+Walton,E Monroe,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,275,9,182,84,0
+Walton,W Monroe,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,166,10,90,66,0
+Walton,Tara,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,221,5,174,42,0
+Walton,Mountain,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,74,0,57,17,0
+Walton,Jersey,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,147,3,122,22,0
+Walton,Blasingame,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,89,1,75,11,2
+Walton,Good Hope,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,131,4,101,26,0
+Walton,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,17577,754,12728,4084,11
+Walton,Bold Springs,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1321,38,1015,268,0
+Walton,Whatley,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,314,14,233,67,0
+Walton,Walker Park,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1000,48,644,307,1
+Walton,Gratis,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,403,4,336,63,0
+Walton,Between,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1368,53,966,348,1
+Walton,Walnut Grove,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,692,20,538,134,0
+Walton,Loganville North,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1201,66,901,234,0
+Walton,Social Circle,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1195,58,896,241,0
+Walton,South Monroe,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,952,65,565,322,0
+Walton,North Monroe,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,880,30,581,269,0
+Walton,Loganville South,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1059,62,759,238,0
+Walton,West Walton,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1292,61,967,263,1
+Walton,Broken Arrow,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1146,41,895,209,1
+Walton,Bay Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,836,41,602,193,0
+Walton,E Monroe,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,739,41,462,235,1
+Walton,W Monroe,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,602,28,336,237,1
+Walton,Tara,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,854,27,646,181,0
+Walton,Mountain,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,316,7,228,81,0
+Walton,Jersey,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,518,25,433,58,2
+Walton,Blasingame,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,368,9,310,48,1
+Walton,Good Hope,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,521,16,415,88,2
+Walton,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,7520,250,5428,1838,4
+Walton,Bold Springs,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,561,22,419,120,0
+Walton,Whatley,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,155,1,116,38,0
+Walton,Walker Park,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,480,14,325,141,0
+Walton,Gratis,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,190,4,145,41,0
+Walton,Between,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,591,30,395,166,0
+Walton,Walnut Grove,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,278,9,225,44,0
+Walton,Loganville North,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,551,21,405,125,0
+Walton,Social Circle,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,486,17,372,97,0
+Walton,South Monroe,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,342,22,200,120,0
+Walton,North Monroe,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,362,17,234,110,1
+Walton,Loganville South,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,386,16,289,81,0
+Walton,West Walton,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,562,25,413,123,1
+Walton,Broken Arrow,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,525,13,408,103,1
+Walton,Bay Creek,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,380,8,285,87,0
+Walton,E Monroe,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,287,5,188,94,0
+Walton,W Monroe,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,297,9,160,128,0
+Walton,Tara,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,344,9,258,77,0
+Walton,Mountain,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,140,0,113,27,0
+Walton,Jersey,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,242,4,196,42,0
+Walton,Blasingame,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,150,3,120,26,1
+Walton,Good Hope,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,211,1,162,48,0
+Walton,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,18873,750,13701,4410,12
+Walton,Bold Springs,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1412,40,1094,278,0
+Walton,Whatley,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,331,11,248,72,0
+Walton,Walker Park,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1101,50,724,325,2
+Walton,Gratis,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,429,5,353,71,0
+Walton,Between,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1466,60,1027,378,1
+Walton,Walnut Grove,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,753,22,589,142,0
+Walton,Loganville North,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1293,74,974,245,0
+Walton,Social Circle,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1244,46,947,251,0
+Walton,South Monroe,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1035,72,620,343,0
+Walton,North Monroe,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,945,40,639,266,0
+Walton,Loganville South,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1125,61,807,257,0
+Walton,West Walton,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1433,60,1071,300,2
+Walton,Broken Arrow,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1259,37,979,243,0
+Walton,Bay Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,900,30,647,223,0
+Walton,E Monroe,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,762,39,482,240,1
+Walton,W Monroe,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,659,29,367,262,1
+Walton,Tara,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,914,25,697,192,0
+Walton,Mountain,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,334,7,237,90,0
+Walton,Jersey,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,558,23,456,77,2
+Walton,Blasingame,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,388,8,326,53,1
+Walton,Good Hope,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,532,11,417,102,2
+Walton,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,6295,257,4494,1540,4
+Walton,Bold Springs,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,480,22,349,109,0
+Walton,Whatley,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,138,2,103,33,0
+Walton,Walker Park,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,385,12,244,129,0
+Walton,Gratis,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,173,3,135,35,0
+Walton,Between,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,489,24,320,145,0
+Walton,Walnut Grove,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,215,7,172,36,0
+Walton,Loganville North,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,470,15,342,113,0
+Walton,Social Circle,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,445,31,323,91,0
+Walton,South Monroe,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,252,14,145,93,0
+Walton,North Monroe,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,296,10,178,107,1
+Walton,Loganville South,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,337,17,253,67,0
+Walton,West Walton,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,437,27,316,94,0
+Walton,Broken Arrow,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,402,18,319,63,2
+Walton,Bay Creek,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,325,17,247,61,0
+Walton,E Monroe,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,263,7,164,92,0
+Walton,W Monroe,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,243,7,134,102,0
+Walton,Tara,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,295,10,213,72,0
+Walton,Mountain,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,122,1,102,19,0
+Walton,Jersey,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,196,4,170,22,0
+Walton,Blasingame,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,126,3,101,21,1
+Walton,Good Hope,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,206,6,164,36,0
+Walton,,Sunday Sales,,,YES,15775,577,11520,3668,10
+Walton,Bold Springs,Sunday Sales,,,YES,1252,44,972,236,0
+Walton,Whatley,Sunday Sales,,,YES,314,6,242,66,0
+Walton,Walker Park,Sunday Sales,,,YES,871,35,583,252,1
+Walton,Gratis,Sunday Sales,,,YES,364,6,302,56,0
+Walton,Between,Sunday Sales,,,YES,1258,47,880,330,1
+Walton,Walnut Grove,Sunday Sales,,,YES,582,15,464,103,0
+Walton,Loganville North,Sunday Sales,,,YES,1066,43,811,212,0
+Walton,Social Circle,Sunday Sales,,,YES,1078,48,814,216,0
+Walton,South Monroe,Sunday Sales,,,YES,808,41,496,271,0
+Walton,North Monroe,Sunday Sales,,,YES,832,32,554,245,1
+Walton,Loganville South,Sunday Sales,,,YES,894,42,671,181,0
+Walton,West Walton,Sunday Sales,,,YES,1152,50,861,240,1
+Walton,Broken Arrow,Sunday Sales,,,YES,1059,31,839,187,2
+Walton,Bay Creek,Sunday Sales,,,YES,768,35,561,172,0
+Walton,E Monroe,Sunday Sales,,,YES,656,26,422,207,1
+Walton,W Monroe,Sunday Sales,,,YES,583,20,320,243,0
+Walton,Tara,Sunday Sales,,,YES,793,24,581,188,0
+Walton,Mountain,Sunday Sales,,,YES,280,3,209,68,0
+Walton,Jersey,Sunday Sales,,,YES,438,13,357,67,1
+Walton,Blasingame,Sunday Sales,,,YES,316,6,263,46,1
+Walton,Good Hope,Sunday Sales,,,YES,411,10,318,82,1
+Walton,,Sunday Sales,,,NO,9919,461,7037,2415,6
+Walton,Bold Springs,Sunday Sales,,,NO,687,20,505,162,0
+Walton,Whatley,Sunday Sales,,,NO,168,8,121,39,0
+Walton,Walker Park,Sunday Sales,,,NO,640,28,403,208,1
+Walton,Gratis,Sunday Sales,,,NO,247,2,192,53,0
+Walton,Between,Sunday Sales,,,NO,733,37,494,202,0
+Walton,Walnut Grove,Sunday Sales,,,NO,405,13,312,80,0
+Walton,Loganville North,Sunday Sales,,,NO,738,46,537,155,0
+Walton,Social Circle,Sunday Sales,,,NO,645,33,476,136,0
+Walton,South Monroe,Sunday Sales,,,NO,491,46,271,174,0
+Walton,North Monroe,Sunday Sales,,,NO,451,19,289,143,0
+Walton,Loganville South,Sunday Sales,,,NO,600,41,414,145,0
+Walton,West Walton,Sunday Sales,,,NO,753,37,557,158,1
+Walton,Broken Arrow,Sunday Sales,,,NO,625,25,474,126,0
+Walton,Bay Creek,Sunday Sales,,,NO,477,14,345,118,0
+Walton,E Monroe,Sunday Sales,,,NO,396,24,238,134,0
+Walton,W Monroe,Sunday Sales,,,NO,331,17,184,129,1
+Walton,Tara,Sunday Sales,,,NO,451,15,346,90,0
+Walton,Mountain,Sunday Sales,,,NO,184,4,136,44,0
+Walton,Jersey,Sunday Sales,,,NO,335,16,286,32,1
+Walton,Blasingame,Sunday Sales,,,NO,219,8,179,31,1
+Walton,Good Hope,Sunday Sales,,,NO,343,8,278,56,1
+Walton,,Good Hope - CC P2,,,EDDIE SHEPPARD,64,1,55,8,0
+Walton,Good Hope,Good Hope - CC P2,,,EDDIE SHEPPARD,64,1,55,8,0
+Walton,,Good Hope - CC P2,,,JAMES RICKY STAPP,18,0,15,3,0
+Walton,Good Hope,Good Hope - CC P2,,,JAMES RICKY STAPP,18,0,15,3,0
+Walton,,Good Hope - CC P2,,,BILLY T. STUDDARD,19,0,15,4,0
+Walton,Good Hope,Good Hope - CC P2,,,BILLY T. STUDDARD,19,0,15,4,0

@@ -1,0 +1,299 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Seminole,,United States Senator,,R,DAVID A. PERDUE,1388,48,1048,289,3
+Seminole,Precinct 1,United States Senator,,R,DAVID A. PERDUE,358,8,259,89,2
+Seminole,Precinct 2,United States Senator,,R,DAVID A. PERDUE,287,12,206,69,0
+Seminole,Precinct 3,United States Senator,,R,DAVID A. PERDUE,47,1,31,15,0
+Seminole,Precinct 4,United States Senator,,R,DAVID A. PERDUE,305,9,237,58,1
+Seminole,Precinct 5,United States Senator,,R,DAVID A. PERDUE,391,18,315,58,0
+Seminole,,United States Senator,,D,M. MICHELLE NUNN,804,28,605,169,2
+Seminole,Precinct 1,United States Senator,,D,M. MICHELLE NUNN,161,4,120,36,1
+Seminole,Precinct 2,United States Senator,,D,M. MICHELLE NUNN,171,9,124,38,0
+Seminole,Precinct 3,United States Senator,,D,M. MICHELLE NUNN,283,4,218,60,1
+Seminole,Precinct 4,United States Senator,,D,M. MICHELLE NUNN,110,4,80,26,0
+Seminole,Precinct 5,United States Senator,,D,M. MICHELLE NUNN,79,7,63,9,0
+Seminole,,United States Senator,,L,AMANDA C. SWAFFORD,45,0,35,10,0
+Seminole,Precinct 1,United States Senator,,L,AMANDA C. SWAFFORD,9,0,5,4,0
+Seminole,Precinct 2,United States Senator,,L,AMANDA C. SWAFFORD,10,0,9,1,0
+Seminole,Precinct 3,United States Senator,,L,AMANDA C. SWAFFORD,8,0,7,1,0
+Seminole,Precinct 4,United States Senator,,L,AMANDA C. SWAFFORD,11,0,10,1,0
+Seminole,Precinct 5,United States Senator,,L,AMANDA C. SWAFFORD,7,0,4,3,0
+Seminole,,Governor,,R,J. NATHAN DEAL (I),1357,44,1022,288,3
+Seminole,Precinct 1,Governor,,R,J. NATHAN DEAL (I),353,6,259,86,2
+Seminole,Precinct 2,Governor,,R,J. NATHAN DEAL (I),285,12,198,75,0
+Seminole,Precinct 3,Governor,,R,J. NATHAN DEAL (I),47,1,31,15,0
+Seminole,Precinct 4,Governor,,R,J. NATHAN DEAL (I),303,9,239,54,1
+Seminole,Precinct 5,Governor,,R,J. NATHAN DEAL (I),369,16,295,58,0
+Seminole,,Governor,,D,JASON J. CARTER,805,32,604,167,2
+Seminole,Precinct 1,Governor,,D,JASON J. CARTER,169,6,121,41,1
+Seminole,Precinct 2,Governor,,D,JASON J. CARTER,164,9,127,28,0
+Seminole,Precinct 3,Governor,,D,JASON J. CARTER,282,4,215,62,1
+Seminole,Precinct 4,Governor,,D,JASON J. CARTER,107,4,76,27,0
+Seminole,Precinct 5,Governor,,D,JASON J. CARTER,83,9,65,9,0
+Seminole,,Governor,,L,ANDREW T. HUNT,47,0,38,9,0
+Seminole,Precinct 1,Governor,,L,ANDREW T. HUNT,9,0,6,3,0
+Seminole,Precinct 2,Governor,,L,ANDREW T. HUNT,7,0,7,0,0
+Seminole,Precinct 3,Governor,,L,ANDREW T. HUNT,3,0,3,0,0
+Seminole,Precinct 4,Governor,,L,ANDREW T. HUNT,15,0,12,3,0
+Seminole,Precinct 5,Governor,,L,ANDREW T. HUNT,13,0,10,3,0
+Seminole,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",1434,46,1081,304,3
+Seminole,Precinct 1,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",371,8,268,93,2
+Seminole,Precinct 2,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",300,12,215,73,0
+Seminole,Precinct 3,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",45,1,28,16,0
+Seminole,Precinct 4,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",325,9,257,58,1
+Seminole,Precinct 5,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",393,16,313,64,0
+Seminole,,Lieutenant Governor,,D,CONNIE J. STOKES,766,30,573,161,2
+Seminole,Precinct 1,Lieutenant Governor,,D,CONNIE J. STOKES,150,4,108,37,1
+Seminole,Precinct 2,Lieutenant Governor,,D,CONNIE J. STOKES,154,9,115,30,0
+Seminole,Precinct 3,Lieutenant Governor,,D,CONNIE J. STOKES,289,4,223,61,1
+Seminole,Precinct 4,Lieutenant Governor,,D,CONNIE J. STOKES,98,4,70,24,0
+Seminole,Precinct 5,Lieutenant Governor,,D,CONNIE J. STOKES,75,9,57,9,0
+Seminole,,Secretary Of State,,R,BRIAN P. KEMP (I),1464,46,1112,304,2
+Seminole,Precinct 1,Secretary Of State,,R,BRIAN P. KEMP (I),383,7,285,90,1
+Seminole,Precinct 2,Secretary Of State,,R,BRIAN P. KEMP (I),304,12,217,75,0
+Seminole,Precinct 3,Secretary Of State,,R,BRIAN P. KEMP (I),47,1,30,16,0
+Seminole,Precinct 4,Secretary Of State,,R,BRIAN P. KEMP (I),331,8,261,61,1
+Seminole,Precinct 5,Secretary Of State,,R,BRIAN P. KEMP (I),399,18,319,62,0
+Seminole,,Secretary Of State,,D,DOREEN CARTER,771,30,572,166,3
+Seminole,Precinct 1,Secretary Of State,,D,DOREEN CARTER,152,5,104,41,2
+Seminole,Precinct 2,Secretary Of State,,D,DOREEN CARTER,160,9,120,31,0
+Seminole,Precinct 3,Secretary Of State,,D,DOREEN CARTER,292,4,225,62,1
+Seminole,Precinct 4,Secretary Of State,,D,DOREEN CARTER,96,5,68,23,0
+Seminole,Precinct 5,Secretary Of State,,D,DOREEN CARTER,71,7,55,9,0
+Seminole,,Attorney General,,R,SAMUEL S. OLENS (I),1436,46,1085,301,4
+Seminole,Precinct 1,Attorney General,,R,SAMUEL S. OLENS (I),378,7,274,94,3
+Seminole,Precinct 2,Attorney General,,R,SAMUEL S. OLENS (I),292,13,207,72,0
+Seminole,Precinct 3,Attorney General,,R,SAMUEL S. OLENS (I),50,1,32,17,0
+Seminole,Precinct 4,Attorney General,,R,SAMUEL S. OLENS (I),324,9,256,58,1
+Seminole,Precinct 5,Attorney General,,R,SAMUEL S. OLENS (I),392,16,316,60,0
+Seminole,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",782,30,585,166,1
+Seminole,Precinct 1,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",151,5,109,37,0
+Seminole,Precinct 2,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",161,8,121,32,0
+Seminole,Precinct 3,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",289,4,225,59,1
+Seminole,Precinct 4,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",104,4,73,27,0
+Seminole,Precinct 5,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",77,9,57,11,0
+Seminole,,Commissioner Of Agriculture,,R,GARY W. BLACK (I),1478,48,1107,319,4
+Seminole,Precinct 1,Commissioner Of Agriculture,,R,GARY W. BLACK (I),384,9,275,97,3
+Seminole,Precinct 2,Commissioner Of Agriculture,,R,GARY W. BLACK (I),315,12,225,78,0
+Seminole,Precinct 3,Commissioner Of Agriculture,,R,GARY W. BLACK (I),50,2,32,16,0
+Seminole,Precinct 4,Commissioner Of Agriculture,,R,GARY W. BLACK (I),334,10,259,64,1
+Seminole,Precinct 5,Commissioner Of Agriculture,,R,GARY W. BLACK (I),395,15,316,64,0
+Seminole,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,744,26,564,153,1
+Seminole,Precinct 1,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,146,3,108,35,0
+Seminole,Precinct 2,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,147,9,110,28,0
+Seminole,Precinct 3,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,285,3,220,61,1
+Seminole,Precinct 4,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,92,3,68,21,0
+Seminole,Precinct 5,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,74,8,58,8,0
+Seminole,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),1423,45,1079,296,3
+Seminole,Precinct 1,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),367,8,268,89,2
+Seminole,Precinct 2,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),290,12,207,71,0
+Seminole,Precinct 3,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),45,1,29,15,0
+Seminole,Precinct 4,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),328,10,257,60,1
+Seminole,Precinct 5,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),393,14,318,61,0
+Seminole,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",760,29,559,170,2
+Seminole,Precinct 1,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",152,4,104,43,1
+Seminole,Precinct 2,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",152,9,111,32,0
+Seminole,Precinct 3,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",294,4,227,62,1
+Seminole,Precinct 4,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",93,3,65,25,0
+Seminole,Precinct 5,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",69,9,52,8,0
+Seminole,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",36,0,32,4,0
+Seminole,Precinct 1,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",7,0,6,1,0
+Seminole,Precinct 2,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",14,0,12,2,0
+Seminole,Precinct 3,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",1,0,1,0,0
+Seminole,Precinct 4,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",7,0,7,0,0
+Seminole,Precinct 5,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",7,0,6,1,0
+Seminole,,State School Superintendent,,R,RICHARD L. WOODS,1429,42,1091,294,2
+Seminole,Precinct 1,State School Superintendent,,R,RICHARD L. WOODS,370,6,275,88,1
+Seminole,Precinct 2,State School Superintendent,,R,RICHARD L. WOODS,295,10,215,70,0
+Seminole,Precinct 3,State School Superintendent,,R,RICHARD L. WOODS,44,1,28,15,0
+Seminole,Precinct 4,State School Superintendent,,R,RICHARD L. WOODS,326,9,256,60,1
+Seminole,Precinct 5,State School Superintendent,,R,RICHARD L. WOODS,394,16,317,61,0
+Seminole,,State School Superintendent,,D,VALARIE D. WILSON,820,31,607,179,3
+Seminole,Precinct 1,State School Superintendent,,D,VALARIE D. WILSON,170,6,117,45,2
+Seminole,Precinct 2,State School Superintendent,,D,VALARIE D. WILSON,169,10,122,37,0
+Seminole,Precinct 3,State School Superintendent,,D,VALARIE D. WILSON,302,4,233,64,1
+Seminole,Precinct 4,State School Superintendent,,D,VALARIE D. WILSON,104,4,75,25,0
+Seminole,Precinct 5,State School Superintendent,,D,VALARIE D. WILSON,75,7,60,8,0
+Seminole,,Commissioner Of Labor,,R,J. MARK BUTLER (I),1462,45,1102,312,3
+Seminole,Precinct 1,Commissioner Of Labor,,R,J. MARK BUTLER (I),382,8,278,94,2
+Seminole,Precinct 2,Commissioner Of Labor,,R,J. MARK BUTLER (I),313,11,223,79,0
+Seminole,Precinct 3,Commissioner Of Labor,,R,J. MARK BUTLER (I),45,1,28,16,0
+Seminole,Precinct 4,Commissioner Of Labor,,R,J. MARK BUTLER (I),325,9,254,61,1
+Seminole,Precinct 5,Commissioner Of Labor,,R,J. MARK BUTLER (I),397,16,319,62,0
+Seminole,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,771,28,576,165,2
+Seminole,Precinct 1,Commissioner Of Labor,,D,ROBBIN K. SHIPP,154,4,108,41,1
+Seminole,Precinct 2,Commissioner Of Labor,,D,ROBBIN K. SHIPP,144,9,107,28,0
+Seminole,Precinct 3,Commissioner Of Labor,,D,ROBBIN K. SHIPP,299,4,231,63,1
+Seminole,Precinct 4,Commissioner Of Labor,,D,ROBBIN K. SHIPP,105,4,77,24,0
+Seminole,Precinct 5,Commissioner Of Labor,,D,ROBBIN K. SHIPP,69,7,53,9,0
+Seminole,,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",1565,52,1176,333,4
+Seminole,Precinct 1,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",400,11,285,101,3
+Seminole,Precinct 2,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",327,13,230,84,0
+Seminole,Precinct 3,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",79,2,53,24,0
+Seminole,Precinct 4,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",347,9,272,65,1
+Seminole,Precinct 5,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",412,17,336,59,0
+Seminole,,Public Service Commission,1,L,JOHN H. MONDS,425,12,322,90,1
+Seminole,Precinct 1,Public Service Commission,1,L,JOHN H. MONDS,91,0,70,21,0
+Seminole,Precinct 2,Public Service Commission,1,L,JOHN H. MONDS,75,7,58,10,0
+Seminole,Precinct 3,Public Service Commission,1,L,JOHN H. MONDS,156,3,116,36,1
+Seminole,Precinct 4,Public Service Commission,1,L,JOHN H. MONDS,58,1,42,15,0
+Seminole,Precinct 5,Public Service Commission,1,L,JOHN H. MONDS,45,1,36,8,0
+Seminole,,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",1428,44,1080,300,4
+Seminole,Precinct 1,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",373,8,271,91,3
+Seminole,Precinct 2,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",298,12,211,75,0
+Seminole,Precinct 3,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",46,1,30,15,0
+Seminole,Precinct 4,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",324,9,252,62,1
+Seminole,Precinct 5,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",387,14,316,57,0
+Seminole,,Public Service Commission,4,D,DANIEL A. BLACKMAN,747,28,556,162,1
+Seminole,Precinct 1,Public Service Commission,4,D,DANIEL A. BLACKMAN,149,4,106,39,0
+Seminole,Precinct 2,Public Service Commission,4,D,DANIEL A. BLACKMAN,147,9,108,30,0
+Seminole,Precinct 3,Public Service Commission,4,D,DANIEL A. BLACKMAN,296,3,231,61,1
+Seminole,Precinct 4,Public Service Commission,4,D,DANIEL A. BLACKMAN,90,3,66,21,0
+Seminole,Precinct 5,Public Service Commission,4,D,DANIEL A. BLACKMAN,65,9,45,11,0
+Seminole,,Public Service Commission,4,L,ROBIN AARON GILMER,55,2,41,12,0
+Seminole,Precinct 1,Public Service Commission,4,L,ROBIN AARON GILMER,10,0,7,3,0
+Seminole,Precinct 2,Public Service Commission,4,L,ROBIN AARON GILMER,15,0,12,3,0
+Seminole,Precinct 3,Public Service Commission,4,L,ROBIN AARON GILMER,3,1,0,2,0
+Seminole,Precinct 4,Public Service Commission,4,L,ROBIN AARON GILMER,14,1,11,2,0
+Seminole,Precinct 5,Public Service Commission,4,L,ROBIN AARON GILMER,13,0,11,2,0
+Seminole,,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",1344,39,1024,277,4
+Seminole,Precinct 1,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",343,5,254,81,3
+Seminole,Precinct 2,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",273,11,195,67,0
+Seminole,Precinct 3,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",43,1,27,15,0
+Seminole,Precinct 4,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",292,4,233,54,1
+Seminole,Precinct 5,U.S. Representative,2,R,"GREGORY P. ""GREG"" DUKE",393,18,315,60,0
+Seminole,,U.S. Representative,2,D,SANFORD D. BISHOP (I),921,37,680,203,1
+Seminole,Precinct 1,U.S. Representative,2,D,SANFORD D. BISHOP (I),197,7,137,53,0
+Seminole,Precinct 2,U.S. Representative,2,D,SANFORD D. BISHOP (I),193,10,143,40,0
+Seminole,Precinct 3,U.S. Representative,2,D,SANFORD D. BISHOP (I),309,4,238,66,1
+Seminole,Precinct 4,U.S. Representative,2,D,SANFORD D. BISHOP (I),136,9,96,31,0
+Seminole,Precinct 5,U.S. Representative,2,D,SANFORD D. BISHOP (I),86,7,66,13,0
+Seminole,,State Senator,11,R,K. DEAN BURKE (I),1801,59,1358,380,4
+Seminole,Precinct 1,State Senator,11,R,K. DEAN BURKE (I),461,12,337,109,3
+Seminole,Precinct 2,State Senator,11,R,K. DEAN BURKE (I),361,13,258,90,0
+Seminole,Precinct 3,State Senator,11,R,K. DEAN BURKE (I),167,4,119,44,0
+Seminole,Precinct 4,State Senator,11,R,K. DEAN BURKE (I),369,10,287,71,1
+Seminole,Precinct 5,State Senator,11,R,K. DEAN BURKE (I),443,20,357,66,0
+Seminole,,State Representative,154,D,WINFRED J. DUKES (I),1566,50,1194,317,5
+Seminole,Precinct 1,State Representative,154,D,WINFRED J. DUKES (I),366,11,272,80,3
+Seminole,Precinct 2,State Representative,154,D,WINFRED J. DUKES (I),323,12,240,71,0
+Seminole,Precinct 3,State Representative,154,D,WINFRED J. DUKES (I),307,3,233,70,1
+Seminole,Precinct 4,State Representative,154,D,WINFRED J. DUKES (I),298,8,231,58,1
+Seminole,Precinct 5,State Representative,154,D,WINFRED J. DUKES (I),272,16,218,38,0
+Seminole,,CC,D2,D,SHEILA WILLIAMS,389,13,283,93,0
+Seminole,Precinct 2,CC,D2,D,SHEILA WILLIAMS,389,13,283,93,0
+Seminole,,CC,D4,D,ROGER LANE (I),351,10,280,61,0
+Seminole,Precinct 4,CC,D4,D,ROGER LANE (I),351,10,280,61,0
+Seminole,,BOE D1,,D,JAMACA COACHMAN (I),402,11,289,101,1
+Seminole,Precinct 1,BOE D1,,D,JAMACA COACHMAN (I),402,11,289,101,1
+Seminole,,BOE D3,,IND,TRENT CLARK (I),274,4,215,55,0
+Seminole,Precinct 3,BOE D3,,IND,TRENT CLARK (I),274,4,215,55,0
+Seminole,,BOE D5,,R,WILLIAM ROBINSON (I),437,19,354,64,0
+Seminole,Precinct 5,BOE D5,,R,WILLIAM ROBINSON (I),437,19,354,64,0
+Seminole,,SOIL AND WATER,,,STEVE BAILEY (I),1691,49,1284,354,4
+Seminole,Precinct 1,SOIL AND WATER,,,STEVE BAILEY (I),418,10,303,102,3
+Seminole,Precinct 2,SOIL AND WATER,,,STEVE BAILEY (I),346,14,250,82,0
+Seminole,Precinct 3,SOIL AND WATER,,,STEVE BAILEY (I),224,3,173,48,0
+Seminole,Precinct 4,SOIL AND WATER,,,STEVE BAILEY (I),340,8,268,63,1
+Seminole,Precinct 5,SOIL AND WATER,,,STEVE BAILEY (I),363,14,290,59,0
+Seminole,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1577,51,1194,328,4
+Seminole,Precinct 1,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,372,7,270,92,3
+Seminole,Precinct 2,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,336,16,243,77,0
+Seminole,Precinct 3,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,192,3,144,45,0
+Seminole,Precinct 4,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,319,7,249,62,1
+Seminole,Precinct 5,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,358,18,288,52,0
+Seminole,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,645,21,480,144,0
+Seminole,Precinct 1,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,152,5,110,37,0
+Seminole,Precinct 2,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,123,3,91,29,0
+Seminole,Precinct 3,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,144,2,109,33,0
+Seminole,Precinct 4,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,106,4,78,24,0
+Seminole,Precinct 5,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,120,7,92,21,0
+Seminole,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,1477,50,1110,314,3
+Seminole,Precinct 1,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,365,11,267,84,3
+Seminole,Precinct 2,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,310,9,224,77,0
+Seminole,Precinct 3,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,218,5,160,53,0
+Seminole,Precinct 4,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,282,8,217,57,0
+Seminole,Precinct 5,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,302,17,242,43,0
+Seminole,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,711,21,540,149,1
+Seminole,Precinct 1,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,155,1,111,43,0
+Seminole,Precinct 2,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,140,10,103,27,0
+Seminole,Precinct 3,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,116,0,94,22,0
+Seminole,Precinct 4,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,135,3,104,27,1
+Seminole,Precinct 5,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,165,7,128,30,0
+Seminole,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,1543,53,1158,329,3
+Seminole,Precinct 1,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,384,11,277,94,2
+Seminole,Precinct 2,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,320,17,220,83,0
+Seminole,Precinct 3,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,260,5,198,57,0
+Seminole,Precinct 4,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,277,7,213,56,1
+Seminole,Precinct 5,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,302,13,250,39,0
+Seminole,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,641,16,485,140,0
+Seminole,Precinct 1,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,130,1,93,36,0
+Seminole,Precinct 2,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,128,2,104,22,0
+Seminole,Precinct 3,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,73,0,55,18,0
+Seminole,Precinct 4,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,141,3,107,31,0
+Seminole,Precinct 5,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,169,10,126,33,0
+Seminole,,SPLOST,,,YES,1404,42,1066,293,3
+Seminole,Precinct 1,SPLOST,,,YES,367,7,276,81,3
+Seminole,Precinct 2,SPLOST,,,YES,305,10,216,79,0
+Seminole,Precinct 3,SPLOST,,,YES,186,4,137,45,0
+Seminole,Precinct 4,SPLOST,,,YES,283,8,221,54,0
+Seminole,Precinct 5,SPLOST,,,YES,263,13,216,34,0
+Seminole,,SPLOST,,,NO,808,29,595,183,1
+Seminole,Precinct 1,SPLOST,,,NO,162,5,104,53,0
+Seminole,Precinct 2,SPLOST,,,NO,149,9,113,27,0
+Seminole,Precinct 3,SPLOST,,,NO,145,1,113,31,0
+Seminole,Precinct 4,SPLOST,,,NO,140,2,104,33,1
+Seminole,Precinct 5,SPLOST,,,NO,212,12,161,39,0
+Seminole,,QUESTION 1,,,YES,1165,34,886,242,3
+Seminole,Precinct 1,QUESTION 1,,,YES,298,6,227,62,3
+Seminole,Precinct 2,QUESTION 1,,,YES,237,8,165,64,0
+Seminole,Precinct 3,QUESTION 1,,,YES,172,1,135,36,0
+Seminole,Precinct 4,QUESTION 1,,,YES,203,7,161,35,0
+Seminole,Precinct 5,QUESTION 1,,,YES,255,12,198,45,0
+Seminole,,QUESTION 1,,,NO,1067,36,798,232,1
+Seminole,Precinct 1,QUESTION 1,,,NO,232,6,157,69,0
+Seminole,Precinct 2,QUESTION 1,,,NO,224,10,172,42,0
+Seminole,Precinct 3,QUESTION 1,,,NO,168,4,122,42,0
+Seminole,Precinct 4,QUESTION 1,,,NO,225,4,168,52,1
+Seminole,Precinct 5,QUESTION 1,,,NO,218,12,179,27,0
+Seminole,,QUESTION 2,,,YES,1218,42,914,259,3
+Seminole,Precinct 1,QUESTION 2,,,YES,310,7,234,66,3
+Seminole,Precinct 2,QUESTION 2,,,YES,255,10,180,65,0
+Seminole,Precinct 3,QUESTION 2,,,YES,173,1,133,39,0
+Seminole,Precinct 4,QUESTION 2,,,YES,215,9,167,39,0
+Seminole,Precinct 5,QUESTION 2,,,YES,265,15,200,50,0
+Seminole,,QUESTION 2,,,NO,999,29,754,215,1
+Seminole,Precinct 1,QUESTION 2,,,NO,218,5,148,65,0
+Seminole,Precinct 2,QUESTION 2,,,NO,199,9,149,41,0
+Seminole,Precinct 3,QUESTION 2,,,NO,163,4,120,39,0
+Seminole,Precinct 4,QUESTION 2,,,NO,209,2,158,48,1
+Seminole,Precinct 5,QUESTION 2,,,NO,210,9,179,22,0
+Seminole,,QUESTION 3,,,YES,1167,39,890,235,3
+Seminole,Precinct 1,QUESTION 3,,,YES,288,6,221,58,3
+Seminole,Precinct 2,QUESTION 3,,,YES,242,10,169,63,0
+Seminole,Precinct 3,QUESTION 3,,,YES,176,1,139,36,0
+Seminole,Precinct 4,QUESTION 3,,,YES,205,7,165,33,0
+Seminole,Precinct 5,QUESTION 3,,,YES,256,15,196,45,0
+Seminole,,QUESTION 3,,,NO,1071,33,799,238,1
+Seminole,Precinct 1,QUESTION 3,,,NO,245,6,165,74,0
+Seminole,Precinct 2,QUESTION 3,,,NO,219,9,167,43,0
+Seminole,Precinct 3,QUESTION 3,,,NO,165,4,120,41,0
+Seminole,Precinct 4,QUESTION 3,,,NO,224,5,165,53,1
+Seminole,Precinct 5,QUESTION 3,,,NO,218,9,182,27,0
+Seminole,,DONALSON Q1,,,YES,317,4,241,72,0
+Seminole,Precinct 2,DONALSON Q1,,,YES,137,3,101,33,0
+Seminole,Precinct 3,DONALSON Q1,,,YES,180,1,140,39,0
+Seminole,,DONALSON Q1,,,NO,274,7,205,62,0
+Seminole,Precinct 2,DONALSON Q1,,,NO,115,3,88,24,0
+Seminole,Precinct 3,DONALSON Q1,,,NO,159,4,117,38,0
+Seminole,,DONALSON Q2,,,YES,306,3,233,70,0
+Seminole,Precinct 2,DONALSON Q2,,,YES,133,2,97,34,0
+Seminole,Precinct 3,DONALSON Q2,,,YES,173,1,136,36,0
+Seminole,,DONALSON Q2,,,NO,281,8,210,63,0
+Seminole,Precinct 2,DONALSON Q2,,,NO,117,4,90,23,0
+Seminole,Precinct 3,DONALSON Q2,,,NO,164,4,120,40,0
+Seminole,,DONALSON Q3,,,YES,303,3,234,66,0
+Seminole,Precinct 2,DONALSON Q3,,,YES,132,2,97,33,0
+Seminole,Precinct 3,DONALSON Q3,,,YES,171,1,137,33,0
+Seminole,,DONALSON Q3,,,NO,287,8,212,67,0
+Seminole,Precinct 2,DONALSON Q3,,,NO,120,4,92,24,0
+Seminole,Precinct 3,DONALSON Q3,,,NO,167,4,120,43,0

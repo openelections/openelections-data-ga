@@ -1,0 +1,394 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Jones,,United States Senator,,R,DAVID A. PERDUE,4982,290,2959,1730,3
+Jones,GRAY,United States Senator,,R,DAVID A. PERDUE,794,35,375,384,0
+Jones,HAWKINS,United States Senator,,R,DAVID A. PERDUE,426,37,240,149,0
+Jones,ETHRIDGE,United States Senator,,R,DAVID A. PERDUE,454,29,241,184,0
+Jones,CLINTON,United States Senator,,R,DAVID A. PERDUE,685,45,351,289,0
+Jones,ROBERTS,United States Senator,,R,DAVID A. PERDUE,510,42,331,136,1
+Jones,DAVIDSON,United States Senator,,R,DAVID A. PERDUE,440,12,284,144,0
+Jones,POPE,United States Senator,,R,DAVID A. PERDUE,437,17,269,149,2
+Jones,BARRON,United States Senator,,R,DAVID A. PERDUE,388,24,232,132,0
+Jones,SANDERS,United States Senator,,R,DAVID A. PERDUE,56,0,54,2,0
+Jones,FINNEY,United States Senator,,R,DAVID A. PERDUE,792,49,582,161,0
+Jones,,United States Senator,,D,M. MICHELLE NUNN,3018,210,1625,1179,4
+Jones,GRAY,United States Senator,,D,M. MICHELLE NUNN,309,16,151,142,0
+Jones,HAWKINS,United States Senator,,D,M. MICHELLE NUNN,814,54,428,330,2
+Jones,ETHRIDGE,United States Senator,,D,M. MICHELLE NUNN,307,44,140,123,0
+Jones,CLINTON,United States Senator,,D,M. MICHELLE NUNN,256,18,98,140,0
+Jones,ROBERTS,United States Senator,,D,M. MICHELLE NUNN,354,29,227,98,0
+Jones,DAVIDSON,United States Senator,,D,M. MICHELLE NUNN,150,11,82,57,0
+Jones,POPE,United States Senator,,D,M. MICHELLE NUNN,312,16,174,121,1
+Jones,BARRON,United States Senator,,D,M. MICHELLE NUNN,183,6,91,85,1
+Jones,SANDERS,United States Senator,,D,M. MICHELLE NUNN,16,1,13,2,0
+Jones,FINNEY,United States Senator,,D,M. MICHELLE NUNN,317,15,221,81,0
+Jones,,United States Senator,,L,AMANDA C. SWAFFORD,148,11,98,39,0
+Jones,GRAY,United States Senator,,L,AMANDA C. SWAFFORD,21,4,12,5,0
+Jones,HAWKINS,United States Senator,,L,AMANDA C. SWAFFORD,19,1,9,9,0
+Jones,ETHRIDGE,United States Senator,,L,AMANDA C. SWAFFORD,17,2,10,5,0
+Jones,CLINTON,United States Senator,,L,AMANDA C. SWAFFORD,13,0,10,3,0
+Jones,ROBERTS,United States Senator,,L,AMANDA C. SWAFFORD,18,3,13,2,0
+Jones,DAVIDSON,United States Senator,,L,AMANDA C. SWAFFORD,12,0,7,5,0
+Jones,POPE,United States Senator,,L,AMANDA C. SWAFFORD,16,0,12,4,0
+Jones,BARRON,United States Senator,,L,AMANDA C. SWAFFORD,8,0,5,3,0
+Jones,SANDERS,United States Senator,,L,AMANDA C. SWAFFORD,0,0,0,0,0
+Jones,FINNEY,United States Senator,,L,AMANDA C. SWAFFORD,24,1,20,3,0
+Jones,,Governor,,R,J. NATHAN DEAL (I),4829,284,2870,1672,3
+Jones,GRAY,Governor,,R,J. NATHAN DEAL (I),771,35,364,372,0
+Jones,HAWKINS,Governor,,R,J. NATHAN DEAL (I),424,42,231,151,0
+Jones,ETHRIDGE,Governor,,R,J. NATHAN DEAL (I),428,27,228,173,0
+Jones,CLINTON,Governor,,R,J. NATHAN DEAL (I),658,42,339,277,0
+Jones,ROBERTS,Governor,,R,J. NATHAN DEAL (I),493,42,321,129,1
+Jones,DAVIDSON,Governor,,R,J. NATHAN DEAL (I),434,11,278,145,0
+Jones,POPE,Governor,,R,J. NATHAN DEAL (I),422,15,264,141,2
+Jones,BARRON,Governor,,R,J. NATHAN DEAL (I),372,22,225,125,0
+Jones,SANDERS,Governor,,R,J. NATHAN DEAL (I),56,0,55,1,0
+Jones,FINNEY,Governor,,R,J. NATHAN DEAL (I),771,48,565,158,0
+Jones,,Governor,,D,JASON J. CARTER,3101,223,1674,1200,4
+Jones,GRAY,Governor,,D,JASON J. CARTER,331,19,165,147,0
+Jones,HAWKINS,Governor,,D,JASON J. CARTER,808,49,432,325,2
+Jones,ETHRIDGE,Governor,,D,JASON J. CARTER,310,46,140,124,0
+Jones,CLINTON,Governor,,D,JASON J. CARTER,282,21,111,150,0
+Jones,ROBERTS,Governor,,D,JASON J. CARTER,369,32,236,101,0
+Jones,DAVIDSON,Governor,,D,JASON J. CARTER,148,12,79,57,0
+Jones,POPE,Governor,,D,JASON J. CARTER,308,17,169,121,1
+Jones,BARRON,Governor,,D,JASON J. CARTER,189,9,91,88,1
+Jones,SANDERS,Governor,,D,JASON J. CARTER,18,1,14,3,0
+Jones,FINNEY,Governor,,D,JASON J. CARTER,338,17,237,84,0
+Jones,,Governor,,L,ANDREW T. HUNT,137,4,94,39,0
+Jones,GRAY,Governor,,L,ANDREW T. HUNT,17,1,9,7,0
+Jones,HAWKINS,Governor,,L,ANDREW T. HUNT,19,1,11,7,0
+Jones,ETHRIDGE,Governor,,L,ANDREW T. HUNT,17,2,9,6,0
+Jones,CLINTON,Governor,,L,ANDREW T. HUNT,11,0,7,4,0
+Jones,ROBERTS,Governor,,L,ANDREW T. HUNT,13,0,11,2,0
+Jones,DAVIDSON,Governor,,L,ANDREW T. HUNT,11,0,9,2,0
+Jones,POPE,Governor,,L,ANDREW T. HUNT,16,0,12,4,0
+Jones,BARRON,Governor,,L,ANDREW T. HUNT,8,0,5,3,0
+Jones,SANDERS,Governor,,L,ANDREW T. HUNT,2,0,2,0,0
+Jones,FINNEY,Governor,,L,ANDREW T. HUNT,23,0,19,4,0
+Jones,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",5340,319,3173,1845,3
+Jones,GRAY,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",842,37,405,400,0
+Jones,HAWKINS,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",479,44,266,169,0
+Jones,ETHRIDGE,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",503,33,256,214,0
+Jones,CLINTON,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",715,46,368,301,0
+Jones,ROBERTS,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",563,55,367,140,1
+Jones,DAVIDSON,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",465,11,308,146,0
+Jones,POPE,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",457,19,279,157,2
+Jones,BARRON,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",408,23,242,143,0
+Jones,SANDERS,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",60,1,57,2,0
+Jones,FINNEY,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",848,50,625,173,0
+Jones,,Lieutenant Governor,,D,CONNIE J. STOKES,2709,187,1455,1063,4
+Jones,GRAY,Lieutenant Governor,,D,CONNIE J. STOKES,269,18,126,125,0
+Jones,HAWKINS,Lieutenant Governor,,D,CONNIE J. STOKES,764,47,400,315,2
+Jones,ETHRIDGE,Lieutenant Governor,,D,CONNIE J. STOKES,267,42,133,92,0
+Jones,CLINTON,Lieutenant Governor,,D,CONNIE J. STOKES,229,16,86,127,0
+Jones,ROBERTS,Lieutenant Governor,,D,CONNIE J. STOKES,308,18,201,89,0
+Jones,DAVIDSON,Lieutenant Governor,,D,CONNIE J. STOKES,128,12,59,57,0
+Jones,POPE,Lieutenant Governor,,D,CONNIE J. STOKES,283,12,159,111,1
+Jones,BARRON,Lieutenant Governor,,D,CONNIE J. STOKES,170,7,88,74,1
+Jones,SANDERS,Lieutenant Governor,,D,CONNIE J. STOKES,15,0,13,2,0
+Jones,FINNEY,Lieutenant Governor,,D,CONNIE J. STOKES,276,15,190,71,0
+Jones,,Secretary Of State,,R,BRIAN P. KEMP (I),5330,321,3166,1840,3
+Jones,GRAY,Secretary Of State,,R,BRIAN P. KEMP (I),840,38,406,396,0
+Jones,HAWKINS,Secretary Of State,,R,BRIAN P. KEMP (I),476,44,260,172,0
+Jones,ETHRIDGE,Secretary Of State,,R,BRIAN P. KEMP (I),498,34,258,206,0
+Jones,CLINTON,Secretary Of State,,R,BRIAN P. KEMP (I),712,44,366,302,0
+Jones,ROBERTS,Secretary Of State,,R,BRIAN P. KEMP (I),559,55,358,145,1
+Jones,DAVIDSON,Secretary Of State,,R,BRIAN P. KEMP (I),467,12,306,149,0
+Jones,POPE,Secretary Of State,,R,BRIAN P. KEMP (I),464,21,289,152,2
+Jones,BARRON,Secretary Of State,,R,BRIAN P. KEMP (I),410,23,246,141,0
+Jones,SANDERS,Secretary Of State,,R,BRIAN P. KEMP (I),59,1,56,2,0
+Jones,FINNEY,Secretary Of State,,R,BRIAN P. KEMP (I),845,49,621,175,0
+Jones,,Secretary Of State,,D,DOREEN CARTER,2716,183,1466,1063,4
+Jones,GRAY,Secretary Of State,,D,DOREEN CARTER,262,17,125,120,0
+Jones,HAWKINS,Secretary Of State,,D,DOREEN CARTER,765,46,407,310,2
+Jones,ETHRIDGE,Secretary Of State,,D,DOREEN CARTER,269,39,130,100,0
+Jones,CLINTON,Secretary Of State,,D,DOREEN CARTER,234,19,90,125,0
+Jones,ROBERTS,Secretary Of State,,D,DOREEN CARTER,320,18,212,90,0
+Jones,DAVIDSON,Secretary Of State,,D,DOREEN CARTER,125,11,61,53,0
+Jones,POPE,Secretary Of State,,D,DOREEN CARTER,283,11,155,116,1
+Jones,BARRON,Secretary Of State,,D,DOREEN CARTER,166,7,80,78,1
+Jones,SANDERS,Secretary Of State,,D,DOREEN CARTER,16,0,14,2,0
+Jones,FINNEY,Secretary Of State,,D,DOREEN CARTER,276,15,192,69,0
+Jones,,Attorney General,,R,SAMUEL S. OLENS (I),5194,307,3081,1803,3
+Jones,GRAY,Attorney General,,R,SAMUEL S. OLENS (I),819,37,394,388,0
+Jones,HAWKINS,Attorney General,,R,SAMUEL S. OLENS (I),463,42,253,168,0
+Jones,ETHRIDGE,Attorney General,,R,SAMUEL S. OLENS (I),494,35,254,205,0
+Jones,CLINTON,Attorney General,,R,SAMUEL S. OLENS (I),688,42,354,292,0
+Jones,ROBERTS,Attorney General,,R,SAMUEL S. OLENS (I),539,51,351,136,1
+Jones,DAVIDSON,Attorney General,,R,SAMUEL S. OLENS (I),449,10,295,144,0
+Jones,POPE,Attorney General,,R,SAMUEL S. OLENS (I),450,17,277,154,2
+Jones,BARRON,Attorney General,,R,SAMUEL S. OLENS (I),407,24,242,141,0
+Jones,SANDERS,Attorney General,,R,SAMUEL S. OLENS (I),56,0,55,1,0
+Jones,FINNEY,Attorney General,,R,SAMUEL S. OLENS (I),829,49,606,174,0
+Jones,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",2829,195,1540,1090,4
+Jones,GRAY,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",282,18,134,130,0
+Jones,HAWKINS,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",779,48,417,312,2
+Jones,ETHRIDGE,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",270,39,130,101,0
+Jones,CLINTON,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",253,20,102,131,0
+Jones,ROBERTS,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",335,21,220,94,0
+Jones,DAVIDSON,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",138,11,69,58,0
+Jones,POPE,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",295,15,164,115,1
+Jones,BARRON,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",167,6,84,76,1
+Jones,SANDERS,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",19,1,15,3,0
+Jones,FINNEY,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",291,16,205,70,0
+Jones,,Commissioner Of Agriculture,,R,GARY W. BLACK (I),5254,301,3136,1814,3
+Jones,GRAY,Commissioner Of Agriculture,,R,GARY W. BLACK (I),830,38,401,391,0
+Jones,HAWKINS,Commissioner Of Agriculture,,R,GARY W. BLACK (I),481,40,266,175,0
+Jones,ETHRIDGE,Commissioner Of Agriculture,,R,GARY W. BLACK (I),482,29,254,199,0
+Jones,CLINTON,Commissioner Of Agriculture,,R,GARY W. BLACK (I),692,45,357,290,0
+Jones,ROBERTS,Commissioner Of Agriculture,,R,GARY W. BLACK (I),552,48,362,141,1
+Jones,DAVIDSON,Commissioner Of Agriculture,,R,GARY W. BLACK (I),465,10,303,152,0
+Jones,POPE,Commissioner Of Agriculture,,R,GARY W. BLACK (I),460,19,288,151,2
+Jones,BARRON,Commissioner Of Agriculture,,R,GARY W. BLACK (I),408,24,243,141,0
+Jones,SANDERS,Commissioner Of Agriculture,,R,GARY W. BLACK (I),55,0,55,0,0
+Jones,FINNEY,Commissioner Of Agriculture,,R,GARY W. BLACK (I),829,48,607,174,0
+Jones,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,2740,199,1467,1070,4
+Jones,GRAY,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,270,17,130,123,0
+Jones,HAWKINS,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,756,50,398,306,2
+Jones,ETHRIDGE,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,279,44,130,105,0
+Jones,CLINTON,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,236,16,91,129,0
+Jones,ROBERTS,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,319,24,203,92,0
+Jones,DAVIDSON,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,128,12,63,53,0
+Jones,POPE,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,281,13,155,112,1
+Jones,BARRON,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,167,6,83,77,1
+Jones,SANDERS,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,17,1,13,3,0
+Jones,FINNEY,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,287,16,201,70,0
+Jones,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),5094,294,3042,1755,3
+Jones,GRAY,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),800,35,387,378,0
+Jones,HAWKINS,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),454,41,251,162,0
+Jones,ETHRIDGE,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),476,29,250,197,0
+Jones,CLINTON,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),681,43,350,288,0
+Jones,ROBERTS,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),533,50,346,136,1
+Jones,DAVIDSON,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),448,10,291,147,0
+Jones,POPE,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),435,19,271,143,2
+Jones,BARRON,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),393,23,236,134,0
+Jones,SANDERS,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),56,0,55,1,0
+Jones,FINNEY,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),818,44,605,169,0
+Jones,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",2718,195,1439,1080,4
+Jones,GRAY,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",267,18,124,125,0
+Jones,HAWKINS,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",746,48,391,305,2
+Jones,ETHRIDGE,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",267,44,121,102,0
+Jones,CLINTON,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",243,18,94,131,0
+Jones,ROBERTS,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",329,22,211,96,0
+Jones,DAVIDSON,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",124,11,61,52,0
+Jones,POPE,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",285,12,155,117,1
+Jones,BARRON,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",168,7,82,78,1
+Jones,SANDERS,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",18,1,14,3,0
+Jones,FINNEY,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",271,14,186,71,0
+Jones,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",193,15,121,57,0
+Jones,GRAY,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",27,2,16,9,0
+Jones,HAWKINS,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",36,1,21,14,0
+Jones,ETHRIDGE,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",23,2,14,7,0
+Jones,CLINTON,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",16,2,7,7,0
+Jones,ROBERTS,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",12,0,11,1,0
+Jones,DAVIDSON,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",20,1,14,5,0
+Jones,POPE,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",16,1,10,5,0
+Jones,BARRON,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",12,0,6,6,0
+Jones,SANDERS,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",0,0,0,0,0
+Jones,FINNEY,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",31,6,22,3,0
+Jones,,State School Superintendent,,R,RICHARD L. WOODS,5112,302,3029,1779,2
+Jones,GRAY,State School Superintendent,,R,RICHARD L. WOODS,808,38,388,382,0
+Jones,HAWKINS,State School Superintendent,,R,RICHARD L. WOODS,458,42,251,165,0
+Jones,ETHRIDGE,State School Superintendent,,R,RICHARD L. WOODS,478,30,248,200,0
+Jones,CLINTON,State School Superintendent,,R,RICHARD L. WOODS,683,45,346,292,0
+Jones,ROBERTS,State School Superintendent,,R,RICHARD L. WOODS,533,45,346,142,0
+Jones,DAVIDSON,State School Superintendent,,R,RICHARD L. WOODS,452,11,294,147,0
+Jones,POPE,State School Superintendent,,R,RICHARD L. WOODS,429,17,264,146,2
+Jones,BARRON,State School Superintendent,,R,RICHARD L. WOODS,394,25,231,138,0
+Jones,SANDERS,State School Superintendent,,R,RICHARD L. WOODS,57,0,56,1,0
+Jones,FINNEY,State School Superintendent,,R,RICHARD L. WOODS,820,49,605,166,0
+Jones,,State School Superintendent,,D,VALARIE D. WILSON,2941,204,1598,1134,5
+Jones,GRAY,State School Superintendent,,D,VALARIE D. WILSON,292,17,140,135,0
+Jones,HAWKINS,State School Superintendent,,D,VALARIE D. WILSON,795,48,421,324,2
+Jones,ETHRIDGE,State School Superintendent,,D,VALARIE D. WILSON,293,44,140,109,0
+Jones,CLINTON,State School Superintendent,,D,VALARIE D. WILSON,260,18,105,137,0
+Jones,ROBERTS,State School Superintendent,,D,VALARIE D. WILSON,343,28,223,91,1
+Jones,DAVIDSON,State School Superintendent,,D,VALARIE D. WILSON,142,12,73,57,0
+Jones,POPE,State School Superintendent,,D,VALARIE D. WILSON,316,15,177,123,1
+Jones,BARRON,State School Superintendent,,D,VALARIE D. WILSON,181,6,94,80,1
+Jones,SANDERS,State School Superintendent,,D,VALARIE D. WILSON,19,1,15,3,0
+Jones,FINNEY,State School Superintendent,,D,VALARIE D. WILSON,300,15,210,75,0
+Jones,,Commissioner Of Labor,,R,J. MARK BUTLER (I),5234,304,3115,1812,3
+Jones,GRAY,Commissioner Of Labor,,R,J. MARK BUTLER (I),823,36,392,395,0
+Jones,HAWKINS,Commissioner Of Labor,,R,J. MARK BUTLER (I),471,44,258,169,0
+Jones,ETHRIDGE,Commissioner Of Labor,,R,J. MARK BUTLER (I),485,30,253,202,0
+Jones,CLINTON,Commissioner Of Labor,,R,J. MARK BUTLER (I),698,45,362,291,0
+Jones,ROBERTS,Commissioner Of Labor,,R,J. MARK BUTLER (I),550,50,357,142,1
+Jones,DAVIDSON,Commissioner Of Labor,,R,J. MARK BUTLER (I),462,11,300,151,0
+Jones,POPE,Commissioner Of Labor,,R,J. MARK BUTLER (I),451,16,282,151,2
+Jones,BARRON,Commissioner Of Labor,,R,J. MARK BUTLER (I),403,23,242,138,0
+Jones,SANDERS,Commissioner Of Labor,,R,J. MARK BUTLER (I),58,0,57,1,0
+Jones,FINNEY,Commissioner Of Labor,,R,J. MARK BUTLER (I),833,49,612,172,0
+Jones,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,2790,199,1497,1090,4
+Jones,GRAY,Commissioner Of Labor,,D,ROBBIN K. SHIPP,275,19,135,121,0
+Jones,HAWKINS,Commissioner Of Labor,,D,ROBBIN K. SHIPP,773,46,408,317,2
+Jones,ETHRIDGE,Commissioner Of Labor,,D,ROBBIN K. SHIPP,281,44,132,105,0
+Jones,CLINTON,Commissioner Of Labor,,D,ROBBIN K. SHIPP,245,18,91,136,0
+Jones,ROBERTS,Commissioner Of Labor,,D,ROBBIN K. SHIPP,325,23,212,90,0
+Jones,DAVIDSON,Commissioner Of Labor,,D,ROBBIN K. SHIPP,130,12,68,50,0
+Jones,POPE,Commissioner Of Labor,,D,ROBBIN K. SHIPP,290,15,157,117,1
+Jones,BARRON,Commissioner Of Labor,,D,ROBBIN K. SHIPP,170,7,82,80,1
+Jones,SANDERS,Commissioner Of Labor,,D,ROBBIN K. SHIPP,17,1,13,3,0
+Jones,FINNEY,Commissioner Of Labor,,D,ROBBIN K. SHIPP,284,14,199,71,0
+Jones,,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",5572,343,3285,1940,4
+Jones,GRAY,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",846,41,400,405,0
+Jones,HAWKINS,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",572,55,312,205,0
+Jones,ETHRIDGE,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",529,39,270,220,0
+Jones,CLINTON,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",716,45,368,303,0
+Jones,ROBERTS,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",603,60,391,151,1
+Jones,DAVIDSON,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",476,10,308,158,0
+Jones,POPE,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",480,18,299,161,2
+Jones,BARRON,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",414,24,245,144,1
+Jones,SANDERS,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",58,0,56,2,0
+Jones,FINNEY,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",878,51,636,191,0
+Jones,,Public Service Commission,4,L,JOHN H. MONDS,1677,105,932,638,2
+Jones,GRAY,Public Service Commission,4,L,JOHN H. MONDS,175,8,96,71,0
+Jones,HAWKINS,Public Service Commission,4,L,JOHN H. MONDS,453,28,243,181,1
+Jones,ETHRIDGE,Public Service Commission,4,L,JOHN H. MONDS,156,23,78,55,0
+Jones,CLINTON,Public Service Commission,4,L,JOHN H. MONDS,149,9,59,81,0
+Jones,ROBERTS,Public Service Commission,4,L,JOHN H. MONDS,194,7,128,59,0
+Jones,DAVIDSON,Public Service Commission,4,L,JOHN H. MONDS,83,7,42,34,0
+Jones,POPE,Public Service Commission,4,L,JOHN H. MONDS,175,10,93,71,1
+Jones,BARRON,Public Service Commission,4,L,JOHN H. MONDS,112,3,57,52,0
+Jones,SANDERS,Public Service Commission,4,L,JOHN H. MONDS,6,1,4,1,0
+Jones,FINNEY,Public Service Commission,4,L,JOHN H. MONDS,174,9,132,33,0
+Jones,,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",5066,289,3022,1752,3
+Jones,GRAY,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",790,35,376,379,0
+Jones,HAWKINS,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",451,41,255,155,0
+Jones,ETHRIDGE,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",482,34,245,203,0
+Jones,CLINTON,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",678,40,354,284,0
+Jones,ROBERTS,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",539,48,352,138,1
+Jones,DAVIDSON,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",443,9,288,146,0
+Jones,POPE,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",431,16,268,145,2
+Jones,BARRON,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",394,23,237,134,0
+Jones,SANDERS,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",59,0,57,2,0
+Jones,FINNEY,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",799,43,590,166,0
+Jones,,Public Service Commission,1,D,DANIEL A. BLACKMAN,2700,189,1434,1073,4
+Jones,GRAY,Public Service Commission,1,D,DANIEL A. BLACKMAN,261,15,125,121,0
+Jones,HAWKINS,Public Service Commission,1,D,DANIEL A. BLACKMAN,763,46,397,318,2
+Jones,ETHRIDGE,Public Service Commission,1,D,DANIEL A. BLACKMAN,261,39,122,100,0
+Jones,CLINTON,Public Service Commission,1,D,DANIEL A. BLACKMAN,237,18,86,133,0
+Jones,ROBERTS,Public Service Commission,1,D,DANIEL A. BLACKMAN,316,24,204,88,0
+Jones,DAVIDSON,Public Service Commission,1,D,DANIEL A. BLACKMAN,124,13,59,52,0
+Jones,POPE,Public Service Commission,1,D,DANIEL A. BLACKMAN,287,13,158,115,1
+Jones,BARRON,Public Service Commission,1,D,DANIEL A. BLACKMAN,164,6,82,75,1
+Jones,SANDERS,Public Service Commission,1,D,DANIEL A. BLACKMAN,16,1,13,2,0
+Jones,FINNEY,Public Service Commission,1,D,DANIEL A. BLACKMAN,271,14,188,69,0
+Jones,,Public Service Commission,1,L,ROBIN AARON GILMER,266,24,163,79,0
+Jones,GRAY,Public Service Commission,1,L,ROBIN AARON GILMER,42,3,25,14,0
+Jones,HAWKINS,Public Service Commission,1,L,ROBIN AARON GILMER,39,2,21,16,0
+Jones,ETHRIDGE,Public Service Commission,1,L,ROBIN AARON GILMER,23,1,18,4,0
+Jones,CLINTON,Public Service Commission,1,L,ROBIN AARON GILMER,28,4,14,10,0
+Jones,ROBERTS,Public Service Commission,1,L,ROBIN AARON GILMER,19,2,12,5,0
+Jones,DAVIDSON,Public Service Commission,1,L,ROBIN AARON GILMER,24,1,18,5,0
+Jones,POPE,Public Service Commission,1,L,ROBIN AARON GILMER,31,3,17,11,0
+Jones,BARRON,Public Service Commission,1,L,ROBIN AARON GILMER,16,0,7,9,0
+Jones,SANDERS,Public Service Commission,1,L,ROBIN AARON GILMER,0,0,0,0,0
+Jones,FINNEY,Public Service Commission,1,L,ROBIN AARON GILMER,44,8,31,5,0
+Jones,,U.S. Representative,8,R,J. AUSTIN SCOTT (I),6294,357,3743,2188,6
+Jones,GRAY,U.S. Representative,8,R,J. AUSTIN SCOTT (I),934,39,453,442,0
+Jones,HAWKINS,U.S. Representative,8,R,J. AUSTIN SCOTT (I),759,63,418,277,1
+Jones,ETHRIDGE,U.S. Representative,8,R,J. AUSTIN SCOTT (I),587,44,309,234,0
+Jones,CLINTON,U.S. Representative,8,R,J. AUSTIN SCOTT (I),794,49,401,344,0
+Jones,ROBERTS,U.S. Representative,8,R,J. AUSTIN SCOTT (I),697,58,464,174,1
+Jones,DAVIDSON,U.S. Representative,8,R,J. AUSTIN SCOTT (I),506,9,330,167,0
+Jones,POPE,U.S. Representative,8,R,J. AUSTIN SCOTT (I),559,21,347,188,3
+Jones,BARRON,U.S. Representative,8,R,J. AUSTIN SCOTT (I),453,25,268,159,1
+Jones,SANDERS,U.S. Representative,8,R,J. AUSTIN SCOTT (I),62,1,58,3,0
+Jones,FINNEY,U.S. Representative,8,R,J. AUSTIN SCOTT (I),943,48,695,200,0
+Jones,,State Senator,25,R,"W. B. ""BURT"" JONES (I)",2784,139,1759,885,1
+Jones,CLINTON,State Senator,25,R,"W. B. ""BURT"" JONES (I)",776,48,397,331,0
+Jones,POPE,State Senator,25,R,"W. B. ""BURT"" JONES (I)",547,19,342,186,0
+Jones,BARRON,State Senator,25,R,"W. B. ""BURT"" JONES (I)",450,22,266,161,1
+Jones,SANDERS,State Senator,25,R,"W. B. ""BURT"" JONES (I)",64,1,60,3,0
+Jones,FINNEY,State Senator,25,R,"W. B. ""BURT"" JONES (I)",947,49,694,204,0
+Jones,,State Senator,26,D,DAVID E. LUCAS SR. (I),2861,186,1630,1043,2
+Jones,GRAY,State Senator,26,D,DAVID E. LUCAS SR. (I),598,30,307,261,0
+Jones,HAWKINS,State Senator,26,D,DAVID E. LUCAS SR. (I),944,57,514,371,2
+Jones,ETHRIDGE,State Senator,26,D,DAVID E. LUCAS SR. (I),458,51,232,175,0
+Jones,CLINTON,State Senator,26,D,DAVID E. LUCAS SR. (I),18,0,7,11,0
+Jones,ROBERTS,State Senator,26,D,DAVID E. LUCAS SR. (I),546,34,385,127,0
+Jones,DAVIDSON,State Senator,26,D,DAVID E. LUCAS SR. (I),297,14,185,98,0
+Jones,,State Representative,129,R,SUSAN D. HOLMES (I),4866,289,2799,1774,4
+Jones,GRAY,State Representative,129,R,SUSAN D. HOLMES (I),932,41,452,439,0
+Jones,HAWKINS,State Representative,129,R,SUSAN D. HOLMES (I),760,59,414,286,1
+Jones,ETHRIDGE,State Representative,129,R,SUSAN D. HOLMES (I),585,47,306,232,0
+Jones,CLINTON,State Representative,129,R,SUSAN D. HOLMES (I),788,49,400,339,0
+Jones,POPE,State Representative,129,R,SUSAN D. HOLMES (I),344,18,209,115,2
+Jones,BARRON,State Representative,129,R,SUSAN D. HOLMES (I),450,25,264,160,1
+Jones,SANDERS,State Representative,129,R,SUSAN D. HOLMES (I),65,1,61,3,0
+Jones,FINNEY,State Representative,129,R,SUSAN D. HOLMES (I),942,49,693,200,0
+Jones,,State Representative,144,R,"JAMES A. ""BUBBER"" EPPS (I)",1200,71,773,356,0
+Jones,ROBERTS,State Representative,144,R,"JAMES A. ""BUBBER"" EPPS (I)",565,58,360,147,0
+Jones,DAVIDSON,State Representative,144,R,"JAMES A. ""BUBBER"" EPPS (I)",468,12,304,152,0
+Jones,POPE,State Representative,144,R,"JAMES A. ""BUBBER"" EPPS (I)",167,1,109,57,0
+Jones,,State Representative,144,D,JOYCE E. DENSON,566,26,350,190,0
+Jones,ROBERTS,State Representative,144,D,JOYCE E. DENSON,314,14,213,87,0
+Jones,DAVIDSON,State Representative,144,D,JOYCE E. DENSON,126,9,65,52,0
+Jones,POPE,State Representative,144,D,JOYCE E. DENSON,126,3,72,51,0
+Jones,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,6090,403,3477,2205,5
+Jones,GRAY,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,869,39,413,417,0
+Jones,HAWKINS,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,880,71,462,345,2
+Jones,ETHRIDGE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,566,53,275,238,0
+Jones,CLINTON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,732,54,359,319,0
+Jones,ROBERTS,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,659,61,423,174,1
+Jones,DAVIDSON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,466,19,287,160,0
+Jones,POPE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,544,28,321,193,2
+Jones,BARRON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,445,26,252,167,0
+Jones,SANDERS,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,56,0,53,3,0
+Jones,FINNEY,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,YES,873,52,632,189,0
+Jones,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,1852,92,1091,667,2
+Jones,GRAY,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,223,14,108,101,0
+Jones,HAWKINS,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,341,18,193,130,0
+Jones,ETHRIDGE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,184,15,99,70,0
+Jones,CLINTON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,210,7,97,106,0
+Jones,ROBERTS,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,214,13,143,58,0
+Jones,DAVIDSON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,120,4,73,43,0
+Jones,POPE,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,190,5,119,65,1
+Jones,BARRON,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,126,4,73,48,1
+Jones,SANDERS,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,19,1,17,1,0
+Jones,FINNEY,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,D,NO,225,11,169,45,0
+Jones,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,5314,372,3052,1883,7
+Jones,GRAY,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,720,39,346,335,0
+Jones,HAWKINS,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,866,70,457,337,2
+Jones,ETHRIDGE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,530,53,261,216,0
+Jones,CLINTON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,607,45,308,254,0
+Jones,ROBERTS,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,609,59,392,157,1
+Jones,DAVIDSON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,379,23,240,116,0
+Jones,POPE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,467,19,279,166,3
+Jones,BARRON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,380,25,205,149,1
+Jones,SANDERS,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,49,1,47,1,0
+Jones,FINNEY,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,YES,707,38,517,152,0
+Jones,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,2560,117,1489,954,0
+Jones,GRAY,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,369,14,177,178,0
+Jones,HAWKINS,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,352,20,198,134,0
+Jones,ETHRIDGE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,221,16,115,90,0
+Jones,CLINTON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,303,11,135,157,0
+Jones,ROBERTS,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,261,14,172,75,0
+Jones,DAVIDSON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,199,0,117,82,0
+Jones,POPE,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,260,14,154,92,0
+Jones,BARRON,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,182,6,113,63,0
+Jones,SANDERS,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,25,0,22,3,0
+Jones,FINNEY,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,D,NO,388,22,286,80,0
+Jones,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,5529,358,3220,1944,7
+Jones,GRAY,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,765,39,376,350,0
+Jones,HAWKINS,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,863,68,464,329,2
+Jones,ETHRIDGE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,541,50,278,213,0
+Jones,CLINTON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,651,42,336,273,0
+Jones,ROBERTS,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,609,52,397,159,1
+Jones,DAVIDSON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,396,16,252,128,0
+Jones,POPE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,491,22,284,182,3
+Jones,BARRON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,391,25,223,142,1
+Jones,SANDERS,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,42,1,40,1,0
+Jones,FINNEY,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,YES,780,43,570,167,0
+Jones,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,2372,136,1336,900,0
+Jones,GRAY,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,323,15,149,159,0
+Jones,HAWKINS,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,358,22,193,143,0
+Jones,ETHRIDGE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,214,19,102,93,0
+Jones,CLINTON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,268,18,107,143,0
+Jones,ROBERTS,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,264,22,170,72,0
+Jones,DAVIDSON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,181,6,104,71,0
+Jones,POPE,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,237,11,148,78,0
+Jones,BARRON,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,170,6,94,70,0
+Jones,SANDERS,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,32,0,29,3,0
+Jones,FINNEY,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,D,NO,325,17,240,68,0

@@ -1,0 +1,115 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Putnam,,President,,REP,JEB BUSH,21,3,9,9,0
+Putnam,101,President,,REP,JEB BUSH,1,0,1,0,0
+Putnam,104,President,,REP,JEB BUSH,2,0,1,1,0
+Putnam,105,President,,REP,JEB BUSH,8,1,2,5,0
+Putnam,106,President,,REP,JEB BUSH,2,1,0,1,0
+Putnam,107,President,,REP,JEB BUSH,8,1,5,2,0
+Putnam,,President,,REP,BEN CARSON,246,2,204,40,0
+Putnam,101,President,,REP,BEN CARSON,28,0,24,4,0
+Putnam,104,President,,REP,BEN CARSON,50,1,36,13,0
+Putnam,105,President,,REP,BEN CARSON,54,0,50,4,0
+Putnam,106,President,,REP,BEN CARSON,35,0,33,2,0
+Putnam,107,President,,REP,BEN CARSON,79,1,61,17,0
+Putnam,,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
+Putnam,101,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Putnam,104,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Putnam,105,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
+Putnam,106,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Putnam,107,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Putnam,,President,,REP,TED CRUZ,746,22,580,144,0
+Putnam,101,President,,REP,TED CRUZ,118,0,96,22,0
+Putnam,104,President,,REP,TED CRUZ,99,3,72,24,0
+Putnam,105,President,,REP,TED CRUZ,226,10,181,35,0
+Putnam,106,President,,REP,TED CRUZ,76,0,60,16,0
+Putnam,107,President,,REP,TED CRUZ,227,9,171,47,0
+Putnam,,President,,REP,CARLY FIORINA,4,0,2,2,0
+Putnam,101,President,,REP,CARLY FIORINA,1,0,0,1,0
+Putnam,104,President,,REP,CARLY FIORINA,0,0,0,0,0
+Putnam,105,President,,REP,CARLY FIORINA,2,0,1,1,0
+Putnam,106,President,,REP,CARLY FIORINA,1,0,1,0,0
+Putnam,107,President,,REP,CARLY FIORINA,0,0,0,0,0
+Putnam,,President,,REP,LINDSEY GRAHAM,1,0,1,0,0
+Putnam,101,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Putnam,104,President,,REP,LINDSEY GRAHAM,1,0,1,0,0
+Putnam,105,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Putnam,106,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Putnam,107,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Putnam,,President,,REP,MIKE HUCKABEE,12,1,8,3,0
+Putnam,101,President,,REP,MIKE HUCKABEE,1,0,0,1,0
+Putnam,104,President,,REP,MIKE HUCKABEE,2,1,0,1,0
+Putnam,105,President,,REP,MIKE HUCKABEE,7,0,6,1,0
+Putnam,106,President,,REP,MIKE HUCKABEE,1,0,1,0,0
+Putnam,107,President,,REP,MIKE HUCKABEE,1,0,1,0,0
+Putnam,,President,,REP,JOHN R. KASICH,161,7,124,30,0
+Putnam,101,President,,REP,JOHN R. KASICH,15,0,13,2,0
+Putnam,104,President,,REP,JOHN R. KASICH,5,0,2,3,0
+Putnam,105,President,,REP,JOHN R. KASICH,92,6,66,20,0
+Putnam,106,President,,REP,JOHN R. KASICH,11,0,10,1,0
+Putnam,107,President,,REP,JOHN R. KASICH,38,1,33,4,0
+Putnam,,President,,REP,GEORGE PATAKI,1,0,1,0,0
+Putnam,101,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Putnam,104,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Putnam,105,President,,REP,GEORGE PATAKI,1,0,1,0,0
+Putnam,106,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Putnam,107,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Putnam,,President,,REP,RAND PAUL,5,0,5,0,0
+Putnam,101,President,,REP,RAND PAUL,1,0,1,0,0
+Putnam,104,President,,REP,RAND PAUL,1,0,1,0,0
+Putnam,105,President,,REP,RAND PAUL,0,0,0,0,0
+Putnam,106,President,,REP,RAND PAUL,1,0,1,0,0
+Putnam,107,President,,REP,RAND PAUL,2,0,2,0,0
+Putnam,,President,,REP,MARCO RUBIO,849,23,640,186,0
+Putnam,101,President,,REP,MARCO RUBIO,98,5,60,33,0
+Putnam,104,President,,REP,MARCO RUBIO,90,3,72,15,0
+Putnam,105,President,,REP,MARCO RUBIO,366,4,292,70,0
+Putnam,106,President,,REP,MARCO RUBIO,68,2,48,18,0
+Putnam,107,President,,REP,MARCO RUBIO,227,9,168,50,0
+Putnam,,President,,REP,RICK SANTORUM,4,0,3,1,0
+Putnam,101,President,,REP,RICK SANTORUM,0,0,0,0,0
+Putnam,104,President,,REP,RICK SANTORUM,2,0,1,1,0
+Putnam,105,President,,REP,RICK SANTORUM,1,0,1,0,0
+Putnam,106,President,,REP,RICK SANTORUM,1,0,1,0,0
+Putnam,107,President,,REP,RICK SANTORUM,0,0,0,0,0
+Putnam,,President,,REP,DONALD J. TRUMP,1983,43,1468,472,0
+Putnam,101,President,,REP,DONALD J. TRUMP,326,8,201,117,0
+Putnam,104,President,,REP,DONALD J. TRUMP,316,4,212,100,0
+Putnam,105,President,,REP,DONALD J. TRUMP,528,10,416,102,0
+Putnam,106,President,,REP,DONALD J. TRUMP,211,2,169,40,0
+Putnam,107,President,,REP,DONALD J. TRUMP,602,19,470,113,0
+Putnam,,President,,DEM,HILLARY CLINTON,871,12,684,175,0
+Putnam,101,President,,DEM,HILLARY CLINTON,295,0,232,63,0
+Putnam,104,President,,DEM,HILLARY CLINTON,319,5,253,61,0
+Putnam,105,President,,DEM,HILLARY CLINTON,106,0,85,21,0
+Putnam,106,President,,DEM,HILLARY CLINTON,28,2,19,7,0
+Putnam,107,President,,DEM,HILLARY CLINTON,123,5,95,23,0
+Putnam,,President,,DEM,MARTIN O'MALLEY,5,0,5,0,0
+Putnam,101,President,,DEM,MARTIN O'MALLEY,2,0,2,0,0
+Putnam,104,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
+Putnam,105,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Putnam,106,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Putnam,107,President,,DEM,MARTIN O'MALLEY,2,0,2,0,0
+Putnam,,President,,DEM,BERNIE SANDERS,206,1,172,33,0
+Putnam,101,President,,DEM,BERNIE SANDERS,57,0,43,14,0
+Putnam,104,President,,DEM,BERNIE SANDERS,40,0,37,3,0
+Putnam,105,President,,DEM,BERNIE SANDERS,38,0,33,5,0
+Putnam,106,President,,DEM,BERNIE SANDERS,6,0,5,1,0
+Putnam,107,President,,DEM,BERNIE SANDERS,65,1,54,10,0
+Putnam,,President,,DEM,MICHAEL STEINBERG,4,0,3,1,0
+Putnam,101,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Putnam,104,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Putnam,105,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Putnam,106,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Putnam,107,President,,DEM,MICHAEL STEINBERG,1,0,0,1,0
+Putnam,,Freeport Exemption,,,YES,2759,55,2172,532,0
+Putnam,101,Freeport Exemption,,,YES,449,9,329,111,0
+Putnam,104,Freeport Exemption,,,YES,512,9,385,118,0
+Putnam,105,Freeport Exemption,,,YES,857,14,710,133,0
+Putnam,106,Freeport Exemption,,,YES,240,4,196,40,0
+Putnam,107,Freeport Exemption,,,YES,701,19,552,130,0
+Putnam,,Freeport Exemption,,,NO,1986,47,1509,430,0
+Putnam,101,Freeport Exemption,,,NO,405,4,293,108,0
+Putnam,104,Freeport Exemption,,,NO,328,6,254,68,0
+Putnam,105,Freeport Exemption,,,NO,495,13,377,105,0
+Putnam,106,Freeport Exemption,,,NO,179,3,136,40,0
+Putnam,107,Freeport Exemption,,,NO,579,21,449,109,0

@@ -1,0 +1,365 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Fannin,,President of the United States,,R,MITT ROMNEY,7857,541,4204,3108,4
+Fannin,COLWELL,President of the United States,,R,MITT ROMNEY,488,37,285,166,0
+Fannin,FAIRPLAY,President of the United States,,R,MITT ROMNEY,432,20,275,137,0
+Fannin,FLINTHILL,President of the United States,,R,MITT ROMNEY,1229,103,674,452,0
+Fannin,HEMPTOWN,President of the United States,,R,MITT ROMNEY,491,24,318,149,0
+Fannin,HOTHOUSE,President of the United States,,R,MITT ROMNEY,495,21,247,227,0
+Fannin,MINERAL BLUFF,President of the United States,,R,MITT ROMNEY,696,43,353,300,0
+Fannin,MOBILE,President of the United States,,R,MITT ROMNEY,469,28,296,145,0
+Fannin,MORGANTON,President of the United States,,R,MITT ROMNEY,860,64,469,324,3
+Fannin,NOONTOOTLA,President of the United States,,R,MITT ROMNEY,381,25,230,126,0
+Fannin,SKENIAH,President of the United States,,R,MITT ROMNEY,136,11,73,52,0
+Fannin,SUGAR CREEK,President of the United States,,R,MITT ROMNEY,925,72,439,413,1
+Fannin,TOCCOA,President of the United States,,R,MITT ROMNEY,1255,93,545,617,0
+Fannin,,President of the United States,,D,BARACK OBAMA (I),2028,187,1031,809,1
+Fannin,COLWELL,President of the United States,,D,BARACK OBAMA (I),131,20,57,54,0
+Fannin,FAIRPLAY,President of the United States,,D,BARACK OBAMA (I),98,3,56,39,0
+Fannin,FLINTHILL,President of the United States,,D,BARACK OBAMA (I),389,43,217,129,0
+Fannin,HEMPTOWN,President of the United States,,D,BARACK OBAMA (I),116,16,57,43,0
+Fannin,HOTHOUSE,President of the United States,,D,BARACK OBAMA (I),128,9,64,55,0
+Fannin,MINERAL BLUFF,President of the United States,,D,BARACK OBAMA (I),161,14,87,60,0
+Fannin,MOBILE,President of the United States,,D,BARACK OBAMA (I),123,3,79,41,0
+Fannin,MORGANTON,President of the United States,,D,BARACK OBAMA (I),204,11,112,81,0
+Fannin,NOONTOOTLA,President of the United States,,D,BARACK OBAMA (I),98,4,49,45,0
+Fannin,SKENIAH,President of the United States,,D,BARACK OBAMA (I),48,8,30,10,0
+Fannin,SUGAR CREEK,President of the United States,,D,BARACK OBAMA (I),219,25,86,107,1
+Fannin,TOCCOA,President of the United States,,D,BARACK OBAMA (I),313,31,137,145,0
+Fannin,,President of the United States,,L,GARY JOHNSON,127,3,85,39,0
+Fannin,COLWELL,President of the United States,,L,GARY JOHNSON,13,1,8,4,0
+Fannin,FAIRPLAY,President of the United States,,L,GARY JOHNSON,4,0,3,1,0
+Fannin,FLINTHILL,President of the United States,,L,GARY JOHNSON,21,0,10,11,0
+Fannin,HEMPTOWN,President of the United States,,L,GARY JOHNSON,5,1,4,0,0
+Fannin,HOTHOUSE,President of the United States,,L,GARY JOHNSON,7,0,5,2,0
+Fannin,MINERAL BLUFF,President of the United States,,L,GARY JOHNSON,13,1,7,5,0
+Fannin,MOBILE,President of the United States,,L,GARY JOHNSON,5,0,5,0,0
+Fannin,MORGANTON,President of the United States,,L,GARY JOHNSON,10,0,5,5,0
+Fannin,NOONTOOTLA,President of the United States,,L,GARY JOHNSON,7,0,5,2,0
+Fannin,SKENIAH,President of the United States,,L,GARY JOHNSON,3,0,2,1,0
+Fannin,SUGAR CREEK,President of the United States,,L,GARY JOHNSON,19,0,13,6,0
+Fannin,TOCCOA,President of the United States,,L,GARY JOHNSON,20,0,18,2,0
+Fannin,,"Public Service Commission, District 3",3,R,CHUCK EATON (I),6858,488,3660,2707,3
+Fannin,COLWELL,"Public Service Commission, District 3",3,R,CHUCK EATON (I),423,37,247,139,0
+Fannin,FAIRPLAY,"Public Service Commission, District 3",3,R,CHUCK EATON (I),367,18,233,116,0
+Fannin,FLINTHILL,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1046,91,583,372,0
+Fannin,HEMPTOWN,"Public Service Commission, District 3",3,R,CHUCK EATON (I),445,22,292,131,0
+Fannin,HOTHOUSE,"Public Service Commission, District 3",3,R,CHUCK EATON (I),420,20,201,199,0
+Fannin,MINERAL BLUFF,"Public Service Commission, District 3",3,R,CHUCK EATON (I),621,47,312,262,0
+Fannin,MOBILE,"Public Service Commission, District 3",3,R,CHUCK EATON (I),419,21,270,128,0
+Fannin,MORGANTON,"Public Service Commission, District 3",3,R,CHUCK EATON (I),743,60,397,283,3
+Fannin,NOONTOOTLA,"Public Service Commission, District 3",3,R,CHUCK EATON (I),338,23,206,109,0
+Fannin,SKENIAH,"Public Service Commission, District 3",3,R,CHUCK EATON (I),126,9,70,47,0
+Fannin,SUGAR CREEK,"Public Service Commission, District 3",3,R,CHUCK EATON (I),813,61,375,377,0
+Fannin,TOCCOA,"Public Service Commission, District 3",3,R,CHUCK EATON (I),1097,79,474,544,0
+Fannin,,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,1738,159,874,704,1
+Fannin,COLWELL,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,121,14,56,51,0
+Fannin,FAIRPLAY,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,93,3,56,34,0
+Fannin,FLINTHILL,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,342,38,184,120,0
+Fannin,HEMPTOWN,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,97,12,45,40,0
+Fannin,HOTHOUSE,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,114,6,58,50,0
+Fannin,MINERAL BLUFF,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,130,11,67,52,0
+Fannin,MOBILE,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,102,4,65,33,0
+Fannin,MORGANTON,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,177,11,91,75,0
+Fannin,NOONTOOTLA,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,84,4,39,41,0
+Fannin,SKENIAH,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,43,8,25,10,0
+Fannin,SUGAR CREEK,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,189,24,78,86,1
+Fannin,TOCCOA,"Public Service Commission, District 3",3,D,STEPHEN OPPENHEIMER,246,24,110,112,0
+Fannin,,"Public Service Commission, District 3",3,L,BRAD PLOEGER,482,29,269,184,0
+Fannin,COLWELL,"Public Service Commission, District 3",3,L,BRAD PLOEGER,36,2,20,14,0
+Fannin,FAIRPLAY,"Public Service Commission, District 3",3,L,BRAD PLOEGER,32,1,18,13,0
+Fannin,FLINTHILL,"Public Service Commission, District 3",3,L,BRAD PLOEGER,71,2,39,30,0
+Fannin,HEMPTOWN,"Public Service Commission, District 3",3,L,BRAD PLOEGER,30,5,16,9,0
+Fannin,HOTHOUSE,"Public Service Commission, District 3",3,L,BRAD PLOEGER,38,1,19,18,0
+Fannin,MINERAL BLUFF,"Public Service Commission, District 3",3,L,BRAD PLOEGER,43,1,25,17,0
+Fannin,MOBILE,"Public Service Commission, District 3",3,L,BRAD PLOEGER,20,4,11,5,0
+Fannin,MORGANTON,"Public Service Commission, District 3",3,L,BRAD PLOEGER,57,4,32,21,0
+Fannin,NOONTOOTLA,"Public Service Commission, District 3",3,L,BRAD PLOEGER,31,0,22,9,0
+Fannin,SKENIAH,"Public Service Commission, District 3",3,L,BRAD PLOEGER,9,2,5,2,0
+Fannin,SUGAR CREEK,"Public Service Commission, District 3",3,L,BRAD PLOEGER,51,4,28,19,0
+Fannin,TOCCOA,"Public Service Commission, District 3",3,L,BRAD PLOEGER,64,3,34,27,0
+Fannin,,"Public Service Commission, District 5",5,R,STAN WISE (I),7007,507,3698,2798,4
+Fannin,COLWELL,"Public Service Commission, District 5",5,R,STAN WISE (I),425,39,254,132,0
+Fannin,FAIRPLAY,"Public Service Commission, District 5",5,R,STAN WISE (I),372,15,236,121,0
+Fannin,FLINTHILL,"Public Service Commission, District 5",5,R,STAN WISE (I),1102,94,602,406,0
+Fannin,HEMPTOWN,"Public Service Commission, District 5",5,R,STAN WISE (I),459,24,295,140,0
+Fannin,HOTHOUSE,"Public Service Commission, District 5",5,R,STAN WISE (I),430,19,211,200,0
+Fannin,MINERAL BLUFF,"Public Service Commission, District 5",5,R,STAN WISE (I),622,49,306,267,0
+Fannin,MOBILE,"Public Service Commission, District 5",5,R,STAN WISE (I),423,24,274,125,0
+Fannin,MORGANTON,"Public Service Commission, District 5",5,R,STAN WISE (I),748,64,392,289,3
+Fannin,NOONTOOTLA,"Public Service Commission, District 5",5,R,STAN WISE (I),342,24,201,117,0
+Fannin,SKENIAH,"Public Service Commission, District 5",5,R,STAN WISE (I),133,11,70,52,0
+Fannin,SUGAR CREEK,"Public Service Commission, District 5",5,R,STAN WISE (I),835,65,383,386,1
+Fannin,TOCCOA,"Public Service Commission, District 5",5,R,STAN WISE (I),1116,79,474,563,0
+Fannin,,"Public Service Commission, District 5",5,L,DAVID STAPLES,1619,109,878,632,0
+Fannin,COLWELL,"Public Service Commission, District 5",5,L,DAVID STAPLES,122,8,59,55,0
+Fannin,FAIRPLAY,"Public Service Commission, District 5",5,L,DAVID STAPLES,97,6,53,38,0
+Fannin,FLINTHILL,"Public Service Commission, District 5",5,L,DAVID STAPLES,252,14,150,88,0
+Fannin,HEMPTOWN,"Public Service Commission, District 5",5,L,DAVID STAPLES,93,13,49,31,0
+Fannin,HOTHOUSE,"Public Service Commission, District 5",5,L,DAVID STAPLES,108,7,48,53,0
+Fannin,MINERAL BLUFF,"Public Service Commission, District 5",5,L,DAVID STAPLES,139,10,75,54,0
+Fannin,MOBILE,"Public Service Commission, District 5",5,L,DAVID STAPLES,92,5,59,28,0
+Fannin,MORGANTON,"Public Service Commission, District 5",5,L,DAVID STAPLES,178,8,105,65,0
+Fannin,NOONTOOTLA,"Public Service Commission, District 5",5,L,DAVID STAPLES,95,2,55,38,0
+Fannin,SKENIAH,"Public Service Commission, District 5",5,L,DAVID STAPLES,40,7,24,9,0
+Fannin,SUGAR CREEK,"Public Service Commission, District 5",5,L,DAVID STAPLES,174,15,83,76,0
+Fannin,TOCCOA,"Public Service Commission, District 5",5,L,DAVID STAPLES,229,14,118,97,0
+Fannin,,U.S. Representative,9,R,DOUG COLLINS,7214,515,3789,2907,3
+Fannin,COLWELL,U.S. Representative,9,R,DOUG COLLINS,437,36,255,146,0
+Fannin,FAIRPLAY,U.S. Representative,9,R,DOUG COLLINS,393,19,244,130,0
+Fannin,FLINTHILL,U.S. Representative,9,R,DOUG COLLINS,1110,95,599,416,0
+Fannin,HEMPTOWN,U.S. Representative,9,R,DOUG COLLINS,460,24,298,138,0
+Fannin,HOTHOUSE,U.S. Representative,9,R,DOUG COLLINS,451,20,219,212,0
+Fannin,MINERAL BLUFF,U.S. Representative,9,R,DOUG COLLINS,644,49,316,279,0
+Fannin,MOBILE,U.S. Representative,9,R,DOUG COLLINS,436,24,274,138,0
+Fannin,MORGANTON,U.S. Representative,9,R,DOUG COLLINS,791,64,419,305,3
+Fannin,NOONTOOTLA,U.S. Representative,9,R,DOUG COLLINS,362,25,215,122,0
+Fannin,SKENIAH,U.S. Representative,9,R,DOUG COLLINS,133,9,73,51,0
+Fannin,SUGAR CREEK,U.S. Representative,9,R,DOUG COLLINS,848,65,385,398,0
+Fannin,TOCCOA,U.S. Representative,9,R,DOUG COLLINS,1149,85,492,572,0
+Fannin,,U.S. Representative,9,D,JODY COOLEY,2119,179,1127,812,1
+Fannin,COLWELL,U.S. Representative,9,D,JODY COOLEY,150,17,74,59,0
+Fannin,FAIRPLAY,U.S. Representative,9,D,JODY COOLEY,109,3,67,39,0
+Fannin,FLINTHILL,U.S. Representative,9,D,JODY COOLEY,393,41,222,130,0
+Fannin,HEMPTOWN,U.S. Representative,9,D,JODY COOLEY,124,16,61,47,0
+Fannin,HOTHOUSE,U.S. Representative,9,D,JODY COOLEY,136,6,72,58,0
+Fannin,MINERAL BLUFF,U.S. Representative,9,D,JODY COOLEY,181,12,99,70,0
+Fannin,MOBILE,U.S. Representative,9,D,JODY COOLEY,115,5,76,34,0
+Fannin,MORGANTON,U.S. Representative,9,D,JODY COOLEY,216,11,121,84,0
+Fannin,NOONTOOTLA,U.S. Representative,9,D,JODY COOLEY,102,4,57,41,0
+Fannin,SKENIAH,U.S. Representative,9,D,JODY COOLEY,48,10,29,9,0
+Fannin,SUGAR CREEK,U.S. Representative,9,D,JODY COOLEY,236,24,114,97,1
+Fannin,TOCCOA,U.S. Representative,9,D,JODY COOLEY,309,30,135,144,0
+Fannin,,State Senator,51,R,STEVE GOOCH (I),8017,537,4288,3188,4
+Fannin,COLWELL,State Senator,51,R,STEVE GOOCH (I),502,41,288,173,0
+Fannin,FAIRPLAY,State Senator,51,R,STEVE GOOCH (I),432,16,271,145,0
+Fannin,FLINTHILL,State Senator,51,R,STEVE GOOCH (I),1252,96,697,459,0
+Fannin,HEMPTOWN,State Senator,51,R,STEVE GOOCH (I),510,28,328,154,0
+Fannin,HOTHOUSE,State Senator,51,R,STEVE GOOCH (I),504,24,249,231,0
+Fannin,MINERAL BLUFF,State Senator,51,R,STEVE GOOCH (I),706,49,356,301,0
+Fannin,MOBILE,State Senator,51,R,STEVE GOOCH (I),486,25,313,148,0
+Fannin,MORGANTON,State Senator,51,R,STEVE GOOCH (I),858,65,460,330,3
+Fannin,NOONTOOTLA,State Senator,51,R,STEVE GOOCH (I),398,24,243,131,0
+Fannin,SKENIAH,State Senator,51,R,STEVE GOOCH (I),156,14,91,51,0
+Fannin,SUGAR CREEK,State Senator,51,R,STEVE GOOCH (I),948,66,438,443,1
+Fannin,TOCCOA,State Senator,51,R,STEVE GOOCH (I),1265,89,554,622,0
+Fannin,,State Representative,7,R,DAVID RALSTON (I),8245,563,4424,3254,4
+Fannin,COLWELL,State Representative,7,R,DAVID RALSTON (I),507,41,290,176,0
+Fannin,FAIRPLAY,State Representative,7,R,DAVID RALSTON (I),434,17,271,146,0
+Fannin,FLINTHILL,State Representative,7,R,DAVID RALSTON (I),1338,106,758,474,0
+Fannin,HEMPTOWN,State Representative,7,R,DAVID RALSTON (I),514,31,326,157,0
+Fannin,HOTHOUSE,State Representative,7,R,DAVID RALSTON (I),516,25,257,234,0
+Fannin,MINERAL BLUFF,State Representative,7,R,DAVID RALSTON (I),713,53,364,296,0
+Fannin,MOBILE,State Representative,7,R,DAVID RALSTON (I),497,27,318,152,0
+Fannin,MORGANTON,State Representative,7,R,DAVID RALSTON (I),872,59,470,340,3
+Fannin,NOONTOOTLA,State Representative,7,R,DAVID RALSTON (I),400,24,239,137,0
+Fannin,SKENIAH,State Representative,7,R,DAVID RALSTON (I),153,15,86,52,0
+Fannin,SUGAR CREEK,State Representative,7,R,DAVID RALSTON (I),985,66,465,453,1
+Fannin,TOCCOA,State Representative,7,R,DAVID RALSTON (I),1316,99,580,637,0
+Fannin,,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,8355,574,4474,3303,4
+Fannin,COLWELL,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,516,42,292,182,0
+Fannin,FAIRPLAY,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,440,15,275,150,0
+Fannin,FLINTHILL,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,1392,108,778,506,0
+Fannin,HEMPTOWN,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,511,30,329,152,0
+Fannin,HOTHOUSE,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,513,26,255,232,0
+Fannin,MINERAL BLUFF,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,725,53,367,305,0
+Fannin,MOBILE,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,488,24,322,142,0
+Fannin,MORGANTON,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,880,64,472,341,3
+Fannin,NOONTOOTLA,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,413,24,247,142,0
+Fannin,SKENIAH,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,154,15,88,51,0
+Fannin,SUGAR CREEK,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,1002,76,463,462,1
+Fannin,TOCCOA,District Attorney, Appalachian Circuit,R,B. ALISON SOSEBEE,1321,97,586,638,0
+Fannin,,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),8571,586,4603,3378,4
+Fannin,COLWELL,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),528,43,302,183,0
+Fannin,FAIRPLAY,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),451,19,280,152,0
+Fannin,FLINTHILL,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),1434,112,801,521,0
+Fannin,HEMPTOWN,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),531,30,337,164,0
+Fannin,HOTHOUSE,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),528,26,264,238,0
+Fannin,MINERAL BLUFF,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),743,54,377,312,0
+Fannin,MOBILE,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),521,28,337,156,0
+Fannin,MORGANTON,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),902,63,493,343,3
+Fannin,NOONTOOTLA,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),413,24,245,144,0
+Fannin,SKENIAH,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),152,15,86,51,0
+Fannin,SUGAR CREEK,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),1025,80,480,464,1
+Fannin,TOCCOA,CLERK SUPERIOR CT,,R,DANA CHASTAIN (I),1343,92,601,650,0
+Fannin,,SHERIFF,,R,DANE KIRBY (I),8069,546,4280,3241,2
+Fannin,COLWELL,SHERIFF,,R,DANE KIRBY (I),518,40,298,180,0
+Fannin,FAIRPLAY,SHERIFF,,R,DANE KIRBY (I),396,16,235,145,0
+Fannin,FLINTHILL,SHERIFF,,R,DANE KIRBY (I),1312,96,722,494,0
+Fannin,HEMPTOWN,SHERIFF,,R,DANE KIRBY (I),499,28,317,154,0
+Fannin,HOTHOUSE,SHERIFF,,R,DANE KIRBY (I),502,24,247,231,0
+Fannin,MINERAL BLUFF,SHERIFF,,R,DANE KIRBY (I),690,54,332,304,0
+Fannin,MOBILE,SHERIFF,,R,DANE KIRBY (I),479,27,309,143,0
+Fannin,MORGANTON,SHERIFF,,R,DANE KIRBY (I),854,63,462,327,2
+Fannin,NOONTOOTLA,SHERIFF,,R,DANE KIRBY (I),422,25,250,147,0
+Fannin,SKENIAH,SHERIFF,,R,DANE KIRBY (I),160,16,93,51,0
+Fannin,SUGAR CREEK,SHERIFF,,R,DANE KIRBY (I),960,68,451,441,0
+Fannin,TOCCOA,SHERIFF,,R,DANE KIRBY (I),1277,89,564,624,0
+Fannin,,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,8209,556,4390,3260,3
+Fannin,COLWELL,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,504,40,288,176,0
+Fannin,FAIRPLAY,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,440,19,271,150,0
+Fannin,FLINTHILL,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,1362,108,754,500,0
+Fannin,HEMPTOWN,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,503,29,320,154,0
+Fannin,HOTHOUSE,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,513,24,261,228,0
+Fannin,MINERAL BLUFF,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,713,54,355,304,0
+Fannin,MOBILE,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,484,25,313,146,0
+Fannin,MORGANTON,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,861,60,470,328,3
+Fannin,NOONTOOTLA,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,403,23,240,140,0
+Fannin,SKENIAH,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,153,15,91,47,0
+Fannin,SUGAR CREEK,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,972,68,453,451,0
+Fannin,TOCCOA,TAX COMMISSIONER,,R,SHIRLEY SOSEBEE,1301,91,574,636,0
+Fannin,,SURVEYOR,,R,SHELLY BISHOP (I),7823,522,4171,3127,3
+Fannin,COLWELL,SURVEYOR,,R,SHELLY BISHOP (I),482,41,269,172,0
+Fannin,FAIRPLAY,SURVEYOR,,R,SHELLY BISHOP (I),418,14,261,143,0
+Fannin,FLINTHILL,SURVEYOR,,R,SHELLY BISHOP (I),1254,95,701,458,0
+Fannin,HEMPTOWN,SURVEYOR,,R,SHELLY BISHOP (I),494,29,314,151,0
+Fannin,HOTHOUSE,SURVEYOR,,R,SHELLY BISHOP (I),492,24,247,221,0
+Fannin,MINERAL BLUFF,SURVEYOR,,R,SHELLY BISHOP (I),672,51,331,290,0
+Fannin,MOBILE,SURVEYOR,,R,SHELLY BISHOP (I),463,26,292,145,0
+Fannin,MORGANTON,SURVEYOR,,R,SHELLY BISHOP (I),830,62,447,318,3
+Fannin,NOONTOOTLA,SURVEYOR,,R,SHELLY BISHOP (I),402,24,239,139,0
+Fannin,SKENIAH,SURVEYOR,,R,SHELLY BISHOP (I),152,15,89,48,0
+Fannin,SUGAR CREEK,SURVEYOR,,R,SHELLY BISHOP (I),916,57,425,434,0
+Fannin,TOCCOA,SURVEYOR,,R,SHELLY BISHOP (I),1248,84,556,608,0
+Fannin,,CORONER,,R,BECKY CALLIHAN,8138,556,4367,3211,4
+Fannin,COLWELL,CORONER,,R,BECKY CALLIHAN,511,43,292,176,0
+Fannin,FAIRPLAY,CORONER,,R,BECKY CALLIHAN,437,16,274,147,0
+Fannin,FLINTHILL,CORONER,,R,BECKY CALLIHAN,1334,104,743,487,0
+Fannin,HEMPTOWN,CORONER,,R,BECKY CALLIHAN,510,29,326,155,0
+Fannin,HOTHOUSE,CORONER,,R,BECKY CALLIHAN,496,21,251,224,0
+Fannin,MINERAL BLUFF,CORONER,,R,BECKY CALLIHAN,709,53,355,301,0
+Fannin,MOBILE,CORONER,,R,BECKY CALLIHAN,487,25,311,151,0
+Fannin,MORGANTON,CORONER,,R,BECKY CALLIHAN,839,63,459,314,3
+Fannin,NOONTOOTLA,CORONER,,R,BECKY CALLIHAN,401,24,240,137,0
+Fannin,SKENIAH,CORONER,,R,BECKY CALLIHAN,151,15,86,50,0
+Fannin,SUGAR CREEK,CORONER,,R,BECKY CALLIHAN,978,73,457,447,1
+Fannin,TOCCOA,CORONER,,R,BECKY CALLIHAN,1285,90,573,622,0
+Fannin,,CHAIR COMMISSION,,R,BILL SIMONDS (I),7692,515,4059,3116,2
+Fannin,COLWELL,CHAIR COMMISSION,,R,BILL SIMONDS (I),490,38,272,180,0
+Fannin,FAIRPLAY,CHAIR COMMISSION,,R,BILL SIMONDS (I),397,11,241,145,0
+Fannin,FLINTHILL,CHAIR COMMISSION,,R,BILL SIMONDS (I),1256,101,685,470,0
+Fannin,HEMPTOWN,CHAIR COMMISSION,,R,BILL SIMONDS (I),470,28,293,149,0
+Fannin,HOTHOUSE,CHAIR COMMISSION,,R,BILL SIMONDS (I),491,25,241,225,0
+Fannin,MINERAL BLUFF,CHAIR COMMISSION,,R,BILL SIMONDS (I),655,50,323,282,0
+Fannin,MOBILE,CHAIR COMMISSION,,R,BILL SIMONDS (I),474,26,298,150,0
+Fannin,MORGANTON,CHAIR COMMISSION,,R,BILL SIMONDS (I),789,54,426,307,2
+Fannin,NOONTOOTLA,CHAIR COMMISSION,,R,BILL SIMONDS (I),397,23,238,136,0
+Fannin,SKENIAH,CHAIR COMMISSION,,R,BILL SIMONDS (I),152,16,85,51,0
+Fannin,SUGAR CREEK,CHAIR COMMISSION,,R,BILL SIMONDS (I),920,66,421,433,0
+Fannin,TOCCOA,CHAIR COMMISSION,,R,BILL SIMONDS (I),1201,77,536,588,0
+Fannin,,CC P1,,R,EARL JOHNSON,6731,461,3592,2676,2
+Fannin,COLWELL,CC P1,,R,EARL JOHNSON,408,34,242,132,0
+Fannin,FAIRPLAY,CC P1,,R,EARL JOHNSON,355,12,231,112,0
+Fannin,FLINTHILL,CC P1,,R,EARL JOHNSON,1059,85,577,397,0
+Fannin,HEMPTOWN,CC P1,,R,EARL JOHNSON,425,22,276,127,0
+Fannin,HOTHOUSE,CC P1,,R,EARL JOHNSON,423,19,206,198,0
+Fannin,MINERAL BLUFF,CC P1,,R,EARL JOHNSON,590,45,287,258,0
+Fannin,MOBILE,CC P1,,R,EARL JOHNSON,395,23,249,123,0
+Fannin,MORGANTON,CC P1,,R,EARL JOHNSON,743,54,407,280,2
+Fannin,NOONTOOTLA,CC P1,,R,EARL JOHNSON,348,24,202,122,0
+Fannin,SKENIAH,CC P1,,R,EARL JOHNSON,131,10,71,50,0
+Fannin,SUGAR CREEK,CC P1,,R,EARL JOHNSON,777,54,366,357,0
+Fannin,TOCCOA,CC P1,,R,EARL JOHNSON,1077,79,478,520,0
+Fannin,,CC P1,,D,WILLIAM MITCHELL,2653,240,1365,1047,1
+Fannin,COLWELL,CC P1,,D,WILLIAM MITCHELL,188,23,90,75,0
+Fannin,FAIRPLAY,CC P1,,D,WILLIAM MITCHELL,131,8,69,54,0
+Fannin,FLINTHILL,CC P1,,D,WILLIAM MITCHELL,496,53,275,168,0
+Fannin,HEMPTOWN,CC P1,,D,WILLIAM MITCHELL,139,18,73,48,0
+Fannin,HOTHOUSE,CC P1,,D,WILLIAM MITCHELL,174,6,92,76,0
+Fannin,MINERAL BLUFF,CC P1,,D,WILLIAM MITCHELL,231,16,131,84,0
+Fannin,MOBILE,CC P1,,D,WILLIAM MITCHELL,162,8,104,50,0
+Fannin,MORGANTON,CC P1,,D,WILLIAM MITCHELL,249,21,127,101,0
+Fannin,NOONTOOTLA,CC P1,,D,WILLIAM MITCHELL,111,4,63,44,0
+Fannin,SKENIAH,CC P1,,D,WILLIAM MITCHELL,47,9,30,8,0
+Fannin,SUGAR CREEK,CC P1,,D,WILLIAM MITCHELL,325,37,147,140,1
+Fannin,TOCCOA,CC P1,,D,WILLIAM MITCHELL,400,37,164,199,0
+Fannin,,BOE BRAMLETT,,R,TERRY BRAMLETT (I),7981,533,4265,3180,3
+Fannin,COLWELL,BOE BRAMLETT,,R,TERRY BRAMLETT (I),499,41,289,169,0
+Fannin,FAIRPLAY,BOE BRAMLETT,,R,TERRY BRAMLETT (I),421,16,262,143,0
+Fannin,FLINTHILL,BOE BRAMLETT,,R,TERRY BRAMLETT (I),1282,92,720,470,0
+Fannin,HEMPTOWN,BOE BRAMLETT,,R,TERRY BRAMLETT (I),502,31,315,156,0
+Fannin,HOTHOUSE,BOE BRAMLETT,,R,TERRY BRAMLETT (I),497,26,245,226,0
+Fannin,MINERAL BLUFF,BOE BRAMLETT,,R,TERRY BRAMLETT (I),689,49,342,298,0
+Fannin,MOBILE,BOE BRAMLETT,,R,TERRY BRAMLETT (I),468,25,299,144,0
+Fannin,MORGANTON,BOE BRAMLETT,,R,TERRY BRAMLETT (I),855,65,458,330,2
+Fannin,NOONTOOTLA,BOE BRAMLETT,,R,TERRY BRAMLETT (I),408,23,248,137,0
+Fannin,SKENIAH,BOE BRAMLETT,,R,TERRY BRAMLETT (I),159,16,92,51,0
+Fannin,SUGAR CREEK,BOE BRAMLETT,,R,TERRY BRAMLETT (I),946,65,440,440,1
+Fannin,TOCCOA,BOE BRAMLETT,,R,TERRY BRAMLETT (I),1255,84,555,616,0
+Fannin,,BOE DEWEESE,,R,LEWIS DEWEESE (I),7807,529,4184,3091,3
+Fannin,COLWELL,BOE DEWEESE,,R,LEWIS DEWEESE (I),483,40,279,164,0
+Fannin,FAIRPLAY,BOE DEWEESE,,R,LEWIS DEWEESE (I),423,17,266,140,0
+Fannin,FLINTHILL,BOE DEWEESE,,R,LEWIS DEWEESE (I),1265,99,707,459,0
+Fannin,HEMPTOWN,BOE DEWEESE,,R,LEWIS DEWEESE (I),495,29,313,153,0
+Fannin,HOTHOUSE,BOE DEWEESE,,R,LEWIS DEWEESE (I),483,25,238,220,0
+Fannin,MINERAL BLUFF,BOE DEWEESE,,R,LEWIS DEWEESE (I),693,49,347,297,0
+Fannin,MOBILE,BOE DEWEESE,,R,LEWIS DEWEESE (I),465,27,298,140,0
+Fannin,MORGANTON,BOE DEWEESE,,R,LEWIS DEWEESE (I),824,64,443,315,2
+Fannin,NOONTOOTLA,BOE DEWEESE,,R,LEWIS DEWEESE (I),399,23,242,134,0
+Fannin,SKENIAH,BOE DEWEESE,,R,LEWIS DEWEESE (I),151,16,89,46,0
+Fannin,SUGAR CREEK,BOE DEWEESE,,R,LEWIS DEWEESE (I),922,59,435,427,1
+Fannin,TOCCOA,BOE DEWEESE,,R,LEWIS DEWEESE (I),1204,81,527,596,0
+Fannin,,BOE MERCIER,,R,SANDRA MERCIER (I),7954,523,4221,3207,3
+Fannin,COLWELL,BOE MERCIER,,R,SANDRA MERCIER (I),507,44,277,186,0
+Fannin,FAIRPLAY,BOE MERCIER,,R,SANDRA MERCIER (I),421,14,257,150,0
+Fannin,FLINTHILL,BOE MERCIER,,R,SANDRA MERCIER (I),1286,96,720,470,0
+Fannin,HEMPTOWN,BOE MERCIER,,R,SANDRA MERCIER (I),501,31,310,160,0
+Fannin,HOTHOUSE,BOE MERCIER,,R,SANDRA MERCIER (I),490,23,245,222,0
+Fannin,MINERAL BLUFF,BOE MERCIER,,R,SANDRA MERCIER (I),684,48,341,295,0
+Fannin,MOBILE,BOE MERCIER,,R,SANDRA MERCIER (I),464,25,291,148,0
+Fannin,MORGANTON,BOE MERCIER,,R,SANDRA MERCIER (I),834,62,444,326,2
+Fannin,NOONTOOTLA,BOE MERCIER,,R,SANDRA MERCIER (I),405,22,241,142,0
+Fannin,SKENIAH,BOE MERCIER,,R,SANDRA MERCIER (I),147,14,84,49,0
+Fannin,SUGAR CREEK,BOE MERCIER,,R,SANDRA MERCIER (I),947,58,446,442,1
+Fannin,TOCCOA,BOE MERCIER,,R,SANDRA MERCIER (I),1268,86,565,617,0
+Fannin,,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,3989,325,1889,1774,1
+Fannin,COLWELL,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,272,31,130,111,0
+Fannin,FAIRPLAY,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,234,13,128,93,0
+Fannin,FLINTHILL,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,565,50,295,220,0
+Fannin,HEMPTOWN,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,234,12,136,86,0
+Fannin,HOTHOUSE,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,209,19,88,102,0
+Fannin,MINERAL BLUFF,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,385,30,170,185,0
+Fannin,MOBILE,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,234,17,142,75,0
+Fannin,MORGANTON,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,436,35,217,183,1
+Fannin,NOONTOOTLA,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,208,15,104,89,0
+Fannin,SKENIAH,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,84,10,37,37,0
+Fannin,SUGAR CREEK,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,495,41,203,251,0
+Fannin,TOCCOA,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,YES,633,52,239,342,0
+Fannin,,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,5478,330,3190,1955,3
+Fannin,COLWELL,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,331,25,213,93,0
+Fannin,FAIRPLAY,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,268,9,181,78,0
+Fannin,FLINTHILL,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,966,71,564,331,0
+Fannin,HEMPTOWN,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,353,28,231,94,0
+Fannin,HOTHOUSE,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,392,8,214,170,0
+Fannin,MINERAL BLUFF,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,444,27,255,162,0
+Fannin,MOBILE,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,331,13,218,100,0
+Fannin,MORGANTON,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,579,34,347,197,1
+Fannin,NOONTOOTLA,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,261,12,170,79,0
+Fannin,SKENIAH,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,97,8,66,23,0
+Fannin,SUGAR CREEK,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,609,45,312,250,2
+Fannin,TOCCOA,Constitutional Amendment #1<br>Shall the Constitution be amended to allow state or local approval of public charter schools upon the request of local communities?,,,NO,847,50,419,378,0
+Fannin,,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,4834,342,2338,2153,1
+Fannin,COLWELL,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,333,35,167,131,0
+Fannin,FAIRPLAY,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,256,13,138,105,0
+Fannin,FLINTHILL,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,702,52,380,270,0
+Fannin,HEMPTOWN,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,309,26,178,105,0
+Fannin,HOTHOUSE,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,276,18,115,143,0
+Fannin,MINERAL BLUFF,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,425,29,193,203,0
+Fannin,MOBILE,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,287,18,168,101,0
+Fannin,MORGANTON,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,514,35,256,222,1
+Fannin,NOONTOOTLA,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,265,16,140,109,0
+Fannin,SKENIAH,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,94,11,46,37,0
+Fannin,SUGAR CREEK,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,564,43,236,285,0
+Fannin,TOCCOA,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,YES,809,46,321,442,0
+Fannin,,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,4147,291,2418,1435,3
+Fannin,COLWELL,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,249,22,153,74,0
+Fannin,FAIRPLAY,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,226,8,158,60,0
+Fannin,FLINTHILL,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,734,63,414,257,0
+Fannin,HEMPTOWN,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,252,14,168,70,0
+Fannin,HOTHOUSE,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,288,8,164,116,0
+Fannin,MINERAL BLUFF,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,354,28,191,135,0
+Fannin,MOBILE,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,249,11,172,66,0
+Fannin,MORGANTON,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,437,30,269,137,1
+Fannin,NOONTOOTLA,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,196,11,130,55,0
+Fannin,SKENIAH,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,82,6,55,21,0
+Fannin,SUGAR CREEK,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,485,39,251,193,2
+Fannin,TOCCOA,Constitutional Amendment #2<br>Shall the Constitution be amended so as to provide for a reduction in the state's operating costs by allowing the General Assembly to authorize certain state agencies to enter into multiyear rental agreements?,,,NO,595,51,293,251,0

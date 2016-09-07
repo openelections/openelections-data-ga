@@ -1,0 +1,86 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Towns,,President,,REP,JEB BUSH,10,1,4,5,0
+Towns,Young Harris,President,,REP,JEB BUSH,3,0,1,2,0
+Towns,Tate City,President,,REP,JEB BUSH,1,0,1,0,0
+Towns,Macedonia,President,,REP,JEB BUSH,4,1,1,2,0
+Towns,Hiawassee,President,,REP,JEB BUSH,2,0,1,1,0
+Towns,,President,,REP,BEN CARSON,197,0,167,29,1
+Towns,Young Harris,President,,REP,BEN CARSON,83,0,70,13,0
+Towns,Tate City,President,,REP,BEN CARSON,1,0,1,0,0
+Towns,Macedonia,President,,REP,BEN CARSON,59,0,49,10,0
+Towns,Hiawassee,President,,REP,BEN CARSON,54,0,47,6,1
+Towns,,President,,REP,CHRIS CHRISTIE,3,0,1,2,0
+Towns,Young Harris,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Towns,Tate City,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Towns,Macedonia,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
+Towns,Hiawassee,President,,REP,CHRIS CHRISTIE,2,0,0,2,0
+Towns,,President,,REP,TED CRUZ,592,10,425,153,4
+Towns,Young Harris,President,,REP,TED CRUZ,167,2,131,34,0
+Towns,Tate City,President,,REP,TED CRUZ,2,0,2,0,0
+Towns,Macedonia,President,,REP,TED CRUZ,235,4,162,68,1
+Towns,Hiawassee,President,,REP,TED CRUZ,188,4,130,51,3
+Towns,,President,,REP,CARLY FIORINA,4,0,4,0,0
+Towns,Young Harris,President,,REP,CARLY FIORINA,1,0,1,0,0
+Towns,Tate City,President,,REP,CARLY FIORINA,0,0,0,0,0
+Towns,Macedonia,President,,REP,CARLY FIORINA,2,0,2,0,0
+Towns,Hiawassee,President,,REP,CARLY FIORINA,1,0,1,0,0
+Towns,,President,,REP,LINDSEY GRAHAM,1,0,0,1,0
+Towns,Young Harris,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Towns,Tate City,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Towns,Macedonia,President,,REP,LINDSEY GRAHAM,1,0,0,1,0
+Towns,Hiawassee,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Towns,,President,,REP,MIKE HUCKABEE,4,0,4,0,0
+Towns,Young Harris,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Towns,Tate City,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Towns,Macedonia,President,,REP,MIKE HUCKABEE,3,0,3,0,0
+Towns,Hiawassee,President,,REP,MIKE HUCKABEE,1,0,1,0,0
+Towns,,President,,REP,JOHN R. KASICH,169,6,116,46,1
+Towns,Young Harris,President,,REP,JOHN R. KASICH,35,1,25,9,0
+Towns,Tate City,President,,REP,JOHN R. KASICH,3,0,3,0,0
+Towns,Macedonia,President,,REP,JOHN R. KASICH,58,1,42,14,1
+Towns,Hiawassee,President,,REP,JOHN R. KASICH,73,4,46,23,0
+Towns,,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Towns,Young Harris,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Towns,Tate City,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Towns,Macedonia,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Towns,Hiawassee,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Towns,,President,,REP,RAND PAUL,9,0,8,1,0
+Towns,Young Harris,President,,REP,RAND PAUL,5,0,5,0,0
+Towns,Tate City,President,,REP,RAND PAUL,0,0,0,0,0
+Towns,Macedonia,President,,REP,RAND PAUL,1,0,1,0,0
+Towns,Hiawassee,President,,REP,RAND PAUL,3,0,2,1,0
+Towns,,President,,REP,MARCO RUBIO,611,23,374,211,3
+Towns,Young Harris,President,,REP,MARCO RUBIO,185,6,141,37,1
+Towns,Tate City,President,,REP,MARCO RUBIO,4,0,4,0,0
+Towns,Macedonia,President,,REP,MARCO RUBIO,202,6,110,86,0
+Towns,Hiawassee,President,,REP,MARCO RUBIO,220,11,119,88,2
+Towns,,President,,REP,RICK SANTORUM,0,0,0,0,0
+Towns,Young Harris,President,,REP,RICK SANTORUM,0,0,0,0,0
+Towns,Tate City,President,,REP,RICK SANTORUM,0,0,0,0,0
+Towns,Macedonia,President,,REP,RICK SANTORUM,0,0,0,0,0
+Towns,Hiawassee,President,,REP,RICK SANTORUM,0,0,0,0,0
+Towns,,President,,REP,DONALD J. TRUMP,1369,17,895,444,13
+Towns,Young Harris,President,,REP,DONALD J. TRUMP,428,1,326,98,3
+Towns,Tate City,President,,REP,DONALD J. TRUMP,8,0,8,0,0
+Towns,Macedonia,President,,REP,DONALD J. TRUMP,435,5,275,151,4
+Towns,Hiawassee,President,,REP,DONALD J. TRUMP,498,11,286,195,6
+Towns,,President,,DEM,HILLARY CLINTON,317,10,189,113,5
+Towns,Young Harris,President,,DEM,HILLARY CLINTON,110,2,82,26,0
+Towns,Tate City,President,,DEM,HILLARY CLINTON,1,0,0,0,1
+Towns,Macedonia,President,,DEM,HILLARY CLINTON,88,2,44,40,2
+Towns,Hiawassee,President,,DEM,HILLARY CLINTON,118,6,63,47,2
+Towns,,President,,DEM,MARTIN O'MALLEY,7,0,5,2,0
+Towns,Young Harris,President,,DEM,MARTIN O'MALLEY,2,0,2,0,0
+Towns,Tate City,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Towns,Macedonia,President,,DEM,MARTIN O'MALLEY,2,0,0,2,0
+Towns,Hiawassee,President,,DEM,MARTIN O'MALLEY,3,0,3,0,0
+Towns,,President,,DEM,BERNIE SANDERS,270,7,204,55,4
+Towns,Young Harris,President,,DEM,BERNIE SANDERS,131,2,115,11,3
+Towns,Tate City,President,,DEM,BERNIE SANDERS,0,0,0,0,0
+Towns,Macedonia,President,,DEM,BERNIE SANDERS,70,2,43,24,1
+Towns,Hiawassee,President,,DEM,BERNIE SANDERS,69,3,46,20,0
+Towns,,President,,DEM,MICHAEL STEINBERG,5,0,5,0,0
+Towns,Young Harris,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Towns,Tate City,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Towns,Macedonia,President,,DEM,MICHAEL STEINBERG,2,0,2,0,0
+Towns,Hiawassee,President,,DEM,MICHAEL STEINBERG,2,0,2,0,0

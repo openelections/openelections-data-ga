@@ -1,0 +1,224 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Johnson,,United States Senator,,REP,MARY KAY BACALLAO,14,0,12,2,0
+Johnson,Wrightsville,United States Senator,,REP,MARY KAY BACALLAO,3,0,2,1,0
+Johnson,Smith,United States Senator,,REP,MARY KAY BACALLAO,1,0,1,0,0
+Johnson,Bray,United States Senator,,REP,MARY KAY BACALLAO,6,0,5,1,0
+Johnson,Kite,United States Senator,,REP,MARY KAY BACALLAO,4,0,4,0,0
+Johnson,,United States Senator,,REP,DERRICK GRAYSON,29,0,20,9,0
+Johnson,Wrightsville,United States Senator,,REP,DERRICK GRAYSON,7,0,0,7,0
+Johnson,Smith,United States Senator,,REP,DERRICK GRAYSON,4,0,3,1,0
+Johnson,Bray,United States Senator,,REP,DERRICK GRAYSON,5,0,5,0,0
+Johnson,Kite,United States Senator,,REP,DERRICK GRAYSON,13,0,12,1,0
+Johnson,,United States Senator,,REP,JOHNNY ISAKSON (I),112,2,84,26,0
+Johnson,Wrightsville,United States Senator,,REP,JOHNNY ISAKSON (I),19,2,6,11,0
+Johnson,Smith,United States Senator,,REP,JOHNNY ISAKSON (I),13,0,11,2,0
+Johnson,Bray,United States Senator,,REP,JOHNNY ISAKSON (I),44,0,36,8,0
+Johnson,Kite,United States Senator,,REP,JOHNNY ISAKSON (I),36,0,31,5,0
+Johnson,,United States Senator,,DEM,JIM BARKSDALE,782,63,427,292,0
+Johnson,Wrightsville,United States Senator,,DEM,JIM BARKSDALE,458,46,197,215,0
+Johnson,Smith,United States Senator,,DEM,JIM BARKSDALE,79,5,61,13,0
+Johnson,Bray,United States Senator,,DEM,JIM BARKSDALE,120,11,74,35,0
+Johnson,Kite,United States Senator,,DEM,JIM BARKSDALE,125,1,95,29,0
+Johnson,,United States Senator,,DEM,CHERYL COPELAND,349,37,215,97,0
+Johnson,Wrightsville,United States Senator,,DEM,CHERYL COPELAND,246,28,141,77,0
+Johnson,Smith,United States Senator,,DEM,CHERYL COPELAND,31,2,22,7,0
+Johnson,Bray,United States Senator,,DEM,CHERYL COPELAND,44,6,29,9,0
+Johnson,Kite,United States Senator,,DEM,CHERYL COPELAND,28,1,23,4,0
+Johnson,,United States Senator,,DEM,JOHN F COYNE III,69,6,30,33,0
+Johnson,Wrightsville,United States Senator,,DEM,JOHN F COYNE III,50,5,20,25,0
+Johnson,Smith,United States Senator,,DEM,JOHN F COYNE III,7,0,5,2,0
+Johnson,Bray,United States Senator,,DEM,JOHN F COYNE III,9,1,2,6,0
+Johnson,Kite,United States Senator,,DEM,JOHN F COYNE III,3,0,3,0,0
+Johnson,,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,14,0,12,2,0
+Johnson,Wrightsville,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,2,0,2,0,0
+Johnson,Smith,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,2,0,2,0,0
+Johnson,Bray,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,6,0,4,2,0
+Johnson,Kite,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,4,0,4,0,0
+Johnson,,Public Service Commission,2,REP,TIM ECHOLS (I),95,2,71,22,0
+Johnson,Wrightsville,Public Service Commission,2,REP,TIM ECHOLS (I),16,2,3,11,0
+Johnson,Smith,Public Service Commission,2,REP,TIM ECHOLS (I),10,0,8,2,0
+Johnson,Bray,Public Service Commission,2,REP,TIM ECHOLS (I),33,0,28,5,0
+Johnson,Kite,Public Service Commission,2,REP,TIM ECHOLS (I),36,0,32,4,0
+Johnson,,Public Service Commission,2,REP,MICHELLE MILLER,35,0,27,8,0
+Johnson,Wrightsville,Public Service Commission,2,REP,MICHELLE MILLER,8,0,2,6,0
+Johnson,Smith,Public Service Commission,2,REP,MICHELLE MILLER,2,0,2,0,0
+Johnson,Bray,Public Service Commission,2,REP,MICHELLE MILLER,12,0,12,0,0
+Johnson,Kite,Public Service Commission,2,REP,MICHELLE MILLER,13,0,11,2,0
+Johnson,,U.S. Representative,10,REP,JODY HICE (I),134,2,99,33,0
+Johnson,Wrightsville,U.S. Representative,10,REP,JODY HICE (I),24,2,5,17,0
+Johnson,Smith,U.S. Representative,10,REP,JODY HICE (I),11,0,9,2,0
+Johnson,Bray,U.S. Representative,10,REP,JODY HICE (I),51,0,43,8,0
+Johnson,Kite,U.S. Representative,10,REP,JODY HICE (I),48,0,42,6,0
+Johnson,,State Senator,23,REP,STEPHEN HAMMOND,45,0,28,17,0
+Johnson,Wrightsville,State Senator,23,REP,STEPHEN HAMMOND,13,0,3,10,0
+Johnson,Smith,State Senator,23,REP,STEPHEN HAMMOND,6,0,5,1,0
+Johnson,Bray,State Senator,23,REP,STEPHEN HAMMOND,12,0,10,2,0
+Johnson,Kite,State Senator,23,REP,STEPHEN HAMMOND,14,0,10,4,0
+Johnson,,State Senator,23,REP,JESSE STONE (I),104,2,84,18,0
+Johnson,Wrightsville,State Senator,23,REP,JESSE STONE (I),16,2,5,9,0
+Johnson,Smith,State Senator,23,REP,JESSE STONE (I),11,0,9,2,0
+Johnson,Bray,State Senator,23,REP,JESSE STONE (I),39,0,33,6,0
+Johnson,Kite,State Senator,23,REP,JESSE STONE (I),38,0,37,1,0
+Johnson,,State Representative,128,DEM,MACK JACKSON (I),658,63,345,250,0
+Johnson,Wrightsville,State Representative,128,DEM,MACK JACKSON (I),486,42,244,200,0
+Johnson,Bray,State Representative,128,DEM,MACK JACKSON (I),172,21,101,50,0
+Johnson,,State Representative,150,REP,MATT HATCHETT (I),64,0,55,9,0
+Johnson,Wrightsville,State Representative,150,REP,MATT HATCHETT (I),3,0,2,1,0
+Johnson,Smith,State Representative,150,REP,MATT HATCHETT (I),13,0,10,3,0
+Johnson,Kite,State Representative,150,REP,MATT HATCHETT (I),48,0,43,5,0
+Johnson,,District Attorney,Dublin Circuit - REP,REP,CRAIG FRASER (I),139,2,105,32,0
+Johnson,Wrightsville,District Attorney,Dublin Circuit - REP,REP,CRAIG FRASER (I),27,2,7,18,0
+Johnson,Smith,District Attorney,Dublin Circuit - REP,REP,CRAIG FRASER (I),14,0,12,2,0
+Johnson,Bray,District Attorney,Dublin Circuit - REP,REP,CRAIG FRASER (I),46,0,40,6,0
+Johnson,Kite,District Attorney,Dublin Circuit - REP,REP,CRAIG FRASER (I),52,0,46,6,0
+Johnson,,Probate Judge - D,,I,M. BUXTON,1595,130,896,569,0
+Johnson,Wrightsville,Probate Judge - D,,I,M. BUXTON,990,98,461,431,0
+Johnson,Smith,Probate Judge - D,,I,M. BUXTON,153,7,124,22,0
+Johnson,Bray,Probate Judge - D,,I,M. BUXTON,224,21,139,64,0
+Johnson,Kite,Probate Judge - D,,I,M. BUXTON,228,4,172,52,0
+Johnson,,Superior Court Clerk - D,,I,P. T GLOVER,1574,136,875,563,0
+Johnson,Wrightsville,Superior Court Clerk - D,,I,P. T GLOVER,970,103,444,423,0
+Johnson,Smith,Superior Court Clerk - D,,I,P. T GLOVER,151,7,121,23,0
+Johnson,Bray,Superior Court Clerk - D,,I,P. T GLOVER,235,22,145,68,0
+Johnson,Kite,Superior Court Clerk - D,,I,P. T GLOVER,218,4,165,49,0
+Johnson,,Sheriff - R,,,K. HELTON,117,0,87,30,0
+Johnson,Wrightsville,Sheriff - R,,,K. HELTON,20,0,7,13,0
+Johnson,Smith,Sheriff - R,,,K. HELTON,8,0,6,2,0
+Johnson,Bray,Sheriff - R,,,K. HELTON,44,0,34,10,0
+Johnson,Kite,Sheriff - R,,,K. HELTON,45,0,40,5,0
+Johnson,,Sheriff - D,,,M. MORRIS,803,57,468,278,0
+Johnson,Wrightsville,Sheriff - D,,,M. MORRIS,425,43,193,189,0
+Johnson,Smith,Sheriff - D,,,M. MORRIS,131,9,94,28,0
+Johnson,Bray,Sheriff - D,,,M. MORRIS,112,2,74,36,0
+Johnson,Kite,Sheriff - D,,,M. MORRIS,135,3,107,25,0
+Johnson,,Sheriff - D,,I,R. OXFORD,1107,189,557,361,0
+Johnson,Wrightsville,Sheriff - D,,I,R. OXFORD,788,140,357,291,0
+Johnson,Smith,Sheriff - D,,I,R. OXFORD,57,3,46,8,0
+Johnson,Bray,Sheriff - D,,I,R. OXFORD,170,45,89,36,0
+Johnson,Kite,Sheriff - D,,I,R. OXFORD,92,1,65,26,0
+Johnson,,Sheriff - D,,,P. STERLING,208,11,109,88,0
+Johnson,Wrightsville,Sheriff - D,,,P. STERLING,112,8,44,60,0
+Johnson,Smith,Sheriff - D,,,P. STERLING,24,1,20,3,0
+Johnson,Bray,Sheriff - D,,,P. STERLING,31,2,14,15,0
+Johnson,Kite,Sheriff - D,,,P. STERLING,41,0,31,10,0
+Johnson,,Tax Commissioner - D,,I,S. VICKERS,1549,137,882,530,0
+Johnson,Wrightsville,Tax Commissioner - D,,I,S. VICKERS,958,105,457,396,0
+Johnson,Smith,Tax Commissioner - D,,I,S. VICKERS,157,8,126,23,0
+Johnson,Bray,Tax Commissioner - D,,I,S. VICKERS,217,20,134,63,0
+Johnson,Kite,Tax Commissioner - D,,I,S. VICKERS,217,4,165,48,0
+Johnson,,Surveyor - R,,,R. PRICE,130,2,94,34,0
+Johnson,Wrightsville,Surveyor - R,,,R. PRICE,26,2,7,17,0
+Johnson,Smith,Surveyor - R,,,R. PRICE,10,0,8,2,0
+Johnson,Bray,Surveyor - R,,,R. PRICE,49,0,40,9,0
+Johnson,Kite,Surveyor - R,,,R. PRICE,45,0,39,6,0
+Johnson,,Coroner - D,,I,K. JONES,1443,122,794,527,0
+Johnson,Wrightsville,Coroner - D,,I,K. JONES,911,90,421,400,0
+Johnson,Smith,Coroner - D,,I,K. JONES,136,8,107,21,0
+Johnson,Bray,Coroner - D,,I,K. JONES,217,20,134,63,0
+Johnson,Kite,Coroner - D,,I,K. JONES,179,4,132,43,0
+Johnson,,County Comm 2 - D,,I,J. MCAFEE JR,286,18,145,123,0
+Johnson,Wrightsville,County Comm 2 - D,,I,J. MCAFEE JR,175,11,75,89,0
+Johnson,Bray,County Comm 2 - D,,I,J. MCAFEE JR,111,7,70,34,0
+Johnson,,County Comm 3 - D,,I,J.DARRISAW,377,137,141,99,0
+Johnson,Wrightsville,County Comm 3 - D,,I,J.DARRISAW,271,100,93,78,0
+Johnson,Bray,County Comm 3 - D,,I,J.DARRISAW,106,37,48,21,0
+Johnson,,County Comm 4 - R,,I,L. POPE,53,0,45,8,0
+Johnson,Wrightsville,County Comm 4 - R,,I,L. POPE,5,0,2,3,0
+Johnson,Kite,County Comm 4 - R,,I,L. POPE,48,0,43,5,0
+Johnson,,Republican Party Question 1,,REP,YES,132,0,101,31,0
+Johnson,Wrightsville,Republican Party Question 1,,REP,YES,19,0,6,13,0
+Johnson,Smith,Republican Party Question 1,,REP,YES,14,0,11,3,0
+Johnson,Bray,Republican Party Question 1,,REP,YES,50,0,40,10,0
+Johnson,Kite,Republican Party Question 1,,REP,YES,49,0,44,5,0
+Johnson,,Republican Party Question 1,,REP,NO,28,2,17,9,0
+Johnson,Wrightsville,Republican Party Question 1,,REP,NO,12,2,2,8,0
+Johnson,Smith,Republican Party Question 1,,REP,NO,2,0,2,0,0
+Johnson,Bray,Republican Party Question 1,,REP,NO,7,0,7,0,0
+Johnson,Kite,Republican Party Question 1,,REP,NO,7,0,6,1,0
+Johnson,,Democratic Party Question 1,,DEM,YES,1106,97,631,378,0
+Johnson,Wrightsville,Democratic Party Question 1,,DEM,YES,697,75,339,283,0
+Johnson,Smith,Democratic Party Question 1,,DEM,YES,117,8,87,22,0
+Johnson,Bray,Democratic Party Question 1,,DEM,YES,150,14,97,39,0
+Johnson,Kite,Democratic Party Question 1,,DEM,YES,142,0,108,34,0
+Johnson,,Democratic Party Question 1,,DEM,NO,683,49,380,254,0
+Johnson,Wrightsville,Democratic Party Question 1,,DEM,NO,408,36,178,194,0
+Johnson,Smith,Democratic Party Question 1,,DEM,NO,69,3,58,8,0
+Johnson,Bray,Democratic Party Question 1,,DEM,NO,111,8,67,36,0
+Johnson,Kite,Democratic Party Question 1,,DEM,NO,95,2,77,16,0
+Johnson,,Democratic Party Question 2,,DEM,YES,1311,101,763,447,0
+Johnson,Wrightsville,Democratic Party Question 2,,DEM,YES,811,80,400,331,0
+Johnson,Smith,Democratic Party Question 2,,DEM,YES,131,7,101,23,0
+Johnson,Bray,Democratic Party Question 2,,DEM,YES,196,12,130,54,0
+Johnson,Kite,Democratic Party Question 2,,DEM,YES,173,2,132,39,0
+Johnson,,Democratic Party Question 2,,DEM,NO,491,42,257,192,0
+Johnson,Wrightsville,Democratic Party Question 2,,DEM,NO,294,31,116,147,0
+Johnson,Smith,Democratic Party Question 2,,DEM,NO,54,2,44,8,0
+Johnson,Bray,Democratic Party Question 2,,DEM,NO,74,9,42,23,0
+Johnson,Kite,Democratic Party Question 2,,DEM,NO,69,0,55,14,0
+Johnson,,Democratic Party Question 3,,DEM,YES,1355,111,780,464,0
+Johnson,Wrightsville,Democratic Party Question 3,,DEM,YES,838,85,403,350,0
+Johnson,Smith,Democratic Party Question 3,,DEM,YES,136,7,107,22,0
+Johnson,Bray,Democratic Party Question 3,,DEM,YES,205,17,133,55,0
+Johnson,Kite,Democratic Party Question 3,,DEM,YES,176,2,137,37,0
+Johnson,,Democratic Party Question 3,,DEM,NO,444,33,242,169,0
+Johnson,Wrightsville,Democratic Party Question 3,,DEM,NO,265,24,119,122,0
+Johnson,Smith,Democratic Party Question 3,,DEM,NO,55,4,40,11,0
+Johnson,Bray,Democratic Party Question 3,,DEM,NO,64,5,36,23,0
+Johnson,Kite,Democratic Party Question 3,,DEM,NO,60,0,47,13,0
+Johnson,,Democratic Party Question 4,,DEM,YES,1157,95,659,403,0
+Johnson,Wrightsville,Democratic Party Question 4,,DEM,YES,742,75,362,305,0
+Johnson,Smith,Democratic Party Question 4,,DEM,YES,111,2,88,21,0
+Johnson,Bray,Democratic Party Question 4,,DEM,YES,156,16,98,42,0
+Johnson,Kite,Democratic Party Question 4,,DEM,YES,148,2,111,35,0
+Johnson,,Democratic Party Question 4,,DEM,NO,591,50,328,213,0
+Johnson,Wrightsville,Democratic Party Question 4,,DEM,NO,328,36,139,153,0
+Johnson,Smith,Democratic Party Question 4,,DEM,NO,73,8,54,11,0
+Johnson,Bray,Democratic Party Question 4,,DEM,NO,100,6,63,31,0
+Johnson,Kite,Democratic Party Question 4,,DEM,NO,90,0,72,18,0
+Johnson,,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,1319,88,779,452,0
+Johnson,Wrightsville,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,754,64,359,331,0
+Johnson,Smith,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,132,4,106,22,0
+Johnson,Bray,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,225,18,146,61,0
+Johnson,Kite,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,208,2,168,38,0
+Johnson,,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,1324,90,785,449,0
+Johnson,Wrightsville,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,759,70,362,327,0
+Johnson,Smith,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,134,4,108,22,0
+Johnson,Bray,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,224,14,147,63,0
+Johnson,Kite,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,207,2,168,37,0
+Johnson,,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,1307,93,773,441,0
+Johnson,Wrightsville,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,739,68,349,322,0
+Johnson,Smith,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,137,5,109,23,0
+Johnson,Bray,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,221,18,145,58,0
+Johnson,Kite,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,210,2,170,38,0
+Johnson,,Superior Court Judge,Dublin Circuit (Flanders),,JUD GREEN,1201,170,632,399,0
+Johnson,Wrightsville,Superior Court Judge,Dublin Circuit (Flanders),,JUD GREEN,640,125,246,269,0
+Johnson,Smith,Superior Court Judge,Dublin Circuit (Flanders),,JUD GREEN,147,9,109,29,0
+Johnson,Bray,Superior Court Judge,Dublin Circuit (Flanders),,JUD GREEN,203,32,119,52,0
+Johnson,Kite,Superior Court Judge,Dublin Circuit (Flanders),,JUD GREEN,211,4,158,49,0
+Johnson,,Superior Court Judge,Dublin Circuit (Flanders),,HAROLD D. MCLENDON,961,70,562,329,0
+Johnson,Wrightsville,Superior Court Judge,Dublin Circuit (Flanders),,HAROLD D. MCLENDON,652,55,335,262,0
+Johnson,Smith,Superior Court Judge,Dublin Circuit (Flanders),,HAROLD D. MCLENDON,65,2,54,9,0
+Johnson,Bray,Superior Court Judge,Dublin Circuit (Flanders),,HAROLD D. MCLENDON,156,13,100,43,0
+Johnson,Kite,Superior Court Judge,Dublin Circuit (Flanders),,HAROLD D. MCLENDON,88,0,73,15,0
+Johnson,,Superior Court Judge,Dublin Circuit (Gillis),I,DONALD W. DONNY GILLIS,1459,98,845,516,0
+Johnson,Wrightsville,Superior Court Judge,Dublin Circuit (Gillis),I,DONALD W. DONNY GILLIS,818,72,378,368,0
+Johnson,Smith,Superior Court Judge,Dublin Circuit (Gillis),I,DONALD W. DONNY GILLIS,151,8,115,28,0
+Johnson,Bray,Superior Court Judge,Dublin Circuit (Gillis),I,DONALD W. DONNY GILLIS,252,16,167,69,0
+Johnson,Kite,Superior Court Judge,Dublin Circuit (Gillis),I,DONALD W. DONNY GILLIS,238,2,185,51,0
+Johnson,,Superior Court Judge,Dublin Circuit (Helton),I,JON F. HELTON,1441,95,841,505,0
+Johnson,Wrightsville,Superior Court Judge,Dublin Circuit (Helton),I,JON F. HELTON,831,71,390,370,0
+Johnson,Smith,Superior Court Judge,Dublin Circuit (Helton),I,JON F. HELTON,147,6,117,24,0
+Johnson,Bray,Superior Court Judge,Dublin Circuit (Helton),I,JON F. HELTON,243,16,161,66,0
+Johnson,Kite,Superior Court Judge,Dublin Circuit (Helton),I,JON F. HELTON,220,2,173,45,0
+Johnson,,BOE 1,,,A. P. MOORMAN,333,16,195,122,0
+Johnson,Wrightsville,BOE 1,,,A. P. MOORMAN,333,16,195,122,0
+Johnson,,BOE 3,,,C. FIELDS,321,110,111,100,0
+Johnson,Wrightsville,BOE 3,,,C. FIELDS,224,83,63,78,0
+Johnson,Bray,BOE 3,,,C. FIELDS,97,27,48,22,0
+Johnson,,BOE 3,,,A. HINES,243,51,121,71,0
+Johnson,Wrightsville,BOE 3,,,A. HINES,170,37,77,56,0
+Johnson,Bray,BOE 3,,,A. HINES,73,14,44,15,0
+Johnson,,BOE 5,,I,M. THOMPSON,228,14,164,50,0
+Johnson,Wrightsville,BOE 5,,I,M. THOMPSON,22,4,8,10,0
+Johnson,Smith,BOE 5,,I,M. THOMPSON,174,9,133,32,0
+Johnson,Kite,BOE 5,,I,M. THOMPSON,32,1,23,8,0

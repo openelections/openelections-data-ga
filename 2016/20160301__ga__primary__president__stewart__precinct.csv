@@ -1,0 +1,86 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Stewart,,President,,REP,JEB BUSH,2,0,2,0,0
+Stewart,Richland,President,,REP,JEB BUSH,1,0,1,0,0
+Stewart,Louvale,President,,REP,JEB BUSH,0,0,0,0,0
+Stewart,Lumpkin,President,,REP,JEB BUSH,1,0,1,0,0
+Stewart,Omaha,President,,REP,JEB BUSH,0,0,0,0,0
+Stewart,,President,,REP,BEN CARSON,22,1,20,1,0
+Stewart,Richland,President,,REP,BEN CARSON,9,0,9,0,0
+Stewart,Louvale,President,,REP,BEN CARSON,1,0,1,0,0
+Stewart,Lumpkin,President,,REP,BEN CARSON,9,1,7,1,0
+Stewart,Omaha,President,,REP,BEN CARSON,3,0,3,0,0
+Stewart,,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
+Stewart,Richland,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
+Stewart,Louvale,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Stewart,Lumpkin,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Stewart,Omaha,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Stewart,,President,,REP,TED CRUZ,85,2,68,15,0
+Stewart,Richland,President,,REP,TED CRUZ,36,1,28,7,0
+Stewart,Louvale,President,,REP,TED CRUZ,11,0,10,1,0
+Stewart,Lumpkin,President,,REP,TED CRUZ,38,1,30,7,0
+Stewart,Omaha,President,,REP,TED CRUZ,0,0,0,0,0
+Stewart,,President,,REP,CARLY FIORINA,0,0,0,0,0
+Stewart,Richland,President,,REP,CARLY FIORINA,0,0,0,0,0
+Stewart,Louvale,President,,REP,CARLY FIORINA,0,0,0,0,0
+Stewart,Lumpkin,President,,REP,CARLY FIORINA,0,0,0,0,0
+Stewart,Omaha,President,,REP,CARLY FIORINA,0,0,0,0,0
+Stewart,,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Stewart,Richland,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Stewart,Louvale,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Stewart,Lumpkin,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Stewart,Omaha,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Stewart,,President,,REP,MIKE HUCKABEE,2,0,1,1,0
+Stewart,Richland,President,,REP,MIKE HUCKABEE,1,0,1,0,0
+Stewart,Louvale,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Stewart,Lumpkin,President,,REP,MIKE HUCKABEE,1,0,0,1,0
+Stewart,Omaha,President,,REP,MIKE HUCKABEE,0,0,0,0,0
+Stewart,,President,,REP,JOHN R. KASICH,14,0,12,2,0
+Stewart,Richland,President,,REP,JOHN R. KASICH,10,0,9,1,0
+Stewart,Louvale,President,,REP,JOHN R. KASICH,0,0,0,0,0
+Stewart,Lumpkin,President,,REP,JOHN R. KASICH,4,0,3,1,0
+Stewart,Omaha,President,,REP,JOHN R. KASICH,0,0,0,0,0
+Stewart,,President,,REP,GEORGE PATAKI,1,0,1,0,0
+Stewart,Richland,President,,REP,GEORGE PATAKI,1,0,1,0,0
+Stewart,Louvale,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Stewart,Lumpkin,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Stewart,Omaha,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Stewart,,President,,REP,RAND PAUL,4,0,4,0,0
+Stewart,Richland,President,,REP,RAND PAUL,4,0,4,0,0
+Stewart,Louvale,President,,REP,RAND PAUL,0,0,0,0,0
+Stewart,Lumpkin,President,,REP,RAND PAUL,0,0,0,0,0
+Stewart,Omaha,President,,REP,RAND PAUL,0,0,0,0,0
+Stewart,,President,,REP,MARCO RUBIO,37,1,30,6,0
+Stewart,Richland,President,,REP,MARCO RUBIO,14,1,10,3,0
+Stewart,Louvale,President,,REP,MARCO RUBIO,4,0,4,0,0
+Stewart,Lumpkin,President,,REP,MARCO RUBIO,17,0,15,2,0
+Stewart,Omaha,President,,REP,MARCO RUBIO,2,0,1,1,0
+Stewart,,President,,REP,RICK SANTORUM,0,0,0,0,0
+Stewart,Richland,President,,REP,RICK SANTORUM,0,0,0,0,0
+Stewart,Louvale,President,,REP,RICK SANTORUM,0,0,0,0,0
+Stewart,Lumpkin,President,,REP,RICK SANTORUM,0,0,0,0,0
+Stewart,Omaha,President,,REP,RICK SANTORUM,0,0,0,0,0
+Stewart,,President,,REP,DONALD J. TRUMP,213,1,177,34,1
+Stewart,Richland,President,,REP,DONALD J. TRUMP,102,0,91,11,0
+Stewart,Louvale,President,,REP,DONALD J. TRUMP,17,0,17,0,0
+Stewart,Lumpkin,President,,REP,DONALD J. TRUMP,71,1,46,23,1
+Stewart,Omaha,President,,REP,DONALD J. TRUMP,23,0,23,0,0
+Stewart,,President,,DEM,HILLARY CLINTON,460,17,394,47,2
+Stewart,Richland,President,,DEM,HILLARY CLINTON,184,9,152,23,0
+Stewart,Louvale,President,,DEM,HILLARY CLINTON,53,0,51,0,2
+Stewart,Lumpkin,President,,DEM,HILLARY CLINTON,185,8,153,24,0
+Stewart,Omaha,President,,DEM,HILLARY CLINTON,38,0,38,0,0
+Stewart,,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
+Stewart,Richland,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Stewart,Louvale,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Stewart,Lumpkin,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Stewart,Omaha,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
+Stewart,,President,,DEM,BERNIE SANDERS,46,2,33,11,0
+Stewart,Richland,President,,DEM,BERNIE SANDERS,19,0,15,4,0
+Stewart,Louvale,President,,DEM,BERNIE SANDERS,2,0,2,0,0
+Stewart,Lumpkin,President,,DEM,BERNIE SANDERS,19,2,10,7,0
+Stewart,Omaha,President,,DEM,BERNIE SANDERS,6,0,6,0,0
+Stewart,,President,,DEM,MICHAEL STEINBERG,4,0,4,0,0
+Stewart,Richland,President,,DEM,MICHAEL STEINBERG,3,0,3,0,0
+Stewart,Louvale,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Stewart,Lumpkin,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
+Stewart,Omaha,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0

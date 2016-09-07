@@ -1,0 +1,207 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Lanier,,United States Senator,,R,DAVID A. PERDUE,878,30,540,305,3
+Lanier,Lakeland,United States Senator,,R,DAVID A. PERDUE,530,22,284,221,3
+Lanier,Sirmans,United States Senator,,R,DAVID A. PERDUE,90,5,68,17,0
+Lanier,Stockton,United States Senator,,R,DAVID A. PERDUE,159,2,116,41,0
+Lanier,Westside,United States Senator,,R,DAVID A. PERDUE,99,1,72,26,0
+Lanier,,United States Senator,,D,M. MICHELLE NUNN,506,8,305,192,1
+Lanier,Lakeland,United States Senator,,D,M. MICHELLE NUNN,364,8,201,154,1
+Lanier,Sirmans,United States Senator,,D,M. MICHELLE NUNN,46,0,31,15,0
+Lanier,Stockton,United States Senator,,D,M. MICHELLE NUNN,48,0,38,10,0
+Lanier,Westside,United States Senator,,D,M. MICHELLE NUNN,48,0,35,13,0
+Lanier,,United States Senator,,L,AMANDA C. SWAFFORD,38,2,22,14,0
+Lanier,Lakeland,United States Senator,,L,AMANDA C. SWAFFORD,24,2,12,10,0
+Lanier,Sirmans,United States Senator,,L,AMANDA C. SWAFFORD,4,0,2,2,0
+Lanier,Stockton,United States Senator,,L,AMANDA C. SWAFFORD,3,0,2,1,0
+Lanier,Westside,United States Senator,,L,AMANDA C. SWAFFORD,7,0,6,1,0
+Lanier,,Governor,,R,J. NATHAN DEAL (I),846,32,524,287,3
+Lanier,Lakeland,Governor,,R,J. NATHAN DEAL (I),507,24,275,205,3
+Lanier,Sirmans,Governor,,R,J. NATHAN DEAL (I),89,5,68,16,0
+Lanier,Stockton,Governor,,R,J. NATHAN DEAL (I),152,2,111,39,0
+Lanier,Westside,Governor,,R,J. NATHAN DEAL (I),98,1,70,27,0
+Lanier,,Governor,,D,JASON J. CARTER,543,7,322,213,1
+Lanier,Lakeland,Governor,,D,JASON J. CARTER,402,7,220,174,1
+Lanier,Sirmans,Governor,,D,JASON J. CARTER,47,0,31,16,0
+Lanier,Stockton,Governor,,D,JASON J. CARTER,45,0,36,9,0
+Lanier,Westside,Governor,,D,JASON J. CARTER,49,0,35,14,0
+Lanier,,Governor,,L,ANDREW T. HUNT,43,1,24,18,0
+Lanier,Lakeland,Governor,,L,ANDREW T. HUNT,27,1,11,15,0
+Lanier,Sirmans,Governor,,L,ANDREW T. HUNT,4,0,3,1,0
+Lanier,Stockton,Governor,,L,ANDREW T. HUNT,4,0,3,1,0
+Lanier,Westside,Governor,,L,ANDREW T. HUNT,8,0,7,1,0
+Lanier,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",937,33,568,333,3
+Lanier,Lakeland,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",573,25,298,247,3
+Lanier,Sirmans,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",94,5,72,17,0
+Lanier,Stockton,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",161,2,118,41,0
+Lanier,Westside,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",109,1,80,28,0
+Lanier,,Lieutenant Governor,,D,CONNIE J. STOKES,481,7,298,175,1
+Lanier,Lakeland,Lieutenant Governor,,D,CONNIE J. STOKES,348,7,201,139,1
+Lanier,Sirmans,Lieutenant Governor,,D,CONNIE J. STOKES,46,0,30,16,0
+Lanier,Stockton,Lieutenant Governor,,D,CONNIE J. STOKES,41,0,33,8,0
+Lanier,Westside,Lieutenant Governor,,D,CONNIE J. STOKES,46,0,34,12,0
+Lanier,,Secretary Of State,,R,BRIAN P. KEMP (I),950,33,584,330,3
+Lanier,Lakeland,Secretary Of State,,R,BRIAN P. KEMP (I),584,25,311,245,3
+Lanier,Sirmans,Secretary Of State,,R,BRIAN P. KEMP (I),99,5,75,19,0
+Lanier,Stockton,Secretary Of State,,R,BRIAN P. KEMP (I),163,2,121,40,0
+Lanier,Westside,Secretary Of State,,R,BRIAN P. KEMP (I),104,1,77,26,0
+Lanier,,Secretary Of State,,D,DOREEN CARTER,493,7,294,191,1
+Lanier,Lakeland,Secretary Of State,,D,DOREEN CARTER,352,7,194,150,1
+Lanier,Sirmans,Secretary Of State,,D,DOREEN CARTER,42,0,27,15,0
+Lanier,Stockton,Secretary Of State,,D,DOREEN CARTER,46,0,35,11,0
+Lanier,Westside,Secretary Of State,,D,DOREEN CARTER,53,0,38,15,0
+Lanier,,Attorney General,,R,SAMUEL S. OLENS (I),939,34,571,331,3
+Lanier,Lakeland,Attorney General,,R,SAMUEL S. OLENS (I),574,26,300,245,3
+Lanier,Sirmans,Attorney General,,R,SAMUEL S. OLENS (I),99,5,74,20,0
+Lanier,Stockton,Attorney General,,R,SAMUEL S. OLENS (I),163,2,121,40,0
+Lanier,Westside,Attorney General,,R,SAMUEL S. OLENS (I),103,1,76,26,0
+Lanier,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",496,6,302,187,1
+Lanier,Lakeland,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",359,6,204,148,1
+Lanier,Sirmans,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",43,0,29,14,0
+Lanier,Stockton,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",44,0,33,11,0
+Lanier,Westside,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",50,0,36,14,0
+Lanier,,Commissioner Of Agriculture,,R,GARY W. BLACK (I),948,33,581,331,3
+Lanier,Lakeland,Commissioner Of Agriculture,,R,GARY W. BLACK (I),579,25,307,244,3
+Lanier,Sirmans,Commissioner Of Agriculture,,R,GARY W. BLACK (I),96,5,72,19,0
+Lanier,Stockton,Commissioner Of Agriculture,,R,GARY W. BLACK (I),165,2,122,41,0
+Lanier,Westside,Commissioner Of Agriculture,,R,GARY W. BLACK (I),108,1,80,27,0
+Lanier,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,468,6,281,180,1
+Lanier,Lakeland,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,341,6,189,145,1
+Lanier,Sirmans,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,43,0,29,14,0
+Lanier,Stockton,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,39,0,31,8,0
+Lanier,Westside,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,45,0,32,13,0
+Lanier,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),895,30,551,311,3
+Lanier,Lakeland,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),541,22,289,227,3
+Lanier,Sirmans,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),97,5,75,17,0
+Lanier,Stockton,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),155,2,112,41,0
+Lanier,Westside,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),102,1,75,26,0
+Lanier,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",466,8,282,175,1
+Lanier,Lakeland,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",343,8,193,141,1
+Lanier,Sirmans,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",40,0,26,14,0
+Lanier,Stockton,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",38,0,30,8,0
+Lanier,Westside,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",45,0,33,12,0
+Lanier,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",55,2,32,21,0
+Lanier,Lakeland,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",35,2,17,16,0
+Lanier,Sirmans,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",3,0,1,2,0
+Lanier,Stockton,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",9,0,8,1,0
+Lanier,Westside,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",8,0,6,2,0
+Lanier,,State School Superintendent,,R,RICHARD L. WOODS,903,31,561,308,3
+Lanier,Lakeland,State School Superintendent,,R,RICHARD L. WOODS,548,23,294,228,3
+Lanier,Sirmans,State School Superintendent,,R,RICHARD L. WOODS,95,5,72,18,0
+Lanier,Stockton,State School Superintendent,,R,RICHARD L. WOODS,158,2,116,40,0
+Lanier,Westside,State School Superintendent,,R,RICHARD L. WOODS,102,1,79,22,0
+Lanier,,State School Superintendent,,D,VALARIE D. WILSON,531,9,315,206,1
+Lanier,Lakeland,State School Superintendent,,D,VALARIE D. WILSON,382,9,211,161,1
+Lanier,Sirmans,State School Superintendent,,D,VALARIE D. WILSON,45,0,29,16,0
+Lanier,Stockton,State School Superintendent,,D,VALARIE D. WILSON,50,0,39,11,0
+Lanier,Westside,State School Superintendent,,D,VALARIE D. WILSON,54,0,36,18,0
+Lanier,,Commissioner Of Labor,,R,J. MARK BUTLER (I),932,32,580,317,3
+Lanier,Lakeland,Commissioner Of Labor,,R,J. MARK BUTLER (I),564,24,305,232,3
+Lanier,Sirmans,Commissioner Of Labor,,R,J. MARK BUTLER (I),98,5,74,19,0
+Lanier,Stockton,Commissioner Of Labor,,R,J. MARK BUTLER (I),165,2,122,41,0
+Lanier,Westside,Commissioner Of Labor,,R,J. MARK BUTLER (I),105,1,79,25,0
+Lanier,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,495,8,291,195,1
+Lanier,Lakeland,Commissioner Of Labor,,D,ROBBIN K. SHIPP,361,8,197,155,1
+Lanier,Sirmans,Commissioner Of Labor,,D,ROBBIN K. SHIPP,43,0,28,15,0
+Lanier,Stockton,Commissioner Of Labor,,D,ROBBIN K. SHIPP,42,0,32,10,0
+Lanier,Westside,Commissioner Of Labor,,D,ROBBIN K. SHIPP,49,0,34,15,0
+Lanier,,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",1003,35,608,357,3
+Lanier,Lakeland,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",630,27,331,269,3
+Lanier,Sirmans,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",102,5,78,19,0
+Lanier,Stockton,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",159,2,114,43,0
+Lanier,Westside,Public Service Commission,4,R,"HERMAN D. ""DOUG"" EVERETT (I)",112,1,85,26,0
+Lanier,,Public Service Commission,4,L,JOHN H. MONDS,290,3,178,109,0
+Lanier,Lakeland,Public Service Commission,4,L,JOHN H. MONDS,197,3,111,83,0
+Lanier,Sirmans,Public Service Commission,4,L,JOHN H. MONDS,27,0,17,10,0
+Lanier,Stockton,Public Service Commission,4,L,JOHN H. MONDS,31,0,25,6,0
+Lanier,Westside,Public Service Commission,4,L,JOHN H. MONDS,35,0,25,10,0
+Lanier,,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",883,29,547,304,3
+Lanier,Lakeland,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",538,21,289,225,3
+Lanier,Sirmans,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",90,5,69,16,0
+Lanier,Stockton,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",155,2,112,41,0
+Lanier,Westside,Public Service Commission,1,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",100,1,77,22,0
+Lanier,,Public Service Commission,1,D,DANIEL A. BLACKMAN,482,9,293,179,1
+Lanier,Lakeland,Public Service Commission,1,D,DANIEL A. BLACKMAN,350,9,199,141,1
+Lanier,Sirmans,Public Service Commission,1,D,DANIEL A. BLACKMAN,41,0,26,15,0
+Lanier,Stockton,Public Service Commission,1,D,DANIEL A. BLACKMAN,45,0,37,8,0
+Lanier,Westside,Public Service Commission,1,D,DANIEL A. BLACKMAN,46,0,31,15,0
+Lanier,,Public Service Commission,1,L,ROBIN AARON GILMER,63,2,30,31,0
+Lanier,Lakeland,Public Service Commission,1,L,ROBIN AARON GILMER,41,2,15,24,0
+Lanier,Sirmans,Public Service Commission,1,L,ROBIN AARON GILMER,7,0,5,2,0
+Lanier,Stockton,Public Service Commission,1,L,ROBIN AARON GILMER,7,0,5,2,0
+Lanier,Westside,Public Service Commission,1,L,ROBIN AARON GILMER,8,0,5,3,0
+Lanier,,U.S. Representative,8,R,J. AUSTIN SCOTT (I),1145,36,699,407,3
+Lanier,Lakeland,U.S. Representative,8,R,J. AUSTIN SCOTT (I),728,28,390,307,3
+Lanier,Sirmans,U.S. Representative,8,R,J. AUSTIN SCOTT (I),113,5,83,25,0
+Lanier,Stockton,U.S. Representative,8,R,J. AUSTIN SCOTT (I),178,2,131,45,0
+Lanier,Westside,U.S. Representative,8,R,J. AUSTIN SCOTT (I),126,1,95,30,0
+Lanier,,State Senator,8,R,C. ELLIS BLACK,948,37,578,330,3
+Lanier,Lakeland,State Senator,8,R,C. ELLIS BLACK,578,29,301,245,3
+Lanier,Sirmans,State Senator,8,R,C. ELLIS BLACK,100,5,76,19,0
+Lanier,Stockton,State Senator,8,R,C. ELLIS BLACK,169,2,124,43,0
+Lanier,Westside,State Senator,8,R,C. ELLIS BLACK,101,1,77,23,0
+Lanier,,State Senator,8,D,BIKRAM K. MOHANTY,499,3,302,193,1
+Lanier,Lakeland,State Senator,8,D,BIKRAM K. MOHANTY,360,3,204,152,1
+Lanier,Sirmans,State Senator,8,D,BIKRAM K. MOHANTY,42,0,27,15,0
+Lanier,Stockton,State Senator,8,D,BIKRAM K. MOHANTY,41,0,33,8,0
+Lanier,Westside,State Senator,8,D,BIKRAM K. MOHANTY,56,0,38,18,0
+Lanier,,State Representative,176,R,"JAMES S. ""JASON"" SHAW JR. (I)",1190,38,724,425,3
+Lanier,Lakeland,State Representative,176,R,"JAMES S. ""JASON"" SHAW JR. (I)",759,30,409,317,3
+Lanier,Sirmans,State Representative,176,R,"JAMES S. ""JASON"" SHAW JR. (I)",118,5,85,28,0
+Lanier,Stockton,State Representative,176,R,"JAMES S. ""JASON"" SHAW JR. (I)",185,2,134,49,0
+Lanier,Westside,State Representative,176,R,"JAMES S. ""JASON"" SHAW JR. (I)",128,1,96,31,0
+Lanier,,CC,D1,D,PAUL BROCKINGTON (I),235,7,144,84,0
+Lanier,Lakeland,CC,D1,D,PAUL BROCKINGTON (I),235,7,144,84,0
+Lanier,,CC,D2,R,HAROLD T SIMPSON (I),257,6,145,106,0
+Lanier,Lakeland,CC,D2,R,HAROLD T SIMPSON (I),213,6,114,93,0
+Lanier,Westside,CC,D2,R,HAROLD T SIMPSON (I),44,0,31,13,0
+Lanier,,BOE,D1,D,ERLISH LOCKLEAR (I),237,6,137,94,0
+Lanier,Lakeland,BOE,D1,D,ERLISH LOCKLEAR (I),237,6,137,94,0
+Lanier,,BOE,D3,R,PHILLIP CONNELL,260,11,152,97,0
+Lanier,Lakeland,BOE,D3,R,PHILLIP CONNELL,205,10,108,87,0
+Lanier,Westside,BOE,D3,R,PHILLIP CONNELL,55,1,44,10,0
+Lanier,,BOE,D3,D,AMY BENNETT,169,5,87,76,1
+Lanier,Lakeland,BOE,D3,D,AMY BENNETT,130,5,60,64,1
+Lanier,Westside,BOE,D3,D,AMY BENNETT,39,0,27,12,0
+Lanier,,BOE,D4,R,ALBERT FENDER,362,9,258,94,1
+Lanier,Lakeland,BOE,D4,R,ALBERT FENDER,67,3,44,19,1
+Lanier,Sirmans,BOE,D4,R,ALBERT FENDER,113,4,83,26,0
+Lanier,Stockton,BOE,D4,R,ALBERT FENDER,182,2,131,49,0
+Lanier,,SOIL AND WATER,,,PAUL FOLSOM (I),1156,36,699,419,2
+Lanier,Lakeland,SOIL AND WATER,,,PAUL FOLSOM (I),744,29,403,310,2
+Lanier,Sirmans,SOIL AND WATER,,,PAUL FOLSOM (I),114,5,80,29,0
+Lanier,Stockton,SOIL AND WATER,,,PAUL FOLSOM (I),170,1,122,47,0
+Lanier,Westside,SOIL AND WATER,,,PAUL FOLSOM (I),128,1,94,33,0
+Lanier,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,1051,35,646,367,3
+Lanier,Lakeland,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,652,27,347,275,3
+Lanier,Sirmans,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,107,5,76,26,0
+Lanier,Stockton,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,158,2,121,35,0
+Lanier,Westside,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,YES,134,1,102,31,0
+Lanier,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,398,5,234,158,1
+Lanier,Lakeland,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,288,5,158,124,1
+Lanier,Sirmans,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,34,0,27,7,0
+Lanier,Stockton,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,52,0,35,17,0
+Lanier,Westside,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,,NO,24,0,14,10,0
+Lanier,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,948,36,567,342,3
+Lanier,Lakeland,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,614,30,322,259,3
+Lanier,Sirmans,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,89,4,65,20,0
+Lanier,Stockton,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,147,1,104,42,0
+Lanier,Westside,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,YES,98,1,76,21,0
+Lanier,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,482,5,299,177,1
+Lanier,Lakeland,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,316,3,178,134,1
+Lanier,Sirmans,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,50,1,35,14,0
+Lanier,Stockton,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,57,1,47,9,0
+Lanier,Westside,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,,NO,59,0,39,20,0
+Lanier,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,989,31,605,351,2
+Lanier,Lakeland,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,647,26,354,265,2
+Lanier,Sirmans,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,94,4,63,27,0
+Lanier,Stockton,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,132,0,104,28,0
+Lanier,Westside,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,YES,116,1,84,31,0
+Lanier,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,451,9,269,171,2
+Lanier,Lakeland,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,284,6,147,129,2
+Lanier,Sirmans,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,48,1,40,7,0
+Lanier,Stockton,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,76,2,50,24,0
+Lanier,Westside,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,,NO,43,0,32,11,0
+Lanier,,LAKELAND QUESTION,,,YES,236,7,125,104,0
+Lanier,Lakeland,LAKELAND QUESTION,,,YES,236,7,125,104,0
+Lanier,,LAKELAND QUESTION,,,NO,154,5,87,61,1
+Lanier,Lakeland,LAKELAND QUESTION,,,NO,154,5,87,61,1

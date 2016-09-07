@@ -1,0 +1,422 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Tattnall,,United States Senator,,R,DAVID A. PERDUE,2932,120,1919,889,4
+Tattnall,Cobbtown,United States Senator,,R,DAVID A. PERDUE,196,8,122,66,0
+Tattnall,Longview,United States Senator,,R,DAVID A. PERDUE,85,2,70,12,1
+Tattnall,Collins,United States Senator,,R,DAVID A. PERDUE,284,11,219,53,1
+Tattnall,Manassas,United States Senator,,R,DAVID A. PERDUE,70,3,62,5,0
+Tattnall,District II,United States Senator,,R,DAVID A. PERDUE,525,14,299,212,0
+Tattnall,Birdford,United States Senator,,R,DAVID A. PERDUE,217,7,167,43,0
+Tattnall,East Glennville,United States Senator,,R,DAVID A. PERDUE,507,23,312,171,1
+Tattnall,District IV,United States Senator,,R,DAVID A. PERDUE,640,29,415,195,1
+Tattnall,District V,United States Senator,,R,DAVID A. PERDUE,408,23,253,132,0
+Tattnall,,United States Senator,,D,M. MICHELLE NUNN,1229,76,762,391,0
+Tattnall,Cobbtown,United States Senator,,D,M. MICHELLE NUNN,77,5,53,19,0
+Tattnall,Longview,United States Senator,,D,M. MICHELLE NUNN,15,0,12,3,0
+Tattnall,Collins,United States Senator,,D,M. MICHELLE NUNN,153,9,108,36,0
+Tattnall,Manassas,United States Senator,,D,M. MICHELLE NUNN,29,0,26,3,0
+Tattnall,District II,United States Senator,,D,M. MICHELLE NUNN,322,23,180,119,0
+Tattnall,Birdford,United States Senator,,D,M. MICHELLE NUNN,51,2,35,14,0
+Tattnall,East Glennville,United States Senator,,D,M. MICHELLE NUNN,141,14,80,47,0
+Tattnall,District IV,United States Senator,,D,M. MICHELLE NUNN,289,15,194,80,0
+Tattnall,District V,United States Senator,,D,M. MICHELLE NUNN,152,8,74,70,0
+Tattnall,,United States Senator,,L,AMANDA C. SWAFFORD,76,2,45,28,1
+Tattnall,Cobbtown,United States Senator,,L,AMANDA C. SWAFFORD,9,0,2,7,0
+Tattnall,Longview,United States Senator,,L,AMANDA C. SWAFFORD,3,0,3,0,0
+Tattnall,Collins,United States Senator,,L,AMANDA C. SWAFFORD,9,0,6,3,0
+Tattnall,Manassas,United States Senator,,L,AMANDA C. SWAFFORD,0,0,0,0,0
+Tattnall,District II,United States Senator,,L,AMANDA C. SWAFFORD,12,1,6,5,0
+Tattnall,Birdford,United States Senator,,L,AMANDA C. SWAFFORD,11,0,10,1,0
+Tattnall,East Glennville,United States Senator,,L,AMANDA C. SWAFFORD,8,0,4,4,0
+Tattnall,District IV,United States Senator,,L,AMANDA C. SWAFFORD,14,1,11,2,0
+Tattnall,District V,United States Senator,,L,AMANDA C. SWAFFORD,10,0,3,6,1
+Tattnall,,Governor,,R,J. NATHAN DEAL (I),2934,126,1897,907,4
+Tattnall,Cobbtown,Governor,,R,J. NATHAN DEAL (I),202,7,126,69,0
+Tattnall,Longview,Governor,,R,J. NATHAN DEAL (I),85,2,71,11,1
+Tattnall,Collins,Governor,,R,J. NATHAN DEAL (I),289,13,215,60,1
+Tattnall,Manassas,Governor,,R,J. NATHAN DEAL (I),69,3,61,5,0
+Tattnall,District II,Governor,,R,J. NATHAN DEAL (I),526,17,289,220,0
+Tattnall,Birdford,Governor,,R,J. NATHAN DEAL (I),212,5,167,40,0
+Tattnall,East Glennville,Governor,,R,J. NATHAN DEAL (I),503,24,304,174,1
+Tattnall,District IV,Governor,,R,J. NATHAN DEAL (I),632,31,414,186,1
+Tattnall,District V,Governor,,R,J. NATHAN DEAL (I),416,24,250,142,0
+Tattnall,,Governor,,D,JASON J. CARTER,1205,70,754,379,2
+Tattnall,Cobbtown,Governor,,D,JASON J. CARTER,74,3,51,20,0
+Tattnall,Longview,Governor,,D,JASON J. CARTER,14,0,11,3,0
+Tattnall,Collins,Governor,,D,JASON J. CARTER,148,9,107,32,0
+Tattnall,Manassas,Governor,,D,JASON J. CARTER,31,0,28,3,0
+Tattnall,District II,Governor,,D,JASON J. CARTER,315,20,181,113,1
+Tattnall,Birdford,Governor,,D,JASON J. CARTER,57,4,36,17,0
+Tattnall,East Glennville,Governor,,D,JASON J. CARTER,137,12,79,46,0
+Tattnall,District IV,Governor,,D,JASON J. CARTER,290,15,191,84,0
+Tattnall,District V,Governor,,D,JASON J. CARTER,139,7,70,61,1
+Tattnall,,Governor,,L,ANDREW T. HUNT,81,2,55,24,0
+Tattnall,Cobbtown,Governor,,L,ANDREW T. HUNT,5,0,1,4,0
+Tattnall,Longview,Governor,,L,ANDREW T. HUNT,3,0,3,0,0
+Tattnall,Collins,Governor,,L,ANDREW T. HUNT,10,0,9,1,0
+Tattnall,Manassas,Governor,,L,ANDREW T. HUNT,1,0,1,0,0
+Tattnall,District II,Governor,,L,ANDREW T. HUNT,16,1,9,6,0
+Tattnall,Birdford,Governor,,L,ANDREW T. HUNT,8,0,8,0,0
+Tattnall,East Glennville,Governor,,L,ANDREW T. HUNT,14,1,10,3,0
+Tattnall,District IV,Governor,,L,ANDREW T. HUNT,15,0,10,5,0
+Tattnall,District V,Governor,,L,ANDREW T. HUNT,9,0,4,5,0
+Tattnall,,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",3160,137,2050,969,4
+Tattnall,Cobbtown,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",216,6,140,70,0
+Tattnall,Longview,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",90,2,76,11,1
+Tattnall,Collins,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",318,16,236,65,1
+Tattnall,Manassas,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",70,3,62,5,0
+Tattnall,District II,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",570,16,324,230,0
+Tattnall,Birdford,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",233,7,179,47,0
+Tattnall,East Glennville,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",553,29,335,188,1
+Tattnall,District IV,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",678,33,443,201,1
+Tattnall,District V,Lieutenant Governor,,R,"L. S. ""CASEY"" CAGLE (I)",432,25,255,152,0
+Tattnall,,Lieutenant Governor,,D,CONNIE J. STOKES,999,60,617,320,2
+Tattnall,Cobbtown,Lieutenant Governor,,D,CONNIE J. STOKES,55,4,32,19,0
+Tattnall,Longview,Lieutenant Governor,,D,CONNIE J. STOKES,13,0,11,2,0
+Tattnall,Collins,Lieutenant Governor,,D,CONNIE J. STOKES,123,5,90,28,0
+Tattnall,Manassas,Lieutenant Governor,,D,CONNIE J. STOKES,31,0,28,3,0
+Tattnall,District II,Lieutenant Governor,,D,CONNIE J. STOKES,285,22,156,106,1
+Tattnall,Birdford,Lieutenant Governor,,D,CONNIE J. STOKES,35,2,24,9,0
+Tattnall,East Glennville,Lieutenant Governor,,D,CONNIE J. STOKES,95,8,55,32,0
+Tattnall,District IV,Lieutenant Governor,,D,CONNIE J. STOKES,244,13,163,68,0
+Tattnall,District V,Lieutenant Governor,,D,CONNIE J. STOKES,118,6,58,53,1
+Tattnall,,Secretary Of State,,R,BRIAN P. KEMP (I),3171,144,2057,966,4
+Tattnall,Cobbtown,Secretary Of State,,R,BRIAN P. KEMP (I),215,6,141,68,0
+Tattnall,Longview,Secretary Of State,,R,BRIAN P. KEMP (I),92,2,78,11,1
+Tattnall,Collins,Secretary Of State,,R,BRIAN P. KEMP (I),320,16,238,65,1
+Tattnall,Manassas,Secretary Of State,,R,BRIAN P. KEMP (I),70,3,62,5,0
+Tattnall,District II,Secretary Of State,,R,BRIAN P. KEMP (I),569,18,325,226,0
+Tattnall,Birdford,Secretary Of State,,R,BRIAN P. KEMP (I),233,7,182,44,0
+Tattnall,East Glennville,Secretary Of State,,R,BRIAN P. KEMP (I),542,31,325,185,1
+Tattnall,District IV,Secretary Of State,,R,BRIAN P. KEMP (I),683,34,440,208,1
+Tattnall,District V,Secretary Of State,,R,BRIAN P. KEMP (I),447,27,266,154,0
+Tattnall,,Secretary Of State,,D,DOREEN CARTER,1001,51,618,330,2
+Tattnall,Cobbtown,Secretary Of State,,D,DOREEN CARTER,59,4,33,22,0
+Tattnall,Longview,Secretary Of State,,D,DOREEN CARTER,10,0,8,2,0
+Tattnall,Collins,Secretary Of State,,D,DOREEN CARTER,121,5,89,27,0
+Tattnall,Manassas,Secretary Of State,,D,DOREEN CARTER,30,0,27,3,0
+Tattnall,District II,Secretary Of State,,D,DOREEN CARTER,287,19,156,111,1
+Tattnall,Birdford,Secretary Of State,,D,DOREEN CARTER,37,2,22,13,0
+Tattnall,East Glennville,Secretary Of State,,D,DOREEN CARTER,105,6,62,37,0
+Tattnall,District IV,Secretary Of State,,D,DOREEN CARTER,238,11,163,64,0
+Tattnall,District V,Secretary Of State,,D,DOREEN CARTER,114,4,58,51,1
+Tattnall,,Attorney General,,R,SAMUEL S. OLENS (I),3105,135,2019,947,4
+Tattnall,Cobbtown,Attorney General,,R,SAMUEL S. OLENS (I),212,7,136,69,0
+Tattnall,Longview,Attorney General,,R,SAMUEL S. OLENS (I),89,2,75,11,1
+Tattnall,Collins,Attorney General,,R,SAMUEL S. OLENS (I),316,16,236,63,1
+Tattnall,Manassas,Attorney General,,R,SAMUEL S. OLENS (I),69,3,61,5,0
+Tattnall,District II,Attorney General,,R,SAMUEL S. OLENS (I),557,17,317,223,0
+Tattnall,Birdford,Attorney General,,R,SAMUEL S. OLENS (I),224,7,171,46,0
+Tattnall,East Glennville,Attorney General,,R,SAMUEL S. OLENS (I),537,29,326,181,1
+Tattnall,District IV,Attorney General,,R,SAMUEL S. OLENS (I),664,31,434,198,1
+Tattnall,District V,Attorney General,,R,SAMUEL S. OLENS (I),437,23,263,151,0
+Tattnall,,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",1038,58,641,338,1
+Tattnall,Cobbtown,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",60,3,36,21,0
+Tattnall,Longview,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",12,0,11,1,0
+Tattnall,Collins,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",122,5,90,27,0
+Tattnall,Manassas,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",29,0,26,3,0
+Tattnall,District II,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",294,20,163,111,0
+Tattnall,Birdford,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",44,2,30,12,0
+Tattnall,East Glennville,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",109,7,62,40,0
+Tattnall,District IV,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",251,13,167,71,0
+Tattnall,District V,Attorney General,,D,"GREGORY K. ""GREG"" HECHT",117,8,56,52,1
+Tattnall,,Commissioner Of Agriculture,,R,GARY W. BLACK (I),3143,137,2041,961,4
+Tattnall,Cobbtown,Commissioner Of Agriculture,,R,GARY W. BLACK (I),213,7,139,67,0
+Tattnall,Longview,Commissioner Of Agriculture,,R,GARY W. BLACK (I),92,2,77,12,1
+Tattnall,Collins,Commissioner Of Agriculture,,R,GARY W. BLACK (I),320,14,242,63,1
+Tattnall,Manassas,Commissioner Of Agriculture,,R,GARY W. BLACK (I),70,3,62,5,0
+Tattnall,District II,Commissioner Of Agriculture,,R,GARY W. BLACK (I),570,17,324,229,0
+Tattnall,Birdford,Commissioner Of Agriculture,,R,GARY W. BLACK (I),225,5,174,46,0
+Tattnall,East Glennville,Commissioner Of Agriculture,,R,GARY W. BLACK (I),533,32,321,179,1
+Tattnall,District IV,Commissioner Of Agriculture,,R,GARY W. BLACK (I),678,32,439,206,1
+Tattnall,District V,Commissioner Of Agriculture,,R,GARY W. BLACK (I),442,25,263,154,0
+Tattnall,,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,1026,55,638,331,2
+Tattnall,Cobbtown,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,59,3,35,21,0
+Tattnall,Longview,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,12,0,10,2,0
+Tattnall,Collins,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,124,7,88,29,0
+Tattnall,Manassas,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,30,0,27,3,0
+Tattnall,District II,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,281,19,155,106,1
+Tattnall,Birdford,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,47,4,31,12,0
+Tattnall,East Glennville,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,112,5,66,41,0
+Tattnall,District IV,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,247,13,167,67,0
+Tattnall,District V,Commissioner Of Agriculture,,D,CHRISTOPHER JAMES IRVIN,114,4,59,50,1
+Tattnall,,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),3033,133,1974,922,4
+Tattnall,Cobbtown,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),197,6,128,63,0
+Tattnall,Longview,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),90,2,76,11,1
+Tattnall,Collins,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),308,16,234,57,1
+Tattnall,Manassas,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),68,2,61,5,0
+Tattnall,District II,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),553,17,309,227,0
+Tattnall,Birdford,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),222,5,173,44,0
+Tattnall,East Glennville,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),518,31,311,175,1
+Tattnall,District IV,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),658,31,428,198,1
+Tattnall,District V,Commissioner Of Insurance,,R,RALPH T. HUDGENS (I),419,23,254,142,0
+Tattnall,,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",1005,55,613,335,2
+Tattnall,Cobbtown,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",66,3,39,24,0
+Tattnall,Longview,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",8,0,7,1,0
+Tattnall,Collins,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",120,5,86,29,0
+Tattnall,Manassas,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",28,0,25,3,0
+Tattnall,District II,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",280,20,154,105,1
+Tattnall,Birdford,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",39,4,22,13,0
+Tattnall,East Glennville,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",102,4,60,38,0
+Tattnall,District IV,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",241,12,164,65,0
+Tattnall,District V,Commissioner Of Insurance,,D,"ELIZABETH N. ""LIZ"" JOHNSON",121,7,56,57,1
+Tattnall,,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",105,7,76,22,0
+Tattnall,Cobbtown,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",11,1,6,4,0
+Tattnall,Longview,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",3,0,3,0,0
+Tattnall,Collins,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",11,0,8,3,0
+Tattnall,Manassas,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",3,1,2,0,0
+Tattnall,District II,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",20,1,14,5,0
+Tattnall,Birdford,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",10,0,9,1,0
+Tattnall,East Glennville,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",20,1,15,4,0
+Tattnall,District IV,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",18,2,15,1,0
+Tattnall,District V,Commissioner Of Insurance,,L,"EDWARD T. ""TED"" METZ",9,1,4,4,0
+Tattnall,,State School Superintendent,,R,RICHARD L. WOODS,2971,121,1945,901,4
+Tattnall,Cobbtown,State School Superintendent,,R,RICHARD L. WOODS,198,6,127,65,0
+Tattnall,Longview,State School Superintendent,,R,RICHARD L. WOODS,86,2,72,11,1
+Tattnall,Collins,State School Superintendent,,R,RICHARD L. WOODS,295,11,227,56,1
+Tattnall,Manassas,State School Superintendent,,R,RICHARD L. WOODS,65,3,57,5,0
+Tattnall,District II,State School Superintendent,,R,RICHARD L. WOODS,532,14,298,220,0
+Tattnall,Birdford,State School Superintendent,,R,RICHARD L. WOODS,228,7,175,46,0
+Tattnall,East Glennville,State School Superintendent,,R,RICHARD L. WOODS,518,27,315,175,1
+Tattnall,District IV,State School Superintendent,,R,RICHARD L. WOODS,636,31,421,183,1
+Tattnall,District V,State School Superintendent,,R,RICHARD L. WOODS,413,20,253,140,0
+Tattnall,,State School Superintendent,,D,VALARIE D. WILSON,1204,72,743,387,2
+Tattnall,Cobbtown,State School Superintendent,,D,VALARIE D. WILSON,77,4,47,26,0
+Tattnall,Longview,State School Superintendent,,D,VALARIE D. WILSON,16,0,14,2,0
+Tattnall,Collins,State School Superintendent,,D,VALARIE D. WILSON,146,9,102,35,0
+Tattnall,Manassas,State School Superintendent,,D,VALARIE D. WILSON,34,0,31,3,0
+Tattnall,District II,State School Superintendent,,D,VALARIE D. WILSON,324,23,183,117,1
+Tattnall,Birdford,State School Superintendent,,D,VALARIE D. WILSON,46,2,32,12,0
+Tattnall,East Glennville,State School Superintendent,,D,VALARIE D. WILSON,131,10,76,45,0
+Tattnall,District IV,State School Superintendent,,D,VALARIE D. WILSON,288,14,189,85,0
+Tattnall,District V,State School Superintendent,,D,VALARIE D. WILSON,142,10,69,62,1
+Tattnall,,Commissioner Of Labor,,R,J. MARK BUTLER (I),3097,134,2009,950,4
+Tattnall,Cobbtown,Commissioner Of Labor,,R,J. MARK BUTLER (I),203,7,132,64,0
+Tattnall,Longview,Commissioner Of Labor,,R,J. MARK BUTLER (I),88,2,75,10,1
+Tattnall,Collins,Commissioner Of Labor,,R,J. MARK BUTLER (I),312,16,232,63,1
+Tattnall,Manassas,Commissioner Of Labor,,R,J. MARK BUTLER (I),71,2,64,5,0
+Tattnall,District II,Commissioner Of Labor,,R,J. MARK BUTLER (I),563,17,317,229,0
+Tattnall,Birdford,Commissioner Of Labor,,R,J. MARK BUTLER (I),227,5,175,47,0
+Tattnall,East Glennville,Commissioner Of Labor,,R,J. MARK BUTLER (I),527,31,319,176,1
+Tattnall,District IV,Commissioner Of Labor,,R,J. MARK BUTLER (I),668,31,434,202,1
+Tattnall,District V,Commissioner Of Labor,,R,J. MARK BUTLER (I),438,23,261,154,0
+Tattnall,,Commissioner Of Labor,,D,ROBBIN K. SHIPP,1046,60,656,328,2
+Tattnall,Cobbtown,Commissioner Of Labor,,D,ROBBIN K. SHIPP,71,3,42,26,0
+Tattnall,Longview,Commissioner Of Labor,,D,ROBBIN K. SHIPP,12,0,10,2,0
+Tattnall,Collins,Commissioner Of Labor,,D,ROBBIN K. SHIPP,125,5,93,27,0
+Tattnall,Manassas,Commissioner Of Labor,,D,ROBBIN K. SHIPP,28,1,24,3,0
+Tattnall,District II,Commissioner Of Labor,,D,ROBBIN K. SHIPP,289,20,161,107,1
+Tattnall,Birdford,Commissioner Of Labor,,D,ROBBIN K. SHIPP,43,4,28,11,0
+Tattnall,East Glennville,Commissioner Of Labor,,D,ROBBIN K. SHIPP,117,5,74,38,0
+Tattnall,District IV,Commissioner Of Labor,,D,ROBBIN K. SHIPP,247,14,167,66,0
+Tattnall,District V,Commissioner Of Labor,,D,ROBBIN K. SHIPP,114,8,57,48,1
+Tattnall,,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",3216,148,2083,981,4
+Tattnall,Cobbtown,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",226,9,137,80,0
+Tattnall,Longview,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",90,2,76,11,1
+Tattnall,Collins,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",321,17,241,62,1
+Tattnall,Manassas,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",69,1,62,6,0
+Tattnall,District II,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",600,20,344,236,0
+Tattnall,Birdford,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",235,9,176,50,0
+Tattnall,East Glennville,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",528,29,324,174,1
+Tattnall,District IV,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",690,34,450,205,1
+Tattnall,District V,Public Service Commission,1,R,"HERMAN D. ""DOUG"" EVERETT (I)",457,27,273,157,0
+Tattnall,,Public Service Commission,1,L,JOHN H. MONDS,620,28,405,186,1
+Tattnall,Cobbtown,Public Service Commission,1,L,JOHN H. MONDS,38,1,27,10,0
+Tattnall,Longview,Public Service Commission,1,L,JOHN H. MONDS,8,0,7,1,0
+Tattnall,Collins,Public Service Commission,1,L,JOHN H. MONDS,79,3,57,19,0
+Tattnall,Manassas,Public Service Commission,1,L,JOHN H. MONDS,21,2,18,1,0
+Tattnall,District II,Public Service Commission,1,L,JOHN H. MONDS,166,10,98,58,0
+Tattnall,Birdford,Public Service Commission,1,L,JOHN H. MONDS,26,0,21,5,0
+Tattnall,East Glennville,Public Service Commission,1,L,JOHN H. MONDS,84,3,52,29,0
+Tattnall,District IV,Public Service Commission,1,L,JOHN H. MONDS,134,7,91,36,0
+Tattnall,District V,Public Service Commission,1,L,JOHN H. MONDS,64,2,34,27,1
+Tattnall,,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",3022,135,1962,921,4
+Tattnall,Cobbtown,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",208,7,134,67,0
+Tattnall,Longview,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",89,2,75,11,1
+Tattnall,Collins,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",300,15,223,61,1
+Tattnall,Manassas,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",66,3,58,5,0
+Tattnall,District II,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",543,16,310,217,0
+Tattnall,Birdford,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",220,7,168,45,0
+Tattnall,East Glennville,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",512,28,313,170,1
+Tattnall,District IV,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",653,32,422,198,1
+Tattnall,District V,Public Service Commission,4,R,"LAUREN W. ""BUBBA"" MCDONALD (I)",431,25,259,147,0
+Tattnall,,Public Service Commission,4,D,DANIEL A. BLACKMAN,994,53,611,328,2
+Tattnall,Cobbtown,Public Service Commission,4,D,DANIEL A. BLACKMAN,57,3,35,19,0
+Tattnall,Longview,Public Service Commission,4,D,DANIEL A. BLACKMAN,9,0,8,1,0
+Tattnall,Collins,Public Service Commission,4,D,DANIEL A. BLACKMAN,119,5,88,26,0
+Tattnall,Manassas,Public Service Commission,4,D,DANIEL A. BLACKMAN,27,0,24,3,0
+Tattnall,District II,Public Service Commission,4,D,DANIEL A. BLACKMAN,291,20,156,114,1
+Tattnall,Birdford,Public Service Commission,4,D,DANIEL A. BLACKMAN,33,2,21,10,0
+Tattnall,East Glennville,Public Service Commission,4,D,DANIEL A. BLACKMAN,106,7,60,39,0
+Tattnall,District IV,Public Service Commission,4,D,DANIEL A. BLACKMAN,240,10,161,69,0
+Tattnall,District V,Public Service Commission,4,D,DANIEL A. BLACKMAN,112,6,58,47,1
+Tattnall,,Public Service Commission,4,L,ROBIN AARON GILMER,121,3,89,29,0
+Tattnall,Cobbtown,Public Service Commission,4,L,ROBIN AARON GILMER,13,0,8,5,0
+Tattnall,Longview,Public Service Commission,4,L,ROBIN AARON GILMER,3,0,3,0,0
+Tattnall,Collins,Public Service Commission,4,L,ROBIN AARON GILMER,13,0,10,3,0
+Tattnall,Manassas,Public Service Commission,4,L,ROBIN AARON GILMER,4,0,4,0,0
+Tattnall,District II,Public Service Commission,4,L,ROBIN AARON GILMER,18,1,12,5,0
+Tattnall,Birdford,Public Service Commission,4,L,ROBIN AARON GILMER,17,0,15,2,0
+Tattnall,East Glennville,Public Service Commission,4,L,ROBIN AARON GILMER,25,0,18,7,0
+Tattnall,District IV,Public Service Commission,4,L,ROBIN AARON GILMER,20,2,16,2,0
+Tattnall,District V,Public Service Commission,4,L,ROBIN AARON GILMER,8,0,3,5,0
+Tattnall,,U.S. Representative,12,R,"R.W. ""RICK"" ALLEN",2666,102,1790,770,4
+Tattnall,Cobbtown,U.S. Representative,12,R,"R.W. ""RICK"" ALLEN",193,6,120,67,0
+Tattnall,Longview,U.S. Representative,12,R,"R.W. ""RICK"" ALLEN",84,2,72,9,1
+Tattnall,Collins,U.S. Representative,12,R,"R.W. ""RICK"" ALLEN",270,12,204,53,1
+Tattnall,Manassas,U.S. Representative,12,R,"R.W. ""RICK"" ALLEN",64,3,57,4,0
+Tattnall,District II,U.S. Representative,12,R,"R.W. ""RICK"" ALLEN",462,11,277,174,0
+Tattnall,Birdford,U.S. Representative,12,R,"R.W. ""RICK"" ALLEN",207,7,163,37,0
+Tattnall,East Glennville,U.S. Representative,12,R,"R.W. ""RICK"" ALLEN",447,20,274,152,1
+Tattnall,District IV,U.S. Representative,12,R,"R.W. ""RICK"" ALLEN",570,24,390,155,1
+Tattnall,District V,U.S. Representative,12,R,"R.W. ""RICK"" ALLEN",369,17,233,119,0
+Tattnall,,U.S. Representative,12,D,JOHN J. BARROW (I),1584,98,951,534,1
+Tattnall,Cobbtown,U.S. Representative,12,D,JOHN J. BARROW (I),90,7,59,24,0
+Tattnall,Longview,U.S. Representative,12,D,JOHN J. BARROW (I),21,0,15,6,0
+Tattnall,Collins,U.S. Representative,12,D,JOHN J. BARROW (I),183,10,131,42,0
+Tattnall,Manassas,U.S. Representative,12,D,JOHN J. BARROW (I),36,0,33,3,0
+Tattnall,District II,U.S. Representative,12,D,JOHN J. BARROW (I),404,27,213,164,0
+Tattnall,Birdford,U.S. Representative,12,D,JOHN J. BARROW (I),69,2,46,21,0
+Tattnall,East Glennville,U.S. Representative,12,D,JOHN J. BARROW (I),211,16,125,70,0
+Tattnall,District IV,U.S. Representative,12,D,JOHN J. BARROW (I),369,22,231,116,0
+Tattnall,District V,U.S. Representative,12,D,JOHN J. BARROW (I),201,14,98,88,1
+Tattnall,,State Senator,4,R,JACK S. HILL (I),1542,60,1014,466,2
+Tattnall,Cobbtown,State Senator,4,R,JACK S. HILL (I),248,10,151,87,0
+Tattnall,Longview,State Senator,4,R,JACK S. HILL (I),100,2,82,15,1
+Tattnall,Collins,State Senator,4,R,JACK S. HILL (I),375,16,277,81,1
+Tattnall,Manassas,State Senator,4,R,JACK S. HILL (I),83,3,73,7,0
+Tattnall,District II,State Senator,4,R,JACK S. HILL (I),736,29,431,276,0
+Tattnall,,State Senator,19,R,TOMMIE A. WILLIAMS (I),1978,90,1285,601,2
+Tattnall,Birdford,State Senator,19,R,TOMMIE A. WILLIAMS (I),239,6,187,46,0
+Tattnall,East Glennville,State Senator,19,R,TOMMIE A. WILLIAMS (I),552,27,342,182,1
+Tattnall,District IV,State Senator,19,R,TOMMIE A. WILLIAMS (I),725,31,480,213,1
+Tattnall,District V,State Senator,19,R,TOMMIE A. WILLIAMS (I),462,26,276,160,0
+Tattnall,,State Representative,157,R,"WILLIAM A. ""BILL"" WERKHEISER",3086,134,2008,940,4
+Tattnall,Cobbtown,State Representative,157,R,"WILLIAM A. ""BILL"" WERKHEISER",203,5,130,68,0
+Tattnall,Longview,State Representative,157,R,"WILLIAM A. ""BILL"" WERKHEISER",91,2,76,12,1
+Tattnall,Collins,State Representative,157,R,"WILLIAM A. ""BILL"" WERKHEISER",314,15,236,62,1
+Tattnall,Manassas,State Representative,157,R,"WILLIAM A. ""BILL"" WERKHEISER",65,3,58,4,0
+Tattnall,District II,State Representative,157,R,"WILLIAM A. ""BILL"" WERKHEISER",544,15,311,218,0
+Tattnall,Birdford,State Representative,157,R,"WILLIAM A. ""BILL"" WERKHEISER",241,7,188,46,0
+Tattnall,East Glennville,State Representative,157,R,"WILLIAM A. ""BILL"" WERKHEISER",528,28,321,178,1
+Tattnall,District IV,State Representative,157,R,"WILLIAM A. ""BILL"" WERKHEISER",671,34,430,206,1
+Tattnall,District V,State Representative,157,R,"WILLIAM A. ""BILL"" WERKHEISER",429,25,258,146,0
+Tattnall,,State Representative,157,D,SADIE J. JENKINS,1061,57,665,337,2
+Tattnall,Cobbtown,State Representative,157,D,SADIE J. JENKINS,74,4,47,23,0
+Tattnall,Longview,State Representative,157,D,SADIE J. JENKINS,10,0,9,1,0
+Tattnall,Collins,State Representative,157,D,SADIE J. JENKINS,124,6,88,30,0
+Tattnall,Manassas,State Representative,157,D,SADIE J. JENKINS,29,0,26,3,0
+Tattnall,District II,State Representative,157,D,SADIE J. JENKINS,303,22,171,109,1
+Tattnall,Birdford,State Representative,157,D,SADIE J. JENKINS,35,2,21,12,0
+Tattnall,East Glennville,State Representative,157,D,SADIE J. JENKINS,119,8,71,40,0
+Tattnall,District IV,State Representative,157,D,SADIE J. JENKINS,245,9,170,66,0
+Tattnall,District V,State Representative,157,D,SADIE J. JENKINS,122,6,62,53,1
+Tattnall,,DISTRICT ATTORNEY,,D,J. TOM DURDEN (I),3138,149,2009,978,2
+Tattnall,Cobbtown,DISTRICT ATTORNEY,,D,J. TOM DURDEN (I),195,8,121,66,0
+Tattnall,Longview,DISTRICT ATTORNEY,,D,J. TOM DURDEN (I),73,1,63,9,0
+Tattnall,Collins,DISTRICT ATTORNEY,,D,J. TOM DURDEN (I),320,14,231,74,1
+Tattnall,Manassas,DISTRICT ATTORNEY,,D,J. TOM DURDEN (I),80,3,70,7,0
+Tattnall,District II,DISTRICT ATTORNEY,,D,J. TOM DURDEN (I),677,37,389,250,1
+Tattnall,Birdford,DISTRICT ATTORNEY,,D,J. TOM DURDEN (I),190,4,137,49,0
+Tattnall,East Glennville,DISTRICT ATTORNEY,,D,J. TOM DURDEN (I),469,24,288,157,0
+Tattnall,District IV,DISTRICT ATTORNEY,,D,J. TOM DURDEN (I),727,34,481,212,0
+Tattnall,District V,DISTRICT ATTORNEY,,D,J. TOM DURDEN (I),407,24,229,154,0
+Tattnall,,SOLICITOR GENERAL,,R,JOE G. SKEENS (I),3482,146,2270,1062,4
+Tattnall,Cobbtown,SOLICITOR GENERAL,,R,JOE G. SKEENS (I),242,10,147,85,0
+Tattnall,Longview,SOLICITOR GENERAL,,R,JOE G. SKEENS (I),98,2,82,13,1
+Tattnall,Collins,SOLICITOR GENERAL,,R,JOE G. SKEENS (I),350,16,257,76,1
+Tattnall,Manassas,SOLICITOR GENERAL,,R,JOE G. SKEENS (I),78,3,69,6,0
+Tattnall,District II,SOLICITOR GENERAL,,R,JOE G. SKEENS (I),692,27,398,267,0
+Tattnall,Birdford,SOLICITOR GENERAL,,R,JOE G. SKEENS (I),242,6,191,45,0
+Tattnall,East Glennville,SOLICITOR GENERAL,,R,JOE G. SKEENS (I),563,28,348,186,1
+Tattnall,District IV,SOLICITOR GENERAL,,R,JOE G. SKEENS (I),747,28,498,220,1
+Tattnall,District V,SOLICITOR GENERAL,,R,JOE G. SKEENS (I),470,26,280,164,0
+Tattnall,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,3103,145,1981,974,3
+Tattnall,Cobbtown,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,208,8,129,71,0
+Tattnall,Longview,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,80,2,67,11,0
+Tattnall,Collins,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,323,19,238,65,1
+Tattnall,Manassas,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,69,2,61,6,0
+Tattnall,District II,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,617,26,346,244,1
+Tattnall,Birdford,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,202,6,154,42,0
+Tattnall,East Glennville,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,511,29,304,177,1
+Tattnall,District IV,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,662,30,430,202,0
+Tattnall,District V,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,YES,431,23,252,156,0
+Tattnall,,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,1023,46,670,305,2
+Tattnall,Cobbtown,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,66,2,43,21,0
+Tattnall,Longview,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,21,0,17,3,1
+Tattnall,Collins,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,117,1,88,28,0
+Tattnall,Manassas,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,28,1,26,1,0
+Tattnall,District II,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,233,12,137,84,0
+Tattnall,Birdford,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,63,3,47,13,0
+Tattnall,East Glennville,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,134,9,81,44,0
+Tattnall,District IV,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,238,12,162,64,0
+Tattnall,District V,Constitutional Amendment #1<br>Shall the Constitution of Georgia be amended to prohibit the General Assembly from increasing the maximum state income tax rate?,,R,NO,123,6,69,47,1
+Tattnall,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,2763,132,1714,913,4
+Tattnall,Cobbtown,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,189,8,116,65,0
+Tattnall,Longview,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,65,0,54,11,0
+Tattnall,Collins,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,276,12,200,63,1
+Tattnall,Manassas,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,65,1,60,4,0
+Tattnall,District II,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,594,27,321,245,1
+Tattnall,Birdford,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,174,6,131,37,0
+Tattnall,East Glennville,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,438,29,259,149,1
+Tattnall,District IV,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,588,33,363,191,1
+Tattnall,District V,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,YES,374,16,210,148,0
+Tattnall,,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,1271,50,875,344,2
+Tattnall,Cobbtown,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,82,2,53,27,0
+Tattnall,Longview,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,34,0,29,4,1
+Tattnall,Collins,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,148,5,117,26,0
+Tattnall,Manassas,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,33,2,28,3,0
+Tattnall,District II,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,250,11,153,86,0
+Tattnall,Birdford,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,79,1,62,16,0
+Tattnall,East Glennville,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,191,8,120,63,0
+Tattnall,District IV,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,284,8,211,65,0
+Tattnall,District V,Constitutional Amendment #2<br>Shall the Constitution of Georgia be amended to allow additional reckless driving penalties or fees to be added to the Brain and Spinal Injury Trust Fund to pay for care and rehabilitative services for Georgia citizens who have survived neurotrauma with head or spinal cord injuries?,,R,NO,170,13,102,54,1
+Tattnall,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,2802,126,1761,911,4
+Tattnall,Cobbtown,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,174,9,104,61,0
+Tattnall,Longview,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,64,0,53,10,1
+Tattnall,Collins,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,274,15,189,69,1
+Tattnall,Manassas,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,62,2,56,4,0
+Tattnall,District II,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,594,24,326,244,0
+Tattnall,Birdford,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,182,4,137,41,0
+Tattnall,East Glennville,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,454,31,270,152,1
+Tattnall,District IV,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,621,25,408,188,0
+Tattnall,District V,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,YES,377,16,218,142,1
+Tattnall,,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,1224,56,833,334,1
+Tattnall,Cobbtown,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,94,1,64,29,0
+Tattnall,Longview,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,36,1,31,4,0
+Tattnall,Collins,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,154,4,131,19,0
+Tattnall,Manassas,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,29,1,26,2,0
+Tattnall,District II,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,245,13,151,80,1
+Tattnall,Birdford,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,72,3,55,14,0
+Tattnall,East Glennville,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,178,5,110,63,0
+Tattnall,District IV,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,253,15,171,67,0
+Tattnall,District V,Statewide Referendum A<br>Shall property owned by the University System of Georgia and utilized by providers of college and university student housing and other facilities continue to be exempt from taxation to keep costs affordable?,,R,NO,163,13,94,56,0
+Tattnall,,SPECIAL - CC,,R,DOUGLAS DIXON,1536,76,1008,451,1
+Tattnall,Cobbtown,SPECIAL - CC,,R,DOUGLAS DIXON,110,4,68,38,0
+Tattnall,Longview,SPECIAL - CC,,R,DOUGLAS DIXON,35,0,30,5,0
+Tattnall,Collins,SPECIAL - CC,,R,DOUGLAS DIXON,123,8,90,25,0
+Tattnall,Manassas,SPECIAL - CC,,R,DOUGLAS DIXON,41,0,37,4,0
+Tattnall,District II,SPECIAL - CC,,R,DOUGLAS DIXON,184,7,99,78,0
+Tattnall,Birdford,SPECIAL - CC,,R,DOUGLAS DIXON,129,4,104,21,0
+Tattnall,East Glennville,SPECIAL - CC,,R,DOUGLAS DIXON,320,21,194,104,1
+Tattnall,District IV,SPECIAL - CC,,R,DOUGLAS DIXON,384,17,258,109,0
+Tattnall,District V,SPECIAL - CC,,R,DOUGLAS DIXON,210,15,128,67,0
+Tattnall,,SPECIAL - CC,,R,ASHLEY DURRENCE,1520,59,940,520,1
+Tattnall,Cobbtown,SPECIAL - CC,,R,ASHLEY DURRENCE,81,3,49,29,0
+Tattnall,Longview,SPECIAL - CC,,R,ASHLEY DURRENCE,24,0,19,4,1
+Tattnall,Collins,SPECIAL - CC,,R,ASHLEY DURRENCE,102,5,68,29,0
+Tattnall,Manassas,SPECIAL - CC,,R,ASHLEY DURRENCE,26,1,25,0,0
+Tattnall,District II,SPECIAL - CC,,R,ASHLEY DURRENCE,429,13,247,169,0
+Tattnall,Birdford,SPECIAL - CC,,R,ASHLEY DURRENCE,89,3,64,22,0
+Tattnall,East Glennville,SPECIAL - CC,,R,ASHLEY DURRENCE,208,11,118,79,0
+Tattnall,District IV,SPECIAL - CC,,R,ASHLEY DURRENCE,327,16,214,97,0
+Tattnall,District V,SPECIAL - CC,,R,ASHLEY DURRENCE,234,7,136,91,0
+Tattnall,,SPECIAL - CC,,R,ROBERT KIM LYNN,971,51,633,283,4
+Tattnall,Cobbtown,SPECIAL - CC,,R,ROBERT KIM LYNN,75,3,47,25,0
+Tattnall,Longview,SPECIAL - CC,,R,ROBERT KIM LYNN,44,2,36,6,0
+Tattnall,Collins,SPECIAL - CC,,R,ROBERT KIM LYNN,198,9,154,34,1
+Tattnall,Manassas,SPECIAL - CC,,R,ROBERT KIM LYNN,27,2,22,3,0
+Tattnall,District II,SPECIAL - CC,,R,ROBERT KIM LYNN,215,15,122,77,1
+Tattnall,Birdford,SPECIAL - CC,,R,ROBERT KIM LYNN,50,2,36,12,0
+Tattnall,East Glennville,SPECIAL - CC,,R,ROBERT KIM LYNN,104,3,70,31,0
+Tattnall,District IV,SPECIAL - CC,,R,ROBERT KIM LYNN,152,7,93,51,1
+Tattnall,District V,SPECIAL - CC,,R,ROBERT KIM LYNN,106,8,53,44,1

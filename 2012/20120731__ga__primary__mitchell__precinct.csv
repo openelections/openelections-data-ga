@@ -1,0 +1,915 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Mitchell,,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),398,12,237,147,2
+Mitchell,Baconton,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),46,0,39,7,0
+Mitchell,Branchville,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),30,0,23,7,0
+Mitchell,Camilla North,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),35,0,11,23,1
+Mitchell,Camilla South,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),138,6,55,76,1
+Mitchell,Cotton,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),16,1,14,1,0
+Mitchell,Hopeful,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),4,0,2,2,0
+Mitchell,Hisonton,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),2,0,2,0,0
+Mitchell,Lester,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),78,0,69,9,0
+Mitchell,Pebble City,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),10,0,9,1,0
+Mitchell,Pelham,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),33,5,7,21,0
+Mitchell,Sale City,"Public Service Commission, District 3",3,REP,CHUCK EATON (I),6,0,6,0,0
+Mitchell,,"Public Service Commission, District 3",3,REP,MATT REID,178,10,112,56,0
+Mitchell,Baconton,"Public Service Commission, District 3",3,REP,MATT REID,25,0,19,6,0
+Mitchell,Branchville,"Public Service Commission, District 3",3,REP,MATT REID,10,1,8,1,0
+Mitchell,Camilla North,"Public Service Commission, District 3",3,REP,MATT REID,16,1,9,6,0
+Mitchell,Camilla South,"Public Service Commission, District 3",3,REP,MATT REID,44,3,16,25,0
+Mitchell,Cotton,"Public Service Commission, District 3",3,REP,MATT REID,7,0,7,0,0
+Mitchell,Hopeful,"Public Service Commission, District 3",3,REP,MATT REID,3,0,3,0,0
+Mitchell,Hisonton,"Public Service Commission, District 3",3,REP,MATT REID,4,0,4,0,0
+Mitchell,Lester,"Public Service Commission, District 3",3,REP,MATT REID,35,1,30,4,0
+Mitchell,Pebble City,"Public Service Commission, District 3",3,REP,MATT REID,11,1,9,1,0
+Mitchell,Pelham,"Public Service Commission, District 3",3,REP,MATT REID,16,3,1,12,0
+Mitchell,Sale City,"Public Service Commission, District 3",3,REP,MATT REID,7,0,6,1,0
+Mitchell,,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,2502,134,1655,710,3
+Mitchell,Baconton,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,168,7,135,26,0
+Mitchell,Branchville,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,134,5,95,33,1
+Mitchell,Camilla North,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,396,28,244,124,0
+Mitchell,Camilla South,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,696,38,320,336,2
+Mitchell,Cotton,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,110,0,98,12,0
+Mitchell,Hopeful,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,85,0,69,16,0
+Mitchell,Hisonton,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,53,0,52,1,0
+Mitchell,Lester,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,109,4,84,21,0
+Mitchell,Pebble City,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,40,2,30,8,0
+Mitchell,Pelham,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,629,50,452,127,0
+Mitchell,Sale City,"Public Service Commission, District 3",3,DEM,STEPHEN OPPENHEIMER,82,0,76,6,0
+Mitchell,,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,240,11,146,82,1
+Mitchell,Baconton,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,31,0,23,8,0
+Mitchell,Branchville,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,13,0,10,3,0
+Mitchell,Camilla North,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,22,1,11,10,0
+Mitchell,Camilla South,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,58,2,20,35,1
+Mitchell,Cotton,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,10,0,10,0,0
+Mitchell,Hopeful,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,4,0,4,0,0
+Mitchell,Hisonton,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,4,0,4,0,0
+Mitchell,Lester,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,49,1,40,8,0
+Mitchell,Pebble City,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,13,1,11,1,0
+Mitchell,Pelham,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,26,6,4,16,0
+Mitchell,Sale City,"Public Service Commission, District 5",5,REP,PAM DAVIDSON,10,0,9,1,0
+Mitchell,,"Public Service Commission, District 5",5,REP,STAN WISE (I),337,11,204,121,1
+Mitchell,Baconton,"Public Service Commission, District 5",5,REP,STAN WISE (I),39,0,34,5,0
+Mitchell,Branchville,"Public Service Commission, District 5",5,REP,STAN WISE (I),29,1,22,6,0
+Mitchell,Camilla North,"Public Service Commission, District 5",5,REP,STAN WISE (I),27,0,8,18,1
+Mitchell,Camilla South,"Public Service Commission, District 5",5,REP,STAN WISE (I),121,7,49,65,0
+Mitchell,Cotton,"Public Service Commission, District 5",5,REP,STAN WISE (I),14,1,12,1,0
+Mitchell,Hopeful,"Public Service Commission, District 5",5,REP,STAN WISE (I),4,0,2,2,0
+Mitchell,Hisonton,"Public Service Commission, District 5",5,REP,STAN WISE (I),3,0,3,0,0
+Mitchell,Lester,"Public Service Commission, District 5",5,REP,STAN WISE (I),65,0,59,6,0
+Mitchell,Pebble City,"Public Service Commission, District 5",5,REP,STAN WISE (I),9,0,8,1,0
+Mitchell,Pelham,"Public Service Commission, District 5",5,REP,STAN WISE (I),23,2,4,17,0
+Mitchell,Sale City,"Public Service Commission, District 5",5,REP,STAN WISE (I),3,0,3,0,0
+Mitchell,,"U.S. Representative, District 2",2,REP,RICK ALLEN,257,7,158,90,2
+Mitchell,Baconton,"U.S. Representative, District 2",2,REP,RICK ALLEN,35,0,33,2,0
+Mitchell,Branchville,"U.S. Representative, District 2",2,REP,RICK ALLEN,22,0,15,7,0
+Mitchell,Camilla North,"U.S. Representative, District 2",2,REP,RICK ALLEN,13,0,3,9,1
+Mitchell,Camilla South,"U.S. Representative, District 2",2,REP,RICK ALLEN,78,2,31,44,1
+Mitchell,Cotton,"U.S. Representative, District 2",2,REP,RICK ALLEN,11,1,9,1,0
+Mitchell,Hopeful,"U.S. Representative, District 2",2,REP,RICK ALLEN,3,0,1,2,0
+Mitchell,Hisonton,"U.S. Representative, District 2",2,REP,RICK ALLEN,3,0,3,0,0
+Mitchell,Lester,"U.S. Representative, District 2",2,REP,RICK ALLEN,52,0,46,6,0
+Mitchell,Pebble City,"U.S. Representative, District 2",2,REP,RICK ALLEN,8,0,7,1,0
+Mitchell,Pelham,"U.S. Representative, District 2",2,REP,RICK ALLEN,24,4,3,17,0
+Mitchell,Sale City,"U.S. Representative, District 2",2,REP,RICK ALLEN,8,0,7,1,0
+Mitchell,,"U.S. Representative, District 2",2,REP,KEN DELOACH,164,8,107,49,0
+Mitchell,Baconton,"U.S. Representative, District 2",2,REP,KEN DELOACH,20,0,14,6,0
+Mitchell,Branchville,"U.S. Representative, District 2",2,REP,KEN DELOACH,8,0,6,2,0
+Mitchell,Camilla North,"U.S. Representative, District 2",2,REP,KEN DELOACH,18,1,9,8,0
+Mitchell,Camilla South,"U.S. Representative, District 2",2,REP,KEN DELOACH,43,3,18,22,0
+Mitchell,Cotton,"U.S. Representative, District 2",2,REP,KEN DELOACH,9,0,9,0,0
+Mitchell,Hopeful,"U.S. Representative, District 2",2,REP,KEN DELOACH,1,0,1,0,0
+Mitchell,Hisonton,"U.S. Representative, District 2",2,REP,KEN DELOACH,3,0,3,0,0
+Mitchell,Lester,"U.S. Representative, District 2",2,REP,KEN DELOACH,42,1,37,4,0
+Mitchell,Pebble City,"U.S. Representative, District 2",2,REP,KEN DELOACH,6,0,6,0,0
+Mitchell,Pelham,"U.S. Representative, District 2",2,REP,KEN DELOACH,11,3,1,7,0
+Mitchell,Sale City,"U.S. Representative, District 2",2,REP,KEN DELOACH,3,0,3,0,0
+Mitchell,,"U.S. Representative, District 2",2,REP,JOHN HOUSE,153,6,87,60,0
+Mitchell,Baconton,"U.S. Representative, District 2",2,REP,JOHN HOUSE,17,0,12,5,0
+Mitchell,Branchville,"U.S. Representative, District 2",2,REP,JOHN HOUSE,10,1,9,0,0
+Mitchell,Camilla North,"U.S. Representative, District 2",2,REP,JOHN HOUSE,21,0,8,13,0
+Mitchell,Camilla South,"U.S. Representative, District 2",2,REP,JOHN HOUSE,51,3,19,29,0
+Mitchell,Cotton,"U.S. Representative, District 2",2,REP,JOHN HOUSE,6,0,5,1,0
+Mitchell,Hopeful,"U.S. Representative, District 2",2,REP,JOHN HOUSE,6,0,6,0,0
+Mitchell,Hisonton,"U.S. Representative, District 2",2,REP,JOHN HOUSE,1,0,1,0,0
+Mitchell,Lester,"U.S. Representative, District 2",2,REP,JOHN HOUSE,22,0,18,4,0
+Mitchell,Pebble City,"U.S. Representative, District 2",2,REP,JOHN HOUSE,5,0,4,1,0
+Mitchell,Pelham,"U.S. Representative, District 2",2,REP,JOHN HOUSE,13,2,4,7,0
+Mitchell,Sale City,"U.S. Representative, District 2",2,REP,JOHN HOUSE,1,0,1,0,0
+Mitchell,,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),2853,156,1866,828,3
+Mitchell,Baconton,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),187,9,153,25,0
+Mitchell,Branchville,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),134,5,96,32,1
+Mitchell,Camilla North,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),546,28,348,170,0
+Mitchell,Camilla South,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),799,45,383,369,2
+Mitchell,Cotton,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),99,0,89,10,0
+Mitchell,Hopeful,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),85,0,63,22,0
+Mitchell,Hisonton,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),42,0,41,1,0
+Mitchell,Lester,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),108,4,84,20,0
+Mitchell,Pebble City,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),31,1,21,9,0
+Mitchell,Pelham,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),732,64,506,162,0
+Mitchell,Sale City,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I),90,0,82,8,0
+Mitchell,,"State Senator, District 11",11,REP,JOHN BULLOCH (I),270,12,200,58,0
+Mitchell,Branchville,"State Senator, District 11",11,REP,JOHN BULLOCH (I),37,1,27,9,0
+Mitchell,Cotton,"State Senator, District 11",11,REP,JOHN BULLOCH (I),27,1,24,2,0
+Mitchell,Hopeful,"State Senator, District 11",11,REP,JOHN BULLOCH (I),9,0,7,2,0
+Mitchell,Hisonton,"State Senator, District 11",11,REP,JOHN BULLOCH (I),6,0,6,0,0
+Mitchell,Lester,"State Senator, District 11",11,REP,JOHN BULLOCH (I),109,1,96,12,0
+Mitchell,Pebble City,"State Senator, District 11",11,REP,JOHN BULLOCH (I),23,1,20,2,0
+Mitchell,Pelham,"State Senator, District 11",11,REP,JOHN BULLOCH (I),46,8,8,30,0
+Mitchell,Sale City,"State Senator, District 11",11,REP,JOHN BULLOCH (I),13,0,12,1,0
+Mitchell,,"State Senator, District 12",12,DEM,F. POWELL SIMS (I),1247,74,698,475,0
+Mitchell,Baconton,"State Senator, District 12",12,DEM,F. POWELL SIMS (I),166,8,133,25,0
+Mitchell,Camilla North,"State Senator, District 12",12,DEM,F. POWELL SIMS (I),409,28,248,133,0
+Mitchell,Camilla South,"State Senator, District 12",12,DEM,F. POWELL SIMS (I),672,38,317,317,0
+Mitchell,,"State Representative, District 171",171,REP,JAY POWELL (I),554,19,336,197,2
+Mitchell,Baconton,"State Representative, District 171",171,REP,JAY POWELL (I),69,0,57,12,0
+Mitchell,Branchville,"State Representative, District 171",171,REP,JAY POWELL (I),35,1,27,7,0
+Mitchell,Camilla North,"State Representative, District 171",171,REP,JAY POWELL (I),47,0,18,28,1
+Mitchell,Camilla South,"State Representative, District 171",171,REP,JAY POWELL (I),181,8,71,101,1
+Mitchell,Cotton,"State Representative, District 171",171,REP,JAY POWELL (I),25,1,23,1,0
+Mitchell,Hopeful,"State Representative, District 171",171,REP,JAY POWELL (I),7,0,5,2,0
+Mitchell,Hisonton,"State Representative, District 171",171,REP,JAY POWELL (I),7,0,7,0,0
+Mitchell,Lester,"State Representative, District 171",171,REP,JAY POWELL (I),106,1,91,14,0
+Mitchell,Pebble City,"State Representative, District 171",171,REP,JAY POWELL (I),23,1,20,2,0
+Mitchell,Pelham,"State Representative, District 171",171,REP,JAY POWELL (I),43,7,7,29,0
+Mitchell,Sale City,"State Representative, District 171",171,REP,JAY POWELL (I),11,0,10,1,0
+Mitchell,,"State Representative, District 171",171,DEM,JEWELL D. HOWARD,2539,150,1669,717,3
+Mitchell,Baconton,"State Representative, District 171",171,DEM,JEWELL D. HOWARD,173,7,137,29,0
+Mitchell,Branchville,"State Representative, District 171",171,DEM,JEWELL D. HOWARD,129,5,93,30,1
+Mitchell,Camilla North,"State Representative, District 171",171,DEM,JEWELL D. HOWARD,457,27,289,141,0
+Mitchell,Camilla South,"State Representative, District 171",171,DEM,JEWELL D. HOWARD,695,41,332,320,2
+Mitchell,Cotton,"State Representative, District 171",171,DEM,JEWELL D. HOWARD,105,0,94,11,0
+Mitchell,Hopeful,"State Representative, District 171",171,DEM,JEWELL D. HOWARD,75,0,58,17,0
+Mitchell,Hisonton,"State Representative, District 171",171,DEM,JEWELL D. HOWARD,46,0,45,1,0
+Mitchell,Lester,"State Representative, District 171",171,DEM,JEWELL D. HOWARD,110,4,90,16,0
+Mitchell,Pebble City,"State Representative, District 171",171,DEM,JEWELL D. HOWARD,36,2,27,7,0
+Mitchell,Pelham,"State Representative, District 171",171,DEM,JEWELL D. HOWARD,635,64,432,139,0
+Mitchell,Sale City,"State Representative, District 171",171,DEM,JEWELL D. HOWARD,78,0,72,6,0
+Mitchell,,"District Attorney, South Georgia Circuit", South Georgia Circuit - DEM,DEM,JOE MULHOLLAND (I),2684,135,1776,770,3
+Mitchell,Baconton,"District Attorney, South Georgia Circuit", South Georgia Circuit - DEM,DEM,JOE MULHOLLAND (I),181,6,142,33,0
+Mitchell,Branchville,"District Attorney, South Georgia Circuit", South Georgia Circuit - DEM,DEM,JOE MULHOLLAND (I),143,5,102,35,1
+Mitchell,Camilla North,"District Attorney, South Georgia Circuit", South Georgia Circuit - DEM,DEM,JOE MULHOLLAND (I),416,28,259,129,0
+Mitchell,Camilla South,"District Attorney, South Georgia Circuit", South Georgia Circuit - DEM,DEM,JOE MULHOLLAND (I),759,40,351,366,2
+Mitchell,Cotton,"District Attorney, South Georgia Circuit", South Georgia Circuit - DEM,DEM,JOE MULHOLLAND (I),113,0,103,10,0
+Mitchell,Hopeful,"District Attorney, South Georgia Circuit", South Georgia Circuit - DEM,DEM,JOE MULHOLLAND (I),89,0,69,20,0
+Mitchell,Hisonton,"District Attorney, South Georgia Circuit", South Georgia Circuit - DEM,DEM,JOE MULHOLLAND (I),53,0,52,1,0
+Mitchell,Lester,"District Attorney, South Georgia Circuit", South Georgia Circuit - DEM,DEM,JOE MULHOLLAND (I),111,4,88,19,0
+Mitchell,Pebble City,"District Attorney, South Georgia Circuit", South Georgia Circuit - DEM,DEM,JOE MULHOLLAND (I),45,2,32,11,0
+Mitchell,Pelham,"District Attorney, South Georgia Circuit", South Georgia Circuit - DEM,DEM,JOE MULHOLLAND (I),687,50,498,139,0
+Mitchell,Sale City,"District Attorney, South Georgia Circuit", South Georgia Circuit - DEM,DEM,JOE MULHOLLAND (I),87,0,80,7,0
+Mitchell,,"CLERK, SUPERIOR COURT", SUPERIOR COURT - D,,ADAYNA B. BROOME ,2918,141,1929,845,3
+Mitchell,Baconton,"CLERK, SUPERIOR COURT", SUPERIOR COURT - D,,ADAYNA B. BROOME ,193,7,151,35,0
+Mitchell,Branchville,"CLERK, SUPERIOR COURT", SUPERIOR COURT - D,,ADAYNA B. BROOME ,150,5,103,41,1
+Mitchell,Camilla North,"CLERK, SUPERIOR COURT", SUPERIOR COURT - D,,ADAYNA B. BROOME ,457,28,285,144,0
+Mitchell,Camilla South,"CLERK, SUPERIOR COURT", SUPERIOR COURT - D,,ADAYNA B. BROOME ,832,40,399,391,2
+Mitchell,Cotton,"CLERK, SUPERIOR COURT", SUPERIOR COURT - D,,ADAYNA B. BROOME ,126,0,112,14,0
+Mitchell,Hopeful,"CLERK, SUPERIOR COURT", SUPERIOR COURT - D,,ADAYNA B. BROOME ,99,0,78,21,0
+Mitchell,Hisonton,"CLERK, SUPERIOR COURT", SUPERIOR COURT - D,,ADAYNA B. BROOME ,55,0,54,1,0
+Mitchell,Lester,"CLERK, SUPERIOR COURT", SUPERIOR COURT - D,,ADAYNA B. BROOME ,125,4,98,23,0
+Mitchell,Pebble City,"CLERK, SUPERIOR COURT", SUPERIOR COURT - D,,ADAYNA B. BROOME ,52,2,36,14,0
+Mitchell,Pelham,"CLERK, SUPERIOR COURT", SUPERIOR COURT - D,,ADAYNA B. BROOME ,733,55,526,152,0
+Mitchell,Sale City,"CLERK, SUPERIOR COURT", SUPERIOR COURT - D,,ADAYNA B. BROOME ,96,0,87,9,0
+Mitchell,,SHERIFF,,,"""BEECH"" WILLIAMS",430,16,260,152,2
+Mitchell,Baconton,SHERIFF,,,"""BEECH"" WILLIAMS",49,0,40,9,0
+Mitchell,Branchville,SHERIFF,,,"""BEECH"" WILLIAMS",29,1,21,7,0
+Mitchell,Camilla North,SHERIFF,,,"""BEECH"" WILLIAMS",39,0,15,23,1
+Mitchell,Camilla South,SHERIFF,,,"""BEECH"" WILLIAMS",129,7,47,74,1
+Mitchell,Cotton,SHERIFF,,,"""BEECH"" WILLIAMS",20,1,19,0,0
+Mitchell,Hopeful,SHERIFF,,,"""BEECH"" WILLIAMS",6,0,4,2,0
+Mitchell,Hisonton,SHERIFF,,,"""BEECH"" WILLIAMS",6,0,6,0,0
+Mitchell,Lester,SHERIFF,,,"""BEECH"" WILLIAMS",90,0,80,10,0
+Mitchell,Pebble City,SHERIFF,,,"""BEECH"" WILLIAMS",16,1,13,2,0
+Mitchell,Pelham,SHERIFF,,,"""BEECH"" WILLIAMS",37,6,6,25,0
+Mitchell,Sale City,SHERIFF,,,"""BEECH"" WILLIAMS",9,0,9,0,0
+Mitchell,,SHERIFF,,,W. E. BOZEMAN ,3088,140,2063,882,3
+Mitchell,Baconton,SHERIFF,,,W. E. BOZEMAN ,209,7,163,39,0
+Mitchell,Branchville,SHERIFF,,,W. E. BOZEMAN ,144,5,101,37,1
+Mitchell,Camilla North,SHERIFF,,,W. E. BOZEMAN ,498,26,320,152,0
+Mitchell,Camilla South,SHERIFF,,,W. E. BOZEMAN ,859,39,417,401,2
+Mitchell,Cotton,SHERIFF,,,W. E. BOZEMAN ,127,0,114,13,0
+Mitchell,Hopeful,SHERIFF,,,W. E. BOZEMAN ,109,0,86,23,0
+Mitchell,Hisonton,SHERIFF,,,W. E. BOZEMAN ,60,0,59,1,0
+Mitchell,Lester,SHERIFF,,,W. E. BOZEMAN ,140,4,109,27,0
+Mitchell,Pebble City,SHERIFF,,,W. E. BOZEMAN ,52,2,37,13,0
+Mitchell,Pelham,SHERIFF,,,W. E. BOZEMAN ,785,57,564,164,0
+Mitchell,Sale City,SHERIFF,,,W. E. BOZEMAN ,105,0,93,12,0
+Mitchell,,TAX COMMISSIONER,,,LYNN BUFFORD,436,15,273,146,2
+Mitchell,Baconton,TAX COMMISSIONER,,,LYNN BUFFORD,57,0,47,10,0
+Mitchell,Branchville,TAX COMMISSIONER,,,LYNN BUFFORD,31,1,24,6,0
+Mitchell,Camilla North,TAX COMMISSIONER,,,LYNN BUFFORD,38,0,14,23,1
+Mitchell,Camilla South,TAX COMMISSIONER,,,LYNN BUFFORD,123,6,46,70,1
+Mitchell,Cotton,TAX COMMISSIONER,,,LYNN BUFFORD,22,1,20,1,0
+Mitchell,Hopeful,TAX COMMISSIONER,,,LYNN BUFFORD,4,0,3,1,0
+Mitchell,Hisonton,TAX COMMISSIONER,,,LYNN BUFFORD,6,0,6,0,0
+Mitchell,Lester,TAX COMMISSIONER,,,LYNN BUFFORD,94,1,81,12,0
+Mitchell,Pebble City,TAX COMMISSIONER,,,LYNN BUFFORD,17,1,15,1,0
+Mitchell,Pelham,TAX COMMISSIONER,,,LYNN BUFFORD,34,5,7,22,0
+Mitchell,Sale City,TAX COMMISSIONER,,,LYNN BUFFORD,10,0,10,0,0
+Mitchell,,TAX COMMISSIONER,,,JACKIE B. BATCHELOR,2519,161,1693,663,2
+Mitchell,Baconton,TAX COMMISSIONER,,,JACKIE B. BATCHELOR,133,7,110,16,0
+Mitchell,Branchville,TAX COMMISSIONER,,,JACKIE B. BATCHELOR,132,5,98,28,1
+Mitchell,Camilla North,TAX COMMISSIONER,,,JACKIE B. BATCHELOR,366,23,228,115,0
+Mitchell,Camilla South,TAX COMMISSIONER,,,JACKIE B. BATCHELOR,675,46,329,299,1
+Mitchell,Cotton,TAX COMMISSIONER,,,JACKIE B. BATCHELOR,95,0,85,10,0
+Mitchell,Hopeful,TAX COMMISSIONER,,,JACKIE B. BATCHELOR,97,1,82,14,0
+Mitchell,Hisonton,TAX COMMISSIONER,,,JACKIE B. BATCHELOR,45,0,44,1,0
+Mitchell,Lester,TAX COMMISSIONER,,,JACKIE B. BATCHELOR,113,4,84,25,0
+Mitchell,Pebble City,TAX COMMISSIONER,,,JACKIE B. BATCHELOR,34,2,22,10,0
+Mitchell,Pelham,TAX COMMISSIONER,,,JACKIE B. BATCHELOR,748,73,537,138,0
+Mitchell,Sale City,TAX COMMISSIONER,,,JACKIE B. BATCHELOR,81,0,74,7,0
+Mitchell,,TAX COMMISSIONER,,,TOMMY R. SANGSTER,1019,23,651,344,1
+Mitchell,Baconton,TAX COMMISSIONER,,,TOMMY R. SANGSTER,103,2,74,27,0
+Mitchell,Branchville,TAX COMMISSIONER,,,TOMMY R. SANGSTER,51,0,36,15,0
+Mitchell,Camilla North,TAX COMMISSIONER,,,TOMMY R. SANGSTER,184,5,114,65,0
+Mitchell,Camilla South,TAX COMMISSIONER,,,TOMMY R. SANGSTER,303,5,144,153,1
+Mitchell,Cotton,TAX COMMISSIONER,,,TOMMY R. SANGSTER,41,0,36,5,0
+Mitchell,Hopeful,TAX COMMISSIONER,,,TOMMY R. SANGSTER,31,0,19,12,0
+Mitchell,Hisonton,TAX COMMISSIONER,,,TOMMY R. SANGSTER,23,0,23,0,0
+Mitchell,Lester,TAX COMMISSIONER,,,TOMMY R. SANGSTER,41,0,36,5,0
+Mitchell,Pebble City,TAX COMMISSIONER,,,TOMMY R. SANGSTER,26,0,21,5,0
+Mitchell,Pelham,TAX COMMISSIONER,,,TOMMY R. SANGSTER,183,11,120,52,0
+Mitchell,Sale City,TAX COMMISSIONER,,,TOMMY R. SANGSTER,33,0,28,5,0
+Mitchell,,CORONER,,,CURTIS EDISON,833,15,654,164,0
+Mitchell,Baconton,CORONER,,,CURTIS EDISON,33,1,24,8,0
+Mitchell,Branchville,CORONER,,,CURTIS EDISON,69,1,54,14,0
+Mitchell,Camilla North,CORONER,,,CURTIS EDISON,36,2,20,14,0
+Mitchell,Camilla South,CORONER,,,CURTIS EDISON,134,6,76,52,0
+Mitchell,Cotton,CORONER,,,CURTIS EDISON,110,0,99,11,0
+Mitchell,Hopeful,CORONER,,,CURTIS EDISON,38,1,34,3,0
+Mitchell,Hisonton,CORONER,,,CURTIS EDISON,35,0,35,0,0
+Mitchell,Lester,CORONER,,,CURTIS EDISON,49,0,42,7,0
+Mitchell,Pebble City,CORONER,,,CURTIS EDISON,15,0,13,2,0
+Mitchell,Pelham,CORONER,,,CURTIS EDISON,297,4,242,51,0
+Mitchell,Sale City,CORONER,,,CURTIS EDISON,17,0,15,2,0
+Mitchell,,CORONER,,,MERRIE JOHNSON,753,21,483,247,2
+Mitchell,Baconton,CORONER,,,MERRIE JOHNSON,32,0,23,9,0
+Mitchell,Branchville,CORONER,,,MERRIE JOHNSON,68,0,51,17,0
+Mitchell,Camilla North,CORONER,,,MERRIE JOHNSON,52,2,33,17,0
+Mitchell,Camilla South,CORONER,,,MERRIE JOHNSON,283,13,125,143,2
+Mitchell,Cotton,CORONER,,,MERRIE JOHNSON,15,0,14,1,0
+Mitchell,Hopeful,CORONER,,,MERRIE JOHNSON,46,0,37,9,0
+Mitchell,Hisonton,CORONER,,,MERRIE JOHNSON,25,0,24,1,0
+Mitchell,Lester,CORONER,,,MERRIE JOHNSON,34,1,25,8,0
+Mitchell,Pebble City,CORONER,,,MERRIE JOHNSON,28,2,18,8,0
+Mitchell,Pelham,CORONER,,,MERRIE JOHNSON,121,3,88,30,0
+Mitchell,Sale City,CORONER,,,MERRIE JOHNSON,49,0,45,4,0
+Mitchell,,CORONER,,,JIMMY KOLBIE,435,13,262,160,0
+Mitchell,Baconton,CORONER,,,JIMMY KOLBIE,45,0,33,12,0
+Mitchell,Branchville,CORONER,,,JIMMY KOLBIE,16,0,11,5,0
+Mitchell,Camilla North,CORONER,,,JIMMY KOLBIE,35,1,21,13,0
+Mitchell,Camilla South,CORONER,,,JIMMY KOLBIE,174,7,66,101,0
+Mitchell,Cotton,CORONER,,,JIMMY KOLBIE,17,0,15,2,0
+Mitchell,Hopeful,CORONER,,,JIMMY KOLBIE,16,0,14,2,0
+Mitchell,Hisonton,CORONER,,,JIMMY KOLBIE,3,0,3,0,0
+Mitchell,Lester,CORONER,,,JIMMY KOLBIE,34,0,28,6,0
+Mitchell,Pebble City,CORONER,,,JIMMY KOLBIE,13,0,9,4,0
+Mitchell,Pelham,CORONER,,,JIMMY KOLBIE,62,5,45,12,0
+Mitchell,Sale City,CORONER,,,JIMMY KOLBIE,20,0,17,3,0
+Mitchell,,CORONER,,,STEDDERICK THOMAS,1591,138,996,456,1
+Mitchell,Baconton,CORONER,,,STEDDERICK THOMAS,125,8,104,13,0
+Mitchell,Branchville,CORONER,,,STEDDERICK THOMAS,25,4,14,6,1
+Mitchell,Camilla North,CORONER,,,STEDDERICK THOMAS,454,23,292,139,0
+Mitchell,Camilla South,CORONER,,,STEDDERICK THOMAS,407,26,213,168,0
+Mitchell,Cotton,CORONER,,,STEDDERICK THOMAS,3,0,2,1,0
+Mitchell,Hopeful,CORONER,,,STEDDERICK THOMAS,24,0,15,9,0
+Mitchell,Hisonton,CORONER,,,STEDDERICK THOMAS,4,0,4,0,0
+Mitchell,Lester,CORONER,,,STEDDERICK THOMAS,34,3,23,8,0
+Mitchell,Pebble City,CORONER,,,STEDDERICK THOMAS,5,0,4,1,0
+Mitchell,Pelham,CORONER,,,STEDDERICK THOMAS,483,74,300,109,0
+Mitchell,Sale City,CORONER,,,STEDDERICK THOMAS,27,0,25,2,0
+Mitchell,,CHIEF MAGISTRATE,,,RANDALL E. CHEW ,3064,146,2022,893,3
+Mitchell,Baconton,CHIEF MAGISTRATE,,,RANDALL E. CHEW ,190,6,151,33,0
+Mitchell,Branchville,CHIEF MAGISTRATE,,,RANDALL E. CHEW ,159,5,113,40,1
+Mitchell,Camilla North,CHIEF MAGISTRATE,,,RANDALL E. CHEW ,475,28,289,158,0
+Mitchell,Camilla South,CHIEF MAGISTRATE,,,RANDALL E. CHEW ,834,40,389,403,2
+Mitchell,Cotton,CHIEF MAGISTRATE,,,RANDALL E. CHEW ,132,0,118,14,0
+Mitchell,Hopeful,CHIEF MAGISTRATE,,,RANDALL E. CHEW ,107,0,86,21,0
+Mitchell,Hisonton,CHIEF MAGISTRATE,,,RANDALL E. CHEW ,60,0,59,1,0
+Mitchell,Lester,CHIEF MAGISTRATE,,,RANDALL E. CHEW ,129,4,101,24,0
+Mitchell,Pebble City,CHIEF MAGISTRATE,,,RANDALL E. CHEW ,49,2,35,12,0
+Mitchell,Pelham,CHIEF MAGISTRATE,,,RANDALL E. CHEW ,828,61,589,178,0
+Mitchell,Sale City,CHIEF MAGISTRATE,,,RANDALL E. CHEW ,101,0,92,9,0
+Mitchell,,SOLICITOR,,,MARGARET CHASON ,2621,131,1749,738,3
+Mitchell,Baconton,SOLICITOR,,,MARGARET CHASON ,165,4,131,30,0
+Mitchell,Branchville,SOLICITOR,,,MARGARET CHASON ,140,5,98,36,1
+Mitchell,Camilla North,SOLICITOR,,,MARGARET CHASON ,385,25,241,119,0
+Mitchell,Camilla South,SOLICITOR,,,MARGARET CHASON ,728,37,351,338,2
+Mitchell,Cotton,SOLICITOR,,,MARGARET CHASON ,113,0,99,14,0
+Mitchell,Hopeful,SOLICITOR,,,MARGARET CHASON ,95,0,75,20,0
+Mitchell,Hisonton,SOLICITOR,,,MARGARET CHASON ,56,0,55,1,0
+Mitchell,Lester,SOLICITOR,,,MARGARET CHASON ,113,4,86,23,0
+Mitchell,Pebble City,SOLICITOR,,,MARGARET CHASON ,43,2,29,12,0
+Mitchell,Pelham,SOLICITOR,,,MARGARET CHASON ,694,54,501,139,0
+Mitchell,Sale City,SOLICITOR,,,MARGARET CHASON ,89,0,83,6,0
+Mitchell,,"CC, D2", D2 - D,,EDDIE COBB,150,12,82,56,0
+Mitchell,Camilla South,"CC, D2", D2 - D,,EDDIE COBB,80,3,44,33,0
+Mitchell,Pelham,"CC, D2", D2 - D,,EDDIE COBB,70,9,38,23,0
+Mitchell,,"CC, D2", D2 - D,,B. KEITH JONES,516,78,290,148,0
+Mitchell,Camilla South,"CC, D2", D2 - D,,B. KEITH JONES,240,28,118,94,0
+Mitchell,Pelham,"CC, D2", D2 - D,,B. KEITH JONES,276,50,172,54,0
+Mitchell,,"CC, D4", D4 - D,,"EUGENE ""BO"" CURLES",352,21,286,45,0
+Mitchell,Cotton,"CC, D4", D4 - D,,"EUGENE ""BO"" CURLES",51,0,45,6,0
+Mitchell,Hisonton,"CC, D4", D4 - D,,"EUGENE ""BO"" CURLES",21,0,20,1,0
+Mitchell,Pebble City,"CC, D4", D4 - D,,"EUGENE ""BO"" CURLES",12,0,11,1,0
+Mitchell,Pelham,"CC, D4", D4 - D,,"EUGENE ""BO"" CURLES",268,21,210,37,0
+Mitchell,,"CC, D4", D4 - D,,JULIUS HATCHER,431,3,348,80,0
+Mitchell,Cotton,"CC, D4", D4 - D,,JULIUS HATCHER,93,0,84,9,0
+Mitchell,Hisonton,"CC, D4", D4 - D,,JULIUS HATCHER,47,0,47,0,0
+Mitchell,Pebble City,"CC, D4", D4 - D,,JULIUS HATCHER,8,0,6,2,0
+Mitchell,Pelham,"CC, D4", D4 - D,,JULIUS HATCHER,283,3,211,69,0
+Mitchell,,"CC, D5", D5 - R,,DAVID SULLIVAN,179,4,132,43,0
+Mitchell,Camilla South,"CC, D5", D5 - R,,DAVID SULLIVAN,50,2,19,29,0
+Mitchell,Lester,"CC, D5", D5 - R,,DAVID SULLIVAN,102,1,89,12,0
+Mitchell,Pebble City,"CC, D5", D5 - R,,DAVID SULLIVAN,17,1,14,2,0
+Mitchell,Sale City,"CC, D5", D5 - R,,DAVID SULLIVAN,10,0,10,0,0
+Mitchell,,"CC, D5", D5 - D,,DAN BOLLINGER,219,5,145,69,0
+Mitchell,Camilla South,"CC, D5", D5 - D,,DAN BOLLINGER,73,2,28,43,0
+Mitchell,Lester,"CC, D5", D5 - D,,DAN BOLLINGER,77,3,57,17,0
+Mitchell,Pebble City,"CC, D5", D5 - D,,DAN BOLLINGER,17,0,12,5,0
+Mitchell,Sale City,"CC, D5", D5 - D,,DAN BOLLINGER,52,0,48,4,0
+Mitchell,,"CC, D5", D5 - D,,GERALD F. HAGAN,238,11,167,60,0
+Mitchell,Camilla South,"CC, D5", D5 - D,,GERALD F. HAGAN,95,8,54,33,0
+Mitchell,Lester,"CC, D5", D5 - D,,GERALD F. HAGAN,68,1,54,13,0
+Mitchell,Pebble City,"CC, D5", D5 - D,,GERALD F. HAGAN,21,2,13,6,0
+Mitchell,Sale City,"CC, D5", D5 - D,,GERALD F. HAGAN,54,0,46,8,0
+Mitchell,,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,283,8,185,90,0
+Mitchell,Baconton,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,35,0,27,8,0
+Mitchell,Branchville,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,27,0,21,6,0
+Mitchell,Camilla North,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,21,1,9,11,0
+Mitchell,Camilla South,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,71,0,35,36,0
+Mitchell,Cotton,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,12,0,11,1,0
+Mitchell,Hopeful,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,5,0,3,2,0
+Mitchell,Hisonton,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,3,0,3,0,0
+Mitchell,Lester,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,64,1,57,6,0
+Mitchell,Pebble City,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,11,1,8,2,0
+Mitchell,Pelham,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,24,5,2,17,0
+Mitchell,Sale City,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,YES,10,0,9,1,0
+Mitchell,,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,329,15,189,123,2
+Mitchell,Baconton,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,37,0,31,6,0
+Mitchell,Branchville,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,17,1,12,4,0
+Mitchell,Camilla North,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,31,0,12,18,1
+Mitchell,Camilla South,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,123,8,43,71,1
+Mitchell,Cotton,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,15,1,13,1,0
+Mitchell,Hopeful,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,5,0,5,0,0
+Mitchell,Hisonton,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,4,0,4,0,0
+Mitchell,Lester,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,52,0,44,8,0
+Mitchell,Pebble City,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,13,0,13,0,0
+Mitchell,Pelham,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,27,5,7,15,0
+Mitchell,Sale City,Republican Party Question 1<br>Should Georgia have casino gambling with funds going to education?,,REP,NO,5,0,5,0,0
+Mitchell,,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,500,22,299,178,1
+Mitchell,Baconton,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,56,0,44,12,0
+Mitchell,Branchville,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,35,1,26,8,0
+Mitchell,Camilla North,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,46,1,18,26,1
+Mitchell,Camilla South,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,147,8,56,83,0
+Mitchell,Cotton,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,21,1,19,1,0
+Mitchell,Hopeful,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,8,0,6,2,0
+Mitchell,Hisonton,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,4,0,4,0,0
+Mitchell,Lester,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,101,1,86,14,0
+Mitchell,Pebble City,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,23,1,20,2,0
+Mitchell,Pelham,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,44,9,6,29,0
+Mitchell,Sale City,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,YES,15,0,14,1,0
+Mitchell,,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,106,1,69,35,1
+Mitchell,Baconton,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,16,0,14,2,0
+Mitchell,Branchville,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,9,0,7,2,0
+Mitchell,Camilla North,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,5,0,2,3,0
+Mitchell,Camilla South,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,42,0,19,22,1
+Mitchell,Cotton,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,6,0,5,1,0
+Mitchell,Hopeful,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,1,0,1,0,0
+Mitchell,Hisonton,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,3,0,3,0,0
+Mitchell,Lester,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,14,0,14,0,0
+Mitchell,Pebble City,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,1,0,1,0,0
+Mitchell,Pelham,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,9,1,3,5,0
+Mitchell,Sale City,Republican Party Question 2<br>Do you support ending the current practice of unlimited gifts from lobbyists to state legislators by imposing a $100 cap on such gifts?,,REP,NO,0,0,0,0,0
+Mitchell,,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,417,11,277,128,1
+Mitchell,Baconton,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,45,0,38,7,0
+Mitchell,Branchville,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,36,0,29,7,0
+Mitchell,Camilla North,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,35,1,15,19,0
+Mitchell,Camilla South,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,109,3,49,56,1
+Mitchell,Cotton,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,20,1,18,1,0
+Mitchell,Hopeful,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,8,0,7,1,0
+Mitchell,Hisonton,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,6,0,6,0,0
+Mitchell,Lester,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,88,0,79,9,0
+Mitchell,Pebble City,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,19,1,17,1,0
+Mitchell,Pelham,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,39,5,8,26,0
+Mitchell,Sale City,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,YES,12,0,11,1,0
+Mitchell,,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,198,12,99,86,1
+Mitchell,Baconton,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,28,0,21,7,0
+Mitchell,Branchville,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,8,1,4,3,0
+Mitchell,Camilla North,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,17,0,6,10,1
+Mitchell,Camilla South,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,84,5,29,50,0
+Mitchell,Cotton,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,8,0,7,1,0
+Mitchell,Hopeful,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,2,0,1,1,0
+Mitchell,Hisonton,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,1,0,1,0,0
+Mitchell,Lester,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,27,1,21,5,0
+Mitchell,Pebble City,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,5,0,4,1,0
+Mitchell,Pelham,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,14,5,1,8,0
+Mitchell,Sale City,Republican Party Question 3<br>Should active duty military personnel who are under the age of 21 be allowed to obtain a Georgia weapons license?,,REP,NO,4,0,4,0,0
+Mitchell,,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,338,16,213,108,1
+Mitchell,Baconton,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,42,0,34,8,0
+Mitchell,Branchville,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,29,1,23,5,0
+Mitchell,Camilla North,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,28,1,15,12,0
+Mitchell,Camilla South,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,98,4,36,57,1
+Mitchell,Cotton,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,16,1,14,1,0
+Mitchell,Hopeful,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,6,0,4,2,0
+Mitchell,Hisonton,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,2,0,2,0,0
+Mitchell,Lester,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,64,1,60,3,0
+Mitchell,Pebble City,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,16,1,13,2,0
+Mitchell,Pelham,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,29,7,4,18,0
+Mitchell,Sale City,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,YES,8,0,8,0,0
+Mitchell,,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,271,6,161,103,1
+Mitchell,Baconton,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,31,0,25,6,0
+Mitchell,Branchville,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,15,0,10,5,0
+Mitchell,Camilla North,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,23,0,5,17,1
+Mitchell,Camilla South,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,93,4,42,47,0
+Mitchell,Cotton,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,11,0,10,1,0
+Mitchell,Hopeful,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,3,0,3,0,0
+Mitchell,Hisonton,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,5,0,5,0,0
+Mitchell,Lester,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,53,0,42,11,0
+Mitchell,Pebble City,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,7,0,7,0,0
+Mitchell,Pelham,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,22,2,5,15,0
+Mitchell,Sale City,Republican Party Question 4<br>Should Citizens who wish to vote in a primary election be required to register by their political party affiliation at least thirty (30) days prior to such primary election?,,REP,NO,8,0,7,1,0
+Mitchell,,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,412,17,254,141,0
+Mitchell,Baconton,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,45,0,37,8,0
+Mitchell,Branchville,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,31,0,22,9,0
+Mitchell,Camilla North,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,34,0,14,20,0
+Mitchell,Camilla South,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,125,6,52,67,0
+Mitchell,Cotton,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,19,1,18,0,0
+Mitchell,Hopeful,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,8,0,6,2,0
+Mitchell,Hisonton,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,4,0,4,0,0
+Mitchell,Lester,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,83,0,73,10,0
+Mitchell,Pebble City,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,17,1,14,2,0
+Mitchell,Pelham,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,36,9,5,22,0
+Mitchell,Sale City,Republican Party Question 5 <br>Life Amendment Question,,REP,YES,10,0,9,1,0
+Mitchell,,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,177,5,102,69,1
+Mitchell,Baconton,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,25,0,20,5,0
+Mitchell,Branchville,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,9,1,7,1,0
+Mitchell,Camilla North,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,17,0,6,10,1
+Mitchell,Camilla South,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,56,2,19,35,0
+Mitchell,Cotton,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,8,0,6,2,0
+Mitchell,Hopeful,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,1,0,1,0,0
+Mitchell,Hisonton,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,3,0,3,0,0
+Mitchell,Lester,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,30,1,25,4,0
+Mitchell,Pebble City,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,6,0,6,0,0
+Mitchell,Pelham,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,17,1,4,12,0
+Mitchell,Sale City,Republican Party Question 5 <br>Life Amendment Question,,REP,NO,5,0,5,0,0
+Mitchell,,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,1645,59,1093,492,1
+Mitchell,Baconton,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,135,4,98,33,0
+Mitchell,Branchville,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,85,3,63,19,0
+Mitchell,Camilla North,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,266,10,163,93,0
+Mitchell,Camilla South,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,494,16,250,227,1
+Mitchell,Cotton,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,61,0,55,6,0
+Mitchell,Hopeful,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,62,1,51,10,0
+Mitchell,Hisonton,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,33,0,33,0,0
+Mitchell,Lester,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,70,0,59,11,0
+Mitchell,Pebble City,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,29,1,19,9,0
+Mitchell,Pelham,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,358,24,255,79,0
+Mitchell,Sale City,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,YES,52,0,47,5,0
+Mitchell,,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,1811,119,1194,496,2
+Mitchell,Baconton,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,95,4,81,10,0
+Mitchell,Branchville,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,91,2,66,22,1
+Mitchell,Camilla North,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,292,18,186,88,0
+Mitchell,Camilla South,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,464,35,210,218,1
+Mitchell,Cotton,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,81,0,72,9,0
+Mitchell,Hopeful,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,61,0,46,15,0
+Mitchell,Hisonton,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,35,0,34,1,0
+Mitchell,Lester,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,81,4,58,19,0
+Mitchell,Pebble City,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,30,1,23,6,0
+Mitchell,Pelham,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,527,55,369,103,0
+Mitchell,Sale City,Democratic Party Question 1<br>Should the Georgia Constitution be amended to allow the state to override locally-elected school boards’ decisions when it comes to the creation of charter schools in your county or city?,,DEM,NO,54,0,49,5,0
+Mitchell,,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,2308,103,1544,659,2
+Mitchell,Baconton,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,154,4,116,34,0
+Mitchell,Branchville,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,127,5,94,28,0
+Mitchell,Camilla North,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,317,19,188,110,0
+Mitchell,Camilla South,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,657,34,324,297,2
+Mitchell,Cotton,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,103,0,91,12,0
+Mitchell,Hopeful,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,85,1,68,16,0
+Mitchell,Hisonton,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,35,0,34,1,0
+Mitchell,Lester,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,104,4,83,17,0
+Mitchell,Pebble City,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,46,1,34,11,0
+Mitchell,Pelham,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,606,35,448,123,0
+Mitchell,Sale City,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,YES,74,0,64,10,0
+Mitchell,,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,1154,76,749,328,1
+Mitchell,Baconton,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,78,5,64,9,0
+Mitchell,Branchville,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,43,0,29,13,1
+Mitchell,Camilla North,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,226,9,150,67,0
+Mitchell,Camilla South,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,312,17,143,152,0
+Mitchell,Cotton,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,39,0,37,2,0
+Mitchell,Hopeful,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,36,0,27,9,0
+Mitchell,Hisonton,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,32,0,32,0,0
+Mitchell,Lester,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,47,0,36,11,0
+Mitchell,Pebble City,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,12,1,7,4,0
+Mitchell,Pelham,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,293,44,189,60,0
+Mitchell,Sale City,Democratic Party Question 2<br>Do you support ending current practice permitting unlimited gifts from lobbyists to state legislators?,,DEM,NO,36,0,35,1,0
+Mitchell,,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,2654,127,1764,761,2
+Mitchell,Baconton,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,186,5,153,28,0
+Mitchell,Branchville,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,129,4,93,31,1
+Mitchell,Camilla North,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,451,22,286,143,0
+Mitchell,Camilla South,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,753,34,366,352,1
+Mitchell,Cotton,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,96,0,83,13,0
+Mitchell,Hopeful,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,88,1,69,18,0
+Mitchell,Hisonton,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,45,0,44,1,0
+Mitchell,Lester,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,104,4,81,19,0
+Mitchell,Pebble City,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,41,2,31,8,0
+Mitchell,Pelham,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,693,55,496,142,0
+Mitchell,Sale City,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,YES,68,0,62,6,0
+Mitchell,,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,875,50,574,250,1
+Mitchell,Baconton,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,50,3,33,14,0
+Mitchell,Branchville,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,47,1,35,11,0
+Mitchell,Camilla North,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,115,6,69,40,0
+Mitchell,Camilla South,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,231,17,106,107,1
+Mitchell,Cotton,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,47,0,45,2,0
+Mitchell,Hopeful,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,31,0,26,5,0
+Mitchell,Hisonton,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,22,0,22,0,0
+Mitchell,Lester,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,48,0,39,9,0
+Mitchell,Pebble City,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,17,0,10,7,0
+Mitchell,Pelham,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,225,23,152,50,0
+Mitchell,Sale City,Democratic Party Question 3<br>Should Georgia adopt an income tax credit for home energy costs to support the economic security of our families?,,DEM,NO,42,0,37,5,0
+Mitchell,,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,3003,132,2005,863,3
+Mitchell,Baconton,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,203,5,159,39,0
+Mitchell,Branchville,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,147,5,106,35,1
+Mitchell,Camilla North,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,480,19,309,152,0
+Mitchell,Camilla South,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,825,37,386,400,2
+Mitchell,Cotton,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,121,0,107,14,0
+Mitchell,Hopeful,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,108,1,89,18,0
+Mitchell,Hisonton,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,55,0,54,1,0
+Mitchell,Lester,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,135,4,107,24,0
+Mitchell,Pebble City,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,49,2,36,11,0
+Mitchell,Pelham,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,792,59,573,160,0
+Mitchell,Sale City,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,YES,88,0,79,9,0
+Mitchell,,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,545,47,345,153,0
+Mitchell,Baconton,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,31,3,25,3,0
+Mitchell,Branchville,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,29,0,22,7,0
+Mitchell,Camilla North,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,92,9,53,30,0
+Mitchell,Camilla South,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,158,14,86,58,0
+Mitchell,Cotton,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,23,0,22,1,0
+Mitchell,Hopeful,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,18,0,12,6,0
+Mitchell,Hisonton,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,12,0,12,0,0
+Mitchell,Lester,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,20,0,14,6,0
+Mitchell,Pebble City,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,10,0,6,4,0
+Mitchell,Pelham,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,129,21,72,36,0
+Mitchell,Sale City,Democratic Party Question 4 <br>Should Georgia reduce sales taxes on Made in Georgia products so as to support the growth of small businesses in our state?,,DEM,NO,23,0,21,2,0
+Mitchell,,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,3379,138,2219,1017,5
+Mitchell,Baconton,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,260,6,213,41,0
+Mitchell,Branchville,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,179,6,131,41,1
+Mitchell,Camilla North,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,527,27,313,186,1
+Mitchell,Camilla South,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,961,48,435,475,3
+Mitchell,Cotton,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,139,1,124,14,0
+Mitchell,Hopeful,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,96,0,76,20,0
+Mitchell,Hisonton,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,60,0,59,1,0
+Mitchell,Lester,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,235,5,190,40,0
+Mitchell,Pebble City,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,62,3,46,13,0
+Mitchell,Pelham,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,760,42,541,177,0
+Mitchell,Sale City,Supreme Court Justice, Hunstein,I,CAROL W. HUNSTEIN,100,0,91,9,0
+Mitchell,,Supreme Court Justice, Hunstein,,Write-in ,10,2,6,2,0
+Mitchell,Baconton,Supreme Court Justice, Hunstein,,Write-in ,0,0,0,0,0
+Mitchell,Branchville,Supreme Court Justice, Hunstein,,Write-in ,1,0,1,0,0
+Mitchell,Camilla North,Supreme Court Justice, Hunstein,,Write-in ,0,0,0,0,0
+Mitchell,Camilla South,Supreme Court Justice, Hunstein,,Write-in ,4,1,2,1,0
+Mitchell,Cotton,Supreme Court Justice, Hunstein,,Write-in ,0,0,0,0,0
+Mitchell,Hopeful,Supreme Court Justice, Hunstein,,Write-in ,0,0,0,0,0
+Mitchell,Hisonton,Supreme Court Justice, Hunstein,,Write-in ,0,0,0,0,0
+Mitchell,Lester,Supreme Court Justice, Hunstein,,Write-in ,1,0,1,0,0
+Mitchell,Pebble City,Supreme Court Justice, Hunstein,,Write-in ,1,0,1,0,0
+Mitchell,Pelham,Supreme Court Justice, Hunstein,,Write-in ,2,1,0,1,0
+Mitchell,Sale City,Supreme Court Justice, Hunstein,,Write-in ,1,0,1,0,0
+Mitchell,,Supreme Court Justice, Melton,,HAROLD D. MELTON ,3352,140,2195,1012,5
+Mitchell,Baconton,Supreme Court Justice, Melton,,HAROLD D. MELTON ,249,3,205,41,0
+Mitchell,Branchville,Supreme Court Justice, Melton,,HAROLD D. MELTON ,179,6,131,41,1
+Mitchell,Camilla North,Supreme Court Justice, Melton,,HAROLD D. MELTON ,520,27,308,184,1
+Mitchell,Camilla South,Supreme Court Justice, Melton,,HAROLD D. MELTON ,953,48,429,473,3
+Mitchell,Cotton,Supreme Court Justice, Melton,,HAROLD D. MELTON ,140,1,125,14,0
+Mitchell,Hopeful,Supreme Court Justice, Melton,,HAROLD D. MELTON ,96,0,75,21,0
+Mitchell,Hisonton,Supreme Court Justice, Melton,,HAROLD D. MELTON ,60,0,59,1,0
+Mitchell,Lester,Supreme Court Justice, Melton,,HAROLD D. MELTON ,237,5,192,40,0
+Mitchell,Pebble City,Supreme Court Justice, Melton,,HAROLD D. MELTON ,62,3,46,13,0
+Mitchell,Pelham,Supreme Court Justice, Melton,,HAROLD D. MELTON ,758,47,535,176,0
+Mitchell,Sale City,Supreme Court Justice, Melton,,HAROLD D. MELTON ,98,0,90,8,0
+Mitchell,,Supreme Court Justice, Melton,,Write-in,7,1,5,1,0
+Mitchell,Baconton,Supreme Court Justice, Melton,,Write-in,0,0,0,0,0
+Mitchell,Branchville,Supreme Court Justice, Melton,,Write-in,2,0,2,0,0
+Mitchell,Camilla North,Supreme Court Justice, Melton,,Write-in,0,0,0,0,0
+Mitchell,Camilla South,Supreme Court Justice, Melton,,Write-in,1,0,1,0,0
+Mitchell,Cotton,Supreme Court Justice, Melton,,Write-in,0,0,0,0,0
+Mitchell,Hopeful,Supreme Court Justice, Melton,,Write-in,0,0,0,0,0
+Mitchell,Hisonton,Supreme Court Justice, Melton,,Write-in,0,0,0,0,0
+Mitchell,Lester,Supreme Court Justice, Melton,,Write-in,0,0,0,0,0
+Mitchell,Pebble City,Supreme Court Justice, Melton,,Write-in,1,0,1,0,0
+Mitchell,Pelham,Supreme Court Justice, Melton,,Write-in,2,1,0,1,0
+Mitchell,Sale City,Supreme Court Justice, Melton,,Write-in,1,0,1,0,0
+Mitchell,,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,3382,136,2217,1024,5
+Mitchell,Baconton,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,249,2,205,42,0
+Mitchell,Branchville,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,176,6,129,40,1
+Mitchell,Camilla North,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,529,28,314,186,1
+Mitchell,Camilla South,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,965,46,440,476,3
+Mitchell,Cotton,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,140,1,125,14,0
+Mitchell,Hopeful,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,98,0,77,21,0
+Mitchell,Hisonton,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,60,0,59,1,0
+Mitchell,Lester,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,236,5,191,40,0
+Mitchell,Pebble City,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,62,3,46,13,0
+Mitchell,Pelham,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,769,45,541,183,0
+Mitchell,Sale City,Supreme Court Justice, Thompson,,HUGH P. THOMPSON ,98,0,90,8,0
+Mitchell,,Supreme Court Justice, Thompson,,Write-in,5,0,4,1,0
+Mitchell,Baconton,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Mitchell,Branchville,Supreme Court Justice, Thompson,,Write-in,1,0,1,0,0
+Mitchell,Camilla North,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Mitchell,Camilla South,Supreme Court Justice, Thompson,,Write-in,1,0,1,0,0
+Mitchell,Cotton,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Mitchell,Hopeful,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Mitchell,Hisonton,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Mitchell,Lester,Supreme Court Justice, Thompson,,Write-in,0,0,0,0,0
+Mitchell,Pebble City,Supreme Court Justice, Thompson,,Write-in,1,0,1,0,0
+Mitchell,Pelham,Supreme Court Justice, Thompson,,Write-in,1,0,0,1,0
+Mitchell,Sale City,Supreme Court Justice, Thompson,,Write-in,1,0,1,0,0
+Mitchell,,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,3299,135,2167,992,5
+Mitchell,Baconton,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,248,3,205,40,0
+Mitchell,Branchville,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,173,6,124,42,1
+Mitchell,Camilla North,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,515,28,307,179,1
+Mitchell,Camilla South,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,939,46,429,461,3
+Mitchell,Cotton,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,137,1,123,13,0
+Mitchell,Hopeful,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,94,0,74,20,0
+Mitchell,Hisonton,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,60,0,59,1,0
+Mitchell,Lester,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,230,5,185,40,0
+Mitchell,Pebble City,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,61,3,45,13,0
+Mitchell,Pelham,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,746,43,528,175,0
+Mitchell,Sale City,Appeals Court Judge, Boggs,,MICHAEL P. BOGGS ,96,0,88,8,0
+Mitchell,,Appeals Court Judge, Boggs,,Write-in,4,1,3,0,0
+Mitchell,Baconton,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Mitchell,Branchville,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Mitchell,Camilla North,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Mitchell,Camilla South,Appeals Court Judge, Boggs,,Write-in,2,1,1,0,0
+Mitchell,Cotton,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Mitchell,Hopeful,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Mitchell,Hisonton,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Mitchell,Lester,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Mitchell,Pebble City,Appeals Court Judge, Boggs,,Write-in,1,0,1,0,0
+Mitchell,Pelham,Appeals Court Judge, Boggs,,Write-in,0,0,0,0,0
+Mitchell,Sale City,Appeals Court Judge, Boggs,,Write-in,1,0,1,0,0
+Mitchell,,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,3293,134,2159,995,5
+Mitchell,Baconton,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,246,3,203,40,0
+Mitchell,Branchville,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,172,6,124,41,1
+Mitchell,Camilla North,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,508,26,299,182,1
+Mitchell,Camilla South,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,943,47,429,464,3
+Mitchell,Cotton,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,136,1,122,13,0
+Mitchell,Hopeful,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,94,0,74,20,0
+Mitchell,Hisonton,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,59,0,58,1,0
+Mitchell,Lester,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,231,5,187,39,0
+Mitchell,Pebble City,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,62,3,46,13,0
+Mitchell,Pelham,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,746,43,529,174,0
+Mitchell,Sale City,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,96,0,88,8,0
+Mitchell,,Appeals Court Judge, Dillard,,Write-in,3,0,3,0,0
+Mitchell,Baconton,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Mitchell,Branchville,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Mitchell,Camilla North,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Mitchell,Camilla South,Appeals Court Judge, Dillard,,Write-in,1,0,1,0,0
+Mitchell,Cotton,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Mitchell,Hopeful,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Mitchell,Hisonton,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Mitchell,Lester,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Mitchell,Pebble City,Appeals Court Judge, Dillard,,Write-in,1,0,1,0,0
+Mitchell,Pelham,Appeals Court Judge, Dillard,,Write-in,0,0,0,0,0
+Mitchell,Sale City,Appeals Court Judge, Dillard,,Write-in,1,0,1,0,0
+Mitchell,,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,3281,135,2155,986,5
+Mitchell,Baconton,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,249,5,204,40,0
+Mitchell,Branchville,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,172,6,124,41,1
+Mitchell,Camilla North,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,507,27,303,176,1
+Mitchell,Camilla South,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,935,46,422,464,3
+Mitchell,Cotton,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,136,1,123,12,0
+Mitchell,Hopeful,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,92,0,73,19,0
+Mitchell,Hisonton,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,58,0,57,1,0
+Mitchell,Lester,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,232,5,187,40,0
+Mitchell,Pebble City,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,61,2,46,13,0
+Mitchell,Pelham,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,740,43,525,172,0
+Mitchell,Sale City,Appeals Court Judge, Ellington,I,JOHN J. ELLINGTON,99,0,91,8,0
+Mitchell,,Appeals Court Judge, Ellington,,Write-in,4,1,3,0,0
+Mitchell,Baconton,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Mitchell,Branchville,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Mitchell,Camilla North,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Mitchell,Camilla South,Appeals Court Judge, Ellington,,Write-in,2,1,1,0,0
+Mitchell,Cotton,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Mitchell,Hopeful,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Mitchell,Hisonton,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Mitchell,Lester,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Mitchell,Pebble City,Appeals Court Judge, Ellington,,Write-in,1,0,1,0,0
+Mitchell,Pelham,Appeals Court Judge, Ellington,,Write-in,0,0,0,0,0
+Mitchell,Sale City,Appeals Court Judge, Ellington,,Write-in,1,0,1,0,0
+Mitchell,,Appeals Court Judge, Miller,,M. YVETTE MILLER ,3318,139,2166,1008,5
+Mitchell,Baconton,Appeals Court Judge, Miller,,M. YVETTE MILLER ,246,4,201,41,0
+Mitchell,Branchville,Appeals Court Judge, Miller,,M. YVETTE MILLER ,171,6,121,43,1
+Mitchell,Camilla North,Appeals Court Judge, Miller,,M. YVETTE MILLER ,520,26,311,182,1
+Mitchell,Camilla South,Appeals Court Judge, Miller,,M. YVETTE MILLER ,950,48,428,471,3
+Mitchell,Cotton,Appeals Court Judge, Miller,,M. YVETTE MILLER ,135,1,121,13,0
+Mitchell,Hopeful,Appeals Court Judge, Miller,,M. YVETTE MILLER ,95,0,75,20,0
+Mitchell,Hisonton,Appeals Court Judge, Miller,,M. YVETTE MILLER ,59,0,58,1,0
+Mitchell,Lester,Appeals Court Judge, Miller,,M. YVETTE MILLER ,231,5,187,39,0
+Mitchell,Pebble City,Appeals Court Judge, Miller,,M. YVETTE MILLER ,61,3,45,13,0
+Mitchell,Pelham,Appeals Court Judge, Miller,,M. YVETTE MILLER ,750,46,528,176,0
+Mitchell,Sale City,Appeals Court Judge, Miller,,M. YVETTE MILLER ,100,0,91,9,0
+Mitchell,,Appeals Court Judge, Miller,,Write-in,4,0,4,0,0
+Mitchell,Baconton,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Mitchell,Branchville,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Mitchell,Camilla North,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Mitchell,Camilla South,Appeals Court Judge, Miller,,Write-in,2,0,2,0,0
+Mitchell,Cotton,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Mitchell,Hopeful,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Mitchell,Hisonton,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Mitchell,Lester,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Mitchell,Pebble City,Appeals Court Judge, Miller,,Write-in,1,0,1,0,0
+Mitchell,Pelham,Appeals Court Judge, Miller,,Write-in,0,0,0,0,0
+Mitchell,Sale City,Appeals Court Judge, Miller,,Write-in,1,0,1,0,0
+Mitchell,,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,3334,143,2187,999,5
+Mitchell,Baconton,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,250,4,207,39,0
+Mitchell,Branchville,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,170,6,122,41,1
+Mitchell,Camilla North,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,531,28,317,185,1
+Mitchell,Camilla South,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,947,46,435,463,3
+Mitchell,Cotton,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,140,1,125,14,0
+Mitchell,Hopeful,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,91,0,70,21,0
+Mitchell,Hisonton,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,60,0,59,1,0
+Mitchell,Lester,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,229,5,185,39,0
+Mitchell,Pebble City,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,61,2,46,13,0
+Mitchell,Pelham,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,761,51,535,175,0
+Mitchell,Sale City,Appeals Court Judge, Phipps,,HERBERT PHIPPS ,94,0,86,8,0
+Mitchell,,Appeals Court Judge, Phipps,,Write-in,3,0,3,0,0
+Mitchell,Baconton,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Mitchell,Branchville,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Mitchell,Camilla North,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Mitchell,Camilla South,Appeals Court Judge, Phipps,,Write-in,1,0,1,0,0
+Mitchell,Cotton,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Mitchell,Hopeful,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Mitchell,Hisonton,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Mitchell,Lester,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Mitchell,Pebble City,Appeals Court Judge, Phipps,,Write-in,1,0,1,0,0
+Mitchell,Pelham,Appeals Court Judge, Phipps,,Write-in,0,0,0,0,0
+Mitchell,Sale City,Appeals Court Judge, Phipps,,Write-in,1,0,1,0,0
+Mitchell,,Superior Court Judge, South Georgia Circuit (Cato),,A. WALLACE CATO ,3506,157,2283,1061,5
+Mitchell,Baconton,Superior Court Judge, South Georgia Circuit (Cato),,A. WALLACE CATO ,257,5,206,46,0
+Mitchell,Branchville,Superior Court Judge, South Georgia Circuit (Cato),,A. WALLACE CATO ,189,6,137,45,1
+Mitchell,Camilla North,Superior Court Judge, South Georgia Circuit (Cato),,A. WALLACE CATO ,513,28,306,178,1
+Mitchell,Camilla South,Superior Court Judge, South Georgia Circuit (Cato),,A. WALLACE CATO ,1008,54,454,497,3
+Mitchell,Cotton,Superior Court Judge, South Georgia Circuit (Cato),,A. WALLACE CATO ,151,1,134,16,0
+Mitchell,Hopeful,Superior Court Judge, South Georgia Circuit (Cato),,A. WALLACE CATO ,110,0,86,24,0
+Mitchell,Hisonton,Superior Court Judge, South Georgia Circuit (Cato),,A. WALLACE CATO ,63,0,62,1,0
+Mitchell,Lester,Superior Court Judge, South Georgia Circuit (Cato),,A. WALLACE CATO ,229,5,188,36,0
+Mitchell,Pebble City,Superior Court Judge, South Georgia Circuit (Cato),,A. WALLACE CATO ,68,2,52,14,0
+Mitchell,Pelham,Superior Court Judge, South Georgia Circuit (Cato),,A. WALLACE CATO ,814,56,562,196,0
+Mitchell,Sale City,Superior Court Judge, South Georgia Circuit (Cato),,A. WALLACE CATO ,104,0,96,8,0
+Mitchell,,Superior Court Judge, South Georgia Circuit (Cato),,Write-in,11,1,8,2,0
+Mitchell,Baconton,Superior Court Judge, South Georgia Circuit (Cato),,Write-in,1,0,0,1,0
+Mitchell,Branchville,Superior Court Judge, South Georgia Circuit (Cato),,Write-in,2,0,2,0,0
+Mitchell,Camilla North,Superior Court Judge, South Georgia Circuit (Cato),,Write-in,0,0,0,0,0
+Mitchell,Camilla South,Superior Court Judge, South Georgia Circuit (Cato),,Write-in,1,0,1,0,0
+Mitchell,Cotton,Superior Court Judge, South Georgia Circuit (Cato),,Write-in,1,0,1,0,0
+Mitchell,Hopeful,Superior Court Judge, South Georgia Circuit (Cato),,Write-in,0,0,0,0,0
+Mitchell,Hisonton,Superior Court Judge, South Georgia Circuit (Cato),,Write-in,0,0,0,0,0
+Mitchell,Lester,Superior Court Judge, South Georgia Circuit (Cato),,Write-in,0,0,0,0,0
+Mitchell,Pebble City,Superior Court Judge, South Georgia Circuit (Cato),,Write-in,1,0,1,0,0
+Mitchell,Pelham,Superior Court Judge, South Georgia Circuit (Cato),,Write-in,4,1,2,1,0
+Mitchell,Sale City,Superior Court Judge, South Georgia Circuit (Cato),,Write-in,1,0,1,0,0
+Mitchell,,Superior Court Judge, South Georgia Circuit (Chason),,J. KEVIN CHASON ,3430,143,2246,1036,5
+Mitchell,Baconton,Superior Court Judge, South Georgia Circuit (Chason),,J. KEVIN CHASON ,252,4,202,46,0
+Mitchell,Branchville,Superior Court Judge, South Georgia Circuit (Chason),,J. KEVIN CHASON ,184,6,135,42,1
+Mitchell,Camilla North,Superior Court Judge, South Georgia Circuit (Chason),,J. KEVIN CHASON ,524,28,310,185,1
+Mitchell,Camilla South,Superior Court Judge, South Georgia Circuit (Chason),,J. KEVIN CHASON ,982,47,450,482,3
+Mitchell,Cotton,Superior Court Judge, South Georgia Circuit (Chason),,J. KEVIN CHASON ,146,1,130,15,0
+Mitchell,Hopeful,Superior Court Judge, South Georgia Circuit (Chason),,J. KEVIN CHASON ,102,0,80,22,0
+Mitchell,Hisonton,Superior Court Judge, South Georgia Circuit (Chason),,J. KEVIN CHASON ,63,0,62,1,0
+Mitchell,Lester,Superior Court Judge, South Georgia Circuit (Chason),,J. KEVIN CHASON ,232,5,189,38,0
+Mitchell,Pebble City,Superior Court Judge, South Georgia Circuit (Chason),,J. KEVIN CHASON ,67,3,51,13,0
+Mitchell,Pelham,Superior Court Judge, South Georgia Circuit (Chason),,J. KEVIN CHASON ,776,49,544,183,0
+Mitchell,Sale City,Superior Court Judge, South Georgia Circuit (Chason),,J. KEVIN CHASON ,102,0,93,9,0
+Mitchell,,Superior Court Judge, South Georgia Circuit (Chason),,Write-in,5,0,5,0,0
+Mitchell,Baconton,Superior Court Judge, South Georgia Circuit (Chason),,Write-in,0,0,0,0,0
+Mitchell,Branchville,Superior Court Judge, South Georgia Circuit (Chason),,Write-in,0,0,0,0,0
+Mitchell,Camilla North,Superior Court Judge, South Georgia Circuit (Chason),,Write-in,0,0,0,0,0
+Mitchell,Camilla South,Superior Court Judge, South Georgia Circuit (Chason),,Write-in,3,0,3,0,0
+Mitchell,Cotton,Superior Court Judge, South Georgia Circuit (Chason),,Write-in,0,0,0,0,0
+Mitchell,Hopeful,Superior Court Judge, South Georgia Circuit (Chason),,Write-in,0,0,0,0,0
+Mitchell,Hisonton,Superior Court Judge, South Georgia Circuit (Chason),,Write-in,0,0,0,0,0
+Mitchell,Lester,Superior Court Judge, South Georgia Circuit (Chason),,Write-in,0,0,0,0,0
+Mitchell,Pebble City,Superior Court Judge, South Georgia Circuit (Chason),,Write-in,1,0,1,0,0
+Mitchell,Pelham,Superior Court Judge, South Georgia Circuit (Chason),,Write-in,0,0,0,0,0
+Mitchell,Sale City,Superior Court Judge, South Georgia Circuit (Chason),,Write-in,1,0,1,0,0
+Mitchell,,STATE COURT,,,RICK WATERS ,3710,154,2429,1122,5
+Mitchell,Baconton,STATE COURT,,,RICK WATERS ,260,5,210,45,0
+Mitchell,Branchville,STATE COURT,,,RICK WATERS ,192,6,138,47,1
+Mitchell,Camilla North,STATE COURT,,,RICK WATERS ,574,29,343,201,1
+Mitchell,Camilla South,STATE COURT,,,RICK WATERS ,1077,49,501,524,3
+Mitchell,Cotton,STATE COURT,,,RICK WATERS ,157,1,139,17,0
+Mitchell,Hopeful,STATE COURT,,,RICK WATERS ,110,0,88,22,0
+Mitchell,Hisonton,STATE COURT,,,RICK WATERS ,61,0,60,1,0
+Mitchell,Lester,STATE COURT,,,RICK WATERS ,242,5,199,38,0
+Mitchell,Pebble City,STATE COURT,,,RICK WATERS ,75,3,57,15,0
+Mitchell,Pelham,STATE COURT,,,RICK WATERS ,845,56,588,201,0
+Mitchell,Sale City,STATE COURT,,,RICK WATERS ,117,0,106,11,0
+Mitchell,,STATE COURT,,,Write-in,12,1,11,0,0
+Mitchell,Baconton,STATE COURT,,,Write-in,1,0,1,0,0
+Mitchell,Branchville,STATE COURT,,,Write-in,2,0,2,0,0
+Mitchell,Camilla North,STATE COURT,,,Write-in,2,0,2,0,0
+Mitchell,Camilla South,STATE COURT,,,Write-in,1,0,1,0,0
+Mitchell,Cotton,STATE COURT,,,Write-in,0,0,0,0,0
+Mitchell,Hopeful,STATE COURT,,,Write-in,0,0,0,0,0
+Mitchell,Hisonton,STATE COURT,,,Write-in,0,0,0,0,0
+Mitchell,Lester,STATE COURT,,,Write-in,0,0,0,0,0
+Mitchell,Pebble City,STATE COURT,,,Write-in,1,0,1,0,0
+Mitchell,Pelham,STATE COURT,,,Write-in,4,1,3,0,0
+Mitchell,Sale City,STATE COURT,,,Write-in,1,0,1,0,0
+Mitchell,,PROBATE JUDGE,,,ROBERT RICHARDSON,3568,153,2329,1081,5
+Mitchell,Baconton,PROBATE JUDGE,,,ROBERT RICHARDSON,252,5,202,45,0
+Mitchell,Branchville,PROBATE JUDGE,,,ROBERT RICHARDSON,187,6,135,45,1
+Mitchell,Camilla North,PROBATE JUDGE,,,ROBERT RICHARDSON,542,29,328,184,1
+Mitchell,Camilla South,PROBATE JUDGE,,,ROBERT RICHARDSON,1046,50,482,511,3
+Mitchell,Cotton,PROBATE JUDGE,,,ROBERT RICHARDSON,146,1,131,14,0
+Mitchell,Hopeful,PROBATE JUDGE,,,ROBERT RICHARDSON,109,0,86,23,0
+Mitchell,Hisonton,PROBATE JUDGE,,,ROBERT RICHARDSON,62,0,61,1,0
+Mitchell,Lester,PROBATE JUDGE,,,ROBERT RICHARDSON,238,5,194,39,0
+Mitchell,Pebble City,PROBATE JUDGE,,,ROBERT RICHARDSON,72,3,56,13,0
+Mitchell,Pelham,PROBATE JUDGE,,,ROBERT RICHARDSON,805,54,555,196,0
+Mitchell,Sale City,PROBATE JUDGE,,,ROBERT RICHARDSON,109,0,99,10,0
+Mitchell,,PROBATE JUDGE,,,Write-in,5,0,5,0,0
+Mitchell,Baconton,PROBATE JUDGE,,,Write-in,0,0,0,0,0
+Mitchell,Branchville,PROBATE JUDGE,,,Write-in,0,0,0,0,0
+Mitchell,Camilla North,PROBATE JUDGE,,,Write-in,0,0,0,0,0
+Mitchell,Camilla South,PROBATE JUDGE,,,Write-in,1,0,1,0,0
+Mitchell,Cotton,PROBATE JUDGE,,,Write-in,0,0,0,0,0
+Mitchell,Hopeful,PROBATE JUDGE,,,Write-in,0,0,0,0,0
+Mitchell,Hisonton,PROBATE JUDGE,,,Write-in,0,0,0,0,0
+Mitchell,Lester,PROBATE JUDGE,,,Write-in,1,0,1,0,0
+Mitchell,Pebble City,PROBATE JUDGE,,,Write-in,1,0,1,0,0
+Mitchell,Pelham,PROBATE JUDGE,,,Write-in,1,0,1,0,0
+Mitchell,Sale City,PROBATE JUDGE,,,Write-in,1,0,1,0,0
+Mitchell,,BOE AT LARGE,,,NORMA GILPATRICK ,3108,105,2014,984,5
+Mitchell,Baconton,BOE AT LARGE,,,NORMA GILPATRICK ,260,3,209,48,0
+Mitchell,Branchville,BOE AT LARGE,,,NORMA GILPATRICK ,189,6,135,47,1
+Mitchell,Camilla North,BOE AT LARGE,,,NORMA GILPATRICK ,546,28,334,183,1
+Mitchell,Camilla South,BOE AT LARGE,,,NORMA GILPATRICK ,1049,50,478,518,3
+Mitchell,Cotton,BOE AT LARGE,,,NORMA GILPATRICK ,146,1,130,15,0
+Mitchell,Hopeful,BOE AT LARGE,,,NORMA GILPATRICK ,109,0,86,23,0
+Mitchell,Hisonton,BOE AT LARGE,,,NORMA GILPATRICK ,61,0,60,1,0
+Mitchell,Lester,BOE AT LARGE,,,NORMA GILPATRICK ,241,5,197,39,0
+Mitchell,Pebble City,BOE AT LARGE,,,NORMA GILPATRICK ,70,2,56,12,0
+Mitchell,Pelham,BOE AT LARGE,,,NORMA GILPATRICK ,328,10,230,88,0
+Mitchell,Sale City,BOE AT LARGE,,,NORMA GILPATRICK ,109,0,99,10,0
+Mitchell,,BOE AT LARGE,,,Write-in,8,0,5,3,0
+Mitchell,Baconton,BOE AT LARGE,,,Write-in,0,0,0,0,0
+Mitchell,Branchville,BOE AT LARGE,,,Write-in,0,0,0,0,0
+Mitchell,Camilla North,BOE AT LARGE,,,Write-in,4,0,2,2,0
+Mitchell,Camilla South,BOE AT LARGE,,,Write-in,2,0,2,0,0
+Mitchell,Cotton,BOE AT LARGE,,,Write-in,1,0,1,0,0
+Mitchell,Hopeful,BOE AT LARGE,,,Write-in,0,0,0,0,0
+Mitchell,Hisonton,BOE AT LARGE,,,Write-in,0,0,0,0,0
+Mitchell,Lester,BOE AT LARGE,,,Write-in,0,0,0,0,0
+Mitchell,Pebble City,BOE AT LARGE,,,Write-in,0,0,0,0,0
+Mitchell,Pelham,BOE AT LARGE,,,Write-in,1,0,0,1,0
+Mitchell,Sale City,BOE AT LARGE,,,Write-in,0,0,0,0,0
+Mitchell,,BOE D1,,,GREGG SCOTT ,492,7,421,64,0
+Mitchell,Cotton,BOE D1,,,GREGG SCOTT ,37,0,34,3,0
+Mitchell,Hisonton,BOE D1,,,GREGG SCOTT ,59,0,58,1,0
+Mitchell,Lester,BOE D1,,,GREGG SCOTT ,234,5,190,39,0
+Mitchell,Pebble City,BOE D1,,,GREGG SCOTT ,63,2,49,12,0
+Mitchell,Sale City,BOE D1,,,GREGG SCOTT ,99,0,90,9,0
+Mitchell,,BOE D1,,,Write-in,2,0,2,0,0
+Mitchell,Cotton,BOE D1,,,Write-in,1,0,1,0,0
+Mitchell,Hisonton,BOE D1,,,Write-in,0,0,0,0,0
+Mitchell,Lester,BOE D1,,,Write-in,0,0,0,0,0
+Mitchell,Pebble City,BOE D1,,,Write-in,0,0,0,0,0
+Mitchell,Sale City,BOE D1,,,Write-in,1,0,1,0,0
+Mitchell,,BOE D3,,,THOLEN EDWARDS ,573,22,391,159,1
+Mitchell,Baconton,BOE D3,,,THOLEN EDWARDS ,259,5,211,43,0
+Mitchell,Camilla North,BOE D3,,,THOLEN EDWARDS ,246,10,148,87,1
+Mitchell,Camilla South,BOE D3,,,THOLEN EDWARDS ,68,7,32,29,0
+Mitchell,,BOE D3,,,Write-in,0,0,0,0,0
+Mitchell,Baconton,BOE D3,,,Write-in,0,0,0,0,0
+Mitchell,Camilla North,BOE D3,,,Write-in,0,0,0,0,0
+Mitchell,Camilla South,BOE D3,,,Write-in,0,0,0,0,0
+Mitchell,,BOE D5,,,ROBERT L. SCOTT ,569,7,437,124,1
+Mitchell,Branchville,BOE D5,,,ROBERT L. SCOTT ,188,6,135,46,1
+Mitchell,Cotton,BOE D5,,,ROBERT L. SCOTT ,108,1,96,11,0
+Mitchell,Hopeful,BOE D5,,,ROBERT L. SCOTT ,105,0,82,23,0
+Mitchell,Pelham,BOE D5,,,ROBERT L. SCOTT ,168,0,124,44,0
+Mitchell,,BOE D5,,,Write-in,1,0,1,0,0
+Mitchell,Branchville,BOE D5,,,Write-in,0,0,0,0,0
+Mitchell,Cotton,BOE D5,,,Write-in,0,0,0,0,0
+Mitchell,Hopeful,BOE D5,,,Write-in,0,0,0,0,0
+Mitchell,Pelham,BOE D5,,,Write-in,1,0,1,0,0
+Mitchell,,TSPLOST,,,YES,2145,108,1347,686,4
+Mitchell,Baconton,TSPLOST,,,YES,150,7,123,20,0
+Mitchell,Branchville,TSPLOST,,,YES,111,5,72,33,1
+Mitchell,Camilla North,TSPLOST,,,YES,388,18,231,139,0
+Mitchell,Camilla South,TSPLOST,,,YES,609,23,268,315,3
+Mitchell,Cotton,TSPLOST,,,YES,67,1,61,5,0
+Mitchell,Hopeful,TSPLOST,,,YES,48,1,38,9,0
+Mitchell,Hisonton,TSPLOST,,,YES,29,0,29,0,0
+Mitchell,Lester,TSPLOST,,,YES,112,2,85,25,0
+Mitchell,Pebble City,TSPLOST,,,YES,29,1,23,5,0
+Mitchell,Pelham,TSPLOST,,,YES,541,50,357,134,0
+Mitchell,Sale City,TSPLOST,,,YES,61,0,60,1,0
+Mitchell,,TSPLOST,,,NO,2065,94,1421,549,1
+Mitchell,Baconton,TSPLOST,,,NO,162,1,125,36,0
+Mitchell,Branchville,TSPLOST,,,NO,114,1,93,20,0
+Mitchell,Camilla North,TSPLOST,,,NO,244,11,157,75,1
+Mitchell,Camilla South,TSPLOST,,,NO,578,36,287,255,0
+Mitchell,Cotton,TSPLOST,,,NO,106,0,94,12,0
+Mitchell,Hopeful,TSPLOST,,,NO,86,0,68,18,0
+Mitchell,Hisonton,TSPLOST,,,NO,46,0,45,1,0
+Mitchell,Lester,TSPLOST,,,NO,160,3,138,19,0
+Mitchell,Pebble City,TSPLOST,,,NO,57,2,43,12,0
+Mitchell,Pelham,TSPLOST,,,NO,442,40,313,89,0
+Mitchell,Sale City,TSPLOST,,,NO,70,0,58,12,0

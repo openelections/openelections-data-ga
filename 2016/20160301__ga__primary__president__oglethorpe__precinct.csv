@@ -1,0 +1,69 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Oglethorpe,,President,,REP,JEB BUSH,30,4,11,15,0
+Oglethorpe,Beaverdam,President,,REP,JEB BUSH,3,1,1,1,0
+Oglethorpe,Crawford,President,,REP,JEB BUSH,9,1,5,3,0
+Oglethorpe,Lexington,President,,REP,JEB BUSH,18,2,5,11,0
+Oglethorpe,,President,,REP,BEN CARSON,197,3,166,28,0
+Oglethorpe,Beaverdam,President,,REP,BEN CARSON,53,0,52,1,0
+Oglethorpe,Crawford,President,,REP,BEN CARSON,53,1,46,6,0
+Oglethorpe,Lexington,President,,REP,BEN CARSON,91,2,68,21,0
+Oglethorpe,,President,,REP,CHRIS CHRISTIE,5,3,1,1,0
+Oglethorpe,Beaverdam,President,,REP,CHRIS CHRISTIE,3,3,0,0,0
+Oglethorpe,Crawford,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
+Oglethorpe,Lexington,President,,REP,CHRIS CHRISTIE,2,0,1,1,0
+Oglethorpe,,President,,REP,TED CRUZ,764,30,595,139,0
+Oglethorpe,Beaverdam,President,,REP,TED CRUZ,250,7,215,28,0
+Oglethorpe,Crawford,President,,REP,TED CRUZ,214,8,164,42,0
+Oglethorpe,Lexington,President,,REP,TED CRUZ,300,15,216,69,0
+Oglethorpe,,President,,REP,CARLY FIORINA,2,0,1,1,0
+Oglethorpe,Beaverdam,President,,REP,CARLY FIORINA,1,0,1,0,0
+Oglethorpe,Crawford,President,,REP,CARLY FIORINA,0,0,0,0,0
+Oglethorpe,Lexington,President,,REP,CARLY FIORINA,1,0,0,1,0
+Oglethorpe,,President,,REP,LINDSEY GRAHAM,1,0,1,0,0
+Oglethorpe,Beaverdam,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Oglethorpe,Crawford,President,,REP,LINDSEY GRAHAM,1,0,1,0,0
+Oglethorpe,Lexington,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
+Oglethorpe,,President,,REP,MIKE HUCKABEE,7,3,4,0,0
+Oglethorpe,Beaverdam,President,,REP,MIKE HUCKABEE,1,0,1,0,0
+Oglethorpe,Crawford,President,,REP,MIKE HUCKABEE,1,1,0,0,0
+Oglethorpe,Lexington,President,,REP,MIKE HUCKABEE,5,2,3,0,0
+Oglethorpe,,President,,REP,JOHN R. KASICH,115,4,84,27,0
+Oglethorpe,Beaverdam,President,,REP,JOHN R. KASICH,38,1,30,7,0
+Oglethorpe,Crawford,President,,REP,JOHN R. KASICH,41,2,32,7,0
+Oglethorpe,Lexington,President,,REP,JOHN R. KASICH,36,1,22,13,0
+Oglethorpe,,President,,REP,GEORGE PATAKI,1,0,1,0,0
+Oglethorpe,Beaverdam,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Oglethorpe,Crawford,President,,REP,GEORGE PATAKI,0,0,0,0,0
+Oglethorpe,Lexington,President,,REP,GEORGE PATAKI,1,0,1,0,0
+Oglethorpe,,President,,REP,RAND PAUL,10,0,8,2,0
+Oglethorpe,Beaverdam,President,,REP,RAND PAUL,2,0,1,1,0
+Oglethorpe,Crawford,President,,REP,RAND PAUL,2,0,2,0,0
+Oglethorpe,Lexington,President,,REP,RAND PAUL,6,0,5,1,0
+Oglethorpe,,President,,REP,MARCO RUBIO,439,20,327,92,0
+Oglethorpe,Beaverdam,President,,REP,MARCO RUBIO,161,4,140,17,0
+Oglethorpe,Crawford,President,,REP,MARCO RUBIO,95,8,70,17,0
+Oglethorpe,Lexington,President,,REP,MARCO RUBIO,183,8,117,58,0
+Oglethorpe,,President,,REP,RICK SANTORUM,1,0,1,0,0
+Oglethorpe,Beaverdam,President,,REP,RICK SANTORUM,0,0,0,0,0
+Oglethorpe,Crawford,President,,REP,RICK SANTORUM,0,0,0,0,0
+Oglethorpe,Lexington,President,,REP,RICK SANTORUM,1,0,1,0,0
+Oglethorpe,,President,,REP,DONALD J. TRUMP,1231,63,848,319,1
+Oglethorpe,Beaverdam,President,,REP,DONALD J. TRUMP,390,17,323,50,0
+Oglethorpe,Crawford,President,,REP,DONALD J. TRUMP,301,7,224,69,1
+Oglethorpe,Lexington,President,,REP,DONALD J. TRUMP,540,39,301,200,0
+Oglethorpe,,President,,DEM,HILLARY CLINTON,562,13,422,126,1
+Oglethorpe,Beaverdam,President,,DEM,HILLARY CLINTON,103,3,92,8,0
+Oglethorpe,Crawford,President,,DEM,HILLARY CLINTON,162,5,120,37,0
+Oglethorpe,Lexington,President,,DEM,HILLARY CLINTON,297,5,210,81,1
+Oglethorpe,,President,,DEM,MARTIN O'MALLEY,3,0,2,1,0
+Oglethorpe,Beaverdam,President,,DEM,MARTIN O'MALLEY,2,0,2,0,0
+Oglethorpe,Crawford,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
+Oglethorpe,Lexington,President,,DEM,MARTIN O'MALLEY,1,0,0,1,0
+Oglethorpe,,President,,DEM,BERNIE SANDERS,358,9,287,62,0
+Oglethorpe,Beaverdam,President,,DEM,BERNIE SANDERS,132,1,120,11,0
+Oglethorpe,Crawford,President,,DEM,BERNIE SANDERS,113,4,90,19,0
+Oglethorpe,Lexington,President,,DEM,BERNIE SANDERS,113,4,77,32,0
+Oglethorpe,,President,,DEM,MICHAEL STEINBERG,5,1,4,0,0
+Oglethorpe,Beaverdam,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
+Oglethorpe,Crawford,President,,DEM,MICHAEL STEINBERG,2,1,1,0,0
+Oglethorpe,Lexington,President,,DEM,MICHAEL STEINBERG,2,0,2,0,0
