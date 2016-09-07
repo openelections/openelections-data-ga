@@ -7,7 +7,7 @@ import psycopg2
 
 
 conn = psycopg2.connect(
-    database='dev',
+    database='openelections',
     user='jreed',
     host='127.0.0.1',
     port='5432'
@@ -39,6 +39,10 @@ for counter, name in enumerate(names):
         district_info = district_info.replace('Democrat', '')
     district_number = district_info.replace('DISTRICT', '')
     district_number = district_number.replace('DIST. ', '')
+    district_number = district_number.replace('P1', '')
+    district_number = district_number.replace('P2', '')
+    district_number = district_number.replace('P3', '')
+    district_number = district_number.replace('P4', '')
     district_number = district_number.replace(' ', '')
 
     n = name.get_text()

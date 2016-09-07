@@ -1,4 +1,4 @@
---truncate table ga_primary_state_house_20020820_fullnames
+truncate table ga_primary_state_house_20020820_fullnames
 
 CREATE TABLE ga_primary_state_house_20020820_fullnames
   (
@@ -9,6 +9,9 @@ CREATE TABLE ga_primary_state_house_20020820_fullnames
     votes varchar(50),
     percent varchar(50)
   );
+
+-- Run Python script here...
+-- 20020820_ga_primary_state_house_fullnames.py
 
 select *
 from ga_primary_state_house_20020820_fullnames;
@@ -42,13 +45,6 @@ update ga_primary_state_house_20020820_fullnames
   set last_name = 'DAVIS'
 where rtrim(name) = 'DAWN J. DAVIS';
 
-D. L. JOHNSON
-GERALD E. GREENE
-
-
-
-
-
 update ga_primary_state_house_20020820_fullnames
   set last_name = 'TURNQUEST'
 where rtrim(name) = 'H. E TURNQUEST';
@@ -65,6 +61,12 @@ update ga_primary_state_house_20020820_fullnames
   set last_name = 'VON EPPS'
 where rtrim(name) = 'CARL VON EPPS';
 
+update ga_primary_state_house_20020820_fullnames
+  set last_name = 'BENFIELD',
+      name = 'STEPHANIE STUCKEY BENFIELD'
+where rtrim(name) = 'STEPHANIE STUCKEY';
+
+
 -- Check that we have good clean data...
 select *
 from ga_primary_state_house_20020820_fullnames
@@ -73,9 +75,9 @@ order by last_name;
 ---------------------------------------------------------
 ---------------------------------------------------------
 
--- truncate table ga_primary_state_house_20000718_county_votes
+truncate table ga_primary_state_house_20020820_county_votes
 
-CREATE TABLE ga_primary_state_house_20000718_county_votes
+CREATE TABLE ga_primary_state_house_20020820_county_votes
   (
     last_name varchar(50),
     party varchar(50),
@@ -86,46 +88,61 @@ CREATE TABLE ga_primary_state_house_20000718_county_votes
     county_votes varchar(50)
 );
 
-select *
-from ga_primary_state_house_20000718_county_votes;
+-- Run Python script here...
+-- 20020820_ga_primary_state_house_county_votes.py
 
-update ga_primary_state_house_20000718_county_votes
+select *
+from ga_primary_state_house_20020820_county_votes;
+
+update ga_primary_state_house_20020820_county_votes
   set total_votes = replace(total_votes, ',', '');
 
-update ga_primary_state_house_20000718_county_votes
+update ga_primary_state_house_20020820_county_votes
   set county_votes = replace(county_votes, ',', '');
 
-update ga_primary_state_house_20000718_county_votes
+update ga_primary_state_house_20020820_county_votes
   set last_name = 'VON EPPS'
 where last_name = 'VON_EPPS';
 
-update ga_primary_state_house_20000718_county_votes
+select *
+from ga_primary_state_house_20020820_county_votes
+order by last_name;
+
+update ga_primary_state_house_20020820_county_votes
   set last_name = 'WESTMORELAND'
 where last_name = 'WESTMORLND'
-  and district_number = '104';
 
-update ga_primary_state_house_20000718_county_votes
+update ga_primary_state_house_20020820_county_votes
+  set last_name = 'ABDUR-RAHIM'
+where last_name = 'ABDURRAHIM'
+  and district_number = '45';
+
+update ga_primary_state_house_20020820_county_votes
   set last_name = 'BILLINGSLEA'
-where last_name = 'BILLNGSLEA'
-  and district_number = '96';
+where last_name = 'BILLINGSLE'
+  and district_number = '84';
 
--- This person got zero votes and is not in the fullname website...
-delete from ga_primary_state_house_20000718_county_votes
-where last_name = 'COOPER'
-  and district_number = '86'
-  and total_votes = '0';
+update ga_primary_state_house_20020820_county_votes
+  set last_name = 'VON EPPS'
+where last_name = 'EPPS'
+  and district_number = '90';
+
+update ga_primary_state_house_20020820_county_votes
+  set last_name = 'DURRANCE'
+where last_name = 'DURRENCE'
+  and district_number = '121';
 
 -- QC to make sure we are matching both sides...
 select *
 from ga_primary_state_house_20020820_fullnames as a
-  left join ga_primary_state_house_20000718_county_votes as b
+  left join ga_primary_state_house_20020820_county_votes as b
     on a.last_name = b.last_name
       and a.district_number = b.district_number
       and a.party = b.party
 where b.last_name is null;
 
 select *
-from ga_primary_state_house_20000718_county_votes as a
+from ga_primary_state_house_20020820_county_votes as a
   left join ga_primary_state_house_20020820_fullnames as b
     on a.last_name = b.last_name
       and a.district_number = b.district_number
@@ -134,7 +151,7 @@ where b.last_name is null;
 
 -- QC make sure total votes match from each side...
 select *
-from ga_primary_state_house_20000718_county_votes as a
+from ga_primary_state_house_20020820_county_votes as a
   left join ga_primary_state_house_20020820_fullnames as b
     on a.last_name = b.last_name
       and a.district_number = b.district_number
@@ -143,14 +160,14 @@ from ga_primary_state_house_20000718_county_votes as a
 where b.last_name is null;
 
 select distinct last_name, district_number
-from ga_primary_state_house_20000718_county_votes;
+from ga_primary_state_house_20020820_county_votes;
 
 -- Generate the final output .csv file...
 select b.county_name as country, 'State House' as office,
   a.district_number as district, a.party as party,
   a.name as candidate, b.county_votes as votes
 from ga_primary_state_house_20020820_fullnames as a
-  inner join ga_primary_state_house_20000718_county_votes as b
+  inner join ga_primary_state_house_20020820_county_votes as b
     on a.last_name = b.last_name
       and a.district_number = b.district_number
       and a.party = b.party
