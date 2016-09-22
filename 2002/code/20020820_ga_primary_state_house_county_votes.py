@@ -35,6 +35,26 @@ def extract_data(input_url):
         "STATE REPRESENTATIVE - DISTRICT", ""
     )
 
+    district_info = district_info.replace(
+        "STATE REPRESENTATIVE - DIST.", ""
+    )
+
+    district_info = district_info.replace(
+        "P1", ""
+    )
+
+    district_info = district_info.replace(
+        "P2", ""
+    )
+
+    district_info = district_info.replace(
+        "P3", ""
+    )
+
+    district_info = district_info.replace(
+        "P4", ""
+    )
+
     if 'Republican' in district_info:
         party = 'Republican'
         district_info = district_info.replace('Republican', '')
@@ -84,7 +104,7 @@ def extract_data(input_url):
 
 
 SQL = """
-INSERT INTO ga_primary_state_house_20000718_county_votes
+INSERT INTO ga_primary_state_house_20020820_county_votes
     (last_name, party, total_votes,
         percent_votes, district_number,
         county_name, county_votes)
@@ -96,9 +116,8 @@ INSERT INTO ga_primary_state_house_20000718_county_votes
 conn = create_connection('openelections')
 cur = conn.cursor()
 
-base_url = "http://sos.ga.gov/elections/election_results/2000_0718/"
-
-url = "http://sos.ga.gov/elections/election_results/2000_0718/housemenu.htm"
+base_url = "http://sos.ga.gov/elections/election_results/2002_0820/"
+url = "http://sos.ga.gov/elections/election_results/2002_0820/housemenu.htm"
 
 html = urlopen(url)
 bs_links = BeautifulSoup(html.read(), 'lxml')
