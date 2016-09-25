@@ -4,13 +4,7 @@ require 'open-uri'
 
 # api_url = 'http://openelections.net/api/v1/election/?format=json&limit=0&state__postal=GA&start_date__year=2008'
 
-url = 'http://sos.ga.gov/elections/election_results/2008_1202/swall.htm'
-
-doc = Nokogiri::HTML(open(url))
-elec_date = url[/\d{4}_\d{4}/].gsub('_', '')
-elec_type = doc.css('table')[1].css('tr')[0].text.split(' ')[-3..-1] - ["Election", "2008"]
-elec_type = elec_type.map(&:downcase).join('__')
-fname = elec_date + '__ga__' + elec_type + '__state.csv'
+url_list = ['http://sos.ga.gov/elections/election_results/2008_1202/swall.htm', 'http://sos.ga.gov/elections/election_results/2008_1104/swall.htm']
 
 def write_csv(data, fname)
 	keys = data.flat_map(&:keys).uniq
@@ -23,8 +17,9 @@ def write_csv(data, fname)
 	end
 end
 
-def get_detail(href, off, dist)
-	elex_url = 'http://sos.ga.gov/elections/election_results/2008_1202/' + href
+# Method to get county-level results for each state-level election
+def get_detail(base_url, href, off, dist)
+	elex_url = base_url + href
 	elex_details = Nokogiri::HTML(open(elex_url))
 	answer = []
 	rows = elex_details.css('table')[-1].css('tr')
@@ -45,43 +40,67 @@ def get_detail(href, off, dist)
 	return answer
 end
 
-data = []
-hrefs = []
-county_level = []
+# Loop through each link
+url_list.each do |url|
+	puts "Now on #{url}"
+	doc = Nokogiri::HTML(open(url))
+	elec_date = url[/\d{4}_\d{4}/].gsub('_', '')
+	elec_type = doc.css('table')[1].css('tr')[0].text.split(' ')[-3..-1] - ["Election", "2008"]
+	elec_type = elec_type.map(&:downcase).join('__')
+	fname = elec_date + '__ga__' + elec_type + '__state.csv'
 
-all_rows = doc.css('body > table')[2].xpath('./tr')
-rows = all_rows.select { |r| all_rows.index(r) % 2 > 0  }
-offices = all_rows.select { |r| all_rows.index(r) % 2 == 0  }.map(&:text)
+	data = []
+	county_level = []
 
-rows.each_with_index do |row, i|
-	off = offices[i].strip.split(',')[0]
-	dist = offices[i].strip.split(',')[1].split("\r")[0].strip
-	puts "On row no #{i} of the page: #{off}, #{dist}"
+	# Get only the last table, and all first children tr elements
+	all_rows = doc.css('body > table')[2].xpath('./tr')
+	
+	# These are our individual tables for each election on the pate
+	rows = all_rows.select { |r| all_rows.index(r) % 2 > 0  }
+	
+	# These are the office headings. Yes, they are a table
+	offices = all_rows.select { |r| all_rows.index(r) % 2 == 0  }.map(&:text)
 
-	inner_table = row.css('tr')[1..3] # leave out the row with link to detailed result
-	detail = row.css('tr')[4].css('a')[0]['href'] # Push those to an array
-	hrefs << detail
-
-	county_level << get_detail(detail, off, dist)
-
-	inner_table.each_with_index do |tr, j| # Loop through each candidate
-		# puts "\t On row #{j} of inner table"
-		cells = tr.css('td')
-		if j != 2
-			temp = { "county"=> 'GA', "office"=> off, "district"=> dist, "party"=> cells[2].text.strip, "candidate"=> cells[1].text.strip, "votes"=> cells[3].text.split(" ")[0].gsub(",","").to_i }
-			data << temp
-		# Total row doesn't have candidate name
+	# Iterate and extract state-level data from each table
+	rows.each_with_index do |row, i|
+		if offices[i].strip.include?("President") || offices[i].strip.include?("Chambliss")
+			off = offices[i].strip.split("\r")[0]
+			# Senator has a "Chambliss attached to it"
+			if off.include?("Senator")
+				off = "U.S. Senate"
+			end
+			dist = "N/A"
 		else
-			temp = {"county"=> 'GA', "office"=> off, "district"=> dist, "party"=> "Total", "candidate"=> cells[1].text.strip, "votes"=> cells[2].text.split(" ")[0].gsub(",","").to_i }
-			data << temp
+			off = offices[i].strip.split(',')[0]
+			dist = offices[i].strip.split(',')[1].split("\r")[0].strip
+		end
+		puts "On row no #{i} of the page: #{off}, #{dist}"
+
+		inner_table = row.css('tr')[1..-3] # leave out the row with link to detailed result
+		detail = row.css('tr')[-2].css('a')[0]['href'] # Push those to an array
+
+		# Build URL for county-level results
+		base_url = url.scan(/\w+.+\d\//)[0]
+		county_level << get_detail(base_url, detail, off, dist)
+
+		inner_table.each_with_index do |tr, j| # Loop through each candidate
+			cells = tr.css('td')
+			if j < 2
+				temp = { "county"=> 'GA', "office"=> off, "district"=> dist, "party"=> cells[2].text.strip, "candidate"=> cells[1].text.strip, "votes"=> cells[3].text.split(" ")[0].gsub(",","").to_i }
+				data << temp
+			
+			# Total row doesn't have candidate name, so built its Hash separately
+			else
+				temp = {"county"=> 'GA', "office"=> off, "district"=> dist, "party"=> "Total", "candidate"=> cells[1].text.strip, "votes"=> cells[2].text.split(" ")[0].gsub(",","").to_i }
+				data << temp
+			end
 		end
 	end
+
+	# Collapse all arrays of Hashes into one master array, so that we can directly write it to CSV
+	county_level = county_level.flatten
+
+	county_csv_name = elec_date + '__ga__' + elec_type + '__county.csv'
+	write_csv(data, fname)
+	write_csv(county_level, county_csv_name)
 end
-
-county_level = county_level.flatten
-county_level.map { |row|  row['votes'].to_s.gsub(",", "").to_i }
-puts county_level[-1]
-
-county_csv_name = elec_date + '__ga__' + elec_type + '__county.csv'
-write_csv(data, fname)
-write_csv(county_level, county_csv_name)
