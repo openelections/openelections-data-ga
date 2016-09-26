@@ -4,7 +4,9 @@ require 'open-uri'
 
 # api_url = 'http://openelections.net/api/v1/election/?format=json&limit=0&state__postal=GA&start_date__year=2008'
 
-url_list = ['http://sos.ga.gov/elections/election_results/2008_1202/swall.htm', 'http://sos.ga.gov/elections/election_results/2008_1104/swall.htm']
+# url_list = ['http://sos.ga.gov/elections/election_results/2008_0826/swall.htm', 'http://sos.ga.gov/elections/election_results/2008_0805/gasenate13.htm', 'http://sos.ga.gov/elections/election_results/2008_0805/swall.htm', 'http://sos.ga.gov/elections/election_results/2008_0715/swall.htm', 'http://sos.ga.gov/elections/election_results/2008_0610/swall.htm', 'http://sos.ga.gov/elections/election_results/2008_0513/swall.htm']
+
+url_list = ['http://sos.ga.gov/elections/election_results/2008_0513/swall.htm']
 
 def write_csv(data, fname)
 	keys = data.flat_map(&:keys).uniq
@@ -18,14 +20,13 @@ def write_csv(data, fname)
 end
 
 # Method to get county-level results for each state-level election
-def get_detail(base_url, href, off, dist)
+def get_detail(base_url, href, off, dist, party)
 	elex_url = base_url + href
 	elex_details = Nokogiri::HTML(open(elex_url))
 	answer = []
 	rows = elex_details.css('table')[-1].css('tr')
 
-	names = rows[0].css('td').map(&:text).values_at(3,4,-1).map{ |n| n.gsub("\t", ' ').gsub("\r", ' ').gsub("(", '').gsub(")", '').split(' ')}
-	names[-1].insert(1, "Total")
+	names = rows[0].css('td')[3..-1].map(&:text).map{ |n| n.gsub("\t", ' ').gsub("\r", ' ').gsub("(", '').gsub(")", '').split(' ')}
 
 	rows = rows[3..-1] # Skip the first three rows because there's nothing in it
 
@@ -33,7 +34,7 @@ def get_detail(base_url, href, off, dist)
 	    tds = r.css('td').map(&:text).map{ |n| n.gsub("\t", ' ').gsub("\r", ' ').gsub("(", '').gsub(")", '').strip.gsub(",","")}
 
 	    names.each_with_index do |n, i|
-	    	temp = {"office"=> off,"candidate"=>n[0], "party" => n[1], "county" => tds[0].capitalize, "votes"=>tds[3+i].to_i, "district"=> dist}
+	    	temp = {"office"=> off,"candidate"=>n[0], "party" => party, "county" => tds[0].capitalize, "votes"=>tds[3+i].to_i, "district"=> dist}
 	    	answer << temp
 	    end
 	end
@@ -79,13 +80,14 @@ url_list.each do |url|
 		# Each individual table is inside a td element
 		inner_table = row.xpath('./td')
 
-		inner_table.each do |inner|
+		inner_table.each_with_index do |inner, k|
+			party_list = ['R', 'D']
 			
 			if inner.css('tr').length > 2
 				# Skip the header row of table and interate through the rest of the rows
 				inner.css('tr')[1..-4].each_with_index do |tr, j|
 					cells = tr.css('td')
-					temp = { "county"=> 'GA', "office"=> off, "district"=> dist, "party"=> cells[2].text.strip, "candidate"=> cells[1].text.strip, "votes"=> cells[3].text.split(" ")[0].gsub(",","").to_i }
+					temp = { "county"=> 'GA', "office"=> off, "district"=> dist, "party"=> party_list[k], "candidate"=> cells[1].text.strip, "votes"=> cells[3].text.split(" ")[0].gsub(",","").to_i }
 					data << temp
 				end
 
@@ -98,7 +100,7 @@ url_list.each do |url|
 				# Build URL for county-level results
 				detail  = inner.css('tr')[-2].css('a')[0]['href']			
 				base_url = url.scan(/\w+.+\d\//)[0]
-				county_level << get_detail(base_url, detail, off, dist)
+				county_level << get_detail(base_url, detail, off, dist, party_list[k])
 			end
 		end
 	end
