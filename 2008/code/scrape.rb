@@ -2,8 +2,6 @@ require 'Nokogiri'
 require 'csv'
 require 'open-uri'
 
-# api_url = 'http://openelections.net/api/v1/election/?format=json&limit=0&state__postal=GA&start_date__year=2008'
-
 url_list = ['http://sos.ga.gov/elections/election_results/2008_1202/swall.htm', 'http://sos.ga.gov/elections/election_results/2008_1104/swall.htm']
 
 def write_csv(data, fname)
