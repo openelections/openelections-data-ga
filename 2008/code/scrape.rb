@@ -45,7 +45,7 @@ url_list.each do |url|
 	elec_date = url[/\d{4}_\d{4}/].gsub('_', '')
 	elec_type = doc.css('table')[1].css('tr')[0].text.split(' ')[-3..-1] - ["Election", "2008"]
 	elec_type = elec_type.map(&:downcase).join('__')
-	fname = elec_date + '__ga__' + elec_type + '__state.csv'
+	fname = elec_date + '__ga__' + elec_type + '.csv'
 
 	data = []
 	county_level = []
