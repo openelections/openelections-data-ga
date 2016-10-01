@@ -23,5 +23,5 @@ office = doc.css('.largebold').text.strip.split(', ')[0].gsub(' Representative',
 dist = doc.css('.largebold').text.strip.split(', ')[1]
 
 answer << get_detail(special, office, dist)
-fname = elec_date + '__ga__' + elec_type + '__' + office.downcase + '__' + dist[/\d+/]
+fname = elec_date + '__ga__' + elec_type + '__' + office.downcase.gsub(' ', '_') + '__' + dist[/\d+/] + '.csv'
 write_csv(answer.flatten, fname)
