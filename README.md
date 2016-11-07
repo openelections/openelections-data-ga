@@ -6,3 +6,4 @@ This repository contains scraped or pre-processed election results from HTML pag
 ### Contributors
 
 * Derek Willis
+* Joseph Reed
