@@ -1,0 +1,253 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Peach,,President of the United States,,,DONALD J. TRUMP,5413,169,1481,3755,8
+Peach,BYRON #1,President of the United States,,,DONALD J. TRUMP,1216,19,290,903,4
+Peach,BYRON #2,President of the United States,,,DONALD J. TRUMP,1834,48,424,1359,3
+Peach,CLAUDE,President of the United States,,,DONALD J. TRUMP,442,13,220,209,0
+Peach,FORT VALLEY #1,President of the United States,,,DONALD J. TRUMP,610,45,143,422,0
+Peach,FORT VALLEY #2,President of the United States,,,DONALD J. TRUMP,442,17,104,321,0
+Peach,FORT VALLEY #3,President of the United States,,,DONALD J. TRUMP,204,8,37,158,1
+Peach,POWERSVILLE,President of the United States,,,DONALD J. TRUMP,665,19,263,383,0
+Peach,,President of the United States,,,HILLARY CLINTON,5100,186,1669,3228,17
+Peach,BYRON #1,President of the United States,,,HILLARY CLINTON,443,10,116,316,1
+Peach,BYRON #2,President of the United States,,,HILLARY CLINTON,947,21,275,650,1
+Peach,CLAUDE,President of the United States,,,HILLARY CLINTON,102,4,47,48,3
+Peach,FORT VALLEY #1,President of the United States,,,HILLARY CLINTON,889,28,288,568,5
+Peach,FORT VALLEY #2,President of the United States,,,HILLARY CLINTON,950,50,313,585,2
+Peach,FORT VALLEY #3,President of the United States,,,HILLARY CLINTON,1575,66,569,937,3
+Peach,POWERSVILLE,President of the United States,,,HILLARY CLINTON,194,7,61,124,2
+Peach,,President of the United States,,,GARY JOHNSON,211,8,98,105,0
+Peach,BYRON #1,President of the United States,,,GARY JOHNSON,37,0,21,16,0
+Peach,BYRON #2,President of the United States,,,GARY JOHNSON,68,4,25,39,0
+Peach,CLAUDE,President of the United States,,,GARY JOHNSON,11,0,8,3,0
+Peach,FORT VALLEY #1,President of the United States,,,GARY JOHNSON,33,2,13,18,0
+Peach,FORT VALLEY #2,President of the United States,,,GARY JOHNSON,20,1,12,7,0
+Peach,FORT VALLEY #3,President of the United States,,,GARY JOHNSON,25,1,7,17,0
+Peach,POWERSVILLE,President of the United States,,,GARY JOHNSON,17,0,12,5,0
+Peach,,United States Senator,,,JOHNNY ISAKSON ,5419,173,1513,3723,10
+Peach,BYRON #1,United States Senator,,,JOHNNY ISAKSON ,1163,23,282,854,4
+Peach,BYRON #2,United States Senator,,,JOHNNY ISAKSON ,1776,47,429,1296,4
+Peach,CLAUDE,United States Senator,,,JOHNNY ISAKSON ,429,13,220,195,1
+Peach,FORT VALLEY #1,United States Senator,,,JOHNNY ISAKSON ,648,42,154,452,0
+Peach,FORT VALLEY #2,United States Senator,,,JOHNNY ISAKSON ,486,19,122,345,0
+Peach,FORT VALLEY #3,United States Senator,,,JOHNNY ISAKSON ,273,11,50,211,1
+Peach,POWERSVILLE,United States Senator,,,JOHNNY ISAKSON ,644,18,256,370,0
+Peach,,United States Senator,,,JIM BARKSDALE,4454,178,1456,2803,17
+Peach,BYRON #1,United States Senator,,,JIM BARKSDALE,392,6,100,284,2
+Peach,BYRON #2,United States Senator,,,JIM BARKSDALE,839,22,235,581,1
+Peach,CLAUDE,United States Senator,,,JIM BARKSDALE,80,4,32,42,2
+Peach,FORT VALLEY #1,United States Senator,,,JIM BARKSDALE,757,29,252,471,5
+Peach,FORT VALLEY #2,United States Senator,,,JIM BARKSDALE,823,49,272,500,2
+Peach,FORT VALLEY #3,United States Senator,,,JIM BARKSDALE,1396,62,511,820,3
+Peach,POWERSVILLE,United States Senator,,,JIM BARKSDALE,167,6,54,105,2
+Peach,,United States Senator,,,ALLEN BUCKLEY,323,11,124,188,0
+Peach,BYRON #1,United States Senator,,,ALLEN BUCKLEY,55,0,18,37,0
+Peach,BYRON #2,United States Senator,,,ALLEN BUCKLEY,111,3,34,74,0
+Peach,CLAUDE,United States Senator,,,ALLEN BUCKLEY,19,0,14,5,0
+Peach,FORT VALLEY #1,United States Senator,,,ALLEN BUCKLEY,41,4,15,22,0
+Peach,FORT VALLEY #2,United States Senator,,,ALLEN BUCKLEY,32,0,18,14,0
+Peach,FORT VALLEY #3,United States Senator,,,ALLEN BUCKLEY,34,2,13,19,0
+Peach,POWERSVILLE,United States Senator,,,ALLEN BUCKLEY,31,2,12,17,0
+Peach,,"Public Service Commission, District 2",2,,TIM ECHOLS ,6077,207,1741,4115,14
+Peach,BYRON #1,"Public Service Commission, District 2",2,,TIM ECHOLS ,1230,22,300,903,5
+Peach,BYRON #2,"Public Service Commission, District 2",2,,TIM ECHOLS ,1909,52,471,1381,5
+Peach,CLAUDE,"Public Service Commission, District 2",2,,TIM ECHOLS ,448,14,227,207,0
+Peach,FORT VALLEY #1,"Public Service Commission, District 2",2,,TIM ECHOLS ,732,47,184,500,1
+Peach,FORT VALLEY #2,"Public Service Commission, District 2",2,,TIM ECHOLS ,579,24,158,396,1
+Peach,FORT VALLEY #3,"Public Service Commission, District 2",2,,TIM ECHOLS ,499,25,139,333,2
+Peach,POWERSVILLE,"Public Service Commission, District 2",2,,TIM ECHOLS ,680,23,262,395,0
+Peach,,"Public Service Commission, District 2",2,,ERIC HOSKINS,3081,101,1112,1861,7
+Peach,BYRON #1,"Public Service Commission, District 2",2,,ERIC HOSKINS,310,6,95,208,1
+Peach,BYRON #2,"Public Service Commission, District 2",2,,ERIC HOSKINS,637,13,191,433,0
+Peach,CLAUDE,"Public Service Commission, District 2",2,,ERIC HOSKINS,64,2,29,31,2
+Peach,FORT VALLEY #1,"Public Service Commission, District 2",2,,ERIC HOSKINS,513,21,184,306,2
+Peach,FORT VALLEY #2,"Public Service Commission, District 2",2,,ERIC HOSKINS,533,24,201,307,1
+Peach,FORT VALLEY #3,"Public Service Commission, District 2",2,,ERIC HOSKINS,897,32,359,506,0
+Peach,POWERSVILLE,"Public Service Commission, District 2",2,,ERIC HOSKINS,127,3,53,70,1
+Peach,,U.S. Representative,2,,GREG DUKE,5012,155,1412,3436,9
+Peach,BYRON #1,U.S. Representative,2,,GREG DUKE,1099,16,273,807,3
+Peach,BYRON #2,U.S. Representative,2,,GREG DUKE,1699,46,404,1245,4
+Peach,CLAUDE,U.S. Representative,2,,GREG DUKE,410,13,210,185,2
+Peach,FORT VALLEY #1,U.S. Representative,2,,GREG DUKE,560,40,135,385,0
+Peach,FORT VALLEY #2,U.S. Representative,2,,GREG DUKE,421,18,106,297,0
+Peach,FORT VALLEY #3,U.S. Representative,2,,GREG DUKE,216,6,55,155,0
+Peach,POWERSVILLE,U.S. Representative,2,,GREG DUKE,607,16,229,362,0
+Peach,,U.S. Representative,2,,SANFORD BISHOP ,5456,205,1749,3484,18
+Peach,BYRON #1,U.S. Representative,2,,SANFORD BISHOP ,544,11,137,393,3
+Peach,BYRON #2,U.S. Representative,2,,SANFORD BISHOP ,1067,26,300,740,1
+Peach,CLAUDE,U.S. Representative,2,,SANFORD BISHOP ,129,3,63,62,1
+Peach,FORT VALLEY #1,U.S. Representative,2,,SANFORD BISHOP ,945,36,300,604,5
+Peach,FORT VALLEY #2,U.S. Representative,2,,SANFORD BISHOP ,960,50,306,602,2
+Peach,FORT VALLEY #3,U.S. Representative,2,,SANFORD BISHOP ,1561,69,549,939,4
+Peach,POWERSVILLE,U.S. Representative,2,,SANFORD BISHOP ,250,10,94,144,2
+Peach,,State Senator,18,,JOHN F. KENNEDY ,7923,252,2466,5186,19
+Peach,BYRON #1,State Senator,18,,JOHN F. KENNEDY ,1423,25,365,1028,5
+Peach,BYRON #2,State Senator,18,,JOHN F. KENNEDY ,2264,53,590,1616,5
+Peach,CLAUDE,State Senator,18,,JOHN F. KENNEDY ,477,14,243,219,1
+Peach,FORT VALLEY #1,State Senator,18,,JOHN F. KENNEDY ,1043,59,294,687,3
+Peach,FORT VALLEY #2,State Senator,18,,JOHN F. KENNEDY ,906,35,285,584,2
+Peach,FORT VALLEY #3,State Senator,18,,JOHN F. KENNEDY ,1069,44,399,624,2
+Peach,POWERSVILLE,State Senator,18,,JOHN F. KENNEDY ,741,22,290,428,1
+Peach,,State Representative,139,,PATTY J. BENTLEY ,4034,179,1315,2530,10
+Peach,FORT VALLEY #1,State Representative,139,,PATTY J. BENTLEY ,1233,55,379,795,4
+Peach,FORT VALLEY #2,State Representative,139,,PATTY J. BENTLEY ,1150,57,361,730,2
+Peach,FORT VALLEY #3,State Representative,139,,PATTY J. BENTLEY ,1651,67,575,1005,4
+Peach,,State Representative,140,,ROBERT DICKEY ,4918,119,1488,3301,10
+Peach,BYRON #1,State Representative,140,,ROBERT DICKEY ,1419,26,363,1025,5
+Peach,BYRON #2,State Representative,140,,ROBERT DICKEY ,2264,55,581,1624,4
+Peach,CLAUDE,State Representative,140,,ROBERT DICKEY ,482,14,248,220,0
+Peach,POWERSVILLE,State Representative,140,,ROBERT DICKEY ,753,24,296,432,1
+Peach,,District Attorney, Macon Circuit,,DAVID COOKE ,8402,281,2641,5459,21
+Peach,BYRON #1,District Attorney, Macon Circuit,,DAVID COOKE ,1236,18,322,891,5
+Peach,BYRON #2,District Attorney, Macon Circuit,,DAVID COOKE ,2117,52,575,1487,3
+Peach,CLAUDE,District Attorney, Macon Circuit,,DAVID COOKE ,388,11,194,181,2
+Peach,FORT VALLEY #1,District Attorney, Macon Circuit,,DAVID COOKE ,1253,60,378,811,4
+Peach,FORT VALLEY #2,District Attorney, Macon Circuit,,DAVID COOKE ,1147,52,361,732,2
+Peach,FORT VALLEY #3,District Attorney, Macon Circuit,,DAVID COOKE ,1632,69,567,992,4
+Peach,POWERSVILLE,District Attorney, Macon Circuit,,DAVID COOKE ,629,19,244,365,1
+Peach,,CLERK SUPERIOR CT,,D,J. WILDER ,8733,295,2706,5711,21
+Peach,BYRON #1,CLERK SUPERIOR CT,,D,J. WILDER ,1311,21,338,947,5
+Peach,BYRON #2,CLERK SUPERIOR CT,,D,J. WILDER ,2158,51,582,1522,3
+Peach,CLAUDE,CLERK SUPERIOR CT,,D,J. WILDER ,387,11,193,181,2
+Peach,FORT VALLEY #1,CLERK SUPERIOR CT,,D,J. WILDER ,1373,66,402,901,4
+Peach,FORT VALLEY #2,CLERK SUPERIOR CT,,D,J. WILDER ,1197,55,368,772,2
+Peach,FORT VALLEY #3,CLERK SUPERIOR CT,,D,J. WILDER ,1651,69,575,1003,4
+Peach,POWERSVILLE,CLERK SUPERIOR CT,,D,J. WILDER ,656,22,248,385,1
+Peach,,SHERIFF,,D,T. W. DEESE ,9223,305,2869,6028,21
+Peach,BYRON #1,SHERIFF,,D,T. W. DEESE ,1408,21,360,1022,5
+Peach,BYRON #2,SHERIFF,,D,T. W. DEESE ,2319,52,620,1644,3
+Peach,CLAUDE,SHERIFF,,D,T. W. DEESE ,428,11,218,197,2
+Peach,FORT VALLEY #1,SHERIFF,,D,T. W. DEESE ,1420,72,413,931,4
+Peach,FORT VALLEY #2,SHERIFF,,D,T. W. DEESE ,1253,58,388,805,2
+Peach,FORT VALLEY #3,SHERIFF,,D,T. W. DEESE ,1680,68,590,1018,4
+Peach,POWERSVILLE,SHERIFF,,D,T. W. DEESE ,715,23,280,411,1
+Peach,,TAX COMMISSIONER,,D,W. L. BROWN ,8897,300,2768,5809,20
+Peach,BYRON #1,TAX COMMISSIONER,,D,W. L. BROWN ,1330,22,341,962,5
+Peach,BYRON #2,TAX COMMISSIONER,,D,W. L. BROWN ,2195,48,596,1548,3
+Peach,CLAUDE,TAX COMMISSIONER,,D,W. L. BROWN ,396,11,200,184,1
+Peach,FORT VALLEY #1,TAX COMMISSIONER,,D,W. L. BROWN ,1398,71,408,915,4
+Peach,FORT VALLEY #2,TAX COMMISSIONER,,D,W. L. BROWN ,1237,58,384,793,2
+Peach,FORT VALLEY #3,TAX COMMISSIONER,,D,W. L. BROWN ,1669,67,583,1015,4
+Peach,POWERSVILLE,TAX COMMISSIONER,,D,W. L. BROWN ,672,23,256,392,1
+Peach,,CORONER,,R,K. E. ROOKS ,8442,281,2607,5535,19
+Peach,BYRON #1,CORONER,,R,K. E. ROOKS ,1442,25,368,1045,4
+Peach,BYRON #2,CORONER,,R,K. E. ROOKS ,2318,57,600,1656,5
+Peach,CLAUDE,CORONER,,R,K. E. ROOKS ,492,14,252,224,2
+Peach,FORT VALLEY #1,CORONER,,R,K. E. ROOKS ,1165,66,324,772,3
+Peach,FORT VALLEY #2,CORONER,,R,K. E. ROOKS ,1029,42,323,662,2
+Peach,FORT VALLEY #3,CORONER,,R,K. E. ROOKS ,1240,53,446,739,2
+Peach,POWERSVILLE,CORONER,,R,K. E. ROOKS ,756,24,294,437,1
+Peach,,CC P5 AT LARGE,,R,W. YODER,5830,187,1657,3978,8
+Peach,BYRON #1,CC P5 AT LARGE,,R,W. YODER,1256,20,308,924,4
+Peach,BYRON #2,CC P5 AT LARGE,,R,W. YODER,1918,53,469,1392,4
+Peach,CLAUDE,CC P5 AT LARGE,,R,W. YODER,463,14,240,209,0
+Peach,FORT VALLEY #1,CC P5 AT LARGE,,R,W. YODER,721,50,174,497,0
+Peach,FORT VALLEY #2,CC P5 AT LARGE,,R,W. YODER,528,22,136,370,0
+Peach,FORT VALLEY #3,CC P5 AT LARGE,,R,W. YODER,256,8,57,191,0
+Peach,POWERSVILLE,CC P5 AT LARGE,,R,W. YODER,688,20,273,395,0
+Peach,,CC P5 AT LARGE,,D,K. V. KENDRICK,4713,176,1537,2984,16
+Peach,BYRON #1,CC P5 AT LARGE,,D,K. V. KENDRICK,405,8,111,285,1
+Peach,BYRON #2,CC P5 AT LARGE,,D,K. V. KENDRICK,869,19,238,611,1
+Peach,CLAUDE,CC P5 AT LARGE,,D,K. V. KENDRICK,76,2,30,42,2
+Peach,FORT VALLEY #1,CC P5 AT LARGE,,D,K. V. KENDRICK,807,27,269,506,5
+Peach,FORT VALLEY #2,CC P5 AT LARGE,,D,K. V. KENDRICK,859,47,287,523,2
+Peach,FORT VALLEY #3,CC P5 AT LARGE,,D,K. V. KENDRICK,1525,67,545,909,4
+Peach,POWERSVILLE,CC P5 AT LARGE,,D,K. V. KENDRICK,172,6,57,108,1
+Peach,,CC P1,,R,R. LEWIS ,2522,69,708,1740,5
+Peach,BYRON #2,CC P1,,R,R. LEWIS ,2188,58,576,1549,5
+Peach,CLAUDE,CC P1,,R,R. LEWIS ,102,3,44,55,0
+Peach,POWERSVILLE,CC P1,,R,R. LEWIS ,232,8,88,136,0
+Peach,,CC P3,,R,B. J. CRUMP,600,20,182,398,0
+Peach,CLAUDE,CC P3,,R,B. J. CRUMP,138,4,74,60,0
+Peach,FORT VALLEY #1,CC P3,,R,B. J. CRUMP,65,2,18,45,0
+Peach,FORT VALLEY #2,CC P3,,R,B. J. CRUMP,198,8,56,134,0
+Peach,FORT VALLEY #3,CC P3,,R,B. J. CRUMP,199,6,34,159,0
+Peach,,CC P3,,D,B. C. HILL ,1513,60,516,929,8
+Peach,CLAUDE,CC P3,,D,B. C. HILL ,38,3,16,18,1
+Peach,FORT VALLEY #1,CC P3,,D,B. C. HILL ,228,7,72,148,1
+Peach,FORT VALLEY #2,CC P3,,D,B. C. HILL ,105,6,30,67,2
+Peach,FORT VALLEY #3,CC P3,,D,B. C. HILL ,1142,44,398,696,4
+Peach,,BOE P1,,R,B. MCDANIEL ,2148,63,570,1511,4
+Peach,BYRON #2,BOE P1,,R,B. MCDANIEL ,1841,52,448,1337,4
+Peach,CLAUDE,BOE P1,,R,B. MCDANIEL ,94,3,44,47,0
+Peach,POWERSVILLE,BOE P1,,R,B. MCDANIEL ,213,8,78,127,0
+Peach,,BOE P1,,D,S. P. WILLIAMS,971,20,283,667,1
+Peach,BYRON #2,BOE P1,,D,S. P. WILLIAMS,887,17,252,617,1
+Peach,CLAUDE,BOE P1,,D,S. P. WILLIAMS,29,0,9,20,0
+Peach,POWERSVILLE,BOE P1,,D,S. P. WILLIAMS,55,3,22,30,0
+Peach,,BOE P3,,D,B. M. JACKSON,1829,68,621,1132,8
+Peach,CLAUDE,BOE P3,,D,B. M. JACKSON,110,5,56,48,1
+Peach,FORT VALLEY #1,BOE P3,,D,B. M. JACKSON,261,9,87,164,1
+Peach,FORT VALLEY #2,BOE P3,,D,B. M. JACKSON,222,11,65,144,2
+Peach,FORT VALLEY #3,BOE P3,,D,B. M. JACKSON,1236,43,413,776,4
+Peach,,SOIL AND WATER,,,G. HANCOCK ,7964,249,2513,5184,18
+Peach,BYRON #1,SOIL AND WATER,,,G. HANCOCK ,1250,20,329,897,4
+Peach,BYRON #2,SOIL AND WATER,,,G. HANCOCK ,2149,47,575,1523,4
+Peach,CLAUDE,SOIL AND WATER,,,G. HANCOCK ,415,11,213,189,2
+Peach,FORT VALLEY #1,SOIL AND WATER,,,G. HANCOCK ,1147,55,335,754,3
+Peach,FORT VALLEY #2,SOIL AND WATER,,,G. HANCOCK ,994,40,312,640,2
+Peach,FORT VALLEY #3,SOIL AND WATER,,,G. HANCOCK ,1340,56,479,802,3
+Peach,POWERSVILLE,SOIL AND WATER,,,G. HANCOCK ,669,20,270,379,0
+Peach,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,4487,162,1454,2859,12
+Peach,BYRON #1,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,684,9,195,478,2
+Peach,BYRON #2,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1219,39,317,861,2
+Peach,CLAUDE,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,234,11,110,111,2
+Peach,FORT VALLEY #1,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,599,25,183,388,3
+Peach,FORT VALLEY #2,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,664,33,229,402,0
+Peach,FORT VALLEY #3,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,735,35,283,414,3
+Peach,POWERSVILLE,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,352,10,137,205,0
+Peach,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,5988,190,1728,4061,9
+Peach,BYRON #1,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,963,17,217,727,2
+Peach,BYRON #2,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1553,32,394,1126,1
+Peach,CLAUDE,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,310,4,165,141,0
+Peach,FORT VALLEY #1,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,901,49,248,602,2
+Peach,FORT VALLEY #2,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,721,34,195,490,2
+Peach,FORT VALLEY #3,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1038,38,320,679,1
+Peach,POWERSVILLE,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,502,16,189,296,1
+Peach,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,8436,297,2534,5587,18
+Peach,BYRON #1,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1409,25,346,1036,2
+Peach,BYRON #2,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2325,65,572,1684,4
+Peach,CLAUDE,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,451,16,220,215,0
+Peach,FORT VALLEY #1,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1147,57,331,754,5
+Peach,FORT VALLEY #2,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1066,52,329,683,2
+Peach,FORT VALLEY #3,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1331,59,461,807,4
+Peach,POWERSVILLE,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,707,23,275,408,1
+Peach,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,1888,54,608,1222,4
+Peach,BYRON #1,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,232,2,67,161,2
+Peach,BYRON #2,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,425,6,130,288,1
+Peach,CLAUDE,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,89,1,50,37,1
+Peach,FORT VALLEY #1,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,321,18,92,211,0
+Peach,FORT VALLEY #2,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,283,9,91,183,0
+Peach,FORT VALLEY #3,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,411,15,129,267,0
+Peach,POWERSVILLE,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,127,3,49,75,0
+Peach,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,6153,212,1917,4012,12
+Peach,BYRON #1,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,980,23,258,698,1
+Peach,BYRON #2,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1679,42,430,1205,2
+Peach,CLAUDE,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,308,15,142,150,1
+Peach,FORT VALLEY #1,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,830,33,259,536,2
+Peach,FORT VALLEY #2,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,860,43,270,545,2
+Peach,FORT VALLEY #3,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1022,41,373,605,3
+Peach,POWERSVILLE,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,474,15,185,273,1
+Peach,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,3633,122,1092,2412,7
+Peach,BYRON #1,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,558,2,133,420,3
+Peach,BYRON #2,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,907,26,231,649,1
+Peach,CLAUDE,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,196,1,116,79,0
+Peach,FORT VALLEY #1,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,565,39,150,374,2
+Peach,FORT VALLEY #2,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,438,15,139,284,0
+Peach,FORT VALLEY #3,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,662,29,203,429,1
+Peach,POWERSVILLE,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,307,10,120,177,0
+Peach,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,8002,292,2420,5269,21
+Peach,BYRON #1,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1300,26,329,941,4
+Peach,BYRON #2,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,2219,62,558,1594,5
+Peach,CLAUDE,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,399,14,195,189,1
+Peach,FORT VALLEY #1,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1109,56,315,733,5
+Peach,FORT VALLEY #2,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1018,52,313,651,2
+Peach,FORT VALLEY #3,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1309,60,454,792,3
+Peach,POWERSVILLE,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,648,22,256,369,1
+Peach,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,2191,57,706,1427,1
+Peach,BYRON #1,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,313,0,81,232,0
+Peach,BYRON #2,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,491,9,145,337,0
+Peach,CLAUDE,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,128,3,71,54,0
+Peach,FORT VALLEY #1,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,341,19,105,217,0
+Peach,FORT VALLEY #2,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,316,9,102,205,0
+Peach,FORT VALLEY #3,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,425,13,137,274,1
+Peach,POWERSVILLE,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,177,4,65,108,0

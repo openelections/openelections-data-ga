@@ -1,0 +1,926 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Carroll,,President of the United States,,,DONALD J. TRUMP,30029,901,13018,16070,40
+Carroll,KANSAS (1006),President of the United States,,,DONALD J. TRUMP,602,13,426,162,1
+Carroll,BOWDON (1111),President of the United States,,,DONALD J. TRUMP,1246,34,745,465,2
+Carroll,SANDHILL (1122),President of the United States,,,DONALD J. TRUMP,1634,51,561,1019,3
+Carroll,CENTER POINT (1152),President of the United States,,,DONALD J. TRUMP,930,21,455,450,4
+Carroll,LOWELL (1163),President of the United States,,,DONALD J. TRUMP,770,17,444,308,1
+Carroll,MT ZION (1240),President of the United States,,,DONALD J. TRUMP,898,8,558,331,1
+Carroll,BURWELL (1371),President of the United States,,,DONALD J. TRUMP,655,24,392,237,2
+Carroll,CLEM (1483),President of the United States,,,DONALD J. TRUMP,1647,42,580,1025,0
+Carroll,BOWDON JUNCTION (1496),President of the United States,,,DONALD J. TRUMP,504,13,256,235,0
+Carroll,TYUS (1533),President of the United States,,,DONALD J. TRUMP,882,21,528,332,1
+Carroll,FAIRFIELD (1540),President of the United States,,,DONALD J. TRUMP,1740,58,914,768,0
+Carroll,HULETT (1542),President of the United States,,,DONALD J. TRUMP,1158,33,523,601,1
+Carroll,BETHANY (501),President of the United States,,,DONALD J. TRUMP,1324,31,496,795,2
+Carroll,V R COUNTY SOUTH (640),President of the United States,,,DONALD J. TRUMP,1183,34,331,817,1
+Carroll,V R COUNTY NORTH (641),President of the United States,,,DONALD J. TRUMP,1898,84,594,1219,1
+Carroll,VILLA RICA CITY (642),President of the United States,,,DONALD J. TRUMP,1673,76,474,1119,4
+Carroll,TEMPLE COUNTY (649),President of the United States,,,DONALD J. TRUMP,1674,53,682,937,2
+Carroll,TEMPLE CITY (650),President of the United States,,,DONALD J. TRUMP,1182,49,616,514,3
+Carroll,WHITESBURG (682),President of the United States,,,DONALD J. TRUMP,1007,29,578,398,2
+Carroll,ROOPVILLE (713),President of the United States,,,DONALD J. TRUMP,753,13,467,273,0
+Carroll,WEST CARROLLTON (714A1),President of the United States,,,DONALD J. TRUMP,325,11,112,200,2
+Carroll,EAST CARROLLTON REC (714A2),President of the United States,,,DONALD J. TRUMP,517,22,149,346,0
+Carroll,BONNER (714A3),President of the United States,,,DONALD J. TRUMP,1138,28,287,823,0
+Carroll,UNIVERSITY OF W. GA (714A4),President of the United States,,,DONALD J. TRUMP,701,17,249,434,1
+Carroll,COUNTY ADMIN BLDG (714A5),President of the United States,,,DONALD J. TRUMP,734,30,164,538,2
+Carroll,TABERNACLE CHURCH (714A6),President of the United States,,,DONALD J. TRUMP,535,29,176,329,1
+Carroll,EMC (714BN),President of the United States,,,DONALD J. TRUMP,508,14,179,315,0
+Carroll,OLD CAMP CHURCH (714BW),President of the United States,,,DONALD J. TRUMP,1070,27,477,564,2
+Carroll,OAK GROVE (715),President of the United States,,,DONALD J. TRUMP,705,13,355,336,1
+Carroll,NEW HOPE (716),President of the United States,,,DONALD J. TRUMP,436,6,250,180,0
+Carroll,,President of the United States,,,HILLARY CLINTON,12464,543,4983,6898,40
+Carroll,KANSAS (1006),President of the United States,,,HILLARY CLINTON,51,1,31,19,0
+Carroll,BOWDON (1111),President of the United States,,,HILLARY CLINTON,368,15,209,141,3
+Carroll,SANDHILL (1122),President of the United States,,,HILLARY CLINTON,578,20,207,350,1
+Carroll,CENTER POINT (1152),President of the United States,,,HILLARY CLINTON,128,8,54,66,0
+Carroll,LOWELL (1163),President of the United States,,,HILLARY CLINTON,107,10,38,59,0
+Carroll,MT ZION (1240),President of the United States,,,HILLARY CLINTON,162,8,85,68,1
+Carroll,BURWELL (1371),President of the United States,,,HILLARY CLINTON,149,8,83,58,0
+Carroll,CLEM (1483),President of the United States,,,HILLARY CLINTON,419,16,115,288,0
+Carroll,BOWDON JUNCTION (1496),President of the United States,,,HILLARY CLINTON,181,11,95,74,1
+Carroll,TYUS (1533),President of the United States,,,HILLARY CLINTON,165,7,92,65,1
+Carroll,FAIRFIELD (1540),President of the United States,,,HILLARY CLINTON,632,33,296,303,0
+Carroll,HULETT (1542),President of the United States,,,HILLARY CLINTON,191,11,74,106,0
+Carroll,BETHANY (501),President of the United States,,,HILLARY CLINTON,812,28,279,501,4
+Carroll,V R COUNTY SOUTH (640),President of the United States,,,HILLARY CLINTON,299,15,100,182,2
+Carroll,V R COUNTY NORTH (641),President of the United States,,,HILLARY CLINTON,703,33,233,437,0
+Carroll,VILLA RICA CITY (642),President of the United States,,,HILLARY CLINTON,1403,60,431,909,3
+Carroll,TEMPLE COUNTY (649),President of the United States,,,HILLARY CLINTON,375,14,158,200,3
+Carroll,TEMPLE CITY (650),President of the United States,,,HILLARY CLINTON,530,20,257,253,0
+Carroll,WHITESBURG (682),President of the United States,,,HILLARY CLINTON,150,6,80,64,0
+Carroll,ROOPVILLE (713),President of the United States,,,HILLARY CLINTON,146,13,75,58,0
+Carroll,WEST CARROLLTON (714A1),President of the United States,,,HILLARY CLINTON,1053,33,414,596,10
+Carroll,EAST CARROLLTON REC (714A2),President of the United States,,,HILLARY CLINTON,371,24,117,229,1
+Carroll,BONNER (714A3),President of the United States,,,HILLARY CLINTON,741,45,253,441,2
+Carroll,UNIVERSITY OF W. GA (714A4),President of the United States,,,HILLARY CLINTON,896,16,553,322,5
+Carroll,COUNTY ADMIN BLDG (714A5),President of the United States,,,HILLARY CLINTON,539,22,142,374,1
+Carroll,TABERNACLE CHURCH (714A6),President of the United States,,,HILLARY CLINTON,321,20,116,184,1
+Carroll,EMC (714BN),President of the United States,,,HILLARY CLINTON,268,13,99,156,0
+Carroll,OLD CAMP CHURCH (714BW),President of the United States,,,HILLARY CLINTON,310,9,133,168,0
+Carroll,OAK GROVE (715),President of the United States,,,HILLARY CLINTON,191,14,70,107,0
+Carroll,NEW HOPE (716),President of the United States,,,HILLARY CLINTON,225,10,94,120,1
+Carroll,,President of the United States,,,GARY JOHNSON,1346,35,741,563,7
+Carroll,KANSAS (1006),President of the United States,,,GARY JOHNSON,14,0,11,3,0
+Carroll,BOWDON (1111),President of the United States,,,GARY JOHNSON,41,1,27,13,0
+Carroll,SANDHILL (1122),President of the United States,,,GARY JOHNSON,63,1,28,34,0
+Carroll,CENTER POINT (1152),President of the United States,,,GARY JOHNSON,23,0,14,9,0
+Carroll,LOWELL (1163),President of the United States,,,GARY JOHNSON,22,0,13,9,0
+Carroll,MT ZION (1240),President of the United States,,,GARY JOHNSON,37,1,33,3,0
+Carroll,BURWELL (1371),President of the United States,,,GARY JOHNSON,26,0,17,9,0
+Carroll,CLEM (1483),President of the United States,,,GARY JOHNSON,69,3,33,31,2
+Carroll,BOWDON JUNCTION (1496),President of the United States,,,GARY JOHNSON,13,0,6,6,1
+Carroll,TYUS (1533),President of the United States,,,GARY JOHNSON,25,0,18,7,0
+Carroll,FAIRFIELD (1540),President of the United States,,,GARY JOHNSON,59,4,39,16,0
+Carroll,HULETT (1542),President of the United States,,,GARY JOHNSON,46,1,31,13,1
+Carroll,BETHANY (501),President of the United States,,,GARY JOHNSON,74,1,34,39,0
+Carroll,V R COUNTY SOUTH (640),President of the United States,,,GARY JOHNSON,40,1,22,17,0
+Carroll,V R COUNTY NORTH (641),President of the United States,,,GARY JOHNSON,67,2,36,29,0
+Carroll,VILLA RICA CITY (642),President of the United States,,,GARY JOHNSON,107,2,55,49,1
+Carroll,TEMPLE COUNTY (649),President of the United States,,,GARY JOHNSON,68,3,36,29,0
+Carroll,TEMPLE CITY (650),President of the United States,,,GARY JOHNSON,66,2,39,25,0
+Carroll,WHITESBURG (682),President of the United States,,,GARY JOHNSON,26,0,14,12,0
+Carroll,ROOPVILLE (713),President of the United States,,,GARY JOHNSON,29,0,19,10,0
+Carroll,WEST CARROLLTON (714A1),President of the United States,,,GARY JOHNSON,47,1,21,23,2
+Carroll,EAST CARROLLTON REC (714A2),President of the United States,,,GARY JOHNSON,35,2,18,15,0
+Carroll,BONNER (714A3),President of the United States,,,GARY JOHNSON,72,3,36,33,0
+Carroll,UNIVERSITY OF W. GA (714A4),President of the United States,,,GARY JOHNSON,54,0,34,20,0
+Carroll,COUNTY ADMIN BLDG (714A5),President of the United States,,,GARY JOHNSON,86,1,40,45,0
+Carroll,TABERNACLE CHURCH (714A6),President of the United States,,,GARY JOHNSON,33,2,13,18,0
+Carroll,EMC (714BN),President of the United States,,,GARY JOHNSON,25,1,11,13,0
+Carroll,OLD CAMP CHURCH (714BW),President of the United States,,,GARY JOHNSON,51,1,28,22,0
+Carroll,OAK GROVE (715),President of the United States,,,GARY JOHNSON,14,1,8,5,0
+Carroll,NEW HOPE (716),President of the United States,,,GARY JOHNSON,14,1,7,6,0
+Carroll,,United States Senator,,,JOHNNY ISAKSON ,29043,905,12468,15622,48
+Carroll,KANSAS (1006),United States Senator,,,JOHNNY ISAKSON ,551,9,394,147,1
+Carroll,BOWDON (1111),United States Senator,,,JOHNNY ISAKSON ,1156,36,688,431,1
+Carroll,SANDHILL (1122),United States Senator,,,JOHNNY ISAKSON ,1531,47,538,943,3
+Carroll,CENTER POINT (1152),United States Senator,,,JOHNNY ISAKSON ,879,17,431,427,4
+Carroll,LOWELL (1163),United States Senator,,,JOHNNY ISAKSON ,737,17,417,302,1
+Carroll,MT ZION (1240),United States Senator,,,JOHNNY ISAKSON ,832,11,515,304,2
+Carroll,BURWELL (1371),United States Senator,,,JOHNNY ISAKSON ,603,24,358,220,1
+Carroll,CLEM (1483),United States Senator,,,JOHNNY ISAKSON ,1627,45,562,1018,2
+Carroll,BOWDON JUNCTION (1496),United States Senator,,,JOHNNY ISAKSON ,467,12,236,218,1
+Carroll,TYUS (1533),United States Senator,,,JOHNNY ISAKSON ,819,24,475,318,2
+Carroll,FAIRFIELD (1540),United States Senator,,,JOHNNY ISAKSON ,1690,57,884,749,0
+Carroll,HULETT (1542),United States Senator,,,JOHNNY ISAKSON ,1080,33,487,559,1
+Carroll,BETHANY (501),United States Senator,,,JOHNNY ISAKSON ,1308,33,471,802,2
+Carroll,V R COUNTY SOUTH (640),United States Senator,,,JOHNNY ISAKSON ,1139,38,326,772,3
+Carroll,V R COUNTY NORTH (641),United States Senator,,,JOHNNY ISAKSON ,1774,84,564,1125,1
+Carroll,VILLA RICA CITY (642),United States Senator,,,JOHNNY ISAKSON ,1646,78,473,1089,6
+Carroll,TEMPLE COUNTY (649),United States Senator,,,JOHNNY ISAKSON ,1553,43,634,874,2
+Carroll,TEMPLE CITY (650),United States Senator,,,JOHNNY ISAKSON ,1136,50,584,499,3
+Carroll,WHITESBURG (682),United States Senator,,,JOHNNY ISAKSON ,926,23,519,382,2
+Carroll,ROOPVILLE (713),United States Senator,,,JOHNNY ISAKSON ,744,10,453,281,0
+Carroll,WEST CARROLLTON (714A1),United States Senator,,,JOHNNY ISAKSON ,360,6,120,230,4
+Carroll,EAST CARROLLTON REC (714A2),United States Senator,,,JOHNNY ISAKSON ,536,28,159,349,0
+Carroll,BONNER (714A3),United States Senator,,,JOHNNY ISAKSON ,1217,35,321,861,0
+Carroll,UNIVERSITY OF W. GA (714A4),United States Senator,,,JOHNNY ISAKSON ,776,20,293,462,1
+Carroll,COUNTY ADMIN BLDG (714A5),United States Senator,,,JOHNNY ISAKSON ,747,32,181,532,2
+Carroll,TABERNACLE CHURCH (714A6),United States Senator,,,JOHNNY ISAKSON ,569,35,176,358,0
+Carroll,EMC (714BN),United States Senator,,,JOHNNY ISAKSON ,487,15,167,305,0
+Carroll,OLD CAMP CHURCH (714BW),United States Senator,,,JOHNNY ISAKSON ,1063,26,484,551,2
+Carroll,OAK GROVE (715),United States Senator,,,JOHNNY ISAKSON ,676,10,333,332,1
+Carroll,NEW HOPE (716),United States Senator,,,JOHNNY ISAKSON ,414,7,225,182,0
+Carroll,,United States Senator,,,JIM BARKSDALE,10867,487,4391,5952,37
+Carroll,KANSAS (1006),United States Senator,,,JIM BARKSDALE,48,2,34,12,0
+Carroll,BOWDON (1111),United States Senator,,,JIM BARKSDALE,304,10,180,110,4
+Carroll,SANDHILL (1122),United States Senator,,,JIM BARKSDALE,536,21,184,330,1
+Carroll,CENTER POINT (1152),United States Senator,,,JIM BARKSDALE,122,7,55,60,0
+Carroll,LOWELL (1163),United States Senator,,,JIM BARKSDALE,102,9,40,53,0
+Carroll,MT ZION (1240),United States Senator,,,JIM BARKSDALE,158,8,86,64,0
+Carroll,BURWELL (1371),United States Senator,,,JIM BARKSDALE,143,7,80,55,1
+Carroll,CLEM (1483),United States Senator,,,JIM BARKSDALE,366,14,107,245,0
+Carroll,BOWDON JUNCTION (1496),United States Senator,,,JIM BARKSDALE,165,9,86,70,0
+Carroll,TYUS (1533),United States Senator,,,JIM BARKSDALE,140,4,86,50,0
+Carroll,FAIRFIELD (1540),United States Senator,,,JIM BARKSDALE,535,31,238,266,0
+Carroll,HULETT (1542),United States Senator,,,JIM BARKSDALE,193,11,79,103,0
+Carroll,BETHANY (501),United States Senator,,,JIM BARKSDALE,692,24,248,416,4
+Carroll,V R COUNTY SOUTH (640),United States Senator,,,JIM BARKSDALE,258,12,82,164,0
+Carroll,V R COUNTY NORTH (641),United States Senator,,,JIM BARKSDALE,624,30,206,388,0
+Carroll,VILLA RICA CITY (642),United States Senator,,,JIM BARKSDALE,1213,57,376,778,2
+Carroll,TEMPLE COUNTY (649),United States Senator,,,JIM BARKSDALE,365,21,145,196,3
+Carroll,TEMPLE CITY (650),United States Senator,,,JIM BARKSDALE,472,19,226,227,0
+Carroll,WHITESBURG (682),United States Senator,,,JIM BARKSDALE,154,9,87,58,0
+Carroll,ROOPVILLE (713),United States Senator,,,JIM BARKSDALE,119,11,61,47,0
+Carroll,WEST CARROLLTON (714A1),United States Senator,,,JIM BARKSDALE,903,31,356,507,9
+Carroll,EAST CARROLLTON REC (714A2),United States Senator,,,JIM BARKSDALE,330,18,106,205,1
+Carroll,BONNER (714A3),United States Senator,,,JIM BARKSDALE,587,37,204,344,2
+Carroll,UNIVERSITY OF W. GA (714A4),United States Senator,,,JIM BARKSDALE,757,12,471,268,6
+Carroll,COUNTY ADMIN BLDG (714A5),United States Senator,,,JIM BARKSDALE,467,19,116,331,1
+Carroll,TABERNACLE CHURCH (714A6),United States Senator,,,JIM BARKSDALE,257,13,101,141,2
+Carroll,EMC (714BN),United States Senator,,,JIM BARKSDALE,233,10,88,135,0
+Carroll,OLD CAMP CHURCH (714BW),United States Senator,,,JIM BARKSDALE,257,8,108,141,0
+Carroll,OAK GROVE (715),United States Senator,,,JIM BARKSDALE,155,13,62,80,0
+Carroll,NEW HOPE (716),United States Senator,,,JIM BARKSDALE,212,10,93,108,1
+Carroll,,United States Senator,,,ALLEN BUCKLEY,1997,70,1014,909,4
+Carroll,KANSAS (1006),United States Senator,,,ALLEN BUCKLEY,32,2,18,12,0
+Carroll,BOWDON (1111),United States Senator,,,ALLEN BUCKLEY,70,5,34,31,0
+Carroll,SANDHILL (1122),United States Senator,,,ALLEN BUCKLEY,101,3,39,59,0
+Carroll,CENTER POINT (1152),United States Senator,,,ALLEN BUCKLEY,37,3,18,16,0
+Carroll,LOWELL (1163),United States Senator,,,ALLEN BUCKLEY,27,0,14,13,0
+Carroll,MT ZION (1240),United States Senator,,,ALLEN BUCKLEY,49,0,38,11,0
+Carroll,BURWELL (1371),United States Senator,,,ALLEN BUCKLEY,40,0,25,15,0
+Carroll,CLEM (1483),United States Senator,,,ALLEN BUCKLEY,94,0,44,50,0
+Carroll,BOWDON JUNCTION (1496),United States Senator,,,ALLEN BUCKLEY,30,1,21,7,1
+Carroll,TYUS (1533),United States Senator,,,ALLEN BUCKLEY,45,0,33,12,0
+Carroll,FAIRFIELD (1540),United States Senator,,,ALLEN BUCKLEY,116,5,71,40,0
+Carroll,HULETT (1542),United States Senator,,,ALLEN BUCKLEY,66,1,37,27,1
+Carroll,BETHANY (501),United States Senator,,,ALLEN BUCKLEY,98,2,47,49,0
+Carroll,V R COUNTY SOUTH (640),United States Senator,,,ALLEN BUCKLEY,74,1,31,42,0
+Carroll,V R COUNTY NORTH (641),United States Senator,,,ALLEN BUCKLEY,129,4,52,73,0
+Carroll,VILLA RICA CITY (642),United States Senator,,,ALLEN BUCKLEY,145,5,68,72,0
+Carroll,TEMPLE COUNTY (649),United States Senator,,,ALLEN BUCKLEY,97,6,40,51,0
+Carroll,TEMPLE CITY (650),United States Senator,,,ALLEN BUCKLEY,86,1,55,30,0
+Carroll,WHITESBURG (682),United States Senator,,,ALLEN BUCKLEY,47,3,30,14,0
+Carroll,ROOPVILLE (713),United States Senator,,,ALLEN BUCKLEY,46,5,30,11,0
+Carroll,WEST CARROLLTON (714A1),United States Senator,,,ALLEN BUCKLEY,70,5,31,32,2
+Carroll,EAST CARROLLTON REC (714A2),United States Senator,,,ALLEN BUCKLEY,34,1,11,22,0
+Carroll,BONNER (714A3),United States Senator,,,ALLEN BUCKLEY,80,2,34,44,0
+Carroll,UNIVERSITY OF W. GA (714A4),United States Senator,,,ALLEN BUCKLEY,73,2,42,29,0
+Carroll,COUNTY ADMIN BLDG (714A5),United States Senator,,,ALLEN BUCKLEY,93,2,39,52,0
+Carroll,TABERNACLE CHURCH (714A6),United States Senator,,,ALLEN BUCKLEY,43,1,19,23,0
+Carroll,EMC (714BN),United States Senator,,,ALLEN BUCKLEY,36,3,18,15,0
+Carroll,OLD CAMP CHURCH (714BW),United States Senator,,,ALLEN BUCKLEY,75,3,33,39,0
+Carroll,OAK GROVE (715),United States Senator,,,ALLEN BUCKLEY,44,4,29,11,0
+Carroll,NEW HOPE (716),United States Senator,,,ALLEN BUCKLEY,20,0,13,7,0
+Carroll,,"Public Service Commission, District 2",2,,TIM ECHOLS ,31302,1044,13437,16766,55
+Carroll,KANSAS (1006),"Public Service Commission, District 2",2,,TIM ECHOLS ,584,9,415,159,1
+Carroll,BOWDON (1111),"Public Service Commission, District 2",2,,TIM ECHOLS ,1219,36,736,442,5
+Carroll,SANDHILL (1122),"Public Service Commission, District 2",2,,TIM ECHOLS ,1662,56,580,1023,3
+Carroll,CENTER POINT (1152),"Public Service Commission, District 2",2,,TIM ECHOLS ,934,23,457,450,4
+Carroll,LOWELL (1163),"Public Service Commission, District 2",2,,TIM ECHOLS ,752,17,428,306,1
+Carroll,MT ZION (1240),"Public Service Commission, District 2",2,,TIM ECHOLS ,880,13,543,323,1
+Carroll,BURWELL (1371),"Public Service Commission, District 2",2,,TIM ECHOLS ,634,27,367,239,1
+Carroll,CLEM (1483),"Public Service Commission, District 2",2,,TIM ECHOLS ,1672,48,589,1034,1
+Carroll,BOWDON JUNCTION (1496),"Public Service Commission, District 2",2,,TIM ECHOLS ,505,16,251,237,1
+Carroll,TYUS (1533),"Public Service Commission, District 2",2,,TIM ECHOLS ,871,24,508,337,2
+Carroll,FAIRFIELD (1540),"Public Service Commission, District 2",2,,TIM ECHOLS ,1786,63,938,785,0
+Carroll,HULETT (1542),"Public Service Commission, District 2",2,,TIM ECHOLS ,1116,35,504,576,1
+Carroll,BETHANY (501),"Public Service Commission, District 2",2,,TIM ECHOLS ,1457,45,518,891,3
+Carroll,V R COUNTY SOUTH (640),"Public Service Commission, District 2",2,,TIM ECHOLS ,1189,36,335,815,3
+Carroll,V R COUNTY NORTH (641),"Public Service Commission, District 2",2,,TIM ECHOLS ,1890,90,577,1222,1
+Carroll,VILLA RICA CITY (642),"Public Service Commission, District 2",2,,TIM ECHOLS ,1843,91,543,1203,6
+Carroll,TEMPLE COUNTY (649),"Public Service Commission, District 2",2,,TIM ECHOLS ,1639,54,677,904,4
+Carroll,TEMPLE CITY (650),"Public Service Commission, District 2",2,,TIM ECHOLS ,1215,51,618,543,3
+Carroll,WHITESBURG (682),"Public Service Commission, District 2",2,,TIM ECHOLS ,976,33,555,386,2
+Carroll,ROOPVILLE (713),"Public Service Commission, District 2",2,,TIM ECHOLS ,758,14,473,271,0
+Carroll,WEST CARROLLTON (714A1),"Public Service Commission, District 2",2,,TIM ECHOLS ,526,18,178,324,6
+Carroll,EAST CARROLLTON REC (714A2),"Public Service Commission, District 2",2,,TIM ECHOLS ,616,33,182,401,0
+Carroll,BONNER (714A3),"Public Service Commission, District 2",2,,TIM ECHOLS ,1335,45,357,932,1
+Carroll,UNIVERSITY OF W. GA (714A4),"Public Service Commission, District 2",2,,TIM ECHOLS ,911,27,370,512,2
+Carroll,COUNTY ADMIN BLDG (714A5),"Public Service Commission, District 2",2,,TIM ECHOLS ,861,34,209,618,0
+Carroll,TABERNACLE CHURCH (714A6),"Public Service Commission, District 2",2,,TIM ECHOLS ,605,32,201,372,0
+Carroll,EMC (714BN),"Public Service Commission, District 2",2,,TIM ECHOLS ,559,21,197,341,0
+Carroll,OLD CAMP CHURCH (714BW),"Public Service Commission, District 2",2,,TIM ECHOLS ,1130,28,525,575,2
+Carroll,OAK GROVE (715),"Public Service Commission, District 2",2,,TIM ECHOLS ,719,14,356,348,1
+Carroll,NEW HOPE (716),"Public Service Commission, District 2",2,,TIM ECHOLS ,458,11,250,197,0
+Carroll,,"Public Service Commission, District 2",2,,ERIC HOSKINS,9100,294,3961,4825,20
+Carroll,KANSAS (1006),"Public Service Commission, District 2",2,,ERIC HOSKINS,55,3,37,15,0
+Carroll,BOWDON (1111),"Public Service Commission, District 2",2,,ERIC HOSKINS,254,15,137,102,0
+Carroll,SANDHILL (1122),"Public Service Commission, District 2",2,,ERIC HOSKINS,441,9,157,275,0
+Carroll,CENTER POINT (1152),"Public Service Commission, District 2",2,,ERIC HOSKINS,100,1,50,49,0
+Carroll,LOWELL (1163),"Public Service Commission, District 2",2,,ERIC HOSKINS,89,3,39,47,0
+Carroll,MT ZION (1240),"Public Service Commission, District 2",2,,ERIC HOSKINS,158,6,99,52,1
+Carroll,BURWELL (1371),"Public Service Commission, District 2",2,,ERIC HOSKINS,149,3,90,55,1
+Carroll,CLEM (1483),"Public Service Commission, District 2",2,,ERIC HOSKINS,361,6,114,240,1
+Carroll,BOWDON JUNCTION (1496),"Public Service Commission, District 2",2,,ERIC HOSKINS,118,5,75,37,1
+Carroll,TYUS (1533),"Public Service Commission, District 2",2,,ERIC HOSKINS,117,3,75,39,0
+Carroll,FAIRFIELD (1540),"Public Service Commission, District 2",2,,ERIC HOSKINS,445,16,226,203,0
+Carroll,HULETT (1542),"Public Service Commission, District 2",2,,ERIC HOSKINS,204,6,99,98,1
+Carroll,BETHANY (501),"Public Service Commission, District 2",2,,ERIC HOSKINS,541,11,221,307,2
+Carroll,V R COUNTY SOUTH (640),"Public Service Commission, District 2",2,,ERIC HOSKINS,260,11,100,149,0
+Carroll,V R COUNTY NORTH (641),"Public Service Commission, District 2",2,,ERIC HOSKINS,588,23,218,347,0
+Carroll,VILLA RICA CITY (642),"Public Service Commission, District 2",2,,ERIC HOSKINS,969,36,319,613,1
+Carroll,TEMPLE COUNTY (649),"Public Service Commission, District 2",2,,ERIC HOSKINS,370,15,147,207,1
+Carroll,TEMPLE CITY (650),"Public Service Commission, District 2",2,,ERIC HOSKINS,406,12,219,175,0
+Carroll,WHITESBURG (682),"Public Service Commission, District 2",2,,ERIC HOSKINS,155,1,83,71,0
+Carroll,ROOPVILLE (713),"Public Service Commission, District 2",2,,ERIC HOSKINS,128,10,68,50,0
+Carroll,WEST CARROLLTON (714A1),"Public Service Commission, District 2",2,,ERIC HOSKINS,613,18,263,327,5
+Carroll,EAST CARROLLTON REC (714A2),"Public Service Commission, District 2",2,,ERIC HOSKINS,235,10,82,142,1
+Carroll,BONNER (714A3),"Public Service Commission, District 2",2,,ERIC HOSKINS,450,18,168,263,1
+Carroll,UNIVERSITY OF W. GA (714A4),"Public Service Commission, District 2",2,,ERIC HOSKINS,622,6,399,215,2
+Carroll,COUNTY ADMIN BLDG (714A5),"Public Service Commission, District 2",2,,ERIC HOSKINS,379,13,108,258,0
+Carroll,TABERNACLE CHURCH (714A6),"Public Service Commission, District 2",2,,ERIC HOSKINS,198,10,71,116,1
+Carroll,EMC (714BN),"Public Service Commission, District 2",2,,ERIC HOSKINS,167,4,65,98,0
+Carroll,OLD CAMP CHURCH (714BW),"Public Service Commission, District 2",2,,ERIC HOSKINS,226,7,89,130,0
+Carroll,OAK GROVE (715),"Public Service Commission, District 2",2,,ERIC HOSKINS,141,8,68,65,0
+Carroll,NEW HOPE (716),"Public Service Commission, District 2",2,,ERIC HOSKINS,161,5,75,80,1
+Carroll,,U.S. Representative,3,REP,DREW FERGUSON,30538,923,13298,16264,53
+Carroll,KANSAS (1006),U.S. Representative,3,REP,DREW FERGUSON,590,11,416,162,1
+Carroll,BOWDON (1111),U.S. Representative,3,REP,DREW FERGUSON,1218,34,739,441,4
+Carroll,SANDHILL (1122),U.S. Representative,3,REP,DREW FERGUSON,1612,48,560,1001,3
+Carroll,CENTER POINT (1152),U.S. Representative,3,REP,DREW FERGUSON,939,21,461,453,4
+Carroll,LOWELL (1163),U.S. Representative,3,REP,DREW FERGUSON,769,16,446,306,1
+Carroll,MT ZION (1240),U.S. Representative,3,REP,DREW FERGUSON,895,11,561,321,2
+Carroll,BURWELL (1371),U.S. Representative,3,REP,DREW FERGUSON,646,23,389,232,2
+Carroll,CLEM (1483),U.S. Representative,3,REP,DREW FERGUSON,1702,45,601,1055,1
+Carroll,BOWDON JUNCTION (1496),U.S. Representative,3,REP,DREW FERGUSON,487,10,254,222,1
+Carroll,TYUS (1533),U.S. Representative,3,REP,DREW FERGUSON,866,23,517,325,1
+Carroll,FAIRFIELD (1540),U.S. Representative,3,REP,DREW FERGUSON,1763,61,937,765,0
+Carroll,HULETT (1542),U.S. Representative,3,REP,DREW FERGUSON,1140,32,522,584,2
+Carroll,BETHANY (501),U.S. Representative,3,REP,DREW FERGUSON,1371,31,511,827,2
+Carroll,V R COUNTY SOUTH (640),U.S. Representative,3,REP,DREW FERGUSON,1186,36,339,809,2
+Carroll,V R COUNTY NORTH (641),U.S. Representative,3,REP,DREW FERGUSON,1854,82,579,1192,1
+Carroll,VILLA RICA CITY (642),U.S. Representative,3,REP,DREW FERGUSON,1695,84,489,1116,6
+Carroll,TEMPLE COUNTY (649),U.S. Representative,3,REP,DREW FERGUSON,1646,50,677,917,2
+Carroll,TEMPLE CITY (650),U.S. Representative,3,REP,DREW FERGUSON,1202,52,623,524,3
+Carroll,WHITESBURG (682),U.S. Representative,3,REP,DREW FERGUSON,986,26,568,390,2
+Carroll,ROOPVILLE (713),U.S. Representative,3,REP,DREW FERGUSON,760,16,472,272,0
+Carroll,WEST CARROLLTON (714A1),U.S. Representative,3,REP,DREW FERGUSON,382,9,138,227,8
+Carroll,EAST CARROLLTON REC (714A2),U.S. Representative,3,REP,DREW FERGUSON,560,25,168,367,0
+Carroll,BONNER (714A3),U.S. Representative,3,REP,DREW FERGUSON,1255,35,337,883,0
+Carroll,UNIVERSITY OF W. GA (714A4),U.S. Representative,3,REP,DREW FERGUSON,821,20,312,487,2
+Carroll,COUNTY ADMIN BLDG (714A5),U.S. Representative,3,REP,DREW FERGUSON,820,33,194,593,0
+Carroll,TABERNACLE CHURCH (714A6),U.S. Representative,3,REP,DREW FERGUSON,582,27,189,366,0
+Carroll,EMC (714BN),U.S. Representative,3,REP,DREW FERGUSON,529,17,187,325,0
+Carroll,OLD CAMP CHURCH (714BW),U.S. Representative,3,REP,DREW FERGUSON,1114,25,507,580,2
+Carroll,OAK GROVE (715),U.S. Representative,3,REP,DREW FERGUSON,711,13,361,336,1
+Carroll,NEW HOPE (716),U.S. Representative,3,REP,DREW FERGUSON,437,7,244,186,0
+Carroll,,U.S. Representative,3,DEM,ANGELA PENDLEY,12104,509,4913,6649,33
+Carroll,KANSAS (1006),U.S. Representative,3,DEM,ANGELA PENDLEY,59,1,38,20,0
+Carroll,BOWDON (1111),U.S. Representative,3,DEM,ANGELA PENDLEY,339,15,183,140,1
+Carroll,SANDHILL (1122),U.S. Representative,3,DEM,ANGELA PENDLEY,599,22,210,366,1
+Carroll,CENTER POINT (1152),U.S. Representative,3,DEM,ANGELA PENDLEY,120,5,53,62,0
+Carroll,LOWELL (1163),U.S. Representative,3,DEM,ANGELA PENDLEY,109,10,38,61,0
+Carroll,MT ZION (1240),U.S. Representative,3,DEM,ANGELA PENDLEY,171,8,96,67,0
+Carroll,BURWELL (1371),U.S. Representative,3,DEM,ANGELA PENDLEY,161,8,89,64,0
+Carroll,CLEM (1483),U.S. Representative,3,DEM,ANGELA PENDLEY,413,13,123,276,1
+Carroll,BOWDON JUNCTION (1496),U.S. Representative,3,DEM,ANGELA PENDLEY,182,13,90,78,1
+Carroll,TYUS (1533),U.S. Representative,3,DEM,ANGELA PENDLEY,151,4,87,59,1
+Carroll,FAIRFIELD (1540),U.S. Representative,3,DEM,ANGELA PENDLEY,592,32,268,292,0
+Carroll,HULETT (1542),U.S. Representative,3,DEM,ANGELA PENDLEY,217,12,93,112,0
+Carroll,BETHANY (501),U.S. Representative,3,DEM,ANGELA PENDLEY,763,28,262,469,4
+Carroll,V R COUNTY SOUTH (640),U.S. Representative,3,DEM,ANGELA PENDLEY,297,15,104,177,1
+Carroll,V R COUNTY NORTH (641),U.S. Representative,3,DEM,ANGELA PENDLEY,727,34,247,446,0
+Carroll,VILLA RICA CITY (642),U.S. Representative,3,DEM,ANGELA PENDLEY,1375,56,440,878,1
+Carroll,TEMPLE COUNTY (649),U.S. Representative,3,DEM,ANGELA PENDLEY,413,18,169,223,3
+Carroll,TEMPLE CITY (650),U.S. Representative,3,DEM,ANGELA PENDLEY,525,17,258,250,0
+Carroll,WHITESBURG (682),U.S. Representative,3,DEM,ANGELA PENDLEY,165,6,90,69,0
+Carroll,ROOPVILLE (713),U.S. Representative,3,DEM,ANGELA PENDLEY,149,10,79,60,0
+Carroll,WEST CARROLLTON (714A1),U.S. Representative,3,DEM,ANGELA PENDLEY,985,32,391,555,7
+Carroll,EAST CARROLLTON REC (714A2),U.S. Representative,3,DEM,ANGELA PENDLEY,353,21,114,217,1
+Carroll,BONNER (714A3),U.S. Representative,3,DEM,ANGELA PENDLEY,661,36,234,389,2
+Carroll,UNIVERSITY OF W. GA (714A4),U.S. Representative,3,DEM,ANGELA PENDLEY,825,13,519,288,5
+Carroll,COUNTY ADMIN BLDG (714A5),U.S. Representative,3,DEM,ANGELA PENDLEY,517,19,143,354,1
+Carroll,TABERNACLE CHURCH (714A6),U.S. Representative,3,DEM,ANGELA PENDLEY,294,17,114,161,2
+Carroll,EMC (714BN),U.S. Representative,3,DEM,ANGELA PENDLEY,258,11,93,154,0
+Carroll,OLD CAMP CHURCH (714BW),U.S. Representative,3,DEM,ANGELA PENDLEY,291,10,122,159,0
+Carroll,OAK GROVE (715),U.S. Representative,3,DEM,ANGELA PENDLEY,172,13,66,93,0
+Carroll,NEW HOPE (716),U.S. Representative,3,DEM,ANGELA PENDLEY,221,10,100,110,1
+Carroll,,State Senator,28,REP,MATT BRASS,5117,157,2706,2252,2
+Carroll,LOWELL (1163),State Senator,28,REP,MATT BRASS,807,19,453,335,0
+Carroll,FAIRFIELD (1540),State Senator,28,REP,MATT BRASS,2005,70,1062,873,0
+Carroll,HULETT (1542),State Senator,28,REP,MATT BRASS,1232,37,575,620,0
+Carroll,WHITESBURG (682),State Senator,28,REP,MATT BRASS,1073,31,616,424,2
+Carroll,,State Senator,30,(REP,MICHAEL DUGAN ,31621,1021,13259,17279,62
+Carroll,KANSAS (1006),State Senator,30,(REP,MICHAEL DUGAN ,617,9,441,166,1
+Carroll,BOWDON (1111),State Senator,30,(REP,MICHAEL DUGAN ,1397,38,845,509,5
+Carroll,SANDHILL (1122),State Senator,30,(REP,MICHAEL DUGAN ,1914,60,679,1172,3
+Carroll,CENTER POINT (1152),State Senator,30,(REP,MICHAEL DUGAN ,986,22,481,479,4
+Carroll,MT ZION (1240),State Senator,30,(REP,MICHAEL DUGAN ,986,15,614,355,2
+Carroll,BURWELL (1371),State Senator,30,(REP,MICHAEL DUGAN ,733,27,435,269,2
+Carroll,CLEM (1483),State Senator,30,(REP,MICHAEL DUGAN ,1903,51,662,1188,2
+Carroll,BOWDON JUNCTION (1496),State Senator,30,(REP,MICHAEL DUGAN ,568,17,294,256,1
+Carroll,TYUS (1533),State Senator,30,(REP,MICHAEL DUGAN ,950,24,567,358,1
+Carroll,BETHANY (501),State Senator,30,(REP,MICHAEL DUGAN ,1801,54,658,1084,5
+Carroll,V R COUNTY SOUTH (640),State Senator,30,(REP,MICHAEL DUGAN ,1340,42,400,895,3
+Carroll,V R COUNTY NORTH (641),State Senator,30,(REP,MICHAEL DUGAN ,2219,99,727,1392,1
+Carroll,VILLA RICA CITY (642),State Senator,30,(REP,MICHAEL DUGAN ,2377,105,739,1528,5
+Carroll,TEMPLE COUNTY (649),State Senator,30,(REP,MICHAEL DUGAN ,1849,63,758,1023,5
+Carroll,TEMPLE CITY (650),State Senator,30,(REP,MICHAEL DUGAN ,1444,60,743,638,3
+Carroll,ROOPVILLE (713),State Senator,30,(REP,MICHAEL DUGAN ,848,20,522,306,0
+Carroll,WEST CARROLLTON (714A1),State Senator,30,(REP,MICHAEL DUGAN ,886,28,337,512,9
+Carroll,EAST CARROLLTON REC (714A2),State Senator,30,(REP,MICHAEL DUGAN ,764,37,233,494,0
+Carroll,BONNER (714A3),State Senator,30,(REP,MICHAEL DUGAN ,1612,54,473,1084,1
+Carroll,UNIVERSITY OF W. GA (714A4),State Senator,30,(REP,MICHAEL DUGAN ,1347,31,644,668,4
+Carroll,COUNTY ADMIN BLDG (714A5),State Senator,30,(REP,MICHAEL DUGAN ,1091,42,273,776,0
+Carroll,TABERNACLE CHURCH (714A6),State Senator,30,(REP,MICHAEL DUGAN ,723,34,241,447,1
+Carroll,EMC (714BN),State Senator,30,(REP,MICHAEL DUGAN ,648,24,230,394,0
+Carroll,OLD CAMP CHURCH (714BW),State Senator,30,(REP,MICHAEL DUGAN ,1263,33,571,657,2
+Carroll,OAK GROVE (715),State Senator,30,(REP,MICHAEL DUGAN ,804,19,399,385,1
+Carroll,NEW HOPE (716),State Senator,30,(REP,MICHAEL DUGAN ,551,13,293,244,1
+Carroll,,State Representative,18,(REP,KEVIN COOKE ,8218,254,3370,4583,11
+Carroll,KANSAS (1006),State Representative,18,(REP,KEVIN COOKE ,613,10,435,168,0
+Carroll,MT ZION (1240),State Representative,18,(REP,KEVIN COOKE ,975,15,605,354,1
+Carroll,CLEM (1483),State Representative,18,(REP,KEVIN COOKE ,88,3,24,61,0
+Carroll,BOWDON JUNCTION (1496),State Representative,18,(REP,KEVIN COOKE ,561,15,294,251,1
+Carroll,BETHANY (501),State Representative,18,(REP,KEVIN COOKE ,486,17,178,290,1
+Carroll,WEST CARROLLTON (714A1),State Representative,18,(REP,KEVIN COOKE ,880,29,340,505,6
+Carroll,EAST CARROLLTON REC (714A2),State Representative,18,(REP,KEVIN COOKE ,741,37,227,477,0
+Carroll,BONNER (714A3),State Representative,18,(REP,KEVIN COOKE ,1601,54,468,1077,2
+Carroll,COUNTY ADMIN BLDG (714A5),State Representative,18,(REP,KEVIN COOKE ,1069,39,268,762,0
+Carroll,EMC (714BN),State Representative,18,(REP,KEVIN COOKE ,650,22,234,394,0
+Carroll,NEW HOPE (716),State Representative,18,(REP,KEVIN COOKE ,554,13,297,244,0
+Carroll,,State Representative,68,REP,J. COLLINS,16824,588,6684,9533,19
+Carroll,SANDHILL (1122),State Representative,68,REP,J. COLLINS,1918,57,683,1176,2
+Carroll,CENTER POINT (1152),State Representative,68,REP,J. COLLINS,967,22,471,471,3
+Carroll,FAIRFIELD (1540),State Representative,68,REP,J. COLLINS,2008,69,1068,871,0
+Carroll,HULETT (1542),State Representative,68,REP,J. COLLINS,1241,36,574,631,0
+Carroll,BETHANY (501),State Representative,68,REP,J. COLLINS,1295,36,480,778,1
+Carroll,V R COUNTY SOUTH (640),State Representative,68,REP,J. COLLINS,1360,43,405,909,3
+Carroll,V R COUNTY NORTH (641),State Representative,68,REP,J. COLLINS,2267,100,742,1424,1
+Carroll,VILLA RICA CITY (642),State Representative,68,REP,J. COLLINS,2447,106,736,1602,3
+Carroll,TEMPLE COUNTY (649),State Representative,68,REP,J. COLLINS,1848,59,763,1022,4
+Carroll,TEMPLE CITY (650),State Representative,68,REP,J. COLLINS,1473,60,762,649,2
+Carroll,,State Representative,69,(REP,RANDY NIX ,10518,284,5257,4967,10
+Carroll,BOWDON (1111),State Representative,69,(REP,RANDY NIX ,1372,38,826,505,3
+Carroll,LOWELL (1163),State Representative,69,(REP,RANDY NIX ,798,19,452,327,0
+Carroll,BURWELL (1371),State Representative,69,(REP,RANDY NIX ,712,26,419,266,1
+Carroll,CLEM (1483),State Representative,69,(REP,RANDY NIX ,1779,44,635,1099,1
+Carroll,TYUS (1533),State Representative,69,(REP,RANDY NIX ,935,23,561,351,0
+Carroll,ROOPVILLE (713),State Representative,69,(REP,RANDY NIX ,837,20,515,302,0
+Carroll,UNIVERSITY OF W. GA (714A4),State Representative,69,(REP,RANDY NIX ,1337,31,643,660,3
+Carroll,TABERNACLE CHURCH (714A6),State Representative,69,(REP,RANDY NIX ,716,33,244,438,1
+Carroll,OLD CAMP CHURCH (714BW),State Representative,69,(REP,RANDY NIX ,1239,30,570,638,1
+Carroll,OAK GROVE (715),State Representative,69,(REP,RANDY NIX ,793,20,392,381,0
+Carroll,,State Representative,70,(REP,LYNN SMITH ,1081,31,622,428,0
+Carroll,WHITESBURG (682),State Representative,70,(REP,LYNN SMITH ,1081,31,622,428,0
+Carroll,,District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,36655,1181,15917,19490,67
+Carroll,KANSAS (1006),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,604,9,429,165,1
+Carroll,BOWDON (1111),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1390,39,838,510,3
+Carroll,SANDHILL (1122),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1904,58,680,1163,3
+Carroll,CENTER POINT (1152),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,976,21,479,472,4
+Carroll,LOWELL (1163),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,801,18,452,330,1
+Carroll,MT ZION (1240),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,983,15,613,353,2
+Carroll,BURWELL (1371),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,717,28,426,261,2
+Carroll,CLEM (1483),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1890,49,658,1181,2
+Carroll,BOWDON JUNCTION (1496),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,567,18,293,255,1
+Carroll,TYUS (1533),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,944,24,563,355,2
+Carroll,FAIRFIELD (1540),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,2019,72,1073,874,0
+Carroll,HULETT (1542),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1227,37,566,623,1
+Carroll,BETHANY (501),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1802,55,668,1074,5
+Carroll,V R COUNTY SOUTH (640),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1324,40,395,886,3
+Carroll,V R COUNTY NORTH (641),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,2221,100,719,1401,1
+Carroll,VILLA RICA CITY (642),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,2379,105,733,1535,6
+Carroll,TEMPLE COUNTY (649),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1819,63,752,999,5
+Carroll,TEMPLE CITY (650),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1443,60,739,641,3
+Carroll,WHITESBURG (682),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1065,33,608,422,2
+Carroll,ROOPVILLE (713),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,838,19,515,304,0
+Carroll,WEST CARROLLTON (714A1),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,905,30,348,517,10
+Carroll,EAST CARROLLTON REC (714A2),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,756,38,233,485,0
+Carroll,BONNER (714A3),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1633,57,472,1102,2
+Carroll,UNIVERSITY OF W. GA (714A4),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1354,31,648,671,4
+Carroll,COUNTY ADMIN BLDG (714A5),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1094,41,270,783,0
+Carroll,TABERNACLE CHURCH (714A6),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,724,35,244,444,1
+Carroll,EMC (714BN),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,660,23,240,397,0
+Carroll,OLD CAMP CHURCH (714BW),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,1269,32,573,663,1
+Carroll,OAK GROVE (715),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,800,19,396,384,1
+Carroll,NEW HOPE (716),District Attorney, Coweta Circuit,(REP,PETE SKANDALAKIS ,547,12,294,240,1
+Carroll,,CLERK SUPERIOR CT,,R,A. J. LEE ,37017,1191,16071,19685,70
+Carroll,KANSAS (1006),CLERK SUPERIOR CT,,R,A. J. LEE ,618,9,441,167,1
+Carroll,BOWDON (1111),CLERK SUPERIOR CT,,R,A. J. LEE ,1392,41,839,507,5
+Carroll,SANDHILL (1122),CLERK SUPERIOR CT,,R,A. J. LEE ,1932,60,687,1182,3
+Carroll,CENTER POINT (1152),CLERK SUPERIOR CT,,R,A. J. LEE ,983,23,482,474,4
+Carroll,LOWELL (1163),CLERK SUPERIOR CT,,R,A. J. LEE ,806,18,454,333,1
+Carroll,MT ZION (1240),CLERK SUPERIOR CT,,R,A. J. LEE ,988,15,618,353,2
+Carroll,BURWELL (1371),CLERK SUPERIOR CT,,R,A. J. LEE ,726,27,432,265,2
+Carroll,CLEM (1483),CLERK SUPERIOR CT,,R,A. J. LEE ,1919,49,663,1205,2
+Carroll,BOWDON JUNCTION (1496),CLERK SUPERIOR CT,,R,A. J. LEE ,580,17,302,260,1
+Carroll,TYUS (1533),CLERK SUPERIOR CT,,R,A. J. LEE ,958,24,569,363,2
+Carroll,FAIRFIELD (1540),CLERK SUPERIOR CT,,R,A. J. LEE ,2026,72,1065,889,0
+Carroll,HULETT (1542),CLERK SUPERIOR CT,,R,A. J. LEE ,1239,36,571,630,2
+Carroll,BETHANY (501),CLERK SUPERIOR CT,,R,A. J. LEE ,1812,54,674,1080,4
+Carroll,V R COUNTY SOUTH (640),CLERK SUPERIOR CT,,R,A. J. LEE ,1331,42,395,891,3
+Carroll,V R COUNTY NORTH (641),CLERK SUPERIOR CT,,R,A. J. LEE ,2232,98,720,1413,1
+Carroll,VILLA RICA CITY (642),CLERK SUPERIOR CT,,R,A. J. LEE ,2392,106,740,1540,6
+Carroll,TEMPLE COUNTY (649),CLERK SUPERIOR CT,,R,A. J. LEE ,1851,64,769,1013,5
+Carroll,TEMPLE CITY (650),CLERK SUPERIOR CT,,R,A. J. LEE ,1470,61,762,644,3
+Carroll,WHITESBURG (682),CLERK SUPERIOR CT,,R,A. J. LEE ,1087,32,621,432,2
+Carroll,ROOPVILLE (713),CLERK SUPERIOR CT,,R,A. J. LEE ,847,21,519,307,0
+Carroll,WEST CARROLLTON (714A1),CLERK SUPERIOR CT,,R,A. J. LEE ,898,29,334,525,10
+Carroll,EAST CARROLLTON REC (714A2),CLERK SUPERIOR CT,,R,A. J. LEE ,757,37,231,489,0
+Carroll,BONNER (714A3),CLERK SUPERIOR CT,,R,A. J. LEE ,1640,58,475,1105,2
+Carroll,UNIVERSITY OF W. GA (714A4),CLERK SUPERIOR CT,,R,A. J. LEE ,1357,30,653,670,4
+Carroll,COUNTY ADMIN BLDG (714A5),CLERK SUPERIOR CT,,R,A. J. LEE ,1111,42,280,789,0
+Carroll,TABERNACLE CHURCH (714A6),CLERK SUPERIOR CT,,R,A. J. LEE ,731,38,246,446,1
+Carroll,EMC (714BN),CLERK SUPERIOR CT,,R,A. J. LEE ,666,22,240,404,0
+Carroll,OLD CAMP CHURCH (714BW),CLERK SUPERIOR CT,,R,A. J. LEE ,1282,31,584,665,2
+Carroll,OAK GROVE (715),CLERK SUPERIOR CT,,R,A. J. LEE ,823,22,404,396,1
+Carroll,NEW HOPE (716),CLERK SUPERIOR CT,,R,A. J. LEE ,563,13,301,248,1
+Carroll,,SHERIFF,,R,T. E. LANGLEY ,33469,1056,14373,17983,57
+Carroll,KANSAS (1006),SHERIFF,,R,T. E. LANGLEY ,616,11,440,164,1
+Carroll,BOWDON (1111),SHERIFF,,R,T. E. LANGLEY ,1417,42,852,518,5
+Carroll,SANDHILL (1122),SHERIFF,,R,T. E. LANGLEY ,1757,55,603,1096,3
+Carroll,CENTER POINT (1152),SHERIFF,,R,T. E. LANGLEY ,982,22,481,475,4
+Carroll,LOWELL (1163),SHERIFF,,R,T. E. LANGLEY ,792,14,458,319,1
+Carroll,MT ZION (1240),SHERIFF,,R,T. E. LANGLEY ,954,15,591,346,2
+Carroll,BURWELL (1371),SHERIFF,,R,T. E. LANGLEY ,708,24,424,258,2
+Carroll,CLEM (1483),SHERIFF,,R,T. E. LANGLEY ,1837,51,633,1151,2
+Carroll,BOWDON JUNCTION (1496),SHERIFF,,R,T. E. LANGLEY ,543,14,282,246,1
+Carroll,TYUS (1533),SHERIFF,,R,T. E. LANGLEY ,969,26,579,362,2
+Carroll,FAIRFIELD (1540),SHERIFF,,R,T. E. LANGLEY ,1898,66,993,839,0
+Carroll,HULETT (1542),SHERIFF,,R,T. E. LANGLEY ,1200,36,536,626,2
+Carroll,BETHANY (501),SHERIFF,,R,T. E. LANGLEY ,1591,42,586,961,2
+Carroll,V R COUNTY SOUTH (640),SHERIFF,,R,T. E. LANGLEY ,1247,38,353,853,3
+Carroll,V R COUNTY NORTH (641),SHERIFF,,R,T. E. LANGLEY ,1957,84,609,1263,1
+Carroll,VILLA RICA CITY (642),SHERIFF,,R,T. E. LANGLEY ,1859,81,529,1245,4
+Carroll,TEMPLE COUNTY (649),SHERIFF,,R,T. E. LANGLEY ,1735,57,708,967,3
+Carroll,TEMPLE CITY (650),SHERIFF,,R,T. E. LANGLEY ,1263,55,646,559,3
+Carroll,WHITESBURG (682),SHERIFF,,R,T. E. LANGLEY ,1039,31,591,415,2
+Carroll,ROOPVILLE (713),SHERIFF,,R,T. E. LANGLEY ,825,18,505,302,0
+Carroll,WEST CARROLLTON (714A1),SHERIFF,,R,T. E. LANGLEY ,556,18,203,329,6
+Carroll,EAST CARROLLTON REC (714A2),SHERIFF,,R,T. E. LANGLEY ,641,31,189,420,1
+Carroll,BONNER (714A3),SHERIFF,,R,T. E. LANGLEY ,1452,46,390,1016,0
+Carroll,UNIVERSITY OF W. GA (714A4),SHERIFF,,R,T. E. LANGLEY ,902,27,333,540,2
+Carroll,COUNTY ADMIN BLDG (714A5),SHERIFF,,R,T. E. LANGLEY ,969,35,230,702,2
+Carroll,TABERNACLE CHURCH (714A6),SHERIFF,,R,T. E. LANGLEY ,690,38,218,433,1
+Carroll,EMC (714BN),SHERIFF,,R,T. E. LANGLEY ,602,19,215,368,0
+Carroll,OLD CAMP CHURCH (714BW),SHERIFF,,R,T. E. LANGLEY ,1240,32,569,637,2
+Carroll,OAK GROVE (715),SHERIFF,,R,T. E. LANGLEY ,757,14,377,366,0
+Carroll,NEW HOPE (716),SHERIFF,,R,T. E. LANGLEY ,471,14,250,207,0
+Carroll,,SHERIFF,,D,M. BRYANT,9740,372,4086,5253,29
+Carroll,KANSAS (1006),SHERIFF,,D,M. BRYANT,46,2,25,19,0
+Carroll,BOWDON (1111),SHERIFF,,D,M. BRYANT,216,7,117,92,0
+Carroll,SANDHILL (1122),SHERIFF,,D,M. BRYANT,481,13,175,292,1
+Carroll,CENTER POINT (1152),SHERIFF,,D,M. BRYANT,89,4,43,42,0
+Carroll,LOWELL (1163),SHERIFF,,D,M. BRYANT,95,10,37,48,0
+Carroll,MT ZION (1240),SHERIFF,,D,M. BRYANT,126,4,79,43,0
+Carroll,BURWELL (1371),SHERIFF,,D,M. BRYANT,122,7,67,48,0
+Carroll,CLEM (1483),SHERIFF,,D,M. BRYANT,305,6,98,201,0
+Carroll,BOWDON JUNCTION (1496),SHERIFF,,D,M. BRYANT,135,10,64,60,1
+Carroll,TYUS (1533),SHERIFF,,D,M. BRYANT,94,3,56,35,0
+Carroll,FAIRFIELD (1540),SHERIFF,,D,M. BRYANT,480,22,221,237,0
+Carroll,HULETT (1542),SHERIFF,,D,M. BRYANT,176,7,84,85,0
+Carroll,BETHANY (501),SHERIFF,,D,M. BRYANT,588,17,206,361,4
+Carroll,V R COUNTY SOUTH (640),SHERIFF,,D,M. BRYANT,261,12,92,157,0
+Carroll,V R COUNTY NORTH (641),SHERIFF,,D,M. BRYANT,649,32,233,384,0
+Carroll,VILLA RICA CITY (642),SHERIFF,,D,M. BRYANT,1224,55,399,767,3
+Carroll,TEMPLE COUNTY (649),SHERIFF,,D,M. BRYANT,354,15,145,192,2
+Carroll,TEMPLE CITY (650),SHERIFF,,D,M. BRYANT,466,14,239,213,0
+Carroll,WHITESBURG (682),SHERIFF,,D,M. BRYANT,130,4,73,53,0
+Carroll,ROOPVILLE (713),SHERIFF,,D,M. BRYANT,92,8,48,36,0
+Carroll,WEST CARROLLTON (714A1),SHERIFF,,D,M. BRYANT,818,23,326,462,7
+Carroll,EAST CARROLLTON REC (714A2),SHERIFF,,D,M. BRYANT,275,15,93,167,0
+Carroll,BONNER (714A3),SHERIFF,,D,M. BRYANT,483,22,192,267,2
+Carroll,UNIVERSITY OF W. GA (714A4),SHERIFF,,D,M. BRYANT,736,7,487,237,5
+Carroll,COUNTY ADMIN BLDG (714A5),SHERIFF,,D,M. BRYANT,385,17,109,258,1
+Carroll,TABERNACLE CHURCH (714A6),SHERIFF,,D,M. BRYANT,197,10,81,105,1
+Carroll,EMC (714BN),SHERIFF,,D,M. BRYANT,192,6,72,114,0
+Carroll,OLD CAMP CHURCH (714BW),SHERIFF,,D,M. BRYANT,183,5,64,114,0
+Carroll,OAK GROVE (715),SHERIFF,,D,M. BRYANT,144,12,63,68,1
+Carroll,NEW HOPE (716),SHERIFF,,D,M. BRYANT,198,3,98,96,1
+Carroll,,TAX COMMISSIONER,,R,V. BEARDEN ,37956,1213,16417,20256,70
+Carroll,KANSAS (1006),TAX COMMISSIONER,,R,V. BEARDEN ,617,10,444,162,1
+Carroll,BOWDON (1111),TAX COMMISSIONER,,R,V. BEARDEN ,1452,41,875,531,5
+Carroll,SANDHILL (1122),TAX COMMISSIONER,,R,V. BEARDEN ,1972,59,702,1208,3
+Carroll,CENTER POINT (1152),TAX COMMISSIONER,,R,V. BEARDEN ,1002,25,488,485,4
+Carroll,LOWELL (1163),TAX COMMISSIONER,,R,V. BEARDEN ,830,19,465,345,1
+Carroll,MT ZION (1240),TAX COMMISSIONER,,R,V. BEARDEN ,1001,15,626,358,2
+Carroll,BURWELL (1371),TAX COMMISSIONER,,R,V. BEARDEN ,745,28,446,269,2
+Carroll,CLEM (1483),TAX COMMISSIONER,,R,V. BEARDEN ,1951,50,677,1222,2
+Carroll,BOWDON JUNCTION (1496),TAX COMMISSIONER,,R,V. BEARDEN ,605,20,312,271,2
+Carroll,TYUS (1533),TAX COMMISSIONER,,R,V. BEARDEN ,975,23,583,367,2
+Carroll,FAIRFIELD (1540),TAX COMMISSIONER,,R,V. BEARDEN ,2077,70,1089,918,0
+Carroll,HULETT (1542),TAX COMMISSIONER,,R,V. BEARDEN ,1270,36,584,648,2
+Carroll,BETHANY (501),TAX COMMISSIONER,,R,V. BEARDEN ,1877,55,693,1125,4
+Carroll,V R COUNTY SOUTH (640),TAX COMMISSIONER,,R,V. BEARDEN ,1377,45,405,924,3
+Carroll,V R COUNTY NORTH (641),TAX COMMISSIONER,,R,V. BEARDEN ,2308,101,743,1463,1
+Carroll,VILLA RICA CITY (642),TAX COMMISSIONER,,R,V. BEARDEN ,2490,107,761,1616,6
+Carroll,TEMPLE COUNTY (649),TAX COMMISSIONER,,R,V. BEARDEN ,1892,68,780,1039,5
+Carroll,TEMPLE CITY (650),TAX COMMISSIONER,,R,V. BEARDEN ,1498,61,767,667,3
+Carroll,WHITESBURG (682),TAX COMMISSIONER,,R,V. BEARDEN ,1116,33,633,448,2
+Carroll,ROOPVILLE (713),TAX COMMISSIONER,,R,V. BEARDEN ,858,20,527,311,0
+Carroll,WEST CARROLLTON (714A1),TAX COMMISSIONER,,R,V. BEARDEN ,940,31,354,547,8
+Carroll,EAST CARROLLTON REC (714A2),TAX COMMISSIONER,,R,V. BEARDEN ,775,39,236,500,0
+Carroll,BONNER (714A3),TAX COMMISSIONER,,R,V. BEARDEN ,1679,57,486,1134,2
+Carroll,UNIVERSITY OF W. GA (714A4),TAX COMMISSIONER,,R,V. BEARDEN ,1373,31,657,682,3
+Carroll,COUNTY ADMIN BLDG (714A5),TAX COMMISSIONER,,R,V. BEARDEN ,1137,42,284,808,3
+Carroll,TABERNACLE CHURCH (714A6),TAX COMMISSIONER,,R,V. BEARDEN ,741,38,246,457,0
+Carroll,EMC (714BN),TAX COMMISSIONER,,R,V. BEARDEN ,683,23,248,412,0
+Carroll,OLD CAMP CHURCH (714BW),TAX COMMISSIONER,,R,V. BEARDEN ,1307,33,588,684,2
+Carroll,OAK GROVE (715),TAX COMMISSIONER,,R,V. BEARDEN ,826,19,405,401,1
+Carroll,NEW HOPE (716),TAX COMMISSIONER,,R,V. BEARDEN ,582,14,313,254,1
+Carroll,,SURVEYOR,,R,M. D. CRAWFORD ,36673,1186,15940,19477,70
+Carroll,KANSAS (1006),SURVEYOR,,R,M. D. CRAWFORD ,607,9,433,164,1
+Carroll,BOWDON (1111),SURVEYOR,,R,M. D. CRAWFORD ,1384,42,830,507,5
+Carroll,SANDHILL (1122),SURVEYOR,,R,M. D. CRAWFORD ,1914,61,683,1167,3
+Carroll,CENTER POINT (1152),SURVEYOR,,R,M. D. CRAWFORD ,977,24,480,469,4
+Carroll,LOWELL (1163),SURVEYOR,,R,M. D. CRAWFORD ,803,17,453,332,1
+Carroll,MT ZION (1240),SURVEYOR,,R,M. D. CRAWFORD ,971,14,603,352,2
+Carroll,BURWELL (1371),SURVEYOR,,R,M. D. CRAWFORD ,728,28,430,268,2
+Carroll,CLEM (1483),SURVEYOR,,R,M. D. CRAWFORD ,1891,47,662,1180,2
+Carroll,BOWDON JUNCTION (1496),SURVEYOR,,R,M. D. CRAWFORD ,574,18,301,253,2
+Carroll,TYUS (1533),SURVEYOR,,R,M. D. CRAWFORD ,945,23,566,354,2
+Carroll,FAIRFIELD (1540),SURVEYOR,,R,M. D. CRAWFORD ,2005,70,1057,878,0
+Carroll,HULETT (1542),SURVEYOR,,R,M. D. CRAWFORD ,1231,37,567,625,2
+Carroll,BETHANY (501),SURVEYOR,,R,M. D. CRAWFORD ,1794,54,668,1067,5
+Carroll,V R COUNTY SOUTH (640),SURVEYOR,,R,M. D. CRAWFORD ,1328,42,395,888,3
+Carroll,V R COUNTY NORTH (641),SURVEYOR,,R,M. D. CRAWFORD ,2249,101,732,1415,1
+Carroll,VILLA RICA CITY (642),SURVEYOR,,R,M. D. CRAWFORD ,2382,103,744,1530,5
+Carroll,TEMPLE COUNTY (649),SURVEYOR,,R,M. D. CRAWFORD ,1833,63,755,1010,5
+Carroll,TEMPLE CITY (650),SURVEYOR,,R,M. D. CRAWFORD ,1461,60,751,647,3
+Carroll,WHITESBURG (682),SURVEYOR,,R,M. D. CRAWFORD ,1083,33,619,429,2
+Carroll,ROOPVILLE (713),SURVEYOR,,R,M. D. CRAWFORD ,831,20,511,300,0
+Carroll,WEST CARROLLTON (714A1),SURVEYOR,,R,M. D. CRAWFORD ,889,30,337,512,10
+Carroll,EAST CARROLLTON REC (714A2),SURVEYOR,,R,M. D. CRAWFORD ,751,37,230,484,0
+Carroll,BONNER (714A3),SURVEYOR,,R,M. D. CRAWFORD ,1614,56,467,1090,1
+Carroll,UNIVERSITY OF W. GA (714A4),SURVEYOR,,R,M. D. CRAWFORD ,1357,31,655,667,4
+Carroll,COUNTY ADMIN BLDG (714A5),SURVEYOR,,R,M. D. CRAWFORD ,1098,42,276,780,0
+Carroll,TABERNACLE CHURCH (714A6),SURVEYOR,,R,M. D. CRAWFORD ,714,37,242,434,1
+Carroll,EMC (714BN),SURVEYOR,,R,M. D. CRAWFORD ,653,23,235,395,0
+Carroll,OLD CAMP CHURCH (714BW),SURVEYOR,,R,M. D. CRAWFORD ,1260,32,572,654,2
+Carroll,OAK GROVE (715),SURVEYOR,,R,M. D. CRAWFORD ,798,19,393,385,1
+Carroll,NEW HOPE (716),SURVEYOR,,R,M. D. CRAWFORD ,548,13,293,241,1
+Carroll,,CORONER,,R,K. HANCOCK,37072,1195,16091,19712,74
+Carroll,KANSAS (1006),CORONER,,R,K. HANCOCK,609,10,437,161,1
+Carroll,BOWDON (1111),CORONER,,R,K. HANCOCK,1394,40,839,510,5
+Carroll,SANDHILL (1122),CORONER,,R,K. HANCOCK,1933,63,687,1180,3
+Carroll,CENTER POINT (1152),CORONER,,R,K. HANCOCK,982,24,481,473,4
+Carroll,LOWELL (1163),CORONER,,R,K. HANCOCK,811,18,464,328,1
+Carroll,MT ZION (1240),CORONER,,R,K. HANCOCK,984,15,611,356,2
+Carroll,BURWELL (1371),CORONER,,R,K. HANCOCK,735,29,436,268,2
+Carroll,CLEM (1483),CORONER,,R,K. HANCOCK,1907,49,662,1194,2
+Carroll,BOWDON JUNCTION (1496),CORONER,,R,K. HANCOCK,580,19,299,261,1
+Carroll,TYUS (1533),CORONER,,R,K. HANCOCK,946,24,567,353,2
+Carroll,FAIRFIELD (1540),CORONER,,R,K. HANCOCK,2024,69,1066,889,0
+Carroll,HULETT (1542),CORONER,,R,K. HANCOCK,1245,37,572,634,2
+Carroll,BETHANY (501),CORONER,,R,K. HANCOCK,1830,57,680,1088,5
+Carroll,V R COUNTY SOUTH (640),CORONER,,R,K. HANCOCK,1343,41,402,897,3
+Carroll,V R COUNTY NORTH (641),CORONER,,R,K. HANCOCK,2270,101,741,1427,1
+Carroll,VILLA RICA CITY (642),CORONER,,R,K. HANCOCK,2405,103,740,1556,6
+Carroll,TEMPLE COUNTY (649),CORONER,,R,K. HANCOCK,1863,66,768,1024,5
+Carroll,TEMPLE CITY (650),CORONER,,R,K. HANCOCK,1474,61,757,653,3
+Carroll,WHITESBURG (682),CORONER,,R,K. HANCOCK,1092,32,624,434,2
+Carroll,ROOPVILLE (713),CORONER,,R,K. HANCOCK,841,20,512,309,0
+Carroll,WEST CARROLLTON (714A1),CORONER,,R,K. HANCOCK,898,28,335,525,10
+Carroll,EAST CARROLLTON REC (714A2),CORONER,,R,K. HANCOCK,757,36,231,490,0
+Carroll,BONNER (714A3),CORONER,,R,K. HANCOCK,1633,57,478,1096,2
+Carroll,UNIVERSITY OF W. GA (714A4),CORONER,,R,K. HANCOCK,1355,31,653,667,4
+Carroll,COUNTY ADMIN BLDG (714A5),CORONER,,R,K. HANCOCK,1119,44,285,787,3
+Carroll,TABERNACLE CHURCH (714A6),CORONER,,R,K. HANCOCK,731,38,243,449,1
+Carroll,EMC (714BN),CORONER,,R,K. HANCOCK,654,20,237,397,0
+Carroll,OLD CAMP CHURCH (714BW),CORONER,,R,K. HANCOCK,1289,32,587,668,2
+Carroll,OAK GROVE (715),CORONER,,R,K. HANCOCK,809,18,401,389,1
+Carroll,NEW HOPE (716),CORONER,,R,K. HANCOCK,559,13,296,249,1
+Carroll,,CHAIR COMMISSIONER,,R,M. W. SMITH ,36775,1144,15972,19593,66
+Carroll,KANSAS (1006),CHAIR COMMISSIONER,,R,M. W. SMITH ,602,9,430,162,1
+Carroll,BOWDON (1111),CHAIR COMMISSIONER,,R,M. W. SMITH ,1387,38,838,506,5
+Carroll,SANDHILL (1122),CHAIR COMMISSIONER,,R,M. W. SMITH ,1928,60,684,1182,2
+Carroll,CENTER POINT (1152),CHAIR COMMISSIONER,,R,M. W. SMITH ,978,23,482,469,4
+Carroll,LOWELL (1163),CHAIR COMMISSIONER,,R,M. W. SMITH ,804,17,453,334,0
+Carroll,MT ZION (1240),CHAIR COMMISSIONER,,R,M. W. SMITH ,980,12,610,357,1
+Carroll,BURWELL (1371),CHAIR COMMISSIONER,,R,M. W. SMITH ,720,25,428,265,2
+Carroll,CLEM (1483),CHAIR COMMISSIONER,,R,M. W. SMITH ,1888,48,656,1182,2
+Carroll,BOWDON JUNCTION (1496),CHAIR COMMISSIONER,,R,M. W. SMITH ,570,18,296,255,1
+Carroll,TYUS (1533),CHAIR COMMISSIONER,,R,M. W. SMITH ,939,23,565,349,2
+Carroll,FAIRFIELD (1540),CHAIR COMMISSIONER,,R,M. W. SMITH ,2023,69,1067,887,0
+Carroll,HULETT (1542),CHAIR COMMISSIONER,,R,M. W. SMITH ,1240,37,568,634,1
+Carroll,BETHANY (501),CHAIR COMMISSIONER,,R,M. W. SMITH ,1805,55,668,1077,5
+Carroll,V R COUNTY SOUTH (640),CHAIR COMMISSIONER,,R,M. W. SMITH ,1333,43,396,891,3
+Carroll,V R COUNTY NORTH (641),CHAIR COMMISSIONER,,R,M. W. SMITH ,2233,99,731,1402,1
+Carroll,VILLA RICA CITY (642),CHAIR COMMISSIONER,,R,M. W. SMITH ,2389,99,742,1542,6
+Carroll,TEMPLE COUNTY (649),CHAIR COMMISSIONER,,R,M. W. SMITH ,1835,61,759,1010,5
+Carroll,TEMPLE CITY (650),CHAIR COMMISSIONER,,R,M. W. SMITH ,1465,58,754,650,3
+Carroll,WHITESBURG (682),CHAIR COMMISSIONER,,R,M. W. SMITH ,1078,30,615,431,2
+Carroll,ROOPVILLE (713),CHAIR COMMISSIONER,,R,M. W. SMITH ,825,18,508,299,0
+Carroll,WEST CARROLLTON (714A1),CHAIR COMMISSIONER,,R,M. W. SMITH ,895,28,334,524,9
+Carroll,EAST CARROLLTON REC (714A2),CHAIR COMMISSIONER,,R,M. W. SMITH ,756,37,233,486,0
+Carroll,BONNER (714A3),CHAIR COMMISSIONER,,R,M. W. SMITH ,1636,54,477,1103,2
+Carroll,UNIVERSITY OF W. GA (714A4),CHAIR COMMISSIONER,,R,M. W. SMITH ,1355,30,649,672,4
+Carroll,COUNTY ADMIN BLDG (714A5),CHAIR COMMISSIONER,,R,M. W. SMITH ,1100,37,279,782,2
+Carroll,TABERNACLE CHURCH (714A6),CHAIR COMMISSIONER,,R,M. W. SMITH ,727,33,243,451,0
+Carroll,EMC (714BN),CHAIR COMMISSIONER,,R,M. W. SMITH ,663,23,241,399,0
+Carroll,OLD CAMP CHURCH (714BW),CHAIR COMMISSIONER,,R,M. W. SMITH ,1264,29,577,657,1
+Carroll,OAK GROVE (715),CHAIR COMMISSIONER,,R,M. W. SMITH ,803,18,395,389,1
+Carroll,NEW HOPE (716),CHAIR COMMISSIONER,,R,M. W. SMITH ,554,13,294,246,1
+Carroll,,CC D1,,D,T. NORTH ,4420,144,1629,2643,4
+Carroll,SANDHILL (1122),CC D1,,D,T. NORTH ,279,9,106,164,0
+Carroll,BETHANY (501),CC D1,,D,T. NORTH ,638,15,227,396,0
+Carroll,WEST CARROLLTON (714A1),CC D1,,D,T. NORTH ,1216,34,474,706,2
+Carroll,EAST CARROLLTON REC (714A2),CC D1,,D,T. NORTH ,733,36,238,458,1
+Carroll,BONNER (714A3),CC D1,,D,T. NORTH ,741,29,273,438,1
+Carroll,UNIVERSITY OF W. GA (714A4),CC D1,,D,T. NORTH ,345,6,138,201,0
+Carroll,EMC (714BN),CC D1,,D,T. NORTH ,455,15,171,269,0
+Carroll,NEW HOPE (716),CC D1,,D,T. NORTH ,13,0,2,11,0
+Carroll,,CC D3,,R,T. LEE ,6435,222,2611,3592,10
+Carroll,SANDHILL (1122),CC D3,,R,T. LEE ,576,20,164,392,0
+Carroll,CENTER POINT (1152),CC D3,,R,T. LEE ,687,17,324,343,3
+Carroll,BETHANY (501),CC D3,,R,T. LEE ,101,3,39,59,0
+Carroll,V R COUNTY SOUTH (640),CC D3,,R,T. LEE ,837,29,254,552,2
+Carroll,V R COUNTY NORTH (641),CC D3,,R,T. LEE ,735,31,235,469,0
+Carroll,VILLA RICA CITY (642),CC D3,,R,T. LEE ,2,0,0,2,0
+Carroll,TEMPLE COUNTY (649),CC D3,,R,T. LEE ,1859,62,771,1023,3
+Carroll,TEMPLE CITY (650),CC D3,,R,T. LEE ,1463,57,754,650,2
+Carroll,EMC (714BN),CC D3,,R,T. LEE ,175,3,70,102,0
+Carroll,,CC D5,,R,L. POWERS,7045,202,3316,3523,4
+Carroll,SANDHILL (1122),CC D5,,R,L. POWERS,997,35,383,579,0
+Carroll,LOWELL (1163),CC D5,,R,L. POWERS,712,15,399,298,0
+Carroll,CLEM (1483),CC D5,,R,L. POWERS,765,25,268,472,0
+Carroll,HULETT (1542),CC D5,,R,L. POWERS,1231,35,568,627,1
+Carroll,BETHANY (501),CC D5,,R,L. POWERS,1038,31,403,603,1
+Carroll,WHITESBURG (682),CC D5,,R,L. POWERS,1068,30,615,422,1
+Carroll,ROOPVILLE (713),CC D5,,R,L. POWERS,833,21,511,301,0
+Carroll,BONNER (714A3),CC D5,,R,L. POWERS,78,1,17,59,1
+Carroll,OLD CAMP CHURCH (714BW),CC D5,,R,L. POWERS,323,9,152,162,0
+Carroll,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,15971,644,6874,8406,47
+Carroll,KANSAS (1006),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,213,7,148,57,1
+Carroll,BOWDON (1111),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,513,15,289,206,3
+Carroll,SANDHILL (1122),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,783,33,299,449,2
+Carroll,CENTER POINT (1152),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,356,15,179,162,0
+Carroll,LOWELL (1163),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,292,14,158,120,0
+Carroll,MT ZION (1240),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,364,7,231,125,1
+Carroll,BURWELL (1371),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,266,13,146,105,2
+Carroll,CLEM (1483),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,697,28,229,438,2
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,232,6,106,119,1
+Carroll,TYUS (1533),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,333,8,202,122,1
+Carroll,FAIRFIELD (1540),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,993,41,531,421,0
+Carroll,HULETT (1542),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,487,19,223,244,1
+Carroll,BETHANY (501),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,854,28,308,515,3
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,564,19,203,340,2
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,976,61,332,583,0
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1254,65,393,794,2
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,811,30,340,437,4
+Carroll,TEMPLE CITY (650),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,665,33,343,288,1
+Carroll,WHITESBURG (682),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,446,14,234,197,1
+Carroll,ROOPVILLE (713),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,296,7,181,108,0
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,627,10,247,358,12
+Carroll,EAST CARROLLTON REC (714A2),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,332,20,115,197,0
+Carroll,BONNER (714A3),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,748,37,250,459,2
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,758,15,408,331,4
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,521,29,127,364,1
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,301,19,93,189,0
+Carroll,EMC (714BN),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,308,15,120,173,0
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,431,14,171,246,0
+Carroll,OAK GROVE (715),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,274,12,116,146,0
+Carroll,NEW HOPE (716),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,276,10,152,113,1
+Carroll,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,27467,790,11757,14888,32
+Carroll,KANSAS (1006),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,438,5,310,123,0
+Carroll,BOWDON (1111),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1111,35,672,402,2
+Carroll,SANDHILL (1122),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1468,35,491,941,1
+Carroll,CENTER POINT (1152),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,718,12,343,359,4
+Carroll,LOWELL (1163),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,593,11,332,250,0
+Carroll,MT ZION (1240),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,729,12,444,273,0
+Carroll,BURWELL (1371),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,565,17,348,200,0
+Carroll,CLEM (1483),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1465,31,511,923,0
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,449,17,242,189,1
+Carroll,TYUS (1533),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,721,17,428,275,1
+Carroll,FAIRFIELD (1540),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1426,52,715,659,0
+Carroll,HULETT (1542),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,893,25,399,468,1
+Carroll,BETHANY (501),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1318,30,489,796,3
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,948,32,248,667,1
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1669,55,525,1088,1
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1873,72,550,1246,5
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1269,39,521,708,1
+Carroll,TEMPLE CITY (650),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1095,35,563,495,2
+Carroll,WHITESBURG (682),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,717,20,430,266,1
+Carroll,ROOPVILLE (713),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,625,20,372,233,0
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,754,33,288,432,1
+Carroll,EAST CARROLLTON REC (714A2),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,585,29,171,384,1
+Carroll,BONNER (714A3),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1195,36,332,827,0
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,910,19,438,450,3
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,843,23,223,597,0
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,585,28,210,346,1
+Carroll,EMC (714BN),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,485,11,170,304,0
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,998,18,474,505,1
+Carroll,OAK GROVE (715),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,634,14,325,294,1
+Carroll,NEW HOPE (716),Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,388,7,193,188,0
+Carroll,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,35712,1231,15240,19171,70
+Carroll,KANSAS (1006),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,518,8,362,147,1
+Carroll,BOWDON (1111),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1298,35,784,474,5
+Carroll,SANDHILL (1122),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1868,60,649,1156,3
+Carroll,CENTER POINT (1152),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,886,27,419,436,4
+Carroll,LOWELL (1163),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,734,21,411,302,0
+Carroll,MT ZION (1240),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,904,19,557,327,1
+Carroll,BURWELL (1371),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,671,27,400,242,2
+Carroll,CLEM (1483),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1784,51,613,1118,2
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,556,19,271,265,1
+Carroll,TYUS (1533),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,863,23,510,329,1
+Carroll,FAIRFIELD (1540),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2033,76,1051,906,0
+Carroll,HULETT (1542),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1148,39,512,597,0
+Carroll,BETHANY (501),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1781,52,635,1089,5
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1256,42,388,824,2
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2179,107,695,1376,1
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2602,113,786,1699,4
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1737,60,727,945,5
+Carroll,TEMPLE CITY (650),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1462,61,745,653,3
+Carroll,WHITESBURG (682),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,938,28,522,386,2
+Carroll,ROOPVILLE (713),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,739,20,455,264,0
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1106,35,425,633,13
+Carroll,EAST CARROLLTON REC (714A2),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,740,39,225,475,1
+Carroll,BONNER (714A3),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1583,66,471,1045,1
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1405,28,715,656,6
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1124,45,283,793,3
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,712,39,233,439,1
+Carroll,EMC (714BN),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,647,22,238,387,0
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1152,34,518,599,1
+Carroll,OAK GROVE (715),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,738,21,352,364,1
+Carroll,NEW HOPE (716),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,548,14,288,245,1
+Carroll,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,7034,195,3070,3760,9
+Carroll,KANSAS (1006),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,112,4,80,28,0
+Carroll,BOWDON (1111),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,267,9,149,109,0
+Carroll,SANDHILL (1122),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,352,10,126,216,0
+Carroll,CENTER POINT (1152),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,174,1,93,80,0
+Carroll,LOWELL (1163),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,134,3,71,60,0
+Carroll,MT ZION (1240),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,168,0,111,57,0
+Carroll,BURWELL (1371),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,143,3,83,57,0
+Carroll,CLEM (1483),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,331,5,107,219,0
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,107,3,68,35,1
+Carroll,TYUS (1533),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,182,4,115,62,1
+Carroll,FAIRFIELD (1540),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,368,16,188,164,0
+Carroll,HULETT (1542),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,208,4,97,106,1
+Carroll,BETHANY (501),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,359,6,146,206,1
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,234,9,59,165,1
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,433,10,147,276,0
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,472,24,143,303,2
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,323,8,130,185,0
+Carroll,TEMPLE CITY (650),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,277,7,148,122,0
+Carroll,WHITESBURG (682),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,215,7,136,72,0
+Carroll,ROOPVILLE (713),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,164,5,89,70,0
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,232,8,90,133,1
+Carroll,EAST CARROLLTON REC (714A2),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,171,9,54,108,0
+Carroll,BONNER (714A3),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,331,5,106,219,1
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,249,6,124,119,0
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,227,6,62,159,0
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,165,8,66,91,0
+Carroll,EMC (714BN),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,123,5,38,80,0
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,252,2,116,134,0
+Carroll,OAK GROVE (715),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,155,5,79,71,0
+Carroll,NEW HOPE (716),Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,106,3,49,54,0
+Carroll,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,25230,894,10630,13649,57
+Carroll,KANSAS (1006),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,359,9,240,109,1
+Carroll,BOWDON (1111),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,923,30,532,356,5
+Carroll,SANDHILL (1122),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1336,35,457,841,3
+Carroll,CENTER POINT (1152),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,599,14,300,281,4
+Carroll,LOWELL (1163),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,472,12,250,210,0
+Carroll,MT ZION (1240),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,644,11,400,232,1
+Carroll,BURWELL (1371),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,472,24,265,181,2
+Carroll,CLEM (1483),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1250,35,407,806,2
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,414,9,205,198,2
+Carroll,TYUS (1533),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,564,18,328,217,1
+Carroll,FAIRFIELD (1540),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1400,63,746,591,0
+Carroll,HULETT (1542),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,809,28,369,412,0
+Carroll,BETHANY (501),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1274,36,448,785,5
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,930,32,311,585,2
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1603,76,522,1004,1
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1892,83,570,1236,3
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1292,49,549,690,4
+Carroll,TEMPLE CITY (650),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1066,51,531,482,2
+Carroll,WHITESBURG (682),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,659,25,350,284,0
+Carroll,ROOPVILLE (713),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,502,14,300,188,0
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,836,26,328,473,9
+Carroll,EAST CARROLLTON REC (714A2),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,516,26,155,334,1
+Carroll,BONNER (714A3),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1103,43,331,729,0
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,951,21,479,447,4
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,776,29,187,558,2
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,483,26,155,301,1
+Carroll,EMC (714BN),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,464,14,159,291,0
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,755,25,325,404,1
+Carroll,OAK GROVE (715),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,498,14,224,259,1
+Carroll,NEW HOPE (716),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,388,16,207,165,0
+Carroll,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,15240,463,6707,8053,17
+Carroll,KANSAS (1006),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,232,1,176,55,0
+Carroll,BOWDON (1111),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,543,14,340,189,0
+Carroll,SANDHILL (1122),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,809,33,296,480,0
+Carroll,CENTER POINT (1152),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,417,12,194,211,0
+Carroll,LOWELL (1163),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,360,6,208,146,0
+Carroll,MT ZION (1240),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,382,8,235,139,0
+Carroll,BURWELL (1371),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,306,6,194,106,0
+Carroll,CLEM (1483),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,754,21,277,456,0
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,216,11,116,89,0
+Carroll,TYUS (1533),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,407,7,249,150,1
+Carroll,FAIRFIELD (1540),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,835,27,413,395,0
+Carroll,HULETT (1542),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,463,13,211,238,1
+Carroll,BETHANY (501),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,745,20,287,437,1
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,490,16,123,350,1
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,868,30,287,551,0
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,1012,44,298,667,3
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,680,19,264,396,1
+Carroll,TEMPLE CITY (650),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,571,15,312,243,1
+Carroll,WHITESBURG (682),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,441,8,275,157,1
+Carroll,ROOPVILLE (713),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,354,12,216,126,0
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,426,17,160,247,2
+Carroll,EAST CARROLLTON REC (714A2),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,340,18,108,214,0
+Carroll,BONNER (714A3),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,697,25,215,455,2
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,624,12,318,291,3
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,506,20,139,347,0
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,344,17,130,197,0
+Carroll,EMC (714BN),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,273,12,103,158,0
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,571,8,265,298,0
+Carroll,OAK GROVE (715),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,351,10,189,152,0
+Carroll,NEW HOPE (716),Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,223,1,109,113,0
+Carroll,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,33970,1237,14361,18308,64
+Carroll,KANSAS (1006),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,488,10,332,145,1
+Carroll,BOWDON (1111),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1196,39,693,459,5
+Carroll,SANDHILL (1122),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1777,56,617,1101,3
+Carroll,CENTER POINT (1152),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,818,25,403,386,4
+Carroll,LOWELL (1163),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,651,18,347,286,0
+Carroll,MT ZION (1240),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,833,13,516,303,1
+Carroll,BURWELL (1371),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,629,26,369,232,2
+Carroll,CLEM (1483),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1662,50,567,1043,2
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,541,20,269,251,1
+Carroll,TYUS (1533),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,805,24,472,308,1
+Carroll,FAIRFIELD (1540),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1954,75,998,881,0
+Carroll,HULETT (1542),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1099,38,501,559,1
+Carroll,BETHANY (501),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1709,52,619,1032,6
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1217,47,369,799,2
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,2097,98,675,1324,0
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,2508,115,745,1644,4
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1652,63,691,895,3
+Carroll,TEMPLE CITY (650),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1375,61,685,628,1
+Carroll,WHITESBURG (682),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,895,30,498,365,2
+Carroll,ROOPVILLE (713),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,698,19,417,262,0
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1081,36,405,629,11
+Carroll,EAST CARROLLTON REC (714A2),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,702,43,220,438,1
+Carroll,BONNER (714A3),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1497,67,435,993,2
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1330,32,677,616,5
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1092,45,277,767,3
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,725,38,247,440,0
+Carroll,EMC (714BN),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,609,27,218,364,0
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1132,33,507,591,1
+Carroll,OAK GROVE (715),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,689,23,326,339,1
+Carroll,NEW HOPE (716),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,509,14,266,228,1
+Carroll,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,8365,190,3748,4413,14
+Carroll,KANSAS (1006),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,137,3,104,30,0
+Carroll,BOWDON (1111),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,349,9,223,117,0
+Carroll,SANDHILL (1122),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,433,14,159,260,0
+Carroll,CENTER POINT (1152),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,231,3,104,124,0
+Carroll,LOWELL (1163),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,213,6,131,76,0
+Carroll,MT ZION (1240),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,227,6,141,80,0
+Carroll,BURWELL (1371),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,179,5,109,65,0
+Carroll,CLEM (1483),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,437,7,149,281,0
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,113,2,64,46,1
+Carroll,TYUS (1533),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,222,3,141,77,1
+Carroll,FAIRFIELD (1540),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,408,16,220,172,0
+Carroll,HULETT (1542),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,252,5,110,137,0
+Carroll,BETHANY (501),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,414,5,157,252,0
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,265,3,74,187,1
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,481,16,161,303,1
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,524,19,168,335,2
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,403,7,160,234,2
+Carroll,TEMPLE CITY (650),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,350,6,199,143,2
+Carroll,WHITESBURG (682),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,248,4,151,93,0
+Carroll,ROOPVILLE (713),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,193,6,117,70,0
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,252,8,107,136,1
+Carroll,EAST CARROLLTON REC (714A2),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,194,5,55,134,0
+Carroll,BONNER (714A3),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,395,5,139,251,0
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,294,3,140,149,2
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,245,7,61,177,0
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,143,8,50,84,1
+Carroll,EMC (714BN),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,155,0,54,101,0
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,272,3,123,146,0
+Carroll,OAK GROVE (715),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,195,3,104,88,0
+Carroll,NEW HOPE (716),Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,141,3,73,65,0
+Carroll,,MT. ZION CITY COUNCIL P2 SPECIAL,,,E. ROBINSON,270,7,183,80,0
+Carroll,MT ZION (1240),MT. ZION CITY COUNCIL P2 SPECIAL,,,E. ROBINSON,270,7,183,80,0
+Carroll,,MT. ZION CITY COUNCIL P2 SPECIAL,,,C. E. WEBB,258,6,182,70,0
+Carroll,MT ZION (1240),MT. ZION CITY COUNCIL P2 SPECIAL,,,C. E. WEBB,258,6,182,70,0
+Carroll,,VILLA RICA MAYOR SPECIAL,,,S. T. DRAMMEH,470,13,155,302,0
+Carroll,VILLA RICA CITY (642),VILLA RICA MAYOR SPECIAL,,,S. T. DRAMMEH,470,13,155,302,0
+Carroll,,VILLA RICA MAYOR SPECIAL,,,J. REESE,1912,103,543,1265,1
+Carroll,VILLA RICA CITY (642),VILLA RICA MAYOR SPECIAL,,,J. REESE,1912,103,543,1265,1
+Carroll,,VILLA RICA MAYOR SPECIAL,,,I. J. ROBINSON,504,8,172,324,0
+Carroll,VILLA RICA CITY (642),VILLA RICA MAYOR SPECIAL,,,I. J. ROBINSON,504,8,172,324,0
+Carroll,,VILLA RICA CITY COUNCIL W4 SPECIAL,,,M. N. DAY,6,0,3,3,0
+Carroll,VILLA RICA CITY (642),VILLA RICA CITY COUNCIL W4 SPECIAL,,,M. N. DAY,6,0,3,3,0
+Carroll,,VILLA RICA CITY COUNCIL W4 SPECIAL,,,J. KELLEY,10,0,3,6,1
+Carroll,VILLA RICA CITY (642),VILLA RICA CITY COUNCIL W4 SPECIAL,,,J. KELLEY,10,0,3,6,1
+Carroll,,VILLA RICA CITY COUNCIL W4 SPECIAL,,,G. MCDOUGAL,9,1,2,6,0
+Carroll,VILLA RICA CITY (642),VILLA RICA CITY COUNCIL W4 SPECIAL,,,G. MCDOUGAL,9,1,2,6,0
+Carroll,,VILLA RICA CITY COUNCIL W4 SPECIAL,,,M. YOUNG,6,0,1,5,0
+Carroll,VILLA RICA CITY (642),VILLA RICA CITY COUNCIL W4 SPECIAL,,,M. YOUNG,6,0,1,5,0
+Carroll,,WHITESBURG CITY COUNCIL P4,,,M. SPRAYBERRY,142,3,93,46,0
+Carroll,WHITESBURG (682),WHITESBURG CITY COUNCIL P4,,,M. SPRAYBERRY,142,3,93,46,0
+Carroll,,WHITESBURG CITY COUNCIL P4,,,M. E. THOMAS SR.,73,0,52,21,0
+Carroll,WHITESBURG (682),WHITESBURG CITY COUNCIL P4,,,M. E. THOMAS SR.,73,0,52,21,0

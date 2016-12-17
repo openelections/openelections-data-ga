@@ -1,0 +1,371 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Ware,,President of the United States,,,DONALD J. TRUMP,8513,358,3671,4479,5
+Ware,100,President of the United States,,,DONALD J. TRUMP,417,41,113,263,0
+Ware,200A,President of the United States,,,DONALD J. TRUMP,997,56,280,661,0
+Ware,200B,President of the United States,,,DONALD J. TRUMP,192,8,68,116,0
+Ware,300,President of the United States,,,DONALD J. TRUMP,1881,105,704,1070,2
+Ware,304,President of the United States,,,DONALD J. TRUMP,522,8,256,258,0
+Ware,400,President of the United States,,,DONALD J. TRUMP,1862,71,670,1120,1
+Ware,404,President of the United States,,,DONALD J. TRUMP,215,14,154,47,0
+Ware,405,President of the United States,,,DONALD J. TRUMP,359,9,233,116,1
+Ware,406,President of the United States,,,DONALD J. TRUMP,927,23,455,449,0
+Ware,407,President of the United States,,,DONALD J. TRUMP,300,5,205,90,0
+Ware,408,President of the United States,,,DONALD J. TRUMP,287,5,216,65,1
+Ware,409,President of the United States,,,DONALD J. TRUMP,554,13,317,224,0
+Ware,,President of the United States,,,HILLARY CLINTON,3440,219,1047,2170,4
+Ware,100,President of the United States,,,HILLARY CLINTON,1740,131,448,1158,3
+Ware,200A,President of the United States,,,HILLARY CLINTON,461,23,137,301,0
+Ware,200B,President of the United States,,,HILLARY CLINTON,262,13,83,166,0
+Ware,300,President of the United States,,,HILLARY CLINTON,408,19,138,251,0
+Ware,304,President of the United States,,,HILLARY CLINTON,90,2,45,42,1
+Ware,400,President of the United States,,,HILLARY CLINTON,248,14,79,155,0
+Ware,404,President of the United States,,,HILLARY CLINTON,30,5,21,4,0
+Ware,405,President of the United States,,,HILLARY CLINTON,25,4,7,14,0
+Ware,406,President of the United States,,,HILLARY CLINTON,84,3,41,40,0
+Ware,407,President of the United States,,,HILLARY CLINTON,18,1,12,5,0
+Ware,408,President of the United States,,,HILLARY CLINTON,24,2,14,8,0
+Ware,409,President of the United States,,,HILLARY CLINTON,50,2,22,26,0
+Ware,,President of the United States,,,GARY JOHNSON,206,13,110,83,0
+Ware,100,President of the United States,,,GARY JOHNSON,24,1,11,12,0
+Ware,200A,President of the United States,,,GARY JOHNSON,46,2,24,20,0
+Ware,200B,President of the United States,,,GARY JOHNSON,6,1,3,2,0
+Ware,300,President of the United States,,,GARY JOHNSON,33,3,18,12,0
+Ware,304,President of the United States,,,GARY JOHNSON,17,0,10,7,0
+Ware,400,President of the United States,,,GARY JOHNSON,30,4,9,17,0
+Ware,404,President of the United States,,,GARY JOHNSON,4,0,3,1,0
+Ware,405,President of the United States,,,GARY JOHNSON,4,0,3,1,0
+Ware,406,President of the United States,,,GARY JOHNSON,15,0,10,5,0
+Ware,407,President of the United States,,,GARY JOHNSON,7,1,5,1,0
+Ware,408,President of the United States,,,GARY JOHNSON,9,1,6,2,0
+Ware,409,President of the United States,,,GARY JOHNSON,11,0,8,3,0
+Ware,,United States Senator,,,JOHNNY ISAKSON ,7872,363,3366,4140,3
+Ware,100,United States Senator,,,JOHNNY ISAKSON ,439,47,104,288,0
+Ware,200A,United States Senator,,,JOHNNY ISAKSON ,975,56,272,647,0
+Ware,200B,United States Senator,,,JOHNNY ISAKSON ,175,9,63,103,0
+Ware,300,United States Senator,,,JOHNNY ISAKSON ,1708,104,630,973,1
+Ware,304,United States Senator,,,JOHNNY ISAKSON ,459,8,236,215,0
+Ware,400,United States Senator,,,JOHNNY ISAKSON ,1720,72,621,1026,1
+Ware,404,United States Senator,,,JOHNNY ISAKSON ,199,14,141,44,0
+Ware,405,United States Senator,,,JOHNNY ISAKSON ,320,9,209,101,1
+Ware,406,United States Senator,,,JOHNNY ISAKSON ,849,19,429,401,0
+Ware,407,United States Senator,,,JOHNNY ISAKSON ,262,6,176,80,0
+Ware,408,United States Senator,,,JOHNNY ISAKSON ,262,6,197,59,0
+Ware,409,United States Senator,,,JOHNNY ISAKSON ,504,13,288,203,0
+Ware,,United States Senator,,,JIM BARKSDALE,2871,197,874,1797,3
+Ware,100,United States Senator,,,JIM BARKSDALE,1418,118,369,928,3
+Ware,200A,United States Senator,,,JIM BARKSDALE,384,22,117,245,0
+Ware,200B,United States Senator,,,JIM BARKSDALE,215,12,68,135,0
+Ware,300,United States Senator,,,JIM BARKSDALE,355,18,114,223,0
+Ware,304,United States Senator,,,JIM BARKSDALE,75,2,31,42,0
+Ware,400,United States Senator,,,JIM BARKSDALE,220,10,73,137,0
+Ware,404,United States Senator,,,JIM BARKSDALE,26,4,18,4,0
+Ware,405,United States Senator,,,JIM BARKSDALE,30,4,13,13,0
+Ware,406,United States Senator,,,JIM BARKSDALE,73,3,31,39,0
+Ware,407,United States Senator,,,JIM BARKSDALE,19,0,16,3,0
+Ware,408,United States Senator,,,JIM BARKSDALE,19,2,9,8,0
+Ware,409,United States Senator,,,JIM BARKSDALE,37,2,15,20,0
+Ware,,United States Senator,,,ALLEN BUCKLEY,397,17,185,194,1
+Ware,100,United States Senator,,,ALLEN BUCKLEY,62,3,21,38,0
+Ware,200A,United States Senator,,,ALLEN BUCKLEY,64,2,28,34,0
+Ware,200B,United States Senator,,,ALLEN BUCKLEY,9,0,4,5,0
+Ware,300,United States Senator,,,ALLEN BUCKLEY,72,3,36,33,0
+Ware,304,United States Senator,,,ALLEN BUCKLEY,27,0,15,12,0
+Ware,400,United States Senator,,,ALLEN BUCKLEY,57,4,18,35,0
+Ware,404,United States Senator,,,ALLEN BUCKLEY,15,1,11,3,0
+Ware,405,United States Senator,,,ALLEN BUCKLEY,9,0,5,4,0
+Ware,406,United States Senator,,,ALLEN BUCKLEY,32,3,14,15,0
+Ware,407,United States Senator,,,ALLEN BUCKLEY,11,1,7,3,0
+Ware,408,United States Senator,,,ALLEN BUCKLEY,14,0,9,4,1
+Ware,409,United States Senator,,,ALLEN BUCKLEY,25,0,17,8,0
+Ware,,"Public Service Commission, District 2",2,,TIM ECHOLS ,8710,400,3648,4658,4
+Ware,100,"Public Service Commission, District 2",2,,TIM ECHOLS ,797,72,209,515,1
+Ware,200A,"Public Service Commission, District 2",2,,TIM ECHOLS ,1076,62,296,718,0
+Ware,200B,"Public Service Commission, District 2",2,,TIM ECHOLS ,223,10,75,138,0
+Ware,300,"Public Service Commission, District 2",2,,TIM ECHOLS ,1816,101,674,1040,1
+Ware,304,"Public Service Commission, District 2",2,,TIM ECHOLS ,495,8,258,229,0
+Ware,400,"Public Service Commission, District 2",2,,TIM ECHOLS ,1801,75,654,1071,1
+Ware,404,"Public Service Commission, District 2",2,,TIM ECHOLS ,207,16,147,44,0
+Ware,405,"Public Service Commission, District 2",2,,TIM ECHOLS ,343,11,222,109,1
+Ware,406,"Public Service Commission, District 2",2,,TIM ECHOLS ,880,20,427,433,0
+Ware,407,"Public Service Commission, District 2",2,,TIM ECHOLS ,277,5,188,84,0
+Ware,408,"Public Service Commission, District 2",2,,TIM ECHOLS ,271,6,203,62,0
+Ware,409,"Public Service Commission, District 2",2,,TIM ECHOLS ,524,14,295,215,0
+Ware,,"Public Service Commission, District 2",2,,ERIC HOSKINS,2078,129,734,1212,3
+Ware,100,"Public Service Commission, District 2",2,,ERIC HOSKINS,837,69,234,532,2
+Ware,200A,"Public Service Commission, District 2",2,,ERIC HOSKINS,301,14,109,178,0
+Ware,200B,"Public Service Commission, District 2",2,,ERIC HOSKINS,140,7,52,81,0
+Ware,300,"Public Service Commission, District 2",2,,ERIC HOSKINS,296,18,114,164,0
+Ware,304,"Public Service Commission, District 2",2,,ERIC HOSKINS,80,2,39,39,0
+Ware,400,"Public Service Commission, District 2",2,,ERIC HOSKINS,208,8,70,130,0
+Ware,404,"Public Service Commission, District 2",2,,ERIC HOSKINS,24,3,14,7,0
+Ware,405,"Public Service Commission, District 2",2,,ERIC HOSKINS,28,1,14,13,0
+Ware,406,"Public Service Commission, District 2",2,,ERIC HOSKINS,78,5,36,37,0
+Ware,407,"Public Service Commission, District 2",2,,ERIC HOSKINS,20,1,15,4,0
+Ware,408,"Public Service Commission, District 2",2,,ERIC HOSKINS,24,0,14,9,1
+Ware,409,"Public Service Commission, District 2",2,,ERIC HOSKINS,42,1,23,18,0
+Ware,,U.S. Representative,1,,EARL “BUDDY” CARTER ,10191,480,4161,5544,6
+Ware,100,U.S. Representative,1,,EARL “BUDDY” CARTER ,1358,118,345,893,2
+Ware,200A,U.S. Representative,1,,EARL “BUDDY” CARTER ,1309,67,383,859,0
+Ware,200B,U.S. Representative,1,,EARL “BUDDY” CARTER ,324,16,113,195,0
+Ware,300,U.S. Representative,1,,EARL “BUDDY” CARTER ,2047,113,767,1166,1
+Ware,304,U.S. Representative,1,,EARL “BUDDY” CARTER ,563,8,289,266,0
+Ware,400,U.S. Representative,1,,EARL “BUDDY” CARTER ,1933,78,701,1153,1
+Ware,404,U.S. Representative,1,,EARL “BUDDY” CARTER ,223,18,156,49,0
+Ware,405,U.S. Representative,1,,EARL “BUDDY” CARTER ,360,12,229,118,1
+Ware,406,U.S. Representative,1,,EARL “BUDDY” CARTER ,936,23,453,460,0
+Ware,407,U.S. Representative,1,,EARL “BUDDY” CARTER ,295,7,203,85,0
+Ware,408,U.S. Representative,1,,EARL “BUDDY” CARTER ,290,6,212,71,1
+Ware,409,U.S. Representative,1,,EARL “BUDDY” CARTER ,553,14,310,229,0
+Ware,,State Senator,7,,TYLER HARPER ,10060,467,4135,5453,5
+Ware,100,State Senator,7,,TYLER HARPER ,1335,112,355,867,1
+Ware,200A,State Senator,7,,TYLER HARPER ,1282,65,380,837,0
+Ware,200B,State Senator,7,,TYLER HARPER ,323,18,114,191,0
+Ware,300,State Senator,7,,TYLER HARPER ,2031,112,763,1155,1
+Ware,304,State Senator,7,,TYLER HARPER ,549,8,286,255,0
+Ware,400,State Senator,7,,TYLER HARPER ,1915,75,692,1147,1
+Ware,404,State Senator,7,,TYLER HARPER ,221,17,154,50,0
+Ware,405,State Senator,7,,TYLER HARPER ,357,12,225,119,1
+Ware,406,State Senator,7,,TYLER HARPER ,923,22,447,454,0
+Ware,407,State Senator,7,,TYLER HARPER ,289,6,200,83,0
+Ware,408,State Senator,7,,TYLER HARPER ,293,6,214,72,1
+Ware,409,State Senator,7,,TYLER HARPER ,542,14,305,223,0
+Ware,,State Representative,174,,JOHN CORBETT ,1430,59,663,707,1
+Ware,100,State Representative,174,,JOHN CORBETT ,568,43,173,351,1
+Ware,200B,State Representative,174,,JOHN CORBETT ,30,2,8,20,0
+Ware,304,State Representative,174,,JOHN CORBETT ,541,8,281,252,0
+Ware,407,State Representative,174,,JOHN CORBETT ,291,6,201,84,0
+Ware,,State Representative,176,,JASON SHAW ,5010,254,2230,2522,4
+Ware,100,State Representative,176,,JASON SHAW ,691,70,154,466,1
+Ware,200A,State Representative,176,,JASON SHAW ,9,1,2,6,0
+Ware,300,State Representative,176,,JASON SHAW ,2004,110,747,1146,1
+Ware,404,State Representative,176,,JASON SHAW ,218,18,151,49,0
+Ware,405,State Representative,176,,JASON SHAW ,354,12,223,118,1
+Ware,406,State Representative,176,,JASON SHAW ,916,23,442,451,0
+Ware,408,State Representative,176,,JASON SHAW ,286,6,211,68,1
+Ware,409,State Representative,176,,JASON SHAW ,532,14,300,218,0
+Ware,,State Representative,180,,JASON SPENCER ,3439,152,1167,2119,1
+Ware,100,State Representative,180,,JASON SPENCER ,6,0,2,4,0
+Ware,200A,State Representative,180,,JASON SPENCER ,1250,63,370,817,0
+Ware,200B,State Representative,180,,JASON SPENCER ,287,13,105,169,0
+Ware,400,State Representative,180,,JASON SPENCER ,1896,76,690,1129,1
+Ware,,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,10473,491,4243,5732,7
+Ware,100,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,1526,130,395,999,2
+Ware,200A,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,1327,70,381,876,0
+Ware,200B,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,356,18,125,213,0
+Ware,300,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,2082,109,782,1189,2
+Ware,304,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,567,8,286,273,0
+Ware,400,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,1950,75,704,1170,1
+Ware,404,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,220,18,154,48,0
+Ware,405,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,354,12,224,117,1
+Ware,406,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,954,24,464,466,0
+Ware,407,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,297,7,205,85,0
+Ware,408,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,286,6,212,67,1
+Ware,409,CLERK, SUPERIOR COURT,R,M. H. FIVEASH ,554,14,311,229,0
+Ware,,SHERIFF,,R,R. F. ROYAL ,10670,491,4294,5878,7
+Ware,100,SHERIFF,,R,R. F. ROYAL ,1617,129,412,1074,2
+Ware,200A,SHERIFF,,R,R. F. ROYAL ,1348,69,391,888,0
+Ware,200B,SHERIFF,,R,R. F. ROYAL ,378,17,127,234,0
+Ware,300,SHERIFF,,R,R. F. ROYAL ,2107,114,781,1210,2
+Ware,304,SHERIFF,,R,R. F. ROYAL ,558,8,284,266,0
+Ware,400,SHERIFF,,R,R. F. ROYAL ,1989,79,720,1189,1
+Ware,404,SHERIFF,,R,R. F. ROYAL ,221,15,156,50,0
+Ware,405,SHERIFF,,R,R. F. ROYAL ,357,12,224,120,1
+Ware,406,SHERIFF,,R,R. F. ROYAL ,951,21,464,466,0
+Ware,407,SHERIFF,,R,R. F. ROYAL ,296,7,206,83,0
+Ware,408,SHERIFF,,R,R. F. ROYAL ,286,6,211,68,1
+Ware,409,SHERIFF,,R,R. F. ROYAL ,562,14,318,230,0
+Ware,,TAX COMMISSIONER,,R,R. E. COLLINS ,10199,469,4132,5592,6
+Ware,100,TAX COMMISSIONER,,R,R. E. COLLINS ,1474,118,382,972,2
+Ware,200A,TAX COMMISSIONER,,R,R. E. COLLINS ,1304,68,381,855,0
+Ware,200B,TAX COMMISSIONER,,R,R. E. COLLINS ,352,17,118,217,0
+Ware,300,TAX COMMISSIONER,,R,R. E. COLLINS ,2031,110,756,1164,1
+Ware,304,TAX COMMISSIONER,,R,R. E. COLLINS ,566,8,290,268,0
+Ware,400,TAX COMMISSIONER,,R,R. E. COLLINS ,1897,75,690,1131,1
+Ware,404,TAX COMMISSIONER,,R,R. E. COLLINS ,208,14,144,50,0
+Ware,405,TAX COMMISSIONER,,R,R. E. COLLINS ,351,12,222,116,1
+Ware,406,TAX COMMISSIONER,,R,R. E. COLLINS ,912,20,443,449,0
+Ware,407,TAX COMMISSIONER,,R,R. E. COLLINS ,289,7,199,83,0
+Ware,408,TAX COMMISSIONER,,R,R. E. COLLINS ,284,6,208,69,1
+Ware,409,TAX COMMISSIONER,,R,R. E. COLLINS ,531,14,299,218,0
+Ware,,CORONER,,R,A. M. LUCAS ,10444,501,4215,5721,7
+Ware,100,CORONER,,R,A. M. LUCAS ,1530,129,396,1003,2
+Ware,200A,CORONER,,R,A. M. LUCAS ,1321,71,381,869,0
+Ware,200B,CORONER,,R,A. M. LUCAS ,359,19,122,218,0
+Ware,300,CORONER,,R,A. M. LUCAS ,2085,115,772,1196,2
+Ware,304,CORONER,,R,A. M. LUCAS ,567,8,289,270,0
+Ware,400,CORONER,,R,A. M. LUCAS ,1936,79,700,1156,1
+Ware,404,CORONER,,R,A. M. LUCAS ,217,18,150,49,0
+Ware,405,CORONER,,R,A. M. LUCAS ,363,12,229,121,1
+Ware,406,CORONER,,R,A. M. LUCAS ,948,24,462,462,0
+Ware,407,CORONER,,R,A. M. LUCAS ,290,6,203,81,0
+Ware,408,CORONER,,R,A. M. LUCAS ,284,6,207,70,1
+Ware,409,CORONER,,R,A. M. LUCAS ,544,14,304,226,0
+Ware,,CC CHAIR,,R,J. L. BROWN ,8640,392,3618,4624,6
+Ware,100,CC CHAIR,,R,J. L. BROWN ,795,73,215,506,1
+Ware,200A,CC CHAIR,,R,J. L. BROWN ,1073,55,302,716,0
+Ware,200B,CC CHAIR,,R,J. L. BROWN ,224,10,78,136,0
+Ware,300,CC CHAIR,,R,J. L. BROWN ,1862,111,685,1064,2
+Ware,304,CC CHAIR,,R,J. L. BROWN ,498,8,249,241,0
+Ware,400,CC CHAIR,,R,J. L. BROWN ,1765,72,647,1045,1
+Ware,404,CC CHAIR,,R,J. L. BROWN ,195,11,140,44,0
+Ware,405,CC CHAIR,,R,J. L. BROWN ,320,10,207,102,1
+Ware,406,CC CHAIR,,R,J. L. BROWN ,864,18,422,424,0
+Ware,407,CC CHAIR,,R,J. L. BROWN ,270,5,187,78,0
+Ware,408,CC CHAIR,,R,J. L. BROWN ,260,6,194,59,1
+Ware,409,CC CHAIR,,R,J. L. BROWN ,514,13,292,209,0
+Ware,,CC CHAIR,,D,C. SEARS,2955,173,994,1786,2
+Ware,100,CC CHAIR,,D,C. SEARS,1223,85,315,821,2
+Ware,200A,CC CHAIR,,D,C. SEARS,378,24,120,234,0
+Ware,200B,CC CHAIR,,D,C. SEARS,198,11,57,130,0
+Ware,300,CC CHAIR,,D,C. SEARS,375,13,139,223,0
+Ware,304,CC CHAIR,,D,C. SEARS,109,2,53,54,0
+Ware,400,CC CHAIR,,D,C. SEARS,297,14,102,181,0
+Ware,404,CC CHAIR,,D,C. SEARS,43,8,27,8,0
+Ware,405,CC CHAIR,,D,C. SEARS,55,3,31,21,0
+Ware,406,CC CHAIR,,D,C. SEARS,131,7,64,60,0
+Ware,407,CC CHAIR,,D,C. SEARS,35,2,24,9,0
+Ware,408,CC CHAIR,,D,C. SEARS,41,2,25,14,0
+Ware,409,CC CHAIR,,D,C. SEARS,70,2,37,31,0
+Ware,,CC, D2,R,J. POPE,2931,144,968,1819,0
+Ware,200A,CC, D2,R,J. POPE,1286,69,372,845,0
+Ware,200B,CC, D2,R,J. POPE,323,15,114,194,0
+Ware,400,CC, D2,R,J. POPE,1322,60,482,780,0
+Ware,,CC, D4,R,S. A. BARNARD SR,3265,93,1780,1389,3
+Ware,304,CC, D4,R,S. A. BARNARD SR,144,1,67,76,0
+Ware,400,CC, D4,R,S. A. BARNARD SR,551,16,196,338,1
+Ware,404,CC, D4,R,S. A. BARNARD SR,216,15,152,49,0
+Ware,405,CC, D4,R,S. A. BARNARD SR,357,12,227,117,1
+Ware,406,CC, D4,R,S. A. BARNARD SR,907,22,440,445,0
+Ware,407,CC, D4,R,S. A. BARNARD SR,288,7,200,81,0
+Ware,408,CC, D4,R,S. A. BARNARD SR,270,6,200,63,1
+Ware,409,CC, D4,R,S. A. BARNARD SR,532,14,298,220,0
+Ware,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,4118,243,1614,2260,1
+Ware,100,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,996,83,305,607,1
+Ware,200A,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,491,38,152,301,0
+Ware,200B,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,212,7,81,124,0
+Ware,300,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,711,59,257,395,0
+Ware,304,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,247,6,117,124,0
+Ware,400,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,605,26,214,365,0
+Ware,404,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,60,2,45,13,0
+Ware,405,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,122,6,72,44,0
+Ware,406,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,300,9,143,148,0
+Ware,407,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,95,3,62,30,0
+Ware,408,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,86,0,62,24,0
+Ware,409,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,193,4,104,85,0
+Ware,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,7538,313,3040,4179,6
+Ware,100,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1049,77,242,729,1
+Ware,200A,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,989,40,280,669,0
+Ware,200B,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,214,13,59,142,0
+Ware,300,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1529,65,578,884,2
+Ware,304,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,351,4,181,166,0
+Ware,400,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1462,56,531,874,1
+Ware,404,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,178,17,125,36,0
+Ware,405,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,248,5,164,78,1
+Ware,406,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,700,16,348,336,0
+Ware,407,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,212,4,149,59,0
+Ware,408,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,220,8,162,49,1
+Ware,409,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,386,8,221,157,0
+Ware,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,9442,464,3710,5264,4
+Ware,100,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1619,123,433,1061,2
+Ware,200A,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1224,71,342,811,0
+Ware,200B,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,354,16,118,220,0
+Ware,300,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1798,101,652,1044,1
+Ware,304,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,507,9,247,251,0
+Ware,400,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1683,72,607,1004,0
+Ware,404,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,194,18,139,37,0
+Ware,405,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,283,11,170,101,1
+Ware,406,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,817,19,401,397,0
+Ware,407,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,255,6,178,71,0
+Ware,408,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,240,7,168,65,0
+Ware,409,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,468,11,255,202,0
+Ware,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,2117,90,899,1126,2
+Ware,100,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,422,36,109,277,0
+Ware,200A,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,233,7,80,146,0
+Ware,200B,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,72,2,20,50,0
+Ware,300,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,405,23,159,223,0
+Ware,304,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,94,1,54,39,0
+Ware,400,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,354,11,132,210,1
+Ware,404,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,45,0,31,14,0
+Ware,405,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,84,0,62,22,0
+Ware,406,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,175,6,86,83,0
+Ware,407,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,56,1,36,19,0
+Ware,408,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,66,1,59,5,1
+Ware,409,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,111,2,71,38,0
+Ware,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,6913,351,2649,3911,2
+Ware,100,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1344,98,370,875,1
+Ware,200A,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,888,52,258,578,0
+Ware,200B,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,273,13,96,164,0
+Ware,300,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1325,75,477,772,1
+Ware,304,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,374,8,176,190,0
+Ware,400,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1152,55,392,705,0
+Ware,404,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,118,13,79,26,0
+Ware,405,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,205,6,126,73,0
+Ware,406,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,588,16,277,295,0
+Ware,407,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,171,3,113,55,0
+Ware,408,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,162,5,113,44,0
+Ware,409,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,313,7,172,134,0
+Ware,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,3981,176,1678,2123,4
+Ware,100,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,603,53,150,399,1
+Ware,200A,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,494,18,140,336,0
+Ware,200B,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,131,4,36,91,0
+Ware,300,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,754,44,290,420,0
+Ware,304,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,184,1,106,77,0
+Ware,400,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,763,28,293,441,1
+Ware,404,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,97,5,70,22,0
+Ware,405,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,143,4,95,43,1
+Ware,406,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,345,7,178,160,0
+Ware,407,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,116,4,83,29,0
+Ware,408,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,125,3,99,22,1
+Ware,409,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,226,5,138,83,0
+Ware,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,8973,457,3457,5059,0
+Ware,100,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1550,126,415,1009,0
+Ware,200A,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1209,65,326,818,0
+Ware,200B,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,341,15,107,219,0
+Ware,300,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1752,100,633,1019,0
+Ware,304,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,473,10,229,234,0
+Ware,400,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1566,70,536,960,0
+Ware,404,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,184,15,132,37,0
+Ware,405,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,267,11,165,91,0
+Ware,406,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,744,20,364,360,0
+Ware,407,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,244,6,166,72,0
+Ware,408,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,217,7,151,59,0
+Ware,409,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,426,12,233,181,0
+Ware,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,2527,94,1132,1295,6
+Ware,100,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,467,31,126,308,2
+Ware,200A,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,248,12,96,140,0
+Ware,200B,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,80,2,29,49,0
+Ware,300,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,442,25,183,233,1
+Ware,304,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,116,0,66,50,0
+Ware,400,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,483,13,199,270,1
+Ware,404,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,53,3,36,14,0
+Ware,405,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,100,0,68,31,1
+Ware,406,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,241,5,121,115,0
+Ware,407,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,63,1,44,18,0
+Ware,408,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,88,1,75,11,1
+Ware,409,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,146,1,89,56,0
+Ware,,SPECIAL,,,YES,6335,251,2477,3601,6
+Ware,100,SPECIAL,,,YES,1223,81,356,784,2
+Ware,200A,SPECIAL,,,YES,986,41,299,646,0
+Ware,200B,SPECIAL,,,YES,238,7,86,145,0
+Ware,300,SPECIAL,,,YES,1123,40,435,646,2
+Ware,304,SPECIAL,,,YES,318,6,166,146,0
+Ware,400,SPECIAL,,,YES,1112,38,397,676,1
+Ware,404,SPECIAL,,,YES,106,7,80,19,0
+Ware,405,SPECIAL,,,YES,179,5,111,62,1
+Ware,406,SPECIAL,,,YES,540,13,255,272,0
+Ware,407,SPECIAL,,,YES,117,1,74,42,0
+Ware,408,SPECIAL,,,YES,127,6,85,36,0
+Ware,409,SPECIAL,,,YES,266,6,133,127,0
+Ware,,SPECIAL,,,NO,5714,324,2327,3062,1
+Ware,100,SPECIAL,,,NO,912,85,212,615,0
+Ware,200A,SPECIAL,,,NO,514,38,141,335,0
+Ware,200B,SPECIAL,,,NO,210,13,63,134,0
+Ware,300,SPECIAL,,,NO,1178,85,418,675,0
+Ware,304,SPECIAL,,,NO,305,4,144,157,0
+Ware,400,SPECIAL,,,NO,1025,50,365,610,0
+Ware,404,SPECIAL,,,NO,138,11,94,33,0
+Ware,405,SPECIAL,,,NO,206,8,131,67,0
+Ware,406,SPECIAL,,,NO,484,13,250,221,0
+Ware,407,SPECIAL,,,NO,207,6,150,51,0
+Ware,408,SPECIAL,,,NO,193,2,151,39,1
+Ware,409,SPECIAL,,,NO,342,9,208,125,0
