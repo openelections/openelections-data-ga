@@ -1,0 +1,134 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Dawson,,President of the United States,,,DONALD J. TRUMP,9900,422,2423,7039,16
+Dawson,West,President of the United States,,,DONALD J. TRUMP,1234,80,411,742,1
+Dawson,Central,President of the United States,,,DONALD J. TRUMP,4683,184,941,3551,7
+Dawson,East,President of the United States,,,DONALD J. TRUMP,3983,158,1071,2746,8
+Dawson,,President of the United States,,,HILLARY CLINTON,1448,107,379,958,4
+Dawson,West,President of the United States,,,HILLARY CLINTON,363,31,116,216,0
+Dawson,Central,President of the United States,,,HILLARY CLINTON,476,23,103,348,2
+Dawson,East,President of the United States,,,HILLARY CLINTON,609,53,160,394,2
+Dawson,,President of the United States,,,GARY JOHNSON,356,14,157,185,0
+Dawson,West,President of the United States,,,GARY JOHNSON,38,0,22,16,0
+Dawson,Central,President of the United States,,,GARY JOHNSON,145,8,54,83,0
+Dawson,East,President of the United States,,,GARY JOHNSON,173,6,81,86,0
+Dawson,,United States Senator,,,JOHNNY ISAKSON ,9314,422,2303,6574,15
+Dawson,West,United States Senator,,,JOHNNY ISAKSON ,1224,82,408,733,1
+Dawson,Central,United States Senator,,,JOHNNY ISAKSON ,4311,182,874,3249,6
+Dawson,East,United States Senator,,,JOHNNY ISAKSON ,3779,158,1021,2592,8
+Dawson,,United States Senator,,,JIM BARKSDALE,1233,82,318,831,2
+Dawson,West,United States Senator,,,JIM BARKSDALE,281,27,86,168,0
+Dawson,Central,United States Senator,,,JIM BARKSDALE,420,13,89,317,1
+Dawson,East,United States Senator,,,JIM BARKSDALE,532,42,143,346,1
+Dawson,,United States Senator,,,ALLEN BUCKLEY,659,27,230,401,1
+Dawson,West,United States Senator,,,ALLEN BUCKLEY,72,2,25,45,0
+Dawson,Central,United States Senator,,,ALLEN BUCKLEY,311,11,96,204,0
+Dawson,East,United States Senator,,,ALLEN BUCKLEY,276,14,109,152,1
+Dawson,,"Public Service Commission, District 2",2,,TIM ECHOLS ,9395,408,2346,6626,15
+Dawson,West,"Public Service Commission, District 2",2,,TIM ECHOLS ,1250,80,422,747,1
+Dawson,Central,"Public Service Commission, District 2",2,,TIM ECHOLS ,4281,170,884,3220,7
+Dawson,East,"Public Service Commission, District 2",2,,TIM ECHOLS ,3864,158,1040,2659,7
+Dawson,,"Public Service Commission, District 2",2,,ERIC HOSKINS,1603,86,479,1036,2
+Dawson,West,"Public Service Commission, District 2",2,,ERIC HOSKINS,243,21,80,142,0
+Dawson,Central,"Public Service Commission, District 2",2,,ERIC HOSKINS,687,26,183,478,0
+Dawson,East,"Public Service Commission, District 2",2,,ERIC HOSKINS,673,39,216,416,2
+Dawson,,U.S. Representative,9,,DOUG COLLINS ,10364,440,2676,7233,15
+Dawson,West,U.S. Representative,9,,DOUG COLLINS ,1361,84,466,811,0
+Dawson,Central,U.S. Representative,9,,DOUG COLLINS ,4720,177,1022,3514,7
+Dawson,East,U.S. Representative,9,,DOUG COLLINS ,4283,179,1188,2908,8
+Dawson,,State Senator,51,(REP,STEVE GOOCH ,10291,434,2667,7175,15
+Dawson,West,State Senator,51,(REP,STEVE GOOCH ,1372,87,470,815,0
+Dawson,Central,State Senator,51,(REP,STEVE GOOCH ,4670,175,1017,3471,7
+Dawson,East,State Senator,51,(REP,STEVE GOOCH ,4249,172,1180,2889,8
+Dawson,,State Representative,7,(REP,DAVID RALSTON ,1333,88,462,783,0
+Dawson,West,State Representative,7,(REP,DAVID RALSTON ,1333,88,462,783,0
+Dawson,,State Representative,9,(REP,KEVIN TANNER ,8986,344,2202,6425,15
+Dawson,Central,State Representative,9,(REP,KEVIN TANNER ,4713,176,1013,3517,7
+Dawson,East,State Representative,9,(REP,KEVIN TANNER ,4273,168,1189,2908,8
+Dawson,,Probate Judge,,(R,J. E. BURT ,10352,430,2668,7238,16
+Dawson,West,Probate Judge,,(R,J. E. BURT ,1374,89,466,819,0
+Dawson,Central,Probate Judge,,(R,J. E. BURT ,4713,167,1018,3521,7
+Dawson,East,Probate Judge,,(R,J. E. BURT ,4265,174,1184,2898,9
+Dawson,,Superior Court Clerk,,(R,J. POWER ,10461,439,2675,7332,15
+Dawson,West,Superior Court Clerk,,(R,J. POWER ,1383,91,469,823,0
+Dawson,Central,Superior Court Clerk,,(R,J. POWER ,4771,176,1020,3568,7
+Dawson,East,Superior Court Clerk,,(R,J. POWER ,4307,172,1186,2941,8
+Dawson,,Sheriff,,R,J. JOHNSON,10240,444,2618,7162,16
+Dawson,West,Sheriff,,R,J. JOHNSON,1352,90,459,803,0
+Dawson,Central,Sheriff,,R,J. JOHNSON,4670,181,995,3487,7
+Dawson,East,Sheriff,,R,J. JOHNSON,4218,173,1164,2872,9
+Dawson,,Tax Commissioner,,R,N. STEWART,10259,438,2627,7178,16
+Dawson,West,Tax Commissioner,,R,N. STEWART,1361,91,459,811,0
+Dawson,Central,Tax Commissioner,,R,N. STEWART,4678,174,999,3498,7
+Dawson,East,Tax Commissioner,,R,N. STEWART,4220,173,1169,2869,9
+Dawson,,Surveyor,,(R,D. R. JONES ,10118,430,2617,7055,16
+Dawson,West,Surveyor,,(R,D. R. JONES ,1337,88,455,794,0
+Dawson,Central,Surveyor,,(R,D. R. JONES ,4594,172,995,3420,7
+Dawson,East,Surveyor,,(R,D. R. JONES ,4187,170,1167,2841,9
+Dawson,,Coroner,,(Ind,TED BEARDEN ,10354,430,2651,7257,16
+Dawson,West,Coroner,,(Ind,TED BEARDEN ,1358,92,456,810,0
+Dawson,Central,Coroner,,(Ind,TED BEARDEN ,4755,170,1022,3555,8
+Dawson,East,Coroner,,(Ind,TED BEARDEN ,4241,168,1173,2892,8
+Dawson,,Chief Magistrate,,(R,L. A. THURMOND,10170,433,2614,7109,14
+Dawson,West,Chief Magistrate,,(R,L. A. THURMOND,1345,89,456,800,0
+Dawson,Central,Chief Magistrate,,(R,L. A. THURMOND,4622,173,989,3453,7
+Dawson,East,Chief Magistrate,,(R,L. A. THURMOND,4203,171,1169,2856,7
+Dawson,,County Comm Chair,,R,B. THURMOND,10231,432,2630,7154,15
+Dawson,West,County Comm Chair,,R,B. THURMOND,1343,85,460,798,0
+Dawson,Central,County Comm Chair,,R,B. THURMOND,4666,175,1003,3481,7
+Dawson,East,County Comm Chair,,R,B. THURMOND,4222,172,1167,2875,8
+Dawson,,County Comm 2,,R,C. GAINES,8479,355,2181,5929,14
+Dawson,West,County Comm 2,,R,C. GAINES,1130,76,384,670,0
+Dawson,Central,County Comm 2,,R,C. GAINES,3750,135,811,2797,7
+Dawson,East,County Comm 2,,R,C. GAINES,3599,144,986,2462,7
+Dawson,,County Comm 2,,Ind,R. WILEY,2592,130,642,1818,2
+Dawson,West,County Comm 2,,Ind,R. WILEY,378,26,113,239,0
+Dawson,Central,County Comm 2,,Ind,R. WILEY,1285,58,252,975,0
+Dawson,East,County Comm 2,,Ind,R. WILEY,929,46,277,604,2
+Dawson,,County Comm 4,,(R,J. H. NIX ,9995,425,2600,6955,15
+Dawson,West,County Comm 4,,(R,J. H. NIX ,1336,81,463,792,0
+Dawson,Central,County Comm 4,,(R,J. H. NIX ,4562,173,988,3394,7
+Dawson,East,County Comm 4,,(R,J. H. NIX ,4097,171,1149,2769,8
+Dawson,,BOE 1,,(R,D. COOK ,10050,426,2608,7001,15
+Dawson,West,BOE 1,,(R,D. COOK ,1329,81,455,793,0
+Dawson,Central,BOE 1,,(R,D. COOK ,4568,172,991,3398,7
+Dawson,East,BOE 1,,(R,D. COOK ,4153,173,1162,2810,8
+Dawson,,BOE 2,,(R,E. WILSON ,10017,421,2614,6967,15
+Dawson,West,BOE 2,,(R,E. WILSON ,1330,81,460,789,0
+Dawson,Central,BOE 2,,(R,E. WILSON ,4547,170,996,3374,7
+Dawson,East,BOE 2,,(R,E. WILSON ,4140,170,1158,2804,8
+Dawson,,BOE 4,,(R,R. D. SLATON ,9940,423,2582,6920,15
+Dawson,West,BOE 4,,(R,R. D. SLATON ,1308,82,450,776,0
+Dawson,Central,BOE 4,,(R,R. D. SLATON ,4526,171,989,3359,7
+Dawson,East,BOE 4,,(R,R. D. SLATON ,4106,170,1143,2785,8
+Dawson,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,4440,262,1210,2959,9
+Dawson,West,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,768,58,265,445,0
+Dawson,Central,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1856,94,427,1333,2
+Dawson,East,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1816,110,518,1181,7
+Dawson,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,7031,262,1726,5034,9
+Dawson,West,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,844,49,275,520,0
+Dawson,Central,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,3315,115,668,2525,7
+Dawson,East,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,2872,98,783,1989,2
+Dawson,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,9465,435,2407,6607,16
+Dawson,West,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1358,97,440,821,0
+Dawson,Central,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,4238,164,902,3164,8
+Dawson,East,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,3869,174,1065,2622,8
+Dawson,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,1854,81,480,1293,0
+Dawson,West,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,238,10,88,140,0
+Dawson,Central,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,851,38,169,644,0
+Dawson,East,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,765,33,223,509,0
+Dawson,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,6888,297,1799,4779,13
+Dawson,West,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1018,67,337,614,0
+Dawson,Central,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,3071,120,678,2268,5
+Dawson,East,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,2799,110,784,1897,8
+Dawson,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,3748,179,927,2640,2
+Dawson,West,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,487,35,166,286,0
+Dawson,Central,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,1726,67,344,1313,2
+Dawson,East,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,1535,77,417,1041,0
+Dawson,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,9300,438,2371,6476,15
+Dawson,West,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1370,92,448,830,0
+Dawson,Central,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,4100,169,872,3051,8
+Dawson,East,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,3830,177,1051,2595,7
+Dawson,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,2049,85,528,1435,1
+Dawson,West,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,226,14,85,127,0
+Dawson,Central,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,1001,41,206,754,0
+Dawson,East,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,822,30,237,554,1

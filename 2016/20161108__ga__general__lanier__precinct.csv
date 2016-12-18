@@ -1,0 +1,156 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Lanier,,President of the United States,,,DONALD J. TRUMP,1984,45,785,1154,0
+Lanier,Lakeland,President of the United States,,,DONALD J. TRUMP,1180,29,388,763,0
+Lanier,Sirmans,President of the United States,,,DONALD J. TRUMP,218,3,102,113,0
+Lanier,Stockton,President of the United States,,,DONALD J. TRUMP,332,5,173,154,0
+Lanier,Westside,President of the United States,,,DONALD J. TRUMP,254,8,122,124,0
+Lanier,,President of the United States,,,HILLARY CLINTON,806,24,332,449,1
+Lanier,Lakeland,President of the United States,,,HILLARY CLINTON,611,17,239,354,1
+Lanier,Sirmans,President of the United States,,,HILLARY CLINTON,55,1,30,24,0
+Lanier,Stockton,President of the United States,,,HILLARY CLINTON,56,2,27,27,0
+Lanier,Westside,President of the United States,,,HILLARY CLINTON,84,4,36,44,0
+Lanier,,President of the United States,,,GARY JOHNSON,73,3,40,29,1
+Lanier,Lakeland,President of the United States,,,GARY JOHNSON,38,1,20,16,1
+Lanier,Sirmans,President of the United States,,,GARY JOHNSON,8,0,5,3,0
+Lanier,Stockton,President of the United States,,,GARY JOHNSON,10,2,5,3,0
+Lanier,Westside,President of the United States,,,GARY JOHNSON,17,0,10,7,0
+Lanier,,United States Senator,,,JOHNNY ISAKSON ,1792,45,731,1016,0
+Lanier,Lakeland,United States Senator,,,JOHNNY ISAKSON ,1056,29,357,670,0
+Lanier,Sirmans,United States Senator,,,JOHNNY ISAKSON ,208,3,100,105,0
+Lanier,Stockton,United States Senator,,,JOHNNY ISAKSON ,285,4,156,125,0
+Lanier,Westside,United States Senator,,,JOHNNY ISAKSON ,243,9,118,116,0
+Lanier,,United States Senator,,,JIM BARKSDALE,661,25,264,371,1
+Lanier,Lakeland,United States Senator,,,JIM BARKSDALE,498,17,191,289,1
+Lanier,Sirmans,United States Senator,,,JIM BARKSDALE,40,1,17,22,0
+Lanier,Stockton,United States Senator,,,JIM BARKSDALE,51,3,22,26,0
+Lanier,Westside,United States Senator,,,JIM BARKSDALE,72,4,34,34,0
+Lanier,,United States Senator,,,ALLEN BUCKLEY,121,3,53,65,0
+Lanier,Lakeland,United States Senator,,,ALLEN BUCKLEY,75,1,31,43,0
+Lanier,Sirmans,United States Senator,,,ALLEN BUCKLEY,9,0,5,4,0
+Lanier,Stockton,United States Senator,,,ALLEN BUCKLEY,19,2,9,8,0
+Lanier,Westside,United States Senator,,,ALLEN BUCKLEY,18,0,8,10,0
+Lanier,,"Public Service Commission, District 2",2,,TIM ECHOLS ,2034,48,826,1159,1
+Lanier,Lakeland,"Public Service Commission, District 2",2,,TIM ECHOLS ,1230,31,431,767,1
+Lanier,Sirmans,"Public Service Commission, District 2",2,,TIM ECHOLS ,219,3,99,117,0
+Lanier,Stockton,"Public Service Commission, District 2",2,,TIM ECHOLS ,317,4,172,141,0
+Lanier,Westside,"Public Service Commission, District 2",2,,TIM ECHOLS ,268,10,124,134,0
+Lanier,,"Public Service Commission, District 2",2,,ERIC HOSKINS,463,17,210,236,0
+Lanier,Lakeland,"Public Service Commission, District 2",2,,ERIC HOSKINS,330,10,137,183,0
+Lanier,Sirmans,"Public Service Commission, District 2",2,,ERIC HOSKINS,36,1,21,14,0
+Lanier,Stockton,"Public Service Commission, District 2",2,,ERIC HOSKINS,36,3,17,16,0
+Lanier,Westside,"Public Service Commission, District 2",2,,ERIC HOSKINS,61,3,35,23,0
+Lanier,,U.S. Representative,8,,AUSTIN SCOTT ,1950,50,785,1115,0
+Lanier,Lakeland,U.S. Representative,8,,AUSTIN SCOTT ,1146,31,386,729,0
+Lanier,Sirmans,U.S. Representative,8,,AUSTIN SCOTT ,220,3,104,113,0
+Lanier,Stockton,U.S. Representative,8,,AUSTIN SCOTT ,317,7,168,142,0
+Lanier,Westside,U.S. Representative,8,,AUSTIN SCOTT ,267,9,127,131,0
+Lanier,,U.S. Representative,8,,JAMES NEAL HARRIS,735,23,308,403,1
+Lanier,Lakeland,U.S. Representative,8,,JAMES NEAL HARRIS,546,16,217,312,1
+Lanier,Sirmans,U.S. Representative,8,,JAMES NEAL HARRIS,50,1,25,24,0
+Lanier,Stockton,U.S. Representative,8,,JAMES NEAL HARRIS,60,2,28,30,0
+Lanier,Westside,U.S. Representative,8,,JAMES NEAL HARRIS,79,4,38,37,0
+Lanier,,State Senator,8,,ELLIS BLACK ,1966,50,793,1123,0
+Lanier,Lakeland,State Senator,8,,ELLIS BLACK ,1174,31,398,745,0
+Lanier,Sirmans,State Senator,8,,ELLIS BLACK ,216,3,102,111,0
+Lanier,Stockton,State Senator,8,,ELLIS BLACK ,315,7,166,142,0
+Lanier,Westside,State Senator,8,,ELLIS BLACK ,261,9,127,125,0
+Lanier,,State Senator,8,,GREGORY WILLIAMS,734,22,299,412,1
+Lanier,Lakeland,State Senator,8,,GREGORY WILLIAMS,537,15,206,315,1
+Lanier,Sirmans,State Senator,8,,GREGORY WILLIAMS,52,1,25,26,0
+Lanier,Stockton,State Senator,8,,GREGORY WILLIAMS,59,2,30,27,0
+Lanier,Westside,State Senator,8,,GREGORY WILLIAMS,86,4,38,44,0
+Lanier,,State Representative,176,,JASON SHAW ,2514,59,1028,1426,1
+Lanier,Lakeland,State Representative,176,,JASON SHAW ,1592,39,561,991,1
+Lanier,Sirmans,State Representative,176,,JASON SHAW ,252,4,121,127,0
+Lanier,Stockton,State Representative,176,,JASON SHAW ,363,7,194,162,0
+Lanier,Westside,State Representative,176,,JASON SHAW ,307,9,152,146,0
+Lanier,,District Attorney, Alapaha Circuit,,DICK PERRYMAN ,2336,61,958,1316,1
+Lanier,Lakeland,District Attorney, Alapaha Circuit,,DICK PERRYMAN ,1455,40,516,898,1
+Lanier,Sirmans,District Attorney, Alapaha Circuit,,DICK PERRYMAN ,239,3,112,124,0
+Lanier,Stockton,District Attorney, Alapaha Circuit,,DICK PERRYMAN ,339,8,180,151,0
+Lanier,Westside,District Attorney, Alapaha Circuit,,DICK PERRYMAN ,303,10,150,143,0
+Lanier,,CLERK, SUPERIOR COURT,R,D. J. CLARK ,2437,62,986,1388,1
+Lanier,Lakeland,CLERK, SUPERIOR COURT,R,D. J. CLARK ,1529,39,535,954,1
+Lanier,Sirmans,CLERK, SUPERIOR COURT,R,D. J. CLARK ,250,4,116,130,0
+Lanier,Stockton,CLERK, SUPERIOR COURT,R,D. J. CLARK ,346,8,180,158,0
+Lanier,Westside,CLERK, SUPERIOR COURT,R,D. J. CLARK ,312,11,155,146,0
+Lanier,,SHERIFF,,R,K. MOORE JR.,888,13,441,434,0
+Lanier,Lakeland,SHERIFF,,R,K. MOORE JR.,505,7,216,282,0
+Lanier,Sirmans,SHERIFF,,R,K. MOORE JR.,74,1,43,30,0
+Lanier,Stockton,SHERIFF,,R,K. MOORE JR.,156,1,104,51,0
+Lanier,Westside,SHERIFF,,R,K. MOORE JR.,153,4,78,71,0
+Lanier,,SHERIFF,,D,C. NORTON ,1913,54,692,1166,1
+Lanier,Lakeland,SHERIFF,,D,C. NORTON ,1287,37,421,828,1
+Lanier,Sirmans,SHERIFF,,D,C. NORTON ,200,3,91,106,0
+Lanier,Stockton,SHERIFF,,D,C. NORTON ,233,6,96,131,0
+Lanier,Westside,SHERIFF,,D,C. NORTON ,193,8,84,101,0
+Lanier,,TAX COMMISSIONER,,D,R. S. RAMPEY ,2548,62,1012,1473,1
+Lanier,Lakeland,TAX COMMISSIONER,,D,R. S. RAMPEY ,1640,39,575,1025,1
+Lanier,Sirmans,TAX COMMISSIONER,,D,R. S. RAMPEY ,252,4,119,129,0
+Lanier,Stockton,TAX COMMISSIONER,,D,R. S. RAMPEY ,354,8,178,168,0
+Lanier,Westside,TAX COMMISSIONER,,D,R. S. RAMPEY ,302,11,140,151,0
+Lanier,,CORONER,,R,P. S. PHILLIPS ,2406,61,979,1365,1
+Lanier,Lakeland,CORONER,,R,P. S. PHILLIPS ,1502,38,528,935,1
+Lanier,Sirmans,CORONER,,R,P. S. PHILLIPS ,243,4,115,124,0
+Lanier,Stockton,CORONER,,R,P. S. PHILLIPS ,351,8,183,160,0
+Lanier,Westside,CORONER,,R,P. S. PHILLIPS ,310,11,153,146,0
+Lanier,,CHAIR CC,,R,A. LEE ,2426,58,986,1381,1
+Lanier,Lakeland,CHAIR CC,,R,A. LEE ,1529,36,538,954,1
+Lanier,Sirmans,CHAIR CC,,R,A. LEE ,245,4,115,126,0
+Lanier,Stockton,CHAIR CC,,R,A. LEE ,348,8,181,159,0
+Lanier,Westside,CHAIR CC,,R,A. LEE ,304,10,152,142,0
+Lanier,,CC, D3,R,S. G. BOWLING ,662,15,262,385,0
+Lanier,Lakeland,CC, D3,R,S. G. BOWLING ,487,10,169,308,0
+Lanier,Westside,CC, D3,R,S. G. BOWLING ,175,5,93,77,0
+Lanier,,CC, D4,R,D. FENDER ,752,13,351,388,0
+Lanier,Lakeland,CC, D4,R,D. FENDER ,153,2,52,99,0
+Lanier,Sirmans,CC, D4,R,D. FENDER ,241,3,113,125,0
+Lanier,Stockton,CC, D4,R,D. FENDER ,358,8,186,164,0
+Lanier,,BOE CHAIRMAN,,R,F. PATTEN ,2385,55,981,1348,1
+Lanier,Lakeland,BOE CHAIRMAN,,R,F. PATTEN ,1498,35,532,930,1
+Lanier,Sirmans,BOE CHAIRMAN,,R,F. PATTEN ,239,4,113,122,0
+Lanier,Stockton,BOE CHAIRMAN,,R,F. PATTEN ,347,6,185,156,0
+Lanier,Westside,BOE CHAIRMAN,,R,F. PATTEN ,301,10,151,140,0
+Lanier,,BOE D2,,R,W. M. CHASON ,559,18,195,345,1
+Lanier,Lakeland,BOE D2,,R,W. M. CHASON ,431,13,137,280,1
+Lanier,Westside,BOE D2,,R,W. M. CHASON ,128,5,58,65,0
+Lanier,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1268,37,509,721,1
+Lanier,Lakeland,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,827,24,295,507,1
+Lanier,Sirmans,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,96,2,49,45,0
+Lanier,Stockton,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,170,4,85,81,0
+Lanier,Westside,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,175,7,80,88,0
+Lanier,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1467,28,607,832,0
+Lanier,Lakeland,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,903,17,324,562,0
+Lanier,Sirmans,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,173,2,79,92,0
+Lanier,Stockton,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,216,5,116,95,0
+Lanier,Westside,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,175,4,88,83,0
+Lanier,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2243,62,902,1278,1
+Lanier,Lakeland,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1401,38,488,874,1
+Lanier,Sirmans,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,213,4,100,109,0
+Lanier,Stockton,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,334,8,176,150,0
+Lanier,Westside,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,295,12,138,145,0
+Lanier,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,450,7,199,244,0
+Lanier,Lakeland,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,300,6,120,174,0
+Lanier,Sirmans,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,54,0,30,24,0
+Lanier,Stockton,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,47,1,22,24,0
+Lanier,Westside,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,49,0,27,22,0
+Lanier,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1652,47,667,938,0
+Lanier,Lakeland,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1033,30,358,645,0
+Lanier,Sirmans,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,150,2,75,73,0
+Lanier,Stockton,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,241,5,125,111,0
+Lanier,Westside,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,228,10,109,109,0
+Lanier,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,909,18,381,509,1
+Lanier,Lakeland,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,595,13,222,359,1
+Lanier,Sirmans,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,96,1,42,53,0
+Lanier,Stockton,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,120,3,67,50,0
+Lanier,Westside,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,98,1,50,47,0
+Lanier,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,2098,59,834,1205,0
+Lanier,Lakeland,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1337,38,458,841,0
+Lanier,Sirmans,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,190,3,93,94,0
+Lanier,Stockton,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,294,8,154,132,0
+Lanier,Westside,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,277,10,129,138,0
+Lanier,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,584,9,261,313,1
+Lanier,Lakeland,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,360,6,147,206,1
+Lanier,Sirmans,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,73,1,33,39,0
+Lanier,Stockton,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,84,1,44,39,0
+Lanier,Westside,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,67,1,37,29,0

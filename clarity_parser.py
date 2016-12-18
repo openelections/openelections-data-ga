@@ -15,9 +15,18 @@ def statewide_results(url):
         candidate = result.choice.text
         office, district = parse_office(result.contest.text)
         party = parse_party(result.contest.text)
-        if party is None and '(' in candidate:
-            candidate, party = candidate.split('(')
-            candidate = candidate.strip()
+        if '(' in candidate and party is None:
+            if '(I)' in candidate:
+                if '(I)(I)' in candidate:
+                    candidate = candidate.split('(I)')[0]
+                    party = 'I'
+                else:
+                    candidate, party = candidate.split('(I)')
+                candidate = candidate.strip() + ' (I)'
+            else:
+                print candidate
+                candidate, party = candidate.split('(', 1)
+                candidate = candidate.strip()
             party = party.replace(')','').strip()
         if result.jurisdiction:
             county = result.jurisdiction.name
@@ -29,7 +38,7 @@ def statewide_results(url):
         else:
             results.append({ 'county': county, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
-    with open("20121204__ga__general__runoff.csv", "wb") as csvfile:
+    with open("20161108__ga__general.csv", "wb") as csvfile:
         w = unicodecsv.writer(csvfile, encoding='utf-8')
         w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes', 'election_day', 'absentee', 'early_voting', 'provisional'])
         for row in results:
@@ -64,10 +73,13 @@ def precinct_results(county_name, filename):
         party = parse_party(result.contest.text)
         if '(' in candidate and party is None:
             if '(I)' in candidate:
-                candidate, party = candidate.split('(I)')
-                candidate = candidate.strip() + ' (I)'
+                if '(I)(I)' in candidate:
+                    candidate = candidate.split('(I)')[0]
+                    party = 'I'
+                else:
+                    candidate, party = candidate.split('(I)')
             else:
-                candidate, party = candidate.split('(')
+                candidate, party = candidate.split('(', 1)
                 candidate = candidate.strip()
             party = party.replace(')','').strip()
         county = p.region

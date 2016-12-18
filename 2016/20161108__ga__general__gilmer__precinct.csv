@@ -1,0 +1,407 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Gilmer,,President of the United States,,,DONALD J. TRUMP,10477,515,4440,5511,11
+Gilmer,ELLIJAY SOUTH,President of the United States,,,DONALD J. TRUMP,1372,70,435,866,1
+Gilmer,CARTECAY,President of the United States,,,DONALD J. TRUMP,864,39,433,389,3
+Gilmer,TAILS CREEK,President of the United States,,,DONALD J. TRUMP,787,26,418,341,2
+Gilmer,TOWN CREEK,President of the United States,,,DONALD J. TRUMP,555,16,287,252,0
+Gilmer,LEACHES,President of the United States,,,DONALD J. TRUMP,1235,57,508,670,0
+Gilmer,CHERRY LOG,President of the United States,,,DONALD J. TRUMP,458,28,276,154,0
+Gilmer,BOARDTOWN,President of the United States,,,DONALD J. TRUMP,738,40,360,338,0
+Gilmer,MOUNTAINTOWN,President of the United States,,,DONALD J. TRUMP,576,23,268,284,1
+Gilmer,EAST ELLIJAY,President of the United States,,,DONALD J. TRUMP,803,49,269,484,1
+Gilmer,ELLIJAY NORTH,President of the United States,,,DONALD J. TRUMP,763,54,282,427,0
+Gilmer,YUKON,President of the United States,,,DONALD J. TRUMP,647,16,344,286,1
+Gilmer,BIG CREEK,President of the United States,,,DONALD J. TRUMP,728,36,317,375,0
+Gilmer,ELLIJAY NORTHEAST,President of the United States,,,DONALD J. TRUMP,951,61,243,645,2
+Gilmer,,President of the United States,,,HILLARY CLINTON,1965,149,691,1121,4
+Gilmer,ELLIJAY SOUTH,President of the United States,,,HILLARY CLINTON,306,34,76,195,1
+Gilmer,CARTECAY,President of the United States,,,HILLARY CLINTON,124,10,41,73,0
+Gilmer,TAILS CREEK,President of the United States,,,HILLARY CLINTON,115,4,56,54,1
+Gilmer,TOWN CREEK,President of the United States,,,HILLARY CLINTON,82,8,40,34,0
+Gilmer,LEACHES,President of the United States,,,HILLARY CLINTON,225,12,80,132,1
+Gilmer,CHERRY LOG,President of the United States,,,HILLARY CLINTON,129,8,74,47,0
+Gilmer,BOARDTOWN,President of the United States,,,HILLARY CLINTON,136,12,50,74,0
+Gilmer,MOUNTAINTOWN,President of the United States,,,HILLARY CLINTON,106,10,53,43,0
+Gilmer,EAST ELLIJAY,President of the United States,,,HILLARY CLINTON,151,14,37,100,0
+Gilmer,ELLIJAY NORTH,President of the United States,,,HILLARY CLINTON,154,11,56,87,0
+Gilmer,YUKON,President of the United States,,,HILLARY CLINTON,78,3,37,38,0
+Gilmer,BIG CREEK,President of the United States,,,HILLARY CLINTON,152,12,59,81,0
+Gilmer,ELLIJAY NORTHEAST,President of the United States,,,HILLARY CLINTON,207,11,32,163,1
+Gilmer,,President of the United States,,,GARY JOHNSON,293,12,140,141,0
+Gilmer,ELLIJAY SOUTH,President of the United States,,,GARY JOHNSON,40,2,12,26,0
+Gilmer,CARTECAY,President of the United States,,,GARY JOHNSON,16,2,9,5,0
+Gilmer,TAILS CREEK,President of the United States,,,GARY JOHNSON,18,0,11,7,0
+Gilmer,TOWN CREEK,President of the United States,,,GARY JOHNSON,12,0,8,4,0
+Gilmer,LEACHES,President of the United States,,,GARY JOHNSON,39,1,12,26,0
+Gilmer,CHERRY LOG,President of the United States,,,GARY JOHNSON,11,0,7,4,0
+Gilmer,BOARDTOWN,President of the United States,,,GARY JOHNSON,26,1,11,14,0
+Gilmer,MOUNTAINTOWN,President of the United States,,,GARY JOHNSON,17,0,10,7,0
+Gilmer,EAST ELLIJAY,President of the United States,,,GARY JOHNSON,23,0,17,6,0
+Gilmer,ELLIJAY NORTH,President of the United States,,,GARY JOHNSON,31,3,14,14,0
+Gilmer,YUKON,President of the United States,,,GARY JOHNSON,26,2,17,7,0
+Gilmer,BIG CREEK,President of the United States,,,GARY JOHNSON,22,0,10,12,0
+Gilmer,ELLIJAY NORTHEAST,President of the United States,,,GARY JOHNSON,12,1,2,9,0
+Gilmer,,United States Senator,,,JOHNNY ISAKSON ,9508,503,3990,5009,6
+Gilmer,ELLIJAY SOUTH,United States Senator,,,JOHNNY ISAKSON ,1251,73,390,787,1
+Gilmer,CARTECAY,United States Senator,,,JOHNNY ISAKSON ,771,39,384,347,1
+Gilmer,TAILS CREEK,United States Senator,,,JOHNNY ISAKSON ,672,23,347,301,1
+Gilmer,TOWN CREEK,United States Senator,,,JOHNNY ISAKSON ,490,14,255,221,0
+Gilmer,LEACHES,United States Senator,,,JOHNNY ISAKSON ,1109,54,450,605,0
+Gilmer,CHERRY LOG,United States Senator,,,JOHNNY ISAKSON ,421,27,249,145,0
+Gilmer,BOARDTOWN,United States Senator,,,JOHNNY ISAKSON ,682,36,329,317,0
+Gilmer,MOUNTAINTOWN,United States Senator,,,JOHNNY ISAKSON ,524,25,244,254,1
+Gilmer,EAST ELLIJAY,United States Senator,,,JOHNNY ISAKSON ,737,48,247,442,0
+Gilmer,ELLIJAY NORTH,United States Senator,,,JOHNNY ISAKSON ,712,50,271,391,0
+Gilmer,YUKON,United States Senator,,,JOHNNY ISAKSON ,588,19,317,251,1
+Gilmer,BIG CREEK,United States Senator,,,JOHNNY ISAKSON ,672,34,288,350,0
+Gilmer,ELLIJAY NORTHEAST,United States Senator,,,JOHNNY ISAKSON ,879,61,219,598,1
+Gilmer,,United States Senator,,,JIM BARKSDALE,1795,125,688,979,3
+Gilmer,ELLIJAY SOUTH,United States Senator,,,JIM BARKSDALE,262,24,69,169,0
+Gilmer,CARTECAY,United States Senator,,,JIM BARKSDALE,127,9,53,64,1
+Gilmer,TAILS CREEK,United States Senator,,,JIM BARKSDALE,126,3,76,46,1
+Gilmer,TOWN CREEK,United States Senator,,,JIM BARKSDALE,86,8,45,33,0
+Gilmer,LEACHES,United States Senator,,,JIM BARKSDALE,220,11,80,129,0
+Gilmer,CHERRY LOG,United States Senator,,,JIM BARKSDALE,110,5,63,42,0
+Gilmer,BOARDTOWN,United States Senator,,,JIM BARKSDALE,119,11,44,64,0
+Gilmer,MOUNTAINTOWN,United States Senator,,,JIM BARKSDALE,87,9,44,34,0
+Gilmer,EAST ELLIJAY,United States Senator,,,JIM BARKSDALE,127,11,43,73,0
+Gilmer,ELLIJAY NORTH,United States Senator,,,JIM BARKSDALE,119,9,41,69,0
+Gilmer,YUKON,United States Senator,,,JIM BARKSDALE,83,1,45,37,0
+Gilmer,BIG CREEK,United States Senator,,,JIM BARKSDALE,148,13,54,81,0
+Gilmer,ELLIJAY NORTHEAST,United States Senator,,,JIM BARKSDALE,181,11,31,138,1
+Gilmer,,United States Senator,,,ALLEN BUCKLEY,614,26,277,308,3
+Gilmer,ELLIJAY SOUTH,United States Senator,,,ALLEN BUCKLEY,76,3,25,48,0
+Gilmer,CARTECAY,United States Senator,,,ALLEN BUCKLEY,43,2,24,16,1
+Gilmer,TAILS CREEK,United States Senator,,,ALLEN BUCKLEY,52,1,28,22,1
+Gilmer,TOWN CREEK,United States Senator,,,ALLEN BUCKLEY,24,1,10,13,0
+Gilmer,LEACHES,United States Senator,,,ALLEN BUCKLEY,70,2,29,38,1
+Gilmer,CHERRY LOG,United States Senator,,,ALLEN BUCKLEY,27,2,21,4,0
+Gilmer,BOARDTOWN,United States Senator,,,ALLEN BUCKLEY,46,2,25,19,0
+Gilmer,MOUNTAINTOWN,United States Senator,,,ALLEN BUCKLEY,44,1,22,21,0
+Gilmer,EAST ELLIJAY,United States Senator,,,ALLEN BUCKLEY,50,4,15,31,0
+Gilmer,ELLIJAY NORTH,United States Senator,,,ALLEN BUCKLEY,55,5,24,26,0
+Gilmer,YUKON,United States Senator,,,ALLEN BUCKLEY,35,1,16,18,0
+Gilmer,BIG CREEK,United States Senator,,,ALLEN BUCKLEY,40,1,24,15,0
+Gilmer,ELLIJAY NORTHEAST,United States Senator,,,ALLEN BUCKLEY,52,1,14,37,0
+Gilmer,,"Public Service Commission, District 2",2,,TIM ECHOLS ,9504,499,3970,5029,6
+Gilmer,ELLIJAY SOUTH,"Public Service Commission, District 2",2,,TIM ECHOLS ,1263,72,396,794,1
+Gilmer,CARTECAY,"Public Service Commission, District 2",2,,TIM ECHOLS ,753,39,364,350,0
+Gilmer,TAILS CREEK,"Public Service Commission, District 2",2,,TIM ECHOLS ,694,25,353,314,2
+Gilmer,TOWN CREEK,"Public Service Commission, District 2",2,,TIM ECHOLS ,489,18,246,225,0
+Gilmer,LEACHES,"Public Service Commission, District 2",2,,TIM ECHOLS ,1122,50,467,605,0
+Gilmer,CHERRY LOG,"Public Service Commission, District 2",2,,TIM ECHOLS ,437,26,268,143,0
+Gilmer,BOARDTOWN,"Public Service Commission, District 2",2,,TIM ECHOLS ,690,37,338,315,0
+Gilmer,MOUNTAINTOWN,"Public Service Commission, District 2",2,,TIM ECHOLS ,522,25,243,253,1
+Gilmer,EAST ELLIJAY,"Public Service Commission, District 2",2,,TIM ECHOLS ,728,48,242,438,0
+Gilmer,ELLIJAY NORTH,"Public Service Commission, District 2",2,,TIM ECHOLS ,683,48,258,377,0
+Gilmer,YUKON,"Public Service Commission, District 2",2,,TIM ECHOLS ,578,18,309,250,1
+Gilmer,BIG CREEK,"Public Service Commission, District 2",2,,TIM ECHOLS ,670,30,285,355,0
+Gilmer,ELLIJAY NORTHEAST,"Public Service Commission, District 2",2,,TIM ECHOLS ,875,63,201,610,1
+Gilmer,,"Public Service Commission, District 2",2,,ERIC HOSKINS,1884,102,781,996,5
+Gilmer,ELLIJAY SOUTH,"Public Service Commission, District 2",2,,ERIC HOSKINS,258,16,81,161,0
+Gilmer,CARTECAY,"Public Service Commission, District 2",2,,ERIC HOSKINS,133,7,67,56,3
+Gilmer,TAILS CREEK,"Public Service Commission, District 2",2,,ERIC HOSKINS,138,1,82,54,1
+Gilmer,TOWN CREEK,"Public Service Commission, District 2",2,,ERIC HOSKINS,83,6,41,36,0
+Gilmer,LEACHES,"Public Service Commission, District 2",2,,ERIC HOSKINS,244,11,95,137,1
+Gilmer,CHERRY LOG,"Public Service Commission, District 2",2,,ERIC HOSKINS,91,6,49,36,0
+Gilmer,BOARDTOWN,"Public Service Commission, District 2",2,,ERIC HOSKINS,114,10,41,63,0
+Gilmer,MOUNTAINTOWN,"Public Service Commission, District 2",2,,ERIC HOSKINS,111,7,57,47,0
+Gilmer,EAST ELLIJAY,"Public Service Commission, District 2",2,,ERIC HOSKINS,139,9,46,84,0
+Gilmer,ELLIJAY NORTH,"Public Service Commission, District 2",2,,ERIC HOSKINS,138,9,54,75,0
+Gilmer,YUKON,"Public Service Commission, District 2",2,,ERIC HOSKINS,104,2,58,44,0
+Gilmer,BIG CREEK,"Public Service Commission, District 2",2,,ERIC HOSKINS,158,14,70,74,0
+Gilmer,ELLIJAY NORTHEAST,"Public Service Commission, District 2",2,,ERIC HOSKINS,173,4,40,129,0
+Gilmer,,U.S. Representative,9,,DOUG COLLINS ,10709,539,4513,5648,9
+Gilmer,ELLIJAY SOUTH,U.S. Representative,9,,DOUG COLLINS ,1429,78,447,903,1
+Gilmer,CARTECAY,U.S. Representative,9,,DOUG COLLINS ,838,41,419,376,2
+Gilmer,TAILS CREEK,U.S. Representative,9,,DOUG COLLINS ,782,22,413,344,3
+Gilmer,TOWN CREEK,U.S. Representative,9,,DOUG COLLINS ,546,19,276,251,0
+Gilmer,LEACHES,U.S. Representative,9,,DOUG COLLINS ,1297,57,535,705,0
+Gilmer,CHERRY LOG,U.S. Representative,9,,DOUG COLLINS ,486,29,304,153,0
+Gilmer,BOARDTOWN,U.S. Representative,9,,DOUG COLLINS ,742,41,352,349,0
+Gilmer,MOUNTAINTOWN,U.S. Representative,9,,DOUG COLLINS ,591,24,271,295,1
+Gilmer,EAST ELLIJAY,U.S. Representative,9,,DOUG COLLINS ,806,50,272,484,0
+Gilmer,ELLIJAY NORTH,U.S. Representative,9,,DOUG COLLINS ,790,54,305,431,0
+Gilmer,YUKON,U.S. Representative,9,,DOUG COLLINS ,643,19,343,280,1
+Gilmer,BIG CREEK,U.S. Representative,9,,DOUG COLLINS ,773,42,338,393,0
+Gilmer,ELLIJAY NORTHEAST,U.S. Representative,9,,DOUG COLLINS ,986,63,238,684,1
+Gilmer,,State Senator,51,,STEVE GOOCH ,10596,528,4456,5603,9
+Gilmer,ELLIJAY SOUTH,State Senator,51,,STEVE GOOCH ,1420,74,451,894,1
+Gilmer,CARTECAY,State Senator,51,,STEVE GOOCH ,826,38,414,372,2
+Gilmer,TAILS CREEK,State Senator,51,,STEVE GOOCH ,774,21,406,344,3
+Gilmer,TOWN CREEK,State Senator,51,,STEVE GOOCH ,544,19,275,250,0
+Gilmer,LEACHES,State Senator,51,,STEVE GOOCH ,1277,57,522,698,0
+Gilmer,CHERRY LOG,State Senator,51,,STEVE GOOCH ,486,30,302,154,0
+Gilmer,BOARDTOWN,State Senator,51,,STEVE GOOCH ,731,42,339,350,0
+Gilmer,MOUNTAINTOWN,State Senator,51,,STEVE GOOCH ,585,24,266,294,1
+Gilmer,EAST ELLIJAY,State Senator,51,,STEVE GOOCH ,801,50,274,477,0
+Gilmer,ELLIJAY NORTH,State Senator,51,,STEVE GOOCH ,777,50,303,424,0
+Gilmer,YUKON,State Senator,51,,STEVE GOOCH ,631,19,337,274,1
+Gilmer,BIG CREEK,State Senator,51,,STEVE GOOCH ,757,40,326,391,0
+Gilmer,ELLIJAY NORTHEAST,State Senator,51,,STEVE GOOCH ,987,64,241,681,1
+Gilmer,,State Representative,7,,DAVID RALSTON ,10605,531,4452,5613,9
+Gilmer,ELLIJAY SOUTH,State Representative,7,,DAVID RALSTON ,1411,76,442,892,1
+Gilmer,CARTECAY,State Representative,7,,DAVID RALSTON ,839,39,415,383,2
+Gilmer,TAILS CREEK,State Representative,7,,DAVID RALSTON ,774,19,406,346,3
+Gilmer,TOWN CREEK,State Representative,7,,DAVID RALSTON ,546,18,282,246,0
+Gilmer,LEACHES,State Representative,7,,DAVID RALSTON ,1274,57,515,702,0
+Gilmer,CHERRY LOG,State Representative,7,,DAVID RALSTON ,488,31,298,159,0
+Gilmer,BOARDTOWN,State Representative,7,,DAVID RALSTON ,735,42,353,340,0
+Gilmer,MOUNTAINTOWN,State Representative,7,,DAVID RALSTON ,586,24,271,290,1
+Gilmer,EAST ELLIJAY,State Representative,7,,DAVID RALSTON ,798,49,273,476,0
+Gilmer,ELLIJAY NORTH,State Representative,7,,DAVID RALSTON ,794,52,305,437,0
+Gilmer,YUKON,State Representative,7,,DAVID RALSTON ,623,19,330,273,1
+Gilmer,BIG CREEK,State Representative,7,,DAVID RALSTON ,762,41,327,394,0
+Gilmer,ELLIJAY NORTHEAST,State Representative,7,,DAVID RALSTON ,975,64,235,675,1
+Gilmer,,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,10582,540,4420,5612,10
+Gilmer,ELLIJAY SOUTH,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,1429,80,441,907,1
+Gilmer,CARTECAY,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,815,38,398,376,3
+Gilmer,TAILS CREEK,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,771,21,406,341,3
+Gilmer,TOWN CREEK,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,539,18,274,247,0
+Gilmer,LEACHES,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,1284,58,521,705,0
+Gilmer,CHERRY LOG,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,489,29,303,157,0
+Gilmer,BOARDTOWN,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,729,42,344,343,0
+Gilmer,MOUNTAINTOWN,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,584,24,266,293,1
+Gilmer,EAST ELLIJAY,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,798,49,266,483,0
+Gilmer,ELLIJAY NORTH,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,774,52,295,427,0
+Gilmer,YUKON,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,630,19,338,272,1
+Gilmer,BIG CREEK,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,755,45,324,386,0
+Gilmer,ELLIJAY NORTHEAST,District Attorney, Appalachian Circuit,,B ALISON SOSEBEE ,985,65,244,675,1
+Gilmer,,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,10748,538,4489,5712,9
+Gilmer,ELLIJAY SOUTH,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,1456,79,451,925,1
+Gilmer,CARTECAY,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,844,45,410,387,2
+Gilmer,TAILS CREEK,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,776,22,410,341,3
+Gilmer,TOWN CREEK,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,554,20,282,252,0
+Gilmer,LEACHES,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,1298,59,528,711,0
+Gilmer,CHERRY LOG,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,496,29,309,158,0
+Gilmer,BOARDTOWN,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,746,40,354,352,0
+Gilmer,MOUNTAINTOWN,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,587,25,270,291,1
+Gilmer,EAST ELLIJAY,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,814,49,273,492,0
+Gilmer,ELLIJAY NORTH,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,792,50,303,439,0
+Gilmer,YUKON,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,636,17,341,277,1
+Gilmer,BIG CREEK,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,761,40,322,399,0
+Gilmer,ELLIJAY NORTHEAST,JUDGE, PROBATE COURT,R,S. C. CHASTAIN,988,63,236,688,1
+Gilmer,,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,10957,556,4605,5786,10
+Gilmer,ELLIJAY SOUTH,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,1476,84,461,930,1
+Gilmer,CARTECAY,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,853,42,419,389,3
+Gilmer,TAILS CREEK,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,784,23,411,347,3
+Gilmer,TOWN CREEK,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,563,20,291,252,0
+Gilmer,LEACHES,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,1308,60,537,711,0
+Gilmer,CHERRY LOG,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,498,30,310,158,0
+Gilmer,BOARDTOWN,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,773,43,364,366,0
+Gilmer,MOUNTAINTOWN,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,599,25,279,294,1
+Gilmer,EAST ELLIJAY,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,837,53,283,501,0
+Gilmer,ELLIJAY NORTH,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,821,49,321,451,0
+Gilmer,YUKON,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,650,19,353,277,1
+Gilmer,BIG CREEK,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,781,41,332,408,0
+Gilmer,ELLIJAY NORTHEAST,CLERK, SUPERIOR COURT,R,G. S. JOHNSON ,1014,67,244,702,1
+Gilmer,,SHERIFF,,R,S. L. NICHOLSON ,10942,552,4534,5846,10
+Gilmer,ELLIJAY SOUTH,SHERIFF,,R,S. L. NICHOLSON ,1483,83,452,947,1
+Gilmer,CARTECAY,SHERIFF,,R,S. L. NICHOLSON ,848,41,411,393,3
+Gilmer,TAILS CREEK,SHERIFF,,R,S. L. NICHOLSON ,780,24,410,344,2
+Gilmer,TOWN CREEK,SHERIFF,,R,S. L. NICHOLSON ,566,19,289,258,0
+Gilmer,LEACHES,SHERIFF,,R,S. L. NICHOLSON ,1323,59,533,731,0
+Gilmer,CHERRY LOG,SHERIFF,,R,S. L. NICHOLSON ,493,30,303,160,0
+Gilmer,BOARDTOWN,SHERIFF,,R,S. L. NICHOLSON ,768,43,354,371,0
+Gilmer,MOUNTAINTOWN,SHERIFF,,R,S. L. NICHOLSON ,615,25,289,300,1
+Gilmer,EAST ELLIJAY,SHERIFF,,R,S. L. NICHOLSON ,834,52,277,504,1
+Gilmer,ELLIJAY NORTH,SHERIFF,,R,S. L. NICHOLSON ,814,54,310,450,0
+Gilmer,YUKON,SHERIFF,,R,S. L. NICHOLSON ,647,18,345,283,1
+Gilmer,BIG CREEK,SHERIFF,,R,S. L. NICHOLSON ,760,39,323,398,0
+Gilmer,ELLIJAY NORTHEAST,SHERIFF,,R,S. L. NICHOLSON ,1011,65,238,707,1
+Gilmer,,TAX COMMISSIONER,,R,R. A. MARSHALL ,10786,555,4488,5734,9
+Gilmer,ELLIJAY SOUTH,TAX COMMISSIONER,,R,R. A. MARSHALL ,1452,80,446,925,1
+Gilmer,CARTECAY,TAX COMMISSIONER,,R,R. A. MARSHALL ,840,40,409,389,2
+Gilmer,TAILS CREEK,TAX COMMISSIONER,,R,R. A. MARSHALL ,770,24,403,340,3
+Gilmer,TOWN CREEK,TAX COMMISSIONER,,R,R. A. MARSHALL ,557,20,285,252,0
+Gilmer,LEACHES,TAX COMMISSIONER,,R,R. A. MARSHALL ,1287,59,521,707,0
+Gilmer,CHERRY LOG,TAX COMMISSIONER,,R,R. A. MARSHALL ,495,31,304,160,0
+Gilmer,BOARDTOWN,TAX COMMISSIONER,,R,R. A. MARSHALL ,759,42,354,363,0
+Gilmer,MOUNTAINTOWN,TAX COMMISSIONER,,R,R. A. MARSHALL ,595,24,280,290,1
+Gilmer,EAST ELLIJAY,TAX COMMISSIONER,,R,R. A. MARSHALL ,817,53,273,491,0
+Gilmer,ELLIJAY NORTH,TAX COMMISSIONER,,R,R. A. MARSHALL ,802,53,307,442,0
+Gilmer,YUKON,TAX COMMISSIONER,,R,R. A. MARSHALL ,630,18,339,272,1
+Gilmer,BIG CREEK,TAX COMMISSIONER,,R,R. A. MARSHALL ,773,45,326,402,0
+Gilmer,ELLIJAY NORTHEAST,TAX COMMISSIONER,,R,R. A. MARSHALL ,1009,66,241,701,1
+Gilmer,,SURVEYOR,,R,J. T. VICK,10528,535,4399,5585,9
+Gilmer,ELLIJAY SOUTH,SURVEYOR,,R,J. T. VICK,1414,80,435,898,1
+Gilmer,CARTECAY,SURVEYOR,,R,J. T. VICK,822,41,408,371,2
+Gilmer,TAILS CREEK,SURVEYOR,,R,J. T. VICK,766,21,400,342,3
+Gilmer,TOWN CREEK,SURVEYOR,,R,J. T. VICK,552,20,278,254,0
+Gilmer,LEACHES,SURVEYOR,,R,J. T. VICK,1276,59,519,698,0
+Gilmer,CHERRY LOG,SURVEYOR,,R,J. T. VICK,480,28,297,155,0
+Gilmer,BOARDTOWN,SURVEYOR,,R,J. T. VICK,736,41,345,350,0
+Gilmer,MOUNTAINTOWN,SURVEYOR,,R,J. T. VICK,580,22,271,286,1
+Gilmer,EAST ELLIJAY,SURVEYOR,,R,J. T. VICK,792,49,266,477,0
+Gilmer,ELLIJAY NORTH,SURVEYOR,,R,J. T. VICK,779,50,300,429,0
+Gilmer,YUKON,SURVEYOR,,R,J. T. VICK,617,17,330,269,1
+Gilmer,BIG CREEK,SURVEYOR,,R,J. T. VICK,749,42,315,392,0
+Gilmer,ELLIJAY NORTHEAST,SURVEYOR,,R,J. T. VICK,965,65,235,664,1
+Gilmer,,CORONER,,R,J. B. HENSLEY ,10813,543,4540,5721,9
+Gilmer,ELLIJAY SOUTH,CORONER,,R,J. B. HENSLEY ,1456,81,452,922,1
+Gilmer,CARTECAY,CORONER,,R,J. B. HENSLEY ,844,37,418,387,2
+Gilmer,TAILS CREEK,CORONER,,R,J. B. HENSLEY ,782,23,415,341,3
+Gilmer,TOWN CREEK,CORONER,,R,J. B. HENSLEY ,557,18,282,257,0
+Gilmer,LEACHES,CORONER,,R,J. B. HENSLEY ,1289,57,529,703,0
+Gilmer,CHERRY LOG,CORONER,,R,J. B. HENSLEY ,491,31,303,157,0
+Gilmer,BOARDTOWN,CORONER,,R,J. B. HENSLEY ,755,41,355,359,0
+Gilmer,MOUNTAINTOWN,CORONER,,R,J. B. HENSLEY ,593,24,279,289,1
+Gilmer,EAST ELLIJAY,CORONER,,R,J. B. HENSLEY ,828,54,275,499,0
+Gilmer,ELLIJAY NORTH,CORONER,,R,J. B. HENSLEY ,810,50,315,445,0
+Gilmer,YUKON,CORONER,,R,J. B. HENSLEY ,638,19,345,273,1
+Gilmer,BIG CREEK,CORONER,,R,J. B. HENSLEY ,771,42,331,398,0
+Gilmer,ELLIJAY NORTHEAST,CORONER,,R,J. B. HENSLEY ,999,66,241,691,1
+Gilmer,,CHIEF MAGISTRATE,,R,R. KINCAID ,10726,539,4509,5668,10
+Gilmer,ELLIJAY SOUTH,CHIEF MAGISTRATE,,R,R. KINCAID ,1430,77,448,904,1
+Gilmer,CARTECAY,CHIEF MAGISTRATE,,R,R. KINCAID ,850,40,417,390,3
+Gilmer,TAILS CREEK,CHIEF MAGISTRATE,,R,R. KINCAID ,775,22,412,338,3
+Gilmer,TOWN CREEK,CHIEF MAGISTRATE,,R,R. KINCAID ,548,17,281,250,0
+Gilmer,LEACHES,CHIEF MAGISTRATE,,R,R. KINCAID ,1276,57,525,694,0
+Gilmer,CHERRY LOG,CHIEF MAGISTRATE,,R,R. KINCAID ,487,30,303,154,0
+Gilmer,BOARDTOWN,CHIEF MAGISTRATE,,R,R. KINCAID ,748,43,348,357,0
+Gilmer,MOUNTAINTOWN,CHIEF MAGISTRATE,,R,R. KINCAID ,590,24,278,287,1
+Gilmer,EAST ELLIJAY,CHIEF MAGISTRATE,,R,R. KINCAID ,822,51,277,494,0
+Gilmer,ELLIJAY NORTH,CHIEF MAGISTRATE,,R,R. KINCAID ,802,52,312,438,0
+Gilmer,YUKON,CHIEF MAGISTRATE,,R,R. KINCAID ,630,19,339,271,1
+Gilmer,BIG CREEK,CHIEF MAGISTRATE,,R,R. KINCAID ,772,41,330,401,0
+Gilmer,ELLIJAY NORTHEAST,CHIEF MAGISTRATE,,R,R. KINCAID ,996,66,239,690,1
+Gilmer,,CC P1,,R,D. H. MILLER ,10435,517,4361,5547,10
+Gilmer,ELLIJAY SOUTH,CC P1,,R,D. H. MILLER ,1404,79,428,896,1
+Gilmer,CARTECAY,CC P1,,R,D. H. MILLER ,803,40,396,364,3
+Gilmer,TAILS CREEK,CC P1,,R,D. H. MILLER ,766,20,403,340,3
+Gilmer,TOWN CREEK,CC P1,,R,D. H. MILLER ,535,18,270,247,0
+Gilmer,LEACHES,CC P1,,R,D. H. MILLER ,1270,54,522,694,0
+Gilmer,CHERRY LOG,CC P1,,R,D. H. MILLER ,478,29,298,151,0
+Gilmer,BOARDTOWN,CC P1,,R,D. H. MILLER ,729,41,340,348,0
+Gilmer,MOUNTAINTOWN,CC P1,,R,D. H. MILLER ,578,22,269,286,1
+Gilmer,EAST ELLIJAY,CC P1,,R,D. H. MILLER ,781,48,260,473,0
+Gilmer,ELLIJAY NORTH,CC P1,,R,D. H. MILLER ,764,43,300,421,0
+Gilmer,YUKON,CC P1,,R,D. H. MILLER ,617,16,332,268,1
+Gilmer,BIG CREEK,CC P1,,R,D. H. MILLER ,744,45,310,389,0
+Gilmer,ELLIJAY NORTHEAST,CC P1,,R,D. H. MILLER ,966,62,233,670,1
+Gilmer,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,4464,291,1703,2464,6
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,608,51,163,394,0
+Gilmer,CARTECAY,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,373,26,159,186,2
+Gilmer,TAILS CREEK,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,335,12,157,165,1
+Gilmer,TOWN CREEK,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,216,11,105,100,0
+Gilmer,LEACHES,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,577,31,231,314,1
+Gilmer,CHERRY LOG,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,213,16,126,71,0
+Gilmer,BOARDTOWN,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,303,24,128,151,0
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,240,16,91,132,1
+Gilmer,EAST ELLIJAY,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,324,29,99,196,0
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,299,25,101,173,0
+Gilmer,YUKON,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,236,3,116,116,1
+Gilmer,BIG CREEK,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,297,22,118,157,0
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,443,25,109,309,0
+Gilmer,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,7950,351,3447,4146,6
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1046,46,345,654,1
+Gilmer,CARTECAY,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,609,23,313,272,1
+Gilmer,TAILS CREEK,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,558,17,311,228,2
+Gilmer,TOWN CREEK,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,422,14,223,185,0
+Gilmer,LEACHES,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,879,35,353,491,0
+Gilmer,CHERRY LOG,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,366,17,223,126,0
+Gilmer,BOARDTOWN,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,568,27,279,262,0
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,452,18,238,196,0
+Gilmer,EAST ELLIJAY,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,637,33,217,386,1
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,615,35,243,337,0
+Gilmer,YUKON,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,493,16,273,204,0
+Gilmer,BIG CREEK,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,587,24,259,304,0
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,718,46,170,501,1
+Gilmer,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,9874,556,3979,5330,9
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1354,77,414,862,1
+Gilmer,CARTECAY,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,780,45,370,362,3
+Gilmer,TAILS CREEK,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,696,24,362,307,3
+Gilmer,TOWN CREEK,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,505,21,240,244,0
+Gilmer,LEACHES,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1185,59,467,659,0
+Gilmer,CHERRY LOG,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,467,30,271,166,0
+Gilmer,BOARDTOWN,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,701,46,310,345,0
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,532,31,251,249,1
+Gilmer,EAST ELLIJAY,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,769,53,257,459,0
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,723,50,259,414,0
+Gilmer,YUKON,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,563,21,277,265,0
+Gilmer,BIG CREEK,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,688,40,283,365,0
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,911,59,218,633,1
+Gilmer,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,2255,79,1044,1130,2
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,270,15,90,165,0
+Gilmer,CARTECAY,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,180,5,97,78,0
+Gilmer,TAILS CREEK,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,175,5,99,71,0
+Gilmer,TOWN CREEK,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,120,4,78,38,0
+Gilmer,LEACHES,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,257,5,103,148,1
+Gilmer,CHERRY LOG,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,105,3,73,29,0
+Gilmer,BOARDTOWN,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,148,5,81,62,0
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,139,4,67,68,0
+Gilmer,EAST ELLIJAY,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,156,5,46,105,0
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,164,11,72,81,0
+Gilmer,YUKON,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,158,0,104,53,1
+Gilmer,BIG CREEK,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,175,6,81,88,0
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,208,11,53,144,0
+Gilmer,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,6829,418,2668,3737,6
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,960,62,271,626,1
+Gilmer,CARTECAY,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,525,44,245,234,2
+Gilmer,TAILS CREEK,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,512,19,247,245,1
+Gilmer,TOWN CREEK,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,338,15,165,158,0
+Gilmer,LEACHES,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,852,37,334,481,0
+Gilmer,CHERRY LOG,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,314,23,194,97,0
+Gilmer,BOARDTOWN,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,470,33,193,244,0
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,372,25,156,190,1
+Gilmer,EAST ELLIJAY,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,481,42,142,297,0
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,478,30,181,267,0
+Gilmer,YUKON,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,377,16,191,170,0
+Gilmer,BIG CREEK,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,508,33,196,279,0
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,642,39,153,449,1
+Gilmer,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,4312,162,1920,2226,4
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,555,28,191,336,0
+Gilmer,CARTECAY,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,331,3,167,160,1
+Gilmer,TAILS CREEK,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,299,7,180,110,2
+Gilmer,TOWN CREEK,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,232,8,125,99,0
+Gilmer,LEACHES,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,481,20,199,262,0
+Gilmer,CHERRY LOG,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,208,6,119,83,0
+Gilmer,BOARDTOWN,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,316,16,167,133,0
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,259,8,137,114,0
+Gilmer,EAST ELLIJAY,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,343,8,123,212,0
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,320,20,121,179,0
+Gilmer,YUKON,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,280,2,158,119,1
+Gilmer,BIG CREEK,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,301,12,143,146,0
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,387,24,90,273,0
+Gilmer,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,9175,555,3642,4970,8
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1263,82,378,802,1
+Gilmer,CARTECAY,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,711,47,332,330,2
+Gilmer,TAILS CREEK,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,638,25,318,293,2
+Gilmer,TOWN CREEK,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,463,19,224,220,0
+Gilmer,LEACHES,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1113,57,420,635,1
+Gilmer,CHERRY LOG,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,448,29,263,156,0
+Gilmer,BOARDTOWN,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,645,48,275,322,0
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,497,27,225,244,1
+Gilmer,EAST ELLIJAY,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,714,50,233,431,0
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,661,54,236,371,0
+Gilmer,YUKON,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,511,18,259,234,0
+Gilmer,BIG CREEK,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,667,40,275,352,0
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,844,59,204,580,1
+Gilmer,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,2621,81,1212,1325,3
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,321,11,108,202,0
+Gilmer,CARTECAY,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,209,3,111,94,1
+Gilmer,TAILS CREEK,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,216,5,128,82,1
+Gilmer,TOWN CREEK,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,142,6,80,56,0
+Gilmer,LEACHES,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,287,7,133,147,0
+Gilmer,CHERRY LOG,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,109,4,71,34,0
+Gilmer,BOARDTOWN,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,176,4,97,75,0
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,168,8,90,70,0
+Gilmer,EAST ELLIJAY,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,183,8,57,118,0
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,195,8,84,103,0
+Gilmer,YUKON,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,188,2,111,74,1
+Gilmer,BIG CREEK,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,175,4,80,91,0
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,252,11,62,179,0
+Gilmer,,BOE, P5 SPECIAL,,R. WATKINS,10165,522,4241,5393,9
+Gilmer,ELLIJAY SOUTH,BOE, P5 SPECIAL,,R. WATKINS,1362,81,417,863,1
+Gilmer,CARTECAY,BOE, P5 SPECIAL,,R. WATKINS,788,38,389,358,3
+Gilmer,TAILS CREEK,BOE, P5 SPECIAL,,R. WATKINS,751,23,393,332,3
+Gilmer,TOWN CREEK,BOE, P5 SPECIAL,,R. WATKINS,517,19,263,235,0
+Gilmer,LEACHES,BOE, P5 SPECIAL,,R. WATKINS,1198,54,483,661,0
+Gilmer,CHERRY LOG,BOE, P5 SPECIAL,,R. WATKINS,459,23,283,153,0
+Gilmer,BOARDTOWN,BOE, P5 SPECIAL,,R. WATKINS,716,41,335,340,0
+Gilmer,MOUNTAINTOWN,BOE, P5 SPECIAL,,R. WATKINS,569,26,269,273,1
+Gilmer,EAST ELLIJAY,BOE, P5 SPECIAL,,R. WATKINS,759,48,255,456,0
+Gilmer,ELLIJAY NORTH,BOE, P5 SPECIAL,,R. WATKINS,760,49,294,417,0
+Gilmer,YUKON,BOE, P5 SPECIAL,,R. WATKINS,607,19,328,259,1
+Gilmer,BIG CREEK,BOE, P5 SPECIAL,,R. WATKINS,721,40,304,377,0
+Gilmer,ELLIJAY NORTHEAST,BOE, P5 SPECIAL,,R. WATKINS,958,61,228,669,0

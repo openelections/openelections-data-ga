@@ -1,0 +1,100 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Wheeler,,President of the United States,,,DONALD J. TRUMP,1421,94,669,655,3
+Wheeler,Alamo,President of the United States,,,DONALD J. TRUMP,831,37,379,415,0
+Wheeler,Glenwood,President of the United States,,,DONALD J. TRUMP,590,57,290,240,3
+Wheeler,,President of the United States,,,HILLARY CLINTON,646,68,295,283,0
+Wheeler,Alamo,President of the United States,,,HILLARY CLINTON,398,39,166,193,0
+Wheeler,Glenwood,President of the United States,,,HILLARY CLINTON,248,29,129,90,0
+Wheeler,,President of the United States,,,GARY JOHNSON,35,3,12,19,1
+Wheeler,Alamo,President of the United States,,,GARY JOHNSON,16,0,6,9,1
+Wheeler,Glenwood,President of the United States,,,GARY JOHNSON,19,3,6,10,0
+Wheeler,,United States Senator,,,JOHNNY ISAKSON ,1304,98,609,594,3
+Wheeler,Alamo,United States Senator,,,JOHNNY ISAKSON ,761,35,343,382,1
+Wheeler,Glenwood,United States Senator,,,JOHNNY ISAKSON ,543,63,266,212,2
+Wheeler,,United States Senator,,,JIM BARKSDALE,545,58,260,227,0
+Wheeler,Alamo,United States Senator,,,JIM BARKSDALE,338,39,148,151,0
+Wheeler,Glenwood,United States Senator,,,JIM BARKSDALE,207,19,112,76,0
+Wheeler,,United States Senator,,,ALLEN BUCKLEY,55,1,29,25,0
+Wheeler,Alamo,United States Senator,,,ALLEN BUCKLEY,28,1,14,13,0
+Wheeler,Glenwood,United States Senator,,,ALLEN BUCKLEY,27,0,15,12,0
+Wheeler,,"Public Service Commission, District 2",2,,TIM ECHOLS ,1418,104,670,641,3
+Wheeler,Alamo,"Public Service Commission, District 2",2,,TIM ECHOLS ,815,38,375,401,1
+Wheeler,Glenwood,"Public Service Commission, District 2",2,,TIM ECHOLS ,603,66,295,240,2
+Wheeler,,"Public Service Commission, District 2",2,,ERIC HOSKINS,326,25,147,154,0
+Wheeler,Alamo,"Public Service Commission, District 2",2,,ERIC HOSKINS,195,13,86,96,0
+Wheeler,Glenwood,"Public Service Commission, District 2",2,,ERIC HOSKINS,131,12,61,58,0
+Wheeler,,U.S. Representative,12,,RICK ALLEN ,1372,99,641,631,1
+Wheeler,Alamo,U.S. Representative,12,,RICK ALLEN ,784,36,353,395,0
+Wheeler,Glenwood,U.S. Representative,12,,RICK ALLEN ,588,63,288,236,1
+Wheeler,,U.S. Representative,12,,PATRICIA C. MCCRACKEN,568,52,269,245,2
+Wheeler,Alamo,U.S. Representative,12,,PATRICIA C. MCCRACKEN,360,33,160,166,1
+Wheeler,Glenwood,U.S. Representative,12,,PATRICIA C. MCCRACKEN,208,19,109,79,1
+Wheeler,,State Senator,19,,BLAKE TILLERY,1531,100,735,693,3
+Wheeler,Alamo,State Senator,19,,BLAKE TILLERY,892,40,414,437,1
+Wheeler,Glenwood,State Senator,19,,BLAKE TILLERY,639,60,321,256,2
+Wheeler,,State Representative,149,,JIMMY PRUETT ,1562,101,741,717,3
+Wheeler,Alamo,State Representative,149,,JIMMY PRUETT ,914,41,423,449,1
+Wheeler,Glenwood,State Representative,149,,JIMMY PRUETT ,648,60,318,268,2
+Wheeler,,District Attorney, Oconee Circuit,,TIMOTHY G. VAUGHN ,1526,114,725,684,3
+Wheeler,Alamo,District Attorney, Oconee Circuit,,TIMOTHY G. VAUGHN ,895,55,406,433,1
+Wheeler,Glenwood,District Attorney, Oconee Circuit,,TIMOTHY G. VAUGHN ,631,59,319,251,2
+Wheeler,,JUDGE, PROBATE/MAGISTRATE,R,J. F HARRELSON ,1620,106,764,748,2
+Wheeler,Alamo,JUDGE, PROBATE/MAGISTRATE,R,J. F HARRELSON ,950,45,435,469,1
+Wheeler,Glenwood,JUDGE, PROBATE/MAGISTRATE,R,J. F HARRELSON ,670,61,329,279,1
+Wheeler,,CLERK, SUPERIOR COURT,R,C. W. BRAGG ,1637,108,776,750,3
+Wheeler,Alamo,CLERK, SUPERIOR COURT,R,C. W. BRAGG ,954,47,441,465,1
+Wheeler,Glenwood,CLERK, SUPERIOR COURT,R,C. W. BRAGG ,683,61,335,285,2
+Wheeler,,SHERIFF,,R,R. RIGDON,1318,95,606,614,3
+Wheeler,Alamo,SHERIFF,,R,R. RIGDON,769,33,345,391,0
+Wheeler,Glenwood,SHERIFF,,R,R. RIGDON,549,62,261,223,3
+Wheeler,,SHERIFF,,D,T. GILLIS,775,71,378,325,1
+Wheeler,Alamo,SHERIFF,,D,T. GILLIS,467,43,213,210,1
+Wheeler,Glenwood,SHERIFF,,D,T. GILLIS,308,28,165,115,0
+Wheeler,,TAX COMMISSIONER,,R,K. H. CLARK ,1701,113,804,781,3
+Wheeler,Alamo,TAX COMMISSIONER,,R,K. H. CLARK ,995,48,457,489,1
+Wheeler,Glenwood,TAX COMMISSIONER,,R,K. H. CLARK ,706,65,347,292,2
+Wheeler,,CORONER,,R,T. MERCER ,1597,105,765,724,3
+Wheeler,Alamo,CORONER,,R,T. MERCER ,920,42,428,449,1
+Wheeler,Glenwood,CORONER,,R,T. MERCER ,677,63,337,275,2
+Wheeler,,CC, D1,D,R. CULVER ,464,38,230,195,1
+Wheeler,Alamo,CC, D1,D,R. CULVER ,283,30,130,122,1
+Wheeler,Glenwood,CC, D1,D,R. CULVER ,181,8,100,73,0
+Wheeler,,CC, D2,R,D. CLARK,377,43,178,156,0
+Wheeler,Alamo,CC, D2,R,D. CLARK,57,5,25,27,0
+Wheeler,Glenwood,CC, D2,R,D. CLARK,320,38,153,129,0
+Wheeler,,CC, D2,D,B. CARTWRIGHT ,331,31,161,138,1
+Wheeler,Alamo,CC, D2,D,B. CARTWRIGHT ,50,2,19,29,0
+Wheeler,Glenwood,CC, D2,D,B. CARTWRIGHT ,281,29,142,109,1
+Wheeler,,CC, D3,D,KEITH E MCNEAL ,588,22,265,301,0
+Wheeler,Alamo,CC, D3,D,KEITH E MCNEAL ,575,20,262,293,0
+Wheeler,Glenwood,CC, D3,D,KEITH E MCNEAL ,13,2,3,8,0
+Wheeler,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,650,59,298,291,2
+Wheeler,Alamo,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,379,24,170,185,0
+Wheeler,Glenwood,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,271,35,128,106,2
+Wheeler,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1323,87,635,599,2
+Wheeler,Alamo,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,795,42,358,394,1
+Wheeler,Glenwood,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,528,45,277,205,1
+Wheeler,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1530,121,731,675,3
+Wheeler,Alamo,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,909,59,415,434,1
+Wheeler,Glenwood,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,621,62,316,241,2
+Wheeler,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,375,16,171,188,0
+Wheeler,Alamo,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,224,5,97,122,0
+Wheeler,Glenwood,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,151,11,74,66,0
+Wheeler,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1006,65,467,472,2
+Wheeler,Alamo,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,582,24,259,299,0
+Wheeler,Glenwood,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,424,41,208,173,2
+Wheeler,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,770,64,376,329,1
+Wheeler,Alamo,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,472,33,220,218,1
+Wheeler,Glenwood,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,298,31,156,111,0
+Wheeler,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1422,109,668,642,3
+Wheeler,Alamo,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,844,50,378,415,1
+Wheeler,Glenwood,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,578,59,290,227,2
+Wheeler,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,456,32,215,209,0
+Wheeler,Alamo,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,272,12,121,139,0
+Wheeler,Glenwood,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,184,20,94,70,0
+Wheeler,,SPLOST,,,YES,1117,91,505,519,2
+Wheeler,Alamo,SPLOST,,,YES,639,43,267,328,1
+Wheeler,Glenwood,SPLOST,,,YES,478,48,238,191,1
+Wheeler,,SPLOST,,,NO,835,52,409,373,1
+Wheeler,Alamo,SPLOST,,,NO,517,22,250,245,0
+Wheeler,Glenwood,SPLOST,,,NO,318,30,159,128,1

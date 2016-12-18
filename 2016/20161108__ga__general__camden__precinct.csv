@@ -1,0 +1,433 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Camden,,President of the United States,,,DONALD J. TRUMP,12310,608,4876,6813,13
+Camden,Tarboro,President of the United States,,,DONALD J. TRUMP,415,20,174,220,1
+Camden,Waverly,President of the United States,,,DONALD J. TRUMP,670,48,310,311,1
+Camden,Woodbine,President of the United States,,,DONALD J. TRUMP,703,19,239,444,1
+Camden,Browntown,President of the United States,,,DONALD J. TRUMP,336,13,208,113,2
+Camden,Harrietts Bluff,President of the United States,,,DONALD J. TRUMP,910,35,473,402,0
+Camden,West Kingsland,President of the United States,,,DONALD J. TRUMP,1090,44,423,623,0
+Camden,North Kingsland,President of the United States,,,DONALD J. TRUMP,627,23,257,346,1
+Camden,Kingsland,President of the United States,,,DONALD J. TRUMP,700,29,237,433,1
+Camden,East Kingsland,President of the United States,,,DONALD J. TRUMP,2075,105,708,1260,2
+Camden,North St Marys,President of the United States,,,DONALD J. TRUMP,450,26,197,225,2
+Camden,Mary Lee Clark,President of the United States,,,DONALD J. TRUMP,1075,61,508,505,1
+Camden,South St Marys,President of the United States,,,DONALD J. TRUMP,779,35,236,508,0
+Camden,Mush Bluff,President of the United States,,,DONALD J. TRUMP,964,39,472,453,0
+Camden,West Saint Marys,President of the United States,,,DONALD J. TRUMP,1516,111,434,970,1
+Camden,,President of the United States,,,HILLARY CLINTON,5930,466,2092,3364,8
+Camden,Tarboro,President of the United States,,,HILLARY CLINTON,177,19,74,84,0
+Camden,Waverly,President of the United States,,,HILLARY CLINTON,273,29,121,123,0
+Camden,Woodbine,President of the United States,,,HILLARY CLINTON,453,53,126,274,0
+Camden,Browntown,President of the United States,,,HILLARY CLINTON,70,11,37,21,1
+Camden,Harrietts Bluff,President of the United States,,,HILLARY CLINTON,230,20,92,116,2
+Camden,West Kingsland,President of the United States,,,HILLARY CLINTON,363,23,144,195,1
+Camden,North Kingsland,President of the United States,,,HILLARY CLINTON,650,53,224,372,1
+Camden,Kingsland,President of the United States,,,HILLARY CLINTON,376,25,125,226,0
+Camden,East Kingsland,President of the United States,,,HILLARY CLINTON,983,58,303,621,1
+Camden,North St Marys,President of the United States,,,HILLARY CLINTON,346,19,169,156,2
+Camden,Mary Lee Clark,President of the United States,,,HILLARY CLINTON,620,35,246,339,0
+Camden,South St Marys,President of the United States,,,HILLARY CLINTON,437,46,122,269,0
+Camden,Mush Bluff,President of the United States,,,HILLARY CLINTON,425,24,175,226,0
+Camden,West Saint Marys,President of the United States,,,HILLARY CLINTON,527,51,134,342,0
+Camden,,President of the United States,,,GARY JOHNSON,629,48,331,250,0
+Camden,Tarboro,President of the United States,,,GARY JOHNSON,13,2,5,6,0
+Camden,Waverly,President of the United States,,,GARY JOHNSON,12,0,9,3,0
+Camden,Woodbine,President of the United States,,,GARY JOHNSON,22,3,10,9,0
+Camden,Browntown,President of the United States,,,GARY JOHNSON,11,2,8,1,0
+Camden,Harrietts Bluff,President of the United States,,,GARY JOHNSON,29,3,15,11,0
+Camden,West Kingsland,President of the United States,,,GARY JOHNSON,47,2,31,14,0
+Camden,North Kingsland,President of the United States,,,GARY JOHNSON,32,1,20,11,0
+Camden,Kingsland,President of the United States,,,GARY JOHNSON,44,1,26,17,0
+Camden,East Kingsland,President of the United States,,,GARY JOHNSON,138,8,59,71,0
+Camden,North St Marys,President of the United States,,,GARY JOHNSON,48,4,30,14,0
+Camden,Mary Lee Clark,President of the United States,,,GARY JOHNSON,78,6,47,25,0
+Camden,South St Marys,President of the United States,,,GARY JOHNSON,48,1,20,27,0
+Camden,Mush Bluff,President of the United States,,,GARY JOHNSON,53,5,28,20,0
+Camden,West Saint Marys,President of the United States,,,GARY JOHNSON,54,10,23,21,0
+Camden,,United States Senator,,,JOHNNY ISAKSON ,11454,634,4420,6388,12
+Camden,Tarboro,United States Senator,,,JOHNNY ISAKSON ,378,23,158,197,0
+Camden,Waverly,United States Senator,,,JOHNNY ISAKSON ,628,48,285,294,1
+Camden,Woodbine,United States Senator,,,JOHNNY ISAKSON ,620,26,199,395,0
+Camden,Browntown,United States Senator,,,JOHNNY ISAKSON ,301,12,184,102,3
+Camden,Harrietts Bluff,United States Senator,,,JOHNNY ISAKSON ,834,35,431,368,0
+Camden,West Kingsland,United States Senator,,,JOHNNY ISAKSON ,973,40,360,573,0
+Camden,North Kingsland,United States Senator,,,JOHNNY ISAKSON ,588,23,226,338,1
+Camden,Kingsland,United States Senator,,,JOHNNY ISAKSON ,647,30,213,403,1
+Camden,East Kingsland,United States Senator,,,JOHNNY ISAKSON ,1957,105,663,1187,2
+Camden,North St Marys,United States Senator,,,JOHNNY ISAKSON ,422,29,176,215,2
+Camden,Mary Lee Clark,United States Senator,,,JOHNNY ISAKSON ,990,64,453,472,1
+Camden,South St Marys,United States Senator,,,JOHNNY ISAKSON ,732,43,220,469,0
+Camden,Mush Bluff,United States Senator,,,JOHNNY ISAKSON ,894,37,428,429,0
+Camden,West Saint Marys,United States Senator,,,JOHNNY ISAKSON ,1490,119,424,946,1
+Camden,,United States Senator,,,JIM BARKSDALE,5097,424,1785,2884,4
+Camden,Tarboro,United States Senator,,,JIM BARKSDALE,139,19,57,63,0
+Camden,Waverly,United States Senator,,,JIM BARKSDALE,233,28,103,102,0
+Camden,Woodbine,United States Senator,,,JIM BARKSDALE,387,47,112,227,1
+Camden,Browntown,United States Senator,,,JIM BARKSDALE,60,10,37,13,0
+Camden,Harrietts Bluff,United States Senator,,,JIM BARKSDALE,218,22,83,112,1
+Camden,West Kingsland,United States Senator,,,JIM BARKSDALE,335,20,135,179,1
+Camden,North Kingsland,United States Senator,,,JIM BARKSDALE,560,48,185,327,0
+Camden,Kingsland,United States Senator,,,JIM BARKSDALE,325,24,104,197,0
+Camden,East Kingsland,United States Senator,,,JIM BARKSDALE,849,51,255,543,0
+Camden,North St Marys,United States Senator,,,JIM BARKSDALE,302,17,147,137,1
+Camden,Mary Lee Clark,United States Senator,,,JIM BARKSDALE,548,31,223,294,0
+Camden,South St Marys,United States Senator,,,JIM BARKSDALE,372,39,102,231,0
+Camden,Mush Bluff,United States Senator,,,JIM BARKSDALE,362,23,144,195,0
+Camden,West Saint Marys,United States Senator,,,JIM BARKSDALE,407,45,98,264,0
+Camden,,United States Senator,,,ALLEN BUCKLEY,1006,47,518,439,2
+Camden,Tarboro,United States Senator,,,ALLEN BUCKLEY,21,1,12,8,0
+Camden,Waverly,United States Senator,,,ALLEN BUCKLEY,29,1,19,9,0
+Camden,Woodbine,United States Senator,,,ALLEN BUCKLEY,52,1,26,25,0
+Camden,Browntown,United States Senator,,,ALLEN BUCKLEY,21,4,9,8,0
+Camden,Harrietts Bluff,United States Senator,,,ALLEN BUCKLEY,66,1,40,24,1
+Camden,West Kingsland,United States Senator,,,ALLEN BUCKLEY,71,4,38,29,0
+Camden,North Kingsland,United States Senator,,,ALLEN BUCKLEY,55,2,31,22,0
+Camden,Kingsland,United States Senator,,,ALLEN BUCKLEY,71,2,36,33,0
+Camden,East Kingsland,United States Senator,,,ALLEN BUCKLEY,199,10,81,108,0
+Camden,North St Marys,United States Senator,,,ALLEN BUCKLEY,68,3,42,22,1
+Camden,Mary Lee Clark,United States Senator,,,ALLEN BUCKLEY,112,8,60,44,0
+Camden,South St Marys,United States Senator,,,ALLEN BUCKLEY,73,2,29,42,0
+Camden,Mush Bluff,United States Senator,,,ALLEN BUCKLEY,78,5,49,24,0
+Camden,West Saint Marys,United States Senator,,,ALLEN BUCKLEY,90,3,46,41,0
+Camden,,"Public Service Commission, District 2",2,,TIM ECHOLS ,12797,716,4962,7106,13
+Camden,Tarboro,"Public Service Commission, District 2",2,,TIM ECHOLS ,398,26,166,206,0
+Camden,Waverly,"Public Service Commission, District 2",2,,TIM ECHOLS ,693,56,321,315,1
+Camden,Woodbine,"Public Service Commission, District 2",2,,TIM ECHOLS ,722,37,230,454,1
+Camden,Browntown,"Public Service Commission, District 2",2,,TIM ECHOLS ,320,15,197,105,3
+Camden,Harrietts Bluff,"Public Service Commission, District 2",2,,TIM ECHOLS ,906,40,462,404,0
+Camden,West Kingsland,"Public Service Commission, District 2",2,,TIM ECHOLS ,1089,43,421,625,0
+Camden,North Kingsland,"Public Service Commission, District 2",2,,TIM ECHOLS ,739,38,297,403,1
+Camden,Kingsland,"Public Service Commission, District 2",2,,TIM ECHOLS ,751,40,255,455,1
+Camden,East Kingsland,"Public Service Commission, District 2",2,,TIM ECHOLS ,2168,115,732,1319,2
+Camden,North St Marys,"Public Service Commission, District 2",2,,TIM ECHOLS ,477,28,205,242,2
+Camden,Mary Lee Clark,"Public Service Commission, District 2",2,,TIM ECHOLS ,1142,71,528,542,1
+Camden,South St Marys,"Public Service Commission, District 2",2,,TIM ECHOLS ,786,36,223,527,0
+Camden,Mush Bluff,"Public Service Commission, District 2",2,,TIM ECHOLS ,1024,44,477,503,0
+Camden,West Saint Marys,"Public Service Commission, District 2",2,,TIM ECHOLS ,1582,127,448,1006,1
+Camden,,"Public Service Commission, District 2",2,,ERIC HOSKINS,4011,259,1657,2092,3
+Camden,Tarboro,"Public Service Commission, District 2",2,,ERIC HOSKINS,98,11,40,47,0
+Camden,Waverly,"Public Service Commission, District 2",2,,ERIC HOSKINS,155,11,73,71,0
+Camden,Woodbine,"Public Service Commission, District 2",2,,ERIC HOSKINS,265,17,106,142,0
+Camden,Browntown,"Public Service Commission, District 2",2,,ERIC HOSKINS,61,10,36,15,0
+Camden,Harrietts Bluff,"Public Service Commission, District 2",2,,ERIC HOSKINS,195,15,99,81,0
+Camden,West Kingsland,"Public Service Commission, District 2",2,,ERIC HOSKINS,276,14,125,136,1
+Camden,North Kingsland,"Public Service Commission, District 2",2,,ERIC HOSKINS,341,21,135,185,0
+Camden,Kingsland,"Public Service Commission, District 2",2,,ERIC HOSKINS,257,8,106,143,0
+Camden,East Kingsland,"Public Service Commission, District 2",2,,ERIC HOSKINS,702,36,247,419,0
+Camden,North St Marys,"Public Service Commission, District 2",2,,ERIC HOSKINS,274,18,136,118,2
+Camden,Mary Lee Clark,"Public Service Commission, District 2",2,,ERIC HOSKINS,447,23,199,225,0
+Camden,South St Marys,"Public Service Commission, District 2",2,,ERIC HOSKINS,317,33,104,180,0
+Camden,Mush Bluff,"Public Service Commission, District 2",2,,ERIC HOSKINS,294,16,143,135,0
+Camden,West Saint Marys,"Public Service Commission, District 2",2,,ERIC HOSKINS,329,26,108,195,0
+Camden,,U.S. Representative,1,,EARL “BUDDY” CARTER ,15290,849,6098,8327,16
+Camden,Tarboro,U.S. Representative,1,,EARL “BUDDY” CARTER ,464,31,197,236,0
+Camden,Waverly,U.S. Representative,1,,EARL “BUDDY” CARTER ,775,55,363,356,1
+Camden,Woodbine,U.S. Representative,1,,EARL “BUDDY” CARTER ,872,46,298,527,1
+Camden,Browntown,U.S. Representative,1,,EARL “BUDDY” CARTER ,362,19,221,119,3
+Camden,Harrietts Bluff,U.S. Representative,1,,EARL “BUDDY” CARTER ,1027,49,525,453,0
+Camden,West Kingsland,U.S. Representative,1,,EARL “BUDDY” CARTER ,1256,53,506,696,1
+Camden,North Kingsland,U.S. Representative,1,,EARL “BUDDY” CARTER ,946,52,376,517,1
+Camden,Kingsland,U.S. Representative,1,,EARL “BUDDY” CARTER ,923,45,331,546,1
+Camden,East Kingsland,U.S. Representative,1,,EARL “BUDDY” CARTER ,2621,139,913,1567,2
+Camden,North St Marys,U.S. Representative,1,,EARL “BUDDY” CARTER ,644,35,298,307,4
+Camden,Mary Lee Clark,U.S. Representative,1,,EARL “BUDDY” CARTER ,1424,85,666,672,1
+Camden,South St Marys,U.S. Representative,1,,EARL “BUDDY” CARTER ,989,56,308,625,0
+Camden,Mush Bluff,U.S. Representative,1,,EARL “BUDDY” CARTER ,1210,49,572,589,0
+Camden,West Saint Marys,U.S. Representative,1,,EARL “BUDDY” CARTER ,1777,135,524,1117,1
+Camden,,State Senator,3,,WILLIAM LIGON JR ,15049,808,6016,8209,16
+Camden,Tarboro,State Senator,3,,WILLIAM LIGON JR ,456,28,197,231,0
+Camden,Waverly,State Senator,3,,WILLIAM LIGON JR ,776,55,365,355,1
+Camden,Woodbine,State Senator,3,,WILLIAM LIGON JR ,845,42,291,511,1
+Camden,Browntown,State Senator,3,,WILLIAM LIGON JR ,353,19,219,112,3
+Camden,Harrietts Bluff,State Senator,3,,WILLIAM LIGON JR ,1012,47,515,450,0
+Camden,West Kingsland,State Senator,3,,WILLIAM LIGON JR ,1225,49,491,684,1
+Camden,North Kingsland,State Senator,3,,WILLIAM LIGON JR ,918,47,363,507,1
+Camden,Kingsland,State Senator,3,,WILLIAM LIGON JR ,907,44,323,539,1
+Camden,East Kingsland,State Senator,3,,WILLIAM LIGON JR ,2594,135,910,1547,2
+Camden,North St Marys,State Senator,3,,WILLIAM LIGON JR ,643,35,298,306,4
+Camden,Mary Lee Clark,State Senator,3,,WILLIAM LIGON JR ,1412,80,657,674,1
+Camden,South St Marys,State Senator,3,,WILLIAM LIGON JR ,966,51,300,615,0
+Camden,Mush Bluff,State Senator,3,,WILLIAM LIGON JR ,1189,48,568,573,0
+Camden,West Saint Marys,State Senator,3,,WILLIAM LIGON JR ,1753,128,519,1105,1
+Camden,,State Representative,174,(REP,JOHN CORBETT ,2496,113,1037,1341,5
+Camden,Browntown,State Representative,174,(REP,JOHN CORBETT ,357,20,219,115,3
+Camden,West Kingsland,State Representative,174,(REP,JOHN CORBETT ,1225,49,495,680,1
+Camden,Kingsland,State Representative,174,(REP,JOHN CORBETT ,914,44,323,546,1
+Camden,,State Representative,180,(REP,JASON SPENCER ,12395,691,4945,6748,11
+Camden,Tarboro,State Representative,180,(REP,JASON SPENCER ,445,26,192,227,0
+Camden,Waverly,State Representative,180,(REP,JASON SPENCER ,761,57,361,342,1
+Camden,Woodbine,State Representative,180,(REP,JASON SPENCER ,832,44,291,496,1
+Camden,Harrietts Bluff,State Representative,180,(REP,JASON SPENCER ,1002,47,515,440,0
+Camden,North Kingsland,State Representative,180,(REP,JASON SPENCER ,934,50,366,517,1
+Camden,East Kingsland,State Representative,180,(REP,JASON SPENCER ,2578,133,904,1539,2
+Camden,North St Marys,State Representative,180,(REP,JASON SPENCER ,649,37,302,306,4
+Camden,Mary Lee Clark,State Representative,180,(REP,JASON SPENCER ,1389,78,650,660,1
+Camden,South St Marys,State Representative,180,(REP,JASON SPENCER ,927,50,290,587,0
+Camden,Mush Bluff,State Representative,180,(REP,JASON SPENCER ,1194,48,571,575,0
+Camden,West Saint Marys,State Representative,180,(REP,JASON SPENCER ,1684,121,503,1059,1
+Camden,,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,15145,841,6028,8260,16
+Camden,Tarboro,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,450,27,198,225,0
+Camden,Waverly,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,772,62,362,347,1
+Camden,Woodbine,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,854,45,296,512,1
+Camden,Browntown,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,361,21,221,116,3
+Camden,Harrietts Bluff,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,1013,46,512,455,0
+Camden,West Kingsland,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,1229,51,494,683,1
+Camden,North Kingsland,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,948,53,369,525,1
+Camden,Kingsland,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,913,45,320,547,1
+Camden,East Kingsland,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,2601,133,911,1555,2
+Camden,North St Marys,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,654,38,299,313,4
+Camden,Mary Lee Clark,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,1423,84,659,679,1
+Camden,South St Marys,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,960,51,293,616,0
+Camden,Mush Bluff,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,1202,51,573,578,0
+Camden,West Saint Marys,District Attorney, Brunswick Circuit,,JACKIE JOHNSON ,1765,134,521,1109,1
+Camden,,CLERK, SUPERIOR COURT,R,J. L. TURNER ,15483,867,6132,8468,16
+Camden,Tarboro,CLERK, SUPERIOR COURT,R,J. L. TURNER ,475,30,201,244,0
+Camden,Waverly,CLERK, SUPERIOR COURT,R,J. L. TURNER ,780,60,365,354,1
+Camden,Woodbine,CLERK, SUPERIOR COURT,R,J. L. TURNER ,913,52,313,547,1
+Camden,Browntown,CLERK, SUPERIOR COURT,R,J. L. TURNER ,366,22,220,121,3
+Camden,Harrietts Bluff,CLERK, SUPERIOR COURT,R,J. L. TURNER ,1039,48,525,466,0
+Camden,West Kingsland,CLERK, SUPERIOR COURT,R,J. L. TURNER ,1265,54,507,703,1
+Camden,North Kingsland,CLERK, SUPERIOR COURT,R,J. L. TURNER ,959,52,369,537,1
+Camden,Kingsland,CLERK, SUPERIOR COURT,R,J. L. TURNER ,934,45,325,563,1
+Camden,East Kingsland,CLERK, SUPERIOR COURT,R,J. L. TURNER ,2650,134,927,1587,2
+Camden,North St Marys,CLERK, SUPERIOR COURT,R,J. L. TURNER ,656,38,300,314,4
+Camden,Mary Lee Clark,CLERK, SUPERIOR COURT,R,J. L. TURNER ,1441,84,665,691,1
+Camden,South St Marys,CLERK, SUPERIOR COURT,R,J. L. TURNER ,994,60,305,629,0
+Camden,Mush Bluff,CLERK, SUPERIOR COURT,R,J. L. TURNER ,1219,52,581,586,0
+Camden,West Saint Marys,CLERK, SUPERIOR COURT,R,J. L. TURNER ,1792,136,529,1126,1
+Camden,,SHERIFF,,IN,J. PROCTOR ,16676,935,6496,9230,15
+Camden,Tarboro,SHERIFF,,IN,J. PROCTOR ,522,31,222,269,0
+Camden,Waverly,SHERIFF,,IN,J. PROCTOR ,834,66,382,385,1
+Camden,Woodbine,SHERIFF,,IN,J. PROCTOR ,1046,64,341,640,1
+Camden,Browntown,SHERIFF,,IN,J. PROCTOR ,374,23,227,122,2
+Camden,Harrietts Bluff,SHERIFF,,IN,J. PROCTOR ,1097,50,553,493,1
+Camden,West Kingsland,SHERIFF,,IN,J. PROCTOR ,1341,58,527,755,1
+Camden,North Kingsland,SHERIFF,,IN,J. PROCTOR ,1139,64,434,640,1
+Camden,Kingsland,SHERIFF,,IN,J. PROCTOR ,1012,48,350,613,1
+Camden,East Kingsland,SHERIFF,,IN,J. PROCTOR ,2828,145,968,1713,2
+Camden,North St Marys,SHERIFF,,IN,J. PROCTOR ,722,38,328,353,3
+Camden,Mary Lee Clark,SHERIFF,,IN,J. PROCTOR ,1536,85,697,753,1
+Camden,South St Marys,SHERIFF,,IN,J. PROCTOR ,1086,72,323,691,0
+Camden,Mush Bluff,SHERIFF,,IN,J. PROCTOR ,1281,55,608,618,0
+Camden,West Saint Marys,SHERIFF,,IN,J. PROCTOR ,1858,136,536,1185,1
+Camden,,TAX COMMISSIONER,,R,B. SOLES ,15936,880,6273,8768,15
+Camden,Tarboro,TAX COMMISSIONER,,R,B. SOLES ,487,33,207,247,0
+Camden,Waverly,TAX COMMISSIONER,,R,B. SOLES ,811,63,375,372,1
+Camden,Woodbine,TAX COMMISSIONER,,R,B. SOLES ,937,50,312,574,1
+Camden,Browntown,TAX COMMISSIONER,,R,B. SOLES ,366,19,227,117,3
+Camden,Harrietts Bluff,TAX COMMISSIONER,,R,B. SOLES ,1070,49,542,479,0
+Camden,West Kingsland,TAX COMMISSIONER,,R,B. SOLES ,1285,52,510,722,1
+Camden,North Kingsland,TAX COMMISSIONER,,R,B. SOLES ,1034,55,402,576,1
+Camden,Kingsland,TAX COMMISSIONER,,R,B. SOLES ,966,47,338,580,1
+Camden,East Kingsland,TAX COMMISSIONER,,R,B. SOLES ,2708,135,940,1631,2
+Camden,North St Marys,TAX COMMISSIONER,,R,B. SOLES ,671,38,305,325,3
+Camden,Mary Lee Clark,TAX COMMISSIONER,,R,B. SOLES ,1470,84,675,710,1
+Camden,South St Marys,TAX COMMISSIONER,,R,B. SOLES ,1035,65,307,663,0
+Camden,Mush Bluff,TAX COMMISSIONER,,R,B. SOLES ,1239,49,590,600,0
+Camden,West Saint Marys,TAX COMMISSIONER,,R,B. SOLES ,1857,141,543,1172,1
+Camden,,SURVEYOR,,R,M. JORDAN ,15219,827,6021,8357,14
+Camden,Tarboro,SURVEYOR,,R,M. JORDAN ,446,28,192,226,0
+Camden,Waverly,SURVEYOR,,R,M. JORDAN ,768,58,359,350,1
+Camden,Woodbine,SURVEYOR,,R,M. JORDAN ,864,43,294,526,1
+Camden,Browntown,SURVEYOR,,R,M. JORDAN ,355,21,214,118,2
+Camden,Harrietts Bluff,SURVEYOR,,R,M. JORDAN ,1031,47,514,470,0
+Camden,West Kingsland,SURVEYOR,,R,M. JORDAN ,1240,50,495,694,1
+Camden,North Kingsland,SURVEYOR,,R,M. JORDAN ,943,48,363,531,1
+Camden,Kingsland,SURVEYOR,,R,M. JORDAN ,919,45,321,552,1
+Camden,East Kingsland,SURVEYOR,,R,M. JORDAN ,2609,130,912,1565,2
+Camden,North St Marys,SURVEYOR,,R,M. JORDAN ,649,37,295,314,3
+Camden,Mary Lee Clark,SURVEYOR,,R,M. JORDAN ,1434,81,665,687,1
+Camden,South St Marys,SURVEYOR,,R,M. JORDAN ,976,55,294,627,0
+Camden,Mush Bluff,SURVEYOR,,R,M. JORDAN ,1201,50,573,578,0
+Camden,West Saint Marys,SURVEYOR,,R,M. JORDAN ,1784,134,530,1119,1
+Camden,,CORONER,,R,L. W. BRUCE ,15553,861,6134,8542,16
+Camden,Tarboro,CORONER,,R,L. W. BRUCE ,466,28,200,238,0
+Camden,Waverly,CORONER,,R,L. W. BRUCE ,793,61,370,361,1
+Camden,Woodbine,CORONER,,R,L. W. BRUCE ,889,45,303,540,1
+Camden,Browntown,CORONER,,R,L. W. BRUCE ,361,21,218,119,3
+Camden,Harrietts Bluff,CORONER,,R,L. W. BRUCE ,1052,48,528,476,0
+Camden,West Kingsland,CORONER,,R,L. W. BRUCE ,1277,54,506,716,1
+Camden,North Kingsland,CORONER,,R,L. W. BRUCE ,978,52,374,551,1
+Camden,Kingsland,CORONER,,R,L. W. BRUCE ,934,46,321,566,1
+Camden,East Kingsland,CORONER,,R,L. W. BRUCE ,2662,134,924,1602,2
+Camden,North St Marys,CORONER,,R,L. W. BRUCE ,657,36,302,315,4
+Camden,Mary Lee Clark,CORONER,,R,L. W. BRUCE ,1443,85,667,690,1
+Camden,South St Marys,CORONER,,R,L. W. BRUCE ,997,60,305,632,0
+Camden,Mush Bluff,CORONER,,R,L. W. BRUCE ,1220,50,577,593,0
+Camden,West Saint Marys,CORONER,,R,L. W. BRUCE ,1824,141,539,1143,1
+Camden,,CC, D1,R,L. BRANT,2346,107,946,1291,2
+Camden,Tarboro,CC, D1,R,L. BRANT,355,18,151,186,0
+Camden,Waverly,CC, D1,R,L. BRANT,632,48,290,293,1
+Camden,Woodbine,CC, D1,R,L. BRANT,632,21,225,385,1
+Camden,North Kingsland,CC, D1,R,L. BRANT,344,15,138,191,0
+Camden,East Kingsland,CC, D1,R,L. BRANT,383,5,142,236,0
+Camden,,CC, D1,D,D. GLOVER SR,1742,155,609,978,0
+Camden,Tarboro,CC, D1,D,D. GLOVER SR,228,23,96,109,0
+Camden,Waverly,CC, D1,D,D. GLOVER SR,293,24,135,134,0
+Camden,Woodbine,CC, D1,D,D. GLOVER SR,523,52,148,323,0
+Camden,North Kingsland,CC, D1,D,D. GLOVER SR,482,43,166,273,0
+Camden,East Kingsland,CC, D1,D,D. GLOVER SR,216,13,64,139,0
+Camden,,CC, D3,R,J. STARLINE ,2001,82,920,998,1
+Camden,North St Marys,CC, D3,R,J. STARLINE ,637,32,295,309,1
+Camden,South St Marys,CC, D3,R,J. STARLINE ,311,11,116,184,0
+Camden,Mush Bluff,CC, D3,R,J. STARLINE ,1053,39,509,505,0
+Camden,,CC, D5,R,B. L. CASEY,2448,99,1014,1331,4
+Camden,Browntown,CC, D5,R,B. L. CASEY,344,16,211,114,3
+Camden,West Kingsland,CC, D5,R,B. L. CASEY,1095,44,431,620,0
+Camden,North Kingsland,CC, D5,R,B. L. CASEY,289,7,121,161,0
+Camden,Kingsland,CC, D5,R,B. L. CASEY,720,32,251,436,1
+Camden,,CC, D5,D,R. GOMEZ,895,57,339,498,1
+Camden,Browntown,CC, D5,D,R. GOMEZ,54,9,30,15,0
+Camden,West Kingsland,CC, D5,D,R. GOMEZ,341,20,136,184,1
+Camden,North Kingsland,CC, D5,D,R. GOMEZ,151,6,59,86,0
+Camden,Kingsland,CC, D5,D,R. GOMEZ,349,22,114,213,0
+Camden,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,9546,657,3747,5133,9
+Camden,Tarboro,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,247,25,94,128,0
+Camden,Waverly,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,417,38,167,212,0
+Camden,Woodbine,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,553,34,172,347,0
+Camden,Browntown,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,220,15,125,77,3
+Camden,Harrietts Bluff,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,523,29,262,230,2
+Camden,West Kingsland,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,802,32,336,434,0
+Camden,North Kingsland,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,678,42,282,354,0
+Camden,Kingsland,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,631,34,222,375,0
+Camden,East Kingsland,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1724,104,623,995,2
+Camden,North St Marys,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,485,33,231,220,1
+Camden,Mary Lee Clark,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,990,68,425,496,1
+Camden,South St Marys,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,580,51,177,352,0
+Camden,Mush Bluff,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,745,41,346,358,0
+Camden,West Saint Marys,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,951,111,285,555,0
+Camden,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,8761,419,3362,4972,8
+Camden,Tarboro,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,323,14,142,167,0
+Camden,Waverly,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,519,36,266,216,1
+Camden,Woodbine,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,572,37,195,339,1
+Camden,Browntown,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,181,10,118,53,0
+Camden,Harrietts Bluff,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,630,30,313,287,0
+Camden,West Kingsland,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,650,31,251,367,1
+Camden,North Kingsland,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,594,26,211,357,0
+Camden,Kingsland,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,477,22,163,291,1
+Camden,East Kingsland,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1390,61,423,906,0
+Camden,North St Marys,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,317,11,137,166,3
+Camden,Mary Lee Clark,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,731,31,363,337,0
+Camden,South St Marys,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,641,30,183,428,0
+Camden,Mush Bluff,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,651,23,301,327,0
+Camden,West Saint Marys,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1085,57,296,731,1
+Camden,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,15369,927,5905,8521,16
+Camden,Tarboro,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,443,31,183,229,0
+Camden,Waverly,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,736,61,322,352,1
+Camden,Woodbine,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,906,56,283,566,1
+Camden,Browntown,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,338,23,199,113,3
+Camden,Harrietts Bluff,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,960,50,460,448,2
+Camden,West Kingsland,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1227,55,497,675,0
+Camden,North Kingsland,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1039,63,398,578,0
+Camden,Kingsland,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,939,50,319,569,1
+Camden,East Kingsland,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2716,141,911,1662,2
+Camden,North St Marys,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,694,41,326,323,4
+Camden,Mary Lee Clark,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1493,88,691,713,1
+Camden,South St Marys,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1002,68,294,640,0
+Camden,Mush Bluff,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1188,59,547,582,0
+Camden,West Saint Marys,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1688,141,475,1071,1
+Camden,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,2864,140,1177,1546,1
+Camden,Tarboro,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,118,8,53,57,0
+Camden,Waverly,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,182,7,105,70,0
+Camden,Woodbine,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,193,11,77,105,0
+Camden,Browntown,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,59,3,39,17,0
+Camden,Harrietts Bluff,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,179,9,101,69,0
+Camden,West Kingsland,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,218,6,87,124,1
+Camden,North Kingsland,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,210,5,82,123,0
+Camden,Kingsland,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,157,6,59,92,0
+Camden,East Kingsland,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,399,28,136,235,0
+Camden,North St Marys,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,119,4,48,67,0
+Camden,Mary Lee Clark,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,234,10,109,115,0
+Camden,South St Marys,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,219,11,66,142,0
+Camden,Mush Bluff,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,224,7,114,103,0
+Camden,West Saint Marys,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,353,25,101,227,0
+Camden,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,11469,715,4513,6229,12
+Camden,Tarboro,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,339,22,146,171,0
+Camden,Waverly,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,543,47,237,258,1
+Camden,Woodbine,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,682,42,210,429,1
+Camden,Browntown,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,254,20,145,86,3
+Camden,Harrietts Bluff,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,720,40,343,336,1
+Camden,West Kingsland,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,916,40,373,502,1
+Camden,North Kingsland,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,768,50,305,413,0
+Camden,Kingsland,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,737,40,269,427,1
+Camden,East Kingsland,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,2003,111,713,1179,0
+Camden,North St Marys,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,526,36,252,235,3
+Camden,Mary Lee Clark,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1150,69,516,564,1
+Camden,South St Marys,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,701,60,209,432,0
+Camden,Mush Bluff,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,931,36,444,451,0
+Camden,West Saint Marys,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1199,102,351,746,0
+Camden,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,5807,300,2212,3291,4
+Camden,Tarboro,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,198,17,78,103,0
+Camden,Waverly,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,329,19,166,144,0
+Camden,Woodbine,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,342,17,135,190,0
+Camden,Browntown,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,125,4,85,36,0
+Camden,Harrietts Bluff,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,368,15,194,158,1
+Camden,West Kingsland,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,456,21,185,250,0
+Camden,North Kingsland,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,412,18,147,247,0
+Camden,Kingsland,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,310,14,95,201,0
+Camden,East Kingsland,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,945,48,273,623,1
+Camden,North St Marys,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,248,10,102,135,1
+Camden,Mary Lee Clark,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,480,25,235,220,0
+Camden,South St Marys,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,466,17,134,315,0
+Camden,Mush Bluff,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,408,20,195,193,0
+Camden,West Saint Marys,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,720,55,188,476,1
+Camden,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,14425,901,5565,7945,14
+Camden,Tarboro,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,413,29,167,217,0
+Camden,Waverly,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,704,57,311,335,1
+Camden,Woodbine,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,850,56,268,525,1
+Camden,Browntown,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,309,24,176,106,3
+Camden,Harrietts Bluff,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,901,49,429,422,1
+Camden,West Kingsland,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1121,51,454,615,1
+Camden,North Kingsland,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,995,57,388,550,0
+Camden,Kingsland,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,871,46,301,523,1
+Camden,East Kingsland,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,2564,140,892,1532,0
+Camden,North St Marys,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,655,42,310,299,4
+Camden,Mary Lee Clark,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1419,85,652,681,1
+Camden,South St Marys,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,932,72,266,594,0
+Camden,Mush Bluff,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1098,54,514,530,0
+Camden,West Saint Marys,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1593,139,437,1016,1
+Camden,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,3620,161,1451,2006,2
+Camden,Tarboro,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,132,10,60,62,0
+Camden,Waverly,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,218,14,115,89,0
+Camden,Woodbine,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,242,9,91,142,0
+Camden,Browntown,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,82,2,59,21,0
+Camden,Harrietts Bluff,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,251,10,145,95,1
+Camden,West Kingsland,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,314,12,127,175,0
+Camden,North Kingsland,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,242,11,88,143,0
+Camden,Kingsland,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,213,9,74,130,0
+Camden,East Kingsland,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,532,28,152,351,1
+Camden,North St Marys,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,142,5,53,84,0
+Camden,Mary Lee Clark,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,281,13,127,141,0
+Camden,South St Marys,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,256,6,85,165,0
+Camden,Mush Bluff,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,294,8,140,146,0
+Camden,West Saint Marys,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,421,24,135,262,0
+Camden,,FOR MAYOR,,,J. F. MORRISSEY ,5500,339,2063,3094,4
+Camden,North St Marys,FOR MAYOR,,,J. F. MORRISSEY ,591,30,263,296,2
+Camden,Mary Lee Clark,FOR MAYOR,,,J. F. MORRISSEY ,1473,79,678,715,1
+Camden,South St Marys,FOR MAYOR,,,J. F. MORRISSEY ,824,57,231,536,0
+Camden,Mush Bluff,FOR MAYOR,,,J. F. MORRISSEY ,817,31,388,398,0
+Camden,West Saint Marys,FOR MAYOR,,,J. F. MORRISSEY ,1795,142,503,1149,1
+Camden,,COULCIL P4,,,D. REILLY ,5291,316,1994,2978,3
+Camden,North St Marys,COULCIL P4,,,D. REILLY ,557,30,245,281,1
+Camden,Mary Lee Clark,COULCIL P4,,,D. REILLY ,1420,75,655,689,1
+Camden,South St Marys,COULCIL P4,,,D. REILLY ,783,53,217,513,0
+Camden,Mush Bluff,COULCIL P4,,,D. REILLY ,798,29,384,385,0
+Camden,West Saint Marys,COULCIL P4,,,D. REILLY ,1733,129,493,1110,1
+Camden,,COUNCIL P5,,,A. RASSI JR,5122,302,1938,2879,3
+Camden,North St Marys,COUNCIL P5,,,A. RASSI JR,553,30,243,279,1
+Camden,Mary Lee Clark,COUNCIL P5,,,A. RASSI JR,1376,73,632,670,1
+Camden,South St Marys,COUNCIL P5,,,A. RASSI JR,778,51,219,508,0
+Camden,Mush Bluff,COUNCIL P5,,,A. RASSI JR,764,26,365,373,0
+Camden,West Saint Marys,COUNCIL P5,,,A. RASSI JR,1651,122,479,1049,1
+Camden,,COUNCIL P6,,,J. MORENO,1812,120,821,868,3
+Camden,North St Marys,COUNCIL P6,,,J. MORENO,235,16,112,106,1
+Camden,Mary Lee Clark,COUNCIL P6,,,J. MORENO,554,25,292,236,1
+Camden,South St Marys,COUNCIL P6,,,J. MORENO,238,14,87,137,0
+Camden,Mush Bluff,COUNCIL P6,,,J. MORENO,308,18,155,135,0
+Camden,West Saint Marys,COUNCIL P6,,,J. MORENO,477,47,175,254,1
+Camden,,COUNCIL P6,,,L. P. WILLIAMS ,4212,266,1416,2529,1
+Camden,North St Marys,COUNCIL P6,,,L. P. WILLIAMS ,398,21,165,211,1
+Camden,Mary Lee Clark,COUNCIL P6,,,L. P. WILLIAMS ,1024,62,431,531,0
+Camden,South St Marys,COUNCIL P6,,,L. P. WILLIAMS ,724,57,178,489,0
+Camden,Mush Bluff,COUNCIL P6,,,L. P. WILLIAMS ,567,17,261,289,0
+Camden,West Saint Marys,COUNCIL P6,,,L. P. WILLIAMS ,1499,109,381,1009,0

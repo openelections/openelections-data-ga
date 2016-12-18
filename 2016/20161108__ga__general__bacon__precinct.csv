@@ -1,0 +1,183 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Bacon,,President of the United States,,,DONALD J. TRUMP,3364,134,1142,2082,6
+Bacon,Douglas,President of the United States,,,DONALD J. TRUMP,1578,77,404,1092,5
+Bacon,New Lacy,President of the United States,,,DONALD J. TRUMP,696,14,266,416,0
+Bacon,Taylor,President of the United States,,,DONALD J. TRUMP,521,24,218,278,1
+Bacon,Ware,President of the United States,,,DONALD J. TRUMP,328,9,157,162,0
+Bacon,Warnock,President of the United States,,,DONALD J. TRUMP,241,10,97,134,0
+Bacon,,President of the United States,,,HILLARY CLINTON,608,37,268,303,0
+Bacon,Douglas,President of the United States,,,HILLARY CLINTON,477,27,219,231,0
+Bacon,New Lacy,President of the United States,,,HILLARY CLINTON,58,2,19,37,0
+Bacon,Taylor,President of the United States,,,HILLARY CLINTON,30,7,9,14,0
+Bacon,Ware,President of the United States,,,HILLARY CLINTON,25,0,11,14,0
+Bacon,Warnock,President of the United States,,,HILLARY CLINTON,18,1,10,7,0
+Bacon,,President of the United States,,,GARY JOHNSON,47,4,21,22,0
+Bacon,Douglas,President of the United States,,,GARY JOHNSON,27,4,9,14,0
+Bacon,New Lacy,President of the United States,,,GARY JOHNSON,5,0,2,3,0
+Bacon,Taylor,President of the United States,,,GARY JOHNSON,12,0,7,5,0
+Bacon,Ware,President of the United States,,,GARY JOHNSON,2,0,2,0,0
+Bacon,Warnock,President of the United States,,,GARY JOHNSON,1,0,1,0,0
+Bacon,,United States Senator,,,JOHNNY ISAKSON ,3046,129,1033,1880,4
+Bacon,Douglas,United States Senator,,,JOHNNY ISAKSON ,1427,77,369,978,3
+Bacon,New Lacy,United States Senator,,,JOHNNY ISAKSON ,646,14,246,386,0
+Bacon,Taylor,United States Senator,,,JOHNNY ISAKSON ,458,24,187,246,1
+Bacon,Ware,United States Senator,,,JOHNNY ISAKSON ,292,8,136,148,0
+Bacon,Warnock,United States Senator,,,JOHNNY ISAKSON ,223,6,95,122,0
+Bacon,,United States Senator,,,JIM BARKSDALE,474,34,205,234,1
+Bacon,Douglas,United States Senator,,,JIM BARKSDALE,356,24,164,167,1
+Bacon,New Lacy,United States Senator,,,JIM BARKSDALE,47,2,13,32,0
+Bacon,Taylor,United States Senator,,,JIM BARKSDALE,31,6,7,18,0
+Bacon,Ware,United States Senator,,,JIM BARKSDALE,26,0,15,11,0
+Bacon,Warnock,United States Senator,,,JIM BARKSDALE,14,2,6,6,0
+Bacon,,United States Senator,,,ALLEN BUCKLEY,95,2,38,55,0
+Bacon,Douglas,United States Senator,,,ALLEN BUCKLEY,48,2,12,34,0
+Bacon,New Lacy,United States Senator,,,ALLEN BUCKLEY,14,0,7,7,0
+Bacon,Taylor,United States Senator,,,ALLEN BUCKLEY,19,0,13,6,0
+Bacon,Ware,United States Senator,,,ALLEN BUCKLEY,9,0,3,6,0
+Bacon,Warnock,United States Senator,,,ALLEN BUCKLEY,5,0,3,2,0
+Bacon,,"Public Service Commission, District 2",2,,TIM ECHOLS ,3106,139,1066,1896,5
+Bacon,Douglas,"Public Service Commission, District 2",2,,TIM ECHOLS ,1502,86,414,998,4
+Bacon,New Lacy,"Public Service Commission, District 2",2,,TIM ECHOLS ,636,13,239,384,0
+Bacon,Taylor,"Public Service Commission, District 2",2,,TIM ECHOLS ,450,24,184,241,1
+Bacon,Ware,"Public Service Commission, District 2",2,,TIM ECHOLS ,295,8,136,151,0
+Bacon,Warnock,"Public Service Commission, District 2",2,,TIM ECHOLS ,223,8,93,122,0
+Bacon,,"Public Service Commission, District 2",2,,ERIC HOSKINS,352,16,160,176,0
+Bacon,Douglas,"Public Service Commission, District 2",2,,ERIC HOSKINS,234,13,100,121,0
+Bacon,New Lacy,"Public Service Commission, District 2",2,,ERIC HOSKINS,48,1,21,26,0
+Bacon,Taylor,"Public Service Commission, District 2",2,,ERIC HOSKINS,33,2,17,14,0
+Bacon,Ware,"Public Service Commission, District 2",2,,ERIC HOSKINS,21,0,12,9,0
+Bacon,Warnock,"Public Service Commission, District 2",2,,ERIC HOSKINS,16,0,10,6,0
+Bacon,,U.S. Representative,1,(REP,EARL “BUDDY” CARTER ,3281,135,1148,1993,5
+Bacon,Douglas,U.S. Representative,1,(REP,EARL “BUDDY” CARTER ,1620,86,461,1069,4
+Bacon,New Lacy,U.S. Representative,1,(REP,EARL “BUDDY” CARTER ,670,15,254,401,0
+Bacon,Taylor,U.S. Representative,1,(REP,EARL “BUDDY” CARTER ,462,20,194,247,1
+Bacon,Ware,U.S. Representative,1,(REP,EARL “BUDDY” CARTER ,300,5,143,152,0
+Bacon,Warnock,U.S. Representative,1,(REP,EARL “BUDDY” CARTER ,229,9,96,124,0
+Bacon,,State Senator,7,,TYLER HARPER ,3293,130,1159,1999,5
+Bacon,Douglas,State Senator,7,,TYLER HARPER ,1624,81,466,1073,4
+Bacon,New Lacy,State Senator,7,,TYLER HARPER ,671,15,254,402,0
+Bacon,Taylor,State Senator,7,,TYLER HARPER ,465,20,198,246,1
+Bacon,Ware,State Senator,7,,TYLER HARPER ,304,5,146,153,0
+Bacon,Warnock,State Senator,7,,TYLER HARPER ,229,9,95,125,0
+Bacon,,State Representative,169,(REP,DOMINIC LARICCIA ,3102,126,1066,1905,5
+Bacon,Douglas,State Representative,169,(REP,DOMINIC LARICCIA ,1543,79,440,1020,4
+Bacon,New Lacy,State Representative,169,(REP,DOMINIC LARICCIA ,630,14,234,382,0
+Bacon,Taylor,State Representative,169,(REP,DOMINIC LARICCIA ,432,20,181,230,1
+Bacon,Ware,State Representative,169,(REP,DOMINIC LARICCIA ,284,5,128,151,0
+Bacon,Warnock,State Representative,169,(REP,DOMINIC LARICCIA ,213,8,83,122,0
+Bacon,,CLERK SUPERIOR COURT,,R,S. L. TILLMAN ,3441,140,1203,2092,6
+Bacon,Douglas,CLERK SUPERIOR COURT,,R,S. L. TILLMAN ,1743,89,508,1141,5
+Bacon,New Lacy,CLERK SUPERIOR COURT,,R,S. L. TILLMAN ,682,15,256,411,0
+Bacon,Taylor,CLERK SUPERIOR COURT,,R,S. L. TILLMAN ,472,21,195,255,1
+Bacon,Ware,CLERK SUPERIOR COURT,,R,S. L. TILLMAN ,310,5,149,156,0
+Bacon,Warnock,CLERK SUPERIOR COURT,,R,S. L. TILLMAN ,234,10,95,129,0
+Bacon,,SHERIFF,,R,M. COTHREN,3421,136,1204,2075,6
+Bacon,Douglas,SHERIFF,,R,M. COTHREN,1725,84,510,1126,5
+Bacon,New Lacy,SHERIFF,,R,M. COTHREN,684,15,259,410,0
+Bacon,Taylor,SHERIFF,,R,M. COTHREN,473,22,195,255,1
+Bacon,Ware,SHERIFF,,R,M. COTHREN,306,5,144,157,0
+Bacon,Warnock,SHERIFF,,R,M. COTHREN,233,10,96,127,0
+Bacon,,TAX COMMISSIONER,,R,W. JOHNSON ,3375,137,1175,2057,6
+Bacon,Douglas,TAX COMMISSIONER,,R,W. JOHNSON ,1698,86,490,1117,5
+Bacon,New Lacy,TAX COMMISSIONER,,R,W. JOHNSON ,676,15,256,405,0
+Bacon,Taylor,TAX COMMISSIONER,,R,W. JOHNSON ,462,20,190,251,1
+Bacon,Ware,TAX COMMISSIONER,,R,W. JOHNSON ,303,6,142,155,0
+Bacon,Warnock,TAX COMMISSIONER,,R,W. JOHNSON ,236,10,97,129,0
+Bacon,,SURVEYOR,,R,E. TOMBERLIN ,3266,129,1147,1986,4
+Bacon,Douglas,SURVEYOR,,R,E. TOMBERLIN ,1627,83,470,1071,3
+Bacon,New Lacy,SURVEYOR,,R,E. TOMBERLIN ,664,14,253,397,0
+Bacon,Taylor,SURVEYOR,,R,E. TOMBERLIN ,449,17,188,243,1
+Bacon,Ware,SURVEYOR,,R,E. TOMBERLIN ,296,6,143,147,0
+Bacon,Warnock,SURVEYOR,,R,E. TOMBERLIN ,230,9,93,128,0
+Bacon,,CORONER,,R,V. PEACOCK ,3248,130,1132,1981,5
+Bacon,Douglas,CORONER,,R,V. PEACOCK ,1612,80,464,1064,4
+Bacon,New Lacy,CORONER,,R,V. PEACOCK ,667,15,254,398,0
+Bacon,Taylor,CORONER,,R,V. PEACOCK ,451,21,184,245,1
+Bacon,Ware,CORONER,,R,V. PEACOCK ,292,5,137,150,0
+Bacon,Warnock,CORONER,,R,V. PEACOCK ,226,9,93,124,0
+Bacon,,SOLICITOR,,R,"W. ""SAM"" EDGAR",3259,130,1132,1992,5
+Bacon,Douglas,SOLICITOR,,R,"W. ""SAM"" EDGAR",1629,83,469,1073,4
+Bacon,New Lacy,SOLICITOR,,R,"W. ""SAM"" EDGAR",664,14,252,398,0
+Bacon,Taylor,SOLICITOR,,R,"W. ""SAM"" EDGAR",445,18,182,244,1
+Bacon,Ware,SOLICITOR,,R,"W. ""SAM"" EDGAR",295,6,139,150,0
+Bacon,Warnock,SOLICITOR,,R,"W. ""SAM"" EDGAR",226,9,90,127,0
+Bacon,,CHAIR CC,,,A. W. HUTTO ,3207,124,1123,1954,6
+Bacon,Douglas,CHAIR CC,,,A. W. HUTTO ,1622,80,469,1068,5
+Bacon,New Lacy,CHAIR CC,,,A. W. HUTTO ,645,12,250,383,0
+Bacon,Taylor,CHAIR CC,,,A. W. HUTTO ,441,18,181,241,1
+Bacon,Ware,CHAIR CC,,,A. W. HUTTO ,286,6,135,145,0
+Bacon,Warnock,CHAIR CC,,,A. W. HUTTO ,213,8,88,117,0
+Bacon,,CC, D2,D,L. HAGANS ,355,20,152,183,0
+Bacon,Douglas,CC, D2,D,L. HAGANS ,355,20,152,183,0
+Bacon,,CC, D5,R,L. SMITH ,616,25,229,359,3
+Bacon,Douglas,CC, D5,R,L. SMITH ,375,19,106,247,3
+Bacon,Ware,CC, D5,R,L. SMITH ,241,6,123,112,0
+Bacon,,CC, D5,D,W. COURSON,213,8,79,126,0
+Bacon,Douglas,CC, D5,D,W. COURSON,113,6,35,72,0
+Bacon,Ware,CC, D5,D,W. COURSON,100,2,44,54,0
+Bacon,,SOIL AND WATER,,,G. M. YEARTY ,3113,126,1074,1908,5
+Bacon,Douglas,SOIL AND WATER,,,G. M. YEARTY ,1543,82,433,1024,4
+Bacon,New Lacy,SOIL AND WATER,,,G. M. YEARTY ,637,14,242,381,0
+Bacon,Taylor,SOIL AND WATER,,,G. M. YEARTY ,440,17,178,244,1
+Bacon,Ware,SOIL AND WATER,,,G. M. YEARTY ,278,5,131,142,0
+Bacon,Warnock,SOIL AND WATER,,,G. M. YEARTY ,215,8,90,117,0
+Bacon,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1386,67,500,815,4
+Bacon,Douglas,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,797,42,261,490,4
+Bacon,New Lacy,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,226,5,86,135,0
+Bacon,Taylor,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,196,14,83,99,0
+Bacon,Ware,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,106,4,47,55,0
+Bacon,Warnock,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,61,2,23,36,0
+Bacon,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,2397,92,857,1447,1
+Bacon,Douglas,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1129,58,325,746,0
+Bacon,New Lacy,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,496,10,189,297,0
+Bacon,Taylor,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,346,14,142,189,1
+Bacon,Ware,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,232,3,114,115,0
+Bacon,Warnock,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,194,7,87,100,0
+Bacon,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,3090,138,1069,1878,5
+Bacon,Douglas,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1593,84,465,1040,4
+Bacon,New Lacy,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,585,11,220,354,0
+Bacon,Taylor,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,441,28,174,238,1
+Bacon,Ware,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,273,8,126,139,0
+Bacon,Warnock,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,198,7,84,107,0
+Bacon,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,567,16,231,320,0
+Bacon,Douglas,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,267,11,94,162,0
+Bacon,New Lacy,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,117,3,47,67,0
+Bacon,Taylor,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,80,1,39,40,0
+Bacon,Ware,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,53,0,29,24,0
+Bacon,Warnock,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,50,1,22,27,0
+Bacon,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,2075,102,724,1246,3
+Bacon,Douglas,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1101,67,320,711,3
+Bacon,New Lacy,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,389,8,146,235,0
+Bacon,Taylor,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,272,17,114,141,0
+Bacon,Ware,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,187,7,88,92,0
+Bacon,Warnock,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,126,3,56,67,0
+Bacon,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,1227,42,439,745,1
+Bacon,Douglas,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,575,23,172,380,0
+Bacon,New Lacy,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,251,5,91,155,0
+Bacon,Taylor,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,189,9,76,103,1
+Bacon,Ware,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,118,0,57,61,0
+Bacon,Warnock,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,94,5,43,46,0
+Bacon,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,2712,130,944,1635,3
+Bacon,Douglas,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1419,86,413,917,3
+Bacon,New Lacy,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,496,10,185,301,0
+Bacon,Taylor,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,381,21,152,208,0
+Bacon,Ware,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,240,6,118,116,0
+Bacon,Warnock,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,176,7,76,93,0
+Bacon,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,799,25,291,481,2
+Bacon,Douglas,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,360,13,113,233,1
+Bacon,New Lacy,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,183,4,68,111,0
+Bacon,Taylor,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,120,5,53,61,1
+Bacon,Ware,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,76,1,33,42,0
+Bacon,Warnock,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,60,2,24,34,0
+Bacon,,SPECIAL- TAX,,,YES,1741,83,570,1085,3
+Bacon,Douglas,SPECIAL- TAX,,,YES,890,53,246,588,3
+Bacon,New Lacy,SPECIAL- TAX,,,YES,312,6,112,194,0
+Bacon,Taylor,SPECIAL- TAX,,,YES,245,12,89,144,0
+Bacon,Ware,SPECIAL- TAX,,,YES,160,6,71,83,0
+Bacon,Warnock,SPECIAL- TAX,,,YES,134,6,52,76,0
+Bacon,,SPECIAL- TAX,,,NO,1966,73,726,1165,2
+Bacon,Douglas,SPECIAL- TAX,,,NO,999,46,301,651,1
+Bacon,New Lacy,SPECIAL- TAX,,,NO,399,7,157,235,0
+Bacon,Taylor,SPECIAL- TAX,,,NO,285,16,129,139,1
+Bacon,Ware,SPECIAL- TAX,,,NO,175,1,89,85,0
+Bacon,Warnock,SPECIAL- TAX,,,NO,108,3,50,55,0

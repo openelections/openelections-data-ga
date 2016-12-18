@@ -1,0 +1,411 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+White,,President of the United States,,,DONALD J. TRUMP,9761,482,4042,5227,10
+White,Blue Creek,President of the United States,,,DONALD J. TRUMP,1179,56,517,604,2
+White,Blue Ridge,President of the United States,,,DONALD J. TRUMP,425,21,222,182,0
+White,Helen,President of the United States,,,DONALD J. TRUMP,264,10,145,109,0
+White,Mossy Creek,President of the United States,,,DONALD J. TRUMP,1519,80,683,754,2
+White,Mt. Yonah,President of the United States,,,DONALD J. TRUMP,2084,122,611,1349,2
+White,Nacoochee,President of the United States,,,DONALD J. TRUMP,744,46,275,422,1
+White,Robertstown,President of the United States,,,DONALD J. TRUMP,173,10,97,66,0
+White,Shoal Creek,President of the United States,,,DONALD J. TRUMP,1128,38,532,557,1
+White,Tesnatee,President of the United States,,,DONALD J. TRUMP,550,24,184,341,1
+White,Town Creek,President of the United States,,,DONALD J. TRUMP,768,22,353,393,0
+White,White Creek,President of the United States,,,DONALD J. TRUMP,927,53,423,450,1
+White,,President of the United States,,,HILLARY CLINTON,1674,120,588,964,2
+White,Blue Creek,President of the United States,,,HILLARY CLINTON,232,14,72,145,1
+White,Blue Ridge,President of the United States,,,HILLARY CLINTON,60,3,25,32,0
+White,Helen,President of the United States,,,HILLARY CLINTON,78,4,37,37,0
+White,Mossy Creek,President of the United States,,,HILLARY CLINTON,183,13,71,98,1
+White,Mt. Yonah,President of the United States,,,HILLARY CLINTON,384,33,118,233,0
+White,Nacoochee,President of the United States,,,HILLARY CLINTON,257,19,109,129,0
+White,Robertstown,President of the United States,,,HILLARY CLINTON,48,1,18,29,0
+White,Shoal Creek,President of the United States,,,HILLARY CLINTON,153,13,56,84,0
+White,Tesnatee,President of the United States,,,HILLARY CLINTON,97,5,25,67,0
+White,Town Creek,President of the United States,,,HILLARY CLINTON,99,8,32,59,0
+White,White Creek,President of the United States,,,HILLARY CLINTON,83,7,25,51,0
+White,,President of the United States,,,GARY JOHNSON,348,14,191,143,0
+White,Blue Creek,President of the United States,,,GARY JOHNSON,36,2,17,17,0
+White,Blue Ridge,President of the United States,,,GARY JOHNSON,13,0,8,5,0
+White,Helen,President of the United States,,,GARY JOHNSON,13,0,12,1,0
+White,Mossy Creek,President of the United States,,,GARY JOHNSON,45,2,25,18,0
+White,Mt. Yonah,President of the United States,,,GARY JOHNSON,70,3,35,32,0
+White,Nacoochee,President of the United States,,,GARY JOHNSON,37,0,21,16,0
+White,Robertstown,President of the United States,,,GARY JOHNSON,8,0,7,1,0
+White,Shoal Creek,President of the United States,,,GARY JOHNSON,42,2,19,21,0
+White,Tesnatee,President of the United States,,,GARY JOHNSON,22,0,13,9,0
+White,Town Creek,President of the United States,,,GARY JOHNSON,37,2,20,15,0
+White,White Creek,President of the United States,,,GARY JOHNSON,25,3,14,8,0
+White,,United States Senator,,,JOHNNY ISAKSON ,9212,478,3840,4886,8
+White,Blue Creek,United States Senator,,,JOHNNY ISAKSON ,1098,52,488,556,2
+White,Blue Ridge,United States Senator,,,JOHNNY ISAKSON ,397,20,204,173,0
+White,Helen,United States Senator,,,JOHNNY ISAKSON ,246,9,134,103,0
+White,Mossy Creek,United States Senator,,,JOHNNY ISAKSON ,1432,78,646,706,2
+White,Mt. Yonah,United States Senator,,,JOHNNY ISAKSON ,1989,116,600,1272,1
+White,Nacoochee,United States Senator,,,JOHNNY ISAKSON ,724,46,281,396,1
+White,Robertstown,United States Senator,,,JOHNNY ISAKSON ,173,11,93,69,0
+White,Shoal Creek,United States Senator,,,JOHNNY ISAKSON ,1053,40,503,509,1
+White,Tesnatee,United States Senator,,,JOHNNY ISAKSON ,523,25,180,318,0
+White,Town Creek,United States Senator,,,JOHNNY ISAKSON ,707,25,325,357,0
+White,White Creek,United States Senator,,,JOHNNY ISAKSON ,870,56,386,427,1
+White,,United States Senator,,,JIM BARKSDALE,1541,117,561,860,3
+White,Blue Creek,United States Senator,,,JIM BARKSDALE,214,12,68,133,1
+White,Blue Ridge,United States Senator,,,JIM BARKSDALE,56,3,25,28,0
+White,Helen,United States Senator,,,JIM BARKSDALE,66,3,34,29,0
+White,Mossy Creek,United States Senator,,,JIM BARKSDALE,170,14,69,86,1
+White,Mt. Yonah,United States Senator,,,JIM BARKSDALE,307,34,85,187,1
+White,Nacoochee,United States Senator,,,JIM BARKSDALE,235,20,98,117,0
+White,Robertstown,United States Senator,,,JIM BARKSDALE,42,1,20,21,0
+White,Shoal Creek,United States Senator,,,JIM BARKSDALE,149,8,57,84,0
+White,Tesnatee,United States Senator,,,JIM BARKSDALE,101,5,30,66,0
+White,Town Creek,United States Senator,,,JIM BARKSDALE,108,8,41,59,0
+White,White Creek,United States Senator,,,JIM BARKSDALE,93,9,34,50,0
+White,,United States Senator,,,ALLEN BUCKLEY,586,26,271,288,1
+White,Blue Creek,United States Senator,,,ALLEN BUCKLEY,90,6,33,51,0
+White,Blue Ridge,United States Senator,,,ALLEN BUCKLEY,31,2,17,12,0
+White,Helen,United States Senator,,,ALLEN BUCKLEY,21,1,14,6,0
+White,Mossy Creek,United States Senator,,,ALLEN BUCKLEY,77,2,42,33,0
+White,Mt. Yonah,United States Senator,,,ALLEN BUCKLEY,127,9,49,69,0
+White,Nacoochee,United States Senator,,,ALLEN BUCKLEY,48,1,20,27,0
+White,Robertstown,United States Senator,,,ALLEN BUCKLEY,8,0,4,4,0
+White,Shoal Creek,United States Senator,,,ALLEN BUCKLEY,71,4,33,34,0
+White,Tesnatee,United States Senator,,,ALLEN BUCKLEY,18,0,9,8,1
+White,Town Creek,United States Senator,,,ALLEN BUCKLEY,52,0,24,28,0
+White,White Creek,United States Senator,,,ALLEN BUCKLEY,43,1,26,16,0
+White,,"Public Service Commission, District 2",2,,TIM ECHOLS ,9585,492,3982,5102,9
+White,Blue Creek,"Public Service Commission, District 2",2,,TIM ECHOLS ,1129,49,505,572,3
+White,Blue Ridge,"Public Service Commission, District 2",2,,TIM ECHOLS ,404,21,207,176,0
+White,Helen,"Public Service Commission, District 2",2,,TIM ECHOLS ,257,8,145,104,0
+White,Mossy Creek,"Public Service Commission, District 2",2,,TIM ECHOLS ,1483,79,672,731,1
+White,Mt. Yonah,"Public Service Commission, District 2",2,,TIM ECHOLS ,2092,128,630,1333,1
+White,Nacoochee,"Public Service Commission, District 2",2,,TIM ECHOLS ,773,51,297,424,1
+White,Robertstown,"Public Service Commission, District 2",2,,TIM ECHOLS ,174,11,94,69,0
+White,Shoal Creek,"Public Service Commission, District 2",2,,TIM ECHOLS ,1091,39,510,541,1
+White,Tesnatee,"Public Service Commission, District 2",2,,TIM ECHOLS ,542,23,183,335,1
+White,Town Creek,"Public Service Commission, District 2",2,,TIM ECHOLS ,729,26,331,372,0
+White,White Creek,"Public Service Commission, District 2",2,,TIM ECHOLS ,911,57,408,445,1
+White,,"Public Service Commission, District 2",2,,ERIC HOSKINS,1587,91,654,840,2
+White,Blue Creek,"Public Service Commission, District 2",2,,ERIC HOSKINS,240,17,79,144,0
+White,Blue Ridge,"Public Service Commission, District 2",2,,ERIC HOSKINS,69,3,31,35,0
+White,Helen,"Public Service Commission, District 2",2,,ERIC HOSKINS,70,2,38,30,0
+White,Mossy Creek,"Public Service Commission, District 2",2,,ERIC HOSKINS,189,10,91,87,1
+White,Mt. Yonah,"Public Service Commission, District 2",2,,ERIC HOSKINS,314,24,101,188,1
+White,Nacoochee,"Public Service Commission, District 2",2,,ERIC HOSKINS,180,8,88,84,0
+White,Robertstown,"Public Service Commission, District 2",2,,ERIC HOSKINS,36,0,18,18,0
+White,Shoal Creek,"Public Service Commission, District 2",2,,ERIC HOSKINS,169,12,78,79,0
+White,Tesnatee,"Public Service Commission, District 2",2,,ERIC HOSKINS,90,4,32,54,0
+White,Town Creek,"Public Service Commission, District 2",2,,ERIC HOSKINS,135,5,57,73,0
+White,White Creek,"Public Service Commission, District 2",2,,ERIC HOSKINS,95,6,41,48,0
+White,,U.S. Representative,9,,DOUG COLLINS ,10555,522,4410,5612,11
+White,Blue Creek,U.S. Representative,9,,DOUG COLLINS ,1268,50,556,659,3
+White,Blue Ridge,U.S. Representative,9,,DOUG COLLINS ,437,23,225,189,0
+White,Helen,U.S. Representative,9,,DOUG COLLINS ,293,9,163,121,0
+White,Mossy Creek,U.S. Representative,9,,DOUG COLLINS ,1591,83,727,778,3
+White,Mt. Yonah,U.S. Representative,9,,DOUG COLLINS ,2299,136,707,1455,1
+White,Nacoochee,U.S. Representative,9,,DOUG COLLINS ,876,53,354,468,1
+White,Robertstown,U.S. Representative,9,,DOUG COLLINS ,193,11,104,78,0
+White,Shoal Creek,U.S. Representative,9,,DOUG COLLINS ,1213,42,569,601,1
+White,Tesnatee,U.S. Representative,9,,DOUG COLLINS ,608,28,209,370,1
+White,Town Creek,U.S. Representative,9,,DOUG COLLINS ,814,29,369,416,0
+White,White Creek,U.S. Representative,9,,DOUG COLLINS ,963,58,427,477,1
+White,,State Senator,51,,STEVE GOOCH ,10542,513,4401,5618,10
+White,Blue Creek,State Senator,51,,STEVE GOOCH ,1268,50,552,663,3
+White,Blue Ridge,State Senator,51,,STEVE GOOCH ,437,21,225,191,0
+White,Helen,State Senator,51,,STEVE GOOCH ,298,10,166,122,0
+White,Mossy Creek,State Senator,51,,STEVE GOOCH ,1597,84,729,782,2
+White,Mt. Yonah,State Senator,51,,STEVE GOOCH ,2290,136,700,1453,1
+White,Nacoochee,State Senator,51,,STEVE GOOCH ,878,50,355,472,1
+White,Robertstown,State Senator,51,,STEVE GOOCH ,189,11,102,76,0
+White,Shoal Creek,State Senator,51,,STEVE GOOCH ,1207,42,566,598,1
+White,Tesnatee,State Senator,51,,STEVE GOOCH ,609,27,212,369,1
+White,Town Creek,State Senator,51,,STEVE GOOCH ,810,26,369,415,0
+White,White Creek,State Senator,51,,STEVE GOOCH ,959,56,425,477,1
+White,,State Representative,8,,MATT GURTLER,2297,97,1049,1150,1
+White,Blue Ridge,State Representative,8,,MATT GURTLER,429,22,222,185,0
+White,Helen,State Representative,8,,MATT GURTLER,294,9,164,121,0
+White,Robertstown,State Representative,8,,MATT GURTLER,187,11,98,78,0
+White,Tesnatee,State Representative,8,,MATT GURTLER,594,28,204,361,1
+White,Town Creek,State Representative,8,,MATT GURTLER,793,27,361,405,0
+White,,State Representative,10,,TERRY ROGERS ,7426,394,2960,4063,9
+White,Blue Creek,State Representative,10,,TERRY ROGERS ,1259,51,550,655,3
+White,Mossy Creek,State Representative,10,,TERRY ROGERS ,1589,84,735,768,2
+White,Mt. Yonah,State Representative,10,,TERRY ROGERS ,2290,136,698,1455,1
+White,Nacoochee,State Representative,10,,TERRY ROGERS ,865,52,353,459,1
+White,Shoal Creek,State Representative,10,,TERRY ROGERS ,462,15,195,251,1
+White,White Creek,State Representative,10,,TERRY ROGERS ,961,56,429,475,1
+White,,State Representative,27,,LEE HAWKINS ,740,27,366,347,0
+White,Shoal Creek,State Representative,27,,LEE HAWKINS ,740,27,366,347,0
+White,,Probate Judge,,(R,G. BAKER ,10908,547,4527,5823,11
+White,Blue Creek,Probate Judge,,(R,G. BAKER ,1319,57,566,693,3
+White,Blue Ridge,Probate Judge,,(R,G. BAKER ,455,23,233,199,0
+White,Helen,Probate Judge,,(R,G. BAKER ,308,12,168,128,0
+White,Mossy Creek,Probate Judge,,(R,G. BAKER ,1643,89,747,805,2
+White,Mt. Yonah,Probate Judge,,(R,G. BAKER ,2375,141,725,1507,2
+White,Nacoochee,Probate Judge,,(R,G. BAKER ,917,56,377,483,1
+White,Robertstown,Probate Judge,,(R,G. BAKER ,204,12,108,84,0
+White,Shoal Creek,Probate Judge,,(R,G. BAKER ,1234,45,573,615,1
+White,Tesnatee,Probate Judge,,(R,G. BAKER ,641,29,218,393,1
+White,Town Creek,Probate Judge,,(R,G. BAKER ,831,27,375,429,0
+White,White Creek,Probate Judge,,(R,G. BAKER ,981,56,437,487,1
+White,,Superior Court Clerk,,(R,D. M. ADAMS ,10776,540,4486,5740,10
+White,Blue Creek,Superior Court Clerk,,(R,D. M. ADAMS ,1302,55,560,684,3
+White,Blue Ridge,Superior Court Clerk,,(R,D. M. ADAMS ,444,23,232,189,0
+White,Helen,Superior Court Clerk,,(R,D. M. ADAMS ,313,12,172,129,0
+White,Mossy Creek,Superior Court Clerk,,(R,D. M. ADAMS ,1629,86,744,797,2
+White,Mt. Yonah,Superior Court Clerk,,(R,D. M. ADAMS ,2351,137,718,1495,1
+White,Nacoochee,Superior Court Clerk,,(R,D. M. ADAMS ,912,56,374,481,1
+White,Robertstown,Superior Court Clerk,,(R,D. M. ADAMS ,202,12,108,82,0
+White,Shoal Creek,Superior Court Clerk,,(R,D. M. ADAMS ,1212,46,561,604,1
+White,Tesnatee,Superior Court Clerk,,(R,D. M. ADAMS ,624,29,214,380,1
+White,Town Creek,Superior Court Clerk,,(R,D. M. ADAMS ,816,27,370,419,0
+White,White Creek,Superior Court Clerk,,(R,D. M. ADAMS ,971,57,433,480,1
+White,,Sheriff,,(R,N. WALDEN ,10703,542,4404,5746,11
+White,Blue Creek,Sheriff,,(R,N. WALDEN ,1314,57,561,693,3
+White,Blue Ridge,Sheriff,,(R,N. WALDEN ,448,22,230,196,0
+White,Helen,Sheriff,,(R,N. WALDEN ,307,11,170,126,0
+White,Mossy Creek,Sheriff,,(R,N. WALDEN ,1586,89,720,774,3
+White,Mt. Yonah,Sheriff,,(R,N. WALDEN ,2337,137,710,1489,1
+White,Nacoochee,Sheriff,,(R,N. WALDEN ,926,58,371,496,1
+White,Robertstown,Sheriff,,(R,N. WALDEN ,205,12,110,83,0
+White,Shoal Creek,Sheriff,,(R,N. WALDEN ,1204,42,552,609,1
+White,Tesnatee,Sheriff,,(R,N. WALDEN ,605,27,204,373,1
+White,Town Creek,Sheriff,,(R,N. WALDEN ,809,28,357,424,0
+White,White Creek,Sheriff,,(R,N. WALDEN ,962,59,419,483,1
+White,,Tax Commissioner,,(R,C. G. CANNON ,10829,542,4481,5795,11
+White,Blue Creek,Tax Commissioner,,(R,C. G. CANNON ,1319,55,569,692,3
+White,Blue Ridge,Tax Commissioner,,(R,C. G. CANNON ,446,23,231,192,0
+White,Helen,Tax Commissioner,,(R,C. G. CANNON ,315,12,172,131,0
+White,Mossy Creek,Tax Commissioner,,(R,C. G. CANNON ,1631,90,741,797,3
+White,Mt. Yonah,Tax Commissioner,,(R,C. G. CANNON ,2350,138,709,1502,1
+White,Nacoochee,Tax Commissioner,,(R,C. G. CANNON ,916,56,367,492,1
+White,Robertstown,Tax Commissioner,,(R,C. G. CANNON ,204,12,106,86,0
+White,Shoal Creek,Tax Commissioner,,(R,C. G. CANNON ,1214,45,561,607,1
+White,Tesnatee,Tax Commissioner,,(R,C. G. CANNON ,627,29,214,383,1
+White,Town Creek,Tax Commissioner,,(R,C. G. CANNON ,833,26,376,431,0
+White,White Creek,Tax Commissioner,,(R,C. G. CANNON ,974,56,435,482,1
+White,,Surveyor,,(R,E. HOOD ,10710,536,4444,5720,10
+White,Blue Creek,Surveyor,,(R,E. HOOD ,1297,53,558,684,2
+White,Blue Ridge,Surveyor,,(R,E. HOOD ,440,23,228,189,0
+White,Helen,Surveyor,,(R,E. HOOD ,314,12,171,131,0
+White,Mossy Creek,Surveyor,,(R,E. HOOD ,1602,85,733,782,2
+White,Mt. Yonah,Surveyor,,(R,E. HOOD ,2336,141,704,1489,2
+White,Nacoochee,Surveyor,,(R,E. HOOD ,903,55,366,481,1
+White,Robertstown,Surveyor,,(R,E. HOOD ,200,12,105,83,0
+White,Shoal Creek,Surveyor,,(R,E. HOOD ,1205,42,565,597,1
+White,Tesnatee,Surveyor,,(R,E. HOOD ,622,29,214,378,1
+White,Town Creek,Surveyor,,(R,E. HOOD ,826,27,372,427,0
+White,White Creek,Surveyor,,(R,E. HOOD ,965,57,428,479,1
+White,,Coroner,,(R,R. BARRETT ,10831,547,4481,5791,12
+White,Blue Creek,Coroner,,(R,R. BARRETT ,1309,56,563,687,3
+White,Blue Ridge,Coroner,,(R,R. BARRETT ,449,23,232,194,0
+White,Helen,Coroner,,(R,R. BARRETT ,311,12,169,130,0
+White,Mossy Creek,Coroner,,(R,R. BARRETT ,1630,88,738,801,3
+White,Mt. Yonah,Coroner,,(R,R. BARRETT ,2351,142,714,1493,2
+White,Nacoochee,Coroner,,(R,R. BARRETT ,921,56,372,492,1
+White,Robertstown,Coroner,,(R,R. BARRETT ,202,12,108,82,0
+White,Shoal Creek,Coroner,,(R,R. BARRETT ,1222,42,568,611,1
+White,Tesnatee,Coroner,,(R,R. BARRETT ,629,29,214,385,1
+White,Town Creek,Coroner,,(R,R. BARRETT ,828,28,374,426,0
+White,White Creek,Coroner,,(R,R. BARRETT ,979,59,429,490,1
+White,,County Comm Chair,,(R,T. C. TURNER ,10535,526,4372,5627,10
+White,Blue Creek,County Comm Chair,,(R,T. C. TURNER ,1276,54,545,674,3
+White,Blue Ridge,County Comm Chair,,(R,T. C. TURNER ,428,22,220,186,0
+White,Helen,County Comm Chair,,(R,T. C. TURNER ,301,10,164,127,0
+White,Mossy Creek,County Comm Chair,,(R,T. C. TURNER ,1596,88,725,781,2
+White,Mt. Yonah,County Comm Chair,,(R,T. C. TURNER ,2285,137,698,1449,1
+White,Nacoochee,County Comm Chair,,(R,T. C. TURNER ,896,55,363,477,1
+White,Robertstown,County Comm Chair,,(R,T. C. TURNER ,198,12,104,82,0
+White,Shoal Creek,County Comm Chair,,(R,T. C. TURNER ,1185,39,552,593,1
+White,Tesnatee,County Comm Chair,,(R,T. C. TURNER ,604,29,207,367,1
+White,Town Creek,County Comm Chair,,(R,T. C. TURNER ,804,24,363,417,0
+White,White Creek,County Comm Chair,,(R,T. C. TURNER ,962,56,431,474,1
+White,,County Comm 1,,(R,T. D. GOODGER ,2402,142,742,1518,0
+White,Mt. Yonah,County Comm 1,,(R,T. D. GOODGER ,2208,131,677,1400,0
+White,Shoal Creek,County Comm 1,,(R,T. D. GOODGER ,7,2,2,3,0
+White,Tesnatee,County Comm 1,,(R,T. D. GOODGER ,187,9,63,115,0
+White,,County Comm 4,,(R,C. BRYANT ,3041,141,1301,1593,6
+White,Blue Creek,County Comm 4,,(R,C. BRYANT ,1272,54,550,665,3
+White,Helen,County Comm 4,,(R,C. BRYANT ,298,9,163,126,0
+White,Mt. Yonah,County Comm 4,,(R,C. BRYANT ,66,4,15,46,1
+White,Nacoochee,County Comm 4,,(R,C. BRYANT ,882,49,355,477,1
+White,Robertstown,County Comm 4,,(R,C. BRYANT ,195,11,102,82,0
+White,Tesnatee,County Comm 4,,(R,C. BRYANT ,328,14,116,197,1
+White,,BOE Chair,,R,M. JARRARD,10536,509,4399,5618,10
+White,Blue Creek,BOE Chair,,R,M. JARRARD,1287,51,557,676,3
+White,Blue Ridge,BOE Chair,,R,M. JARRARD,429,21,223,185,0
+White,Helen,BOE Chair,,R,M. JARRARD,301,10,167,124,0
+White,Mossy Creek,BOE Chair,,R,M. JARRARD,1584,85,726,771,2
+White,Mt. Yonah,BOE Chair,,R,M. JARRARD,2299,135,705,1458,1
+White,Nacoochee,BOE Chair,,R,M. JARRARD,889,53,358,477,1
+White,Robertstown,BOE Chair,,R,M. JARRARD,194,10,104,80,0
+White,Shoal Creek,BOE Chair,,R,M. JARRARD,1191,42,557,591,1
+White,Tesnatee,BOE Chair,,R,M. JARRARD,611,26,212,372,1
+White,Town Creek,BOE Chair,,R,M. JARRARD,805,24,366,415,0
+White,White Creek,BOE Chair,,R,M. JARRARD,946,52,424,469,1
+White,,BOE 1,,R,J. ESTES,10396,499,4347,5540,10
+White,Blue Creek,BOE 1,,R,J. ESTES,1254,49,549,653,3
+White,Blue Ridge,BOE 1,,R,J. ESTES,429,22,222,185,0
+White,Helen,BOE 1,,R,J. ESTES,299,8,166,125,0
+White,Mossy Creek,BOE 1,,R,J. ESTES,1575,78,728,767,2
+White,Mt. Yonah,BOE 1,,R,J. ESTES,2262,135,691,1435,1
+White,Nacoochee,BOE 1,,R,J. ESTES,865,53,350,461,1
+White,Robertstown,BOE 1,,R,J. ESTES,192,12,101,79,0
+White,Shoal Creek,BOE 1,,R,J. ESTES,1186,40,556,589,1
+White,Tesnatee,BOE 1,,R,J. ESTES,593,23,204,365,1
+White,Town Creek,BOE 1,,R,J. ESTES,795,24,361,410,0
+White,White Creek,BOE 1,,R,J. ESTES,946,55,419,471,1
+White,,BOE 3,,(R,C. THOMAS JR. ,10473,512,4368,5583,10
+White,Blue Creek,BOE 3,,(R,C. THOMAS JR. ,1261,50,552,656,3
+White,Blue Ridge,BOE 3,,(R,C. THOMAS JR. ,441,22,227,192,0
+White,Helen,BOE 3,,(R,C. THOMAS JR. ,302,10,165,127,0
+White,Mossy Creek,BOE 3,,(R,C. THOMAS JR. ,1572,80,725,765,2
+White,Mt. Yonah,BOE 3,,(R,C. THOMAS JR. ,2280,137,695,1447,1
+White,Nacoochee,BOE 3,,(R,C. THOMAS JR. ,870,53,355,461,1
+White,Robertstown,BOE 3,,(R,C. THOMAS JR. ,196,12,104,80,0
+White,Shoal Creek,BOE 3,,(R,C. THOMAS JR. ,1193,40,552,600,1
+White,Tesnatee,BOE 3,,(R,C. THOMAS JR. ,599,26,205,367,1
+White,Town Creek,BOE 3,,(R,C. THOMAS JR. ,807,26,365,416,0
+White,White Creek,BOE 3,,(R,C. THOMAS JR. ,952,56,423,472,1
+White,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,4186,280,1646,2255,5
+White,Blue Creek,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,566,38,237,290,1
+White,Blue Ridge,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,185,14,87,84,0
+White,Helen,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,139,9,75,55,0
+White,Mossy Creek,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,598,39,258,299,2
+White,Mt. Yonah,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,913,75,281,557,0
+White,Nacoochee,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,372,26,115,230,1
+White,Robertstown,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,60,5,27,28,0
+White,Shoal Creek,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,487,25,212,250,0
+White,Tesnatee,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,218,13,61,144,0
+White,Town Creek,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,307,17,149,141,0
+White,White Creek,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,341,19,144,177,1
+White,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,7454,324,3131,3993,6
+White,Blue Creek,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,865,30,365,468,2
+White,Blue Ridge,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,304,11,159,134,0
+White,Helen,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,204,4,114,86,0
+White,Mossy Creek,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1131,53,523,555,0
+White,Mt. Yonah,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1594,80,474,1038,2
+White,Nacoochee,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,654,37,284,333,0
+White,Robertstown,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,169,7,94,68,0
+White,Shoal Creek,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,818,28,388,401,1
+White,Tesnatee,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,443,16,164,262,1
+White,Town Creek,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,585,14,252,319,0
+White,White Creek,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,687,44,314,329,0
+White,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,9515,528,3851,5127,9
+White,Blue Creek,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1154,54,484,614,2
+White,Blue Ridge,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,400,22,198,180,0
+White,Helen,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,276,11,149,116,0
+White,Mossy Creek,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1425,80,627,716,2
+White,Mt. Yonah,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2112,138,655,1318,1
+White,Nacoochee,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,821,59,303,458,1
+White,Robertstown,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,178,10,94,74,0
+White,Shoal Creek,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1064,42,480,541,1
+White,Tesnatee,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,523,26,170,326,1
+White,Town Creek,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,706,29,311,366,0
+White,White Creek,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,856,57,380,418,1
+White,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,2004,78,865,1059,2
+White,Blue Creek,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,271,14,111,145,1
+White,Blue Ridge,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,80,5,43,32,0
+White,Helen,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,64,0,36,28,0
+White,Mossy Creek,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,294,12,147,135,0
+White,Mt. Yonah,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,370,18,96,255,1
+White,Nacoochee,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,191,5,88,98,0
+White,Robertstown,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,40,2,21,17,0
+White,Shoal Creek,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,232,11,114,107,0
+White,Tesnatee,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,131,4,51,76,0
+White,Town Creek,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,180,2,88,90,0
+White,White Creek,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,151,5,70,76,0
+White,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,6557,376,2686,3486,9
+White,Blue Creek,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,818,42,365,409,2
+White,Blue Ridge,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,284,18,141,125,0
+White,Helen,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,201,7,115,79,0
+White,Mossy Creek,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,933,60,417,454,2
+White,Mt. Yonah,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,1492,95,456,940,1
+White,Nacoochee,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,569,47,202,319,1
+White,Robertstown,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,105,7,48,50,0
+White,Shoal Creek,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,750,31,341,377,1
+White,Tesnatee,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,355,20,119,215,1
+White,Town Creek,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,487,16,229,242,0
+White,White Creek,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,YES,563,33,253,276,1
+White,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,4354,196,1794,2361,3
+White,Blue Creek,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,531,22,209,299,1
+White,Blue Ridge,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,179,5,92,82,0
+White,Helen,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,121,4,59,58,0
+White,Mossy Creek,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,665,26,318,320,1
+White,Mt. Yonah,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,846,54,234,557,1
+White,Nacoochee,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,397,15,175,207,0
+White,Robertstown,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,107,5,60,42,0
+White,Shoal Creek,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,475,19,216,240,0
+White,Tesnatee,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,272,8,94,170,0
+White,Town Creek,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,352,13,152,187,0
+White,White Creek,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition, governance,,NO,409,25,185,199,0
+White,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,9410,539,3765,5095,11
+White,Blue Creek,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1171,57,490,621,3
+White,Blue Ridge,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,409,21,200,188,0
+White,Helen,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,275,10,146,119,0
+White,Mossy Creek,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1369,87,601,678,3
+White,Mt. Yonah,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,2074,139,625,1309,1
+White,Nacoochee,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,858,59,320,478,1
+White,Robertstown,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,178,11,93,74,0
+White,Shoal Creek,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,1039,45,473,520,1
+White,Tesnatee,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,526,27,167,331,1
+White,Town Creek,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,698,25,307,366,0
+White,White Creek,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,YES,813,58,343,411,1
+White,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,2048,61,934,1052,1
+White,Blue Creek,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,248,11,107,130,0
+White,Blue Ridge,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,73,3,45,25,0
+White,Helen,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,60,0,38,22,0
+White,Mossy Creek,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,329,5,165,159,0
+White,Mt. Yonah,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,389,17,112,259,1
+White,Nacoochee,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,151,5,71,75,0
+White,Robertstown,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,40,1,21,18,0
+White,Shoal Creek,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,256,8,121,127,0
+White,Tesnatee,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,123,2,53,68,0
+White,Town Creek,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,180,5,90,85,0
+White,White Creek,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care, fire services,,NO,199,4,111,84,0
+White,,Special,,,C. BRYSON,5337,291,2248,2792,6
+White,Blue Creek,Special,,,C. BRYSON,680,41,306,332,1
+White,Blue Ridge,Special,,,C. BRYSON,200,10,106,84,0
+White,Helen,Special,,,C. BRYSON,143,3,74,66,0
+White,Mossy Creek,Special,,,C. BRYSON,803,51,386,364,2
+White,Mt. Yonah,Special,,,C. BRYSON,1220,83,356,780,1
+White,Nacoochee,Special,,,C. BRYSON,408,24,177,207,0
+White,Robertstown,Special,,,C. BRYSON,124,8,68,48,0
+White,Shoal Creek,Special,,,C. BRYSON,546,16,253,276,1
+White,Tesnatee,Special,,,C. BRYSON,328,11,121,196,0
+White,Town Creek,Special,,,C. BRYSON,412,12,183,217,0
+White,White Creek,Special,,,C. BRYSON,473,32,218,222,1
+White,,Special,,,B. PULLIAM ,5037,237,2050,2746,4
+White,Blue Creek,Special,,,B. PULLIAM ,588,19,240,328,1
+White,Blue Ridge,Special,,,B. PULLIAM ,244,11,123,110,0
+White,Helen,Special,,,B. PULLIAM ,144,4,82,58,0
+White,Mossy Creek,Special,,,B. PULLIAM ,777,31,337,409,0
+White,Mt. Yonah,Special,,,B. PULLIAM ,1046,63,327,655,1
+White,Nacoochee,Special,,,B. PULLIAM ,450,30,164,255,1
+White,Robertstown,Special,,,B. PULLIAM ,71,3,34,34,0
+White,Shoal Creek,Special,,,B. PULLIAM ,595,22,277,296,0
+White,Tesnatee,Special,,,B. PULLIAM ,280,16,89,174,1
+White,Town Creek,Special,,,B. PULLIAM ,365,13,168,184,0
+White,White Creek,Special,,,B. PULLIAM ,477,25,209,243,0
+White,,Special,,,YES,7302,327,2986,3981,8
+White,Blue Creek,Special,,,YES,923,39,387,495,2
+White,Blue Ridge,Special,,,YES,337,20,164,153,0
+White,Helen,Special,,,YES,252,7,138,107,0
+White,Mossy Creek,Special,,,YES,984,35,455,491,3
+White,Mt. Yonah,Special,,,YES,1592,86,487,1018,1
+White,Nacoochee,Special,,,YES,722,41,283,398,0
+White,Robertstown,Special,,,YES,128,8,62,58,0
+White,Shoal Creek,Special,,,YES,798,31,365,401,1
+White,Tesnatee,Special,,,YES,416,20,134,262,0
+White,Town Creek,Special,,,YES,582,15,253,314,0
+White,White Creek,Special,,,YES,568,25,258,284,1
+White,,Special,,,NO,4255,281,1757,2213,4
+White,Blue Creek,Special,,,NO,503,30,211,261,1
+White,Blue Ridge,Special,,,NO,148,7,81,60,0
+White,Helen,Special,,,NO,88,3,50,35,0
+White,Mossy Creek,Special,,,NO,731,57,317,357,0
+White,Mt. Yonah,Special,,,NO,900,69,261,569,1
+White,Nacoochee,Special,,,NO,298,23,118,156,1
+White,Robertstown,Special,,,NO,90,4,51,35,0
+White,Shoal Creek,Special,,,NO,497,22,232,243,0
+White,Tesnatee,Special,,,NO,251,10,94,146,1
+White,Town Creek,Special,,,NO,303,18,144,141,0
+White,White Creek,Special,,,NO,446,38,198,210,0
