@@ -1,0 +1,327 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Ben Hill,,State Representative,155,R,SCOTT LOWELL DOWNING,564,13,246,305,0
+Ben Hill,East,State Representative,155,R,SCOTT LOWELL DOWNING,119,0,47,72,0
+Ben Hill,West,State Representative,155,R,SCOTT LOWELL DOWNING,445,13,199,233,0
+Ben Hill,,State Representative,155,R,HORACE HUDGINS,221,0,136,85,0
+Ben Hill,East,State Representative,155,R,HORACE HUDGINS,68,0,39,29,0
+Ben Hill,West,State Representative,155,R,HORACE HUDGINS,153,0,97,56,0
+Ben Hill,,State Representative,155,R,SHERRY MILEY,58,3,33,22,0
+Ben Hill,East,State Representative,155,R,SHERRY MILEY,17,0,10,7,0
+Ben Hill,West,State Representative,155,R,SHERRY MILEY,41,3,23,15,0
+Ben Hill,,State Representative,155,R,CLAY PIRKLE,200,0,156,44,0
+Ben Hill,East,State Representative,155,R,CLAY PIRKLE,51,0,42,9,0
+Ben Hill,West,State Representative,155,R,CLAY PIRKLE,149,0,114,35,0
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Coffee,,State Representative,155,R,SCOTT LOWELL DOWNING,39,1,34,4,0
+Coffee,Ambrose,State Representative,155,R,SCOTT LOWELL DOWNING,27,1,23,3,0
+Coffee,Broxton,State Representative,155,R,SCOTT LOWELL DOWNING,12,0,11,1,0
+Coffee,,State Representative,155,R,HORACE HUDGINS,81,0,61,20,0
+Coffee,Ambrose,State Representative,155,R,HORACE HUDGINS,47,0,37,10,0
+Coffee,Broxton,State Representative,155,R,HORACE HUDGINS,34,0,24,10,0
+Coffee,,State Representative,155,R,SHERRY MILEY,4,0,4,0,0
+Coffee,Ambrose,State Representative,155,R,SHERRY MILEY,3,0,3,0,0
+Coffee,Broxton,State Representative,155,R,SHERRY MILEY,1,0,1,0,0
+Coffee,,State Representative,155,R,CLAY PIRKLE,29,0,23,6,0
+Coffee,Ambrose,State Representative,155,R,CLAY PIRKLE,19,0,15,4,0
+Coffee,Broxton,State Representative,155,R,CLAY PIRKLE,10,0,8,2,0
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,advance_in_person_1,advance_in_person_3,election_day,advance_in_person_2,provisional
+DeKalb,,State Representative,80,D,TAYLOR J BENNETT,1249,112,24,0,1112,0,1
+DeKalb,ASHFORD DUNWOODY RD,State Representative,80,D,TAYLOR J BENNETT,198,18,5,0,175,0,0
+DeKalb,ASHFORD PARKSIDE,State Representative,80,D,TAYLOR J BENNETT,114,10,3,0,101,0,0
+DeKalb,BRIARWOOD,State Representative,80,D,TAYLOR J BENNETT,84,6,4,0,74,0,0
+DeKalb,BROOKHAVEN,State Representative,80,D,TAYLOR J BENNETT,154,12,1,0,141,0,0
+DeKalb,CHAMBLEE ,State Representative,80,D,TAYLOR J BENNETT,25,0,0,0,25,0,0
+DeKalb,CROSS KEYS HIGH,State Representative,80,D,TAYLOR J BENNETT,89,7,3,0,79,0,0
+DeKalb,HUNTLEY HILLS ELEM,State Representative,80,D,TAYLOR J BENNETT,38,0,0,0,38,0,0
+DeKalb,KITTREDGE ELEM,State Representative,80,D,TAYLOR J BENNETT,157,12,1,0,144,0,0
+DeKalb,MONTGOMERY ELEM,State Representative,80,D,TAYLOR J BENNETT,136,11,3,0,122,0,0
+DeKalb,SILVER LAKE,State Representative,80,D,TAYLOR J BENNETT,173,22,4,0,146,0,1
+DeKalb,WOODWARD ELEM,State Representative,80,D,TAYLOR J BENNETT,81,14,0,0,67,0,0
+DeKalb,,State Representative,80,R,CATHERINE S. BERNARD,1026,32,15,0,979,0,0
+DeKalb,ASHFORD DUNWOODY RD,State Representative,80,R,CATHERINE S. BERNARD,140,7,3,0,130,0,0
+DeKalb,ASHFORD PARKSIDE,State Representative,80,R,CATHERINE S. BERNARD,88,1,1,0,86,0,0
+DeKalb,BRIARWOOD,State Representative,80,R,CATHERINE S. BERNARD,67,0,2,0,65,0,0
+DeKalb,BROOKHAVEN,State Representative,80,R,CATHERINE S. BERNARD,199,2,0,0,197,0,0
+DeKalb,CHAMBLEE ,State Representative,80,R,CATHERINE S. BERNARD,17,0,0,0,17,0,0
+DeKalb,CROSS KEYS HIGH,State Representative,80,R,CATHERINE S. BERNARD,48,0,1,0,47,0,0
+DeKalb,HUNTLEY HILLS ELEM,State Representative,80,R,CATHERINE S. BERNARD,25,3,0,0,22,0,0
+DeKalb,KITTREDGE ELEM,State Representative,80,R,CATHERINE S. BERNARD,110,3,6,0,101,0,0
+DeKalb,MONTGOMERY ELEM,State Representative,80,R,CATHERINE S. BERNARD,133,8,1,0,124,0,0
+DeKalb,SILVER LAKE,State Representative,80,R,CATHERINE S. BERNARD,159,5,1,0,153,0,0
+DeKalb,WOODWARD ELEM,State Representative,80,R,CATHERINE S. BERNARD,40,3,0,0,37,0,0
+DeKalb,,State Representative,80,R,LOREN COLLINS,51,0,3,0,48,0,0
+DeKalb,ASHFORD DUNWOODY RD,State Representative,80,R,LOREN COLLINS,3,0,0,0,3,0,0
+DeKalb,ASHFORD PARKSIDE,State Representative,80,R,LOREN COLLINS,7,0,0,0,7,0,0
+DeKalb,BRIARWOOD,State Representative,80,R,LOREN COLLINS,2,0,0,0,2,0,0
+DeKalb,BROOKHAVEN,State Representative,80,R,LOREN COLLINS,8,0,0,0,8,0,0
+DeKalb,CHAMBLEE ,State Representative,80,R,LOREN COLLINS,3,0,1,0,2,0,0
+DeKalb,CROSS KEYS HIGH,State Representative,80,R,LOREN COLLINS,1,0,0,0,1,0,0
+DeKalb,HUNTLEY HILLS ELEM,State Representative,80,R,LOREN COLLINS,3,0,2,0,1,0,0
+DeKalb,KITTREDGE ELEM,State Representative,80,R,LOREN COLLINS,9,0,0,0,9,0,0
+DeKalb,MONTGOMERY ELEM,State Representative,80,R,LOREN COLLINS,8,0,0,0,8,0,0
+DeKalb,SILVER LAKE,State Representative,80,R,LOREN COLLINS,6,0,0,0,6,0,0
+DeKalb,WOODWARD ELEM,State Representative,80,R,LOREN COLLINS,1,0,0,0,1,0,0
+DeKalb,,State Representative,80,R,J. MAX DAVIS,1142,66,12,0,1064,0,0
+DeKalb,ASHFORD DUNWOODY RD,State Representative,80,R,J. MAX DAVIS,306,21,2,0,283,0,0
+DeKalb,ASHFORD PARKSIDE,State Representative,80,R,J. MAX DAVIS,161,9,0,0,152,0,0
+DeKalb,BRIARWOOD,State Representative,80,R,J. MAX DAVIS,37,1,2,0,34,0,0
+DeKalb,BROOKHAVEN,State Representative,80,R,J. MAX DAVIS,55,0,0,0,55,0,0
+DeKalb,CHAMBLEE ,State Representative,80,R,J. MAX DAVIS,6,0,0,0,6,0,0
+DeKalb,CROSS KEYS HIGH,State Representative,80,R,J. MAX DAVIS,33,2,1,0,30,0,0
+DeKalb,HUNTLEY HILLS ELEM,State Representative,80,R,J. MAX DAVIS,29,0,0,0,29,0,0
+DeKalb,KITTREDGE ELEM,State Representative,80,R,J. MAX DAVIS,155,13,2,0,140,0,0
+DeKalb,MONTGOMERY ELEM,State Representative,80,R,J. MAX DAVIS,192,11,1,0,180,0,0
+DeKalb,SILVER LAKE,State Representative,80,R,J. MAX DAVIS,128,5,1,0,122,0,0
+DeKalb,WOODWARD ELEM,State Representative,80,R,J. MAX DAVIS,40,4,3,0,33,0,0
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Fulton,,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",388,7,348,33,0
+Fulton,AP02B,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",1,0,1,0,0
+Fulton,AP03,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",0,0,0,0,0
+Fulton,RW01,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",55,2,46,7,0
+Fulton,RW02,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",26,0,22,4,0
+Fulton,RW03,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",59,2,52,5,0
+Fulton,RW05,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",12,0,10,2,0
+Fulton,RW07A,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",9,0,9,0,0
+Fulton,RW07B,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",4,0,4,0,0
+Fulton,RW08,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",22,0,19,3,0
+Fulton,RW10,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",33,0,33,0,0
+Fulton,RW11A,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",14,0,13,1,0
+Fulton,RW13,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",58,2,54,2,0
+Fulton,RW16,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",22,1,19,2,0
+Fulton,RW17,State Representative,48,D,"JAMES W. ""JIMMY"" JOHNSON",73,0,66,7,0
+Fulton,,State Representative,48,R,DAVE MCCLEARY,909,3,851,55,0
+Fulton,AP02B,State Representative,48,R,DAVE MCCLEARY,0,0,0,0,0
+Fulton,AP03,State Representative,48,R,DAVE MCCLEARY,4,0,4,0,0
+Fulton,RW01,State Representative,48,R,DAVE MCCLEARY,142,1,134,7,0
+Fulton,RW02,State Representative,48,R,DAVE MCCLEARY,134,0,124,10,0
+Fulton,RW03,State Representative,48,R,DAVE MCCLEARY,77,0,76,1,0
+Fulton,RW05,State Representative,48,R,DAVE MCCLEARY,11,1,10,0,0
+Fulton,RW07A,State Representative,48,R,DAVE MCCLEARY,2,0,2,0,0
+Fulton,RW07B,State Representative,48,R,DAVE MCCLEARY,2,0,2,0,0
+Fulton,RW08,State Representative,48,R,DAVE MCCLEARY,80,0,74,6,0
+Fulton,RW10,State Representative,48,R,DAVE MCCLEARY,159,1,143,15,0
+Fulton,RW11A,State Representative,48,R,DAVE MCCLEARY,47,0,42,5,0
+Fulton,RW13,State Representative,48,R,DAVE MCCLEARY,136,0,133,3,0
+Fulton,RW16,State Representative,48,R,DAVE MCCLEARY,47,0,45,2,0
+Fulton,RW17,State Representative,48,R,DAVE MCCLEARY,68,0,62,6,0
+Fulton,,State Representative,48,R,BETTY PRICE,1358,20,1253,83,2
+Fulton,AP02B,State Representative,48,R,BETTY PRICE,2,0,2,0,0
+Fulton,AP03,State Representative,48,R,BETTY PRICE,2,0,2,0,0
+Fulton,RW01,State Representative,48,R,BETTY PRICE,219,1,208,10,0
+Fulton,RW02,State Representative,48,R,BETTY PRICE,130,2,115,13,0
+Fulton,RW03,State Representative,48,R,BETTY PRICE,138,6,129,3,0
+Fulton,RW05,State Representative,48,R,BETTY PRICE,23,0,22,1,0
+Fulton,RW07A,State Representative,48,R,BETTY PRICE,4,0,4,0,0
+Fulton,RW07B,State Representative,48,R,BETTY PRICE,9,0,9,0,0
+Fulton,RW08,State Representative,48,R,BETTY PRICE,161,2,145,14,0
+Fulton,RW10,State Representative,48,R,BETTY PRICE,226,5,204,15,2
+Fulton,RW11A,State Representative,48,R,BETTY PRICE,87,0,82,5,0
+Fulton,RW13,State Representative,48,R,BETTY PRICE,181,0,172,9,0
+Fulton,RW16,State Representative,48,R,BETTY PRICE,86,2,76,8,0
+Fulton,RW17,State Representative,48,R,BETTY PRICE,90,2,83,5,0
+Fulton,,State Representative,80,D,TAYLOR J BENNETT,224,6,194,24,0
+Fulton,SS07C,State Representative,80,D,TAYLOR J BENNETT,3,0,1,2,0
+Fulton,SS08A,State Representative,80,D,TAYLOR J BENNETT,17,0,16,1,0
+Fulton,SS08D,State Representative,80,D,TAYLOR J BENNETT,33,1,25,7,0
+Fulton,SS11C,State Representative,80,D,TAYLOR J BENNETT,3,0,3,0,0
+Fulton,SS12,State Representative,80,D,TAYLOR J BENNETT,67,2,62,3,0
+Fulton,SS14,State Representative,80,D,TAYLOR J BENNETT,49,2,45,2,0
+Fulton,SS29A,State Representative,80,D,TAYLOR J BENNETT,52,1,42,9,0
+Fulton,SS29B,State Representative,80,D,TAYLOR J BENNETT,0,0,0,0,0
+Fulton,,State Representative,80,R,CATHERINE S. BERNARD,177,0,161,15,1
+Fulton,SS07C,State Representative,80,R,CATHERINE S. BERNARD,8,0,8,0,0
+Fulton,SS08A,State Representative,80,R,CATHERINE S. BERNARD,9,0,9,0,0
+Fulton,SS08D,State Representative,80,R,CATHERINE S. BERNARD,11,0,10,1,0
+Fulton,SS11C,State Representative,80,R,CATHERINE S. BERNARD,0,0,0,0,0
+Fulton,SS12,State Representative,80,R,CATHERINE S. BERNARD,54,0,52,2,0
+Fulton,SS14,State Representative,80,R,CATHERINE S. BERNARD,45,0,43,2,0
+Fulton,SS29A,State Representative,80,R,CATHERINE S. BERNARD,50,0,39,10,1
+Fulton,SS29B,State Representative,80,R,CATHERINE S. BERNARD,0,0,0,0,0
+Fulton,,State Representative,80,R,LOREN COLLINS,12,0,11,1,0
+Fulton,SS07C,State Representative,80,R,LOREN COLLINS,1,0,1,0,0
+Fulton,SS08A,State Representative,80,R,LOREN COLLINS,1,0,1,0,0
+Fulton,SS08D,State Representative,80,R,LOREN COLLINS,0,0,0,0,0
+Fulton,SS11C,State Representative,80,R,LOREN COLLINS,0,0,0,0,0
+Fulton,SS12,State Representative,80,R,LOREN COLLINS,6,0,6,0,0
+Fulton,SS14,State Representative,80,R,LOREN COLLINS,1,0,1,0,0
+Fulton,SS29A,State Representative,80,R,LOREN COLLINS,3,0,2,1,0
+Fulton,SS29B,State Representative,80,R,LOREN COLLINS,0,0,0,0,0
+Fulton,,State Representative,80,R,J. MAX DAVIS,117,0,108,9,0
+Fulton,SS07C,State Representative,80,R,J. MAX DAVIS,6,0,6,0,0
+Fulton,SS08A,State Representative,80,R,J. MAX DAVIS,5,0,5,0,0
+Fulton,SS08D,State Representative,80,R,J. MAX DAVIS,7,0,5,2,0
+Fulton,SS11C,State Representative,80,R,J. MAX DAVIS,0,0,0,0,0
+Fulton,SS12,State Representative,80,R,J. MAX DAVIS,41,0,39,2,0
+Fulton,SS14,State Representative,80,R,J. MAX DAVIS,39,0,38,1,0
+Fulton,SS29A,State Representative,80,R,J. MAX DAVIS,19,0,15,4,0
+Fulton,SS29B,State Representative,80,R,J. MAX DAVIS,0,0,0,0,0
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Houston,,State Representative,146,R,SHAW BLACKMON,1735,44,962,729,0
+Houston,BMS,State Representative,146,R,SHAW BLACKMON,279,13,156,110,0
+Houston,CGTC,State Representative,146,R,SHAW BLACKMON,217,1,112,104,0
+Houston,FMMS,State Representative,146,R,SHAW BLACKMON,283,6,184,93,0
+Houston,MCMS,State Representative,146,R,SHAW BLACKMON,255,6,164,85,0
+Houston,ROZR,State Representative,146,R,SHAW BLACKMON,364,12,142,210,0
+Houston,TWPK,State Representative,146,R,SHAW BLACKMON,207,5,141,61,0
+Houston,VHS,State Representative,146,R,SHAW BLACKMON,130,1,63,66,0
+Houston,,State Representative,146,R,KELLY BURKE,828,9,435,384,0
+Houston,BMS,State Representative,146,R,KELLY BURKE,70,0,40,30,0
+Houston,CGTC,State Representative,146,R,KELLY BURKE,120,2,54,64,0
+Houston,FMMS,State Representative,146,R,KELLY BURKE,144,0,99,45,0
+Houston,MCMS,State Representative,146,R,KELLY BURKE,147,1,89,57,0
+Houston,ROZR,State Representative,146,R,KELLY BURKE,219,2,81,136,0
+Houston,TWPK,State Representative,146,R,KELLY BURKE,65,1,47,17,0
+Houston,VHS,State Representative,146,R,KELLY BURKE,63,3,25,35,0
+Houston,,State Representative,146,R,LARRY WALKER,1397,52,529,816,0
+Houston,BMS,State Representative,146,R,LARRY WALKER,63,1,36,26,0
+Houston,CGTC,State Representative,146,R,LARRY WALKER,97,2,34,61,0
+Houston,FMMS,State Representative,146,R,LARRY WALKER,77,5,39,33,0
+Houston,MCMS,State Representative,146,R,LARRY WALKER,137,5,63,69,0
+Houston,ROZR,State Representative,146,R,LARRY WALKER,939,39,300,600,0
+Houston,TWPK,State Representative,146,R,LARRY WALKER,49,0,38,11,0
+Houston,VHS,State Representative,146,R,LARRY WALKER,35,0,19,16,0
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Irwin,,State Representative,155,R,SCOTT LOWELL DOWNING,167,3,90,74,0
+Irwin,Irwinville,State Representative,155,R,SCOTT LOWELL DOWNING,28,0,20,8,0
+Irwin,Minnie,State Representative,155,R,SCOTT LOWELL DOWNING,12,0,8,4,0
+Irwin,Roberts,State Representative,155,R,SCOTT LOWELL DOWNING,5,0,5,0,0
+Irwin,Ocilla,State Representative,155,R,SCOTT LOWELL DOWNING,86,1,34,51,0
+Irwin,Osierfield,State Representative,155,R,SCOTT LOWELL DOWNING,9,0,7,2,0
+Irwin,Mystic,State Representative,155,R,SCOTT LOWELL DOWNING,19,2,10,7,0
+Irwin,Fletcher,State Representative,155,R,SCOTT LOWELL DOWNING,4,0,4,0,0
+Irwin,Holt,State Representative,155,R,SCOTT LOWELL DOWNING,4,0,2,2,0
+Irwin,,State Representative,155,R,HORACE HUDGINS,545,4,346,194,1
+Irwin,Irwinville,State Representative,155,R,HORACE HUDGINS,35,0,32,3,0
+Irwin,Minnie,State Representative,155,R,HORACE HUDGINS,55,2,38,15,0
+Irwin,Roberts,State Representative,155,R,HORACE HUDGINS,27,0,20,7,0
+Irwin,Ocilla,State Representative,155,R,HORACE HUDGINS,329,1,190,137,1
+Irwin,Osierfield,State Representative,155,R,HORACE HUDGINS,18,0,12,6,0
+Irwin,Mystic,State Representative,155,R,HORACE HUDGINS,47,1,30,16,0
+Irwin,Fletcher,State Representative,155,R,HORACE HUDGINS,13,0,13,0,0
+Irwin,Holt,State Representative,155,R,HORACE HUDGINS,21,0,11,10,0
+Irwin,,State Representative,155,R,SHERRY MILEY,68,3,49,16,0
+Irwin,Irwinville,State Representative,155,R,SHERRY MILEY,4,0,4,0,0
+Irwin,Minnie,State Representative,155,R,SHERRY MILEY,2,0,2,0,0
+Irwin,Roberts,State Representative,155,R,SHERRY MILEY,2,0,2,0,0
+Irwin,Ocilla,State Representative,155,R,SHERRY MILEY,33,3,16,14,0
+Irwin,Osierfield,State Representative,155,R,SHERRY MILEY,2,0,2,0,0
+Irwin,Mystic,State Representative,155,R,SHERRY MILEY,10,0,8,2,0
+Irwin,Fletcher,State Representative,155,R,SHERRY MILEY,10,0,10,0,0
+Irwin,Holt,State Representative,155,R,SHERRY MILEY,5,0,5,0,0
+Irwin,,State Representative,155,R,CLAY PIRKLE,344,2,283,59,0
+Irwin,Irwinville,State Representative,155,R,CLAY PIRKLE,87,0,77,10,0
+Irwin,Minnie,State Representative,155,R,CLAY PIRKLE,25,0,21,4,0
+Irwin,Roberts,State Representative,155,R,CLAY PIRKLE,21,0,19,2,0
+Irwin,Ocilla,State Representative,155,R,CLAY PIRKLE,98,1,66,31,0
+Irwin,Osierfield,State Representative,155,R,CLAY PIRKLE,12,0,10,2,0
+Irwin,Mystic,State Representative,155,R,CLAY PIRKLE,38,0,35,3,0
+Irwin,Fletcher,State Representative,155,R,CLAY PIRKLE,49,1,46,2,0
+Irwin,Holt,State Representative,155,R,CLAY PIRKLE,14,0,9,5,0
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Forsyth,,State Representative,24,R,SHERI SMALLWOOD GILLIGAN,2858,56,1426,1371,5
+Forsyth,05 Coal Mountain,State Representative,24,R,SHERI SMALLWOOD GILLIGAN,108,6,75,26,1
+Forsyth,07 Cumming,State Representative,24,R,SHERI SMALLWOOD GILLIGAN,189,10,91,88,0
+Forsyth,10 Midway,State Representative,24,R,SHERI SMALLWOOD GILLIGAN,1026,11,445,569,1
+Forsyth,15 Heardsville,State Representative,24,R,SHERI SMALLWOOD GILLIGAN,394,6,261,127,0
+Forsyth,16 Otwell,State Representative,24,R,SHERI SMALLWOOD GILLIGAN,583,13,309,258,3
+Forsyth,29 Polo,State Representative,24,R,SHERI SMALLWOOD GILLIGAN,558,10,245,303,0
+Forsyth,,State Representative,24,R,DAVID M. VAN SANT,947,7,650,290,0
+Forsyth,05 Coal Mountain,State Representative,24,R,DAVID M. VAN SANT,49,0,34,15,0
+Forsyth,07 Cumming,State Representative,24,R,DAVID M. VAN SANT,53,4,31,18,0
+Forsyth,10 Midway,State Representative,24,R,DAVID M. VAN SANT,354,0,226,128,0
+Forsyth,15 Heardsville,State Representative,24,R,DAVID M. VAN SANT,178,0,149,29,0
+Forsyth,16 Otwell,State Representative,24,R,DAVID M. VAN SANT,180,3,128,49,0
+Forsyth,29 Polo,State Representative,24,R,DAVID M. VAN SANT,133,0,82,51,0
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Fulton,,State Representative,55,D,MARIE ROBINSON METZE,1421,27,1178,215,1
+Fulton,03H,State Representative,55,D,MARIE ROBINSON METZE,18,0,16,2,0
+Fulton,03M,State Representative,55,D,MARIE ROBINSON METZE,7,0,7,0,0
+Fulton,03S,State Representative,55,D,MARIE ROBINSON METZE,15,0,14,1,0
+Fulton,06L2,State Representative,55,D,MARIE ROBINSON METZE,15,0,13,2,0
+Fulton,06N,State Representative,55,D,MARIE ROBINSON METZE,37,0,29,8,0
+Fulton,07J,State Representative,55,D,MARIE ROBINSON METZE,32,2,25,5,0
+Fulton,08K,State Representative,55,D,MARIE ROBINSON METZE,7,0,6,1,0
+Fulton,08L,State Representative,55,D,MARIE ROBINSON METZE,56,0,37,19,0
+Fulton,08P,State Representative,55,D,MARIE ROBINSON METZE,9,0,6,3,0
+Fulton,09G2,State Representative,55,D,MARIE ROBINSON METZE,14,0,14,0,0
+Fulton,09H,State Representative,55,D,MARIE ROBINSON METZE,3,0,3,0,0
+Fulton,09I,State Representative,55,D,MARIE ROBINSON METZE,16,0,13,3,0
+Fulton,10B,State Representative,55,D,MARIE ROBINSON METZE,45,1,44,0,0
+Fulton,10H,State Representative,55,D,MARIE ROBINSON METZE,102,2,77,23,0
+Fulton,10L,State Representative,55,D,MARIE ROBINSON METZE,237,3,212,21,1
+Fulton,11B,State Representative,55,D,MARIE ROBINSON METZE,162,1,136,25,0
+Fulton,11C,State Representative,55,D,MARIE ROBINSON METZE,139,0,105,34,0
+Fulton,11E,State Representative,55,D,MARIE ROBINSON METZE,23,0,22,1,0
+Fulton,11M,State Representative,55,D,MARIE ROBINSON METZE,118,0,108,10,0
+Fulton,11N,State Representative,55,D,MARIE ROBINSON METZE,124,1,106,17,0
+Fulton,11P,State Representative,55,D,MARIE ROBINSON METZE,109,17,71,21,0
+Fulton,SC02,State Representative,55,D,MARIE ROBINSON METZE,80,0,71,9,0
+Fulton,SC30A,State Representative,55,D,MARIE ROBINSON METZE,12,0,8,4,0
+Fulton,SC30B,State Representative,55,D,MARIE ROBINSON METZE,41,0,35,6,0
+Fulton,,State Representative,55,D,SHELITHA RENEE ROBERTSON,1020,21,885,112,2
+Fulton,03H,State Representative,55,D,SHELITHA RENEE ROBERTSON,10,0,10,0,0
+Fulton,03M,State Representative,55,D,SHELITHA RENEE ROBERTSON,9,0,8,1,0
+Fulton,03S,State Representative,55,D,SHELITHA RENEE ROBERTSON,5,0,5,0,0
+Fulton,06L2,State Representative,55,D,SHELITHA RENEE ROBERTSON,9,2,6,1,0
+Fulton,06N,State Representative,55,D,SHELITHA RENEE ROBERTSON,10,0,9,1,0
+Fulton,07J,State Representative,55,D,SHELITHA RENEE ROBERTSON,8,0,8,0,0
+Fulton,08K,State Representative,55,D,SHELITHA RENEE ROBERTSON,5,0,4,1,0
+Fulton,08L,State Representative,55,D,SHELITHA RENEE ROBERTSON,17,0,11,6,0
+Fulton,08P,State Representative,55,D,SHELITHA RENEE ROBERTSON,6,0,6,0,0
+Fulton,09G2,State Representative,55,D,SHELITHA RENEE ROBERTSON,10,0,8,2,0
+Fulton,09H,State Representative,55,D,SHELITHA RENEE ROBERTSON,2,0,2,0,0
+Fulton,09I,State Representative,55,D,SHELITHA RENEE ROBERTSON,15,0,12,3,0
+Fulton,10B,State Representative,55,D,SHELITHA RENEE ROBERTSON,43,0,34,9,0
+Fulton,10H,State Representative,55,D,SHELITHA RENEE ROBERTSON,40,0,36,4,0
+Fulton,10L,State Representative,55,D,SHELITHA RENEE ROBERTSON,158,4,146,7,1
+Fulton,11B,State Representative,55,D,SHELITHA RENEE ROBERTSON,175,2,164,9,0
+Fulton,11C,State Representative,55,D,SHELITHA RENEE ROBERTSON,101,2,73,26,0
+Fulton,11E,State Representative,55,D,SHELITHA RENEE ROBERTSON,31,0,30,0,1
+Fulton,11M,State Representative,55,D,SHELITHA RENEE ROBERTSON,74,0,69,5,0
+Fulton,11N,State Representative,55,D,SHELITHA RENEE ROBERTSON,87,1,76,10,0
+Fulton,11P,State Representative,55,D,SHELITHA RENEE ROBERTSON,54,4,50,0,0
+Fulton,SC02,State Representative,55,D,SHELITHA RENEE ROBERTSON,95,5,78,12,0
+Fulton,SC30A,State Representative,55,D,SHELITHA RENEE ROBERTSON,11,0,7,4,0
+Fulton,SC30B,State Representative,55,D,SHELITHA RENEE ROBERTSON,45,1,33,11,0
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Tift,,State Representative,155,R,SCOTT LOWELL DOWNING,123,1,84,38,0
+Tift,Brighton,State Representative,155,R,SCOTT LOWELL DOWNING,46,1,38,7,0
+Tift,Chula,State Representative,155,R,SCOTT LOWELL DOWNING,28,0,23,5,0
+Tift,Ty Ty,State Representative,155,R,SCOTT LOWELL DOWNING,8,0,6,2,0
+Tift,Tifton Northwest,State Representative,155,R,SCOTT LOWELL DOWNING,38,0,17,21,0
+Tift,Tifton Lodge,State Representative,155,R,SCOTT LOWELL DOWNING,3,0,0,3,0
+Tift,,State Representative,155,R,HORACE HUDGINS,125,3,93,29,0
+Tift,Brighton,State Representative,155,R,HORACE HUDGINS,41,1,33,7,0
+Tift,Chula,State Representative,155,R,HORACE HUDGINS,30,0,22,8,0
+Tift,Ty Ty,State Representative,155,R,HORACE HUDGINS,17,0,15,2,0
+Tift,Tifton Northwest,State Representative,155,R,HORACE HUDGINS,37,2,23,12,0
+Tift,Tifton Lodge,State Representative,155,R,HORACE HUDGINS,0,0,0,0,0
+Tift,,State Representative,155,R,SHERRY MILEY,158,1,110,47,0
+Tift,Brighton,State Representative,155,R,SHERRY MILEY,76,1,53,22,0
+Tift,Chula,State Representative,155,R,SHERRY MILEY,28,0,20,8,0
+Tift,Ty Ty,State Representative,155,R,SHERRY MILEY,11,0,9,2,0
+Tift,Tifton Northwest,State Representative,155,R,SHERRY MILEY,39,0,25,14,0
+Tift,Tifton Lodge,State Representative,155,R,SHERRY MILEY,4,0,3,1,0
+Tift,,State Representative,155,R,CLAY PIRKLE,264,1,181,82,0
+Tift,Brighton,State Representative,155,R,CLAY PIRKLE,79,0,50,29,0
+Tift,Chula,State Representative,155,R,CLAY PIRKLE,88,0,72,16,0
+Tift,Ty Ty,State Representative,155,R,CLAY PIRKLE,28,0,24,4,0
+Tift,Tifton Northwest,State Representative,155,R,CLAY PIRKLE,69,1,35,33,0
+Tift,Tifton Lodge,State Representative,155,R,CLAY PIRKLE,0,0,0,0,0
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
+Turner,,State Representative,155,R,SCOTT LOWELL DOWNING,17,0,12,4,1
+Turner,Ashburn,State Representative,155,R,SCOTT LOWELL DOWNING,1,0,0,1,0
+Turner,Sycamore,State Representative,155,R,SCOTT LOWELL DOWNING,12,0,8,3,1
+Turner,Rebecca,State Representative,155,R,SCOTT LOWELL DOWNING,4,0,4,0,0
+Turner,,State Representative,155,R,HORACE HUDGINS,232,2,142,87,1
+Turner,Ashburn,State Representative,155,R,HORACE HUDGINS,115,2,66,47,0
+Turner,Sycamore,State Representative,155,R,HORACE HUDGINS,93,0,55,37,1
+Turner,Rebecca,State Representative,155,R,HORACE HUDGINS,24,0,21,3,0
+Turner,,State Representative,155,R,SHERRY MILEY,13,0,7,6,0
+Turner,Ashburn,State Representative,155,R,SHERRY MILEY,5,0,4,1,0
+Turner,Sycamore,State Representative,155,R,SHERRY MILEY,6,0,2,4,0
+Turner,Rebecca,State Representative,155,R,SHERRY MILEY,2,0,1,1,0
+Turner,,State Representative,155,R,CLAY PIRKLE,549,0,321,227,1
+Turner,Ashburn,State Representative,155,R,CLAY PIRKLE,205,0,108,97,0
+Turner,Sycamore,State Representative,155,R,CLAY PIRKLE,293,0,169,123,1
+Turner,Rebecca,State Representative,155,R,CLAY PIRKLE,51,0,44,7,0
