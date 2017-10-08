@@ -15,12 +15,12 @@ conn = psycopg2.connect(
 
 cur = conn.cursor()
 
-html = urlopen("http://sos.ga.gov/elections/election_results/2004_0720/senate.htm")
+html = urlopen("http://sos.ga.gov/elections/election_results/2006_0718/senate.htm")
 
 bs = BeautifulSoup(html.read(), "lxml")
 
 SQL = """
-INSERT INTO ga_primary_state_senate_20040720_fullnames
+INSERT INTO ga_primary_state_senate_20060718_fullnames
     (name, party, district_number, votes, percent)
     VALUES (%(name)s, %(party)s, %(district_number)s, %(votes)s, %(percent)s);
 """

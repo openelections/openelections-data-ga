@@ -1,6 +1,6 @@
-truncate table ga_primary_state_senate_20040720_fullnames;
+truncate table ga_primary_state_senate_20060718_fullnames;
 
-CREATE TABLE ga_primary_state_senate_20040720_fullnames
+CREATE TABLE ga_primary_state_senate_20060718_fullnames
   (
     name varchar(50),
     last_name varchar(50),
@@ -10,50 +10,60 @@ CREATE TABLE ga_primary_state_senate_20040720_fullnames
     percent varchar(50)
   );
 
+-- Run Python script here...
+-- 20060718_ga_primary_state_senate_fullnames.py
+
 select *
-from ga_primary_state_senate_20040720_fullnames
+from ga_primary_state_senate_20060718_fullnames
 order by district_number::int, party, last_name;
+
 
 -- Clean up some name issues and then split out the
 -- last name. Finally we fix a few last names that
 -- didn't parse out correctly...
-update ga_primary_state_senate_20040720_fullnames
+update ga_primary_state_senate_20060718_fullnames
   set name = replace(name, '  ', ' ');
 
-update ga_primary_state_senate_20040720_fullnames
+update ga_primary_state_senate_20060718_fullnames
   set last_name = split_part(name, ' ', 2);
 
 select name, last_name
-from ga_primary_state_senate_20040720_fullnames
+from ga_primary_state_senate_20060718_fullnames
 order by last_name;
 
-update ga_primary_state_senate_20040720_fullnames
+update ga_primary_state_senate_20060718_fullnames
   set last_name = 'POWELL'
 where rtrim(name) = 'J. B. POWELL';
 
-update ga_primary_state_senate_20040720_fullnames
+update ga_primary_state_senate_20060718_fullnames
   set last_name = 'SHAFER'
 where rtrim(name) = 'DAVID J. SHAFER';
 
-update ga_primary_state_senate_20040720_fullnames
-  set last_name = 'THOMAS'
-where rtrim(name) = 'DON R. THOMAS';
-
-update ga_primary_state_senate_20040720_fullnames
+update ga_primary_state_senate_20060718_fullnames
   set last_name = 'VON BREMEN'
 where rtrim(name) = 'MIKE VON BREMEN';
 
+update ga_primary_state_senate_20060718_fullnames
+  set last_name = 'DAVIS'
+where rtrim(name) = 'GRACE W. DAVIS';
+
+update ga_primary_state_senate_20060718_fullnames
+  set last_name = 'ADELMAN',
+      name = 'DAVE ADELMAN'
+where rtrim(name) = 'DAVE ADELAMN';
+
+
 -- Check that we have good clean data...
 select *
-from ga_primary_state_senate_20040720_fullnames
+from ga_primary_state_senate_20060718_fullnames
 order by district_number::int;
 
 ---------------------------------------------------------
 ---------------------------------------------------------
 
-truncate table ga_primary_state_senate_20040720_county_votes;
+truncate table ga_primary_state_senate_20060718_county_votes;
 
-CREATE TABLE ga_primary_state_senate_20040720_county_votes
+CREATE TABLE ga_primary_state_senate_20060718_county_votes
   (
     last_name varchar(50),
     party varchar(50),
@@ -64,46 +74,54 @@ CREATE TABLE ga_primary_state_senate_20040720_county_votes
     county_votes varchar(50)
 );
 
+-- Run Python script here...
+-- 20060718_ga_primary_state_senate_county_votes.py
+
 select *
-from ga_primary_state_senate_20040720_county_votes
+from ga_primary_state_senate_20060718_county_votes
 order by district_number::int desc;
 
 select district_number, count(*) as cnt
-from ga_primary_state_senate_20040720_county_votes
+from ga_primary_state_senate_20060718_county_votes
 group by district_number
 order by district_number::int;
 
 select max(district_number::int)
-from ga_primary_state_senate_20040720_county_votes;
+from ga_primary_state_senate_20060718_county_votes;
 
-update ga_primary_state_senate_20040720_county_votes
+update ga_primary_state_senate_20060718_county_votes
   set total_votes = replace(total_votes, ',', '');
 
-update ga_primary_state_senate_20040720_county_votes
+update ga_primary_state_senate_20060718_county_votes
   set county_votes = replace(county_votes, ',', '');
 
 select *
-from ga_primary_state_senate_20040720_county_votes
+from ga_primary_state_senate_20060718_county_votes
 where district_number = '12'
 order by last_name;
 
-update ga_primary_state_senate_20040720_county_votes
+update ga_primary_state_senate_20060718_county_votes
   set last_name = 'VON BREMEN'
 where last_name = 'VON_BREMEN'
   and district_number = '12';
 
+update ga_primary_state_senate_20060718_county_votes
+  set last_name = 'MUSSELWHITE'
+where last_name = 'MUSSELWHIT'
+  and district_number = '49';
+
 -- QC to make sure we are matching both sides...
 select *
-from ga_primary_state_senate_20040720_fullnames as a
-  left join ga_primary_state_senate_20040720_county_votes as b
+from ga_primary_state_senate_20060718_fullnames as a
+  left join ga_primary_state_senate_20060718_county_votes as b
     on a.last_name = b.last_name
       and a.district_number = b.district_number
       and a.party = b.party
 where b.last_name is null;
 
 select *
-from ga_primary_state_senate_20040720_county_votes as a
-  left join ga_primary_state_senate_20040720_fullnames as b
+from ga_primary_state_senate_20060718_county_votes as a
+  left join ga_primary_state_senate_20060718_fullnames as b
     on a.last_name = b.last_name
       and a.district_number = b.district_number
       and a.party = b.party
@@ -111,8 +129,8 @@ where b.last_name is null;
 
 -- QC make sure total votes match from each side...
 select *
-from ga_primary_state_senate_20040720_county_votes as a
-  left join ga_primary_state_senate_20040720_fullnames as b
+from ga_primary_state_senate_20060718_county_votes as a
+  left join ga_primary_state_senate_20060718_fullnames as b
     on a.last_name = b.last_name
       and a.district_number = b.district_number
       and a.party = b.party
@@ -120,14 +138,14 @@ from ga_primary_state_senate_20040720_county_votes as a
 where b.last_name is null;
 
 select distinct last_name, district_number
-from ga_primary_state_senate_20040720_county_votes;
+from ga_primary_state_senate_20060718_county_votes;
 
 -- Generate the final output .csv file...
 select b.county_name as country, 'State Senate' as office,
   a.district_number as district, a.party as party,
   a.name as candidate, b.county_votes as votes
-from ga_primary_state_senate_20040720_fullnames as a
-  inner join ga_primary_state_senate_20040720_county_votes as b
+from ga_primary_state_senate_20060718_fullnames as a
+  inner join ga_primary_state_senate_20060718_county_votes as b
     on a.last_name = b.last_name
       and a.district_number = b.district_number
       and a.party = b.party
