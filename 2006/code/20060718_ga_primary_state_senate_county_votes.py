@@ -26,7 +26,13 @@ def create_connection(database_name):
 
 
 def extract_data(input_url):
-    html = urlopen(input_url)
+
+    try:
+        html = urlopen(input_url)
+    except Exception as e:
+        print(e, input_url)
+        return
+
     bs = BeautifulSoup(html.read(), 'lxml')
 
     district_info = bs.findAll('h4')
@@ -84,7 +90,7 @@ def extract_data(input_url):
 
 
 SQL = """
-INSERT INTO ga_primary_state_senate_20040720_county_votes
+INSERT INTO ga_primary_state_senate_20060718_county_votes
     (last_name, party, total_votes,
         percent_votes, district_number,
         county_name, county_votes)
@@ -96,11 +102,12 @@ INSERT INTO ga_primary_state_senate_20040720_county_votes
 conn = create_connection('dev')
 cur = conn.cursor()
 
-base_url = "http://sos.ga.gov/elections/election_results/2004_0720/"
+base_url = "http://sos.ga.gov/elections/election_results/2006_0718/"
 
-url = "http://sos.ga.gov/elections/election_results/2004_0720/senatemenu.htm"
+url = "http://sos.ga.gov/elections/election_results/2006_0718/senatemenu.htm"
 
 html = urlopen(url)
+
 bs_links = BeautifulSoup(html.read(), 'lxml')
 
 links = bs_links.findAll('a')
