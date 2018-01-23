@@ -1,5 +1,3 @@
-truncate table ga_general_state_senate_20061107_fullnames;
-
 create table ga_general_state_senate_20061107_fullnames
   (
     name varchar(50),
@@ -11,10 +9,14 @@ create table ga_general_state_senate_20061107_fullnames
   );
 
 -- Run Python script here...
--- 20060718_ga_primary_state_senate_fullnames.py
+-- 20061107_ga_primary_state_senate_fullnames.py
+
+truncate table ga_general_state_senate_20061107_fullnames;
+
+
 
 select *
-from ga_general_state_senate_20061107_fullnames
+from ga_general_state_senate_20061107_fullnames;
 order by district_number::int, party, last_name;
 
 
