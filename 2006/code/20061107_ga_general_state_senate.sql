@@ -14,7 +14,7 @@ create table ga_general_state_senate_20061107_fullnames
 truncate table ga_general_state_senate_20061107_fullnames;
 
 select *
-from ga_general_state_senate_20061107_fullnames;
+from ga_general_state_senate_20061107_fullnames
 order by district_number::int, party, last_name;
 
 
@@ -32,25 +32,72 @@ from ga_general_state_senate_20061107_fullnames
 order by last_name;
 
 update ga_general_state_senate_20061107_fullnames
-  set last_name = 'POWELL'
-where rtrim(name) = 'J. B. POWELL';
+  set last_name = 'Powell'
+where rtrim(name) = 'J. B. Powell';
 
 update ga_general_state_senate_20061107_fullnames
-  set last_name = 'SHAFER'
-where rtrim(name) = 'DAVID J. SHAFER';
+  set last_name = 'Ramsey'
+where rtrim(name) = 'Ronald B. Ramsey, Sr.';
 
 update ga_general_state_senate_20061107_fullnames
-  set last_name = 'VON BREMEN'
-where rtrim(name) = 'MIKE VON BREMEN';
+  set last_name = 'Thomas'
+where rtrim(name) = 'Regina D. Thomas';
 
 update ga_general_state_senate_20061107_fullnames
-  set last_name = 'DAVIS'
-where rtrim(name) = 'GRACE W. DAVIS';
+  set last_name = 'Fort'
+where rtrim(name) = 'Vincent D. Fort';
 
 update ga_general_state_senate_20061107_fullnames
-  set last_name = 'ADELMAN',
-      name = 'DAVE ADELMAN'
-where rtrim(name) = 'DAVE ADELAMN';
+  set last_name = 'Gilbert'
+where rtrim(name) = 'Bruce E. Gilbert';
+
+update ga_general_state_senate_20061107_fullnames
+  set last_name = 'Wiles'
+where rtrim(name) = 'John J. Wiles';
+
+update ga_general_state_senate_20061107_fullnames
+  set last_name = 'DeLoach'
+where rtrim(name) = 'George L DeLoach';
+
+update ga_general_state_senate_20061107_fullnames
+  set last_name = 'Thomas'
+where rtrim(name) = 'Don R. Thomas';
+
+update ga_general_state_senate_20061107_fullnames
+  set last_name = 'Thomas'
+where rtrim(name) = 'Joe R. Thomas';
+
+update ga_general_state_senate_20061107_fullnames
+  set last_name = 'Meyer von Bremen'
+where rtrim(name) = 'Michael S. Meyer von Bremen';
+
+update ga_general_state_senate_20061107_fullnames
+  set last_name = 'Unterman'
+where rtrim(name) = 'Renee S. Unterman';
+
+update ga_general_state_senate_20061107_fullnames
+  set last_name = 'Hudgens'
+where rtrim(name) = 'Ralph T. Hudgens';
+
+update ga_general_state_senate_20061107_fullnames
+  set last_name = 'Grant'
+where rtrim(name) = 'Mark T. Grant';
+
+update ga_general_state_senate_20061107_fullnames
+  set last_name = 'Kidd'
+where rtrim(name) = 'Jane V. Kidd';
+
+update ga_general_state_senate_20061107_fullnames
+  set last_name = 'Smith'
+where rtrim(name) = 'Preston W. Smith';
+
+update ga_general_state_senate_20061107_fullnames
+  set last_name = 'Whitehead'
+where rtrim(name) = 'Jim Whitehead, Sr.';
+
+update ga_general_state_senate_20061107_fullnames
+  set last_name = 'Anderson'
+where rtrim(name) = 'Evelyn Thompson Anderson';
 
 
 -- Check that we have good clean data...
@@ -85,30 +132,6 @@ from ga_general_state_senate_20061107_county_votes
 group by district_number
 order by district_number::int;
 
-select max(district_number::int)
-from ga_general_state_senate_20061107_county_votes;
-
-update ga_general_state_senate_20061107_county_votes
-  set total_votes = replace(total_votes, ',', '');
-
-update ga_general_state_senate_20061107_county_votes
-  set county_votes = replace(county_votes, ',', '');
-
-select *
-from ga_general_state_senate_20061107_county_votes
-where district_number = '12'
-order by last_name;
-
-update ga_general_state_senate_20061107_county_votes
-  set last_name = 'VON BREMEN'
-where last_name = 'VON_BREMEN'
-  and district_number = '12';
-
-update ga_general_state_senate_20061107_county_votes
-  set last_name = 'MUSSELWHITE'
-where last_name = 'MUSSELWHIT'
-  and district_number = '49';
-
 -- QC to make sure we are matching both sides...
 select *
 from ga_general_state_senate_20061107_fullnames as a
@@ -141,8 +164,15 @@ from ga_general_state_senate_20061107_county_votes;
 
 -- Generate the final output .csv file...
 select b.county_name as country, 'State Senate' as office,
-  a.district_number as district, a.party as party,
+  a.district_number as district,
+  CASE
+    when a.party = 'R'
+      then 'Republican'
+    when a.party = 'D'
+      then 'Democrat'
+  end as party,
   a.name as candidate, b.county_votes as votes
+--into check_results
 from ga_general_state_senate_20061107_fullnames as a
   inner join ga_general_state_senate_20061107_county_votes as b
     on a.last_name = b.last_name
@@ -150,3 +180,8 @@ from ga_general_state_senate_20061107_fullnames as a
       and a.party = b.party
 order by a.district_number::int, a.party, b.county_name, a.name
 
+
+select candidate, party, district, sum(votes::int) as votes
+from check_results
+group by candidate, party, district
+order by district::int, candidate;
