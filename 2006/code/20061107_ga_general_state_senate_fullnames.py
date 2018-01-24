@@ -26,6 +26,7 @@ def create_connection(database_name):
 def extract_data(url):
     results = []
     record = {}
+    district_number = None
     r = requests.get(url)
     bs = BeautifulSoup(r.text, 'lxml')
     rows = tag_getter(bs, 'tr')
@@ -37,14 +38,16 @@ def extract_data(url):
             if content:
                 data.append(content)
         if len(data) == 1:
-            record['district_number'] = \
+            district_number = \
                 data[0].replace('State Senator, District', '').strip()
         elif len(data) == 4:
             record['name'] = data[0]
             record['party'] = data[1].replace('(', '').replace(')', '')
             record['votes'] = data[2].replace(',', '')
             record['percent'] = data[3]
-        results.append(record)
+            record['district_number'] = district_number
+            results.append(record)
+            record = {}
     return results
 
 
