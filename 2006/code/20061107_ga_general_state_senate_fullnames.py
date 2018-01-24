@@ -44,6 +44,8 @@ def extract_data(url):
             record['party'] = data[1].replace('(', '').replace(')', '')
             record['votes'] = data[2].replace(',', '')
             record['percent'] = data[3]
+            record = {}
+
         results.append(record)
     return results
 

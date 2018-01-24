@@ -13,8 +13,6 @@ create table ga_general_state_senate_20061107_fullnames
 
 truncate table ga_general_state_senate_20061107_fullnames;
 
-
-
 select *
 from ga_general_state_senate_20061107_fullnames;
 order by district_number::int, party, last_name;
