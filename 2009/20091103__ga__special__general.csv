@@ -1,61 +1,61 @@
-office,district,candidate,party,votes
-State Senate,1,BILLY HAIR,Republican,1903
-State Senate,1,BILLY HAIR,Republican,350
-State Senate,1,BILLY HAIR,Republican,118
-State Senate,1,BUDDY CARTER,Republican,1607
-State Senate,1,BUDDY CARTER,Republican,8570
-State Senate,1,BUDDY CARTER,Republican,727
-State Senate,35,AARON JOHNSON,Democrat,1186
-State Senate,35,AARON JOHNSON,Democrat,215
-State Senate,35,BENNY CRANE,Democrat,625
-State Senate,35,BENNY CRANE,Democrat,1500
-State Senate,35,CORY LYNCH,Democrat,145
-State Senate,35,CORY LYNCH,Democrat,386
-State Senate,35,DEMARCUS PETERS,Democrat,184
-State Senate,35,DEMARCUS PETERS,Democrat,99
-State Senate,35,DONZELLA JAMES,Democrat,443
-State Senate,35,DONZELLA JAMES,Democrat,3155
-State Senate,35,GEORGE SNEED JR.,Democrat,286
-State Senate,35,GEORGE SNEED JR.,Democrat,553
-State Senate,35,KEZMICHE ATTERBURY,Democrat,895
-State Senate,35,KEZMICHE ATTERBURY,Democrat,127
-State Senate,35,ROSIE JACKSON,Democrat,239
-State Senate,35,ROSIE JACKSON,Democrat,1063
-State Senate,35,TORREY JOHNSON,Democrat,2488
-State Senate,35,TORREY JOHNSON,Democrat,234
-State Representative,58,ASHA JACKSON,Democrat,593
-State Representative,58,ASHA JACKSON,Democrat,914
-State Representative,58,J LEWIS IV,Unknown,247
-State Representative,58,J LEWIS IV,Unknown,215
-State Representative,58,KEVIN JOHNSON,Democrat,704
-State Representative,58,KEVIN JOHNSON,Democrat,373
-State Representative,58,MICHAEL MCPHERSON,Democrat,342
-State Representative,58,MICHAEL MCPHERSON,Democrat,918
-State Representative,58,SIMONE BELL,Democrat,569
-State Representative,58,SIMONE BELL,Democrat,780
-State Representative,75,HENRY JAMES,Republican,412
-State Representative,75,RON DODSON,Democrat,620
-State Representative,129,EARL DAVIS,Republican,112
-State Representative,129,EARL DAVIS,Republican,453
-State Representative,129,EARL DAVIS,Republican,113
-State Representative,129,JERRY LUQUIRE,Republican,89
-State Representative,129,JERRY LUQUIRE,Republican,269
-State Representative,129,JERRY LUQUIRE,Republican,244
-State Representative,129,KIP SMITH,Republican,688
-State Representative,129,KIP SMITH,Republican,1223
-State Representative,129,KIP SMITH,Republican,303
-State Representative,129,STEVE EARLES,Republican,333
-State Representative,129,STEVE EARLES,Republican,555
-State Representative,129,STEVE EARLES,Republican,98
-State Representative,141,ANGELA GHEESLING-MCCOMMON,Republican,1265
-State Representative,141,ANGELA GHEESLING-MCCOMMON,Republican,6
-State Representative,141,CASEY TUCKER,Republican,485
-State Representative,141,CASEY TUCKER,Republican,39
-State Representative,141,DARRELL BLACK,Democrat,1273
-State Representative,141,DARRELL BLACK,Democrat,13
-State Representative,141,E CULVER (RUSTY) KIDD,Independent,8
-State Representative,141,E CULVER (RUSTY) KIDD,Independent,2425
-State Representative,159,ANN PURCELL,Republican,1689
-State Representative,159,ANN PURCELL,Republican,2810
-State Representative,159,JESSE TYLER,Republican,481
-State Representative,159,JESSE TYLER,Republican,700
+county,office,district,candidate,party,votes
+BRYAN,State Senate,1,BILLY HAIR,Republican,350
+BRYAN,State Senate,1,BUDDY CARTER,Republican,1607
+CHATHAM,State Senate,1,BILLY HAIR,Republican,1903
+CHATHAM,State Senate,1,BUDDY CARTER,Republican,8570
+LIBERTY,State Senate,1,BILLY HAIR,Republican,118
+LIBERTY,State Senate,1,BUDDY CARTER,Republican,727
+DOUGLAS,State Senate,35,AARON JOHNSON,Democrat,215
+DOUGLAS,State Senate,35,BENNY CRANE,Democrat,625
+DOUGLAS,State Senate,35,CORY LYNCH,Democrat,145
+DOUGLAS,State Senate,35,DEMARCUS PETERS,Democrat,99
+DOUGLAS,State Senate,35,DONZELLA JAMES,Democrat,443
+DOUGLAS,State Senate,35,GEORGE SNEED JR.,Democrat,286
+DOUGLAS,State Senate,35,KEZMICHE ATTERBURY,Democrat,127
+DOUGLAS,State Senate,35,ROSIE JACKSON,Democrat,239
+DOUGLAS,State Senate,35,TORREY JOHNSON,Democrat,234
+FULTON,State Senate,35,AARON JOHNSON,Democrat,1186
+FULTON,State Senate,35,BENNY CRANE,Democrat,1500
+FULTON,State Senate,35,CORY LYNCH,Democrat,386
+FULTON,State Senate,35,DEMARCUS PETERS,Democrat,184
+FULTON,State Senate,35,DONZELLA JAMES,Democrat,3155
+FULTON,State Senate,35,GEORGE SNEED JR.,Democrat,553
+FULTON,State Senate,35,KEZMICHE ATTERBURY,Democrat,895
+FULTON,State Senate,35,ROSIE JACKSON,Democrat,1063
+FULTON,State Senate,35,TORREY JOHNSON,Democrat,2488
+DEKALB,State Representative,58,ASHA JACKSON,Democrat,914
+DEKALB,State Representative,58,J LEWIS IV,Unknown,215
+DEKALB,State Representative,58,KEVIN JOHNSON,Democrat,704
+DEKALB,State Representative,58,MICHAEL MCPHERSON,Democrat,342
+DEKALB,State Representative,58,SIMONE BELL,Democrat,569
+FULTON,State Representative,58,ASHA JACKSON,Democrat,593
+FULTON,State Representative,58,J LEWIS IV,Unknown,247
+FULTON,State Representative,58,KEVIN JOHNSON,Democrat,373
+FULTON,State Representative,58,MICHAEL MCPHERSON,Democrat,918
+FULTON,State Representative,58,SIMONE BELL,Democrat,780
+CLAYTON,State Representative,75,HENRY JAMES,Republican,412
+CLAYTON,State Representative,75,RON DODSON,Democrat,620
+HARRIS,State Representative,129,EARL DAVIS,Republican,453
+HARRIS,State Representative,129,JERRY LUQUIRE,Republican,244
+HARRIS,State Representative,129,KIP SMITH,Republican,1223
+HARRIS,State Representative,129,STEVE EARLES,Republican,555
+MUSCOGEE,State Representative,129,EARL DAVIS,Republican,113
+MUSCOGEE,State Representative,129,JERRY LUQUIRE,Republican,269
+MUSCOGEE,State Representative,129,KIP SMITH,Republican,688
+MUSCOGEE,State Representative,129,STEVE EARLES,Republican,98
+TROUP,State Representative,129,EARL DAVIS,Republican,112
+TROUP,State Representative,129,JERRY LUQUIRE,Republican,89
+TROUP,State Representative,129,KIP SMITH,Republican,303
+TROUP,State Representative,129,STEVE EARLES,Republican,333
+BALDWIN,State Representative,141,ANGELA GHEESLING-MCCOMMON,Republican,1265
+BALDWIN,State Representative,141,CASEY TUCKER,Republican,485
+BALDWIN,State Representative,141,DARRELL BLACK,Democrat,1273
+BALDWIN,State Representative,141,E CULVER (RUSTY) KIDD,Independent,2425
+PUTNAM,State Representative,141,ANGELA GHEESLING-MCCOMMON,Republican,6
+PUTNAM,State Representative,141,CASEY TUCKER,Republican,39
+PUTNAM,State Representative,141,DARRELL BLACK,Democrat,13
+PUTNAM,State Representative,141,E CULVER (RUSTY) KIDD,Independent,8
+CHATHAM,State Representative,159,ANN PURCELL,Republican,2810
+CHATHAM,State Representative,159,JESSE TYLER,Republican,700
+EFFINGHAM,State Representative,159,ANN PURCELL,Republican,1689
+EFFINGHAM,State Representative,159,JESSE TYLER,Republican,481
