@@ -1,1 +1,61 @@
-county,office,district,party,candidate,votesDEKALB,State House,58,Democrat,SIMONE BELL,569DEKALB,State House,58,Democrat,ASHA JACKSON,914DEKALB,State House,58,Democrat,KEVIN JOHNSON,704DEKALB,State House,58,Unknown,J LEWIS IV,215DEKALB,State House,58,Democrat,MICHAEL MCPHERSON,342FULTON,State House,58,Democrat,SIMONE BELL,780FULTON,State House,58,Democrat,ASHA JACKSON,593FULTON,State House,58,Democrat,KEVIN JOHNSON,373FULTON,State House,58,Unknown,MICHAEL MCPHERSON,247FULTON,State House,58,Democrat,J LEWIS IV,918CLAYTON,State House,75,Democrat,RON DODSON,620CLAYTON,State House,75,Republican,HENRY JAMES,412HARRIS,State House,129,Republican,EARL DAVIS,453HARRIS,State House,129,Republican,STEVE EARLES,555HARRIS,State House,129,Republican,JERRY LUQUIRE,244HARRIS,State House,129,Republican,KIP SMITH,1223MUSCOGEE,State House,129,Republican,EARL DAVIS,113MUSCOGEE,State House,129,Republican,STEVE EARLES,98MUSCOGEE,State House,129,Republican,JERRY LUQUIRE,269MUSCOGEE,State House,129,Republican,KIP SMITH,688TROUP,State House,129,Republican,EARL DAVIS,112TROUP,State House,129,Republican,STEVE EARLES,333TROUP,State House,129,Republican,JERRY LUQUIRE,89TROUP,State House,129,Republican,KIP SMITH,303BALDWIN,State House,141,Democrat,DARRELL BLACK,1273BALDWIN,State House,141,Republican,ANGELA GHEESLING-MCCOMMON,1265BALDWIN,State House,141,Independent,RUSTY KIDD,2425BALDWIN,State House,141,Republican,CASEY TUCKER,485PUTNAM,State House,141,Democrat,DARRELL BLACK,13PUTNAM,State House,141,Republican,ANGELA GHEESLING-MCCOMMON,6PUTNAM,State House,141,Independent,RUSTY KIDD,8PUTNAM,State House,141,Republican,CASEY TUCKER,39CHATHAM,State House,159,Republican,ANN PURCELL,2810CHATHAM,State House,159,Republican,JESSE TYLER,700EFFINGHAM,State House,159,Republican,ANN PURCELL,1689EFFINGHAM,State House,159,Republican,JESSE TYLER,481BRYAN,State Senate,1,Republican,BUDDY CARTER,1607BRYAN,State Senate,1,Republican,BILLY HAIR,350CHATHAM,State Senate,1,Republican,BUDDY CARTER,8570CHATHAM,State Senate,1,Republican,BILLY HAIR,1903LIBERTY,State Senate,1,Republican,BUDDY CARTER,727LIBERTY,State Senate,1,Republican,BILLY HAIR,118DOUGLAS,State Senate,35,Democrat,KEZMICHE ATTERBURY,127DOUGLAS,State Senate,35,Democrat,BENNY CRANE,625DOUGLAS,State Senate,35,Democrat,ROSIE JACKSON,239DOUGLAS,State Senate,35,Democrat,DONZELLA JAMES,443DOUGLAS,State Senate,35,Democrat,AARON JOHNSON,215DOUGLAS,State Senate,35,Democrat,TORREY JOHNSON,234DOUGLAS,State Senate,35,Democrat,CORY LYNCH,145DOUGLAS,State Senate,35,Democrat,DEMARCUS PETERS,99DOUGLAS,State Senate,35,Democrat,GEORGE SNEED JR.,286FULTON,State Senate,35,Democrat,KEZMICHE ATTERBURY,895FULTON,State Senate,35,Democrat,BENNY CRANE,1500FULTON,State Senate,35,Democrat,ROSIE JACKSON,1063FULTON,State Senate,35,Democrat,DONZELLA JAMES,3155FULTON,State Senate,35,Democrat,AARON JOHNSON,1186FULTON,State Senate,35,Democrat,TORREY JOHNSON,2488FULTON,State Senate,35,Democrat,CORY LYNCH,386FULTON,State Senate,35,Democrat,DEMARCUS PETERS,184FULTON,State Senate,35,Democrat,GEORGE SNEED JR.,553
+office,district,candidate,party,votes
+State Senate,1,BILLY HAIR,Republican,1903
+State Senate,1,BILLY HAIR,Republican,350
+State Senate,1,BILLY HAIR,Republican,118
+State Senate,1,BUDDY CARTER,Republican,1607
+State Senate,1,BUDDY CARTER,Republican,8570
+State Senate,1,BUDDY CARTER,Republican,727
+State Senate,35,AARON JOHNSON,Democrat,1186
+State Senate,35,AARON JOHNSON,Democrat,215
+State Senate,35,BENNY CRANE,Democrat,625
+State Senate,35,BENNY CRANE,Democrat,1500
+State Senate,35,CORY LYNCH,Democrat,145
+State Senate,35,CORY LYNCH,Democrat,386
+State Senate,35,DEMARCUS PETERS,Democrat,184
+State Senate,35,DEMARCUS PETERS,Democrat,99
+State Senate,35,DONZELLA JAMES,Democrat,443
+State Senate,35,DONZELLA JAMES,Democrat,3155
+State Senate,35,GEORGE SNEED JR.,Democrat,286
+State Senate,35,GEORGE SNEED JR.,Democrat,553
+State Senate,35,KEZMICHE ATTERBURY,Democrat,895
+State Senate,35,KEZMICHE ATTERBURY,Democrat,127
+State Senate,35,ROSIE JACKSON,Democrat,239
+State Senate,35,ROSIE JACKSON,Democrat,1063
+State Senate,35,TORREY JOHNSON,Democrat,2488
+State Senate,35,TORREY JOHNSON,Democrat,234
+State Representative,58,ASHA JACKSON,Democrat,593
+State Representative,58,ASHA JACKSON,Democrat,914
+State Representative,58,J LEWIS IV,Unknown,247
+State Representative,58,J LEWIS IV,Unknown,215
+State Representative,58,KEVIN JOHNSON,Democrat,704
+State Representative,58,KEVIN JOHNSON,Democrat,373
+State Representative,58,MICHAEL MCPHERSON,Democrat,342
+State Representative,58,MICHAEL MCPHERSON,Democrat,918
+State Representative,58,SIMONE BELL,Democrat,569
+State Representative,58,SIMONE BELL,Democrat,780
+State Representative,75,HENRY JAMES,Republican,412
+State Representative,75,RON DODSON,Democrat,620
+State Representative,129,EARL DAVIS,Republican,112
+State Representative,129,EARL DAVIS,Republican,453
+State Representative,129,EARL DAVIS,Republican,113
+State Representative,129,JERRY LUQUIRE,Republican,89
+State Representative,129,JERRY LUQUIRE,Republican,269
+State Representative,129,JERRY LUQUIRE,Republican,244
+State Representative,129,KIP SMITH,Republican,688
+State Representative,129,KIP SMITH,Republican,1223
+State Representative,129,KIP SMITH,Republican,303
+State Representative,129,STEVE EARLES,Republican,333
+State Representative,129,STEVE EARLES,Republican,555
+State Representative,129,STEVE EARLES,Republican,98
+State Representative,141,ANGELA GHEESLING-MCCOMMON,Republican,1265
+State Representative,141,ANGELA GHEESLING-MCCOMMON,Republican,6
+State Representative,141,CASEY TUCKER,Republican,485
+State Representative,141,CASEY TUCKER,Republican,39
+State Representative,141,DARRELL BLACK,Democrat,1273
+State Representative,141,DARRELL BLACK,Democrat,13
+State Representative,141,E CULVER (RUSTY) KIDD,Independent,8
+State Representative,141,E CULVER (RUSTY) KIDD,Independent,2425
+State Representative,159,ANN PURCELL,Republican,1689
+State Representative,159,ANN PURCELL,Republican,2810
+State Representative,159,JESSE TYLER,Republican,481
+State Representative,159,JESSE TYLER,Republican,700
