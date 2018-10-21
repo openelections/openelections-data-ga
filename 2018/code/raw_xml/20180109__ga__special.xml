@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>1/16/2018 2:38:27 PM EST</Timestamp>
+    <ElectionName>January 9, 2018 - Special Election</ElectionName>
+    <ElectionDate>1/9/2018</ElectionDate>
+    <Region>GA</Region>
+    <ElectionVoterTurnout totalVoters="133018" ballotsCast="9297" voterTurnout="6.99">
+        <Counties>
+            <County name="Henry" totalVoters="95568" ballotsCast="7076" voterTurnout="7.40" precinctsParticipating="26" precinctsReported="26" precinctsReportingPercent="100.00" />
+            <County name="Newton" totalVoters="25039" ballotsCast="1331" voterTurnout="5.32" precinctsParticipating="10" precinctsReported="10" precinctsReportingPercent="100.00" />
+            <County name="Rockdale" totalVoters="12411" ballotsCast="890" voterTurnout="7.17" precinctsParticipating="4" precinctsReported="4" precinctsReportingPercent="100.00" />
+        </Counties>
+    </ElectionVoterTurnout>
+    <Contest key="41700" text="State Senator, District 17" isQuestion="false" countiesParticipating="3" countiesReported="3" precinctsParticipating="35" precinctsReported="35" precinctsReportingPercent="100.00">
+        <ParticipatingCounties>
+            <County name="Henry" precinctsParticipating="21" precinctsReported="21" precinctsReportingPercent="100.00" />
+            <County name="Newton" precinctsParticipating="10" precinctsReported="10" precinctsReportingPercent="100.00" />
+            <County name="Rockdale" precinctsParticipating="4" precinctsReported="4" precinctsReportingPercent="100.00" />
+        </ParticipatingCounties>
+        <Choice key="10" text="PHYLLIS HATCHER (DEM)" totalVotes="2774">
+            <VoteType name="Election Day" votes="2118">
+                <County name="Henry" votes="1472" />
+                <County name="Newton" votes="313" />
+                <County name="Rockdale" votes="333" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="103">
+                <County name="Henry" votes="101" />
+                <County name="Newton" votes="2" />
+                <County name="Rockdale" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="551">
+                <County name="Henry" votes="399" />
+                <County name="Newton" votes="87" />
+                <County name="Rockdale" votes="65" />
+            </VoteType>
+            <VoteType name="Provisional" votes="2">
+                <County name="Henry" votes="1" />
+                <County name="Newton" votes="0" />
+                <County name="Rockdale" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="NELVA LEE (REP)" totalVotes="97">
+            <VoteType name="Election Day" votes="72">
+                <County name="Henry" votes="60" />
+                <County name="Newton" votes="6" />
+                <County name="Rockdale" votes="6" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="0">
+                <County name="Henry" votes="0" />
+                <County name="Newton" votes="0" />
+                <County name="Rockdale" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="24">
+                <County name="Henry" votes="22" />
+                <County name="Newton" votes="1" />
+                <County name="Rockdale" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional" votes="1">
+                <County name="Henry" votes="0" />
+                <County name="Newton" votes="0" />
+                <County name="Rockdale" votes="1" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="BRIAN STRICKLAND (REP)" totalVotes="5003">
+            <VoteType name="Election Day" votes="3720">
+                <County name="Henry" votes="2627" />
+                <County name="Newton" votes="754" />
+                <County name="Rockdale" votes="339" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="40">
+                <County name="Henry" votes="29" />
+                <County name="Newton" votes="10" />
+                <County name="Rockdale" votes="1" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="1241">
+                <County name="Henry" votes="979" />
+                <County name="Newton" votes="131" />
+                <County name="Rockdale" votes="131" />
+            </VoteType>
+            <VoteType name="Provisional" votes="2">
+                <County name="Henry" votes="2" />
+                <County name="Newton" votes="0" />
+                <County name="Rockdale" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="ED TONEY (REP)" totalVotes="198">
+            <VoteType name="Election Day" votes="149">
+                <County name="Henry" votes="120" />
+                <County name="Newton" votes="24" />
+                <County name="Rockdale" votes="5" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="0">
+                <County name="Henry" votes="0" />
+                <County name="Newton" votes="0" />
+                <County name="Rockdale" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="49">
+                <County name="Henry" votes="40" />
+                <County name="Newton" votes="3" />
+                <County name="Rockdale" votes="6" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Henry" votes="0" />
+                <County name="Newton" votes="0" />
+                <County name="Rockdale" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+    <Contest key="61100" text="State Representative, District 111" isQuestion="false" countiesParticipating="1" countiesReported="1" precinctsParticipating="13" precinctsReported="13" precinctsReportingPercent="100.00">
+        <ParticipatingCounties>
+            <County name="Henry" precinctsParticipating="13" precinctsReported="13" precinctsReportingPercent="100.00" />
+        </ParticipatingCounties>
+        <Choice key="10" text="GEOFFREY CAUBLE (REP)" totalVotes="1864">
+            <VoteType name="Election Day" votes="1269">
+                <County name="Henry" votes="1269" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="23">
+                <County name="Henry" votes="23" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="572">
+                <County name="Henry" votes="572" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Henry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="TARJI LEONARD DUNN (DEM)" totalVotes="451">
+            <VoteType name="Election Day" votes="303">
+                <County name="Henry" votes="303" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="6">
+                <County name="Henry" votes="6" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="142">
+                <County name="Henry" votes="142" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Henry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="EL-MAHDI HOLLY (DEM)" totalVotes="1122">
+            <VoteType name="Election Day" votes="887">
+                <County name="Henry" votes="887" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="4">
+                <County name="Henry" votes="4" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="231">
+                <County name="Henry" votes="231" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Henry" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="LARRY K. MOREY (REP)" totalVotes="215">
+            <VoteType name="Election Day" votes="155">
+                <County name="Henry" votes="155" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="1">
+                <County name="Henry" votes="1" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="59">
+                <County name="Henry" votes="59" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <County name="Henry" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>
