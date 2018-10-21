@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>2/16/2018 2:19:26 PM EST</Timestamp>
+    <ElectionName>February 13, 2018 - Special Election</ElectionName>
+    <ElectionDate>2/13/2018</ElectionDate>
+    <Region>GA</Region>
+    <ElectionVoterTurnout totalVoters="33558" ballotsCast="3333" voterTurnout="9.93">
+        <Counties>
+            <County name="Brooks" totalVoters="9463" ballotsCast="1263" voterTurnout="13.35" precinctsParticipating="7" precinctsReported="7" precinctsReportingPercent="100.00" />
+            <County name="Lowndes" totalVoters="14539" ballotsCast="1392" voterTurnout="9.57" precinctsParticipating="5" precinctsReported="5" precinctsReportingPercent="100.00" />
+            <County name="Thomas" totalVoters="9556" ballotsCast="678" voterTurnout="7.10" precinctsParticipating="9" precinctsReported="9" precinctsReportingPercent="100.00" />
+        </Counties>
+    </ElectionVoterTurnout>
+    <Contest key="67500" text="State Representative, District 175" isQuestion="false" countiesParticipating="3" countiesReported="3" precinctsParticipating="21" precinctsReported="21" precinctsReportingPercent="100.00">
+        <ParticipatingCounties>
+            <County name="Brooks" precinctsParticipating="7" precinctsReported="7" precinctsReportingPercent="100.00" />
+            <County name="Lowndes" precinctsParticipating="5" precinctsReported="5" precinctsReportingPercent="100.00" />
+            <County name="Thomas" precinctsParticipating="9" precinctsReported="9" precinctsReportingPercent="100.00" />
+        </ParticipatingCounties>
+        <Choice key="10" text="TREVA GEAR (DEM)" totalVotes="784">
+            <VoteType name="Election Day" votes="477">
+                <County name="Brooks" votes="170" />
+                <County name="Lowndes" votes="168" />
+                <County name="Thomas" votes="139" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="24">
+                <County name="Brooks" votes="16" />
+                <County name="Lowndes" votes="4" />
+                <County name="Thomas" votes="4" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="277">
+                <County name="Brooks" votes="76" />
+                <County name="Lowndes" votes="125" />
+                <County name="Thomas" votes="76" />
+            </VoteType>
+            <VoteType name="Provisional" votes="6">
+                <County name="Brooks" votes="0" />
+                <County name="Lowndes" votes="6" />
+                <County name="Thomas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="JOHN LAHOOD (REP)" totalVotes="2355">
+            <VoteType name="Election Day" votes="1384">
+                <County name="Brooks" votes="585" />
+                <County name="Lowndes" votes="485" />
+                <County name="Thomas" votes="314" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="31">
+                <County name="Brooks" votes="21" />
+                <County name="Lowndes" votes="7" />
+                <County name="Thomas" votes="3" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="922">
+                <County name="Brooks" votes="293" />
+                <County name="Lowndes" votes="522" />
+                <County name="Thomas" votes="107" />
+            </VoteType>
+            <VoteType name="Provisional" votes="18">
+                <County name="Brooks" votes="2" />
+                <County name="Lowndes" votes="16" />
+                <County name="Thomas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="BRUCE PHELPS (REP)" totalVotes="75">
+            <VoteType name="Election Day" votes="41">
+                <County name="Brooks" votes="18" />
+                <County name="Lowndes" votes="13" />
+                <County name="Thomas" votes="10" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="0">
+                <County name="Brooks" votes="0" />
+                <County name="Lowndes" votes="0" />
+                <County name="Thomas" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="32">
+                <County name="Brooks" votes="9" />
+                <County name="Lowndes" votes="20" />
+                <County name="Thomas" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional" votes="2">
+                <County name="Brooks" votes="0" />
+                <County name="Lowndes" votes="2" />
+                <County name="Thomas" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="COY REAVES (REP)" totalVotes="117">
+            <VoteType name="Election Day" votes="87">
+                <County name="Brooks" votes="52" />
+                <County name="Lowndes" votes="16" />
+                <County name="Thomas" votes="19" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="0">
+                <County name="Brooks" votes="0" />
+                <County name="Lowndes" votes="0" />
+                <County name="Thomas" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="29">
+                <County name="Brooks" votes="19" />
+                <County name="Lowndes" votes="7" />
+                <County name="Thomas" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional" votes="1">
+                <County name="Brooks" votes="1" />
+                <County name="Lowndes" votes="0" />
+                <County name="Thomas" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>
