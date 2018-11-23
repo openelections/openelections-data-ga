@@ -1,12 +1,17 @@
 import clarify
 import requests
-import zipfile, StringIO
-import unicodecsv
+import zipfile
+import csv
+
+try:
+    from StringIO import StringIO
+except ImportError:
+    from io import StringIO, BytesIO
 
 def statewide_results(url):
     j = clarify.Jurisdiction(url=url, level="state")
-    r = requests.get(j.report_url('xml'), stream=True)
-    z = zipfile.ZipFile(StringIO.StringIO(r.content))
+    r = requests.get("http://results.enr.clarityelections.com/WV/74487/207685/reports/detailxml.zip", stream=True)
+    z = zipfile.ZipFile(BytesIO(r.content))
     z.extractall()
     p = clarify.Parser()
     p.parse("detail.xml")
@@ -14,7 +19,7 @@ def statewide_results(url):
     for result in p.results:
         candidate = result.choice.text
         office, district = parse_office(result.contest.text)
-        party = parse_party(result.contest.text)
+        party = result.contest.party
         if '(' in candidate and party is None:
             if '(I)' in candidate:
                 if '(I)(I)' in candidate:
@@ -24,7 +29,7 @@ def statewide_results(url):
                     candidate, party = candidate.split('(I)')
                 candidate = candidate.strip() + ' (I)'
             else:
-                print candidate
+                print(candidate)
                 candidate, party = candidate.split('(', 1)
                 candidate = candidate.strip()
             party = party.replace(')','').strip()
@@ -38,12 +43,12 @@ def statewide_results(url):
         else:
             results.append({ 'county': county, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
-    with open("20161108__ga__general.csv", "wb") as csvfile:
-        w = unicodecsv.writer(csvfile, encoding='utf-8')
-        w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes', 'election_day', 'absentee', 'early_voting', 'provisional'])
+    with open("20181106__sc__general.csv", "wt") as csvfile:
+        w = csv.writer(csvfile)
+        w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
         for row in results:
-            total_votes = row['Election Day'] + row['Absentee by Mail'] + row['Advance in Person'] + row['Provisional']
-            w.writerow([row['county'], row['office'], row['district'], row['party'], row['candidate'], total_votes, row['Election Day'], row['Absentee by Mail'], row['Advance in Person'], row['Provisional']])
+            total_votes = row['Election Day']# + row['Absentee by Mail'] + row['Advance in Person'] + row['Provisional']
+            w.writerow([row['county'], row['office'], row['district'], row['party'], row['candidate'], total_votes])
 
 def download_county_files(url, filename):
     no_xml = []
@@ -52,13 +57,13 @@ def download_county_files(url, filename):
     for sub in subs:
         try:
             r = requests.get(sub.report_url('xml'), stream=True)
-            z = zipfile.ZipFile(StringIO.StringIO(r.content))
+            z = zipfile.ZipFile(BytesIO(r.content))
             z.extractall()
             precinct_results(sub.name.replace(' ','_').lower(),filename)
         except:
             no_xml.append(sub.name)
 
-    print no_xml
+    print(no_xml)
 
 def precinct_results(county_name, filename):
     f = filename + '__' + county_name + '__precinct.csv'
@@ -68,9 +73,11 @@ def precinct_results(county_name, filename):
     vote_types = []
     for result in [x for x in p.results if not 'Number of Precincts' in x.vote_type]:
         vote_types.append(result.vote_type)
+        if result.choice is None:
+            continue
         candidate = result.choice.text
         office, district = parse_office(result.contest.text)
-        party = parse_party(result.contest.text)
+        party = result.choice.party
         if '(' in candidate and party is None:
             if '(I)' in candidate:
                 if '(I)(I)' in candidate:
@@ -87,6 +94,8 @@ def precinct_results(county_name, filename):
             precinct = result.jurisdiction.name
         else:
             precinct = None
+        if precinct == None:
+            continue
         r = [x for x in results if x['county'] == county and x['precinct'] == precinct and x['office'] == office and x['district'] == district and x['party'] == party and x['candidate'] == candidate]
         if r:
              r[0][result.vote_type] = result.votes
@@ -94,17 +103,21 @@ def precinct_results(county_name, filename):
             results.append({ 'county': county, 'precinct': precinct, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
     vote_types = list(set(vote_types))
-    with open(f, "wb") as csvfile:
-        w = unicodecsv.writer(csvfile, encoding='utf-8')
-        headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] + [x.replace(' ','_').lower() for x in vote_types]
+    if 'overVotes' in vote_types:
+        vote_types.remove('overVotes')
+    if 'underVotes' in vote_types:
+        vote_types.remove('underVotes')
+    with open(f, "wt") as csvfile:
+        w = csv.writer(csvfile)
+        headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] #+ [x.replace(' ','_').lower() for x in vote_types]
         w.writerow(headers)
         for row in results:
             if 'Republican' in row['office']:
                 row['party'] = 'REP'
             elif 'Democrat' in row['office']:
                 row['party'] = 'DEM'
-            total_votes = sum([row[k] for k in vote_types])
-            w.writerow([row['county'], row['precinct'], row['office'], row['district'], row['party'], row['candidate'], total_votes] + [row[k] for k in vote_types])
+            total_votes = sum([row[k] for k in vote_types if row[k]])
+            w.writerow([row['county'], row['precinct'], row['office'], row['district'], row['party'], row['candidate'], total_votes])# + [row[k] for k in vote_types])
 
 
 def parse_office(office_text):
