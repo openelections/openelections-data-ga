@@ -1,0 +1,286 @@
+county,precinct,office,district,party,candidate,votes
+Coffee,Douglas,Governor,,REP,BRIAN KEMP,5475
+Coffee,Ambrose,Governor,,REP,BRIAN KEMP,971
+Coffee,Bridgetown,Governor,,REP,BRIAN KEMP,155
+Coffee,Broxton,Governor,,REP,BRIAN KEMP,1046
+Coffee,Nicholls,Governor,,REP,BRIAN KEMP,759
+Coffee,West Green,Governor,,REP,BRIAN KEMP,523
+Coffee,Douglas,Governor,,DEM,STACEY ABRAMS,2828
+Coffee,Ambrose,Governor,,DEM,STACEY ABRAMS,208
+Coffee,Bridgetown,Governor,,DEM,STACEY ABRAMS,52
+Coffee,Broxton,Governor,,DEM,STACEY ABRAMS,321
+Coffee,Nicholls,Governor,,DEM,STACEY ABRAMS,199
+Coffee,West Green,Governor,,DEM,STACEY ABRAMS,22
+Coffee,Douglas,Governor,,LIB,TED METZ,37
+Coffee,Ambrose,Governor,,LIB,TED METZ,6
+Coffee,Bridgetown,Governor,,LIB,TED METZ,0
+Coffee,Broxton,Governor,,LIB,TED METZ,4
+Coffee,Nicholls,Governor,,LIB,TED METZ,4
+Coffee,West Green,Governor,,LIB,TED METZ,5
+Coffee,Douglas,Lieutenant Governor,,REP,GEOFF DUNCAN,5201
+Coffee,Ambrose,Lieutenant Governor,,REP,GEOFF DUNCAN,919
+Coffee,Bridgetown,Lieutenant Governor,,REP,GEOFF DUNCAN,141
+Coffee,Broxton,Lieutenant Governor,,REP,GEOFF DUNCAN,983
+Coffee,Nicholls,Lieutenant Governor,,REP,GEOFF DUNCAN,707
+Coffee,West Green,Lieutenant Governor,,REP,GEOFF DUNCAN,490
+Coffee,Douglas,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2528
+Coffee,Ambrose,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,188
+Coffee,Bridgetown,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,44
+Coffee,Broxton,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,289
+Coffee,Nicholls,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,170
+Coffee,West Green,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,24
+Coffee,Douglas,Secretary Of State,,REP,BRAD RAFFENSPERGER,5146
+Coffee,Ambrose,Secretary Of State,,REP,BRAD RAFFENSPERGER,918
+Coffee,Bridgetown,Secretary Of State,,REP,BRAD RAFFENSPERGER,133
+Coffee,Broxton,Secretary Of State,,REP,BRAD RAFFENSPERGER,971
+Coffee,Nicholls,Secretary Of State,,REP,BRAD RAFFENSPERGER,709
+Coffee,West Green,Secretary Of State,,REP,BRAD RAFFENSPERGER,493
+Coffee,Douglas,Secretary Of State,,DEM,JOHN BARROW,2964
+Coffee,Ambrose,Secretary Of State,,DEM,JOHN BARROW,228
+Coffee,Bridgetown,Secretary Of State,,DEM,JOHN BARROW,68
+Coffee,Broxton,Secretary Of State,,DEM,JOHN BARROW,354
+Coffee,Nicholls,Secretary Of State,,DEM,JOHN BARROW,213
+Coffee,West Green,Secretary Of State,,DEM,JOHN BARROW,46
+Coffee,Douglas,Secretary Of State,,LIB,SMYTHE DUVAL,66
+Coffee,Ambrose,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Coffee,Bridgetown,Secretary Of State,,LIB,SMYTHE DUVAL,0
+Coffee,Broxton,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Coffee,Nicholls,Secretary Of State,,LIB,SMYTHE DUVAL,7
+Coffee,West Green,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Coffee,Douglas,Attorney General,,(REP,CHRIS CARR ,5339
+Coffee,Ambrose,Attorney General,,(REP,CHRIS CARR ,938
+Coffee,Bridgetown,Attorney General,,(REP,CHRIS CARR ,140
+Coffee,Broxton,Attorney General,,(REP,CHRIS CARR ,1016
+Coffee,Nicholls,Attorney General,,(REP,CHRIS CARR ,724
+Coffee,West Green,Attorney General,,(REP,CHRIS CARR ,502
+Coffee,Douglas,Attorney General,,DEM,CHARLIE BAILEY,2718
+Coffee,Ambrose,Attorney General,,DEM,CHARLIE BAILEY,208
+Coffee,Bridgetown,Attorney General,,DEM,CHARLIE BAILEY,59
+Coffee,Broxton,Attorney General,,DEM,CHARLIE BAILEY,310
+Coffee,Nicholls,Attorney General,,DEM,CHARLIE BAILEY,194
+Coffee,West Green,Attorney General,,DEM,CHARLIE BAILEY,32
+Coffee,Douglas,Commissioner Of Agriculture,,(REP,GARY BLACK ,5415
+Coffee,Ambrose,Commissioner Of Agriculture,,(REP,GARY BLACK ,952
+Coffee,Bridgetown,Commissioner Of Agriculture,,(REP,GARY BLACK ,152
+Coffee,Broxton,Commissioner Of Agriculture,,(REP,GARY BLACK ,1034
+Coffee,Nicholls,Commissioner Of Agriculture,,(REP,GARY BLACK ,731
+Coffee,West Green,Commissioner Of Agriculture,,(REP,GARY BLACK ,508
+Coffee,Douglas,Commissioner Of Agriculture,,DEM,FRED SWANN,2648
+Coffee,Ambrose,Commissioner Of Agriculture,,DEM,FRED SWANN,197
+Coffee,Bridgetown,Commissioner Of Agriculture,,DEM,FRED SWANN,51
+Coffee,Broxton,Commissioner Of Agriculture,,DEM,FRED SWANN,300
+Coffee,Nicholls,Commissioner Of Agriculture,,DEM,FRED SWANN,192
+Coffee,West Green,Commissioner Of Agriculture,,DEM,FRED SWANN,27
+Coffee,Douglas,Commissioner Of Insurance,,REP,JIM BECK,5298
+Coffee,Ambrose,Commissioner Of Insurance,,REP,JIM BECK,937
+Coffee,Bridgetown,Commissioner Of Insurance,,REP,JIM BECK,142
+Coffee,Broxton,Commissioner Of Insurance,,REP,JIM BECK,1012
+Coffee,Nicholls,Commissioner Of Insurance,,REP,JIM BECK,724
+Coffee,West Green,Commissioner Of Insurance,,REP,JIM BECK,505
+Coffee,Douglas,Commissioner Of Insurance,,DEM,JANICE LAWS,2684
+Coffee,Ambrose,Commissioner Of Insurance,,DEM,JANICE LAWS,196
+Coffee,Bridgetown,Commissioner Of Insurance,,DEM,JANICE LAWS,56
+Coffee,Broxton,Commissioner Of Insurance,,DEM,JANICE LAWS,301
+Coffee,Nicholls,Commissioner Of Insurance,,DEM,JANICE LAWS,185
+Coffee,West Green,Commissioner Of Insurance,,DEM,JANICE LAWS,30
+Coffee,Douglas,Commissioner Of Insurance,,LIB,DONNIE FOSTER,105
+Coffee,Ambrose,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
+Coffee,Bridgetown,Commissioner Of Insurance,,LIB,DONNIE FOSTER,2
+Coffee,Broxton,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
+Coffee,Nicholls,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
+Coffee,West Green,Commissioner Of Insurance,,LIB,DONNIE FOSTER,4
+Coffee,Douglas,State School Superintendent,,(REP,RICHARD WOODS ,5486
+Coffee,Ambrose,State School Superintendent,,(REP,RICHARD WOODS ,949
+Coffee,Bridgetown,State School Superintendent,,(REP,RICHARD WOODS ,148
+Coffee,Broxton,State School Superintendent,,(REP,RICHARD WOODS ,1032
+Coffee,Nicholls,State School Superintendent,,(REP,RICHARD WOODS ,736
+Coffee,West Green,State School Superintendent,,(REP,RICHARD WOODS ,513
+Coffee,Douglas,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2660
+Coffee,Ambrose,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",197
+Coffee,Bridgetown,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",53
+Coffee,Broxton,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",301
+Coffee,Nicholls,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",193
+Coffee,West Green,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",29
+Coffee,Douglas,Commissioner Of Labor,,(REP,MARK BUTLER ,5424
+Coffee,Ambrose,Commissioner Of Labor,,(REP,MARK BUTLER ,947
+Coffee,Bridgetown,Commissioner Of Labor,,(REP,MARK BUTLER ,145
+Coffee,Broxton,Commissioner Of Labor,,(REP,MARK BUTLER ,1023
+Coffee,Nicholls,Commissioner Of Labor,,(REP,MARK BUTLER ,730
+Coffee,West Green,Commissioner Of Labor,,(REP,MARK BUTLER ,510
+Coffee,Douglas,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2666
+Coffee,Ambrose,Commissioner Of Labor,,DEM,RICHARD KEATLEY,198
+Coffee,Bridgetown,Commissioner Of Labor,,DEM,RICHARD KEATLEY,56
+Coffee,Broxton,Commissioner Of Labor,,DEM,RICHARD KEATLEY,300
+Coffee,Nicholls,Commissioner Of Labor,,DEM,RICHARD KEATLEY,194
+Coffee,West Green,Commissioner Of Labor,,DEM,RICHARD KEATLEY,29
+Coffee,Douglas,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,5294
+Coffee,Ambrose,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,927
+Coffee,Bridgetown,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,144
+Coffee,Broxton,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1002
+Coffee,Nicholls,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,721
+Coffee,West Green,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,498
+Coffee,Douglas,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2705
+Coffee,Ambrose,"Public Service Commission, District 3",3,DEM,LINDY MILLER,204
+Coffee,Bridgetown,"Public Service Commission, District 3",3,DEM,LINDY MILLER,52
+Coffee,Broxton,"Public Service Commission, District 3",3,DEM,LINDY MILLER,308
+Coffee,Nicholls,"Public Service Commission, District 3",3,DEM,LINDY MILLER,187
+Coffee,West Green,"Public Service Commission, District 3",3,DEM,LINDY MILLER,28
+Coffee,Douglas,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,128
+Coffee,Ambrose,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Coffee,Bridgetown,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Coffee,Broxton,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,17
+Coffee,Nicholls,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Coffee,West Green,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,13
+Coffee,Douglas,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,5308
+Coffee,Ambrose,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,929
+Coffee,Bridgetown,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,141
+Coffee,Broxton,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1000
+Coffee,Nicholls,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,725
+Coffee,West Green,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,496
+Coffee,Douglas,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2687
+Coffee,Ambrose,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,200
+Coffee,Bridgetown,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,55
+Coffee,Broxton,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,309
+Coffee,Nicholls,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,184
+Coffee,West Green,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,30
+Coffee,Douglas,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,112
+Coffee,Ambrose,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,15
+Coffee,Bridgetown,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,4
+Coffee,Broxton,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14
+Coffee,Nicholls,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Coffee,West Green,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,9
+Coffee,Douglas,U.S. Representative,12,(REP,RICK W. ALLEN ,5449
+Coffee,Ambrose,U.S. Representative,12,(REP,RICK W. ALLEN ,954
+Coffee,Bridgetown,U.S. Representative,12,(REP,RICK W. ALLEN ,146
+Coffee,Broxton,U.S. Representative,12,(REP,RICK W. ALLEN ,1034
+Coffee,Nicholls,U.S. Representative,12,(REP,RICK W. ALLEN ,747
+Coffee,West Green,U.S. Representative,12,(REP,RICK W. ALLEN ,511
+Coffee,Douglas,U.S. Representative,12,DEM,FRANCYS JOHNSON,2704
+Coffee,Ambrose,U.S. Representative,12,DEM,FRANCYS JOHNSON,195
+Coffee,Bridgetown,U.S. Representative,12,DEM,FRANCYS JOHNSON,53
+Coffee,Broxton,U.S. Representative,12,DEM,FRANCYS JOHNSON,304
+Coffee,Nicholls,U.S. Representative,12,DEM,FRANCYS JOHNSON,186
+Coffee,West Green,U.S. Representative,12,DEM,FRANCYS JOHNSON,27
+Coffee,Douglas,State Senator,7,(REP,TYLER HARPER ,6292
+Coffee,Ambrose,State Senator,7,(REP,TYLER HARPER ,1023
+Coffee,Bridgetown,State Senator,7,(REP,TYLER HARPER ,162
+Coffee,Broxton,State Senator,7,(REP,TYLER HARPER ,1136
+Coffee,Nicholls,State Senator,7,(REP,TYLER HARPER ,787
+Coffee,West Green,State Senator,7,(REP,TYLER HARPER ,511
+Coffee,Ambrose,State Representative,155,(REP,CLAY PIRKLE ,985
+Coffee,Broxton,State Representative,155,(REP,CLAY PIRKLE ,675
+Coffee,Douglas,State Representative,169,(REP,DOMINIC LARICCIA ,6179
+Coffee,Bridgetown,State Representative,169,(REP,DOMINIC LARICCIA ,158
+Coffee,Broxton,State Representative,169,(REP,DOMINIC LARICCIA ,437
+Coffee,Nicholls,State Representative,169,(REP,DOMINIC LARICCIA ,779
+Coffee,West Green,State Representative,169,(REP,DOMINIC LARICCIA ,506
+Coffee,Douglas,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,6235
+Coffee,Ambrose,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,998
+Coffee,Bridgetown,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,160
+Coffee,Broxton,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,1106
+Coffee,Nicholls,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,774
+Coffee,West Green,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,512
+Coffee,Douglas,SOLICITOR GENERAL,,R,K. PAULK ,6239
+Coffee,Ambrose,SOLICITOR GENERAL,,R,K. PAULK ,1001
+Coffee,Bridgetown,SOLICITOR GENERAL,,R,K. PAULK ,162
+Coffee,Broxton,SOLICITOR GENERAL,,R,K. PAULK ,1116
+Coffee,Nicholls,SOLICITOR GENERAL,,R,K. PAULK ,774
+Coffee,West Green,SOLICITOR GENERAL,,R,K. PAULK ,502
+Coffee,Douglas,CC, D1,D,O. PAULK ,1536
+Coffee,Douglas,CC, D3,R,AJ DOVERS,2319
+Coffee,Douglas,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,6236
+Coffee,Ambrose,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,810
+Coffee,Bridgetown,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,140
+Coffee,Broxton,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,970
+Coffee,Nicholls,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,689
+Coffee,West Green,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,387
+Coffee,Douglas,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1629
+Coffee,Ambrose,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,290
+Coffee,Bridgetown,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,60
+Coffee,Broxton,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,320
+Coffee,Nicholls,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,211
+Coffee,West Green,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,131
+Coffee,Douglas,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,5311
+Coffee,Ambrose,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,691
+Coffee,Bridgetown,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,124
+Coffee,Broxton,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,801
+Coffee,Nicholls,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,562
+Coffee,West Green,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,319
+Coffee,Douglas,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,2322
+Coffee,Ambrose,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,363
+Coffee,Bridgetown,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,61
+Coffee,Broxton,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,442
+Coffee,Nicholls,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,300
+Coffee,West Green,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,187
+Coffee,Douglas,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,4578
+Coffee,Ambrose,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,621
+Coffee,Bridgetown,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,116
+Coffee,Broxton,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,700
+Coffee,Nicholls,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,494
+Coffee,West Green,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,304
+Coffee,Douglas,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2902
+Coffee,Ambrose,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,423
+Coffee,Bridgetown,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,74
+Coffee,Broxton,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,523
+Coffee,Nicholls,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,348
+Coffee,West Green,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,200
+Coffee,Douglas,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,5850
+Coffee,Ambrose,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,785
+Coffee,Bridgetown,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,144
+Coffee,Broxton,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,940
+Coffee,Nicholls,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,642
+Coffee,West Green,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,361
+Coffee,Douglas,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1920
+Coffee,Ambrose,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,293
+Coffee,Bridgetown,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,51
+Coffee,Broxton,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,328
+Coffee,Nicholls,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,227
+Coffee,West Green,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,155
+Coffee,Douglas,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,5340
+Coffee,Ambrose,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,710
+Coffee,Bridgetown,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,136
+Coffee,Broxton,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,816
+Coffee,Nicholls,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,590
+Coffee,West Green,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,330
+Coffee,Douglas,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,2275
+Coffee,Ambrose,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,350
+Coffee,Bridgetown,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,56
+Coffee,Broxton,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,433
+Coffee,Nicholls,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,274
+Coffee,West Green,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,172
+Coffee,Douglas,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,4145
+Coffee,Ambrose,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,538
+Coffee,Bridgetown,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,110
+Coffee,Broxton,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,632
+Coffee,Nicholls,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,467
+Coffee,West Green,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,244
+Coffee,Douglas,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,3267
+Coffee,Ambrose,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,509
+Coffee,Bridgetown,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,77
+Coffee,Broxton,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,583
+Coffee,Nicholls,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,364
+Coffee,West Green,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,251
+Coffee,Douglas,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,5698
+Coffee,Ambrose,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,771
+Coffee,Bridgetown,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,146
+Coffee,Broxton,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,868
+Coffee,Nicholls,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,636
+Coffee,West Green,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,345
+Coffee,Douglas,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,2049
+Coffee,Ambrose,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,296
+Coffee,Bridgetown,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,49
+Coffee,Broxton,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,382
+Coffee,Nicholls,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,237
+Coffee,West Green,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,176
+Coffee,Douglas,SPLOST,,,YES,5506
+Coffee,Ambrose,SPLOST,,,YES,714
+Coffee,Bridgetown,SPLOST,,,YES,121
+Coffee,Broxton,SPLOST,,,YES,796
+Coffee,Nicholls,SPLOST,,,YES,568
+Coffee,West Green,SPLOST,,,YES,320
+Coffee,Douglas,SPLOST,,,NO,2322
+Coffee,Ambrose,SPLOST,,,NO,383
+Coffee,Bridgetown,SPLOST,,,NO,71
+Coffee,Broxton,SPLOST,,,NO,482
+Coffee,Nicholls,SPLOST,,,NO,324
+Coffee,West Green,SPLOST,,,NO,206

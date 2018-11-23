@@ -1,0 +1,665 @@
+county,precinct,office,district,party,candidate,votes
+Paulding,SHELTON ELEM SCHOOL,Governor,,REP,BRIAN KEMP,6742
+Paulding,BURNT HICKORY PARK,Governor,,REP,BRIAN KEMP,2922
+Paulding,MOSES MIDDLE SCHOOL,Governor,,REP,BRIAN KEMP,3011
+Paulding,WEST RIDGE CHURCH,Governor,,REP,BRIAN KEMP,5836
+Paulding,WATSON GOVT COMPLEX,Governor,,REP,BRIAN KEMP,3178
+Paulding,SARA RAGSDALE ELM SC,Governor,,REP,BRIAN KEMP,2009
+Paulding,PAULDING CO HIGH SC,Governor,,REP,BRIAN KEMP,2015
+Paulding,HIRAM HIGH SCHOOL,Governor,,REP,BRIAN KEMP,2379
+Paulding,TAYLOR FARM PARK,Governor,,REP,BRIAN KEMP,2991
+Paulding,AUSTIN MIDDLE SCHOOL,Governor,,REP,BRIAN KEMP,2686
+Paulding,NEBO ELEMENTARY SCH,Governor,,REP,BRIAN KEMP,4039
+Paulding,CARL SCOGGINS MID SC,Governor,,REP,BRIAN KEMP,2976
+Paulding,SHELTON ELEM SCHOOL,Governor,,DEM,STACEY ABRAMS,2885
+Paulding,BURNT HICKORY PARK,Governor,,DEM,STACEY ABRAMS,517
+Paulding,MOSES MIDDLE SCHOOL,Governor,,DEM,STACEY ABRAMS,1343
+Paulding,WEST RIDGE CHURCH,Governor,,DEM,STACEY ABRAMS,2599
+Paulding,WATSON GOVT COMPLEX,Governor,,DEM,STACEY ABRAMS,2109
+Paulding,SARA RAGSDALE ELM SC,Governor,,DEM,STACEY ABRAMS,579
+Paulding,PAULDING CO HIGH SC,Governor,,DEM,STACEY ABRAMS,1066
+Paulding,HIRAM HIGH SCHOOL,Governor,,DEM,STACEY ABRAMS,3015
+Paulding,TAYLOR FARM PARK,Governor,,DEM,STACEY ABRAMS,2530
+Paulding,AUSTIN MIDDLE SCHOOL,Governor,,DEM,STACEY ABRAMS,1455
+Paulding,NEBO ELEMENTARY SCH,Governor,,DEM,STACEY ABRAMS,1362
+Paulding,CARL SCOGGINS MID SC,Governor,,DEM,STACEY ABRAMS,499
+Paulding,SHELTON ELEM SCHOOL,Governor,,LIB,TED METZ,67
+Paulding,BURNT HICKORY PARK,Governor,,LIB,TED METZ,34
+Paulding,MOSES MIDDLE SCHOOL,Governor,,LIB,TED METZ,48
+Paulding,WEST RIDGE CHURCH,Governor,,LIB,TED METZ,78
+Paulding,WATSON GOVT COMPLEX,Governor,,LIB,TED METZ,63
+Paulding,SARA RAGSDALE ELM SC,Governor,,LIB,TED METZ,23
+Paulding,PAULDING CO HIGH SC,Governor,,LIB,TED METZ,34
+Paulding,HIRAM HIGH SCHOOL,Governor,,LIB,TED METZ,40
+Paulding,TAYLOR FARM PARK,Governor,,LIB,TED METZ,36
+Paulding,AUSTIN MIDDLE SCHOOL,Governor,,LIB,TED METZ,54
+Paulding,NEBO ELEMENTARY SCH,Governor,,LIB,TED METZ,55
+Paulding,CARL SCOGGINS MID SC,Governor,,LIB,TED METZ,30
+Paulding,SHELTON ELEM SCHOOL,Lieutenant Governor,,REP,GEOFF DUNCAN,6646
+Paulding,BURNT HICKORY PARK,Lieutenant Governor,,REP,GEOFF DUNCAN,2852
+Paulding,MOSES MIDDLE SCHOOL,Lieutenant Governor,,REP,GEOFF DUNCAN,2977
+Paulding,WEST RIDGE CHURCH,Lieutenant Governor,,REP,GEOFF DUNCAN,5722
+Paulding,WATSON GOVT COMPLEX,Lieutenant Governor,,REP,GEOFF DUNCAN,3149
+Paulding,SARA RAGSDALE ELM SC,Lieutenant Governor,,REP,GEOFF DUNCAN,1960
+Paulding,PAULDING CO HIGH SC,Lieutenant Governor,,REP,GEOFF DUNCAN,1970
+Paulding,HIRAM HIGH SCHOOL,Lieutenant Governor,,REP,GEOFF DUNCAN,2330
+Paulding,TAYLOR FARM PARK,Lieutenant Governor,,REP,GEOFF DUNCAN,2943
+Paulding,AUSTIN MIDDLE SCHOOL,Lieutenant Governor,,REP,GEOFF DUNCAN,2634
+Paulding,NEBO ELEMENTARY SCH,Lieutenant Governor,,REP,GEOFF DUNCAN,3945
+Paulding,CARL SCOGGINS MID SC,Lieutenant Governor,,REP,GEOFF DUNCAN,2885
+Paulding,SHELTON ELEM SCHOOL,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2749
+Paulding,BURNT HICKORY PARK,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,518
+Paulding,MOSES MIDDLE SCHOOL,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1274
+Paulding,WEST RIDGE CHURCH,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2547
+Paulding,WATSON GOVT COMPLEX,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2007
+Paulding,SARA RAGSDALE ELM SC,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,566
+Paulding,PAULDING CO HIGH SC,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1047
+Paulding,HIRAM HIGH SCHOOL,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2884
+Paulding,TAYLOR FARM PARK,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2421
+Paulding,AUSTIN MIDDLE SCHOOL,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1396
+Paulding,NEBO ELEMENTARY SCH,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1335
+Paulding,CARL SCOGGINS MID SC,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,514
+Paulding,SHELTON ELEM SCHOOL,Secretary Of State,,REP,BRAD RAFFENSPERGER,6603
+Paulding,BURNT HICKORY PARK,Secretary Of State,,REP,BRAD RAFFENSPERGER,2857
+Paulding,MOSES MIDDLE SCHOOL,Secretary Of State,,REP,BRAD RAFFENSPERGER,2898
+Paulding,WEST RIDGE CHURCH,Secretary Of State,,REP,BRAD RAFFENSPERGER,5644
+Paulding,WATSON GOVT COMPLEX,Secretary Of State,,REP,BRAD RAFFENSPERGER,3104
+Paulding,SARA RAGSDALE ELM SC,Secretary Of State,,REP,BRAD RAFFENSPERGER,1948
+Paulding,PAULDING CO HIGH SC,Secretary Of State,,REP,BRAD RAFFENSPERGER,1949
+Paulding,HIRAM HIGH SCHOOL,Secretary Of State,,REP,BRAD RAFFENSPERGER,2316
+Paulding,TAYLOR FARM PARK,Secretary Of State,,REP,BRAD RAFFENSPERGER,2935
+Paulding,AUSTIN MIDDLE SCHOOL,Secretary Of State,,REP,BRAD RAFFENSPERGER,2622
+Paulding,NEBO ELEMENTARY SCH,Secretary Of State,,REP,BRAD RAFFENSPERGER,3908
+Paulding,CARL SCOGGINS MID SC,Secretary Of State,,REP,BRAD RAFFENSPERGER,2885
+Paulding,SHELTON ELEM SCHOOL,Secretary Of State,,DEM,JOHN BARROW,2773
+Paulding,BURNT HICKORY PARK,Secretary Of State,,DEM,JOHN BARROW,510
+Paulding,MOSES MIDDLE SCHOOL,Secretary Of State,,DEM,JOHN BARROW,1325
+Paulding,WEST RIDGE CHURCH,Secretary Of State,,DEM,JOHN BARROW,2562
+Paulding,WATSON GOVT COMPLEX,Secretary Of State,,DEM,JOHN BARROW,2028
+Paulding,SARA RAGSDALE ELM SC,Secretary Of State,,DEM,JOHN BARROW,568
+Paulding,PAULDING CO HIGH SC,Secretary Of State,,DEM,JOHN BARROW,1040
+Paulding,HIRAM HIGH SCHOOL,Secretary Of State,,DEM,JOHN BARROW,2934
+Paulding,TAYLOR FARM PARK,Secretary Of State,,DEM,JOHN BARROW,2455
+Paulding,AUSTIN MIDDLE SCHOOL,Secretary Of State,,DEM,JOHN BARROW,1417
+Paulding,NEBO ELEMENTARY SCH,Secretary Of State,,DEM,JOHN BARROW,1341
+Paulding,CARL SCOGGINS MID SC,Secretary Of State,,DEM,JOHN BARROW,511
+Paulding,SHELTON ELEM SCHOOL,Secretary Of State,,LIB,SMYTHE DUVAL,203
+Paulding,BURNT HICKORY PARK,Secretary Of State,,LIB,SMYTHE DUVAL,79
+Paulding,MOSES MIDDLE SCHOOL,Secretary Of State,,LIB,SMYTHE DUVAL,112
+Paulding,WEST RIDGE CHURCH,Secretary Of State,,LIB,SMYTHE DUVAL,194
+Paulding,WATSON GOVT COMPLEX,Secretary Of State,,LIB,SMYTHE DUVAL,146
+Paulding,SARA RAGSDALE ELM SC,Secretary Of State,,LIB,SMYTHE DUVAL,67
+Paulding,PAULDING CO HIGH SC,Secretary Of State,,LIB,SMYTHE DUVAL,89
+Paulding,HIRAM HIGH SCHOOL,Secretary Of State,,LIB,SMYTHE DUVAL,121
+Paulding,TAYLOR FARM PARK,Secretary Of State,,LIB,SMYTHE DUVAL,112
+Paulding,AUSTIN MIDDLE SCHOOL,Secretary Of State,,LIB,SMYTHE DUVAL,104
+Paulding,NEBO ELEMENTARY SCH,Secretary Of State,,LIB,SMYTHE DUVAL,142
+Paulding,CARL SCOGGINS MID SC,Secretary Of State,,LIB,SMYTHE DUVAL,75
+Paulding,SHELTON ELEM SCHOOL,Attorney General,,(REP,CHRIS CARR ,6705
+Paulding,BURNT HICKORY PARK,Attorney General,,(REP,CHRIS CARR ,2891
+Paulding,MOSES MIDDLE SCHOOL,Attorney General,,(REP,CHRIS CARR ,2982
+Paulding,WEST RIDGE CHURCH,Attorney General,,(REP,CHRIS CARR ,5718
+Paulding,WATSON GOVT COMPLEX,Attorney General,,(REP,CHRIS CARR ,3154
+Paulding,SARA RAGSDALE ELM SC,Attorney General,,(REP,CHRIS CARR ,1981
+Paulding,PAULDING CO HIGH SC,Attorney General,,(REP,CHRIS CARR ,1989
+Paulding,HIRAM HIGH SCHOOL,Attorney General,,(REP,CHRIS CARR ,2353
+Paulding,TAYLOR FARM PARK,Attorney General,,(REP,CHRIS CARR ,2972
+Paulding,AUSTIN MIDDLE SCHOOL,Attorney General,,(REP,CHRIS CARR ,2668
+Paulding,NEBO ELEMENTARY SCH,Attorney General,,(REP,CHRIS CARR ,3995
+Paulding,CARL SCOGGINS MID SC,Attorney General,,(REP,CHRIS CARR ,2925
+Paulding,SHELTON ELEM SCHOOL,Attorney General,,DEM,CHARLIE BAILEY,2839
+Paulding,BURNT HICKORY PARK,Attorney General,,DEM,CHARLIE BAILEY,536
+Paulding,MOSES MIDDLE SCHOOL,Attorney General,,DEM,CHARLIE BAILEY,1341
+Paulding,WEST RIDGE CHURCH,Attorney General,,DEM,CHARLIE BAILEY,2655
+Paulding,WATSON GOVT COMPLEX,Attorney General,,DEM,CHARLIE BAILEY,2101
+Paulding,SARA RAGSDALE ELM SC,Attorney General,,DEM,CHARLIE BAILEY,583
+Paulding,PAULDING CO HIGH SC,Attorney General,,DEM,CHARLIE BAILEY,1080
+Paulding,HIRAM HIGH SCHOOL,Attorney General,,DEM,CHARLIE BAILEY,2985
+Paulding,TAYLOR FARM PARK,Attorney General,,DEM,CHARLIE BAILEY,2516
+Paulding,AUSTIN MIDDLE SCHOOL,Attorney General,,DEM,CHARLIE BAILEY,1456
+Paulding,NEBO ELEMENTARY SCH,Attorney General,,DEM,CHARLIE BAILEY,1390
+Paulding,CARL SCOGGINS MID SC,Attorney General,,DEM,CHARLIE BAILEY,526
+Paulding,SHELTON ELEM SCHOOL,Commissioner Of Agriculture,,(REP,GARY BLACK ,6785
+Paulding,BURNT HICKORY PARK,Commissioner Of Agriculture,,(REP,GARY BLACK ,2927
+Paulding,MOSES MIDDLE SCHOOL,Commissioner Of Agriculture,,(REP,GARY BLACK ,3016
+Paulding,WEST RIDGE CHURCH,Commissioner Of Agriculture,,(REP,GARY BLACK ,5826
+Paulding,WATSON GOVT COMPLEX,Commissioner Of Agriculture,,(REP,GARY BLACK ,3212
+Paulding,SARA RAGSDALE ELM SC,Commissioner Of Agriculture,,(REP,GARY BLACK ,2011
+Paulding,PAULDING CO HIGH SC,Commissioner Of Agriculture,,(REP,GARY BLACK ,2015
+Paulding,HIRAM HIGH SCHOOL,Commissioner Of Agriculture,,(REP,GARY BLACK ,2389
+Paulding,TAYLOR FARM PARK,Commissioner Of Agriculture,,(REP,GARY BLACK ,3017
+Paulding,AUSTIN MIDDLE SCHOOL,Commissioner Of Agriculture,,(REP,GARY BLACK ,2690
+Paulding,NEBO ELEMENTARY SCH,Commissioner Of Agriculture,,(REP,GARY BLACK ,4038
+Paulding,CARL SCOGGINS MID SC,Commissioner Of Agriculture,,(REP,GARY BLACK ,2952
+Paulding,SHELTON ELEM SCHOOL,Commissioner Of Agriculture,,DEM,FRED SWANN,2719
+Paulding,BURNT HICKORY PARK,Commissioner Of Agriculture,,DEM,FRED SWANN,484
+Paulding,MOSES MIDDLE SCHOOL,Commissioner Of Agriculture,,DEM,FRED SWANN,1289
+Paulding,WEST RIDGE CHURCH,Commissioner Of Agriculture,,DEM,FRED SWANN,2506
+Paulding,WATSON GOVT COMPLEX,Commissioner Of Agriculture,,DEM,FRED SWANN,2029
+Paulding,SARA RAGSDALE ELM SC,Commissioner Of Agriculture,,DEM,FRED SWANN,551
+Paulding,PAULDING CO HIGH SC,Commissioner Of Agriculture,,DEM,FRED SWANN,1037
+Paulding,HIRAM HIGH SCHOOL,Commissioner Of Agriculture,,DEM,FRED SWANN,2918
+Paulding,TAYLOR FARM PARK,Commissioner Of Agriculture,,DEM,FRED SWANN,2426
+Paulding,AUSTIN MIDDLE SCHOOL,Commissioner Of Agriculture,,DEM,FRED SWANN,1422
+Paulding,NEBO ELEMENTARY SCH,Commissioner Of Agriculture,,DEM,FRED SWANN,1322
+Paulding,CARL SCOGGINS MID SC,Commissioner Of Agriculture,,DEM,FRED SWANN,498
+Paulding,SHELTON ELEM SCHOOL,Commissioner Of Insurance,,REP,JIM BECK,6590
+Paulding,BURNT HICKORY PARK,Commissioner Of Insurance,,REP,JIM BECK,2842
+Paulding,MOSES MIDDLE SCHOOL,Commissioner Of Insurance,,REP,JIM BECK,2911
+Paulding,WEST RIDGE CHURCH,Commissioner Of Insurance,,REP,JIM BECK,5631
+Paulding,WATSON GOVT COMPLEX,Commissioner Of Insurance,,REP,JIM BECK,3072
+Paulding,SARA RAGSDALE ELM SC,Commissioner Of Insurance,,REP,JIM BECK,1942
+Paulding,PAULDING CO HIGH SC,Commissioner Of Insurance,,REP,JIM BECK,1960
+Paulding,HIRAM HIGH SCHOOL,Commissioner Of Insurance,,REP,JIM BECK,2311
+Paulding,TAYLOR FARM PARK,Commissioner Of Insurance,,REP,JIM BECK,2932
+Paulding,AUSTIN MIDDLE SCHOOL,Commissioner Of Insurance,,REP,JIM BECK,2637
+Paulding,NEBO ELEMENTARY SCH,Commissioner Of Insurance,,REP,JIM BECK,3905
+Paulding,CARL SCOGGINS MID SC,Commissioner Of Insurance,,REP,JIM BECK,2870
+Paulding,SHELTON ELEM SCHOOL,Commissioner Of Insurance,,DEM,JANICE LAWS,2711
+Paulding,BURNT HICKORY PARK,Commissioner Of Insurance,,DEM,JANICE LAWS,488
+Paulding,MOSES MIDDLE SCHOOL,Commissioner Of Insurance,,DEM,JANICE LAWS,1290
+Paulding,WEST RIDGE CHURCH,Commissioner Of Insurance,,DEM,JANICE LAWS,2510
+Paulding,WATSON GOVT COMPLEX,Commissioner Of Insurance,,DEM,JANICE LAWS,2020
+Paulding,SARA RAGSDALE ELM SC,Commissioner Of Insurance,,DEM,JANICE LAWS,545
+Paulding,PAULDING CO HIGH SC,Commissioner Of Insurance,,DEM,JANICE LAWS,1014
+Paulding,HIRAM HIGH SCHOOL,Commissioner Of Insurance,,DEM,JANICE LAWS,2909
+Paulding,TAYLOR FARM PARK,Commissioner Of Insurance,,DEM,JANICE LAWS,2426
+Paulding,AUSTIN MIDDLE SCHOOL,Commissioner Of Insurance,,DEM,JANICE LAWS,1400
+Paulding,NEBO ELEMENTARY SCH,Commissioner Of Insurance,,DEM,JANICE LAWS,1307
+Paulding,CARL SCOGGINS MID SC,Commissioner Of Insurance,,DEM,JANICE LAWS,492
+Paulding,SHELTON ELEM SCHOOL,Commissioner Of Insurance,,LIB,DONNIE FOSTER,240
+Paulding,BURNT HICKORY PARK,Commissioner Of Insurance,,LIB,DONNIE FOSTER,101
+Paulding,MOSES MIDDLE SCHOOL,Commissioner Of Insurance,,LIB,DONNIE FOSTER,130
+Paulding,WEST RIDGE CHURCH,Commissioner Of Insurance,,LIB,DONNIE FOSTER,240
+Paulding,WATSON GOVT COMPLEX,Commissioner Of Insurance,,LIB,DONNIE FOSTER,175
+Paulding,SARA RAGSDALE ELM SC,Commissioner Of Insurance,,LIB,DONNIE FOSTER,91
+Paulding,PAULDING CO HIGH SC,Commissioner Of Insurance,,LIB,DONNIE FOSTER,107
+Paulding,HIRAM HIGH SCHOOL,Commissioner Of Insurance,,LIB,DONNIE FOSTER,128
+Paulding,TAYLOR FARM PARK,Commissioner Of Insurance,,LIB,DONNIE FOSTER,136
+Paulding,AUSTIN MIDDLE SCHOOL,Commissioner Of Insurance,,LIB,DONNIE FOSTER,106
+Paulding,NEBO ELEMENTARY SCH,Commissioner Of Insurance,,LIB,DONNIE FOSTER,175
+Paulding,CARL SCOGGINS MID SC,Commissioner Of Insurance,,LIB,DONNIE FOSTER,100
+Paulding,SHELTON ELEM SCHOOL,State School Superintendent,,(REP,RICHARD WOODS ,6821
+Paulding,BURNT HICKORY PARK,State School Superintendent,,(REP,RICHARD WOODS ,2938
+Paulding,MOSES MIDDLE SCHOOL,State School Superintendent,,(REP,RICHARD WOODS ,3032
+Paulding,WEST RIDGE CHURCH,State School Superintendent,,(REP,RICHARD WOODS ,5848
+Paulding,WATSON GOVT COMPLEX,State School Superintendent,,(REP,RICHARD WOODS ,3193
+Paulding,SARA RAGSDALE ELM SC,State School Superintendent,,(REP,RICHARD WOODS ,2011
+Paulding,PAULDING CO HIGH SC,State School Superintendent,,(REP,RICHARD WOODS ,2025
+Paulding,HIRAM HIGH SCHOOL,State School Superintendent,,(REP,RICHARD WOODS ,2425
+Paulding,TAYLOR FARM PARK,State School Superintendent,,(REP,RICHARD WOODS ,3032
+Paulding,AUSTIN MIDDLE SCHOOL,State School Superintendent,,(REP,RICHARD WOODS ,2712
+Paulding,NEBO ELEMENTARY SCH,State School Superintendent,,(REP,RICHARD WOODS ,4050
+Paulding,CARL SCOGGINS MID SC,State School Superintendent,,(REP,RICHARD WOODS ,2965
+Paulding,SHELTON ELEM SCHOOL,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2727
+Paulding,BURNT HICKORY PARK,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",483
+Paulding,MOSES MIDDLE SCHOOL,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1286
+Paulding,WEST RIDGE CHURCH,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2535
+Paulding,WATSON GOVT COMPLEX,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2042
+Paulding,SARA RAGSDALE ELM SC,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",559
+Paulding,PAULDING CO HIGH SC,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1053
+Paulding,HIRAM HIGH SCHOOL,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2926
+Paulding,TAYLOR FARM PARK,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2456
+Paulding,AUSTIN MIDDLE SCHOOL,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1417
+Paulding,NEBO ELEMENTARY SCH,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1324
+Paulding,CARL SCOGGINS MID SC,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",483
+Paulding,SHELTON ELEM SCHOOL,Commissioner Of Labor,,(REP,MARK BUTLER ,6761
+Paulding,BURNT HICKORY PARK,Commissioner Of Labor,,(REP,MARK BUTLER ,2916
+Paulding,MOSES MIDDLE SCHOOL,Commissioner Of Labor,,(REP,MARK BUTLER ,3011
+Paulding,WEST RIDGE CHURCH,Commissioner Of Labor,,(REP,MARK BUTLER ,5796
+Paulding,WATSON GOVT COMPLEX,Commissioner Of Labor,,(REP,MARK BUTLER ,3196
+Paulding,SARA RAGSDALE ELM SC,Commissioner Of Labor,,(REP,MARK BUTLER ,2007
+Paulding,PAULDING CO HIGH SC,Commissioner Of Labor,,(REP,MARK BUTLER ,2002
+Paulding,HIRAM HIGH SCHOOL,Commissioner Of Labor,,(REP,MARK BUTLER ,2397
+Paulding,TAYLOR FARM PARK,Commissioner Of Labor,,(REP,MARK BUTLER ,2998
+Paulding,AUSTIN MIDDLE SCHOOL,Commissioner Of Labor,,(REP,MARK BUTLER ,2699
+Paulding,NEBO ELEMENTARY SCH,Commissioner Of Labor,,(REP,MARK BUTLER ,4034
+Paulding,CARL SCOGGINS MID SC,Commissioner Of Labor,,(REP,MARK BUTLER ,2937
+Paulding,SHELTON ELEM SCHOOL,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2739
+Paulding,BURNT HICKORY PARK,Commissioner Of Labor,,DEM,RICHARD KEATLEY,495
+Paulding,MOSES MIDDLE SCHOOL,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1292
+Paulding,WEST RIDGE CHURCH,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2547
+Paulding,WATSON GOVT COMPLEX,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2047
+Paulding,SARA RAGSDALE ELM SC,Commissioner Of Labor,,DEM,RICHARD KEATLEY,557
+Paulding,PAULDING CO HIGH SC,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1065
+Paulding,HIRAM HIGH SCHOOL,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2940
+Paulding,TAYLOR FARM PARK,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2479
+Paulding,AUSTIN MIDDLE SCHOOL,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1415
+Paulding,NEBO ELEMENTARY SCH,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1336
+Paulding,CARL SCOGGINS MID SC,Commissioner Of Labor,,DEM,RICHARD KEATLEY,504
+Paulding,SHELTON ELEM SCHOOL,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,6541
+Paulding,BURNT HICKORY PARK,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2825
+Paulding,MOSES MIDDLE SCHOOL,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2886
+Paulding,WEST RIDGE CHURCH,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,5554
+Paulding,WATSON GOVT COMPLEX,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3041
+Paulding,SARA RAGSDALE ELM SC,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1901
+Paulding,PAULDING CO HIGH SC,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1922
+Paulding,HIRAM HIGH SCHOOL,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2284
+Paulding,TAYLOR FARM PARK,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2890
+Paulding,AUSTIN MIDDLE SCHOOL,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2591
+Paulding,NEBO ELEMENTARY SCH,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3862
+Paulding,CARL SCOGGINS MID SC,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2849
+Paulding,SHELTON ELEM SCHOOL,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2745
+Paulding,BURNT HICKORY PARK,"Public Service Commission, District 3",3,DEM,LINDY MILLER,486
+Paulding,MOSES MIDDLE SCHOOL,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1291
+Paulding,WEST RIDGE CHURCH,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2536
+Paulding,WATSON GOVT COMPLEX,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2038
+Paulding,SARA RAGSDALE ELM SC,"Public Service Commission, District 3",3,DEM,LINDY MILLER,574
+Paulding,PAULDING CO HIGH SC,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1035
+Paulding,HIRAM HIGH SCHOOL,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2924
+Paulding,TAYLOR FARM PARK,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2444
+Paulding,AUSTIN MIDDLE SCHOOL,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1412
+Paulding,NEBO ELEMENTARY SCH,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1335
+Paulding,CARL SCOGGINS MID SC,"Public Service Commission, District 3",3,DEM,LINDY MILLER,503
+Paulding,SHELTON ELEM SCHOOL,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,255
+Paulding,BURNT HICKORY PARK,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,112
+Paulding,MOSES MIDDLE SCHOOL,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,144
+Paulding,WEST RIDGE CHURCH,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,266
+Paulding,WATSON GOVT COMPLEX,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,169
+Paulding,SARA RAGSDALE ELM SC,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,96
+Paulding,PAULDING CO HIGH SC,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,110
+Paulding,HIRAM HIGH SCHOOL,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,135
+Paulding,TAYLOR FARM PARK,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,147
+Paulding,AUSTIN MIDDLE SCHOOL,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,128
+Paulding,NEBO ELEMENTARY SCH,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,181
+Paulding,CARL SCOGGINS MID SC,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,101
+Paulding,SHELTON ELEM SCHOOL,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,6544
+Paulding,BURNT HICKORY PARK,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2836
+Paulding,MOSES MIDDLE SCHOOL,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2899
+Paulding,WEST RIDGE CHURCH,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,5585
+Paulding,WATSON GOVT COMPLEX,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3066
+Paulding,SARA RAGSDALE ELM SC,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1911
+Paulding,PAULDING CO HIGH SC,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1937
+Paulding,HIRAM HIGH SCHOOL,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2300
+Paulding,TAYLOR FARM PARK,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2903
+Paulding,AUSTIN MIDDLE SCHOOL,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2618
+Paulding,NEBO ELEMENTARY SCH,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3907
+Paulding,CARL SCOGGINS MID SC,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2863
+Paulding,SHELTON ELEM SCHOOL,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2720
+Paulding,BURNT HICKORY PARK,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,488
+Paulding,MOSES MIDDLE SCHOOL,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1283
+Paulding,WEST RIDGE CHURCH,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2534
+Paulding,WATSON GOVT COMPLEX,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2030
+Paulding,SARA RAGSDALE ELM SC,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,566
+Paulding,PAULDING CO HIGH SC,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1034
+Paulding,HIRAM HIGH SCHOOL,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2926
+Paulding,TAYLOR FARM PARK,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2439
+Paulding,AUSTIN MIDDLE SCHOOL,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1389
+Paulding,NEBO ELEMENTARY SCH,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1312
+Paulding,CARL SCOGGINS MID SC,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,493
+Paulding,SHELTON ELEM SCHOOL,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,255
+Paulding,BURNT HICKORY PARK,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,101
+Paulding,MOSES MIDDLE SCHOOL,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,133
+Paulding,WEST RIDGE CHURCH,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,256
+Paulding,WATSON GOVT COMPLEX,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,152
+Paulding,SARA RAGSDALE ELM SC,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,99
+Paulding,PAULDING CO HIGH SC,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,101
+Paulding,HIRAM HIGH SCHOOL,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,111
+Paulding,TAYLOR FARM PARK,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,135
+Paulding,AUSTIN MIDDLE SCHOOL,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,128
+Paulding,NEBO ELEMENTARY SCH,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,158
+Paulding,CARL SCOGGINS MID SC,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,95
+Paulding,SHELTON ELEM SCHOOL,U.S. Representative,14,(REP,TOM GRAVES ,6786
+Paulding,BURNT HICKORY PARK,U.S. Representative,14,(REP,TOM GRAVES ,2918
+Paulding,MOSES MIDDLE SCHOOL,U.S. Representative,14,(REP,TOM GRAVES ,3030
+Paulding,WEST RIDGE CHURCH,U.S. Representative,14,(REP,TOM GRAVES ,5824
+Paulding,WATSON GOVT COMPLEX,U.S. Representative,14,(REP,TOM GRAVES ,3213
+Paulding,SARA RAGSDALE ELM SC,U.S. Representative,14,(REP,TOM GRAVES ,2002
+Paulding,PAULDING CO HIGH SC,U.S. Representative,14,(REP,TOM GRAVES ,2022
+Paulding,HIRAM HIGH SCHOOL,U.S. Representative,14,(REP,TOM GRAVES ,2414
+Paulding,TAYLOR FARM PARK,U.S. Representative,14,(REP,TOM GRAVES ,3034
+Paulding,AUSTIN MIDDLE SCHOOL,U.S. Representative,14,(REP,TOM GRAVES ,2733
+Paulding,NEBO ELEMENTARY SCH,U.S. Representative,14,(REP,TOM GRAVES ,4047
+Paulding,CARL SCOGGINS MID SC,U.S. Representative,14,(REP,TOM GRAVES ,2959
+Paulding,SHELTON ELEM SCHOOL,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,2762
+Paulding,BURNT HICKORY PARK,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,503
+Paulding,MOSES MIDDLE SCHOOL,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,1294
+Paulding,WEST RIDGE CHURCH,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,2549
+Paulding,WATSON GOVT COMPLEX,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,2042
+Paulding,SARA RAGSDALE ELM SC,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,560
+Paulding,PAULDING CO HIGH SC,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,1050
+Paulding,HIRAM HIGH SCHOOL,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,2934
+Paulding,TAYLOR FARM PARK,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,2457
+Paulding,AUSTIN MIDDLE SCHOOL,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,1399
+Paulding,NEBO ELEMENTARY SCH,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,1334
+Paulding,CARL SCOGGINS MID SC,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,510
+Paulding,TAYLOR FARM PARK,State Senator,30,(REP,MICHAEL DUGAN ,3749
+Paulding,AUSTIN MIDDLE SCHOOL,State Senator,30,(REP,MICHAEL DUGAN ,3188
+Paulding,NEBO ELEMENTARY SCH,State Senator,30,(REP,MICHAEL DUGAN ,2795
+Paulding,CARL SCOGGINS MID SC,State Senator,30,(REP,MICHAEL DUGAN ,2443
+Paulding,SHELTON ELEM SCHOOL,State Senator,31,(REP,BILL HEATH ,7637
+Paulding,BURNT HICKORY PARK,State Senator,31,(REP,BILL HEATH ,3076
+Paulding,MOSES MIDDLE SCHOOL,State Senator,31,(REP,BILL HEATH ,3448
+Paulding,WEST RIDGE CHURCH,State Senator,31,(REP,BILL HEATH ,6606
+Paulding,WATSON GOVT COMPLEX,State Senator,31,(REP,BILL HEATH ,3799
+Paulding,SARA RAGSDALE ELM SC,State Senator,31,(REP,BILL HEATH ,2188
+Paulding,PAULDING CO HIGH SC,State Senator,31,(REP,BILL HEATH ,2351
+Paulding,HIRAM HIGH SCHOOL,State Senator,31,(REP,BILL HEATH ,3263
+Paulding,NEBO ELEMENTARY SCH,State Senator,31,(REP,BILL HEATH ,1667
+Paulding,CARL SCOGGINS MID SC,State Senator,31,(REP,BILL HEATH ,686
+Paulding,SHELTON ELEM SCHOOL,State Representative,17,REP,MARTIN MOMTAHAN,3052
+Paulding,BURNT HICKORY PARK,State Representative,17,REP,MARTIN MOMTAHAN,2890
+Paulding,MOSES MIDDLE SCHOOL,State Representative,17,REP,MARTIN MOMTAHAN,2977
+Paulding,WATSON GOVT COMPLEX,State Representative,17,REP,MARTIN MOMTAHAN,3161
+Paulding,SARA RAGSDALE ELM SC,State Representative,17,REP,MARTIN MOMTAHAN,1993
+Paulding,PAULDING CO HIGH SC,State Representative,17,REP,MARTIN MOMTAHAN,916
+Paulding,CARL SCOGGINS MID SC,State Representative,17,REP,MARTIN MOMTAHAN,2017
+Paulding,SHELTON ELEM SCHOOL,State Representative,17,DEM,RALPH MEERS,985
+Paulding,BURNT HICKORY PARK,State Representative,17,DEM,RALPH MEERS,529
+Paulding,MOSES MIDDLE SCHOOL,State Representative,17,DEM,RALPH MEERS,1323
+Paulding,WATSON GOVT COMPLEX,State Representative,17,DEM,RALPH MEERS,2081
+Paulding,SARA RAGSDALE ELM SC,State Representative,17,DEM,RALPH MEERS,584
+Paulding,PAULDING CO HIGH SC,State Representative,17,DEM,RALPH MEERS,372
+Paulding,CARL SCOGGINS MID SC,State Representative,17,DEM,RALPH MEERS,351
+Paulding,SHELTON ELEM SCHOOL,State Representative,19,REP,JOSEPH GULLETT,3673
+Paulding,WEST RIDGE CHURCH,State Representative,19,REP,JOSEPH GULLETT,5786
+Paulding,PAULDING CO HIGH SC,State Representative,19,REP,JOSEPH GULLETT,1073
+Paulding,HIRAM HIGH SCHOOL,State Representative,19,REP,JOSEPH GULLETT,2366
+Paulding,NEBO ELEMENTARY SCH,State Representative,19,REP,JOSEPH GULLETT,1496
+Paulding,SHELTON ELEM SCHOOL,State Representative,19,DEM,ALISON FELICIANO,1829
+Paulding,WEST RIDGE CHURCH,State Representative,19,DEM,ALISON FELICIANO,2584
+Paulding,PAULDING CO HIGH SC,State Representative,19,DEM,ALISON FELICIANO,698
+Paulding,HIRAM HIGH SCHOOL,State Representative,19,DEM,ALISON FELICIANO,2971
+Paulding,NEBO ELEMENTARY SCH,State Representative,19,DEM,ALISON FELICIANO,510
+Paulding,TAYLOR FARM PARK,State Representative,66,(DEM,KIMBERLY ALEXANDER ,3584
+Paulding,AUSTIN MIDDLE SCHOOL,State Representative,67,(REP,MICAH GRAVLEY ,3192
+Paulding,NEBO ELEMENTARY SCH,State Representative,67,(REP,MICAH GRAVLEY ,2810
+Paulding,CARL SCOGGINS MID SC,State Representative,67,(REP,MICAH GRAVLEY ,991
+Paulding,SHELTON ELEM SCHOOL,District Attorney, Paulding Circuit,(REP,DICK DONOVAN ,7646
+Paulding,BURNT HICKORY PARK,District Attorney, Paulding Circuit,(REP,DICK DONOVAN ,3082
+Paulding,MOSES MIDDLE SCHOOL,District Attorney, Paulding Circuit,(REP,DICK DONOVAN ,3438
+Paulding,WEST RIDGE CHURCH,District Attorney, Paulding Circuit,(REP,DICK DONOVAN ,6630
+Paulding,WATSON GOVT COMPLEX,District Attorney, Paulding Circuit,(REP,DICK DONOVAN ,3821
+Paulding,SARA RAGSDALE ELM SC,District Attorney, Paulding Circuit,(REP,DICK DONOVAN ,2183
+Paulding,PAULDING CO HIGH SC,District Attorney, Paulding Circuit,(REP,DICK DONOVAN ,2352
+Paulding,HIRAM HIGH SCHOOL,District Attorney, Paulding Circuit,(REP,DICK DONOVAN ,3290
+Paulding,TAYLOR FARM PARK,District Attorney, Paulding Circuit,(REP,DICK DONOVAN ,3728
+Paulding,AUSTIN MIDDLE SCHOOL,District Attorney, Paulding Circuit,(REP,DICK DONOVAN ,3166
+Paulding,NEBO ELEMENTARY SCH,District Attorney, Paulding Circuit,(REP,DICK DONOVAN ,4474
+Paulding,CARL SCOGGINS MID SC,District Attorney, Paulding Circuit,(REP,DICK DONOVAN ,3085
+Paulding,WATSON GOVT COMPLEX,CC, P2,R,S. KAECHER,1488
+Paulding,SARA RAGSDALE ELM SC,CC, P2,R,S. KAECHER,2158
+Paulding,PAULDING CO HIGH SC,CC, P2,R,S. KAECHER,1026
+Paulding,AUSTIN MIDDLE SCHOOL,CC, P2,R,S. KAECHER,1953
+Paulding,NEBO ELEMENTARY SCH,CC, P2,R,S. KAECHER,750
+Paulding,CARL SCOGGINS MID SC,CC, P2,R,S. KAECHER,3061
+Paulding,HIRAM HIGH SCHOOL,CC, P3,R,C. HART,1660
+Paulding,TAYLOR FARM PARK,CC, P3,R,C. HART,2997
+Paulding,AUSTIN MIDDLE SCHOOL,CC, P3,R,C. HART,1076
+Paulding,NEBO ELEMENTARY SCH,CC, P3,R,C. HART,3077
+Paulding,HIRAM HIGH SCHOOL,CC, P3,D,T. MADRIC-MORRIS,1975
+Paulding,TAYLOR FARM PARK,CC, P3,D,T. MADRIC-MORRIS,2484
+Paulding,AUSTIN MIDDLE SCHOOL,CC, P3,D,T. MADRIC-MORRIS,415
+Paulding,NEBO ELEMENTARY SCH,CC, P3,D,T. MADRIC-MORRIS,970
+Paulding,SHELTON ELEM SCHOOL,CC, P4,R,B. STOVER,6604
+Paulding,BURNT HICKORY PARK,CC, P4,R,B. STOVER,3080
+Paulding,MOSES MIDDLE SCHOOL,CC, P4,R,B. STOVER,3444
+Paulding,WATSON GOVT COMPLEX,CC, P4,R,B. STOVER,1692
+Paulding,SHELTON ELEM SCHOOL,BOE D2,,R,N. CHESTER SR. ,7579
+Paulding,BURNT HICKORY PARK,BOE D2,,R,N. CHESTER SR. ,3059
+Paulding,MOSES MIDDLE SCHOOL,BOE D2,,R,N. CHESTER SR. ,3424
+Paulding,WEST RIDGE CHURCH,BOE D2,,R,N. CHESTER SR. ,6597
+Paulding,WATSON GOVT COMPLEX,BOE D2,,R,N. CHESTER SR. ,3783
+Paulding,SARA RAGSDALE ELM SC,BOE D2,,R,N. CHESTER SR. ,2170
+Paulding,PAULDING CO HIGH SC,BOE D2,,R,N. CHESTER SR. ,2350
+Paulding,HIRAM HIGH SCHOOL,BOE D2,,R,N. CHESTER SR. ,3282
+Paulding,TAYLOR FARM PARK,BOE D2,,R,N. CHESTER SR. ,3737
+Paulding,AUSTIN MIDDLE SCHOOL,BOE D2,,R,N. CHESTER SR. ,3158
+Paulding,NEBO ELEMENTARY SCH,BOE D2,,R,N. CHESTER SR. ,4449
+Paulding,CARL SCOGGINS MID SC,BOE D2,,R,N. CHESTER SR. ,3082
+Paulding,SHELTON ELEM SCHOOL,BOE D5,,R,J. B. DEAN,6682
+Paulding,BURNT HICKORY PARK,BOE D5,,R,J. B. DEAN,2873
+Paulding,MOSES MIDDLE SCHOOL,BOE D5,,R,J. B. DEAN,2960
+Paulding,WEST RIDGE CHURCH,BOE D5,,R,J. B. DEAN,5718
+Paulding,WATSON GOVT COMPLEX,BOE D5,,R,J. B. DEAN,3123
+Paulding,SARA RAGSDALE ELM SC,BOE D5,,R,J. B. DEAN,1975
+Paulding,PAULDING CO HIGH SC,BOE D5,,R,J. B. DEAN,1974
+Paulding,HIRAM HIGH SCHOOL,BOE D5,,R,J. B. DEAN,2353
+Paulding,TAYLOR FARM PARK,BOE D5,,R,J. B. DEAN,2979
+Paulding,AUSTIN MIDDLE SCHOOL,BOE D5,,R,J. B. DEAN,2681
+Paulding,NEBO ELEMENTARY SCH,BOE D5,,R,J. B. DEAN,3982
+Paulding,CARL SCOGGINS MID SC,BOE D5,,R,J. B. DEAN,2916
+Paulding,SHELTON ELEM SCHOOL,BOE D5,,D,P. BELANGER,2803
+Paulding,BURNT HICKORY PARK,BOE D5,,D,P. BELANGER,525
+Paulding,MOSES MIDDLE SCHOOL,BOE D5,,D,P. BELANGER,1341
+Paulding,WEST RIDGE CHURCH,BOE D5,,D,P. BELANGER,2626
+Paulding,WATSON GOVT COMPLEX,BOE D5,,D,P. BELANGER,2100
+Paulding,SARA RAGSDALE ELM SC,BOE D5,,D,P. BELANGER,588
+Paulding,PAULDING CO HIGH SC,BOE D5,,D,P. BELANGER,1072
+Paulding,HIRAM HIGH SCHOOL,BOE D5,,D,P. BELANGER,2987
+Paulding,TAYLOR FARM PARK,BOE D5,,D,P. BELANGER,2504
+Paulding,AUSTIN MIDDLE SCHOOL,BOE D5,,D,P. BELANGER,1444
+Paulding,NEBO ELEMENTARY SCH,BOE D5,,D,P. BELANGER,1371
+Paulding,CARL SCOGGINS MID SC,BOE D5,,D,P. BELANGER,520
+Paulding,SHELTON ELEM SCHOOL,BOE D6,,R,J. ANAVITARTE,6743
+Paulding,BURNT HICKORY PARK,BOE D6,,R,J. ANAVITARTE,2894
+Paulding,MOSES MIDDLE SCHOOL,BOE D6,,R,J. ANAVITARTE,2993
+Paulding,WEST RIDGE CHURCH,BOE D6,,R,J. ANAVITARTE,5736
+Paulding,WATSON GOVT COMPLEX,BOE D6,,R,J. ANAVITARTE,3136
+Paulding,SARA RAGSDALE ELM SC,BOE D6,,R,J. ANAVITARTE,1989
+Paulding,PAULDING CO HIGH SC,BOE D6,,R,J. ANAVITARTE,1982
+Paulding,HIRAM HIGH SCHOOL,BOE D6,,R,J. ANAVITARTE,2344
+Paulding,TAYLOR FARM PARK,BOE D6,,R,J. ANAVITARTE,2965
+Paulding,AUSTIN MIDDLE SCHOOL,BOE D6,,R,J. ANAVITARTE,2694
+Paulding,NEBO ELEMENTARY SCH,BOE D6,,R,J. ANAVITARTE,3985
+Paulding,CARL SCOGGINS MID SC,BOE D6,,R,J. ANAVITARTE,2913
+Paulding,SHELTON ELEM SCHOOL,BOE D6,,D,P. CHARLES,2746
+Paulding,BURNT HICKORY PARK,BOE D6,,D,P. CHARLES,511
+Paulding,MOSES MIDDLE SCHOOL,BOE D6,,D,P. CHARLES,1309
+Paulding,WEST RIDGE CHURCH,BOE D6,,D,P. CHARLES,2596
+Paulding,WATSON GOVT COMPLEX,BOE D6,,D,P. CHARLES,2073
+Paulding,SARA RAGSDALE ELM SC,BOE D6,,D,P. CHARLES,573
+Paulding,PAULDING CO HIGH SC,BOE D6,,D,P. CHARLES,1062
+Paulding,HIRAM HIGH SCHOOL,BOE D6,,D,P. CHARLES,2968
+Paulding,TAYLOR FARM PARK,BOE D6,,D,P. CHARLES,2501
+Paulding,AUSTIN MIDDLE SCHOOL,BOE D6,,D,P. CHARLES,1425
+Paulding,NEBO ELEMENTARY SCH,BOE D6,,D,P. CHARLES,1363
+Paulding,CARL SCOGGINS MID SC,BOE D6,,D,P. CHARLES,518
+Paulding,SHELTON ELEM SCHOOL,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,7674
+Paulding,BURNT HICKORY PARK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2657
+Paulding,MOSES MIDDLE SCHOOL,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3464
+Paulding,WEST RIDGE CHURCH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,6879
+Paulding,WATSON GOVT COMPLEX,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4292
+Paulding,SARA RAGSDALE ELM SC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2069
+Paulding,PAULDING CO HIGH SC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2521
+Paulding,HIRAM HIGH SCHOOL,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4376
+Paulding,TAYLOR FARM PARK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4452
+Paulding,AUSTIN MIDDLE SCHOOL,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3371
+Paulding,NEBO ELEMENTARY SCH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4348
+Paulding,CARL SCOGGINS MID SC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2656
+Paulding,SHELTON ELEM SCHOOL,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1709
+Paulding,BURNT HICKORY PARK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,711
+Paulding,MOSES MIDDLE SCHOOL,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,794
+Paulding,WEST RIDGE CHURCH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1430
+Paulding,WATSON GOVT COMPLEX,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,859
+Paulding,SARA RAGSDALE ELM SC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,477
+Paulding,PAULDING CO HIGH SC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,516
+Paulding,HIRAM HIGH SCHOOL,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,876
+Paulding,TAYLOR FARM PARK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,980
+Paulding,AUSTIN MIDDLE SCHOOL,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,734
+Paulding,NEBO ELEMENTARY SCH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,982
+Paulding,CARL SCOGGINS MID SC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,728
+Paulding,SHELTON ELEM SCHOOL,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,6105
+Paulding,BURNT HICKORY PARK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2046
+Paulding,MOSES MIDDLE SCHOOL,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2811
+Paulding,WEST RIDGE CHURCH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,5530
+Paulding,WATSON GOVT COMPLEX,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3456
+Paulding,SARA RAGSDALE ELM SC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1590
+Paulding,PAULDING CO HIGH SC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2019
+Paulding,HIRAM HIGH SCHOOL,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3610
+Paulding,TAYLOR FARM PARK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3490
+Paulding,AUSTIN MIDDLE SCHOOL,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2712
+Paulding,NEBO ELEMENTARY SCH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3470
+Paulding,CARL SCOGGINS MID SC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2100
+Paulding,SHELTON ELEM SCHOOL,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,3009
+Paulding,BURNT HICKORY PARK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1205
+Paulding,MOSES MIDDLE SCHOOL,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1311
+Paulding,WEST RIDGE CHURCH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,2481
+Paulding,WATSON GOVT COMPLEX,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1555
+Paulding,SARA RAGSDALE ELM SC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,882
+Paulding,PAULDING CO HIGH SC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,907
+Paulding,HIRAM HIGH SCHOOL,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1503
+Paulding,TAYLOR FARM PARK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1732
+Paulding,AUSTIN MIDDLE SCHOOL,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1266
+Paulding,NEBO ELEMENTARY SCH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1720
+Paulding,CARL SCOGGINS MID SC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1190
+Paulding,SHELTON ELEM SCHOOL,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,5326
+Paulding,BURNT HICKORY PARK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1817
+Paulding,MOSES MIDDLE SCHOOL,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2316
+Paulding,WEST RIDGE CHURCH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,4782
+Paulding,WATSON GOVT COMPLEX,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2905
+Paulding,SARA RAGSDALE ELM SC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1401
+Paulding,PAULDING CO HIGH SC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1649
+Paulding,HIRAM HIGH SCHOOL,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2960
+Paulding,TAYLOR FARM PARK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2949
+Paulding,AUSTIN MIDDLE SCHOOL,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2227
+Paulding,NEBO ELEMENTARY SCH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2958
+Paulding,CARL SCOGGINS MID SC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1750
+Paulding,SHELTON ELEM SCHOOL,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,3692
+Paulding,BURNT HICKORY PARK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1411
+Paulding,MOSES MIDDLE SCHOOL,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1748
+Paulding,WEST RIDGE CHURCH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,3174
+Paulding,WATSON GOVT COMPLEX,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2053
+Paulding,SARA RAGSDALE ELM SC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1053
+Paulding,PAULDING CO HIGH SC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1257
+Paulding,HIRAM HIGH SCHOOL,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2079
+Paulding,TAYLOR FARM PARK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2217
+Paulding,AUSTIN MIDDLE SCHOOL,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1684
+Paulding,NEBO ELEMENTARY SCH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2192
+Paulding,CARL SCOGGINS MID SC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1510
+Paulding,SHELTON ELEM SCHOOL,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,7344
+Paulding,BURNT HICKORY PARK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2426
+Paulding,MOSES MIDDLE SCHOOL,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3322
+Paulding,WEST RIDGE CHURCH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,6607
+Paulding,WATSON GOVT COMPLEX,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,4207
+Paulding,SARA RAGSDALE ELM SC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1957
+Paulding,PAULDING CO HIGH SC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2437
+Paulding,HIRAM HIGH SCHOOL,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,4481
+Paulding,TAYLOR FARM PARK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,4404
+Paulding,AUSTIN MIDDLE SCHOOL,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3215
+Paulding,NEBO ELEMENTARY SCH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,4181
+Paulding,CARL SCOGGINS MID SC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2498
+Paulding,SHELTON ELEM SCHOOL,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,2026
+Paulding,BURNT HICKORY PARK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,925
+Paulding,MOSES MIDDLE SCHOOL,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,926
+Paulding,WEST RIDGE CHURCH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1631
+Paulding,WATSON GOVT COMPLEX,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,955
+Paulding,SARA RAGSDALE ELM SC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,588
+Paulding,PAULDING CO HIGH SC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,590
+Paulding,HIRAM HIGH SCHOOL,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,786
+Paulding,TAYLOR FARM PARK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,990
+Paulding,AUSTIN MIDDLE SCHOOL,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,851
+Paulding,NEBO ELEMENTARY SCH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1133
+Paulding,CARL SCOGGINS MID SC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,879
+Paulding,SHELTON ELEM SCHOOL,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,6314
+Paulding,BURNT HICKORY PARK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2018
+Paulding,MOSES MIDDLE SCHOOL,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2896
+Paulding,WEST RIDGE CHURCH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,5566
+Paulding,WATSON GOVT COMPLEX,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3539
+Paulding,SARA RAGSDALE ELM SC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1675
+Paulding,PAULDING CO HIGH SC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2025
+Paulding,HIRAM HIGH SCHOOL,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3830
+Paulding,TAYLOR FARM PARK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3666
+Paulding,AUSTIN MIDDLE SCHOOL,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2760
+Paulding,NEBO ELEMENTARY SCH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3463
+Paulding,CARL SCOGGINS MID SC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2031
+Paulding,SHELTON ELEM SCHOOL,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,2825
+Paulding,BURNT HICKORY PARK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1251
+Paulding,MOSES MIDDLE SCHOOL,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1247
+Paulding,WEST RIDGE CHURCH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,2492
+Paulding,WATSON GOVT COMPLEX,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1500
+Paulding,SARA RAGSDALE ELM SC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,813
+Paulding,PAULDING CO HIGH SC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,930
+Paulding,HIRAM HIGH SCHOOL,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1311
+Paulding,TAYLOR FARM PARK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1607
+Paulding,AUSTIN MIDDLE SCHOOL,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1214
+Paulding,NEBO ELEMENTARY SCH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1718
+Paulding,CARL SCOGGINS MID SC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1271
+Paulding,SHELTON ELEM SCHOOL,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,4716
+Paulding,BURNT HICKORY PARK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1510
+Paulding,MOSES MIDDLE SCHOOL,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2111
+Paulding,WEST RIDGE CHURCH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,4139
+Paulding,WATSON GOVT COMPLEX,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2627
+Paulding,SARA RAGSDALE ELM SC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1243
+Paulding,PAULDING CO HIGH SC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1444
+Paulding,HIRAM HIGH SCHOOL,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2810
+Paulding,TAYLOR FARM PARK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2625
+Paulding,AUSTIN MIDDLE SCHOOL,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1982
+Paulding,NEBO ELEMENTARY SCH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2534
+Paulding,CARL SCOGGINS MID SC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1510
+Paulding,SHELTON ELEM SCHOOL,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,4136
+Paulding,BURNT HICKORY PARK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1679
+Paulding,MOSES MIDDLE SCHOOL,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1926
+Paulding,WEST RIDGE CHURCH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,3695
+Paulding,WATSON GOVT COMPLEX,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2291
+Paulding,SARA RAGSDALE ELM SC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1204
+Paulding,PAULDING CO HIGH SC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1438
+Paulding,HIRAM HIGH SCHOOL,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2190
+Paulding,TAYLOR FARM PARK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2507
+Paulding,AUSTIN MIDDLE SCHOOL,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1901
+Paulding,NEBO ELEMENTARY SCH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2551
+Paulding,CARL SCOGGINS MID SC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1724
+Paulding,SHELTON ELEM SCHOOL,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,6708
+Paulding,BURNT HICKORY PARK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2279
+Paulding,MOSES MIDDLE SCHOOL,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3038
+Paulding,WEST RIDGE CHURCH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,6127
+Paulding,WATSON GOVT COMPLEX,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3798
+Paulding,SARA RAGSDALE ELM SC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1809
+Paulding,PAULDING CO HIGH SC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2216
+Paulding,HIRAM HIGH SCHOOL,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,4073
+Paulding,TAYLOR FARM PARK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3976
+Paulding,AUSTIN MIDDLE SCHOOL,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2983
+Paulding,NEBO ELEMENTARY SCH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3739
+Paulding,CARL SCOGGINS MID SC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2217
+Paulding,SHELTON ELEM SCHOOL,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,2399
+Paulding,BURNT HICKORY PARK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,974
+Paulding,MOSES MIDDLE SCHOOL,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1098
+Paulding,WEST RIDGE CHURCH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1946
+Paulding,WATSON GOVT COMPLEX,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1252
+Paulding,SARA RAGSDALE ELM SC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,681
+Paulding,PAULDING CO HIGH SC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,735
+Paulding,HIRAM HIGH SCHOOL,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1063
+Paulding,TAYLOR FARM PARK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1284
+Paulding,AUSTIN MIDDLE SCHOOL,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1007
+Paulding,NEBO ELEMENTARY SCH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1448
+Paulding,CARL SCOGGINS MID SC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1080
+Paulding,SHELTON ELEM SCHOOL,Paulding County Sunday Brunch Alcohol Sales,,,YES,7066
+Paulding,BURNT HICKORY PARK,Paulding County Sunday Brunch Alcohol Sales,,,YES,2239
+Paulding,MOSES MIDDLE SCHOOL,Paulding County Sunday Brunch Alcohol Sales,,,YES,3022
+Paulding,WEST RIDGE CHURCH,Paulding County Sunday Brunch Alcohol Sales,,,YES,5581
+Paulding,WATSON GOVT COMPLEX,Paulding County Sunday Brunch Alcohol Sales,,,YES,3418
+Paulding,SARA RAGSDALE ELM SC,Paulding County Sunday Brunch Alcohol Sales,,,YES,1510
+Paulding,PAULDING CO HIGH SC,Paulding County Sunday Brunch Alcohol Sales,,,YES,1989
+Paulding,HIRAM HIGH SCHOOL,Paulding County Sunday Brunch Alcohol Sales,,,YES,3516
+Paulding,TAYLOR FARM PARK,Paulding County Sunday Brunch Alcohol Sales,,,YES,3579
+Paulding,AUSTIN MIDDLE SCHOOL,Paulding County Sunday Brunch Alcohol Sales,,,YES,2673
+Paulding,NEBO ELEMENTARY SCH,Paulding County Sunday Brunch Alcohol Sales,,,YES,3457
+Paulding,CARL SCOGGINS MID SC,Paulding County Sunday Brunch Alcohol Sales,,,YES,1901
+Paulding,SHELTON ELEM SCHOOL,Paulding County Sunday Brunch Alcohol Sales,,,NO,2434
+Paulding,BURNT HICKORY PARK,Paulding County Sunday Brunch Alcohol Sales,,,NO,1151
+Paulding,MOSES MIDDLE SCHOOL,Paulding County Sunday Brunch Alcohol Sales,,,NO,1269
+Paulding,WEST RIDGE CHURCH,Paulding County Sunday Brunch Alcohol Sales,,,NO,2741
+Paulding,WATSON GOVT COMPLEX,Paulding County Sunday Brunch Alcohol Sales,,,NO,1789
+Paulding,SARA RAGSDALE ELM SC,Paulding County Sunday Brunch Alcohol Sales,,,NO,1049
+Paulding,PAULDING CO HIGH SC,Paulding County Sunday Brunch Alcohol Sales,,,NO,1045
+Paulding,HIRAM HIGH SCHOOL,Paulding County Sunday Brunch Alcohol Sales,,,NO,1789
+Paulding,TAYLOR FARM PARK,Paulding County Sunday Brunch Alcohol Sales,,,NO,1877
+Paulding,AUSTIN MIDDLE SCHOOL,Paulding County Sunday Brunch Alcohol Sales,,,NO,1440
+Paulding,NEBO ELEMENTARY SCH,Paulding County Sunday Brunch Alcohol Sales,,,NO,1899
+Paulding,CARL SCOGGINS MID SC,Paulding County Sunday Brunch Alcohol Sales,,,NO,1519
+Paulding,WEST RIDGE CHURCH,Dallas Sunday Brunch Alcohol Sales,,,YES,43
+Paulding,WATSON GOVT COMPLEX,Dallas Sunday Brunch Alcohol Sales,,,YES,1924
+Paulding,PAULDING CO HIGH SC,Dallas Sunday Brunch Alcohol Sales,,,YES,414
+Paulding,HIRAM HIGH SCHOOL,Dallas Sunday Brunch Alcohol Sales,,,YES,173
+Paulding,WEST RIDGE CHURCH,Dallas Sunday Brunch Alcohol Sales,,,NO,15
+Paulding,WATSON GOVT COMPLEX,Dallas Sunday Brunch Alcohol Sales,,,NO,928
+Paulding,PAULDING CO HIGH SC,Dallas Sunday Brunch Alcohol Sales,,,NO,169
+Paulding,HIRAM HIGH SCHOOL,Dallas Sunday Brunch Alcohol Sales,,,NO,110
+Paulding,WEST RIDGE CHURCH,Dallas Freeport Exemption,,,YES,35
+Paulding,WATSON GOVT COMPLEX,Dallas Freeport Exemption,,,YES,1534
+Paulding,PAULDING CO HIGH SC,Dallas Freeport Exemption,,,YES,341
+Paulding,HIRAM HIGH SCHOOL,Dallas Freeport Exemption,,,YES,145
+Paulding,WEST RIDGE CHURCH,Dallas Freeport Exemption,,,NO,23
+Paulding,WATSON GOVT COMPLEX,Dallas Freeport Exemption,,,NO,1150
+Paulding,PAULDING CO HIGH SC,Dallas Freeport Exemption,,,NO,218
+Paulding,HIRAM HIGH SCHOOL,Dallas Freeport Exemption,,,NO,126

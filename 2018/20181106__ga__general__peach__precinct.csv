@@ -1,0 +1,327 @@
+county,precinct,office,district,party,candidate,votes
+Peach,BYRON #1,Governor,,REP,BRIAN KEMP,1210
+Peach,BYRON #2,Governor,,REP,BRIAN KEMP,1875
+Peach,CLAUDE,Governor,,REP,BRIAN KEMP,471
+Peach,FORT VALLEY #1,Governor,,REP,BRIAN KEMP,588
+Peach,FORT VALLEY #2,Governor,,REP,BRIAN KEMP,444
+Peach,FORT VALLEY #3,Governor,,REP,BRIAN KEMP,192
+Peach,POWERSVILLE,Governor,,REP,BRIAN KEMP,652
+Peach,BYRON #1,Governor,,DEM,STACEY ABRAMS,444
+Peach,BYRON #2,Governor,,DEM,STACEY ABRAMS,1051
+Peach,CLAUDE,Governor,,DEM,STACEY ABRAMS,92
+Peach,FORT VALLEY #1,Governor,,DEM,STACEY ABRAMS,900
+Peach,FORT VALLEY #2,Governor,,DEM,STACEY ABRAMS,932
+Peach,FORT VALLEY #3,Governor,,DEM,STACEY ABRAMS,1341
+Peach,POWERSVILLE,Governor,,DEM,STACEY ABRAMS,206
+Peach,BYRON #1,Governor,,LIB,TED METZ,8
+Peach,BYRON #2,Governor,,LIB,TED METZ,16
+Peach,CLAUDE,Governor,,LIB,TED METZ,6
+Peach,FORT VALLEY #1,Governor,,LIB,TED METZ,4
+Peach,FORT VALLEY #2,Governor,,LIB,TED METZ,6
+Peach,FORT VALLEY #3,Governor,,LIB,TED METZ,5
+Peach,POWERSVILLE,Governor,,LIB,TED METZ,2
+Peach,BYRON #1,Lieutenant Governor,,REP,GEOFF DUNCAN,1164
+Peach,BYRON #2,Lieutenant Governor,,REP,GEOFF DUNCAN,1812
+Peach,CLAUDE,Lieutenant Governor,,REP,GEOFF DUNCAN,452
+Peach,FORT VALLEY #1,Lieutenant Governor,,REP,GEOFF DUNCAN,552
+Peach,FORT VALLEY #2,Lieutenant Governor,,REP,GEOFF DUNCAN,438
+Peach,FORT VALLEY #3,Lieutenant Governor,,REP,GEOFF DUNCAN,193
+Peach,POWERSVILLE,Lieutenant Governor,,REP,GEOFF DUNCAN,628
+Peach,BYRON #1,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,438
+Peach,BYRON #2,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1017
+Peach,CLAUDE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,96
+Peach,FORT VALLEY #1,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,833
+Peach,FORT VALLEY #2,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,856
+Peach,FORT VALLEY #3,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1241
+Peach,POWERSVILLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,202
+Peach,BYRON #1,Secretary Of State,,REP,BRAD RAFFENSPERGER,1148
+Peach,BYRON #2,Secretary Of State,,REP,BRAD RAFFENSPERGER,1776
+Peach,CLAUDE,Secretary Of State,,REP,BRAD RAFFENSPERGER,446
+Peach,FORT VALLEY #1,Secretary Of State,,REP,BRAD RAFFENSPERGER,555
+Peach,FORT VALLEY #2,Secretary Of State,,REP,BRAD RAFFENSPERGER,426
+Peach,FORT VALLEY #3,Secretary Of State,,REP,BRAD RAFFENSPERGER,187
+Peach,POWERSVILLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,630
+Peach,BYRON #1,Secretary Of State,,DEM,JOHN BARROW,479
+Peach,BYRON #2,Secretary Of State,,DEM,JOHN BARROW,1082
+Peach,CLAUDE,Secretary Of State,,DEM,JOHN BARROW,110
+Peach,FORT VALLEY #1,Secretary Of State,,DEM,JOHN BARROW,888
+Peach,FORT VALLEY #2,Secretary Of State,,DEM,JOHN BARROW,904
+Peach,FORT VALLEY #3,Secretary Of State,,DEM,JOHN BARROW,1306
+Peach,POWERSVILLE,Secretary Of State,,DEM,JOHN BARROW,211
+Peach,BYRON #1,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Peach,BYRON #2,Secretary Of State,,LIB,SMYTHE DUVAL,42
+Peach,CLAUDE,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Peach,FORT VALLEY #1,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Peach,FORT VALLEY #2,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Peach,FORT VALLEY #3,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Peach,POWERSVILLE,Secretary Of State,,LIB,SMYTHE DUVAL,7
+Peach,BYRON #1,Attorney General,,(REP,CHRIS CARR ,1165
+Peach,BYRON #2,Attorney General,,(REP,CHRIS CARR ,1841
+Peach,CLAUDE,Attorney General,,(REP,CHRIS CARR ,457
+Peach,FORT VALLEY #1,Attorney General,,(REP,CHRIS CARR ,582
+Peach,FORT VALLEY #2,Attorney General,,(REP,CHRIS CARR ,436
+Peach,FORT VALLEY #3,Attorney General,,(REP,CHRIS CARR ,219
+Peach,POWERSVILLE,Attorney General,,(REP,CHRIS CARR ,639
+Peach,BYRON #1,Attorney General,,DEM,CHARLIE BAILEY,458
+Peach,BYRON #2,Attorney General,,DEM,CHARLIE BAILEY,1051
+Peach,CLAUDE,Attorney General,,DEM,CHARLIE BAILEY,108
+Peach,FORT VALLEY #1,Attorney General,,DEM,CHARLIE BAILEY,868
+Peach,FORT VALLEY #2,Attorney General,,DEM,CHARLIE BAILEY,911
+Peach,FORT VALLEY #3,Attorney General,,DEM,CHARLIE BAILEY,1288
+Peach,POWERSVILLE,Attorney General,,DEM,CHARLIE BAILEY,206
+Peach,BYRON #1,Commissioner Of Agriculture,,(REP,GARY BLACK ,1186
+Peach,BYRON #2,Commissioner Of Agriculture,,(REP,GARY BLACK ,1865
+Peach,CLAUDE,Commissioner Of Agriculture,,(REP,GARY BLACK ,465
+Peach,FORT VALLEY #1,Commissioner Of Agriculture,,(REP,GARY BLACK ,601
+Peach,FORT VALLEY #2,Commissioner Of Agriculture,,(REP,GARY BLACK ,470
+Peach,FORT VALLEY #3,Commissioner Of Agriculture,,(REP,GARY BLACK ,236
+Peach,POWERSVILLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,648
+Peach,BYRON #1,Commissioner Of Agriculture,,DEM,FRED SWANN,435
+Peach,BYRON #2,Commissioner Of Agriculture,,DEM,FRED SWANN,1011
+Peach,CLAUDE,Commissioner Of Agriculture,,DEM,FRED SWANN,94
+Peach,FORT VALLEY #1,Commissioner Of Agriculture,,DEM,FRED SWANN,840
+Peach,FORT VALLEY #2,Commissioner Of Agriculture,,DEM,FRED SWANN,869
+Peach,FORT VALLEY #3,Commissioner Of Agriculture,,DEM,FRED SWANN,1265
+Peach,POWERSVILLE,Commissioner Of Agriculture,,DEM,FRED SWANN,192
+Peach,BYRON #1,Commissioner Of Insurance,,REP,JIM BECK,1163
+Peach,BYRON #2,Commissioner Of Insurance,,REP,JIM BECK,1817
+Peach,CLAUDE,Commissioner Of Insurance,,REP,JIM BECK,450
+Peach,FORT VALLEY #1,Commissioner Of Insurance,,REP,JIM BECK,582
+Peach,FORT VALLEY #2,Commissioner Of Insurance,,REP,JIM BECK,451
+Peach,FORT VALLEY #3,Commissioner Of Insurance,,REP,JIM BECK,200
+Peach,POWERSVILLE,Commissioner Of Insurance,,REP,JIM BECK,634
+Peach,BYRON #1,Commissioner Of Insurance,,DEM,JANICE LAWS,437
+Peach,BYRON #2,Commissioner Of Insurance,,DEM,JANICE LAWS,1021
+Peach,CLAUDE,Commissioner Of Insurance,,DEM,JANICE LAWS,95
+Peach,FORT VALLEY #1,Commissioner Of Insurance,,DEM,JANICE LAWS,836
+Peach,FORT VALLEY #2,Commissioner Of Insurance,,DEM,JANICE LAWS,871
+Peach,FORT VALLEY #3,Commissioner Of Insurance,,DEM,JANICE LAWS,1274
+Peach,POWERSVILLE,Commissioner Of Insurance,,DEM,JANICE LAWS,197
+Peach,BYRON #1,Commissioner Of Insurance,,LIB,DONNIE FOSTER,32
+Peach,BYRON #2,Commissioner Of Insurance,,LIB,DONNIE FOSTER,51
+Peach,CLAUDE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Peach,FORT VALLEY #1,Commissioner Of Insurance,,LIB,DONNIE FOSTER,32
+Peach,FORT VALLEY #2,Commissioner Of Insurance,,LIB,DONNIE FOSTER,25
+Peach,FORT VALLEY #3,Commissioner Of Insurance,,LIB,DONNIE FOSTER,26
+Peach,POWERSVILLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
+Peach,BYRON #1,State School Superintendent,,(REP,RICHARD WOODS ,1194
+Peach,BYRON #2,State School Superintendent,,(REP,RICHARD WOODS ,1862
+Peach,CLAUDE,State School Superintendent,,(REP,RICHARD WOODS ,466
+Peach,FORT VALLEY #1,State School Superintendent,,(REP,RICHARD WOODS ,597
+Peach,FORT VALLEY #2,State School Superintendent,,(REP,RICHARD WOODS ,454
+Peach,FORT VALLEY #3,State School Superintendent,,(REP,RICHARD WOODS ,213
+Peach,POWERSVILLE,State School Superintendent,,(REP,RICHARD WOODS ,645
+Peach,BYRON #1,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",440
+Peach,BYRON #2,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1026
+Peach,CLAUDE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",93
+Peach,FORT VALLEY #1,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",861
+Peach,FORT VALLEY #2,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",898
+Peach,FORT VALLEY #3,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1299
+Peach,POWERSVILLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",195
+Peach,BYRON #1,Commissioner Of Labor,,(REP,MARK BUTLER ,1187
+Peach,BYRON #2,Commissioner Of Labor,,(REP,MARK BUTLER ,1854
+Peach,CLAUDE,Commissioner Of Labor,,(REP,MARK BUTLER ,459
+Peach,FORT VALLEY #1,Commissioner Of Labor,,(REP,MARK BUTLER ,597
+Peach,FORT VALLEY #2,Commissioner Of Labor,,(REP,MARK BUTLER ,454
+Peach,FORT VALLEY #3,Commissioner Of Labor,,(REP,MARK BUTLER ,218
+Peach,POWERSVILLE,Commissioner Of Labor,,(REP,MARK BUTLER ,644
+Peach,BYRON #1,Commissioner Of Labor,,DEM,RICHARD KEATLEY,444
+Peach,BYRON #2,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1026
+Peach,CLAUDE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,99
+Peach,FORT VALLEY #1,Commissioner Of Labor,,DEM,RICHARD KEATLEY,858
+Peach,FORT VALLEY #2,Commissioner Of Labor,,DEM,RICHARD KEATLEY,894
+Peach,FORT VALLEY #3,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1291
+Peach,POWERSVILLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,199
+Peach,BYRON #1,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1158
+Peach,BYRON #2,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1801
+Peach,CLAUDE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,447
+Peach,FORT VALLEY #1,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,561
+Peach,FORT VALLEY #2,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,436
+Peach,FORT VALLEY #3,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,203
+Peach,POWERSVILLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,630
+Peach,BYRON #1,"Public Service Commission, District 3",3,DEM,LINDY MILLER,443
+Peach,BYRON #2,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1028
+Peach,CLAUDE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,104
+Peach,FORT VALLEY #1,"Public Service Commission, District 3",3,DEM,LINDY MILLER,860
+Peach,FORT VALLEY #2,"Public Service Commission, District 3",3,DEM,LINDY MILLER,894
+Peach,FORT VALLEY #3,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1278
+Peach,POWERSVILLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,209
+Peach,BYRON #1,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,27
+Peach,BYRON #2,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,56
+Peach,CLAUDE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,11
+Peach,FORT VALLEY #1,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,29
+Peach,FORT VALLEY #2,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,24
+Peach,FORT VALLEY #3,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,27
+Peach,POWERSVILLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Peach,BYRON #1,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1155
+Peach,BYRON #2,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1816
+Peach,CLAUDE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,446
+Peach,FORT VALLEY #1,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,580
+Peach,FORT VALLEY #2,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,435
+Peach,FORT VALLEY #3,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,210
+Peach,POWERSVILLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,631
+Peach,BYRON #1,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,442
+Peach,BYRON #2,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1025
+Peach,CLAUDE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,103
+Peach,FORT VALLEY #1,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,853
+Peach,FORT VALLEY #2,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,890
+Peach,FORT VALLEY #3,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1274
+Peach,POWERSVILLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,201
+Peach,BYRON #1,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,24
+Peach,BYRON #2,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,49
+Peach,CLAUDE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,11
+Peach,FORT VALLEY #1,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21
+Peach,FORT VALLEY #2,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,19
+Peach,FORT VALLEY #3,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,20
+Peach,POWERSVILLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,6
+Peach,BYRON #1,U.S. Representative,2,REP,HERMAN WEST JR,1136
+Peach,BYRON #2,U.S. Representative,2,REP,HERMAN WEST JR,1779
+Peach,CLAUDE,U.S. Representative,2,REP,HERMAN WEST JR,442
+Peach,FORT VALLEY #1,U.S. Representative,2,REP,HERMAN WEST JR,546
+Peach,FORT VALLEY #2,U.S. Representative,2,REP,HERMAN WEST JR,423
+Peach,FORT VALLEY #3,U.S. Representative,2,REP,HERMAN WEST JR,187
+Peach,POWERSVILLE,U.S. Representative,2,REP,HERMAN WEST JR,610
+Peach,BYRON #1,U.S. Representative,2,(DEM,SANFORD BISHOP ,497
+Peach,BYRON #2,U.S. Representative,2,(DEM,SANFORD BISHOP ,1115
+Peach,CLAUDE,U.S. Representative,2,(DEM,SANFORD BISHOP ,116
+Peach,FORT VALLEY #1,U.S. Representative,2,(DEM,SANFORD BISHOP ,917
+Peach,FORT VALLEY #2,U.S. Representative,2,(DEM,SANFORD BISHOP ,936
+Peach,FORT VALLEY #3,U.S. Representative,2,(DEM,SANFORD BISHOP ,1329
+Peach,POWERSVILLE,U.S. Representative,2,(DEM,SANFORD BISHOP ,238
+Peach,BYRON #1,State Senator,18,(REP,JOHN F. KENNEDY ,1366
+Peach,BYRON #2,State Senator,18,(REP,JOHN F. KENNEDY ,2295
+Peach,CLAUDE,State Senator,18,(REP,JOHN F. KENNEDY ,496
+Peach,FORT VALLEY #1,State Senator,18,(REP,JOHN F. KENNEDY ,971
+Peach,FORT VALLEY #2,State Senator,18,(REP,JOHN F. KENNEDY ,800
+Peach,FORT VALLEY #3,State Senator,18,(REP,JOHN F. KENNEDY ,750
+Peach,POWERSVILLE,State Senator,18,(REP,JOHN F. KENNEDY ,727
+Peach,FORT VALLEY #1,State Representative,139,(DEM,PATTY BENTLEY ,1135
+Peach,FORT VALLEY #2,State Representative,139,(DEM,PATTY BENTLEY ,1058
+Peach,FORT VALLEY #3,State Representative,139,(DEM,PATTY BENTLEY ,1359
+Peach,BYRON #1,State Representative,140,(REP,ROBERT DICKEY ,1363
+Peach,BYRON #2,State Representative,140,(REP,ROBERT DICKEY ,2284
+Peach,CLAUDE,State Representative,140,(REP,ROBERT DICKEY ,500
+Peach,POWERSVILLE,State Representative,140,(REP,ROBERT DICKEY ,728
+Peach,CLAUDE,CC P2,,D,S. W. BRYANT,98
+Peach,FORT VALLEY #1,CC P2,,D,S. W. BRYANT,327
+Peach,FORT VALLEY #2,CC P2,,D,S. W. BRYANT,696
+Peach,FORT VALLEY #3,CC P2,,D,S. W. BRYANT,384
+Peach,POWERSVILLE,CC P2,,D,S. W. BRYANT,92
+Peach,BYRON #1,CC P4,,R,M. MOSELEY JR ,1374
+Peach,FORT VALLEY #1,CC P4,,R,M. MOSELEY JR ,502
+Peach,FORT VALLEY #2,CC P4,,R,M. MOSELEY JR ,189
+Peach,POWERSVILLE,CC P4,,R,M. MOSELEY JR ,335
+Peach,BYRON #1,BOE P5 AT LARGE,,R,BJ WAKER III,1346
+Peach,BYRON #2,BOE P5 AT LARGE,,R,BJ WAKER III,2276
+Peach,CLAUDE,BOE P5 AT LARGE,,R,BJ WAKER III,487
+Peach,FORT VALLEY #1,BOE P5 AT LARGE,,R,BJ WAKER III,938
+Peach,FORT VALLEY #2,BOE P5 AT LARGE,,R,BJ WAKER III,777
+Peach,FORT VALLEY #3,BOE P5 AT LARGE,,R,BJ WAKER III,722
+Peach,POWERSVILLE,BOE P5 AT LARGE,,R,BJ WAKER III,714
+Peach,CLAUDE,BOE P2,,D,D. EVERETT,98
+Peach,FORT VALLEY #1,BOE P2,,D,D. EVERETT,328
+Peach,FORT VALLEY #2,BOE P2,,D,D. EVERETT,700
+Peach,FORT VALLEY #3,BOE P2,,D,D. EVERETT,395
+Peach,POWERSVILLE,BOE P2,,D,D. EVERETT,93
+Peach,BYRON #1,BOE P4,,R,S. HODGES,1359
+Peach,FORT VALLEY #1,BOE P4,,R,S. HODGES,507
+Peach,FORT VALLEY #2,BOE P4,,R,S. HODGES,185
+Peach,POWERSVILLE,BOE P4,,R,S. HODGES,332
+Peach,BYRON #1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1295
+Peach,BYRON #2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2325
+Peach,CLAUDE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,420
+Peach,FORT VALLEY #1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1165
+Peach,FORT VALLEY #2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1044
+Peach,FORT VALLEY #3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1248
+Peach,POWERSVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,634
+Peach,BYRON #1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,316
+Peach,BYRON #2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,538
+Peach,CLAUDE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,127
+Peach,FORT VALLEY #1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,260
+Peach,FORT VALLEY #2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,277
+Peach,FORT VALLEY #3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,230
+Peach,POWERSVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,190
+Peach,BYRON #1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1021
+Peach,BYRON #2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1901
+Peach,CLAUDE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,335
+Peach,FORT VALLEY #1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,971
+Peach,FORT VALLEY #2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,923
+Peach,FORT VALLEY #3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1098
+Peach,POWERSVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,505
+Peach,BYRON #1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,563
+Peach,BYRON #2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,912
+Peach,CLAUDE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,199
+Peach,FORT VALLEY #1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,417
+Peach,FORT VALLEY #2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,376
+Peach,FORT VALLEY #3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,355
+Peach,POWERSVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,295
+Peach,BYRON #1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,948
+Peach,BYRON #2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1632
+Peach,CLAUDE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,307
+Peach,FORT VALLEY #1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,848
+Peach,FORT VALLEY #2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,802
+Peach,FORT VALLEY #3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,971
+Peach,POWERSVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,439
+Peach,BYRON #1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,608
+Peach,BYRON #2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1117
+Peach,CLAUDE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,223
+Peach,FORT VALLEY #1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,514
+Peach,FORT VALLEY #2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,483
+Peach,FORT VALLEY #3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,458
+Peach,POWERSVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,347
+Peach,BYRON #1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1203
+Peach,BYRON #2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2243
+Peach,CLAUDE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,410
+Peach,FORT VALLEY #1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1089
+Peach,FORT VALLEY #2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1028
+Peach,FORT VALLEY #3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1246
+Peach,POWERSVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,619
+Peach,BYRON #1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,393
+Peach,BYRON #2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,605
+Peach,CLAUDE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,141
+Peach,FORT VALLEY #1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,326
+Peach,FORT VALLEY #2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,290
+Peach,FORT VALLEY #3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,226
+Peach,POWERSVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,201
+Peach,BYRON #1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1035
+Peach,BYRON #2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1924
+Peach,CLAUDE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,315
+Peach,FORT VALLEY #1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,962
+Peach,FORT VALLEY #2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,907
+Peach,FORT VALLEY #3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1140
+Peach,POWERSVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,490
+Peach,BYRON #1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,538
+Peach,BYRON #2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,862
+Peach,CLAUDE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,213
+Peach,FORT VALLEY #1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,417
+Peach,FORT VALLEY #2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,382
+Peach,FORT VALLEY #3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,312
+Peach,POWERSVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,312
+Peach,BYRON #1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,809
+Peach,BYRON #2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1486
+Peach,CLAUDE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,236
+Peach,FORT VALLEY #1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,766
+Peach,FORT VALLEY #2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,752
+Peach,FORT VALLEY #3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,944
+Peach,POWERSVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,385
+Peach,BYRON #1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,732
+Peach,BYRON #2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1256
+Peach,CLAUDE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,276
+Peach,FORT VALLEY #1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,597
+Peach,FORT VALLEY #2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,528
+Peach,FORT VALLEY #3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,485
+Peach,POWERSVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,407
+Peach,BYRON #1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1128
+Peach,BYRON #2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2110
+Peach,CLAUDE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,357
+Peach,FORT VALLEY #1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1062
+Peach,FORT VALLEY #2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1017
+Peach,FORT VALLEY #3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1254
+Peach,POWERSVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,573
+Peach,BYRON #1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,460
+Peach,BYRON #2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,698
+Peach,CLAUDE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,182
+Peach,FORT VALLEY #1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,352
+Peach,FORT VALLEY #2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,296
+Peach,FORT VALLEY #3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,221
+Peach,POWERSVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,237

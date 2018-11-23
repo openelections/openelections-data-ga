@@ -1,0 +1,372 @@
+county,precinct,office,district,party,candidate,votes
+Pike,Concord,Governor,,REP,BRIAN KEMP,728
+Pike,Hollonville,Governor,,REP,BRIAN KEMP,973
+Pike,Meansville,Governor,,REP,BRIAN KEMP,747
+Pike,Molena,Governor,,REP,BRIAN KEMP,789
+Pike,Second District,Governor,,REP,BRIAN KEMP,1465
+Pike,Lifsey Springs,Governor,,REP,BRIAN KEMP,625
+Pike,Williamson,Governor,,REP,BRIAN KEMP,983
+Pike,Zebulon,Governor,,REP,BRIAN KEMP,1012
+Pike,Concord,Governor,,DEM,STACEY ABRAMS,187
+Pike,Hollonville,Governor,,DEM,STACEY ABRAMS,91
+Pike,Meansville,Governor,,DEM,STACEY ABRAMS,89
+Pike,Molena,Governor,,DEM,STACEY ABRAMS,143
+Pike,Second District,Governor,,DEM,STACEY ABRAMS,174
+Pike,Lifsey Springs,Governor,,DEM,STACEY ABRAMS,82
+Pike,Williamson,Governor,,DEM,STACEY ABRAMS,111
+Pike,Zebulon,Governor,,DEM,STACEY ABRAMS,287
+Pike,Concord,Governor,,LIB,TED METZ,2
+Pike,Hollonville,Governor,,LIB,TED METZ,11
+Pike,Meansville,Governor,,LIB,TED METZ,5
+Pike,Molena,Governor,,LIB,TED METZ,8
+Pike,Second District,Governor,,LIB,TED METZ,8
+Pike,Lifsey Springs,Governor,,LIB,TED METZ,6
+Pike,Williamson,Governor,,LIB,TED METZ,8
+Pike,Zebulon,Governor,,LIB,TED METZ,9
+Pike,Concord,Lieutenant Governor,,REP,GEOFF DUNCAN,715
+Pike,Hollonville,Lieutenant Governor,,REP,GEOFF DUNCAN,944
+Pike,Meansville,Lieutenant Governor,,REP,GEOFF DUNCAN,719
+Pike,Molena,Lieutenant Governor,,REP,GEOFF DUNCAN,769
+Pike,Second District,Lieutenant Governor,,REP,GEOFF DUNCAN,1430
+Pike,Lifsey Springs,Lieutenant Governor,,REP,GEOFF DUNCAN,612
+Pike,Williamson,Lieutenant Governor,,REP,GEOFF DUNCAN,955
+Pike,Zebulon,Lieutenant Governor,,REP,GEOFF DUNCAN,992
+Pike,Concord,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,166
+Pike,Hollonville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,99
+Pike,Meansville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,92
+Pike,Molena,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,141
+Pike,Second District,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,176
+Pike,Lifsey Springs,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,83
+Pike,Williamson,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,116
+Pike,Zebulon,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,273
+Pike,Concord,Secretary Of State,,REP,BRAD RAFFENSPERGER,704
+Pike,Hollonville,Secretary Of State,,REP,BRAD RAFFENSPERGER,941
+Pike,Meansville,Secretary Of State,,REP,BRAD RAFFENSPERGER,729
+Pike,Molena,Secretary Of State,,REP,BRAD RAFFENSPERGER,751
+Pike,Second District,Secretary Of State,,REP,BRAD RAFFENSPERGER,1426
+Pike,Lifsey Springs,Secretary Of State,,REP,BRAD RAFFENSPERGER,611
+Pike,Williamson,Secretary Of State,,REP,BRAD RAFFENSPERGER,955
+Pike,Zebulon,Secretary Of State,,REP,BRAD RAFFENSPERGER,968
+Pike,Concord,Secretary Of State,,DEM,JOHN BARROW,174
+Pike,Hollonville,Secretary Of State,,DEM,JOHN BARROW,103
+Pike,Meansville,Secretary Of State,,DEM,JOHN BARROW,96
+Pike,Molena,Secretary Of State,,DEM,JOHN BARROW,144
+Pike,Second District,Secretary Of State,,DEM,JOHN BARROW,189
+Pike,Lifsey Springs,Secretary Of State,,DEM,JOHN BARROW,88
+Pike,Williamson,Secretary Of State,,DEM,JOHN BARROW,120
+Pike,Zebulon,Secretary Of State,,DEM,JOHN BARROW,293
+Pike,Concord,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Pike,Hollonville,Secretary Of State,,LIB,SMYTHE DUVAL,20
+Pike,Meansville,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Pike,Molena,Secretary Of State,,LIB,SMYTHE DUVAL,28
+Pike,Second District,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Pike,Lifsey Springs,Secretary Of State,,LIB,SMYTHE DUVAL,7
+Pike,Williamson,Secretary Of State,,LIB,SMYTHE DUVAL,20
+Pike,Zebulon,Secretary Of State,,LIB,SMYTHE DUVAL,28
+Pike,Concord,Attorney General,,(REP,CHRIS CARR ,716
+Pike,Hollonville,Attorney General,,(REP,CHRIS CARR ,948
+Pike,Meansville,Attorney General,,(REP,CHRIS CARR ,736
+Pike,Molena,Attorney General,,(REP,CHRIS CARR ,773
+Pike,Second District,Attorney General,,(REP,CHRIS CARR ,1435
+Pike,Lifsey Springs,Attorney General,,(REP,CHRIS CARR ,615
+Pike,Williamson,Attorney General,,(REP,CHRIS CARR ,956
+Pike,Zebulon,Attorney General,,(REP,CHRIS CARR ,989
+Pike,Concord,Attorney General,,DEM,CHARLIE BAILEY,178
+Pike,Hollonville,Attorney General,,DEM,CHARLIE BAILEY,107
+Pike,Meansville,Attorney General,,DEM,CHARLIE BAILEY,95
+Pike,Molena,Attorney General,,DEM,CHARLIE BAILEY,149
+Pike,Second District,Attorney General,,DEM,CHARLIE BAILEY,189
+Pike,Lifsey Springs,Attorney General,,DEM,CHARLIE BAILEY,87
+Pike,Williamson,Attorney General,,DEM,CHARLIE BAILEY,129
+Pike,Zebulon,Attorney General,,DEM,CHARLIE BAILEY,302
+Pike,Concord,Commissioner Of Agriculture,,(REP,GARY BLACK ,719
+Pike,Hollonville,Commissioner Of Agriculture,,(REP,GARY BLACK ,963
+Pike,Meansville,Commissioner Of Agriculture,,(REP,GARY BLACK ,737
+Pike,Molena,Commissioner Of Agriculture,,(REP,GARY BLACK ,782
+Pike,Second District,Commissioner Of Agriculture,,(REP,GARY BLACK ,1449
+Pike,Lifsey Springs,Commissioner Of Agriculture,,(REP,GARY BLACK ,621
+Pike,Williamson,Commissioner Of Agriculture,,(REP,GARY BLACK ,977
+Pike,Zebulon,Commissioner Of Agriculture,,(REP,GARY BLACK ,1011
+Pike,Concord,Commissioner Of Agriculture,,DEM,FRED SWANN,163
+Pike,Hollonville,Commissioner Of Agriculture,,DEM,FRED SWANN,89
+Pike,Meansville,Commissioner Of Agriculture,,DEM,FRED SWANN,85
+Pike,Molena,Commissioner Of Agriculture,,DEM,FRED SWANN,139
+Pike,Second District,Commissioner Of Agriculture,,DEM,FRED SWANN,168
+Pike,Lifsey Springs,Commissioner Of Agriculture,,DEM,FRED SWANN,76
+Pike,Williamson,Commissioner Of Agriculture,,DEM,FRED SWANN,110
+Pike,Zebulon,Commissioner Of Agriculture,,DEM,FRED SWANN,276
+Pike,Concord,Commissioner Of Insurance,,REP,JIM BECK,712
+Pike,Hollonville,Commissioner Of Insurance,,REP,JIM BECK,946
+Pike,Meansville,Commissioner Of Insurance,,REP,JIM BECK,723
+Pike,Molena,Commissioner Of Insurance,,REP,JIM BECK,766
+Pike,Second District,Commissioner Of Insurance,,REP,JIM BECK,1441
+Pike,Lifsey Springs,Commissioner Of Insurance,,REP,JIM BECK,615
+Pike,Williamson,Commissioner Of Insurance,,REP,JIM BECK,951
+Pike,Zebulon,Commissioner Of Insurance,,REP,JIM BECK,980
+Pike,Concord,Commissioner Of Insurance,,DEM,JANICE LAWS,168
+Pike,Hollonville,Commissioner Of Insurance,,DEM,JANICE LAWS,95
+Pike,Meansville,Commissioner Of Insurance,,DEM,JANICE LAWS,85
+Pike,Molena,Commissioner Of Insurance,,DEM,JANICE LAWS,131
+Pike,Second District,Commissioner Of Insurance,,DEM,JANICE LAWS,173
+Pike,Lifsey Springs,Commissioner Of Insurance,,DEM,JANICE LAWS,74
+Pike,Williamson,Commissioner Of Insurance,,DEM,JANICE LAWS,110
+Pike,Zebulon,Commissioner Of Insurance,,DEM,JANICE LAWS,281
+Pike,Concord,Commissioner Of Insurance,,LIB,DONNIE FOSTER,14
+Pike,Hollonville,Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Pike,Meansville,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Pike,Molena,Commissioner Of Insurance,,LIB,DONNIE FOSTER,31
+Pike,Second District,Commissioner Of Insurance,,LIB,DONNIE FOSTER,15
+Pike,Lifsey Springs,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Pike,Williamson,Commissioner Of Insurance,,LIB,DONNIE FOSTER,27
+Pike,Zebulon,Commissioner Of Insurance,,LIB,DONNIE FOSTER,24
+Pike,Concord,State School Superintendent,,(REP,RICHARD WOODS ,727
+Pike,Hollonville,State School Superintendent,,(REP,RICHARD WOODS ,970
+Pike,Meansville,State School Superintendent,,(REP,RICHARD WOODS ,741
+Pike,Molena,State School Superintendent,,(REP,RICHARD WOODS ,792
+Pike,Second District,State School Superintendent,,(REP,RICHARD WOODS ,1459
+Pike,Lifsey Springs,State School Superintendent,,(REP,RICHARD WOODS ,622
+Pike,Williamson,State School Superintendent,,(REP,RICHARD WOODS ,977
+Pike,Zebulon,State School Superintendent,,(REP,RICHARD WOODS ,1006
+Pike,Concord,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",162
+Pike,Hollonville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",89
+Pike,Meansville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",89
+Pike,Molena,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",133
+Pike,Second District,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",172
+Pike,Lifsey Springs,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",79
+Pike,Williamson,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",111
+Pike,Zebulon,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",284
+Pike,Concord,Commissioner Of Labor,,(REP,MARK BUTLER ,723
+Pike,Hollonville,Commissioner Of Labor,,(REP,MARK BUTLER ,954
+Pike,Meansville,Commissioner Of Labor,,(REP,MARK BUTLER ,736
+Pike,Molena,Commissioner Of Labor,,(REP,MARK BUTLER ,780
+Pike,Second District,Commissioner Of Labor,,(REP,MARK BUTLER ,1454
+Pike,Lifsey Springs,Commissioner Of Labor,,(REP,MARK BUTLER ,621
+Pike,Williamson,Commissioner Of Labor,,(REP,MARK BUTLER ,967
+Pike,Zebulon,Commissioner Of Labor,,(REP,MARK BUTLER ,1003
+Pike,Concord,Commissioner Of Labor,,DEM,RICHARD KEATLEY,173
+Pike,Hollonville,Commissioner Of Labor,,DEM,RICHARD KEATLEY,96
+Pike,Meansville,Commissioner Of Labor,,DEM,RICHARD KEATLEY,91
+Pike,Molena,Commissioner Of Labor,,DEM,RICHARD KEATLEY,144
+Pike,Second District,Commissioner Of Labor,,DEM,RICHARD KEATLEY,171
+Pike,Lifsey Springs,Commissioner Of Labor,,DEM,RICHARD KEATLEY,78
+Pike,Williamson,Commissioner Of Labor,,DEM,RICHARD KEATLEY,123
+Pike,Zebulon,Commissioner Of Labor,,DEM,RICHARD KEATLEY,283
+Pike,Concord,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,705
+Pike,Hollonville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,924
+Pike,Meansville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,725
+Pike,Molena,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,758
+Pike,Second District,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1417
+Pike,Lifsey Springs,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,608
+Pike,Williamson,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,949
+Pike,Zebulon,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,970
+Pike,Concord,"Public Service Commission, District 3",3,DEM,LINDY MILLER,181
+Pike,Hollonville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,105
+Pike,Meansville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,88
+Pike,Molena,"Public Service Commission, District 3",3,DEM,LINDY MILLER,142
+Pike,Second District,"Public Service Commission, District 3",3,DEM,LINDY MILLER,187
+Pike,Lifsey Springs,"Public Service Commission, District 3",3,DEM,LINDY MILLER,81
+Pike,Williamson,"Public Service Commission, District 3",3,DEM,LINDY MILLER,117
+Pike,Zebulon,"Public Service Commission, District 3",3,DEM,LINDY MILLER,283
+Pike,Concord,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,12
+Pike,Hollonville,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,26
+Pike,Meansville,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Pike,Molena,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,27
+Pike,Second District,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,19
+Pike,Lifsey Springs,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,13
+Pike,Williamson,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,25
+Pike,Zebulon,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,32
+Pike,Concord,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,705
+Pike,Hollonville,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,929
+Pike,Meansville,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,716
+Pike,Molena,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,762
+Pike,Second District,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1432
+Pike,Lifsey Springs,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,609
+Pike,Williamson,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,958
+Pike,Zebulon,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,976
+Pike,Concord,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,170
+Pike,Hollonville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,103
+Pike,Meansville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,89
+Pike,Molena,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,141
+Pike,Second District,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,172
+Pike,Lifsey Springs,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,78
+Pike,Williamson,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,106
+Pike,Zebulon,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,279
+Pike,Concord,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,16
+Pike,Hollonville,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,25
+Pike,Meansville,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21
+Pike,Molena,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,22
+Pike,Second District,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,19
+Pike,Lifsey Springs,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,15
+Pike,Williamson,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,25
+Pike,Zebulon,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,30
+Pike,Concord,U.S. Representative,3,(REP,DREW FERGUSON ,725
+Pike,Hollonville,U.S. Representative,3,(REP,DREW FERGUSON ,953
+Pike,Meansville,U.S. Representative,3,(REP,DREW FERGUSON ,740
+Pike,Molena,U.S. Representative,3,(REP,DREW FERGUSON ,781
+Pike,Second District,U.S. Representative,3,(REP,DREW FERGUSON ,1455
+Pike,Lifsey Springs,U.S. Representative,3,(REP,DREW FERGUSON ,622
+Pike,Williamson,U.S. Representative,3,(REP,DREW FERGUSON ,976
+Pike,Zebulon,U.S. Representative,3,(REP,DREW FERGUSON ,1009
+Pike,Concord,U.S. Representative,3,DEM,CHUCK ENDERLIN,174
+Pike,Hollonville,U.S. Representative,3,DEM,CHUCK ENDERLIN,100
+Pike,Meansville,U.S. Representative,3,DEM,CHUCK ENDERLIN,89
+Pike,Molena,U.S. Representative,3,DEM,CHUCK ENDERLIN,142
+Pike,Second District,U.S. Representative,3,DEM,CHUCK ENDERLIN,171
+Pike,Lifsey Springs,U.S. Representative,3,DEM,CHUCK ENDERLIN,77
+Pike,Williamson,U.S. Representative,3,DEM,CHUCK ENDERLIN,116
+Pike,Zebulon,U.S. Representative,3,DEM,CHUCK ENDERLIN,280
+Pike,Concord,State Senator,16,(REP,MARTY HARBIN ,723
+Pike,Hollonville,State Senator,16,(REP,MARTY HARBIN ,949
+Pike,Meansville,State Senator,16,(REP,MARTY HARBIN ,737
+Pike,Molena,State Senator,16,(REP,MARTY HARBIN ,784
+Pike,Second District,State Senator,16,(REP,MARTY HARBIN ,1443
+Pike,Lifsey Springs,State Senator,16,(REP,MARTY HARBIN ,620
+Pike,Williamson,State Senator,16,(REP,MARTY HARBIN ,971
+Pike,Zebulon,State Senator,16,(REP,MARTY HARBIN ,999
+Pike,Concord,State Senator,16,DEM,BILL LIGHTLE,175
+Pike,Hollonville,State Senator,16,DEM,BILL LIGHTLE,104
+Pike,Meansville,State Senator,16,DEM,BILL LIGHTLE,91
+Pike,Molena,State Senator,16,DEM,BILL LIGHTLE,142
+Pike,Second District,State Senator,16,DEM,BILL LIGHTLE,178
+Pike,Lifsey Springs,State Senator,16,DEM,BILL LIGHTLE,82
+Pike,Williamson,State Senator,16,DEM,BILL LIGHTLE,118
+Pike,Zebulon,State Senator,16,DEM,BILL LIGHTLE,287
+Pike,Concord,State Representative,131,REP,KEN PULLIN,729
+Pike,Hollonville,State Representative,131,REP,KEN PULLIN,960
+Pike,Meansville,State Representative,131,REP,KEN PULLIN,741
+Pike,Molena,State Representative,131,REP,KEN PULLIN,791
+Pike,Second District,State Representative,131,REP,KEN PULLIN,1455
+Pike,Lifsey Springs,State Representative,131,REP,KEN PULLIN,619
+Pike,Williamson,State Representative,131,REP,KEN PULLIN,974
+Pike,Zebulon,State Representative,131,REP,KEN PULLIN,1007
+Pike,Concord,State Representative,131,DEM,CHRIS BENTON,174
+Pike,Hollonville,State Representative,131,DEM,CHRIS BENTON,97
+Pike,Meansville,State Representative,131,DEM,CHRIS BENTON,88
+Pike,Molena,State Representative,131,DEM,CHRIS BENTON,133
+Pike,Second District,State Representative,131,DEM,CHRIS BENTON,171
+Pike,Lifsey Springs,State Representative,131,DEM,CHRIS BENTON,86
+Pike,Williamson,State Representative,131,DEM,CHRIS BENTON,118
+Pike,Zebulon,State Representative,131,DEM,CHRIS BENTON,288
+Pike,Concord,CC, D1,R,T. D. DANIEL ,635
+Pike,Hollonville,CC, D1,R,T. D. DANIEL ,271
+Pike,Molena,CC, D1,R,T. D. DANIEL ,79
+Pike,Lifsey Springs,CC, D1,R,T. D. DANIEL ,33
+Pike,Williamson,CC, D1,R,T. D. DANIEL ,49
+Pike,Zebulon,CC, D1,R,T. D. DANIEL ,666
+Pike,Concord,CC, D2,R,T. GUY ,169
+Pike,Hollonville,CC, D2,R,T. GUY ,352
+Pike,Molena,CC, D2,R,T. GUY ,756
+Pike,Lifsey Springs,CC, D2,R,T. GUY ,380
+Pike,Zebulon,CC, D2,R,T. GUY ,220
+Pike,Concord,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,690
+Pike,Hollonville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,814
+Pike,Meansville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,638
+Pike,Molena,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,719
+Pike,Second District,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1229
+Pike,Lifsey Springs,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,550
+Pike,Williamson,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,839
+Pike,Zebulon,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,951
+Pike,Concord,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,207
+Pike,Hollonville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,219
+Pike,Meansville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,188
+Pike,Molena,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,194
+Pike,Second District,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,370
+Pike,Lifsey Springs,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,144
+Pike,Williamson,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,233
+Pike,Zebulon,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,323
+Pike,Concord,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,562
+Pike,Hollonville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,639
+Pike,Meansville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,491
+Pike,Molena,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,609
+Pike,Second District,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,998
+Pike,Lifsey Springs,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,397
+Pike,Williamson,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,670
+Pike,Zebulon,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,772
+Pike,Concord,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,304
+Pike,Hollonville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,373
+Pike,Meansville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,309
+Pike,Molena,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,278
+Pike,Second District,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,565
+Pike,Lifsey Springs,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,276
+Pike,Williamson,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,371
+Pike,Zebulon,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,476
+Pike,Concord,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,498
+Pike,Hollonville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,589
+Pike,Meansville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,445
+Pike,Molena,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,521
+Pike,Second District,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,896
+Pike,Lifsey Springs,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,369
+Pike,Williamson,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,596
+Pike,Zebulon,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,691
+Pike,Concord,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,362
+Pike,Hollonville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,415
+Pike,Meansville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,353
+Pike,Molena,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,354
+Pike,Second District,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,644
+Pike,Lifsey Springs,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,299
+Pike,Williamson,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,438
+Pike,Zebulon,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,540
+Pike,Concord,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,647
+Pike,Hollonville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,748
+Pike,Meansville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,595
+Pike,Molena,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,709
+Pike,Second District,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1164
+Pike,Lifsey Springs,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,531
+Pike,Williamson,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,755
+Pike,Zebulon,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,916
+Pike,Concord,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,243
+Pike,Hollonville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,286
+Pike,Meansville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,226
+Pike,Molena,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,196
+Pike,Second District,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,426
+Pike,Lifsey Springs,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,168
+Pike,Williamson,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,303
+Pike,Zebulon,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,361
+Pike,Concord,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,565
+Pike,Hollonville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,634
+Pike,Meansville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,478
+Pike,Molena,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,550
+Pike,Second District,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,947
+Pike,Lifsey Springs,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,397
+Pike,Williamson,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,644
+Pike,Zebulon,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,738
+Pike,Concord,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,299
+Pike,Hollonville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,366
+Pike,Meansville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,323
+Pike,Molena,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,327
+Pike,Second District,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,594
+Pike,Lifsey Springs,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,278
+Pike,Williamson,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,402
+Pike,Zebulon,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,508
+Pike,Concord,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,447
+Pike,Hollonville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,516
+Pike,Meansville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,383
+Pike,Molena,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,441
+Pike,Second District,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,787
+Pike,Lifsey Springs,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,331
+Pike,Williamson,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,507
+Pike,Zebulon,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,597
+Pike,Concord,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,407
+Pike,Hollonville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,465
+Pike,Meansville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,406
+Pike,Molena,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,436
+Pike,Second District,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,745
+Pike,Lifsey Springs,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,346
+Pike,Williamson,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,505
+Pike,Zebulon,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,631
+Pike,Concord,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,613
+Pike,Hollonville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,694
+Pike,Meansville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,574
+Pike,Molena,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,617
+Pike,Second District,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1087
+Pike,Lifsey Springs,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,449
+Pike,Williamson,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,681
+Pike,Zebulon,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,849
+Pike,Concord,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,260
+Pike,Hollonville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,319
+Pike,Meansville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,237
+Pike,Molena,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,282
+Pike,Second District,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,485
+Pike,Lifsey Springs,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,238
+Pike,Williamson,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,364
+Pike,Zebulon,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,411

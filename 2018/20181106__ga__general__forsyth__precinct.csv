@@ -1,0 +1,851 @@
+county,precinct,office,district,party,candidate,votes
+Forsyth,01 Big Creek,Governor,,REP,BRIAN KEMP,6275
+Forsyth,02 Brandywine,Governor,,REP,BRIAN KEMP,1761
+Forsyth,03 Browns Bridge,Governor,,REP,BRIAN KEMP,4568
+Forsyth,04 Chestatee,Governor,,REP,BRIAN KEMP,3206
+Forsyth,05 Coal Mountain,Governor,,REP,BRIAN KEMP,2743
+Forsyth,06 Crossroads,Governor,,REP,BRIAN KEMP,3084
+Forsyth,07 Cumming,Governor,,REP,BRIAN KEMP,1223
+Forsyth,08 Mashburn,Governor,,REP,BRIAN KEMP,3899
+Forsyth,10 Midway,Governor,,REP,BRIAN KEMP,8108
+Forsyth,15 Heardsville,Governor,,REP,BRIAN KEMP,4079
+Forsyth,16 Otwell,Governor,,REP,BRIAN KEMP,5281
+Forsyth,19 Old Atlanta,Governor,,REP,BRIAN KEMP,2371
+Forsyth,21 South Forsyth,Governor,,REP,BRIAN KEMP,5186
+Forsyth,25 Windermere,Governor,,REP,BRIAN KEMP,3527
+Forsyth,27 Concord,Governor,,REP,BRIAN KEMP,4758
+Forsyth,29 Polo,Governor,,REP,BRIAN KEMP,5776
+Forsyth,01 Big Creek,Governor,,DEM,STACEY ABRAMS,3477
+Forsyth,02 Brandywine,Governor,,DEM,STACEY ABRAMS,2070
+Forsyth,03 Browns Bridge,Governor,,DEM,STACEY ABRAMS,1067
+Forsyth,04 Chestatee,Governor,,DEM,STACEY ABRAMS,562
+Forsyth,05 Coal Mountain,Governor,,DEM,STACEY ABRAMS,784
+Forsyth,06 Crossroads,Governor,,DEM,STACEY ABRAMS,673
+Forsyth,07 Cumming,Governor,,DEM,STACEY ABRAMS,433
+Forsyth,08 Mashburn,Governor,,DEM,STACEY ABRAMS,1185
+Forsyth,10 Midway,Governor,,DEM,STACEY ABRAMS,3183
+Forsyth,15 Heardsville,Governor,,DEM,STACEY ABRAMS,953
+Forsyth,16 Otwell,Governor,,DEM,STACEY ABRAMS,1652
+Forsyth,19 Old Atlanta,Governor,,DEM,STACEY ABRAMS,1512
+Forsyth,21 South Forsyth,Governor,,DEM,STACEY ABRAMS,2706
+Forsyth,25 Windermere,Governor,,DEM,STACEY ABRAMS,1974
+Forsyth,27 Concord,Governor,,DEM,STACEY ABRAMS,1037
+Forsyth,29 Polo,Governor,,DEM,STACEY ABRAMS,2824
+Forsyth,01 Big Creek,Governor,,LIB,TED METZ,139
+Forsyth,02 Brandywine,Governor,,LIB,TED METZ,55
+Forsyth,03 Browns Bridge,Governor,,LIB,TED METZ,101
+Forsyth,04 Chestatee,Governor,,LIB,TED METZ,44
+Forsyth,05 Coal Mountain,Governor,,LIB,TED METZ,40
+Forsyth,06 Crossroads,Governor,,LIB,TED METZ,71
+Forsyth,07 Cumming,Governor,,LIB,TED METZ,21
+Forsyth,08 Mashburn,Governor,,LIB,TED METZ,75
+Forsyth,10 Midway,Governor,,LIB,TED METZ,164
+Forsyth,15 Heardsville,Governor,,LIB,TED METZ,79
+Forsyth,16 Otwell,Governor,,LIB,TED METZ,113
+Forsyth,19 Old Atlanta,Governor,,LIB,TED METZ,43
+Forsyth,21 South Forsyth,Governor,,LIB,TED METZ,110
+Forsyth,25 Windermere,Governor,,LIB,TED METZ,89
+Forsyth,27 Concord,Governor,,LIB,TED METZ,88
+Forsyth,29 Polo,Governor,,LIB,TED METZ,129
+Forsyth,01 Big Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,6387
+Forsyth,02 Brandywine,Lieutenant Governor,,REP,GEOFF DUNCAN,1782
+Forsyth,03 Browns Bridge,Lieutenant Governor,,REP,GEOFF DUNCAN,4568
+Forsyth,04 Chestatee,Lieutenant Governor,,REP,GEOFF DUNCAN,3170
+Forsyth,05 Coal Mountain,Lieutenant Governor,,REP,GEOFF DUNCAN,2734
+Forsyth,06 Crossroads,Lieutenant Governor,,REP,GEOFF DUNCAN,3086
+Forsyth,07 Cumming,Lieutenant Governor,,REP,GEOFF DUNCAN,1217
+Forsyth,08 Mashburn,Lieutenant Governor,,REP,GEOFF DUNCAN,3926
+Forsyth,10 Midway,Lieutenant Governor,,REP,GEOFF DUNCAN,8186
+Forsyth,15 Heardsville,Lieutenant Governor,,REP,GEOFF DUNCAN,4075
+Forsyth,16 Otwell,Lieutenant Governor,,REP,GEOFF DUNCAN,5250
+Forsyth,19 Old Atlanta,Lieutenant Governor,,REP,GEOFF DUNCAN,2412
+Forsyth,21 South Forsyth,Lieutenant Governor,,REP,GEOFF DUNCAN,5282
+Forsyth,25 Windermere,Lieutenant Governor,,REP,GEOFF DUNCAN,3630
+Forsyth,27 Concord,Lieutenant Governor,,REP,GEOFF DUNCAN,4744
+Forsyth,29 Polo,Lieutenant Governor,,REP,GEOFF DUNCAN,5847
+Forsyth,01 Big Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,3308
+Forsyth,02 Brandywine,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1999
+Forsyth,03 Browns Bridge,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1050
+Forsyth,04 Chestatee,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,561
+Forsyth,05 Coal Mountain,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,760
+Forsyth,06 Crossroads,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,659
+Forsyth,07 Cumming,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,404
+Forsyth,08 Mashburn,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1140
+Forsyth,10 Midway,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,3085
+Forsyth,15 Heardsville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,918
+Forsyth,16 Otwell,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1627
+Forsyth,19 Old Atlanta,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1421
+Forsyth,21 South Forsyth,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2538
+Forsyth,25 Windermere,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1828
+Forsyth,27 Concord,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1017
+Forsyth,29 Polo,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2697
+Forsyth,01 Big Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,6217
+Forsyth,02 Brandywine,Secretary Of State,,REP,BRAD RAFFENSPERGER,1738
+Forsyth,03 Browns Bridge,Secretary Of State,,REP,BRAD RAFFENSPERGER,4424
+Forsyth,04 Chestatee,Secretary Of State,,REP,BRAD RAFFENSPERGER,3110
+Forsyth,05 Coal Mountain,Secretary Of State,,REP,BRAD RAFFENSPERGER,2693
+Forsyth,06 Crossroads,Secretary Of State,,REP,BRAD RAFFENSPERGER,3004
+Forsyth,07 Cumming,Secretary Of State,,REP,BRAD RAFFENSPERGER,1186
+Forsyth,08 Mashburn,Secretary Of State,,REP,BRAD RAFFENSPERGER,3838
+Forsyth,10 Midway,Secretary Of State,,REP,BRAD RAFFENSPERGER,8001
+Forsyth,15 Heardsville,Secretary Of State,,REP,BRAD RAFFENSPERGER,3974
+Forsyth,16 Otwell,Secretary Of State,,REP,BRAD RAFFENSPERGER,5148
+Forsyth,19 Old Atlanta,Secretary Of State,,REP,BRAD RAFFENSPERGER,2345
+Forsyth,21 South Forsyth,Secretary Of State,,REP,BRAD RAFFENSPERGER,5149
+Forsyth,25 Windermere,Secretary Of State,,REP,BRAD RAFFENSPERGER,3481
+Forsyth,27 Concord,Secretary Of State,,REP,BRAD RAFFENSPERGER,4632
+Forsyth,29 Polo,Secretary Of State,,REP,BRAD RAFFENSPERGER,5706
+Forsyth,01 Big Creek,Secretary Of State,,DEM,JOHN BARROW,3339
+Forsyth,02 Brandywine,Secretary Of State,,DEM,JOHN BARROW,1992
+Forsyth,03 Browns Bridge,Secretary Of State,,DEM,JOHN BARROW,1061
+Forsyth,04 Chestatee,Secretary Of State,,DEM,JOHN BARROW,561
+Forsyth,05 Coal Mountain,Secretary Of State,,DEM,JOHN BARROW,751
+Forsyth,06 Crossroads,Secretary Of State,,DEM,JOHN BARROW,684
+Forsyth,07 Cumming,Secretary Of State,,DEM,JOHN BARROW,407
+Forsyth,08 Mashburn,Secretary Of State,,DEM,JOHN BARROW,1127
+Forsyth,10 Midway,Secretary Of State,,DEM,JOHN BARROW,3037
+Forsyth,15 Heardsville,Secretary Of State,,DEM,JOHN BARROW,915
+Forsyth,16 Otwell,Secretary Of State,,DEM,JOHN BARROW,1626
+Forsyth,19 Old Atlanta,Secretary Of State,,DEM,JOHN BARROW,1438
+Forsyth,21 South Forsyth,Secretary Of State,,DEM,JOHN BARROW,2555
+Forsyth,25 Windermere,Secretary Of State,,DEM,JOHN BARROW,1909
+Forsyth,27 Concord,Secretary Of State,,DEM,JOHN BARROW,1015
+Forsyth,29 Polo,Secretary Of State,,DEM,JOHN BARROW,2680
+Forsyth,01 Big Creek,Secretary Of State,,LIB,SMYTHE DUVAL,244
+Forsyth,02 Brandywine,Secretary Of State,,LIB,SMYTHE DUVAL,125
+Forsyth,03 Browns Bridge,Secretary Of State,,LIB,SMYTHE DUVAL,197
+Forsyth,04 Chestatee,Secretary Of State,,LIB,SMYTHE DUVAL,103
+Forsyth,05 Coal Mountain,Secretary Of State,,LIB,SMYTHE DUVAL,92
+Forsyth,06 Crossroads,Secretary Of State,,LIB,SMYTHE DUVAL,97
+Forsyth,07 Cumming,Secretary Of State,,LIB,SMYTHE DUVAL,51
+Forsyth,08 Mashburn,Secretary Of State,,LIB,SMYTHE DUVAL,141
+Forsyth,10 Midway,Secretary Of State,,LIB,SMYTHE DUVAL,322
+Forsyth,15 Heardsville,Secretary Of State,,LIB,SMYTHE DUVAL,162
+Forsyth,16 Otwell,Secretary Of State,,LIB,SMYTHE DUVAL,209
+Forsyth,19 Old Atlanta,Secretary Of State,,LIB,SMYTHE DUVAL,108
+Forsyth,21 South Forsyth,Secretary Of State,,LIB,SMYTHE DUVAL,217
+Forsyth,25 Windermere,Secretary Of State,,LIB,SMYTHE DUVAL,140
+Forsyth,27 Concord,Secretary Of State,,LIB,SMYTHE DUVAL,166
+Forsyth,29 Polo,Secretary Of State,,LIB,SMYTHE DUVAL,256
+Forsyth,01 Big Creek,Attorney General,,(REP,CHRIS CARR ,6366
+Forsyth,02 Brandywine,Attorney General,,(REP,CHRIS CARR ,1811
+Forsyth,03 Browns Bridge,Attorney General,,(REP,CHRIS CARR ,4544
+Forsyth,04 Chestatee,Attorney General,,(REP,CHRIS CARR ,3165
+Forsyth,05 Coal Mountain,Attorney General,,(REP,CHRIS CARR ,2755
+Forsyth,06 Crossroads,Attorney General,,(REP,CHRIS CARR ,3067
+Forsyth,07 Cumming,Attorney General,,(REP,CHRIS CARR ,1222
+Forsyth,08 Mashburn,Attorney General,,(REP,CHRIS CARR ,3935
+Forsyth,10 Midway,Attorney General,,(REP,CHRIS CARR ,8218
+Forsyth,15 Heardsville,Attorney General,,(REP,CHRIS CARR ,4056
+Forsyth,16 Otwell,Attorney General,,(REP,CHRIS CARR ,5288
+Forsyth,19 Old Atlanta,Attorney General,,(REP,CHRIS CARR ,2408
+Forsyth,21 South Forsyth,Attorney General,,(REP,CHRIS CARR ,5290
+Forsyth,25 Windermere,Attorney General,,(REP,CHRIS CARR ,3614
+Forsyth,27 Concord,Attorney General,,(REP,CHRIS CARR ,4740
+Forsyth,29 Polo,Attorney General,,(REP,CHRIS CARR ,5845
+Forsyth,01 Big Creek,Attorney General,,DEM,CHARLIE BAILEY,3404
+Forsyth,02 Brandywine,Attorney General,,DEM,CHARLIE BAILEY,2020
+Forsyth,03 Browns Bridge,Attorney General,,DEM,CHARLIE BAILEY,1112
+Forsyth,04 Chestatee,Attorney General,,DEM,CHARLIE BAILEY,601
+Forsyth,05 Coal Mountain,Attorney General,,DEM,CHARLIE BAILEY,775
+Forsyth,06 Crossroads,Attorney General,,DEM,CHARLIE BAILEY,699
+Forsyth,07 Cumming,Attorney General,,DEM,CHARLIE BAILEY,414
+Forsyth,08 Mashburn,Attorney General,,DEM,CHARLIE BAILEY,1152
+Forsyth,10 Midway,Attorney General,,DEM,CHARLIE BAILEY,3099
+Forsyth,15 Heardsville,Attorney General,,DEM,CHARLIE BAILEY,963
+Forsyth,16 Otwell,Attorney General,,DEM,CHARLIE BAILEY,1662
+Forsyth,19 Old Atlanta,Attorney General,,DEM,CHARLIE BAILEY,1464
+Forsyth,21 South Forsyth,Attorney General,,DEM,CHARLIE BAILEY,2580
+Forsyth,25 Windermere,Attorney General,,DEM,CHARLIE BAILEY,1886
+Forsyth,27 Concord,Attorney General,,DEM,CHARLIE BAILEY,1054
+Forsyth,29 Polo,Attorney General,,DEM,CHARLIE BAILEY,2743
+Forsyth,01 Big Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,6520
+Forsyth,02 Brandywine,Commissioner Of Agriculture,,(REP,GARY BLACK ,1869
+Forsyth,03 Browns Bridge,Commissioner Of Agriculture,,(REP,GARY BLACK ,4594
+Forsyth,04 Chestatee,Commissioner Of Agriculture,,(REP,GARY BLACK ,3222
+Forsyth,05 Coal Mountain,Commissioner Of Agriculture,,(REP,GARY BLACK ,2774
+Forsyth,06 Crossroads,Commissioner Of Agriculture,,(REP,GARY BLACK ,3094
+Forsyth,07 Cumming,Commissioner Of Agriculture,,(REP,GARY BLACK ,1225
+Forsyth,08 Mashburn,Commissioner Of Agriculture,,(REP,GARY BLACK ,3979
+Forsyth,10 Midway,Commissioner Of Agriculture,,(REP,GARY BLACK ,8344
+Forsyth,15 Heardsville,Commissioner Of Agriculture,,(REP,GARY BLACK ,4126
+Forsyth,16 Otwell,Commissioner Of Agriculture,,(REP,GARY BLACK ,5355
+Forsyth,19 Old Atlanta,Commissioner Of Agriculture,,(REP,GARY BLACK ,2459
+Forsyth,21 South Forsyth,Commissioner Of Agriculture,,(REP,GARY BLACK ,5394
+Forsyth,25 Windermere,Commissioner Of Agriculture,,(REP,GARY BLACK ,3676
+Forsyth,27 Concord,Commissioner Of Agriculture,,(REP,GARY BLACK ,4824
+Forsyth,29 Polo,Commissioner Of Agriculture,,(REP,GARY BLACK ,5981
+Forsyth,01 Big Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,3172
+Forsyth,02 Brandywine,Commissioner Of Agriculture,,DEM,FRED SWANN,1944
+Forsyth,03 Browns Bridge,Commissioner Of Agriculture,,DEM,FRED SWANN,1022
+Forsyth,04 Chestatee,Commissioner Of Agriculture,,DEM,FRED SWANN,523
+Forsyth,05 Coal Mountain,Commissioner Of Agriculture,,DEM,FRED SWANN,734
+Forsyth,06 Crossroads,Commissioner Of Agriculture,,DEM,FRED SWANN,640
+Forsyth,07 Cumming,Commissioner Of Agriculture,,DEM,FRED SWANN,396
+Forsyth,08 Mashburn,Commissioner Of Agriculture,,DEM,FRED SWANN,1065
+Forsyth,10 Midway,Commissioner Of Agriculture,,DEM,FRED SWANN,2908
+Forsyth,15 Heardsville,Commissioner Of Agriculture,,DEM,FRED SWANN,876
+Forsyth,16 Otwell,Commissioner Of Agriculture,,DEM,FRED SWANN,1558
+Forsyth,19 Old Atlanta,Commissioner Of Agriculture,,DEM,FRED SWANN,1386
+Forsyth,21 South Forsyth,Commissioner Of Agriculture,,DEM,FRED SWANN,2429
+Forsyth,25 Windermere,Commissioner Of Agriculture,,DEM,FRED SWANN,1792
+Forsyth,27 Concord,Commissioner Of Agriculture,,DEM,FRED SWANN,960
+Forsyth,29 Polo,Commissioner Of Agriculture,,DEM,FRED SWANN,2565
+Forsyth,01 Big Creek,Commissioner Of Insurance,,REP,JIM BECK,6245
+Forsyth,02 Brandywine,Commissioner Of Insurance,,REP,JIM BECK,1742
+Forsyth,03 Browns Bridge,Commissioner Of Insurance,,REP,JIM BECK,4435
+Forsyth,04 Chestatee,Commissioner Of Insurance,,REP,JIM BECK,3110
+Forsyth,05 Coal Mountain,Commissioner Of Insurance,,REP,JIM BECK,2687
+Forsyth,06 Crossroads,Commissioner Of Insurance,,REP,JIM BECK,3043
+Forsyth,07 Cumming,Commissioner Of Insurance,,REP,JIM BECK,1190
+Forsyth,08 Mashburn,Commissioner Of Insurance,,REP,JIM BECK,3826
+Forsyth,10 Midway,Commissioner Of Insurance,,REP,JIM BECK,8031
+Forsyth,15 Heardsville,Commissioner Of Insurance,,REP,JIM BECK,3981
+Forsyth,16 Otwell,Commissioner Of Insurance,,REP,JIM BECK,5130
+Forsyth,19 Old Atlanta,Commissioner Of Insurance,,REP,JIM BECK,2367
+Forsyth,21 South Forsyth,Commissioner Of Insurance,,REP,JIM BECK,5177
+Forsyth,25 Windermere,Commissioner Of Insurance,,REP,JIM BECK,3515
+Forsyth,27 Concord,Commissioner Of Insurance,,REP,JIM BECK,4626
+Forsyth,29 Polo,Commissioner Of Insurance,,REP,JIM BECK,5718
+Forsyth,01 Big Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,3183
+Forsyth,02 Brandywine,Commissioner Of Insurance,,DEM,JANICE LAWS,1940
+Forsyth,03 Browns Bridge,Commissioner Of Insurance,,DEM,JANICE LAWS,1008
+Forsyth,04 Chestatee,Commissioner Of Insurance,,DEM,JANICE LAWS,522
+Forsyth,05 Coal Mountain,Commissioner Of Insurance,,DEM,JANICE LAWS,720
+Forsyth,06 Crossroads,Commissioner Of Insurance,,DEM,JANICE LAWS,605
+Forsyth,07 Cumming,Commissioner Of Insurance,,DEM,JANICE LAWS,394
+Forsyth,08 Mashburn,Commissioner Of Insurance,,DEM,JANICE LAWS,1084
+Forsyth,10 Midway,Commissioner Of Insurance,,DEM,JANICE LAWS,2911
+Forsyth,15 Heardsville,Commissioner Of Insurance,,DEM,JANICE LAWS,873
+Forsyth,16 Otwell,Commissioner Of Insurance,,DEM,JANICE LAWS,1572
+Forsyth,19 Old Atlanta,Commissioner Of Insurance,,DEM,JANICE LAWS,1376
+Forsyth,21 South Forsyth,Commissioner Of Insurance,,DEM,JANICE LAWS,2437
+Forsyth,25 Windermere,Commissioner Of Insurance,,DEM,JANICE LAWS,1801
+Forsyth,27 Concord,Commissioner Of Insurance,,DEM,JANICE LAWS,951
+Forsyth,29 Polo,Commissioner Of Insurance,,DEM,JANICE LAWS,2588
+Forsyth,01 Big Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,317
+Forsyth,02 Brandywine,Commissioner Of Insurance,,LIB,DONNIE FOSTER,142
+Forsyth,03 Browns Bridge,Commissioner Of Insurance,,LIB,DONNIE FOSTER,220
+Forsyth,04 Chestatee,Commissioner Of Insurance,,LIB,DONNIE FOSTER,131
+Forsyth,05 Coal Mountain,Commissioner Of Insurance,,LIB,DONNIE FOSTER,119
+Forsyth,06 Crossroads,Commissioner Of Insurance,,LIB,DONNIE FOSTER,122
+Forsyth,07 Cumming,Commissioner Of Insurance,,LIB,DONNIE FOSTER,54
+Forsyth,08 Mashburn,Commissioner Of Insurance,,LIB,DONNIE FOSTER,166
+Forsyth,10 Midway,Commissioner Of Insurance,,LIB,DONNIE FOSTER,375
+Forsyth,15 Heardsville,Commissioner Of Insurance,,LIB,DONNIE FOSTER,187
+Forsyth,16 Otwell,Commissioner Of Insurance,,LIB,DONNIE FOSTER,241
+Forsyth,19 Old Atlanta,Commissioner Of Insurance,,LIB,DONNIE FOSTER,123
+Forsyth,21 South Forsyth,Commissioner Of Insurance,,LIB,DONNIE FOSTER,243
+Forsyth,25 Windermere,Commissioner Of Insurance,,LIB,DONNIE FOSTER,176
+Forsyth,27 Concord,Commissioner Of Insurance,,LIB,DONNIE FOSTER,219
+Forsyth,29 Polo,Commissioner Of Insurance,,LIB,DONNIE FOSTER,287
+Forsyth,01 Big Creek,State School Superintendent,,(REP,RICHARD WOODS ,6633
+Forsyth,02 Brandywine,State School Superintendent,,(REP,RICHARD WOODS ,1908
+Forsyth,03 Browns Bridge,State School Superintendent,,(REP,RICHARD WOODS ,4645
+Forsyth,04 Chestatee,State School Superintendent,,(REP,RICHARD WOODS ,3260
+Forsyth,05 Coal Mountain,State School Superintendent,,(REP,RICHARD WOODS ,2807
+Forsyth,06 Crossroads,State School Superintendent,,(REP,RICHARD WOODS ,3150
+Forsyth,07 Cumming,State School Superintendent,,(REP,RICHARD WOODS ,1252
+Forsyth,08 Mashburn,State School Superintendent,,(REP,RICHARD WOODS ,4022
+Forsyth,10 Midway,State School Superintendent,,(REP,RICHARD WOODS ,8494
+Forsyth,15 Heardsville,State School Superintendent,,(REP,RICHARD WOODS ,4169
+Forsyth,16 Otwell,State School Superintendent,,(REP,RICHARD WOODS ,5435
+Forsyth,19 Old Atlanta,State School Superintendent,,(REP,RICHARD WOODS ,2537
+Forsyth,21 South Forsyth,State School Superintendent,,(REP,RICHARD WOODS ,5539
+Forsyth,25 Windermere,State School Superintendent,,(REP,RICHARD WOODS ,3749
+Forsyth,27 Concord,State School Superintendent,,(REP,RICHARD WOODS ,4849
+Forsyth,29 Polo,State School Superintendent,,(REP,RICHARD WOODS ,6066
+Forsyth,01 Big Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",3106
+Forsyth,02 Brandywine,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1915
+Forsyth,03 Browns Bridge,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",993
+Forsyth,04 Chestatee,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",512
+Forsyth,05 Coal Mountain,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",713
+Forsyth,06 Crossroads,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",618
+Forsyth,07 Cumming,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",388
+Forsyth,08 Mashburn,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1056
+Forsyth,10 Midway,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2806
+Forsyth,15 Heardsville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",858
+Forsyth,16 Otwell,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1517
+Forsyth,19 Old Atlanta,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1326
+Forsyth,21 South Forsyth,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2309
+Forsyth,25 Windermere,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1742
+Forsyth,27 Concord,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",954
+Forsyth,29 Polo,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2522
+Forsyth,01 Big Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,6524
+Forsyth,02 Brandywine,Commissioner Of Labor,,(REP,MARK BUTLER ,1865
+Forsyth,03 Browns Bridge,Commissioner Of Labor,,(REP,MARK BUTLER ,4600
+Forsyth,04 Chestatee,Commissioner Of Labor,,(REP,MARK BUTLER ,3212
+Forsyth,05 Coal Mountain,Commissioner Of Labor,,(REP,MARK BUTLER ,2779
+Forsyth,06 Crossroads,Commissioner Of Labor,,(REP,MARK BUTLER ,3114
+Forsyth,07 Cumming,Commissioner Of Labor,,(REP,MARK BUTLER ,1228
+Forsyth,08 Mashburn,Commissioner Of Labor,,(REP,MARK BUTLER ,3960
+Forsyth,10 Midway,Commissioner Of Labor,,(REP,MARK BUTLER ,8319
+Forsyth,15 Heardsville,Commissioner Of Labor,,(REP,MARK BUTLER ,4117
+Forsyth,16 Otwell,Commissioner Of Labor,,(REP,MARK BUTLER ,5369
+Forsyth,19 Old Atlanta,Commissioner Of Labor,,(REP,MARK BUTLER ,2455
+Forsyth,21 South Forsyth,Commissioner Of Labor,,(REP,MARK BUTLER ,5399
+Forsyth,25 Windermere,Commissioner Of Labor,,(REP,MARK BUTLER ,3654
+Forsyth,27 Concord,Commissioner Of Labor,,(REP,MARK BUTLER ,4801
+Forsyth,29 Polo,Commissioner Of Labor,,(REP,MARK BUTLER ,5949
+Forsyth,01 Big Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,3182
+Forsyth,02 Brandywine,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1945
+Forsyth,03 Browns Bridge,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1029
+Forsyth,04 Chestatee,Commissioner Of Labor,,DEM,RICHARD KEATLEY,538
+Forsyth,05 Coal Mountain,Commissioner Of Labor,,DEM,RICHARD KEATLEY,729
+Forsyth,06 Crossroads,Commissioner Of Labor,,DEM,RICHARD KEATLEY,641
+Forsyth,07 Cumming,Commissioner Of Labor,,DEM,RICHARD KEATLEY,398
+Forsyth,08 Mashburn,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1085
+Forsyth,10 Midway,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2915
+Forsyth,15 Heardsville,Commissioner Of Labor,,DEM,RICHARD KEATLEY,883
+Forsyth,16 Otwell,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1548
+Forsyth,19 Old Atlanta,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1386
+Forsyth,21 South Forsyth,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2402
+Forsyth,25 Windermere,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1801
+Forsyth,27 Concord,Commissioner Of Labor,,DEM,RICHARD KEATLEY,963
+Forsyth,29 Polo,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2596
+Forsyth,01 Big Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,6117
+Forsyth,02 Brandywine,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1706
+Forsyth,03 Browns Bridge,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,4374
+Forsyth,04 Chestatee,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3074
+Forsyth,05 Coal Mountain,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2645
+Forsyth,06 Crossroads,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2982
+Forsyth,07 Cumming,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1167
+Forsyth,08 Mashburn,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3774
+Forsyth,10 Midway,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,7918
+Forsyth,15 Heardsville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3910
+Forsyth,16 Otwell,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,5094
+Forsyth,19 Old Atlanta,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2322
+Forsyth,21 South Forsyth,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,5123
+Forsyth,25 Windermere,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3472
+Forsyth,27 Concord,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,4599
+Forsyth,29 Polo,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,5625
+Forsyth,01 Big Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,3296
+Forsyth,02 Brandywine,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1965
+Forsyth,03 Browns Bridge,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1028
+Forsyth,04 Chestatee,"Public Service Commission, District 3",3,DEM,LINDY MILLER,553
+Forsyth,05 Coal Mountain,"Public Service Commission, District 3",3,DEM,LINDY MILLER,747
+Forsyth,06 Crossroads,"Public Service Commission, District 3",3,DEM,LINDY MILLER,650
+Forsyth,07 Cumming,"Public Service Commission, District 3",3,DEM,LINDY MILLER,400
+Forsyth,08 Mashburn,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1109
+Forsyth,10 Midway,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2985
+Forsyth,15 Heardsville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,903
+Forsyth,16 Otwell,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1588
+Forsyth,19 Old Atlanta,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1411
+Forsyth,21 South Forsyth,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2447
+Forsyth,25 Windermere,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1831
+Forsyth,27 Concord,"Public Service Commission, District 3",3,DEM,LINDY MILLER,997
+Forsyth,29 Polo,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2645
+Forsyth,01 Big Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,304
+Forsyth,02 Brandywine,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,150
+Forsyth,03 Browns Bridge,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,238
+Forsyth,04 Chestatee,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,134
+Forsyth,05 Coal Mountain,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,126
+Forsyth,06 Crossroads,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,134
+Forsyth,07 Cumming,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,65
+Forsyth,08 Mashburn,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,173
+Forsyth,10 Midway,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,373
+Forsyth,15 Heardsville,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,201
+Forsyth,16 Otwell,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,257
+Forsyth,19 Old Atlanta,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,121
+Forsyth,21 South Forsyth,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,249
+Forsyth,25 Windermere,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,162
+Forsyth,27 Concord,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,190
+Forsyth,29 Polo,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,298
+Forsyth,01 Big Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,6189
+Forsyth,02 Brandywine,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1738
+Forsyth,03 Browns Bridge,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,4394
+Forsyth,04 Chestatee,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3113
+Forsyth,05 Coal Mountain,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2670
+Forsyth,06 Crossroads,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2991
+Forsyth,07 Cumming,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1178
+Forsyth,08 Mashburn,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3817
+Forsyth,10 Midway,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,7996
+Forsyth,15 Heardsville,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3942
+Forsyth,16 Otwell,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,5127
+Forsyth,19 Old Atlanta,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2343
+Forsyth,21 South Forsyth,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,5182
+Forsyth,25 Windermere,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3498
+Forsyth,27 Concord,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,4595
+Forsyth,29 Polo,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,5667
+Forsyth,01 Big Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,3226
+Forsyth,02 Brandywine,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1938
+Forsyth,03 Browns Bridge,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1007
+Forsyth,04 Chestatee,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,511
+Forsyth,05 Coal Mountain,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,723
+Forsyth,06 Crossroads,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,642
+Forsyth,07 Cumming,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,390
+Forsyth,08 Mashburn,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1067
+Forsyth,10 Midway,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2895
+Forsyth,15 Heardsville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,879
+Forsyth,16 Otwell,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1529
+Forsyth,19 Old Atlanta,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1392
+Forsyth,21 South Forsyth,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2399
+Forsyth,25 Windermere,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1807
+Forsyth,27 Concord,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,971
+Forsyth,29 Polo,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2607
+Forsyth,01 Big Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,310
+Forsyth,02 Brandywine,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,140
+Forsyth,03 Browns Bridge,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,245
+Forsyth,04 Chestatee,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,132
+Forsyth,05 Coal Mountain,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,123
+Forsyth,06 Crossroads,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,132
+Forsyth,07 Cumming,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,62
+Forsyth,08 Mashburn,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,180
+Forsyth,10 Midway,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,383
+Forsyth,15 Heardsville,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,195
+Forsyth,16 Otwell,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,274
+Forsyth,19 Old Atlanta,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,123
+Forsyth,21 South Forsyth,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,233
+Forsyth,25 Windermere,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,172
+Forsyth,27 Concord,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,216
+Forsyth,29 Polo,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,299
+Forsyth,01 Big Creek,U.S. Representative,7,(REP,ROB WOODALL ,6364
+Forsyth,02 Brandywine,U.S. Representative,7,(REP,ROB WOODALL ,1800
+Forsyth,03 Browns Bridge,U.S. Representative,7,(REP,ROB WOODALL ,1931
+Forsyth,07 Cumming,U.S. Representative,7,(REP,ROB WOODALL ,1220
+Forsyth,08 Mashburn,U.S. Representative,7,(REP,ROB WOODALL ,3922
+Forsyth,10 Midway,U.S. Representative,7,(REP,ROB WOODALL ,8173
+Forsyth,15 Heardsville,U.S. Representative,7,(REP,ROB WOODALL ,9
+Forsyth,16 Otwell,U.S. Representative,7,(REP,ROB WOODALL ,4312
+Forsyth,19 Old Atlanta,U.S. Representative,7,(REP,ROB WOODALL ,2406
+Forsyth,21 South Forsyth,U.S. Representative,7,(REP,ROB WOODALL ,5297
+Forsyth,25 Windermere,U.S. Representative,7,(REP,ROB WOODALL ,3613
+Forsyth,29 Polo,U.S. Representative,7,(REP,ROB WOODALL ,5873
+Forsyth,01 Big Creek,U.S. Representative,7,DEM,CAROLYN BOURDEAUX,3456
+Forsyth,02 Brandywine,U.S. Representative,7,DEM,CAROLYN BOURDEAUX,2054
+Forsyth,03 Browns Bridge,U.S. Representative,7,DEM,CAROLYN BOURDEAUX,604
+Forsyth,07 Cumming,U.S. Representative,7,DEM,CAROLYN BOURDEAUX,439
+Forsyth,08 Mashburn,U.S. Representative,7,DEM,CAROLYN BOURDEAUX,1192
+Forsyth,10 Midway,U.S. Representative,7,DEM,CAROLYN BOURDEAUX,3168
+Forsyth,15 Heardsville,U.S. Representative,7,DEM,CAROLYN BOURDEAUX,0
+Forsyth,16 Otwell,U.S. Representative,7,DEM,CAROLYN BOURDEAUX,1465
+Forsyth,19 Old Atlanta,U.S. Representative,7,DEM,CAROLYN BOURDEAUX,1484
+Forsyth,21 South Forsyth,U.S. Representative,7,DEM,CAROLYN BOURDEAUX,2627
+Forsyth,25 Windermere,U.S. Representative,7,DEM,CAROLYN BOURDEAUX,1923
+Forsyth,29 Polo,U.S. Representative,7,DEM,CAROLYN BOURDEAUX,2769
+Forsyth,03 Browns Bridge,U.S. Representative,9,(REP,DOUG COLLINS ,2666
+Forsyth,04 Chestatee,U.S. Representative,9,(REP,DOUG COLLINS ,3208
+Forsyth,05 Coal Mountain,U.S. Representative,9,(REP,DOUG COLLINS ,2758
+Forsyth,06 Crossroads,U.S. Representative,9,(REP,DOUG COLLINS ,3092
+Forsyth,10 Midway,U.S. Representative,9,(REP,DOUG COLLINS ,15
+Forsyth,15 Heardsville,U.S. Representative,9,(REP,DOUG COLLINS ,4098
+Forsyth,16 Otwell,U.S. Representative,9,(REP,DOUG COLLINS ,1011
+Forsyth,27 Concord,U.S. Representative,9,(REP,DOUG COLLINS ,4764
+Forsyth,03 Browns Bridge,U.S. Representative,9,DEM,JOSH MCCALL,466
+Forsyth,04 Chestatee,U.S. Representative,9,DEM,JOSH MCCALL,563
+Forsyth,05 Coal Mountain,U.S. Representative,9,DEM,JOSH MCCALL,769
+Forsyth,06 Crossroads,U.S. Representative,9,DEM,JOSH MCCALL,683
+Forsyth,10 Midway,U.S. Representative,9,DEM,JOSH MCCALL,4
+Forsyth,15 Heardsville,U.S. Representative,9,DEM,JOSH MCCALL,932
+Forsyth,16 Otwell,U.S. Representative,9,DEM,JOSH MCCALL,204
+Forsyth,27 Concord,U.S. Representative,9,DEM,JOSH MCCALL,1039
+Forsyth,01 Big Creek,State Senator,27,REP,GREG DOLEZAL,6415
+Forsyth,02 Brandywine,State Senator,27,REP,GREG DOLEZAL,1821
+Forsyth,03 Browns Bridge,State Senator,27,REP,GREG DOLEZAL,4611
+Forsyth,04 Chestatee,State Senator,27,REP,GREG DOLEZAL,3202
+Forsyth,05 Coal Mountain,State Senator,27,REP,GREG DOLEZAL,2758
+Forsyth,06 Crossroads,State Senator,27,REP,GREG DOLEZAL,2277
+Forsyth,07 Cumming,State Senator,27,REP,GREG DOLEZAL,1213
+Forsyth,08 Mashburn,State Senator,27,REP,GREG DOLEZAL,3947
+Forsyth,10 Midway,State Senator,27,REP,GREG DOLEZAL,8298
+Forsyth,15 Heardsville,State Senator,27,REP,GREG DOLEZAL,4095
+Forsyth,16 Otwell,State Senator,27,REP,GREG DOLEZAL,5314
+Forsyth,19 Old Atlanta,State Senator,27,REP,GREG DOLEZAL,2433
+Forsyth,21 South Forsyth,State Senator,27,REP,GREG DOLEZAL,5332
+Forsyth,25 Windermere,State Senator,27,REP,GREG DOLEZAL,3641
+Forsyth,27 Concord,State Senator,27,REP,GREG DOLEZAL,4766
+Forsyth,29 Polo,State Senator,27,REP,GREG DOLEZAL,5931
+Forsyth,01 Big Creek,State Senator,27,DEM,STEVE SMITH,3345
+Forsyth,02 Brandywine,State Senator,27,DEM,STEVE SMITH,2009
+Forsyth,03 Browns Bridge,State Senator,27,DEM,STEVE SMITH,1049
+Forsyth,04 Chestatee,State Senator,27,DEM,STEVE SMITH,567
+Forsyth,05 Coal Mountain,State Senator,27,DEM,STEVE SMITH,762
+Forsyth,06 Crossroads,State Senator,27,DEM,STEVE SMITH,452
+Forsyth,07 Cumming,State Senator,27,DEM,STEVE SMITH,420
+Forsyth,08 Mashburn,State Senator,27,DEM,STEVE SMITH,1133
+Forsyth,10 Midway,State Senator,27,DEM,STEVE SMITH,3019
+Forsyth,15 Heardsville,State Senator,27,DEM,STEVE SMITH,936
+Forsyth,16 Otwell,State Senator,27,DEM,STEVE SMITH,1637
+Forsyth,19 Old Atlanta,State Senator,27,DEM,STEVE SMITH,1438
+Forsyth,21 South Forsyth,State Senator,27,DEM,STEVE SMITH,2528
+Forsyth,25 Windermere,State Senator,27,DEM,STEVE SMITH,1877
+Forsyth,27 Concord,State Senator,27,DEM,STEVE SMITH,1034
+Forsyth,29 Polo,State Senator,27,DEM,STEVE SMITH,2677
+Forsyth,06 Crossroads,State Senator,51,(REP,STEVE GOOCH ,906
+Forsyth,15 Heardsville,State Representative,9,(REP,KEVIN TANNER ,324
+Forsyth,27 Concord,State Representative,9,(REP,KEVIN TANNER ,1290
+Forsyth,02 Brandywine,State Representative,22,(REP,WES CANTRELL ,1823
+Forsyth,10 Midway,State Representative,22,(REP,WES CANTRELL ,1427
+Forsyth,29 Polo,State Representative,22,(REP,WES CANTRELL ,2478
+Forsyth,02 Brandywine,State Representative,22,DEM,CHARLES RAVENSCRAFT,2005
+Forsyth,10 Midway,State Representative,22,DEM,CHARLES RAVENSCRAFT,494
+Forsyth,29 Polo,State Representative,22,DEM,CHARLES RAVENSCRAFT,1174
+Forsyth,05 Coal Mountain,State Representative,24,(REP,SHERI SMALLWOOD GILLIGAN ,1512
+Forsyth,07 Cumming,State Representative,24,(REP,SHERI SMALLWOOD GILLIGAN ,1323
+Forsyth,10 Midway,State Representative,24,(REP,SHERI SMALLWOOD GILLIGAN ,7843
+Forsyth,15 Heardsville,State Representative,24,(REP,SHERI SMALLWOOD GILLIGAN ,4141
+Forsyth,16 Otwell,State Representative,24,(REP,SHERI SMALLWOOD GILLIGAN ,5475
+Forsyth,29 Polo,State Representative,24,(REP,SHERI SMALLWOOD GILLIGAN ,3352
+Forsyth,01 Big Creek,State Representative,25,(REP,TODD JONES ,6462
+Forsyth,07 Cumming,State Representative,25,(REP,TODD JONES ,48
+Forsyth,08 Mashburn,State Representative,25,(REP,TODD JONES ,672
+Forsyth,19 Old Atlanta,State Representative,25,(REP,TODD JONES ,2425
+Forsyth,21 South Forsyth,State Representative,25,(REP,TODD JONES ,5247
+Forsyth,25 Windermere,State Representative,25,(REP,TODD JONES ,1061
+Forsyth,29 Polo,State Representative,25,(REP,TODD JONES ,526
+Forsyth,01 Big Creek,State Representative,25,DEM,ANITA HOLCOMB TUCKER,3263
+Forsyth,07 Cumming,State Representative,25,DEM,ANITA HOLCOMB TUCKER,22
+Forsyth,08 Mashburn,State Representative,25,DEM,ANITA HOLCOMB TUCKER,197
+Forsyth,19 Old Atlanta,State Representative,25,DEM,ANITA HOLCOMB TUCKER,1432
+Forsyth,21 South Forsyth,State Representative,25,DEM,ANITA HOLCOMB TUCKER,2345
+Forsyth,25 Windermere,State Representative,25,DEM,ANITA HOLCOMB TUCKER,903
+Forsyth,29 Polo,State Representative,25,DEM,ANITA HOLCOMB TUCKER,383
+Forsyth,03 Browns Bridge,State Representative,26,(REP,MARC MORRIS ,5017
+Forsyth,04 Chestatee,State Representative,26,(REP,MARC MORRIS ,3429
+Forsyth,05 Coal Mountain,State Representative,26,(REP,MARC MORRIS ,1541
+Forsyth,06 Crossroads,State Representative,26,(REP,MARC MORRIS ,3363
+Forsyth,08 Mashburn,State Representative,26,(REP,MARC MORRIS ,3620
+Forsyth,16 Otwell,State Representative,26,(REP,MARC MORRIS ,517
+Forsyth,21 South Forsyth,State Representative,26,(REP,MARC MORRIS ,186
+Forsyth,25 Windermere,State Representative,26,(REP,MARC MORRIS ,2972
+Forsyth,27 Concord,State Representative,26,(REP,MARC MORRIS ,3899
+Forsyth,01 Big Creek,Solicitor General,,R,B. FINCH ,7894
+Forsyth,02 Brandywine,Solicitor General,,R,B. FINCH ,2689
+Forsyth,03 Browns Bridge,Solicitor General,,R,B. FINCH ,4970
+Forsyth,04 Chestatee,Solicitor General,,R,B. FINCH ,3385
+Forsyth,05 Coal Mountain,Solicitor General,,R,B. FINCH ,3061
+Forsyth,06 Crossroads,Solicitor General,,R,B. FINCH ,3347
+Forsyth,07 Cumming,Solicitor General,,R,B. FINCH ,1375
+Forsyth,08 Mashburn,Solicitor General,,R,B. FINCH ,4345
+Forsyth,10 Midway,Solicitor General,,R,B. FINCH ,9392
+Forsyth,15 Heardsville,Solicitor General,,R,B. FINCH ,4436
+Forsyth,16 Otwell,Solicitor General,,R,B. FINCH ,5944
+Forsyth,19 Old Atlanta,Solicitor General,,R,B. FINCH ,3084
+Forsyth,21 South Forsyth,Solicitor General,,R,B. FINCH ,6493
+Forsyth,25 Windermere,Solicitor General,,R,B. FINCH ,4432
+Forsyth,27 Concord,Solicitor General,,R,B. FINCH ,5162
+Forsyth,29 Polo,Solicitor General,,R,B. FINCH ,7003
+Forsyth,03 Browns Bridge,County Comm 1,,R,M. COOPER,127
+Forsyth,07 Cumming,County Comm 1,,R,M. COOPER,1388
+Forsyth,10 Midway,County Comm 1,,R,M. COOPER,3020
+Forsyth,15 Heardsville,County Comm 1,,R,M. COOPER,3616
+Forsyth,16 Otwell,County Comm 1,,R,M. COOPER,5860
+Forsyth,02 Brandywine,County Comm 3,,R,T. LEVENT ,2116
+Forsyth,10 Midway,County Comm 3,,R,T. LEVENT ,6409
+Forsyth,16 Otwell,County Comm 3,,R,T. LEVENT ,15
+Forsyth,25 Windermere,County Comm 3,,R,T. LEVENT ,187
+Forsyth,29 Polo,County Comm 3,,R,T. LEVENT ,6952
+Forsyth,03 Browns Bridge,BOE 1,,R,W. MCCALL,127
+Forsyth,07 Cumming,BOE 1,,R,W. MCCALL,1397
+Forsyth,10 Midway,BOE 1,,R,W. MCCALL,3020
+Forsyth,15 Heardsville,BOE 1,,R,W. MCCALL,3633
+Forsyth,16 Otwell,BOE 1,,R,W. MCCALL,5884
+Forsyth,01 Big Creek,BOE 2,,R,K. MORRISSEY ,7867
+Forsyth,02 Brandywine,BOE 2,,R,K. MORRISSEY ,573
+Forsyth,19 Old Atlanta,BOE 2,,R,K. MORRISSEY ,3085
+Forsyth,21 South Forsyth,BOE 2,,R,K. MORRISSEY ,3712
+Forsyth,25 Windermere,BOE 2,,R,K. MORRISSEY ,625
+Forsyth,01 Big Creek,Soil and Water,,,L. W. RIDINGS ,7820
+Forsyth,02 Brandywine,Soil and Water,,,L. W. RIDINGS ,2854
+Forsyth,03 Browns Bridge,Soil and Water,,,L. W. RIDINGS ,4776
+Forsyth,04 Chestatee,Soil and Water,,,L. W. RIDINGS ,3251
+Forsyth,05 Coal Mountain,Soil and Water,,,L. W. RIDINGS ,2954
+Forsyth,06 Crossroads,Soil and Water,,,L. W. RIDINGS ,3180
+Forsyth,07 Cumming,Soil and Water,,,L. W. RIDINGS ,1332
+Forsyth,08 Mashburn,Soil and Water,,,L. W. RIDINGS ,4202
+Forsyth,10 Midway,Soil and Water,,,L. W. RIDINGS ,9194
+Forsyth,15 Heardsville,Soil and Water,,,L. W. RIDINGS ,4233
+Forsyth,16 Otwell,Soil and Water,,,L. W. RIDINGS ,5828
+Forsyth,19 Old Atlanta,Soil and Water,,,L. W. RIDINGS ,3111
+Forsyth,21 South Forsyth,Soil and Water,,,L. W. RIDINGS ,6385
+Forsyth,25 Windermere,Soil and Water,,,L. W. RIDINGS ,4331
+Forsyth,27 Concord,Soil and Water,,,L. W. RIDINGS ,4969
+Forsyth,29 Polo,Soil and Water,,,L. W. RIDINGS ,6952
+Forsyth,01 Big Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,7924
+Forsyth,02 Brandywine,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3297
+Forsyth,03 Browns Bridge,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4433
+Forsyth,04 Chestatee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2908
+Forsyth,05 Coal Mountain,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2841
+Forsyth,06 Crossroads,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2953
+Forsyth,07 Cumming,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1298
+Forsyth,08 Mashburn,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4096
+Forsyth,10 Midway,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,9288
+Forsyth,15 Heardsville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3930
+Forsyth,16 Otwell,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,5598
+Forsyth,19 Old Atlanta,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3217
+Forsyth,21 South Forsyth,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,6348
+Forsyth,25 Windermere,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4573
+Forsyth,27 Concord,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4527
+Forsyth,29 Polo,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,7131
+Forsyth,01 Big Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1757
+Forsyth,02 Brandywine,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,508
+Forsyth,03 Browns Bridge,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1169
+Forsyth,04 Chestatee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,817
+Forsyth,05 Coal Mountain,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,661
+Forsyth,06 Crossroads,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,784
+Forsyth,07 Cumming,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,319
+Forsyth,08 Mashburn,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,942
+Forsyth,10 Midway,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1927
+Forsyth,15 Heardsville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1032
+Forsyth,16 Otwell,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1301
+Forsyth,19 Old Atlanta,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,626
+Forsyth,21 South Forsyth,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1440
+Forsyth,25 Windermere,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,877
+Forsyth,27 Concord,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1203
+Forsyth,29 Polo,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1391
+Forsyth,01 Big Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,6322
+Forsyth,02 Brandywine,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2676
+Forsyth,03 Browns Bridge,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3577
+Forsyth,04 Chestatee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2355
+Forsyth,05 Coal Mountain,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2244
+Forsyth,06 Crossroads,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2346
+Forsyth,07 Cumming,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1041
+Forsyth,08 Mashburn,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3288
+Forsyth,10 Midway,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,7386
+Forsyth,15 Heardsville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3073
+Forsyth,16 Otwell,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,4467
+Forsyth,19 Old Atlanta,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2615
+Forsyth,21 South Forsyth,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,5229
+Forsyth,25 Windermere,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3787
+Forsyth,27 Concord,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3655
+Forsyth,29 Polo,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,5754
+Forsyth,01 Big Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,3066
+Forsyth,02 Brandywine,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1010
+Forsyth,03 Browns Bridge,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1856
+Forsyth,04 Chestatee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1269
+Forsyth,05 Coal Mountain,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1161
+Forsyth,06 Crossroads,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1307
+Forsyth,07 Cumming,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,533
+Forsyth,08 Mashburn,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1606
+Forsyth,10 Midway,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,3434
+Forsyth,15 Heardsville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1732
+Forsyth,16 Otwell,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,2225
+Forsyth,19 Old Atlanta,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1104
+Forsyth,21 South Forsyth,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,2341
+Forsyth,25 Windermere,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1487
+Forsyth,27 Concord,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1932
+Forsyth,29 Polo,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,2462
+Forsyth,01 Big Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,5872
+Forsyth,02 Brandywine,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2458
+Forsyth,03 Browns Bridge,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,3132
+Forsyth,04 Chestatee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2075
+Forsyth,05 Coal Mountain,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2013
+Forsyth,06 Crossroads,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2016
+Forsyth,07 Cumming,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,956
+Forsyth,08 Mashburn,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2983
+Forsyth,10 Midway,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,6736
+Forsyth,15 Heardsville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2823
+Forsyth,16 Otwell,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,4010
+Forsyth,19 Old Atlanta,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2346
+Forsyth,21 South Forsyth,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,4702
+Forsyth,25 Windermere,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,3364
+Forsyth,27 Concord,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,3161
+Forsyth,29 Polo,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,5253
+Forsyth,01 Big Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,3398
+Forsyth,02 Brandywine,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1190
+Forsyth,03 Browns Bridge,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2229
+Forsyth,04 Chestatee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1500
+Forsyth,05 Coal Mountain,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1343
+Forsyth,06 Crossroads,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1557
+Forsyth,07 Cumming,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,609
+Forsyth,08 Mashburn,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1839
+Forsyth,10 Midway,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,4002
+Forsyth,15 Heardsville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1967
+Forsyth,16 Otwell,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2627
+Forsyth,19 Old Atlanta,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1333
+Forsyth,21 South Forsyth,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2756
+Forsyth,25 Windermere,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1830
+Forsyth,27 Concord,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2337
+Forsyth,29 Polo,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2902
+Forsyth,01 Big Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,7564
+Forsyth,02 Brandywine,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3123
+Forsyth,03 Browns Bridge,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,4200
+Forsyth,04 Chestatee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2702
+Forsyth,05 Coal Mountain,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2588
+Forsyth,06 Crossroads,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2776
+Forsyth,07 Cumming,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1245
+Forsyth,08 Mashburn,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3893
+Forsyth,10 Midway,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,8606
+Forsyth,15 Heardsville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3650
+Forsyth,16 Otwell,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,5287
+Forsyth,19 Old Atlanta,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3037
+Forsyth,21 South Forsyth,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,6035
+Forsyth,25 Windermere,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,4370
+Forsyth,27 Concord,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,4200
+Forsyth,29 Polo,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,6676
+Forsyth,01 Big Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,2020
+Forsyth,02 Brandywine,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,637
+Forsyth,03 Browns Bridge,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1344
+Forsyth,04 Chestatee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,985
+Forsyth,05 Coal Mountain,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,879
+Forsyth,06 Crossroads,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,953
+Forsyth,07 Cumming,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,357
+Forsyth,08 Mashburn,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1112
+Forsyth,10 Midway,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,2467
+Forsyth,15 Heardsville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1240
+Forsyth,16 Otwell,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1527
+Forsyth,19 Old Atlanta,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,743
+Forsyth,21 South Forsyth,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1683
+Forsyth,25 Windermere,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1009
+Forsyth,27 Concord,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1492
+Forsyth,29 Polo,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1745
+Forsyth,01 Big Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,6420
+Forsyth,02 Brandywine,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2725
+Forsyth,03 Browns Bridge,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3352
+Forsyth,04 Chestatee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2225
+Forsyth,05 Coal Mountain,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2247
+Forsyth,06 Crossroads,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2276
+Forsyth,07 Cumming,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1045
+Forsyth,08 Mashburn,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3260
+Forsyth,10 Midway,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,7355
+Forsyth,15 Heardsville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3047
+Forsyth,16 Otwell,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,4438
+Forsyth,19 Old Atlanta,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2619
+Forsyth,21 South Forsyth,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,5145
+Forsyth,25 Windermere,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3773
+Forsyth,27 Concord,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3537
+Forsyth,29 Polo,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,5681
+Forsyth,01 Big Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,2978
+Forsyth,02 Brandywine,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,955
+Forsyth,03 Browns Bridge,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,2034
+Forsyth,04 Chestatee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1380
+Forsyth,05 Coal Mountain,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1147
+Forsyth,06 Crossroads,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1347
+Forsyth,07 Cumming,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,519
+Forsyth,08 Mashburn,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1616
+Forsyth,10 Midway,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,3518
+Forsyth,15 Heardsville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1758
+Forsyth,16 Otwell,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,2274
+Forsyth,19 Old Atlanta,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1102
+Forsyth,21 South Forsyth,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,2408
+Forsyth,25 Windermere,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1501
+Forsyth,27 Concord,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,2012
+Forsyth,29 Polo,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,2584
+Forsyth,01 Big Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,4644
+Forsyth,02 Brandywine,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2063
+Forsyth,03 Browns Bridge,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2507
+Forsyth,04 Chestatee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1678
+Forsyth,05 Coal Mountain,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1642
+Forsyth,06 Crossroads,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1721
+Forsyth,07 Cumming,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,761
+Forsyth,08 Mashburn,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2384
+Forsyth,10 Midway,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,5381
+Forsyth,15 Heardsville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2311
+Forsyth,16 Otwell,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,3212
+Forsyth,19 Old Atlanta,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1887
+Forsyth,21 South Forsyth,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,3764
+Forsyth,25 Windermere,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2721
+Forsyth,27 Concord,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2611
+Forsyth,29 Polo,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,4212
+Forsyth,01 Big Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,4372
+Forsyth,02 Brandywine,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1490
+Forsyth,03 Browns Bridge,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2769
+Forsyth,04 Chestatee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1852
+Forsyth,05 Coal Mountain,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1649
+Forsyth,06 Crossroads,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1827
+Forsyth,07 Cumming,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,777
+Forsyth,08 Mashburn,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2351
+Forsyth,10 Midway,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,5090
+Forsyth,15 Heardsville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2380
+Forsyth,16 Otwell,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,3287
+Forsyth,19 Old Atlanta,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1708
+Forsyth,21 South Forsyth,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,3542
+Forsyth,25 Windermere,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2385
+Forsyth,27 Concord,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2803
+Forsyth,29 Polo,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,3760
+Forsyth,01 Big Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,6931
+Forsyth,02 Brandywine,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2913
+Forsyth,03 Browns Bridge,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3823
+Forsyth,04 Chestatee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2483
+Forsyth,05 Coal Mountain,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2454
+Forsyth,06 Crossroads,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2591
+Forsyth,07 Cumming,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1144
+Forsyth,08 Mashburn,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3571
+Forsyth,10 Midway,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,8075
+Forsyth,15 Heardsville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3381
+Forsyth,16 Otwell,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,4889
+Forsyth,19 Old Atlanta,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2718
+Forsyth,21 South Forsyth,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,5618
+Forsyth,25 Windermere,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3984
+Forsyth,27 Concord,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3983
+Forsyth,29 Polo,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,6184
+Forsyth,01 Big Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,2461
+Forsyth,02 Brandywine,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,775
+Forsyth,03 Browns Bridge,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1591
+Forsyth,04 Chestatee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1134
+Forsyth,05 Coal Mountain,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,926
+Forsyth,06 Crossroads,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1049
+Forsyth,07 Cumming,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,440
+Forsyth,08 Mashburn,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1311
+Forsyth,10 Midway,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,2775
+Forsyth,15 Heardsville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1427
+Forsyth,16 Otwell,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1794
+Forsyth,19 Old Atlanta,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,999
+Forsyth,21 South Forsyth,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1921
+Forsyth,25 Windermere,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1281
+Forsyth,27 Concord,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1580
+Forsyth,29 Polo,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,2064
+Forsyth,01 Big Creek,SPLOST,,,YES,6177
+Forsyth,02 Brandywine,SPLOST,,,YES,2470
+Forsyth,03 Browns Bridge,SPLOST,,,YES,3496
+Forsyth,04 Chestatee,SPLOST,,,YES,2265
+Forsyth,05 Coal Mountain,SPLOST,,,YES,2252
+Forsyth,06 Crossroads,SPLOST,,,YES,2293
+Forsyth,07 Cumming,SPLOST,,,YES,1064
+Forsyth,08 Mashburn,SPLOST,,,YES,3298
+Forsyth,10 Midway,SPLOST,,,YES,7369
+Forsyth,15 Heardsville,SPLOST,,,YES,2998
+Forsyth,16 Otwell,SPLOST,,,YES,4391
+Forsyth,19 Old Atlanta,SPLOST,,,YES,2284
+Forsyth,21 South Forsyth,SPLOST,,,YES,4817
+Forsyth,25 Windermere,SPLOST,,,YES,3571
+Forsyth,27 Concord,SPLOST,,,YES,3552
+Forsyth,29 Polo,SPLOST,,,YES,5638
+Forsyth,01 Big Creek,SPLOST,,,NO,3290
+Forsyth,02 Brandywine,SPLOST,,,NO,1215
+Forsyth,03 Browns Bridge,SPLOST,,,NO,2008
+Forsyth,04 Chestatee,SPLOST,,,NO,1407
+Forsyth,05 Coal Mountain,SPLOST,,,NO,1184
+Forsyth,06 Crossroads,SPLOST,,,NO,1388
+Forsyth,07 Cumming,SPLOST,,,NO,529
+Forsyth,08 Mashburn,SPLOST,,,NO,1654
+Forsyth,10 Midway,SPLOST,,,NO,3602
+Forsyth,15 Heardsville,SPLOST,,,NO,1889
+Forsyth,16 Otwell,SPLOST,,,NO,2363
+Forsyth,19 Old Atlanta,SPLOST,,,NO,1454
+Forsyth,21 South Forsyth,SPLOST,,,NO,2808
+Forsyth,25 Windermere,SPLOST,,,NO,1754
+Forsyth,27 Concord,SPLOST,,,NO,2082
+Forsyth,29 Polo,SPLOST,,,NO,2689
+Forsyth,01 Big Creek,Sunday Alcohol Sales,,,YES,6335
+Forsyth,02 Brandywine,Sunday Alcohol Sales,,,YES,2592
+Forsyth,03 Browns Bridge,Sunday Alcohol Sales,,,YES,3760
+Forsyth,04 Chestatee,Sunday Alcohol Sales,,,YES,2211
+Forsyth,05 Coal Mountain,Sunday Alcohol Sales,,,YES,2178
+Forsyth,06 Crossroads,Sunday Alcohol Sales,,,YES,2200
+Forsyth,07 Cumming,Sunday Alcohol Sales,,,YES,936
+Forsyth,08 Mashburn,Sunday Alcohol Sales,,,YES,3362
+Forsyth,10 Midway,Sunday Alcohol Sales,,,YES,7569
+Forsyth,15 Heardsville,Sunday Alcohol Sales,,,YES,3097
+Forsyth,16 Otwell,Sunday Alcohol Sales,,,YES,4254
+Forsyth,19 Old Atlanta,Sunday Alcohol Sales,,,YES,2456
+Forsyth,21 South Forsyth,Sunday Alcohol Sales,,,YES,5113
+Forsyth,25 Windermere,Sunday Alcohol Sales,,,YES,3509
+Forsyth,27 Concord,Sunday Alcohol Sales,,,YES,3452
+Forsyth,29 Polo,Sunday Alcohol Sales,,,YES,5665
+Forsyth,01 Big Creek,Sunday Alcohol Sales,,,NO,3354
+Forsyth,02 Brandywine,Sunday Alcohol Sales,,,NO,1210
+Forsyth,03 Browns Bridge,Sunday Alcohol Sales,,,NO,1863
+Forsyth,04 Chestatee,Sunday Alcohol Sales,,,NO,1522
+Forsyth,05 Coal Mountain,Sunday Alcohol Sales,,,NO,1345
+Forsyth,06 Crossroads,Sunday Alcohol Sales,,,NO,1564
+Forsyth,07 Cumming,Sunday Alcohol Sales,,,NO,689
+Forsyth,08 Mashburn,Sunday Alcohol Sales,,,NO,1727
+Forsyth,10 Midway,Sunday Alcohol Sales,,,NO,3657
+Forsyth,15 Heardsville,Sunday Alcohol Sales,,,NO,1893
+Forsyth,16 Otwell,Sunday Alcohol Sales,,,NO,2657
+Forsyth,19 Old Atlanta,Sunday Alcohol Sales,,,NO,1372
+Forsyth,21 South Forsyth,Sunday Alcohol Sales,,,NO,2706
+Forsyth,25 Windermere,Sunday Alcohol Sales,,,NO,1960
+Forsyth,27 Concord,Sunday Alcohol Sales,,,NO,2325
+Forsyth,29 Polo,Sunday Alcohol Sales,,,NO,2849

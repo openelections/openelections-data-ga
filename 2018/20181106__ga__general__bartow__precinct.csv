@@ -1,0 +1,744 @@
+county,precinct,office,district,party,candidate,votes
+Bartow,ADAIRSVILLE,Governor,,REP,BRIAN KEMP,2745
+Bartow,ALLATOONA,Governor,,REP,BRIAN KEMP,1440
+Bartow,CARTERSVILLE EAST,Governor,,REP,BRIAN KEMP,2171
+Bartow,CARTERSVILLE WEST,Governor,,REP,BRIAN KEMP,3051
+Bartow,CASSVILLE,Governor,,REP,BRIAN KEMP,4132
+Bartow,CENTER,Governor,,REP,BRIAN KEMP,1827
+Bartow,EMERSON,Governor,,REP,BRIAN KEMP,1281
+Bartow,EUHARLEE,Governor,,REP,BRIAN KEMP,2126
+Bartow,FOLSOM,Governor,,REP,BRIAN KEMP,705
+Bartow,KINGSTON,Governor,,REP,BRIAN KEMP,1188
+Bartow,MISSION ROAD,Governor,,REP,BRIAN KEMP,1637
+Bartow,PINE LOG,Governor,,REP,BRIAN KEMP,1088
+Bartow,TAYLORSVILLE,Governor,,REP,BRIAN KEMP,1411
+Bartow,WHITE,Governor,,REP,BRIAN KEMP,1270
+Bartow,ZENA DRIVE,Governor,,REP,BRIAN KEMP,1690
+Bartow,WOODLAND HIGH,Governor,,REP,BRIAN KEMP,663
+Bartow,ADAIRSVILLE,Governor,,DEM,STACEY ABRAMS,552
+Bartow,ALLATOONA,Governor,,DEM,STACEY ABRAMS,474
+Bartow,CARTERSVILLE EAST,Governor,,DEM,STACEY ABRAMS,1143
+Bartow,CARTERSVILLE WEST,Governor,,DEM,STACEY ABRAMS,1247
+Bartow,CASSVILLE,Governor,,DEM,STACEY ABRAMS,1394
+Bartow,CENTER,Governor,,DEM,STACEY ABRAMS,395
+Bartow,EMERSON,Governor,,DEM,STACEY ABRAMS,292
+Bartow,EUHARLEE,Governor,,DEM,STACEY ABRAMS,608
+Bartow,FOLSOM,Governor,,DEM,STACEY ABRAMS,73
+Bartow,KINGSTON,Governor,,DEM,STACEY ABRAMS,206
+Bartow,MISSION ROAD,Governor,,DEM,STACEY ABRAMS,510
+Bartow,PINE LOG,Governor,,DEM,STACEY ABRAMS,119
+Bartow,TAYLORSVILLE,Governor,,DEM,STACEY ABRAMS,132
+Bartow,WHITE,Governor,,DEM,STACEY ABRAMS,194
+Bartow,ZENA DRIVE,Governor,,DEM,STACEY ABRAMS,979
+Bartow,WOODLAND HIGH,Governor,,DEM,STACEY ABRAMS,206
+Bartow,ADAIRSVILLE,Governor,,LIB,TED METZ,33
+Bartow,ALLATOONA,Governor,,LIB,TED METZ,31
+Bartow,CARTERSVILLE EAST,Governor,,LIB,TED METZ,30
+Bartow,CARTERSVILLE WEST,Governor,,LIB,TED METZ,49
+Bartow,CASSVILLE,Governor,,LIB,TED METZ,59
+Bartow,CENTER,Governor,,LIB,TED METZ,33
+Bartow,EMERSON,Governor,,LIB,TED METZ,14
+Bartow,EUHARLEE,Governor,,LIB,TED METZ,37
+Bartow,FOLSOM,Governor,,LIB,TED METZ,7
+Bartow,KINGSTON,Governor,,LIB,TED METZ,18
+Bartow,MISSION ROAD,Governor,,LIB,TED METZ,16
+Bartow,PINE LOG,Governor,,LIB,TED METZ,16
+Bartow,TAYLORSVILLE,Governor,,LIB,TED METZ,13
+Bartow,WHITE,Governor,,LIB,TED METZ,17
+Bartow,ZENA DRIVE,Governor,,LIB,TED METZ,29
+Bartow,WOODLAND HIGH,Governor,,LIB,TED METZ,8
+Bartow,ADAIRSVILLE,Lieutenant Governor,,REP,GEOFF DUNCAN,2696
+Bartow,ALLATOONA,Lieutenant Governor,,REP,GEOFF DUNCAN,1426
+Bartow,CARTERSVILLE EAST,Lieutenant Governor,,REP,GEOFF DUNCAN,2153
+Bartow,CARTERSVILLE WEST,Lieutenant Governor,,REP,GEOFF DUNCAN,3076
+Bartow,CASSVILLE,Lieutenant Governor,,REP,GEOFF DUNCAN,4102
+Bartow,CENTER,Lieutenant Governor,,REP,GEOFF DUNCAN,1822
+Bartow,EMERSON,Lieutenant Governor,,REP,GEOFF DUNCAN,1257
+Bartow,EUHARLEE,Lieutenant Governor,,REP,GEOFF DUNCAN,2122
+Bartow,FOLSOM,Lieutenant Governor,,REP,GEOFF DUNCAN,685
+Bartow,KINGSTON,Lieutenant Governor,,REP,GEOFF DUNCAN,1179
+Bartow,MISSION ROAD,Lieutenant Governor,,REP,GEOFF DUNCAN,1621
+Bartow,PINE LOG,Lieutenant Governor,,REP,GEOFF DUNCAN,1081
+Bartow,TAYLORSVILLE,Lieutenant Governor,,REP,GEOFF DUNCAN,1391
+Bartow,WHITE,Lieutenant Governor,,REP,GEOFF DUNCAN,1268
+Bartow,ZENA DRIVE,Lieutenant Governor,,REP,GEOFF DUNCAN,1675
+Bartow,WOODLAND HIGH,Lieutenant Governor,,REP,GEOFF DUNCAN,655
+Bartow,ADAIRSVILLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,588
+Bartow,ALLATOONA,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,482
+Bartow,CARTERSVILLE EAST,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1152
+Bartow,CARTERSVILLE WEST,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1234
+Bartow,CASSVILLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1414
+Bartow,CENTER,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,408
+Bartow,EMERSON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,303
+Bartow,EUHARLEE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,617
+Bartow,FOLSOM,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,82
+Bartow,KINGSTON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,213
+Bartow,MISSION ROAD,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,523
+Bartow,PINE LOG,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,126
+Bartow,TAYLORSVILLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,142
+Bartow,WHITE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,203
+Bartow,ZENA DRIVE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,980
+Bartow,WOODLAND HIGH,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,204
+Bartow,ADAIRSVILLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,2635
+Bartow,ALLATOONA,Secretary Of State,,REP,BRAD RAFFENSPERGER,1387
+Bartow,CARTERSVILLE EAST,Secretary Of State,,REP,BRAD RAFFENSPERGER,2066
+Bartow,CARTERSVILLE WEST,Secretary Of State,,REP,BRAD RAFFENSPERGER,2979
+Bartow,CASSVILLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,3998
+Bartow,CENTER,Secretary Of State,,REP,BRAD RAFFENSPERGER,1760
+Bartow,EMERSON,Secretary Of State,,REP,BRAD RAFFENSPERGER,1217
+Bartow,EUHARLEE,Secretary Of State,,REP,BRAD RAFFENSPERGER,2060
+Bartow,FOLSOM,Secretary Of State,,REP,BRAD RAFFENSPERGER,664
+Bartow,KINGSTON,Secretary Of State,,REP,BRAD RAFFENSPERGER,1148
+Bartow,MISSION ROAD,Secretary Of State,,REP,BRAD RAFFENSPERGER,1572
+Bartow,PINE LOG,Secretary Of State,,REP,BRAD RAFFENSPERGER,1053
+Bartow,TAYLORSVILLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,1374
+Bartow,WHITE,Secretary Of State,,REP,BRAD RAFFENSPERGER,1213
+Bartow,ZENA DRIVE,Secretary Of State,,REP,BRAD RAFFENSPERGER,1623
+Bartow,WOODLAND HIGH,Secretary Of State,,REP,BRAD RAFFENSPERGER,641
+Bartow,ADAIRSVILLE,Secretary Of State,,DEM,JOHN BARROW,574
+Bartow,ALLATOONA,Secretary Of State,,DEM,JOHN BARROW,464
+Bartow,CARTERSVILLE EAST,Secretary Of State,,DEM,JOHN BARROW,1148
+Bartow,CARTERSVILLE WEST,Secretary Of State,,DEM,JOHN BARROW,1236
+Bartow,CASSVILLE,Secretary Of State,,DEM,JOHN BARROW,1394
+Bartow,CENTER,Secretary Of State,,DEM,JOHN BARROW,414
+Bartow,EMERSON,Secretary Of State,,DEM,JOHN BARROW,291
+Bartow,EUHARLEE,Secretary Of State,,DEM,JOHN BARROW,617
+Bartow,FOLSOM,Secretary Of State,,DEM,JOHN BARROW,85
+Bartow,KINGSTON,Secretary Of State,,DEM,JOHN BARROW,218
+Bartow,MISSION ROAD,Secretary Of State,,DEM,JOHN BARROW,512
+Bartow,PINE LOG,Secretary Of State,,DEM,JOHN BARROW,123
+Bartow,TAYLORSVILLE,Secretary Of State,,DEM,JOHN BARROW,142
+Bartow,WHITE,Secretary Of State,,DEM,JOHN BARROW,212
+Bartow,ZENA DRIVE,Secretary Of State,,DEM,JOHN BARROW,945
+Bartow,WOODLAND HIGH,Secretary Of State,,DEM,JOHN BARROW,203
+Bartow,ADAIRSVILLE,Secretary Of State,,LIB,SMYTHE DUVAL,65
+Bartow,ALLATOONA,Secretary Of State,,LIB,SMYTHE DUVAL,59
+Bartow,CARTERSVILLE EAST,Secretary Of State,,LIB,SMYTHE DUVAL,61
+Bartow,CARTERSVILLE WEST,Secretary Of State,,LIB,SMYTHE DUVAL,84
+Bartow,CASSVILLE,Secretary Of State,,LIB,SMYTHE DUVAL,98
+Bartow,CENTER,Secretary Of State,,LIB,SMYTHE DUVAL,59
+Bartow,EMERSON,Secretary Of State,,LIB,SMYTHE DUVAL,42
+Bartow,EUHARLEE,Secretary Of State,,LIB,SMYTHE DUVAL,57
+Bartow,FOLSOM,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Bartow,KINGSTON,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Bartow,MISSION ROAD,Secretary Of State,,LIB,SMYTHE DUVAL,42
+Bartow,PINE LOG,Secretary Of State,,LIB,SMYTHE DUVAL,28
+Bartow,TAYLORSVILLE,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Bartow,WHITE,Secretary Of State,,LIB,SMYTHE DUVAL,30
+Bartow,ZENA DRIVE,Secretary Of State,,LIB,SMYTHE DUVAL,64
+Bartow,WOODLAND HIGH,Secretary Of State,,LIB,SMYTHE DUVAL,18
+Bartow,ADAIRSVILLE,Attorney General,,(REP,CHRIS CARR ,2678
+Bartow,ALLATOONA,Attorney General,,(REP,CHRIS CARR ,1402
+Bartow,CARTERSVILLE EAST,Attorney General,,(REP,CHRIS CARR ,2122
+Bartow,CARTERSVILLE WEST,Attorney General,,(REP,CHRIS CARR ,3068
+Bartow,CASSVILLE,Attorney General,,(REP,CHRIS CARR ,4060
+Bartow,CENTER,Attorney General,,(REP,CHRIS CARR ,1800
+Bartow,EMERSON,Attorney General,,(REP,CHRIS CARR ,1246
+Bartow,EUHARLEE,Attorney General,,(REP,CHRIS CARR ,2090
+Bartow,FOLSOM,Attorney General,,(REP,CHRIS CARR ,665
+Bartow,KINGSTON,Attorney General,,(REP,CHRIS CARR ,1163
+Bartow,MISSION ROAD,Attorney General,,(REP,CHRIS CARR ,1584
+Bartow,PINE LOG,Attorney General,,(REP,CHRIS CARR ,1061
+Bartow,TAYLORSVILLE,Attorney General,,(REP,CHRIS CARR ,1376
+Bartow,WHITE,Attorney General,,(REP,CHRIS CARR ,1228
+Bartow,ZENA DRIVE,Attorney General,,(REP,CHRIS CARR ,1660
+Bartow,WOODLAND HIGH,Attorney General,,(REP,CHRIS CARR ,647
+Bartow,ADAIRSVILLE,Attorney General,,DEM,CHARLIE BAILEY,583
+Bartow,ALLATOONA,Attorney General,,DEM,CHARLIE BAILEY,499
+Bartow,CARTERSVILLE EAST,Attorney General,,DEM,CHARLIE BAILEY,1145
+Bartow,CARTERSVILLE WEST,Attorney General,,DEM,CHARLIE BAILEY,1220
+Bartow,CASSVILLE,Attorney General,,DEM,CHARLIE BAILEY,1421
+Bartow,CENTER,Attorney General,,DEM,CHARLIE BAILEY,425
+Bartow,EMERSON,Attorney General,,DEM,CHARLIE BAILEY,299
+Bartow,EUHARLEE,Attorney General,,DEM,CHARLIE BAILEY,637
+Bartow,FOLSOM,Attorney General,,DEM,CHARLIE BAILEY,96
+Bartow,KINGSTON,Attorney General,,DEM,CHARLIE BAILEY,217
+Bartow,MISSION ROAD,Attorney General,,DEM,CHARLIE BAILEY,534
+Bartow,PINE LOG,Attorney General,,DEM,CHARLIE BAILEY,138
+Bartow,TAYLORSVILLE,Attorney General,,DEM,CHARLIE BAILEY,143
+Bartow,WHITE,Attorney General,,DEM,CHARLIE BAILEY,227
+Bartow,ZENA DRIVE,Attorney General,,DEM,CHARLIE BAILEY,972
+Bartow,WOODLAND HIGH,Attorney General,,DEM,CHARLIE BAILEY,212
+Bartow,ADAIRSVILLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,2733
+Bartow,ALLATOONA,Commissioner Of Agriculture,,(REP,GARY BLACK ,1448
+Bartow,CARTERSVILLE EAST,Commissioner Of Agriculture,,(REP,GARY BLACK ,2200
+Bartow,CARTERSVILLE WEST,Commissioner Of Agriculture,,(REP,GARY BLACK ,3150
+Bartow,CASSVILLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,4193
+Bartow,CENTER,Commissioner Of Agriculture,,(REP,GARY BLACK ,1840
+Bartow,EMERSON,Commissioner Of Agriculture,,(REP,GARY BLACK ,1257
+Bartow,EUHARLEE,Commissioner Of Agriculture,,(REP,GARY BLACK ,2147
+Bartow,FOLSOM,Commissioner Of Agriculture,,(REP,GARY BLACK ,693
+Bartow,KINGSTON,Commissioner Of Agriculture,,(REP,GARY BLACK ,1181
+Bartow,MISSION ROAD,Commissioner Of Agriculture,,(REP,GARY BLACK ,1649
+Bartow,PINE LOG,Commissioner Of Agriculture,,(REP,GARY BLACK ,1089
+Bartow,TAYLORSVILLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,1409
+Bartow,WHITE,Commissioner Of Agriculture,,(REP,GARY BLACK ,1264
+Bartow,ZENA DRIVE,Commissioner Of Agriculture,,(REP,GARY BLACK ,1699
+Bartow,WOODLAND HIGH,Commissioner Of Agriculture,,(REP,GARY BLACK ,671
+Bartow,ADAIRSVILLE,Commissioner Of Agriculture,,DEM,FRED SWANN,545
+Bartow,ALLATOONA,Commissioner Of Agriculture,,DEM,FRED SWANN,443
+Bartow,CARTERSVILLE EAST,Commissioner Of Agriculture,,DEM,FRED SWANN,1087
+Bartow,CARTERSVILLE WEST,Commissioner Of Agriculture,,DEM,FRED SWANN,1142
+Bartow,CASSVILLE,Commissioner Of Agriculture,,DEM,FRED SWANN,1309
+Bartow,CENTER,Commissioner Of Agriculture,,DEM,FRED SWANN,385
+Bartow,EMERSON,Commissioner Of Agriculture,,DEM,FRED SWANN,290
+Bartow,EUHARLEE,Commissioner Of Agriculture,,DEM,FRED SWANN,582
+Bartow,FOLSOM,Commissioner Of Agriculture,,DEM,FRED SWANN,78
+Bartow,KINGSTON,Commissioner Of Agriculture,,DEM,FRED SWANN,203
+Bartow,MISSION ROAD,Commissioner Of Agriculture,,DEM,FRED SWANN,480
+Bartow,PINE LOG,Commissioner Of Agriculture,,DEM,FRED SWANN,118
+Bartow,TAYLORSVILLE,Commissioner Of Agriculture,,DEM,FRED SWANN,129
+Bartow,WHITE,Commissioner Of Agriculture,,DEM,FRED SWANN,192
+Bartow,ZENA DRIVE,Commissioner Of Agriculture,,DEM,FRED SWANN,933
+Bartow,WOODLAND HIGH,Commissioner Of Agriculture,,DEM,FRED SWANN,189
+Bartow,ADAIRSVILLE,Commissioner Of Insurance,,REP,JIM BECK,2650
+Bartow,ALLATOONA,Commissioner Of Insurance,,REP,JIM BECK,1387
+Bartow,CARTERSVILLE EAST,Commissioner Of Insurance,,REP,JIM BECK,2123
+Bartow,CARTERSVILLE WEST,Commissioner Of Insurance,,REP,JIM BECK,3001
+Bartow,CASSVILLE,Commissioner Of Insurance,,REP,JIM BECK,4019
+Bartow,CENTER,Commissioner Of Insurance,,REP,JIM BECK,1771
+Bartow,EMERSON,Commissioner Of Insurance,,REP,JIM BECK,1208
+Bartow,EUHARLEE,Commissioner Of Insurance,,REP,JIM BECK,2072
+Bartow,FOLSOM,Commissioner Of Insurance,,REP,JIM BECK,669
+Bartow,KINGSTON,Commissioner Of Insurance,,REP,JIM BECK,1155
+Bartow,MISSION ROAD,Commissioner Of Insurance,,REP,JIM BECK,1577
+Bartow,PINE LOG,Commissioner Of Insurance,,REP,JIM BECK,1053
+Bartow,TAYLORSVILLE,Commissioner Of Insurance,,REP,JIM BECK,1382
+Bartow,WHITE,Commissioner Of Insurance,,REP,JIM BECK,1227
+Bartow,ZENA DRIVE,Commissioner Of Insurance,,REP,JIM BECK,1634
+Bartow,WOODLAND HIGH,Commissioner Of Insurance,,REP,JIM BECK,648
+Bartow,ADAIRSVILLE,Commissioner Of Insurance,,DEM,JANICE LAWS,548
+Bartow,ALLATOONA,Commissioner Of Insurance,,DEM,JANICE LAWS,441
+Bartow,CARTERSVILLE EAST,Commissioner Of Insurance,,DEM,JANICE LAWS,1089
+Bartow,CARTERSVILLE WEST,Commissioner Of Insurance,,DEM,JANICE LAWS,1175
+Bartow,CASSVILLE,Commissioner Of Insurance,,DEM,JANICE LAWS,1327
+Bartow,CENTER,Commissioner Of Insurance,,DEM,JANICE LAWS,381
+Bartow,EMERSON,Commissioner Of Insurance,,DEM,JANICE LAWS,282
+Bartow,EUHARLEE,Commissioner Of Insurance,,DEM,JANICE LAWS,579
+Bartow,FOLSOM,Commissioner Of Insurance,,DEM,JANICE LAWS,71
+Bartow,KINGSTON,Commissioner Of Insurance,,DEM,JANICE LAWS,199
+Bartow,MISSION ROAD,Commissioner Of Insurance,,DEM,JANICE LAWS,495
+Bartow,PINE LOG,Commissioner Of Insurance,,DEM,JANICE LAWS,103
+Bartow,TAYLORSVILLE,Commissioner Of Insurance,,DEM,JANICE LAWS,127
+Bartow,WHITE,Commissioner Of Insurance,,DEM,JANICE LAWS,195
+Bartow,ZENA DRIVE,Commissioner Of Insurance,,DEM,JANICE LAWS,918
+Bartow,WOODLAND HIGH,Commissioner Of Insurance,,DEM,JANICE LAWS,189
+Bartow,ADAIRSVILLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,87
+Bartow,ALLATOONA,Commissioner Of Insurance,,LIB,DONNIE FOSTER,80
+Bartow,CARTERSVILLE EAST,Commissioner Of Insurance,,LIB,DONNIE FOSTER,87
+Bartow,CARTERSVILLE WEST,Commissioner Of Insurance,,LIB,DONNIE FOSTER,111
+Bartow,CASSVILLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,151
+Bartow,CENTER,Commissioner Of Insurance,,LIB,DONNIE FOSTER,77
+Bartow,EMERSON,Commissioner Of Insurance,,LIB,DONNIE FOSTER,64
+Bartow,EUHARLEE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,80
+Bartow,FOLSOM,Commissioner Of Insurance,,LIB,DONNIE FOSTER,29
+Bartow,KINGSTON,Commissioner Of Insurance,,LIB,DONNIE FOSTER,32
+Bartow,MISSION ROAD,Commissioner Of Insurance,,LIB,DONNIE FOSTER,61
+Bartow,PINE LOG,Commissioner Of Insurance,,LIB,DONNIE FOSTER,52
+Bartow,TAYLORSVILLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,30
+Bartow,WHITE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,41
+Bartow,ZENA DRIVE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,95
+Bartow,WOODLAND HIGH,Commissioner Of Insurance,,LIB,DONNIE FOSTER,26
+Bartow,ADAIRSVILLE,State School Superintendent,,(REP,RICHARD WOODS ,2723
+Bartow,ALLATOONA,State School Superintendent,,(REP,RICHARD WOODS ,1451
+Bartow,CARTERSVILLE EAST,State School Superintendent,,(REP,RICHARD WOODS ,2191
+Bartow,CARTERSVILLE WEST,State School Superintendent,,(REP,RICHARD WOODS ,3124
+Bartow,CASSVILLE,State School Superintendent,,(REP,RICHARD WOODS ,4152
+Bartow,CENTER,State School Superintendent,,(REP,RICHARD WOODS ,1824
+Bartow,EMERSON,State School Superintendent,,(REP,RICHARD WOODS ,1264
+Bartow,EUHARLEE,State School Superintendent,,(REP,RICHARD WOODS ,2126
+Bartow,FOLSOM,State School Superintendent,,(REP,RICHARD WOODS ,695
+Bartow,KINGSTON,State School Superintendent,,(REP,RICHARD WOODS ,1180
+Bartow,MISSION ROAD,State School Superintendent,,(REP,RICHARD WOODS ,1631
+Bartow,PINE LOG,State School Superintendent,,(REP,RICHARD WOODS ,1084
+Bartow,TAYLORSVILLE,State School Superintendent,,(REP,RICHARD WOODS ,1401
+Bartow,WHITE,State School Superintendent,,(REP,RICHARD WOODS ,1258
+Bartow,ZENA DRIVE,State School Superintendent,,(REP,RICHARD WOODS ,1680
+Bartow,WOODLAND HIGH,State School Superintendent,,(REP,RICHARD WOODS ,665
+Bartow,ADAIRSVILLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",529
+Bartow,ALLATOONA,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",446
+Bartow,CARTERSVILLE EAST,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1088
+Bartow,CARTERSVILLE WEST,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1149
+Bartow,CASSVILLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1325
+Bartow,CENTER,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",391
+Bartow,EMERSON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",277
+Bartow,EUHARLEE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",592
+Bartow,FOLSOM,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",73
+Bartow,KINGSTON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",201
+Bartow,MISSION ROAD,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",487
+Bartow,PINE LOG,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",116
+Bartow,TAYLORSVILLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",127
+Bartow,WHITE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",188
+Bartow,ZENA DRIVE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",943
+Bartow,WOODLAND HIGH,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",192
+Bartow,ADAIRSVILLE,Commissioner Of Labor,,(REP,MARK BUTLER ,2719
+Bartow,ALLATOONA,Commissioner Of Labor,,(REP,MARK BUTLER ,1432
+Bartow,CARTERSVILLE EAST,Commissioner Of Labor,,(REP,MARK BUTLER ,2172
+Bartow,CARTERSVILLE WEST,Commissioner Of Labor,,(REP,MARK BUTLER ,3102
+Bartow,CASSVILLE,Commissioner Of Labor,,(REP,MARK BUTLER ,4137
+Bartow,CENTER,Commissioner Of Labor,,(REP,MARK BUTLER ,1817
+Bartow,EMERSON,Commissioner Of Labor,,(REP,MARK BUTLER ,1254
+Bartow,EUHARLEE,Commissioner Of Labor,,(REP,MARK BUTLER ,2132
+Bartow,FOLSOM,Commissioner Of Labor,,(REP,MARK BUTLER ,686
+Bartow,KINGSTON,Commissioner Of Labor,,(REP,MARK BUTLER ,1175
+Bartow,MISSION ROAD,Commissioner Of Labor,,(REP,MARK BUTLER ,1625
+Bartow,PINE LOG,Commissioner Of Labor,,(REP,MARK BUTLER ,1084
+Bartow,TAYLORSVILLE,Commissioner Of Labor,,(REP,MARK BUTLER ,1391
+Bartow,WHITE,Commissioner Of Labor,,(REP,MARK BUTLER ,1264
+Bartow,ZENA DRIVE,Commissioner Of Labor,,(REP,MARK BUTLER ,1693
+Bartow,WOODLAND HIGH,Commissioner Of Labor,,(REP,MARK BUTLER ,660
+Bartow,ADAIRSVILLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,549
+Bartow,ALLATOONA,Commissioner Of Labor,,DEM,RICHARD KEATLEY,456
+Bartow,CARTERSVILLE EAST,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1104
+Bartow,CARTERSVILLE WEST,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1167
+Bartow,CASSVILLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1361
+Bartow,CENTER,Commissioner Of Labor,,DEM,RICHARD KEATLEY,403
+Bartow,EMERSON,Commissioner Of Labor,,DEM,RICHARD KEATLEY,292
+Bartow,EUHARLEE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,592
+Bartow,FOLSOM,Commissioner Of Labor,,DEM,RICHARD KEATLEY,82
+Bartow,KINGSTON,Commissioner Of Labor,,DEM,RICHARD KEATLEY,204
+Bartow,MISSION ROAD,Commissioner Of Labor,,DEM,RICHARD KEATLEY,499
+Bartow,PINE LOG,Commissioner Of Labor,,DEM,RICHARD KEATLEY,120
+Bartow,TAYLORSVILLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,131
+Bartow,WHITE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,191
+Bartow,ZENA DRIVE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,943
+Bartow,WOODLAND HIGH,Commissioner Of Labor,,DEM,RICHARD KEATLEY,196
+Bartow,ADAIRSVILLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2622
+Bartow,ALLATOONA,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1350
+Bartow,CARTERSVILLE EAST,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2073
+Bartow,CARTERSVILLE WEST,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2963
+Bartow,CASSVILLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3958
+Bartow,CENTER,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1725
+Bartow,EMERSON,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1204
+Bartow,EUHARLEE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2046
+Bartow,FOLSOM,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,663
+Bartow,KINGSTON,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1117
+Bartow,MISSION ROAD,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1556
+Bartow,PINE LOG,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1037
+Bartow,TAYLORSVILLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1352
+Bartow,WHITE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1200
+Bartow,ZENA DRIVE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1608
+Bartow,WOODLAND HIGH,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,636
+Bartow,ADAIRSVILLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,560
+Bartow,ALLATOONA,"Public Service Commission, District 3",3,DEM,LINDY MILLER,461
+Bartow,CARTERSVILLE EAST,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1119
+Bartow,CARTERSVILLE WEST,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1210
+Bartow,CASSVILLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1369
+Bartow,CENTER,"Public Service Commission, District 3",3,DEM,LINDY MILLER,403
+Bartow,EMERSON,"Public Service Commission, District 3",3,DEM,LINDY MILLER,302
+Bartow,EUHARLEE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,593
+Bartow,FOLSOM,"Public Service Commission, District 3",3,DEM,LINDY MILLER,79
+Bartow,KINGSTON,"Public Service Commission, District 3",3,DEM,LINDY MILLER,223
+Bartow,MISSION ROAD,"Public Service Commission, District 3",3,DEM,LINDY MILLER,501
+Bartow,PINE LOG,"Public Service Commission, District 3",3,DEM,LINDY MILLER,118
+Bartow,TAYLORSVILLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,139
+Bartow,WHITE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,211
+Bartow,ZENA DRIVE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,941
+Bartow,WOODLAND HIGH,"Public Service Commission, District 3",3,DEM,LINDY MILLER,205
+Bartow,ADAIRSVILLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,95
+Bartow,ALLATOONA,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,97
+Bartow,CARTERSVILLE EAST,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,100
+Bartow,CARTERSVILLE WEST,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,122
+Bartow,CASSVILLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,171
+Bartow,CENTER,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,87
+Bartow,EMERSON,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,48
+Bartow,EUHARLEE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,91
+Bartow,FOLSOM,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,26
+Bartow,KINGSTON,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,39
+Bartow,MISSION ROAD,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,69
+Bartow,PINE LOG,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,50
+Bartow,TAYLORSVILLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,39
+Bartow,WHITE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,47
+Bartow,ZENA DRIVE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,82
+Bartow,WOODLAND HIGH,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,23
+Bartow,ADAIRSVILLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2652
+Bartow,ALLATOONA,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1379
+Bartow,CARTERSVILLE EAST,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2090
+Bartow,CARTERSVILLE WEST,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3006
+Bartow,CASSVILLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,4001
+Bartow,CENTER,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1749
+Bartow,EMERSON,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1228
+Bartow,EUHARLEE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2067
+Bartow,FOLSOM,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,666
+Bartow,KINGSTON,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1139
+Bartow,MISSION ROAD,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1577
+Bartow,PINE LOG,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1037
+Bartow,TAYLORSVILLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1363
+Bartow,WHITE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1204
+Bartow,ZENA DRIVE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1623
+Bartow,WOODLAND HIGH,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,638
+Bartow,ADAIRSVILLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,533
+Bartow,ALLATOONA,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,441
+Bartow,CARTERSVILLE EAST,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1106
+Bartow,CARTERSVILLE WEST,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1164
+Bartow,CASSVILLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1347
+Bartow,CENTER,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,396
+Bartow,EMERSON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,278
+Bartow,EUHARLEE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,592
+Bartow,FOLSOM,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,73
+Bartow,KINGSTON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,205
+Bartow,MISSION ROAD,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,492
+Bartow,PINE LOG,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,112
+Bartow,TAYLORSVILLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,128
+Bartow,WHITE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,193
+Bartow,ZENA DRIVE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,921
+Bartow,WOODLAND HIGH,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,198
+Bartow,ADAIRSVILLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,85
+Bartow,ALLATOONA,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,90
+Bartow,CARTERSVILLE EAST,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,92
+Bartow,CARTERSVILLE WEST,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,116
+Bartow,CASSVILLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,149
+Bartow,CENTER,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,77
+Bartow,EMERSON,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,46
+Bartow,EUHARLEE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,67
+Bartow,FOLSOM,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
+Bartow,KINGSTON,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,37
+Bartow,MISSION ROAD,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,58
+Bartow,PINE LOG,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,54
+Bartow,TAYLORSVILLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34
+Bartow,WHITE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,54
+Bartow,ZENA DRIVE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,82
+Bartow,WOODLAND HIGH,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,28
+Bartow,ADAIRSVILLE,U.S. Representative,11,(REP,BARRY LOUDERMILK ,2746
+Bartow,ALLATOONA,U.S. Representative,11,(REP,BARRY LOUDERMILK ,1446
+Bartow,CARTERSVILLE EAST,U.S. Representative,11,(REP,BARRY LOUDERMILK ,2185
+Bartow,CARTERSVILLE WEST,U.S. Representative,11,(REP,BARRY LOUDERMILK ,3095
+Bartow,CASSVILLE,U.S. Representative,11,(REP,BARRY LOUDERMILK ,4161
+Bartow,CENTER,U.S. Representative,11,(REP,BARRY LOUDERMILK ,1828
+Bartow,EMERSON,U.S. Representative,11,(REP,BARRY LOUDERMILK ,1272
+Bartow,EUHARLEE,U.S. Representative,11,(REP,BARRY LOUDERMILK ,2146
+Bartow,FOLSOM,U.S. Representative,11,(REP,BARRY LOUDERMILK ,690
+Bartow,KINGSTON,U.S. Representative,11,(REP,BARRY LOUDERMILK ,1189
+Bartow,MISSION ROAD,U.S. Representative,11,(REP,BARRY LOUDERMILK ,1646
+Bartow,PINE LOG,U.S. Representative,11,(REP,BARRY LOUDERMILK ,1084
+Bartow,TAYLORSVILLE,U.S. Representative,11,(REP,BARRY LOUDERMILK ,1402
+Bartow,WHITE,U.S. Representative,11,(REP,BARRY LOUDERMILK ,1251
+Bartow,ZENA DRIVE,U.S. Representative,11,(REP,BARRY LOUDERMILK ,1712
+Bartow,WOODLAND HIGH,U.S. Representative,11,(REP,BARRY LOUDERMILK ,671
+Bartow,ADAIRSVILLE,U.S. Representative,11,DEM,FLYNN D. BROADY JR,536
+Bartow,ALLATOONA,U.S. Representative,11,DEM,FLYNN D. BROADY JR,465
+Bartow,CARTERSVILLE EAST,U.S. Representative,11,DEM,FLYNN D. BROADY JR,1105
+Bartow,CARTERSVILLE WEST,U.S. Representative,11,DEM,FLYNN D. BROADY JR,1196
+Bartow,CASSVILLE,U.S. Representative,11,DEM,FLYNN D. BROADY JR,1358
+Bartow,CENTER,U.S. Representative,11,DEM,FLYNN D. BROADY JR,401
+Bartow,EMERSON,U.S. Representative,11,DEM,FLYNN D. BROADY JR,289
+Bartow,EUHARLEE,U.S. Representative,11,DEM,FLYNN D. BROADY JR,591
+Bartow,FOLSOM,U.S. Representative,11,DEM,FLYNN D. BROADY JR,77
+Bartow,KINGSTON,U.S. Representative,11,DEM,FLYNN D. BROADY JR,196
+Bartow,MISSION ROAD,U.S. Representative,11,DEM,FLYNN D. BROADY JR,492
+Bartow,PINE LOG,U.S. Representative,11,DEM,FLYNN D. BROADY JR,119
+Bartow,TAYLORSVILLE,U.S. Representative,11,DEM,FLYNN D. BROADY JR,132
+Bartow,WHITE,U.S. Representative,11,DEM,FLYNN D. BROADY JR,209
+Bartow,ZENA DRIVE,U.S. Representative,11,DEM,FLYNN D. BROADY JR,942
+Bartow,WOODLAND HIGH,U.S. Representative,11,DEM,FLYNN D. BROADY JR,202
+Bartow,ADAIRSVILLE,State Senator,14,(REP,BRUCE THOMPSON ,1991
+Bartow,ALLATOONA,State Senator,14,(REP,BRUCE THOMPSON ,1435
+Bartow,CARTERSVILLE EAST,State Senator,14,(REP,BRUCE THOMPSON ,2145
+Bartow,CARTERSVILLE WEST,State Senator,14,(REP,BRUCE THOMPSON ,60
+Bartow,CASSVILLE,State Senator,14,(REP,BRUCE THOMPSON ,4097
+Bartow,CENTER,State Senator,14,(REP,BRUCE THOMPSON ,1812
+Bartow,EMERSON,State Senator,14,(REP,BRUCE THOMPSON ,30
+Bartow,FOLSOM,State Senator,14,(REP,BRUCE THOMPSON ,685
+Bartow,PINE LOG,State Senator,14,(REP,BRUCE THOMPSON ,1078
+Bartow,WHITE,State Senator,14,(REP,BRUCE THOMPSON ,1254
+Bartow,ZENA DRIVE,State Senator,14,(REP,BRUCE THOMPSON ,1679
+Bartow,ADAIRSVILLE,State Senator,14,DEM,RACHEL A. KINSEY,431
+Bartow,ALLATOONA,State Senator,14,DEM,RACHEL A. KINSEY,465
+Bartow,CARTERSVILLE EAST,State Senator,14,DEM,RACHEL A. KINSEY,1023
+Bartow,CARTERSVILLE WEST,State Senator,14,DEM,RACHEL A. KINSEY,32
+Bartow,CASSVILLE,State Senator,14,DEM,RACHEL A. KINSEY,1401
+Bartow,CENTER,State Senator,14,DEM,RACHEL A. KINSEY,419
+Bartow,EMERSON,State Senator,14,DEM,RACHEL A. KINSEY,7
+Bartow,FOLSOM,State Senator,14,DEM,RACHEL A. KINSEY,83
+Bartow,PINE LOG,State Senator,14,DEM,RACHEL A. KINSEY,126
+Bartow,WHITE,State Senator,14,DEM,RACHEL A. KINSEY,207
+Bartow,ZENA DRIVE,State Senator,14,DEM,RACHEL A. KINSEY,957
+Bartow,ADAIRSVILLE,State Senator,52,(REP,CHUCK HUFSTETLER ,725
+Bartow,CARTERSVILLE EAST,State Senator,52,(REP,CHUCK HUFSTETLER ,19
+Bartow,CARTERSVILLE WEST,State Senator,52,(REP,CHUCK HUFSTETLER ,3014
+Bartow,EMERSON,State Senator,52,(REP,CHUCK HUFSTETLER ,1226
+Bartow,EUHARLEE,State Senator,52,(REP,CHUCK HUFSTETLER ,2124
+Bartow,KINGSTON,State Senator,52,(REP,CHUCK HUFSTETLER ,1178
+Bartow,MISSION ROAD,State Senator,52,(REP,CHUCK HUFSTETLER ,1630
+Bartow,TAYLORSVILLE,State Senator,52,(REP,CHUCK HUFSTETLER ,1396
+Bartow,WOODLAND HIGH,State Senator,52,(REP,CHUCK HUFSTETLER ,659
+Bartow,ADAIRSVILLE,State Senator,52,DEM,EVAN ROSS,125
+Bartow,CARTERSVILLE EAST,State Senator,52,DEM,EVAN ROSS,102
+Bartow,CARTERSVILLE WEST,State Senator,52,DEM,EVAN ROSS,1176
+Bartow,EMERSON,State Senator,52,DEM,EVAN ROSS,287
+Bartow,EUHARLEE,State Senator,52,DEM,EVAN ROSS,608
+Bartow,KINGSTON,State Senator,52,DEM,EVAN ROSS,203
+Bartow,MISSION ROAD,State Senator,52,DEM,EVAN ROSS,502
+Bartow,TAYLORSVILLE,State Senator,52,DEM,EVAN ROSS,134
+Bartow,WOODLAND HIGH,State Senator,52,DEM,EVAN ROSS,207
+Bartow,ALLATOONA,State Representative,15,REP,MATTHEW GAMBILL,1598
+Bartow,CARTERSVILLE EAST,State Representative,15,REP,MATTHEW GAMBILL,2593
+Bartow,CARTERSVILLE WEST,State Representative,15,REP,MATTHEW GAMBILL,3550
+Bartow,CENTER,State Representative,15,REP,MATTHEW GAMBILL,1529
+Bartow,EMERSON,State Representative,15,REP,MATTHEW GAMBILL,1365
+Bartow,EUHARLEE,State Representative,15,REP,MATTHEW GAMBILL,946
+Bartow,MISSION ROAD,State Representative,15,REP,MATTHEW GAMBILL,1821
+Bartow,ZENA DRIVE,State Representative,15,REP,MATTHEW GAMBILL,2041
+Bartow,WOODLAND HIGH,State Representative,15,REP,MATTHEW GAMBILL,747
+Bartow,EUHARLEE,State Representative,16,(REP,TREY KELLEY ,1433
+Bartow,TAYLORSVILLE,State Representative,16,(REP,TREY KELLEY ,1424
+Bartow,CENTER,BOE, D1,R,T. ROSS,1578
+Bartow,PINE LOG,BOE, D1,R,T. ROSS,1090
+Bartow,WHITE,BOE, D1,R,T. ROSS,1250
+Bartow,ZENA DRIVE,BOE, D1,R,T. ROSS,1395
+Bartow,CENTER,BOE, D1,D,L. SLOCUM,323
+Bartow,PINE LOG,BOE, D1,D,L. SLOCUM,117
+Bartow,WHITE,BOE, D1,D,L. SLOCUM,207
+Bartow,ZENA DRIVE,BOE, D1,D,L. SLOCUM,725
+Bartow,ALLATOONA,BOE, D2,R,T. L. EGGERT,1635
+Bartow,CENTER,BOE, D2,R,T. L. EGGERT,272
+Bartow,EMERSON,BOE, D2,R,T. L. EGGERT,1369
+Bartow,TAYLORSVILLE,BOE, D2,R,T. L. EGGERT,157
+Bartow,ZENA DRIVE,BOE, D2,R,T. L. EGGERT,254
+Bartow,WOODLAND HIGH,BOE, D2,R,T. L. EGGERT,755
+Bartow,CASSVILLE,BOE, D3,R,D. KEENEY ,4092
+Bartow,ZENA DRIVE,BOE, D3,R,D. KEENEY ,6
+Bartow,CASSVILLE,BOE, D3,D,W. COOMBS,1415
+Bartow,ZENA DRIVE,BOE, D3,D,W. COOMBS,1
+Bartow,ADAIRSVILLE,Soil and Water,,,J. B. NELSON ,2829
+Bartow,ALLATOONA,Soil and Water,,,J. B. NELSON ,1566
+Bartow,CARTERSVILLE EAST,Soil and Water,,,J. B. NELSON ,2728
+Bartow,CARTERSVILLE WEST,Soil and Water,,,J. B. NELSON ,3602
+Bartow,CASSVILLE,Soil and Water,,,J. B. NELSON ,4612
+Bartow,CENTER,Soil and Water,,,J. B. NELSON ,1906
+Bartow,EMERSON,Soil and Water,,,J. B. NELSON ,1313
+Bartow,EUHARLEE,Soil and Water,,,J. B. NELSON ,2373
+Bartow,FOLSOM,Soil and Water,,,J. B. NELSON ,686
+Bartow,KINGSTON,Soil and Water,,,J. B. NELSON ,1213
+Bartow,MISSION ROAD,Soil and Water,,,J. B. NELSON ,1840
+Bartow,PINE LOG,Soil and Water,,,J. B. NELSON ,1057
+Bartow,TAYLORSVILLE,Soil and Water,,,J. B. NELSON ,1405
+Bartow,WHITE,Soil and Water,,,J. B. NELSON ,1257
+Bartow,ZENA DRIVE,Soil and Water,,,J. B. NELSON ,2114
+Bartow,WOODLAND HIGH,Soil and Water,,,J. B. NELSON ,754
+Bartow,ADAIRSVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2615
+Bartow,ALLATOONA,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1564
+Bartow,CARTERSVILLE EAST,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2680
+Bartow,CARTERSVILLE WEST,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3341
+Bartow,CASSVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4389
+Bartow,CENTER,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1755
+Bartow,EMERSON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1216
+Bartow,EUHARLEE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2209
+Bartow,FOLSOM,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,591
+Bartow,KINGSTON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1089
+Bartow,MISSION ROAD,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1674
+Bartow,PINE LOG,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,913
+Bartow,TAYLORSVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1169
+Bartow,WHITE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1168
+Bartow,ZENA DRIVE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2178
+Bartow,WOODLAND HIGH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,701
+Bartow,ADAIRSVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,625
+Bartow,ALLATOONA,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,343
+Bartow,CARTERSVILLE EAST,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,555
+Bartow,CARTERSVILLE WEST,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,873
+Bartow,CASSVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1045
+Bartow,CENTER,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,431
+Bartow,EMERSON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,310
+Bartow,EUHARLEE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,504
+Bartow,FOLSOM,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,163
+Bartow,KINGSTON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,278
+Bartow,MISSION ROAD,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,440
+Bartow,PINE LOG,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,274
+Bartow,TAYLORSVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,353
+Bartow,WHITE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,274
+Bartow,ZENA DRIVE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,417
+Bartow,WOODLAND HIGH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,153
+Bartow,ADAIRSVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2111
+Bartow,ALLATOONA,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1260
+Bartow,CARTERSVILLE EAST,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2187
+Bartow,CARTERSVILLE WEST,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2689
+Bartow,CASSVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3464
+Bartow,CENTER,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1379
+Bartow,EMERSON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,963
+Bartow,EUHARLEE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1735
+Bartow,FOLSOM,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,466
+Bartow,KINGSTON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,860
+Bartow,MISSION ROAD,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1360
+Bartow,PINE LOG,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,708
+Bartow,TAYLORSVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,886
+Bartow,WHITE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,868
+Bartow,ZENA DRIVE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1802
+Bartow,WOODLAND HIGH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,553
+Bartow,ADAIRSVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1014
+Bartow,ALLATOONA,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,592
+Bartow,CARTERSVILLE EAST,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,964
+Bartow,CARTERSVILLE WEST,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1395
+Bartow,CASSVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1782
+Bartow,CENTER,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,721
+Bartow,EMERSON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,503
+Bartow,EUHARLEE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,901
+Bartow,FOLSOM,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,267
+Bartow,KINGSTON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,473
+Bartow,MISSION ROAD,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,703
+Bartow,PINE LOG,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,417
+Bartow,TAYLORSVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,594
+Bartow,WHITE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,527
+Bartow,ZENA DRIVE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,697
+Bartow,WOODLAND HIGH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,287
+Bartow,ADAIRSVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1785
+Bartow,ALLATOONA,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1103
+Bartow,CARTERSVILLE EAST,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1920
+Bartow,CARTERSVILLE WEST,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2297
+Bartow,CASSVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2990
+Bartow,CENTER,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1241
+Bartow,EMERSON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,858
+Bartow,EUHARLEE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1483
+Bartow,FOLSOM,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,407
+Bartow,KINGSTON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,754
+Bartow,MISSION ROAD,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1159
+Bartow,PINE LOG,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,661
+Bartow,TAYLORSVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,792
+Bartow,WHITE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,779
+Bartow,ZENA DRIVE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1567
+Bartow,WOODLAND HIGH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,491
+Bartow,ADAIRSVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1295
+Bartow,ALLATOONA,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,728
+Bartow,CARTERSVILLE EAST,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1182
+Bartow,CARTERSVILLE WEST,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1742
+Bartow,CASSVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2207
+Bartow,CENTER,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,855
+Bartow,EMERSON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,590
+Bartow,EUHARLEE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1136
+Bartow,FOLSOM,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,321
+Bartow,KINGSTON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,563
+Bartow,MISSION ROAD,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,879
+Bartow,PINE LOG,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,470
+Bartow,TAYLORSVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,673
+Bartow,WHITE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,599
+Bartow,ZENA DRIVE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,913
+Bartow,WOODLAND HIGH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,343
+Bartow,ADAIRSVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2485
+Bartow,ALLATOONA,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1516
+Bartow,CARTERSVILLE EAST,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2605
+Bartow,CARTERSVILLE WEST,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3269
+Bartow,CASSVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,4197
+Bartow,CENTER,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1677
+Bartow,EMERSON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1209
+Bartow,EUHARLEE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2088
+Bartow,FOLSOM,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,580
+Bartow,KINGSTON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1024
+Bartow,MISSION ROAD,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1590
+Bartow,PINE LOG,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,910
+Bartow,TAYLORSVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1125
+Bartow,WHITE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1093
+Bartow,ZENA DRIVE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2103
+Bartow,WOODLAND HIGH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,648
+Bartow,ADAIRSVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,735
+Bartow,ALLATOONA,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,383
+Bartow,CARTERSVILLE EAST,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,631
+Bartow,CARTERSVILLE WEST,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,954
+Bartow,CASSVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1213
+Bartow,CENTER,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,506
+Bartow,EMERSON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,321
+Bartow,EUHARLEE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,617
+Bartow,FOLSOM,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,179
+Bartow,KINGSTON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,338
+Bartow,MISSION ROAD,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,511
+Bartow,PINE LOG,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,268
+Bartow,TAYLORSVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,391
+Bartow,WHITE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,346
+Bartow,ZENA DRIVE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,486
+Bartow,WOODLAND HIGH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,206
+Bartow,ADAIRSVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2075
+Bartow,ALLATOONA,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1254
+Bartow,CARTERSVILLE EAST,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2294
+Bartow,CARTERSVILLE WEST,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2730
+Bartow,CASSVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3666
+Bartow,CENTER,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1384
+Bartow,EMERSON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,950
+Bartow,EUHARLEE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1752
+Bartow,FOLSOM,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,479
+Bartow,KINGSTON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,843
+Bartow,MISSION ROAD,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1387
+Bartow,PINE LOG,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,713
+Bartow,TAYLORSVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,930
+Bartow,WHITE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,915
+Bartow,ZENA DRIVE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1877
+Bartow,WOODLAND HIGH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,573
+Bartow,ADAIRSVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1059
+Bartow,ALLATOONA,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,595
+Bartow,CARTERSVILLE EAST,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,893
+Bartow,CARTERSVILLE WEST,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1375
+Bartow,CASSVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1632
+Bartow,CENTER,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,728
+Bartow,EMERSON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,522
+Bartow,EUHARLEE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,902
+Bartow,FOLSOM,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,259
+Bartow,KINGSTON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,496
+Bartow,MISSION ROAD,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,687
+Bartow,PINE LOG,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,431
+Bartow,TAYLORSVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,556
+Bartow,WHITE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,484
+Bartow,ZENA DRIVE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,650
+Bartow,WOODLAND HIGH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,272
+Bartow,ADAIRSVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1625
+Bartow,ALLATOONA,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,965
+Bartow,CARTERSVILLE EAST,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1752
+Bartow,CARTERSVILLE WEST,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2054
+Bartow,CASSVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2725
+Bartow,CENTER,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1064
+Bartow,EMERSON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,788
+Bartow,EUHARLEE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1399
+Bartow,FOLSOM,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,363
+Bartow,KINGSTON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,686
+Bartow,MISSION ROAD,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1005
+Bartow,PINE LOG,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,564
+Bartow,TAYLORSVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,691
+Bartow,WHITE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,702
+Bartow,ZENA DRIVE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1381
+Bartow,WOODLAND HIGH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,421
+Bartow,ADAIRSVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1433
+Bartow,ALLATOONA,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,851
+Bartow,CARTERSVILLE EAST,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1345
+Bartow,CARTERSVILLE WEST,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1943
+Bartow,CASSVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2429
+Bartow,CENTER,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,998
+Bartow,EMERSON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,669
+Bartow,EUHARLEE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1205
+Bartow,FOLSOM,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,363
+Bartow,KINGSTON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,619
+Bartow,MISSION ROAD,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1006
+Bartow,PINE LOG,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,556
+Bartow,TAYLORSVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,766
+Bartow,WHITE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,655
+Bartow,ZENA DRIVE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1058
+Bartow,WOODLAND HIGH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,400
+Bartow,ADAIRSVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2240
+Bartow,ALLATOONA,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1394
+Bartow,CARTERSVILLE EAST,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2432
+Bartow,CARTERSVILLE WEST,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3006
+Bartow,CASSVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3959
+Bartow,CENTER,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1504
+Bartow,EMERSON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1078
+Bartow,EUHARLEE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1961
+Bartow,FOLSOM,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,512
+Bartow,KINGSTON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,937
+Bartow,MISSION ROAD,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1500
+Bartow,PINE LOG,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,802
+Bartow,TAYLORSVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,989
+Bartow,WHITE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,987
+Bartow,ZENA DRIVE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1993
+Bartow,WOODLAND HIGH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,595
+Bartow,ADAIRSVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,885
+Bartow,ALLATOONA,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,464
+Bartow,CARTERSVILLE EAST,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,739
+Bartow,CARTERSVILLE WEST,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1111
+Bartow,CASSVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1347
+Bartow,CENTER,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,628
+Bartow,EMERSON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,413
+Bartow,EUHARLEE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,693
+Bartow,FOLSOM,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,226
+Bartow,KINGSTON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,389
+Bartow,MISSION ROAD,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,558
+Bartow,PINE LOG,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,339
+Bartow,TAYLORSVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,488
+Bartow,WHITE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,410
+Bartow,ZENA DRIVE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,529
+Bartow,WOODLAND HIGH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,244
+Bartow,KINGSTON,Special-Kingston,,,L. POSEY,115
+Bartow,KINGSTON,Special-Kingston,,,R. PRITCHETT,85

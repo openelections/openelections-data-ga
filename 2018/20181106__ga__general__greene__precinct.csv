@@ -1,0 +1,254 @@
+county,precinct,office,district,party,candidate,votes
+Greene,Greensboro,Governor,,REP,BRIAN KEMP,1122
+Greene,Union Point,Governor,,REP,BRIAN KEMP,498
+Greene,Siloam,Governor,,REP,BRIAN KEMP,296
+Greene,White Plains,Governor,,REP,BRIAN KEMP,131
+Greene,Old Salem,Governor,,REP,BRIAN KEMP,3809
+Greene,Greensboro,Governor,,DEM,STACEY ABRAMS,1278
+Greene,Union Point,Governor,,DEM,STACEY ABRAMS,546
+Greene,Siloam,Governor,,DEM,STACEY ABRAMS,324
+Greene,White Plains,Governor,,DEM,STACEY ABRAMS,124
+Greene,Old Salem,Governor,,DEM,STACEY ABRAMS,821
+Greene,Greensboro,Governor,,LIB,TED METZ,10
+Greene,Union Point,Governor,,LIB,TED METZ,5
+Greene,Siloam,Governor,,LIB,TED METZ,2
+Greene,White Plains,Governor,,LIB,TED METZ,2
+Greene,Old Salem,Governor,,LIB,TED METZ,27
+Greene,Greensboro,Lieutenant Governor,,REP,GEOFF DUNCAN,1098
+Greene,Union Point,Lieutenant Governor,,REP,GEOFF DUNCAN,467
+Greene,Siloam,Lieutenant Governor,,REP,GEOFF DUNCAN,285
+Greene,White Plains,Lieutenant Governor,,REP,GEOFF DUNCAN,124
+Greene,Old Salem,Lieutenant Governor,,REP,GEOFF DUNCAN,3769
+Greene,Greensboro,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1180
+Greene,Union Point,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,497
+Greene,Siloam,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,292
+Greene,White Plains,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,113
+Greene,Old Salem,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,787
+Greene,Greensboro,Secretary Of State,,REP,BRAD RAFFENSPERGER,1082
+Greene,Union Point,Secretary Of State,,REP,BRAD RAFFENSPERGER,470
+Greene,Siloam,Secretary Of State,,REP,BRAD RAFFENSPERGER,292
+Greene,White Plains,Secretary Of State,,REP,BRAD RAFFENSPERGER,128
+Greene,Old Salem,Secretary Of State,,REP,BRAD RAFFENSPERGER,3763
+Greene,Greensboro,Secretary Of State,,DEM,JOHN BARROW,1268
+Greene,Union Point,Secretary Of State,,DEM,JOHN BARROW,539
+Greene,Siloam,Secretary Of State,,DEM,JOHN BARROW,308
+Greene,White Plains,Secretary Of State,,DEM,JOHN BARROW,120
+Greene,Old Salem,Secretary Of State,,DEM,JOHN BARROW,824
+Greene,Greensboro,Secretary Of State,,LIB,SMYTHE DUVAL,33
+Greene,Union Point,Secretary Of State,,LIB,SMYTHE DUVAL,18
+Greene,Siloam,Secretary Of State,,LIB,SMYTHE DUVAL,6
+Greene,White Plains,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Greene,Old Salem,Secretary Of State,,LIB,SMYTHE DUVAL,36
+Greene,Greensboro,Attorney General,,(REP,CHRIS CARR ,1113
+Greene,Union Point,Attorney General,,(REP,CHRIS CARR ,490
+Greene,Siloam,Attorney General,,(REP,CHRIS CARR ,284
+Greene,White Plains,Attorney General,,(REP,CHRIS CARR ,130
+Greene,Old Salem,Attorney General,,(REP,CHRIS CARR ,3819
+Greene,Greensboro,Attorney General,,DEM,CHARLIE BAILEY,1246
+Greene,Union Point,Attorney General,,DEM,CHARLIE BAILEY,539
+Greene,Siloam,Attorney General,,DEM,CHARLIE BAILEY,319
+Greene,White Plains,Attorney General,,DEM,CHARLIE BAILEY,123
+Greene,Old Salem,Attorney General,,DEM,CHARLIE BAILEY,796
+Greene,Greensboro,Commissioner Of Agriculture,,(REP,GARY BLACK ,1158
+Greene,Union Point,Commissioner Of Agriculture,,(REP,GARY BLACK ,503
+Greene,Siloam,Commissioner Of Agriculture,,(REP,GARY BLACK ,298
+Greene,White Plains,Commissioner Of Agriculture,,(REP,GARY BLACK ,135
+Greene,Old Salem,Commissioner Of Agriculture,,(REP,GARY BLACK ,3859
+Greene,Greensboro,Commissioner Of Agriculture,,DEM,FRED SWANN,1203
+Greene,Union Point,Commissioner Of Agriculture,,DEM,FRED SWANN,511
+Greene,Siloam,Commissioner Of Agriculture,,DEM,FRED SWANN,305
+Greene,White Plains,Commissioner Of Agriculture,,DEM,FRED SWANN,116
+Greene,Old Salem,Commissioner Of Agriculture,,DEM,FRED SWANN,736
+Greene,Greensboro,Commissioner Of Insurance,,REP,JIM BECK,1111
+Greene,Union Point,Commissioner Of Insurance,,REP,JIM BECK,497
+Greene,Siloam,Commissioner Of Insurance,,REP,JIM BECK,289
+Greene,White Plains,Commissioner Of Insurance,,REP,JIM BECK,124
+Greene,Old Salem,Commissioner Of Insurance,,REP,JIM BECK,3775
+Greene,Greensboro,Commissioner Of Insurance,,DEM,JANICE LAWS,1215
+Greene,Union Point,Commissioner Of Insurance,,DEM,JANICE LAWS,509
+Greene,Siloam,Commissioner Of Insurance,,DEM,JANICE LAWS,313
+Greene,White Plains,Commissioner Of Insurance,,DEM,JANICE LAWS,119
+Greene,Old Salem,Commissioner Of Insurance,,DEM,JANICE LAWS,770
+Greene,Greensboro,Commissioner Of Insurance,,LIB,DONNIE FOSTER,42
+Greene,Union Point,Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Greene,Siloam,Commissioner Of Insurance,,LIB,DONNIE FOSTER,5
+Greene,White Plains,Commissioner Of Insurance,,LIB,DONNIE FOSTER,7
+Greene,Old Salem,Commissioner Of Insurance,,LIB,DONNIE FOSTER,57
+Greene,Greensboro,State School Superintendent,,(REP,RICHARD WOODS ,1143
+Greene,Union Point,State School Superintendent,,(REP,RICHARD WOODS ,504
+Greene,Siloam,State School Superintendent,,(REP,RICHARD WOODS ,291
+Greene,White Plains,State School Superintendent,,(REP,RICHARD WOODS ,133
+Greene,Old Salem,State School Superintendent,,(REP,RICHARD WOODS ,3880
+Greene,Greensboro,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1239
+Greene,Union Point,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",527
+Greene,Siloam,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",313
+Greene,White Plains,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",120
+Greene,Old Salem,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",716
+Greene,Greensboro,Commissioner Of Labor,,(REP,MARK BUTLER ,1139
+Greene,Union Point,Commissioner Of Labor,,(REP,MARK BUTLER ,503
+Greene,Siloam,Commissioner Of Labor,,(REP,MARK BUTLER ,290
+Greene,White Plains,Commissioner Of Labor,,(REP,MARK BUTLER ,136
+Greene,Old Salem,Commissioner Of Labor,,(REP,MARK BUTLER ,3844
+Greene,Greensboro,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1227
+Greene,Union Point,Commissioner Of Labor,,DEM,RICHARD KEATLEY,523
+Greene,Siloam,Commissioner Of Labor,,DEM,RICHARD KEATLEY,313
+Greene,White Plains,Commissioner Of Labor,,DEM,RICHARD KEATLEY,117
+Greene,Old Salem,Commissioner Of Labor,,DEM,RICHARD KEATLEY,736
+Greene,Greensboro,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1088
+Greene,Union Point,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,480
+Greene,Siloam,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,282
+Greene,White Plains,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,130
+Greene,Old Salem,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3725
+Greene,Greensboro,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1249
+Greene,Union Point,"Public Service Commission, District 3",3,DEM,LINDY MILLER,527
+Greene,Siloam,"Public Service Commission, District 3",3,DEM,LINDY MILLER,320
+Greene,White Plains,"Public Service Commission, District 3",3,DEM,LINDY MILLER,118
+Greene,Old Salem,"Public Service Commission, District 3",3,DEM,LINDY MILLER,792
+Greene,Greensboro,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,36
+Greene,Union Point,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,21
+Greene,Siloam,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Greene,White Plains,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Greene,Old Salem,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,77
+Greene,Greensboro,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1101
+Greene,Union Point,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,487
+Greene,Siloam,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,283
+Greene,White Plains,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,130
+Greene,Old Salem,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3748
+Greene,Greensboro,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1234
+Greene,Union Point,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,531
+Greene,Siloam,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,316
+Greene,White Plains,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,116
+Greene,Old Salem,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,761
+Greene,Greensboro,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,33
+Greene,Union Point,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Greene,Siloam,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,4
+Greene,White Plains,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,6
+Greene,Old Salem,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,72
+Greene,Greensboro,U.S. Representative,10,(REP,JODY HICE ,1135
+Greene,Union Point,U.S. Representative,10,(REP,JODY HICE ,505
+Greene,Siloam,U.S. Representative,10,(REP,JODY HICE ,301
+Greene,White Plains,U.S. Representative,10,(REP,JODY HICE ,132
+Greene,Old Salem,U.S. Representative,10,(REP,JODY HICE ,3876
+Greene,Greensboro,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,1245
+Greene,Union Point,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,530
+Greene,Siloam,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,313
+Greene,White Plains,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,121
+Greene,Old Salem,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,756
+Greene,Greensboro,State Senator,25,(REP,BURT JONES ,1558
+Greene,Union Point,State Senator,25,(REP,BURT JONES ,726
+Greene,Siloam,State Senator,25,(REP,BURT JONES ,424
+Greene,White Plains,State Senator,25,(REP,BURT JONES ,190
+Greene,Old Salem,State Senator,25,(REP,BURT JONES ,4153
+Greene,Greensboro,State Representative,120,(REP,TREY RHODES ,1249
+Greene,Union Point,State Representative,120,(REP,TREY RHODES ,534
+Greene,Siloam,State Representative,120,(REP,TREY RHODES ,321
+Greene,White Plains,State Representative,120,(REP,TREY RHODES ,149
+Greene,Old Salem,State Representative,120,(REP,TREY RHODES ,3895
+Greene,Greensboro,State Representative,120,DEM,"CHARLES ""CHUCK"" HOGG",1121
+Greene,Union Point,State Representative,120,DEM,"CHARLES ""CHUCK"" HOGG",498
+Greene,Siloam,State Representative,120,DEM,"CHARLES ""CHUCK"" HOGG",294
+Greene,White Plains,State Representative,120,DEM,"CHARLES ""CHUCK"" HOGG",103
+Greene,Old Salem,State Representative,120,DEM,"CHARLES ""CHUCK"" HOGG",732
+Greene,Greensboro,County Comm 1,,R,A. W. DEERING ,205
+Greene,Siloam,County Comm 1,,R,A. W. DEERING ,289
+Greene,White Plains,County Comm 1,,R,A. W. DEERING ,186
+Greene,Old Salem,County Comm 1,,R,A. W. DEERING ,609
+Greene,Greensboro,County Comm 3,,R,D. LINDSEY,323
+Greene,Union Point,County Comm 3,,R,D. LINDSEY,351
+Greene,Siloam,County Comm 3,,R,D. LINDSEY,128
+Greene,Greensboro,BOE 1,,R,S. KILGORE,90
+Greene,Siloam,BOE 1,,R,S. KILGORE,192
+Greene,White Plains,BOE 1,,R,S. KILGORE,127
+Greene,Old Salem,BOE 1,,R,S. KILGORE,562
+Greene,Greensboro,BOE 1,,D,V. COBB ,345
+Greene,Siloam,BOE 1,,D,V. COBB ,239
+Greene,White Plains,BOE 1,,D,V. COBB ,125
+Greene,Old Salem,BOE 1,,D,V. COBB ,146
+Greene,Greensboro,BOE 3,,D,"C. HUNT, JR. ",547
+Greene,Union Point,BOE 3,,D,"C. HUNT, JR. ",400
+Greene,Siloam,BOE 3,,D,"C. HUNT, JR. ",111
+Greene,Greensboro,Soil and Water,,,T. DUVALL ,1720
+Greene,Union Point,Soil and Water,,,T. DUVALL ,775
+Greene,Siloam,Soil and Water,,,T. DUVALL ,470
+Greene,White Plains,Soil and Water,,,T. DUVALL ,195
+Greene,Old Salem,Soil and Water,,,T. DUVALL ,4016
+Greene,Greensboro,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1852
+Greene,Union Point,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,810
+Greene,Siloam,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,483
+Greene,White Plains,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,192
+Greene,Old Salem,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3633
+Greene,Greensboro,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,460
+Greene,Union Point,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,195
+Greene,Siloam,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,125
+Greene,White Plains,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,52
+Greene,Old Salem,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,879
+Greene,Greensboro,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1515
+Greene,Union Point,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,700
+Greene,Siloam,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,414
+Greene,White Plains,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,171
+Greene,Old Salem,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3192
+Greene,Greensboro,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,725
+Greene,Union Point,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,294
+Greene,Siloam,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,180
+Greene,White Plains,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,66
+Greene,Old Salem,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1221
+Greene,Greensboro,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1423
+Greene,Union Point,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,597
+Greene,Siloam,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,357
+Greene,White Plains,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,145
+Greene,Old Salem,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2822
+Greene,Greensboro,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,792
+Greene,Union Point,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,385
+Greene,Siloam,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,227
+Greene,White Plains,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,87
+Greene,Old Salem,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1522
+Greene,Greensboro,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1880
+Greene,Union Point,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,822
+Greene,Siloam,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,506
+Greene,White Plains,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,202
+Greene,Old Salem,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3623
+Greene,Greensboro,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,444
+Greene,Union Point,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,198
+Greene,Siloam,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,95
+Greene,White Plains,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,47
+Greene,Old Salem,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,889
+Greene,Greensboro,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1483
+Greene,Union Point,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,681
+Greene,Siloam,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,429
+Greene,White Plains,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,155
+Greene,Old Salem,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3032
+Greene,Greensboro,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,770
+Greene,Union Point,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,312
+Greene,Siloam,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,166
+Greene,White Plains,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,88
+Greene,Old Salem,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1370
+Greene,Greensboro,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1193
+Greene,Union Point,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,579
+Greene,Siloam,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,309
+Greene,White Plains,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,126
+Greene,Old Salem,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2413
+Greene,Greensboro,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,998
+Greene,Union Point,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,391
+Greene,Siloam,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,261
+Greene,White Plains,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,107
+Greene,Old Salem,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1845
+Greene,Greensboro,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1601
+Greene,Union Point,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,731
+Greene,Siloam,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,436
+Greene,White Plains,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,172
+Greene,Old Salem,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3123
+Greene,Greensboro,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,658
+Greene,Union Point,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,264
+Greene,Siloam,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,147
+Greene,White Plains,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,73
+Greene,Old Salem,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1247
+Greene,Greensboro,Special,,,YES,1557
+Greene,Union Point,Special,,,YES,663
+Greene,Siloam,Special,,,YES,412
+Greene,White Plains,Special,,,YES,165
+Greene,Old Salem,Special,,,YES,3330
+Greene,Greensboro,Special,,,NO,768
+Greene,Union Point,Special,,,NO,354
+Greene,Siloam,Special,,,NO,196
+Greene,White Plains,Special,,,NO,83
+Greene,Old Salem,Special,,,NO,1197

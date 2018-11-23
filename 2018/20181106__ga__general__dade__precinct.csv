@@ -1,0 +1,337 @@
+county,precinct,office,district,party,candidate,votes
+Dade,SOUTH DADE,Governor,,REP,BRIAN KEMP,382
+Dade,NEW SALEM,Governor,,REP,BRIAN KEMP,564
+Dade,DAVIS,Governor,,REP,BRIAN KEMP,848
+Dade,NEW HOME,Governor,,REP,BRIAN KEMP,323
+Dade,WEST BROW,Governor,,REP,BRIAN KEMP,515
+Dade,TRENTON,Governor,,REP,BRIAN KEMP,1174
+Dade,NORTH DADE,Governor,,REP,BRIAN KEMP,702
+Dade,SOUTH DADE,Governor,,DEM,STACEY ABRAMS,79
+Dade,NEW SALEM,Governor,,DEM,STACEY ABRAMS,143
+Dade,DAVIS,Governor,,DEM,STACEY ABRAMS,91
+Dade,NEW HOME,Governor,,DEM,STACEY ABRAMS,48
+Dade,WEST BROW,Governor,,DEM,STACEY ABRAMS,133
+Dade,TRENTON,Governor,,DEM,STACEY ABRAMS,184
+Dade,NORTH DADE,Governor,,DEM,STACEY ABRAMS,206
+Dade,SOUTH DADE,Governor,,LIB,TED METZ,8
+Dade,NEW SALEM,Governor,,LIB,TED METZ,6
+Dade,DAVIS,Governor,,LIB,TED METZ,8
+Dade,NEW HOME,Governor,,LIB,TED METZ,5
+Dade,WEST BROW,Governor,,LIB,TED METZ,11
+Dade,TRENTON,Governor,,LIB,TED METZ,18
+Dade,NORTH DADE,Governor,,LIB,TED METZ,14
+Dade,SOUTH DADE,Lieutenant Governor,,REP,GEOFF DUNCAN,361
+Dade,NEW SALEM,Lieutenant Governor,,REP,GEOFF DUNCAN,547
+Dade,DAVIS,Lieutenant Governor,,REP,GEOFF DUNCAN,798
+Dade,NEW HOME,Lieutenant Governor,,REP,GEOFF DUNCAN,313
+Dade,WEST BROW,Lieutenant Governor,,REP,GEOFF DUNCAN,521
+Dade,TRENTON,Lieutenant Governor,,REP,GEOFF DUNCAN,1115
+Dade,NORTH DADE,Lieutenant Governor,,REP,GEOFF DUNCAN,659
+Dade,SOUTH DADE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,81
+Dade,NEW SALEM,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,136
+Dade,DAVIS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,91
+Dade,NEW HOME,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,51
+Dade,WEST BROW,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,126
+Dade,TRENTON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,192
+Dade,NORTH DADE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,218
+Dade,SOUTH DADE,Secretary Of State,,REP,BRAD RAFFENSPERGER,353
+Dade,NEW SALEM,Secretary Of State,,REP,BRAD RAFFENSPERGER,538
+Dade,DAVIS,Secretary Of State,,REP,BRAD RAFFENSPERGER,810
+Dade,NEW HOME,Secretary Of State,,REP,BRAD RAFFENSPERGER,309
+Dade,WEST BROW,Secretary Of State,,REP,BRAD RAFFENSPERGER,505
+Dade,TRENTON,Secretary Of State,,REP,BRAD RAFFENSPERGER,1107
+Dade,NORTH DADE,Secretary Of State,,REP,BRAD RAFFENSPERGER,654
+Dade,SOUTH DADE,Secretary Of State,,DEM,JOHN BARROW,82
+Dade,NEW SALEM,Secretary Of State,,DEM,JOHN BARROW,148
+Dade,DAVIS,Secretary Of State,,DEM,JOHN BARROW,90
+Dade,NEW HOME,Secretary Of State,,DEM,JOHN BARROW,49
+Dade,WEST BROW,Secretary Of State,,DEM,JOHN BARROW,116
+Dade,TRENTON,Secretary Of State,,DEM,JOHN BARROW,184
+Dade,NORTH DADE,Secretary Of State,,DEM,JOHN BARROW,217
+Dade,SOUTH DADE,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Dade,NEW SALEM,Secretary Of State,,LIB,SMYTHE DUVAL,13
+Dade,DAVIS,Secretary Of State,,LIB,SMYTHE DUVAL,23
+Dade,NEW HOME,Secretary Of State,,LIB,SMYTHE DUVAL,10
+Dade,WEST BROW,Secretary Of State,,LIB,SMYTHE DUVAL,24
+Dade,TRENTON,Secretary Of State,,LIB,SMYTHE DUVAL,30
+Dade,NORTH DADE,Secretary Of State,,LIB,SMYTHE DUVAL,24
+Dade,SOUTH DADE,Attorney General,,(REP,CHRIS CARR ,360
+Dade,NEW SALEM,Attorney General,,(REP,CHRIS CARR ,552
+Dade,DAVIS,Attorney General,,(REP,CHRIS CARR ,809
+Dade,NEW HOME,Attorney General,,(REP,CHRIS CARR ,312
+Dade,WEST BROW,Attorney General,,(REP,CHRIS CARR ,531
+Dade,TRENTON,Attorney General,,(REP,CHRIS CARR ,1132
+Dade,NORTH DADE,Attorney General,,(REP,CHRIS CARR ,669
+Dade,SOUTH DADE,Attorney General,,DEM,CHARLIE BAILEY,87
+Dade,NEW SALEM,Attorney General,,DEM,CHARLIE BAILEY,142
+Dade,DAVIS,Attorney General,,DEM,CHARLIE BAILEY,99
+Dade,NEW HOME,Attorney General,,DEM,CHARLIE BAILEY,53
+Dade,WEST BROW,Attorney General,,DEM,CHARLIE BAILEY,119
+Dade,TRENTON,Attorney General,,DEM,CHARLIE BAILEY,182
+Dade,NORTH DADE,Attorney General,,DEM,CHARLIE BAILEY,228
+Dade,SOUTH DADE,Commissioner Of Agriculture,,(REP,GARY BLACK ,360
+Dade,NEW SALEM,Commissioner Of Agriculture,,(REP,GARY BLACK ,566
+Dade,DAVIS,Commissioner Of Agriculture,,(REP,GARY BLACK ,814
+Dade,NEW HOME,Commissioner Of Agriculture,,(REP,GARY BLACK ,314
+Dade,WEST BROW,Commissioner Of Agriculture,,(REP,GARY BLACK ,538
+Dade,TRENTON,Commissioner Of Agriculture,,(REP,GARY BLACK ,1132
+Dade,NORTH DADE,Commissioner Of Agriculture,,(REP,GARY BLACK ,671
+Dade,SOUTH DADE,Commissioner Of Agriculture,,DEM,FRED SWANN,84
+Dade,NEW SALEM,Commissioner Of Agriculture,,DEM,FRED SWANN,135
+Dade,DAVIS,Commissioner Of Agriculture,,DEM,FRED SWANN,95
+Dade,NEW HOME,Commissioner Of Agriculture,,DEM,FRED SWANN,49
+Dade,WEST BROW,Commissioner Of Agriculture,,DEM,FRED SWANN,110
+Dade,TRENTON,Commissioner Of Agriculture,,DEM,FRED SWANN,172
+Dade,NORTH DADE,Commissioner Of Agriculture,,DEM,FRED SWANN,219
+Dade,SOUTH DADE,Commissioner Of Insurance,,REP,JIM BECK,351
+Dade,NEW SALEM,Commissioner Of Insurance,,REP,JIM BECK,537
+Dade,DAVIS,Commissioner Of Insurance,,REP,JIM BECK,802
+Dade,NEW HOME,Commissioner Of Insurance,,REP,JIM BECK,305
+Dade,WEST BROW,Commissioner Of Insurance,,REP,JIM BECK,512
+Dade,TRENTON,Commissioner Of Insurance,,REP,JIM BECK,1109
+Dade,NORTH DADE,Commissioner Of Insurance,,REP,JIM BECK,651
+Dade,SOUTH DADE,Commissioner Of Insurance,,DEM,JANICE LAWS,83
+Dade,NEW SALEM,Commissioner Of Insurance,,DEM,JANICE LAWS,135
+Dade,DAVIS,Commissioner Of Insurance,,DEM,JANICE LAWS,90
+Dade,NEW HOME,Commissioner Of Insurance,,DEM,JANICE LAWS,44
+Dade,WEST BROW,Commissioner Of Insurance,,DEM,JANICE LAWS,114
+Dade,TRENTON,Commissioner Of Insurance,,DEM,JANICE LAWS,173
+Dade,NORTH DADE,Commissioner Of Insurance,,DEM,JANICE LAWS,204
+Dade,SOUTH DADE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Dade,NEW SALEM,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
+Dade,DAVIS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,26
+Dade,NEW HOME,Commissioner Of Insurance,,LIB,DONNIE FOSTER,15
+Dade,WEST BROW,Commissioner Of Insurance,,LIB,DONNIE FOSTER,24
+Dade,TRENTON,Commissioner Of Insurance,,LIB,DONNIE FOSTER,35
+Dade,NORTH DADE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,32
+Dade,SOUTH DADE,State School Superintendent,,(REP,RICHARD WOODS ,373
+Dade,NEW SALEM,State School Superintendent,,(REP,RICHARD WOODS ,567
+Dade,DAVIS,State School Superintendent,,(REP,RICHARD WOODS ,824
+Dade,NEW HOME,State School Superintendent,,(REP,RICHARD WOODS ,322
+Dade,WEST BROW,State School Superintendent,,(REP,RICHARD WOODS ,532
+Dade,TRENTON,State School Superintendent,,(REP,RICHARD WOODS ,1148
+Dade,NORTH DADE,State School Superintendent,,(REP,RICHARD WOODS ,681
+Dade,SOUTH DADE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",81
+Dade,NEW SALEM,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",124
+Dade,DAVIS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",100
+Dade,NEW HOME,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",47
+Dade,WEST BROW,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",114
+Dade,TRENTON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",179
+Dade,NORTH DADE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",215
+Dade,SOUTH DADE,Commissioner Of Labor,,(REP,MARK BUTLER ,360
+Dade,NEW SALEM,Commissioner Of Labor,,(REP,MARK BUTLER ,551
+Dade,DAVIS,Commissioner Of Labor,,(REP,MARK BUTLER ,814
+Dade,NEW HOME,Commissioner Of Labor,,(REP,MARK BUTLER ,312
+Dade,WEST BROW,Commissioner Of Labor,,(REP,MARK BUTLER ,538
+Dade,TRENTON,Commissioner Of Labor,,(REP,MARK BUTLER ,1123
+Dade,NORTH DADE,Commissioner Of Labor,,(REP,MARK BUTLER ,664
+Dade,SOUTH DADE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,87
+Dade,NEW SALEM,Commissioner Of Labor,,DEM,RICHARD KEATLEY,143
+Dade,DAVIS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,104
+Dade,NEW HOME,Commissioner Of Labor,,DEM,RICHARD KEATLEY,53
+Dade,WEST BROW,Commissioner Of Labor,,DEM,RICHARD KEATLEY,110
+Dade,TRENTON,Commissioner Of Labor,,DEM,RICHARD KEATLEY,183
+Dade,NORTH DADE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,225
+Dade,SOUTH DADE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,354
+Dade,NEW SALEM,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,538
+Dade,DAVIS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,791
+Dade,NEW HOME,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,305
+Dade,WEST BROW,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,503
+Dade,TRENTON,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1095
+Dade,NORTH DADE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,641
+Dade,SOUTH DADE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,81
+Dade,NEW SALEM,"Public Service Commission, District 3",3,DEM,LINDY MILLER,133
+Dade,DAVIS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,93
+Dade,NEW HOME,"Public Service Commission, District 3",3,DEM,LINDY MILLER,52
+Dade,WEST BROW,"Public Service Commission, District 3",3,DEM,LINDY MILLER,114
+Dade,TRENTON,"Public Service Commission, District 3",3,DEM,LINDY MILLER,172
+Dade,NORTH DADE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,211
+Dade,SOUTH DADE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,14
+Dade,NEW SALEM,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,21
+Dade,DAVIS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,29
+Dade,NEW HOME,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,12
+Dade,WEST BROW,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,28
+Dade,TRENTON,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,34
+Dade,NORTH DADE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,37
+Dade,SOUTH DADE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,357
+Dade,NEW SALEM,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,537
+Dade,DAVIS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,797
+Dade,NEW HOME,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,304
+Dade,WEST BROW,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,507
+Dade,TRENTON,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1097
+Dade,NORTH DADE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,642
+Dade,SOUTH DADE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,83
+Dade,NEW SALEM,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,137
+Dade,DAVIS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,100
+Dade,NEW HOME,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,46
+Dade,WEST BROW,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,109
+Dade,TRENTON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,178
+Dade,NORTH DADE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,213
+Dade,SOUTH DADE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14
+Dade,NEW SALEM,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,19
+Dade,DAVIS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,25
+Dade,NEW HOME,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14
+Dade,WEST BROW,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,28
+Dade,TRENTON,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34
+Dade,NORTH DADE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34
+Dade,SOUTH DADE,U.S. Representative,14,(REP,TOM GRAVES ,364
+Dade,NEW SALEM,U.S. Representative,14,(REP,TOM GRAVES ,560
+Dade,DAVIS,U.S. Representative,14,(REP,TOM GRAVES ,827
+Dade,NEW HOME,U.S. Representative,14,(REP,TOM GRAVES ,320
+Dade,WEST BROW,U.S. Representative,14,(REP,TOM GRAVES ,538
+Dade,TRENTON,U.S. Representative,14,(REP,TOM GRAVES ,1154
+Dade,NORTH DADE,U.S. Representative,14,(REP,TOM GRAVES ,685
+Dade,SOUTH DADE,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,84
+Dade,NEW SALEM,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,140
+Dade,DAVIS,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,100
+Dade,NEW HOME,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,49
+Dade,WEST BROW,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,111
+Dade,TRENTON,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,181
+Dade,NORTH DADE,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,218
+Dade,SOUTH DADE,State Senator,53,(REP,JEFF MULLIS ,395
+Dade,NEW SALEM,State Senator,53,(REP,JEFF MULLIS ,573
+Dade,DAVIS,State Senator,53,(REP,JEFF MULLIS ,846
+Dade,NEW HOME,State Senator,53,(REP,JEFF MULLIS ,331
+Dade,WEST BROW,State Senator,53,(REP,JEFF MULLIS ,566
+Dade,TRENTON,State Senator,53,(REP,JEFF MULLIS ,1184
+Dade,NORTH DADE,State Senator,53,(REP,JEFF MULLIS ,737
+Dade,SOUTH DADE,State Representative,1,REP,COLTON MOORE,411
+Dade,NEW SALEM,State Representative,1,REP,COLTON MOORE,619
+Dade,DAVIS,State Representative,1,REP,COLTON MOORE,872
+Dade,NEW HOME,State Representative,1,REP,COLTON MOORE,337
+Dade,WEST BROW,State Representative,1,REP,COLTON MOORE,569
+Dade,TRENTON,State Representative,1,REP,COLTON MOORE,1224
+Dade,NORTH DADE,State Representative,1,REP,COLTON MOORE,770
+Dade,SOUTH DADE,CC, D1,R,L. LOWERY,349
+Dade,NEW SALEM,CC, D1,R,L. LOWERY,541
+Dade,DAVIS,CC, D1,R,L. LOWERY,794
+Dade,NEW HOME,CC, D1,R,L. LOWERY,304
+Dade,WEST BROW,CC, D1,R,L. LOWERY,513
+Dade,TRENTON,CC, D1,R,L. LOWERY,1087
+Dade,NORTH DADE,CC, D1,R,L. LOWERY,663
+Dade,SOUTH DADE,CC, D1,D,P. HICKEY,90
+Dade,NEW SALEM,CC, D1,D,P. HICKEY,145
+Dade,DAVIS,CC, D1,D,P. HICKEY,118
+Dade,NEW HOME,CC, D1,D,P. HICKEY,63
+Dade,WEST BROW,CC, D1,D,P. HICKEY,117
+Dade,TRENTON,CC, D1,D,P. HICKEY,227
+Dade,NORTH DADE,CC, D1,D,P. HICKEY,223
+Dade,SOUTH DADE,CC, D2,R,P. HARTLINE,399
+Dade,NEW SALEM,CC, D2,R,P. HARTLINE,583
+Dade,DAVIS,CC, D2,R,P. HARTLINE,848
+Dade,NEW HOME,CC, D2,R,P. HARTLINE,333
+Dade,WEST BROW,CC, D2,R,P. HARTLINE,560
+Dade,TRENTON,CC, D2,R,P. HARTLINE,1190
+Dade,NORTH DADE,CC, D2,R,P. HARTLINE,741
+Dade,SOUTH DADE,BOE, D1,R,D. CASE,391
+Dade,NEW SALEM,BOE, D1,R,D. CASE,590
+Dade,DAVIS,BOE, D1,R,D. CASE,846
+Dade,NEW HOME,BOE, D1,R,D. CASE,334
+Dade,WEST BROW,BOE, D1,R,D. CASE,568
+Dade,TRENTON,BOE, D1,R,D. CASE,1197
+Dade,NORTH DADE,BOE, D1,R,D. CASE,759
+Dade,SOUTH DADE,BOE, D2,R,J. H. HARTLINE ,398
+Dade,NEW SALEM,BOE, D2,R,J. H. HARTLINE ,582
+Dade,DAVIS,BOE, D2,R,J. H. HARTLINE ,833
+Dade,NEW HOME,BOE, D2,R,J. H. HARTLINE ,325
+Dade,WEST BROW,BOE, D2,R,J. H. HARTLINE ,563
+Dade,TRENTON,BOE, D2,R,J. H. HARTLINE ,1150
+Dade,NORTH DADE,BOE, D2,R,J. H. HARTLINE ,734
+Dade,SOUTH DADE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,332
+Dade,NEW SALEM,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,569
+Dade,DAVIS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,658
+Dade,NEW HOME,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,297
+Dade,WEST BROW,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,505
+Dade,TRENTON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1035
+Dade,NORTH DADE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,710
+Dade,SOUTH DADE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,114
+Dade,NEW SALEM,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,117
+Dade,DAVIS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,228
+Dade,NEW HOME,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,62
+Dade,WEST BROW,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,124
+Dade,TRENTON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,262
+Dade,NORTH DADE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,163
+Dade,SOUTH DADE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,253
+Dade,NEW SALEM,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,404
+Dade,DAVIS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,545
+Dade,NEW HOME,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,225
+Dade,WEST BROW,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,415
+Dade,TRENTON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,778
+Dade,NORTH DADE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,550
+Dade,SOUTH DADE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,161
+Dade,NEW SALEM,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,242
+Dade,DAVIS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,300
+Dade,NEW HOME,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,119
+Dade,WEST BROW,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,187
+Dade,TRENTON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,448
+Dade,NORTH DADE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,283
+Dade,SOUTH DADE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,205
+Dade,NEW SALEM,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,393
+Dade,DAVIS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,456
+Dade,NEW HOME,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,208
+Dade,WEST BROW,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,345
+Dade,TRENTON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,696
+Dade,NORTH DADE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,495
+Dade,SOUTH DADE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,210
+Dade,NEW SALEM,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,250
+Dade,DAVIS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,384
+Dade,NEW HOME,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,138
+Dade,WEST BROW,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,238
+Dade,TRENTON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,518
+Dade,NORTH DADE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,324
+Dade,SOUTH DADE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,324
+Dade,NEW SALEM,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,497
+Dade,DAVIS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,632
+Dade,NEW HOME,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,270
+Dade,WEST BROW,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,455
+Dade,TRENTON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,954
+Dade,NORTH DADE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,646
+Dade,SOUTH DADE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,104
+Dade,NEW SALEM,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,162
+Dade,DAVIS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,228
+Dade,NEW HOME,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,79
+Dade,WEST BROW,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,151
+Dade,TRENTON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,286
+Dade,NORTH DADE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,188
+Dade,SOUTH DADE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,238
+Dade,NEW SALEM,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,421
+Dade,DAVIS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,517
+Dade,NEW HOME,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,226
+Dade,WEST BROW,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,384
+Dade,TRENTON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,833
+Dade,NORTH DADE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,521
+Dade,SOUTH DADE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,185
+Dade,NEW SALEM,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,231
+Dade,DAVIS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,324
+Dade,NEW HOME,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,123
+Dade,WEST BROW,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,213
+Dade,TRENTON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,406
+Dade,NORTH DADE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,304
+Dade,SOUTH DADE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,185
+Dade,NEW SALEM,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,350
+Dade,DAVIS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,454
+Dade,NEW HOME,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,171
+Dade,WEST BROW,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,298
+Dade,TRENTON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,637
+Dade,NORTH DADE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,446
+Dade,SOUTH DADE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,218
+Dade,NEW SALEM,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,283
+Dade,DAVIS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,369
+Dade,NEW HOME,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,167
+Dade,WEST BROW,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,268
+Dade,TRENTON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,567
+Dade,NORTH DADE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,363
+Dade,SOUTH DADE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,290
+Dade,NEW SALEM,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,475
+Dade,DAVIS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,620
+Dade,NEW HOME,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,250
+Dade,WEST BROW,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,454
+Dade,TRENTON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,928
+Dade,NORTH DADE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,618
+Dade,SOUTH DADE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,131
+Dade,NEW SALEM,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,180
+Dade,DAVIS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,235
+Dade,NEW HOME,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,97
+Dade,WEST BROW,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,144
+Dade,TRENTON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,308
+Dade,NORTH DADE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,224

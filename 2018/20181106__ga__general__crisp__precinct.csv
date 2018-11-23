@@ -1,0 +1,242 @@
+county,precinct,office,district,party,candidate,votes
+Crisp,Arabi,Governor,,REP,BRIAN KEMP,378
+Crisp,Coney,Governor,,REP,BRIAN KEMP,568
+Crisp,Cordele,Governor,,REP,BRIAN KEMP,2262
+Crisp,Jamestown,Governor,,REP,BRIAN KEMP,756
+Crisp,Listonia,Governor,,REP,BRIAN KEMP,481
+Crisp,Arabi,Governor,,DEM,STACEY ABRAMS,78
+Crisp,Coney,Governor,,DEM,STACEY ABRAMS,50
+Crisp,Cordele,Governor,,DEM,STACEY ABRAMS,2365
+Crisp,Jamestown,Governor,,DEM,STACEY ABRAMS,64
+Crisp,Listonia,Governor,,DEM,STACEY ABRAMS,20
+Crisp,Arabi,Governor,,LIB,TED METZ,1
+Crisp,Coney,Governor,,LIB,TED METZ,5
+Crisp,Cordele,Governor,,LIB,TED METZ,18
+Crisp,Jamestown,Governor,,LIB,TED METZ,3
+Crisp,Listonia,Governor,,LIB,TED METZ,1
+Crisp,Arabi,Lieutenant Governor,,REP,GEOFF DUNCAN,369
+Crisp,Coney,Lieutenant Governor,,REP,GEOFF DUNCAN,556
+Crisp,Cordele,Lieutenant Governor,,REP,GEOFF DUNCAN,2226
+Crisp,Jamestown,Lieutenant Governor,,REP,GEOFF DUNCAN,742
+Crisp,Listonia,Lieutenant Governor,,REP,GEOFF DUNCAN,457
+Crisp,Arabi,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,73
+Crisp,Coney,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,50
+Crisp,Cordele,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2056
+Crisp,Jamestown,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,65
+Crisp,Listonia,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,20
+Crisp,Arabi,Secretary Of State,,REP,BRAD RAFFENSPERGER,361
+Crisp,Coney,Secretary Of State,,REP,BRAD RAFFENSPERGER,537
+Crisp,Cordele,Secretary Of State,,REP,BRAD RAFFENSPERGER,2154
+Crisp,Jamestown,Secretary Of State,,REP,BRAD RAFFENSPERGER,725
+Crisp,Listonia,Secretary Of State,,REP,BRAD RAFFENSPERGER,457
+Crisp,Arabi,Secretary Of State,,DEM,JOHN BARROW,84
+Crisp,Coney,Secretary Of State,,DEM,JOHN BARROW,72
+Crisp,Cordele,Secretary Of State,,DEM,JOHN BARROW,2264
+Crisp,Jamestown,Secretary Of State,,DEM,JOHN BARROW,89
+Crisp,Listonia,Secretary Of State,,DEM,JOHN BARROW,27
+Crisp,Arabi,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Crisp,Coney,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Crisp,Cordele,Secretary Of State,,LIB,SMYTHE DUVAL,55
+Crisp,Jamestown,Secretary Of State,,LIB,SMYTHE DUVAL,4
+Crisp,Listonia,Secretary Of State,,LIB,SMYTHE DUVAL,2
+Crisp,Arabi,Attorney General,,(REP,CHRIS CARR ,370
+Crisp,Coney,Attorney General,,(REP,CHRIS CARR ,564
+Crisp,Cordele,Attorney General,,(REP,CHRIS CARR ,2268
+Crisp,Jamestown,Attorney General,,(REP,CHRIS CARR ,741
+Crisp,Listonia,Attorney General,,(REP,CHRIS CARR ,453
+Crisp,Arabi,Attorney General,,DEM,CHARLIE BAILEY,77
+Crisp,Coney,Attorney General,,DEM,CHARLIE BAILEY,47
+Crisp,Cordele,Attorney General,,DEM,CHARLIE BAILEY,2178
+Crisp,Jamestown,Attorney General,,DEM,CHARLIE BAILEY,75
+Crisp,Listonia,Attorney General,,DEM,CHARLIE BAILEY,31
+Crisp,Arabi,Commissioner Of Agriculture,,(REP,GARY BLACK ,376
+Crisp,Coney,Commissioner Of Agriculture,,(REP,GARY BLACK ,573
+Crisp,Cordele,Commissioner Of Agriculture,,(REP,GARY BLACK ,2340
+Crisp,Jamestown,Commissioner Of Agriculture,,(REP,GARY BLACK ,754
+Crisp,Listonia,Commissioner Of Agriculture,,(REP,GARY BLACK ,468
+Crisp,Arabi,Commissioner Of Agriculture,,DEM,FRED SWANN,69
+Crisp,Coney,Commissioner Of Agriculture,,DEM,FRED SWANN,43
+Crisp,Cordele,Commissioner Of Agriculture,,DEM,FRED SWANN,2099
+Crisp,Jamestown,Commissioner Of Agriculture,,DEM,FRED SWANN,60
+Crisp,Listonia,Commissioner Of Agriculture,,DEM,FRED SWANN,17
+Crisp,Arabi,Commissioner Of Insurance,,REP,JIM BECK,370
+Crisp,Coney,Commissioner Of Insurance,,REP,JIM BECK,554
+Crisp,Cordele,Commissioner Of Insurance,,REP,JIM BECK,2222
+Crisp,Jamestown,Commissioner Of Insurance,,REP,JIM BECK,736
+Crisp,Listonia,Commissioner Of Insurance,,REP,JIM BECK,461
+Crisp,Arabi,Commissioner Of Insurance,,DEM,JANICE LAWS,76
+Crisp,Coney,Commissioner Of Insurance,,DEM,JANICE LAWS,51
+Crisp,Cordele,Commissioner Of Insurance,,DEM,JANICE LAWS,2137
+Crisp,Jamestown,Commissioner Of Insurance,,DEM,JANICE LAWS,68
+Crisp,Listonia,Commissioner Of Insurance,,DEM,JANICE LAWS,17
+Crisp,Arabi,Commissioner Of Insurance,,LIB,DONNIE FOSTER,3
+Crisp,Coney,Commissioner Of Insurance,,LIB,DONNIE FOSTER,6
+Crisp,Cordele,Commissioner Of Insurance,,LIB,DONNIE FOSTER,90
+Crisp,Jamestown,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
+Crisp,Listonia,Commissioner Of Insurance,,LIB,DONNIE FOSTER,3
+Crisp,Arabi,State School Superintendent,,(REP,RICHARD WOODS ,371
+Crisp,Coney,State School Superintendent,,(REP,RICHARD WOODS ,574
+Crisp,Cordele,State School Superintendent,,(REP,RICHARD WOODS ,2321
+Crisp,Jamestown,State School Superintendent,,(REP,RICHARD WOODS ,752
+Crisp,Listonia,State School Superintendent,,(REP,RICHARD WOODS ,464
+Crisp,Arabi,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",72
+Crisp,Coney,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",39
+Crisp,Cordele,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2126
+Crisp,Jamestown,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",61
+Crisp,Listonia,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",17
+Crisp,Arabi,Commissioner Of Labor,,(REP,MARK BUTLER ,377
+Crisp,Coney,Commissioner Of Labor,,(REP,MARK BUTLER ,565
+Crisp,Cordele,Commissioner Of Labor,,(REP,MARK BUTLER ,2303
+Crisp,Jamestown,Commissioner Of Labor,,(REP,MARK BUTLER ,755
+Crisp,Listonia,Commissioner Of Labor,,(REP,MARK BUTLER ,459
+Crisp,Arabi,Commissioner Of Labor,,DEM,RICHARD KEATLEY,72
+Crisp,Coney,Commissioner Of Labor,,DEM,RICHARD KEATLEY,49
+Crisp,Cordele,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2140
+Crisp,Jamestown,Commissioner Of Labor,,DEM,RICHARD KEATLEY,59
+Crisp,Listonia,Commissioner Of Labor,,DEM,RICHARD KEATLEY,20
+Crisp,Arabi,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,368
+Crisp,Coney,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,558
+Crisp,Cordele,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2199
+Crisp,Jamestown,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,735
+Crisp,Listonia,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,455
+Crisp,Arabi,"Public Service Commission, District 3",3,DEM,LINDY MILLER,72
+Crisp,Coney,"Public Service Commission, District 3",3,DEM,LINDY MILLER,49
+Crisp,Cordele,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2166
+Crisp,Jamestown,"Public Service Commission, District 3",3,DEM,LINDY MILLER,70
+Crisp,Listonia,"Public Service Commission, District 3",3,DEM,LINDY MILLER,20
+Crisp,Arabi,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Crisp,Coney,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Crisp,Cordele,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,72
+Crisp,Jamestown,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,7
+Crisp,Listonia,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Crisp,Arabi,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,363
+Crisp,Coney,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,557
+Crisp,Cordele,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2205
+Crisp,Jamestown,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,741
+Crisp,Listonia,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,454
+Crisp,Arabi,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,78
+Crisp,Coney,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,50
+Crisp,Cordele,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2160
+Crisp,Jamestown,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,64
+Crisp,Listonia,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,20
+Crisp,Arabi,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,4
+Crisp,Coney,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,4
+Crisp,Cordele,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,67
+Crisp,Jamestown,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,10
+Crisp,Listonia,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,4
+Crisp,Arabi,U.S. Representative,2,REP,HERMAN WEST JR,321
+Crisp,Coney,U.S. Representative,2,REP,HERMAN WEST JR,486
+Crisp,Cordele,U.S. Representative,2,REP,HERMAN WEST JR,1930
+Crisp,Jamestown,U.S. Representative,2,REP,HERMAN WEST JR,669
+Crisp,Listonia,U.S. Representative,2,REP,HERMAN WEST JR,396
+Crisp,Arabi,U.S. Representative,2,(DEM,SANFORD BISHOP ,131
+Crisp,Coney,U.S. Representative,2,(DEM,SANFORD BISHOP ,128
+Crisp,Cordele,U.S. Representative,2,(DEM,SANFORD BISHOP ,2604
+Crisp,Jamestown,U.S. Representative,2,(DEM,SANFORD BISHOP ,150
+Crisp,Listonia,U.S. Representative,2,(DEM,SANFORD BISHOP ,90
+Crisp,Arabi,State Senator,13,(REP,GREG KIRK ,403
+Crisp,Coney,State Senator,13,(REP,GREG KIRK ,585
+Crisp,Cordele,State Senator,13,(REP,GREG KIRK ,3064
+Crisp,Jamestown,State Senator,13,(REP,GREG KIRK ,776
+Crisp,Listonia,State Senator,13,(REP,GREG KIRK ,470
+Crisp,Arabi,State Representative,148,REP,NOEL WILLIAMS JR,373
+Crisp,Coney,State Representative,148,REP,NOEL WILLIAMS JR,568
+Crisp,Cordele,State Representative,148,REP,NOEL WILLIAMS JR,2296
+Crisp,Jamestown,State Representative,148,REP,NOEL WILLIAMS JR,750
+Crisp,Listonia,State Representative,148,REP,NOEL WILLIAMS JR,464
+Crisp,Arabi,State Representative,148,DEM,JOSHUA DERISO,78
+Crisp,Coney,State Representative,148,DEM,JOSHUA DERISO,45
+Crisp,Cordele,State Representative,148,DEM,JOSHUA DERISO,2283
+Crisp,Jamestown,State Representative,148,DEM,JOSHUA DERISO,64
+Crisp,Listonia,State Representative,148,DEM,JOSHUA DERISO,23
+Crisp,Arabi,District Attorney, Cordele Circuit,(REP,BRAD RIGBY ,400
+Crisp,Coney,District Attorney, Cordele Circuit,(REP,BRAD RIGBY ,588
+Crisp,Cordele,District Attorney, Cordele Circuit,(REP,BRAD RIGBY ,3128
+Crisp,Jamestown,District Attorney, Cordele Circuit,(REP,BRAD RIGBY ,777
+Crisp,Listonia,District Attorney, Cordele Circuit,(REP,BRAD RIGBY ,473
+Crisp,Cordele,CC D1, P1,D,L. FELTON ,1448
+Crisp,Arabi,CC D2, P2,R,S. FARROW ,403
+Crisp,Coney,CC D2, P2,R,S. FARROW ,574
+Crisp,Cordele,CC D2, P2,R,S. FARROW ,2432
+Crisp,Jamestown,CC D2, P2,R,S. FARROW ,766
+Crisp,Listonia,CC D2, P2,R,S. FARROW ,471
+Crisp,Arabi,BOE ARABI,,R,L. NELMS ,396
+Crisp,Coney,BOE ARABI,,R,L. NELMS ,551
+Crisp,Cordele,BOE ARABI,,R,L. NELMS ,2975
+Crisp,Jamestown,BOE ARABI,,R,L. NELMS ,760
+Crisp,Listonia,BOE ARABI,,R,L. NELMS ,451
+Crisp,Arabi,BOE CORDELE,,R,S. FOREHAND ,361
+Crisp,Coney,BOE CORDELE,,R,S. FOREHAND ,462
+Crisp,Cordele,BOE CORDELE,,R,S. FOREHAND ,2558
+Crisp,Jamestown,BOE CORDELE,,R,S. FOREHAND ,660
+Crisp,Listonia,BOE CORDELE,,R,S. FOREHAND ,392
+Crisp,Arabi,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,325
+Crisp,Coney,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,461
+Crisp,Cordele,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3477
+Crisp,Jamestown,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,629
+Crisp,Listonia,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,370
+Crisp,Arabi,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,105
+Crisp,Coney,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,131
+Crisp,Cordele,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,817
+Crisp,Jamestown,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,161
+Crisp,Listonia,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,100
+Crisp,Arabi,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,276
+Crisp,Coney,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,407
+Crisp,Cordele,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3028
+Crisp,Jamestown,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,543
+Crisp,Listonia,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,321
+Crisp,Arabi,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,147
+Crisp,Coney,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,174
+Crisp,Cordele,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1136
+Crisp,Jamestown,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,218
+Crisp,Listonia,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,127
+Crisp,Arabi,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,262
+Crisp,Coney,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,362
+Crisp,Cordele,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2606
+Crisp,Jamestown,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,483
+Crisp,Listonia,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,294
+Crisp,Arabi,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,162
+Crisp,Coney,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,216
+Crisp,Cordele,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1489
+Crisp,Jamestown,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,272
+Crisp,Listonia,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,154
+Crisp,Arabi,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,346
+Crisp,Coney,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,466
+Crisp,Cordele,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3548
+Crisp,Jamestown,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,613
+Crisp,Listonia,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,374
+Crisp,Arabi,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,90
+Crisp,Coney,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,126
+Crisp,Cordele,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,728
+Crisp,Jamestown,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,168
+Crisp,Listonia,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,96
+Crisp,Arabi,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,277
+Crisp,Coney,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,386
+Crisp,Cordele,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3009
+Crisp,Jamestown,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,519
+Crisp,Listonia,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,304
+Crisp,Arabi,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,146
+Crisp,Coney,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,192
+Crisp,Cordele,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1196
+Crisp,Jamestown,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,244
+Crisp,Listonia,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,149
+Crisp,Arabi,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,227
+Crisp,Coney,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,303
+Crisp,Cordele,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2490
+Crisp,Jamestown,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,400
+Crisp,Listonia,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,247
+Crisp,Arabi,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,195
+Crisp,Coney,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,257
+Crisp,Cordele,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1596
+Crisp,Jamestown,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,349
+Crisp,Listonia,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,195
+Crisp,Arabi,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,299
+Crisp,Coney,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,397
+Crisp,Cordele,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3292
+Crisp,Jamestown,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,531
+Crisp,Listonia,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,319
+Crisp,Arabi,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,128
+Crisp,Coney,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,179
+Crisp,Cordele,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,921
+Crisp,Jamestown,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,230
+Crisp,Listonia,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,137

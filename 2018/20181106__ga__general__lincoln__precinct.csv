@@ -1,0 +1,322 @@
+county,precinct,office,district,party,candidate,votes
+Lincoln,Midway,Governor,,REP,BRIAN KEMP,236
+Lincoln,Lincoln Club House,Governor,,REP,BRIAN KEMP,204
+Lincoln,Lincoln Center,Governor,,REP,BRIAN KEMP,760
+Lincoln,Faith Temple of Linc,Governor,,REP,BRIAN KEMP,197
+Lincoln,Tabernacle,Governor,,REP,BRIAN KEMP,366
+Lincoln,Bethany Church,Governor,,REP,BRIAN KEMP,304
+Lincoln,Martins Crossroad,Governor,,REP,BRIAN KEMP,689
+Lincoln,Midway,Governor,,DEM,STACEY ABRAMS,94
+Lincoln,Lincoln Club House,Governor,,DEM,STACEY ABRAMS,289
+Lincoln,Lincoln Center,Governor,,DEM,STACEY ABRAMS,216
+Lincoln,Faith Temple of Linc,Governor,,DEM,STACEY ABRAMS,110
+Lincoln,Tabernacle,Governor,,DEM,STACEY ABRAMS,295
+Lincoln,Bethany Church,Governor,,DEM,STACEY ABRAMS,59
+Lincoln,Martins Crossroad,Governor,,DEM,STACEY ABRAMS,125
+Lincoln,Midway,Governor,,LIB,TED METZ,3
+Lincoln,Lincoln Club House,Governor,,LIB,TED METZ,3
+Lincoln,Lincoln Center,Governor,,LIB,TED METZ,7
+Lincoln,Faith Temple of Linc,Governor,,LIB,TED METZ,2
+Lincoln,Tabernacle,Governor,,LIB,TED METZ,3
+Lincoln,Bethany Church,Governor,,LIB,TED METZ,3
+Lincoln,Martins Crossroad,Governor,,LIB,TED METZ,4
+Lincoln,Midway,Lieutenant Governor,,REP,GEOFF DUNCAN,230
+Lincoln,Lincoln Club House,Lieutenant Governor,,REP,GEOFF DUNCAN,205
+Lincoln,Lincoln Center,Lieutenant Governor,,REP,GEOFF DUNCAN,736
+Lincoln,Faith Temple of Linc,Lieutenant Governor,,REP,GEOFF DUNCAN,186
+Lincoln,Tabernacle,Lieutenant Governor,,REP,GEOFF DUNCAN,356
+Lincoln,Bethany Church,Lieutenant Governor,,REP,GEOFF DUNCAN,304
+Lincoln,Martins Crossroad,Lieutenant Governor,,REP,GEOFF DUNCAN,662
+Lincoln,Midway,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,89
+Lincoln,Lincoln Club House,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,264
+Lincoln,Lincoln Center,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,197
+Lincoln,Faith Temple of Linc,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,100
+Lincoln,Tabernacle,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,271
+Lincoln,Bethany Church,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,54
+Lincoln,Martins Crossroad,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,135
+Lincoln,Midway,Secretary Of State,,REP,BRAD RAFFENSPERGER,215
+Lincoln,Lincoln Club House,Secretary Of State,,REP,BRAD RAFFENSPERGER,193
+Lincoln,Lincoln Center,Secretary Of State,,REP,BRAD RAFFENSPERGER,698
+Lincoln,Faith Temple of Linc,Secretary Of State,,REP,BRAD RAFFENSPERGER,173
+Lincoln,Tabernacle,Secretary Of State,,REP,BRAD RAFFENSPERGER,337
+Lincoln,Bethany Church,Secretary Of State,,REP,BRAD RAFFENSPERGER,287
+Lincoln,Martins Crossroad,Secretary Of State,,REP,BRAD RAFFENSPERGER,625
+Lincoln,Midway,Secretary Of State,,DEM,JOHN BARROW,105
+Lincoln,Lincoln Club House,Secretary Of State,,DEM,JOHN BARROW,285
+Lincoln,Lincoln Center,Secretary Of State,,DEM,JOHN BARROW,259
+Lincoln,Faith Temple of Linc,Secretary Of State,,DEM,JOHN BARROW,128
+Lincoln,Tabernacle,Secretary Of State,,DEM,JOHN BARROW,311
+Lincoln,Bethany Church,Secretary Of State,,DEM,JOHN BARROW,77
+Lincoln,Martins Crossroad,Secretary Of State,,DEM,JOHN BARROW,167
+Lincoln,Midway,Secretary Of State,,LIB,SMYTHE DUVAL,2
+Lincoln,Lincoln Club House,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Lincoln,Lincoln Center,Secretary Of State,,LIB,SMYTHE DUVAL,10
+Lincoln,Faith Temple of Linc,Secretary Of State,,LIB,SMYTHE DUVAL,2
+Lincoln,Tabernacle,Secretary Of State,,LIB,SMYTHE DUVAL,6
+Lincoln,Bethany Church,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Lincoln,Martins Crossroad,Secretary Of State,,LIB,SMYTHE DUVAL,14
+Lincoln,Midway,Attorney General,,(REP,CHRIS CARR ,225
+Lincoln,Lincoln Club House,Attorney General,,(REP,CHRIS CARR ,208
+Lincoln,Lincoln Center,Attorney General,,(REP,CHRIS CARR ,747
+Lincoln,Faith Temple of Linc,Attorney General,,(REP,CHRIS CARR ,186
+Lincoln,Tabernacle,Attorney General,,(REP,CHRIS CARR ,362
+Lincoln,Bethany Church,Attorney General,,(REP,CHRIS CARR ,306
+Lincoln,Martins Crossroad,Attorney General,,(REP,CHRIS CARR ,667
+Lincoln,Midway,Attorney General,,DEM,CHARLIE BAILEY,95
+Lincoln,Lincoln Club House,Attorney General,,DEM,CHARLIE BAILEY,274
+Lincoln,Lincoln Center,Attorney General,,DEM,CHARLIE BAILEY,220
+Lincoln,Faith Temple of Linc,Attorney General,,DEM,CHARLIE BAILEY,110
+Lincoln,Tabernacle,Attorney General,,DEM,CHARLIE BAILEY,286
+Lincoln,Bethany Church,Attorney General,,DEM,CHARLIE BAILEY,56
+Lincoln,Martins Crossroad,Attorney General,,DEM,CHARLIE BAILEY,134
+Lincoln,Midway,Commissioner Of Agriculture,,(REP,GARY BLACK ,230
+Lincoln,Lincoln Club House,Commissioner Of Agriculture,,(REP,GARY BLACK ,216
+Lincoln,Lincoln Center,Commissioner Of Agriculture,,(REP,GARY BLACK ,750
+Lincoln,Faith Temple of Linc,Commissioner Of Agriculture,,(REP,GARY BLACK ,188
+Lincoln,Tabernacle,Commissioner Of Agriculture,,(REP,GARY BLACK ,365
+Lincoln,Bethany Church,Commissioner Of Agriculture,,(REP,GARY BLACK ,307
+Lincoln,Martins Crossroad,Commissioner Of Agriculture,,(REP,GARY BLACK ,662
+Lincoln,Midway,Commissioner Of Agriculture,,DEM,FRED SWANN,87
+Lincoln,Lincoln Club House,Commissioner Of Agriculture,,DEM,FRED SWANN,268
+Lincoln,Lincoln Center,Commissioner Of Agriculture,,DEM,FRED SWANN,205
+Lincoln,Faith Temple of Linc,Commissioner Of Agriculture,,DEM,FRED SWANN,108
+Lincoln,Tabernacle,Commissioner Of Agriculture,,DEM,FRED SWANN,282
+Lincoln,Bethany Church,Commissioner Of Agriculture,,DEM,FRED SWANN,52
+Lincoln,Martins Crossroad,Commissioner Of Agriculture,,DEM,FRED SWANN,131
+Lincoln,Midway,Commissioner Of Insurance,,REP,JIM BECK,228
+Lincoln,Lincoln Club House,Commissioner Of Insurance,,REP,JIM BECK,206
+Lincoln,Lincoln Center,Commissioner Of Insurance,,REP,JIM BECK,743
+Lincoln,Faith Temple of Linc,Commissioner Of Insurance,,REP,JIM BECK,192
+Lincoln,Tabernacle,Commissioner Of Insurance,,REP,JIM BECK,359
+Lincoln,Bethany Church,Commissioner Of Insurance,,REP,JIM BECK,301
+Lincoln,Martins Crossroad,Commissioner Of Insurance,,REP,JIM BECK,659
+Lincoln,Midway,Commissioner Of Insurance,,DEM,JANICE LAWS,91
+Lincoln,Lincoln Club House,Commissioner Of Insurance,,DEM,JANICE LAWS,274
+Lincoln,Lincoln Center,Commissioner Of Insurance,,DEM,JANICE LAWS,207
+Lincoln,Faith Temple of Linc,Commissioner Of Insurance,,DEM,JANICE LAWS,97
+Lincoln,Tabernacle,Commissioner Of Insurance,,DEM,JANICE LAWS,277
+Lincoln,Bethany Church,Commissioner Of Insurance,,DEM,JANICE LAWS,54
+Lincoln,Martins Crossroad,Commissioner Of Insurance,,DEM,JANICE LAWS,128
+Lincoln,Midway,Commissioner Of Insurance,,LIB,DONNIE FOSTER,6
+Lincoln,Lincoln Club House,Commissioner Of Insurance,,LIB,DONNIE FOSTER,5
+Lincoln,Lincoln Center,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
+Lincoln,Faith Temple of Linc,Commissioner Of Insurance,,LIB,DONNIE FOSTER,6
+Lincoln,Tabernacle,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
+Lincoln,Bethany Church,Commissioner Of Insurance,,LIB,DONNIE FOSTER,7
+Lincoln,Martins Crossroad,Commissioner Of Insurance,,LIB,DONNIE FOSTER,15
+Lincoln,Midway,State School Superintendent,,(REP,RICHARD WOODS ,231
+Lincoln,Lincoln Club House,State School Superintendent,,(REP,RICHARD WOODS ,214
+Lincoln,Lincoln Center,State School Superintendent,,(REP,RICHARD WOODS ,752
+Lincoln,Faith Temple of Linc,State School Superintendent,,(REP,RICHARD WOODS ,195
+Lincoln,Tabernacle,State School Superintendent,,(REP,RICHARD WOODS ,370
+Lincoln,Bethany Church,State School Superintendent,,(REP,RICHARD WOODS ,308
+Lincoln,Martins Crossroad,State School Superintendent,,(REP,RICHARD WOODS ,667
+Lincoln,Midway,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",94
+Lincoln,Lincoln Club House,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",275
+Lincoln,Lincoln Center,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",204
+Lincoln,Faith Temple of Linc,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",103
+Lincoln,Tabernacle,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",286
+Lincoln,Bethany Church,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",53
+Lincoln,Martins Crossroad,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",134
+Lincoln,Midway,Commissioner Of Labor,,(REP,MARK BUTLER ,231
+Lincoln,Lincoln Club House,Commissioner Of Labor,,(REP,MARK BUTLER ,208
+Lincoln,Lincoln Center,Commissioner Of Labor,,(REP,MARK BUTLER ,751
+Lincoln,Faith Temple of Linc,Commissioner Of Labor,,(REP,MARK BUTLER ,188
+Lincoln,Tabernacle,Commissioner Of Labor,,(REP,MARK BUTLER ,365
+Lincoln,Bethany Church,Commissioner Of Labor,,(REP,MARK BUTLER ,311
+Lincoln,Martins Crossroad,Commissioner Of Labor,,(REP,MARK BUTLER ,664
+Lincoln,Midway,Commissioner Of Labor,,DEM,RICHARD KEATLEY,94
+Lincoln,Lincoln Club House,Commissioner Of Labor,,DEM,RICHARD KEATLEY,272
+Lincoln,Lincoln Center,Commissioner Of Labor,,DEM,RICHARD KEATLEY,212
+Lincoln,Faith Temple of Linc,Commissioner Of Labor,,DEM,RICHARD KEATLEY,109
+Lincoln,Tabernacle,Commissioner Of Labor,,DEM,RICHARD KEATLEY,279
+Lincoln,Bethany Church,Commissioner Of Labor,,DEM,RICHARD KEATLEY,50
+Lincoln,Martins Crossroad,Commissioner Of Labor,,DEM,RICHARD KEATLEY,133
+Lincoln,Midway,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,226
+Lincoln,Lincoln Club House,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,202
+Lincoln,Lincoln Center,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,733
+Lincoln,Faith Temple of Linc,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,188
+Lincoln,Tabernacle,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,355
+Lincoln,Bethany Church,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,300
+Lincoln,Martins Crossroad,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,649
+Lincoln,Midway,"Public Service Commission, District 3",3,DEM,LINDY MILLER,90
+Lincoln,Lincoln Club House,"Public Service Commission, District 3",3,DEM,LINDY MILLER,276
+Lincoln,Lincoln Center,"Public Service Commission, District 3",3,DEM,LINDY MILLER,208
+Lincoln,Faith Temple of Linc,"Public Service Commission, District 3",3,DEM,LINDY MILLER,104
+Lincoln,Tabernacle,"Public Service Commission, District 3",3,DEM,LINDY MILLER,286
+Lincoln,Bethany Church,"Public Service Commission, District 3",3,DEM,LINDY MILLER,56
+Lincoln,Martins Crossroad,"Public Service Commission, District 3",3,DEM,LINDY MILLER,135
+Lincoln,Midway,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,8
+Lincoln,Lincoln Club House,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Lincoln,Lincoln Center,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,17
+Lincoln,Faith Temple of Linc,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Lincoln,Tabernacle,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,10
+Lincoln,Bethany Church,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Lincoln,Martins Crossroad,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Lincoln,Midway,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,226
+Lincoln,Lincoln Club House,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,200
+Lincoln,Lincoln Center,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,734
+Lincoln,Faith Temple of Linc,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,188
+Lincoln,Tabernacle,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,364
+Lincoln,Bethany Church,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,303
+Lincoln,Martins Crossroad,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,648
+Lincoln,Midway,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,90
+Lincoln,Lincoln Club House,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,276
+Lincoln,Lincoln Center,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,208
+Lincoln,Faith Temple of Linc,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,104
+Lincoln,Tabernacle,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,280
+Lincoln,Bethany Church,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,51
+Lincoln,Martins Crossroad,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,132
+Lincoln,Midway,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,8
+Lincoln,Lincoln Club House,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,8
+Lincoln,Lincoln Center,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Lincoln,Faith Temple of Linc,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,4
+Lincoln,Tabernacle,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,6
+Lincoln,Bethany Church,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
+Lincoln,Martins Crossroad,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,18
+Lincoln,Midway,U.S. Representative,10,(REP,JODY HICE ,233
+Lincoln,Lincoln Club House,U.S. Representative,10,(REP,JODY HICE ,209
+Lincoln,Lincoln Center,U.S. Representative,10,(REP,JODY HICE ,755
+Lincoln,Faith Temple of Linc,U.S. Representative,10,(REP,JODY HICE ,196
+Lincoln,Tabernacle,U.S. Representative,10,(REP,JODY HICE ,368
+Lincoln,Bethany Church,U.S. Representative,10,(REP,JODY HICE ,309
+Lincoln,Martins Crossroad,U.S. Representative,10,(REP,JODY HICE ,675
+Lincoln,Midway,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,93
+Lincoln,Lincoln Club House,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,273
+Lincoln,Lincoln Center,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,208
+Lincoln,Faith Temple of Linc,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,107
+Lincoln,Tabernacle,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,290
+Lincoln,Bethany Church,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,53
+Lincoln,Martins Crossroad,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,132
+Lincoln,Midway,State Senator,24,(REP,LEE ANDERSON ,260
+Lincoln,Lincoln Club House,State Senator,24,(REP,LEE ANDERSON ,304
+Lincoln,Lincoln Center,State Senator,24,(REP,LEE ANDERSON ,832
+Lincoln,Faith Temple of Linc,State Senator,24,(REP,LEE ANDERSON ,241
+Lincoln,Tabernacle,State Senator,24,(REP,LEE ANDERSON ,446
+Lincoln,Bethany Church,State Senator,24,(REP,LEE ANDERSON ,320
+Lincoln,Martins Crossroad,State Senator,24,(REP,LEE ANDERSON ,716
+Lincoln,Midway,State Representative,33,(REP,TOM MCCALL ,266
+Lincoln,Lincoln Club House,State Representative,33,(REP,TOM MCCALL ,306
+Lincoln,Lincoln Center,State Representative,33,(REP,TOM MCCALL ,830
+Lincoln,Faith Temple of Linc,State Representative,33,(REP,TOM MCCALL ,243
+Lincoln,Tabernacle,State Representative,33,(REP,TOM MCCALL ,449
+Lincoln,Bethany Church,State Representative,33,(REP,TOM MCCALL ,325
+Lincoln,Martins Crossroad,State Representative,33,(REP,TOM MCCALL ,717
+Lincoln,Midway,County Comm 1,,R,B. HENDERSON,221
+Lincoln,Lincoln Club House,County Comm 1,,R,B. HENDERSON,189
+Lincoln,Midway,County Comm 1,,D,V. WILLIAMS ,106
+Lincoln,Lincoln Club House,County Comm 1,,D,V. WILLIAMS ,300
+Lincoln,Lincoln Center,County Comm 2,,R,L. COLLINS ,719
+Lincoln,Lincoln Center,County Comm 2,,D,X. BANKS,240
+Lincoln,Midway,Soil and Water,,,J. DUNSMORE,203
+Lincoln,Lincoln Club House,Soil and Water,,,J. DUNSMORE,230
+Lincoln,Lincoln Center,Soil and Water,,,J. DUNSMORE,530
+Lincoln,Faith Temple of Linc,Soil and Water,,,J. DUNSMORE,179
+Lincoln,Tabernacle,Soil and Water,,,J. DUNSMORE,366
+Lincoln,Bethany Church,Soil and Water,,,J. DUNSMORE,207
+Lincoln,Martins Crossroad,Soil and Water,,,J. DUNSMORE,494
+Lincoln,Midway,Soil and Water,,,C. HEITMANN,206
+Lincoln,Lincoln Club House,Soil and Water,,,C. HEITMANN,306
+Lincoln,Lincoln Center,Soil and Water,,,C. HEITMANN,717
+Lincoln,Faith Temple of Linc,Soil and Water,,,C. HEITMANN,199
+Lincoln,Tabernacle,Soil and Water,,,C. HEITMANN,379
+Lincoln,Bethany Church,Soil and Water,,,C. HEITMANN,253
+Lincoln,Martins Crossroad,Soil and Water,,,C. HEITMANN,549
+Lincoln,Midway,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,259
+Lincoln,Lincoln Club House,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,366
+Lincoln,Lincoln Center,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,686
+Lincoln,Faith Temple of Linc,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,234
+Lincoln,Tabernacle,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,496
+Lincoln,Bethany Church,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,276
+Lincoln,Martins Crossroad,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,623
+Lincoln,Midway,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,60
+Lincoln,Lincoln Club House,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,99
+Lincoln,Lincoln Center,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,215
+Lincoln,Faith Temple of Linc,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,59
+Lincoln,Tabernacle,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,117
+Lincoln,Bethany Church,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,84
+Lincoln,Martins Crossroad,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,154
+Lincoln,Midway,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,217
+Lincoln,Lincoln Club House,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,316
+Lincoln,Lincoln Center,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,568
+Lincoln,Faith Temple of Linc,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,189
+Lincoln,Tabernacle,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,411
+Lincoln,Bethany Church,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,233
+Lincoln,Martins Crossroad,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,503
+Lincoln,Midway,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,92
+Lincoln,Lincoln Club House,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,129
+Lincoln,Lincoln Center,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,308
+Lincoln,Faith Temple of Linc,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,96
+Lincoln,Tabernacle,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,195
+Lincoln,Bethany Church,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,123
+Lincoln,Martins Crossroad,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,240
+Lincoln,Midway,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,177
+Lincoln,Lincoln Club House,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,217
+Lincoln,Lincoln Center,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,481
+Lincoln,Faith Temple of Linc,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,165
+Lincoln,Tabernacle,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,315
+Lincoln,Bethany Church,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,194
+Lincoln,Martins Crossroad,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,405
+Lincoln,Midway,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,125
+Lincoln,Lincoln Club House,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,218
+Lincoln,Lincoln Center,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,373
+Lincoln,Faith Temple of Linc,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,120
+Lincoln,Tabernacle,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,277
+Lincoln,Bethany Church,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,154
+Lincoln,Martins Crossroad,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,328
+Lincoln,Midway,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,248
+Lincoln,Lincoln Club House,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,349
+Lincoln,Lincoln Center,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,643
+Lincoln,Faith Temple of Linc,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,223
+Lincoln,Tabernacle,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,460
+Lincoln,Bethany Church,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,263
+Lincoln,Martins Crossroad,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,556
+Lincoln,Midway,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,69
+Lincoln,Lincoln Club House,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,96
+Lincoln,Lincoln Center,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,240
+Lincoln,Faith Temple of Linc,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,69
+Lincoln,Tabernacle,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,153
+Lincoln,Bethany Church,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,93
+Lincoln,Martins Crossroad,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,196
+Lincoln,Midway,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,196
+Lincoln,Lincoln Club House,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,279
+Lincoln,Lincoln Center,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,534
+Lincoln,Faith Temple of Linc,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,183
+Lincoln,Tabernacle,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,355
+Lincoln,Bethany Church,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,198
+Lincoln,Martins Crossroad,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,444
+Lincoln,Midway,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,114
+Lincoln,Lincoln Club House,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,164
+Lincoln,Lincoln Center,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,330
+Lincoln,Faith Temple of Linc,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,103
+Lincoln,Tabernacle,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,245
+Lincoln,Bethany Church,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,147
+Lincoln,Martins Crossroad,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,290
+Lincoln,Midway,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,151
+Lincoln,Lincoln Club House,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,209
+Lincoln,Lincoln Center,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,436
+Lincoln,Faith Temple of Linc,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,160
+Lincoln,Tabernacle,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,292
+Lincoln,Bethany Church,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,163
+Lincoln,Martins Crossroad,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,359
+Lincoln,Midway,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,150
+Lincoln,Lincoln Club House,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,223
+Lincoln,Lincoln Center,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,411
+Lincoln,Faith Temple of Linc,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,123
+Lincoln,Tabernacle,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,308
+Lincoln,Bethany Church,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,181
+Lincoln,Martins Crossroad,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,360
+Lincoln,Midway,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,225
+Lincoln,Lincoln Club House,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,334
+Lincoln,Lincoln Center,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,579
+Lincoln,Faith Temple of Linc,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,212
+Lincoln,Tabernacle,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,445
+Lincoln,Bethany Church,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,245
+Lincoln,Martins Crossroad,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,506
+Lincoln,Midway,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,91
+Lincoln,Lincoln Club House,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,121
+Lincoln,Lincoln Center,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,306
+Lincoln,Faith Temple of Linc,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,79
+Lincoln,Tabernacle,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,169
+Lincoln,Bethany Church,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,109
+Lincoln,Martins Crossroad,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,240

@@ -1,0 +1,311 @@
+county,precinct,office,district,party,candidate,votes
+Montgomery,Ailey,Governor,,REP,BRIAN KEMP,224
+Montgomery,Alston,Governor,,REP,BRIAN KEMP,312
+Montgomery,Higgston,Governor,,REP,BRIAN KEMP,690
+Montgomery,Kibbee,Governor,,REP,BRIAN KEMP,320
+Montgomery,Mount Vernon,Governor,,REP,BRIAN KEMP,494
+Montgomery,Tarrytown,Governor,,REP,BRIAN KEMP,213
+Montgomery,Uvalda,Governor,,REP,BRIAN KEMP,433
+Montgomery,Ailey,Governor,,DEM,STACEY ABRAMS,90
+Montgomery,Alston,Governor,,DEM,STACEY ABRAMS,34
+Montgomery,Higgston,Governor,,DEM,STACEY ABRAMS,158
+Montgomery,Kibbee,Governor,,DEM,STACEY ABRAMS,24
+Montgomery,Mount Vernon,Governor,,DEM,STACEY ABRAMS,359
+Montgomery,Tarrytown,Governor,,DEM,STACEY ABRAMS,14
+Montgomery,Uvalda,Governor,,DEM,STACEY ABRAMS,142
+Montgomery,Ailey,Governor,,LIB,TED METZ,3
+Montgomery,Alston,Governor,,LIB,TED METZ,1
+Montgomery,Higgston,Governor,,LIB,TED METZ,4
+Montgomery,Kibbee,Governor,,LIB,TED METZ,0
+Montgomery,Mount Vernon,Governor,,LIB,TED METZ,7
+Montgomery,Tarrytown,Governor,,LIB,TED METZ,3
+Montgomery,Uvalda,Governor,,LIB,TED METZ,3
+Montgomery,Ailey,Lieutenant Governor,,REP,GEOFF DUNCAN,225
+Montgomery,Alston,Lieutenant Governor,,REP,GEOFF DUNCAN,306
+Montgomery,Higgston,Lieutenant Governor,,REP,GEOFF DUNCAN,676
+Montgomery,Kibbee,Lieutenant Governor,,REP,GEOFF DUNCAN,312
+Montgomery,Mount Vernon,Lieutenant Governor,,REP,GEOFF DUNCAN,485
+Montgomery,Tarrytown,Lieutenant Governor,,REP,GEOFF DUNCAN,211
+Montgomery,Uvalda,Lieutenant Governor,,REP,GEOFF DUNCAN,421
+Montgomery,Ailey,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,80
+Montgomery,Alston,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,31
+Montgomery,Higgston,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,157
+Montgomery,Kibbee,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,23
+Montgomery,Mount Vernon,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,340
+Montgomery,Tarrytown,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,13
+Montgomery,Uvalda,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,129
+Montgomery,Ailey,Secretary Of State,,REP,BRAD RAFFENSPERGER,213
+Montgomery,Alston,Secretary Of State,,REP,BRAD RAFFENSPERGER,284
+Montgomery,Higgston,Secretary Of State,,REP,BRAD RAFFENSPERGER,642
+Montgomery,Kibbee,Secretary Of State,,REP,BRAD RAFFENSPERGER,289
+Montgomery,Mount Vernon,Secretary Of State,,REP,BRAD RAFFENSPERGER,429
+Montgomery,Tarrytown,Secretary Of State,,REP,BRAD RAFFENSPERGER,187
+Montgomery,Uvalda,Secretary Of State,,REP,BRAD RAFFENSPERGER,355
+Montgomery,Ailey,Secretary Of State,,DEM,JOHN BARROW,94
+Montgomery,Alston,Secretary Of State,,DEM,JOHN BARROW,54
+Montgomery,Higgston,Secretary Of State,,DEM,JOHN BARROW,192
+Montgomery,Kibbee,Secretary Of State,,DEM,JOHN BARROW,42
+Montgomery,Mount Vernon,Secretary Of State,,DEM,JOHN BARROW,395
+Montgomery,Tarrytown,Secretary Of State,,DEM,JOHN BARROW,38
+Montgomery,Uvalda,Secretary Of State,,DEM,JOHN BARROW,200
+Montgomery,Ailey,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Montgomery,Alston,Secretary Of State,,LIB,SMYTHE DUVAL,2
+Montgomery,Higgston,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Montgomery,Kibbee,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Montgomery,Mount Vernon,Secretary Of State,,LIB,SMYTHE DUVAL,8
+Montgomery,Tarrytown,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Montgomery,Uvalda,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Montgomery,Ailey,Attorney General,,(REP,CHRIS CARR ,212
+Montgomery,Alston,Attorney General,,(REP,CHRIS CARR ,302
+Montgomery,Higgston,Attorney General,,(REP,CHRIS CARR ,672
+Montgomery,Kibbee,Attorney General,,(REP,CHRIS CARR ,307
+Montgomery,Mount Vernon,Attorney General,,(REP,CHRIS CARR ,488
+Montgomery,Tarrytown,Attorney General,,(REP,CHRIS CARR ,200
+Montgomery,Uvalda,Attorney General,,(REP,CHRIS CARR ,405
+Montgomery,Ailey,Attorney General,,DEM,CHARLIE BAILEY,89
+Montgomery,Alston,Attorney General,,DEM,CHARLIE BAILEY,37
+Montgomery,Higgston,Attorney General,,DEM,CHARLIE BAILEY,160
+Montgomery,Kibbee,Attorney General,,DEM,CHARLIE BAILEY,27
+Montgomery,Mount Vernon,Attorney General,,DEM,CHARLIE BAILEY,337
+Montgomery,Tarrytown,Attorney General,,DEM,CHARLIE BAILEY,18
+Montgomery,Uvalda,Attorney General,,DEM,CHARLIE BAILEY,143
+Montgomery,Ailey,Commissioner Of Agriculture,,(REP,GARY BLACK ,228
+Montgomery,Alston,Commissioner Of Agriculture,,(REP,GARY BLACK ,309
+Montgomery,Higgston,Commissioner Of Agriculture,,(REP,GARY BLACK ,682
+Montgomery,Kibbee,Commissioner Of Agriculture,,(REP,GARY BLACK ,311
+Montgomery,Mount Vernon,Commissioner Of Agriculture,,(REP,GARY BLACK ,519
+Montgomery,Tarrytown,Commissioner Of Agriculture,,(REP,GARY BLACK ,207
+Montgomery,Uvalda,Commissioner Of Agriculture,,(REP,GARY BLACK ,418
+Montgomery,Ailey,Commissioner Of Agriculture,,DEM,FRED SWANN,80
+Montgomery,Alston,Commissioner Of Agriculture,,DEM,FRED SWANN,31
+Montgomery,Higgston,Commissioner Of Agriculture,,DEM,FRED SWANN,152
+Montgomery,Kibbee,Commissioner Of Agriculture,,DEM,FRED SWANN,22
+Montgomery,Mount Vernon,Commissioner Of Agriculture,,DEM,FRED SWANN,311
+Montgomery,Tarrytown,Commissioner Of Agriculture,,DEM,FRED SWANN,17
+Montgomery,Uvalda,Commissioner Of Agriculture,,DEM,FRED SWANN,136
+Montgomery,Ailey,Commissioner Of Insurance,,REP,JIM BECK,221
+Montgomery,Alston,Commissioner Of Insurance,,REP,JIM BECK,304
+Montgomery,Higgston,Commissioner Of Insurance,,REP,JIM BECK,677
+Montgomery,Kibbee,Commissioner Of Insurance,,REP,JIM BECK,311
+Montgomery,Mount Vernon,Commissioner Of Insurance,,REP,JIM BECK,498
+Montgomery,Tarrytown,Commissioner Of Insurance,,REP,JIM BECK,204
+Montgomery,Uvalda,Commissioner Of Insurance,,REP,JIM BECK,417
+Montgomery,Ailey,Commissioner Of Insurance,,DEM,JANICE LAWS,80
+Montgomery,Alston,Commissioner Of Insurance,,DEM,JANICE LAWS,30
+Montgomery,Higgston,Commissioner Of Insurance,,DEM,JANICE LAWS,157
+Montgomery,Kibbee,Commissioner Of Insurance,,DEM,JANICE LAWS,18
+Montgomery,Mount Vernon,Commissioner Of Insurance,,DEM,JANICE LAWS,321
+Montgomery,Tarrytown,Commissioner Of Insurance,,DEM,JANICE LAWS,17
+Montgomery,Uvalda,Commissioner Of Insurance,,DEM,JANICE LAWS,131
+Montgomery,Ailey,Commissioner Of Insurance,,LIB,DONNIE FOSTER,7
+Montgomery,Alston,Commissioner Of Insurance,,LIB,DONNIE FOSTER,5
+Montgomery,Higgston,Commissioner Of Insurance,,LIB,DONNIE FOSTER,6
+Montgomery,Kibbee,Commissioner Of Insurance,,LIB,DONNIE FOSTER,5
+Montgomery,Mount Vernon,Commissioner Of Insurance,,LIB,DONNIE FOSTER,6
+Montgomery,Tarrytown,Commissioner Of Insurance,,LIB,DONNIE FOSTER,3
+Montgomery,Uvalda,Commissioner Of Insurance,,LIB,DONNIE FOSTER,6
+Montgomery,Ailey,State School Superintendent,,(REP,RICHARD WOODS ,223
+Montgomery,Alston,State School Superintendent,,(REP,RICHARD WOODS ,306
+Montgomery,Higgston,State School Superintendent,,(REP,RICHARD WOODS ,671
+Montgomery,Kibbee,State School Superintendent,,(REP,RICHARD WOODS ,309
+Montgomery,Mount Vernon,State School Superintendent,,(REP,RICHARD WOODS ,497
+Montgomery,Tarrytown,State School Superintendent,,(REP,RICHARD WOODS ,205
+Montgomery,Uvalda,State School Superintendent,,(REP,RICHARD WOODS ,412
+Montgomery,Ailey,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",82
+Montgomery,Alston,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",32
+Montgomery,Higgston,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",154
+Montgomery,Kibbee,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",22
+Montgomery,Mount Vernon,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",326
+Montgomery,Tarrytown,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",19
+Montgomery,Uvalda,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",139
+Montgomery,Ailey,Commissioner Of Labor,,(REP,MARK BUTLER ,222
+Montgomery,Alston,Commissioner Of Labor,,(REP,MARK BUTLER ,306
+Montgomery,Higgston,Commissioner Of Labor,,(REP,MARK BUTLER ,672
+Montgomery,Kibbee,Commissioner Of Labor,,(REP,MARK BUTLER ,309
+Montgomery,Mount Vernon,Commissioner Of Labor,,(REP,MARK BUTLER ,498
+Montgomery,Tarrytown,Commissioner Of Labor,,(REP,MARK BUTLER ,206
+Montgomery,Uvalda,Commissioner Of Labor,,(REP,MARK BUTLER ,412
+Montgomery,Ailey,Commissioner Of Labor,,DEM,RICHARD KEATLEY,84
+Montgomery,Alston,Commissioner Of Labor,,DEM,RICHARD KEATLEY,33
+Montgomery,Higgston,Commissioner Of Labor,,DEM,RICHARD KEATLEY,161
+Montgomery,Kibbee,Commissioner Of Labor,,DEM,RICHARD KEATLEY,22
+Montgomery,Mount Vernon,Commissioner Of Labor,,DEM,RICHARD KEATLEY,322
+Montgomery,Tarrytown,Commissioner Of Labor,,DEM,RICHARD KEATLEY,17
+Montgomery,Uvalda,Commissioner Of Labor,,DEM,RICHARD KEATLEY,136
+Montgomery,Ailey,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,218
+Montgomery,Alston,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,300
+Montgomery,Higgston,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,658
+Montgomery,Kibbee,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,303
+Montgomery,Mount Vernon,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,481
+Montgomery,Tarrytown,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,207
+Montgomery,Uvalda,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,404
+Montgomery,Ailey,"Public Service Commission, District 3",3,DEM,LINDY MILLER,84
+Montgomery,Alston,"Public Service Commission, District 3",3,DEM,LINDY MILLER,31
+Montgomery,Higgston,"Public Service Commission, District 3",3,DEM,LINDY MILLER,158
+Montgomery,Kibbee,"Public Service Commission, District 3",3,DEM,LINDY MILLER,19
+Montgomery,Mount Vernon,"Public Service Commission, District 3",3,DEM,LINDY MILLER,330
+Montgomery,Tarrytown,"Public Service Commission, District 3",3,DEM,LINDY MILLER,17
+Montgomery,Uvalda,"Public Service Commission, District 3",3,DEM,LINDY MILLER,137
+Montgomery,Ailey,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,6
+Montgomery,Alston,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,7
+Montgomery,Higgston,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,13
+Montgomery,Kibbee,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,9
+Montgomery,Mount Vernon,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,9
+Montgomery,Tarrytown,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,3
+Montgomery,Uvalda,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,10
+Montgomery,Ailey,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,217
+Montgomery,Alston,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,297
+Montgomery,Higgston,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,665
+Montgomery,Kibbee,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,305
+Montgomery,Mount Vernon,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,482
+Montgomery,Tarrytown,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,200
+Montgomery,Uvalda,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,401
+Montgomery,Ailey,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,82
+Montgomery,Alston,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,31
+Montgomery,Higgston,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,154
+Montgomery,Kibbee,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,23
+Montgomery,Mount Vernon,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,327
+Montgomery,Tarrytown,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,18
+Montgomery,Uvalda,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,137
+Montgomery,Ailey,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,6
+Montgomery,Alston,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
+Montgomery,Higgston,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,11
+Montgomery,Kibbee,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,4
+Montgomery,Mount Vernon,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,10
+Montgomery,Tarrytown,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,2
+Montgomery,Uvalda,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,9
+Montgomery,Ailey,U.S. Representative,12,(REP,RICK W. ALLEN ,222
+Montgomery,Alston,U.S. Representative,12,(REP,RICK W. ALLEN ,303
+Montgomery,Higgston,U.S. Representative,12,(REP,RICK W. ALLEN ,689
+Montgomery,Kibbee,U.S. Representative,12,(REP,RICK W. ALLEN ,318
+Montgomery,Mount Vernon,U.S. Representative,12,(REP,RICK W. ALLEN ,491
+Montgomery,Tarrytown,U.S. Representative,12,(REP,RICK W. ALLEN ,209
+Montgomery,Uvalda,U.S. Representative,12,(REP,RICK W. ALLEN ,422
+Montgomery,Ailey,U.S. Representative,12,DEM,FRANCYS JOHNSON,90
+Montgomery,Alston,U.S. Representative,12,DEM,FRANCYS JOHNSON,36
+Montgomery,Higgston,U.S. Representative,12,DEM,FRANCYS JOHNSON,156
+Montgomery,Kibbee,U.S. Representative,12,DEM,FRANCYS JOHNSON,21
+Montgomery,Mount Vernon,U.S. Representative,12,DEM,FRANCYS JOHNSON,341
+Montgomery,Tarrytown,U.S. Representative,12,DEM,FRANCYS JOHNSON,16
+Montgomery,Uvalda,U.S. Representative,12,DEM,FRANCYS JOHNSON,133
+Montgomery,Ailey,State Senator,19,(REP,BLAKE TILLERY ,255
+Montgomery,Alston,State Senator,19,(REP,BLAKE TILLERY ,306
+Montgomery,Higgston,State Senator,19,(REP,BLAKE TILLERY ,756
+Montgomery,Kibbee,State Senator,19,(REP,BLAKE TILLERY ,318
+Montgomery,Mount Vernon,State Senator,19,(REP,BLAKE TILLERY ,635
+Montgomery,Tarrytown,State Senator,19,(REP,BLAKE TILLERY ,209
+Montgomery,Uvalda,State Senator,19,(REP,BLAKE TILLERY ,460
+Montgomery,Ailey,State Representative,156,(REP,GREG MORRIS ,254
+Montgomery,Alston,State Representative,156,(REP,GREG MORRIS ,308
+Montgomery,Higgston,State Representative,156,(REP,GREG MORRIS ,732
+Montgomery,Kibbee,State Representative,156,(REP,GREG MORRIS ,303
+Montgomery,Mount Vernon,State Representative,156,(REP,GREG MORRIS ,653
+Montgomery,Tarrytown,State Representative,156,(REP,GREG MORRIS ,209
+Montgomery,Uvalda,State Representative,156,(REP,GREG MORRIS ,473
+Montgomery,Ailey,CC, D3 P2,R,C. L. ROBISON,181
+Montgomery,Mount Vernon,CC, D3 P2,R,C. L. ROBISON,324
+Montgomery,Ailey,CC, D3 P2,D,C. THOMAS ,95
+Montgomery,Mount Vernon,CC, D3 P2,D,C. THOMAS ,454
+Montgomery,Alston,CC, D4,D,L. ADAMS ,13
+Montgomery,Mount Vernon,CC, D4,D,L. ADAMS ,31
+Montgomery,Uvalda,CC, D4,D,L. ADAMS ,415
+Montgomery,Ailey,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,201
+Montgomery,Alston,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,251
+Montgomery,Higgston,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,638
+Montgomery,Kibbee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,235
+Montgomery,Mount Vernon,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,608
+Montgomery,Tarrytown,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,167
+Montgomery,Uvalda,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,374
+Montgomery,Ailey,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,105
+Montgomery,Alston,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,69
+Montgomery,Higgston,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,175
+Montgomery,Kibbee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,79
+Montgomery,Mount Vernon,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,187
+Montgomery,Tarrytown,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,52
+Montgomery,Uvalda,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,142
+Montgomery,Ailey,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,162
+Montgomery,Alston,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,213
+Montgomery,Higgston,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,520
+Montgomery,Kibbee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,180
+Montgomery,Mount Vernon,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,507
+Montgomery,Tarrytown,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,120
+Montgomery,Uvalda,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,294
+Montgomery,Ailey,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,132
+Montgomery,Alston,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,97
+Montgomery,Higgston,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,258
+Montgomery,Kibbee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,118
+Montgomery,Mount Vernon,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,257
+Montgomery,Tarrytown,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,82
+Montgomery,Uvalda,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,189
+Montgomery,Ailey,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,153
+Montgomery,Alston,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,185
+Montgomery,Higgston,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,457
+Montgomery,Kibbee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,189
+Montgomery,Mount Vernon,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,425
+Montgomery,Tarrytown,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,119
+Montgomery,Uvalda,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,271
+Montgomery,Ailey,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,140
+Montgomery,Alston,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,127
+Montgomery,Higgston,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,319
+Montgomery,Kibbee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,109
+Montgomery,Mount Vernon,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,329
+Montgomery,Tarrytown,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,84
+Montgomery,Uvalda,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,216
+Montgomery,Ailey,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,217
+Montgomery,Alston,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,237
+Montgomery,Higgston,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,596
+Montgomery,Kibbee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,240
+Montgomery,Mount Vernon,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,604
+Montgomery,Tarrytown,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,152
+Montgomery,Uvalda,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,368
+Montgomery,Ailey,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,87
+Montgomery,Alston,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,87
+Montgomery,Higgston,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,201
+Montgomery,Kibbee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,76
+Montgomery,Mount Vernon,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,179
+Montgomery,Tarrytown,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,63
+Montgomery,Uvalda,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,142
+Montgomery,Ailey,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,162
+Montgomery,Alston,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,216
+Montgomery,Higgston,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,500
+Montgomery,Kibbee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,179
+Montgomery,Mount Vernon,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,499
+Montgomery,Tarrytown,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,134
+Montgomery,Uvalda,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,290
+Montgomery,Ailey,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,132
+Montgomery,Alston,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,102
+Montgomery,Higgston,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,285
+Montgomery,Kibbee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,129
+Montgomery,Mount Vernon,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,266
+Montgomery,Tarrytown,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,74
+Montgomery,Uvalda,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,204
+Montgomery,Ailey,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,120
+Montgomery,Alston,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,176
+Montgomery,Higgston,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,407
+Montgomery,Kibbee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,156
+Montgomery,Mount Vernon,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,401
+Montgomery,Tarrytown,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,105
+Montgomery,Uvalda,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,244
+Montgomery,Ailey,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,164
+Montgomery,Alston,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,134
+Montgomery,Higgston,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,352
+Montgomery,Kibbee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,138
+Montgomery,Mount Vernon,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,337
+Montgomery,Tarrytown,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,92
+Montgomery,Uvalda,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,235
+Montgomery,Ailey,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,170
+Montgomery,Alston,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,213
+Montgomery,Higgston,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,525
+Montgomery,Kibbee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,196
+Montgomery,Mount Vernon,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,545
+Montgomery,Tarrytown,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,136
+Montgomery,Uvalda,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,316
+Montgomery,Ailey,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,123
+Montgomery,Alston,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,102
+Montgomery,Higgston,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,252
+Montgomery,Kibbee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,106
+Montgomery,Mount Vernon,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,222
+Montgomery,Tarrytown,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,68
+Montgomery,Uvalda,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,175
+Montgomery,Higgston,SP,,,YES,47
+Montgomery,Higgston,SP,,,NO,40

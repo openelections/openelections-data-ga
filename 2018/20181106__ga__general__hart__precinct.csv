@@ -1,0 +1,330 @@
+county,precinct,office,district,party,candidate,votes
+Hart,Hartwell,Governor,,REP,BRIAN KEMP,2658
+Hart,Goldmine,Governor,,REP,BRIAN KEMP,840
+Hart,Cokesbury,Governor,,REP,BRIAN KEMP,365
+Hart,Reed Creek,Governor,,REP,BRIAN KEMP,1466
+Hart,Bowersville,Governor,,REP,BRIAN KEMP,646
+Hart,Shoal Creek,Governor,,REP,BRIAN KEMP,783
+Hart,Bio,Governor,,REP,BRIAN KEMP,612
+Hart,Hartwell,Governor,,DEM,STACEY ABRAMS,1090
+Hart,Goldmine,Governor,,DEM,STACEY ABRAMS,151
+Hart,Cokesbury,Governor,,DEM,STACEY ABRAMS,230
+Hart,Reed Creek,Governor,,DEM,STACEY ABRAMS,291
+Hart,Bowersville,Governor,,DEM,STACEY ABRAMS,118
+Hart,Shoal Creek,Governor,,DEM,STACEY ABRAMS,99
+Hart,Bio,Governor,,DEM,STACEY ABRAMS,199
+Hart,Hartwell,Governor,,LIB,TED METZ,32
+Hart,Goldmine,Governor,,LIB,TED METZ,11
+Hart,Cokesbury,Governor,,LIB,TED METZ,4
+Hart,Reed Creek,Governor,,LIB,TED METZ,14
+Hart,Bowersville,Governor,,LIB,TED METZ,3
+Hart,Shoal Creek,Governor,,LIB,TED METZ,7
+Hart,Bio,Governor,,LIB,TED METZ,3
+Hart,Hartwell,Lieutenant Governor,,REP,GEOFF DUNCAN,2536
+Hart,Goldmine,Lieutenant Governor,,REP,GEOFF DUNCAN,820
+Hart,Cokesbury,Lieutenant Governor,,REP,GEOFF DUNCAN,355
+Hart,Reed Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,1412
+Hart,Bowersville,Lieutenant Governor,,REP,GEOFF DUNCAN,619
+Hart,Shoal Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,755
+Hart,Bio,Lieutenant Governor,,REP,GEOFF DUNCAN,591
+Hart,Hartwell,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1041
+Hart,Goldmine,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,157
+Hart,Cokesbury,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,208
+Hart,Reed Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,288
+Hart,Bowersville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,117
+Hart,Shoal Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,101
+Hart,Bio,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,166
+Hart,Hartwell,Secretary Of State,,REP,BRAD RAFFENSPERGER,2529
+Hart,Goldmine,Secretary Of State,,REP,BRAD RAFFENSPERGER,806
+Hart,Cokesbury,Secretary Of State,,REP,BRAD RAFFENSPERGER,350
+Hart,Reed Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,1409
+Hart,Bowersville,Secretary Of State,,REP,BRAD RAFFENSPERGER,623
+Hart,Shoal Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,742
+Hart,Bio,Secretary Of State,,REP,BRAD RAFFENSPERGER,593
+Hart,Hartwell,Secretary Of State,,DEM,JOHN BARROW,1102
+Hart,Goldmine,Secretary Of State,,DEM,JOHN BARROW,167
+Hart,Cokesbury,Secretary Of State,,DEM,JOHN BARROW,225
+Hart,Reed Creek,Secretary Of State,,DEM,JOHN BARROW,304
+Hart,Bowersville,Secretary Of State,,DEM,JOHN BARROW,124
+Hart,Shoal Creek,Secretary Of State,,DEM,JOHN BARROW,112
+Hart,Bio,Secretary Of State,,DEM,JOHN BARROW,193
+Hart,Hartwell,Secretary Of State,,LIB,SMYTHE DUVAL,40
+Hart,Goldmine,Secretary Of State,,LIB,SMYTHE DUVAL,14
+Hart,Cokesbury,Secretary Of State,,LIB,SMYTHE DUVAL,10
+Hart,Reed Creek,Secretary Of State,,LIB,SMYTHE DUVAL,28
+Hart,Bowersville,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Hart,Shoal Creek,Secretary Of State,,LIB,SMYTHE DUVAL,16
+Hart,Bio,Secretary Of State,,LIB,SMYTHE DUVAL,8
+Hart,Hartwell,Attorney General,,(REP,CHRIS CARR ,2567
+Hart,Goldmine,Attorney General,,(REP,CHRIS CARR ,814
+Hart,Cokesbury,Attorney General,,(REP,CHRIS CARR ,357
+Hart,Reed Creek,Attorney General,,(REP,CHRIS CARR ,1435
+Hart,Bowersville,Attorney General,,(REP,CHRIS CARR ,616
+Hart,Shoal Creek,Attorney General,,(REP,CHRIS CARR ,749
+Hart,Bio,Attorney General,,(REP,CHRIS CARR ,591
+Hart,Hartwell,Attorney General,,DEM,CHARLIE BAILEY,1088
+Hart,Goldmine,Attorney General,,DEM,CHARLIE BAILEY,164
+Hart,Cokesbury,Attorney General,,DEM,CHARLIE BAILEY,227
+Hart,Reed Creek,Attorney General,,DEM,CHARLIE BAILEY,299
+Hart,Bowersville,Attorney General,,DEM,CHARLIE BAILEY,132
+Hart,Shoal Creek,Attorney General,,DEM,CHARLIE BAILEY,112
+Hart,Bio,Attorney General,,DEM,CHARLIE BAILEY,193
+Hart,Hartwell,Commissioner Of Agriculture,,(REP,GARY BLACK ,2603
+Hart,Goldmine,Commissioner Of Agriculture,,(REP,GARY BLACK ,834
+Hart,Cokesbury,Commissioner Of Agriculture,,(REP,GARY BLACK ,367
+Hart,Reed Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,1453
+Hart,Bowersville,Commissioner Of Agriculture,,(REP,GARY BLACK ,619
+Hart,Shoal Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,761
+Hart,Bio,Commissioner Of Agriculture,,(REP,GARY BLACK ,602
+Hart,Hartwell,Commissioner Of Agriculture,,DEM,FRED SWANN,1042
+Hart,Goldmine,Commissioner Of Agriculture,,DEM,FRED SWANN,148
+Hart,Cokesbury,Commissioner Of Agriculture,,DEM,FRED SWANN,214
+Hart,Reed Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,271
+Hart,Bowersville,Commissioner Of Agriculture,,DEM,FRED SWANN,122
+Hart,Shoal Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,101
+Hart,Bio,Commissioner Of Agriculture,,DEM,FRED SWANN,177
+Hart,Hartwell,Commissioner Of Insurance,,REP,JIM BECK,2542
+Hart,Goldmine,Commissioner Of Insurance,,REP,JIM BECK,810
+Hart,Cokesbury,Commissioner Of Insurance,,REP,JIM BECK,347
+Hart,Reed Creek,Commissioner Of Insurance,,REP,JIM BECK,1407
+Hart,Bowersville,Commissioner Of Insurance,,REP,JIM BECK,620
+Hart,Shoal Creek,Commissioner Of Insurance,,REP,JIM BECK,738
+Hart,Bio,Commissioner Of Insurance,,REP,JIM BECK,589
+Hart,Hartwell,Commissioner Of Insurance,,DEM,JANICE LAWS,1049
+Hart,Goldmine,Commissioner Of Insurance,,DEM,JANICE LAWS,147
+Hart,Cokesbury,Commissioner Of Insurance,,DEM,JANICE LAWS,217
+Hart,Reed Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,279
+Hart,Bowersville,Commissioner Of Insurance,,DEM,JANICE LAWS,117
+Hart,Shoal Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,112
+Hart,Bio,Commissioner Of Insurance,,DEM,JANICE LAWS,185
+Hart,Hartwell,Commissioner Of Insurance,,LIB,DONNIE FOSTER,60
+Hart,Goldmine,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
+Hart,Cokesbury,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
+Hart,Reed Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,37
+Hart,Bowersville,Commissioner Of Insurance,,LIB,DONNIE FOSTER,9
+Hart,Shoal Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Hart,Bio,Commissioner Of Insurance,,LIB,DONNIE FOSTER,8
+Hart,Hartwell,State School Superintendent,,(REP,RICHARD WOODS ,2586
+Hart,Goldmine,State School Superintendent,,(REP,RICHARD WOODS ,828
+Hart,Cokesbury,State School Superintendent,,(REP,RICHARD WOODS ,359
+Hart,Reed Creek,State School Superintendent,,(REP,RICHARD WOODS ,1458
+Hart,Bowersville,State School Superintendent,,(REP,RICHARD WOODS ,631
+Hart,Shoal Creek,State School Superintendent,,(REP,RICHARD WOODS ,759
+Hart,Bio,State School Superintendent,,(REP,RICHARD WOODS ,602
+Hart,Hartwell,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1096
+Hart,Goldmine,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",160
+Hart,Cokesbury,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",236
+Hart,Reed Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",269
+Hart,Bowersville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",117
+Hart,Shoal Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",112
+Hart,Bio,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",196
+Hart,Hartwell,Commissioner Of Labor,,(REP,MARK BUTLER ,2578
+Hart,Goldmine,Commissioner Of Labor,,(REP,MARK BUTLER ,820
+Hart,Cokesbury,Commissioner Of Labor,,(REP,MARK BUTLER ,361
+Hart,Reed Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,1441
+Hart,Bowersville,Commissioner Of Labor,,(REP,MARK BUTLER ,620
+Hart,Shoal Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,759
+Hart,Bio,Commissioner Of Labor,,(REP,MARK BUTLER ,592
+Hart,Hartwell,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1075
+Hart,Goldmine,Commissioner Of Labor,,DEM,RICHARD KEATLEY,162
+Hart,Cokesbury,Commissioner Of Labor,,DEM,RICHARD KEATLEY,220
+Hart,Reed Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,282
+Hart,Bowersville,Commissioner Of Labor,,DEM,RICHARD KEATLEY,124
+Hart,Shoal Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,108
+Hart,Bio,Commissioner Of Labor,,DEM,RICHARD KEATLEY,186
+Hart,Hartwell,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2533
+Hart,Goldmine,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,802
+Hart,Cokesbury,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,346
+Hart,Reed Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1412
+Hart,Bowersville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,626
+Hart,Shoal Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,736
+Hart,Bio,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,581
+Hart,Hartwell,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1058
+Hart,Goldmine,"Public Service Commission, District 3",3,DEM,LINDY MILLER,161
+Hart,Cokesbury,"Public Service Commission, District 3",3,DEM,LINDY MILLER,221
+Hart,Reed Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,276
+Hart,Bowersville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,117
+Hart,Shoal Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,105
+Hart,Bio,"Public Service Commission, District 3",3,DEM,LINDY MILLER,188
+Hart,Hartwell,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,76
+Hart,Goldmine,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,23
+Hart,Cokesbury,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,15
+Hart,Reed Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,36
+Hart,Bowersville,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,9
+Hart,Shoal Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,23
+Hart,Bio,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,12
+Hart,Hartwell,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2503
+Hart,Goldmine,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,799
+Hart,Cokesbury,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,347
+Hart,Reed Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1413
+Hart,Bowersville,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,620
+Hart,Shoal Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,736
+Hart,Bio,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,588
+Hart,Hartwell,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1064
+Hart,Goldmine,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,157
+Hart,Cokesbury,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,222
+Hart,Reed Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,283
+Hart,Bowersville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,121
+Hart,Shoal Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,104
+Hart,Bio,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,185
+Hart,Hartwell,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,89
+Hart,Goldmine,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,22
+Hart,Cokesbury,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,13
+Hart,Reed Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34
+Hart,Bowersville,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,8
+Hart,Shoal Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,24
+Hart,Bio,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,6
+Hart,Hartwell,U.S. Representative,9,(REP,DOUG COLLINS ,2590
+Hart,Goldmine,U.S. Representative,9,(REP,DOUG COLLINS ,823
+Hart,Cokesbury,U.S. Representative,9,(REP,DOUG COLLINS ,360
+Hart,Reed Creek,U.S. Representative,9,(REP,DOUG COLLINS ,1465
+Hart,Bowersville,U.S. Representative,9,(REP,DOUG COLLINS ,634
+Hart,Shoal Creek,U.S. Representative,9,(REP,DOUG COLLINS ,765
+Hart,Bio,U.S. Representative,9,(REP,DOUG COLLINS ,600
+Hart,Hartwell,U.S. Representative,9,DEM,JOSH MCCALL,1085
+Hart,Goldmine,U.S. Representative,9,DEM,JOSH MCCALL,166
+Hart,Cokesbury,U.S. Representative,9,DEM,JOSH MCCALL,230
+Hart,Reed Creek,U.S. Representative,9,DEM,JOSH MCCALL,282
+Hart,Bowersville,U.S. Representative,9,DEM,JOSH MCCALL,120
+Hart,Shoal Creek,U.S. Representative,9,DEM,JOSH MCCALL,110
+Hart,Bio,U.S. Representative,9,DEM,JOSH MCCALL,194
+Hart,Hartwell,State Senator,24,(REP,LEE ANDERSON ,2947
+Hart,Goldmine,State Senator,24,(REP,LEE ANDERSON ,901
+Hart,Cokesbury,State Senator,24,(REP,LEE ANDERSON ,424
+Hart,Reed Creek,State Senator,24,(REP,LEE ANDERSON ,1525
+Hart,Bowersville,State Senator,24,(REP,LEE ANDERSON ,672
+Hart,Shoal Creek,State Senator,24,(REP,LEE ANDERSON ,800
+Hart,Bio,State Senator,24,(REP,LEE ANDERSON ,671
+Hart,Hartwell,State Representative,32,(REP,ALAN POWELL ,3061
+Hart,Goldmine,State Representative,32,(REP,ALAN POWELL ,904
+Hart,Cokesbury,State Representative,32,(REP,ALAN POWELL ,453
+Hart,Reed Creek,State Representative,32,(REP,ALAN POWELL ,1552
+Hart,Bowersville,State Representative,32,(REP,ALAN POWELL ,690
+Hart,Shoal Creek,State Representative,32,(REP,ALAN POWELL ,816
+Hart,Bio,State Representative,32,(REP,ALAN POWELL ,692
+Hart,Hartwell,County Comm 2,,R,F. TEASLEY ,830
+Hart,Cokesbury,County Comm 2,,R,F. TEASLEY ,152
+Hart,Reed Creek,County Comm 2,,R,F. TEASLEY ,1201
+Hart,Hartwell,County Comm 4,,R,R. CARTER ,220
+Hart,Reed Creek,County Comm 4,,R,R. CARTER ,335
+Hart,Bowersville,County Comm 4,,R,R. CARTER ,296
+Hart,Shoal Creek,County Comm 4,,R,R. CARTER ,797
+Hart,Hartwell,BOE 2,,R,M. A. HONIOTES ,803
+Hart,Cokesbury,BOE 2,,R,M. A. HONIOTES ,144
+Hart,Reed Creek,BOE 2,,R,M. A. HONIOTES ,1183
+Hart,Hartwell,BOE 4,,R,R. SUTHERLAND ,216
+Hart,Reed Creek,BOE 4,,R,R. SUTHERLAND ,330
+Hart,Bowersville,BOE 4,,R,R. SUTHERLAND ,296
+Hart,Shoal Creek,BOE 4,,R,R. SUTHERLAND ,788
+Hart,Hartwell,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2724
+Hart,Goldmine,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,729
+Hart,Cokesbury,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,423
+Hart,Reed Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1203
+Hart,Bowersville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,542
+Hart,Shoal Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,635
+Hart,Bio,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,556
+Hart,Hartwell,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,813
+Hart,Goldmine,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,229
+Hart,Cokesbury,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,140
+Hart,Reed Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,511
+Hart,Bowersville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,187
+Hart,Shoal Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,213
+Hart,Bio,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,193
+Hart,Hartwell,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2209
+Hart,Goldmine,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,605
+Hart,Cokesbury,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,341
+Hart,Reed Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,984
+Hart,Bowersville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,410
+Hart,Shoal Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,517
+Hart,Bio,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,463
+Hart,Hartwell,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1235
+Hart,Goldmine,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,333
+Hart,Cokesbury,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,203
+Hart,Reed Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,682
+Hart,Bowersville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,292
+Hart,Shoal Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,320
+Hart,Bio,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,257
+Hart,Hartwell,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1939
+Hart,Goldmine,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,522
+Hart,Cokesbury,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,307
+Hart,Reed Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,882
+Hart,Bowersville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,381
+Hart,Shoal Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,460
+Hart,Bio,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,375
+Hart,Hartwell,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1461
+Hart,Goldmine,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,402
+Hart,Cokesbury,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,228
+Hart,Reed Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,764
+Hart,Bowersville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,321
+Hart,Shoal Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,361
+Hart,Bio,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,337
+Hart,Hartwell,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2640
+Hart,Goldmine,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,697
+Hart,Cokesbury,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,418
+Hart,Reed Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1226
+Hart,Bowersville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,517
+Hart,Shoal Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,639
+Hart,Bio,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,529
+Hart,Hartwell,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,867
+Hart,Goldmine,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,259
+Hart,Cokesbury,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,144
+Hart,Reed Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,455
+Hart,Bowersville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,192
+Hart,Shoal Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,207
+Hart,Bio,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,206
+Hart,Hartwell,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2213
+Hart,Goldmine,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,591
+Hart,Cokesbury,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,347
+Hart,Reed Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,947
+Hart,Bowersville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,424
+Hart,Shoal Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,504
+Hart,Bio,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,461
+Hart,Hartwell,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1274
+Hart,Goldmine,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,349
+Hart,Cokesbury,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,203
+Hart,Reed Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,726
+Hart,Bowersville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,282
+Hart,Shoal Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,332
+Hart,Bio,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,272
+Hart,Hartwell,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1761
+Hart,Goldmine,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,483
+Hart,Cokesbury,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,279
+Hart,Reed Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,799
+Hart,Bowersville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,329
+Hart,Shoal Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,399
+Hart,Bio,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,360
+Hart,Hartwell,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1586
+Hart,Goldmine,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,441
+Hart,Cokesbury,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,262
+Hart,Reed Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,829
+Hart,Bowersville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,352
+Hart,Shoal Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,426
+Hart,Bio,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,336
+Hart,Hartwell,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2408
+Hart,Goldmine,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,650
+Hart,Cokesbury,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,394
+Hart,Reed Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1115
+Hart,Bowersville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,458
+Hart,Shoal Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,554
+Hart,Bio,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,478
+Hart,Hartwell,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1068
+Hart,Goldmine,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,283
+Hart,Cokesbury,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,159
+Hart,Reed Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,572
+Hart,Bowersville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,250
+Hart,Shoal Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,283
+Hart,Bio,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,237
+Hart,Hartwell,SPLOST,,,YES,2211
+Hart,Goldmine,SPLOST,,,YES,579
+Hart,Cokesbury,SPLOST,,,YES,348
+Hart,Reed Creek,SPLOST,,,YES,914
+Hart,Bowersville,SPLOST,,,YES,391
+Hart,Shoal Creek,SPLOST,,,YES,475
+Hart,Bio,SPLOST,,,YES,479
+Hart,Hartwell,SPLOST,,,NO,1384
+Hart,Goldmine,SPLOST,,,NO,364
+Hart,Cokesbury,SPLOST,,,NO,225
+Hart,Reed Creek,SPLOST,,,NO,796
+Hart,Bowersville,SPLOST,,,NO,324
+Hart,Shoal Creek,SPLOST,,,NO,376
+Hart,Bio,SPLOST,,,NO,273

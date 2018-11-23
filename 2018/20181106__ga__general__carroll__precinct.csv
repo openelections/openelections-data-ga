@@ -1,0 +1,1355 @@
+county,precinct,office,district,party,candidate,votes
+Carroll,KANSAS (1006),Governor,,REP,BRIAN KEMP,611
+Carroll,BOWDON (1111),Governor,,REP,BRIAN KEMP,1187
+Carroll,SANDHILL (1122),Governor,,REP,BRIAN KEMP,1592
+Carroll,CENTER POINT (1152),Governor,,REP,BRIAN KEMP,946
+Carroll,MT ZION (1240),Governor,,REP,BRIAN KEMP,1055
+Carroll,BURWELL (1371),Governor,,REP,BRIAN KEMP,667
+Carroll,CLEM (1483),Governor,,REP,BRIAN KEMP,1659
+Carroll,BOWDON JUNCTION (1496),Governor,,REP,BRIAN KEMP,525
+Carroll,TYUS (1533),Governor,,REP,BRIAN KEMP,920
+Carroll,FAIRFIELD (1540),Governor,,REP,BRIAN KEMP,1735
+Carroll,HULETT (1542),Governor,,REP,BRIAN KEMP,1159
+Carroll,BETHANY (501),Governor,,REP,BRIAN KEMP,1248
+Carroll,V R COUNTY SOUTH (640),Governor,,REP,BRIAN KEMP,1178
+Carroll,V R COUNTY NORTH (641),Governor,,REP,BRIAN KEMP,1754
+Carroll,VILLA RICA CITY (642),Governor,,REP,BRIAN KEMP,1495
+Carroll,TEMPLE COUNTY (649),Governor,,REP,BRIAN KEMP,1543
+Carroll,TEMPLE CITY (650),Governor,,REP,BRIAN KEMP,1080
+Carroll,WHITESBURG (682),Governor,,REP,BRIAN KEMP,977
+Carroll,ROOPVILLE (713),Governor,,REP,BRIAN KEMP,1521
+Carroll,WEST CARROLLTON (714A1),Governor,,REP,BRIAN KEMP,563
+Carroll,LAKESHORE REC (714A2),Governor,,REP,BRIAN KEMP,444
+Carroll,BONNER (714A3),Governor,,REP,BRIAN KEMP,1127
+Carroll,UNIVERSITY OF W. GA (714A4),Governor,,REP,BRIAN KEMP,640
+Carroll,COUNTY ADMIN BLDG (714A5),Governor,,REP,BRIAN KEMP,767
+Carroll,TABERNACLE CHURCH (714A6),Governor,,REP,BRIAN KEMP,557
+Carroll,BURSON (714BN),Governor,,REP,BRIAN KEMP,509
+Carroll,OLD CAMP CHURCH (714BW),Governor,,REP,BRIAN KEMP,1044
+Carroll,OAK GROVE (715),Governor,,REP,BRIAN KEMP,701
+Carroll,KANSAS (1006),Governor,,DEM,STACEY ABRAMS,35
+Carroll,BOWDON (1111),Governor,,DEM,STACEY ABRAMS,353
+Carroll,SANDHILL (1122),Governor,,DEM,STACEY ABRAMS,605
+Carroll,CENTER POINT (1152),Governor,,DEM,STACEY ABRAMS,103
+Carroll,MT ZION (1240),Governor,,DEM,STACEY ABRAMS,196
+Carroll,BURWELL (1371),Governor,,DEM,STACEY ABRAMS,143
+Carroll,CLEM (1483),Governor,,DEM,STACEY ABRAMS,461
+Carroll,BOWDON JUNCTION (1496),Governor,,DEM,STACEY ABRAMS,178
+Carroll,TYUS (1533),Governor,,DEM,STACEY ABRAMS,136
+Carroll,FAIRFIELD (1540),Governor,,DEM,STACEY ABRAMS,590
+Carroll,HULETT (1542),Governor,,DEM,STACEY ABRAMS,218
+Carroll,BETHANY (501),Governor,,DEM,STACEY ABRAMS,805
+Carroll,V R COUNTY SOUTH (640),Governor,,DEM,STACEY ABRAMS,288
+Carroll,V R COUNTY NORTH (641),Governor,,DEM,STACEY ABRAMS,748
+Carroll,VILLA RICA CITY (642),Governor,,DEM,STACEY ABRAMS,1512
+Carroll,TEMPLE COUNTY (649),Governor,,DEM,STACEY ABRAMS,368
+Carroll,TEMPLE CITY (650),Governor,,DEM,STACEY ABRAMS,535
+Carroll,WHITESBURG (682),Governor,,DEM,STACEY ABRAMS,147
+Carroll,ROOPVILLE (713),Governor,,DEM,STACEY ABRAMS,235
+Carroll,WEST CARROLLTON (714A1),Governor,,DEM,STACEY ABRAMS,1170
+Carroll,LAKESHORE REC (714A2),Governor,,DEM,STACEY ABRAMS,374
+Carroll,BONNER (714A3),Governor,,DEM,STACEY ABRAMS,759
+Carroll,UNIVERSITY OF W. GA (714A4),Governor,,DEM,STACEY ABRAMS,608
+Carroll,COUNTY ADMIN BLDG (714A5),Governor,,DEM,STACEY ABRAMS,557
+Carroll,TABERNACLE CHURCH (714A6),Governor,,DEM,STACEY ABRAMS,283
+Carroll,BURSON (714BN),Governor,,DEM,STACEY ABRAMS,269
+Carroll,OLD CAMP CHURCH (714BW),Governor,,DEM,STACEY ABRAMS,322
+Carroll,OAK GROVE (715),Governor,,DEM,STACEY ABRAMS,182
+Carroll,KANSAS (1006),Governor,,LIB,TED METZ,3
+Carroll,BOWDON (1111),Governor,,LIB,TED METZ,19
+Carroll,SANDHILL (1122),Governor,,LIB,TED METZ,30
+Carroll,CENTER POINT (1152),Governor,,LIB,TED METZ,6
+Carroll,MT ZION (1240),Governor,,LIB,TED METZ,17
+Carroll,BURWELL (1371),Governor,,LIB,TED METZ,7
+Carroll,CLEM (1483),Governor,,LIB,TED METZ,22
+Carroll,BOWDON JUNCTION (1496),Governor,,LIB,TED METZ,4
+Carroll,TYUS (1533),Governor,,LIB,TED METZ,11
+Carroll,FAIRFIELD (1540),Governor,,LIB,TED METZ,16
+Carroll,HULETT (1542),Governor,,LIB,TED METZ,11
+Carroll,BETHANY (501),Governor,,LIB,TED METZ,23
+Carroll,V R COUNTY SOUTH (640),Governor,,LIB,TED METZ,15
+Carroll,V R COUNTY NORTH (641),Governor,,LIB,TED METZ,31
+Carroll,VILLA RICA CITY (642),Governor,,LIB,TED METZ,31
+Carroll,TEMPLE COUNTY (649),Governor,,LIB,TED METZ,23
+Carroll,TEMPLE CITY (650),Governor,,LIB,TED METZ,23
+Carroll,WHITESBURG (682),Governor,,LIB,TED METZ,7
+Carroll,ROOPVILLE (713),Governor,,LIB,TED METZ,21
+Carroll,WEST CARROLLTON (714A1),Governor,,LIB,TED METZ,17
+Carroll,LAKESHORE REC (714A2),Governor,,LIB,TED METZ,8
+Carroll,BONNER (714A3),Governor,,LIB,TED METZ,28
+Carroll,UNIVERSITY OF W. GA (714A4),Governor,,LIB,TED METZ,5
+Carroll,COUNTY ADMIN BLDG (714A5),Governor,,LIB,TED METZ,30
+Carroll,TABERNACLE CHURCH (714A6),Governor,,LIB,TED METZ,22
+Carroll,BURSON (714BN),Governor,,LIB,TED METZ,7
+Carroll,OLD CAMP CHURCH (714BW),Governor,,LIB,TED METZ,15
+Carroll,OAK GROVE (715),Governor,,LIB,TED METZ,7
+Carroll,KANSAS (1006),Lieutenant Governor,,REP,GEOFF DUNCAN,590
+Carroll,BOWDON (1111),Lieutenant Governor,,REP,GEOFF DUNCAN,1145
+Carroll,SANDHILL (1122),Lieutenant Governor,,REP,GEOFF DUNCAN,1554
+Carroll,CENTER POINT (1152),Lieutenant Governor,,REP,GEOFF DUNCAN,921
+Carroll,MT ZION (1240),Lieutenant Governor,,REP,GEOFF DUNCAN,1028
+Carroll,BURWELL (1371),Lieutenant Governor,,REP,GEOFF DUNCAN,638
+Carroll,CLEM (1483),Lieutenant Governor,,REP,GEOFF DUNCAN,1621
+Carroll,BOWDON JUNCTION (1496),Lieutenant Governor,,REP,GEOFF DUNCAN,509
+Carroll,TYUS (1533),Lieutenant Governor,,REP,GEOFF DUNCAN,891
+Carroll,FAIRFIELD (1540),Lieutenant Governor,,REP,GEOFF DUNCAN,1705
+Carroll,HULETT (1542),Lieutenant Governor,,REP,GEOFF DUNCAN,1115
+Carroll,BETHANY (501),Lieutenant Governor,,REP,GEOFF DUNCAN,1230
+Carroll,V R COUNTY SOUTH (640),Lieutenant Governor,,REP,GEOFF DUNCAN,1155
+Carroll,V R COUNTY NORTH (641),Lieutenant Governor,,REP,GEOFF DUNCAN,1686
+Carroll,VILLA RICA CITY (642),Lieutenant Governor,,REP,GEOFF DUNCAN,1468
+Carroll,TEMPLE COUNTY (649),Lieutenant Governor,,REP,GEOFF DUNCAN,1487
+Carroll,TEMPLE CITY (650),Lieutenant Governor,,REP,GEOFF DUNCAN,1046
+Carroll,WHITESBURG (682),Lieutenant Governor,,REP,GEOFF DUNCAN,942
+Carroll,ROOPVILLE (713),Lieutenant Governor,,REP,GEOFF DUNCAN,1487
+Carroll,WEST CARROLLTON (714A1),Lieutenant Governor,,REP,GEOFF DUNCAN,553
+Carroll,LAKESHORE REC (714A2),Lieutenant Governor,,REP,GEOFF DUNCAN,445
+Carroll,BONNER (714A3),Lieutenant Governor,,REP,GEOFF DUNCAN,1128
+Carroll,UNIVERSITY OF W. GA (714A4),Lieutenant Governor,,REP,GEOFF DUNCAN,641
+Carroll,COUNTY ADMIN BLDG (714A5),Lieutenant Governor,,REP,GEOFF DUNCAN,765
+Carroll,TABERNACLE CHURCH (714A6),Lieutenant Governor,,REP,GEOFF DUNCAN,557
+Carroll,BURSON (714BN),Lieutenant Governor,,REP,GEOFF DUNCAN,499
+Carroll,OLD CAMP CHURCH (714BW),Lieutenant Governor,,REP,GEOFF DUNCAN,1025
+Carroll,OAK GROVE (715),Lieutenant Governor,,REP,GEOFF DUNCAN,696
+Carroll,KANSAS (1006),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,38
+Carroll,BOWDON (1111),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,344
+Carroll,SANDHILL (1122),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,591
+Carroll,CENTER POINT (1152),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,107
+Carroll,MT ZION (1240),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,203
+Carroll,BURWELL (1371),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,150
+Carroll,CLEM (1483),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,451
+Carroll,BOWDON JUNCTION (1496),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,167
+Carroll,TYUS (1533),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,138
+Carroll,FAIRFIELD (1540),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,568
+Carroll,HULETT (1542),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,222
+Carroll,BETHANY (501),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,762
+Carroll,V R COUNTY SOUTH (640),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,290
+Carroll,V R COUNTY NORTH (641),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,762
+Carroll,VILLA RICA CITY (642),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1420
+Carroll,TEMPLE COUNTY (649),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,372
+Carroll,TEMPLE CITY (650),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,507
+Carroll,WHITESBURG (682),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,146
+Carroll,ROOPVILLE (713),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,241
+Carroll,WEST CARROLLTON (714A1),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1086
+Carroll,LAKESHORE REC (714A2),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,352
+Carroll,BONNER (714A3),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,718
+Carroll,UNIVERSITY OF W. GA (714A4),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,577
+Carroll,COUNTY ADMIN BLDG (714A5),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,547
+Carroll,TABERNACLE CHURCH (714A6),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,272
+Carroll,BURSON (714BN),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,259
+Carroll,OLD CAMP CHURCH (714BW),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,311
+Carroll,OAK GROVE (715),Lieutenant Governor,,DEM,SARAH RIGGS AMICO,166
+Carroll,KANSAS (1006),Secretary Of State,,REP,BRAD RAFFENSPERGER,587
+Carroll,BOWDON (1111),Secretary Of State,,REP,BRAD RAFFENSPERGER,1141
+Carroll,SANDHILL (1122),Secretary Of State,,REP,BRAD RAFFENSPERGER,1535
+Carroll,CENTER POINT (1152),Secretary Of State,,REP,BRAD RAFFENSPERGER,932
+Carroll,MT ZION (1240),Secretary Of State,,REP,BRAD RAFFENSPERGER,1020
+Carroll,BURWELL (1371),Secretary Of State,,REP,BRAD RAFFENSPERGER,640
+Carroll,CLEM (1483),Secretary Of State,,REP,BRAD RAFFENSPERGER,1608
+Carroll,BOWDON JUNCTION (1496),Secretary Of State,,REP,BRAD RAFFENSPERGER,500
+Carroll,TYUS (1533),Secretary Of State,,REP,BRAD RAFFENSPERGER,893
+Carroll,FAIRFIELD (1540),Secretary Of State,,REP,BRAD RAFFENSPERGER,1700
+Carroll,HULETT (1542),Secretary Of State,,REP,BRAD RAFFENSPERGER,1117
+Carroll,BETHANY (501),Secretary Of State,,REP,BRAD RAFFENSPERGER,1204
+Carroll,V R COUNTY SOUTH (640),Secretary Of State,,REP,BRAD RAFFENSPERGER,1131
+Carroll,V R COUNTY NORTH (641),Secretary Of State,,REP,BRAD RAFFENSPERGER,1696
+Carroll,VILLA RICA CITY (642),Secretary Of State,,REP,BRAD RAFFENSPERGER,1452
+Carroll,TEMPLE COUNTY (649),Secretary Of State,,REP,BRAD RAFFENSPERGER,1503
+Carroll,TEMPLE CITY (650),Secretary Of State,,REP,BRAD RAFFENSPERGER,1032
+Carroll,WHITESBURG (682),Secretary Of State,,REP,BRAD RAFFENSPERGER,954
+Carroll,ROOPVILLE (713),Secretary Of State,,REP,BRAD RAFFENSPERGER,1482
+Carroll,WEST CARROLLTON (714A1),Secretary Of State,,REP,BRAD RAFFENSPERGER,540
+Carroll,LAKESHORE REC (714A2),Secretary Of State,,REP,BRAD RAFFENSPERGER,439
+Carroll,BONNER (714A3),Secretary Of State,,REP,BRAD RAFFENSPERGER,1104
+Carroll,UNIVERSITY OF W. GA (714A4),Secretary Of State,,REP,BRAD RAFFENSPERGER,627
+Carroll,COUNTY ADMIN BLDG (714A5),Secretary Of State,,REP,BRAD RAFFENSPERGER,732
+Carroll,TABERNACLE CHURCH (714A6),Secretary Of State,,REP,BRAD RAFFENSPERGER,539
+Carroll,BURSON (714BN),Secretary Of State,,REP,BRAD RAFFENSPERGER,497
+Carroll,OLD CAMP CHURCH (714BW),Secretary Of State,,REP,BRAD RAFFENSPERGER,1024
+Carroll,OAK GROVE (715),Secretary Of State,,REP,BRAD RAFFENSPERGER,682
+Carroll,KANSAS (1006),Secretary Of State,,DEM,JOHN BARROW,48
+Carroll,BOWDON (1111),Secretary Of State,,DEM,JOHN BARROW,359
+Carroll,SANDHILL (1122),Secretary Of State,,DEM,JOHN BARROW,613
+Carroll,CENTER POINT (1152),Secretary Of State,,DEM,JOHN BARROW,108
+Carroll,MT ZION (1240),Secretary Of State,,DEM,JOHN BARROW,213
+Carroll,BURWELL (1371),Secretary Of State,,DEM,JOHN BARROW,156
+Carroll,CLEM (1483),Secretary Of State,,DEM,JOHN BARROW,467
+Carroll,BOWDON JUNCTION (1496),Secretary Of State,,DEM,JOHN BARROW,173
+Carroll,TYUS (1533),Secretary Of State,,DEM,JOHN BARROW,145
+Carroll,FAIRFIELD (1540),Secretary Of State,,DEM,JOHN BARROW,587
+Carroll,HULETT (1542),Secretary Of State,,DEM,JOHN BARROW,222
+Carroll,BETHANY (501),Secretary Of State,,DEM,JOHN BARROW,792
+Carroll,V R COUNTY SOUTH (640),Secretary Of State,,DEM,JOHN BARROW,300
+Carroll,V R COUNTY NORTH (641),Secretary Of State,,DEM,JOHN BARROW,763
+Carroll,VILLA RICA CITY (642),Secretary Of State,,DEM,JOHN BARROW,1465
+Carroll,TEMPLE COUNTY (649),Secretary Of State,,DEM,JOHN BARROW,377
+Carroll,TEMPLE CITY (650),Secretary Of State,,DEM,JOHN BARROW,537
+Carroll,WHITESBURG (682),Secretary Of State,,DEM,JOHN BARROW,152
+Carroll,ROOPVILLE (713),Secretary Of State,,DEM,JOHN BARROW,246
+Carroll,WEST CARROLLTON (714A1),Secretary Of State,,DEM,JOHN BARROW,1125
+Carroll,LAKESHORE REC (714A2),Secretary Of State,,DEM,JOHN BARROW,366
+Carroll,BONNER (714A3),Secretary Of State,,DEM,JOHN BARROW,743
+Carroll,UNIVERSITY OF W. GA (714A4),Secretary Of State,,DEM,JOHN BARROW,584
+Carroll,COUNTY ADMIN BLDG (714A5),Secretary Of State,,DEM,JOHN BARROW,543
+Carroll,TABERNACLE CHURCH (714A6),Secretary Of State,,DEM,JOHN BARROW,284
+Carroll,BURSON (714BN),Secretary Of State,,DEM,JOHN BARROW,265
+Carroll,OLD CAMP CHURCH (714BW),Secretary Of State,,DEM,JOHN BARROW,310
+Carroll,OAK GROVE (715),Secretary Of State,,DEM,JOHN BARROW,185
+Carroll,KANSAS (1006),Secretary Of State,,LIB,SMYTHE DUVAL,5
+Carroll,BOWDON (1111),Secretary Of State,,LIB,SMYTHE DUVAL,27
+Carroll,SANDHILL (1122),Secretary Of State,,LIB,SMYTHE DUVAL,53
+Carroll,CENTER POINT (1152),Secretary Of State,,LIB,SMYTHE DUVAL,15
+Carroll,MT ZION (1240),Secretary Of State,,LIB,SMYTHE DUVAL,17
+Carroll,BURWELL (1371),Secretary Of State,,LIB,SMYTHE DUVAL,14
+Carroll,CLEM (1483),Secretary Of State,,LIB,SMYTHE DUVAL,41
+Carroll,BOWDON JUNCTION (1496),Secretary Of State,,LIB,SMYTHE DUVAL,17
+Carroll,TYUS (1533),Secretary Of State,,LIB,SMYTHE DUVAL,18
+Carroll,FAIRFIELD (1540),Secretary Of State,,LIB,SMYTHE DUVAL,35
+Carroll,HULETT (1542),Secretary Of State,,LIB,SMYTHE DUVAL,23
+Carroll,BETHANY (501),Secretary Of State,,LIB,SMYTHE DUVAL,52
+Carroll,V R COUNTY SOUTH (640),Secretary Of State,,LIB,SMYTHE DUVAL,29
+Carroll,V R COUNTY NORTH (641),Secretary Of State,,LIB,SMYTHE DUVAL,53
+Carroll,VILLA RICA CITY (642),Secretary Of State,,LIB,SMYTHE DUVAL,78
+Carroll,TEMPLE COUNTY (649),Secretary Of State,,LIB,SMYTHE DUVAL,34
+Carroll,TEMPLE CITY (650),Secretary Of State,,LIB,SMYTHE DUVAL,44
+Carroll,WHITESBURG (682),Secretary Of State,,LIB,SMYTHE DUVAL,11
+Carroll,ROOPVILLE (713),Secretary Of State,,LIB,SMYTHE DUVAL,34
+Carroll,WEST CARROLLTON (714A1),Secretary Of State,,LIB,SMYTHE DUVAL,49
+Carroll,LAKESHORE REC (714A2),Secretary Of State,,LIB,SMYTHE DUVAL,15
+Carroll,BONNER (714A3),Secretary Of State,,LIB,SMYTHE DUVAL,49
+Carroll,UNIVERSITY OF W. GA (714A4),Secretary Of State,,LIB,SMYTHE DUVAL,31
+Carroll,COUNTY ADMIN BLDG (714A5),Secretary Of State,,LIB,SMYTHE DUVAL,61
+Carroll,TABERNACLE CHURCH (714A6),Secretary Of State,,LIB,SMYTHE DUVAL,29
+Carroll,BURSON (714BN),Secretary Of State,,LIB,SMYTHE DUVAL,11
+Carroll,OLD CAMP CHURCH (714BW),Secretary Of State,,LIB,SMYTHE DUVAL,33
+Carroll,OAK GROVE (715),Secretary Of State,,LIB,SMYTHE DUVAL,14
+Carroll,KANSAS (1006),Attorney General,,(REP,CHRIS CARR ,585
+Carroll,BOWDON (1111),Attorney General,,(REP,CHRIS CARR ,1149
+Carroll,SANDHILL (1122),Attorney General,,(REP,CHRIS CARR ,1558
+Carroll,CENTER POINT (1152),Attorney General,,(REP,CHRIS CARR ,917
+Carroll,MT ZION (1240),Attorney General,,(REP,CHRIS CARR ,1027
+Carroll,BURWELL (1371),Attorney General,,(REP,CHRIS CARR ,638
+Carroll,CLEM (1483),Attorney General,,(REP,CHRIS CARR ,1640
+Carroll,BOWDON JUNCTION (1496),Attorney General,,(REP,CHRIS CARR ,514
+Carroll,TYUS (1533),Attorney General,,(REP,CHRIS CARR ,890
+Carroll,FAIRFIELD (1540),Attorney General,,(REP,CHRIS CARR ,1706
+Carroll,HULETT (1542),Attorney General,,(REP,CHRIS CARR ,1124
+Carroll,BETHANY (501),Attorney General,,(REP,CHRIS CARR ,1243
+Carroll,V R COUNTY SOUTH (640),Attorney General,,(REP,CHRIS CARR ,1158
+Carroll,V R COUNTY NORTH (641),Attorney General,,(REP,CHRIS CARR ,1714
+Carroll,VILLA RICA CITY (642),Attorney General,,(REP,CHRIS CARR ,1500
+Carroll,TEMPLE COUNTY (649),Attorney General,,(REP,CHRIS CARR ,1507
+Carroll,TEMPLE CITY (650),Attorney General,,(REP,CHRIS CARR ,1072
+Carroll,WHITESBURG (682),Attorney General,,(REP,CHRIS CARR ,946
+Carroll,ROOPVILLE (713),Attorney General,,(REP,CHRIS CARR ,1499
+Carroll,WEST CARROLLTON (714A1),Attorney General,,(REP,CHRIS CARR ,571
+Carroll,LAKESHORE REC (714A2),Attorney General,,(REP,CHRIS CARR ,458
+Carroll,BONNER (714A3),Attorney General,,(REP,CHRIS CARR ,1135
+Carroll,UNIVERSITY OF W. GA (714A4),Attorney General,,(REP,CHRIS CARR ,659
+Carroll,COUNTY ADMIN BLDG (714A5),Attorney General,,(REP,CHRIS CARR ,764
+Carroll,TABERNACLE CHURCH (714A6),Attorney General,,(REP,CHRIS CARR ,563
+Carroll,BURSON (714BN),Attorney General,,(REP,CHRIS CARR ,502
+Carroll,OLD CAMP CHURCH (714BW),Attorney General,,(REP,CHRIS CARR ,1051
+Carroll,OAK GROVE (715),Attorney General,,(REP,CHRIS CARR ,696
+Carroll,KANSAS (1006),Attorney General,,DEM,CHARLIE BAILEY,51
+Carroll,BOWDON (1111),Attorney General,,DEM,CHARLIE BAILEY,366
+Carroll,SANDHILL (1122),Attorney General,,DEM,CHARLIE BAILEY,628
+Carroll,CENTER POINT (1152),Attorney General,,DEM,CHARLIE BAILEY,128
+Carroll,MT ZION (1240),Attorney General,,DEM,CHARLIE BAILEY,217
+Carroll,BURWELL (1371),Attorney General,,DEM,CHARLIE BAILEY,165
+Carroll,CLEM (1483),Attorney General,,DEM,CHARLIE BAILEY,464
+Carroll,BOWDON JUNCTION (1496),Attorney General,,DEM,CHARLIE BAILEY,181
+Carroll,TYUS (1533),Attorney General,,DEM,CHARLIE BAILEY,152
+Carroll,FAIRFIELD (1540),Attorney General,,DEM,CHARLIE BAILEY,594
+Carroll,HULETT (1542),Attorney General,,DEM,CHARLIE BAILEY,230
+Carroll,BETHANY (501),Attorney General,,DEM,CHARLIE BAILEY,801
+Carroll,V R COUNTY SOUTH (640),Attorney General,,DEM,CHARLIE BAILEY,304
+Carroll,V R COUNTY NORTH (641),Attorney General,,DEM,CHARLIE BAILEY,783
+Carroll,VILLA RICA CITY (642),Attorney General,,DEM,CHARLIE BAILEY,1475
+Carroll,TEMPLE COUNTY (649),Attorney General,,DEM,CHARLIE BAILEY,400
+Carroll,TEMPLE CITY (650),Attorney General,,DEM,CHARLIE BAILEY,531
+Carroll,WHITESBURG (682),Attorney General,,DEM,CHARLIE BAILEY,166
+Carroll,ROOPVILLE (713),Attorney General,,DEM,CHARLIE BAILEY,252
+Carroll,WEST CARROLLTON (714A1),Attorney General,,DEM,CHARLIE BAILEY,1129
+Carroll,LAKESHORE REC (714A2),Attorney General,,DEM,CHARLIE BAILEY,355
+Carroll,BONNER (714A3),Attorney General,,DEM,CHARLIE BAILEY,748
+Carroll,UNIVERSITY OF W. GA (714A4),Attorney General,,DEM,CHARLIE BAILEY,578
+Carroll,COUNTY ADMIN BLDG (714A5),Attorney General,,DEM,CHARLIE BAILEY,564
+Carroll,TABERNACLE CHURCH (714A6),Attorney General,,DEM,CHARLIE BAILEY,285
+Carroll,BURSON (714BN),Attorney General,,DEM,CHARLIE BAILEY,269
+Carroll,OLD CAMP CHURCH (714BW),Attorney General,,DEM,CHARLIE BAILEY,303
+Carroll,OAK GROVE (715),Attorney General,,DEM,CHARLIE BAILEY,182
+Carroll,KANSAS (1006),Commissioner Of Agriculture,,(REP,GARY BLACK ,594
+Carroll,BOWDON (1111),Commissioner Of Agriculture,,(REP,GARY BLACK ,1199
+Carroll,SANDHILL (1122),Commissioner Of Agriculture,,(REP,GARY BLACK ,1583
+Carroll,CENTER POINT (1152),Commissioner Of Agriculture,,(REP,GARY BLACK ,946
+Carroll,MT ZION (1240),Commissioner Of Agriculture,,(REP,GARY BLACK ,1057
+Carroll,BURWELL (1371),Commissioner Of Agriculture,,(REP,GARY BLACK ,657
+Carroll,CLEM (1483),Commissioner Of Agriculture,,(REP,GARY BLACK ,1671
+Carroll,BOWDON JUNCTION (1496),Commissioner Of Agriculture,,(REP,GARY BLACK ,523
+Carroll,TYUS (1533),Commissioner Of Agriculture,,(REP,GARY BLACK ,913
+Carroll,FAIRFIELD (1540),Commissioner Of Agriculture,,(REP,GARY BLACK ,1730
+Carroll,HULETT (1542),Commissioner Of Agriculture,,(REP,GARY BLACK ,1143
+Carroll,BETHANY (501),Commissioner Of Agriculture,,(REP,GARY BLACK ,1271
+Carroll,V R COUNTY SOUTH (640),Commissioner Of Agriculture,,(REP,GARY BLACK ,1172
+Carroll,V R COUNTY NORTH (641),Commissioner Of Agriculture,,(REP,GARY BLACK ,1755
+Carroll,VILLA RICA CITY (642),Commissioner Of Agriculture,,(REP,GARY BLACK ,1535
+Carroll,TEMPLE COUNTY (649),Commissioner Of Agriculture,,(REP,GARY BLACK ,1524
+Carroll,TEMPLE CITY (650),Commissioner Of Agriculture,,(REP,GARY BLACK ,1090
+Carroll,WHITESBURG (682),Commissioner Of Agriculture,,(REP,GARY BLACK ,962
+Carroll,ROOPVILLE (713),Commissioner Of Agriculture,,(REP,GARY BLACK ,1530
+Carroll,WEST CARROLLTON (714A1),Commissioner Of Agriculture,,(REP,GARY BLACK ,595
+Carroll,LAKESHORE REC (714A2),Commissioner Of Agriculture,,(REP,GARY BLACK ,470
+Carroll,BONNER (714A3),Commissioner Of Agriculture,,(REP,GARY BLACK ,1175
+Carroll,UNIVERSITY OF W. GA (714A4),Commissioner Of Agriculture,,(REP,GARY BLACK ,679
+Carroll,COUNTY ADMIN BLDG (714A5),Commissioner Of Agriculture,,(REP,GARY BLACK ,794
+Carroll,TABERNACLE CHURCH (714A6),Commissioner Of Agriculture,,(REP,GARY BLACK ,573
+Carroll,BURSON (714BN),Commissioner Of Agriculture,,(REP,GARY BLACK ,517
+Carroll,OLD CAMP CHURCH (714BW),Commissioner Of Agriculture,,(REP,GARY BLACK ,1070
+Carroll,OAK GROVE (715),Commissioner Of Agriculture,,(REP,GARY BLACK ,719
+Carroll,KANSAS (1006),Commissioner Of Agriculture,,DEM,FRED SWANN,40
+Carroll,BOWDON (1111),Commissioner Of Agriculture,,DEM,FRED SWANN,326
+Carroll,SANDHILL (1122),Commissioner Of Agriculture,,DEM,FRED SWANN,599
+Carroll,CENTER POINT (1152),Commissioner Of Agriculture,,DEM,FRED SWANN,95
+Carroll,MT ZION (1240),Commissioner Of Agriculture,,DEM,FRED SWANN,179
+Carroll,BURWELL (1371),Commissioner Of Agriculture,,DEM,FRED SWANN,145
+Carroll,CLEM (1483),Commissioner Of Agriculture,,DEM,FRED SWANN,421
+Carroll,BOWDON JUNCTION (1496),Commissioner Of Agriculture,,DEM,FRED SWANN,170
+Carroll,TYUS (1533),Commissioner Of Agriculture,,DEM,FRED SWANN,130
+Carroll,FAIRFIELD (1540),Commissioner Of Agriculture,,DEM,FRED SWANN,565
+Carroll,HULETT (1542),Commissioner Of Agriculture,,DEM,FRED SWANN,208
+Carroll,BETHANY (501),Commissioner Of Agriculture,,DEM,FRED SWANN,770
+Carroll,V R COUNTY SOUTH (640),Commissioner Of Agriculture,,DEM,FRED SWANN,281
+Carroll,V R COUNTY NORTH (641),Commissioner Of Agriculture,,DEM,FRED SWANN,729
+Carroll,VILLA RICA CITY (642),Commissioner Of Agriculture,,DEM,FRED SWANN,1427
+Carroll,TEMPLE COUNTY (649),Commissioner Of Agriculture,,DEM,FRED SWANN,371
+Carroll,TEMPLE CITY (650),Commissioner Of Agriculture,,DEM,FRED SWANN,511
+Carroll,WHITESBURG (682),Commissioner Of Agriculture,,DEM,FRED SWANN,143
+Carroll,ROOPVILLE (713),Commissioner Of Agriculture,,DEM,FRED SWANN,213
+Carroll,WEST CARROLLTON (714A1),Commissioner Of Agriculture,,DEM,FRED SWANN,1095
+Carroll,LAKESHORE REC (714A2),Commissioner Of Agriculture,,DEM,FRED SWANN,339
+Carroll,BONNER (714A3),Commissioner Of Agriculture,,DEM,FRED SWANN,700
+Carroll,UNIVERSITY OF W. GA (714A4),Commissioner Of Agriculture,,DEM,FRED SWANN,545
+Carroll,COUNTY ADMIN BLDG (714A5),Commissioner Of Agriculture,,DEM,FRED SWANN,525
+Carroll,TABERNACLE CHURCH (714A6),Commissioner Of Agriculture,,DEM,FRED SWANN,271
+Carroll,BURSON (714BN),Commissioner Of Agriculture,,DEM,FRED SWANN,256
+Carroll,OLD CAMP CHURCH (714BW),Commissioner Of Agriculture,,DEM,FRED SWANN,279
+Carroll,OAK GROVE (715),Commissioner Of Agriculture,,DEM,FRED SWANN,158
+Carroll,KANSAS (1006),Commissioner Of Insurance,,REP,JIM BECK,587
+Carroll,BOWDON (1111),Commissioner Of Insurance,,REP,JIM BECK,1168
+Carroll,SANDHILL (1122),Commissioner Of Insurance,,REP,JIM BECK,1555
+Carroll,CENTER POINT (1152),Commissioner Of Insurance,,REP,JIM BECK,923
+Carroll,MT ZION (1240),Commissioner Of Insurance,,REP,JIM BECK,1041
+Carroll,BURWELL (1371),Commissioner Of Insurance,,REP,JIM BECK,645
+Carroll,CLEM (1483),Commissioner Of Insurance,,REP,JIM BECK,1642
+Carroll,BOWDON JUNCTION (1496),Commissioner Of Insurance,,REP,JIM BECK,519
+Carroll,TYUS (1533),Commissioner Of Insurance,,REP,JIM BECK,901
+Carroll,FAIRFIELD (1540),Commissioner Of Insurance,,REP,JIM BECK,1700
+Carroll,HULETT (1542),Commissioner Of Insurance,,REP,JIM BECK,1119
+Carroll,BETHANY (501),Commissioner Of Insurance,,REP,JIM BECK,1215
+Carroll,V R COUNTY SOUTH (640),Commissioner Of Insurance,,REP,JIM BECK,1151
+Carroll,V R COUNTY NORTH (641),Commissioner Of Insurance,,REP,JIM BECK,1719
+Carroll,VILLA RICA CITY (642),Commissioner Of Insurance,,REP,JIM BECK,1470
+Carroll,TEMPLE COUNTY (649),Commissioner Of Insurance,,REP,JIM BECK,1504
+Carroll,TEMPLE CITY (650),Commissioner Of Insurance,,REP,JIM BECK,1050
+Carroll,WHITESBURG (682),Commissioner Of Insurance,,REP,JIM BECK,943
+Carroll,ROOPVILLE (713),Commissioner Of Insurance,,REP,JIM BECK,1483
+Carroll,WEST CARROLLTON (714A1),Commissioner Of Insurance,,REP,JIM BECK,570
+Carroll,LAKESHORE REC (714A2),Commissioner Of Insurance,,REP,JIM BECK,445
+Carroll,BONNER (714A3),Commissioner Of Insurance,,REP,JIM BECK,1128
+Carroll,UNIVERSITY OF W. GA (714A4),Commissioner Of Insurance,,REP,JIM BECK,636
+Carroll,COUNTY ADMIN BLDG (714A5),Commissioner Of Insurance,,REP,JIM BECK,761
+Carroll,TABERNACLE CHURCH (714A6),Commissioner Of Insurance,,REP,JIM BECK,560
+Carroll,BURSON (714BN),Commissioner Of Insurance,,REP,JIM BECK,498
+Carroll,OLD CAMP CHURCH (714BW),Commissioner Of Insurance,,REP,JIM BECK,1027
+Carroll,OAK GROVE (715),Commissioner Of Insurance,,REP,JIM BECK,699
+Carroll,KANSAS (1006),Commissioner Of Insurance,,DEM,JANICE LAWS,44
+Carroll,BOWDON (1111),Commissioner Of Insurance,,DEM,JANICE LAWS,321
+Carroll,SANDHILL (1122),Commissioner Of Insurance,,DEM,JANICE LAWS,575
+Carroll,CENTER POINT (1152),Commissioner Of Insurance,,DEM,JANICE LAWS,97
+Carroll,MT ZION (1240),Commissioner Of Insurance,,DEM,JANICE LAWS,179
+Carroll,BURWELL (1371),Commissioner Of Insurance,,DEM,JANICE LAWS,141
+Carroll,CLEM (1483),Commissioner Of Insurance,,DEM,JANICE LAWS,424
+Carroll,BOWDON JUNCTION (1496),Commissioner Of Insurance,,DEM,JANICE LAWS,163
+Carroll,TYUS (1533),Commissioner Of Insurance,,DEM,JANICE LAWS,131
+Carroll,FAIRFIELD (1540),Commissioner Of Insurance,,DEM,JANICE LAWS,559
+Carroll,HULETT (1542),Commissioner Of Insurance,,DEM,JANICE LAWS,208
+Carroll,BETHANY (501),Commissioner Of Insurance,,DEM,JANICE LAWS,769
+Carroll,V R COUNTY SOUTH (640),Commissioner Of Insurance,,DEM,JANICE LAWS,267
+Carroll,V R COUNTY NORTH (641),Commissioner Of Insurance,,DEM,JANICE LAWS,726
+Carroll,VILLA RICA CITY (642),Commissioner Of Insurance,,DEM,JANICE LAWS,1420
+Carroll,TEMPLE COUNTY (649),Commissioner Of Insurance,,DEM,JANICE LAWS,356
+Carroll,TEMPLE CITY (650),Commissioner Of Insurance,,DEM,JANICE LAWS,507
+Carroll,WHITESBURG (682),Commissioner Of Insurance,,DEM,JANICE LAWS,150
+Carroll,ROOPVILLE (713),Commissioner Of Insurance,,DEM,JANICE LAWS,227
+Carroll,WEST CARROLLTON (714A1),Commissioner Of Insurance,,DEM,JANICE LAWS,1098
+Carroll,LAKESHORE REC (714A2),Commissioner Of Insurance,,DEM,JANICE LAWS,350
+Carroll,BONNER (714A3),Commissioner Of Insurance,,DEM,JANICE LAWS,692
+Carroll,UNIVERSITY OF W. GA (714A4),Commissioner Of Insurance,,DEM,JANICE LAWS,566
+Carroll,COUNTY ADMIN BLDG (714A5),Commissioner Of Insurance,,DEM,JANICE LAWS,515
+Carroll,TABERNACLE CHURCH (714A6),Commissioner Of Insurance,,DEM,JANICE LAWS,267
+Carroll,BURSON (714BN),Commissioner Of Insurance,,DEM,JANICE LAWS,256
+Carroll,OLD CAMP CHURCH (714BW),Commissioner Of Insurance,,DEM,JANICE LAWS,294
+Carroll,OAK GROVE (715),Commissioner Of Insurance,,DEM,JANICE LAWS,163
+Carroll,KANSAS (1006),Commissioner Of Insurance,,LIB,DONNIE FOSTER,10
+Carroll,BOWDON (1111),Commissioner Of Insurance,,LIB,DONNIE FOSTER,36
+Carroll,SANDHILL (1122),Commissioner Of Insurance,,LIB,DONNIE FOSTER,64
+Carroll,CENTER POINT (1152),Commissioner Of Insurance,,LIB,DONNIE FOSTER,24
+Carroll,MT ZION (1240),Commissioner Of Insurance,,LIB,DONNIE FOSTER,33
+Carroll,BURWELL (1371),Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Carroll,CLEM (1483),Commissioner Of Insurance,,LIB,DONNIE FOSTER,49
+Carroll,BOWDON JUNCTION (1496),Commissioner Of Insurance,,LIB,DONNIE FOSTER,14
+Carroll,TYUS (1533),Commissioner Of Insurance,,LIB,DONNIE FOSTER,17
+Carroll,FAIRFIELD (1540),Commissioner Of Insurance,,LIB,DONNIE FOSTER,52
+Carroll,HULETT (1542),Commissioner Of Insurance,,LIB,DONNIE FOSTER,32
+Carroll,BETHANY (501),Commissioner Of Insurance,,LIB,DONNIE FOSTER,64
+Carroll,V R COUNTY SOUTH (640),Commissioner Of Insurance,,LIB,DONNIE FOSTER,38
+Carroll,V R COUNTY NORTH (641),Commissioner Of Insurance,,LIB,DONNIE FOSTER,65
+Carroll,VILLA RICA CITY (642),Commissioner Of Insurance,,LIB,DONNIE FOSTER,93
+Carroll,TEMPLE COUNTY (649),Commissioner Of Insurance,,LIB,DONNIE FOSTER,58
+Carroll,TEMPLE CITY (650),Commissioner Of Insurance,,LIB,DONNIE FOSTER,52
+Carroll,WHITESBURG (682),Commissioner Of Insurance,,LIB,DONNIE FOSTER,23
+Carroll,ROOPVILLE (713),Commissioner Of Insurance,,LIB,DONNIE FOSTER,49
+Carroll,WEST CARROLLTON (714A1),Commissioner Of Insurance,,LIB,DONNIE FOSTER,46
+Carroll,LAKESHORE REC (714A2),Commissioner Of Insurance,,LIB,DONNIE FOSTER,20
+Carroll,BONNER (714A3),Commissioner Of Insurance,,LIB,DONNIE FOSTER,71
+Carroll,UNIVERSITY OF W. GA (714A4),Commissioner Of Insurance,,LIB,DONNIE FOSTER,31
+Carroll,COUNTY ADMIN BLDG (714A5),Commissioner Of Insurance,,LIB,DONNIE FOSTER,62
+Carroll,TABERNACLE CHURCH (714A6),Commissioner Of Insurance,,LIB,DONNIE FOSTER,24
+Carroll,BURSON (714BN),Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Carroll,OLD CAMP CHURCH (714BW),Commissioner Of Insurance,,LIB,DONNIE FOSTER,41
+Carroll,OAK GROVE (715),Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
+Carroll,KANSAS (1006),State School Superintendent,,(REP,RICHARD WOODS ,606
+Carroll,BOWDON (1111),State School Superintendent,,(REP,RICHARD WOODS ,1192
+Carroll,SANDHILL (1122),State School Superintendent,,(REP,RICHARD WOODS ,1596
+Carroll,CENTER POINT (1152),State School Superintendent,,(REP,RICHARD WOODS ,953
+Carroll,MT ZION (1240),State School Superintendent,,(REP,RICHARD WOODS ,1057
+Carroll,BURWELL (1371),State School Superintendent,,(REP,RICHARD WOODS ,659
+Carroll,CLEM (1483),State School Superintendent,,(REP,RICHARD WOODS ,1685
+Carroll,BOWDON JUNCTION (1496),State School Superintendent,,(REP,RICHARD WOODS ,523
+Carroll,TYUS (1533),State School Superintendent,,(REP,RICHARD WOODS ,918
+Carroll,FAIRFIELD (1540),State School Superintendent,,(REP,RICHARD WOODS ,1742
+Carroll,HULETT (1542),State School Superintendent,,(REP,RICHARD WOODS ,1146
+Carroll,BETHANY (501),State School Superintendent,,(REP,RICHARD WOODS ,1261
+Carroll,V R COUNTY SOUTH (640),State School Superintendent,,(REP,RICHARD WOODS ,1181
+Carroll,V R COUNTY NORTH (641),State School Superintendent,,(REP,RICHARD WOODS ,1757
+Carroll,VILLA RICA CITY (642),State School Superintendent,,(REP,RICHARD WOODS ,1546
+Carroll,TEMPLE COUNTY (649),State School Superintendent,,(REP,RICHARD WOODS ,1547
+Carroll,TEMPLE CITY (650),State School Superintendent,,(REP,RICHARD WOODS ,1078
+Carroll,WHITESBURG (682),State School Superintendent,,(REP,RICHARD WOODS ,964
+Carroll,ROOPVILLE (713),State School Superintendent,,(REP,RICHARD WOODS ,1522
+Carroll,WEST CARROLLTON (714A1),State School Superintendent,,(REP,RICHARD WOODS ,598
+Carroll,LAKESHORE REC (714A2),State School Superintendent,,(REP,RICHARD WOODS ,466
+Carroll,BONNER (714A3),State School Superintendent,,(REP,RICHARD WOODS ,1179
+Carroll,UNIVERSITY OF W. GA (714A4),State School Superintendent,,(REP,RICHARD WOODS ,674
+Carroll,COUNTY ADMIN BLDG (714A5),State School Superintendent,,(REP,RICHARD WOODS ,803
+Carroll,TABERNACLE CHURCH (714A6),State School Superintendent,,(REP,RICHARD WOODS ,574
+Carroll,BURSON (714BN),State School Superintendent,,(REP,RICHARD WOODS ,519
+Carroll,OLD CAMP CHURCH (714BW),State School Superintendent,,(REP,RICHARD WOODS ,1064
+Carroll,OAK GROVE (715),State School Superintendent,,(REP,RICHARD WOODS ,713
+Carroll,KANSAS (1006),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",32
+Carroll,BOWDON (1111),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",330
+Carroll,SANDHILL (1122),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",594
+Carroll,CENTER POINT (1152),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",95
+Carroll,MT ZION (1240),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",181
+Carroll,BURWELL (1371),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",143
+Carroll,CLEM (1483),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",428
+Carroll,BOWDON JUNCTION (1496),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",169
+Carroll,TYUS (1533),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",128
+Carroll,FAIRFIELD (1540),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",560
+Carroll,HULETT (1542),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",210
+Carroll,BETHANY (501),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",784
+Carroll,V R COUNTY SOUTH (640),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",279
+Carroll,V R COUNTY NORTH (641),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",740
+Carroll,VILLA RICA CITY (642),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1435
+Carroll,TEMPLE COUNTY (649),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",360
+Carroll,TEMPLE CITY (650),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",522
+Carroll,WHITESBURG (682),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",151
+Carroll,ROOPVILLE (713),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",224
+Carroll,WEST CARROLLTON (714A1),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1103
+Carroll,LAKESHORE REC (714A2),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",349
+Carroll,BONNER (714A3),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",705
+Carroll,UNIVERSITY OF W. GA (714A4),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",554
+Carroll,COUNTY ADMIN BLDG (714A5),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",523
+Carroll,TABERNACLE CHURCH (714A6),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",267
+Carroll,BURSON (714BN),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",257
+Carroll,OLD CAMP CHURCH (714BW),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",285
+Carroll,OAK GROVE (715),State School Superintendent,,DEM,"OTHA E. THORNTON, JR",161
+Carroll,KANSAS (1006),Commissioner Of Labor,,(REP,MARK BUTLER ,597
+Carroll,BOWDON (1111),Commissioner Of Labor,,(REP,MARK BUTLER ,1188
+Carroll,SANDHILL (1122),Commissioner Of Labor,,(REP,MARK BUTLER ,1591
+Carroll,CENTER POINT (1152),Commissioner Of Labor,,(REP,MARK BUTLER ,948
+Carroll,MT ZION (1240),Commissioner Of Labor,,(REP,MARK BUTLER ,1057
+Carroll,BURWELL (1371),Commissioner Of Labor,,(REP,MARK BUTLER ,659
+Carroll,CLEM (1483),Commissioner Of Labor,,(REP,MARK BUTLER ,1675
+Carroll,BOWDON JUNCTION (1496),Commissioner Of Labor,,(REP,MARK BUTLER ,517
+Carroll,TYUS (1533),Commissioner Of Labor,,(REP,MARK BUTLER ,909
+Carroll,FAIRFIELD (1540),Commissioner Of Labor,,(REP,MARK BUTLER ,1749
+Carroll,HULETT (1542),Commissioner Of Labor,,(REP,MARK BUTLER ,1138
+Carroll,BETHANY (501),Commissioner Of Labor,,(REP,MARK BUTLER ,1269
+Carroll,V R COUNTY SOUTH (640),Commissioner Of Labor,,(REP,MARK BUTLER ,1172
+Carroll,V R COUNTY NORTH (641),Commissioner Of Labor,,(REP,MARK BUTLER ,1750
+Carroll,VILLA RICA CITY (642),Commissioner Of Labor,,(REP,MARK BUTLER ,1544
+Carroll,TEMPLE COUNTY (649),Commissioner Of Labor,,(REP,MARK BUTLER ,1532
+Carroll,TEMPLE CITY (650),Commissioner Of Labor,,(REP,MARK BUTLER ,1085
+Carroll,WHITESBURG (682),Commissioner Of Labor,,(REP,MARK BUTLER ,967
+Carroll,ROOPVILLE (713),Commissioner Of Labor,,(REP,MARK BUTLER ,1528
+Carroll,WEST CARROLLTON (714A1),Commissioner Of Labor,,(REP,MARK BUTLER ,597
+Carroll,LAKESHORE REC (714A2),Commissioner Of Labor,,(REP,MARK BUTLER ,470
+Carroll,BONNER (714A3),Commissioner Of Labor,,(REP,MARK BUTLER ,1175
+Carroll,UNIVERSITY OF W. GA (714A4),Commissioner Of Labor,,(REP,MARK BUTLER ,675
+Carroll,COUNTY ADMIN BLDG (714A5),Commissioner Of Labor,,(REP,MARK BUTLER ,805
+Carroll,TABERNACLE CHURCH (714A6),Commissioner Of Labor,,(REP,MARK BUTLER ,591
+Carroll,BURSON (714BN),Commissioner Of Labor,,(REP,MARK BUTLER ,515
+Carroll,OLD CAMP CHURCH (714BW),Commissioner Of Labor,,(REP,MARK BUTLER ,1078
+Carroll,OAK GROVE (715),Commissioner Of Labor,,(REP,MARK BUTLER ,707
+Carroll,KANSAS (1006),Commissioner Of Labor,,DEM,RICHARD KEATLEY,42
+Carroll,BOWDON (1111),Commissioner Of Labor,,DEM,RICHARD KEATLEY,334
+Carroll,SANDHILL (1122),Commissioner Of Labor,,DEM,RICHARD KEATLEY,595
+Carroll,CENTER POINT (1152),Commissioner Of Labor,,DEM,RICHARD KEATLEY,101
+Carroll,MT ZION (1240),Commissioner Of Labor,,DEM,RICHARD KEATLEY,187
+Carroll,BURWELL (1371),Commissioner Of Labor,,DEM,RICHARD KEATLEY,141
+Carroll,CLEM (1483),Commissioner Of Labor,,DEM,RICHARD KEATLEY,436
+Carroll,BOWDON JUNCTION (1496),Commissioner Of Labor,,DEM,RICHARD KEATLEY,172
+Carroll,TYUS (1533),Commissioner Of Labor,,DEM,RICHARD KEATLEY,132
+Carroll,FAIRFIELD (1540),Commissioner Of Labor,,DEM,RICHARD KEATLEY,546
+Carroll,HULETT (1542),Commissioner Of Labor,,DEM,RICHARD KEATLEY,212
+Carroll,BETHANY (501),Commissioner Of Labor,,DEM,RICHARD KEATLEY,779
+Carroll,V R COUNTY SOUTH (640),Commissioner Of Labor,,DEM,RICHARD KEATLEY,284
+Carroll,V R COUNTY NORTH (641),Commissioner Of Labor,,DEM,RICHARD KEATLEY,744
+Carroll,VILLA RICA CITY (642),Commissioner Of Labor,,DEM,RICHARD KEATLEY,1429
+Carroll,TEMPLE COUNTY (649),Commissioner Of Labor,,DEM,RICHARD KEATLEY,372
+Carroll,TEMPLE CITY (650),Commissioner Of Labor,,DEM,RICHARD KEATLEY,519
+Carroll,WHITESBURG (682),Commissioner Of Labor,,DEM,RICHARD KEATLEY,148
+Carroll,ROOPVILLE (713),Commissioner Of Labor,,DEM,RICHARD KEATLEY,217
+Carroll,WEST CARROLLTON (714A1),Commissioner Of Labor,,DEM,RICHARD KEATLEY,1104
+Carroll,LAKESHORE REC (714A2),Commissioner Of Labor,,DEM,RICHARD KEATLEY,342
+Carroll,BONNER (714A3),Commissioner Of Labor,,DEM,RICHARD KEATLEY,699
+Carroll,UNIVERSITY OF W. GA (714A4),Commissioner Of Labor,,DEM,RICHARD KEATLEY,558
+Carroll,COUNTY ADMIN BLDG (714A5),Commissioner Of Labor,,DEM,RICHARD KEATLEY,527
+Carroll,TABERNACLE CHURCH (714A6),Commissioner Of Labor,,DEM,RICHARD KEATLEY,260
+Carroll,BURSON (714BN),Commissioner Of Labor,,DEM,RICHARD KEATLEY,258
+Carroll,OLD CAMP CHURCH (714BW),Commissioner Of Labor,,DEM,RICHARD KEATLEY,274
+Carroll,OAK GROVE (715),Commissioner Of Labor,,DEM,RICHARD KEATLEY,169
+Carroll,KANSAS (1006),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,581
+Carroll,BOWDON (1111),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1134
+Carroll,SANDHILL (1122),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1499
+Carroll,CENTER POINT (1152),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,921
+Carroll,MT ZION (1240),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1006
+Carroll,BURWELL (1371),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,631
+Carroll,CLEM (1483),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1594
+Carroll,BOWDON JUNCTION (1496),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,503
+Carroll,TYUS (1533),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,882
+Carroll,FAIRFIELD (1540),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1676
+Carroll,HULETT (1542),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1098
+Carroll,BETHANY (501),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1202
+Carroll,V R COUNTY SOUTH (640),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1127
+Carroll,V R COUNTY NORTH (641),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1686
+Carroll,VILLA RICA CITY (642),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1437
+Carroll,TEMPLE COUNTY (649),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1481
+Carroll,TEMPLE CITY (650),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1020
+Carroll,WHITESBURG (682),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,934
+Carroll,ROOPVILLE (713),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1475
+Carroll,WEST CARROLLTON (714A1),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,548
+Carroll,LAKESHORE REC (714A2),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,430
+Carroll,BONNER (714A3),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1090
+Carroll,UNIVERSITY OF W. GA (714A4),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,632
+Carroll,COUNTY ADMIN BLDG (714A5),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,739
+Carroll,TABERNACLE CHURCH (714A6),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,540
+Carroll,BURSON (714BN),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,501
+Carroll,OLD CAMP CHURCH (714BW),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1007
+Carroll,OAK GROVE (715),"Public Service Commission, District 3",3,(REP,CHUCK EATON ,681
+Carroll,KANSAS (1006),"Public Service Commission, District 3",3,DEM,LINDY MILLER,47
+Carroll,BOWDON (1111),"Public Service Commission, District 3",3,DEM,LINDY MILLER,351
+Carroll,SANDHILL (1122),"Public Service Commission, District 3",3,DEM,LINDY MILLER,613
+Carroll,CENTER POINT (1152),"Public Service Commission, District 3",3,DEM,LINDY MILLER,108
+Carroll,MT ZION (1240),"Public Service Commission, District 3",3,DEM,LINDY MILLER,207
+Carroll,BURWELL (1371),"Public Service Commission, District 3",3,DEM,LINDY MILLER,156
+Carroll,CLEM (1483),"Public Service Commission, District 3",3,DEM,LINDY MILLER,458
+Carroll,BOWDON JUNCTION (1496),"Public Service Commission, District 3",3,DEM,LINDY MILLER,173
+Carroll,TYUS (1533),"Public Service Commission, District 3",3,DEM,LINDY MILLER,146
+Carroll,FAIRFIELD (1540),"Public Service Commission, District 3",3,DEM,LINDY MILLER,581
+Carroll,HULETT (1542),"Public Service Commission, District 3",3,DEM,LINDY MILLER,225
+Carroll,BETHANY (501),"Public Service Commission, District 3",3,DEM,LINDY MILLER,790
+Carroll,V R COUNTY SOUTH (640),"Public Service Commission, District 3",3,DEM,LINDY MILLER,296
+Carroll,V R COUNTY NORTH (641),"Public Service Commission, District 3",3,DEM,LINDY MILLER,751
+Carroll,VILLA RICA CITY (642),"Public Service Commission, District 3",3,DEM,LINDY MILLER,1442
+Carroll,TEMPLE COUNTY (649),"Public Service Commission, District 3",3,DEM,LINDY MILLER,370
+Carroll,TEMPLE CITY (650),"Public Service Commission, District 3",3,DEM,LINDY MILLER,520
+Carroll,WHITESBURG (682),"Public Service Commission, District 3",3,DEM,LINDY MILLER,158
+Carroll,ROOPVILLE (713),"Public Service Commission, District 3",3,DEM,LINDY MILLER,235
+Carroll,WEST CARROLLTON (714A1),"Public Service Commission, District 3",3,DEM,LINDY MILLER,1110
+Carroll,LAKESHORE REC (714A2),"Public Service Commission, District 3",3,DEM,LINDY MILLER,356
+Carroll,BONNER (714A3),"Public Service Commission, District 3",3,DEM,LINDY MILLER,720
+Carroll,UNIVERSITY OF W. GA (714A4),"Public Service Commission, District 3",3,DEM,LINDY MILLER,560
+Carroll,COUNTY ADMIN BLDG (714A5),"Public Service Commission, District 3",3,DEM,LINDY MILLER,541
+Carroll,TABERNACLE CHURCH (714A6),"Public Service Commission, District 3",3,DEM,LINDY MILLER,281
+Carroll,BURSON (714BN),"Public Service Commission, District 3",3,DEM,LINDY MILLER,262
+Carroll,OLD CAMP CHURCH (714BW),"Public Service Commission, District 3",3,DEM,LINDY MILLER,311
+Carroll,OAK GROVE (715),"Public Service Commission, District 3",3,DEM,LINDY MILLER,172
+Carroll,KANSAS (1006),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,11
+Carroll,BOWDON (1111),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,35
+Carroll,SANDHILL (1122),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,73
+Carroll,CENTER POINT (1152),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,15
+Carroll,MT ZION (1240),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,28
+Carroll,BURWELL (1371),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,17
+Carroll,CLEM (1483),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,52
+Carroll,BOWDON JUNCTION (1496),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Carroll,TYUS (1533),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,19
+Carroll,FAIRFIELD (1540),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,47
+Carroll,HULETT (1542),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,36
+Carroll,BETHANY (501),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,57
+Carroll,V R COUNTY SOUTH (640),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,32
+Carroll,V R COUNTY NORTH (641),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,63
+Carroll,VILLA RICA CITY (642),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,92
+Carroll,TEMPLE COUNTY (649),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,56
+Carroll,TEMPLE CITY (650),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,61
+Carroll,WHITESBURG (682),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,22
+Carroll,ROOPVILLE (713),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,41
+Carroll,WEST CARROLLTON (714A1),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,47
+Carroll,LAKESHORE REC (714A2),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,26
+Carroll,BONNER (714A3),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,73
+Carroll,UNIVERSITY OF W. GA (714A4),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,38
+Carroll,COUNTY ADMIN BLDG (714A5),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,52
+Carroll,TABERNACLE CHURCH (714A6),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,28
+Carroll,BURSON (714BN),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,10
+Carroll,OLD CAMP CHURCH (714BW),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,38
+Carroll,OAK GROVE (715),"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,20
+Carroll,KANSAS (1006),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,586
+Carroll,BOWDON (1111),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1150
+Carroll,SANDHILL (1122),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1518
+Carroll,CENTER POINT (1152),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,926
+Carroll,MT ZION (1240),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1015
+Carroll,BURWELL (1371),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,628
+Carroll,CLEM (1483),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1623
+Carroll,BOWDON JUNCTION (1496),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,503
+Carroll,TYUS (1533),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,892
+Carroll,FAIRFIELD (1540),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1691
+Carroll,HULETT (1542),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1109
+Carroll,BETHANY (501),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1209
+Carroll,V R COUNTY SOUTH (640),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1138
+Carroll,V R COUNTY NORTH (641),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1704
+Carroll,VILLA RICA CITY (642),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1455
+Carroll,TEMPLE COUNTY (649),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1490
+Carroll,TEMPLE CITY (650),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1041
+Carroll,WHITESBURG (682),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,935
+Carroll,ROOPVILLE (713),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1481
+Carroll,WEST CARROLLTON (714A1),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,552
+Carroll,LAKESHORE REC (714A2),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,449
+Carroll,BONNER (714A3),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1107
+Carroll,UNIVERSITY OF W. GA (714A4),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,648
+Carroll,COUNTY ADMIN BLDG (714A5),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,733
+Carroll,TABERNACLE CHURCH (714A6),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,552
+Carroll,BURSON (714BN),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,497
+Carroll,OLD CAMP CHURCH (714BW),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1018
+Carroll,OAK GROVE (715),"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,690
+Carroll,KANSAS (1006),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,37
+Carroll,BOWDON (1111),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,337
+Carroll,SANDHILL (1122),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,590
+Carroll,CENTER POINT (1152),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,100
+Carroll,MT ZION (1240),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,189
+Carroll,BURWELL (1371),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,146
+Carroll,CLEM (1483),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,435
+Carroll,BOWDON JUNCTION (1496),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,172
+Carroll,TYUS (1533),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,130
+Carroll,FAIRFIELD (1540),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,565
+Carroll,HULETT (1542),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,217
+Carroll,BETHANY (501),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,779
+Carroll,V R COUNTY SOUTH (640),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,275
+Carroll,V R COUNTY NORTH (641),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,737
+Carroll,VILLA RICA CITY (642),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1436
+Carroll,TEMPLE COUNTY (649),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,364
+Carroll,TEMPLE CITY (650),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,508
+Carroll,WHITESBURG (682),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,151
+Carroll,ROOPVILLE (713),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,225
+Carroll,WEST CARROLLTON (714A1),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1113
+Carroll,LAKESHORE REC (714A2),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,340
+Carroll,BONNER (714A3),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,707
+Carroll,UNIVERSITY OF W. GA (714A4),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,550
+Carroll,COUNTY ADMIN BLDG (714A5),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,543
+Carroll,TABERNACLE CHURCH (714A6),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,268
+Carroll,BURSON (714BN),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,258
+Carroll,OLD CAMP CHURCH (714BW),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,292
+Carroll,OAK GROVE (715),"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,169
+Carroll,KANSAS (1006),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Carroll,BOWDON (1111),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,35
+Carroll,SANDHILL (1122),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,80
+Carroll,CENTER POINT (1152),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21
+Carroll,MT ZION (1240),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,36
+Carroll,BURWELL (1371),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
+Carroll,CLEM (1483),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,55
+Carroll,BOWDON JUNCTION (1496),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,18
+Carroll,TYUS (1533),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Carroll,FAIRFIELD (1540),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,45
+Carroll,HULETT (1542),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,35
+Carroll,BETHANY (501),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,59
+Carroll,V R COUNTY SOUTH (640),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,37
+Carroll,V R COUNTY NORTH (641),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,56
+Carroll,VILLA RICA CITY (642),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,84
+Carroll,TEMPLE COUNTY (649),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,52
+Carroll,TEMPLE CITY (650),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,59
+Carroll,WHITESBURG (682),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34
+Carroll,ROOPVILLE (713),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,45
+Carroll,WEST CARROLLTON (714A1),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,36
+Carroll,LAKESHORE REC (714A2),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,23
+Carroll,BONNER (714A3),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,69
+Carroll,UNIVERSITY OF W. GA (714A4),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34
+Carroll,COUNTY ADMIN BLDG (714A5),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,56
+Carroll,TABERNACLE CHURCH (714A6),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,27
+Carroll,BURSON (714BN),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21
+Carroll,OLD CAMP CHURCH (714BW),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,42
+Carroll,OAK GROVE (715),"Public Service Commission, District 5",5,LIB,JOHN TURPISH,18
+Carroll,KANSAS (1006),U.S. Representative,3,(REP,DREW FERGUSON ,597
+Carroll,BOWDON (1111),U.S. Representative,3,(REP,DREW FERGUSON ,1180
+Carroll,SANDHILL (1122),U.S. Representative,3,(REP,DREW FERGUSON ,1579
+Carroll,CENTER POINT (1152),U.S. Representative,3,(REP,DREW FERGUSON ,944
+Carroll,MT ZION (1240),U.S. Representative,3,(REP,DREW FERGUSON ,1056
+Carroll,BURWELL (1371),U.S. Representative,3,(REP,DREW FERGUSON ,658
+Carroll,CLEM (1483),U.S. Representative,3,(REP,DREW FERGUSON ,1658
+Carroll,BOWDON JUNCTION (1496),U.S. Representative,3,(REP,DREW FERGUSON ,523
+Carroll,TYUS (1533),U.S. Representative,3,(REP,DREW FERGUSON ,915
+Carroll,FAIRFIELD (1540),U.S. Representative,3,(REP,DREW FERGUSON ,1735
+Carroll,HULETT (1542),U.S. Representative,3,(REP,DREW FERGUSON ,1144
+Carroll,BETHANY (501),U.S. Representative,3,(REP,DREW FERGUSON ,1257
+Carroll,V R COUNTY SOUTH (640),U.S. Representative,3,(REP,DREW FERGUSON ,1177
+Carroll,V R COUNTY NORTH (641),U.S. Representative,3,(REP,DREW FERGUSON ,1737
+Carroll,VILLA RICA CITY (642),U.S. Representative,3,(REP,DREW FERGUSON ,1521
+Carroll,TEMPLE COUNTY (649),U.S. Representative,3,(REP,DREW FERGUSON ,1531
+Carroll,TEMPLE CITY (650),U.S. Representative,3,(REP,DREW FERGUSON ,1074
+Carroll,WHITESBURG (682),U.S. Representative,3,(REP,DREW FERGUSON ,957
+Carroll,ROOPVILLE (713),U.S. Representative,3,(REP,DREW FERGUSON ,1520
+Carroll,WEST CARROLLTON (714A1),U.S. Representative,3,(REP,DREW FERGUSON ,581
+Carroll,LAKESHORE REC (714A2),U.S. Representative,3,(REP,DREW FERGUSON ,463
+Carroll,BONNER (714A3),U.S. Representative,3,(REP,DREW FERGUSON ,1158
+Carroll,UNIVERSITY OF W. GA (714A4),U.S. Representative,3,(REP,DREW FERGUSON ,663
+Carroll,COUNTY ADMIN BLDG (714A5),U.S. Representative,3,(REP,DREW FERGUSON ,781
+Carroll,TABERNACLE CHURCH (714A6),U.S. Representative,3,(REP,DREW FERGUSON ,565
+Carroll,BURSON (714BN),U.S. Representative,3,(REP,DREW FERGUSON ,514
+Carroll,OLD CAMP CHURCH (714BW),U.S. Representative,3,(REP,DREW FERGUSON ,1053
+Carroll,OAK GROVE (715),U.S. Representative,3,(REP,DREW FERGUSON ,701
+Carroll,KANSAS (1006),U.S. Representative,3,DEM,CHUCK ENDERLIN,41
+Carroll,BOWDON (1111),U.S. Representative,3,DEM,CHUCK ENDERLIN,353
+Carroll,SANDHILL (1122),U.S. Representative,3,DEM,CHUCK ENDERLIN,611
+Carroll,CENTER POINT (1152),U.S. Representative,3,DEM,CHUCK ENDERLIN,105
+Carroll,MT ZION (1240),U.S. Representative,3,DEM,CHUCK ENDERLIN,188
+Carroll,BURWELL (1371),U.S. Representative,3,DEM,CHUCK ENDERLIN,145
+Carroll,CLEM (1483),U.S. Representative,3,DEM,CHUCK ENDERLIN,448
+Carroll,BOWDON JUNCTION (1496),U.S. Representative,3,DEM,CHUCK ENDERLIN,171
+Carroll,TYUS (1533),U.S. Representative,3,DEM,CHUCK ENDERLIN,137
+Carroll,FAIRFIELD (1540),U.S. Representative,3,DEM,CHUCK ENDERLIN,577
+Carroll,HULETT (1542),U.S. Representative,3,DEM,CHUCK ENDERLIN,222
+Carroll,BETHANY (501),U.S. Representative,3,DEM,CHUCK ENDERLIN,796
+Carroll,V R COUNTY SOUTH (640),U.S. Representative,3,DEM,CHUCK ENDERLIN,280
+Carroll,V R COUNTY NORTH (641),U.S. Representative,3,DEM,CHUCK ENDERLIN,757
+Carroll,VILLA RICA CITY (642),U.S. Representative,3,DEM,CHUCK ENDERLIN,1452
+Carroll,TEMPLE COUNTY (649),U.S. Representative,3,DEM,CHUCK ENDERLIN,380
+Carroll,TEMPLE CITY (650),U.S. Representative,3,DEM,CHUCK ENDERLIN,526
+Carroll,WHITESBURG (682),U.S. Representative,3,DEM,CHUCK ENDERLIN,157
+Carroll,ROOPVILLE (713),U.S. Representative,3,DEM,CHUCK ENDERLIN,226
+Carroll,WEST CARROLLTON (714A1),U.S. Representative,3,DEM,CHUCK ENDERLIN,1130
+Carroll,LAKESHORE REC (714A2),U.S. Representative,3,DEM,CHUCK ENDERLIN,355
+Carroll,BONNER (714A3),U.S. Representative,3,DEM,CHUCK ENDERLIN,736
+Carroll,UNIVERSITY OF W. GA (714A4),U.S. Representative,3,DEM,CHUCK ENDERLIN,570
+Carroll,COUNTY ADMIN BLDG (714A5),U.S. Representative,3,DEM,CHUCK ENDERLIN,554
+Carroll,TABERNACLE CHURCH (714A6),U.S. Representative,3,DEM,CHUCK ENDERLIN,281
+Carroll,BURSON (714BN),U.S. Representative,3,DEM,CHUCK ENDERLIN,259
+Carroll,OLD CAMP CHURCH (714BW),U.S. Representative,3,DEM,CHUCK ENDERLIN,300
+Carroll,OAK GROVE (715),U.S. Representative,3,DEM,CHUCK ENDERLIN,174
+Carroll,FAIRFIELD (1540),State Senator,28,(REP,MATT BRASS ,1912
+Carroll,HULETT (1542),State Senator,28,(REP,MATT BRASS ,1218
+Carroll,WHITESBURG (682),State Senator,28,(REP,MATT BRASS ,1027
+Carroll,ROOPVILLE (713),State Senator,28,(REP,MATT BRASS ,768
+Carroll,KANSAS (1006),State Senator,30,(REP,MICHAEL DUGAN ,616
+Carroll,BOWDON (1111),State Senator,30,(REP,MICHAEL DUGAN ,1326
+Carroll,SANDHILL (1122),State Senator,30,(REP,MICHAEL DUGAN ,1837
+Carroll,CENTER POINT (1152),State Senator,30,(REP,MICHAEL DUGAN ,994
+Carroll,MT ZION (1240),State Senator,30,(REP,MICHAEL DUGAN ,1134
+Carroll,BURWELL (1371),State Senator,30,(REP,MICHAEL DUGAN ,722
+Carroll,CLEM (1483),State Senator,30,(REP,MICHAEL DUGAN ,1857
+Carroll,BOWDON JUNCTION (1496),State Senator,30,(REP,MICHAEL DUGAN ,594
+Carroll,TYUS (1533),State Senator,30,(REP,MICHAEL DUGAN ,961
+Carroll,BETHANY (501),State Senator,30,(REP,MICHAEL DUGAN ,1615
+Carroll,V R COUNTY SOUTH (640),State Senator,30,(REP,MICHAEL DUGAN ,1293
+Carroll,V R COUNTY NORTH (641),State Senator,30,(REP,MICHAEL DUGAN ,2040
+Carroll,VILLA RICA CITY (642),State Senator,30,(REP,MICHAEL DUGAN ,2070
+Carroll,TEMPLE COUNTY (649),State Senator,30,(REP,MICHAEL DUGAN ,1661
+Carroll,TEMPLE CITY (650),State Senator,30,(REP,MICHAEL DUGAN ,1286
+Carroll,ROOPVILLE (713),State Senator,30,(REP,MICHAEL DUGAN ,844
+Carroll,WEST CARROLLTON (714A1),State Senator,30,(REP,MICHAEL DUGAN ,1039
+Carroll,LAKESHORE REC (714A2),State Senator,30,(REP,MICHAEL DUGAN ,627
+Carroll,BONNER (714A3),State Senator,30,(REP,MICHAEL DUGAN ,1472
+Carroll,UNIVERSITY OF W. GA (714A4),State Senator,30,(REP,MICHAEL DUGAN ,942
+Carroll,COUNTY ADMIN BLDG (714A5),State Senator,30,(REP,MICHAEL DUGAN ,1025
+Carroll,TABERNACLE CHURCH (714A6),State Senator,30,(REP,MICHAEL DUGAN ,684
+Carroll,BURSON (714BN),State Senator,30,(REP,MICHAEL DUGAN ,631
+Carroll,OLD CAMP CHURCH (714BW),State Senator,30,(REP,MICHAEL DUGAN ,1198
+Carroll,OAK GROVE (715),State Senator,30,(REP,MICHAEL DUGAN ,778
+Carroll,KANSAS (1006),State Representative,18,(REP,KEVIN COOKE ,603
+Carroll,MT ZION (1240),State Representative,18,(REP,KEVIN COOKE ,1042
+Carroll,CLEM (1483),State Representative,18,(REP,KEVIN COOKE ,77
+Carroll,BOWDON JUNCTION (1496),State Representative,18,(REP,KEVIN COOKE ,517
+Carroll,BETHANY (501),State Representative,18,(REP,KEVIN COOKE ,326
+Carroll,WEST CARROLLTON (714A1),State Representative,18,(REP,KEVIN COOKE ,592
+Carroll,LAKESHORE REC (714A2),State Representative,18,(REP,KEVIN COOKE ,465
+Carroll,BONNER (714A3),State Representative,18,(REP,KEVIN COOKE ,1167
+Carroll,COUNTY ADMIN BLDG (714A5),State Representative,18,(REP,KEVIN COOKE ,793
+Carroll,BURSON (714BN),State Representative,18,(REP,KEVIN COOKE ,518
+Carroll,KANSAS (1006),State Representative,18,DEM,PAT RHUDY,38
+Carroll,MT ZION (1240),State Representative,18,DEM,PAT RHUDY,189
+Carroll,CLEM (1483),State Representative,18,DEM,PAT RHUDY,32
+Carroll,BOWDON JUNCTION (1496),State Representative,18,DEM,PAT RHUDY,174
+Carroll,BETHANY (501),State Representative,18,DEM,PAT RHUDY,233
+Carroll,WEST CARROLLTON (714A1),State Representative,18,DEM,PAT RHUDY,1109
+Carroll,LAKESHORE REC (714A2),State Representative,18,DEM,PAT RHUDY,344
+Carroll,BONNER (714A3),State Representative,18,DEM,PAT RHUDY,714
+Carroll,COUNTY ADMIN BLDG (714A5),State Representative,18,DEM,PAT RHUDY,533
+Carroll,BURSON (714BN),State Representative,18,DEM,PAT RHUDY,256
+Carroll,SANDHILL (1122),State Representative,68,(REP,J. COLLINS ,1829
+Carroll,CENTER POINT (1152),State Representative,68,(REP,J. COLLINS ,982
+Carroll,FAIRFIELD (1540),State Representative,68,(REP,J. COLLINS ,1910
+Carroll,HULETT (1542),State Representative,68,(REP,J. COLLINS ,1231
+Carroll,BETHANY (501),State Representative,68,(REP,J. COLLINS ,1189
+Carroll,V R COUNTY SOUTH (640),State Representative,68,(REP,J. COLLINS ,1307
+Carroll,V R COUNTY NORTH (641),State Representative,68,(REP,J. COLLINS ,2077
+Carroll,VILLA RICA CITY (642),State Representative,68,(REP,J. COLLINS ,2124
+Carroll,TEMPLE COUNTY (649),State Representative,68,(REP,J. COLLINS ,1667
+Carroll,TEMPLE CITY (650),State Representative,68,(REP,J. COLLINS ,1294
+Carroll,BOWDON (1111),State Representative,69,(REP,RANDY NIX ,1316
+Carroll,BURWELL (1371),State Representative,69,(REP,RANDY NIX ,717
+Carroll,CLEM (1483),State Representative,69,(REP,RANDY NIX ,1746
+Carroll,TYUS (1533),State Representative,69,(REP,RANDY NIX ,952
+Carroll,ROOPVILLE (713),State Representative,69,(REP,RANDY NIX ,1607
+Carroll,UNIVERSITY OF W. GA (714A4),State Representative,69,(REP,RANDY NIX ,942
+Carroll,TABERNACLE CHURCH (714A6),State Representative,69,(REP,RANDY NIX ,670
+Carroll,OLD CAMP CHURCH (714BW),State Representative,69,(REP,RANDY NIX ,1175
+Carroll,OAK GROVE (715),State Representative,69,(REP,RANDY NIX ,774
+Carroll,WHITESBURG (682),State Representative,70,(REP,LYNN SMITH ,1025
+Carroll,KANSAS (1006),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,601
+Carroll,BOWDON (1111),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1305
+Carroll,SANDHILL (1122),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1819
+Carroll,CENTER POINT (1152),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,984
+Carroll,MT ZION (1240),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1128
+Carroll,BURWELL (1371),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,709
+Carroll,CLEM (1483),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1827
+Carroll,BOWDON JUNCTION (1496),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,592
+Carroll,TYUS (1533),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,953
+Carroll,FAIRFIELD (1540),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1908
+Carroll,HULETT (1542),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1217
+Carroll,BETHANY (501),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1596
+Carroll,V R COUNTY SOUTH (640),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1273
+Carroll,V R COUNTY NORTH (641),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,2028
+Carroll,VILLA RICA CITY (642),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,2059
+Carroll,TEMPLE COUNTY (649),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1651
+Carroll,TEMPLE CITY (650),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1278
+Carroll,WHITESBURG (682),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1017
+Carroll,ROOPVILLE (713),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1602
+Carroll,WEST CARROLLTON (714A1),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1044
+Carroll,LAKESHORE REC (714A2),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,626
+Carroll,BONNER (714A3),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1457
+Carroll,UNIVERSITY OF W. GA (714A4),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,945
+Carroll,COUNTY ADMIN BLDG (714A5),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1015
+Carroll,TABERNACLE CHURCH (714A6),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,665
+Carroll,BURSON (714BN),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,623
+Carroll,OLD CAMP CHURCH (714BW),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1179
+Carroll,OAK GROVE (715),District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,771
+Carroll,SANDHILL (1122),CC, DIST 2,R,C. M. CHANCE,96
+Carroll,FAIRFIELD (1540),CC, DIST 2,R,C. M. CHANCE,1904
+Carroll,V R COUNTY SOUTH (640),CC, DIST 2,R,C. M. CHANCE,520
+Carroll,V R COUNTY NORTH (641),CC, DIST 2,R,C. M. CHANCE,1338
+Carroll,VILLA RICA CITY (642),CC, DIST 2,R,C. M. CHANCE,2062
+Carroll,CLEM (1483),CC, DIST 4,R,M. MORGAN ,1064
+Carroll,BETHANY (501),CC, DIST 4,R,M. MORGAN ,88
+Carroll,ROOPVILLE (713),CC, DIST 4,R,M. MORGAN ,87
+Carroll,BONNER (714A3),CC, DIST 4,R,M. MORGAN ,851
+Carroll,UNIVERSITY OF W. GA (714A4),CC, DIST 4,R,M. MORGAN ,672
+Carroll,COUNTY ADMIN BLDG (714A5),CC, DIST 4,R,M. MORGAN ,1022
+Carroll,TABERNACLE CHURCH (714A6),CC, DIST 4,R,M. MORGAN ,687
+Carroll,OLD CAMP CHURCH (714BW),CC, DIST 4,R,M. MORGAN ,882
+Carroll,OAK GROVE (715),CC, DIST 4,R,M. MORGAN ,766
+Carroll,KANSAS (1006),CC, DIST 6,R,G. A. CHAMBERS ,602
+Carroll,BOWDON (1111),CC, DIST 6,R,G. A. CHAMBERS ,1303
+Carroll,CENTER POINT (1152),CC, DIST 6,R,G. A. CHAMBERS ,310
+Carroll,MT ZION (1240),CC, DIST 6,R,G. A. CHAMBERS ,1114
+Carroll,BURWELL (1371),CC, DIST 6,R,G. A. CHAMBERS ,710
+Carroll,BOWDON JUNCTION (1496),CC, DIST 6,R,G. A. CHAMBERS ,579
+Carroll,TYUS (1533),CC, DIST 6,R,G. A. CHAMBERS ,951
+Carroll,WEST CARROLLTON (714A1),CC, DIST 6,R,G. A. CHAMBERS ,302
+Carroll,BURSON (714BN),CC, DIST 6,R,G. A. CHAMBERS ,48
+Carroll,KANSAS (1006),SOIL AND WATER,,,C. E. BRACK ,586
+Carroll,BOWDON (1111),SOIL AND WATER,,,C. E. BRACK ,1307
+Carroll,SANDHILL (1122),SOIL AND WATER,,,C. E. BRACK ,1823
+Carroll,CENTER POINT (1152),SOIL AND WATER,,,C. E. BRACK ,951
+Carroll,MT ZION (1240),SOIL AND WATER,,,C. E. BRACK ,1128
+Carroll,BURWELL (1371),SOIL AND WATER,,,C. E. BRACK ,701
+Carroll,CLEM (1483),SOIL AND WATER,,,C. E. BRACK ,1843
+Carroll,BOWDON JUNCTION (1496),SOIL AND WATER,,,C. E. BRACK ,611
+Carroll,TYUS (1533),SOIL AND WATER,,,C. E. BRACK ,949
+Carroll,FAIRFIELD (1540),SOIL AND WATER,,,C. E. BRACK ,1871
+Carroll,HULETT (1542),SOIL AND WATER,,,C. E. BRACK ,1187
+Carroll,BETHANY (501),SOIL AND WATER,,,C. E. BRACK ,1647
+Carroll,V R COUNTY SOUTH (640),SOIL AND WATER,,,C. E. BRACK ,1256
+Carroll,V R COUNTY NORTH (641),SOIL AND WATER,,,C. E. BRACK ,2008
+Carroll,VILLA RICA CITY (642),SOIL AND WATER,,,C. E. BRACK ,2127
+Carroll,TEMPLE COUNTY (649),SOIL AND WATER,,,C. E. BRACK ,1596
+Carroll,TEMPLE CITY (650),SOIL AND WATER,,,C. E. BRACK ,1257
+Carroll,WHITESBURG (682),SOIL AND WATER,,,C. E. BRACK ,987
+Carroll,ROOPVILLE (713),SOIL AND WATER,,,C. E. BRACK ,1594
+Carroll,WEST CARROLLTON (714A1),SOIL AND WATER,,,C. E. BRACK ,1164
+Carroll,LAKESHORE REC (714A2),SOIL AND WATER,,,C. E. BRACK ,660
+Carroll,BONNER (714A3),SOIL AND WATER,,,C. E. BRACK ,1547
+Carroll,UNIVERSITY OF W. GA (714A4),SOIL AND WATER,,,C. E. BRACK ,993
+Carroll,COUNTY ADMIN BLDG (714A5),SOIL AND WATER,,,C. E. BRACK ,1097
+Carroll,TABERNACLE CHURCH (714A6),SOIL AND WATER,,,C. E. BRACK ,697
+Carroll,BURSON (714BN),SOIL AND WATER,,,C. E. BRACK ,644
+Carroll,OLD CAMP CHURCH (714BW),SOIL AND WATER,,,C. E. BRACK ,1200
+Carroll,OAK GROVE (715),SOIL AND WATER,,,C. E. BRACK ,779
+Carroll,KANSAS (1006),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,459
+Carroll,BOWDON (1111),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1216
+Carroll,SANDHILL (1122),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1744
+Carroll,CENTER POINT (1152),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,771
+Carroll,MT ZION (1240),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,974
+Carroll,BURWELL (1371),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,635
+Carroll,CLEM (1483),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1627
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,529
+Carroll,TYUS (1533),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,776
+Carroll,FAIRFIELD (1540),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1855
+Carroll,HULETT (1542),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1059
+Carroll,BETHANY (501),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1633
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1119
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2025
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2435
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1530
+Carroll,TEMPLE CITY (650),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1309
+Carroll,WHITESBURG (682),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,804
+Carroll,ROOPVILLE (713),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1310
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1465
+Carroll,LAKESHORE REC (714A2),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,642
+Carroll,BONNER (714A3),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1525
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1067
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1123
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,660
+Carroll,BURSON (714BN),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,600
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1081
+Carroll,OAK GROVE (715),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,671
+Carroll,KANSAS (1006),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,159
+Carroll,BOWDON (1111),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,281
+Carroll,SANDHILL (1122),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,422
+Carroll,CENTER POINT (1152),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,265
+Carroll,MT ZION (1240),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,249
+Carroll,BURWELL (1371),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,162
+Carroll,CLEM (1483),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,462
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,156
+Carroll,TYUS (1533),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,252
+Carroll,FAIRFIELD (1540),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,438
+Carroll,HULETT (1542),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,290
+Carroll,BETHANY (501),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,398
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,321
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,451
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,507
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,353
+Carroll,TEMPLE CITY (650),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,282
+Carroll,WHITESBURG (682),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,298
+Carroll,ROOPVILLE (713),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,421
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,207
+Carroll,LAKESHORE REC (714A2),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,158
+Carroll,BONNER (714A3),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,346
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,159
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,204
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,163
+Carroll,BURSON (714BN),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,156
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,268
+Carroll,OAK GROVE (715),Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,188
+Carroll,KANSAS (1006),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,357
+Carroll,BOWDON (1111),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,977
+Carroll,SANDHILL (1122),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1416
+Carroll,CENTER POINT (1152),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,624
+Carroll,MT ZION (1240),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,776
+Carroll,BURWELL (1371),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,506
+Carroll,CLEM (1483),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1323
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,450
+Carroll,TYUS (1533),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,628
+Carroll,FAIRFIELD (1540),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1518
+Carroll,HULETT (1542),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,820
+Carroll,BETHANY (501),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1337
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,935
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1668
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2035
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1267
+Carroll,TEMPLE CITY (650),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1083
+Carroll,WHITESBURG (682),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,652
+Carroll,ROOPVILLE (713),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1039
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1252
+Carroll,LAKESHORE REC (714A2),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,516
+Carroll,BONNER (714A3),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1252
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,886
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,858
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,553
+Carroll,BURSON (714BN),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,507
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,875
+Carroll,OAK GROVE (715),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,542
+Carroll,KANSAS (1006),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,233
+Carroll,BOWDON (1111),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,479
+Carroll,SANDHILL (1122),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,693
+Carroll,CENTER POINT (1152),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,380
+Carroll,MT ZION (1240),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,409
+Carroll,BURWELL (1371),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,269
+Carroll,CLEM (1483),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,724
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,216
+Carroll,TYUS (1533),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,373
+Carroll,FAIRFIELD (1540),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,710
+Carroll,HULETT (1542),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,492
+Carroll,BETHANY (501),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,647
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,482
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,756
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,835
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,567
+Carroll,TEMPLE CITY (650),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,469
+Carroll,WHITESBURG (682),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,437
+Carroll,ROOPVILLE (713),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,636
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,381
+Carroll,LAKESHORE REC (714A2),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,268
+Carroll,BONNER (714A3),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,562
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,311
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,425
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,251
+Carroll,BURSON (714BN),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,233
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,438
+Carroll,OAK GROVE (715),Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,291
+Carroll,KANSAS (1006),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,300
+Carroll,BOWDON (1111),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,863
+Carroll,SANDHILL (1122),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1195
+Carroll,CENTER POINT (1152),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,558
+Carroll,MT ZION (1240),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,710
+Carroll,BURWELL (1371),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,451
+Carroll,CLEM (1483),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1140
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,363
+Carroll,TYUS (1533),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,545
+Carroll,FAIRFIELD (1540),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1280
+Carroll,HULETT (1542),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,710
+Carroll,BETHANY (501),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1124
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,761
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1423
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1651
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1061
+Carroll,TEMPLE CITY (650),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,887
+Carroll,WHITESBURG (682),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,546
+Carroll,ROOPVILLE (713),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,918
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1070
+Carroll,LAKESHORE REC (714A2),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,464
+Carroll,BONNER (714A3),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1057
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,773
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,789
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,511
+Carroll,BURSON (714BN),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,413
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,747
+Carroll,OAK GROVE (715),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,461
+Carroll,KANSAS (1006),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,289
+Carroll,BOWDON (1111),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,553
+Carroll,SANDHILL (1122),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,887
+Carroll,CENTER POINT (1152),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,435
+Carroll,MT ZION (1240),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,474
+Carroll,BURWELL (1371),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,321
+Carroll,CLEM (1483),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,877
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,293
+Carroll,TYUS (1533),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,442
+Carroll,FAIRFIELD (1540),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,903
+Carroll,HULETT (1542),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,592
+Carroll,BETHANY (501),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,821
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,619
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,951
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1157
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,749
+Carroll,TEMPLE CITY (650),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,640
+Carroll,WHITESBURG (682),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,518
+Carroll,ROOPVILLE (713),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,741
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,528
+Carroll,LAKESHORE REC (714A2),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,302
+Carroll,BONNER (714A3),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,723
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,397
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,477
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,282
+Carroll,BURSON (714BN),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,312
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,542
+Carroll,OAK GROVE (715),Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,366
+Carroll,KANSAS (1006),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,450
+Carroll,BOWDON (1111),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1157
+Carroll,SANDHILL (1122),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1750
+Carroll,CENTER POINT (1152),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,755
+Carroll,MT ZION (1240),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,925
+Carroll,BURWELL (1371),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,623
+Carroll,CLEM (1483),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1614
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,526
+Carroll,TYUS (1533),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,753
+Carroll,FAIRFIELD (1540),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1797
+Carroll,HULETT (1542),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1008
+Carroll,BETHANY (501),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1601
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1104
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1973
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2431
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1524
+Carroll,TEMPLE CITY (650),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1271
+Carroll,WHITESBURG (682),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,808
+Carroll,ROOPVILLE (713),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1262
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1474
+Carroll,LAKESHORE REC (714A2),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,660
+Carroll,BONNER (714A3),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1452
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,999
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1042
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,665
+Carroll,BURSON (714BN),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,596
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1043
+Carroll,OAK GROVE (715),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,640
+Carroll,KANSAS (1006),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,171
+Carroll,BOWDON (1111),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,335
+Carroll,SANDHILL (1122),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,422
+Carroll,CENTER POINT (1152),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,269
+Carroll,MT ZION (1240),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,301
+Carroll,BURWELL (1371),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,167
+Carroll,CLEM (1483),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,465
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,156
+Carroll,TYUS (1533),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,280
+Carroll,FAIRFIELD (1540),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,489
+Carroll,HULETT (1542),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,343
+Carroll,BETHANY (501),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,426
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,342
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,497
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,500
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,361
+Carroll,TEMPLE CITY (650),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,321
+Carroll,WHITESBURG (682),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,306
+Carroll,ROOPVILLE (713),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,456
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,212
+Carroll,LAKESHORE REC (714A2),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,135
+Carroll,BONNER (714A3),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,398
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,213
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,261
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,171
+Carroll,BURSON (714BN),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,164
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,306
+Carroll,OAK GROVE (715),Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,211
+Carroll,KANSAS (1006),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,357
+Carroll,BOWDON (1111),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,973
+Carroll,SANDHILL (1122),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1378
+Carroll,CENTER POINT (1152),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,601
+Carroll,MT ZION (1240),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,781
+Carroll,BURWELL (1371),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,492
+Carroll,CLEM (1483),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1272
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,438
+Carroll,TYUS (1533),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,621
+Carroll,FAIRFIELD (1540),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1507
+Carroll,HULETT (1542),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,784
+Carroll,BETHANY (501),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1323
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,909
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1654
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2055
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1227
+Carroll,TEMPLE CITY (650),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1074
+Carroll,WHITESBURG (682),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,620
+Carroll,ROOPVILLE (713),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1008
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1244
+Carroll,LAKESHORE REC (714A2),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,534
+Carroll,BONNER (714A3),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1260
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,910
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,902
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,560
+Carroll,BURSON (714BN),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,494
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,886
+Carroll,OAK GROVE (715),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,522
+Carroll,KANSAS (1006),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,238
+Carroll,BOWDON (1111),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,470
+Carroll,SANDHILL (1122),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,736
+Carroll,CENTER POINT (1152),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,398
+Carroll,MT ZION (1240),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,427
+Carroll,BURWELL (1371),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,281
+Carroll,CLEM (1483),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,766
+Carroll,BOWDON JUNCTION (1496),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,227
+Carroll,TYUS (1533),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,374
+Carroll,FAIRFIELD (1540),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,726
+Carroll,HULETT (1542),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,526
+Carroll,BETHANY (501),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,661
+Carroll,V R COUNTY SOUTH (640),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,501
+Carroll,V R COUNTY NORTH (641),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,746
+Carroll,VILLA RICA CITY (642),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,805
+Carroll,TEMPLE COUNTY (649),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,603
+Carroll,TEMPLE CITY (650),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,472
+Carroll,WHITESBURG (682),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,457
+Carroll,ROOPVILLE (713),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,667
+Carroll,WEST CARROLLTON (714A1),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,390
+Carroll,LAKESHORE REC (714A2),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,244
+Carroll,BONNER (714A3),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,556
+Carroll,UNIVERSITY OF W. GA (714A4),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,282
+Carroll,COUNTY ADMIN BLDG (714A5),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,380
+Carroll,TABERNACLE CHURCH (714A6),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,256
+Carroll,BURSON (714BN),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,242
+Carroll,OLD CAMP CHURCH (714BW),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,424
+Carroll,OAK GROVE (715),Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,312
+Carroll,KANSAS (1006),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,272
+Carroll,BOWDON (1111),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,761
+Carroll,SANDHILL (1122),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1030
+Carroll,CENTER POINT (1152),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,470
+Carroll,MT ZION (1240),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,645
+Carroll,BURWELL (1371),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,395
+Carroll,CLEM (1483),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,938
+Carroll,BOWDON JUNCTION (1496),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,346
+Carroll,TYUS (1533),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,480
+Carroll,FAIRFIELD (1540),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1132
+Carroll,HULETT (1542),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,560
+Carroll,BETHANY (501),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1030
+Carroll,V R COUNTY SOUTH (640),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,660
+Carroll,V R COUNTY NORTH (641),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1230
+Carroll,VILLA RICA CITY (642),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1595
+Carroll,TEMPLE COUNTY (649),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,928
+Carroll,TEMPLE CITY (650),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,865
+Carroll,WHITESBURG (682),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,451
+Carroll,ROOPVILLE (713),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,792
+Carroll,WEST CARROLLTON (714A1),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,957
+Carroll,LAKESHORE REC (714A2),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,405
+Carroll,BONNER (714A3),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,927
+Carroll,UNIVERSITY OF W. GA (714A4),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,656
+Carroll,COUNTY ADMIN BLDG (714A5),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,663
+Carroll,TABERNACLE CHURCH (714A6),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,427
+Carroll,BURSON (714BN),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,379
+Carroll,OLD CAMP CHURCH (714BW),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,670
+Carroll,OAK GROVE (715),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,408
+Carroll,KANSAS (1006),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,307
+Carroll,BOWDON (1111),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,665
+Carroll,SANDHILL (1122),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1039
+Carroll,CENTER POINT (1152),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,500
+Carroll,MT ZION (1240),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,530
+Carroll,BURWELL (1371),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,364
+Carroll,CLEM (1483),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1053
+Carroll,BOWDON JUNCTION (1496),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,310
+Carroll,TYUS (1533),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,501
+Carroll,FAIRFIELD (1540),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1038
+Carroll,HULETT (1542),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,723
+Carroll,BETHANY (501),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,914
+Carroll,V R COUNTY SOUTH (640),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,715
+Carroll,V R COUNTY NORTH (641),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1140
+Carroll,VILLA RICA CITY (642),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1214
+Carroll,TEMPLE COUNTY (649),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,876
+Carroll,TEMPLE CITY (650),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,661
+Carroll,WHITESBURG (682),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,606
+Carroll,ROOPVILLE (713),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,852
+Carroll,WEST CARROLLTON (714A1),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,623
+Carroll,LAKESHORE REC (714A2),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,356
+Carroll,BONNER (714A3),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,818
+Carroll,UNIVERSITY OF W. GA (714A4),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,492
+Carroll,COUNTY ADMIN BLDG (714A5),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,563
+Carroll,TABERNACLE CHURCH (714A6),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,351
+Carroll,BURSON (714BN),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,341
+Carroll,OLD CAMP CHURCH (714BW),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,616
+Carroll,OAK GROVE (715),Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,398
+Carroll,KANSAS (1006),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,358
+Carroll,BOWDON (1111),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1049
+Carroll,SANDHILL (1122),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1515
+Carroll,CENTER POINT (1152),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,655
+Carroll,MT ZION (1240),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,847
+Carroll,BURWELL (1371),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,540
+Carroll,CLEM (1483),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1434
+Carroll,BOWDON JUNCTION (1496),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,482
+Carroll,TYUS (1533),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,684
+Carroll,FAIRFIELD (1540),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1587
+Carroll,HULETT (1542),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,875
+Carroll,BETHANY (501),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1454
+Carroll,V R COUNTY SOUTH (640),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,929
+Carroll,V R COUNTY NORTH (641),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1805
+Carroll,VILLA RICA CITY (642),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2216
+Carroll,TEMPLE COUNTY (649),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1334
+Carroll,TEMPLE CITY (650),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1172
+Carroll,WHITESBURG (682),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,694
+Carroll,ROOPVILLE (713),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1137
+Carroll,WEST CARROLLTON (714A1),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1329
+Carroll,LAKESHORE REC (714A2),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,578
+Carroll,BONNER (714A3),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1392
+Carroll,UNIVERSITY OF W. GA (714A4),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,956
+Carroll,COUNTY ADMIN BLDG (714A5),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,964
+Carroll,TABERNACLE CHURCH (714A6),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,615
+Carroll,BURSON (714BN),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,527
+Carroll,OLD CAMP CHURCH (714BW),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,954
+Carroll,OAK GROVE (715),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,547
+Carroll,KANSAS (1006),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,226
+Carroll,BOWDON (1111),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,406
+Carroll,SANDHILL (1122),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,606
+Carroll,CENTER POINT (1152),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,346
+Carroll,MT ZION (1240),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,345
+Carroll,BURWELL (1371),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,237
+Carroll,CLEM (1483),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,614
+Carroll,BOWDON JUNCTION (1496),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,185
+Carroll,TYUS (1533),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,315
+Carroll,FAIRFIELD (1540),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,630
+Carroll,HULETT (1542),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,450
+Carroll,BETHANY (501),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,540
+Carroll,V R COUNTY SOUTH (640),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,476
+Carroll,V R COUNTY NORTH (641),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,617
+Carroll,VILLA RICA CITY (642),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,651
+Carroll,TEMPLE COUNTY (649),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,512
+Carroll,TEMPLE CITY (650),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,389
+Carroll,WHITESBURG (682),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,383
+Carroll,ROOPVILLE (713),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,540
+Carroll,WEST CARROLLTON (714A1),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,302
+Carroll,LAKESHORE REC (714A2),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,202
+Carroll,BONNER (714A3),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,422
+Carroll,UNIVERSITY OF W. GA (714A4),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,230
+Carroll,COUNTY ADMIN BLDG (714A5),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,303
+Carroll,TABERNACLE CHURCH (714A6),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,196
+Carroll,BURSON (714BN),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,205
+Carroll,OLD CAMP CHURCH (714BW),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,360
+Carroll,OAK GROVE (715),Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,286
+Carroll,KANSAS (1006),TSPLOST,,,YES,189
+Carroll,BOWDON (1111),TSPLOST,,,YES,612
+Carroll,SANDHILL (1122),TSPLOST,,,YES,819
+Carroll,CENTER POINT (1152),TSPLOST,,,YES,369
+Carroll,MT ZION (1240),TSPLOST,,,YES,488
+Carroll,BURWELL (1371),TSPLOST,,,YES,299
+Carroll,CLEM (1483),TSPLOST,,,YES,703
+Carroll,BOWDON JUNCTION (1496),TSPLOST,,,YES,251
+Carroll,TYUS (1533),TSPLOST,,,YES,408
+Carroll,FAIRFIELD (1540),TSPLOST,,,YES,839
+Carroll,HULETT (1542),TSPLOST,,,YES,418
+Carroll,BETHANY (501),TSPLOST,,,YES,831
+Carroll,V R COUNTY SOUTH (640),TSPLOST,,,YES,469
+Carroll,V R COUNTY NORTH (641),TSPLOST,,,YES,971
+Carroll,VILLA RICA CITY (642),TSPLOST,,,YES,1252
+Carroll,TEMPLE COUNTY (649),TSPLOST,,,YES,675
+Carroll,TEMPLE CITY (650),TSPLOST,,,YES,685
+Carroll,WHITESBURG (682),TSPLOST,,,YES,349
+Carroll,ROOPVILLE (713),TSPLOST,,,YES,612
+Carroll,WEST CARROLLTON (714A1),TSPLOST,,,YES,891
+Carroll,LAKESHORE REC (714A2),TSPLOST,,,YES,378
+Carroll,BONNER (714A3),TSPLOST,,,YES,865
+Carroll,UNIVERSITY OF W. GA (714A4),TSPLOST,,,YES,649
+Carroll,COUNTY ADMIN BLDG (714A5),TSPLOST,,,YES,639
+Carroll,TABERNACLE CHURCH (714A6),TSPLOST,,,YES,381
+Carroll,BURSON (714BN),TSPLOST,,,YES,310
+Carroll,OLD CAMP CHURCH (714BW),TSPLOST,,,YES,586
+Carroll,OAK GROVE (715),TSPLOST,,,YES,317
+Carroll,KANSAS (1006),TSPLOST,,,NO,404
+Carroll,BOWDON (1111),TSPLOST,,,NO,838
+Carroll,SANDHILL (1122),TSPLOST,,,NO,1310
+Carroll,CENTER POINT (1152),TSPLOST,,,NO,639
+Carroll,MT ZION (1240),TSPLOST,,,NO,709
+Carroll,BURWELL (1371),TSPLOST,,,NO,471
+Carroll,CLEM (1483),TSPLOST,,,NO,1360
+Carroll,BOWDON JUNCTION (1496),TSPLOST,,,NO,415
+Carroll,TYUS (1533),TSPLOST,,,NO,601
+Carroll,FAIRFIELD (1540),TSPLOST,,,NO,1404
+Carroll,HULETT (1542),TSPLOST,,,NO,911
+Carroll,BETHANY (501),TSPLOST,,,NO,1167
+Carroll,V R COUNTY SOUTH (640),TSPLOST,,,NO,956
+Carroll,V R COUNTY NORTH (641),TSPLOST,,,NO,1456
+Carroll,VILLA RICA CITY (642),TSPLOST,,,NO,1611
+Carroll,TEMPLE COUNTY (649),TSPLOST,,,NO,1173
+Carroll,TEMPLE CITY (650),TSPLOST,,,NO,875
+Carroll,WHITESBURG (682),TSPLOST,,,NO,733
+Carroll,ROOPVILLE (713),TSPLOST,,,NO,1080
+Carroll,WEST CARROLLTON (714A1),TSPLOST,,,NO,730
+Carroll,LAKESHORE REC (714A2),TSPLOST,,,NO,414
+Carroll,BONNER (714A3),TSPLOST,,,NO,947
+Carroll,UNIVERSITY OF W. GA (714A4),TSPLOST,,,NO,545
+Carroll,COUNTY ADMIN BLDG (714A5),TSPLOST,,,NO,642
+Carroll,TABERNACLE CHURCH (714A6),TSPLOST,,,NO,434
+Carroll,BURSON (714BN),TSPLOST,,,NO,434
+Carroll,OLD CAMP CHURCH (714BW),TSPLOST,,,NO,739
+Carroll,OAK GROVE (715),TSPLOST,,,NO,526
+Carroll,VILLA RICA CITY (642),VILLA RICA,,,YES,1823
+Carroll,VILLA RICA CITY (642),VILLA RICA,,,NO,1124

@@ -1,0 +1,744 @@
+county,precinct,office,district,party,candidate,votes
+Monroe,BENTONS,Governor,,REP,BRIAN KEMP,1315
+Monroe,BRANTLEYS,Governor,,REP,BRIAN KEMP,676
+Monroe,BURGAYS,Governor,,REP,BRIAN KEMP,1381
+Monroe,CABANISS,Governor,,REP,BRIAN KEMP,338
+Monroe,COX,Governor,,REP,BRIAN KEMP,384
+Monroe,CULLODEN,Governor,,REP,BRIAN KEMP,187
+Monroe,DILLARDS,Governor,,REP,BRIAN KEMP,475
+Monroe,EVERS,Governor,,REP,BRIAN KEMP,981
+Monroe,FORSYTH,Governor,,REP,BRIAN KEMP,1066
+Monroe,HIGH FALLS,Governor,,REP,BRIAN KEMP,818
+Monroe,KELSEYS,Governor,,REP,BRIAN KEMP,242
+Monroe,MIDDLEBROOKS,Governor,,REP,BRIAN KEMP,720
+Monroe,PROCTORS,Governor,,REP,BRIAN KEMP,480
+Monroe,RUSSELLVILLE,Governor,,REP,BRIAN KEMP,245
+Monroe,BENTONS,Governor,,DEM,STACEY ABRAMS,304
+Monroe,BRANTLEYS,Governor,,DEM,STACEY ABRAMS,93
+Monroe,BURGAYS,Governor,,DEM,STACEY ABRAMS,286
+Monroe,CABANISS,Governor,,DEM,STACEY ABRAMS,124
+Monroe,COX,Governor,,DEM,STACEY ABRAMS,95
+Monroe,CULLODEN,Governor,,DEM,STACEY ABRAMS,105
+Monroe,DILLARDS,Governor,,DEM,STACEY ABRAMS,109
+Monroe,EVERS,Governor,,DEM,STACEY ABRAMS,226
+Monroe,FORSYTH,Governor,,DEM,STACEY ABRAMS,1487
+Monroe,HIGH FALLS,Governor,,DEM,STACEY ABRAMS,152
+Monroe,KELSEYS,Governor,,DEM,STACEY ABRAMS,214
+Monroe,MIDDLEBROOKS,Governor,,DEM,STACEY ABRAMS,131
+Monroe,PROCTORS,Governor,,DEM,STACEY ABRAMS,137
+Monroe,RUSSELLVILLE,Governor,,DEM,STACEY ABRAMS,53
+Monroe,BENTONS,Governor,,LIB,TED METZ,20
+Monroe,BRANTLEYS,Governor,,LIB,TED METZ,10
+Monroe,BURGAYS,Governor,,LIB,TED METZ,9
+Monroe,CABANISS,Governor,,LIB,TED METZ,9
+Monroe,COX,Governor,,LIB,TED METZ,2
+Monroe,CULLODEN,Governor,,LIB,TED METZ,5
+Monroe,DILLARDS,Governor,,LIB,TED METZ,5
+Monroe,EVERS,Governor,,LIB,TED METZ,8
+Monroe,FORSYTH,Governor,,LIB,TED METZ,15
+Monroe,HIGH FALLS,Governor,,LIB,TED METZ,10
+Monroe,KELSEYS,Governor,,LIB,TED METZ,4
+Monroe,MIDDLEBROOKS,Governor,,LIB,TED METZ,11
+Monroe,PROCTORS,Governor,,LIB,TED METZ,6
+Monroe,RUSSELLVILLE,Governor,,LIB,TED METZ,0
+Monroe,BENTONS,Lieutenant Governor,,REP,GEOFF DUNCAN,1273
+Monroe,BRANTLEYS,Lieutenant Governor,,REP,GEOFF DUNCAN,666
+Monroe,BURGAYS,Lieutenant Governor,,REP,GEOFF DUNCAN,1343
+Monroe,CABANISS,Lieutenant Governor,,REP,GEOFF DUNCAN,323
+Monroe,COX,Lieutenant Governor,,REP,GEOFF DUNCAN,377
+Monroe,CULLODEN,Lieutenant Governor,,REP,GEOFF DUNCAN,184
+Monroe,DILLARDS,Lieutenant Governor,,REP,GEOFF DUNCAN,450
+Monroe,EVERS,Lieutenant Governor,,REP,GEOFF DUNCAN,932
+Monroe,FORSYTH,Lieutenant Governor,,REP,GEOFF DUNCAN,1053
+Monroe,HIGH FALLS,Lieutenant Governor,,REP,GEOFF DUNCAN,775
+Monroe,KELSEYS,Lieutenant Governor,,REP,GEOFF DUNCAN,228
+Monroe,MIDDLEBROOKS,Lieutenant Governor,,REP,GEOFF DUNCAN,697
+Monroe,PROCTORS,Lieutenant Governor,,REP,GEOFF DUNCAN,448
+Monroe,RUSSELLVILLE,Lieutenant Governor,,REP,GEOFF DUNCAN,234
+Monroe,BENTONS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,298
+Monroe,BRANTLEYS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,91
+Monroe,BURGAYS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,281
+Monroe,CABANISS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,118
+Monroe,COX,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,91
+Monroe,CULLODEN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,95
+Monroe,DILLARDS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,113
+Monroe,EVERS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,230
+Monroe,FORSYTH,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1337
+Monroe,HIGH FALLS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,165
+Monroe,KELSEYS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,199
+Monroe,MIDDLEBROOKS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,130
+Monroe,PROCTORS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,135
+Monroe,RUSSELLVILLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,55
+Monroe,BENTONS,Secretary Of State,,REP,BRAD RAFFENSPERGER,1252
+Monroe,BRANTLEYS,Secretary Of State,,REP,BRAD RAFFENSPERGER,651
+Monroe,BURGAYS,Secretary Of State,,REP,BRAD RAFFENSPERGER,1332
+Monroe,CABANISS,Secretary Of State,,REP,BRAD RAFFENSPERGER,319
+Monroe,COX,Secretary Of State,,REP,BRAD RAFFENSPERGER,358
+Monroe,CULLODEN,Secretary Of State,,REP,BRAD RAFFENSPERGER,173
+Monroe,DILLARDS,Secretary Of State,,REP,BRAD RAFFENSPERGER,448
+Monroe,EVERS,Secretary Of State,,REP,BRAD RAFFENSPERGER,927
+Monroe,FORSYTH,Secretary Of State,,REP,BRAD RAFFENSPERGER,1029
+Monroe,HIGH FALLS,Secretary Of State,,REP,BRAD RAFFENSPERGER,787
+Monroe,KELSEYS,Secretary Of State,,REP,BRAD RAFFENSPERGER,238
+Monroe,MIDDLEBROOKS,Secretary Of State,,REP,BRAD RAFFENSPERGER,691
+Monroe,PROCTORS,Secretary Of State,,REP,BRAD RAFFENSPERGER,459
+Monroe,RUSSELLVILLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,234
+Monroe,BENTONS,Secretary Of State,,DEM,JOHN BARROW,331
+Monroe,BRANTLEYS,Secretary Of State,,DEM,JOHN BARROW,109
+Monroe,BURGAYS,Secretary Of State,,DEM,JOHN BARROW,312
+Monroe,CABANISS,Secretary Of State,,DEM,JOHN BARROW,134
+Monroe,COX,Secretary Of State,,DEM,JOHN BARROW,112
+Monroe,CULLODEN,Secretary Of State,,DEM,JOHN BARROW,110
+Monroe,DILLARDS,Secretary Of State,,DEM,JOHN BARROW,127
+Monroe,EVERS,Secretary Of State,,DEM,JOHN BARROW,245
+Monroe,FORSYTH,Secretary Of State,,DEM,JOHN BARROW,1467
+Monroe,HIGH FALLS,Secretary Of State,,DEM,JOHN BARROW,167
+Monroe,KELSEYS,Secretary Of State,,DEM,JOHN BARROW,208
+Monroe,MIDDLEBROOKS,Secretary Of State,,DEM,JOHN BARROW,147
+Monroe,PROCTORS,Secretary Of State,,DEM,JOHN BARROW,137
+Monroe,RUSSELLVILLE,Secretary Of State,,DEM,JOHN BARROW,63
+Monroe,BENTONS,Secretary Of State,,LIB,SMYTHE DUVAL,29
+Monroe,BRANTLEYS,Secretary Of State,,LIB,SMYTHE DUVAL,11
+Monroe,BURGAYS,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Monroe,CABANISS,Secretary Of State,,LIB,SMYTHE DUVAL,11
+Monroe,COX,Secretary Of State,,LIB,SMYTHE DUVAL,6
+Monroe,CULLODEN,Secretary Of State,,LIB,SMYTHE DUVAL,4
+Monroe,DILLARDS,Secretary Of State,,LIB,SMYTHE DUVAL,4
+Monroe,EVERS,Secretary Of State,,LIB,SMYTHE DUVAL,26
+Monroe,FORSYTH,Secretary Of State,,LIB,SMYTHE DUVAL,31
+Monroe,HIGH FALLS,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Monroe,KELSEYS,Secretary Of State,,LIB,SMYTHE DUVAL,6
+Monroe,MIDDLEBROOKS,Secretary Of State,,LIB,SMYTHE DUVAL,13
+Monroe,PROCTORS,Secretary Of State,,LIB,SMYTHE DUVAL,18
+Monroe,RUSSELLVILLE,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Monroe,BENTONS,Attorney General,,(REP,CHRIS CARR ,1283
+Monroe,BRANTLEYS,Attorney General,,(REP,CHRIS CARR ,668
+Monroe,BURGAYS,Attorney General,,(REP,CHRIS CARR ,1342
+Monroe,CABANISS,Attorney General,,(REP,CHRIS CARR ,326
+Monroe,COX,Attorney General,,(REP,CHRIS CARR ,373
+Monroe,CULLODEN,Attorney General,,(REP,CHRIS CARR ,183
+Monroe,DILLARDS,Attorney General,,(REP,CHRIS CARR ,459
+Monroe,EVERS,Attorney General,,(REP,CHRIS CARR ,945
+Monroe,FORSYTH,Attorney General,,(REP,CHRIS CARR ,1071
+Monroe,HIGH FALLS,Attorney General,,(REP,CHRIS CARR ,799
+Monroe,KELSEYS,Attorney General,,(REP,CHRIS CARR ,238
+Monroe,MIDDLEBROOKS,Attorney General,,(REP,CHRIS CARR ,705
+Monroe,PROCTORS,Attorney General,,(REP,CHRIS CARR ,467
+Monroe,RUSSELLVILLE,Attorney General,,(REP,CHRIS CARR ,233
+Monroe,BENTONS,Attorney General,,DEM,CHARLIE BAILEY,314
+Monroe,BRANTLEYS,Attorney General,,DEM,CHARLIE BAILEY,101
+Monroe,BURGAYS,Attorney General,,DEM,CHARLIE BAILEY,298
+Monroe,CABANISS,Attorney General,,DEM,CHARLIE BAILEY,134
+Monroe,COX,Attorney General,,DEM,CHARLIE BAILEY,104
+Monroe,CULLODEN,Attorney General,,DEM,CHARLIE BAILEY,101
+Monroe,DILLARDS,Attorney General,,DEM,CHARLIE BAILEY,116
+Monroe,EVERS,Attorney General,,DEM,CHARLIE BAILEY,244
+Monroe,FORSYTH,Attorney General,,DEM,CHARLIE BAILEY,1429
+Monroe,HIGH FALLS,Attorney General,,DEM,CHARLIE BAILEY,164
+Monroe,KELSEYS,Attorney General,,DEM,CHARLIE BAILEY,206
+Monroe,MIDDLEBROOKS,Attorney General,,DEM,CHARLIE BAILEY,140
+Monroe,PROCTORS,Attorney General,,DEM,CHARLIE BAILEY,138
+Monroe,RUSSELLVILLE,Attorney General,,DEM,CHARLIE BAILEY,64
+Monroe,BENTONS,Commissioner Of Agriculture,,(REP,GARY BLACK ,1322
+Monroe,BRANTLEYS,Commissioner Of Agriculture,,(REP,GARY BLACK ,682
+Monroe,BURGAYS,Commissioner Of Agriculture,,(REP,GARY BLACK ,1386
+Monroe,CABANISS,Commissioner Of Agriculture,,(REP,GARY BLACK ,336
+Monroe,COX,Commissioner Of Agriculture,,(REP,GARY BLACK ,383
+Monroe,CULLODEN,Commissioner Of Agriculture,,(REP,GARY BLACK ,184
+Monroe,DILLARDS,Commissioner Of Agriculture,,(REP,GARY BLACK ,480
+Monroe,EVERS,Commissioner Of Agriculture,,(REP,GARY BLACK ,970
+Monroe,FORSYTH,Commissioner Of Agriculture,,(REP,GARY BLACK ,1106
+Monroe,HIGH FALLS,Commissioner Of Agriculture,,(REP,GARY BLACK ,803
+Monroe,KELSEYS,Commissioner Of Agriculture,,(REP,GARY BLACK ,247
+Monroe,MIDDLEBROOKS,Commissioner Of Agriculture,,(REP,GARY BLACK ,713
+Monroe,PROCTORS,Commissioner Of Agriculture,,(REP,GARY BLACK ,483
+Monroe,RUSSELLVILLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,242
+Monroe,BENTONS,Commissioner Of Agriculture,,DEM,FRED SWANN,281
+Monroe,BRANTLEYS,Commissioner Of Agriculture,,DEM,FRED SWANN,81
+Monroe,BURGAYS,Commissioner Of Agriculture,,DEM,FRED SWANN,264
+Monroe,CABANISS,Commissioner Of Agriculture,,DEM,FRED SWANN,122
+Monroe,COX,Commissioner Of Agriculture,,DEM,FRED SWANN,91
+Monroe,CULLODEN,Commissioner Of Agriculture,,DEM,FRED SWANN,95
+Monroe,DILLARDS,Commissioner Of Agriculture,,DEM,FRED SWANN,91
+Monroe,EVERS,Commissioner Of Agriculture,,DEM,FRED SWANN,212
+Monroe,FORSYTH,Commissioner Of Agriculture,,DEM,FRED SWANN,1385
+Monroe,HIGH FALLS,Commissioner Of Agriculture,,DEM,FRED SWANN,157
+Monroe,KELSEYS,Commissioner Of Agriculture,,DEM,FRED SWANN,197
+Monroe,MIDDLEBROOKS,Commissioner Of Agriculture,,DEM,FRED SWANN,129
+Monroe,PROCTORS,Commissioner Of Agriculture,,DEM,FRED SWANN,123
+Monroe,RUSSELLVILLE,Commissioner Of Agriculture,,DEM,FRED SWANN,52
+Monroe,BENTONS,Commissioner Of Insurance,,REP,JIM BECK,1290
+Monroe,BRANTLEYS,Commissioner Of Insurance,,REP,JIM BECK,668
+Monroe,BURGAYS,Commissioner Of Insurance,,REP,JIM BECK,1361
+Monroe,CABANISS,Commissioner Of Insurance,,REP,JIM BECK,325
+Monroe,COX,Commissioner Of Insurance,,REP,JIM BECK,372
+Monroe,CULLODEN,Commissioner Of Insurance,,REP,JIM BECK,184
+Monroe,DILLARDS,Commissioner Of Insurance,,REP,JIM BECK,458
+Monroe,EVERS,Commissioner Of Insurance,,REP,JIM BECK,942
+Monroe,FORSYTH,Commissioner Of Insurance,,REP,JIM BECK,1055
+Monroe,HIGH FALLS,Commissioner Of Insurance,,REP,JIM BECK,801
+Monroe,KELSEYS,Commissioner Of Insurance,,REP,JIM BECK,243
+Monroe,MIDDLEBROOKS,Commissioner Of Insurance,,REP,JIM BECK,699
+Monroe,PROCTORS,Commissioner Of Insurance,,REP,JIM BECK,474
+Monroe,RUSSELLVILLE,Commissioner Of Insurance,,REP,JIM BECK,234
+Monroe,BENTONS,Commissioner Of Insurance,,DEM,JANICE LAWS,279
+Monroe,BRANTLEYS,Commissioner Of Insurance,,DEM,JANICE LAWS,89
+Monroe,BURGAYS,Commissioner Of Insurance,,DEM,JANICE LAWS,264
+Monroe,CABANISS,Commissioner Of Insurance,,DEM,JANICE LAWS,125
+Monroe,COX,Commissioner Of Insurance,,DEM,JANICE LAWS,92
+Monroe,CULLODEN,Commissioner Of Insurance,,DEM,JANICE LAWS,95
+Monroe,DILLARDS,Commissioner Of Insurance,,DEM,JANICE LAWS,107
+Monroe,EVERS,Commissioner Of Insurance,,DEM,JANICE LAWS,222
+Monroe,FORSYTH,Commissioner Of Insurance,,DEM,JANICE LAWS,1405
+Monroe,HIGH FALLS,Commissioner Of Insurance,,DEM,JANICE LAWS,146
+Monroe,KELSEYS,Commissioner Of Insurance,,DEM,JANICE LAWS,196
+Monroe,MIDDLEBROOKS,Commissioner Of Insurance,,DEM,JANICE LAWS,130
+Monroe,PROCTORS,Commissioner Of Insurance,,DEM,JANICE LAWS,129
+Monroe,RUSSELLVILLE,Commissioner Of Insurance,,DEM,JANICE LAWS,60
+Monroe,BENTONS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,36
+Monroe,BRANTLEYS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
+Monroe,BURGAYS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,23
+Monroe,CABANISS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,12
+Monroe,COX,Commissioner Of Insurance,,LIB,DONNIE FOSTER,9
+Monroe,CULLODEN,Commissioner Of Insurance,,LIB,DONNIE FOSTER,5
+Monroe,DILLARDS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,8
+Monroe,EVERS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,28
+Monroe,FORSYTH,Commissioner Of Insurance,,LIB,DONNIE FOSTER,43
+Monroe,HIGH FALLS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Monroe,KELSEYS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,5
+Monroe,MIDDLEBROOKS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Monroe,PROCTORS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,10
+Monroe,RUSSELLVILLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,3
+Monroe,BENTONS,State School Superintendent,,(REP,RICHARD WOODS ,1321
+Monroe,BRANTLEYS,State School Superintendent,,(REP,RICHARD WOODS ,687
+Monroe,BURGAYS,State School Superintendent,,(REP,RICHARD WOODS ,1400
+Monroe,CABANISS,State School Superintendent,,(REP,RICHARD WOODS ,336
+Monroe,COX,State School Superintendent,,(REP,RICHARD WOODS ,385
+Monroe,CULLODEN,State School Superintendent,,(REP,RICHARD WOODS ,187
+Monroe,DILLARDS,State School Superintendent,,(REP,RICHARD WOODS ,469
+Monroe,EVERS,State School Superintendent,,(REP,RICHARD WOODS ,970
+Monroe,FORSYTH,State School Superintendent,,(REP,RICHARD WOODS ,1101
+Monroe,HIGH FALLS,State School Superintendent,,(REP,RICHARD WOODS ,816
+Monroe,KELSEYS,State School Superintendent,,(REP,RICHARD WOODS ,247
+Monroe,MIDDLEBROOKS,State School Superintendent,,(REP,RICHARD WOODS ,721
+Monroe,PROCTORS,State School Superintendent,,(REP,RICHARD WOODS ,484
+Monroe,RUSSELLVILLE,State School Superintendent,,(REP,RICHARD WOODS ,243
+Monroe,BENTONS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",273
+Monroe,BRANTLEYS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",84
+Monroe,BURGAYS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",250
+Monroe,CABANISS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",120
+Monroe,COX,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",91
+Monroe,CULLODEN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",94
+Monroe,DILLARDS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",102
+Monroe,EVERS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",218
+Monroe,FORSYTH,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1406
+Monroe,HIGH FALLS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",151
+Monroe,KELSEYS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",199
+Monroe,MIDDLEBROOKS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",126
+Monroe,PROCTORS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",124
+Monroe,RUSSELLVILLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",52
+Monroe,BENTONS,Commissioner Of Labor,,(REP,MARK BUTLER ,1313
+Monroe,BRANTLEYS,Commissioner Of Labor,,(REP,MARK BUTLER ,678
+Monroe,BURGAYS,Commissioner Of Labor,,(REP,MARK BUTLER ,1379
+Monroe,CABANISS,Commissioner Of Labor,,(REP,MARK BUTLER ,339
+Monroe,COX,Commissioner Of Labor,,(REP,MARK BUTLER ,379
+Monroe,CULLODEN,Commissioner Of Labor,,(REP,MARK BUTLER ,189
+Monroe,DILLARDS,Commissioner Of Labor,,(REP,MARK BUTLER ,466
+Monroe,EVERS,Commissioner Of Labor,,(REP,MARK BUTLER ,962
+Monroe,FORSYTH,Commissioner Of Labor,,(REP,MARK BUTLER ,1076
+Monroe,HIGH FALLS,Commissioner Of Labor,,(REP,MARK BUTLER ,804
+Monroe,KELSEYS,Commissioner Of Labor,,(REP,MARK BUTLER ,246
+Monroe,MIDDLEBROOKS,Commissioner Of Labor,,(REP,MARK BUTLER ,707
+Monroe,PROCTORS,Commissioner Of Labor,,(REP,MARK BUTLER ,484
+Monroe,RUSSELLVILLE,Commissioner Of Labor,,(REP,MARK BUTLER ,243
+Monroe,BENTONS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,282
+Monroe,BRANTLEYS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,83
+Monroe,BURGAYS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,262
+Monroe,CABANISS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,123
+Monroe,COX,Commissioner Of Labor,,DEM,RICHARD KEATLEY,96
+Monroe,CULLODEN,Commissioner Of Labor,,DEM,RICHARD KEATLEY,94
+Monroe,DILLARDS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,106
+Monroe,EVERS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,226
+Monroe,FORSYTH,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1417
+Monroe,HIGH FALLS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,155
+Monroe,KELSEYS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,200
+Monroe,MIDDLEBROOKS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,132
+Monroe,PROCTORS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,124
+Monroe,RUSSELLVILLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,51
+Monroe,BENTONS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1265
+Monroe,BRANTLEYS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,659
+Monroe,BURGAYS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1337
+Monroe,CABANISS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,321
+Monroe,COX,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,361
+Monroe,CULLODEN,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,185
+Monroe,DILLARDS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,453
+Monroe,EVERS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,932
+Monroe,FORSYTH,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1030
+Monroe,HIGH FALLS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,772
+Monroe,KELSEYS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,234
+Monroe,MIDDLEBROOKS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,691
+Monroe,PROCTORS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,455
+Monroe,RUSSELLVILLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,233
+Monroe,BENTONS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,301
+Monroe,BRANTLEYS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,91
+Monroe,BURGAYS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,286
+Monroe,CABANISS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,127
+Monroe,COX,"Public Service Commission, District 3",3,DEM,LINDY MILLER,103
+Monroe,CULLODEN,"Public Service Commission, District 3",3,DEM,LINDY MILLER,98
+Monroe,DILLARDS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,112
+Monroe,EVERS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,237
+Monroe,FORSYTH,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1424
+Monroe,HIGH FALLS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,163
+Monroe,KELSEYS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,213
+Monroe,MIDDLEBROOKS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,135
+Monroe,PROCTORS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,137
+Monroe,RUSSELLVILLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,62
+Monroe,BENTONS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,38
+Monroe,BRANTLEYS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,15
+Monroe,BURGAYS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,19
+Monroe,CABANISS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,13
+Monroe,COX,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,9
+Monroe,CULLODEN,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Monroe,DILLARDS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Monroe,EVERS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,24
+Monroe,FORSYTH,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,44
+Monroe,HIGH FALLS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,22
+Monroe,KELSEYS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Monroe,MIDDLEBROOKS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,18
+Monroe,PROCTORS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,17
+Monroe,RUSSELLVILLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,1
+Monroe,BENTONS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1278
+Monroe,BRANTLEYS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,663
+Monroe,BURGAYS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1349
+Monroe,CABANISS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,324
+Monroe,COX,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,375
+Monroe,CULLODEN,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,180
+Monroe,DILLARDS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,456
+Monroe,EVERS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,936
+Monroe,FORSYTH,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1048
+Monroe,HIGH FALLS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,780
+Monroe,KELSEYS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,236
+Monroe,MIDDLEBROOKS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,701
+Monroe,PROCTORS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,464
+Monroe,RUSSELLVILLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,238
+Monroe,BENTONS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,284
+Monroe,BRANTLEYS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,91
+Monroe,BURGAYS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,267
+Monroe,CABANISS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,123
+Monroe,COX,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,92
+Monroe,CULLODEN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,96
+Monroe,DILLARDS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,113
+Monroe,EVERS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,220
+Monroe,FORSYTH,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1410
+Monroe,HIGH FALLS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,152
+Monroe,KELSEYS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,207
+Monroe,MIDDLEBROOKS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,129
+Monroe,PROCTORS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,130
+Monroe,RUSSELLVILLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,55
+Monroe,BENTONS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,38
+Monroe,BRANTLEYS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,11
+Monroe,BURGAYS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,24
+Monroe,CABANISS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14
+Monroe,COX,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,8
+Monroe,CULLODEN,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
+Monroe,DILLARDS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
+Monroe,EVERS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,33
+Monroe,FORSYTH,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,42
+Monroe,HIGH FALLS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
+Monroe,KELSEYS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,4
+Monroe,MIDDLEBROOKS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Monroe,PROCTORS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,18
+Monroe,RUSSELLVILLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,3
+Monroe,BENTONS,U.S. Representative,8,(REP,AUSTIN SCOTT ,1397
+Monroe,BRANTLEYS,U.S. Representative,8,(REP,AUSTIN SCOTT ,697
+Monroe,BURGAYS,U.S. Representative,8,(REP,AUSTIN SCOTT ,1479
+Monroe,CABANISS,U.S. Representative,8,(REP,AUSTIN SCOTT ,393
+Monroe,COX,U.S. Representative,8,(REP,AUSTIN SCOTT ,419
+Monroe,CULLODEN,U.S. Representative,8,(REP,AUSTIN SCOTT ,232
+Monroe,DILLARDS,U.S. Representative,8,(REP,AUSTIN SCOTT ,503
+Monroe,EVERS,U.S. Representative,8,(REP,AUSTIN SCOTT ,1041
+Monroe,FORSYTH,U.S. Representative,8,(REP,AUSTIN SCOTT ,1623
+Monroe,HIGH FALLS,U.S. Representative,8,(REP,AUSTIN SCOTT ,856
+Monroe,KELSEYS,U.S. Representative,8,(REP,AUSTIN SCOTT ,325
+Monroe,MIDDLEBROOKS,U.S. Representative,8,(REP,AUSTIN SCOTT ,780
+Monroe,PROCTORS,U.S. Representative,8,(REP,AUSTIN SCOTT ,516
+Monroe,RUSSELLVILLE,U.S. Representative,8,(REP,AUSTIN SCOTT ,268
+Monroe,BENTONS,State Senator,18,(REP,JOHN F. KENNEDY ,1373
+Monroe,BRANTLEYS,State Senator,18,(REP,JOHN F. KENNEDY ,701
+Monroe,BURGAYS,State Senator,18,(REP,JOHN F. KENNEDY ,1461
+Monroe,CABANISS,State Senator,18,(REP,JOHN F. KENNEDY ,389
+Monroe,COX,State Senator,18,(REP,JOHN F. KENNEDY ,416
+Monroe,CULLODEN,State Senator,18,(REP,JOHN F. KENNEDY ,227
+Monroe,DILLARDS,State Senator,18,(REP,JOHN F. KENNEDY ,503
+Monroe,EVERS,State Senator,18,(REP,JOHN F. KENNEDY ,1036
+Monroe,FORSYTH,State Senator,18,(REP,JOHN F. KENNEDY ,1634
+Monroe,HIGH FALLS,State Senator,18,(REP,JOHN F. KENNEDY ,841
+Monroe,KELSEYS,State Senator,18,(REP,JOHN F. KENNEDY ,326
+Monroe,MIDDLEBROOKS,State Senator,18,(REP,JOHN F. KENNEDY ,762
+Monroe,PROCTORS,State Senator,18,(REP,JOHN F. KENNEDY ,516
+Monroe,RUSSELLVILLE,State Senator,18,(REP,JOHN F. KENNEDY ,263
+Monroe,CABANISS,State Representative,129,(REP,SUSAN HOLMES ,387
+Monroe,HIGH FALLS,State Representative,129,(REP,SUSAN HOLMES ,859
+Monroe,PROCTORS,State Representative,129,(REP,SUSAN HOLMES ,523
+Monroe,COX,State Representative,140,(REP,ROBERT DICKEY ,422
+Monroe,CULLODEN,State Representative,140,(REP,ROBERT DICKEY ,240
+Monroe,FORSYTH,State Representative,140,(REP,ROBERT DICKEY ,982
+Monroe,RUSSELLVILLE,State Representative,140,(REP,ROBERT DICKEY ,273
+Monroe,BENTONS,State Representative,141,REP,DALE WASHBURN,1403
+Monroe,BRANTLEYS,State Representative,141,REP,DALE WASHBURN,709
+Monroe,BURGAYS,State Representative,141,REP,DALE WASHBURN,1470
+Monroe,DILLARDS,State Representative,141,REP,DALE WASHBURN,501
+Monroe,EVERS,State Representative,141,REP,DALE WASHBURN,1037
+Monroe,FORSYTH,State Representative,141,REP,DALE WASHBURN,659
+Monroe,KELSEYS,State Representative,141,REP,DALE WASHBURN,322
+Monroe,MIDDLEBROOKS,State Representative,141,REP,DALE WASHBURN,767
+Monroe,BENTONS,Sheriff,,,"L. C. BITTICK, III R",475
+Monroe,BRANTLEYS,Sheriff,,,"L. C. BITTICK, III R",252
+Monroe,BURGAYS,Sheriff,,,"L. C. BITTICK, III R",616
+Monroe,CABANISS,Sheriff,,,"L. C. BITTICK, III R",180
+Monroe,COX,Sheriff,,,"L. C. BITTICK, III R",145
+Monroe,CULLODEN,Sheriff,,,"L. C. BITTICK, III R",57
+Monroe,DILLARDS,Sheriff,,,"L. C. BITTICK, III R",178
+Monroe,EVERS,Sheriff,,,"L. C. BITTICK, III R",439
+Monroe,FORSYTH,Sheriff,,,"L. C. BITTICK, III R",573
+Monroe,HIGH FALLS,Sheriff,,,"L. C. BITTICK, III R",367
+Monroe,KELSEYS,Sheriff,,,"L. C. BITTICK, III R",116
+Monroe,MIDDLEBROOKS,Sheriff,,,"L. C. BITTICK, III R",220
+Monroe,PROCTORS,Sheriff,,,"L. C. BITTICK, III R",236
+Monroe,RUSSELLVILLE,Sheriff,,,"L. C. BITTICK, III R",84
+Monroe,BENTONS,Sheriff,,,M. BITTICK R,299
+Monroe,BRANTLEYS,Sheriff,,,M. BITTICK R,125
+Monroe,BURGAYS,Sheriff,,,M. BITTICK R,270
+Monroe,CABANISS,Sheriff,,,M. BITTICK R,34
+Monroe,COX,Sheriff,,,M. BITTICK R,55
+Monroe,CULLODEN,Sheriff,,,M. BITTICK R,51
+Monroe,DILLARDS,Sheriff,,,M. BITTICK R,37
+Monroe,EVERS,Sheriff,,,M. BITTICK R,140
+Monroe,FORSYTH,Sheriff,,,M. BITTICK R,160
+Monroe,HIGH FALLS,Sheriff,,,M. BITTICK R,123
+Monroe,KELSEYS,Sheriff,,,M. BITTICK R,36
+Monroe,MIDDLEBROOKS,Sheriff,,,M. BITTICK R,140
+Monroe,PROCTORS,Sheriff,,,M. BITTICK R,54
+Monroe,RUSSELLVILLE,Sheriff,,,M. BITTICK R,44
+Monroe,BENTONS,Sheriff,,,T. H. COPELAN,26
+Monroe,BRANTLEYS,Sheriff,,,T. H. COPELAN,23
+Monroe,BURGAYS,Sheriff,,,T. H. COPELAN,30
+Monroe,CABANISS,Sheriff,,,T. H. COPELAN,15
+Monroe,COX,Sheriff,,,T. H. COPELAN,8
+Monroe,CULLODEN,Sheriff,,,T. H. COPELAN,3
+Monroe,DILLARDS,Sheriff,,,T. H. COPELAN,18
+Monroe,EVERS,Sheriff,,,T. H. COPELAN,39
+Monroe,FORSYTH,Sheriff,,,T. H. COPELAN,74
+Monroe,HIGH FALLS,Sheriff,,,T. H. COPELAN,49
+Monroe,KELSEYS,Sheriff,,,T. H. COPELAN,16
+Monroe,MIDDLEBROOKS,Sheriff,,,T. H. COPELAN,21
+Monroe,PROCTORS,Sheriff,,,T. H. COPELAN,17
+Monroe,RUSSELLVILLE,Sheriff,,,T. H. COPELAN,4
+Monroe,BENTONS,Sheriff,,,R. EVANS R,108
+Monroe,BRANTLEYS,Sheriff,,,R. EVANS R,140
+Monroe,BURGAYS,Sheriff,,,R. EVANS R,123
+Monroe,CABANISS,Sheriff,,,R. EVANS R,88
+Monroe,COX,Sheriff,,,R. EVANS R,72
+Monroe,CULLODEN,Sheriff,,,R. EVANS R,20
+Monroe,DILLARDS,Sheriff,,,R. EVANS R,153
+Monroe,EVERS,Sheriff,,,R. EVANS R,228
+Monroe,FORSYTH,Sheriff,,,R. EVANS R,465
+Monroe,HIGH FALLS,Sheriff,,,R. EVANS R,128
+Monroe,KELSEYS,Sheriff,,,R. EVANS R,39
+Monroe,MIDDLEBROOKS,Sheriff,,,R. EVANS R,190
+Monroe,PROCTORS,Sheriff,,,R. EVANS R,125
+Monroe,RUSSELLVILLE,Sheriff,,,R. EVANS R,27
+Monroe,BENTONS,Sheriff,,,"W. FREEMAN, III R",537
+Monroe,BRANTLEYS,Sheriff,,,"W. FREEMAN, III R",200
+Monroe,BURGAYS,Sheriff,,,"W. FREEMAN, III R",474
+Monroe,CABANISS,Sheriff,,,"W. FREEMAN, III R",68
+Monroe,COX,Sheriff,,,"W. FREEMAN, III R",144
+Monroe,CULLODEN,Sheriff,,,"W. FREEMAN, III R",55
+Monroe,DILLARDS,Sheriff,,,"W. FREEMAN, III R",152
+Monroe,EVERS,Sheriff,,,"W. FREEMAN, III R",228
+Monroe,FORSYTH,Sheriff,,,"W. FREEMAN, III R",391
+Monroe,HIGH FALLS,Sheriff,,,"W. FREEMAN, III R",214
+Monroe,KELSEYS,Sheriff,,,"W. FREEMAN, III R",107
+Monroe,MIDDLEBROOKS,Sheriff,,,"W. FREEMAN, III R",206
+Monroe,PROCTORS,Sheriff,,,"W. FREEMAN, III R",104
+Monroe,RUSSELLVILLE,Sheriff,,,"W. FREEMAN, III R",97
+Monroe,BENTONS,Sheriff,,,S. PENAMON,140
+Monroe,BRANTLEYS,Sheriff,,,S. PENAMON,24
+Monroe,BURGAYS,Sheriff,,,S. PENAMON,102
+Monroe,CABANISS,Sheriff,,,S. PENAMON,71
+Monroe,COX,Sheriff,,,S. PENAMON,45
+Monroe,CULLODEN,Sheriff,,,S. PENAMON,102
+Monroe,DILLARDS,Sheriff,,,S. PENAMON,40
+Monroe,EVERS,Sheriff,,,S. PENAMON,103
+Monroe,FORSYTH,Sheriff,,,S. PENAMON,811
+Monroe,HIGH FALLS,Sheriff,,,S. PENAMON,68
+Monroe,KELSEYS,Sheriff,,,S. PENAMON,116
+Monroe,MIDDLEBROOKS,Sheriff,,,S. PENAMON,68
+Monroe,PROCTORS,Sheriff,,,S. PENAMON,72
+Monroe,RUSSELLVILLE,Sheriff,,,S. PENAMON,36
+Monroe,BENTONS,CC, D3,R,J.H. AMBROSE SR ,1358
+Monroe,BURGAYS,CC, D3,R,J.H. AMBROSE SR ,1347
+Monroe,DILLARDS,CC, D3,R,J.H. AMBROSE SR ,16
+Monroe,MIDDLEBROOKS,CC, D3,R,J.H. AMBROSE SR ,721
+Monroe,CABANISS,CC, D4,R,G. EMAMI ,382
+Monroe,DILLARDS,CC, D4,R,G. EMAMI ,259
+Monroe,EVERS,CC, D4,R,G. EMAMI ,507
+Monroe,HIGH FALLS,CC, D4,R,G. EMAMI ,855
+Monroe,MIDDLEBROOKS,CC, D4,R,G. EMAMI ,29
+Monroe,PROCTORS,CC, D4,R,G. EMAMI ,475
+Monroe,BENTONS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1181
+Monroe,BRANTLEYS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,560
+Monroe,BURGAYS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1189
+Monroe,CABANISS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,351
+Monroe,COX,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,352
+Monroe,CULLODEN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,211
+Monroe,DILLARDS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,434
+Monroe,EVERS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,914
+Monroe,FORSYTH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1956
+Monroe,HIGH FALLS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,737
+Monroe,KELSEYS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,354
+Monroe,MIDDLEBROOKS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,634
+Monroe,PROCTORS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,469
+Monroe,RUSSELLVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,215
+Monroe,BENTONS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,414
+Monroe,BRANTLEYS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,204
+Monroe,BURGAYS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,437
+Monroe,CABANISS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,104
+Monroe,COX,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,115
+Monroe,CULLODEN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,74
+Monroe,DILLARDS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,135
+Monroe,EVERS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,264
+Monroe,FORSYTH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,479
+Monroe,HIGH FALLS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,211
+Monroe,KELSEYS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,93
+Monroe,MIDDLEBROOKS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,204
+Monroe,PROCTORS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,134
+Monroe,RUSSELLVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,73
+Monroe,BENTONS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,972
+Monroe,BRANTLEYS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,427
+Monroe,BURGAYS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,972
+Monroe,CABANISS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,265
+Monroe,COX,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,276
+Monroe,CULLODEN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,182
+Monroe,DILLARDS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,331
+Monroe,EVERS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,688
+Monroe,FORSYTH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1591
+Monroe,HIGH FALLS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,579
+Monroe,KELSEYS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,287
+Monroe,MIDDLEBROOKS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,502
+Monroe,PROCTORS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,350
+Monroe,RUSSELLVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,195
+Monroe,BENTONS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,586
+Monroe,BRANTLEYS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,317
+Monroe,BURGAYS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,605
+Monroe,CABANISS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,167
+Monroe,COX,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,178
+Monroe,CULLODEN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,99
+Monroe,DILLARDS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,225
+Monroe,EVERS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,442
+Monroe,FORSYTH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,798
+Monroe,HIGH FALLS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,339
+Monroe,KELSEYS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,144
+Monroe,MIDDLEBROOKS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,305
+Monroe,PROCTORS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,239
+Monroe,RUSSELLVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,90
+Monroe,BENTONS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,865
+Monroe,BRANTLEYS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,394
+Monroe,BURGAYS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,905
+Monroe,CABANISS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,250
+Monroe,COX,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,249
+Monroe,CULLODEN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,144
+Monroe,DILLARDS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,318
+Monroe,EVERS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,604
+Monroe,FORSYTH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1384
+Monroe,HIGH FALLS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,494
+Monroe,KELSEYS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,265
+Monroe,MIDDLEBROOKS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,436
+Monroe,PROCTORS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,312
+Monroe,RUSSELLVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,164
+Monroe,BENTONS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,683
+Monroe,BRANTLEYS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,340
+Monroe,BURGAYS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,662
+Monroe,CABANISS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,190
+Monroe,COX,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,196
+Monroe,CULLODEN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,126
+Monroe,DILLARDS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,238
+Monroe,EVERS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,510
+Monroe,FORSYTH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,974
+Monroe,HIGH FALLS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,414
+Monroe,KELSEYS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,166
+Monroe,MIDDLEBROOKS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,371
+Monroe,PROCTORS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,272
+Monroe,RUSSELLVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,114
+Monroe,BENTONS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1102
+Monroe,BRANTLEYS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,480
+Monroe,BURGAYS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1120
+Monroe,CABANISS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,313
+Monroe,COX,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,313
+Monroe,CULLODEN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,196
+Monroe,DILLARDS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,381
+Monroe,EVERS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,814
+Monroe,FORSYTH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1880
+Monroe,HIGH FALLS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,756
+Monroe,KELSEYS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,334
+Monroe,MIDDLEBROOKS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,567
+Monroe,PROCTORS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,406
+Monroe,RUSSELLVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,201
+Monroe,BENTONS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,482
+Monroe,BRANTLEYS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,271
+Monroe,BURGAYS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,507
+Monroe,CABANISS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,133
+Monroe,COX,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,148
+Monroe,CULLODEN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,85
+Monroe,DILLARDS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,185
+Monroe,EVERS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,340
+Monroe,FORSYTH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,553
+Monroe,HIGH FALLS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,191
+Monroe,KELSEYS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,107
+Monroe,MIDDLEBROOKS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,271
+Monroe,PROCTORS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,191
+Monroe,RUSSELLVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,85
+Monroe,BENTONS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,966
+Monroe,BRANTLEYS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,427
+Monroe,BURGAYS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,926
+Monroe,CABANISS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,283
+Monroe,COX,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,268
+Monroe,CULLODEN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,163
+Monroe,DILLARDS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,349
+Monroe,EVERS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,692
+Monroe,FORSYTH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1715
+Monroe,HIGH FALLS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,574
+Monroe,KELSEYS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,295
+Monroe,MIDDLEBROOKS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,481
+Monroe,PROCTORS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,362
+Monroe,RUSSELLVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,166
+Monroe,BENTONS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,582
+Monroe,BRANTLEYS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,313
+Monroe,BURGAYS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,672
+Monroe,CABANISS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,153
+Monroe,COX,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,178
+Monroe,CULLODEN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,106
+Monroe,DILLARDS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,198
+Monroe,EVERS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,446
+Monroe,FORSYTH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,669
+Monroe,HIGH FALLS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,354
+Monroe,KELSEYS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,138
+Monroe,MIDDLEBROOKS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,329
+Monroe,PROCTORS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,229
+Monroe,RUSSELLVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,109
+Monroe,BENTONS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,724
+Monroe,BRANTLEYS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,323
+Monroe,BURGAYS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,679
+Monroe,CABANISS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,228
+Monroe,COX,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,212
+Monroe,CULLODEN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,135
+Monroe,DILLARDS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,245
+Monroe,EVERS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,548
+Monroe,FORSYTH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1272
+Monroe,HIGH FALLS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,423
+Monroe,KELSEYS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,213
+Monroe,MIDDLEBROOKS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,363
+Monroe,PROCTORS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,301
+Monroe,RUSSELLVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,129
+Monroe,BENTONS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,785
+Monroe,BRANTLEYS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,398
+Monroe,BURGAYS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,855
+Monroe,CABANISS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,200
+Monroe,COX,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,229
+Monroe,CULLODEN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,134
+Monroe,DILLARDS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,299
+Monroe,EVERS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,563
+Monroe,FORSYTH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1072
+Monroe,HIGH FALLS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,485
+Monroe,KELSEYS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,211
+Monroe,MIDDLEBROOKS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,429
+Monroe,PROCTORS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,278
+Monroe,RUSSELLVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,146
+Monroe,BENTONS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1029
+Monroe,BRANTLEYS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,448
+Monroe,BURGAYS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1015
+Monroe,CABANISS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,294
+Monroe,COX,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,288
+Monroe,CULLODEN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,188
+Monroe,DILLARDS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,366
+Monroe,EVERS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,776
+Monroe,FORSYTH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1845
+Monroe,HIGH FALLS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,622
+Monroe,KELSEYS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,326
+Monroe,MIDDLEBROOKS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,538
+Monroe,PROCTORS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,404
+Monroe,RUSSELLVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,186
+Monroe,BENTONS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,514
+Monroe,BRANTLEYS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,286
+Monroe,BURGAYS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,563
+Monroe,CABANISS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,140
+Monroe,COX,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,160
+Monroe,CULLODEN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,86
+Monroe,DILLARDS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,185
+Monroe,EVERS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,360
+Monroe,FORSYTH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,561
+Monroe,HIGH FALLS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,303
+Monroe,KELSEYS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,105
+Monroe,MIDDLEBROOKS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,274
+Monroe,PROCTORS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,190
+Monroe,RUSSELLVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,96
+Monroe,BENTONS,SPLOST REFERENDUM,,,YES,920
+Monroe,BRANTLEYS,SPLOST REFERENDUM,,,YES,469
+Monroe,BURGAYS,SPLOST REFERENDUM,,,YES,941
+Monroe,CABANISS,SPLOST REFERENDUM,,,YES,262
+Monroe,COX,SPLOST REFERENDUM,,,YES,279
+Monroe,CULLODEN,SPLOST REFERENDUM,,,YES,183
+Monroe,DILLARDS,SPLOST REFERENDUM,,,YES,343
+Monroe,EVERS,SPLOST REFERENDUM,,,YES,693
+Monroe,FORSYTH,SPLOST REFERENDUM,,,YES,1706
+Monroe,HIGH FALLS,SPLOST REFERENDUM,,,YES,518
+Monroe,KELSEYS,SPLOST REFERENDUM,,,YES,267
+Monroe,MIDDLEBROOKS,SPLOST REFERENDUM,,,YES,473
+Monroe,PROCTORS,SPLOST REFERENDUM,,,YES,357
+Monroe,RUSSELLVILLE,SPLOST REFERENDUM,,,YES,180
+Monroe,BENTONS,SPLOST REFERENDUM,,,NO,655
+Monroe,BRANTLEYS,SPLOST REFERENDUM,,,NO,282
+Monroe,BURGAYS,SPLOST REFERENDUM,,,NO,664
+Monroe,CABANISS,SPLOST REFERENDUM,,,NO,174
+Monroe,COX,SPLOST REFERENDUM,,,NO,174
+Monroe,CULLODEN,SPLOST REFERENDUM,,,NO,90
+Monroe,DILLARDS,SPLOST REFERENDUM,,,NO,221
+Monroe,EVERS,SPLOST REFERENDUM,,,NO,467
+Monroe,FORSYTH,SPLOST REFERENDUM,,,NO,699
+Monroe,HIGH FALLS,SPLOST REFERENDUM,,,NO,407
+Monroe,KELSEYS,SPLOST REFERENDUM,,,NO,168
+Monroe,MIDDLEBROOKS,SPLOST REFERENDUM,,,NO,345
+Monroe,PROCTORS,SPLOST REFERENDUM,,,NO,239
+Monroe,RUSSELLVILLE,SPLOST REFERENDUM,,,NO,104
+Monroe,BENTONS,COUNTY,,,YES,1030
+Monroe,BRANTLEYS,COUNTY,,,YES,488
+Monroe,BURGAYS,COUNTY,,,YES,1045
+Monroe,CABANISS,COUNTY,,,YES,272
+Monroe,COX,COUNTY,,,YES,283
+Monroe,CULLODEN,COUNTY,,,YES,156
+Monroe,DILLARDS,COUNTY,,,YES,334
+Monroe,EVERS,COUNTY,,,YES,699
+Monroe,FORSYTH,COUNTY,,,YES,1621
+Monroe,HIGH FALLS,COUNTY,,,YES,570
+Monroe,KELSEYS,COUNTY,,,YES,259
+Monroe,MIDDLEBROOKS,COUNTY,,,YES,501
+Monroe,PROCTORS,COUNTY,,,YES,361
+Monroe,RUSSELLVILLE,COUNTY,,,YES,157
+Monroe,BENTONS,COUNTY,,,NO,575
+Monroe,BRANTLEYS,COUNTY,,,NO,278
+Monroe,BURGAYS,COUNTY,,,NO,585
+Monroe,CABANISS,COUNTY,,,NO,177
+Monroe,COX,COUNTY,,,NO,192
+Monroe,CULLODEN,COUNTY,,,NO,133
+Monroe,DILLARDS,COUNTY,,,NO,249
+Monroe,EVERS,COUNTY,,,NO,482
+Monroe,FORSYTH,COUNTY,,,NO,880
+Monroe,HIGH FALLS,COUNTY,,,NO,379
+Monroe,KELSEYS,COUNTY,,,NO,192
+Monroe,MIDDLEBROOKS,COUNTY,,,NO,335
+Monroe,PROCTORS,COUNTY,,,NO,245
+Monroe,RUSSELLVILLE,COUNTY,,,NO,133
+Monroe,DILLARDS,FORSYTH,,,YES,42
+Monroe,FORSYTH,FORSYTH,,,YES,1126
+Monroe,DILLARDS,FORSYTH,,,NO,12
+Monroe,FORSYTH,FORSYTH,,,NO,551

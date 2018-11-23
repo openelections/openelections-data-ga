@@ -1,0 +1,560 @@
+county,precinct,office,district,party,candidate,votes
+Ware,District 1,Governor,,REP,BRIAN KEMP,304
+Ware,District 2A,Governor,,REP,BRIAN KEMP,945
+Ware,District 2B,Governor,,REP,BRIAN KEMP,135
+Ware,1231-150B,Governor,,REP,BRIAN KEMP,1732
+Ware,1231-150C,Governor,,REP,BRIAN KEMP,486
+Ware,1231-151,Governor,,REP,BRIAN KEMP,1782
+Ware,Beach-Bickley,Governor,,REP,BRIAN KEMP,220
+Ware,Haywood,Governor,,REP,BRIAN KEMP,329
+Ware,Jamestown,Governor,,REP,BRIAN KEMP,862
+Ware,Manor,Governor,,REP,BRIAN KEMP,280
+Ware,Millwood,Governor,,REP,BRIAN KEMP,285
+Ware,Waresboro,Governor,,REP,BRIAN KEMP,534
+Ware,District 1,Governor,,DEM,STACEY ABRAMS,1536
+Ware,District 2A,Governor,,DEM,STACEY ABRAMS,407
+Ware,District 2B,Governor,,DEM,STACEY ABRAMS,223
+Ware,1231-150B,Governor,,DEM,STACEY ABRAMS,413
+Ware,1231-150C,Governor,,DEM,STACEY ABRAMS,79
+Ware,1231-151,Governor,,DEM,STACEY ABRAMS,231
+Ware,Beach-Bickley,Governor,,DEM,STACEY ABRAMS,19
+Ware,Haywood,Governor,,DEM,STACEY ABRAMS,18
+Ware,Jamestown,Governor,,DEM,STACEY ABRAMS,68
+Ware,Manor,Governor,,DEM,STACEY ABRAMS,16
+Ware,Millwood,Governor,,DEM,STACEY ABRAMS,22
+Ware,Waresboro,Governor,,DEM,STACEY ABRAMS,35
+Ware,District 1,Governor,,LIB,TED METZ,5
+Ware,District 2A,Governor,,LIB,TED METZ,11
+Ware,District 2B,Governor,,LIB,TED METZ,2
+Ware,1231-150B,Governor,,LIB,TED METZ,11
+Ware,1231-150C,Governor,,LIB,TED METZ,6
+Ware,1231-151,Governor,,LIB,TED METZ,11
+Ware,Beach-Bickley,Governor,,LIB,TED METZ,3
+Ware,Haywood,Governor,,LIB,TED METZ,0
+Ware,Jamestown,Governor,,LIB,TED METZ,5
+Ware,Manor,Governor,,LIB,TED METZ,0
+Ware,Millwood,Governor,,LIB,TED METZ,0
+Ware,Waresboro,Governor,,LIB,TED METZ,1
+Ware,District 1,Lieutenant Governor,,REP,GEOFF DUNCAN,304
+Ware,District 2A,Lieutenant Governor,,REP,GEOFF DUNCAN,923
+Ware,District 2B,Lieutenant Governor,,REP,GEOFF DUNCAN,134
+Ware,1231-150B,Lieutenant Governor,,REP,GEOFF DUNCAN,1664
+Ware,1231-150C,Lieutenant Governor,,REP,GEOFF DUNCAN,469
+Ware,1231-151,Lieutenant Governor,,REP,GEOFF DUNCAN,1716
+Ware,Beach-Bickley,Lieutenant Governor,,REP,GEOFF DUNCAN,215
+Ware,Haywood,Lieutenant Governor,,REP,GEOFF DUNCAN,310
+Ware,Jamestown,Lieutenant Governor,,REP,GEOFF DUNCAN,837
+Ware,Manor,Lieutenant Governor,,REP,GEOFF DUNCAN,264
+Ware,Millwood,Lieutenant Governor,,REP,GEOFF DUNCAN,275
+Ware,Waresboro,Lieutenant Governor,,REP,GEOFF DUNCAN,508
+Ware,District 1,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1387
+Ware,District 2A,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,396
+Ware,District 2B,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,208
+Ware,1231-150B,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,397
+Ware,1231-150C,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,71
+Ware,1231-151,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,225
+Ware,Beach-Bickley,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,22
+Ware,Haywood,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,21
+Ware,Jamestown,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,69
+Ware,Manor,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,16
+Ware,Millwood,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,24
+Ware,Waresboro,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,39
+Ware,District 1,Secretary Of State,,REP,BRAD RAFFENSPERGER,297
+Ware,District 2A,Secretary Of State,,REP,BRAD RAFFENSPERGER,916
+Ware,District 2B,Secretary Of State,,REP,BRAD RAFFENSPERGER,133
+Ware,1231-150B,Secretary Of State,,REP,BRAD RAFFENSPERGER,1686
+Ware,1231-150C,Secretary Of State,,REP,BRAD RAFFENSPERGER,464
+Ware,1231-151,Secretary Of State,,REP,BRAD RAFFENSPERGER,1729
+Ware,Beach-Bickley,Secretary Of State,,REP,BRAD RAFFENSPERGER,217
+Ware,Haywood,Secretary Of State,,REP,BRAD RAFFENSPERGER,311
+Ware,Jamestown,Secretary Of State,,REP,BRAD RAFFENSPERGER,846
+Ware,Manor,Secretary Of State,,REP,BRAD RAFFENSPERGER,272
+Ware,Millwood,Secretary Of State,,REP,BRAD RAFFENSPERGER,277
+Ware,Waresboro,Secretary Of State,,REP,BRAD RAFFENSPERGER,519
+Ware,District 1,Secretary Of State,,DEM,JOHN BARROW,1486
+Ware,District 2A,Secretary Of State,,DEM,JOHN BARROW,406
+Ware,District 2B,Secretary Of State,,DEM,JOHN BARROW,220
+Ware,1231-150B,Secretary Of State,,DEM,JOHN BARROW,414
+Ware,1231-150C,Secretary Of State,,DEM,JOHN BARROW,82
+Ware,1231-151,Secretary Of State,,DEM,JOHN BARROW,247
+Ware,Beach-Bickley,Secretary Of State,,DEM,JOHN BARROW,23
+Ware,Haywood,Secretary Of State,,DEM,JOHN BARROW,28
+Ware,Jamestown,Secretary Of State,,DEM,JOHN BARROW,75
+Ware,Manor,Secretary Of State,,DEM,JOHN BARROW,18
+Ware,Millwood,Secretary Of State,,DEM,JOHN BARROW,23
+Ware,Waresboro,Secretary Of State,,DEM,JOHN BARROW,44
+Ware,District 1,Secretary Of State,,LIB,SMYTHE DUVAL,31
+Ware,District 2A,Secretary Of State,,LIB,SMYTHE DUVAL,21
+Ware,District 2B,Secretary Of State,,LIB,SMYTHE DUVAL,2
+Ware,1231-150B,Secretary Of State,,LIB,SMYTHE DUVAL,30
+Ware,1231-150C,Secretary Of State,,LIB,SMYTHE DUVAL,8
+Ware,1231-151,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Ware,Beach-Bickley,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Ware,Haywood,Secretary Of State,,LIB,SMYTHE DUVAL,0
+Ware,Jamestown,Secretary Of State,,LIB,SMYTHE DUVAL,4
+Ware,Manor,Secretary Of State,,LIB,SMYTHE DUVAL,0
+Ware,Millwood,Secretary Of State,,LIB,SMYTHE DUVAL,2
+Ware,Waresboro,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Ware,District 1,Attorney General,,(REP,CHRIS CARR ,325
+Ware,District 2A,Attorney General,,(REP,CHRIS CARR ,939
+Ware,District 2B,Attorney General,,(REP,CHRIS CARR ,134
+Ware,1231-150B,Attorney General,,(REP,CHRIS CARR ,1694
+Ware,1231-150C,Attorney General,,(REP,CHRIS CARR ,471
+Ware,1231-151,Attorney General,,(REP,CHRIS CARR ,1745
+Ware,Beach-Bickley,Attorney General,,(REP,CHRIS CARR ,218
+Ware,Haywood,Attorney General,,(REP,CHRIS CARR ,318
+Ware,Jamestown,Attorney General,,(REP,CHRIS CARR ,842
+Ware,Manor,Attorney General,,(REP,CHRIS CARR ,272
+Ware,Millwood,Attorney General,,(REP,CHRIS CARR ,274
+Ware,Waresboro,Attorney General,,(REP,CHRIS CARR ,522
+Ware,District 1,Attorney General,,DEM,CHARLIE BAILEY,1476
+Ware,District 2A,Attorney General,,DEM,CHARLIE BAILEY,403
+Ware,District 2B,Attorney General,,DEM,CHARLIE BAILEY,221
+Ware,1231-150B,Attorney General,,DEM,CHARLIE BAILEY,418
+Ware,1231-150C,Attorney General,,DEM,CHARLIE BAILEY,85
+Ware,1231-151,Attorney General,,DEM,CHARLIE BAILEY,232
+Ware,Beach-Bickley,Attorney General,,DEM,CHARLIE BAILEY,22
+Ware,Haywood,Attorney General,,DEM,CHARLIE BAILEY,24
+Ware,Jamestown,Attorney General,,DEM,CHARLIE BAILEY,76
+Ware,Manor,Attorney General,,DEM,CHARLIE BAILEY,14
+Ware,Millwood,Attorney General,,DEM,CHARLIE BAILEY,24
+Ware,Waresboro,Attorney General,,DEM,CHARLIE BAILEY,39
+Ware,District 1,Commissioner Of Agriculture,,(REP,GARY BLACK ,323
+Ware,District 2A,Commissioner Of Agriculture,,(REP,GARY BLACK ,948
+Ware,District 2B,Commissioner Of Agriculture,,(REP,GARY BLACK ,135
+Ware,1231-150B,Commissioner Of Agriculture,,(REP,GARY BLACK ,1694
+Ware,1231-150C,Commissioner Of Agriculture,,(REP,GARY BLACK ,461
+Ware,1231-151,Commissioner Of Agriculture,,(REP,GARY BLACK ,1750
+Ware,Beach-Bickley,Commissioner Of Agriculture,,(REP,GARY BLACK ,215
+Ware,Haywood,Commissioner Of Agriculture,,(REP,GARY BLACK ,318
+Ware,Jamestown,Commissioner Of Agriculture,,(REP,GARY BLACK ,852
+Ware,Manor,Commissioner Of Agriculture,,(REP,GARY BLACK ,277
+Ware,Millwood,Commissioner Of Agriculture,,(REP,GARY BLACK ,277
+Ware,Waresboro,Commissioner Of Agriculture,,(REP,GARY BLACK ,520
+Ware,District 1,Commissioner Of Agriculture,,DEM,FRED SWANN,1468
+Ware,District 2A,Commissioner Of Agriculture,,DEM,FRED SWANN,388
+Ware,District 2B,Commissioner Of Agriculture,,DEM,FRED SWANN,215
+Ware,1231-150B,Commissioner Of Agriculture,,DEM,FRED SWANN,405
+Ware,1231-150C,Commissioner Of Agriculture,,DEM,FRED SWANN,83
+Ware,1231-151,Commissioner Of Agriculture,,DEM,FRED SWANN,214
+Ware,Beach-Bickley,Commissioner Of Agriculture,,DEM,FRED SWANN,23
+Ware,Haywood,Commissioner Of Agriculture,,DEM,FRED SWANN,26
+Ware,Jamestown,Commissioner Of Agriculture,,DEM,FRED SWANN,69
+Ware,Manor,Commissioner Of Agriculture,,DEM,FRED SWANN,14
+Ware,Millwood,Commissioner Of Agriculture,,DEM,FRED SWANN,22
+Ware,Waresboro,Commissioner Of Agriculture,,DEM,FRED SWANN,41
+Ware,District 1,Commissioner Of Insurance,,REP,JIM BECK,301
+Ware,District 2A,Commissioner Of Insurance,,REP,JIM BECK,922
+Ware,District 2B,Commissioner Of Insurance,,REP,JIM BECK,133
+Ware,1231-150B,Commissioner Of Insurance,,REP,JIM BECK,1689
+Ware,1231-150C,Commissioner Of Insurance,,REP,JIM BECK,469
+Ware,1231-151,Commissioner Of Insurance,,REP,JIM BECK,1739
+Ware,Beach-Bickley,Commissioner Of Insurance,,REP,JIM BECK,217
+Ware,Haywood,Commissioner Of Insurance,,REP,JIM BECK,319
+Ware,Jamestown,Commissioner Of Insurance,,REP,JIM BECK,844
+Ware,Manor,Commissioner Of Insurance,,REP,JIM BECK,271
+Ware,Millwood,Commissioner Of Insurance,,REP,JIM BECK,281
+Ware,Waresboro,Commissioner Of Insurance,,REP,JIM BECK,521
+Ware,District 1,Commissioner Of Insurance,,DEM,JANICE LAWS,1448
+Ware,District 2A,Commissioner Of Insurance,,DEM,JANICE LAWS,401
+Ware,District 2B,Commissioner Of Insurance,,DEM,JANICE LAWS,214
+Ware,1231-150B,Commissioner Of Insurance,,DEM,JANICE LAWS,399
+Ware,1231-150C,Commissioner Of Insurance,,DEM,JANICE LAWS,77
+Ware,1231-151,Commissioner Of Insurance,,DEM,JANICE LAWS,224
+Ware,Beach-Bickley,Commissioner Of Insurance,,DEM,JANICE LAWS,21
+Ware,Haywood,Commissioner Of Insurance,,DEM,JANICE LAWS,22
+Ware,Jamestown,Commissioner Of Insurance,,DEM,JANICE LAWS,72
+Ware,Manor,Commissioner Of Insurance,,DEM,JANICE LAWS,15
+Ware,Millwood,Commissioner Of Insurance,,DEM,JANICE LAWS,22
+Ware,Waresboro,Commissioner Of Insurance,,DEM,JANICE LAWS,38
+Ware,District 1,Commissioner Of Insurance,,LIB,DONNIE FOSTER,42
+Ware,District 2A,Commissioner Of Insurance,,LIB,DONNIE FOSTER,24
+Ware,District 2B,Commissioner Of Insurance,,LIB,DONNIE FOSTER,9
+Ware,1231-150B,Commissioner Of Insurance,,LIB,DONNIE FOSTER,31
+Ware,1231-150C,Commissioner Of Insurance,,LIB,DONNIE FOSTER,12
+Ware,1231-151,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
+Ware,Beach-Bickley,Commissioner Of Insurance,,LIB,DONNIE FOSTER,2
+Ware,Haywood,Commissioner Of Insurance,,LIB,DONNIE FOSTER,2
+Ware,Jamestown,Commissioner Of Insurance,,LIB,DONNIE FOSTER,7
+Ware,Manor,Commissioner Of Insurance,,LIB,DONNIE FOSTER,1
+Ware,Millwood,Commissioner Of Insurance,,LIB,DONNIE FOSTER,2
+Ware,Waresboro,Commissioner Of Insurance,,LIB,DONNIE FOSTER,6
+Ware,District 1,State School Superintendent,,(REP,RICHARD WOODS ,336
+Ware,District 2A,State School Superintendent,,(REP,RICHARD WOODS ,964
+Ware,District 2B,State School Superintendent,,(REP,RICHARD WOODS ,138
+Ware,1231-150B,State School Superintendent,,(REP,RICHARD WOODS ,1710
+Ware,1231-150C,State School Superintendent,,(REP,RICHARD WOODS ,476
+Ware,1231-151,State School Superintendent,,(REP,RICHARD WOODS ,1778
+Ware,Beach-Bickley,State School Superintendent,,(REP,RICHARD WOODS ,218
+Ware,Haywood,State School Superintendent,,(REP,RICHARD WOODS ,319
+Ware,Jamestown,State School Superintendent,,(REP,RICHARD WOODS ,856
+Ware,Manor,State School Superintendent,,(REP,RICHARD WOODS ,280
+Ware,Millwood,State School Superintendent,,(REP,RICHARD WOODS ,284
+Ware,Waresboro,State School Superintendent,,(REP,RICHARD WOODS ,523
+Ware,District 1,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1477
+Ware,District 2A,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",386
+Ware,District 2B,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",217
+Ware,1231-150B,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",410
+Ware,1231-150C,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",79
+Ware,1231-151,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",214
+Ware,Beach-Bickley,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",22
+Ware,Haywood,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",22
+Ware,Jamestown,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",72
+Ware,Manor,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",13
+Ware,Millwood,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",20
+Ware,Waresboro,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",41
+Ware,District 1,Commissioner Of Labor,,(REP,MARK BUTLER ,338
+Ware,District 2A,Commissioner Of Labor,,(REP,MARK BUTLER ,943
+Ware,District 2B,Commissioner Of Labor,,(REP,MARK BUTLER ,131
+Ware,1231-150B,Commissioner Of Labor,,(REP,MARK BUTLER ,1699
+Ware,1231-150C,Commissioner Of Labor,,(REP,MARK BUTLER ,475
+Ware,1231-151,Commissioner Of Labor,,(REP,MARK BUTLER ,1750
+Ware,Beach-Bickley,Commissioner Of Labor,,(REP,MARK BUTLER ,213
+Ware,Haywood,Commissioner Of Labor,,(REP,MARK BUTLER ,318
+Ware,Jamestown,Commissioner Of Labor,,(REP,MARK BUTLER ,856
+Ware,Manor,Commissioner Of Labor,,(REP,MARK BUTLER ,275
+Ware,Millwood,Commissioner Of Labor,,(REP,MARK BUTLER ,279
+Ware,Waresboro,Commissioner Of Labor,,(REP,MARK BUTLER ,525
+Ware,District 1,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1471
+Ware,District 2A,Commissioner Of Labor,,DEM,RICHARD KEATLEY,400
+Ware,District 2B,Commissioner Of Labor,,DEM,RICHARD KEATLEY,225
+Ware,1231-150B,Commissioner Of Labor,,DEM,RICHARD KEATLEY,412
+Ware,1231-150C,Commissioner Of Labor,,DEM,RICHARD KEATLEY,83
+Ware,1231-151,Commissioner Of Labor,,DEM,RICHARD KEATLEY,233
+Ware,Beach-Bickley,Commissioner Of Labor,,DEM,RICHARD KEATLEY,24
+Ware,Haywood,Commissioner Of Labor,,DEM,RICHARD KEATLEY,23
+Ware,Jamestown,Commissioner Of Labor,,DEM,RICHARD KEATLEY,68
+Ware,Manor,Commissioner Of Labor,,DEM,RICHARD KEATLEY,15
+Ware,Millwood,Commissioner Of Labor,,DEM,RICHARD KEATLEY,24
+Ware,Waresboro,Commissioner Of Labor,,DEM,RICHARD KEATLEY,38
+Ware,District 1,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,298
+Ware,District 2A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,920
+Ware,District 2B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,135
+Ware,1231-150B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1681
+Ware,1231-150C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,454
+Ware,1231-151,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1727
+Ware,Beach-Bickley,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,216
+Ware,Haywood,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,313
+Ware,Jamestown,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,843
+Ware,Manor,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,275
+Ware,Millwood,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,277
+Ware,Waresboro,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,519
+Ware,District 1,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1459
+Ware,District 2A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,394
+Ware,District 2B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,214
+Ware,1231-150B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,405
+Ware,1231-150C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,80
+Ware,1231-151,"Public Service Commission, District 3",3,DEM,LINDY MILLER,232
+Ware,Beach-Bickley,"Public Service Commission, District 3",3,DEM,LINDY MILLER,19
+Ware,Haywood,"Public Service Commission, District 3",3,DEM,LINDY MILLER,24
+Ware,Jamestown,"Public Service Commission, District 3",3,DEM,LINDY MILLER,69
+Ware,Manor,"Public Service Commission, District 3",3,DEM,LINDY MILLER,15
+Ware,Millwood,"Public Service Commission, District 3",3,DEM,LINDY MILLER,24
+Ware,Waresboro,"Public Service Commission, District 3",3,DEM,LINDY MILLER,41
+Ware,District 1,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,42
+Ware,District 2A,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,28
+Ware,District 2B,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Ware,1231-150B,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,36
+Ware,1231-150C,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,12
+Ware,1231-151,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,26
+Ware,Beach-Bickley,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,3
+Ware,Haywood,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Ware,Jamestown,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,10
+Ware,Manor,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,1
+Ware,Millwood,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Ware,Waresboro,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Ware,District 1,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,306
+Ware,District 2A,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,915
+Ware,District 2B,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,129
+Ware,1231-150B,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1673
+Ware,1231-150C,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,466
+Ware,1231-151,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1725
+Ware,Beach-Bickley,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,214
+Ware,Haywood,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,318
+Ware,Jamestown,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,832
+Ware,Manor,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,275
+Ware,Millwood,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,278
+Ware,Waresboro,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,517
+Ware,District 1,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1469
+Ware,District 2A,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,396
+Ware,District 2B,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,218
+Ware,1231-150B,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,405
+Ware,1231-150C,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,76
+Ware,1231-151,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,231
+Ware,Beach-Bickley,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,21
+Ware,Haywood,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,21
+Ware,Jamestown,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,73
+Ware,Manor,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,16
+Ware,Millwood,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,23
+Ware,Waresboro,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,40
+Ware,District 1,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,30
+Ware,District 2A,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,32
+Ware,District 2B,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
+Ware,1231-150B,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,38
+Ware,1231-150C,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,10
+Ware,1231-151,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,31
+Ware,Beach-Bickley,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,2
+Ware,Haywood,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,2
+Ware,Jamestown,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Ware,Manor,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,0
+Ware,Millwood,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,1
+Ware,Waresboro,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,5
+Ware,District 1,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",333
+Ware,District 2A,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",960
+Ware,District 2B,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",141
+Ware,1231-150B,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1729
+Ware,1231-150C,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",483
+Ware,1231-151,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1780
+Ware,Beach-Bickley,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",215
+Ware,Haywood,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",325
+Ware,Jamestown,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",861
+Ware,Manor,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",277
+Ware,Millwood,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",279
+Ware,Waresboro,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",524
+Ware,District 1,U.S. Representative,1,DEM,LISA M. RING,1485
+Ware,District 2A,U.S. Representative,1,DEM,LISA M. RING,392
+Ware,District 2B,U.S. Representative,1,DEM,LISA M. RING,216
+Ware,1231-150B,U.S. Representative,1,DEM,LISA M. RING,407
+Ware,1231-150C,U.S. Representative,1,DEM,LISA M. RING,80
+Ware,1231-151,U.S. Representative,1,DEM,LISA M. RING,230
+Ware,Beach-Bickley,U.S. Representative,1,DEM,LISA M. RING,25
+Ware,Haywood,U.S. Representative,1,DEM,LISA M. RING,20
+Ware,Jamestown,U.S. Representative,1,DEM,LISA M. RING,69
+Ware,Manor,U.S. Representative,1,DEM,LISA M. RING,18
+Ware,Millwood,U.S. Representative,1,DEM,LISA M. RING,25
+Ware,Waresboro,U.S. Representative,1,DEM,LISA M. RING,42
+Ware,District 1,State Senator,7,(REP,TYLER HARPER ,860
+Ware,District 2A,State Senator,7,(REP,TYLER HARPER ,1105
+Ware,District 2B,State Senator,7,(REP,TYLER HARPER ,219
+Ware,1231-150B,State Senator,7,(REP,TYLER HARPER ,1853
+Ware,1231-150C,State Senator,7,(REP,TYLER HARPER ,514
+Ware,1231-151,State Senator,7,(REP,TYLER HARPER ,1861
+Ware,Beach-Bickley,State Senator,7,(REP,TYLER HARPER ,229
+Ware,Haywood,State Senator,7,(REP,TYLER HARPER ,334
+Ware,Jamestown,State Senator,7,(REP,TYLER HARPER ,892
+Ware,Manor,State Senator,7,(REP,TYLER HARPER ,278
+Ware,Millwood,State Senator,7,(REP,TYLER HARPER ,287
+Ware,Waresboro,State Senator,7,(REP,TYLER HARPER ,537
+Ware,District 1,State Representative,174,(REP,JOHN CORBETT ,360
+Ware,District 2B,State Representative,174,(REP,JOHN CORBETT ,24
+Ware,1231-150C,State Representative,174,(REP,JOHN CORBETT ,511
+Ware,Manor,State Representative,174,(REP,JOHN CORBETT ,276
+Ware,District 1,State Representative,176,(REP,JASON SHAW ,450
+Ware,District 2A,State Representative,176,(REP,JASON SHAW ,16
+Ware,1231-150B,State Representative,176,(REP,JASON SHAW ,1828
+Ware,Beach-Bickley,State Representative,176,(REP,JASON SHAW ,228
+Ware,Haywood,State Representative,176,(REP,JASON SHAW ,332
+Ware,Jamestown,State Representative,176,(REP,JASON SHAW ,892
+Ware,Millwood,State Representative,176,(REP,JASON SHAW ,283
+Ware,Waresboro,State Representative,176,(REP,JASON SHAW ,534
+Ware,District 1,State Representative,180,REP,STEVEN SAINZ,6
+Ware,District 2A,State Representative,180,REP,STEVEN SAINZ,1082
+Ware,District 2B,State Representative,180,REP,STEVEN SAINZ,193
+Ware,1231-151,State Representative,180,REP,STEVEN SAINZ,1842
+Ware,District 1,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,883
+Ware,District 2A,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,1111
+Ware,District 2B,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,228
+Ware,1231-150B,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,1853
+Ware,1231-150C,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,508
+Ware,1231-151,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,1843
+Ware,Beach-Bickley,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,227
+Ware,Haywood,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,328
+Ware,Jamestown,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,889
+Ware,Manor,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,279
+Ware,Millwood,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,286
+Ware,Waresboro,District Attorney, Waycross Circuit,(REP,GEORGE E. BARNHILL ,538
+Ware,District 1,SOLICITOR GEN,,R,"J. JOHNSON, JR.",834
+Ware,District 2A,SOLICITOR GEN,,R,"J. JOHNSON, JR.",1098
+Ware,District 2B,SOLICITOR GEN,,R,"J. JOHNSON, JR.",224
+Ware,1231-150B,SOLICITOR GEN,,R,"J. JOHNSON, JR.",1827
+Ware,1231-150C,SOLICITOR GEN,,R,"J. JOHNSON, JR.",509
+Ware,1231-151,SOLICITOR GEN,,R,"J. JOHNSON, JR.",1842
+Ware,Beach-Bickley,SOLICITOR GEN,,R,"J. JOHNSON, JR.",226
+Ware,Haywood,SOLICITOR GEN,,R,"J. JOHNSON, JR.",335
+Ware,Jamestown,SOLICITOR GEN,,R,"J. JOHNSON, JR.",888
+Ware,Manor,SOLICITOR GEN,,R,"J. JOHNSON, JR.",281
+Ware,Millwood,SOLICITOR GEN,,R,"J. JOHNSON, JR.",285
+Ware,Waresboro,SOLICITOR GEN,,R,"J. JOHNSON, JR.",530
+Ware,District 1,CC, D1,D,C. NELSON ,1566
+Ware,1231-150B,CC, D3,R,B. CARTER,1843
+Ware,1231-150C,CC, D3,R,B. CARTER,373
+Ware,District 1,Soil and Water,,,D. GOOD,1233
+Ware,District 2A,Soil and Water,,,D. GOOD,1110
+Ware,District 2B,Soil and Water,,,D. GOOD,240
+Ware,1231-150B,Soil and Water,,,D. GOOD,1815
+Ware,1231-150C,Soil and Water,,,D. GOOD,498
+Ware,1231-151,Soil and Water,,,D. GOOD,1707
+Ware,Beach-Bickley,Soil and Water,,,D. GOOD,203
+Ware,Haywood,Soil and Water,,,D. GOOD,319
+Ware,Jamestown,Soil and Water,,,D. GOOD,820
+Ware,Manor,Soil and Water,,,D. GOOD,259
+Ware,Millwood,Soil and Water,,,D. GOOD,253
+Ware,Waresboro,Soil and Water,,,D. GOOD,474
+Ware,District 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1428
+Ware,District 2A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1035
+Ware,District 2B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,272
+Ware,1231-150B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1526
+Ware,1231-150C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,402
+Ware,1231-151,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1338
+Ware,Beach-Bickley,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,146
+Ware,Haywood,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,220
+Ware,Jamestown,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,595
+Ware,Manor,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,190
+Ware,Millwood,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,157
+Ware,Waresboro,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,358
+Ware,District 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,331
+Ware,District 2A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,281
+Ware,District 2B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,72
+Ware,1231-150B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,550
+Ware,1231-150C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,142
+Ware,1231-151,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,601
+Ware,Beach-Bickley,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,85
+Ware,Haywood,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,119
+Ware,Jamestown,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,294
+Ware,Manor,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,93
+Ware,Millwood,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,142
+Ware,Waresboro,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,189
+Ware,District 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1206
+Ware,District 2A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,792
+Ware,District 2B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,239
+Ware,1231-150B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1156
+Ware,1231-150C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,308
+Ware,1231-151,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1030
+Ware,Beach-Bickley,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,94
+Ware,Haywood,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,169
+Ware,Jamestown,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,468
+Ware,Manor,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,152
+Ware,Millwood,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,114
+Ware,Waresboro,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,283
+Ware,District 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,526
+Ware,District 2A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,499
+Ware,District 2B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,95
+Ware,1231-150B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,844
+Ware,1231-150C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,221
+Ware,1231-151,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,861
+Ware,Beach-Bickley,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,131
+Ware,Haywood,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,163
+Ware,Jamestown,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,408
+Ware,Manor,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,126
+Ware,Millwood,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,179
+Ware,Waresboro,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,246
+Ware,District 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1004
+Ware,District 2A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,719
+Ware,District 2B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,195
+Ware,1231-150B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1019
+Ware,1231-150C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,274
+Ware,1231-151,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,912
+Ware,Beach-Bickley,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,96
+Ware,Haywood,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,156
+Ware,Jamestown,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,397
+Ware,Manor,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,139
+Ware,Millwood,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,91
+Ware,Waresboro,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,230
+Ware,District 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,696
+Ware,District 2A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,557
+Ware,District 2B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,134
+Ware,1231-150B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,964
+Ware,1231-150C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,238
+Ware,1231-151,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,973
+Ware,Beach-Bickley,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,123
+Ware,Haywood,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,173
+Ware,Jamestown,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,463
+Ware,Manor,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,138
+Ware,Millwood,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,197
+Ware,Waresboro,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,290
+Ware,District 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1514
+Ware,District 2A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1037
+Ware,District 2B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,286
+Ware,1231-150B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1529
+Ware,1231-150C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,386
+Ware,1231-151,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1343
+Ware,Beach-Bickley,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,152
+Ware,Haywood,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,224
+Ware,Jamestown,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,609
+Ware,Manor,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,178
+Ware,Millwood,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,154
+Ware,Waresboro,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,375
+Ware,District 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,248
+Ware,District 2A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,276
+Ware,District 2B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,53
+Ware,1231-150B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,516
+Ware,1231-150C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,142
+Ware,1231-151,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,580
+Ware,Beach-Bickley,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,74
+Ware,Haywood,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,115
+Ware,Jamestown,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,272
+Ware,Manor,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,101
+Ware,Millwood,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,144
+Ware,Waresboro,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,163
+Ware,District 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1286
+Ware,District 2A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,881
+Ware,District 2B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,248
+Ware,1231-150B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1208
+Ware,1231-150C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,303
+Ware,1231-151,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1052
+Ware,Beach-Bickley,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,113
+Ware,Haywood,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,163
+Ware,Jamestown,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,486
+Ware,Manor,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,150
+Ware,Millwood,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,117
+Ware,Waresboro,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,286
+Ware,District 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,455
+Ware,District 2A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,415
+Ware,District 2B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,81
+Ware,1231-150B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,802
+Ware,1231-150C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,218
+Ware,1231-151,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,828
+Ware,Beach-Bickley,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,108
+Ware,Haywood,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,165
+Ware,Jamestown,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,384
+Ware,Manor,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,128
+Ware,Millwood,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,173
+Ware,Waresboro,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,246
+Ware,District 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1012
+Ware,District 2A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,684
+Ware,District 2B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,195
+Ware,1231-150B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,978
+Ware,1231-150C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,259
+Ware,1231-151,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,839
+Ware,Beach-Bickley,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,83
+Ware,Haywood,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,130
+Ware,Jamestown,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,390
+Ware,Manor,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,127
+Ware,Millwood,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,97
+Ware,Waresboro,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,237
+Ware,District 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,697
+Ware,District 2A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,584
+Ware,District 2B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,134
+Ware,1231-150B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,985
+Ware,1231-150C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,257
+Ware,1231-151,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1014
+Ware,Beach-Bickley,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,137
+Ware,Haywood,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,193
+Ware,Jamestown,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,465
+Ware,Manor,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,145
+Ware,Millwood,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,192
+Ware,Waresboro,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,286
+Ware,District 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1422
+Ware,District 2A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,963
+Ware,District 2B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,269
+Ware,1231-150B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1365
+Ware,1231-150C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,350
+Ware,1231-151,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1184
+Ware,Beach-Bickley,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,124
+Ware,Haywood,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,199
+Ware,Jamestown,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,564
+Ware,Manor,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,166
+Ware,Millwood,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,136
+Ware,Waresboro,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,335
+Ware,District 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,325
+Ware,District 2A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,338
+Ware,District 2B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,69
+Ware,1231-150B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,641
+Ware,1231-150C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,178
+Ware,1231-151,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,721
+Ware,Beach-Bickley,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,107
+Ware,Haywood,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,135
+Ware,Jamestown,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,315
+Ware,Manor,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,117
+Ware,Millwood,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,158
+Ware,Waresboro,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,205

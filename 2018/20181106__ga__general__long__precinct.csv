@@ -1,0 +1,316 @@
+county,precinct,office,district,party,candidate,votes
+Long,Beards Creek,Governor,,REP,BRIAN KEMP,379
+Long,Rye Patch/Oak Dale,Governor,,REP,BRIAN KEMP,742
+Long,South Ludowici,Governor,,REP,BRIAN KEMP,232
+Long,North Ludowici,Governor,,REP,BRIAN KEMP,438
+Long,Tibet,Governor,,REP,BRIAN KEMP,376
+Long,Alma Flournoy,Governor,,REP,BRIAN KEMP,130
+Long,Faith Baptist Annex,Governor,,REP,BRIAN KEMP,294
+Long,Beards Creek,Governor,,DEM,STACEY ABRAMS,252
+Long,Rye Patch/Oak Dale,Governor,,DEM,STACEY ABRAMS,366
+Long,South Ludowici,Governor,,DEM,STACEY ABRAMS,236
+Long,North Ludowici,Governor,,DEM,STACEY ABRAMS,333
+Long,Tibet,Governor,,DEM,STACEY ABRAMS,65
+Long,Alma Flournoy,Governor,,DEM,STACEY ABRAMS,32
+Long,Faith Baptist Annex,Governor,,DEM,STACEY ABRAMS,87
+Long,Beards Creek,Governor,,LIB,TED METZ,4
+Long,Rye Patch/Oak Dale,Governor,,LIB,TED METZ,6
+Long,South Ludowici,Governor,,LIB,TED METZ,4
+Long,North Ludowici,Governor,,LIB,TED METZ,13
+Long,Tibet,Governor,,LIB,TED METZ,5
+Long,Alma Flournoy,Governor,,LIB,TED METZ,1
+Long,Faith Baptist Annex,Governor,,LIB,TED METZ,3
+Long,Beards Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,351
+Long,Rye Patch/Oak Dale,Lieutenant Governor,,REP,GEOFF DUNCAN,709
+Long,South Ludowici,Lieutenant Governor,,REP,GEOFF DUNCAN,223
+Long,North Ludowici,Lieutenant Governor,,REP,GEOFF DUNCAN,434
+Long,Tibet,Lieutenant Governor,,REP,GEOFF DUNCAN,358
+Long,Alma Flournoy,Lieutenant Governor,,REP,GEOFF DUNCAN,115
+Long,Faith Baptist Annex,Lieutenant Governor,,REP,GEOFF DUNCAN,286
+Long,Beards Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,229
+Long,Rye Patch/Oak Dale,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,369
+Long,South Ludowici,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,218
+Long,North Ludowici,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,319
+Long,Tibet,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,67
+Long,Alma Flournoy,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,35
+Long,Faith Baptist Annex,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,90
+Long,Beards Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,320
+Long,Rye Patch/Oak Dale,Secretary Of State,,REP,BRAD RAFFENSPERGER,643
+Long,South Ludowici,Secretary Of State,,REP,BRAD RAFFENSPERGER,211
+Long,North Ludowici,Secretary Of State,,REP,BRAD RAFFENSPERGER,406
+Long,Tibet,Secretary Of State,,REP,BRAD RAFFENSPERGER,336
+Long,Alma Flournoy,Secretary Of State,,REP,BRAD RAFFENSPERGER,108
+Long,Faith Baptist Annex,Secretary Of State,,REP,BRAD RAFFENSPERGER,270
+Long,Beards Creek,Secretary Of State,,DEM,JOHN BARROW,290
+Long,Rye Patch/Oak Dale,Secretary Of State,,DEM,JOHN BARROW,432
+Long,South Ludowici,Secretary Of State,,DEM,JOHN BARROW,240
+Long,North Ludowici,Secretary Of State,,DEM,JOHN BARROW,352
+Long,Tibet,Secretary Of State,,DEM,JOHN BARROW,101
+Long,Alma Flournoy,Secretary Of State,,DEM,JOHN BARROW,46
+Long,Faith Baptist Annex,Secretary Of State,,DEM,JOHN BARROW,101
+Long,Beards Creek,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Long,Rye Patch/Oak Dale,Secretary Of State,,LIB,SMYTHE DUVAL,27
+Long,South Ludowici,Secretary Of State,,LIB,SMYTHE DUVAL,11
+Long,North Ludowici,Secretary Of State,,LIB,SMYTHE DUVAL,13
+Long,Tibet,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Long,Alma Flournoy,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Long,Faith Baptist Annex,Secretary Of State,,LIB,SMYTHE DUVAL,8
+Long,Beards Creek,Attorney General,,(REP,CHRIS CARR ,356
+Long,Rye Patch/Oak Dale,Attorney General,,(REP,CHRIS CARR ,713
+Long,South Ludowici,Attorney General,,(REP,CHRIS CARR ,227
+Long,North Ludowici,Attorney General,,(REP,CHRIS CARR ,431
+Long,Tibet,Attorney General,,(REP,CHRIS CARR ,364
+Long,Alma Flournoy,Attorney General,,(REP,CHRIS CARR ,119
+Long,Faith Baptist Annex,Attorney General,,(REP,CHRIS CARR ,273
+Long,Beards Creek,Attorney General,,DEM,CHARLIE BAILEY,250
+Long,Rye Patch/Oak Dale,Attorney General,,DEM,CHARLIE BAILEY,373
+Long,South Ludowici,Attorney General,,DEM,CHARLIE BAILEY,227
+Long,North Ludowici,Attorney General,,DEM,CHARLIE BAILEY,326
+Long,Tibet,Attorney General,,DEM,CHARLIE BAILEY,68
+Long,Alma Flournoy,Attorney General,,DEM,CHARLIE BAILEY,35
+Long,Faith Baptist Annex,Attorney General,,DEM,CHARLIE BAILEY,96
+Long,Beards Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,376
+Long,Rye Patch/Oak Dale,Commissioner Of Agriculture,,(REP,GARY BLACK ,721
+Long,South Ludowici,Commissioner Of Agriculture,,(REP,GARY BLACK ,238
+Long,North Ludowici,Commissioner Of Agriculture,,(REP,GARY BLACK ,444
+Long,Tibet,Commissioner Of Agriculture,,(REP,GARY BLACK ,370
+Long,Alma Flournoy,Commissioner Of Agriculture,,(REP,GARY BLACK ,124
+Long,Faith Baptist Annex,Commissioner Of Agriculture,,(REP,GARY BLACK ,282
+Long,Beards Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,233
+Long,Rye Patch/Oak Dale,Commissioner Of Agriculture,,DEM,FRED SWANN,366
+Long,South Ludowici,Commissioner Of Agriculture,,DEM,FRED SWANN,217
+Long,North Ludowici,Commissioner Of Agriculture,,DEM,FRED SWANN,314
+Long,Tibet,Commissioner Of Agriculture,,DEM,FRED SWANN,68
+Long,Alma Flournoy,Commissioner Of Agriculture,,DEM,FRED SWANN,30
+Long,Faith Baptist Annex,Commissioner Of Agriculture,,DEM,FRED SWANN,88
+Long,Beards Creek,Commissioner Of Insurance,,REP,JIM BECK,363
+Long,Rye Patch/Oak Dale,Commissioner Of Insurance,,REP,JIM BECK,699
+Long,South Ludowici,Commissioner Of Insurance,,REP,JIM BECK,224
+Long,North Ludowici,Commissioner Of Insurance,,REP,JIM BECK,441
+Long,Tibet,Commissioner Of Insurance,,REP,JIM BECK,361
+Long,Alma Flournoy,Commissioner Of Insurance,,REP,JIM BECK,121
+Long,Faith Baptist Annex,Commissioner Of Insurance,,REP,JIM BECK,285
+Long,Beards Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,237
+Long,Rye Patch/Oak Dale,Commissioner Of Insurance,,DEM,JANICE LAWS,362
+Long,South Ludowici,Commissioner Of Insurance,,DEM,JANICE LAWS,216
+Long,North Ludowici,Commissioner Of Insurance,,DEM,JANICE LAWS,304
+Long,Tibet,Commissioner Of Insurance,,DEM,JANICE LAWS,66
+Long,Alma Flournoy,Commissioner Of Insurance,,DEM,JANICE LAWS,32
+Long,Faith Baptist Annex,Commissioner Of Insurance,,DEM,JANICE LAWS,81
+Long,Beards Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
+Long,Rye Patch/Oak Dale,Commissioner Of Insurance,,LIB,DONNIE FOSTER,29
+Long,South Ludowici,Commissioner Of Insurance,,LIB,DONNIE FOSTER,14
+Long,North Ludowici,Commissioner Of Insurance,,LIB,DONNIE FOSTER,19
+Long,Tibet,Commissioner Of Insurance,,LIB,DONNIE FOSTER,9
+Long,Alma Flournoy,Commissioner Of Insurance,,LIB,DONNIE FOSTER,1
+Long,Faith Baptist Annex,Commissioner Of Insurance,,LIB,DONNIE FOSTER,9
+Long,Beards Creek,State School Superintendent,,(REP,RICHARD WOODS ,369
+Long,Rye Patch/Oak Dale,State School Superintendent,,(REP,RICHARD WOODS ,728
+Long,South Ludowici,State School Superintendent,,(REP,RICHARD WOODS ,235
+Long,North Ludowici,State School Superintendent,,(REP,RICHARD WOODS ,450
+Long,Tibet,State School Superintendent,,(REP,RICHARD WOODS ,370
+Long,Alma Flournoy,State School Superintendent,,(REP,RICHARD WOODS ,126
+Long,Faith Baptist Annex,State School Superintendent,,(REP,RICHARD WOODS ,284
+Long,Beards Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",245
+Long,Rye Patch/Oak Dale,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",362
+Long,South Ludowici,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",224
+Long,North Ludowici,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",318
+Long,Tibet,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",68
+Long,Alma Flournoy,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",31
+Long,Faith Baptist Annex,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",89
+Long,Beards Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,374
+Long,Rye Patch/Oak Dale,Commissioner Of Labor,,(REP,MARK BUTLER ,724
+Long,South Ludowici,Commissioner Of Labor,,(REP,MARK BUTLER ,227
+Long,North Ludowici,Commissioner Of Labor,,(REP,MARK BUTLER ,439
+Long,Tibet,Commissioner Of Labor,,(REP,MARK BUTLER ,368
+Long,Alma Flournoy,Commissioner Of Labor,,(REP,MARK BUTLER ,123
+Long,Faith Baptist Annex,Commissioner Of Labor,,(REP,MARK BUTLER ,282
+Long,Beards Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,242
+Long,Rye Patch/Oak Dale,Commissioner Of Labor,,DEM,RICHARD KEATLEY,365
+Long,South Ludowici,Commissioner Of Labor,,DEM,RICHARD KEATLEY,228
+Long,North Ludowici,Commissioner Of Labor,,DEM,RICHARD KEATLEY,324
+Long,Tibet,Commissioner Of Labor,,DEM,RICHARD KEATLEY,64
+Long,Alma Flournoy,Commissioner Of Labor,,DEM,RICHARD KEATLEY,32
+Long,Faith Baptist Annex,Commissioner Of Labor,,DEM,RICHARD KEATLEY,86
+Long,Beards Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,359
+Long,Rye Patch/Oak Dale,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,698
+Long,South Ludowici,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,221
+Long,North Ludowici,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,423
+Long,Tibet,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,359
+Long,Alma Flournoy,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,119
+Long,Faith Baptist Annex,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,276
+Long,Beards Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,239
+Long,Rye Patch/Oak Dale,"Public Service Commission, District 3",3,DEM,LINDY MILLER,357
+Long,South Ludowici,"Public Service Commission, District 3",3,DEM,LINDY MILLER,221
+Long,North Ludowici,"Public Service Commission, District 3",3,DEM,LINDY MILLER,320
+Long,Tibet,"Public Service Commission, District 3",3,DEM,LINDY MILLER,65
+Long,Alma Flournoy,"Public Service Commission, District 3",3,DEM,LINDY MILLER,32
+Long,Faith Baptist Annex,"Public Service Commission, District 3",3,DEM,LINDY MILLER,85
+Long,Beards Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,14
+Long,Rye Patch/Oak Dale,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,31
+Long,South Ludowici,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Long,North Ludowici,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,20
+Long,Tibet,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,12
+Long,Alma Flournoy,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,1
+Long,Faith Baptist Annex,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,8
+Long,Beards Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,357
+Long,Rye Patch/Oak Dale,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,701
+Long,South Ludowici,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,220
+Long,North Ludowici,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,429
+Long,Tibet,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,351
+Long,Alma Flournoy,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,118
+Long,Faith Baptist Annex,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,275
+Long,Beards Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,245
+Long,Rye Patch/Oak Dale,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,361
+Long,South Ludowici,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,219
+Long,North Ludowici,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,315
+Long,Tibet,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,71
+Long,Alma Flournoy,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,30
+Long,Faith Baptist Annex,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,86
+Long,Beards Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Long,Rye Patch/Oak Dale,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,27
+Long,South Ludowici,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,13
+Long,North Ludowici,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,19
+Long,Tibet,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,10
+Long,Alma Flournoy,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,1
+Long,Faith Baptist Annex,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
+Long,Beards Creek,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",383
+Long,Rye Patch/Oak Dale,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",739
+Long,South Ludowici,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",233
+Long,North Ludowici,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",455
+Long,Tibet,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",380
+Long,Alma Flournoy,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",128
+Long,Faith Baptist Annex,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",291
+Long,Beards Creek,U.S. Representative,1,DEM,LISA M. RING,243
+Long,Rye Patch/Oak Dale,U.S. Representative,1,DEM,LISA M. RING,363
+Long,South Ludowici,U.S. Representative,1,DEM,LISA M. RING,228
+Long,North Ludowici,U.S. Representative,1,DEM,LISA M. RING,323
+Long,Tibet,U.S. Representative,1,DEM,LISA M. RING,63
+Long,Alma Flournoy,U.S. Representative,1,DEM,LISA M. RING,31
+Long,Faith Baptist Annex,U.S. Representative,1,DEM,LISA M. RING,84
+Long,Beards Creek,State Senator,19,(REP,BLAKE TILLERY ,456
+Long,Rye Patch/Oak Dale,State Senator,19,(REP,BLAKE TILLERY ,893
+Long,South Ludowici,State Senator,19,(REP,BLAKE TILLERY ,328
+Long,North Ludowici,State Senator,19,(REP,BLAKE TILLERY ,583
+Long,Tibet,State Senator,19,(REP,BLAKE TILLERY ,397
+Long,Alma Flournoy,State Senator,19,(REP,BLAKE TILLERY ,134
+Long,Faith Baptist Annex,State Senator,19,(REP,BLAKE TILLERY ,323
+Long,Beards Creek,State Representative,167,(REP,JEFF JONES ,370
+Long,Rye Patch/Oak Dale,State Representative,167,(REP,JEFF JONES ,723
+Long,South Ludowici,State Representative,167,(REP,JEFF JONES ,237
+Long,North Ludowici,State Representative,167,(REP,JEFF JONES ,440
+Long,Tibet,State Representative,167,(REP,JEFF JONES ,373
+Long,Alma Flournoy,State Representative,167,(REP,JEFF JONES ,124
+Long,Faith Baptist Annex,State Representative,167,(REP,JEFF JONES ,285
+Long,Beards Creek,State Representative,167,DEM,CEDRIC Z. KING,244
+Long,Rye Patch/Oak Dale,State Representative,167,DEM,CEDRIC Z. KING,366
+Long,South Ludowici,State Representative,167,DEM,CEDRIC Z. KING,219
+Long,North Ludowici,State Representative,167,DEM,CEDRIC Z. KING,327
+Long,Tibet,State Representative,167,DEM,CEDRIC Z. KING,62
+Long,Alma Flournoy,State Representative,167,DEM,CEDRIC Z. KING,32
+Long,Faith Baptist Annex,State Representative,167,DEM,CEDRIC Z. KING,87
+Long,Beards Creek,District Attorney, Atlantic Circuit,D,T. DURDEN ,456
+Long,Rye Patch/Oak Dale,District Attorney, Atlantic Circuit,D,T. DURDEN ,819
+Long,South Ludowici,District Attorney, Atlantic Circuit,D,T. DURDEN ,359
+Long,North Ludowici,District Attorney, Atlantic Circuit,D,T. DURDEN ,575
+Long,Tibet,District Attorney, Atlantic Circuit,D,T. DURDEN ,340
+Long,Alma Flournoy,District Attorney, Atlantic Circuit,D,T. DURDEN ,115
+Long,Faith Baptist Annex,District Attorney, Atlantic Circuit,D,T. DURDEN ,260
+Long,Beards Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,493
+Long,Rye Patch/Oak Dale,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,921
+Long,South Ludowici,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,374
+Long,North Ludowici,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,629
+Long,Tibet,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,338
+Long,Alma Flournoy,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,127
+Long,Faith Baptist Annex,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,305
+Long,Beards Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,107
+Long,Rye Patch/Oak Dale,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,171
+Long,South Ludowici,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,74
+Long,North Ludowici,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,128
+Long,Tibet,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,87
+Long,Alma Flournoy,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,21
+Long,Faith Baptist Annex,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,67
+Long,Beards Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,404
+Long,Rye Patch/Oak Dale,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,789
+Long,South Ludowici,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,327
+Long,North Ludowici,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,547
+Long,Tibet,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,289
+Long,Alma Flournoy,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,99
+Long,Faith Baptist Annex,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,240
+Long,Beards Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,177
+Long,Rye Patch/Oak Dale,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,275
+Long,South Ludowici,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,110
+Long,North Ludowici,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,201
+Long,Tibet,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,123
+Long,Alma Flournoy,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,43
+Long,Faith Baptist Annex,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,122
+Long,Beards Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,343
+Long,Rye Patch/Oak Dale,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,702
+Long,South Ludowici,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,281
+Long,North Ludowici,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,476
+Long,Tibet,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,248
+Long,Alma Flournoy,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,92
+Long,Faith Baptist Annex,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,214
+Long,Beards Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,224
+Long,Rye Patch/Oak Dale,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,336
+Long,South Ludowici,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,153
+Long,North Ludowici,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,256
+Long,Tibet,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,157
+Long,Alma Flournoy,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,55
+Long,Faith Baptist Annex,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,137
+Long,Beards Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,480
+Long,Rye Patch/Oak Dale,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,894
+Long,South Ludowici,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,371
+Long,North Ludowici,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,629
+Long,Tibet,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,329
+Long,Alma Flournoy,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,121
+Long,Faith Baptist Annex,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,292
+Long,Beards Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,113
+Long,Rye Patch/Oak Dale,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,185
+Long,South Ludowici,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,76
+Long,North Ludowici,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,126
+Long,Tibet,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,93
+Long,Alma Flournoy,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,30
+Long,Faith Baptist Annex,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,75
+Long,Beards Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,420
+Long,Rye Patch/Oak Dale,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,789
+Long,South Ludowici,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,338
+Long,North Ludowici,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,549
+Long,Tibet,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,299
+Long,Alma Flournoy,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,100
+Long,Faith Baptist Annex,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,243
+Long,Beards Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,161
+Long,Rye Patch/Oak Dale,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,263
+Long,South Ludowici,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,104
+Long,North Ludowici,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,192
+Long,Tibet,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,118
+Long,Alma Flournoy,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,45
+Long,Faith Baptist Annex,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,116
+Long,Beards Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,332
+Long,Rye Patch/Oak Dale,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,612
+Long,South Ludowici,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,257
+Long,North Ludowici,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,454
+Long,Tibet,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,239
+Long,Alma Flournoy,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,83
+Long,Faith Baptist Annex,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,202
+Long,Beards Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,241
+Long,Rye Patch/Oak Dale,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,421
+Long,South Ludowici,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,175
+Long,North Ludowici,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,284
+Long,Tibet,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,166
+Long,Alma Flournoy,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,61
+Long,Faith Baptist Annex,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,150
+Long,Beards Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,453
+Long,Rye Patch/Oak Dale,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,842
+Long,South Ludowici,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,374
+Long,North Ludowici,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,610
+Long,Tibet,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,306
+Long,Alma Flournoy,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,113
+Long,Faith Baptist Annex,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,263
+Long,Beards Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,136
+Long,Rye Patch/Oak Dale,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,224
+Long,South Ludowici,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,74
+Long,North Ludowici,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,143
+Long,Tibet,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,116
+Long,Alma Flournoy,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,37
+Long,Faith Baptist Annex,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,99

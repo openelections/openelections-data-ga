@@ -1,0 +1,478 @@
+county,precinct,office,district,party,candidate,votes
+Lee,Chokee,Governor,,REP,BRIAN KEMP,163
+Lee,Redbone,Governor,,REP,BRIAN KEMP,2284
+Lee,Smithville,Governor,,REP,BRIAN KEMP,334
+Lee,CJC,Governor,,REP,BRIAN KEMP,371
+Lee,Leesburg,Governor,,REP,BRIAN KEMP,1368
+Lee,Friendship Bapt,Governor,,REP,BRIAN KEMP,632
+Lee,First Baptist,Governor,,REP,BRIAN KEMP,1893
+Lee,SDA Church,Governor,,REP,BRIAN KEMP,695
+Lee,Sovereign Grace,Governor,,REP,BRIAN KEMP,1087
+Lee,Century Fire Station,Governor,,REP,BRIAN KEMP,1293
+Lee,Chokee,Governor,,DEM,STACEY ABRAMS,156
+Lee,Redbone,Governor,,DEM,STACEY ABRAMS,580
+Lee,Smithville,Governor,,DEM,STACEY ABRAMS,245
+Lee,CJC,Governor,,DEM,STACEY ABRAMS,49
+Lee,Leesburg,Governor,,DEM,STACEY ABRAMS,510
+Lee,Friendship Bapt,Governor,,DEM,STACEY ABRAMS,116
+Lee,First Baptist,Governor,,DEM,STACEY ABRAMS,651
+Lee,SDA Church,Governor,,DEM,STACEY ABRAMS,159
+Lee,Sovereign Grace,Governor,,DEM,STACEY ABRAMS,349
+Lee,Century Fire Station,Governor,,DEM,STACEY ABRAMS,541
+Lee,Chokee,Governor,,LIB,TED METZ,0
+Lee,Redbone,Governor,,LIB,TED METZ,18
+Lee,Smithville,Governor,,LIB,TED METZ,6
+Lee,CJC,Governor,,LIB,TED METZ,1
+Lee,Leesburg,Governor,,LIB,TED METZ,9
+Lee,Friendship Bapt,Governor,,LIB,TED METZ,1
+Lee,First Baptist,Governor,,LIB,TED METZ,18
+Lee,SDA Church,Governor,,LIB,TED METZ,6
+Lee,Sovereign Grace,Governor,,LIB,TED METZ,7
+Lee,Century Fire Station,Governor,,LIB,TED METZ,13
+Lee,Chokee,Lieutenant Governor,,REP,GEOFF DUNCAN,159
+Lee,Redbone,Lieutenant Governor,,REP,GEOFF DUNCAN,2207
+Lee,Smithville,Lieutenant Governor,,REP,GEOFF DUNCAN,320
+Lee,CJC,Lieutenant Governor,,REP,GEOFF DUNCAN,361
+Lee,Leesburg,Lieutenant Governor,,REP,GEOFF DUNCAN,1327
+Lee,Friendship Bapt,Lieutenant Governor,,REP,GEOFF DUNCAN,617
+Lee,First Baptist,Lieutenant Governor,,REP,GEOFF DUNCAN,1850
+Lee,SDA Church,Lieutenant Governor,,REP,GEOFF DUNCAN,675
+Lee,Sovereign Grace,Lieutenant Governor,,REP,GEOFF DUNCAN,1058
+Lee,Century Fire Station,Lieutenant Governor,,REP,GEOFF DUNCAN,1269
+Lee,Chokee,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,139
+Lee,Redbone,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,550
+Lee,Smithville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,209
+Lee,CJC,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,46
+Lee,Leesburg,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,477
+Lee,Friendship Bapt,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,119
+Lee,First Baptist,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,632
+Lee,SDA Church,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,152
+Lee,Sovereign Grace,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,339
+Lee,Century Fire Station,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,513
+Lee,Chokee,Secretary Of State,,REP,BRAD RAFFENSPERGER,158
+Lee,Redbone,Secretary Of State,,REP,BRAD RAFFENSPERGER,2163
+Lee,Smithville,Secretary Of State,,REP,BRAD RAFFENSPERGER,319
+Lee,CJC,Secretary Of State,,REP,BRAD RAFFENSPERGER,354
+Lee,Leesburg,Secretary Of State,,REP,BRAD RAFFENSPERGER,1317
+Lee,Friendship Bapt,Secretary Of State,,REP,BRAD RAFFENSPERGER,609
+Lee,First Baptist,Secretary Of State,,REP,BRAD RAFFENSPERGER,1826
+Lee,SDA Church,Secretary Of State,,REP,BRAD RAFFENSPERGER,661
+Lee,Sovereign Grace,Secretary Of State,,REP,BRAD RAFFENSPERGER,1053
+Lee,Century Fire Station,Secretary Of State,,REP,BRAD RAFFENSPERGER,1245
+Lee,Chokee,Secretary Of State,,DEM,JOHN BARROW,151
+Lee,Redbone,Secretary Of State,,DEM,JOHN BARROW,644
+Lee,Smithville,Secretary Of State,,DEM,JOHN BARROW,244
+Lee,CJC,Secretary Of State,,DEM,JOHN BARROW,52
+Lee,Leesburg,Secretary Of State,,DEM,JOHN BARROW,507
+Lee,Friendship Bapt,Secretary Of State,,DEM,JOHN BARROW,130
+Lee,First Baptist,Secretary Of State,,DEM,JOHN BARROW,691
+Lee,SDA Church,Secretary Of State,,DEM,JOHN BARROW,178
+Lee,Sovereign Grace,Secretary Of State,,DEM,JOHN BARROW,363
+Lee,Century Fire Station,Secretary Of State,,DEM,JOHN BARROW,561
+Lee,Chokee,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Lee,Redbone,Secretary Of State,,LIB,SMYTHE DUVAL,33
+Lee,Smithville,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Lee,CJC,Secretary Of State,,LIB,SMYTHE DUVAL,8
+Lee,Leesburg,Secretary Of State,,LIB,SMYTHE DUVAL,32
+Lee,Friendship Bapt,Secretary Of State,,LIB,SMYTHE DUVAL,4
+Lee,First Baptist,Secretary Of State,,LIB,SMYTHE DUVAL,28
+Lee,SDA Church,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Lee,Sovereign Grace,Secretary Of State,,LIB,SMYTHE DUVAL,19
+Lee,Century Fire Station,Secretary Of State,,LIB,SMYTHE DUVAL,26
+Lee,Chokee,Attorney General,,(REP,CHRIS CARR ,162
+Lee,Redbone,Attorney General,,(REP,CHRIS CARR ,2223
+Lee,Smithville,Attorney General,,(REP,CHRIS CARR ,332
+Lee,CJC,Attorney General,,(REP,CHRIS CARR ,358
+Lee,Leesburg,Attorney General,,(REP,CHRIS CARR ,1347
+Lee,Friendship Bapt,Attorney General,,(REP,CHRIS CARR ,617
+Lee,First Baptist,Attorney General,,(REP,CHRIS CARR ,1880
+Lee,SDA Church,Attorney General,,(REP,CHRIS CARR ,687
+Lee,Sovereign Grace,Attorney General,,(REP,CHRIS CARR ,1077
+Lee,Century Fire Station,Attorney General,,(REP,CHRIS CARR ,1267
+Lee,Chokee,Attorney General,,DEM,CHARLIE BAILEY,145
+Lee,Redbone,Attorney General,,DEM,CHARLIE BAILEY,600
+Lee,Smithville,Attorney General,,DEM,CHARLIE BAILEY,232
+Lee,CJC,Attorney General,,DEM,CHARLIE BAILEY,52
+Lee,Leesburg,Attorney General,,DEM,CHARLIE BAILEY,503
+Lee,Friendship Bapt,Attorney General,,DEM,CHARLIE BAILEY,121
+Lee,First Baptist,Attorney General,,DEM,CHARLIE BAILEY,657
+Lee,SDA Church,Attorney General,,DEM,CHARLIE BAILEY,166
+Lee,Sovereign Grace,Attorney General,,DEM,CHARLIE BAILEY,349
+Lee,Century Fire Station,Attorney General,,DEM,CHARLIE BAILEY,553
+Lee,Chokee,Commissioner Of Agriculture,,(REP,GARY BLACK ,167
+Lee,Redbone,Commissioner Of Agriculture,,(REP,GARY BLACK ,2260
+Lee,Smithville,Commissioner Of Agriculture,,(REP,GARY BLACK ,335
+Lee,CJC,Commissioner Of Agriculture,,(REP,GARY BLACK ,368
+Lee,Leesburg,Commissioner Of Agriculture,,(REP,GARY BLACK ,1381
+Lee,Friendship Bapt,Commissioner Of Agriculture,,(REP,GARY BLACK ,627
+Lee,First Baptist,Commissioner Of Agriculture,,(REP,GARY BLACK ,1903
+Lee,SDA Church,Commissioner Of Agriculture,,(REP,GARY BLACK ,695
+Lee,Sovereign Grace,Commissioner Of Agriculture,,(REP,GARY BLACK ,1089
+Lee,Century Fire Station,Commissioner Of Agriculture,,(REP,GARY BLACK ,1295
+Lee,Chokee,Commissioner Of Agriculture,,DEM,FRED SWANN,141
+Lee,Redbone,Commissioner Of Agriculture,,DEM,FRED SWANN,556
+Lee,Smithville,Commissioner Of Agriculture,,DEM,FRED SWANN,230
+Lee,CJC,Commissioner Of Agriculture,,DEM,FRED SWANN,38
+Lee,Leesburg,Commissioner Of Agriculture,,DEM,FRED SWANN,467
+Lee,Friendship Bapt,Commissioner Of Agriculture,,DEM,FRED SWANN,113
+Lee,First Baptist,Commissioner Of Agriculture,,DEM,FRED SWANN,623
+Lee,SDA Church,Commissioner Of Agriculture,,DEM,FRED SWANN,143
+Lee,Sovereign Grace,Commissioner Of Agriculture,,DEM,FRED SWANN,333
+Lee,Century Fire Station,Commissioner Of Agriculture,,DEM,FRED SWANN,517
+Lee,Chokee,Commissioner Of Insurance,,REP,JIM BECK,158
+Lee,Redbone,Commissioner Of Insurance,,REP,JIM BECK,2221
+Lee,Smithville,Commissioner Of Insurance,,REP,JIM BECK,328
+Lee,CJC,Commissioner Of Insurance,,REP,JIM BECK,353
+Lee,Leesburg,Commissioner Of Insurance,,REP,JIM BECK,1338
+Lee,Friendship Bapt,Commissioner Of Insurance,,REP,JIM BECK,609
+Lee,First Baptist,Commissioner Of Insurance,,REP,JIM BECK,1861
+Lee,SDA Church,Commissioner Of Insurance,,REP,JIM BECK,687
+Lee,Sovereign Grace,Commissioner Of Insurance,,REP,JIM BECK,1061
+Lee,Century Fire Station,Commissioner Of Insurance,,REP,JIM BECK,1253
+Lee,Chokee,Commissioner Of Insurance,,DEM,JANICE LAWS,147
+Lee,Redbone,Commissioner Of Insurance,,DEM,JANICE LAWS,571
+Lee,Smithville,Commissioner Of Insurance,,DEM,JANICE LAWS,228
+Lee,CJC,Commissioner Of Insurance,,DEM,JANICE LAWS,44
+Lee,Leesburg,Commissioner Of Insurance,,DEM,JANICE LAWS,480
+Lee,Friendship Bapt,Commissioner Of Insurance,,DEM,JANICE LAWS,117
+Lee,First Baptist,Commissioner Of Insurance,,DEM,JANICE LAWS,629
+Lee,SDA Church,Commissioner Of Insurance,,DEM,JANICE LAWS,153
+Lee,Sovereign Grace,Commissioner Of Insurance,,DEM,JANICE LAWS,341
+Lee,Century Fire Station,Commissioner Of Insurance,,DEM,JANICE LAWS,525
+Lee,Chokee,Commissioner Of Insurance,,LIB,DONNIE FOSTER,5
+Lee,Redbone,Commissioner Of Insurance,,LIB,DONNIE FOSTER,33
+Lee,Smithville,Commissioner Of Insurance,,LIB,DONNIE FOSTER,14
+Lee,CJC,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Lee,Leesburg,Commissioner Of Insurance,,LIB,DONNIE FOSTER,42
+Lee,Friendship Bapt,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
+Lee,First Baptist,Commissioner Of Insurance,,LIB,DONNIE FOSTER,40
+Lee,SDA Church,Commissioner Of Insurance,,LIB,DONNIE FOSTER,9
+Lee,Sovereign Grace,Commissioner Of Insurance,,LIB,DONNIE FOSTER,28
+Lee,Century Fire Station,Commissioner Of Insurance,,LIB,DONNIE FOSTER,41
+Lee,Chokee,State School Superintendent,,(REP,RICHARD WOODS ,164
+Lee,Redbone,State School Superintendent,,(REP,RICHARD WOODS ,2278
+Lee,Smithville,State School Superintendent,,(REP,RICHARD WOODS ,333
+Lee,CJC,State School Superintendent,,(REP,RICHARD WOODS ,365
+Lee,Leesburg,State School Superintendent,,(REP,RICHARD WOODS ,1378
+Lee,Friendship Bapt,State School Superintendent,,(REP,RICHARD WOODS ,636
+Lee,First Baptist,State School Superintendent,,(REP,RICHARD WOODS ,1915
+Lee,SDA Church,State School Superintendent,,(REP,RICHARD WOODS ,705
+Lee,Sovereign Grace,State School Superintendent,,(REP,RICHARD WOODS ,1098
+Lee,Century Fire Station,State School Superintendent,,(REP,RICHARD WOODS ,1298
+Lee,Chokee,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",148
+Lee,Redbone,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",558
+Lee,Smithville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",238
+Lee,CJC,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",45
+Lee,Leesburg,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",479
+Lee,Friendship Bapt,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",104
+Lee,First Baptist,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",621
+Lee,SDA Church,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",145
+Lee,Sovereign Grace,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",330
+Lee,Century Fire Station,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",521
+Lee,Chokee,Commissioner Of Labor,,(REP,MARK BUTLER ,163
+Lee,Redbone,Commissioner Of Labor,,(REP,MARK BUTLER ,2256
+Lee,Smithville,Commissioner Of Labor,,(REP,MARK BUTLER ,333
+Lee,CJC,Commissioner Of Labor,,(REP,MARK BUTLER ,363
+Lee,Leesburg,Commissioner Of Labor,,(REP,MARK BUTLER ,1365
+Lee,Friendship Bapt,Commissioner Of Labor,,(REP,MARK BUTLER ,626
+Lee,First Baptist,Commissioner Of Labor,,(REP,MARK BUTLER ,1912
+Lee,SDA Church,Commissioner Of Labor,,(REP,MARK BUTLER ,697
+Lee,Sovereign Grace,Commissioner Of Labor,,(REP,MARK BUTLER ,1078
+Lee,Century Fire Station,Commissioner Of Labor,,(REP,MARK BUTLER ,1287
+Lee,Chokee,Commissioner Of Labor,,DEM,RICHARD KEATLEY,149
+Lee,Redbone,Commissioner Of Labor,,DEM,RICHARD KEATLEY,568
+Lee,Smithville,Commissioner Of Labor,,DEM,RICHARD KEATLEY,241
+Lee,CJC,Commissioner Of Labor,,DEM,RICHARD KEATLEY,45
+Lee,Leesburg,Commissioner Of Labor,,DEM,RICHARD KEATLEY,481
+Lee,Friendship Bapt,Commissioner Of Labor,,DEM,RICHARD KEATLEY,112
+Lee,First Baptist,Commissioner Of Labor,,DEM,RICHARD KEATLEY,623
+Lee,SDA Church,Commissioner Of Labor,,DEM,RICHARD KEATLEY,152
+Lee,Sovereign Grace,Commissioner Of Labor,,DEM,RICHARD KEATLEY,346
+Lee,Century Fire Station,Commissioner Of Labor,,DEM,RICHARD KEATLEY,531
+Lee,Chokee,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,159
+Lee,Redbone,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2221
+Lee,Smithville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,319
+Lee,CJC,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,356
+Lee,Leesburg,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1335
+Lee,Friendship Bapt,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,615
+Lee,First Baptist,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1863
+Lee,SDA Church,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,687
+Lee,Sovereign Grace,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1067
+Lee,Century Fire Station,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1261
+Lee,Chokee,"Public Service Commission, District 3",3,DEM,LINDY MILLER,149
+Lee,Redbone,"Public Service Commission, District 3",3,DEM,LINDY MILLER,565
+Lee,Smithville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,241
+Lee,CJC,"Public Service Commission, District 3",3,DEM,LINDY MILLER,45
+Lee,Leesburg,"Public Service Commission, District 3",3,DEM,LINDY MILLER,480
+Lee,Friendship Bapt,"Public Service Commission, District 3",3,DEM,LINDY MILLER,116
+Lee,First Baptist,"Public Service Commission, District 3",3,DEM,LINDY MILLER,630
+Lee,SDA Church,"Public Service Commission, District 3",3,DEM,LINDY MILLER,153
+Lee,Sovereign Grace,"Public Service Commission, District 3",3,DEM,LINDY MILLER,330
+Lee,Century Fire Station,"Public Service Commission, District 3",3,DEM,LINDY MILLER,523
+Lee,Chokee,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Lee,Redbone,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,41
+Lee,Smithville,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,11
+Lee,CJC,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,12
+Lee,Leesburg,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,41
+Lee,Friendship Bapt,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,10
+Lee,First Baptist,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,41
+Lee,SDA Church,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,8
+Lee,Sovereign Grace,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,29
+Lee,Century Fire Station,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,34
+Lee,Chokee,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,160
+Lee,Redbone,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2225
+Lee,Smithville,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,318
+Lee,CJC,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,356
+Lee,Leesburg,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1333
+Lee,Friendship Bapt,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,614
+Lee,First Baptist,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1868
+Lee,SDA Church,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,686
+Lee,Sovereign Grace,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1069
+Lee,Century Fire Station,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1261
+Lee,Chokee,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,148
+Lee,Redbone,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,563
+Lee,Smithville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,235
+Lee,CJC,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,44
+Lee,Leesburg,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,482
+Lee,Friendship Bapt,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,111
+Lee,First Baptist,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,632
+Lee,SDA Church,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,155
+Lee,Sovereign Grace,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,334
+Lee,Century Fire Station,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,521
+Lee,Chokee,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,3
+Lee,Redbone,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,41
+Lee,Smithville,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,16
+Lee,CJC,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,9
+Lee,Leesburg,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,36
+Lee,Friendship Bapt,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,16
+Lee,First Baptist,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,33
+Lee,SDA Church,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,9
+Lee,Sovereign Grace,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,28
+Lee,Century Fire Station,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,32
+Lee,Chokee,U.S. Representative,2,REP,HERMAN WEST JR,148
+Lee,Redbone,U.S. Representative,2,REP,HERMAN WEST JR,2075
+Lee,Smithville,U.S. Representative,2,REP,HERMAN WEST JR,300
+Lee,CJC,U.S. Representative,2,REP,HERMAN WEST JR,341
+Lee,Leesburg,U.S. Representative,2,REP,HERMAN WEST JR,1231
+Lee,Friendship Bapt,U.S. Representative,2,REP,HERMAN WEST JR,568
+Lee,First Baptist,U.S. Representative,2,REP,HERMAN WEST JR,1772
+Lee,SDA Church,U.S. Representative,2,REP,HERMAN WEST JR,644
+Lee,Sovereign Grace,U.S. Representative,2,REP,HERMAN WEST JR,985
+Lee,Century Fire Station,U.S. Representative,2,REP,HERMAN WEST JR,1206
+Lee,Chokee,U.S. Representative,2,(DEM,SANFORD BISHOP ,168
+Lee,Redbone,U.S. Representative,2,(DEM,SANFORD BISHOP ,770
+Lee,Smithville,U.S. Representative,2,(DEM,SANFORD BISHOP ,276
+Lee,CJC,U.S. Representative,2,(DEM,SANFORD BISHOP ,76
+Lee,Leesburg,U.S. Representative,2,(DEM,SANFORD BISHOP ,637
+Lee,Friendship Bapt,U.S. Representative,2,(DEM,SANFORD BISHOP ,178
+Lee,First Baptist,U.S. Representative,2,(DEM,SANFORD BISHOP ,762
+Lee,SDA Church,U.S. Representative,2,(DEM,SANFORD BISHOP ,205
+Lee,Sovereign Grace,U.S. Representative,2,(DEM,SANFORD BISHOP ,446
+Lee,Century Fire Station,U.S. Representative,2,(DEM,SANFORD BISHOP ,627
+Lee,Chokee,State Senator,13,(REP,GREG KIRK ,202
+Lee,Redbone,State Senator,13,(REP,GREG KIRK ,2517
+Lee,Smithville,State Senator,13,(REP,GREG KIRK ,419
+Lee,CJC,State Senator,13,(REP,GREG KIRK ,380
+Lee,Leesburg,State Senator,13,(REP,GREG KIRK ,1587
+Lee,Friendship Bapt,State Senator,13,(REP,GREG KIRK ,681
+Lee,First Baptist,State Senator,13,(REP,GREG KIRK ,2176
+Lee,SDA Church,State Senator,13,(REP,GREG KIRK ,757
+Lee,Sovereign Grace,State Senator,13,(REP,GREG KIRK ,1276
+Lee,Century Fire Station,State Senator,13,(REP,GREG KIRK ,1542
+Lee,Chokee,State Representative,152,(REP,ED RYNDERS ,157
+Lee,Redbone,State Representative,152,(REP,ED RYNDERS ,2229
+Lee,Smithville,State Representative,152,(REP,ED RYNDERS ,320
+Lee,CJC,State Representative,152,(REP,ED RYNDERS ,351
+Lee,Leesburg,State Representative,152,(REP,ED RYNDERS ,1319
+Lee,Friendship Bapt,State Representative,152,(REP,ED RYNDERS ,612
+Lee,First Baptist,State Representative,152,(REP,ED RYNDERS ,1888
+Lee,SDA Church,State Representative,152,(REP,ED RYNDERS ,679
+Lee,Sovereign Grace,State Representative,152,(REP,ED RYNDERS ,1060
+Lee,Century Fire Station,State Representative,152,(REP,ED RYNDERS ,1279
+Lee,Chokee,State Representative,152,DEM,MARCUS BATTEN,156
+Lee,Redbone,State Representative,152,DEM,MARCUS BATTEN,595
+Lee,Smithville,State Representative,152,DEM,MARCUS BATTEN,253
+Lee,CJC,State Representative,152,DEM,MARCUS BATTEN,58
+Lee,Leesburg,State Representative,152,DEM,MARCUS BATTEN,531
+Lee,Friendship Bapt,State Representative,152,DEM,MARCUS BATTEN,122
+Lee,First Baptist,State Representative,152,DEM,MARCUS BATTEN,643
+Lee,SDA Church,State Representative,152,DEM,MARCUS BATTEN,165
+Lee,Sovereign Grace,State Representative,152,DEM,MARCUS BATTEN,355
+Lee,Century Fire Station,State Representative,152,DEM,MARCUS BATTEN,546
+Lee,Chokee,CC, D1,R,J. WHEATON,229
+Lee,Smithville,CC, D1,R,J. WHEATON,411
+Lee,CJC,CC, D1,R,J. WHEATON,118
+Lee,Leesburg,CC, D1,R,J. WHEATON,1324
+Lee,First Baptist,CC, D3,R,B. MATHIS ,1385
+Lee,SDA Church,CC, D3,R,B. MATHIS ,752
+Lee,Sovereign Grace,CC, D3,R,B. MATHIS ,349
+Lee,Chokee,SOIL AND WATER,,,R. A. MCREE,217
+Lee,Redbone,SOIL AND WATER,,,R. A. MCREE,2397
+Lee,Smithville,SOIL AND WATER,,,R. A. MCREE,436
+Lee,CJC,SOIL AND WATER,,,R. A. MCREE,350
+Lee,Leesburg,SOIL AND WATER,,,R. A. MCREE,1562
+Lee,Friendship Bapt,SOIL AND WATER,,,R. A. MCREE,642
+Lee,First Baptist,SOIL AND WATER,,,R. A. MCREE,2074
+Lee,SDA Church,SOIL AND WATER,,,R. A. MCREE,715
+Lee,Sovereign Grace,SOIL AND WATER,,,R. A. MCREE,1223
+Lee,Century Fire Station,SOIL AND WATER,,,R. A. MCREE,1508
+Lee,Chokee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,236
+Lee,Redbone,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2376
+Lee,Smithville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,452
+Lee,CJC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,332
+Lee,Leesburg,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1582
+Lee,Friendship Bapt,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,616
+Lee,First Baptist,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2052
+Lee,SDA Church,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,688
+Lee,Sovereign Grace,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1230
+Lee,Century Fire Station,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1535
+Lee,Chokee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,68
+Lee,Redbone,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,429
+Lee,Smithville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,113
+Lee,CJC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,80
+Lee,Leesburg,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,248
+Lee,Friendship Bapt,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,117
+Lee,First Baptist,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,458
+Lee,SDA Church,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,149
+Lee,Sovereign Grace,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,187
+Lee,Century Fire Station,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,283
+Lee,Chokee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,187
+Lee,Redbone,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2004
+Lee,Smithville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,412
+Lee,CJC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,280
+Lee,Leesburg,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1346
+Lee,Friendship Bapt,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,509
+Lee,First Baptist,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1721
+Lee,SDA Church,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,577
+Lee,Sovereign Grace,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1015
+Lee,Century Fire Station,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1301
+Lee,Chokee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,106
+Lee,Redbone,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,742
+Lee,Smithville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,148
+Lee,CJC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,118
+Lee,Leesburg,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,456
+Lee,Friendship Bapt,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,200
+Lee,First Baptist,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,737
+Lee,SDA Church,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,241
+Lee,Sovereign Grace,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,378
+Lee,Century Fire Station,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,480
+Lee,Chokee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,164
+Lee,Redbone,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1754
+Lee,Smithville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,376
+Lee,CJC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,254
+Lee,Leesburg,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1225
+Lee,Friendship Bapt,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,487
+Lee,First Baptist,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1559
+Lee,SDA Church,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,496
+Lee,Sovereign Grace,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,918
+Lee,Century Fire Station,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1146
+Lee,Chokee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,125
+Lee,Redbone,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,953
+Lee,Smithville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,172
+Lee,CJC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,146
+Lee,Leesburg,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,564
+Lee,Friendship Bapt,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,224
+Lee,First Baptist,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,881
+Lee,SDA Church,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,315
+Lee,Sovereign Grace,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,449
+Lee,Century Fire Station,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,612
+Lee,Chokee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,235
+Lee,Redbone,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2258
+Lee,Smithville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,448
+Lee,CJC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,335
+Lee,Leesburg,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1479
+Lee,Friendship Bapt,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,581
+Lee,First Baptist,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1988
+Lee,SDA Church,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,665
+Lee,Sovereign Grace,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1146
+Lee,Century Fire Station,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1486
+Lee,Chokee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,66
+Lee,Redbone,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,534
+Lee,Smithville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,112
+Lee,CJC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,70
+Lee,Leesburg,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,337
+Lee,Friendship Bapt,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,144
+Lee,First Baptist,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,497
+Lee,SDA Church,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,168
+Lee,Sovereign Grace,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,264
+Lee,Century Fire Station,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,324
+Lee,Chokee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,183
+Lee,Redbone,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1909
+Lee,Smithville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,395
+Lee,CJC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,241
+Lee,Leesburg,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1342
+Lee,Friendship Bapt,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,509
+Lee,First Baptist,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1633
+Lee,SDA Church,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,539
+Lee,Sovereign Grace,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1033
+Lee,Century Fire Station,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1308
+Lee,Chokee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,108
+Lee,Redbone,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,814
+Lee,Smithville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,157
+Lee,CJC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,151
+Lee,Leesburg,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,457
+Lee,Friendship Bapt,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,202
+Lee,First Baptist,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,824
+Lee,SDA Church,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,275
+Lee,Sovereign Grace,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,347
+Lee,Century Fire Station,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,479
+Lee,Chokee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,144
+Lee,Redbone,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1558
+Lee,Smithville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,359
+Lee,CJC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,189
+Lee,Leesburg,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1085
+Lee,Friendship Bapt,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,421
+Lee,First Baptist,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1287
+Lee,SDA Church,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,454
+Lee,Sovereign Grace,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,799
+Lee,Century Fire Station,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1021
+Lee,Chokee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,138
+Lee,Redbone,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1137
+Lee,Smithville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,187
+Lee,CJC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,195
+Lee,Leesburg,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,691
+Lee,Friendship Bapt,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,275
+Lee,First Baptist,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1090
+Lee,SDA Church,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,348
+Lee,Sovereign Grace,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,560
+Lee,Century Fire Station,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,729
+Lee,Chokee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,212
+Lee,Redbone,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2046
+Lee,Smithville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,433
+Lee,CJC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,258
+Lee,Leesburg,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1382
+Lee,Friendship Bapt,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,522
+Lee,First Baptist,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1786
+Lee,SDA Church,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,586
+Lee,Sovereign Grace,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1068
+Lee,Century Fire Station,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1356
+Lee,Chokee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,85
+Lee,Redbone,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,699
+Lee,Smithville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,125
+Lee,CJC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,137
+Lee,Leesburg,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,428
+Lee,Friendship Bapt,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,198
+Lee,First Baptist,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,666
+Lee,SDA Church,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,238
+Lee,Sovereign Grace,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,328
+Lee,Century Fire Station,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,429
+Lee,Chokee,TSPLOST,,,YES,137
+Lee,Redbone,TSPLOST,,,YES,1421
+Lee,Smithville,TSPLOST,,,YES,299
+Lee,CJC,TSPLOST,,,YES,198
+Lee,Leesburg,TSPLOST,,,YES,1007
+Lee,Friendship Bapt,TSPLOST,,,YES,382
+Lee,First Baptist,TSPLOST,,,YES,1228
+Lee,SDA Church,TSPLOST,,,YES,395
+Lee,Sovereign Grace,TSPLOST,,,YES,765
+Lee,Century Fire Station,TSPLOST,,,YES,972
+Lee,Chokee,TSPLOST,,,NO,158
+Lee,Redbone,TSPLOST,,,NO,1308
+Lee,Smithville,TSPLOST,,,NO,258
+Lee,CJC,TSPLOST,,,NO,198
+Lee,Leesburg,TSPLOST,,,NO,801
+Lee,Friendship Bapt,TSPLOST,,,NO,342
+Lee,First Baptist,TSPLOST,,,NO,1220
+Lee,SDA Church,TSPLOST,,,NO,428
+Lee,Sovereign Grace,TSPLOST,,,NO,624
+Lee,Century Fire Station,TSPLOST,,,NO,814

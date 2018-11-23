@@ -1,0 +1,147 @@
+county,precinct,office,district,party,candidate,votes
+Turner,Ashburn,Governor,,REP,BRIAN KEMP,919
+Turner,Sycamore,Governor,,REP,BRIAN KEMP,891
+Turner,Rebecca,Governor,,REP,BRIAN KEMP,252
+Turner,Ashburn,Governor,,DEM,STACEY ABRAMS,1062
+Turner,Sycamore,Governor,,DEM,STACEY ABRAMS,110
+Turner,Rebecca,Governor,,DEM,STACEY ABRAMS,28
+Turner,Ashburn,Governor,,LIB,TED METZ,10
+Turner,Sycamore,Governor,,LIB,TED METZ,2
+Turner,Rebecca,Governor,,LIB,TED METZ,0
+Turner,Ashburn,Lieutenant Governor,,REP,GEOFF DUNCAN,878
+Turner,Sycamore,Lieutenant Governor,,REP,GEOFF DUNCAN,845
+Turner,Rebecca,Lieutenant Governor,,REP,GEOFF DUNCAN,246
+Turner,Ashburn,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,898
+Turner,Sycamore,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,109
+Turner,Rebecca,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,29
+Turner,Ashburn,Secretary Of State,,REP,BRAD RAFFENSPERGER,868
+Turner,Sycamore,Secretary Of State,,REP,BRAD RAFFENSPERGER,834
+Turner,Rebecca,Secretary Of State,,REP,BRAD RAFFENSPERGER,234
+Turner,Ashburn,Secretary Of State,,DEM,JOHN BARROW,1030
+Turner,Sycamore,Secretary Of State,,DEM,JOHN BARROW,144
+Turner,Rebecca,Secretary Of State,,DEM,JOHN BARROW,39
+Turner,Ashburn,Secretary Of State,,LIB,SMYTHE DUVAL,26
+Turner,Sycamore,Secretary Of State,,LIB,SMYTHE DUVAL,7
+Turner,Rebecca,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Turner,Ashburn,Attorney General,,(REP,CHRIS CARR ,922
+Turner,Sycamore,Attorney General,,(REP,CHRIS CARR ,852
+Turner,Rebecca,Attorney General,,(REP,CHRIS CARR ,237
+Turner,Ashburn,Attorney General,,DEM,CHARLIE BAILEY,1003
+Turner,Sycamore,Attorney General,,DEM,CHARLIE BAILEY,124
+Turner,Rebecca,Attorney General,,DEM,CHARLIE BAILEY,39
+Turner,Ashburn,Commissioner Of Agriculture,,(REP,GARY BLACK ,927
+Turner,Sycamore,Commissioner Of Agriculture,,(REP,GARY BLACK ,869
+Turner,Rebecca,Commissioner Of Agriculture,,(REP,GARY BLACK ,247
+Turner,Ashburn,Commissioner Of Agriculture,,DEM,FRED SWANN,982
+Turner,Sycamore,Commissioner Of Agriculture,,DEM,FRED SWANN,114
+Turner,Rebecca,Commissioner Of Agriculture,,DEM,FRED SWANN,28
+Turner,Ashburn,Commissioner Of Insurance,,REP,JIM BECK,879
+Turner,Sycamore,Commissioner Of Insurance,,REP,JIM BECK,849
+Turner,Rebecca,Commissioner Of Insurance,,REP,JIM BECK,242
+Turner,Ashburn,Commissioner Of Insurance,,DEM,JANICE LAWS,989
+Turner,Sycamore,Commissioner Of Insurance,,DEM,JANICE LAWS,111
+Turner,Rebecca,Commissioner Of Insurance,,DEM,JANICE LAWS,30
+Turner,Ashburn,Commissioner Of Insurance,,LIB,DONNIE FOSTER,46
+Turner,Sycamore,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Turner,Rebecca,Commissioner Of Insurance,,LIB,DONNIE FOSTER,3
+Turner,Ashburn,State School Superintendent,,(REP,RICHARD WOODS ,941
+Turner,Sycamore,State School Superintendent,,(REP,RICHARD WOODS ,882
+Turner,Rebecca,State School Superintendent,,(REP,RICHARD WOODS ,247
+Turner,Ashburn,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",985
+Turner,Sycamore,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",104
+Turner,Rebecca,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",27
+Turner,Ashburn,Commissioner Of Labor,,(REP,MARK BUTLER ,925
+Turner,Sycamore,Commissioner Of Labor,,(REP,MARK BUTLER ,853
+Turner,Rebecca,Commissioner Of Labor,,(REP,MARK BUTLER ,243
+Turner,Ashburn,Commissioner Of Labor,,DEM,RICHARD KEATLEY,992
+Turner,Sycamore,Commissioner Of Labor,,DEM,RICHARD KEATLEY,125
+Turner,Rebecca,Commissioner Of Labor,,DEM,RICHARD KEATLEY,32
+Turner,Ashburn,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,881
+Turner,Sycamore,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,853
+Turner,Rebecca,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,238
+Turner,Ashburn,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1001
+Turner,Sycamore,"Public Service Commission, District 3",3,DEM,LINDY MILLER,111
+Turner,Rebecca,"Public Service Commission, District 3",3,DEM,LINDY MILLER,34
+Turner,Ashburn,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,40
+Turner,Sycamore,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,14
+Turner,Rebecca,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,1
+Turner,Ashburn,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,889
+Turner,Sycamore,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,844
+Turner,Rebecca,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,238
+Turner,Ashburn,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,987
+Turner,Sycamore,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,114
+Turner,Rebecca,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,30
+Turner,Ashburn,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,38
+Turner,Sycamore,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,18
+Turner,Rebecca,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,6
+Turner,Ashburn,U.S. Representative,8,(REP,AUSTIN SCOTT ,1448
+Turner,Sycamore,U.S. Representative,8,(REP,AUSTIN SCOTT ,928
+Turner,Rebecca,U.S. Representative,8,(REP,AUSTIN SCOTT ,259
+Turner,Ashburn,State Senator,13,(REP,GREG KIRK ,1372
+Turner,Sycamore,State Senator,13,(REP,GREG KIRK ,913
+Turner,Rebecca,State Senator,13,(REP,GREG KIRK ,261
+Turner,Ashburn,State Representative,155,(REP,CLAY PIRKLE ,1388
+Turner,Sycamore,State Representative,155,(REP,CLAY PIRKLE ,931
+Turner,Rebecca,State Representative,155,(REP,CLAY PIRKLE ,263
+Turner,Ashburn,CC, D1,D,J. BURGESS ,466
+Turner,Sycamore,CC, D5,R,N. DENHAM ,627
+Turner,Ashburn,BOE, D1,D,C. BALL ,468
+Turner,Ashburn,BOE, D3,R,S. BLUE ,556
+Turner,Sycamore,BOE, D3,R,S. BLUE ,80
+Turner,Ashburn,Soil and Water,,,R. KENDRICK ,1480
+Turner,Sycamore,Soil and Water,,,R. KENDRICK ,926
+Turner,Rebecca,Soil and Water,,,R. KENDRICK ,260
+Turner,Ashburn,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1491
+Turner,Sycamore,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,708
+Turner,Rebecca,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,193
+Turner,Ashburn,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,383
+Turner,Sycamore,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,238
+Turner,Rebecca,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,78
+Turner,Ashburn,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1332
+Turner,Sycamore,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,623
+Turner,Rebecca,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,157
+Turner,Ashburn,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,501
+Turner,Sycamore,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,313
+Turner,Rebecca,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,108
+Turner,Ashburn,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1123
+Turner,Sycamore,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,574
+Turner,Rebecca,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,153
+Turner,Ashburn,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,673
+Turner,Sycamore,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,362
+Turner,Rebecca,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,112
+Turner,Ashburn,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1525
+Turner,Sycamore,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,730
+Turner,Rebecca,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,201
+Turner,Ashburn,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,329
+Turner,Sycamore,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,219
+Turner,Rebecca,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,68
+Turner,Ashburn,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1309
+Turner,Sycamore,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,594
+Turner,Rebecca,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,168
+Turner,Ashburn,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,502
+Turner,Sycamore,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,336
+Turner,Rebecca,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,97
+Turner,Ashburn,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1093
+Turner,Sycamore,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,487
+Turner,Rebecca,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,138
+Turner,Ashburn,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,707
+Turner,Sycamore,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,430
+Turner,Rebecca,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,126
+Turner,Ashburn,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1443
+Turner,Sycamore,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,649
+Turner,Rebecca,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,179
+Turner,Ashburn,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,398
+Turner,Sycamore,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,291
+Turner,Rebecca,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,88
+Turner,Ashburn,Ashburn,,,C. DOUGLAS,128
+Turner,Ashburn,Ashburn,,,"J. HALL, JR.",546
+Turner,Ashburn,Ashburn,,,S. LUMPKIN ,587
+Turner,Ashburn,Ashburn,,,D. WALKER,113
+Turner,Ashburn,Ashburn,,,J. BURKS ,665
+Turner,Ashburn,Ashburn,,,T. KING,174
+Turner,Ashburn,Ashburn,,,A. PIERCE ,577
+Turner,Ashburn,Ashburn,,,J. ROCKWELL,416
+Turner,Ashburn,Special,,,G. DAWSEY,239
+Turner,Ashburn,Special,,,J. HEDGES,392
+Turner,Ashburn,Special,,,C. JORDAN,460
+Turner,Ashburn,Special,,,J. VINCENT,230

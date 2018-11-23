@@ -1,0 +1,555 @@
+county,precinct,office,district,party,candidate,votes
+Walker,LAFAYETTE,Governor,,REP,BRIAN KEMP,2421
+Walker,WALNUT GROVE,Governor,,REP,BRIAN KEMP,999
+Walker,ROCK SPRING,Governor,,REP,BRIAN KEMP,2956
+Walker,ARMUCHEE VALLEY,Governor,,REP,BRIAN KEMP,662
+Walker,MOUNTAIN,Governor,,REP,BRIAN KEMP,542
+Walker,CHATTANOOGA VALLEY,Governor,,REP,BRIAN KEMP,2550
+Walker,KENSINGTON,Governor,,REP,BRIAN KEMP,663
+Walker,ROSSVILLE,Governor,,REP,BRIAN KEMP,1968
+Walker,CHICKAMAUGA,Governor,,REP,BRIAN KEMP,3109
+Walker,FAIRYLAND,Governor,,REP,BRIAN KEMP,527
+Walker,FAIRVIEW,Governor,,REP,BRIAN KEMP,1003
+Walker,LAFAYETTE,Governor,,DEM,STACEY ABRAMS,564
+Walker,WALNUT GROVE,Governor,,DEM,STACEY ABRAMS,121
+Walker,ROCK SPRING,Governor,,DEM,STACEY ABRAMS,439
+Walker,ARMUCHEE VALLEY,Governor,,DEM,STACEY ABRAMS,117
+Walker,MOUNTAIN,Governor,,DEM,STACEY ABRAMS,111
+Walker,CHATTANOOGA VALLEY,Governor,,DEM,STACEY ABRAMS,687
+Walker,KENSINGTON,Governor,,DEM,STACEY ABRAMS,154
+Walker,ROSSVILLE,Governor,,DEM,STACEY ABRAMS,607
+Walker,CHICKAMAUGA,Governor,,DEM,STACEY ABRAMS,531
+Walker,FAIRYLAND,Governor,,DEM,STACEY ABRAMS,236
+Walker,FAIRVIEW,Governor,,DEM,STACEY ABRAMS,271
+Walker,LAFAYETTE,Governor,,LIB,TED METZ,52
+Walker,WALNUT GROVE,Governor,,LIB,TED METZ,13
+Walker,ROCK SPRING,Governor,,LIB,TED METZ,29
+Walker,ARMUCHEE VALLEY,Governor,,LIB,TED METZ,6
+Walker,MOUNTAIN,Governor,,LIB,TED METZ,8
+Walker,CHATTANOOGA VALLEY,Governor,,LIB,TED METZ,42
+Walker,KENSINGTON,Governor,,LIB,TED METZ,6
+Walker,ROSSVILLE,Governor,,LIB,TED METZ,38
+Walker,CHICKAMAUGA,Governor,,LIB,TED METZ,34
+Walker,FAIRYLAND,Governor,,LIB,TED METZ,10
+Walker,FAIRVIEW,Governor,,LIB,TED METZ,14
+Walker,LAFAYETTE,Lieutenant Governor,,REP,GEOFF DUNCAN,2294
+Walker,WALNUT GROVE,Lieutenant Governor,,REP,GEOFF DUNCAN,939
+Walker,ROCK SPRING,Lieutenant Governor,,REP,GEOFF DUNCAN,2788
+Walker,ARMUCHEE VALLEY,Lieutenant Governor,,REP,GEOFF DUNCAN,625
+Walker,MOUNTAIN,Lieutenant Governor,,REP,GEOFF DUNCAN,532
+Walker,CHATTANOOGA VALLEY,Lieutenant Governor,,REP,GEOFF DUNCAN,2449
+Walker,KENSINGTON,Lieutenant Governor,,REP,GEOFF DUNCAN,623
+Walker,ROSSVILLE,Lieutenant Governor,,REP,GEOFF DUNCAN,1870
+Walker,CHICKAMAUGA,Lieutenant Governor,,REP,GEOFF DUNCAN,2954
+Walker,FAIRYLAND,Lieutenant Governor,,REP,GEOFF DUNCAN,525
+Walker,FAIRVIEW,Lieutenant Governor,,REP,GEOFF DUNCAN,922
+Walker,LAFAYETTE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,577
+Walker,WALNUT GROVE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,136
+Walker,ROCK SPRING,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,468
+Walker,ARMUCHEE VALLEY,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,111
+Walker,MOUNTAIN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,104
+Walker,CHATTANOOGA VALLEY,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,670
+Walker,KENSINGTON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,152
+Walker,ROSSVILLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,587
+Walker,CHICKAMAUGA,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,542
+Walker,FAIRYLAND,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,220
+Walker,FAIRVIEW,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,284
+Walker,LAFAYETTE,Secretary Of State,,REP,BRAD RAFFENSPERGER,2301
+Walker,WALNUT GROVE,Secretary Of State,,REP,BRAD RAFFENSPERGER,955
+Walker,ROCK SPRING,Secretary Of State,,REP,BRAD RAFFENSPERGER,2823
+Walker,ARMUCHEE VALLEY,Secretary Of State,,REP,BRAD RAFFENSPERGER,640
+Walker,MOUNTAIN,Secretary Of State,,REP,BRAD RAFFENSPERGER,530
+Walker,CHATTANOOGA VALLEY,Secretary Of State,,REP,BRAD RAFFENSPERGER,2464
+Walker,KENSINGTON,Secretary Of State,,REP,BRAD RAFFENSPERGER,629
+Walker,ROSSVILLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,1904
+Walker,CHICKAMAUGA,Secretary Of State,,REP,BRAD RAFFENSPERGER,2972
+Walker,FAIRYLAND,Secretary Of State,,REP,BRAD RAFFENSPERGER,530
+Walker,FAIRVIEW,Secretary Of State,,REP,BRAD RAFFENSPERGER,957
+Walker,LAFAYETTE,Secretary Of State,,DEM,JOHN BARROW,589
+Walker,WALNUT GROVE,Secretary Of State,,DEM,JOHN BARROW,132
+Walker,ROCK SPRING,Secretary Of State,,DEM,JOHN BARROW,474
+Walker,ARMUCHEE VALLEY,Secretary Of State,,DEM,JOHN BARROW,124
+Walker,MOUNTAIN,Secretary Of State,,DEM,JOHN BARROW,101
+Walker,CHATTANOOGA VALLEY,Secretary Of State,,DEM,JOHN BARROW,680
+Walker,KENSINGTON,Secretary Of State,,DEM,JOHN BARROW,155
+Walker,ROSSVILLE,Secretary Of State,,DEM,JOHN BARROW,605
+Walker,CHICKAMAUGA,Secretary Of State,,DEM,JOHN BARROW,545
+Walker,FAIRYLAND,Secretary Of State,,DEM,JOHN BARROW,222
+Walker,FAIRVIEW,Secretary Of State,,DEM,JOHN BARROW,283
+Walker,LAFAYETTE,Secretary Of State,,LIB,SMYTHE DUVAL,97
+Walker,WALNUT GROVE,Secretary Of State,,LIB,SMYTHE DUVAL,25
+Walker,ROCK SPRING,Secretary Of State,,LIB,SMYTHE DUVAL,68
+Walker,ARMUCHEE VALLEY,Secretary Of State,,LIB,SMYTHE DUVAL,11
+Walker,MOUNTAIN,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Walker,CHATTANOOGA VALLEY,Secretary Of State,,LIB,SMYTHE DUVAL,78
+Walker,KENSINGTON,Secretary Of State,,LIB,SMYTHE DUVAL,18
+Walker,ROSSVILLE,Secretary Of State,,LIB,SMYTHE DUVAL,57
+Walker,CHICKAMAUGA,Secretary Of State,,LIB,SMYTHE DUVAL,75
+Walker,FAIRYLAND,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Walker,FAIRVIEW,Secretary Of State,,LIB,SMYTHE DUVAL,28
+Walker,LAFAYETTE,Attorney General,,(REP,CHRIS CARR ,2352
+Walker,WALNUT GROVE,Attorney General,,(REP,CHRIS CARR ,975
+Walker,ROCK SPRING,Attorney General,,(REP,CHRIS CARR ,2878
+Walker,ARMUCHEE VALLEY,Attorney General,,(REP,CHRIS CARR ,644
+Walker,MOUNTAIN,Attorney General,,(REP,CHRIS CARR ,539
+Walker,CHATTANOOGA VALLEY,Attorney General,,(REP,CHRIS CARR ,2528
+Walker,KENSINGTON,Attorney General,,(REP,CHRIS CARR ,638
+Walker,ROSSVILLE,Attorney General,,(REP,CHRIS CARR ,1922
+Walker,CHICKAMAUGA,Attorney General,,(REP,CHRIS CARR ,3029
+Walker,FAIRYLAND,Attorney General,,(REP,CHRIS CARR ,549
+Walker,FAIRVIEW,Attorney General,,(REP,CHRIS CARR ,962
+Walker,LAFAYETTE,Attorney General,,DEM,CHARLIE BAILEY,607
+Walker,WALNUT GROVE,Attorney General,,DEM,CHARLIE BAILEY,138
+Walker,ROCK SPRING,Attorney General,,DEM,CHARLIE BAILEY,478
+Walker,ARMUCHEE VALLEY,Attorney General,,DEM,CHARLIE BAILEY,120
+Walker,MOUNTAIN,Attorney General,,DEM,CHARLIE BAILEY,103
+Walker,CHATTANOOGA VALLEY,Attorney General,,DEM,CHARLIE BAILEY,679
+Walker,KENSINGTON,Attorney General,,DEM,CHARLIE BAILEY,163
+Walker,ROSSVILLE,Attorney General,,DEM,CHARLIE BAILEY,626
+Walker,CHICKAMAUGA,Attorney General,,DEM,CHARLIE BAILEY,542
+Walker,FAIRYLAND,Attorney General,,DEM,CHARLIE BAILEY,218
+Walker,FAIRVIEW,Attorney General,,DEM,CHARLIE BAILEY,295
+Walker,LAFAYETTE,Commissioner Of Agriculture,,(REP,GARY BLACK ,2385
+Walker,WALNUT GROVE,Commissioner Of Agriculture,,(REP,GARY BLACK ,983
+Walker,ROCK SPRING,Commissioner Of Agriculture,,(REP,GARY BLACK ,2914
+Walker,ARMUCHEE VALLEY,Commissioner Of Agriculture,,(REP,GARY BLACK ,646
+Walker,MOUNTAIN,Commissioner Of Agriculture,,(REP,GARY BLACK ,546
+Walker,CHATTANOOGA VALLEY,Commissioner Of Agriculture,,(REP,GARY BLACK ,2544
+Walker,KENSINGTON,Commissioner Of Agriculture,,(REP,GARY BLACK ,668
+Walker,ROSSVILLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,1943
+Walker,CHICKAMAUGA,Commissioner Of Agriculture,,(REP,GARY BLACK ,3081
+Walker,FAIRYLAND,Commissioner Of Agriculture,,(REP,GARY BLACK ,561
+Walker,FAIRVIEW,Commissioner Of Agriculture,,(REP,GARY BLACK ,980
+Walker,LAFAYETTE,Commissioner Of Agriculture,,DEM,FRED SWANN,564
+Walker,WALNUT GROVE,Commissioner Of Agriculture,,DEM,FRED SWANN,120
+Walker,ROCK SPRING,Commissioner Of Agriculture,,DEM,FRED SWANN,435
+Walker,ARMUCHEE VALLEY,Commissioner Of Agriculture,,DEM,FRED SWANN,116
+Walker,MOUNTAIN,Commissioner Of Agriculture,,DEM,FRED SWANN,102
+Walker,CHATTANOOGA VALLEY,Commissioner Of Agriculture,,DEM,FRED SWANN,669
+Walker,KENSINGTON,Commissioner Of Agriculture,,DEM,FRED SWANN,143
+Walker,ROSSVILLE,Commissioner Of Agriculture,,DEM,FRED SWANN,598
+Walker,CHICKAMAUGA,Commissioner Of Agriculture,,DEM,FRED SWANN,510
+Walker,FAIRYLAND,Commissioner Of Agriculture,,DEM,FRED SWANN,199
+Walker,FAIRVIEW,Commissioner Of Agriculture,,DEM,FRED SWANN,275
+Walker,LAFAYETTE,Commissioner Of Insurance,,REP,JIM BECK,2289
+Walker,WALNUT GROVE,Commissioner Of Insurance,,REP,JIM BECK,960
+Walker,ROCK SPRING,Commissioner Of Insurance,,REP,JIM BECK,2812
+Walker,ARMUCHEE VALLEY,Commissioner Of Insurance,,REP,JIM BECK,638
+Walker,MOUNTAIN,Commissioner Of Insurance,,REP,JIM BECK,520
+Walker,CHATTANOOGA VALLEY,Commissioner Of Insurance,,REP,JIM BECK,2456
+Walker,KENSINGTON,Commissioner Of Insurance,,REP,JIM BECK,634
+Walker,ROSSVILLE,Commissioner Of Insurance,,REP,JIM BECK,1883
+Walker,CHICKAMAUGA,Commissioner Of Insurance,,REP,JIM BECK,2954
+Walker,FAIRYLAND,Commissioner Of Insurance,,REP,JIM BECK,539
+Walker,FAIRVIEW,Commissioner Of Insurance,,REP,JIM BECK,946
+Walker,LAFAYETTE,Commissioner Of Insurance,,DEM,JANICE LAWS,573
+Walker,WALNUT GROVE,Commissioner Of Insurance,,DEM,JANICE LAWS,126
+Walker,ROCK SPRING,Commissioner Of Insurance,,DEM,JANICE LAWS,467
+Walker,ARMUCHEE VALLEY,Commissioner Of Insurance,,DEM,JANICE LAWS,118
+Walker,MOUNTAIN,Commissioner Of Insurance,,DEM,JANICE LAWS,105
+Walker,CHATTANOOGA VALLEY,Commissioner Of Insurance,,DEM,JANICE LAWS,663
+Walker,KENSINGTON,Commissioner Of Insurance,,DEM,JANICE LAWS,144
+Walker,ROSSVILLE,Commissioner Of Insurance,,DEM,JANICE LAWS,605
+Walker,CHICKAMAUGA,Commissioner Of Insurance,,DEM,JANICE LAWS,537
+Walker,FAIRYLAND,Commissioner Of Insurance,,DEM,JANICE LAWS,209
+Walker,FAIRVIEW,Commissioner Of Insurance,,DEM,JANICE LAWS,275
+Walker,LAFAYETTE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,109
+Walker,WALNUT GROVE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,29
+Walker,ROCK SPRING,Commissioner Of Insurance,,LIB,DONNIE FOSTER,75
+Walker,ARMUCHEE VALLEY,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
+Walker,MOUNTAIN,Commissioner Of Insurance,,LIB,DONNIE FOSTER,19
+Walker,CHATTANOOGA VALLEY,Commissioner Of Insurance,,LIB,DONNIE FOSTER,99
+Walker,KENSINGTON,Commissioner Of Insurance,,LIB,DONNIE FOSTER,26
+Walker,ROSSVILLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,72
+Walker,CHICKAMAUGA,Commissioner Of Insurance,,LIB,DONNIE FOSTER,90
+Walker,FAIRYLAND,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
+Walker,FAIRVIEW,Commissioner Of Insurance,,LIB,DONNIE FOSTER,39
+Walker,LAFAYETTE,State School Superintendent,,(REP,RICHARD WOODS ,2404
+Walker,WALNUT GROVE,State School Superintendent,,(REP,RICHARD WOODS ,981
+Walker,ROCK SPRING,State School Superintendent,,(REP,RICHARD WOODS ,2912
+Walker,ARMUCHEE VALLEY,State School Superintendent,,(REP,RICHARD WOODS ,659
+Walker,MOUNTAIN,State School Superintendent,,(REP,RICHARD WOODS ,543
+Walker,CHATTANOOGA VALLEY,State School Superintendent,,(REP,RICHARD WOODS ,2562
+Walker,KENSINGTON,State School Superintendent,,(REP,RICHARD WOODS ,661
+Walker,ROSSVILLE,State School Superintendent,,(REP,RICHARD WOODS ,1966
+Walker,CHICKAMAUGA,State School Superintendent,,(REP,RICHARD WOODS ,3069
+Walker,FAIRYLAND,State School Superintendent,,(REP,RICHARD WOODS ,555
+Walker,FAIRVIEW,State School Superintendent,,(REP,RICHARD WOODS ,976
+Walker,LAFAYETTE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",562
+Walker,WALNUT GROVE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",128
+Walker,ROCK SPRING,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",459
+Walker,ARMUCHEE VALLEY,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",113
+Walker,MOUNTAIN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",101
+Walker,CHATTANOOGA VALLEY,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",671
+Walker,KENSINGTON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",147
+Walker,ROSSVILLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",599
+Walker,CHICKAMAUGA,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",530
+Walker,FAIRYLAND,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",205
+Walker,FAIRVIEW,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",290
+Walker,LAFAYETTE,Commissioner Of Labor,,(REP,MARK BUTLER ,2375
+Walker,WALNUT GROVE,Commissioner Of Labor,,(REP,MARK BUTLER ,981
+Walker,ROCK SPRING,Commissioner Of Labor,,(REP,MARK BUTLER ,2891
+Walker,ARMUCHEE VALLEY,Commissioner Of Labor,,(REP,MARK BUTLER ,649
+Walker,MOUNTAIN,Commissioner Of Labor,,(REP,MARK BUTLER ,538
+Walker,CHATTANOOGA VALLEY,Commissioner Of Labor,,(REP,MARK BUTLER ,2518
+Walker,KENSINGTON,Commissioner Of Labor,,(REP,MARK BUTLER ,656
+Walker,ROSSVILLE,Commissioner Of Labor,,(REP,MARK BUTLER ,1932
+Walker,CHICKAMAUGA,Commissioner Of Labor,,(REP,MARK BUTLER ,3032
+Walker,FAIRYLAND,Commissioner Of Labor,,(REP,MARK BUTLER ,546
+Walker,FAIRVIEW,Commissioner Of Labor,,(REP,MARK BUTLER ,962
+Walker,LAFAYETTE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,584
+Walker,WALNUT GROVE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,126
+Walker,ROCK SPRING,Commissioner Of Labor,,DEM,RICHARD KEATLEY,458
+Walker,ARMUCHEE VALLEY,Commissioner Of Labor,,DEM,RICHARD KEATLEY,117
+Walker,MOUNTAIN,Commissioner Of Labor,,DEM,RICHARD KEATLEY,101
+Walker,CHATTANOOGA VALLEY,Commissioner Of Labor,,DEM,RICHARD KEATLEY,688
+Walker,KENSINGTON,Commissioner Of Labor,,DEM,RICHARD KEATLEY,147
+Walker,ROSSVILLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,618
+Walker,CHICKAMAUGA,Commissioner Of Labor,,DEM,RICHARD KEATLEY,539
+Walker,FAIRYLAND,Commissioner Of Labor,,DEM,RICHARD KEATLEY,211
+Walker,FAIRVIEW,Commissioner Of Labor,,DEM,RICHARD KEATLEY,295
+Walker,LAFAYETTE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2315
+Walker,WALNUT GROVE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,953
+Walker,ROCK SPRING,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2816
+Walker,ARMUCHEE VALLEY,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,639
+Walker,MOUNTAIN,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,521
+Walker,CHATTANOOGA VALLEY,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2464
+Walker,KENSINGTON,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,641
+Walker,ROSSVILLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1891
+Walker,CHICKAMAUGA,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2986
+Walker,FAIRYLAND,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,527
+Walker,FAIRVIEW,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,936
+Walker,LAFAYETTE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,563
+Walker,WALNUT GROVE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,126
+Walker,ROCK SPRING,"Public Service Commission, District 3",3,DEM,LINDY MILLER,460
+Walker,ARMUCHEE VALLEY,"Public Service Commission, District 3",3,DEM,LINDY MILLER,118
+Walker,MOUNTAIN,"Public Service Commission, District 3",3,DEM,LINDY MILLER,100
+Walker,CHATTANOOGA VALLEY,"Public Service Commission, District 3",3,DEM,LINDY MILLER,659
+Walker,KENSINGTON,"Public Service Commission, District 3",3,DEM,LINDY MILLER,144
+Walker,ROSSVILLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,601
+Walker,CHICKAMAUGA,"Public Service Commission, District 3",3,DEM,LINDY MILLER,518
+Walker,FAIRYLAND,"Public Service Commission, District 3",3,DEM,LINDY MILLER,205
+Walker,FAIRVIEW,"Public Service Commission, District 3",3,DEM,LINDY MILLER,285
+Walker,LAFAYETTE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,94
+Walker,WALNUT GROVE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,33
+Walker,ROCK SPRING,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,83
+Walker,ARMUCHEE VALLEY,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,12
+Walker,MOUNTAIN,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,18
+Walker,CHATTANOOGA VALLEY,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,102
+Walker,KENSINGTON,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,21
+Walker,ROSSVILLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,72
+Walker,CHICKAMAUGA,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,85
+Walker,FAIRYLAND,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,24
+Walker,FAIRVIEW,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,38
+Walker,LAFAYETTE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2298
+Walker,WALNUT GROVE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,942
+Walker,ROCK SPRING,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2812
+Walker,ARMUCHEE VALLEY,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,634
+Walker,MOUNTAIN,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,513
+Walker,CHATTANOOGA VALLEY,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2429
+Walker,KENSINGTON,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,629
+Walker,ROSSVILLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1888
+Walker,CHICKAMAUGA,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2950
+Walker,FAIRYLAND,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,533
+Walker,FAIRVIEW,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,936
+Walker,LAFAYETTE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,570
+Walker,WALNUT GROVE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,135
+Walker,ROCK SPRING,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,458
+Walker,ARMUCHEE VALLEY,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,122
+Walker,MOUNTAIN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,101
+Walker,CHATTANOOGA VALLEY,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,681
+Walker,KENSINGTON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,144
+Walker,ROSSVILLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,605
+Walker,CHICKAMAUGA,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,529
+Walker,FAIRYLAND,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,205
+Walker,FAIRVIEW,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,286
+Walker,LAFAYETTE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,99
+Walker,WALNUT GROVE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,33
+Walker,ROCK SPRING,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,93
+Walker,ARMUCHEE VALLEY,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,13
+Walker,MOUNTAIN,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21
+Walker,CHATTANOOGA VALLEY,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,96
+Walker,KENSINGTON,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,29
+Walker,ROSSVILLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,70
+Walker,CHICKAMAUGA,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,93
+Walker,FAIRYLAND,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,23
+Walker,FAIRVIEW,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,33
+Walker,LAFAYETTE,U.S. Representative,14,(REP,TOM GRAVES ,2386
+Walker,WALNUT GROVE,U.S. Representative,14,(REP,TOM GRAVES ,984
+Walker,ROCK SPRING,U.S. Representative,14,(REP,TOM GRAVES ,2921
+Walker,ARMUCHEE VALLEY,U.S. Representative,14,(REP,TOM GRAVES ,662
+Walker,MOUNTAIN,U.S. Representative,14,(REP,TOM GRAVES ,549
+Walker,CHATTANOOGA VALLEY,U.S. Representative,14,(REP,TOM GRAVES ,2560
+Walker,KENSINGTON,U.S. Representative,14,(REP,TOM GRAVES ,659
+Walker,ROSSVILLE,U.S. Representative,14,(REP,TOM GRAVES ,1964
+Walker,CHICKAMAUGA,U.S. Representative,14,(REP,TOM GRAVES ,3074
+Walker,FAIRYLAND,U.S. Representative,14,(REP,TOM GRAVES ,561
+Walker,FAIRVIEW,U.S. Representative,14,(REP,TOM GRAVES ,978
+Walker,LAFAYETTE,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,586
+Walker,WALNUT GROVE,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,130
+Walker,ROCK SPRING,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,451
+Walker,ARMUCHEE VALLEY,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,111
+Walker,MOUNTAIN,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,99
+Walker,CHATTANOOGA VALLEY,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,678
+Walker,KENSINGTON,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,153
+Walker,ROSSVILLE,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,607
+Walker,CHICKAMAUGA,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,537
+Walker,FAIRYLAND,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,205
+Walker,FAIRVIEW,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,290
+Walker,LAFAYETTE,State Senator,53,(REP,JEFF MULLIS ,2527
+Walker,WALNUT GROVE,State Senator,53,(REP,JEFF MULLIS ,982
+Walker,ROCK SPRING,State Senator,53,(REP,JEFF MULLIS ,3008
+Walker,ARMUCHEE VALLEY,State Senator,53,(REP,JEFF MULLIS ,674
+Walker,MOUNTAIN,State Senator,53,(REP,JEFF MULLIS ,563
+Walker,CHATTANOOGA VALLEY,State Senator,53,(REP,JEFF MULLIS ,2783
+Walker,KENSINGTON,State Senator,53,(REP,JEFF MULLIS ,684
+Walker,ROSSVILLE,State Senator,53,(REP,JEFF MULLIS ,2229
+Walker,CHICKAMAUGA,State Senator,53,(REP,JEFF MULLIS ,3208
+Walker,FAIRYLAND,State Senator,53,(REP,JEFF MULLIS ,634
+Walker,FAIRVIEW,State Senator,53,(REP,JEFF MULLIS ,1075
+Walker,WALNUT GROVE,State Representative,1,REP,COLTON MOORE,375
+Walker,MOUNTAIN,State Representative,1,REP,COLTON MOORE,579
+Walker,CHATTANOOGA VALLEY,State Representative,1,REP,COLTON MOORE,2795
+Walker,KENSINGTON,State Representative,1,REP,COLTON MOORE,691
+Walker,ROSSVILLE,State Representative,1,REP,COLTON MOORE,2228
+Walker,CHICKAMAUGA,State Representative,1,REP,COLTON MOORE,1098
+Walker,FAIRYLAND,State Representative,1,REP,COLTON MOORE,631
+Walker,FAIRVIEW,State Representative,1,REP,COLTON MOORE,1073
+Walker,LAFAYETTE,State Representative,2,(REP,STEVE TARVIN ,2605
+Walker,WALNUT GROVE,State Representative,2,(REP,STEVE TARVIN ,636
+Walker,ROCK SPRING,State Representative,2,(REP,STEVE TARVIN ,3045
+Walker,ARMUCHEE VALLEY,State Representative,2,(REP,STEVE TARVIN ,695
+Walker,CHICKAMAUGA,State Representative,2,(REP,STEVE TARVIN ,2132
+Walker,LAFAYETTE,BOE P2,,R,B. MCNABB ,2588
+Walker,WALNUT GROVE,BOE P2,,R,B. MCNABB ,1012
+Walker,ROCK SPRING,BOE P2,,R,B. MCNABB ,3038
+Walker,ARMUCHEE VALLEY,BOE P2,,R,B. MCNABB ,683
+Walker,MOUNTAIN,BOE P2,,R,B. MCNABB ,562
+Walker,CHATTANOOGA VALLEY,BOE P2,,R,B. MCNABB ,2786
+Walker,KENSINGTON,BOE P2,,R,B. MCNABB ,690
+Walker,ROSSVILLE,BOE P2,,R,B. MCNABB ,2224
+Walker,CHICKAMAUGA,BOE P2,,R,B. MCNABB ,2113
+Walker,FAIRYLAND,BOE P2,,R,B. MCNABB ,615
+Walker,FAIRVIEW,BOE P2,,R,B. MCNABB ,1084
+Walker,LAFAYETTE,BOE P3,,R,M. CARRUTH ,2331
+Walker,WALNUT GROVE,BOE P3,,R,M. CARRUTH ,961
+Walker,ROCK SPRING,BOE P3,,R,M. CARRUTH ,2830
+Walker,ARMUCHEE VALLEY,BOE P3,,R,M. CARRUTH ,647
+Walker,MOUNTAIN,BOE P3,,R,M. CARRUTH ,528
+Walker,CHATTANOOGA VALLEY,BOE P3,,R,M. CARRUTH ,2517
+Walker,KENSINGTON,BOE P3,,R,M. CARRUTH ,646
+Walker,ROSSVILLE,BOE P3,,R,M. CARRUTH ,1938
+Walker,CHICKAMAUGA,BOE P3,,R,M. CARRUTH ,1981
+Walker,FAIRYLAND,BOE P3,,R,M. CARRUTH ,529
+Walker,FAIRVIEW,BOE P3,,R,M. CARRUTH ,965
+Walker,LAFAYETTE,BOE P3,,D,J. HITCHCOX,596
+Walker,WALNUT GROVE,BOE P3,,D,J. HITCHCOX,133
+Walker,ROCK SPRING,BOE P3,,D,J. HITCHCOX,485
+Walker,ARMUCHEE VALLEY,BOE P3,,D,J. HITCHCOX,118
+Walker,MOUNTAIN,BOE P3,,D,J. HITCHCOX,106
+Walker,CHATTANOOGA VALLEY,BOE P3,,D,J. HITCHCOX,679
+Walker,KENSINGTON,BOE P3,,D,J. HITCHCOX,155
+Walker,ROSSVILLE,BOE P3,,D,J. HITCHCOX,610
+Walker,CHICKAMAUGA,BOE P3,,D,J. HITCHCOX,376
+Walker,FAIRYLAND,BOE P3,,D,J. HITCHCOX,211
+Walker,FAIRVIEW,BOE P3,,D,J. HITCHCOX,292
+Walker,LAFAYETTE,Soil and Water,,,BRIAN P. HART,1769
+Walker,WALNUT GROVE,Soil and Water,,,BRIAN P. HART,686
+Walker,ROCK SPRING,Soil and Water,,,BRIAN P. HART,1840
+Walker,ARMUCHEE VALLEY,Soil and Water,,,BRIAN P. HART,503
+Walker,MOUNTAIN,Soil and Water,,,BRIAN P. HART,236
+Walker,CHATTANOOGA VALLEY,Soil and Water,,,BRIAN P. HART,1280
+Walker,KENSINGTON,Soil and Water,,,BRIAN P. HART,318
+Walker,ROSSVILLE,Soil and Water,,,BRIAN P. HART,1198
+Walker,CHICKAMAUGA,Soil and Water,,,BRIAN P. HART,1493
+Walker,FAIRYLAND,Soil and Water,,,BRIAN P. HART,268
+Walker,FAIRVIEW,Soil and Water,,,BRIAN P. HART,585
+Walker,LAFAYETTE,Soil and Water,,,WILL PAINTER,821
+Walker,WALNUT GROVE,Soil and Water,,,WILL PAINTER,276
+Walker,ROCK SPRING,Soil and Water,,,WILL PAINTER,997
+Walker,ARMUCHEE VALLEY,Soil and Water,,,WILL PAINTER,178
+Walker,MOUNTAIN,Soil and Water,,,WILL PAINTER,266
+Walker,CHATTANOOGA VALLEY,Soil and Water,,,WILL PAINTER,1426
+Walker,KENSINGTON,Soil and Water,,,WILL PAINTER,363
+Walker,ROSSVILLE,Soil and Water,,,WILL PAINTER,952
+Walker,CHICKAMAUGA,Soil and Water,,,WILL PAINTER,1547
+Walker,FAIRYLAND,Soil and Water,,,WILL PAINTER,248
+Walker,FAIRVIEW,Soil and Water,,,WILL PAINTER,466
+Walker,LAFAYETTE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2408
+Walker,WALNUT GROVE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,834
+Walker,ROCK SPRING,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2668
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,600
+Walker,MOUNTAIN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,508
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2679
+Walker,KENSINGTON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,638
+Walker,ROSSVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2117
+Walker,CHICKAMAUGA,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2863
+Walker,FAIRYLAND,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,639
+Walker,FAIRVIEW,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1035
+Walker,LAFAYETTE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,561
+Walker,WALNUT GROVE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,262
+Walker,ROCK SPRING,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,641
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,162
+Walker,MOUNTAIN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,131
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,516
+Walker,KENSINGTON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,165
+Walker,ROSSVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,395
+Walker,CHICKAMAUGA,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,664
+Walker,FAIRYLAND,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,113
+Walker,FAIRVIEW,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,223
+Walker,LAFAYETTE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2032
+Walker,WALNUT GROVE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,662
+Walker,ROCK SPRING,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2260
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,525
+Walker,MOUNTAIN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,428
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2292
+Walker,KENSINGTON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,542
+Walker,ROSSVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1820
+Walker,CHICKAMAUGA,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2389
+Walker,FAIRYLAND,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,548
+Walker,FAIRVIEW,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,868
+Walker,LAFAYETTE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,861
+Walker,WALNUT GROVE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,412
+Walker,ROCK SPRING,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,966
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,216
+Walker,MOUNTAIN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,195
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,822
+Walker,KENSINGTON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,232
+Walker,ROSSVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,641
+Walker,CHICKAMAUGA,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1044
+Walker,FAIRYLAND,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,178
+Walker,FAIRVIEW,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,346
+Walker,LAFAYETTE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1689
+Walker,WALNUT GROVE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,554
+Walker,ROCK SPRING,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1851
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,416
+Walker,MOUNTAIN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,346
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1951
+Walker,KENSINGTON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,467
+Walker,ROSSVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1510
+Walker,CHICKAMAUGA,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2001
+Walker,FAIRYLAND,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,507
+Walker,FAIRVIEW,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,710
+Walker,LAFAYETTE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1140
+Walker,WALNUT GROVE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,500
+Walker,ROCK SPRING,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1294
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,304
+Walker,MOUNTAIN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,263
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1102
+Walker,KENSINGTON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,307
+Walker,ROSSVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,919
+Walker,CHICKAMAUGA,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1362
+Walker,FAIRYLAND,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,206
+Walker,FAIRVIEW,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,482
+Walker,LAFAYETTE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2303
+Walker,WALNUT GROVE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,777
+Walker,ROCK SPRING,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2491
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,555
+Walker,MOUNTAIN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,478
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2530
+Walker,KENSINGTON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,607
+Walker,ROSSVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2001
+Walker,CHICKAMAUGA,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2650
+Walker,FAIRYLAND,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,576
+Walker,FAIRVIEW,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1014
+Walker,LAFAYETTE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,601
+Walker,WALNUT GROVE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,288
+Walker,ROCK SPRING,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,746
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,186
+Walker,MOUNTAIN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,134
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,618
+Walker,KENSINGTON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,179
+Walker,ROSSVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,489
+Walker,CHICKAMAUGA,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,819
+Walker,FAIRYLAND,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,150
+Walker,FAIRVIEW,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,220
+Walker,LAFAYETTE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1852
+Walker,WALNUT GROVE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,657
+Walker,ROCK SPRING,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2129
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,477
+Walker,MOUNTAIN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,382
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2163
+Walker,KENSINGTON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,498
+Walker,ROSSVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1733
+Walker,CHICKAMAUGA,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2275
+Walker,FAIRYLAND,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,541
+Walker,FAIRVIEW,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,832
+Walker,LAFAYETTE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1021
+Walker,WALNUT GROVE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,409
+Walker,ROCK SPRING,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1073
+Walker,ARMUCHEE VALLEY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,260
+Walker,MOUNTAIN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,228
+Walker,CHATTANOOGA VALLEY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,952
+Walker,KENSINGTON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,280
+Walker,ROSSVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,724
+Walker,CHICKAMAUGA,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1158
+Walker,FAIRYLAND,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,182
+Walker,FAIRVIEW,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,373
+Walker,LAFAYETTE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1589
+Walker,WALNUT GROVE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,540
+Walker,ROCK SPRING,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1692
+Walker,ARMUCHEE VALLEY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,403
+Walker,MOUNTAIN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,323
+Walker,CHATTANOOGA VALLEY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1746
+Walker,KENSINGTON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,432
+Walker,ROSSVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1417
+Walker,CHICKAMAUGA,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1906
+Walker,FAIRYLAND,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,413
+Walker,FAIRVIEW,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,697
+Walker,LAFAYETTE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1236
+Walker,WALNUT GROVE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,506
+Walker,ROCK SPRING,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1422
+Walker,ARMUCHEE VALLEY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,321
+Walker,MOUNTAIN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,265
+Walker,CHATTANOOGA VALLEY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1281
+Walker,KENSINGTON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,323
+Walker,ROSSVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,994
+Walker,CHICKAMAUGA,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1453
+Walker,FAIRYLAND,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,271
+Walker,FAIRVIEW,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,490
+Walker,LAFAYETTE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2178
+Walker,WALNUT GROVE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,736
+Walker,ROCK SPRING,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2393
+Walker,ARMUCHEE VALLEY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,554
+Walker,MOUNTAIN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,461
+Walker,CHATTANOOGA VALLEY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2418
+Walker,KENSINGTON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,583
+Walker,ROSSVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1969
+Walker,CHICKAMAUGA,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2565
+Walker,FAIRYLAND,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,602
+Walker,FAIRVIEW,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,949
+Walker,LAFAYETTE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,710
+Walker,WALNUT GROVE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,332
+Walker,ROCK SPRING,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,815
+Walker,ARMUCHEE VALLEY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,184
+Walker,MOUNTAIN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,155
+Walker,CHATTANOOGA VALLEY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,704
+Walker,KENSINGTON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,190
+Walker,ROSSVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,514
+Walker,CHICKAMAUGA,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,868
+Walker,FAIRYLAND,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,122
+Walker,FAIRVIEW,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,259
+Walker,LAFAYETTE,WALKER,,,YES,1781
+Walker,WALNUT GROVE,WALKER,,,YES,664
+Walker,ROCK SPRING,WALKER,,,YES,1957
+Walker,ARMUCHEE VALLEY,WALKER,,,YES,443
+Walker,MOUNTAIN,WALKER,,,YES,392
+Walker,CHATTANOOGA VALLEY,WALKER,,,YES,2015
+Walker,KENSINGTON,WALKER,,,YES,508
+Walker,ROSSVILLE,WALKER,,,YES,1598
+Walker,CHICKAMAUGA,WALKER,,,YES,2177
+Walker,FAIRYLAND,WALKER,,,YES,565
+Walker,FAIRVIEW,WALKER,,,YES,805
+Walker,LAFAYETTE,WALKER,,,NO,1215
+Walker,WALNUT GROVE,WALKER,,,NO,454
+Walker,ROCK SPRING,WALKER,,,NO,1412
+Walker,ARMUCHEE VALLEY,WALKER,,,NO,330
+Walker,MOUNTAIN,WALKER,,,NO,255
+Walker,CHATTANOOGA VALLEY,WALKER,,,NO,1221
+Walker,KENSINGTON,WALKER,,,NO,303
+Walker,ROSSVILLE,WALKER,,,NO,973
+Walker,CHICKAMAUGA,WALKER,,,NO,1416
+Walker,FAIRYLAND,WALKER,,,NO,188
+Walker,FAIRVIEW,WALKER,,,NO,465
+Walker,LAFAYETTE,LAFAYETTE,,,YES,1046
+Walker,LAFAYETTE,LAFAYETTE,,,NO,567

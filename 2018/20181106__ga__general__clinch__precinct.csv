@@ -1,0 +1,224 @@
+county,precinct,office,district,party,candidate,votes
+Clinch,Arabia,Governor,,REP,BRIAN KEMP,62
+Clinch,Argyle,Governor,,REP,BRIAN KEMP,153
+Clinch,Dupont,Governor,,REP,BRIAN KEMP,126
+Clinch,Fargo,Governor,,REP,BRIAN KEMP,131
+Clinch,Homerville,Governor,,REP,BRIAN KEMP,1245
+Clinch,Arabia,Governor,,DEM,STACEY ABRAMS,5
+Clinch,Argyle,Governor,,DEM,STACEY ABRAMS,27
+Clinch,Dupont,Governor,,DEM,STACEY ABRAMS,42
+Clinch,Fargo,Governor,,DEM,STACEY ABRAMS,18
+Clinch,Homerville,Governor,,DEM,STACEY ABRAMS,442
+Clinch,Arabia,Governor,,LIB,TED METZ,0
+Clinch,Argyle,Governor,,LIB,TED METZ,0
+Clinch,Dupont,Governor,,LIB,TED METZ,0
+Clinch,Fargo,Governor,,LIB,TED METZ,1
+Clinch,Homerville,Governor,,LIB,TED METZ,6
+Clinch,Arabia,Lieutenant Governor,,REP,GEOFF DUNCAN,58
+Clinch,Argyle,Lieutenant Governor,,REP,GEOFF DUNCAN,146
+Clinch,Dupont,Lieutenant Governor,,REP,GEOFF DUNCAN,116
+Clinch,Fargo,Lieutenant Governor,,REP,GEOFF DUNCAN,121
+Clinch,Homerville,Lieutenant Governor,,REP,GEOFF DUNCAN,1181
+Clinch,Arabia,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,5
+Clinch,Argyle,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,26
+Clinch,Dupont,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,39
+Clinch,Fargo,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,15
+Clinch,Homerville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,388
+Clinch,Arabia,Secretary Of State,,REP,BRAD RAFFENSPERGER,56
+Clinch,Argyle,Secretary Of State,,REP,BRAD RAFFENSPERGER,149
+Clinch,Dupont,Secretary Of State,,REP,BRAD RAFFENSPERGER,109
+Clinch,Fargo,Secretary Of State,,REP,BRAD RAFFENSPERGER,127
+Clinch,Homerville,Secretary Of State,,REP,BRAD RAFFENSPERGER,1174
+Clinch,Arabia,Secretary Of State,,DEM,JOHN BARROW,9
+Clinch,Argyle,Secretary Of State,,DEM,JOHN BARROW,27
+Clinch,Dupont,Secretary Of State,,DEM,JOHN BARROW,45
+Clinch,Fargo,Secretary Of State,,DEM,JOHN BARROW,20
+Clinch,Homerville,Secretary Of State,,DEM,JOHN BARROW,440
+Clinch,Arabia,Secretary Of State,,LIB,SMYTHE DUVAL,0
+Clinch,Argyle,Secretary Of State,,LIB,SMYTHE DUVAL,2
+Clinch,Dupont,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Clinch,Fargo,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Clinch,Homerville,Secretary Of State,,LIB,SMYTHE DUVAL,11
+Clinch,Arabia,Attorney General,,(REP,CHRIS CARR ,58
+Clinch,Argyle,Attorney General,,(REP,CHRIS CARR ,151
+Clinch,Dupont,Attorney General,,(REP,CHRIS CARR ,115
+Clinch,Fargo,Attorney General,,(REP,CHRIS CARR ,127
+Clinch,Homerville,Attorney General,,(REP,CHRIS CARR ,1186
+Clinch,Arabia,Attorney General,,DEM,CHARLIE BAILEY,9
+Clinch,Argyle,Attorney General,,DEM,CHARLIE BAILEY,27
+Clinch,Dupont,Attorney General,,DEM,CHARLIE BAILEY,42
+Clinch,Fargo,Attorney General,,DEM,CHARLIE BAILEY,19
+Clinch,Homerville,Attorney General,,DEM,CHARLIE BAILEY,429
+Clinch,Arabia,Commissioner Of Agriculture,,(REP,GARY BLACK ,61
+Clinch,Argyle,Commissioner Of Agriculture,,(REP,GARY BLACK ,149
+Clinch,Dupont,Commissioner Of Agriculture,,(REP,GARY BLACK ,122
+Clinch,Fargo,Commissioner Of Agriculture,,(REP,GARY BLACK ,125
+Clinch,Homerville,Commissioner Of Agriculture,,(REP,GARY BLACK ,1243
+Clinch,Arabia,Commissioner Of Agriculture,,DEM,FRED SWANN,4
+Clinch,Argyle,Commissioner Of Agriculture,,DEM,FRED SWANN,26
+Clinch,Dupont,Commissioner Of Agriculture,,DEM,FRED SWANN,37
+Clinch,Fargo,Commissioner Of Agriculture,,DEM,FRED SWANN,19
+Clinch,Homerville,Commissioner Of Agriculture,,DEM,FRED SWANN,393
+Clinch,Arabia,Commissioner Of Insurance,,REP,JIM BECK,60
+Clinch,Argyle,Commissioner Of Insurance,,REP,JIM BECK,151
+Clinch,Dupont,Commissioner Of Insurance,,REP,JIM BECK,115
+Clinch,Fargo,Commissioner Of Insurance,,REP,JIM BECK,129
+Clinch,Homerville,Commissioner Of Insurance,,REP,JIM BECK,1188
+Clinch,Arabia,Commissioner Of Insurance,,DEM,JANICE LAWS,5
+Clinch,Argyle,Commissioner Of Insurance,,DEM,JANICE LAWS,27
+Clinch,Dupont,Commissioner Of Insurance,,DEM,JANICE LAWS,41
+Clinch,Fargo,Commissioner Of Insurance,,DEM,JANICE LAWS,17
+Clinch,Homerville,Commissioner Of Insurance,,DEM,JANICE LAWS,410
+Clinch,Arabia,Commissioner Of Insurance,,LIB,DONNIE FOSTER,0
+Clinch,Argyle,Commissioner Of Insurance,,LIB,DONNIE FOSTER,2
+Clinch,Dupont,Commissioner Of Insurance,,LIB,DONNIE FOSTER,1
+Clinch,Fargo,Commissioner Of Insurance,,LIB,DONNIE FOSTER,1
+Clinch,Homerville,Commissioner Of Insurance,,LIB,DONNIE FOSTER,24
+Clinch,Arabia,State School Superintendent,,(REP,RICHARD WOODS ,61
+Clinch,Argyle,State School Superintendent,,(REP,RICHARD WOODS ,150
+Clinch,Dupont,State School Superintendent,,(REP,RICHARD WOODS ,117
+Clinch,Fargo,State School Superintendent,,(REP,RICHARD WOODS ,127
+Clinch,Homerville,State School Superintendent,,(REP,RICHARD WOODS ,1222
+Clinch,Arabia,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",5
+Clinch,Argyle,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",27
+Clinch,Dupont,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",40
+Clinch,Fargo,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",17
+Clinch,Homerville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",404
+Clinch,Arabia,Commissioner Of Labor,,(REP,MARK BUTLER ,63
+Clinch,Argyle,Commissioner Of Labor,,(REP,MARK BUTLER ,150
+Clinch,Dupont,Commissioner Of Labor,,(REP,MARK BUTLER ,116
+Clinch,Fargo,Commissioner Of Labor,,(REP,MARK BUTLER ,129
+Clinch,Homerville,Commissioner Of Labor,,(REP,MARK BUTLER ,1209
+Clinch,Arabia,Commissioner Of Labor,,DEM,RICHARD KEATLEY,4
+Clinch,Argyle,Commissioner Of Labor,,DEM,RICHARD KEATLEY,26
+Clinch,Dupont,Commissioner Of Labor,,DEM,RICHARD KEATLEY,43
+Clinch,Fargo,Commissioner Of Labor,,DEM,RICHARD KEATLEY,18
+Clinch,Homerville,Commissioner Of Labor,,DEM,RICHARD KEATLEY,414
+Clinch,Arabia,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,58
+Clinch,Argyle,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,149
+Clinch,Dupont,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,117
+Clinch,Fargo,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,125
+Clinch,Homerville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1184
+Clinch,Arabia,"Public Service Commission, District 3",3,DEM,LINDY MILLER,6
+Clinch,Argyle,"Public Service Commission, District 3",3,DEM,LINDY MILLER,28
+Clinch,Dupont,"Public Service Commission, District 3",3,DEM,LINDY MILLER,42
+Clinch,Fargo,"Public Service Commission, District 3",3,DEM,LINDY MILLER,18
+Clinch,Homerville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,411
+Clinch,Arabia,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,1
+Clinch,Argyle,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,1
+Clinch,Dupont,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,1
+Clinch,Fargo,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,1
+Clinch,Homerville,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,26
+Clinch,Arabia,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,60
+Clinch,Argyle,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,146
+Clinch,Dupont,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,115
+Clinch,Fargo,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,126
+Clinch,Homerville,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1183
+Clinch,Arabia,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,6
+Clinch,Argyle,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,28
+Clinch,Dupont,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,42
+Clinch,Fargo,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,18
+Clinch,Homerville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,407
+Clinch,Arabia,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,0
+Clinch,Argyle,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,3
+Clinch,Dupont,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,2
+Clinch,Fargo,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,2
+Clinch,Homerville,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,23
+Clinch,Arabia,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",61
+Clinch,Argyle,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",151
+Clinch,Dupont,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",119
+Clinch,Fargo,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",131
+Clinch,Homerville,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1226
+Clinch,Arabia,U.S. Representative,1,DEM,LISA M. RING,6
+Clinch,Argyle,U.S. Representative,1,DEM,LISA M. RING,28
+Clinch,Dupont,U.S. Representative,1,DEM,LISA M. RING,42
+Clinch,Fargo,U.S. Representative,1,DEM,LISA M. RING,17
+Clinch,Homerville,U.S. Representative,1,DEM,LISA M. RING,420
+Clinch,Arabia,State Senator,8,(REP,ELLIS BLACK ,60
+Clinch,Argyle,State Senator,8,(REP,ELLIS BLACK ,159
+Clinch,Dupont,State Senator,8,(REP,ELLIS BLACK ,137
+Clinch,Fargo,State Senator,8,(REP,ELLIS BLACK ,135
+Clinch,Homerville,State Senator,8,(REP,ELLIS BLACK ,1390
+Clinch,Arabia,State Representative,174,(REP,JOHN CORBETT ,62
+Clinch,Argyle,State Representative,174,(REP,JOHN CORBETT ,158
+Clinch,Dupont,State Representative,174,(REP,JOHN CORBETT ,135
+Clinch,Fargo,State Representative,174,(REP,JOHN CORBETT ,131
+Clinch,Homerville,State Representative,174,(REP,JOHN CORBETT ,1382
+Clinch,Argyle,CC, P1,D,K. E. MCLAINE ,58
+Clinch,Homerville,CC, P1,D,K. E. MCLAINE ,401
+Clinch,Homerville,CC, P4,D,D. D. THOMAS ,196
+Clinch,Argyle,BOE, P1,R,S. THRIFT ,81
+Clinch,Homerville,BOE, P1,R,S. THRIFT ,449
+Clinch,Homerville,BOE, P4,D,C. M. CROSS ,184
+Clinch,Arabia,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,40
+Clinch,Argyle,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,120
+Clinch,Dupont,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,116
+Clinch,Fargo,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,120
+Clinch,Homerville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1137
+Clinch,Arabia,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,22
+Clinch,Argyle,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,50
+Clinch,Dupont,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,32
+Clinch,Fargo,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,16
+Clinch,Homerville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,424
+Clinch,Arabia,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,36
+Clinch,Argyle,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,97
+Clinch,Dupont,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,92
+Clinch,Fargo,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,101
+Clinch,Homerville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,916
+Clinch,Arabia,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,25
+Clinch,Argyle,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,65
+Clinch,Dupont,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,48
+Clinch,Fargo,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,27
+Clinch,Homerville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,593
+Clinch,Arabia,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,33
+Clinch,Argyle,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,87
+Clinch,Dupont,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,81
+Clinch,Fargo,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,93
+Clinch,Homerville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,802
+Clinch,Arabia,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,30
+Clinch,Argyle,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,77
+Clinch,Dupont,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,58
+Clinch,Fargo,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,34
+Clinch,Homerville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,723
+Clinch,Arabia,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,47
+Clinch,Argyle,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,126
+Clinch,Dupont,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,109
+Clinch,Fargo,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,113
+Clinch,Homerville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1209
+Clinch,Arabia,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,16
+Clinch,Argyle,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,42
+Clinch,Dupont,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,36
+Clinch,Fargo,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,18
+Clinch,Homerville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,356
+Clinch,Arabia,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,38
+Clinch,Argyle,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,109
+Clinch,Dupont,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,98
+Clinch,Fargo,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,108
+Clinch,Homerville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1021
+Clinch,Arabia,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,24
+Clinch,Argyle,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,60
+Clinch,Dupont,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,45
+Clinch,Fargo,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,25
+Clinch,Homerville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,506
+Clinch,Arabia,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,32
+Clinch,Argyle,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,80
+Clinch,Dupont,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,84
+Clinch,Fargo,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,80
+Clinch,Homerville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,823
+Clinch,Arabia,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,30
+Clinch,Argyle,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,81
+Clinch,Dupont,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,58
+Clinch,Fargo,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,46
+Clinch,Homerville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,664
+Clinch,Arabia,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,47
+Clinch,Argyle,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,107
+Clinch,Dupont,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,107
+Clinch,Fargo,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,98
+Clinch,Homerville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1075
+Clinch,Arabia,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,15
+Clinch,Argyle,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,59
+Clinch,Dupont,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,32
+Clinch,Fargo,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,29
+Clinch,Homerville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,445
+Clinch,Homerville,Homerville Sunday Alcohol Sales,,,YES,305
+Clinch,Homerville,Homerville Sunday Alcohol Sales,,,NO,304

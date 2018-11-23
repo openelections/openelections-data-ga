@@ -1,0 +1,531 @@
+county,precinct,office,district,party,candidate,votes
+Wilkes,Senior Citizen Center,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",21
+Wilkes,Young Farmer's Bldg,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",52
+Wilkes,Metasville Fire Station,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",35
+Wilkes,Edward B Pope Center,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",5
+Wilkes,Rayle City Hall,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",18
+Wilkes,Courthouse,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",32
+Wilkes,Tignall Sch Lunch RM,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",27
+Wilkes,Senior Citizen Center,Governor,,REP,HUNTER HILL  (REP),10
+Wilkes,Young Farmer's Bldg,Governor,,REP,HUNTER HILL  (REP),23
+Wilkes,Metasville Fire Station,Governor,,REP,HUNTER HILL  (REP),10
+Wilkes,Edward B Pope Center,Governor,,REP,HUNTER HILL  (REP),10
+Wilkes,Rayle City Hall,Governor,,REP,HUNTER HILL  (REP),7
+Wilkes,Courthouse,Governor,,REP,HUNTER HILL  (REP),21
+Wilkes,Tignall Sch Lunch RM,Governor,,REP,HUNTER HILL  (REP),18
+Wilkes,Senior Citizen Center,Governor,,REP,BRIAN KEMP  (REP),43
+Wilkes,Young Farmer's Bldg,Governor,,REP,BRIAN KEMP  (REP),68
+Wilkes,Metasville Fire Station,Governor,,REP,BRIAN KEMP  (REP),34
+Wilkes,Edward B Pope Center,Governor,,REP,BRIAN KEMP  (REP),11
+Wilkes,Rayle City Hall,Governor,,REP,BRIAN KEMP  (REP),18
+Wilkes,Courthouse,Governor,,REP,BRIAN KEMP  (REP),56
+Wilkes,Tignall Sch Lunch RM,Governor,,REP,BRIAN KEMP  (REP),40
+Wilkes,Senior Citizen Center,Governor,,REP,CLAY TIPPINS  (REP),7
+Wilkes,Young Farmer's Bldg,Governor,,REP,CLAY TIPPINS  (REP),19
+Wilkes,Metasville Fire Station,Governor,,REP,CLAY TIPPINS  (REP),8
+Wilkes,Edward B Pope Center,Governor,,REP,CLAY TIPPINS  (REP),3
+Wilkes,Rayle City Hall,Governor,,REP,CLAY TIPPINS  (REP),3
+Wilkes,Courthouse,Governor,,REP,CLAY TIPPINS  (REP),7
+Wilkes,Tignall Sch Lunch RM,Governor,,REP,CLAY TIPPINS  (REP),9
+Wilkes,Senior Citizen Center,Governor,,REP,MICHAEL WILLIAMS  (REP),2
+Wilkes,Young Farmer's Bldg,Governor,,REP,MICHAEL WILLIAMS  (REP),11
+Wilkes,Metasville Fire Station,Governor,,REP,MICHAEL WILLIAMS  (REP),5
+Wilkes,Edward B Pope Center,Governor,,REP,MICHAEL WILLIAMS  (REP),2
+Wilkes,Rayle City Hall,Governor,,REP,MICHAEL WILLIAMS  (REP),5
+Wilkes,Courthouse,Governor,,REP,MICHAEL WILLIAMS  (REP),4
+Wilkes,Tignall Sch Lunch RM,Governor,,REP,MICHAEL WILLIAMS  (REP),9
+Wilkes,Senior Citizen Center,Governor,,DEM,STACEY ABRAMS  (DEM),149
+Wilkes,Young Farmer's Bldg,Governor,,DEM,STACEY ABRAMS  (DEM),27
+Wilkes,Metasville Fire Station,Governor,,DEM,STACEY ABRAMS  (DEM),20
+Wilkes,Edward B Pope Center,Governor,,DEM,STACEY ABRAMS  (DEM),116
+Wilkes,Rayle City Hall,Governor,,DEM,STACEY ABRAMS  (DEM),31
+Wilkes,Courthouse,Governor,,DEM,STACEY ABRAMS  (DEM),51
+Wilkes,Tignall Sch Lunch RM,Governor,,DEM,STACEY ABRAMS  (DEM),66
+Wilkes,Senior Citizen Center,Governor,,DEM,STACEY EVANS  (DEM),50
+Wilkes,Young Farmer's Bldg,Governor,,DEM,STACEY EVANS  (DEM),22
+Wilkes,Metasville Fire Station,Governor,,DEM,STACEY EVANS  (DEM),9
+Wilkes,Edward B Pope Center,Governor,,DEM,STACEY EVANS  (DEM),29
+Wilkes,Rayle City Hall,Governor,,DEM,STACEY EVANS  (DEM),17
+Wilkes,Courthouse,Governor,,DEM,STACEY EVANS  (DEM),29
+Wilkes,Tignall Sch Lunch RM,Governor,,DEM,STACEY EVANS  (DEM),28
+Wilkes,Senior Citizen Center,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),18
+Wilkes,Young Farmer's Bldg,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),56
+Wilkes,Metasville Fire Station,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),26
+Wilkes,Edward B Pope Center,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),9
+Wilkes,Rayle City Hall,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),12
+Wilkes,Courthouse,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),38
+Wilkes,Tignall Sch Lunch RM,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),29
+Wilkes,Senior Citizen Center,Lieutenant Governor,,REP,RICK JEFFARES  (REP),15
+Wilkes,Young Farmer's Bldg,Lieutenant Governor,,REP,RICK JEFFARES  (REP),24
+Wilkes,Metasville Fire Station,Lieutenant Governor,,REP,RICK JEFFARES  (REP),19
+Wilkes,Edward B Pope Center,Lieutenant Governor,,REP,RICK JEFFARES  (REP),4
+Wilkes,Rayle City Hall,Lieutenant Governor,,REP,RICK JEFFARES  (REP),8
+Wilkes,Courthouse,Lieutenant Governor,,REP,RICK JEFFARES  (REP),26
+Wilkes,Tignall Sch Lunch RM,Lieutenant Governor,,REP,RICK JEFFARES  (REP),17
+Wilkes,Senior Citizen Center,Lieutenant Governor,,REP,DAVID SHAFER  (REP),47
+Wilkes,Young Farmer's Bldg,Lieutenant Governor,,REP,DAVID SHAFER  (REP),73
+Wilkes,Metasville Fire Station,Lieutenant Governor,,REP,DAVID SHAFER  (REP),40
+Wilkes,Edward B Pope Center,Lieutenant Governor,,REP,DAVID SHAFER  (REP),14
+Wilkes,Rayle City Hall,Lieutenant Governor,,REP,DAVID SHAFER  (REP),17
+Wilkes,Courthouse,Lieutenant Governor,,REP,DAVID SHAFER  (REP),46
+Wilkes,Tignall Sch Lunch RM,Lieutenant Governor,,REP,DAVID SHAFER  (REP),52
+Wilkes,Senior Citizen Center,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),87
+Wilkes,Young Farmer's Bldg,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),30
+Wilkes,Metasville Fire Station,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),15
+Wilkes,Edward B Pope Center,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),56
+Wilkes,Rayle City Hall,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),24
+Wilkes,Courthouse,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),45
+Wilkes,Tignall Sch Lunch RM,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),52
+Wilkes,Senior Citizen Center,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),87
+Wilkes,Young Farmer's Bldg,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),17
+Wilkes,Metasville Fire Station,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),12
+Wilkes,Edward B Pope Center,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),76
+Wilkes,Rayle City Hall,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),17
+Wilkes,Courthouse,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),26
+Wilkes,Tignall Sch Lunch RM,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),30
+Wilkes,Senior Citizen Center,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),19
+Wilkes,Young Farmer's Bldg,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),46
+Wilkes,Metasville Fire Station,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),24
+Wilkes,Edward B Pope Center,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),11
+Wilkes,Rayle City Hall,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),12
+Wilkes,Courthouse,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),29
+Wilkes,Tignall Sch Lunch RM,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),24
+Wilkes,Senior Citizen Center,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),20
+Wilkes,Young Farmer's Bldg,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),32
+Wilkes,Metasville Fire Station,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),22
+Wilkes,Edward B Pope Center,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),3
+Wilkes,Rayle City Hall,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),8
+Wilkes,Courthouse,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),20
+Wilkes,Tignall Sch Lunch RM,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),29
+Wilkes,Senior Citizen Center,Secretary Of State,,REP,JOSH MCKOON  (REP),15
+Wilkes,Young Farmer's Bldg,Secretary Of State,,REP,JOSH MCKOON  (REP),25
+Wilkes,Metasville Fire Station,Secretary Of State,,REP,JOSH MCKOON  (REP),25
+Wilkes,Edward B Pope Center,Secretary Of State,,REP,JOSH MCKOON  (REP),9
+Wilkes,Rayle City Hall,Secretary Of State,,REP,JOSH MCKOON  (REP),5
+Wilkes,Courthouse,Secretary Of State,,REP,JOSH MCKOON  (REP),18
+Wilkes,Tignall Sch Lunch RM,Secretary Of State,,REP,JOSH MCKOON  (REP),19
+Wilkes,Senior Citizen Center,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),20
+Wilkes,Young Farmer's Bldg,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),27
+Wilkes,Metasville Fire Station,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),8
+Wilkes,Edward B Pope Center,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),2
+Wilkes,Rayle City Hall,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),10
+Wilkes,Courthouse,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),31
+Wilkes,Tignall Sch Lunch RM,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),16
+Wilkes,Senior Citizen Center,Secretary Of State,,DEM,JOHN BARROW  (DEM),114
+Wilkes,Young Farmer's Bldg,Secretary Of State,,DEM,JOHN BARROW  (DEM),34
+Wilkes,Metasville Fire Station,Secretary Of State,,DEM,JOHN BARROW  (DEM),21
+Wilkes,Edward B Pope Center,Secretary Of State,,DEM,JOHN BARROW  (DEM),88
+Wilkes,Rayle City Hall,Secretary Of State,,DEM,JOHN BARROW  (DEM),32
+Wilkes,Courthouse,Secretary Of State,,DEM,JOHN BARROW  (DEM),50
+Wilkes,Tignall Sch Lunch RM,Secretary Of State,,DEM,JOHN BARROW  (DEM),66
+Wilkes,Senior Citizen Center,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),49
+Wilkes,Young Farmer's Bldg,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),8
+Wilkes,Metasville Fire Station,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),4
+Wilkes,Edward B Pope Center,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),40
+Wilkes,Rayle City Hall,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),13
+Wilkes,Courthouse,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),20
+Wilkes,Tignall Sch Lunch RM,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),15
+Wilkes,Senior Citizen Center,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",27
+Wilkes,Young Farmer's Bldg,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",6
+Wilkes,Metasville Fire Station,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",3
+Wilkes,Edward B Pope Center,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",13
+Wilkes,Rayle City Hall,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",0
+Wilkes,Courthouse,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",8
+Wilkes,Tignall Sch Lunch RM,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",10
+Wilkes,Senior Citizen Center,Attorney General,,REP,CHRIS CARR (I) (REP),65
+Wilkes,Young Farmer's Bldg,Attorney General,,REP,CHRIS CARR (I) (REP),135
+Wilkes,Metasville Fire Station,Attorney General,,REP,CHRIS CARR (I) (REP),72
+Wilkes,Edward B Pope Center,Attorney General,,REP,CHRIS CARR (I) (REP),23
+Wilkes,Rayle City Hall,Attorney General,,REP,CHRIS CARR (I) (REP),33
+Wilkes,Courthouse,Attorney General,,REP,CHRIS CARR (I) (REP),95
+Wilkes,Tignall Sch Lunch RM,Attorney General,,REP,CHRIS CARR (I) (REP),78
+Wilkes,Senior Citizen Center,Attorney General,,DEM,CHARLIE BAILEY  (DEM),145
+Wilkes,Young Farmer's Bldg,Attorney General,,DEM,CHARLIE BAILEY  (DEM),40
+Wilkes,Metasville Fire Station,Attorney General,,DEM,CHARLIE BAILEY  (DEM),26
+Wilkes,Edward B Pope Center,Attorney General,,DEM,CHARLIE BAILEY  (DEM),125
+Wilkes,Rayle City Hall,Attorney General,,DEM,CHARLIE BAILEY  (DEM),35
+Wilkes,Courthouse,Attorney General,,DEM,CHARLIE BAILEY  (DEM),59
+Wilkes,Tignall Sch Lunch RM,Attorney General,,DEM,CHARLIE BAILEY  (DEM),72
+Wilkes,Senior Citizen Center,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),70
+Wilkes,Young Farmer's Bldg,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),134
+Wilkes,Metasville Fire Station,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),72
+Wilkes,Edward B Pope Center,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),25
+Wilkes,Rayle City Hall,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),37
+Wilkes,Courthouse,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),97
+Wilkes,Tignall Sch Lunch RM,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),81
+Wilkes,Senior Citizen Center,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),148
+Wilkes,Young Farmer's Bldg,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),42
+Wilkes,Metasville Fire Station,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),25
+Wilkes,Edward B Pope Center,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),123
+Wilkes,Rayle City Hall,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),31
+Wilkes,Courthouse,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),59
+Wilkes,Tignall Sch Lunch RM,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),69
+Wilkes,Senior Citizen Center,Commissioner Of Insurance,,REP,JIM BECK  (REP),32
+Wilkes,Young Farmer's Bldg,Commissioner Of Insurance,,REP,JIM BECK  (REP),78
+Wilkes,Metasville Fire Station,Commissioner Of Insurance,,REP,JIM BECK  (REP),45
+Wilkes,Edward B Pope Center,Commissioner Of Insurance,,REP,JIM BECK  (REP),16
+Wilkes,Rayle City Hall,Commissioner Of Insurance,,REP,JIM BECK  (REP),26
+Wilkes,Courthouse,Commissioner Of Insurance,,REP,JIM BECK  (REP),54
+Wilkes,Tignall Sch Lunch RM,Commissioner Of Insurance,,REP,JIM BECK  (REP),49
+Wilkes,Senior Citizen Center,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),22
+Wilkes,Young Farmer's Bldg,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),29
+Wilkes,Metasville Fire Station,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),13
+Wilkes,Edward B Pope Center,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),4
+Wilkes,Rayle City Hall,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),4
+Wilkes,Courthouse,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),21
+Wilkes,Tignall Sch Lunch RM,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),16
+Wilkes,Senior Citizen Center,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),17
+Wilkes,Young Farmer's Bldg,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),25
+Wilkes,Metasville Fire Station,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),14
+Wilkes,Edward B Pope Center,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),7
+Wilkes,Rayle City Hall,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),6
+Wilkes,Courthouse,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),18
+Wilkes,Tignall Sch Lunch RM,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),22
+Wilkes,Senior Citizen Center,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),127
+Wilkes,Young Farmer's Bldg,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),25
+Wilkes,Metasville Fire Station,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),14
+Wilkes,Edward B Pope Center,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),99
+Wilkes,Rayle City Hall,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),23
+Wilkes,Courthouse,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),51
+Wilkes,Tignall Sch Lunch RM,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),46
+Wilkes,Senior Citizen Center,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),38
+Wilkes,Young Farmer's Bldg,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),20
+Wilkes,Metasville Fire Station,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),11
+Wilkes,Edward B Pope Center,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),33
+Wilkes,Rayle City Hall,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),12
+Wilkes,Courthouse,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),17
+Wilkes,Tignall Sch Lunch RM,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),30
+Wilkes,Senior Citizen Center,State School Superintendent,,REP,JOHN BARGE  (REP),18
+Wilkes,Young Farmer's Bldg,State School Superintendent,,REP,JOHN BARGE  (REP),41
+Wilkes,Metasville Fire Station,State School Superintendent,,REP,JOHN BARGE  (REP),29
+Wilkes,Edward B Pope Center,State School Superintendent,,REP,JOHN BARGE  (REP),9
+Wilkes,Rayle City Hall,State School Superintendent,,REP,JOHN BARGE  (REP),16
+Wilkes,Courthouse,State School Superintendent,,REP,JOHN BARGE  (REP),30
+Wilkes,Tignall Sch Lunch RM,State School Superintendent,,REP,JOHN BARGE  (REP),36
+Wilkes,Senior Citizen Center,State School Superintendent,,REP,RICHARD WOODS (I) (REP),57
+Wilkes,Young Farmer's Bldg,State School Superintendent,,REP,RICHARD WOODS (I) (REP),107
+Wilkes,Metasville Fire Station,State School Superintendent,,REP,RICHARD WOODS (I) (REP),54
+Wilkes,Edward B Pope Center,State School Superintendent,,REP,RICHARD WOODS (I) (REP),16
+Wilkes,Rayle City Hall,State School Superintendent,,REP,RICHARD WOODS (I) (REP),22
+Wilkes,Courthouse,State School Superintendent,,REP,RICHARD WOODS (I) (REP),75
+Wilkes,Tignall Sch Lunch RM,State School Superintendent,,REP,RICHARD WOODS (I) (REP),57
+Wilkes,Senior Citizen Center,State School Superintendent,,DEM,SID CHAPMAN (DEM),77
+Wilkes,Young Farmer's Bldg,State School Superintendent,,DEM,SID CHAPMAN (DEM),15
+Wilkes,Metasville Fire Station,State School Superintendent,,DEM,SID CHAPMAN (DEM),9
+Wilkes,Edward B Pope Center,State School Superintendent,,DEM,SID CHAPMAN (DEM),55
+Wilkes,Rayle City Hall,State School Superintendent,,DEM,SID CHAPMAN (DEM),22
+Wilkes,Courthouse,State School Superintendent,,DEM,SID CHAPMAN (DEM),30
+Wilkes,Tignall Sch Lunch RM,State School Superintendent,,DEM,SID CHAPMAN (DEM),22
+Wilkes,Senior Citizen Center,State School Superintendent,,DEM,SAM MOSTELLER (DEM),32
+Wilkes,Young Farmer's Bldg,State School Superintendent,,DEM,SAM MOSTELLER (DEM),15
+Wilkes,Metasville Fire Station,State School Superintendent,,DEM,SAM MOSTELLER (DEM),6
+Wilkes,Edward B Pope Center,State School Superintendent,,DEM,SAM MOSTELLER (DEM),24
+Wilkes,Rayle City Hall,State School Superintendent,,DEM,SAM MOSTELLER (DEM),10
+Wilkes,Courthouse,State School Superintendent,,DEM,SAM MOSTELLER (DEM),11
+Wilkes,Tignall Sch Lunch RM,State School Superintendent,,DEM,SAM MOSTELLER (DEM),23
+Wilkes,Senior Citizen Center,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",58
+Wilkes,Young Farmer's Bldg,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",13
+Wilkes,Metasville Fire Station,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",12
+Wilkes,Edward B Pope Center,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",52
+Wilkes,Rayle City Hall,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",7
+Wilkes,Courthouse,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",25
+Wilkes,Tignall Sch Lunch RM,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",27
+Wilkes,Senior Citizen Center,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),66
+Wilkes,Young Farmer's Bldg,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),130
+Wilkes,Metasville Fire Station,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),72
+Wilkes,Edward B Pope Center,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),23
+Wilkes,Rayle City Hall,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),33
+Wilkes,Courthouse,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),93
+Wilkes,Tignall Sch Lunch RM,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),76
+Wilkes,Senior Citizen Center,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),22
+Wilkes,Young Farmer's Bldg,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),9
+Wilkes,Metasville Fire Station,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),6
+Wilkes,Edward B Pope Center,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),10
+Wilkes,Rayle City Hall,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),4
+Wilkes,Courthouse,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),11
+Wilkes,Tignall Sch Lunch RM,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),15
+Wilkes,Senior Citizen Center,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),173
+Wilkes,Young Farmer's Bldg,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),38
+Wilkes,Metasville Fire Station,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),22
+Wilkes,Edward B Pope Center,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),136
+Wilkes,Rayle City Hall,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),41
+Wilkes,Courthouse,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),63
+Wilkes,Tignall Sch Lunch RM,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),78
+Wilkes,Senior Citizen Center,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),65
+Wilkes,Young Farmer's Bldg,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),130
+Wilkes,Metasville Fire Station,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),71
+Wilkes,Edward B Pope Center,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),24
+Wilkes,Rayle City Hall,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),32
+Wilkes,Courthouse,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),89
+Wilkes,Tignall Sch Lunch RM,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),80
+Wilkes,Senior Citizen Center,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),94
+Wilkes,Young Farmer's Bldg,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),22
+Wilkes,Metasville Fire Station,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),22
+Wilkes,Edward B Pope Center,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),66
+Wilkes,Rayle City Hall,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),23
+Wilkes,Courthouse,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),40
+Wilkes,Tignall Sch Lunch RM,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),49
+Wilkes,Senior Citizen Center,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),50
+Wilkes,Young Farmer's Bldg,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),11
+Wilkes,Metasville Fire Station,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),2
+Wilkes,Edward B Pope Center,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),51
+Wilkes,Rayle City Hall,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),13
+Wilkes,Courthouse,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),19
+Wilkes,Tignall Sch Lunch RM,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),13
+Wilkes,Senior Citizen Center,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),26
+Wilkes,Young Farmer's Bldg,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),11
+Wilkes,Metasville Fire Station,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),2
+Wilkes,Edward B Pope Center,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),13
+Wilkes,Rayle City Hall,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),4
+Wilkes,Courthouse,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),11
+Wilkes,Tignall Sch Lunch RM,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),13
+Wilkes,Senior Citizen Center,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),34
+Wilkes,Young Farmer's Bldg,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),60
+Wilkes,Metasville Fire Station,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),32
+Wilkes,Edward B Pope Center,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),11
+Wilkes,Rayle City Hall,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),21
+Wilkes,Courthouse,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),43
+Wilkes,Tignall Sch Lunch RM,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),37
+Wilkes,Senior Citizen Center,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),36
+Wilkes,Young Farmer's Bldg,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),82
+Wilkes,Metasville Fire Station,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),49
+Wilkes,Edward B Pope Center,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),14
+Wilkes,Rayle City Hall,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),16
+Wilkes,Courthouse,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),57
+Wilkes,Tignall Sch Lunch RM,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),50
+Wilkes,Senior Citizen Center,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),132
+Wilkes,Young Farmer's Bldg,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),25
+Wilkes,Metasville Fire Station,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),21
+Wilkes,Edward B Pope Center,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),106
+Wilkes,Rayle City Hall,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),29
+Wilkes,Courthouse,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),60
+Wilkes,Tignall Sch Lunch RM,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),55
+Wilkes,Senior Citizen Center,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),34
+Wilkes,Young Farmer's Bldg,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),18
+Wilkes,Metasville Fire Station,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),5
+Wilkes,Edward B Pope Center,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),23
+Wilkes,Rayle City Hall,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),10
+Wilkes,Courthouse,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),9
+Wilkes,Tignall Sch Lunch RM,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),16
+Wilkes,Senior Citizen Center,"U.S. Representative, District 10",10,REP,BRADLEY GRIFFIN (REP),6
+Wilkes,Young Farmer's Bldg,"U.S. Representative, District 10",10,REP,BRADLEY GRIFFIN (REP),16
+Wilkes,Metasville Fire Station,"U.S. Representative, District 10",10,REP,BRADLEY GRIFFIN (REP),8
+Wilkes,Edward B Pope Center,"U.S. Representative, District 10",10,REP,BRADLEY GRIFFIN (REP),3
+Wilkes,Rayle City Hall,"U.S. Representative, District 10",10,REP,BRADLEY GRIFFIN (REP),4
+Wilkes,Courthouse,"U.S. Representative, District 10",10,REP,BRADLEY GRIFFIN (REP),6
+Wilkes,Tignall Sch Lunch RM,"U.S. Representative, District 10",10,REP,BRADLEY GRIFFIN (REP),14
+Wilkes,Senior Citizen Center,"U.S. Representative, District 10",10,REP,JODY HICE (I) (REP),69
+Wilkes,Young Farmer's Bldg,"U.S. Representative, District 10",10,REP,JODY HICE (I) (REP),139
+Wilkes,Metasville Fire Station,"U.S. Representative, District 10",10,REP,JODY HICE (I) (REP),74
+Wilkes,Edward B Pope Center,"U.S. Representative, District 10",10,REP,JODY HICE (I) (REP),24
+Wilkes,Rayle City Hall,"U.S. Representative, District 10",10,REP,JODY HICE (I) (REP),37
+Wilkes,Courthouse,"U.S. Representative, District 10",10,REP,JODY HICE (I) (REP),105
+Wilkes,Tignall Sch Lunch RM,"U.S. Representative, District 10",10,REP,JODY HICE (I) (REP),74
+Wilkes,Senior Citizen Center,"U.S. Representative, District 10",10,REP,JOE HUNT (REP),4
+Wilkes,Young Farmer's Bldg,"U.S. Representative, District 10",10,REP,JOE HUNT (REP),7
+Wilkes,Metasville Fire Station,"U.S. Representative, District 10",10,REP,JOE HUNT (REP),7
+Wilkes,Edward B Pope Center,"U.S. Representative, District 10",10,REP,JOE HUNT (REP),2
+Wilkes,Rayle City Hall,"U.S. Representative, District 10",10,REP,JOE HUNT (REP),7
+Wilkes,Courthouse,"U.S. Representative, District 10",10,REP,JOE HUNT (REP),7
+Wilkes,Tignall Sch Lunch RM,"U.S. Representative, District 10",10,REP,JOE HUNT (REP),11
+Wilkes,Senior Citizen Center,"U.S. Representative, District 10",10,DEM,TABITHA A. JOHNSON-GREEN (DEM),98
+Wilkes,Young Farmer's Bldg,"U.S. Representative, District 10",10,DEM,TABITHA A. JOHNSON-GREEN (DEM),18
+Wilkes,Metasville Fire Station,"U.S. Representative, District 10",10,DEM,TABITHA A. JOHNSON-GREEN (DEM),12
+Wilkes,Edward B Pope Center,"U.S. Representative, District 10",10,DEM,TABITHA A. JOHNSON-GREEN (DEM),75
+Wilkes,Rayle City Hall,"U.S. Representative, District 10",10,DEM,TABITHA A. JOHNSON-GREEN (DEM),18
+Wilkes,Courthouse,"U.S. Representative, District 10",10,DEM,TABITHA A. JOHNSON-GREEN (DEM),44
+Wilkes,Tignall Sch Lunch RM,"U.S. Representative, District 10",10,DEM,TABITHA A. JOHNSON-GREEN (DEM),48
+Wilkes,Senior Citizen Center,"U.S. Representative, District 10",10,DEM,CHALIS MONTGOMERY (DEM),19
+Wilkes,Young Farmer's Bldg,"U.S. Representative, District 10",10,DEM,CHALIS MONTGOMERY (DEM),11
+Wilkes,Metasville Fire Station,"U.S. Representative, District 10",10,DEM,CHALIS MONTGOMERY (DEM),8
+Wilkes,Edward B Pope Center,"U.S. Representative, District 10",10,DEM,CHALIS MONTGOMERY (DEM),10
+Wilkes,Rayle City Hall,"U.S. Representative, District 10",10,DEM,CHALIS MONTGOMERY (DEM),9
+Wilkes,Courthouse,"U.S. Representative, District 10",10,DEM,CHALIS MONTGOMERY (DEM),13
+Wilkes,Tignall Sch Lunch RM,"U.S. Representative, District 10",10,DEM,CHALIS MONTGOMERY (DEM),11
+Wilkes,Senior Citizen Center,"U.S. Representative, District 10",10,DEM,RICHARD DIEN WINFIELD (DEM),57
+Wilkes,Young Farmer's Bldg,"U.S. Representative, District 10",10,DEM,RICHARD DIEN WINFIELD (DEM),15
+Wilkes,Metasville Fire Station,"U.S. Representative, District 10",10,DEM,RICHARD DIEN WINFIELD (DEM),8
+Wilkes,Edward B Pope Center,"U.S. Representative, District 10",10,DEM,RICHARD DIEN WINFIELD (DEM),45
+Wilkes,Rayle City Hall,"U.S. Representative, District 10",10,DEM,RICHARD DIEN WINFIELD (DEM),12
+Wilkes,Courthouse,"U.S. Representative, District 10",10,DEM,RICHARD DIEN WINFIELD (DEM),16
+Wilkes,Tignall Sch Lunch RM,"U.S. Representative, District 10",10,DEM,RICHARD DIEN WINFIELD (DEM),17
+Wilkes,Senior Citizen Center,"State Senator, District 24",24,REP,LEE ANDERSON (I) (REP),67
+Wilkes,Young Farmer's Bldg,"State Senator, District 24",24,REP,LEE ANDERSON (I) (REP),137
+Wilkes,Metasville Fire Station,"State Senator, District 24",24,REP,LEE ANDERSON (I) (REP),73
+Wilkes,Edward B Pope Center,"State Senator, District 24",24,REP,LEE ANDERSON (I) (REP),26
+Wilkes,Rayle City Hall,"State Senator, District 24",24,REP,LEE ANDERSON (I) (REP),37
+Wilkes,Courthouse,"State Senator, District 24",24,REP,LEE ANDERSON (I) (REP),88
+Wilkes,Tignall Sch Lunch RM,"State Senator, District 24",24,REP,LEE ANDERSON (I) (REP),83
+Wilkes,Young Farmer's Bldg,"State Representative, District 33",33,REP,TOM MCCALL (I) (REP),146
+Wilkes,Metasville Fire Station,"State Representative, District 33",33,REP,TOM MCCALL (I) (REP),76
+Wilkes,Senior Citizen Center,"State Representative, District 120",120,REP,TREY RHODES (I) (REP),69
+Wilkes,Edward B Pope Center,"State Representative, District 120",120,REP,TREY RHODES (I) (REP),28
+Wilkes,Rayle City Hall,"State Representative, District 120",120,REP,TREY RHODES (I) (REP),38
+Wilkes,Courthouse,"State Representative, District 120",120,REP,TREY RHODES (I) (REP),99
+Wilkes,Tignall Sch Lunch RM,"State Representative, District 120",120,REP,TREY RHODES (I) (REP),83
+Wilkes,Senior Citizen Center,"State Representative, District 120",120,DEM,"CHARLES ""CHUCK"" HOGG  (DEM)",132
+Wilkes,Edward B Pope Center,"State Representative, District 120",120,DEM,"CHARLES ""CHUCK"" HOGG  (DEM)",104
+Wilkes,Rayle City Hall,"State Representative, District 120",120,DEM,"CHARLES ""CHUCK"" HOGG  (DEM)",29
+Wilkes,Courthouse,"State Representative, District 120",120,DEM,"CHARLES ""CHUCK"" HOGG  (DEM)",52
+Wilkes,Tignall Sch Lunch RM,"State Representative, District 120",120,DEM,"CHARLES ""CHUCK"" HOGG  (DEM)",59
+Wilkes,Senior Citizen Center,CC,,DEM,S. MOORE (I),167
+Wilkes,Young Farmer's Bldg,CC,,DEM,S. MOORE (I),45
+Wilkes,Metasville Fire Station,CC,,DEM,S. MOORE (I),26
+Wilkes,Edward B Pope Center,CC,,DEM,S. MOORE (I),124
+Wilkes,Rayle City Hall,CC,,DEM,S. MOORE (I),40
+Wilkes,Courthouse,CC,,DEM,S. MOORE (I),67
+Wilkes,Tignall Sch Lunch RM,CC,,DEM,S. MOORE (I),79
+Wilkes,Edward B Pope Center,"CC, D3", D3 - D,DEM,C. JACKSON (I),139
+Wilkes,Rayle City Hall,"CC, D3", D3 - D,DEM,C. JACKSON (I),41
+Wilkes,Courthouse,"CC, D4", D4 - D,DEM,C. C. SLATON (I),55
+Wilkes,Tignall Sch Lunch RM,"CC, D4", D4 - D,DEM,C. C. SLATON (I),66
+Wilkes,Senior Citizen Center,Democratic Party Question 1,,DEM,YES,111
+Wilkes,Young Farmer's Bldg,Democratic Party Question 1,,DEM,YES,29
+Wilkes,Metasville Fire Station,Democratic Party Question 1,,DEM,YES,23
+Wilkes,Edward B Pope Center,Democratic Party Question 1,,DEM,YES,95
+Wilkes,Rayle City Hall,Democratic Party Question 1,,DEM,YES,29
+Wilkes,Courthouse,Democratic Party Question 1,,DEM,YES,50
+Wilkes,Tignall Sch Lunch RM,Democratic Party Question 1,,DEM,YES,59
+Wilkes,Senior Citizen Center,Democratic Party Question 1,,DEM,NO,67
+Wilkes,Young Farmer's Bldg,Democratic Party Question 1,,DEM,NO,19
+Wilkes,Metasville Fire Station,Democratic Party Question 1,,DEM,NO,7
+Wilkes,Edward B Pope Center,Democratic Party Question 1,,DEM,NO,45
+Wilkes,Rayle City Hall,Democratic Party Question 1,,DEM,NO,14
+Wilkes,Courthouse,Democratic Party Question 1,,DEM,NO,27
+Wilkes,Tignall Sch Lunch RM,Democratic Party Question 1,,DEM,NO,26
+Wilkes,Senior Citizen Center,Democratic Party Question 2,,DEM,YES,162
+Wilkes,Young Farmer's Bldg,Democratic Party Question 2,,DEM,YES,39
+Wilkes,Metasville Fire Station,Democratic Party Question 2,,DEM,YES,25
+Wilkes,Edward B Pope Center,Democratic Party Question 2,,DEM,YES,126
+Wilkes,Rayle City Hall,Democratic Party Question 2,,DEM,YES,39
+Wilkes,Courthouse,Democratic Party Question 2,,DEM,YES,69
+Wilkes,Tignall Sch Lunch RM,Democratic Party Question 2,,DEM,YES,84
+Wilkes,Senior Citizen Center,Democratic Party Question 2,,DEM,NO,28
+Wilkes,Young Farmer's Bldg,Democratic Party Question 2,,DEM,NO,7
+Wilkes,Metasville Fire Station,Democratic Party Question 2,,DEM,NO,5
+Wilkes,Edward B Pope Center,Democratic Party Question 2,,DEM,NO,15
+Wilkes,Rayle City Hall,Democratic Party Question 2,,DEM,NO,5
+Wilkes,Courthouse,Democratic Party Question 2,,DEM,NO,11
+Wilkes,Tignall Sch Lunch RM,Democratic Party Question 2,,DEM,NO,9
+Wilkes,Senior Citizen Center,Democratic Party Question 3, non-partisan commission?,DEM,YES,109
+Wilkes,Young Farmer's Bldg,Democratic Party Question 3, non-partisan commission?,DEM,YES,33
+Wilkes,Metasville Fire Station,Democratic Party Question 3, non-partisan commission?,DEM,YES,16
+Wilkes,Edward B Pope Center,Democratic Party Question 3, non-partisan commission?,DEM,YES,89
+Wilkes,Rayle City Hall,Democratic Party Question 3, non-partisan commission?,DEM,YES,26
+Wilkes,Courthouse,Democratic Party Question 3, non-partisan commission?,DEM,YES,51
+Wilkes,Tignall Sch Lunch RM,Democratic Party Question 3, non-partisan commission?,DEM,YES,65
+Wilkes,Senior Citizen Center,Democratic Party Question 3, non-partisan commission?,DEM,NO,65
+Wilkes,Young Farmer's Bldg,Democratic Party Question 3, non-partisan commission?,DEM,NO,13
+Wilkes,Metasville Fire Station,Democratic Party Question 3, non-partisan commission?,DEM,NO,14
+Wilkes,Edward B Pope Center,Democratic Party Question 3, non-partisan commission?,DEM,NO,46
+Wilkes,Rayle City Hall,Democratic Party Question 3, non-partisan commission?,DEM,NO,15
+Wilkes,Courthouse,Democratic Party Question 3, non-partisan commission?,DEM,NO,27
+Wilkes,Tignall Sch Lunch RM,Democratic Party Question 3, non-partisan commission?,DEM,NO,23
+Wilkes,Senior Citizen Center,Democratic Party Question 4, reduce carbon emissions,DEM,YES,115
+Wilkes,Young Farmer's Bldg,Democratic Party Question 4, reduce carbon emissions,DEM,YES,30
+Wilkes,Metasville Fire Station,Democratic Party Question 4, reduce carbon emissions,DEM,YES,17
+Wilkes,Edward B Pope Center,Democratic Party Question 4, reduce carbon emissions,DEM,YES,95
+Wilkes,Rayle City Hall,Democratic Party Question 4, reduce carbon emissions,DEM,YES,25
+Wilkes,Courthouse,Democratic Party Question 4, reduce carbon emissions,DEM,YES,56
+Wilkes,Tignall Sch Lunch RM,Democratic Party Question 4, reduce carbon emissions,DEM,YES,71
+Wilkes,Senior Citizen Center,Democratic Party Question 4, reduce carbon emissions,DEM,NO,63
+Wilkes,Young Farmer's Bldg,Democratic Party Question 4, reduce carbon emissions,DEM,NO,14
+Wilkes,Metasville Fire Station,Democratic Party Question 4, reduce carbon emissions,DEM,NO,12
+Wilkes,Edward B Pope Center,Democratic Party Question 4, reduce carbon emissions,DEM,NO,40
+Wilkes,Rayle City Hall,Democratic Party Question 4, reduce carbon emissions,DEM,NO,16
+Wilkes,Courthouse,Democratic Party Question 4, reduce carbon emissions,DEM,NO,21
+Wilkes,Tignall Sch Lunch RM,Democratic Party Question 4, reduce carbon emissions,DEM,NO,14
+Wilkes,Senior Citizen Center,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,197
+Wilkes,Young Farmer's Bldg,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,172
+Wilkes,Metasville Fire Station,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,99
+Wilkes,Edward B Pope Center,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,135
+Wilkes,Rayle City Hall,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,64
+Wilkes,Courthouse,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,144
+Wilkes,Tignall Sch Lunch RM,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,145
+Wilkes,Senior Citizen Center,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,196
+Wilkes,Young Farmer's Bldg,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,172
+Wilkes,Metasville Fire Station,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,98
+Wilkes,Edward B Pope Center,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,141
+Wilkes,Rayle City Hall,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,68
+Wilkes,Courthouse,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,148
+Wilkes,Tignall Sch Lunch RM,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,146
+Wilkes,Senior Citizen Center,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,197
+Wilkes,Young Farmer's Bldg,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,166
+Wilkes,Metasville Fire Station,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,96
+Wilkes,Edward B Pope Center,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,142
+Wilkes,Rayle City Hall,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,65
+Wilkes,Courthouse,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,142
+Wilkes,Tignall Sch Lunch RM,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,137
+Wilkes,Senior Citizen Center,Supreme Court Justice, Melton,,HAROLD D. MELTON ,200
+Wilkes,Young Farmer's Bldg,Supreme Court Justice, Melton,,HAROLD D. MELTON ,167
+Wilkes,Metasville Fire Station,Supreme Court Justice, Melton,,HAROLD D. MELTON ,99
+Wilkes,Edward B Pope Center,Supreme Court Justice, Melton,,HAROLD D. MELTON ,137
+Wilkes,Rayle City Hall,Supreme Court Justice, Melton,,HAROLD D. MELTON ,65
+Wilkes,Courthouse,Supreme Court Justice, Melton,,HAROLD D. MELTON ,143
+Wilkes,Tignall Sch Lunch RM,Supreme Court Justice, Melton,,HAROLD D. MELTON ,148
+Wilkes,Senior Citizen Center,Supreme Court Justice, Peterson,,NELS PETERSON ,193
+Wilkes,Young Farmer's Bldg,Supreme Court Justice, Peterson,,NELS PETERSON ,164
+Wilkes,Metasville Fire Station,Supreme Court Justice, Peterson,,NELS PETERSON ,97
+Wilkes,Edward B Pope Center,Supreme Court Justice, Peterson,,NELS PETERSON ,136
+Wilkes,Rayle City Hall,Supreme Court Justice, Peterson,,NELS PETERSON ,64
+Wilkes,Courthouse,Supreme Court Justice, Peterson,,NELS PETERSON ,141
+Wilkes,Tignall Sch Lunch RM,Supreme Court Justice, Peterson,,NELS PETERSON ,144
+Wilkes,Senior Citizen Center,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,199
+Wilkes,Young Farmer's Bldg,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,169
+Wilkes,Metasville Fire Station,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,96
+Wilkes,Edward B Pope Center,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,138
+Wilkes,Rayle City Hall,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,66
+Wilkes,Courthouse,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,140
+Wilkes,Tignall Sch Lunch RM,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,145
+Wilkes,Senior Citizen Center,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,193
+Wilkes,Young Farmer's Bldg,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,169
+Wilkes,Metasville Fire Station,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,97
+Wilkes,Edward B Pope Center,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,135
+Wilkes,Rayle City Hall,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,64
+Wilkes,Courthouse,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,142
+Wilkes,Tignall Sch Lunch RM,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,146
+Wilkes,Senior Citizen Center,Appeals Court Judge, Ellington,,KEN HODGES  ,168
+Wilkes,Young Farmer's Bldg,Appeals Court Judge, Ellington,,KEN HODGES  ,138
+Wilkes,Metasville Fire Station,Appeals Court Judge, Ellington,,KEN HODGES  ,88
+Wilkes,Edward B Pope Center,Appeals Court Judge, Ellington,,KEN HODGES  ,122
+Wilkes,Rayle City Hall,Appeals Court Judge, Ellington,,KEN HODGES  ,62
+Wilkes,Courthouse,Appeals Court Judge, Ellington,,KEN HODGES  ,128
+Wilkes,Tignall Sch Lunch RM,Appeals Court Judge, Ellington,,KEN HODGES  ,121
+Wilkes,Senior Citizen Center,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,54
+Wilkes,Young Farmer's Bldg,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,33
+Wilkes,Metasville Fire Station,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,16
+Wilkes,Edward B Pope Center,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,32
+Wilkes,Rayle City Hall,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,11
+Wilkes,Courthouse,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,32
+Wilkes,Tignall Sch Lunch RM,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,34
+Wilkes,Senior Citizen Center,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,196
+Wilkes,Young Farmer's Bldg,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,161
+Wilkes,Metasville Fire Station,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,96
+Wilkes,Edward B Pope Center,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,143
+Wilkes,Rayle City Hall,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,65
+Wilkes,Courthouse,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,140
+Wilkes,Tignall Sch Lunch RM,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,147
+Wilkes,Senior Citizen Center,Appeals Court Judge, Miller,,M. YVETTE MILLER ,195
+Wilkes,Young Farmer's Bldg,Appeals Court Judge, Miller,,M. YVETTE MILLER ,165
+Wilkes,Metasville Fire Station,Appeals Court Judge, Miller,,M. YVETTE MILLER ,99
+Wilkes,Edward B Pope Center,Appeals Court Judge, Miller,,M. YVETTE MILLER ,141
+Wilkes,Rayle City Hall,Appeals Court Judge, Miller,,M. YVETTE MILLER ,66
+Wilkes,Courthouse,Appeals Court Judge, Miller,,M. YVETTE MILLER ,144
+Wilkes,Tignall Sch Lunch RM,Appeals Court Judge, Miller,,M. YVETTE MILLER ,147
+Wilkes,Senior Citizen Center,Appeals Court Judge, Reese,,CLYDE L. REESE III ,191
+Wilkes,Young Farmer's Bldg,Appeals Court Judge, Reese,,CLYDE L. REESE III ,165
+Wilkes,Metasville Fire Station,Appeals Court Judge, Reese,,CLYDE L. REESE III ,98
+Wilkes,Edward B Pope Center,Appeals Court Judge, Reese,,CLYDE L. REESE III ,137
+Wilkes,Rayle City Hall,Appeals Court Judge, Reese,,CLYDE L. REESE III ,65
+Wilkes,Courthouse,Appeals Court Judge, Reese,,CLYDE L. REESE III ,143
+Wilkes,Tignall Sch Lunch RM,Appeals Court Judge, Reese,,CLYDE L. REESE III ,145
+Wilkes,Senior Citizen Center,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,196
+Wilkes,Young Farmer's Bldg,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,165
+Wilkes,Metasville Fire Station,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,98
+Wilkes,Edward B Pope Center,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,136
+Wilkes,Rayle City Hall,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,68
+Wilkes,Courthouse,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,144
+Wilkes,Tignall Sch Lunch RM,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,144
+Wilkes,Senior Citizen Center,BOE D1,,,H. JORDAN ,233
+Wilkes,Young Farmer's Bldg,BOE D2,,,D. STANDARD ,188
+Wilkes,Metasville Fire Station,BOE D2,,,D. STANDARD ,104

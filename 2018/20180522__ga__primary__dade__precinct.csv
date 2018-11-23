@@ -1,0 +1,603 @@
+county,precinct,office,district,party,candidate,votes
+Dade,SOUTH DADE,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",56
+Dade,NEW SALEM,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",110
+Dade,DAVIS,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",156
+Dade,NEW HOME,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",51
+Dade,WEST BROW,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",89
+Dade,TRENTON,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",214
+Dade,NORTH DADE,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",121
+Dade,SOUTH DADE,Governor,,REP,HUNTER HILL  (REP),33
+Dade,NEW SALEM,Governor,,REP,HUNTER HILL  (REP),58
+Dade,DAVIS,Governor,,REP,HUNTER HILL  (REP),62
+Dade,NEW HOME,Governor,,REP,HUNTER HILL  (REP),25
+Dade,WEST BROW,Governor,,REP,HUNTER HILL  (REP),58
+Dade,TRENTON,Governor,,REP,HUNTER HILL  (REP),94
+Dade,NORTH DADE,Governor,,REP,HUNTER HILL  (REP),38
+Dade,SOUTH DADE,Governor,,REP,BRIAN KEMP  (REP),35
+Dade,NEW SALEM,Governor,,REP,BRIAN KEMP  (REP),46
+Dade,DAVIS,Governor,,REP,BRIAN KEMP  (REP),77
+Dade,NEW HOME,Governor,,REP,BRIAN KEMP  (REP),25
+Dade,WEST BROW,Governor,,REP,BRIAN KEMP  (REP),22
+Dade,TRENTON,Governor,,REP,BRIAN KEMP  (REP),110
+Dade,NORTH DADE,Governor,,REP,BRIAN KEMP  (REP),79
+Dade,SOUTH DADE,Governor,,REP,CLAY TIPPINS  (REP),31
+Dade,NEW SALEM,Governor,,REP,CLAY TIPPINS  (REP),48
+Dade,DAVIS,Governor,,REP,CLAY TIPPINS  (REP),50
+Dade,NEW HOME,Governor,,REP,CLAY TIPPINS  (REP),18
+Dade,WEST BROW,Governor,,REP,CLAY TIPPINS  (REP),15
+Dade,TRENTON,Governor,,REP,CLAY TIPPINS  (REP),81
+Dade,NORTH DADE,Governor,,REP,CLAY TIPPINS  (REP),34
+Dade,SOUTH DADE,Governor,,REP,MICHAEL WILLIAMS  (REP),8
+Dade,NEW SALEM,Governor,,REP,MICHAEL WILLIAMS  (REP),15
+Dade,DAVIS,Governor,,REP,MICHAEL WILLIAMS  (REP),36
+Dade,NEW HOME,Governor,,REP,MICHAEL WILLIAMS  (REP),9
+Dade,WEST BROW,Governor,,REP,MICHAEL WILLIAMS  (REP),21
+Dade,TRENTON,Governor,,REP,MICHAEL WILLIAMS  (REP),43
+Dade,NORTH DADE,Governor,,REP,MICHAEL WILLIAMS  (REP),30
+Dade,SOUTH DADE,Governor,,DEM,STACEY ABRAMS  (DEM),6
+Dade,NEW SALEM,Governor,,DEM,STACEY ABRAMS  (DEM),30
+Dade,DAVIS,Governor,,DEM,STACEY ABRAMS  (DEM),12
+Dade,NEW HOME,Governor,,DEM,STACEY ABRAMS  (DEM),9
+Dade,WEST BROW,Governor,,DEM,STACEY ABRAMS  (DEM),14
+Dade,TRENTON,Governor,,DEM,STACEY ABRAMS  (DEM),31
+Dade,NORTH DADE,Governor,,DEM,STACEY ABRAMS  (DEM),30
+Dade,SOUTH DADE,Governor,,DEM,STACEY EVANS  (DEM),10
+Dade,NEW SALEM,Governor,,DEM,STACEY EVANS  (DEM),27
+Dade,DAVIS,Governor,,DEM,STACEY EVANS  (DEM),23
+Dade,NEW HOME,Governor,,DEM,STACEY EVANS  (DEM),8
+Dade,WEST BROW,Governor,,DEM,STACEY EVANS  (DEM),16
+Dade,TRENTON,Governor,,DEM,STACEY EVANS  (DEM),27
+Dade,NORTH DADE,Governor,,DEM,STACEY EVANS  (DEM),31
+Dade,SOUTH DADE,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),42
+Dade,NEW SALEM,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),84
+Dade,DAVIS,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),110
+Dade,NEW HOME,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),31
+Dade,WEST BROW,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),49
+Dade,TRENTON,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),159
+Dade,NORTH DADE,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),82
+Dade,SOUTH DADE,Lieutenant Governor,,REP,RICK JEFFARES  (REP),41
+Dade,NEW SALEM,Lieutenant Governor,,REP,RICK JEFFARES  (REP),62
+Dade,DAVIS,Lieutenant Governor,,REP,RICK JEFFARES  (REP),86
+Dade,NEW HOME,Lieutenant Governor,,REP,RICK JEFFARES  (REP),26
+Dade,WEST BROW,Lieutenant Governor,,REP,RICK JEFFARES  (REP),35
+Dade,TRENTON,Lieutenant Governor,,REP,RICK JEFFARES  (REP),141
+Dade,NORTH DADE,Lieutenant Governor,,REP,RICK JEFFARES  (REP),85
+Dade,SOUTH DADE,Lieutenant Governor,,REP,DAVID SHAFER  (REP),59
+Dade,NEW SALEM,Lieutenant Governor,,REP,DAVID SHAFER  (REP),93
+Dade,DAVIS,Lieutenant Governor,,REP,DAVID SHAFER  (REP),130
+Dade,NEW HOME,Lieutenant Governor,,REP,DAVID SHAFER  (REP),60
+Dade,WEST BROW,Lieutenant Governor,,REP,DAVID SHAFER  (REP),96
+Dade,TRENTON,Lieutenant Governor,,REP,DAVID SHAFER  (REP),180
+Dade,NORTH DADE,Lieutenant Governor,,REP,DAVID SHAFER  (REP),98
+Dade,SOUTH DADE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),14
+Dade,NEW SALEM,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),44
+Dade,DAVIS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),16
+Dade,NEW HOME,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),11
+Dade,WEST BROW,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),19
+Dade,TRENTON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),38
+Dade,NORTH DADE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),37
+Dade,SOUTH DADE,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),3
+Dade,NEW SALEM,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),10
+Dade,DAVIS,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),16
+Dade,NEW HOME,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),5
+Dade,WEST BROW,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),9
+Dade,TRENTON,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),19
+Dade,NORTH DADE,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),16
+Dade,SOUTH DADE,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),57
+Dade,NEW SALEM,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),80
+Dade,DAVIS,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),119
+Dade,NEW HOME,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),47
+Dade,WEST BROW,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),47
+Dade,TRENTON,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),181
+Dade,NORTH DADE,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),97
+Dade,SOUTH DADE,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),32
+Dade,NEW SALEM,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),63
+Dade,DAVIS,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),66
+Dade,NEW HOME,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),34
+Dade,WEST BROW,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),36
+Dade,TRENTON,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),122
+Dade,NORTH DADE,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),66
+Dade,SOUTH DADE,Secretary Of State,,REP,JOSH MCKOON  (REP),26
+Dade,NEW SALEM,Secretary Of State,,REP,JOSH MCKOON  (REP),44
+Dade,DAVIS,Secretary Of State,,REP,JOSH MCKOON  (REP),64
+Dade,NEW HOME,Secretary Of State,,REP,JOSH MCKOON  (REP),20
+Dade,WEST BROW,Secretary Of State,,REP,JOSH MCKOON  (REP),39
+Dade,TRENTON,Secretary Of State,,REP,JOSH MCKOON  (REP),76
+Dade,NORTH DADE,Secretary Of State,,REP,JOSH MCKOON  (REP),41
+Dade,SOUTH DADE,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),18
+Dade,NEW SALEM,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),27
+Dade,DAVIS,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),59
+Dade,NEW HOME,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),9
+Dade,WEST BROW,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),48
+Dade,TRENTON,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),62
+Dade,NORTH DADE,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),43
+Dade,SOUTH DADE,Secretary Of State,,DEM,JOHN BARROW  (DEM),11
+Dade,NEW SALEM,Secretary Of State,,DEM,JOHN BARROW  (DEM),30
+Dade,DAVIS,Secretary Of State,,DEM,JOHN BARROW  (DEM),17
+Dade,NEW HOME,Secretary Of State,,DEM,JOHN BARROW  (DEM),13
+Dade,WEST BROW,Secretary Of State,,DEM,JOHN BARROW  (DEM),16
+Dade,TRENTON,Secretary Of State,,DEM,JOHN BARROW  (DEM),28
+Dade,NORTH DADE,Secretary Of State,,DEM,JOHN BARROW  (DEM),21
+Dade,SOUTH DADE,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),3
+Dade,NEW SALEM,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),15
+Dade,DAVIS,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),10
+Dade,NEW HOME,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),4
+Dade,WEST BROW,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),10
+Dade,TRENTON,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),19
+Dade,NORTH DADE,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),20
+Dade,SOUTH DADE,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",2
+Dade,NEW SALEM,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",8
+Dade,DAVIS,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",5
+Dade,NEW HOME,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",0
+Dade,WEST BROW,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",3
+Dade,TRENTON,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",8
+Dade,NORTH DADE,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",11
+Dade,SOUTH DADE,Attorney General,,REP,CHRIS CARR (I) (REP),120
+Dade,NEW SALEM,Attorney General,,REP,CHRIS CARR (I) (REP),197
+Dade,DAVIS,Attorney General,,REP,CHRIS CARR (I) (REP),268
+Dade,NEW HOME,Attorney General,,REP,CHRIS CARR (I) (REP),101
+Dade,WEST BROW,Attorney General,,REP,CHRIS CARR (I) (REP),156
+Dade,TRENTON,Attorney General,,REP,CHRIS CARR (I) (REP),404
+Dade,NORTH DADE,Attorney General,,REP,CHRIS CARR (I) (REP),224
+Dade,SOUTH DADE,Attorney General,,DEM,CHARLIE BAILEY  (DEM),16
+Dade,NEW SALEM,Attorney General,,DEM,CHARLIE BAILEY  (DEM),48
+Dade,DAVIS,Attorney General,,DEM,CHARLIE BAILEY  (DEM),30
+Dade,NEW HOME,Attorney General,,DEM,CHARLIE BAILEY  (DEM),16
+Dade,WEST BROW,Attorney General,,DEM,CHARLIE BAILEY  (DEM),28
+Dade,TRENTON,Attorney General,,DEM,CHARLIE BAILEY  (DEM),45
+Dade,NORTH DADE,Attorney General,,DEM,CHARLIE BAILEY  (DEM),48
+Dade,SOUTH DADE,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),128
+Dade,NEW SALEM,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),197
+Dade,DAVIS,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),276
+Dade,NEW HOME,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),109
+Dade,WEST BROW,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),158
+Dade,TRENTON,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),405
+Dade,NORTH DADE,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),232
+Dade,SOUTH DADE,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),16
+Dade,NEW SALEM,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),50
+Dade,DAVIS,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),28
+Dade,NEW HOME,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),15
+Dade,WEST BROW,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),27
+Dade,TRENTON,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),47
+Dade,NORTH DADE,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),52
+Dade,SOUTH DADE,Commissioner Of Insurance,,REP,JIM BECK  (REP),72
+Dade,NEW SALEM,Commissioner Of Insurance,,REP,JIM BECK  (REP),122
+Dade,DAVIS,Commissioner Of Insurance,,REP,JIM BECK  (REP),173
+Dade,NEW HOME,Commissioner Of Insurance,,REP,JIM BECK  (REP),58
+Dade,WEST BROW,Commissioner Of Insurance,,REP,JIM BECK  (REP),77
+Dade,TRENTON,Commissioner Of Insurance,,REP,JIM BECK  (REP),268
+Dade,NORTH DADE,Commissioner Of Insurance,,REP,JIM BECK  (REP),155
+Dade,SOUTH DADE,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),21
+Dade,NEW SALEM,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),46
+Dade,DAVIS,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),40
+Dade,NEW HOME,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),12
+Dade,WEST BROW,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),53
+Dade,TRENTON,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),49
+Dade,NORTH DADE,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),31
+Dade,SOUTH DADE,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),43
+Dade,NEW SALEM,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),54
+Dade,DAVIS,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),107
+Dade,NEW HOME,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),43
+Dade,WEST BROW,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),40
+Dade,TRENTON,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),128
+Dade,NORTH DADE,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),74
+Dade,SOUTH DADE,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),7
+Dade,NEW SALEM,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),28
+Dade,DAVIS,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),19
+Dade,NEW HOME,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),7
+Dade,WEST BROW,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),15
+Dade,TRENTON,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),26
+Dade,NORTH DADE,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),25
+Dade,SOUTH DADE,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),8
+Dade,NEW SALEM,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),23
+Dade,DAVIS,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),13
+Dade,NEW HOME,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),8
+Dade,WEST BROW,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),11
+Dade,TRENTON,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),24
+Dade,NORTH DADE,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),22
+Dade,SOUTH DADE,State School Superintendent,,REP,JOHN BARGE  (REP),77
+Dade,NEW SALEM,State School Superintendent,,REP,JOHN BARGE  (REP),124
+Dade,DAVIS,State School Superintendent,,REP,JOHN BARGE  (REP),147
+Dade,NEW HOME,State School Superintendent,,REP,JOHN BARGE  (REP),60
+Dade,WEST BROW,State School Superintendent,,REP,JOHN BARGE  (REP),56
+Dade,TRENTON,State School Superintendent,,REP,JOHN BARGE  (REP),229
+Dade,NORTH DADE,State School Superintendent,,REP,JOHN BARGE  (REP),113
+Dade,SOUTH DADE,State School Superintendent,,REP,RICHARD WOODS (I) (REP),73
+Dade,NEW SALEM,State School Superintendent,,REP,RICHARD WOODS (I) (REP),119
+Dade,DAVIS,State School Superintendent,,REP,RICHARD WOODS (I) (REP),186
+Dade,NEW HOME,State School Superintendent,,REP,RICHARD WOODS (I) (REP),60
+Dade,WEST BROW,State School Superintendent,,REP,RICHARD WOODS (I) (REP),128
+Dade,TRENTON,State School Superintendent,,REP,RICHARD WOODS (I) (REP),276
+Dade,NORTH DADE,State School Superintendent,,REP,RICHARD WOODS (I) (REP),157
+Dade,SOUTH DADE,State School Superintendent,,DEM,SID CHAPMAN (DEM),5
+Dade,NEW SALEM,State School Superintendent,,DEM,SID CHAPMAN (DEM),24
+Dade,DAVIS,State School Superintendent,,DEM,SID CHAPMAN (DEM),12
+Dade,NEW HOME,State School Superintendent,,DEM,SID CHAPMAN (DEM),6
+Dade,WEST BROW,State School Superintendent,,DEM,SID CHAPMAN (DEM),5
+Dade,TRENTON,State School Superintendent,,DEM,SID CHAPMAN (DEM),19
+Dade,NORTH DADE,State School Superintendent,,DEM,SID CHAPMAN (DEM),17
+Dade,SOUTH DADE,State School Superintendent,,DEM,SAM MOSTELLER (DEM),8
+Dade,NEW SALEM,State School Superintendent,,DEM,SAM MOSTELLER (DEM),15
+Dade,DAVIS,State School Superintendent,,DEM,SAM MOSTELLER (DEM),16
+Dade,NEW HOME,State School Superintendent,,DEM,SAM MOSTELLER (DEM),9
+Dade,WEST BROW,State School Superintendent,,DEM,SAM MOSTELLER (DEM),11
+Dade,TRENTON,State School Superintendent,,DEM,SAM MOSTELLER (DEM),19
+Dade,NORTH DADE,State School Superintendent,,DEM,SAM MOSTELLER (DEM),14
+Dade,SOUTH DADE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",3
+Dade,NEW SALEM,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",13
+Dade,DAVIS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",5
+Dade,NEW HOME,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",1
+Dade,WEST BROW,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",9
+Dade,TRENTON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",13
+Dade,NORTH DADE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",22
+Dade,SOUTH DADE,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),119
+Dade,NEW SALEM,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),195
+Dade,DAVIS,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),265
+Dade,NEW HOME,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),102
+Dade,WEST BROW,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),151
+Dade,TRENTON,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),404
+Dade,NORTH DADE,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),225
+Dade,SOUTH DADE,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),9
+Dade,NEW SALEM,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),32
+Dade,DAVIS,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),22
+Dade,NEW HOME,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),7
+Dade,WEST BROW,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),11
+Dade,TRENTON,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),25
+Dade,NORTH DADE,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),30
+Dade,SOUTH DADE,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),7
+Dade,NEW SALEM,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),16
+Dade,DAVIS,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),10
+Dade,NEW HOME,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),8
+Dade,WEST BROW,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),15
+Dade,TRENTON,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),21
+Dade,NORTH DADE,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),20
+Dade,SOUTH DADE,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),116
+Dade,NEW SALEM,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),195
+Dade,DAVIS,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),267
+Dade,NEW HOME,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),104
+Dade,WEST BROW,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),152
+Dade,TRENTON,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),402
+Dade,NORTH DADE,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),226
+Dade,SOUTH DADE,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),5
+Dade,NEW SALEM,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),37
+Dade,DAVIS,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),19
+Dade,NEW HOME,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),4
+Dade,WEST BROW,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),13
+Dade,TRENTON,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),26
+Dade,NORTH DADE,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),30
+Dade,SOUTH DADE,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),4
+Dade,NEW SALEM,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),9
+Dade,DAVIS,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),8
+Dade,NEW HOME,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),6
+Dade,WEST BROW,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),3
+Dade,TRENTON,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),13
+Dade,NORTH DADE,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),7
+Dade,SOUTH DADE,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),6
+Dade,NEW SALEM,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),5
+Dade,DAVIS,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),5
+Dade,NEW HOME,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),5
+Dade,WEST BROW,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),10
+Dade,TRENTON,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),12
+Dade,NORTH DADE,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),15
+Dade,SOUTH DADE,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),73
+Dade,NEW SALEM,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),128
+Dade,DAVIS,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),173
+Dade,NEW HOME,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),69
+Dade,WEST BROW,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),72
+Dade,TRENTON,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),232
+Dade,NORTH DADE,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),133
+Dade,SOUTH DADE,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),66
+Dade,NEW SALEM,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),96
+Dade,DAVIS,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),148
+Dade,NEW HOME,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),52
+Dade,WEST BROW,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),115
+Dade,TRENTON,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),248
+Dade,NORTH DADE,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),131
+Dade,SOUTH DADE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),8
+Dade,NEW SALEM,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),38
+Dade,DAVIS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),21
+Dade,NEW HOME,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),7
+Dade,WEST BROW,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),18
+Dade,TRENTON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),36
+Dade,NORTH DADE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),33
+Dade,SOUTH DADE,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),8
+Dade,NEW SALEM,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),12
+Dade,DAVIS,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),11
+Dade,NEW HOME,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),7
+Dade,WEST BROW,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),8
+Dade,TRENTON,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),13
+Dade,NORTH DADE,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),19
+Dade,SOUTH DADE,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),126
+Dade,NEW SALEM,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),205
+Dade,DAVIS,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),281
+Dade,NEW HOME,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),111
+Dade,WEST BROW,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),176
+Dade,TRENTON,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),429
+Dade,NORTH DADE,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),238
+Dade,SOUTH DADE,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),15
+Dade,NEW SALEM,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),49
+Dade,DAVIS,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),29
+Dade,NEW HOME,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),15
+Dade,WEST BROW,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),27
+Dade,TRENTON,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),45
+Dade,NORTH DADE,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),49
+Dade,SOUTH DADE,"State Senator, District 53",53,REP,JEFF MULLIS (I) (REP),128
+Dade,NEW SALEM,"State Senator, District 53",53,REP,JEFF MULLIS (I) (REP),192
+Dade,DAVIS,"State Senator, District 53",53,REP,JEFF MULLIS (I) (REP),281
+Dade,NEW HOME,"State Senator, District 53",53,REP,JEFF MULLIS (I) (REP),99
+Dade,WEST BROW,"State Senator, District 53",53,REP,JEFF MULLIS (I) (REP),176
+Dade,TRENTON,"State Senator, District 53",53,REP,JEFF MULLIS (I) (REP),430
+Dade,NORTH DADE,"State Senator, District 53",53,REP,JEFF MULLIS (I) (REP),224
+Dade,SOUTH DADE,"State Representative, District 1",1,REP,JOHN DEFFENBAUGH (I) (REP),62
+Dade,NEW SALEM,"State Representative, District 1",1,REP,JOHN DEFFENBAUGH (I) (REP),69
+Dade,DAVIS,"State Representative, District 1",1,REP,JOHN DEFFENBAUGH (I) (REP),120
+Dade,NEW HOME,"State Representative, District 1",1,REP,JOHN DEFFENBAUGH (I) (REP),55
+Dade,WEST BROW,"State Representative, District 1",1,REP,JOHN DEFFENBAUGH (I) (REP),138
+Dade,TRENTON,"State Representative, District 1",1,REP,JOHN DEFFENBAUGH (I) (REP),170
+Dade,NORTH DADE,"State Representative, District 1",1,REP,JOHN DEFFENBAUGH (I) (REP),108
+Dade,SOUTH DADE,"State Representative, District 1",1,REP,COLTON MOORE  (REP),128
+Dade,NEW SALEM,"State Representative, District 1",1,REP,COLTON MOORE  (REP),219
+Dade,DAVIS,"State Representative, District 1",1,REP,COLTON MOORE  (REP),282
+Dade,NEW HOME,"State Representative, District 1",1,REP,COLTON MOORE  (REP),81
+Dade,WEST BROW,"State Representative, District 1",1,REP,COLTON MOORE  (REP),84
+Dade,TRENTON,"State Representative, District 1",1,REP,COLTON MOORE  (REP),420
+Dade,NORTH DADE,"State Representative, District 1",1,REP,COLTON MOORE  (REP),222
+Dade,SOUTH DADE,"CC, D1", D1 - R,REP,J. DIXON,84
+Dade,NEW SALEM,"CC, D1", D1 - R,REP,J. DIXON,130
+Dade,DAVIS,"CC, D1", D1 - R,REP,J. DIXON,166
+Dade,NEW HOME,"CC, D1", D1 - R,REP,J. DIXON,63
+Dade,WEST BROW,"CC, D1", D1 - R,REP,J. DIXON,102
+Dade,TRENTON,"CC, D1", D1 - R,REP,J. DIXON,270
+Dade,NORTH DADE,"CC, D1", D1 - R,REP,J. DIXON,142
+Dade,SOUTH DADE,"CC, D1", D1 - R,REP,L. LOWERY,90
+Dade,NEW SALEM,"CC, D1", D1 - R,REP,L. LOWERY,131
+Dade,DAVIS,"CC, D1", D1 - R,REP,L. LOWERY,204
+Dade,NEW HOME,"CC, D1", D1 - R,REP,L. LOWERY,64
+Dade,WEST BROW,"CC, D1", D1 - R,REP,L. LOWERY,79
+Dade,TRENTON,"CC, D1", D1 - R,REP,L. LOWERY,297
+Dade,NORTH DADE,"CC, D1", D1 - R,REP,L. LOWERY,192
+Dade,SOUTH DADE,"CC, D1", D1 - D,DEM,P. HICKEY,15
+Dade,NEW SALEM,"CC, D1", D1 - D,DEM,P. HICKEY,51
+Dade,DAVIS,"CC, D1", D1 - D,DEM,P. HICKEY,30
+Dade,NEW HOME,"CC, D1", D1 - D,DEM,P. HICKEY,14
+Dade,WEST BROW,"CC, D1", D1 - D,DEM,P. HICKEY,24
+Dade,TRENTON,"CC, D1", D1 - D,DEM,P. HICKEY,44
+Dade,NORTH DADE,"CC, D1", D1 - D,DEM,P. HICKEY,47
+Dade,SOUTH DADE,"CC, D2", D2 - R,REP,P. HARTLINE,79
+Dade,NEW SALEM,"CC, D2", D2 - R,REP,P. HARTLINE,89
+Dade,DAVIS,"CC, D2", D2 - R,REP,P. HARTLINE,174
+Dade,NEW HOME,"CC, D2", D2 - R,REP,P. HARTLINE,36
+Dade,WEST BROW,"CC, D2", D2 - R,REP,P. HARTLINE,54
+Dade,TRENTON,"CC, D2", D2 - R,REP,P. HARTLINE,184
+Dade,NORTH DADE,"CC, D2", D2 - R,REP,P. HARTLINE,84
+Dade,SOUTH DADE,"CC, D2", D2 - R,REP,W. JOHNSON,33
+Dade,NEW SALEM,"CC, D2", D2 - R,REP,W. JOHNSON,31
+Dade,DAVIS,"CC, D2", D2 - R,REP,W. JOHNSON,71
+Dade,NEW HOME,"CC, D2", D2 - R,REP,W. JOHNSON,53
+Dade,WEST BROW,"CC, D2", D2 - R,REP,W. JOHNSON,15
+Dade,TRENTON,"CC, D2", D2 - R,REP,W. JOHNSON,115
+Dade,NORTH DADE,"CC, D2", D2 - R,REP,W. JOHNSON,62
+Dade,SOUTH DADE,"CC, D2", D2 - R,REP,S. PITTMAN (I),54
+Dade,NEW SALEM,"CC, D2", D2 - R,REP,S. PITTMAN (I),116
+Dade,DAVIS,"CC, D2", D2 - R,REP,S. PITTMAN (I),107
+Dade,NEW HOME,"CC, D2", D2 - R,REP,S. PITTMAN (I),31
+Dade,WEST BROW,"CC, D2", D2 - R,REP,S. PITTMAN (I),107
+Dade,TRENTON,"CC, D2", D2 - R,REP,S. PITTMAN (I),207
+Dade,NORTH DADE,"CC, D2", D2 - R,REP,S. PITTMAN (I),127
+Dade,SOUTH DADE,"CC, D2", D2 - R,REP,M. S. SCOTT,14
+Dade,NEW SALEM,"CC, D2", D2 - R,REP,M. S. SCOTT,37
+Dade,DAVIS,"CC, D2", D2 - R,REP,M. S. SCOTT,56
+Dade,NEW HOME,"CC, D2", D2 - R,REP,M. S. SCOTT,24
+Dade,WEST BROW,"CC, D2", D2 - R,REP,M. S. SCOTT,26
+Dade,TRENTON,"CC, D2", D2 - R,REP,M. S. SCOTT,84
+Dade,NORTH DADE,"CC, D2", D2 - R,REP,M. S. SCOTT,43
+Dade,SOUTH DADE,"BOE, D1", D1 - R,REP,D. CASE,101
+Dade,NEW SALEM,"BOE, D1", D1 - R,REP,D. CASE,186
+Dade,DAVIS,"BOE, D1", D1 - R,REP,D. CASE,225
+Dade,NEW HOME,"BOE, D1", D1 - R,REP,D. CASE,75
+Dade,WEST BROW,"BOE, D1", D1 - R,REP,D. CASE,100
+Dade,TRENTON,"BOE, D1", D1 - R,REP,D. CASE,380
+Dade,NORTH DADE,"BOE, D1", D1 - R,REP,D. CASE,210
+Dade,SOUTH DADE,"BOE, D1", D1 - R,REP,C. SHAW (I),85
+Dade,NEW SALEM,"BOE, D1", D1 - R,REP,C. SHAW (I),92
+Dade,DAVIS,"BOE, D1", D1 - R,REP,C. SHAW (I),175
+Dade,NEW HOME,"BOE, D1", D1 - R,REP,C. SHAW (I),64
+Dade,WEST BROW,"BOE, D1", D1 - R,REP,C. SHAW (I),102
+Dade,TRENTON,"BOE, D1", D1 - R,REP,C. SHAW (I),224
+Dade,NORTH DADE,"BOE, D1", D1 - R,REP,C. SHAW (I),130
+Dade,SOUTH DADE,"BOE, D2", D2 - R,REP,J. H. HARTLINE (I),91
+Dade,NEW SALEM,"BOE, D2", D2 - R,REP,J. H. HARTLINE (I),124
+Dade,DAVIS,"BOE, D2", D2 - R,REP,J. H. HARTLINE (I),193
+Dade,NEW HOME,"BOE, D2", D2 - R,REP,J. H. HARTLINE (I),49
+Dade,WEST BROW,"BOE, D2", D2 - R,REP,J. H. HARTLINE (I),129
+Dade,TRENTON,"BOE, D2", D2 - R,REP,J. H. HARTLINE (I),301
+Dade,NORTH DADE,"BOE, D2", D2 - R,REP,J. H. HARTLINE (I),154
+Dade,SOUTH DADE,"BOE, D2", D2 - R,REP,L. G. WILLIAMS,89
+Dade,NEW SALEM,"BOE, D2", D2 - R,REP,L. G. WILLIAMS,140
+Dade,DAVIS,"BOE, D2", D2 - R,REP,L. G. WILLIAMS,206
+Dade,NEW HOME,"BOE, D2", D2 - R,REP,L. G. WILLIAMS,92
+Dade,WEST BROW,"BOE, D2", D2 - R,REP,L. G. WILLIAMS,68
+Dade,TRENTON,"BOE, D2", D2 - R,REP,L. G. WILLIAMS,279
+Dade,NORTH DADE,"BOE, D2", D2 - R,REP,L. G. WILLIAMS,159
+Dade,SOUTH DADE,Democratic Party Question 1,,DEM,YES,12
+Dade,NEW SALEM,Democratic Party Question 1,,DEM,YES,49
+Dade,DAVIS,Democratic Party Question 1,,DEM,YES,24
+Dade,NEW HOME,Democratic Party Question 1,,DEM,YES,9
+Dade,WEST BROW,Democratic Party Question 1,,DEM,YES,23
+Dade,TRENTON,Democratic Party Question 1,,DEM,YES,43
+Dade,NORTH DADE,Democratic Party Question 1,,DEM,YES,47
+Dade,SOUTH DADE,Democratic Party Question 1,,DEM,NO,5
+Dade,NEW SALEM,Democratic Party Question 1,,DEM,NO,6
+Dade,DAVIS,Democratic Party Question 1,,DEM,NO,11
+Dade,NEW HOME,Democratic Party Question 1,,DEM,NO,8
+Dade,WEST BROW,Democratic Party Question 1,,DEM,NO,5
+Dade,TRENTON,Democratic Party Question 1,,DEM,NO,16
+Dade,NORTH DADE,Democratic Party Question 1,,DEM,NO,11
+Dade,SOUTH DADE,Democratic Party Question 2,,DEM,YES,17
+Dade,NEW SALEM,Democratic Party Question 2,,DEM,YES,50
+Dade,DAVIS,Democratic Party Question 2,,DEM,YES,26
+Dade,NEW HOME,Democratic Party Question 2,,DEM,YES,14
+Dade,WEST BROW,Democratic Party Question 2,,DEM,YES,24
+Dade,TRENTON,Democratic Party Question 2,,DEM,YES,48
+Dade,NORTH DADE,Democratic Party Question 2,,DEM,YES,48
+Dade,SOUTH DADE,Democratic Party Question 2,,DEM,NO,2
+Dade,NEW SALEM,Democratic Party Question 2,,DEM,NO,6
+Dade,DAVIS,Democratic Party Question 2,,DEM,NO,9
+Dade,NEW HOME,Democratic Party Question 2,,DEM,NO,2
+Dade,WEST BROW,Democratic Party Question 2,,DEM,NO,4
+Dade,TRENTON,Democratic Party Question 2,,DEM,NO,12
+Dade,NORTH DADE,Democratic Party Question 2,,DEM,NO,13
+Dade,SOUTH DADE,Democratic Party Question 3, non-partisan commission?,DEM,YES,14
+Dade,NEW SALEM,Democratic Party Question 3, non-partisan commission?,DEM,YES,45
+Dade,DAVIS,Democratic Party Question 3, non-partisan commission?,DEM,YES,26
+Dade,NEW HOME,Democratic Party Question 3, non-partisan commission?,DEM,YES,12
+Dade,WEST BROW,Democratic Party Question 3, non-partisan commission?,DEM,YES,23
+Dade,TRENTON,Democratic Party Question 3, non-partisan commission?,DEM,YES,47
+Dade,NORTH DADE,Democratic Party Question 3, non-partisan commission?,DEM,YES,45
+Dade,SOUTH DADE,Democratic Party Question 3, non-partisan commission?,DEM,NO,4
+Dade,NEW SALEM,Democratic Party Question 3, non-partisan commission?,DEM,NO,10
+Dade,DAVIS,Democratic Party Question 3, non-partisan commission?,DEM,NO,9
+Dade,NEW HOME,Democratic Party Question 3, non-partisan commission?,DEM,NO,4
+Dade,WEST BROW,Democratic Party Question 3, non-partisan commission?,DEM,NO,6
+Dade,TRENTON,Democratic Party Question 3, non-partisan commission?,DEM,NO,13
+Dade,NORTH DADE,Democratic Party Question 3, non-partisan commission?,DEM,NO,14
+Dade,SOUTH DADE,Democratic Party Question 4, reduce carbon emissions,DEM,YES,12
+Dade,NEW SALEM,Democratic Party Question 4, reduce carbon emissions,DEM,YES,47
+Dade,DAVIS,Democratic Party Question 4, reduce carbon emissions,DEM,YES,19
+Dade,NEW HOME,Democratic Party Question 4, reduce carbon emissions,DEM,YES,9
+Dade,WEST BROW,Democratic Party Question 4, reduce carbon emissions,DEM,YES,20
+Dade,TRENTON,Democratic Party Question 4, reduce carbon emissions,DEM,YES,40
+Dade,NORTH DADE,Democratic Party Question 4, reduce carbon emissions,DEM,YES,46
+Dade,SOUTH DADE,Democratic Party Question 4, reduce carbon emissions,DEM,NO,7
+Dade,NEW SALEM,Democratic Party Question 4, reduce carbon emissions,DEM,NO,9
+Dade,DAVIS,Democratic Party Question 4, reduce carbon emissions,DEM,NO,14
+Dade,NEW HOME,Democratic Party Question 4, reduce carbon emissions,DEM,NO,8
+Dade,WEST BROW,Democratic Party Question 4, reduce carbon emissions,DEM,NO,9
+Dade,TRENTON,Democratic Party Question 4, reduce carbon emissions,DEM,NO,20
+Dade,NORTH DADE,Democratic Party Question 4, reduce carbon emissions,DEM,NO,16
+Dade,SOUTH DADE,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,137
+Dade,NEW SALEM,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,239
+Dade,DAVIS,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,302
+Dade,NEW HOME,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,120
+Dade,WEST BROW,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,191
+Dade,TRENTON,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,453
+Dade,NORTH DADE,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,274
+Dade,SOUTH DADE,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,134
+Dade,NEW SALEM,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,240
+Dade,DAVIS,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,296
+Dade,NEW HOME,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,121
+Dade,WEST BROW,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,187
+Dade,TRENTON,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,451
+Dade,NORTH DADE,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,270
+Dade,SOUTH DADE,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,133
+Dade,NEW SALEM,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,240
+Dade,DAVIS,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,293
+Dade,NEW HOME,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,120
+Dade,WEST BROW,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,179
+Dade,TRENTON,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,447
+Dade,NORTH DADE,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,268
+Dade,SOUTH DADE,Supreme Court Justice, Melton,,HAROLD D. MELTON ,132
+Dade,NEW SALEM,Supreme Court Justice, Melton,,HAROLD D. MELTON ,238
+Dade,DAVIS,Supreme Court Justice, Melton,,HAROLD D. MELTON ,299
+Dade,NEW HOME,Supreme Court Justice, Melton,,HAROLD D. MELTON ,119
+Dade,WEST BROW,Supreme Court Justice, Melton,,HAROLD D. MELTON ,179
+Dade,TRENTON,Supreme Court Justice, Melton,,HAROLD D. MELTON ,439
+Dade,NORTH DADE,Supreme Court Justice, Melton,,HAROLD D. MELTON ,266
+Dade,SOUTH DADE,Supreme Court Justice, Peterson,,NELS PETERSON ,132
+Dade,NEW SALEM,Supreme Court Justice, Peterson,,NELS PETERSON ,235
+Dade,DAVIS,Supreme Court Justice, Peterson,,NELS PETERSON ,299
+Dade,NEW HOME,Supreme Court Justice, Peterson,,NELS PETERSON ,118
+Dade,WEST BROW,Supreme Court Justice, Peterson,,NELS PETERSON ,179
+Dade,TRENTON,Supreme Court Justice, Peterson,,NELS PETERSON ,438
+Dade,NORTH DADE,Supreme Court Justice, Peterson,,NELS PETERSON ,265
+Dade,SOUTH DADE,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,132
+Dade,NEW SALEM,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,226
+Dade,DAVIS,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,295
+Dade,NEW HOME,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,116
+Dade,WEST BROW,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,175
+Dade,TRENTON,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,442
+Dade,NORTH DADE,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,259
+Dade,SOUTH DADE,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,131
+Dade,NEW SALEM,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,225
+Dade,DAVIS,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,294
+Dade,NEW HOME,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,117
+Dade,WEST BROW,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,174
+Dade,TRENTON,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,441
+Dade,NORTH DADE,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,258
+Dade,SOUTH DADE,Appeals Court Judge, Ellington,,KEN HODGES  ,106
+Dade,NEW SALEM,Appeals Court Judge, Ellington,,KEN HODGES  ,192
+Dade,DAVIS,Appeals Court Judge, Ellington,,KEN HODGES  ,243
+Dade,NEW HOME,Appeals Court Judge, Ellington,,KEN HODGES  ,88
+Dade,WEST BROW,Appeals Court Judge, Ellington,,KEN HODGES  ,111
+Dade,TRENTON,Appeals Court Judge, Ellington,,KEN HODGES  ,364
+Dade,NORTH DADE,Appeals Court Judge, Ellington,,KEN HODGES  ,222
+Dade,SOUTH DADE,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,37
+Dade,NEW SALEM,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,54
+Dade,DAVIS,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,88
+Dade,NEW HOME,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,42
+Dade,WEST BROW,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,60
+Dade,TRENTON,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,108
+Dade,NORTH DADE,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,67
+Dade,SOUTH DADE,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,128
+Dade,NEW SALEM,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,229
+Dade,DAVIS,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,291
+Dade,NEW HOME,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,115
+Dade,WEST BROW,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,170
+Dade,TRENTON,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,431
+Dade,NORTH DADE,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,257
+Dade,SOUTH DADE,Appeals Court Judge, Miller,,M. YVETTE MILLER ,127
+Dade,NEW SALEM,Appeals Court Judge, Miller,,M. YVETTE MILLER ,226
+Dade,DAVIS,Appeals Court Judge, Miller,,M. YVETTE MILLER ,291
+Dade,NEW HOME,Appeals Court Judge, Miller,,M. YVETTE MILLER ,114
+Dade,WEST BROW,Appeals Court Judge, Miller,,M. YVETTE MILLER ,171
+Dade,TRENTON,Appeals Court Judge, Miller,,M. YVETTE MILLER ,433
+Dade,NORTH DADE,Appeals Court Judge, Miller,,M. YVETTE MILLER ,254
+Dade,SOUTH DADE,Appeals Court Judge, Reese,,CLYDE L. REESE III ,127
+Dade,NEW SALEM,Appeals Court Judge, Reese,,CLYDE L. REESE III ,228
+Dade,DAVIS,Appeals Court Judge, Reese,,CLYDE L. REESE III ,289
+Dade,NEW HOME,Appeals Court Judge, Reese,,CLYDE L. REESE III ,112
+Dade,WEST BROW,Appeals Court Judge, Reese,,CLYDE L. REESE III ,171
+Dade,TRENTON,Appeals Court Judge, Reese,,CLYDE L. REESE III ,430
+Dade,NORTH DADE,Appeals Court Judge, Reese,,CLYDE L. REESE III ,261
+Dade,SOUTH DADE,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,128
+Dade,NEW SALEM,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,229
+Dade,DAVIS,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,290
+Dade,NEW HOME,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,115
+Dade,WEST BROW,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,172
+Dade,TRENTON,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,436
+Dade,NORTH DADE,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,258
+Dade,SOUTH DADE,Superior Court Judge, Lookout Mountain Circuit (Thompson),,DON W. THOMPSON ,133
+Dade,NEW SALEM,Superior Court Judge, Lookout Mountain Circuit (Thompson),,DON W. THOMPSON ,234
+Dade,DAVIS,Superior Court Judge, Lookout Mountain Circuit (Thompson),,DON W. THOMPSON ,295
+Dade,NEW HOME,Superior Court Judge, Lookout Mountain Circuit (Thompson),,DON W. THOMPSON ,118
+Dade,WEST BROW,Superior Court Judge, Lookout Mountain Circuit (Thompson),,DON W. THOMPSON ,181
+Dade,TRENTON,Superior Court Judge, Lookout Mountain Circuit (Thompson),,DON W. THOMPSON ,441
+Dade,NORTH DADE,Superior Court Judge, Lookout Mountain Circuit (Thompson),,DON W. THOMPSON ,263
+Dade,SOUTH DADE,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,MELISSA GIFFORD HISE  ,127
+Dade,NEW SALEM,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,MELISSA GIFFORD HISE  ,252
+Dade,DAVIS,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,MELISSA GIFFORD HISE  ,252
+Dade,NEW HOME,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,MELISSA GIFFORD HISE  ,93
+Dade,WEST BROW,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,MELISSA GIFFORD HISE  ,102
+Dade,TRENTON,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,MELISSA GIFFORD HISE  ,367
+Dade,NORTH DADE,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,MELISSA GIFFORD HISE  ,217
+Dade,SOUTH DADE,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,RALPH VAN PELT JR ,83
+Dade,NEW SALEM,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,RALPH VAN PELT JR ,87
+Dade,DAVIS,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,RALPH VAN PELT JR ,164
+Dade,NEW HOME,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,RALPH VAN PELT JR ,63
+Dade,WEST BROW,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,RALPH VAN PELT JR ,144
+Dade,TRENTON,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,RALPH VAN PELT JR ,294
+Dade,NORTH DADE,Superior Court Judge, Lookout Mountain Circuit (VanPelt),,RALPH VAN PELT JR ,170
+Dade,SOUTH DADE,Sales and Use Tax,,,YES,87
+Dade,NEW SALEM,Sales and Use Tax,,,YES,183
+Dade,DAVIS,Sales and Use Tax,,,YES,145
+Dade,NEW HOME,Sales and Use Tax,,,YES,51
+Dade,WEST BROW,Sales and Use Tax,,,YES,127
+Dade,TRENTON,Sales and Use Tax,,,YES,296
+Dade,NORTH DADE,Sales and Use Tax,,,YES,191
+Dade,SOUTH DADE,Sales and Use Tax,,,NO,137
+Dade,NEW SALEM,Sales and Use Tax,,,NO,170
+Dade,DAVIS,Sales and Use Tax,,,NO,317
+Dade,NEW HOME,Sales and Use Tax,,,NO,120
+Dade,WEST BROW,Sales and Use Tax,,,NO,128
+Dade,TRENTON,Sales and Use Tax,,,NO,411
+Dade,NORTH DADE,Sales and Use Tax,,,NO,224
