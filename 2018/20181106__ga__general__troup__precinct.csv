@@ -1,0 +1,722 @@
+county,precinct,office,district,party,candidate,votes
+Troup,HOLLIS HAND,Governor,,REP,BRIAN KEMP,1768
+Troup,ADMINISTRATION BLDG,Governor,,REP,BRIAN KEMP,462
+Troup,HAMMETT RD,Governor,,REP,BRIAN KEMP,797
+Troup,GRIGGS CENTER,Governor,,REP,BRIAN KEMP,48
+Troup,WEST POINT,Governor,,REP,BRIAN KEMP,322
+Troup,HOGANSVILLE,Governor,,REP,BRIAN KEMP,1048
+Troup,EAST VERNON,Governor,,REP,BRIAN KEMP,1577
+Troup,ROSEMONT,Governor,,REP,BRIAN KEMP,1870
+Troup,MOUNTVILLE,Governor,,REP,BRIAN KEMP,741
+Troup,MCLENDON,Governor,,REP,BRIAN KEMP,1690
+Troup,LONG CANE,Governor,,REP,BRIAN KEMP,1427
+Troup,GARDNER NEWMAN,Governor,,REP,BRIAN KEMP,696
+Troup,GRAY HILL,Governor,,REP,BRIAN KEMP,781
+Troup,HIGHLAND,Governor,,REP,BRIAN KEMP,398
+Troup,NORTHSIDE,Governor,,REP,BRIAN KEMP,908
+Troup,HOLLIS HAND,Governor,,DEM,STACEY ABRAMS,482
+Troup,ADMINISTRATION BLDG,Governor,,DEM,STACEY ABRAMS,1199
+Troup,HAMMETT RD,Governor,,DEM,STACEY ABRAMS,1366
+Troup,GRIGGS CENTER,Governor,,DEM,STACEY ABRAMS,1058
+Troup,WEST POINT,Governor,,DEM,STACEY ABRAMS,693
+Troup,HOGANSVILLE,Governor,,DEM,STACEY ABRAMS,589
+Troup,EAST VERNON,Governor,,DEM,STACEY ABRAMS,342
+Troup,ROSEMONT,Governor,,DEM,STACEY ABRAMS,326
+Troup,MOUNTVILLE,Governor,,DEM,STACEY ABRAMS,386
+Troup,MCLENDON,Governor,,DEM,STACEY ABRAMS,478
+Troup,LONG CANE,Governor,,DEM,STACEY ABRAMS,474
+Troup,GARDNER NEWMAN,Governor,,DEM,STACEY ABRAMS,451
+Troup,GRAY HILL,Governor,,DEM,STACEY ABRAMS,278
+Troup,HIGHLAND,Governor,,DEM,STACEY ABRAMS,470
+Troup,NORTHSIDE,Governor,,DEM,STACEY ABRAMS,626
+Troup,HOLLIS HAND,Governor,,LIB,TED METZ,28
+Troup,ADMINISTRATION BLDG,Governor,,LIB,TED METZ,13
+Troup,HAMMETT RD,Governor,,LIB,TED METZ,14
+Troup,GRIGGS CENTER,Governor,,LIB,TED METZ,1
+Troup,WEST POINT,Governor,,LIB,TED METZ,6
+Troup,HOGANSVILLE,Governor,,LIB,TED METZ,12
+Troup,EAST VERNON,Governor,,LIB,TED METZ,18
+Troup,ROSEMONT,Governor,,LIB,TED METZ,12
+Troup,MOUNTVILLE,Governor,,LIB,TED METZ,9
+Troup,MCLENDON,Governor,,LIB,TED METZ,13
+Troup,LONG CANE,Governor,,LIB,TED METZ,13
+Troup,GARDNER NEWMAN,Governor,,LIB,TED METZ,5
+Troup,GRAY HILL,Governor,,LIB,TED METZ,3
+Troup,HIGHLAND,Governor,,LIB,TED METZ,8
+Troup,NORTHSIDE,Governor,,LIB,TED METZ,7
+Troup,HOLLIS HAND,Lieutenant Governor,,REP,GEOFF DUNCAN,1764
+Troup,ADMINISTRATION BLDG,Lieutenant Governor,,REP,GEOFF DUNCAN,461
+Troup,HAMMETT RD,Lieutenant Governor,,REP,GEOFF DUNCAN,790
+Troup,GRIGGS CENTER,Lieutenant Governor,,REP,GEOFF DUNCAN,61
+Troup,WEST POINT,Lieutenant Governor,,REP,GEOFF DUNCAN,307
+Troup,HOGANSVILLE,Lieutenant Governor,,REP,GEOFF DUNCAN,990
+Troup,EAST VERNON,Lieutenant Governor,,REP,GEOFF DUNCAN,1531
+Troup,ROSEMONT,Lieutenant Governor,,REP,GEOFF DUNCAN,1810
+Troup,MOUNTVILLE,Lieutenant Governor,,REP,GEOFF DUNCAN,721
+Troup,MCLENDON,Lieutenant Governor,,REP,GEOFF DUNCAN,1650
+Troup,LONG CANE,Lieutenant Governor,,REP,GEOFF DUNCAN,1404
+Troup,GARDNER NEWMAN,Lieutenant Governor,,REP,GEOFF DUNCAN,684
+Troup,GRAY HILL,Lieutenant Governor,,REP,GEOFF DUNCAN,760
+Troup,HIGHLAND,Lieutenant Governor,,REP,GEOFF DUNCAN,391
+Troup,NORTHSIDE,Lieutenant Governor,,REP,GEOFF DUNCAN,908
+Troup,HOLLIS HAND,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,462
+Troup,ADMINISTRATION BLDG,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1087
+Troup,HAMMETT RD,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1267
+Troup,GRIGGS CENTER,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,930
+Troup,WEST POINT,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,606
+Troup,HOGANSVILLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,574
+Troup,EAST VERNON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,342
+Troup,ROSEMONT,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,315
+Troup,MOUNTVILLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,364
+Troup,MCLENDON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,453
+Troup,LONG CANE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,438
+Troup,GARDNER NEWMAN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,422
+Troup,GRAY HILL,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,249
+Troup,HIGHLAND,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,442
+Troup,NORTHSIDE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,584
+Troup,HOLLIS HAND,Secretary Of State,,REP,BRAD RAFFENSPERGER,1718
+Troup,ADMINISTRATION BLDG,Secretary Of State,,REP,BRAD RAFFENSPERGER,443
+Troup,HAMMETT RD,Secretary Of State,,REP,BRAD RAFFENSPERGER,768
+Troup,GRIGGS CENTER,Secretary Of State,,REP,BRAD RAFFENSPERGER,60
+Troup,WEST POINT,Secretary Of State,,REP,BRAD RAFFENSPERGER,316
+Troup,HOGANSVILLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,1016
+Troup,EAST VERNON,Secretary Of State,,REP,BRAD RAFFENSPERGER,1514
+Troup,ROSEMONT,Secretary Of State,,REP,BRAD RAFFENSPERGER,1812
+Troup,MOUNTVILLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,719
+Troup,MCLENDON,Secretary Of State,,REP,BRAD RAFFENSPERGER,1647
+Troup,LONG CANE,Secretary Of State,,REP,BRAD RAFFENSPERGER,1386
+Troup,GARDNER NEWMAN,Secretary Of State,,REP,BRAD RAFFENSPERGER,677
+Troup,GRAY HILL,Secretary Of State,,REP,BRAD RAFFENSPERGER,754
+Troup,HIGHLAND,Secretary Of State,,REP,BRAD RAFFENSPERGER,379
+Troup,NORTHSIDE,Secretary Of State,,REP,BRAD RAFFENSPERGER,900
+Troup,HOLLIS HAND,Secretary Of State,,DEM,JOHN BARROW,495
+Troup,ADMINISTRATION BLDG,Secretary Of State,,DEM,JOHN BARROW,1151
+Troup,HAMMETT RD,Secretary Of State,,DEM,JOHN BARROW,1323
+Troup,GRIGGS CENTER,Secretary Of State,,DEM,JOHN BARROW,986
+Troup,WEST POINT,Secretary Of State,,DEM,JOHN BARROW,661
+Troup,HOGANSVILLE,Secretary Of State,,DEM,JOHN BARROW,581
+Troup,EAST VERNON,Secretary Of State,,DEM,JOHN BARROW,374
+Troup,ROSEMONT,Secretary Of State,,DEM,JOHN BARROW,345
+Troup,MOUNTVILLE,Secretary Of State,,DEM,JOHN BARROW,381
+Troup,MCLENDON,Secretary Of State,,DEM,JOHN BARROW,482
+Troup,LONG CANE,Secretary Of State,,DEM,JOHN BARROW,474
+Troup,GARDNER NEWMAN,Secretary Of State,,DEM,JOHN BARROW,430
+Troup,GRAY HILL,Secretary Of State,,DEM,JOHN BARROW,274
+Troup,HIGHLAND,Secretary Of State,,DEM,JOHN BARROW,462
+Troup,NORTHSIDE,Secretary Of State,,DEM,JOHN BARROW,599
+Troup,HOLLIS HAND,Secretary Of State,,LIB,SMYTHE DUVAL,36
+Troup,ADMINISTRATION BLDG,Secretary Of State,,LIB,SMYTHE DUVAL,34
+Troup,HAMMETT RD,Secretary Of State,,LIB,SMYTHE DUVAL,31
+Troup,GRIGGS CENTER,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Troup,WEST POINT,Secretary Of State,,LIB,SMYTHE DUVAL,13
+Troup,HOGANSVILLE,Secretary Of State,,LIB,SMYTHE DUVAL,27
+Troup,EAST VERNON,Secretary Of State,,LIB,SMYTHE DUVAL,32
+Troup,ROSEMONT,Secretary Of State,,LIB,SMYTHE DUVAL,32
+Troup,MOUNTVILLE,Secretary Of State,,LIB,SMYTHE DUVAL,16
+Troup,MCLENDON,Secretary Of State,,LIB,SMYTHE DUVAL,27
+Troup,LONG CANE,Secretary Of State,,LIB,SMYTHE DUVAL,25
+Troup,GARDNER NEWMAN,Secretary Of State,,LIB,SMYTHE DUVAL,19
+Troup,GRAY HILL,Secretary Of State,,LIB,SMYTHE DUVAL,16
+Troup,HIGHLAND,Secretary Of State,,LIB,SMYTHE DUVAL,13
+Troup,NORTHSIDE,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Troup,HOLLIS HAND,Attorney General,,(REP,CHRIS CARR ,1770
+Troup,ADMINISTRATION BLDG,Attorney General,,(REP,CHRIS CARR ,474
+Troup,HAMMETT RD,Attorney General,,(REP,CHRIS CARR ,792
+Troup,GRIGGS CENTER,Attorney General,,(REP,CHRIS CARR ,74
+Troup,WEST POINT,Attorney General,,(REP,CHRIS CARR ,310
+Troup,HOGANSVILLE,Attorney General,,(REP,CHRIS CARR ,1014
+Troup,EAST VERNON,Attorney General,,(REP,CHRIS CARR ,1520
+Troup,ROSEMONT,Attorney General,,(REP,CHRIS CARR ,1793
+Troup,MOUNTVILLE,Attorney General,,(REP,CHRIS CARR ,722
+Troup,MCLENDON,Attorney General,,(REP,CHRIS CARR ,1654
+Troup,LONG CANE,Attorney General,,(REP,CHRIS CARR ,1391
+Troup,GARDNER NEWMAN,Attorney General,,(REP,CHRIS CARR ,676
+Troup,GRAY HILL,Attorney General,,(REP,CHRIS CARR ,762
+Troup,HIGHLAND,Attorney General,,(REP,CHRIS CARR ,399
+Troup,NORTHSIDE,Attorney General,,(REP,CHRIS CARR ,917
+Troup,HOLLIS HAND,Attorney General,,DEM,CHARLIE BAILEY,480
+Troup,ADMINISTRATION BLDG,Attorney General,,DEM,CHARLIE BAILEY,1142
+Troup,HAMMETT RD,Attorney General,,DEM,CHARLIE BAILEY,1323
+Troup,GRIGGS CENTER,Attorney General,,DEM,CHARLIE BAILEY,992
+Troup,WEST POINT,Attorney General,,DEM,CHARLIE BAILEY,665
+Troup,HOGANSVILLE,Attorney General,,DEM,CHARLIE BAILEY,598
+Troup,EAST VERNON,Attorney General,,DEM,CHARLIE BAILEY,385
+Troup,ROSEMONT,Attorney General,,DEM,CHARLIE BAILEY,384
+Troup,MOUNTVILLE,Attorney General,,DEM,CHARLIE BAILEY,393
+Troup,MCLENDON,Attorney General,,DEM,CHARLIE BAILEY,496
+Troup,LONG CANE,Attorney General,,DEM,CHARLIE BAILEY,487
+Troup,GARDNER NEWMAN,Attorney General,,DEM,CHARLIE BAILEY,445
+Troup,GRAY HILL,Attorney General,,DEM,CHARLIE BAILEY,281
+Troup,HIGHLAND,Attorney General,,DEM,CHARLIE BAILEY,451
+Troup,NORTHSIDE,Attorney General,,DEM,CHARLIE BAILEY,605
+Troup,HOLLIS HAND,Commissioner Of Agriculture,,(REP,GARY BLACK ,1820
+Troup,ADMINISTRATION BLDG,Commissioner Of Agriculture,,(REP,GARY BLACK ,487
+Troup,HAMMETT RD,Commissioner Of Agriculture,,(REP,GARY BLACK ,819
+Troup,GRIGGS CENTER,Commissioner Of Agriculture,,(REP,GARY BLACK ,78
+Troup,WEST POINT,Commissioner Of Agriculture,,(REP,GARY BLACK ,317
+Troup,HOGANSVILLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,1047
+Troup,EAST VERNON,Commissioner Of Agriculture,,(REP,GARY BLACK ,1566
+Troup,ROSEMONT,Commissioner Of Agriculture,,(REP,GARY BLACK ,1861
+Troup,MOUNTVILLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,745
+Troup,MCLENDON,Commissioner Of Agriculture,,(REP,GARY BLACK ,1693
+Troup,LONG CANE,Commissioner Of Agriculture,,(REP,GARY BLACK ,1425
+Troup,GARDNER NEWMAN,Commissioner Of Agriculture,,(REP,GARY BLACK ,695
+Troup,GRAY HILL,Commissioner Of Agriculture,,(REP,GARY BLACK ,782
+Troup,HIGHLAND,Commissioner Of Agriculture,,(REP,GARY BLACK ,401
+Troup,NORTHSIDE,Commissioner Of Agriculture,,(REP,GARY BLACK ,937
+Troup,HOLLIS HAND,Commissioner Of Agriculture,,DEM,FRED SWANN,420
+Troup,ADMINISTRATION BLDG,Commissioner Of Agriculture,,DEM,FRED SWANN,1117
+Troup,HAMMETT RD,Commissioner Of Agriculture,,DEM,FRED SWANN,1287
+Troup,GRIGGS CENTER,Commissioner Of Agriculture,,DEM,FRED SWANN,983
+Troup,WEST POINT,Commissioner Of Agriculture,,DEM,FRED SWANN,653
+Troup,HOGANSVILLE,Commissioner Of Agriculture,,DEM,FRED SWANN,563
+Troup,EAST VERNON,Commissioner Of Agriculture,,DEM,FRED SWANN,340
+Troup,ROSEMONT,Commissioner Of Agriculture,,DEM,FRED SWANN,304
+Troup,MOUNTVILLE,Commissioner Of Agriculture,,DEM,FRED SWANN,367
+Troup,MCLENDON,Commissioner Of Agriculture,,DEM,FRED SWANN,452
+Troup,LONG CANE,Commissioner Of Agriculture,,DEM,FRED SWANN,437
+Troup,GARDNER NEWMAN,Commissioner Of Agriculture,,DEM,FRED SWANN,422
+Troup,GRAY HILL,Commissioner Of Agriculture,,DEM,FRED SWANN,256
+Troup,HIGHLAND,Commissioner Of Agriculture,,DEM,FRED SWANN,447
+Troup,NORTHSIDE,Commissioner Of Agriculture,,DEM,FRED SWANN,571
+Troup,HOLLIS HAND,Commissioner Of Insurance,,REP,JIM BECK,1762
+Troup,ADMINISTRATION BLDG,Commissioner Of Insurance,,REP,JIM BECK,465
+Troup,HAMMETT RD,Commissioner Of Insurance,,REP,JIM BECK,787
+Troup,GRIGGS CENTER,Commissioner Of Insurance,,REP,JIM BECK,61
+Troup,WEST POINT,Commissioner Of Insurance,,REP,JIM BECK,315
+Troup,HOGANSVILLE,Commissioner Of Insurance,,REP,JIM BECK,1014
+Troup,EAST VERNON,Commissioner Of Insurance,,REP,JIM BECK,1528
+Troup,ROSEMONT,Commissioner Of Insurance,,REP,JIM BECK,1817
+Troup,MOUNTVILLE,Commissioner Of Insurance,,REP,JIM BECK,721
+Troup,MCLENDON,Commissioner Of Insurance,,REP,JIM BECK,1641
+Troup,LONG CANE,Commissioner Of Insurance,,REP,JIM BECK,1399
+Troup,GARDNER NEWMAN,Commissioner Of Insurance,,REP,JIM BECK,680
+Troup,GRAY HILL,Commissioner Of Insurance,,REP,JIM BECK,766
+Troup,HIGHLAND,Commissioner Of Insurance,,REP,JIM BECK,397
+Troup,NORTHSIDE,Commissioner Of Insurance,,REP,JIM BECK,899
+Troup,HOLLIS HAND,Commissioner Of Insurance,,DEM,JANICE LAWS,441
+Troup,ADMINISTRATION BLDG,Commissioner Of Insurance,,DEM,JANICE LAWS,1112
+Troup,HAMMETT RD,Commissioner Of Insurance,,DEM,JANICE LAWS,1296
+Troup,GRIGGS CENTER,Commissioner Of Insurance,,DEM,JANICE LAWS,987
+Troup,WEST POINT,Commissioner Of Insurance,,DEM,JANICE LAWS,642
+Troup,HOGANSVILLE,Commissioner Of Insurance,,DEM,JANICE LAWS,564
+Troup,EAST VERNON,Commissioner Of Insurance,,DEM,JANICE LAWS,340
+Troup,ROSEMONT,Commissioner Of Insurance,,DEM,JANICE LAWS,318
+Troup,MOUNTVILLE,Commissioner Of Insurance,,DEM,JANICE LAWS,374
+Troup,MCLENDON,Commissioner Of Insurance,,DEM,JANICE LAWS,458
+Troup,LONG CANE,Commissioner Of Insurance,,DEM,JANICE LAWS,458
+Troup,GARDNER NEWMAN,Commissioner Of Insurance,,DEM,JANICE LAWS,431
+Troup,GRAY HILL,Commissioner Of Insurance,,DEM,JANICE LAWS,257
+Troup,HIGHLAND,Commissioner Of Insurance,,DEM,JANICE LAWS,443
+Troup,NORTHSIDE,Commissioner Of Insurance,,DEM,JANICE LAWS,596
+Troup,HOLLIS HAND,Commissioner Of Insurance,,LIB,DONNIE FOSTER,54
+Troup,ADMINISTRATION BLDG,Commissioner Of Insurance,,LIB,DONNIE FOSTER,42
+Troup,HAMMETT RD,Commissioner Of Insurance,,LIB,DONNIE FOSTER,43
+Troup,GRIGGS CENTER,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
+Troup,WEST POINT,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Troup,HOGANSVILLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,29
+Troup,EAST VERNON,Commissioner Of Insurance,,LIB,DONNIE FOSTER,43
+Troup,ROSEMONT,Commissioner Of Insurance,,LIB,DONNIE FOSTER,44
+Troup,MOUNTVILLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Troup,MCLENDON,Commissioner Of Insurance,,LIB,DONNIE FOSTER,50
+Troup,LONG CANE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,23
+Troup,GARDNER NEWMAN,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Troup,GRAY HILL,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
+Troup,HIGHLAND,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Troup,NORTHSIDE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Troup,HOLLIS HAND,State School Superintendent,,(REP,RICHARD WOODS ,1830
+Troup,ADMINISTRATION BLDG,State School Superintendent,,(REP,RICHARD WOODS ,499
+Troup,HAMMETT RD,State School Superintendent,,(REP,RICHARD WOODS ,828
+Troup,GRIGGS CENTER,State School Superintendent,,(REP,RICHARD WOODS ,87
+Troup,WEST POINT,State School Superintendent,,(REP,RICHARD WOODS ,339
+Troup,HOGANSVILLE,State School Superintendent,,(REP,RICHARD WOODS ,1071
+Troup,EAST VERNON,State School Superintendent,,(REP,RICHARD WOODS ,1579
+Troup,ROSEMONT,State School Superintendent,,(REP,RICHARD WOODS ,1866
+Troup,MOUNTVILLE,State School Superintendent,,(REP,RICHARD WOODS ,739
+Troup,MCLENDON,State School Superintendent,,(REP,RICHARD WOODS ,1709
+Troup,LONG CANE,State School Superintendent,,(REP,RICHARD WOODS ,1438
+Troup,GARDNER NEWMAN,State School Superintendent,,(REP,RICHARD WOODS ,704
+Troup,GRAY HILL,State School Superintendent,,(REP,RICHARD WOODS ,787
+Troup,HIGHLAND,State School Superintendent,,(REP,RICHARD WOODS ,401
+Troup,NORTHSIDE,State School Superintendent,,(REP,RICHARD WOODS ,949
+Troup,HOLLIS HAND,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",422
+Troup,ADMINISTRATION BLDG,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1126
+Troup,HAMMETT RD,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1301
+Troup,GRIGGS CENTER,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",981
+Troup,WEST POINT,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",646
+Troup,HOGANSVILLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",554
+Troup,EAST VERNON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",333
+Troup,ROSEMONT,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",313
+Troup,MOUNTVILLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",379
+Troup,MCLENDON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",442
+Troup,LONG CANE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",453
+Troup,GARDNER NEWMAN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",423
+Troup,GRAY HILL,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",260
+Troup,HIGHLAND,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",454
+Troup,NORTHSIDE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",572
+Troup,HOLLIS HAND,Commissioner Of Labor,,(REP,MARK BUTLER ,1811
+Troup,ADMINISTRATION BLDG,Commissioner Of Labor,,(REP,MARK BUTLER ,488
+Troup,HAMMETT RD,Commissioner Of Labor,,(REP,MARK BUTLER ,813
+Troup,GRIGGS CENTER,Commissioner Of Labor,,(REP,MARK BUTLER ,72
+Troup,WEST POINT,Commissioner Of Labor,,(REP,MARK BUTLER ,322
+Troup,HOGANSVILLE,Commissioner Of Labor,,(REP,MARK BUTLER ,1035
+Troup,EAST VERNON,Commissioner Of Labor,,(REP,MARK BUTLER ,1559
+Troup,ROSEMONT,Commissioner Of Labor,,(REP,MARK BUTLER ,1854
+Troup,MOUNTVILLE,Commissioner Of Labor,,(REP,MARK BUTLER ,742
+Troup,MCLENDON,Commissioner Of Labor,,(REP,MARK BUTLER ,1683
+Troup,LONG CANE,Commissioner Of Labor,,(REP,MARK BUTLER ,1425
+Troup,GARDNER NEWMAN,Commissioner Of Labor,,(REP,MARK BUTLER ,698
+Troup,GRAY HILL,Commissioner Of Labor,,(REP,MARK BUTLER ,784
+Troup,HIGHLAND,Commissioner Of Labor,,(REP,MARK BUTLER ,398
+Troup,NORTHSIDE,Commissioner Of Labor,,(REP,MARK BUTLER ,932
+Troup,HOLLIS HAND,Commissioner Of Labor,,DEM,RICHARD KEATLEY,435
+Troup,ADMINISTRATION BLDG,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1125
+Troup,HAMMETT RD,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1308
+Troup,GRIGGS CENTER,Commissioner Of Labor,,DEM,RICHARD KEATLEY,992
+Troup,WEST POINT,Commissioner Of Labor,,DEM,RICHARD KEATLEY,650
+Troup,HOGANSVILLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,584
+Troup,EAST VERNON,Commissioner Of Labor,,DEM,RICHARD KEATLEY,348
+Troup,ROSEMONT,Commissioner Of Labor,,DEM,RICHARD KEATLEY,318
+Troup,MOUNTVILLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,370
+Troup,MCLENDON,Commissioner Of Labor,,DEM,RICHARD KEATLEY,458
+Troup,LONG CANE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,454
+Troup,GARDNER NEWMAN,Commissioner Of Labor,,DEM,RICHARD KEATLEY,429
+Troup,GRAY HILL,Commissioner Of Labor,,DEM,RICHARD KEATLEY,258
+Troup,HIGHLAND,Commissioner Of Labor,,DEM,RICHARD KEATLEY,452
+Troup,NORTHSIDE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,588
+Troup,HOLLIS HAND,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1754
+Troup,ADMINISTRATION BLDG,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,447
+Troup,HAMMETT RD,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,769
+Troup,GRIGGS CENTER,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,58
+Troup,WEST POINT,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,315
+Troup,HOGANSVILLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1014
+Troup,EAST VERNON,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1508
+Troup,ROSEMONT,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1808
+Troup,MOUNTVILLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,714
+Troup,MCLENDON,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1635
+Troup,LONG CANE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1393
+Troup,GARDNER NEWMAN,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,667
+Troup,GRAY HILL,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,760
+Troup,HIGHLAND,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,386
+Troup,NORTHSIDE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,885
+Troup,HOLLIS HAND,"Public Service Commission, District 3",3,DEM,LINDY MILLER,459
+Troup,ADMINISTRATION BLDG,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1136
+Troup,HAMMETT RD,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1301
+Troup,GRIGGS CENTER,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1006
+Troup,WEST POINT,"Public Service Commission, District 3",3,DEM,LINDY MILLER,653
+Troup,HOGANSVILLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,577
+Troup,EAST VERNON,"Public Service Commission, District 3",3,DEM,LINDY MILLER,359
+Troup,ROSEMONT,"Public Service Commission, District 3",3,DEM,LINDY MILLER,325
+Troup,MOUNTVILLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,376
+Troup,MCLENDON,"Public Service Commission, District 3",3,DEM,LINDY MILLER,474
+Troup,LONG CANE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,455
+Troup,GARDNER NEWMAN,"Public Service Commission, District 3",3,DEM,LINDY MILLER,431
+Troup,GRAY HILL,"Public Service Commission, District 3",3,DEM,LINDY MILLER,267
+Troup,HIGHLAND,"Public Service Commission, District 3",3,DEM,LINDY MILLER,454
+Troup,NORTHSIDE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,596
+Troup,HOLLIS HAND,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,35
+Troup,ADMINISTRATION BLDG,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,33
+Troup,HAMMETT RD,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,49
+Troup,GRIGGS CENTER,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,14
+Troup,WEST POINT,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,14
+Troup,HOGANSVILLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,31
+Troup,EAST VERNON,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,39
+Troup,ROSEMONT,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,34
+Troup,MOUNTVILLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,22
+Troup,MCLENDON,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,38
+Troup,LONG CANE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,30
+Troup,GARDNER NEWMAN,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,22
+Troup,GRAY HILL,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,15
+Troup,HIGHLAND,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,14
+Troup,NORTHSIDE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,28
+Troup,HOLLIS HAND,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1773
+Troup,ADMINISTRATION BLDG,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,456
+Troup,HAMMETT RD,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,784
+Troup,GRIGGS CENTER,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,60
+Troup,WEST POINT,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,312
+Troup,HOGANSVILLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1019
+Troup,EAST VERNON,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1525
+Troup,ROSEMONT,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1811
+Troup,MOUNTVILLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,719
+Troup,MCLENDON,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1641
+Troup,LONG CANE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1401
+Troup,GARDNER NEWMAN,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,676
+Troup,GRAY HILL,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,761
+Troup,HIGHLAND,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,390
+Troup,NORTHSIDE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,900
+Troup,HOLLIS HAND,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,435
+Troup,ADMINISTRATION BLDG,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1120
+Troup,HAMMETT RD,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1295
+Troup,GRIGGS CENTER,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,999
+Troup,WEST POINT,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,652
+Troup,HOGANSVILLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,574
+Troup,EAST VERNON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,346
+Troup,ROSEMONT,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,320
+Troup,MOUNTVILLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,373
+Troup,MCLENDON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,469
+Troup,LONG CANE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,453
+Troup,GARDNER NEWMAN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,432
+Troup,GRAY HILL,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,264
+Troup,HIGHLAND,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,449
+Troup,NORTHSIDE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,602
+Troup,HOLLIS HAND,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,43
+Troup,ADMINISTRATION BLDG,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,46
+Troup,HAMMETT RD,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,35
+Troup,GRIGGS CENTER,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Troup,WEST POINT,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,13
+Troup,HOGANSVILLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,32
+Troup,EAST VERNON,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,39
+Troup,ROSEMONT,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,33
+Troup,MOUNTVILLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21
+Troup,MCLENDON,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34
+Troup,LONG CANE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,29
+Troup,GARDNER NEWMAN,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,19
+Troup,GRAY HILL,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Troup,HIGHLAND,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,15
+Troup,NORTHSIDE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Troup,HOLLIS HAND,U.S. Representative,3,(REP,DREW FERGUSON ,1815
+Troup,ADMINISTRATION BLDG,U.S. Representative,3,(REP,DREW FERGUSON ,511
+Troup,HAMMETT RD,U.S. Representative,3,(REP,DREW FERGUSON ,834
+Troup,GRIGGS CENTER,U.S. Representative,3,(REP,DREW FERGUSON ,86
+Troup,WEST POINT,U.S. Representative,3,(REP,DREW FERGUSON ,367
+Troup,HOGANSVILLE,U.S. Representative,3,(REP,DREW FERGUSON ,1039
+Troup,EAST VERNON,U.S. Representative,3,(REP,DREW FERGUSON ,1579
+Troup,ROSEMONT,U.S. Representative,3,(REP,DREW FERGUSON ,1872
+Troup,MOUNTVILLE,U.S. Representative,3,(REP,DREW FERGUSON ,738
+Troup,MCLENDON,U.S. Representative,3,(REP,DREW FERGUSON ,1685
+Troup,LONG CANE,U.S. Representative,3,(REP,DREW FERGUSON ,1440
+Troup,GARDNER NEWMAN,U.S. Representative,3,(REP,DREW FERGUSON ,699
+Troup,GRAY HILL,U.S. Representative,3,(REP,DREW FERGUSON ,797
+Troup,HIGHLAND,U.S. Representative,3,(REP,DREW FERGUSON ,404
+Troup,NORTHSIDE,U.S. Representative,3,(REP,DREW FERGUSON ,943
+Troup,HOLLIS HAND,U.S. Representative,3,DEM,CHUCK ENDERLIN,445
+Troup,ADMINISTRATION BLDG,U.S. Representative,3,DEM,CHUCK ENDERLIN,1112
+Troup,HAMMETT RD,U.S. Representative,3,DEM,CHUCK ENDERLIN,1288
+Troup,GRIGGS CENTER,U.S. Representative,3,DEM,CHUCK ENDERLIN,986
+Troup,WEST POINT,U.S. Representative,3,DEM,CHUCK ENDERLIN,626
+Troup,HOGANSVILLE,U.S. Representative,3,DEM,CHUCK ENDERLIN,580
+Troup,EAST VERNON,U.S. Representative,3,DEM,CHUCK ENDERLIN,336
+Troup,ROSEMONT,U.S. Representative,3,DEM,CHUCK ENDERLIN,315
+Troup,MOUNTVILLE,U.S. Representative,3,DEM,CHUCK ENDERLIN,377
+Troup,MCLENDON,U.S. Representative,3,DEM,CHUCK ENDERLIN,469
+Troup,LONG CANE,U.S. Representative,3,DEM,CHUCK ENDERLIN,447
+Troup,GARDNER NEWMAN,U.S. Representative,3,DEM,CHUCK ENDERLIN,432
+Troup,GRAY HILL,U.S. Representative,3,DEM,CHUCK ENDERLIN,250
+Troup,HIGHLAND,U.S. Representative,3,DEM,CHUCK ENDERLIN,448
+Troup,NORTHSIDE,U.S. Representative,3,DEM,CHUCK ENDERLIN,579
+Troup,HOGANSVILLE,State Senator,28,(REP,MATT BRASS ,1251
+Troup,EAST VERNON,State Senator,28,(REP,MATT BRASS ,1689
+Troup,MOUNTVILLE,State Senator,28,(REP,MATT BRASS ,882
+Troup,MCLENDON,State Senator,28,(REP,MATT BRASS ,1859
+Troup,LONG CANE,State Senator,28,(REP,MATT BRASS ,18
+Troup,GARDNER NEWMAN,State Senator,28,(REP,MATT BRASS ,844
+Troup,HOLLIS HAND,State Senator,29,REP,RANDY ROBERTSON,1776
+Troup,ADMINISTRATION BLDG,State Senator,29,REP,RANDY ROBERTSON,476
+Troup,HAMMETT RD,State Senator,29,REP,RANDY ROBERTSON,804
+Troup,GRIGGS CENTER,State Senator,29,REP,RANDY ROBERTSON,68
+Troup,WEST POINT,State Senator,29,REP,RANDY ROBERTSON,323
+Troup,ROSEMONT,State Senator,29,REP,RANDY ROBERTSON,1843
+Troup,LONG CANE,State Senator,29,REP,RANDY ROBERTSON,1397
+Troup,GRAY HILL,State Senator,29,REP,RANDY ROBERTSON,778
+Troup,HIGHLAND,State Senator,29,REP,RANDY ROBERTSON,383
+Troup,NORTHSIDE,State Senator,29,REP,RANDY ROBERTSON,917
+Troup,HOLLIS HAND,State Senator,29,DEM,VALERIE HASKINS,471
+Troup,ADMINISTRATION BLDG,State Senator,29,DEM,VALERIE HASKINS,1134
+Troup,HAMMETT RD,State Senator,29,DEM,VALERIE HASKINS,1319
+Troup,GRIGGS CENTER,State Senator,29,DEM,VALERIE HASKINS,1002
+Troup,WEST POINT,State Senator,29,DEM,VALERIE HASKINS,662
+Troup,ROSEMONT,State Senator,29,DEM,VALERIE HASKINS,328
+Troup,LONG CANE,State Senator,29,DEM,VALERIE HASKINS,456
+Troup,GRAY HILL,State Senator,29,DEM,VALERIE HASKINS,265
+Troup,HIGHLAND,State Senator,29,DEM,VALERIE HASKINS,463
+Troup,NORTHSIDE,State Senator,29,DEM,VALERIE HASKINS,593
+Troup,HOGANSVILLE,State Representative,69,(REP,RANDY NIX ,8
+Troup,EAST VERNON,State Representative,69,(REP,RANDY NIX ,1681
+Troup,MCLENDON,State Representative,69,(REP,RANDY NIX ,1855
+Troup,LONG CANE,State Representative,69,(REP,RANDY NIX ,17
+Troup,NORTHSIDE,State Representative,69,(REP,RANDY NIX ,1080
+Troup,ADMINISTRATION BLDG,State Representative,132,REP,LEONARD GOMEZ,294
+Troup,HAMMETT RD,State Representative,132,REP,LEONARD GOMEZ,744
+Troup,GRIGGS CENTER,State Representative,132,REP,LEONARD GOMEZ,63
+Troup,HOGANSVILLE,State Representative,132,REP,LEONARD GOMEZ,991
+Troup,MOUNTVILLE,State Representative,132,REP,LEONARD GOMEZ,697
+Troup,GARDNER NEWMAN,State Representative,132,REP,LEONARD GOMEZ,652
+Troup,HIGHLAND,State Representative,132,REP,LEONARD GOMEZ,366
+Troup,ADMINISTRATION BLDG,State Representative,132,(DEM,BOB TRAMMELL JR ,929
+Troup,HAMMETT RD,State Representative,132,(DEM,BOB TRAMMELL JR ,1353
+Troup,GRIGGS CENTER,State Representative,132,(DEM,BOB TRAMMELL JR ,975
+Troup,HOGANSVILLE,State Representative,132,(DEM,BOB TRAMMELL JR ,600
+Troup,MOUNTVILLE,State Representative,132,(DEM,BOB TRAMMELL JR ,406
+Troup,GARDNER NEWMAN,State Representative,132,(DEM,BOB TRAMMELL JR ,464
+Troup,HIGHLAND,State Representative,132,(DEM,BOB TRAMMELL JR ,466
+Troup,HOLLIS HAND,State Representative,133,REP,VANCE SMITH,2012
+Troup,ADMINISTRATION BLDG,State Representative,133,REP,VANCE SMITH,251
+Troup,HAMMETT RD,State Representative,133,REP,VANCE SMITH,0
+Troup,WEST POINT,State Representative,133,REP,VANCE SMITH,526
+Troup,ROSEMONT,State Representative,133,REP,VANCE SMITH,2016
+Troup,LONG CANE,State Representative,133,REP,VANCE SMITH,1562
+Troup,GRAY HILL,State Representative,133,REP,VANCE SMITH,875
+Troup,HIGHLAND,State Representative,133,REP,VANCE SMITH,4
+Troup,NORTHSIDE,State Representative,133,REP,VANCE SMITH,78
+Troup,HOLLIS HAND,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1996
+Troup,ADMINISTRATION BLDG,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,936
+Troup,HAMMETT RD,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1359
+Troup,GRIGGS CENTER,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,435
+Troup,WEST POINT,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,514
+Troup,HOGANSVILLE,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1258
+Troup,EAST VERNON,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1681
+Troup,ROSEMONT,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1982
+Troup,MOUNTVILLE,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,882
+Troup,MCLENDON,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1847
+Troup,LONG CANE,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1577
+Troup,GARDNER NEWMAN,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,850
+Troup,GRAY HILL,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,867
+Troup,HIGHLAND,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,570
+Troup,NORTHSIDE,District Attorney, Coweta Circuit,(REP,HERB CRANFORD ,1145
+Troup,HOLLIS HAND,CC CHAIRPERSON,,R,J. P. CREWS ,2034
+Troup,ADMINISTRATION BLDG,CC CHAIRPERSON,,R,J. P. CREWS ,967
+Troup,HAMMETT RD,CC CHAIRPERSON,,R,J. P. CREWS ,1373
+Troup,GRIGGS CENTER,CC CHAIRPERSON,,R,J. P. CREWS ,453
+Troup,WEST POINT,CC CHAIRPERSON,,R,J. P. CREWS ,527
+Troup,HOGANSVILLE,CC CHAIRPERSON,,R,J. P. CREWS ,1253
+Troup,EAST VERNON,CC CHAIRPERSON,,R,J. P. CREWS ,1688
+Troup,ROSEMONT,CC CHAIRPERSON,,R,J. P. CREWS ,1988
+Troup,MOUNTVILLE,CC CHAIRPERSON,,R,J. P. CREWS ,885
+Troup,MCLENDON,CC CHAIRPERSON,,R,J. P. CREWS ,1859
+Troup,LONG CANE,CC CHAIRPERSON,,R,J. P. CREWS ,1583
+Troup,GARDNER NEWMAN,CC CHAIRPERSON,,R,J. P. CREWS ,854
+Troup,GRAY HILL,CC CHAIRPERSON,,R,J. P. CREWS ,861
+Troup,HIGHLAND,CC CHAIRPERSON,,R,J. P. CREWS ,573
+Troup,NORTHSIDE,CC CHAIRPERSON,,R,J. P. CREWS ,1172
+Troup,ADMINISTRATION BLDG,CC, D5,D,R. ENGLISH JR ,1237
+Troup,HAMMETT RD,CC, D5,D,R. ENGLISH JR ,195
+Troup,GRIGGS CENTER,CC, D5,D,R. ENGLISH JR ,1020
+Troup,ROSEMONT,CC, D5,D,R. ENGLISH JR ,82
+Troup,GARDNER NEWMAN,CC, D5,D,R. ENGLISH JR ,31
+Troup,HIGHLAND,CC, D5,D,R. ENGLISH JR ,684
+Troup,NORTHSIDE,CC, D5,D,R. ENGLISH JR ,47
+Troup,HOLLIS HAND,SOIL AND WATER,,,J. KEITH ,2008
+Troup,ADMINISTRATION BLDG,SOIL AND WATER,,,J. KEITH ,1110
+Troup,HAMMETT RD,SOIL AND WATER,,,J. KEITH ,1537
+Troup,GRIGGS CENTER,SOIL AND WATER,,,J. KEITH ,635
+Troup,WEST POINT,SOIL AND WATER,,,J. KEITH ,596
+Troup,HOGANSVILLE,SOIL AND WATER,,,J. KEITH ,1312
+Troup,EAST VERNON,SOIL AND WATER,,,J. KEITH ,1621
+Troup,ROSEMONT,SOIL AND WATER,,,J. KEITH ,1935
+Troup,MOUNTVILLE,SOIL AND WATER,,,J. KEITH ,925
+Troup,MCLENDON,SOIL AND WATER,,,J. KEITH ,1818
+Troup,LONG CANE,SOIL AND WATER,,,J. KEITH ,1593
+Troup,GARDNER NEWMAN,SOIL AND WATER,,,J. KEITH ,878
+Troup,GRAY HILL,SOIL AND WATER,,,J. KEITH ,872
+Troup,HIGHLAND,SOIL AND WATER,,,J. KEITH ,601
+Troup,NORTHSIDE,SOIL AND WATER,,,J. KEITH ,1187
+Troup,HOLLIS HAND,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1754
+Troup,ADMINISTRATION BLDG,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1367
+Troup,HAMMETT RD,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1738
+Troup,GRIGGS CENTER,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,901
+Troup,WEST POINT,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,782
+Troup,HOGANSVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1356
+Troup,EAST VERNON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1566
+Troup,ROSEMONT,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1739
+Troup,MOUNTVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,907
+Troup,MCLENDON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1756
+Troup,LONG CANE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1519
+Troup,GARDNER NEWMAN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,949
+Troup,GRAY HILL,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,835
+Troup,HIGHLAND,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,704
+Troup,NORTHSIDE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1231
+Troup,HOLLIS HAND,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,462
+Troup,ADMINISTRATION BLDG,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,231
+Troup,HAMMETT RD,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,352
+Troup,GRIGGS CENTER,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,137
+Troup,WEST POINT,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,159
+Troup,HOGANSVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,236
+Troup,EAST VERNON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,309
+Troup,ROSEMONT,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,390
+Troup,MOUNTVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,190
+Troup,MCLENDON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,376
+Troup,LONG CANE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,337
+Troup,GARDNER NEWMAN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,153
+Troup,GRAY HILL,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,192
+Troup,HIGHLAND,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,125
+Troup,NORTHSIDE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,264
+Troup,HOLLIS HAND,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1454
+Troup,ADMINISTRATION BLDG,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1209
+Troup,HAMMETT RD,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1531
+Troup,GRIGGS CENTER,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,811
+Troup,WEST POINT,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,670
+Troup,HOGANSVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1161
+Troup,EAST VERNON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1276
+Troup,ROSEMONT,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1417
+Troup,MOUNTVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,724
+Troup,MCLENDON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1447
+Troup,LONG CANE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1270
+Troup,GARDNER NEWMAN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,760
+Troup,GRAY HILL,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,675
+Troup,HIGHLAND,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,606
+Troup,NORTHSIDE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1026
+Troup,HOLLIS HAND,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,695
+Troup,ADMINISTRATION BLDG,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,362
+Troup,HAMMETT RD,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,503
+Troup,GRIGGS CENTER,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,205
+Troup,WEST POINT,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,245
+Troup,HOGANSVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,401
+Troup,EAST VERNON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,552
+Troup,ROSEMONT,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,654
+Troup,MOUNTVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,337
+Troup,MCLENDON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,627
+Troup,LONG CANE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,530
+Troup,GARDNER NEWMAN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,301
+Troup,GRAY HILL,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,309
+Troup,HIGHLAND,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,205
+Troup,NORTHSIDE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,412
+Troup,HOLLIS HAND,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1302
+Troup,ADMINISTRATION BLDG,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,994
+Troup,HAMMETT RD,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1258
+Troup,GRIGGS CENTER,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,680
+Troup,WEST POINT,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,559
+Troup,HOGANSVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,993
+Troup,EAST VERNON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1105
+Troup,ROSEMONT,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1289
+Troup,MOUNTVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,650
+Troup,MCLENDON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1223
+Troup,LONG CANE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1084
+Troup,GARDNER NEWMAN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,660
+Troup,GRAY HILL,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,591
+Troup,HIGHLAND,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,508
+Troup,NORTHSIDE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,865
+Troup,HOLLIS HAND,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,825
+Troup,ADMINISTRATION BLDG,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,541
+Troup,HAMMETT RD,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,748
+Troup,GRIGGS CENTER,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,316
+Troup,WEST POINT,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,335
+Troup,HOGANSVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,548
+Troup,EAST VERNON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,695
+Troup,ROSEMONT,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,761
+Troup,MOUNTVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,413
+Troup,MCLENDON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,833
+Troup,LONG CANE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,688
+Troup,GARDNER NEWMAN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,388
+Troup,GRAY HILL,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,395
+Troup,HIGHLAND,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,289
+Troup,NORTHSIDE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,558
+Troup,HOLLIS HAND,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1742
+Troup,ADMINISTRATION BLDG,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1388
+Troup,HAMMETT RD,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1815
+Troup,GRIGGS CENTER,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,954
+Troup,WEST POINT,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,777
+Troup,HOGANSVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1303
+Troup,EAST VERNON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1551
+Troup,ROSEMONT,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1666
+Troup,MOUNTVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,868
+Troup,MCLENDON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1711
+Troup,LONG CANE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1554
+Troup,GARDNER NEWMAN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,911
+Troup,GRAY HILL,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,810
+Troup,HIGHLAND,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,737
+Troup,NORTHSIDE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1228
+Troup,HOLLIS HAND,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,444
+Troup,ADMINISTRATION BLDG,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,211
+Troup,HAMMETT RD,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,271
+Troup,GRIGGS CENTER,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,91
+Troup,WEST POINT,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,148
+Troup,HOGANSVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,286
+Troup,EAST VERNON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,330
+Troup,ROSEMONT,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,457
+Troup,MOUNTVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,224
+Troup,MCLENDON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,410
+Troup,LONG CANE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,295
+Troup,GARDNER NEWMAN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,186
+Troup,GRAY HILL,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,205
+Troup,HIGHLAND,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,99
+Troup,NORTHSIDE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,248
+Troup,HOLLIS HAND,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1489
+Troup,ADMINISTRATION BLDG,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1224
+Troup,HAMMETT RD,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1550
+Troup,GRIGGS CENTER,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,850
+Troup,WEST POINT,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,678
+Troup,HOGANSVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1141
+Troup,EAST VERNON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1194
+Troup,ROSEMONT,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1351
+Troup,MOUNTVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,723
+Troup,MCLENDON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1407
+Troup,LONG CANE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1219
+Troup,GARDNER NEWMAN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,760
+Troup,GRAY HILL,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,661
+Troup,HIGHLAND,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,594
+Troup,NORTHSIDE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1028
+Troup,HOLLIS HAND,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,661
+Troup,ADMINISTRATION BLDG,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,349
+Troup,HAMMETT RD,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,496
+Troup,GRIGGS CENTER,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,167
+Troup,WEST POINT,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,240
+Troup,HOGANSVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,422
+Troup,EAST VERNON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,614
+Troup,ROSEMONT,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,728
+Troup,MOUNTVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,351
+Troup,MCLENDON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,671
+Troup,LONG CANE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,590
+Troup,GARDNER NEWMAN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,308
+Troup,GRAY HILL,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,335
+Troup,HIGHLAND,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,215
+Troup,NORTHSIDE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,419
+Troup,HOLLIS HAND,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1131
+Troup,ADMINISTRATION BLDG,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,955
+Troup,HAMMETT RD,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1225
+Troup,GRIGGS CENTER,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,672
+Troup,WEST POINT,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,570
+Troup,HOGANSVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,940
+Troup,EAST VERNON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,975
+Troup,ROSEMONT,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1113
+Troup,MOUNTVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,545
+Troup,MCLENDON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1175
+Troup,LONG CANE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1004
+Troup,GARDNER NEWMAN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,582
+Troup,GRAY HILL,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,549
+Troup,HIGHLAND,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,483
+Troup,NORTHSIDE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,809
+Troup,HOLLIS HAND,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,937
+Troup,ADMINISTRATION BLDG,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,573
+Troup,HAMMETT RD,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,764
+Troup,GRIGGS CENTER,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,329
+Troup,WEST POINT,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,316
+Troup,HOGANSVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,605
+Troup,EAST VERNON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,809
+Troup,ROSEMONT,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,917
+Troup,MOUNTVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,515
+Troup,MCLENDON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,858
+Troup,LONG CANE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,770
+Troup,GARDNER NEWMAN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,462
+Troup,GRAY HILL,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,425
+Troup,HIGHLAND,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,308
+Troup,NORTHSIDE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,602
+Troup,HOLLIS HAND,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1489
+Troup,ADMINISTRATION BLDG,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1295
+Troup,HAMMETT RD,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1663
+Troup,GRIGGS CENTER,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,877
+Troup,WEST POINT,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,746
+Troup,HOGANSVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1206
+Troup,EAST VERNON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1358
+Troup,ROSEMONT,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1441
+Troup,MOUNTVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,775
+Troup,MCLENDON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1505
+Troup,LONG CANE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1314
+Troup,GARDNER NEWMAN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,826
+Troup,GRAY HILL,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,735
+Troup,HIGHLAND,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,648
+Troup,NORTHSIDE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1061
+Troup,HOLLIS HAND,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,635
+Troup,ADMINISTRATION BLDG,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,274
+Troup,HAMMETT RD,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,372
+Troup,GRIGGS CENTER,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,144
+Troup,WEST POINT,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,166
+Troup,HOGANSVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,365
+Troup,EAST VERNON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,481
+Troup,ROSEMONT,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,636
+Troup,MOUNTVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,293
+Troup,MCLENDON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,586
+Troup,LONG CANE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,493
+Troup,GARDNER NEWMAN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,245
+Troup,GRAY HILL,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,263
+Troup,HIGHLAND,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,169
+Troup,NORTHSIDE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,393

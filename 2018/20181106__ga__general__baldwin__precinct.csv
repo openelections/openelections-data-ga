@@ -1,0 +1,631 @@
+county,precinct,office,district,party,candidate,votes
+Baldwin,South Mill,Governor,,REP,BRIAN KEMP,158
+Baldwin,City Hall Annex,Governor,,REP,BRIAN KEMP,132
+Baldwin,Boddie,Governor,,REP,BRIAN KEMP,108
+Baldwin,Courthouse,Governor,,REP,BRIAN KEMP,97
+Baldwin,Fire Dept,Governor,,REP,BRIAN KEMP,158
+Baldwin,North Mill,Governor,,REP,BRIAN KEMP,733
+Baldwin,Meriweather,Governor,,REP,BRIAN KEMP,1154
+Baldwin,East Baldwin,Governor,,REP,BRIAN KEMP,1375
+Baldwin,Scottsboro,Governor,,REP,BRIAN KEMP,356
+Baldwin,North Baldwin,Governor,,REP,BRIAN KEMP,1720
+Baldwin,West Baldwin,Governor,,REP,BRIAN KEMP,626
+Baldwin,East Hardwick,Governor,,REP,BRIAN KEMP,102
+Baldwin,West Hardwick,Governor,,REP,BRIAN KEMP,338
+Baldwin,Coopers,Governor,,REP,BRIAN KEMP,678
+Baldwin,South Mill,Governor,,DEM,STACEY ABRAMS,501
+Baldwin,City Hall Annex,Governor,,DEM,STACEY ABRAMS,302
+Baldwin,Boddie,Governor,,DEM,STACEY ABRAMS,504
+Baldwin,Courthouse,Governor,,DEM,STACEY ABRAMS,156
+Baldwin,Fire Dept,Governor,,DEM,STACEY ABRAMS,655
+Baldwin,North Mill,Governor,,DEM,STACEY ABRAMS,660
+Baldwin,Meriweather,Governor,,DEM,STACEY ABRAMS,658
+Baldwin,East Baldwin,Governor,,DEM,STACEY ABRAMS,1006
+Baldwin,Scottsboro,Governor,,DEM,STACEY ABRAMS,224
+Baldwin,North Baldwin,Governor,,DEM,STACEY ABRAMS,606
+Baldwin,West Baldwin,Governor,,DEM,STACEY ABRAMS,538
+Baldwin,East Hardwick,Governor,,DEM,STACEY ABRAMS,461
+Baldwin,West Hardwick,Governor,,DEM,STACEY ABRAMS,1258
+Baldwin,Coopers,Governor,,DEM,STACEY ABRAMS,264
+Baldwin,South Mill,Governor,,LIB,TED METZ,5
+Baldwin,City Hall Annex,Governor,,LIB,TED METZ,3
+Baldwin,Boddie,Governor,,LIB,TED METZ,5
+Baldwin,Courthouse,Governor,,LIB,TED METZ,5
+Baldwin,Fire Dept,Governor,,LIB,TED METZ,7
+Baldwin,North Mill,Governor,,LIB,TED METZ,7
+Baldwin,Meriweather,Governor,,LIB,TED METZ,11
+Baldwin,East Baldwin,Governor,,LIB,TED METZ,24
+Baldwin,Scottsboro,Governor,,LIB,TED METZ,3
+Baldwin,North Baldwin,Governor,,LIB,TED METZ,12
+Baldwin,West Baldwin,Governor,,LIB,TED METZ,11
+Baldwin,East Hardwick,Governor,,LIB,TED METZ,0
+Baldwin,West Hardwick,Governor,,LIB,TED METZ,5
+Baldwin,Coopers,Governor,,LIB,TED METZ,10
+Baldwin,South Mill,Lieutenant Governor,,REP,GEOFF DUNCAN,160
+Baldwin,City Hall Annex,Lieutenant Governor,,REP,GEOFF DUNCAN,137
+Baldwin,Boddie,Lieutenant Governor,,REP,GEOFF DUNCAN,110
+Baldwin,Courthouse,Lieutenant Governor,,REP,GEOFF DUNCAN,98
+Baldwin,Fire Dept,Lieutenant Governor,,REP,GEOFF DUNCAN,162
+Baldwin,North Mill,Lieutenant Governor,,REP,GEOFF DUNCAN,695
+Baldwin,Meriweather,Lieutenant Governor,,REP,GEOFF DUNCAN,1114
+Baldwin,East Baldwin,Lieutenant Governor,,REP,GEOFF DUNCAN,1334
+Baldwin,Scottsboro,Lieutenant Governor,,REP,GEOFF DUNCAN,336
+Baldwin,North Baldwin,Lieutenant Governor,,REP,GEOFF DUNCAN,1657
+Baldwin,West Baldwin,Lieutenant Governor,,REP,GEOFF DUNCAN,603
+Baldwin,East Hardwick,Lieutenant Governor,,REP,GEOFF DUNCAN,103
+Baldwin,West Hardwick,Lieutenant Governor,,REP,GEOFF DUNCAN,334
+Baldwin,Coopers,Lieutenant Governor,,REP,GEOFF DUNCAN,630
+Baldwin,South Mill,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,460
+Baldwin,City Hall Annex,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,276
+Baldwin,Boddie,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,461
+Baldwin,Courthouse,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,148
+Baldwin,Fire Dept,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,594
+Baldwin,North Mill,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,634
+Baldwin,Meriweather,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,641
+Baldwin,East Baldwin,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,935
+Baldwin,Scottsboro,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,216
+Baldwin,North Baldwin,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,600
+Baldwin,West Baldwin,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,510
+Baldwin,East Hardwick,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,404
+Baldwin,West Hardwick,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1126
+Baldwin,Coopers,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,266
+Baldwin,South Mill,Secretary Of State,,REP,BRAD RAFFENSPERGER,150
+Baldwin,City Hall Annex,Secretary Of State,,REP,BRAD RAFFENSPERGER,133
+Baldwin,Boddie,Secretary Of State,,REP,BRAD RAFFENSPERGER,103
+Baldwin,Courthouse,Secretary Of State,,REP,BRAD RAFFENSPERGER,88
+Baldwin,Fire Dept,Secretary Of State,,REP,BRAD RAFFENSPERGER,152
+Baldwin,North Mill,Secretary Of State,,REP,BRAD RAFFENSPERGER,657
+Baldwin,Meriweather,Secretary Of State,,REP,BRAD RAFFENSPERGER,1053
+Baldwin,East Baldwin,Secretary Of State,,REP,BRAD RAFFENSPERGER,1276
+Baldwin,Scottsboro,Secretary Of State,,REP,BRAD RAFFENSPERGER,328
+Baldwin,North Baldwin,Secretary Of State,,REP,BRAD RAFFENSPERGER,1599
+Baldwin,West Baldwin,Secretary Of State,,REP,BRAD RAFFENSPERGER,589
+Baldwin,East Hardwick,Secretary Of State,,REP,BRAD RAFFENSPERGER,101
+Baldwin,West Hardwick,Secretary Of State,,REP,BRAD RAFFENSPERGER,302
+Baldwin,Coopers,Secretary Of State,,REP,BRAD RAFFENSPERGER,630
+Baldwin,South Mill,Secretary Of State,,DEM,JOHN BARROW,477
+Baldwin,City Hall Annex,Secretary Of State,,DEM,JOHN BARROW,288
+Baldwin,Boddie,Secretary Of State,,DEM,JOHN BARROW,482
+Baldwin,Courthouse,Secretary Of State,,DEM,JOHN BARROW,146
+Baldwin,Fire Dept,Secretary Of State,,DEM,JOHN BARROW,634
+Baldwin,North Mill,Secretary Of State,,DEM,JOHN BARROW,692
+Baldwin,Meriweather,Secretary Of State,,DEM,JOHN BARROW,723
+Baldwin,East Baldwin,Secretary Of State,,DEM,JOHN BARROW,1065
+Baldwin,Scottsboro,Secretary Of State,,DEM,JOHN BARROW,238
+Baldwin,North Baldwin,Secretary Of State,,DEM,JOHN BARROW,674
+Baldwin,West Baldwin,Secretary Of State,,DEM,JOHN BARROW,553
+Baldwin,East Hardwick,Secretary Of State,,DEM,JOHN BARROW,433
+Baldwin,West Hardwick,Secretary Of State,,DEM,JOHN BARROW,1243
+Baldwin,Coopers,Secretary Of State,,DEM,JOHN BARROW,293
+Baldwin,South Mill,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Baldwin,City Hall Annex,Secretary Of State,,LIB,SMYTHE DUVAL,8
+Baldwin,Boddie,Secretary Of State,,LIB,SMYTHE DUVAL,11
+Baldwin,Courthouse,Secretary Of State,,LIB,SMYTHE DUVAL,14
+Baldwin,Fire Dept,Secretary Of State,,LIB,SMYTHE DUVAL,13
+Baldwin,North Mill,Secretary Of State,,LIB,SMYTHE DUVAL,25
+Baldwin,Meriweather,Secretary Of State,,LIB,SMYTHE DUVAL,23
+Baldwin,East Baldwin,Secretary Of State,,LIB,SMYTHE DUVAL,24
+Baldwin,Scottsboro,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Baldwin,North Baldwin,Secretary Of State,,LIB,SMYTHE DUVAL,30
+Baldwin,West Baldwin,Secretary Of State,,LIB,SMYTHE DUVAL,14
+Baldwin,East Hardwick,Secretary Of State,,LIB,SMYTHE DUVAL,8
+Baldwin,West Hardwick,Secretary Of State,,LIB,SMYTHE DUVAL,21
+Baldwin,Coopers,Secretary Of State,,LIB,SMYTHE DUVAL,16
+Baldwin,South Mill,Attorney General,,(REP,CHRIS CARR ,170
+Baldwin,City Hall Annex,Attorney General,,(REP,CHRIS CARR ,146
+Baldwin,Boddie,Attorney General,,(REP,CHRIS CARR ,112
+Baldwin,Courthouse,Attorney General,,(REP,CHRIS CARR ,102
+Baldwin,Fire Dept,Attorney General,,(REP,CHRIS CARR ,174
+Baldwin,North Mill,Attorney General,,(REP,CHRIS CARR ,725
+Baldwin,Meriweather,Attorney General,,(REP,CHRIS CARR ,1148
+Baldwin,East Baldwin,Attorney General,,(REP,CHRIS CARR ,1362
+Baldwin,Scottsboro,Attorney General,,(REP,CHRIS CARR ,336
+Baldwin,North Baldwin,Attorney General,,(REP,CHRIS CARR ,1669
+Baldwin,West Baldwin,Attorney General,,(REP,CHRIS CARR ,605
+Baldwin,East Hardwick,Attorney General,,(REP,CHRIS CARR ,118
+Baldwin,West Hardwick,Attorney General,,(REP,CHRIS CARR ,356
+Baldwin,Coopers,Attorney General,,(REP,CHRIS CARR ,651
+Baldwin,South Mill,Attorney General,,DEM,CHARLIE BAILEY,471
+Baldwin,City Hall Annex,Attorney General,,DEM,CHARLIE BAILEY,275
+Baldwin,Boddie,Attorney General,,DEM,CHARLIE BAILEY,481
+Baldwin,Courthouse,Attorney General,,DEM,CHARLIE BAILEY,147
+Baldwin,Fire Dept,Attorney General,,DEM,CHARLIE BAILEY,624
+Baldwin,North Mill,Attorney General,,DEM,CHARLIE BAILEY,646
+Baldwin,Meriweather,Attorney General,,DEM,CHARLIE BAILEY,645
+Baldwin,East Baldwin,Attorney General,,DEM,CHARLIE BAILEY,986
+Baldwin,Scottsboro,Attorney General,,DEM,CHARLIE BAILEY,232
+Baldwin,North Baldwin,Attorney General,,DEM,CHARLIE BAILEY,623
+Baldwin,West Baldwin,Attorney General,,DEM,CHARLIE BAILEY,533
+Baldwin,East Hardwick,Attorney General,,DEM,CHARLIE BAILEY,417
+Baldwin,West Hardwick,Attorney General,,DEM,CHARLIE BAILEY,1172
+Baldwin,Coopers,Attorney General,,DEM,CHARLIE BAILEY,276
+Baldwin,South Mill,Commissioner Of Agriculture,,(REP,GARY BLACK ,183
+Baldwin,City Hall Annex,Commissioner Of Agriculture,,(REP,GARY BLACK ,155
+Baldwin,Boddie,Commissioner Of Agriculture,,(REP,GARY BLACK ,126
+Baldwin,Courthouse,Commissioner Of Agriculture,,(REP,GARY BLACK ,105
+Baldwin,Fire Dept,Commissioner Of Agriculture,,(REP,GARY BLACK ,182
+Baldwin,North Mill,Commissioner Of Agriculture,,(REP,GARY BLACK ,764
+Baldwin,Meriweather,Commissioner Of Agriculture,,(REP,GARY BLACK ,1171
+Baldwin,East Baldwin,Commissioner Of Agriculture,,(REP,GARY BLACK ,1410
+Baldwin,Scottsboro,Commissioner Of Agriculture,,(REP,GARY BLACK ,348
+Baldwin,North Baldwin,Commissioner Of Agriculture,,(REP,GARY BLACK ,1722
+Baldwin,West Baldwin,Commissioner Of Agriculture,,(REP,GARY BLACK ,635
+Baldwin,East Hardwick,Commissioner Of Agriculture,,(REP,GARY BLACK ,116
+Baldwin,West Hardwick,Commissioner Of Agriculture,,(REP,GARY BLACK ,371
+Baldwin,Coopers,Commissioner Of Agriculture,,(REP,GARY BLACK ,669
+Baldwin,South Mill,Commissioner Of Agriculture,,DEM,FRED SWANN,453
+Baldwin,City Hall Annex,Commissioner Of Agriculture,,DEM,FRED SWANN,265
+Baldwin,Boddie,Commissioner Of Agriculture,,DEM,FRED SWANN,467
+Baldwin,Courthouse,Commissioner Of Agriculture,,DEM,FRED SWANN,140
+Baldwin,Fire Dept,Commissioner Of Agriculture,,DEM,FRED SWANN,606
+Baldwin,North Mill,Commissioner Of Agriculture,,DEM,FRED SWANN,600
+Baldwin,Meriweather,Commissioner Of Agriculture,,DEM,FRED SWANN,615
+Baldwin,East Baldwin,Commissioner Of Agriculture,,DEM,FRED SWANN,932
+Baldwin,Scottsboro,Commissioner Of Agriculture,,DEM,FRED SWANN,218
+Baldwin,North Baldwin,Commissioner Of Agriculture,,DEM,FRED SWANN,558
+Baldwin,West Baldwin,Commissioner Of Agriculture,,DEM,FRED SWANN,507
+Baldwin,East Hardwick,Commissioner Of Agriculture,,DEM,FRED SWANN,419
+Baldwin,West Hardwick,Commissioner Of Agriculture,,DEM,FRED SWANN,1150
+Baldwin,Coopers,Commissioner Of Agriculture,,DEM,FRED SWANN,251
+Baldwin,South Mill,Commissioner Of Insurance,,REP,JIM BECK,153
+Baldwin,City Hall Annex,Commissioner Of Insurance,,REP,JIM BECK,134
+Baldwin,Boddie,Commissioner Of Insurance,,REP,JIM BECK,113
+Baldwin,Courthouse,Commissioner Of Insurance,,REP,JIM BECK,94
+Baldwin,Fire Dept,Commissioner Of Insurance,,REP,JIM BECK,167
+Baldwin,North Mill,Commissioner Of Insurance,,REP,JIM BECK,718
+Baldwin,Meriweather,Commissioner Of Insurance,,REP,JIM BECK,1115
+Baldwin,East Baldwin,Commissioner Of Insurance,,REP,JIM BECK,1355
+Baldwin,Scottsboro,Commissioner Of Insurance,,REP,JIM BECK,343
+Baldwin,North Baldwin,Commissioner Of Insurance,,REP,JIM BECK,1683
+Baldwin,West Baldwin,Commissioner Of Insurance,,REP,JIM BECK,609
+Baldwin,East Hardwick,Commissioner Of Insurance,,REP,JIM BECK,102
+Baldwin,West Hardwick,Commissioner Of Insurance,,REP,JIM BECK,344
+Baldwin,Coopers,Commissioner Of Insurance,,REP,JIM BECK,644
+Baldwin,South Mill,Commissioner Of Insurance,,DEM,JANICE LAWS,464
+Baldwin,City Hall Annex,Commissioner Of Insurance,,DEM,JANICE LAWS,269
+Baldwin,Boddie,Commissioner Of Insurance,,DEM,JANICE LAWS,465
+Baldwin,Courthouse,Commissioner Of Insurance,,DEM,JANICE LAWS,134
+Baldwin,Fire Dept,Commissioner Of Insurance,,DEM,JANICE LAWS,602
+Baldwin,North Mill,Commissioner Of Insurance,,DEM,JANICE LAWS,624
+Baldwin,Meriweather,Commissioner Of Insurance,,DEM,JANICE LAWS,645
+Baldwin,East Baldwin,Commissioner Of Insurance,,DEM,JANICE LAWS,954
+Baldwin,Scottsboro,Commissioner Of Insurance,,DEM,JANICE LAWS,215
+Baldwin,North Baldwin,Commissioner Of Insurance,,DEM,JANICE LAWS,584
+Baldwin,West Baldwin,Commissioner Of Insurance,,DEM,JANICE LAWS,518
+Baldwin,East Hardwick,Commissioner Of Insurance,,DEM,JANICE LAWS,421
+Baldwin,West Hardwick,Commissioner Of Insurance,,DEM,JANICE LAWS,1171
+Baldwin,Coopers,Commissioner Of Insurance,,DEM,JANICE LAWS,261
+Baldwin,South Mill,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
+Baldwin,City Hall Annex,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Baldwin,Boddie,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Baldwin,Courthouse,Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Baldwin,Fire Dept,Commissioner Of Insurance,,LIB,DONNIE FOSTER,24
+Baldwin,North Mill,Commissioner Of Insurance,,LIB,DONNIE FOSTER,32
+Baldwin,Meriweather,Commissioner Of Insurance,,LIB,DONNIE FOSTER,32
+Baldwin,East Baldwin,Commissioner Of Insurance,,LIB,DONNIE FOSTER,42
+Baldwin,Scottsboro,Commissioner Of Insurance,,LIB,DONNIE FOSTER,10
+Baldwin,North Baldwin,Commissioner Of Insurance,,LIB,DONNIE FOSTER,31
+Baldwin,West Baldwin,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Baldwin,East Hardwick,Commissioner Of Insurance,,LIB,DONNIE FOSTER,15
+Baldwin,West Hardwick,Commissioner Of Insurance,,LIB,DONNIE FOSTER,25
+Baldwin,Coopers,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Baldwin,South Mill,State School Superintendent,,(REP,RICHARD WOODS ,175
+Baldwin,City Hall Annex,State School Superintendent,,(REP,RICHARD WOODS ,144
+Baldwin,Boddie,State School Superintendent,,(REP,RICHARD WOODS ,112
+Baldwin,Courthouse,State School Superintendent,,(REP,RICHARD WOODS ,106
+Baldwin,Fire Dept,State School Superintendent,,(REP,RICHARD WOODS ,172
+Baldwin,North Mill,State School Superintendent,,(REP,RICHARD WOODS ,755
+Baldwin,Meriweather,State School Superintendent,,(REP,RICHARD WOODS ,1145
+Baldwin,East Baldwin,State School Superintendent,,(REP,RICHARD WOODS ,1391
+Baldwin,Scottsboro,State School Superintendent,,(REP,RICHARD WOODS ,349
+Baldwin,North Baldwin,State School Superintendent,,(REP,RICHARD WOODS ,1720
+Baldwin,West Baldwin,State School Superintendent,,(REP,RICHARD WOODS ,629
+Baldwin,East Hardwick,State School Superintendent,,(REP,RICHARD WOODS ,115
+Baldwin,West Hardwick,State School Superintendent,,(REP,RICHARD WOODS ,369
+Baldwin,Coopers,State School Superintendent,,(REP,RICHARD WOODS ,656
+Baldwin,South Mill,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",466
+Baldwin,City Hall Annex,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",278
+Baldwin,Boddie,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",475
+Baldwin,Courthouse,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",142
+Baldwin,Fire Dept,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",626
+Baldwin,North Mill,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",618
+Baldwin,Meriweather,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",642
+Baldwin,East Baldwin,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",953
+Baldwin,Scottsboro,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",217
+Baldwin,North Baldwin,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",561
+Baldwin,West Baldwin,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",511
+Baldwin,East Hardwick,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",429
+Baldwin,West Hardwick,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1186
+Baldwin,Coopers,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",263
+Baldwin,South Mill,Commissioner Of Labor,,(REP,MARK BUTLER ,168
+Baldwin,City Hall Annex,Commissioner Of Labor,,(REP,MARK BUTLER ,144
+Baldwin,Boddie,Commissioner Of Labor,,(REP,MARK BUTLER ,111
+Baldwin,Courthouse,Commissioner Of Labor,,(REP,MARK BUTLER ,101
+Baldwin,Fire Dept,Commissioner Of Labor,,(REP,MARK BUTLER ,173
+Baldwin,North Mill,Commissioner Of Labor,,(REP,MARK BUTLER ,741
+Baldwin,Meriweather,Commissioner Of Labor,,(REP,MARK BUTLER ,1140
+Baldwin,East Baldwin,Commissioner Of Labor,,(REP,MARK BUTLER ,1388
+Baldwin,Scottsboro,Commissioner Of Labor,,(REP,MARK BUTLER ,346
+Baldwin,North Baldwin,Commissioner Of Labor,,(REP,MARK BUTLER ,1700
+Baldwin,West Baldwin,Commissioner Of Labor,,(REP,MARK BUTLER ,616
+Baldwin,East Hardwick,Commissioner Of Labor,,(REP,MARK BUTLER ,113
+Baldwin,West Hardwick,Commissioner Of Labor,,(REP,MARK BUTLER ,356
+Baldwin,Coopers,Commissioner Of Labor,,(REP,MARK BUTLER ,658
+Baldwin,South Mill,Commissioner Of Labor,,DEM,RICHARD KEATLEY,468
+Baldwin,City Hall Annex,Commissioner Of Labor,,DEM,RICHARD KEATLEY,278
+Baldwin,Boddie,Commissioner Of Labor,,DEM,RICHARD KEATLEY,477
+Baldwin,Courthouse,Commissioner Of Labor,,DEM,RICHARD KEATLEY,142
+Baldwin,Fire Dept,Commissioner Of Labor,,DEM,RICHARD KEATLEY,624
+Baldwin,North Mill,Commissioner Of Labor,,DEM,RICHARD KEATLEY,625
+Baldwin,Meriweather,Commissioner Of Labor,,DEM,RICHARD KEATLEY,639
+Baldwin,East Baldwin,Commissioner Of Labor,,DEM,RICHARD KEATLEY,958
+Baldwin,Scottsboro,Commissioner Of Labor,,DEM,RICHARD KEATLEY,222
+Baldwin,North Baldwin,Commissioner Of Labor,,DEM,RICHARD KEATLEY,590
+Baldwin,West Baldwin,Commissioner Of Labor,,DEM,RICHARD KEATLEY,526
+Baldwin,East Hardwick,Commissioner Of Labor,,DEM,RICHARD KEATLEY,429
+Baldwin,West Hardwick,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1185
+Baldwin,Coopers,Commissioner Of Labor,,DEM,RICHARD KEATLEY,263
+Baldwin,South Mill,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,151
+Baldwin,City Hall Annex,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,135
+Baldwin,Boddie,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,101
+Baldwin,Courthouse,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,87
+Baldwin,Fire Dept,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,154
+Baldwin,North Mill,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,701
+Baldwin,Meriweather,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1098
+Baldwin,East Baldwin,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1306
+Baldwin,Scottsboro,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,331
+Baldwin,North Baldwin,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1641
+Baldwin,West Baldwin,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,582
+Baldwin,East Hardwick,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,102
+Baldwin,West Hardwick,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,329
+Baldwin,Coopers,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,635
+Baldwin,South Mill,"Public Service Commission, District 3",3,DEM,LINDY MILLER,473
+Baldwin,City Hall Annex,"Public Service Commission, District 3",3,DEM,LINDY MILLER,271
+Baldwin,Boddie,"Public Service Commission, District 3",3,DEM,LINDY MILLER,477
+Baldwin,Courthouse,"Public Service Commission, District 3",3,DEM,LINDY MILLER,136
+Baldwin,Fire Dept,"Public Service Commission, District 3",3,DEM,LINDY MILLER,620
+Baldwin,North Mill,"Public Service Commission, District 3",3,DEM,LINDY MILLER,637
+Baldwin,Meriweather,"Public Service Commission, District 3",3,DEM,LINDY MILLER,636
+Baldwin,East Baldwin,"Public Service Commission, District 3",3,DEM,LINDY MILLER,984
+Baldwin,Scottsboro,"Public Service Commission, District 3",3,DEM,LINDY MILLER,229
+Baldwin,North Baldwin,"Public Service Commission, District 3",3,DEM,LINDY MILLER,599
+Baldwin,West Baldwin,"Public Service Commission, District 3",3,DEM,LINDY MILLER,537
+Baldwin,East Hardwick,"Public Service Commission, District 3",3,DEM,LINDY MILLER,431
+Baldwin,West Hardwick,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1197
+Baldwin,Coopers,"Public Service Commission, District 3",3,DEM,LINDY MILLER,272
+Baldwin,South Mill,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Baldwin,City Hall Annex,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,10
+Baldwin,Boddie,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,9
+Baldwin,Courthouse,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,18
+Baldwin,Fire Dept,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Baldwin,North Mill,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,27
+Baldwin,Meriweather,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,33
+Baldwin,East Baldwin,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,50
+Baldwin,Scottsboro,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,10
+Baldwin,North Baldwin,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,38
+Baldwin,West Baldwin,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,23
+Baldwin,East Hardwick,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,9
+Baldwin,West Hardwick,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,21
+Baldwin,Coopers,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,18
+Baldwin,South Mill,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,160
+Baldwin,City Hall Annex,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,137
+Baldwin,Boddie,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,108
+Baldwin,Courthouse,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,85
+Baldwin,Fire Dept,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,160
+Baldwin,North Mill,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,710
+Baldwin,Meriweather,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1105
+Baldwin,East Baldwin,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1331
+Baldwin,Scottsboro,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,340
+Baldwin,North Baldwin,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1659
+Baldwin,West Baldwin,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,599
+Baldwin,East Hardwick,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,109
+Baldwin,West Hardwick,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,341
+Baldwin,Coopers,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,646
+Baldwin,South Mill,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,468
+Baldwin,City Hall Annex,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,272
+Baldwin,Boddie,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,480
+Baldwin,Courthouse,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,144
+Baldwin,Fire Dept,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,615
+Baldwin,North Mill,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,626
+Baldwin,Meriweather,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,638
+Baldwin,East Baldwin,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,960
+Baldwin,Scottsboro,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,217
+Baldwin,North Baldwin,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,595
+Baldwin,West Baldwin,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,523
+Baldwin,East Hardwick,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,421
+Baldwin,West Hardwick,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1180
+Baldwin,Coopers,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,265
+Baldwin,South Mill,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Baldwin,City Hall Annex,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,8
+Baldwin,Boddie,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,5
+Baldwin,Courthouse,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,15
+Baldwin,Fire Dept,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14
+Baldwin,North Mill,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,30
+Baldwin,Meriweather,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,33
+Baldwin,East Baldwin,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,53
+Baldwin,Scottsboro,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Baldwin,North Baldwin,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,42
+Baldwin,West Baldwin,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,20
+Baldwin,East Hardwick,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,9
+Baldwin,West Hardwick,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,19
+Baldwin,Coopers,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,18
+Baldwin,South Mill,U.S. Representative,10,(REP,JODY HICE ,170
+Baldwin,City Hall Annex,U.S. Representative,10,(REP,JODY HICE ,142
+Baldwin,Boddie,U.S. Representative,10,(REP,JODY HICE ,115
+Baldwin,Courthouse,U.S. Representative,10,(REP,JODY HICE ,103
+Baldwin,Fire Dept,U.S. Representative,10,(REP,JODY HICE ,176
+Baldwin,North Mill,U.S. Representative,10,(REP,JODY HICE ,750
+Baldwin,Meriweather,U.S. Representative,10,(REP,JODY HICE ,1150
+Baldwin,East Baldwin,U.S. Representative,10,(REP,JODY HICE ,1390
+Baldwin,Scottsboro,U.S. Representative,10,(REP,JODY HICE ,351
+Baldwin,North Baldwin,U.S. Representative,10,(REP,JODY HICE ,1731
+Baldwin,West Baldwin,U.S. Representative,10,(REP,JODY HICE ,628
+Baldwin,East Hardwick,U.S. Representative,10,(REP,JODY HICE ,110
+Baldwin,West Hardwick,U.S. Representative,10,(REP,JODY HICE ,360
+Baldwin,Coopers,U.S. Representative,10,(REP,JODY HICE ,663
+Baldwin,South Mill,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,474
+Baldwin,City Hall Annex,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,282
+Baldwin,Boddie,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,482
+Baldwin,Courthouse,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,144
+Baldwin,Fire Dept,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,621
+Baldwin,North Mill,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,630
+Baldwin,Meriweather,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,636
+Baldwin,East Baldwin,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,956
+Baldwin,Scottsboro,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,219
+Baldwin,North Baldwin,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,573
+Baldwin,West Baldwin,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,519
+Baldwin,East Hardwick,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,440
+Baldwin,West Hardwick,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,1199
+Baldwin,Coopers,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,266
+Baldwin,South Mill,State Senator,25,(REP,BURT JONES ,311
+Baldwin,City Hall Annex,State Senator,25,(REP,BURT JONES ,249
+Baldwin,Boddie,State Senator,25,(REP,BURT JONES ,258
+Baldwin,Courthouse,State Senator,25,(REP,BURT JONES ,160
+Baldwin,Fire Dept,State Senator,25,(REP,BURT JONES ,382
+Baldwin,North Mill,State Senator,25,(REP,BURT JONES ,981
+Baldwin,Meriweather,State Senator,25,(REP,BURT JONES ,1363
+Baldwin,East Baldwin,State Senator,25,(REP,BURT JONES ,1683
+Baldwin,Scottsboro,State Senator,25,(REP,BURT JONES ,408
+Baldwin,North Baldwin,State Senator,25,(REP,BURT JONES ,1921
+Baldwin,West Baldwin,State Senator,25,(REP,BURT JONES ,768
+Baldwin,East Hardwick,State Senator,25,(REP,BURT JONES ,224
+Baldwin,West Hardwick,State Senator,25,(REP,BURT JONES ,678
+Baldwin,Coopers,State Senator,25,(REP,BURT JONES ,755
+Baldwin,South Mill,State Representative,145,(REP,RICKY A. WILLIAMS ,314
+Baldwin,City Hall Annex,State Representative,145,(REP,RICKY A. WILLIAMS ,246
+Baldwin,Boddie,State Representative,145,(REP,RICKY A. WILLIAMS ,263
+Baldwin,Courthouse,State Representative,145,(REP,RICKY A. WILLIAMS ,159
+Baldwin,Fire Dept,State Representative,145,(REP,RICKY A. WILLIAMS ,390
+Baldwin,North Mill,State Representative,145,(REP,RICKY A. WILLIAMS ,1000
+Baldwin,Meriweather,State Representative,145,(REP,RICKY A. WILLIAMS ,1377
+Baldwin,East Baldwin,State Representative,145,(REP,RICKY A. WILLIAMS ,1710
+Baldwin,Scottsboro,State Representative,145,(REP,RICKY A. WILLIAMS ,418
+Baldwin,North Baldwin,State Representative,145,(REP,RICKY A. WILLIAMS ,1935
+Baldwin,West Baldwin,State Representative,145,(REP,RICKY A. WILLIAMS ,776
+Baldwin,East Hardwick,State Representative,145,(REP,RICKY A. WILLIAMS ,229
+Baldwin,West Hardwick,State Representative,145,(REP,RICKY A. WILLIAMS ,700
+Baldwin,Coopers,State Representative,145,(REP,RICKY A. WILLIAMS ,766
+Baldwin,South Mill,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,508
+Baldwin,City Hall Annex,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,343
+Baldwin,Boddie,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,462
+Baldwin,Courthouse,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,206
+Baldwin,Fire Dept,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,638
+Baldwin,North Mill,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1068
+Baldwin,Meriweather,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1371
+Baldwin,East Baldwin,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1794
+Baldwin,Scottsboro,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,410
+Baldwin,North Baldwin,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1829
+Baldwin,West Baldwin,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,887
+Baldwin,East Hardwick,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,417
+Baldwin,West Hardwick,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1150
+Baldwin,Coopers,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,676
+Baldwin,South Mill,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,116
+Baldwin,City Hall Annex,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,73
+Baldwin,Boddie,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,123
+Baldwin,Courthouse,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,36
+Baldwin,Fire Dept,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,150
+Baldwin,North Mill,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,281
+Baldwin,Meriweather,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,391
+Baldwin,East Baldwin,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,512
+Baldwin,Scottsboro,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,152
+Baldwin,North Baldwin,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,430
+Baldwin,West Baldwin,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,229
+Baldwin,East Hardwick,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,110
+Baldwin,West Hardwick,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,347
+Baldwin,Coopers,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,242
+Baldwin,South Mill,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,404
+Baldwin,City Hall Annex,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,272
+Baldwin,Boddie,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,381
+Baldwin,Courthouse,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,160
+Baldwin,Fire Dept,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,526
+Baldwin,North Mill,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,849
+Baldwin,Meriweather,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1094
+Baldwin,East Baldwin,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1434
+Baldwin,Scottsboro,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,335
+Baldwin,North Baldwin,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1484
+Baldwin,West Baldwin,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,728
+Baldwin,East Hardwick,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,359
+Baldwin,West Hardwick,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,980
+Baldwin,Coopers,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,529
+Baldwin,South Mill,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,198
+Baldwin,City Hall Annex,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,139
+Baldwin,Boddie,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,189
+Baldwin,Courthouse,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,69
+Baldwin,Fire Dept,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,237
+Baldwin,North Mill,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,451
+Baldwin,Meriweather,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,623
+Baldwin,East Baldwin,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,805
+Baldwin,Scottsboro,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,212
+Baldwin,North Baldwin,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,695
+Baldwin,West Baldwin,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,361
+Baldwin,East Hardwick,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,154
+Baldwin,West Hardwick,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,470
+Baldwin,Coopers,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,356
+Baldwin,South Mill,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,349
+Baldwin,City Hall Annex,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,235
+Baldwin,Boddie,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,326
+Baldwin,Courthouse,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,161
+Baldwin,Fire Dept,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,450
+Baldwin,North Mill,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,744
+Baldwin,Meriweather,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,957
+Baldwin,East Baldwin,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1242
+Baldwin,Scottsboro,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,285
+Baldwin,North Baldwin,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1359
+Baldwin,West Baldwin,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,610
+Baldwin,East Hardwick,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,276
+Baldwin,West Hardwick,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,780
+Baldwin,Coopers,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,461
+Baldwin,South Mill,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,248
+Baldwin,City Hall Annex,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,161
+Baldwin,Boddie,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,231
+Baldwin,Courthouse,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,66
+Baldwin,Fire Dept,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,297
+Baldwin,North Mill,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,524
+Baldwin,Meriweather,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,721
+Baldwin,East Baldwin,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,982
+Baldwin,Scottsboro,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,251
+Baldwin,North Baldwin,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,797
+Baldwin,West Baldwin,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,452
+Baldwin,East Hardwick,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,229
+Baldwin,West Hardwick,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,653
+Baldwin,Coopers,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,409
+Baldwin,South Mill,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,517
+Baldwin,City Hall Annex,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,340
+Baldwin,Boddie,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,474
+Baldwin,Courthouse,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,193
+Baldwin,Fire Dept,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,627
+Baldwin,North Mill,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1063
+Baldwin,Meriweather,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1325
+Baldwin,East Baldwin,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1760
+Baldwin,Scottsboro,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,437
+Baldwin,North Baldwin,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1706
+Baldwin,West Baldwin,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,881
+Baldwin,East Hardwick,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,462
+Baldwin,West Hardwick,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1237
+Baldwin,Coopers,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,677
+Baldwin,South Mill,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,107
+Baldwin,City Hall Annex,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,76
+Baldwin,Boddie,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,99
+Baldwin,Courthouse,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,43
+Baldwin,Fire Dept,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,163
+Baldwin,North Mill,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,261
+Baldwin,Meriweather,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,418
+Baldwin,East Baldwin,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,520
+Baldwin,Scottsboro,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,123
+Baldwin,North Baldwin,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,527
+Baldwin,West Baldwin,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,229
+Baldwin,East Hardwick,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,68
+Baldwin,West Hardwick,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,267
+Baldwin,Coopers,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,232
+Baldwin,South Mill,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,417
+Baldwin,City Hall Annex,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,272
+Baldwin,Boddie,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,408
+Baldwin,Courthouse,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,172
+Baldwin,Fire Dept,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,537
+Baldwin,North Mill,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,816
+Baldwin,Meriweather,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1009
+Baldwin,East Baldwin,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1308
+Baldwin,Scottsboro,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,315
+Baldwin,North Baldwin,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1327
+Baldwin,West Baldwin,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,679
+Baldwin,East Hardwick,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,355
+Baldwin,West Hardwick,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,954
+Baldwin,Coopers,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,493
+Baldwin,South Mill,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,191
+Baldwin,City Hall Annex,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,135
+Baldwin,Boddie,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,159
+Baldwin,Courthouse,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,64
+Baldwin,Fire Dept,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,223
+Baldwin,North Mill,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,466
+Baldwin,Meriweather,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,697
+Baldwin,East Baldwin,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,920
+Baldwin,Scottsboro,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,230
+Baldwin,North Baldwin,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,832
+Baldwin,West Baldwin,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,407
+Baldwin,East Hardwick,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,165
+Baldwin,West Hardwick,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,517
+Baldwin,Coopers,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,407
+Baldwin,South Mill,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,330
+Baldwin,City Hall Annex,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,207
+Baldwin,Boddie,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,321
+Baldwin,Courthouse,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,132
+Baldwin,Fire Dept,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,400
+Baldwin,North Mill,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,647
+Baldwin,Meriweather,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,849
+Baldwin,East Baldwin,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1146
+Baldwin,Scottsboro,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,281
+Baldwin,North Baldwin,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1110
+Baldwin,West Baldwin,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,573
+Baldwin,East Hardwick,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,299
+Baldwin,West Hardwick,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,807
+Baldwin,Coopers,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,435
+Baldwin,South Mill,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,267
+Baldwin,City Hall Annex,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,188
+Baldwin,Boddie,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,228
+Baldwin,Courthouse,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,90
+Baldwin,Fire Dept,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,343
+Baldwin,North Mill,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,615
+Baldwin,Meriweather,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,819
+Baldwin,East Baldwin,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1054
+Baldwin,Scottsboro,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,254
+Baldwin,North Baldwin,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1001
+Baldwin,West Baldwin,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,503
+Baldwin,East Hardwick,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,212
+Baldwin,West Hardwick,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,634
+Baldwin,Coopers,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,449
+Baldwin,South Mill,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,456
+Baldwin,City Hall Annex,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,289
+Baldwin,Boddie,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,421
+Baldwin,Courthouse,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,166
+Baldwin,Fire Dept,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,572
+Baldwin,North Mill,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,908
+Baldwin,Meriweather,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1149
+Baldwin,East Baldwin,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1498
+Baldwin,Scottsboro,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,368
+Baldwin,North Baldwin,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1425
+Baldwin,West Baldwin,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,776
+Baldwin,East Hardwick,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,411
+Baldwin,West Hardwick,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1092
+Baldwin,Coopers,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,571
+Baldwin,South Mill,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,162
+Baldwin,City Hall Annex,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,121
+Baldwin,Boddie,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,148
+Baldwin,Courthouse,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,68
+Baldwin,Fire Dept,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,200
+Baldwin,North Mill,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,397
+Baldwin,Meriweather,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,569
+Baldwin,East Baldwin,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,754
+Baldwin,Scottsboro,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,181
+Baldwin,North Baldwin,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,758
+Baldwin,West Baldwin,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,319
+Baldwin,East Hardwick,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,111
+Baldwin,West Hardwick,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,399
+Baldwin,Coopers,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,328
+Baldwin,South Mill,Special,,,YES,316
+Baldwin,City Hall Annex,Special,,,YES,207
+Baldwin,Boddie,Special,,,YES,293
+Baldwin,Courthouse,Special,,,YES,146
+Baldwin,Fire Dept,Special,,,YES,407
+Baldwin,North Mill,Special,,,YES,684
+Baldwin,Meriweather,Special,,,YES,764
+Baldwin,East Baldwin,Special,,,YES,993
+Baldwin,Scottsboro,Special,,,YES,233
+Baldwin,North Baldwin,Special,,,YES,1076
+Baldwin,West Baldwin,Special,,,YES,502
+Baldwin,East Hardwick,Special,,,YES,266
+Baldwin,West Hardwick,Special,,,YES,725
+Baldwin,Coopers,Special,,,YES,379
+Baldwin,South Mill,Special,,,NO,301
+Baldwin,City Hall Annex,Special,,,NO,199
+Baldwin,Boddie,Special,,,NO,274
+Baldwin,Courthouse,Special,,,NO,95
+Baldwin,Fire Dept,Special,,,NO,371
+Baldwin,North Mill,Special,,,NO,657
+Baldwin,Meriweather,Special,,,NO,986
+Baldwin,East Baldwin,Special,,,NO,1303
+Baldwin,Scottsboro,Special,,,NO,325
+Baldwin,North Baldwin,Special,,,NO,1157
+Baldwin,West Baldwin,Special,,,NO,620
+Baldwin,East Hardwick,Special,,,NO,259
+Baldwin,West Hardwick,Special,,,NO,777
+Baldwin,Coopers,Special,,,NO,538

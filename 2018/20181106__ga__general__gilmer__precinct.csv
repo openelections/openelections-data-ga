@@ -1,0 +1,638 @@
+county,precinct,office,district,party,candidate,votes
+Gilmer,ELLIJAY SOUTH,Governor,,REP,BRIAN KEMP,1349
+Gilmer,CARTECAY,Governor,,REP,BRIAN KEMP,838
+Gilmer,TAILS CREEK,Governor,,REP,BRIAN KEMP,745
+Gilmer,TOWN CREEK,Governor,,REP,BRIAN KEMP,557
+Gilmer,LEACHES,Governor,,REP,BRIAN KEMP,1308
+Gilmer,CHERRY LOG,Governor,,REP,BRIAN KEMP,463
+Gilmer,BOARDTOWN,Governor,,REP,BRIAN KEMP,777
+Gilmer,MOUNTAINTOWN,Governor,,REP,BRIAN KEMP,601
+Gilmer,EAST ELLIJAY,Governor,,REP,BRIAN KEMP,803
+Gilmer,ELLIJAY NORTH,Governor,,REP,BRIAN KEMP,769
+Gilmer,YUKON,Governor,,REP,BRIAN KEMP,642
+Gilmer,BIG CREEK,Governor,,REP,BRIAN KEMP,712
+Gilmer,ELLIJAY NORTHEAST,Governor,,REP,BRIAN KEMP,907
+Gilmer,ELLIJAY SOUTH,Governor,,DEM,STACEY ABRAMS,305
+Gilmer,CARTECAY,Governor,,DEM,STACEY ABRAMS,115
+Gilmer,TAILS CREEK,Governor,,DEM,STACEY ABRAMS,95
+Gilmer,TOWN CREEK,Governor,,DEM,STACEY ABRAMS,77
+Gilmer,LEACHES,Governor,,DEM,STACEY ABRAMS,254
+Gilmer,CHERRY LOG,Governor,,DEM,STACEY ABRAMS,125
+Gilmer,BOARDTOWN,Governor,,DEM,STACEY ABRAMS,146
+Gilmer,MOUNTAINTOWN,Governor,,DEM,STACEY ABRAMS,100
+Gilmer,EAST ELLIJAY,Governor,,DEM,STACEY ABRAMS,149
+Gilmer,ELLIJAY NORTH,Governor,,DEM,STACEY ABRAMS,149
+Gilmer,YUKON,Governor,,DEM,STACEY ABRAMS,76
+Gilmer,BIG CREEK,Governor,,DEM,STACEY ABRAMS,139
+Gilmer,ELLIJAY NORTHEAST,Governor,,DEM,STACEY ABRAMS,187
+Gilmer,ELLIJAY SOUTH,Governor,,LIB,TED METZ,9
+Gilmer,CARTECAY,Governor,,LIB,TED METZ,8
+Gilmer,TAILS CREEK,Governor,,LIB,TED METZ,10
+Gilmer,TOWN CREEK,Governor,,LIB,TED METZ,10
+Gilmer,LEACHES,Governor,,LIB,TED METZ,11
+Gilmer,CHERRY LOG,Governor,,LIB,TED METZ,3
+Gilmer,BOARDTOWN,Governor,,LIB,TED METZ,11
+Gilmer,MOUNTAINTOWN,Governor,,LIB,TED METZ,13
+Gilmer,EAST ELLIJAY,Governor,,LIB,TED METZ,10
+Gilmer,ELLIJAY NORTH,Governor,,LIB,TED METZ,14
+Gilmer,YUKON,Governor,,LIB,TED METZ,1
+Gilmer,BIG CREEK,Governor,,LIB,TED METZ,10
+Gilmer,ELLIJAY NORTHEAST,Governor,,LIB,TED METZ,12
+Gilmer,ELLIJAY SOUTH,Lieutenant Governor,,REP,GEOFF DUNCAN,1293
+Gilmer,CARTECAY,Lieutenant Governor,,REP,GEOFF DUNCAN,801
+Gilmer,TAILS CREEK,Lieutenant Governor,,REP,GEOFF DUNCAN,715
+Gilmer,TOWN CREEK,Lieutenant Governor,,REP,GEOFF DUNCAN,537
+Gilmer,LEACHES,Lieutenant Governor,,REP,GEOFF DUNCAN,1268
+Gilmer,CHERRY LOG,Lieutenant Governor,,REP,GEOFF DUNCAN,444
+Gilmer,BOARDTOWN,Lieutenant Governor,,REP,GEOFF DUNCAN,759
+Gilmer,MOUNTAINTOWN,Lieutenant Governor,,REP,GEOFF DUNCAN,586
+Gilmer,EAST ELLIJAY,Lieutenant Governor,,REP,GEOFF DUNCAN,779
+Gilmer,ELLIJAY NORTH,Lieutenant Governor,,REP,GEOFF DUNCAN,731
+Gilmer,YUKON,Lieutenant Governor,,REP,GEOFF DUNCAN,611
+Gilmer,BIG CREEK,Lieutenant Governor,,REP,GEOFF DUNCAN,689
+Gilmer,ELLIJAY NORTHEAST,Lieutenant Governor,,REP,GEOFF DUNCAN,871
+Gilmer,ELLIJAY SOUTH,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,301
+Gilmer,CARTECAY,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,117
+Gilmer,TAILS CREEK,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,106
+Gilmer,TOWN CREEK,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,83
+Gilmer,LEACHES,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,260
+Gilmer,CHERRY LOG,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,124
+Gilmer,BOARDTOWN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,150
+Gilmer,MOUNTAINTOWN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,98
+Gilmer,EAST ELLIJAY,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,154
+Gilmer,ELLIJAY NORTH,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,161
+Gilmer,YUKON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,79
+Gilmer,BIG CREEK,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,142
+Gilmer,ELLIJAY NORTHEAST,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,185
+Gilmer,ELLIJAY SOUTH,Secretary Of State,,REP,BRAD RAFFENSPERGER,1297
+Gilmer,CARTECAY,Secretary Of State,,REP,BRAD RAFFENSPERGER,804
+Gilmer,TAILS CREEK,Secretary Of State,,REP,BRAD RAFFENSPERGER,720
+Gilmer,TOWN CREEK,Secretary Of State,,REP,BRAD RAFFENSPERGER,534
+Gilmer,LEACHES,Secretary Of State,,REP,BRAD RAFFENSPERGER,1257
+Gilmer,CHERRY LOG,Secretary Of State,,REP,BRAD RAFFENSPERGER,448
+Gilmer,BOARDTOWN,Secretary Of State,,REP,BRAD RAFFENSPERGER,756
+Gilmer,MOUNTAINTOWN,Secretary Of State,,REP,BRAD RAFFENSPERGER,570
+Gilmer,EAST ELLIJAY,Secretary Of State,,REP,BRAD RAFFENSPERGER,775
+Gilmer,ELLIJAY NORTH,Secretary Of State,,REP,BRAD RAFFENSPERGER,734
+Gilmer,YUKON,Secretary Of State,,REP,BRAD RAFFENSPERGER,605
+Gilmer,BIG CREEK,Secretary Of State,,REP,BRAD RAFFENSPERGER,683
+Gilmer,ELLIJAY NORTHEAST,Secretary Of State,,REP,BRAD RAFFENSPERGER,874
+Gilmer,ELLIJAY SOUTH,Secretary Of State,,DEM,JOHN BARROW,319
+Gilmer,CARTECAY,Secretary Of State,,DEM,JOHN BARROW,125
+Gilmer,TAILS CREEK,Secretary Of State,,DEM,JOHN BARROW,102
+Gilmer,TOWN CREEK,Secretary Of State,,DEM,JOHN BARROW,84
+Gilmer,LEACHES,Secretary Of State,,DEM,JOHN BARROW,268
+Gilmer,CHERRY LOG,Secretary Of State,,DEM,JOHN BARROW,127
+Gilmer,BOARDTOWN,Secretary Of State,,DEM,JOHN BARROW,154
+Gilmer,MOUNTAINTOWN,Secretary Of State,,DEM,JOHN BARROW,109
+Gilmer,EAST ELLIJAY,Secretary Of State,,DEM,JOHN BARROW,155
+Gilmer,ELLIJAY NORTH,Secretary Of State,,DEM,JOHN BARROW,154
+Gilmer,YUKON,Secretary Of State,,DEM,JOHN BARROW,88
+Gilmer,BIG CREEK,Secretary Of State,,DEM,JOHN BARROW,147
+Gilmer,ELLIJAY NORTHEAST,Secretary Of State,,DEM,JOHN BARROW,197
+Gilmer,ELLIJAY SOUTH,Secretary Of State,,LIB,SMYTHE DUVAL,22
+Gilmer,CARTECAY,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Gilmer,TAILS CREEK,Secretary Of State,,LIB,SMYTHE DUVAL,16
+Gilmer,TOWN CREEK,Secretary Of State,,LIB,SMYTHE DUVAL,14
+Gilmer,LEACHES,Secretary Of State,,LIB,SMYTHE DUVAL,26
+Gilmer,CHERRY LOG,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Gilmer,BOARDTOWN,Secretary Of State,,LIB,SMYTHE DUVAL,16
+Gilmer,MOUNTAINTOWN,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Gilmer,EAST ELLIJAY,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Gilmer,ELLIJAY NORTH,Secretary Of State,,LIB,SMYTHE DUVAL,18
+Gilmer,YUKON,Secretary Of State,,LIB,SMYTHE DUVAL,7
+Gilmer,BIG CREEK,Secretary Of State,,LIB,SMYTHE DUVAL,21
+Gilmer,ELLIJAY NORTHEAST,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Gilmer,ELLIJAY SOUTH,Attorney General,,(REP,CHRIS CARR ,1319
+Gilmer,CARTECAY,Attorney General,,(REP,CHRIS CARR ,807
+Gilmer,TAILS CREEK,Attorney General,,(REP,CHRIS CARR ,716
+Gilmer,TOWN CREEK,Attorney General,,(REP,CHRIS CARR ,536
+Gilmer,LEACHES,Attorney General,,(REP,CHRIS CARR ,1269
+Gilmer,CHERRY LOG,Attorney General,,(REP,CHRIS CARR ,447
+Gilmer,BOARDTOWN,Attorney General,,(REP,CHRIS CARR ,761
+Gilmer,MOUNTAINTOWN,Attorney General,,(REP,CHRIS CARR ,589
+Gilmer,EAST ELLIJAY,Attorney General,,(REP,CHRIS CARR ,789
+Gilmer,ELLIJAY NORTH,Attorney General,,(REP,CHRIS CARR ,739
+Gilmer,YUKON,Attorney General,,(REP,CHRIS CARR ,615
+Gilmer,BIG CREEK,Attorney General,,(REP,CHRIS CARR ,691
+Gilmer,ELLIJAY NORTHEAST,Attorney General,,(REP,CHRIS CARR ,870
+Gilmer,ELLIJAY SOUTH,Attorney General,,DEM,CHARLIE BAILEY,315
+Gilmer,CARTECAY,Attorney General,,DEM,CHARLIE BAILEY,127
+Gilmer,TAILS CREEK,Attorney General,,DEM,CHARLIE BAILEY,115
+Gilmer,TOWN CREEK,Attorney General,,DEM,CHARLIE BAILEY,89
+Gilmer,LEACHES,Attorney General,,DEM,CHARLIE BAILEY,275
+Gilmer,CHERRY LOG,Attorney General,,DEM,CHARLIE BAILEY,134
+Gilmer,BOARDTOWN,Attorney General,,DEM,CHARLIE BAILEY,161
+Gilmer,MOUNTAINTOWN,Attorney General,,DEM,CHARLIE BAILEY,109
+Gilmer,EAST ELLIJAY,Attorney General,,DEM,CHARLIE BAILEY,155
+Gilmer,ELLIJAY NORTH,Attorney General,,DEM,CHARLIE BAILEY,164
+Gilmer,YUKON,Attorney General,,DEM,CHARLIE BAILEY,87
+Gilmer,BIG CREEK,Attorney General,,DEM,CHARLIE BAILEY,150
+Gilmer,ELLIJAY NORTHEAST,Attorney General,,DEM,CHARLIE BAILEY,208
+Gilmer,ELLIJAY SOUTH,Commissioner Of Agriculture,,(REP,GARY BLACK ,1340
+Gilmer,CARTECAY,Commissioner Of Agriculture,,(REP,GARY BLACK ,833
+Gilmer,TAILS CREEK,Commissioner Of Agriculture,,(REP,GARY BLACK ,737
+Gilmer,TOWN CREEK,Commissioner Of Agriculture,,(REP,GARY BLACK ,539
+Gilmer,LEACHES,Commissioner Of Agriculture,,(REP,GARY BLACK ,1295
+Gilmer,CHERRY LOG,Commissioner Of Agriculture,,(REP,GARY BLACK ,461
+Gilmer,BOARDTOWN,Commissioner Of Agriculture,,(REP,GARY BLACK ,772
+Gilmer,MOUNTAINTOWN,Commissioner Of Agriculture,,(REP,GARY BLACK ,601
+Gilmer,EAST ELLIJAY,Commissioner Of Agriculture,,(REP,GARY BLACK ,792
+Gilmer,ELLIJAY NORTH,Commissioner Of Agriculture,,(REP,GARY BLACK ,743
+Gilmer,YUKON,Commissioner Of Agriculture,,(REP,GARY BLACK ,621
+Gilmer,BIG CREEK,Commissioner Of Agriculture,,(REP,GARY BLACK ,719
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Agriculture,,(REP,GARY BLACK ,885
+Gilmer,ELLIJAY SOUTH,Commissioner Of Agriculture,,DEM,FRED SWANN,287
+Gilmer,CARTECAY,Commissioner Of Agriculture,,DEM,FRED SWANN,107
+Gilmer,TAILS CREEK,Commissioner Of Agriculture,,DEM,FRED SWANN,96
+Gilmer,TOWN CREEK,Commissioner Of Agriculture,,DEM,FRED SWANN,82
+Gilmer,LEACHES,Commissioner Of Agriculture,,DEM,FRED SWANN,248
+Gilmer,CHERRY LOG,Commissioner Of Agriculture,,DEM,FRED SWANN,119
+Gilmer,BOARDTOWN,Commissioner Of Agriculture,,DEM,FRED SWANN,142
+Gilmer,MOUNTAINTOWN,Commissioner Of Agriculture,,DEM,FRED SWANN,96
+Gilmer,EAST ELLIJAY,Commissioner Of Agriculture,,DEM,FRED SWANN,153
+Gilmer,ELLIJAY NORTH,Commissioner Of Agriculture,,DEM,FRED SWANN,146
+Gilmer,YUKON,Commissioner Of Agriculture,,DEM,FRED SWANN,78
+Gilmer,BIG CREEK,Commissioner Of Agriculture,,DEM,FRED SWANN,124
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Agriculture,,DEM,FRED SWANN,186
+Gilmer,ELLIJAY SOUTH,Commissioner Of Insurance,,REP,JIM BECK,1308
+Gilmer,CARTECAY,Commissioner Of Insurance,,REP,JIM BECK,798
+Gilmer,TAILS CREEK,Commissioner Of Insurance,,REP,JIM BECK,718
+Gilmer,TOWN CREEK,Commissioner Of Insurance,,REP,JIM BECK,533
+Gilmer,LEACHES,Commissioner Of Insurance,,REP,JIM BECK,1262
+Gilmer,CHERRY LOG,Commissioner Of Insurance,,REP,JIM BECK,454
+Gilmer,BOARDTOWN,Commissioner Of Insurance,,REP,JIM BECK,754
+Gilmer,MOUNTAINTOWN,Commissioner Of Insurance,,REP,JIM BECK,583
+Gilmer,EAST ELLIJAY,Commissioner Of Insurance,,REP,JIM BECK,772
+Gilmer,ELLIJAY NORTH,Commissioner Of Insurance,,REP,JIM BECK,731
+Gilmer,YUKON,Commissioner Of Insurance,,REP,JIM BECK,612
+Gilmer,BIG CREEK,Commissioner Of Insurance,,REP,JIM BECK,696
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Insurance,,REP,JIM BECK,862
+Gilmer,ELLIJAY SOUTH,Commissioner Of Insurance,,DEM,JANICE LAWS,297
+Gilmer,CARTECAY,Commissioner Of Insurance,,DEM,JANICE LAWS,106
+Gilmer,TAILS CREEK,Commissioner Of Insurance,,DEM,JANICE LAWS,97
+Gilmer,TOWN CREEK,Commissioner Of Insurance,,DEM,JANICE LAWS,77
+Gilmer,LEACHES,Commissioner Of Insurance,,DEM,JANICE LAWS,253
+Gilmer,CHERRY LOG,Commissioner Of Insurance,,DEM,JANICE LAWS,116
+Gilmer,BOARDTOWN,Commissioner Of Insurance,,DEM,JANICE LAWS,150
+Gilmer,MOUNTAINTOWN,Commissioner Of Insurance,,DEM,JANICE LAWS,99
+Gilmer,EAST ELLIJAY,Commissioner Of Insurance,,DEM,JANICE LAWS,150
+Gilmer,ELLIJAY NORTH,Commissioner Of Insurance,,DEM,JANICE LAWS,150
+Gilmer,YUKON,Commissioner Of Insurance,,DEM,JANICE LAWS,75
+Gilmer,BIG CREEK,Commissioner Of Insurance,,DEM,JANICE LAWS,130
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Insurance,,DEM,JANICE LAWS,189
+Gilmer,ELLIJAY SOUTH,Commissioner Of Insurance,,LIB,DONNIE FOSTER,30
+Gilmer,CARTECAY,Commissioner Of Insurance,,LIB,DONNIE FOSTER,30
+Gilmer,TAILS CREEK,Commissioner Of Insurance,,LIB,DONNIE FOSTER,17
+Gilmer,TOWN CREEK,Commissioner Of Insurance,,LIB,DONNIE FOSTER,14
+Gilmer,LEACHES,Commissioner Of Insurance,,LIB,DONNIE FOSTER,35
+Gilmer,CHERRY LOG,Commissioner Of Insurance,,LIB,DONNIE FOSTER,12
+Gilmer,BOARDTOWN,Commissioner Of Insurance,,LIB,DONNIE FOSTER,23
+Gilmer,MOUNTAINTOWN,Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Gilmer,EAST ELLIJAY,Commissioner Of Insurance,,LIB,DONNIE FOSTER,25
+Gilmer,ELLIJAY NORTH,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
+Gilmer,YUKON,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Gilmer,BIG CREEK,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Insurance,,LIB,DONNIE FOSTER,31
+Gilmer,ELLIJAY SOUTH,State School Superintendent,,(REP,RICHARD WOODS ,1349
+Gilmer,CARTECAY,State School Superintendent,,(REP,RICHARD WOODS ,819
+Gilmer,TAILS CREEK,State School Superintendent,,(REP,RICHARD WOODS ,734
+Gilmer,TOWN CREEK,State School Superintendent,,(REP,RICHARD WOODS ,551
+Gilmer,LEACHES,State School Superintendent,,(REP,RICHARD WOODS ,1302
+Gilmer,CHERRY LOG,State School Superintendent,,(REP,RICHARD WOODS ,465
+Gilmer,BOARDTOWN,State School Superintendent,,(REP,RICHARD WOODS ,775
+Gilmer,MOUNTAINTOWN,State School Superintendent,,(REP,RICHARD WOODS ,596
+Gilmer,EAST ELLIJAY,State School Superintendent,,(REP,RICHARD WOODS ,801
+Gilmer,ELLIJAY NORTH,State School Superintendent,,(REP,RICHARD WOODS ,756
+Gilmer,YUKON,State School Superintendent,,(REP,RICHARD WOODS ,628
+Gilmer,BIG CREEK,State School Superintendent,,(REP,RICHARD WOODS ,707
+Gilmer,ELLIJAY NORTHEAST,State School Superintendent,,(REP,RICHARD WOODS ,895
+Gilmer,ELLIJAY SOUTH,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",284
+Gilmer,CARTECAY,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",115
+Gilmer,TAILS CREEK,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",96
+Gilmer,TOWN CREEK,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",79
+Gilmer,LEACHES,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",240
+Gilmer,CHERRY LOG,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",112
+Gilmer,BOARDTOWN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",146
+Gilmer,MOUNTAINTOWN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",103
+Gilmer,EAST ELLIJAY,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",147
+Gilmer,ELLIJAY NORTH,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",138
+Gilmer,YUKON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",73
+Gilmer,BIG CREEK,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",139
+Gilmer,ELLIJAY NORTHEAST,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",186
+Gilmer,ELLIJAY SOUTH,Commissioner Of Labor,,(REP,MARK BUTLER ,1329
+Gilmer,CARTECAY,Commissioner Of Labor,,(REP,MARK BUTLER ,816
+Gilmer,TAILS CREEK,Commissioner Of Labor,,(REP,MARK BUTLER ,719
+Gilmer,TOWN CREEK,Commissioner Of Labor,,(REP,MARK BUTLER ,540
+Gilmer,LEACHES,Commissioner Of Labor,,(REP,MARK BUTLER ,1276
+Gilmer,CHERRY LOG,Commissioner Of Labor,,(REP,MARK BUTLER ,456
+Gilmer,BOARDTOWN,Commissioner Of Labor,,(REP,MARK BUTLER ,768
+Gilmer,MOUNTAINTOWN,Commissioner Of Labor,,(REP,MARK BUTLER ,593
+Gilmer,EAST ELLIJAY,Commissioner Of Labor,,(REP,MARK BUTLER ,791
+Gilmer,ELLIJAY NORTH,Commissioner Of Labor,,(REP,MARK BUTLER ,750
+Gilmer,YUKON,Commissioner Of Labor,,(REP,MARK BUTLER ,621
+Gilmer,BIG CREEK,Commissioner Of Labor,,(REP,MARK BUTLER ,707
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Labor,,(REP,MARK BUTLER ,878
+Gilmer,ELLIJAY SOUTH,Commissioner Of Labor,,DEM,RICHARD KEATLEY,295
+Gilmer,CARTECAY,Commissioner Of Labor,,DEM,RICHARD KEATLEY,116
+Gilmer,TAILS CREEK,Commissioner Of Labor,,DEM,RICHARD KEATLEY,107
+Gilmer,TOWN CREEK,Commissioner Of Labor,,DEM,RICHARD KEATLEY,80
+Gilmer,LEACHES,Commissioner Of Labor,,DEM,RICHARD KEATLEY,259
+Gilmer,CHERRY LOG,Commissioner Of Labor,,DEM,RICHARD KEATLEY,121
+Gilmer,BOARDTOWN,Commissioner Of Labor,,DEM,RICHARD KEATLEY,149
+Gilmer,MOUNTAINTOWN,Commissioner Of Labor,,DEM,RICHARD KEATLEY,105
+Gilmer,EAST ELLIJAY,Commissioner Of Labor,,DEM,RICHARD KEATLEY,152
+Gilmer,ELLIJAY NORTH,Commissioner Of Labor,,DEM,RICHARD KEATLEY,151
+Gilmer,YUKON,Commissioner Of Labor,,DEM,RICHARD KEATLEY,80
+Gilmer,BIG CREEK,Commissioner Of Labor,,DEM,RICHARD KEATLEY,138
+Gilmer,ELLIJAY NORTHEAST,Commissioner Of Labor,,DEM,RICHARD KEATLEY,193
+Gilmer,ELLIJAY SOUTH,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1278
+Gilmer,CARTECAY,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,789
+Gilmer,TAILS CREEK,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,703
+Gilmer,TOWN CREEK,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,523
+Gilmer,LEACHES,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1235
+Gilmer,CHERRY LOG,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,444
+Gilmer,BOARDTOWN,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,737
+Gilmer,MOUNTAINTOWN,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,576
+Gilmer,EAST ELLIJAY,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,766
+Gilmer,ELLIJAY NORTH,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,714
+Gilmer,YUKON,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,604
+Gilmer,BIG CREEK,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,683
+Gilmer,ELLIJAY NORTHEAST,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,842
+Gilmer,ELLIJAY SOUTH,"Public Service Commission, District 3",3,DEM,LINDY MILLER,314
+Gilmer,CARTECAY,"Public Service Commission, District 3",3,DEM,LINDY MILLER,122
+Gilmer,TAILS CREEK,"Public Service Commission, District 3",3,DEM,LINDY MILLER,108
+Gilmer,TOWN CREEK,"Public Service Commission, District 3",3,DEM,LINDY MILLER,79
+Gilmer,LEACHES,"Public Service Commission, District 3",3,DEM,LINDY MILLER,270
+Gilmer,CHERRY LOG,"Public Service Commission, District 3",3,DEM,LINDY MILLER,123
+Gilmer,BOARDTOWN,"Public Service Commission, District 3",3,DEM,LINDY MILLER,159
+Gilmer,MOUNTAINTOWN,"Public Service Commission, District 3",3,DEM,LINDY MILLER,106
+Gilmer,EAST ELLIJAY,"Public Service Commission, District 3",3,DEM,LINDY MILLER,152
+Gilmer,ELLIJAY NORTH,"Public Service Commission, District 3",3,DEM,LINDY MILLER,155
+Gilmer,YUKON,"Public Service Commission, District 3",3,DEM,LINDY MILLER,85
+Gilmer,BIG CREEK,"Public Service Commission, District 3",3,DEM,LINDY MILLER,141
+Gilmer,ELLIJAY NORTHEAST,"Public Service Commission, District 3",3,DEM,LINDY MILLER,200
+Gilmer,ELLIJAY SOUTH,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,35
+Gilmer,CARTECAY,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,21
+Gilmer,TAILS CREEK,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,22
+Gilmer,TOWN CREEK,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,17
+Gilmer,LEACHES,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,39
+Gilmer,CHERRY LOG,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,13
+Gilmer,BOARDTOWN,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,19
+Gilmer,MOUNTAINTOWN,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,15
+Gilmer,EAST ELLIJAY,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,28
+Gilmer,ELLIJAY NORTH,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,22
+Gilmer,YUKON,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,11
+Gilmer,BIG CREEK,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,22
+Gilmer,ELLIJAY NORTHEAST,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,26
+Gilmer,ELLIJAY SOUTH,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1290
+Gilmer,CARTECAY,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,787
+Gilmer,TAILS CREEK,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,711
+Gilmer,TOWN CREEK,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,529
+Gilmer,LEACHES,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1252
+Gilmer,CHERRY LOG,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,441
+Gilmer,BOARDTOWN,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,745
+Gilmer,MOUNTAINTOWN,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,581
+Gilmer,EAST ELLIJAY,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,758
+Gilmer,ELLIJAY NORTH,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,725
+Gilmer,YUKON,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,611
+Gilmer,BIG CREEK,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,681
+Gilmer,ELLIJAY NORTHEAST,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,849
+Gilmer,ELLIJAY SOUTH,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,301
+Gilmer,CARTECAY,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,117
+Gilmer,TAILS CREEK,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,98
+Gilmer,TOWN CREEK,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,81
+Gilmer,LEACHES,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,256
+Gilmer,CHERRY LOG,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,122
+Gilmer,BOARDTOWN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,151
+Gilmer,MOUNTAINTOWN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,101
+Gilmer,EAST ELLIJAY,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,153
+Gilmer,ELLIJAY NORTH,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,143
+Gilmer,YUKON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,79
+Gilmer,BIG CREEK,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,139
+Gilmer,ELLIJAY NORTHEAST,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,188
+Gilmer,ELLIJAY SOUTH,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,39
+Gilmer,CARTECAY,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,24
+Gilmer,TAILS CREEK,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,22
+Gilmer,TOWN CREEK,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14
+Gilmer,LEACHES,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,30
+Gilmer,CHERRY LOG,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Gilmer,BOARDTOWN,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,22
+Gilmer,MOUNTAINTOWN,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,16
+Gilmer,EAST ELLIJAY,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
+Gilmer,ELLIJAY NORTH,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,24
+Gilmer,YUKON,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,13
+Gilmer,BIG CREEK,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,29
+Gilmer,ELLIJAY NORTHEAST,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,31
+Gilmer,ELLIJAY SOUTH,U.S. Representative,9,(REP,DOUG COLLINS ,1341
+Gilmer,CARTECAY,U.S. Representative,9,(REP,DOUG COLLINS ,817
+Gilmer,TAILS CREEK,U.S. Representative,9,(REP,DOUG COLLINS ,737
+Gilmer,TOWN CREEK,U.S. Representative,9,(REP,DOUG COLLINS ,548
+Gilmer,LEACHES,U.S. Representative,9,(REP,DOUG COLLINS ,1289
+Gilmer,CHERRY LOG,U.S. Representative,9,(REP,DOUG COLLINS ,466
+Gilmer,BOARDTOWN,U.S. Representative,9,(REP,DOUG COLLINS ,774
+Gilmer,MOUNTAINTOWN,U.S. Representative,9,(REP,DOUG COLLINS ,598
+Gilmer,EAST ELLIJAY,U.S. Representative,9,(REP,DOUG COLLINS ,791
+Gilmer,ELLIJAY NORTH,U.S. Representative,9,(REP,DOUG COLLINS ,744
+Gilmer,YUKON,U.S. Representative,9,(REP,DOUG COLLINS ,621
+Gilmer,BIG CREEK,U.S. Representative,9,(REP,DOUG COLLINS ,714
+Gilmer,ELLIJAY NORTHEAST,U.S. Representative,9,(REP,DOUG COLLINS ,882
+Gilmer,ELLIJAY SOUTH,U.S. Representative,9,DEM,JOSH MCCALL,308
+Gilmer,CARTECAY,U.S. Representative,9,DEM,JOSH MCCALL,120
+Gilmer,TAILS CREEK,U.S. Representative,9,DEM,JOSH MCCALL,101
+Gilmer,TOWN CREEK,U.S. Representative,9,DEM,JOSH MCCALL,88
+Gilmer,LEACHES,U.S. Representative,9,DEM,JOSH MCCALL,267
+Gilmer,CHERRY LOG,U.S. Representative,9,DEM,JOSH MCCALL,122
+Gilmer,BOARDTOWN,U.S. Representative,9,DEM,JOSH MCCALL,154
+Gilmer,MOUNTAINTOWN,U.S. Representative,9,DEM,JOSH MCCALL,106
+Gilmer,EAST ELLIJAY,U.S. Representative,9,DEM,JOSH MCCALL,154
+Gilmer,ELLIJAY NORTH,U.S. Representative,9,DEM,JOSH MCCALL,156
+Gilmer,YUKON,U.S. Representative,9,DEM,JOSH MCCALL,86
+Gilmer,BIG CREEK,U.S. Representative,9,DEM,JOSH MCCALL,138
+Gilmer,ELLIJAY NORTHEAST,U.S. Representative,9,DEM,JOSH MCCALL,201
+Gilmer,ELLIJAY SOUTH,State Senator,51,(REP,STEVE GOOCH ,1437
+Gilmer,CARTECAY,State Senator,51,(REP,STEVE GOOCH ,852
+Gilmer,TAILS CREEK,State Senator,51,(REP,STEVE GOOCH ,769
+Gilmer,TOWN CREEK,State Senator,51,(REP,STEVE GOOCH ,572
+Gilmer,LEACHES,State Senator,51,(REP,STEVE GOOCH ,1365
+Gilmer,CHERRY LOG,State Senator,51,(REP,STEVE GOOCH ,501
+Gilmer,BOARDTOWN,State Senator,51,(REP,STEVE GOOCH ,822
+Gilmer,MOUNTAINTOWN,State Senator,51,(REP,STEVE GOOCH ,641
+Gilmer,EAST ELLIJAY,State Senator,51,(REP,STEVE GOOCH ,853
+Gilmer,ELLIJAY NORTH,State Senator,51,(REP,STEVE GOOCH ,806
+Gilmer,YUKON,State Senator,51,(REP,STEVE GOOCH ,646
+Gilmer,BIG CREEK,State Senator,51,(REP,STEVE GOOCH ,758
+Gilmer,ELLIJAY NORTHEAST,State Senator,51,(REP,STEVE GOOCH ,948
+Gilmer,ELLIJAY SOUTH,State Representative,7,(REP,DAVID RALSTON ,1345
+Gilmer,CARTECAY,State Representative,7,(REP,DAVID RALSTON ,826
+Gilmer,TAILS CREEK,State Representative,7,(REP,DAVID RALSTON ,746
+Gilmer,TOWN CREEK,State Representative,7,(REP,DAVID RALSTON ,554
+Gilmer,LEACHES,State Representative,7,(REP,DAVID RALSTON ,1302
+Gilmer,CHERRY LOG,State Representative,7,(REP,DAVID RALSTON ,476
+Gilmer,BOARDTOWN,State Representative,7,(REP,DAVID RALSTON ,776
+Gilmer,MOUNTAINTOWN,State Representative,7,(REP,DAVID RALSTON ,612
+Gilmer,EAST ELLIJAY,State Representative,7,(REP,DAVID RALSTON ,797
+Gilmer,ELLIJAY NORTH,State Representative,7,(REP,DAVID RALSTON ,781
+Gilmer,YUKON,State Representative,7,(REP,DAVID RALSTON ,613
+Gilmer,BIG CREEK,State Representative,7,(REP,DAVID RALSTON ,713
+Gilmer,ELLIJAY NORTHEAST,State Representative,7,(REP,DAVID RALSTON ,905
+Gilmer,ELLIJAY SOUTH,State Representative,7,DEM,RICK D. DAY,290
+Gilmer,CARTECAY,State Representative,7,DEM,RICK D. DAY,107
+Gilmer,TAILS CREEK,State Representative,7,DEM,RICK D. DAY,92
+Gilmer,TOWN CREEK,State Representative,7,DEM,RICK D. DAY,76
+Gilmer,LEACHES,State Representative,7,DEM,RICK D. DAY,250
+Gilmer,CHERRY LOG,State Representative,7,DEM,RICK D. DAY,111
+Gilmer,BOARDTOWN,State Representative,7,DEM,RICK D. DAY,142
+Gilmer,MOUNTAINTOWN,State Representative,7,DEM,RICK D. DAY,91
+Gilmer,EAST ELLIJAY,State Representative,7,DEM,RICK D. DAY,139
+Gilmer,ELLIJAY NORTH,State Representative,7,DEM,RICK D. DAY,135
+Gilmer,YUKON,State Representative,7,DEM,RICK D. DAY,89
+Gilmer,BIG CREEK,State Representative,7,DEM,RICK D. DAY,132
+Gilmer,ELLIJAY NORTHEAST,State Representative,7,DEM,RICK D. DAY,182
+Gilmer,ELLIJAY SOUTH,CC, CHAIRMAN,R,C. PARIS ,1433
+Gilmer,CARTECAY,CC, CHAIRMAN,R,C. PARIS ,840
+Gilmer,TAILS CREEK,CC, CHAIRMAN,R,C. PARIS ,760
+Gilmer,TOWN CREEK,CC, CHAIRMAN,R,C. PARIS ,572
+Gilmer,LEACHES,CC, CHAIRMAN,R,C. PARIS ,1375
+Gilmer,CHERRY LOG,CC, CHAIRMAN,R,C. PARIS ,502
+Gilmer,BOARDTOWN,CC, CHAIRMAN,R,C. PARIS ,821
+Gilmer,MOUNTAINTOWN,CC, CHAIRMAN,R,C. PARIS ,635
+Gilmer,EAST ELLIJAY,CC, CHAIRMAN,R,C. PARIS ,840
+Gilmer,ELLIJAY NORTH,CC, CHAIRMAN,R,C. PARIS ,788
+Gilmer,YUKON,CC, CHAIRMAN,R,C. PARIS ,634
+Gilmer,BIG CREEK,CC, CHAIRMAN,R,C. PARIS ,761
+Gilmer,ELLIJAY NORTHEAST,CC, CHAIRMAN,R,C. PARIS ,938
+Gilmer,ELLIJAY SOUTH,CC, P2,R,L. FERGUSON,1426
+Gilmer,CARTECAY,CC, P2,R,L. FERGUSON,835
+Gilmer,TAILS CREEK,CC, P2,R,L. FERGUSON,757
+Gilmer,TOWN CREEK,CC, P2,R,L. FERGUSON,575
+Gilmer,LEACHES,CC, P2,R,L. FERGUSON,1375
+Gilmer,CHERRY LOG,CC, P2,R,L. FERGUSON,492
+Gilmer,BOARDTOWN,CC, P2,R,L. FERGUSON,816
+Gilmer,MOUNTAINTOWN,CC, P2,R,L. FERGUSON,635
+Gilmer,EAST ELLIJAY,CC, P2,R,L. FERGUSON,842
+Gilmer,ELLIJAY NORTH,CC, P2,R,L. FERGUSON,796
+Gilmer,YUKON,CC, P2,R,L. FERGUSON,637
+Gilmer,BIG CREEK,CC, P2,R,L. FERGUSON,754
+Gilmer,ELLIJAY NORTHEAST,CC, P2,R,L. FERGUSON,932
+Gilmer,ELLIJAY SOUTH,Soil and Water,,,G. JAMES,1344
+Gilmer,CARTECAY,Soil and Water,,,G. JAMES,787
+Gilmer,TAILS CREEK,Soil and Water,,,G. JAMES,698
+Gilmer,TOWN CREEK,Soil and Water,,,G. JAMES,520
+Gilmer,LEACHES,Soil and Water,,,G. JAMES,1248
+Gilmer,CHERRY LOG,Soil and Water,,,G. JAMES,468
+Gilmer,BOARDTOWN,Soil and Water,,,G. JAMES,735
+Gilmer,MOUNTAINTOWN,Soil and Water,,,G. JAMES,605
+Gilmer,EAST ELLIJAY,Soil and Water,,,G. JAMES,774
+Gilmer,ELLIJAY NORTH,Soil and Water,,,G. JAMES,740
+Gilmer,YUKON,Soil and Water,,,G. JAMES,580
+Gilmer,BIG CREEK,Soil and Water,,,G. JAMES,684
+Gilmer,ELLIJAY NORTHEAST,Soil and Water,,,G. JAMES,852
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1283
+Gilmer,CARTECAY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,667
+Gilmer,TAILS CREEK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,648
+Gilmer,TOWN CREEK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,465
+Gilmer,LEACHES,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1211
+Gilmer,CHERRY LOG,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,456
+Gilmer,BOARDTOWN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,689
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,531
+Gilmer,EAST ELLIJAY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,710
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,690
+Gilmer,YUKON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,516
+Gilmer,BIG CREEK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,660
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,806
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,325
+Gilmer,CARTECAY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,239
+Gilmer,TAILS CREEK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,169
+Gilmer,TOWN CREEK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,155
+Gilmer,LEACHES,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,316
+Gilmer,CHERRY LOG,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,116
+Gilmer,BOARDTOWN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,199
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,163
+Gilmer,EAST ELLIJAY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,206
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,188
+Gilmer,YUKON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,166
+Gilmer,BIG CREEK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,172
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,247
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,983
+Gilmer,CARTECAY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,508
+Gilmer,TAILS CREEK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,508
+Gilmer,TOWN CREEK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,354
+Gilmer,LEACHES,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,922
+Gilmer,CHERRY LOG,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,325
+Gilmer,BOARDTOWN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,539
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,404
+Gilmer,EAST ELLIJAY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,536
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,520
+Gilmer,YUKON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,394
+Gilmer,BIG CREEK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,500
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,610
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,557
+Gilmer,CARTECAY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,357
+Gilmer,TAILS CREEK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,268
+Gilmer,TOWN CREEK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,232
+Gilmer,LEACHES,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,527
+Gilmer,CHERRY LOG,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,226
+Gilmer,BOARDTOWN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,316
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,256
+Gilmer,EAST ELLIJAY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,328
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,311
+Gilmer,YUKON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,268
+Gilmer,BIG CREEK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,293
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,399
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,933
+Gilmer,CARTECAY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,479
+Gilmer,TAILS CREEK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,457
+Gilmer,TOWN CREEK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,315
+Gilmer,LEACHES,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,888
+Gilmer,CHERRY LOG,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,332
+Gilmer,BOARDTOWN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,506
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,372
+Gilmer,EAST ELLIJAY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,507
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,461
+Gilmer,YUKON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,370
+Gilmer,BIG CREEK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,490
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,564
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,595
+Gilmer,CARTECAY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,386
+Gilmer,TAILS CREEK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,320
+Gilmer,TOWN CREEK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,265
+Gilmer,LEACHES,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,561
+Gilmer,CHERRY LOG,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,224
+Gilmer,BOARDTOWN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,331
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,286
+Gilmer,EAST ELLIJAY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,349
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,362
+Gilmer,YUKON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,285
+Gilmer,BIG CREEK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,305
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,437
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1268
+Gilmer,CARTECAY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,679
+Gilmer,TAILS CREEK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,634
+Gilmer,TOWN CREEK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,463
+Gilmer,LEACHES,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1181
+Gilmer,CHERRY LOG,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,450
+Gilmer,BOARDTOWN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,685
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,530
+Gilmer,EAST ELLIJAY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,671
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,702
+Gilmer,YUKON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,498
+Gilmer,BIG CREEK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,639
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,808
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,338
+Gilmer,CARTECAY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,226
+Gilmer,TAILS CREEK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,173
+Gilmer,TOWN CREEK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,144
+Gilmer,LEACHES,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,330
+Gilmer,CHERRY LOG,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,117
+Gilmer,BOARDTOWN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,200
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,159
+Gilmer,EAST ELLIJAY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,240
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,171
+Gilmer,YUKON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,186
+Gilmer,BIG CREEK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,193
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,238
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1025
+Gilmer,CARTECAY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,537
+Gilmer,TAILS CREEK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,513
+Gilmer,TOWN CREEK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,370
+Gilmer,LEACHES,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,923
+Gilmer,CHERRY LOG,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,328
+Gilmer,BOARDTOWN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,530
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,404
+Gilmer,EAST ELLIJAY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,566
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,533
+Gilmer,YUKON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,421
+Gilmer,BIG CREEK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,534
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,623
+Gilmer,ELLIJAY SOUTH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,526
+Gilmer,CARTECAY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,344
+Gilmer,TAILS CREEK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,271
+Gilmer,TOWN CREEK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,222
+Gilmer,LEACHES,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,550
+Gilmer,CHERRY LOG,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,221
+Gilmer,BOARDTOWN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,320
+Gilmer,MOUNTAINTOWN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,262
+Gilmer,EAST ELLIJAY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,314
+Gilmer,ELLIJAY NORTH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,295
+Gilmer,YUKON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,241
+Gilmer,BIG CREEK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,266
+Gilmer,ELLIJAY NORTHEAST,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,402
+Gilmer,ELLIJAY SOUTH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,790
+Gilmer,CARTECAY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,394
+Gilmer,TAILS CREEK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,409
+Gilmer,TOWN CREEK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,287
+Gilmer,LEACHES,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,723
+Gilmer,CHERRY LOG,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,253
+Gilmer,BOARDTOWN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,415
+Gilmer,MOUNTAINTOWN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,308
+Gilmer,EAST ELLIJAY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,435
+Gilmer,ELLIJAY NORTH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,400
+Gilmer,YUKON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,305
+Gilmer,BIG CREEK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,380
+Gilmer,ELLIJAY NORTHEAST,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,502
+Gilmer,ELLIJAY SOUTH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,716
+Gilmer,CARTECAY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,451
+Gilmer,TAILS CREEK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,354
+Gilmer,TOWN CREEK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,289
+Gilmer,LEACHES,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,713
+Gilmer,CHERRY LOG,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,279
+Gilmer,BOARDTOWN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,419
+Gilmer,MOUNTAINTOWN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,337
+Gilmer,EAST ELLIJAY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,419
+Gilmer,ELLIJAY NORTH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,400
+Gilmer,YUKON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,336
+Gilmer,BIG CREEK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,397
+Gilmer,ELLIJAY NORTHEAST,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,479
+Gilmer,ELLIJAY SOUTH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1108
+Gilmer,CARTECAY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,585
+Gilmer,TAILS CREEK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,569
+Gilmer,TOWN CREEK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,415
+Gilmer,LEACHES,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1048
+Gilmer,CHERRY LOG,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,369
+Gilmer,BOARDTOWN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,596
+Gilmer,MOUNTAINTOWN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,447
+Gilmer,EAST ELLIJAY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,598
+Gilmer,ELLIJAY NORTH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,611
+Gilmer,YUKON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,440
+Gilmer,BIG CREEK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,577
+Gilmer,ELLIJAY NORTHEAST,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,709
+Gilmer,ELLIJAY SOUTH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,441
+Gilmer,CARTECAY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,291
+Gilmer,TAILS CREEK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,222
+Gilmer,TOWN CREEK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,175
+Gilmer,LEACHES,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,418
+Gilmer,CHERRY LOG,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,173
+Gilmer,BOARDTOWN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,264
+Gilmer,MOUNTAINTOWN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,221
+Gilmer,EAST ELLIJAY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,277
+Gilmer,ELLIJAY NORTH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,229
+Gilmer,YUKON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,225
+Gilmer,BIG CREEK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,225
+Gilmer,ELLIJAY NORTHEAST,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,302
+Gilmer,ELLIJAY SOUTH,Special,,,YES,868
+Gilmer,CARTECAY,Special,,,YES,476
+Gilmer,TAILS CREEK,Special,,,YES,395
+Gilmer,TOWN CREEK,Special,,,YES,314
+Gilmer,LEACHES,Special,,,YES,751
+Gilmer,CHERRY LOG,Special,,,YES,263
+Gilmer,BOARDTOWN,Special,,,YES,465
+Gilmer,MOUNTAINTOWN,Special,,,YES,338
+Gilmer,EAST ELLIJAY,Special,,,YES,525
+Gilmer,ELLIJAY NORTH,Special,,,YES,492
+Gilmer,YUKON,Special,,,YES,350
+Gilmer,BIG CREEK,Special,,,YES,460
+Gilmer,ELLIJAY NORTHEAST,Special,,,YES,561
+Gilmer,ELLIJAY SOUTH,Special,,,NO,718
+Gilmer,CARTECAY,Special,,,NO,418
+Gilmer,TAILS CREEK,Special,,,NO,403
+Gilmer,TOWN CREEK,Special,,,NO,290
+Gilmer,LEACHES,Special,,,NO,735
+Gilmer,CHERRY LOG,Special,,,NO,294
+Gilmer,BOARDTOWN,Special,,,NO,406
+Gilmer,MOUNTAINTOWN,Special,,,NO,337
+Gilmer,EAST ELLIJAY,Special,,,NO,386
+Gilmer,ELLIJAY NORTH,Special,,,NO,372
+Gilmer,YUKON,Special,,,NO,324
+Gilmer,BIG CREEK,Special,,,NO,361
+Gilmer,ELLIJAY NORTHEAST,Special,,,NO,473

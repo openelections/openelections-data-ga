@@ -1,0 +1,328 @@
+county,precinct,office,district,party,candidate,votes
+Murray,MCDONALD,Governor,,REP,BRIAN KEMP,1055
+Murray,SHUCK PEN,Governor,,REP,BRIAN KEMP,1216
+Murray,SOUTHWEST,Governor,,REP,BRIAN KEMP,1224
+Murray,SPRING PLACE,Governor,,REP,BRIAN KEMP,1543
+Murray,TOWN,Governor,,REP,BRIAN KEMP,2570
+Murray,CARTERS-DOOLITTLE,Governor,,REP,BRIAN KEMP,900
+Murray,NORTH,Governor,,REP,BRIAN KEMP,1004
+Murray,MCDONALD,Governor,,DEM,STACEY ABRAMS,148
+Murray,SHUCK PEN,Governor,,DEM,STACEY ABRAMS,216
+Murray,SOUTHWEST,Governor,,DEM,STACEY ABRAMS,158
+Murray,SPRING PLACE,Governor,,DEM,STACEY ABRAMS,298
+Murray,TOWN,Governor,,DEM,STACEY ABRAMS,448
+Murray,CARTERS-DOOLITTLE,Governor,,DEM,STACEY ABRAMS,111
+Murray,NORTH,Governor,,DEM,STACEY ABRAMS,110
+Murray,MCDONALD,Governor,,LIB,TED METZ,10
+Murray,SHUCK PEN,Governor,,LIB,TED METZ,11
+Murray,SOUTHWEST,Governor,,LIB,TED METZ,10
+Murray,SPRING PLACE,Governor,,LIB,TED METZ,9
+Murray,TOWN,Governor,,LIB,TED METZ,35
+Murray,CARTERS-DOOLITTLE,Governor,,LIB,TED METZ,7
+Murray,NORTH,Governor,,LIB,TED METZ,8
+Murray,MCDONALD,Lieutenant Governor,,REP,GEOFF DUNCAN,991
+Murray,SHUCK PEN,Lieutenant Governor,,REP,GEOFF DUNCAN,1153
+Murray,SOUTHWEST,Lieutenant Governor,,REP,GEOFF DUNCAN,1158
+Murray,SPRING PLACE,Lieutenant Governor,,REP,GEOFF DUNCAN,1461
+Murray,TOWN,Lieutenant Governor,,REP,GEOFF DUNCAN,2433
+Murray,CARTERS-DOOLITTLE,Lieutenant Governor,,REP,GEOFF DUNCAN,840
+Murray,NORTH,Lieutenant Governor,,REP,GEOFF DUNCAN,943
+Murray,MCDONALD,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,146
+Murray,SHUCK PEN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,215
+Murray,SOUTHWEST,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,160
+Murray,SPRING PLACE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,289
+Murray,TOWN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,457
+Murray,CARTERS-DOOLITTLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,121
+Murray,NORTH,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,114
+Murray,MCDONALD,Secretary Of State,,REP,BRAD RAFFENSPERGER,993
+Murray,SHUCK PEN,Secretary Of State,,REP,BRAD RAFFENSPERGER,1161
+Murray,SOUTHWEST,Secretary Of State,,REP,BRAD RAFFENSPERGER,1161
+Murray,SPRING PLACE,Secretary Of State,,REP,BRAD RAFFENSPERGER,1478
+Murray,TOWN,Secretary Of State,,REP,BRAD RAFFENSPERGER,2439
+Murray,CARTERS-DOOLITTLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,841
+Murray,NORTH,Secretary Of State,,REP,BRAD RAFFENSPERGER,955
+Murray,MCDONALD,Secretary Of State,,DEM,JOHN BARROW,160
+Murray,SHUCK PEN,Secretary Of State,,DEM,JOHN BARROW,233
+Murray,SOUTHWEST,Secretary Of State,,DEM,JOHN BARROW,175
+Murray,SPRING PLACE,Secretary Of State,,DEM,JOHN BARROW,322
+Murray,TOWN,Secretary Of State,,DEM,JOHN BARROW,487
+Murray,CARTERS-DOOLITTLE,Secretary Of State,,DEM,JOHN BARROW,140
+Murray,NORTH,Secretary Of State,,DEM,JOHN BARROW,124
+Murray,MCDONALD,Secretary Of State,,LIB,SMYTHE DUVAL,28
+Murray,SHUCK PEN,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Murray,SOUTHWEST,Secretary Of State,,LIB,SMYTHE DUVAL,24
+Murray,SPRING PLACE,Secretary Of State,,LIB,SMYTHE DUVAL,23
+Murray,TOWN,Secretary Of State,,LIB,SMYTHE DUVAL,53
+Murray,CARTERS-DOOLITTLE,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Murray,NORTH,Secretary Of State,,LIB,SMYTHE DUVAL,14
+Murray,MCDONALD,Attorney General,,(REP,CHRIS CARR ,998
+Murray,SHUCK PEN,Attorney General,,(REP,CHRIS CARR ,1173
+Murray,SOUTHWEST,Attorney General,,(REP,CHRIS CARR ,1174
+Murray,SPRING PLACE,Attorney General,,(REP,CHRIS CARR ,1496
+Murray,TOWN,Attorney General,,(REP,CHRIS CARR ,2474
+Murray,CARTERS-DOOLITTLE,Attorney General,,(REP,CHRIS CARR ,851
+Murray,NORTH,Attorney General,,(REP,CHRIS CARR ,957
+Murray,MCDONALD,Attorney General,,DEM,CHARLIE BAILEY,166
+Murray,SHUCK PEN,Attorney General,,DEM,CHARLIE BAILEY,235
+Murray,SOUTHWEST,Attorney General,,DEM,CHARLIE BAILEY,175
+Murray,SPRING PLACE,Attorney General,,DEM,CHARLIE BAILEY,312
+Murray,TOWN,Attorney General,,DEM,CHARLIE BAILEY,487
+Murray,CARTERS-DOOLITTLE,Attorney General,,DEM,CHARLIE BAILEY,133
+Murray,NORTH,Attorney General,,DEM,CHARLIE BAILEY,120
+Murray,MCDONALD,Commissioner Of Agriculture,,(REP,GARY BLACK ,1008
+Murray,SHUCK PEN,Commissioner Of Agriculture,,(REP,GARY BLACK ,1181
+Murray,SOUTHWEST,Commissioner Of Agriculture,,(REP,GARY BLACK ,1185
+Murray,SPRING PLACE,Commissioner Of Agriculture,,(REP,GARY BLACK ,1499
+Murray,TOWN,Commissioner Of Agriculture,,(REP,GARY BLACK ,2497
+Murray,CARTERS-DOOLITTLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,857
+Murray,NORTH,Commissioner Of Agriculture,,(REP,GARY BLACK ,967
+Murray,MCDONALD,Commissioner Of Agriculture,,DEM,FRED SWANN,163
+Murray,SHUCK PEN,Commissioner Of Agriculture,,DEM,FRED SWANN,220
+Murray,SOUTHWEST,Commissioner Of Agriculture,,DEM,FRED SWANN,165
+Murray,SPRING PLACE,Commissioner Of Agriculture,,DEM,FRED SWANN,299
+Murray,TOWN,Commissioner Of Agriculture,,DEM,FRED SWANN,448
+Murray,CARTERS-DOOLITTLE,Commissioner Of Agriculture,,DEM,FRED SWANN,125
+Murray,NORTH,Commissioner Of Agriculture,,DEM,FRED SWANN,114
+Murray,MCDONALD,Commissioner Of Insurance,,REP,JIM BECK,991
+Murray,SHUCK PEN,Commissioner Of Insurance,,REP,JIM BECK,1159
+Murray,SOUTHWEST,Commissioner Of Insurance,,REP,JIM BECK,1164
+Murray,SPRING PLACE,Commissioner Of Insurance,,REP,JIM BECK,1463
+Murray,TOWN,Commissioner Of Insurance,,REP,JIM BECK,2451
+Murray,CARTERS-DOOLITTLE,Commissioner Of Insurance,,REP,JIM BECK,845
+Murray,NORTH,Commissioner Of Insurance,,REP,JIM BECK,950
+Murray,MCDONALD,Commissioner Of Insurance,,DEM,JANICE LAWS,150
+Murray,SHUCK PEN,Commissioner Of Insurance,,DEM,JANICE LAWS,220
+Murray,SOUTHWEST,Commissioner Of Insurance,,DEM,JANICE LAWS,162
+Murray,SPRING PLACE,Commissioner Of Insurance,,DEM,JANICE LAWS,302
+Murray,TOWN,Commissioner Of Insurance,,DEM,JANICE LAWS,450
+Murray,CARTERS-DOOLITTLE,Commissioner Of Insurance,,DEM,JANICE LAWS,129
+Murray,NORTH,Commissioner Of Insurance,,DEM,JANICE LAWS,114
+Murray,MCDONALD,Commissioner Of Insurance,,LIB,DONNIE FOSTER,31
+Murray,SHUCK PEN,Commissioner Of Insurance,,LIB,DONNIE FOSTER,25
+Murray,SOUTHWEST,Commissioner Of Insurance,,LIB,DONNIE FOSTER,31
+Murray,SPRING PLACE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,45
+Murray,TOWN,Commissioner Of Insurance,,LIB,DONNIE FOSTER,56
+Murray,CARTERS-DOOLITTLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,17
+Murray,NORTH,Commissioner Of Insurance,,LIB,DONNIE FOSTER,19
+Murray,MCDONALD,State School Superintendent,,(REP,RICHARD WOODS ,1025
+Murray,SHUCK PEN,State School Superintendent,,(REP,RICHARD WOODS ,1188
+Murray,SOUTHWEST,State School Superintendent,,(REP,RICHARD WOODS ,1191
+Murray,SPRING PLACE,State School Superintendent,,(REP,RICHARD WOODS ,1514
+Murray,TOWN,State School Superintendent,,(REP,RICHARD WOODS ,2509
+Murray,CARTERS-DOOLITTLE,State School Superintendent,,(REP,RICHARD WOODS ,867
+Murray,NORTH,State School Superintendent,,(REP,RICHARD WOODS ,985
+Murray,MCDONALD,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",160
+Murray,SHUCK PEN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",221
+Murray,SOUTHWEST,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",167
+Murray,SPRING PLACE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",301
+Murray,TOWN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",456
+Murray,CARTERS-DOOLITTLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",126
+Murray,NORTH,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",111
+Murray,MCDONALD,Commissioner Of Labor,,(REP,MARK BUTLER ,1014
+Murray,SHUCK PEN,Commissioner Of Labor,,(REP,MARK BUTLER ,1170
+Murray,SOUTHWEST,Commissioner Of Labor,,(REP,MARK BUTLER ,1177
+Murray,SPRING PLACE,Commissioner Of Labor,,(REP,MARK BUTLER ,1513
+Murray,TOWN,Commissioner Of Labor,,(REP,MARK BUTLER ,2510
+Murray,CARTERS-DOOLITTLE,Commissioner Of Labor,,(REP,MARK BUTLER ,861
+Murray,NORTH,Commissioner Of Labor,,(REP,MARK BUTLER ,975
+Murray,MCDONALD,Commissioner Of Labor,,DEM,RICHARD KEATLEY,162
+Murray,SHUCK PEN,Commissioner Of Labor,,DEM,RICHARD KEATLEY,226
+Murray,SOUTHWEST,Commissioner Of Labor,,DEM,RICHARD KEATLEY,178
+Murray,SPRING PLACE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,300
+Murray,TOWN,Commissioner Of Labor,,DEM,RICHARD KEATLEY,450
+Murray,CARTERS-DOOLITTLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,123
+Murray,NORTH,Commissioner Of Labor,,DEM,RICHARD KEATLEY,118
+Murray,MCDONALD,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,999
+Murray,SHUCK PEN,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1148
+Murray,SOUTHWEST,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1156
+Murray,SPRING PLACE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1470
+Murray,TOWN,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2448
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,851
+Murray,NORTH,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,957
+Murray,MCDONALD,"Public Service Commission, District 3",3,DEM,LINDY MILLER,153
+Murray,SHUCK PEN,"Public Service Commission, District 3",3,DEM,LINDY MILLER,224
+Murray,SOUTHWEST,"Public Service Commission, District 3",3,DEM,LINDY MILLER,167
+Murray,SPRING PLACE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,295
+Murray,TOWN,"Public Service Commission, District 3",3,DEM,LINDY MILLER,448
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,119
+Murray,NORTH,"Public Service Commission, District 3",3,DEM,LINDY MILLER,115
+Murray,MCDONALD,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,26
+Murray,SHUCK PEN,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,27
+Murray,SOUTHWEST,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,28
+Murray,SPRING PLACE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,42
+Murray,TOWN,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,69
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,15
+Murray,NORTH,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,21
+Murray,MCDONALD,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,995
+Murray,SHUCK PEN,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1147
+Murray,SOUTHWEST,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1155
+Murray,SPRING PLACE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1464
+Murray,TOWN,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2422
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,842
+Murray,NORTH,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,959
+Murray,MCDONALD,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,149
+Murray,SHUCK PEN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,225
+Murray,SOUTHWEST,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,175
+Murray,SPRING PLACE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,300
+Murray,TOWN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,457
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,120
+Murray,NORTH,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,118
+Murray,MCDONALD,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,27
+Murray,SHUCK PEN,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,24
+Murray,SOUTHWEST,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,28
+Murray,SPRING PLACE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,38
+Murray,TOWN,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,71
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,23
+Murray,NORTH,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Murray,MCDONALD,U.S. Representative,14,(REP,TOM GRAVES ,1025
+Murray,SHUCK PEN,U.S. Representative,14,(REP,TOM GRAVES ,1192
+Murray,SOUTHWEST,U.S. Representative,14,(REP,TOM GRAVES ,1192
+Murray,SPRING PLACE,U.S. Representative,14,(REP,TOM GRAVES ,1520
+Murray,TOWN,U.S. Representative,14,(REP,TOM GRAVES ,2531
+Murray,CARTERS-DOOLITTLE,U.S. Representative,14,(REP,TOM GRAVES ,875
+Murray,NORTH,U.S. Representative,14,(REP,TOM GRAVES ,978
+Murray,MCDONALD,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,169
+Murray,SHUCK PEN,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,227
+Murray,SOUTHWEST,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,182
+Murray,SPRING PLACE,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,296
+Murray,TOWN,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,455
+Murray,CARTERS-DOOLITTLE,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,123
+Murray,NORTH,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,127
+Murray,MCDONALD,State Senator,54,(REP,CHUCK PAYNE ,1028
+Murray,SHUCK PEN,State Senator,54,(REP,CHUCK PAYNE ,1182
+Murray,SOUTHWEST,State Senator,54,(REP,CHUCK PAYNE ,1185
+Murray,SPRING PLACE,State Senator,54,(REP,CHUCK PAYNE ,1507
+Murray,TOWN,State Senator,54,(REP,CHUCK PAYNE ,2513
+Murray,CARTERS-DOOLITTLE,State Senator,54,(REP,CHUCK PAYNE ,868
+Murray,NORTH,State Senator,54,(REP,CHUCK PAYNE ,968
+Murray,MCDONALD,State Senator,54,DEM,MICHAEL S. MORGAN,162
+Murray,SHUCK PEN,State Senator,54,DEM,MICHAEL S. MORGAN,232
+Murray,SOUTHWEST,State Senator,54,DEM,MICHAEL S. MORGAN,179
+Murray,SPRING PLACE,State Senator,54,DEM,MICHAEL S. MORGAN,307
+Murray,TOWN,State Senator,54,DEM,MICHAEL S. MORGAN,465
+Murray,CARTERS-DOOLITTLE,State Senator,54,DEM,MICHAEL S. MORGAN,126
+Murray,NORTH,State Senator,54,DEM,MICHAEL S. MORGAN,124
+Murray,SOUTHWEST,State Representative,5,(REP,JOHN MEADOWS ,1173
+Murray,SOUTHWEST,State Representative,5,DEM,BRIAN ROSSER,183
+Murray,MCDONALD,State Representative,6,(REP,JASON T. RIDLEY ,1079
+Murray,SHUCK PEN,State Representative,6,(REP,JASON T. RIDLEY ,1277
+Murray,TOWN,State Representative,6,(REP,JASON T. RIDLEY ,1010
+Murray,NORTH,State Representative,6,(REP,JASON T. RIDLEY ,1030
+Murray,SPRING PLACE,State Representative,11,(REP,RICK JASPERSE ,1495
+Murray,TOWN,State Representative,11,(REP,RICK JASPERSE ,1561
+Murray,CARTERS-DOOLITTLE,State Representative,11,(REP,RICK JASPERSE ,871
+Murray,SPRING PLACE,State Representative,11,DEM,LEE A. SHIVER,305
+Murray,TOWN,State Representative,11,DEM,LEE A. SHIVER,320
+Murray,CARTERS-DOOLITTLE,State Representative,11,DEM,LEE A. SHIVER,121
+Murray,MCDONALD,BOE D6,,R,H. JONES ,1072
+Murray,SHUCK PEN,BOE D6,,R,H. JONES ,1276
+Murray,SOUTHWEST,BOE D6,,R,H. JONES ,1262
+Murray,SPRING PLACE,BOE D6,,R,H. JONES ,1650
+Murray,TOWN,BOE D6,,R,H. JONES ,2698
+Murray,CARTERS-DOOLITTLE,BOE D6,,R,H. JONES ,916
+Murray,NORTH,BOE D6,,R,H. JONES ,1026
+Murray,MCDONALD,BOE D7,,R,K. H. REED ,1051
+Murray,SHUCK PEN,BOE D7,,R,K. H. REED ,1258
+Murray,SOUTHWEST,BOE D7,,R,K. H. REED ,1223
+Murray,SPRING PLACE,BOE D7,,R,K. H. REED ,1626
+Murray,TOWN,BOE D7,,R,K. H. REED ,2638
+Murray,CARTERS-DOOLITTLE,BOE D7,,R,K. H. REED ,907
+Murray,NORTH,BOE D7,,R,K. H. REED ,1020
+Murray,MCDONALD,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,885
+Murray,SHUCK PEN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1087
+Murray,SOUTHWEST,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1081
+Murray,SPRING PLACE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1412
+Murray,TOWN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2245
+Murray,CARTERS-DOOLITTLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,786
+Murray,NORTH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,818
+Murray,MCDONALD,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,268
+Murray,SHUCK PEN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,287
+Murray,SOUTHWEST,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,252
+Murray,SPRING PLACE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,353
+Murray,TOWN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,659
+Murray,CARTERS-DOOLITTLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,177
+Murray,NORTH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,253
+Murray,MCDONALD,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,691
+Murray,SHUCK PEN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,861
+Murray,SOUTHWEST,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,870
+Murray,SPRING PLACE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1115
+Murray,TOWN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1745
+Murray,CARTERS-DOOLITTLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,616
+Murray,NORTH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,660
+Murray,MCDONALD,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,419
+Murray,SHUCK PEN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,473
+Murray,SOUTHWEST,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,422
+Murray,SPRING PLACE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,581
+Murray,TOWN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1047
+Murray,CARTERS-DOOLITTLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,309
+Murray,NORTH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,382
+Murray,MCDONALD,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,611
+Murray,SHUCK PEN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,717
+Murray,SOUTHWEST,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,768
+Murray,SPRING PLACE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,963
+Murray,TOWN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1516
+Murray,CARTERS-DOOLITTLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,536
+Murray,NORTH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,593
+Murray,MCDONALD,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,464
+Murray,SHUCK PEN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,594
+Murray,SOUTHWEST,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,507
+Murray,SPRING PLACE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,710
+Murray,TOWN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1223
+Murray,CARTERS-DOOLITTLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,381
+Murray,NORTH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,439
+Murray,MCDONALD,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,777
+Murray,SHUCK PEN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,970
+Murray,SOUTHWEST,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,967
+Murray,SPRING PLACE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1240
+Murray,TOWN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2062
+Murray,CARTERS-DOOLITTLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,658
+Murray,NORTH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,752
+Murray,MCDONALD,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,335
+Murray,SHUCK PEN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,375
+Murray,SOUTHWEST,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,339
+Murray,SPRING PLACE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,457
+Murray,TOWN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,779
+Murray,CARTERS-DOOLITTLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,272
+Murray,NORTH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,302
+Murray,MCDONALD,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,662
+Murray,SHUCK PEN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,856
+Murray,SOUTHWEST,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,842
+Murray,SPRING PLACE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1142
+Murray,TOWN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1779
+Murray,CARTERS-DOOLITTLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,558
+Murray,NORTH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,659
+Murray,MCDONALD,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,422
+Murray,SHUCK PEN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,467
+Murray,SOUTHWEST,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,442
+Murray,SPRING PLACE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,529
+Murray,TOWN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,990
+Murray,CARTERS-DOOLITTLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,358
+Murray,NORTH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,368
+Murray,MCDONALD,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,559
+Murray,SHUCK PEN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,712
+Murray,SOUTHWEST,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,715
+Murray,SPRING PLACE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,888
+Murray,TOWN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1407
+Murray,CARTERS-DOOLITTLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,486
+Murray,NORTH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,564
+Murray,MCDONALD,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,516
+Murray,SHUCK PEN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,593
+Murray,SOUTHWEST,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,555
+Murray,SPRING PLACE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,761
+Murray,TOWN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1300
+Murray,CARTERS-DOOLITTLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,418
+Murray,NORTH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,464
+Murray,MCDONALD,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,778
+Murray,SHUCK PEN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,983
+Murray,SOUTHWEST,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,959
+Murray,SPRING PLACE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1224
+Murray,TOWN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2033
+Murray,CARTERS-DOOLITTLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,699
+Murray,NORTH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,751
+Murray,MCDONALD,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,335
+Murray,SHUCK PEN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,360
+Murray,SOUTHWEST,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,353
+Murray,SPRING PLACE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,491
+Murray,TOWN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,807
+Murray,CARTERS-DOOLITTLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,240
+Murray,NORTH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,305

@@ -1,0 +1,554 @@
+county,precinct,office,district,party,candidate,votes
+Franklin,Carnesville,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",170
+Franklin,West Franklin,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",105
+Franklin,Northeast,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",148
+Franklin,Lavonia,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",148
+Franklin,Canon,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",116
+Franklin,Royston,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",145
+Franklin,Southwest,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",183
+Franklin,Carnesville,Governor,,REP,HUNTER HILL  (REP),58
+Franklin,West Franklin,Governor,,REP,HUNTER HILL  (REP),25
+Franklin,Northeast,Governor,,REP,HUNTER HILL  (REP),43
+Franklin,Lavonia,Governor,,REP,HUNTER HILL  (REP),31
+Franklin,Canon,Governor,,REP,HUNTER HILL  (REP),28
+Franklin,Royston,Governor,,REP,HUNTER HILL  (REP),26
+Franklin,Southwest,Governor,,REP,HUNTER HILL  (REP),37
+Franklin,Carnesville,Governor,,REP,BRIAN KEMP  (REP),124
+Franklin,West Franklin,Governor,,REP,BRIAN KEMP  (REP),83
+Franklin,Northeast,Governor,,REP,BRIAN KEMP  (REP),91
+Franklin,Lavonia,Governor,,REP,BRIAN KEMP  (REP),93
+Franklin,Canon,Governor,,REP,BRIAN KEMP  (REP),46
+Franklin,Royston,Governor,,REP,BRIAN KEMP  (REP),106
+Franklin,Southwest,Governor,,REP,BRIAN KEMP  (REP),121
+Franklin,Carnesville,Governor,,REP,CLAY TIPPINS  (REP),44
+Franklin,West Franklin,Governor,,REP,CLAY TIPPINS  (REP),43
+Franklin,Northeast,Governor,,REP,CLAY TIPPINS  (REP),55
+Franklin,Lavonia,Governor,,REP,CLAY TIPPINS  (REP),69
+Franklin,Canon,Governor,,REP,CLAY TIPPINS  (REP),17
+Franklin,Royston,Governor,,REP,CLAY TIPPINS  (REP),22
+Franklin,Southwest,Governor,,REP,CLAY TIPPINS  (REP),42
+Franklin,Carnesville,Governor,,REP,MICHAEL WILLIAMS  (REP),26
+Franklin,West Franklin,Governor,,REP,MICHAEL WILLIAMS  (REP),17
+Franklin,Northeast,Governor,,REP,MICHAEL WILLIAMS  (REP),26
+Franklin,Lavonia,Governor,,REP,MICHAEL WILLIAMS  (REP),21
+Franklin,Canon,Governor,,REP,MICHAEL WILLIAMS  (REP),18
+Franklin,Royston,Governor,,REP,MICHAEL WILLIAMS  (REP),15
+Franklin,Southwest,Governor,,REP,MICHAEL WILLIAMS  (REP),36
+Franklin,Carnesville,Governor,,DEM,STACEY ABRAMS  (DEM),18
+Franklin,West Franklin,Governor,,DEM,STACEY ABRAMS  (DEM),12
+Franklin,Northeast,Governor,,DEM,STACEY ABRAMS  (DEM),30
+Franklin,Lavonia,Governor,,DEM,STACEY ABRAMS  (DEM),36
+Franklin,Canon,Governor,,DEM,STACEY ABRAMS  (DEM),15
+Franklin,Royston,Governor,,DEM,STACEY ABRAMS  (DEM),24
+Franklin,Southwest,Governor,,DEM,STACEY ABRAMS  (DEM),12
+Franklin,Carnesville,Governor,,DEM,STACEY EVANS  (DEM),15
+Franklin,West Franklin,Governor,,DEM,STACEY EVANS  (DEM),6
+Franklin,Northeast,Governor,,DEM,STACEY EVANS  (DEM),14
+Franklin,Lavonia,Governor,,DEM,STACEY EVANS  (DEM),11
+Franklin,Canon,Governor,,DEM,STACEY EVANS  (DEM),5
+Franklin,Royston,Governor,,DEM,STACEY EVANS  (DEM),14
+Franklin,Southwest,Governor,,DEM,STACEY EVANS  (DEM),15
+Franklin,Carnesville,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),86
+Franklin,West Franklin,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),71
+Franklin,Northeast,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),91
+Franklin,Lavonia,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),77
+Franklin,Canon,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),47
+Franklin,Royston,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),43
+Franklin,Southwest,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),95
+Franklin,Carnesville,Lieutenant Governor,,REP,RICK JEFFARES  (REP),145
+Franklin,West Franklin,Lieutenant Governor,,REP,RICK JEFFARES  (REP),58
+Franklin,Northeast,Lieutenant Governor,,REP,RICK JEFFARES  (REP),127
+Franklin,Lavonia,Lieutenant Governor,,REP,RICK JEFFARES  (REP),170
+Franklin,Canon,Lieutenant Governor,,REP,RICK JEFFARES  (REP),95
+Franklin,Royston,Lieutenant Governor,,REP,RICK JEFFARES  (REP),167
+Franklin,Southwest,Lieutenant Governor,,REP,RICK JEFFARES  (REP),134
+Franklin,Carnesville,Lieutenant Governor,,REP,DAVID SHAFER  (REP),164
+Franklin,West Franklin,Lieutenant Governor,,REP,DAVID SHAFER  (REP),127
+Franklin,Northeast,Lieutenant Governor,,REP,DAVID SHAFER  (REP),128
+Franklin,Lavonia,Lieutenant Governor,,REP,DAVID SHAFER  (REP),99
+Franklin,Canon,Lieutenant Governor,,REP,DAVID SHAFER  (REP),68
+Franklin,Royston,Lieutenant Governor,,REP,DAVID SHAFER  (REP),91
+Franklin,Southwest,Lieutenant Governor,,REP,DAVID SHAFER  (REP),162
+Franklin,Carnesville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),19
+Franklin,West Franklin,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),11
+Franklin,Northeast,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),26
+Franklin,Lavonia,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),21
+Franklin,Canon,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),10
+Franklin,Royston,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),18
+Franklin,Southwest,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),17
+Franklin,Carnesville,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),11
+Franklin,West Franklin,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),5
+Franklin,Northeast,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),17
+Franklin,Lavonia,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),20
+Franklin,Canon,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),9
+Franklin,Royston,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),17
+Franklin,Southwest,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),7
+Franklin,Carnesville,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),124
+Franklin,West Franklin,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),80
+Franklin,Northeast,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),95
+Franklin,Lavonia,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),118
+Franklin,Canon,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),76
+Franklin,Royston,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),68
+Franklin,Southwest,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),114
+Franklin,Carnesville,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),62
+Franklin,West Franklin,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),40
+Franklin,Northeast,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),57
+Franklin,Lavonia,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),61
+Franklin,Canon,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),34
+Franklin,Royston,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),49
+Franklin,Southwest,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),37
+Franklin,Carnesville,Secretary Of State,,REP,JOSH MCKOON  (REP),68
+Franklin,West Franklin,Secretary Of State,,REP,JOSH MCKOON  (REP),43
+Franklin,Northeast,Secretary Of State,,REP,JOSH MCKOON  (REP),55
+Franklin,Lavonia,Secretary Of State,,REP,JOSH MCKOON  (REP),52
+Franklin,Canon,Secretary Of State,,REP,JOSH MCKOON  (REP),37
+Franklin,Royston,Secretary Of State,,REP,JOSH MCKOON  (REP),41
+Franklin,Southwest,Secretary Of State,,REP,JOSH MCKOON  (REP),65
+Franklin,Carnesville,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),119
+Franklin,West Franklin,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),86
+Franklin,Northeast,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),118
+Franklin,Lavonia,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),85
+Franklin,Canon,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),47
+Franklin,Royston,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),131
+Franklin,Southwest,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),162
+Franklin,Carnesville,Secretary Of State,,DEM,JOHN BARROW  (DEM),25
+Franklin,West Franklin,Secretary Of State,,DEM,JOHN BARROW  (DEM),9
+Franklin,Northeast,Secretary Of State,,DEM,JOHN BARROW  (DEM),23
+Franklin,Lavonia,Secretary Of State,,DEM,JOHN BARROW  (DEM),25
+Franklin,Canon,Secretary Of State,,DEM,JOHN BARROW  (DEM),11
+Franklin,Royston,Secretary Of State,,DEM,JOHN BARROW  (DEM),25
+Franklin,Southwest,Secretary Of State,,DEM,JOHN BARROW  (DEM),23
+Franklin,Carnesville,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),3
+Franklin,West Franklin,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),6
+Franklin,Northeast,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),17
+Franklin,Lavonia,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),14
+Franklin,Canon,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),5
+Franklin,Royston,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),8
+Franklin,Southwest,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),4
+Franklin,Carnesville,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",3
+Franklin,West Franklin,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",1
+Franklin,Northeast,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",3
+Franklin,Lavonia,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",5
+Franklin,Canon,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",3
+Franklin,Royston,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",5
+Franklin,Southwest,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",0
+Franklin,Carnesville,Attorney General,,REP,CHRIS CARR (I) (REP),341
+Franklin,West Franklin,Attorney General,,REP,CHRIS CARR (I) (REP),218
+Franklin,Northeast,Attorney General,,REP,CHRIS CARR (I) (REP),295
+Franklin,Lavonia,Attorney General,,REP,CHRIS CARR (I) (REP),314
+Franklin,Canon,Attorney General,,REP,CHRIS CARR (I) (REP),161
+Franklin,Royston,Attorney General,,REP,CHRIS CARR (I) (REP),255
+Franklin,Southwest,Attorney General,,REP,CHRIS CARR (I) (REP),348
+Franklin,Carnesville,Attorney General,,DEM,CHARLIE BAILEY  (DEM),27
+Franklin,West Franklin,Attorney General,,DEM,CHARLIE BAILEY  (DEM),16
+Franklin,Northeast,Attorney General,,DEM,CHARLIE BAILEY  (DEM),39
+Franklin,Lavonia,Attorney General,,DEM,CHARLIE BAILEY  (DEM),36
+Franklin,Canon,Attorney General,,DEM,CHARLIE BAILEY  (DEM),18
+Franklin,Royston,Attorney General,,DEM,CHARLIE BAILEY  (DEM),35
+Franklin,Southwest,Attorney General,,DEM,CHARLIE BAILEY  (DEM),23
+Franklin,Carnesville,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),363
+Franklin,West Franklin,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),230
+Franklin,Northeast,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),300
+Franklin,Lavonia,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),320
+Franklin,Canon,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),183
+Franklin,Royston,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),265
+Franklin,Southwest,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),370
+Franklin,Carnesville,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),26
+Franklin,West Franklin,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),14
+Franklin,Northeast,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),37
+Franklin,Lavonia,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),36
+Franklin,Canon,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),18
+Franklin,Royston,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),35
+Franklin,Southwest,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),22
+Franklin,Carnesville,Commissioner Of Insurance,,REP,JIM BECK  (REP),219
+Franklin,West Franklin,Commissioner Of Insurance,,REP,JIM BECK  (REP),138
+Franklin,Northeast,Commissioner Of Insurance,,REP,JIM BECK  (REP),192
+Franklin,Lavonia,Commissioner Of Insurance,,REP,JIM BECK  (REP),179
+Franklin,Canon,Commissioner Of Insurance,,REP,JIM BECK  (REP),112
+Franklin,Royston,Commissioner Of Insurance,,REP,JIM BECK  (REP),146
+Franklin,Southwest,Commissioner Of Insurance,,REP,JIM BECK  (REP),225
+Franklin,Carnesville,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),59
+Franklin,West Franklin,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),47
+Franklin,Northeast,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),57
+Franklin,Lavonia,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),54
+Franklin,Canon,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),34
+Franklin,Royston,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),59
+Franklin,Southwest,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),67
+Franklin,Carnesville,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),101
+Franklin,West Franklin,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),64
+Franklin,Northeast,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),72
+Franklin,Lavonia,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),93
+Franklin,Canon,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),60
+Franklin,Royston,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),80
+Franklin,Southwest,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),90
+Franklin,Carnesville,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),11
+Franklin,West Franklin,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),7
+Franklin,Northeast,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),19
+Franklin,Lavonia,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),28
+Franklin,Canon,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),12
+Franklin,Royston,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),25
+Franklin,Southwest,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),13
+Franklin,Carnesville,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),18
+Franklin,West Franklin,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),9
+Franklin,Northeast,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),23
+Franklin,Lavonia,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),15
+Franklin,Canon,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),7
+Franklin,Royston,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),12
+Franklin,Southwest,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),12
+Franklin,Carnesville,State School Superintendent,,REP,JOHN BARGE  (REP),159
+Franklin,West Franklin,State School Superintendent,,REP,JOHN BARGE  (REP),105
+Franklin,Northeast,State School Superintendent,,REP,JOHN BARGE  (REP),151
+Franklin,Lavonia,State School Superintendent,,REP,JOHN BARGE  (REP),137
+Franklin,Canon,State School Superintendent,,REP,JOHN BARGE  (REP),77
+Franklin,Royston,State School Superintendent,,REP,JOHN BARGE  (REP),125
+Franklin,Southwest,State School Superintendent,,REP,JOHN BARGE  (REP),157
+Franklin,Carnesville,State School Superintendent,,REP,RICHARD WOODS (I) (REP),228
+Franklin,West Franklin,State School Superintendent,,REP,RICHARD WOODS (I) (REP),155
+Franklin,Northeast,State School Superintendent,,REP,RICHARD WOODS (I) (REP),196
+Franklin,Lavonia,State School Superintendent,,REP,RICHARD WOODS (I) (REP),203
+Franklin,Canon,State School Superintendent,,REP,RICHARD WOODS (I) (REP),133
+Franklin,Royston,State School Superintendent,,REP,RICHARD WOODS (I) (REP),167
+Franklin,Southwest,State School Superintendent,,REP,RICHARD WOODS (I) (REP),237
+Franklin,Carnesville,State School Superintendent,,DEM,SID CHAPMAN (DEM),9
+Franklin,West Franklin,State School Superintendent,,DEM,SID CHAPMAN (DEM),7
+Franklin,Northeast,State School Superintendent,,DEM,SID CHAPMAN (DEM),18
+Franklin,Lavonia,State School Superintendent,,DEM,SID CHAPMAN (DEM),15
+Franklin,Canon,State School Superintendent,,DEM,SID CHAPMAN (DEM),10
+Franklin,Royston,State School Superintendent,,DEM,SID CHAPMAN (DEM),10
+Franklin,Southwest,State School Superintendent,,DEM,SID CHAPMAN (DEM),7
+Franklin,Carnesville,State School Superintendent,,DEM,SAM MOSTELLER (DEM),12
+Franklin,West Franklin,State School Superintendent,,DEM,SAM MOSTELLER (DEM),1
+Franklin,Northeast,State School Superintendent,,DEM,SAM MOSTELLER (DEM),9
+Franklin,Lavonia,State School Superintendent,,DEM,SAM MOSTELLER (DEM),12
+Franklin,Canon,State School Superintendent,,DEM,SAM MOSTELLER (DEM),3
+Franklin,Royston,State School Superintendent,,DEM,SAM MOSTELLER (DEM),13
+Franklin,Southwest,State School Superintendent,,DEM,SAM MOSTELLER (DEM),5
+Franklin,Carnesville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",8
+Franklin,West Franklin,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",8
+Franklin,Northeast,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",12
+Franklin,Lavonia,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",14
+Franklin,Canon,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",5
+Franklin,Royston,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",14
+Franklin,Southwest,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",13
+Franklin,Carnesville,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),349
+Franklin,West Franklin,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),222
+Franklin,Northeast,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),292
+Franklin,Lavonia,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),313
+Franklin,Canon,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),176
+Franklin,Royston,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),263
+Franklin,Southwest,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),360
+Franklin,Carnesville,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),13
+Franklin,West Franklin,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),3
+Franklin,Northeast,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),20
+Franklin,Lavonia,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),25
+Franklin,Canon,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),6
+Franklin,Royston,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),15
+Franklin,Southwest,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),4
+Franklin,Carnesville,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),16
+Franklin,West Franklin,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),13
+Franklin,Northeast,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),19
+Franklin,Lavonia,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),15
+Franklin,Canon,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),12
+Franklin,Royston,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),19
+Franklin,Southwest,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),21
+Franklin,Carnesville,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),348
+Franklin,West Franklin,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),224
+Franklin,Northeast,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),299
+Franklin,Lavonia,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),313
+Franklin,Canon,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),175
+Franklin,Royston,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),265
+Franklin,Southwest,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),356
+Franklin,Carnesville,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),17
+Franklin,West Franklin,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),8
+Franklin,Northeast,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),27
+Franklin,Lavonia,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),28
+Franklin,Canon,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),10
+Franklin,Royston,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),20
+Franklin,Southwest,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),19
+Franklin,Carnesville,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),6
+Franklin,West Franklin,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),4
+Franklin,Northeast,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),6
+Franklin,Lavonia,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),11
+Franklin,Canon,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),4
+Franklin,Royston,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),8
+Franklin,Southwest,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),5
+Franklin,Carnesville,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),5
+Franklin,West Franklin,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),4
+Franklin,Northeast,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),7
+Franklin,Lavonia,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),6
+Franklin,Canon,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),5
+Franklin,Royston,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),9
+Franklin,Southwest,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),3
+Franklin,Carnesville,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),189
+Franklin,West Franklin,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),128
+Franklin,Northeast,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),182
+Franklin,Lavonia,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),166
+Franklin,Canon,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),92
+Franklin,Royston,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),149
+Franklin,Southwest,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),207
+Franklin,Carnesville,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),196
+Franklin,West Franklin,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),128
+Franklin,Northeast,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),149
+Franklin,Lavonia,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),169
+Franklin,Canon,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),115
+Franklin,Royston,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),137
+Franklin,Southwest,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),192
+Franklin,Carnesville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),16
+Franklin,West Franklin,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),11
+Franklin,Northeast,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),27
+Franklin,Lavonia,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),28
+Franklin,Canon,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),8
+Franklin,Royston,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),21
+Franklin,Southwest,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),18
+Franklin,Carnesville,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),11
+Franklin,West Franklin,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),5
+Franklin,Northeast,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),13
+Franklin,Lavonia,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),12
+Franklin,Canon,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),11
+Franklin,Royston,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),16
+Franklin,Southwest,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),7
+Franklin,Carnesville,"U.S. Representative, District 9",9,REP,DOUG COLLINS (I) (REP),354
+Franklin,West Franklin,"U.S. Representative, District 9",9,REP,DOUG COLLINS (I) (REP),235
+Franklin,Northeast,"U.S. Representative, District 9",9,REP,DOUG COLLINS (I) (REP),310
+Franklin,Lavonia,"U.S. Representative, District 9",9,REP,DOUG COLLINS (I) (REP),341
+Franklin,Canon,"U.S. Representative, District 9",9,REP,DOUG COLLINS (I) (REP),189
+Franklin,Royston,"U.S. Representative, District 9",9,REP,DOUG COLLINS (I) (REP),282
+Franklin,Southwest,"U.S. Representative, District 9",9,REP,DOUG COLLINS (I) (REP),377
+Franklin,Carnesville,"U.S. Representative, District 9",9,DEM,DAVE COOPER (DEM),12
+Franklin,West Franklin,"U.S. Representative, District 9",9,DEM,DAVE COOPER (DEM),11
+Franklin,Northeast,"U.S. Representative, District 9",9,DEM,DAVE COOPER (DEM),15
+Franklin,Lavonia,"U.S. Representative, District 9",9,DEM,DAVE COOPER (DEM),25
+Franklin,Canon,"U.S. Representative, District 9",9,DEM,DAVE COOPER (DEM),10
+Franklin,Royston,"U.S. Representative, District 9",9,DEM,DAVE COOPER (DEM),15
+Franklin,Southwest,"U.S. Representative, District 9",9,DEM,DAVE COOPER (DEM),10
+Franklin,Carnesville,"U.S. Representative, District 9",9,DEM,JOSH MCCALL (DEM),18
+Franklin,West Franklin,"U.S. Representative, District 9",9,DEM,JOSH MCCALL (DEM),7
+Franklin,Northeast,"U.S. Representative, District 9",9,DEM,JOSH MCCALL (DEM),27
+Franklin,Lavonia,"U.S. Representative, District 9",9,DEM,JOSH MCCALL (DEM),17
+Franklin,Canon,"U.S. Representative, District 9",9,DEM,JOSH MCCALL (DEM),9
+Franklin,Royston,"U.S. Representative, District 9",9,DEM,JOSH MCCALL (DEM),21
+Franklin,Southwest,"U.S. Representative, District 9",9,DEM,JOSH MCCALL (DEM),16
+Franklin,Carnesville,"State Senator, District 50",50,REP,JOHN K. WILKINSON (I) (REP),357
+Franklin,West Franklin,"State Senator, District 50",50,REP,JOHN K. WILKINSON (I) (REP),232
+Franklin,Northeast,"State Senator, District 50",50,REP,JOHN K. WILKINSON (I) (REP),307
+Franklin,Lavonia,"State Senator, District 50",50,REP,JOHN K. WILKINSON (I) (REP),329
+Franklin,Canon,"State Senator, District 50",50,REP,JOHN K. WILKINSON (I) (REP),183
+Franklin,Royston,"State Senator, District 50",50,REP,JOHN K. WILKINSON (I) (REP),271
+Franklin,Southwest,"State Senator, District 50",50,REP,JOHN K. WILKINSON (I) (REP),374
+Franklin,Carnesville,"State Representative, District 32",32,REP,ALAN POWELL (I) (REP),362
+Franklin,West Franklin,"State Representative, District 32",32,REP,ALAN POWELL (I) (REP),230
+Franklin,Northeast,"State Representative, District 32",32,REP,ALAN POWELL (I) (REP),308
+Franklin,Lavonia,"State Representative, District 32",32,REP,ALAN POWELL (I) (REP),341
+Franklin,Canon,"State Representative, District 32",32,REP,ALAN POWELL (I) (REP),197
+Franklin,Royston,"State Representative, District 32",32,REP,ALAN POWELL (I) (REP),279
+Franklin,Southwest,"State Representative, District 32",32,REP,ALAN POWELL (I) (REP),376
+Franklin,Carnesville,County Comm 3,,REP,R. SWAILS,337
+Franklin,West Franklin,County Comm 3,,REP,R. SWAILS,222
+Franklin,Northeast,County Comm 3,,REP,R. SWAILS,283
+Franklin,Lavonia,County Comm 3,,REP,R. SWAILS,312
+Franklin,Canon,County Comm 3,,REP,R. SWAILS,174
+Franklin,Royston,County Comm 3,,REP,R. SWAILS,267
+Franklin,Southwest,County Comm 3,,REP,R. SWAILS,368
+Franklin,Carnesville,County Comm 4,,REP,E. WESTER (I),349
+Franklin,West Franklin,County Comm 4,,REP,E. WESTER (I),226
+Franklin,Northeast,County Comm 4,,REP,E. WESTER (I),291
+Franklin,Lavonia,County Comm 4,,REP,E. WESTER (I),315
+Franklin,Canon,County Comm 4,,REP,E. WESTER (I),176
+Franklin,Royston,County Comm 4,,REP,E. WESTER (I),258
+Franklin,Southwest,County Comm 4,,REP,E. WESTER (I),358
+Franklin,Carnesville,BOE 3,,REP,R. GAILEY,211
+Franklin,West Franklin,BOE 3,,REP,R. GAILEY,136
+Franklin,Northeast,BOE 3,,REP,R. GAILEY,152
+Franklin,Lavonia,BOE 3,,REP,R. GAILEY,154
+Franklin,Canon,BOE 3,,REP,R. GAILEY,140
+Franklin,Royston,BOE 3,,REP,R. GAILEY,168
+Franklin,Southwest,BOE 3,,REP,R. GAILEY,248
+Franklin,Carnesville,BOE 3,,REP,J. S. MADDEN,196
+Franklin,West Franklin,BOE 3,,REP,J. S. MADDEN,118
+Franklin,Northeast,BOE 3,,REP,J. S. MADDEN,191
+Franklin,Lavonia,BOE 3,,REP,J. S. MADDEN,219
+Franklin,Canon,BOE 3,,REP,J. S. MADDEN,83
+Franklin,Royston,BOE 3,,REP,J. S. MADDEN,132
+Franklin,Southwest,BOE 3,,REP,J. S. MADDEN,166
+Franklin,Carnesville,BOE 4,,REP,A. D. MITCHELL (I),354
+Franklin,West Franklin,BOE 4,,REP,A. D. MITCHELL (I),233
+Franklin,Northeast,BOE 4,,REP,A. D. MITCHELL (I),297
+Franklin,Lavonia,BOE 4,,REP,A. D. MITCHELL (I),324
+Franklin,Canon,BOE 4,,REP,A. D. MITCHELL (I),187
+Franklin,Royston,BOE 4,,REP,A. D. MITCHELL (I),261
+Franklin,Southwest,BOE 4,,REP,A. D. MITCHELL (I),370
+Franklin,Carnesville,BOE 5,,REP,R. CATO (I),246
+Franklin,West Franklin,BOE 5,,REP,R. CATO (I),151
+Franklin,Northeast,BOE 5,,REP,R. CATO (I),179
+Franklin,Lavonia,BOE 5,,REP,R. CATO (I),220
+Franklin,Canon,BOE 5,,REP,R. CATO (I),119
+Franklin,Royston,BOE 5,,REP,R. CATO (I),164
+Franklin,Southwest,BOE 5,,REP,R. CATO (I),251
+Franklin,Carnesville,BOE 5,,REP,"D. MAYFIELD, SR",168
+Franklin,West Franklin,BOE 5,,REP,"D. MAYFIELD, SR",111
+Franklin,Northeast,BOE 5,,REP,"D. MAYFIELD, SR",163
+Franklin,Lavonia,BOE 5,,REP,"D. MAYFIELD, SR",150
+Franklin,Canon,BOE 5,,REP,"D. MAYFIELD, SR",106
+Franklin,Royston,BOE 5,,REP,"D. MAYFIELD, SR",154
+Franklin,Southwest,BOE 5,,REP,"D. MAYFIELD, SR",168
+Franklin,Carnesville,Democratic Party Question 1,,DEM,YES,28
+Franklin,West Franklin,Democratic Party Question 1,,DEM,YES,13
+Franklin,Northeast,Democratic Party Question 1,,DEM,YES,37
+Franklin,Lavonia,Democratic Party Question 1,,DEM,YES,27
+Franklin,Canon,Democratic Party Question 1,,DEM,YES,18
+Franklin,Royston,Democratic Party Question 1,,DEM,YES,33
+Franklin,Southwest,Democratic Party Question 1,,DEM,YES,19
+Franklin,Carnesville,Democratic Party Question 1,,DEM,NO,4
+Franklin,West Franklin,Democratic Party Question 1,,DEM,NO,5
+Franklin,Northeast,Democratic Party Question 1,,DEM,NO,8
+Franklin,Lavonia,Democratic Party Question 1,,DEM,NO,15
+Franklin,Canon,Democratic Party Question 1,,DEM,NO,2
+Franklin,Royston,Democratic Party Question 1,,DEM,NO,7
+Franklin,Southwest,Democratic Party Question 1,,DEM,NO,7
+Franklin,Carnesville,Democratic Party Question 2,,DEM,YES,26
+Franklin,West Franklin,Democratic Party Question 2,,DEM,YES,13
+Franklin,Northeast,Democratic Party Question 2,,DEM,YES,35
+Franklin,Lavonia,Democratic Party Question 2,,DEM,YES,39
+Franklin,Canon,Democratic Party Question 2,,DEM,YES,19
+Franklin,Royston,Democratic Party Question 2,,DEM,YES,38
+Franklin,Southwest,Democratic Party Question 2,,DEM,YES,25
+Franklin,Carnesville,Democratic Party Question 2,,DEM,NO,5
+Franklin,West Franklin,Democratic Party Question 2,,DEM,NO,5
+Franklin,Northeast,Democratic Party Question 2,,DEM,NO,11
+Franklin,Lavonia,Democratic Party Question 2,,DEM,NO,5
+Franklin,Canon,Democratic Party Question 2,,DEM,NO,1
+Franklin,Royston,Democratic Party Question 2,,DEM,NO,2
+Franklin,Southwest,Democratic Party Question 2,,DEM,NO,3
+Franklin,Carnesville,Democratic Party Question 3, non-partisan commission?,DEM,YES,24
+Franklin,West Franklin,Democratic Party Question 3, non-partisan commission?,DEM,YES,11
+Franklin,Northeast,Democratic Party Question 3, non-partisan commission?,DEM,YES,38
+Franklin,Lavonia,Democratic Party Question 3, non-partisan commission?,DEM,YES,32
+Franklin,Canon,Democratic Party Question 3, non-partisan commission?,DEM,YES,16
+Franklin,Royston,Democratic Party Question 3, non-partisan commission?,DEM,YES,35
+Franklin,Southwest,Democratic Party Question 3, non-partisan commission?,DEM,YES,19
+Franklin,Carnesville,Democratic Party Question 3, non-partisan commission?,DEM,NO,7
+Franklin,West Franklin,Democratic Party Question 3, non-partisan commission?,DEM,NO,7
+Franklin,Northeast,Democratic Party Question 3, non-partisan commission?,DEM,NO,8
+Franklin,Lavonia,Democratic Party Question 3, non-partisan commission?,DEM,NO,11
+Franklin,Canon,Democratic Party Question 3, non-partisan commission?,DEM,NO,4
+Franklin,Royston,Democratic Party Question 3, non-partisan commission?,DEM,NO,4
+Franklin,Southwest,Democratic Party Question 3, non-partisan commission?,DEM,NO,9
+Franklin,Carnesville,Democratic Party Question 4, reduce carbon emissions,DEM,YES,21
+Franklin,West Franklin,Democratic Party Question 4, reduce carbon emissions,DEM,YES,12
+Franklin,Northeast,Democratic Party Question 4, reduce carbon emissions,DEM,YES,32
+Franklin,Lavonia,Democratic Party Question 4, reduce carbon emissions,DEM,YES,28
+Franklin,Canon,Democratic Party Question 4, reduce carbon emissions,DEM,YES,13
+Franklin,Royston,Democratic Party Question 4, reduce carbon emissions,DEM,YES,31
+Franklin,Southwest,Democratic Party Question 4, reduce carbon emissions,DEM,YES,18
+Franklin,Carnesville,Democratic Party Question 4, reduce carbon emissions,DEM,NO,12
+Franklin,West Franklin,Democratic Party Question 4, reduce carbon emissions,DEM,NO,6
+Franklin,Northeast,Democratic Party Question 4, reduce carbon emissions,DEM,NO,14
+Franklin,Lavonia,Democratic Party Question 4, reduce carbon emissions,DEM,NO,15
+Franklin,Canon,Democratic Party Question 4, reduce carbon emissions,DEM,NO,7
+Franklin,Royston,Democratic Party Question 4, reduce carbon emissions,DEM,NO,9
+Franklin,Southwest,Democratic Party Question 4, reduce carbon emissions,DEM,NO,9
+Franklin,Carnesville,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,361
+Franklin,West Franklin,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,241
+Franklin,Northeast,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,338
+Franklin,Lavonia,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,367
+Franklin,Canon,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,200
+Franklin,Royston,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,305
+Franklin,Southwest,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,384
+Franklin,Carnesville,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,360
+Franklin,West Franklin,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,239
+Franklin,Northeast,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,335
+Franklin,Lavonia,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,364
+Franklin,Canon,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,198
+Franklin,Royston,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,304
+Franklin,Southwest,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,383
+Franklin,Carnesville,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,362
+Franklin,West Franklin,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,238
+Franklin,Northeast,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,339
+Franklin,Lavonia,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,357
+Franklin,Canon,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,191
+Franklin,Royston,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,302
+Franklin,Southwest,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,387
+Franklin,Carnesville,Supreme Court Justice, Melton,,HAROLD D. MELTON ,361
+Franklin,West Franklin,Supreme Court Justice, Melton,,HAROLD D. MELTON ,237
+Franklin,Northeast,Supreme Court Justice, Melton,,HAROLD D. MELTON ,337
+Franklin,Lavonia,Supreme Court Justice, Melton,,HAROLD D. MELTON ,367
+Franklin,Canon,Supreme Court Justice, Melton,,HAROLD D. MELTON ,191
+Franklin,Royston,Supreme Court Justice, Melton,,HAROLD D. MELTON ,304
+Franklin,Southwest,Supreme Court Justice, Melton,,HAROLD D. MELTON ,384
+Franklin,Carnesville,Supreme Court Justice, Peterson,,NELS PETERSON ,361
+Franklin,West Franklin,Supreme Court Justice, Peterson,,NELS PETERSON ,234
+Franklin,Northeast,Supreme Court Justice, Peterson,,NELS PETERSON ,335
+Franklin,Lavonia,Supreme Court Justice, Peterson,,NELS PETERSON ,357
+Franklin,Canon,Supreme Court Justice, Peterson,,NELS PETERSON ,192
+Franklin,Royston,Supreme Court Justice, Peterson,,NELS PETERSON ,298
+Franklin,Southwest,Supreme Court Justice, Peterson,,NELS PETERSON ,383
+Franklin,Carnesville,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,360
+Franklin,West Franklin,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,236
+Franklin,Northeast,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,332
+Franklin,Lavonia,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,356
+Franklin,Canon,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,193
+Franklin,Royston,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,306
+Franklin,Southwest,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,377
+Franklin,Carnesville,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,357
+Franklin,West Franklin,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,233
+Franklin,Northeast,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,330
+Franklin,Lavonia,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,357
+Franklin,Canon,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,196
+Franklin,Royston,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,303
+Franklin,Southwest,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,375
+Franklin,Carnesville,Appeals Court Judge, Ellington,,KEN HODGES  ,320
+Franklin,West Franklin,Appeals Court Judge, Ellington,,KEN HODGES  ,193
+Franklin,Northeast,Appeals Court Judge, Ellington,,KEN HODGES  ,272
+Franklin,Lavonia,Appeals Court Judge, Ellington,,KEN HODGES  ,296
+Franklin,Canon,Appeals Court Judge, Ellington,,KEN HODGES  ,192
+Franklin,Royston,Appeals Court Judge, Ellington,,KEN HODGES  ,267
+Franklin,Southwest,Appeals Court Judge, Ellington,,KEN HODGES  ,315
+Franklin,Carnesville,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,80
+Franklin,West Franklin,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,61
+Franklin,Northeast,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,90
+Franklin,Lavonia,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,82
+Franklin,Canon,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,32
+Franklin,Royston,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,62
+Franklin,Southwest,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,87
+Franklin,Carnesville,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,358
+Franklin,West Franklin,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,229
+Franklin,Northeast,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,329
+Franklin,Lavonia,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,361
+Franklin,Canon,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,193
+Franklin,Royston,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,308
+Franklin,Southwest,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,374
+Franklin,Carnesville,Appeals Court Judge, Miller,,M. YVETTE MILLER ,356
+Franklin,West Franklin,Appeals Court Judge, Miller,,M. YVETTE MILLER ,230
+Franklin,Northeast,Appeals Court Judge, Miller,,M. YVETTE MILLER ,325
+Franklin,Lavonia,Appeals Court Judge, Miller,,M. YVETTE MILLER ,358
+Franklin,Canon,Appeals Court Judge, Miller,,M. YVETTE MILLER ,190
+Franklin,Royston,Appeals Court Judge, Miller,,M. YVETTE MILLER ,307
+Franklin,Southwest,Appeals Court Judge, Miller,,M. YVETTE MILLER ,374
+Franklin,Carnesville,Appeals Court Judge, Reese,,CLYDE L. REESE III ,354
+Franklin,West Franklin,Appeals Court Judge, Reese,,CLYDE L. REESE III ,232
+Franklin,Northeast,Appeals Court Judge, Reese,,CLYDE L. REESE III ,328
+Franklin,Lavonia,Appeals Court Judge, Reese,,CLYDE L. REESE III ,358
+Franklin,Canon,Appeals Court Judge, Reese,,CLYDE L. REESE III ,192
+Franklin,Royston,Appeals Court Judge, Reese,,CLYDE L. REESE III ,305
+Franklin,Southwest,Appeals Court Judge, Reese,,CLYDE L. REESE III ,375
+Franklin,Carnesville,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,363
+Franklin,West Franklin,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,234
+Franklin,Northeast,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,324
+Franklin,Lavonia,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,363
+Franklin,Canon,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,198
+Franklin,Royston,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,305
+Franklin,Southwest,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,378
+Franklin,Carnesville,Obligation Bonds Question,,,YES,125
+Franklin,West Franklin,Obligation Bonds Question,,,YES,91
+Franklin,Northeast,Obligation Bonds Question,,,YES,138
+Franklin,Lavonia,Obligation Bonds Question,,,YES,155
+Franklin,Canon,Obligation Bonds Question,,,YES,88
+Franklin,Royston,Obligation Bonds Question,,,YES,151
+Franklin,Southwest,Obligation Bonds Question,,,YES,137
+Franklin,Carnesville,Obligation Bonds Question,,,NO,336
+Franklin,West Franklin,Obligation Bonds Question,,,NO,204
+Franklin,Northeast,Obligation Bonds Question,,,NO,291
+Franklin,Lavonia,Obligation Bonds Question,,,NO,288
+Franklin,Canon,Obligation Bonds Question,,,NO,171
+Franklin,Royston,Obligation Bonds Question,,,NO,209
+Franklin,Southwest,Obligation Bonds Question,,,NO,323

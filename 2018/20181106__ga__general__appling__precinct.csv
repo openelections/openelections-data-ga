@@ -1,0 +1,434 @@
+county,precinct,office,district,party,candidate,votes
+Appling,1B,Governor,,REP,BRIAN KEMP,701
+Appling,1C,Governor,,REP,BRIAN KEMP,498
+Appling,2,Governor,,REP,BRIAN KEMP,399
+Appling,3A1,Governor,,REP,BRIAN KEMP,519
+Appling,3C,Governor,,REP,BRIAN KEMP,727
+Appling,4B,Governor,,REP,BRIAN KEMP,571
+Appling,4D,Governor,,REP,BRIAN KEMP,888
+Appling,5A,Governor,,REP,BRIAN KEMP,555
+Appling,5B,Governor,,REP,BRIAN KEMP,570
+Appling,1B,Governor,,DEM,STACEY ABRAMS,78
+Appling,1C,Governor,,DEM,STACEY ABRAMS,40
+Appling,2,Governor,,DEM,STACEY ABRAMS,761
+Appling,3A1,Governor,,DEM,STACEY ABRAMS,16
+Appling,3C,Governor,,DEM,STACEY ABRAMS,203
+Appling,4B,Governor,,DEM,STACEY ABRAMS,13
+Appling,4D,Governor,,DEM,STACEY ABRAMS,80
+Appling,5A,Governor,,DEM,STACEY ABRAMS,77
+Appling,5B,Governor,,DEM,STACEY ABRAMS,90
+Appling,1B,Governor,,LIB,TED METZ,3
+Appling,1C,Governor,,LIB,TED METZ,1
+Appling,2,Governor,,LIB,TED METZ,2
+Appling,3A1,Governor,,LIB,TED METZ,2
+Appling,3C,Governor,,LIB,TED METZ,3
+Appling,4B,Governor,,LIB,TED METZ,1
+Appling,4D,Governor,,LIB,TED METZ,4
+Appling,5A,Governor,,LIB,TED METZ,2
+Appling,5B,Governor,,LIB,TED METZ,5
+Appling,1B,Lieutenant Governor,,REP,GEOFF DUNCAN,659
+Appling,1C,Lieutenant Governor,,REP,GEOFF DUNCAN,464
+Appling,2,Lieutenant Governor,,REP,GEOFF DUNCAN,381
+Appling,3A1,Lieutenant Governor,,REP,GEOFF DUNCAN,490
+Appling,3C,Lieutenant Governor,,REP,GEOFF DUNCAN,681
+Appling,4B,Lieutenant Governor,,REP,GEOFF DUNCAN,550
+Appling,4D,Lieutenant Governor,,REP,GEOFF DUNCAN,845
+Appling,5A,Lieutenant Governor,,REP,GEOFF DUNCAN,511
+Appling,5B,Lieutenant Governor,,REP,GEOFF DUNCAN,539
+Appling,1B,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,78
+Appling,1C,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,43
+Appling,2,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,664
+Appling,3A1,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,19
+Appling,3C,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,195
+Appling,4B,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,18
+Appling,4D,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,82
+Appling,5A,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,79
+Appling,5B,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,88
+Appling,1B,Secretary Of State,,REP,BRAD RAFFENSPERGER,614
+Appling,1C,Secretary Of State,,REP,BRAD RAFFENSPERGER,426
+Appling,2,Secretary Of State,,REP,BRAD RAFFENSPERGER,359
+Appling,3A1,Secretary Of State,,REP,BRAD RAFFENSPERGER,480
+Appling,3C,Secretary Of State,,REP,BRAD RAFFENSPERGER,643
+Appling,4B,Secretary Of State,,REP,BRAD RAFFENSPERGER,522
+Appling,4D,Secretary Of State,,REP,BRAD RAFFENSPERGER,818
+Appling,5A,Secretary Of State,,REP,BRAD RAFFENSPERGER,487
+Appling,5B,Secretary Of State,,REP,BRAD RAFFENSPERGER,509
+Appling,1B,Secretary Of State,,DEM,JOHN BARROW,139
+Appling,1C,Secretary Of State,,DEM,JOHN BARROW,98
+Appling,2,Secretary Of State,,DEM,JOHN BARROW,765
+Appling,3A1,Secretary Of State,,DEM,JOHN BARROW,52
+Appling,3C,Secretary Of State,,DEM,JOHN BARROW,262
+Appling,4B,Secretary Of State,,DEM,JOHN BARROW,51
+Appling,4D,Secretary Of State,,DEM,JOHN BARROW,137
+Appling,5A,Secretary Of State,,DEM,JOHN BARROW,130
+Appling,5B,Secretary Of State,,DEM,JOHN BARROW,143
+Appling,1B,Secretary Of State,,LIB,SMYTHE DUVAL,7
+Appling,1C,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Appling,2,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Appling,3A1,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Appling,3C,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Appling,4B,Secretary Of State,,LIB,SMYTHE DUVAL,2
+Appling,4D,Secretary Of State,,LIB,SMYTHE DUVAL,4
+Appling,5A,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Appling,5B,Secretary Of State,,LIB,SMYTHE DUVAL,2
+Appling,1B,Attorney General,,(REP,CHRIS CARR ,663
+Appling,1C,Attorney General,,(REP,CHRIS CARR ,466
+Appling,2,Attorney General,,(REP,CHRIS CARR ,400
+Appling,3A1,Attorney General,,(REP,CHRIS CARR ,501
+Appling,3C,Attorney General,,(REP,CHRIS CARR ,694
+Appling,4B,Attorney General,,(REP,CHRIS CARR ,550
+Appling,4D,Attorney General,,(REP,CHRIS CARR ,847
+Appling,5A,Attorney General,,(REP,CHRIS CARR ,516
+Appling,5B,Attorney General,,(REP,CHRIS CARR ,541
+Appling,1B,Attorney General,,DEM,CHARLIE BAILEY,93
+Appling,1C,Attorney General,,DEM,CHARLIE BAILEY,48
+Appling,2,Attorney General,,DEM,CHARLIE BAILEY,711
+Appling,3A1,Attorney General,,DEM,CHARLIE BAILEY,23
+Appling,3C,Attorney General,,DEM,CHARLIE BAILEY,205
+Appling,4B,Attorney General,,DEM,CHARLIE BAILEY,19
+Appling,4D,Attorney General,,DEM,CHARLIE BAILEY,95
+Appling,5A,Attorney General,,DEM,CHARLIE BAILEY,88
+Appling,5B,Attorney General,,DEM,CHARLIE BAILEY,102
+Appling,1B,Commissioner Of Agriculture,,(REP,GARY BLACK ,681
+Appling,1C,Commissioner Of Agriculture,,(REP,GARY BLACK ,476
+Appling,2,Commissioner Of Agriculture,,(REP,GARY BLACK ,410
+Appling,3A1,Commissioner Of Agriculture,,(REP,GARY BLACK ,504
+Appling,3C,Commissioner Of Agriculture,,(REP,GARY BLACK ,713
+Appling,4B,Commissioner Of Agriculture,,(REP,GARY BLACK ,556
+Appling,4D,Commissioner Of Agriculture,,(REP,GARY BLACK ,876
+Appling,5A,Commissioner Of Agriculture,,(REP,GARY BLACK ,525
+Appling,5B,Commissioner Of Agriculture,,(REP,GARY BLACK ,547
+Appling,1B,Commissioner Of Agriculture,,DEM,FRED SWANN,80
+Appling,1C,Commissioner Of Agriculture,,DEM,FRED SWANN,41
+Appling,2,Commissioner Of Agriculture,,DEM,FRED SWANN,694
+Appling,3A1,Commissioner Of Agriculture,,DEM,FRED SWANN,16
+Appling,3C,Commissioner Of Agriculture,,DEM,FRED SWANN,191
+Appling,4B,Commissioner Of Agriculture,,DEM,FRED SWANN,16
+Appling,4D,Commissioner Of Agriculture,,DEM,FRED SWANN,77
+Appling,5A,Commissioner Of Agriculture,,DEM,FRED SWANN,81
+Appling,5B,Commissioner Of Agriculture,,DEM,FRED SWANN,93
+Appling,1B,Commissioner Of Insurance,,REP,JIM BECK,672
+Appling,1C,Commissioner Of Insurance,,REP,JIM BECK,473
+Appling,2,Commissioner Of Insurance,,REP,JIM BECK,402
+Appling,3A1,Commissioner Of Insurance,,REP,JIM BECK,507
+Appling,3C,Commissioner Of Insurance,,REP,JIM BECK,709
+Appling,4B,Commissioner Of Insurance,,REP,JIM BECK,557
+Appling,4D,Commissioner Of Insurance,,REP,JIM BECK,864
+Appling,5A,Commissioner Of Insurance,,REP,JIM BECK,530
+Appling,5B,Commissioner Of Insurance,,REP,JIM BECK,549
+Appling,1B,Commissioner Of Insurance,,DEM,JANICE LAWS,83
+Appling,1C,Commissioner Of Insurance,,DEM,JANICE LAWS,42
+Appling,2,Commissioner Of Insurance,,DEM,JANICE LAWS,684
+Appling,3A1,Commissioner Of Insurance,,DEM,JANICE LAWS,19
+Appling,3C,Commissioner Of Insurance,,DEM,JANICE LAWS,193
+Appling,4B,Commissioner Of Insurance,,DEM,JANICE LAWS,14
+Appling,4D,Commissioner Of Insurance,,DEM,JANICE LAWS,84
+Appling,5A,Commissioner Of Insurance,,DEM,JANICE LAWS,77
+Appling,5B,Commissioner Of Insurance,,DEM,JANICE LAWS,91
+Appling,1B,Commissioner Of Insurance,,LIB,DONNIE FOSTER,8
+Appling,1C,Commissioner Of Insurance,,LIB,DONNIE FOSTER,4
+Appling,2,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
+Appling,3A1,Commissioner Of Insurance,,LIB,DONNIE FOSTER,4
+Appling,3C,Commissioner Of Insurance,,LIB,DONNIE FOSTER,9
+Appling,4B,Commissioner Of Insurance,,LIB,DONNIE FOSTER,4
+Appling,4D,Commissioner Of Insurance,,LIB,DONNIE FOSTER,4
+Appling,5A,Commissioner Of Insurance,,LIB,DONNIE FOSTER,4
+Appling,5B,Commissioner Of Insurance,,LIB,DONNIE FOSTER,4
+Appling,1B,State School Superintendent,,(REP,RICHARD WOODS ,670
+Appling,1C,State School Superintendent,,(REP,RICHARD WOODS ,486
+Appling,2,State School Superintendent,,(REP,RICHARD WOODS ,416
+Appling,3A1,State School Superintendent,,(REP,RICHARD WOODS ,504
+Appling,3C,State School Superintendent,,(REP,RICHARD WOODS ,716
+Appling,4B,State School Superintendent,,(REP,RICHARD WOODS ,556
+Appling,4D,State School Superintendent,,(REP,RICHARD WOODS ,872
+Appling,5A,State School Superintendent,,(REP,RICHARD WOODS ,536
+Appling,5B,State School Superintendent,,(REP,RICHARD WOODS ,557
+Appling,1B,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",80
+Appling,1C,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",39
+Appling,2,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",706
+Appling,3A1,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",21
+Appling,3C,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",193
+Appling,4B,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",14
+Appling,4D,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",80
+Appling,5A,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",81
+Appling,5B,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",87
+Appling,1B,Commissioner Of Labor,,(REP,MARK BUTLER ,663
+Appling,1C,Commissioner Of Labor,,(REP,MARK BUTLER ,484
+Appling,2,Commissioner Of Labor,,(REP,MARK BUTLER ,418
+Appling,3A1,Commissioner Of Labor,,(REP,MARK BUTLER ,501
+Appling,3C,Commissioner Of Labor,,(REP,MARK BUTLER ,710
+Appling,4B,Commissioner Of Labor,,(REP,MARK BUTLER ,558
+Appling,4D,Commissioner Of Labor,,(REP,MARK BUTLER ,866
+Appling,5A,Commissioner Of Labor,,(REP,MARK BUTLER ,531
+Appling,5B,Commissioner Of Labor,,(REP,MARK BUTLER ,546
+Appling,1B,Commissioner Of Labor,,DEM,RICHARD KEATLEY,89
+Appling,1C,Commissioner Of Labor,,DEM,RICHARD KEATLEY,40
+Appling,2,Commissioner Of Labor,,DEM,RICHARD KEATLEY,699
+Appling,3A1,Commissioner Of Labor,,DEM,RICHARD KEATLEY,21
+Appling,3C,Commissioner Of Labor,,DEM,RICHARD KEATLEY,194
+Appling,4B,Commissioner Of Labor,,DEM,RICHARD KEATLEY,13
+Appling,4D,Commissioner Of Labor,,DEM,RICHARD KEATLEY,84
+Appling,5A,Commissioner Of Labor,,DEM,RICHARD KEATLEY,81
+Appling,5B,Commissioner Of Labor,,DEM,RICHARD KEATLEY,94
+Appling,1B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,650
+Appling,1C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,475
+Appling,2,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,397
+Appling,3A1,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,501
+Appling,3C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,690
+Appling,4B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,548
+Appling,4D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,856
+Appling,5A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,521
+Appling,5B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,538
+Appling,1B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,86
+Appling,1C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,41
+Appling,2,"Public Service Commission, District 3",3,DEM,LINDY MILLER,706
+Appling,3A1,"Public Service Commission, District 3",3,DEM,LINDY MILLER,22
+Appling,3C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,199
+Appling,4B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,17
+Appling,4D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,79
+Appling,5A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,86
+Appling,5B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,95
+Appling,1B,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,12
+Appling,1C,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Appling,2,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,19
+Appling,3A1,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,6
+Appling,3C,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,17
+Appling,4B,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,6
+Appling,4D,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Appling,5A,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Appling,5B,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,9
+Appling,1B,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,652
+Appling,1C,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,473
+Appling,2,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,398
+Appling,3A1,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,495
+Appling,3C,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,693
+Appling,4B,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,548
+Appling,4D,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,858
+Appling,5A,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,516
+Appling,5B,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,540
+Appling,1B,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,88
+Appling,1C,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,41
+Appling,2,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,709
+Appling,3A1,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,26
+Appling,3C,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,194
+Appling,4B,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,19
+Appling,4D,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,86
+Appling,5A,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,82
+Appling,5B,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,96
+Appling,1B,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,11
+Appling,1C,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
+Appling,2,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
+Appling,3A1,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,4
+Appling,3C,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Appling,4B,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,3
+Appling,4D,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
+Appling,5A,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,8
+Appling,5B,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,5
+Appling,1B,U.S. Representative,12,(REP,RICK W. ALLEN ,678
+Appling,1C,U.S. Representative,12,(REP,RICK W. ALLEN ,488
+Appling,2,U.S. Representative,12,(REP,RICK W. ALLEN ,410
+Appling,3A1,U.S. Representative,12,(REP,RICK W. ALLEN ,512
+Appling,3C,U.S. Representative,12,(REP,RICK W. ALLEN ,716
+Appling,4B,U.S. Representative,12,(REP,RICK W. ALLEN ,560
+Appling,4D,U.S. Representative,12,(REP,RICK W. ALLEN ,882
+Appling,5A,U.S. Representative,12,(REP,RICK W. ALLEN ,539
+Appling,5B,U.S. Representative,12,(REP,RICK W. ALLEN ,560
+Appling,1B,U.S. Representative,12,DEM,FRANCYS JOHNSON,80
+Appling,1C,U.S. Representative,12,DEM,FRANCYS JOHNSON,39
+Appling,2,U.S. Representative,12,DEM,FRANCYS JOHNSON,716
+Appling,3A1,U.S. Representative,12,DEM,FRANCYS JOHNSON,16
+Appling,3C,U.S. Representative,12,DEM,FRANCYS JOHNSON,200
+Appling,4B,U.S. Representative,12,DEM,FRANCYS JOHNSON,15
+Appling,4D,U.S. Representative,12,DEM,FRANCYS JOHNSON,80
+Appling,5A,U.S. Representative,12,DEM,FRANCYS JOHNSON,79
+Appling,5B,U.S. Representative,12,DEM,FRANCYS JOHNSON,91
+Appling,1B,State Senator,19,(REP,BLAKE TILLERY ,694
+Appling,1C,State Senator,19,(REP,BLAKE TILLERY ,493
+Appling,2,State Senator,19,(REP,BLAKE TILLERY ,627
+Appling,3A1,State Senator,19,(REP,BLAKE TILLERY ,507
+Appling,3C,State Senator,19,(REP,BLAKE TILLERY ,771
+Appling,4B,State Senator,19,(REP,BLAKE TILLERY ,551
+Appling,4D,State Senator,19,(REP,BLAKE TILLERY ,892
+Appling,5A,State Senator,19,(REP,BLAKE TILLERY ,555
+Appling,5B,State Senator,19,(REP,BLAKE TILLERY ,586
+Appling,1B,State Representative,156,(REP,GREG MORRIS ,687
+Appling,1C,State Representative,156,(REP,GREG MORRIS ,498
+Appling,2,State Representative,156,(REP,GREG MORRIS ,641
+Appling,3A1,State Representative,156,(REP,GREG MORRIS ,510
+Appling,3C,State Representative,156,(REP,GREG MORRIS ,666
+Appling,5A,State Representative,156,(REP,GREG MORRIS ,563
+Appling,5B,State Representative,156,(REP,GREG MORRIS ,583
+Appling,3C,State Representative,178,REP,STEVEN MEEKS,87
+Appling,4B,State Representative,178,REP,STEVEN MEEKS,560
+Appling,4D,State Representative,178,REP,STEVEN MEEKS,865
+Appling,3C,State Representative,178,DEM,GREG  ODRISCOLL,80
+Appling,4B,State Representative,178,DEM,GREG  ODRISCOLL,13
+Appling,4D,State Representative,178,DEM,GREG  ODRISCOLL,79
+Appling,1B,SOLICITOR GENERAL,,R,T. TURNER ,685
+Appling,1C,SOLICITOR GENERAL,,R,T. TURNER ,494
+Appling,2,SOLICITOR GENERAL,,R,T. TURNER ,652
+Appling,3A1,SOLICITOR GENERAL,,R,T. TURNER ,509
+Appling,3C,SOLICITOR GENERAL,,R,T. TURNER ,781
+Appling,4B,SOLICITOR GENERAL,,R,T. TURNER ,550
+Appling,4D,SOLICITOR GENERAL,,R,T. TURNER ,895
+Appling,5A,SOLICITOR GENERAL,,R,T. TURNER ,557
+Appling,5B,SOLICITOR GENERAL,,R,T. TURNER ,583
+Appling,1B,CC CHAIRMAN,,D,L. PARKER ,533
+Appling,1C,CC CHAIRMAN,,D,L. PARKER ,382
+Appling,2,CC CHAIRMAN,,D,L. PARKER ,966
+Appling,3A1,CC CHAIRMAN,,D,L. PARKER ,356
+Appling,3C,CC CHAIRMAN,,D,L. PARKER ,677
+Appling,4B,CC CHAIRMAN,,D,L. PARKER ,361
+Appling,4D,CC CHAIRMAN,,D,L. PARKER ,630
+Appling,5A,CC CHAIRMAN,,D,L. PARKER ,444
+Appling,5B,CC CHAIRMAN,,D,L. PARKER ,436
+Appling,1B,CC, D1,R,S. BOATRIGHT ,660
+Appling,1C,CC, D1,R,S. BOATRIGHT ,457
+Appling,3A1,CC, D3,R,D. EDWARDS ,448
+Appling,3C,CC, D3,R,D. EDWARDS ,652
+Appling,3A1,CC, D3,D,W. HERRIN,76
+Appling,3C,CC, D3,D,W. HERRIN,251
+Appling,1B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,YES,YES,486
+Appling,1C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,YES,YES,328
+Appling,2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,YES,YES,828
+Appling,3A1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,YES,YES,350
+Appling,3C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,YES,YES,602
+Appling,4B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,YES,YES,344
+Appling,4D,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,YES,YES,619
+Appling,5A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,YES,YES,389
+Appling,5B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,YES,YES,449
+Appling,1B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,NO,NO,238
+Appling,1C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,NO,NO,172
+Appling,2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,NO,NO,229
+Appling,3A1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,NO,NO,156
+Appling,3C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,NO,NO,273
+Appling,4B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,NO,NO,215
+Appling,4D,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,NO,NO,301
+Appling,5A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,NO,NO,197
+Appling,5B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,NO,NO,172
+Appling,1B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,YES,YES,478
+Appling,1C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,YES,YES,327
+Appling,2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,YES,YES,732
+Appling,3A1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,YES,YES,309
+Appling,3C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,YES,YES,556
+Appling,4B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,YES,YES,331
+Appling,4D,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,YES,YES,545
+Appling,5A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,YES,YES,369
+Appling,5B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,YES,YES,407
+Appling,1B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,NO,NO,226
+Appling,1C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,NO,NO,160
+Appling,2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,NO,NO,297
+Appling,3A1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,NO,NO,172
+Appling,3C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,NO,NO,282
+Appling,4B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,NO,NO,202
+Appling,4D,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,NO,NO,351
+Appling,5A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,NO,NO,190
+Appling,5B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,NO,NO,201
+Appling,1B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,YES,YES,398
+Appling,1C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,YES,YES,291
+Appling,2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,YES,YES,597
+Appling,3A1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,YES,YES,263
+Appling,3C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,YES,YES,514
+Appling,4B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,YES,YES,318
+Appling,4D,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,YES,YES,483
+Appling,5A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,YES,YES,313
+Appling,5B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,YES,YES,356
+Appling,1B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,NO,NO,297
+Appling,1C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,NO,NO,184
+Appling,2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,NO,NO,415
+Appling,3A1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,NO,NO,216
+Appling,3C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,NO,NO,315
+Appling,4B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,NO,NO,213
+Appling,4D,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,NO,NO,394
+Appling,5A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,NO,NO,238
+Appling,5B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,NO,NO,241
+Appling,1B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,YES,YES,513
+Appling,1C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,YES,YES,380
+Appling,2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,YES,YES,841
+Appling,3A1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,YES,YES,392
+Appling,3C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,YES,YES,629
+Appling,4B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,YES,YES,391
+Appling,4D,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,YES,YES,658
+Appling,5A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,YES,YES,431
+Appling,5B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,YES,YES,443
+Appling,1B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,NO,NO,207
+Appling,1C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,NO,NO,120
+Appling,2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,NO,NO,213
+Appling,3A1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,NO,NO,115
+Appling,3C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,NO,NO,246
+Appling,4B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,NO,NO,164
+Appling,4D,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,NO,NO,259
+Appling,5A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,NO,NO,154
+Appling,5B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,NO,NO,178
+Appling,1B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,YES,YES,413
+Appling,1C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,YES,YES,264
+Appling,2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,YES,YES,670
+Appling,3A1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,YES,YES,295
+Appling,3C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,YES,YES,505
+Appling,4B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,YES,YES,291
+Appling,4D,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,YES,YES,541
+Appling,5A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,YES,YES,320
+Appling,5B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,YES,YES,387
+Appling,1B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,NO,NO,285
+Appling,1C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,NO,NO,216
+Appling,2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,NO,NO,362
+Appling,3A1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,NO,NO,195
+Appling,3C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,NO,NO,349
+Appling,4B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,NO,NO,244
+Appling,4D,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,NO,NO,352
+Appling,5A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,NO,NO,241
+Appling,5B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,NO,NO,218
+Appling,1B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,YES,YES,317
+Appling,1C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,YES,YES,213
+Appling,2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,YES,YES,540
+Appling,3A1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,YES,YES,194
+Appling,3C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,YES,YES,380
+Appling,4B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,YES,YES,239
+Appling,4D,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,YES,YES,396
+Appling,5A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,YES,YES,250
+Appling,5B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,YES,YES,301
+Appling,1B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,NO,NO,359
+Appling,1C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,NO,NO,255
+Appling,2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,NO,NO,470
+Appling,3A1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,NO,NO,278
+Appling,3C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,NO,NO,446
+Appling,4B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,NO,NO,279
+Appling,4D,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,NO,NO,472
+Appling,5A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,NO,NO,295
+Appling,5B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,NO,NO,286
+Appling,1B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,YES,YES,434
+Appling,1C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,YES,YES,289
+Appling,2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,YES,YES,802
+Appling,3A1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,YES,YES,312
+Appling,3C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,YES,YES,552
+Appling,4B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,YES,YES,350
+Appling,4D,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,YES,YES,562
+Appling,5A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,YES,YES,350
+Appling,5B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,YES,YES,400
+Appling,1B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,NO,NO,263
+Appling,1C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,NO,NO,192
+Appling,2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,NO,NO,245
+Appling,3A1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,NO,NO,172
+Appling,3C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,NO,NO,296
+Appling,4B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,NO,NO,183
+Appling,4D,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,NO,NO,329
+Appling,5A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,NO,NO,221
+Appling,5B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,NO,NO,209
+Appling,1B,Special--Hospital Authority,,YES,YES,362
+Appling,1C,Special--Hospital Authority,,YES,YES,264
+Appling,2,Special--Hospital Authority,,YES,YES,532
+Appling,3A1,Special--Hospital Authority,,YES,YES,274
+Appling,3C,Special--Hospital Authority,,YES,YES,465
+Appling,4B,Special--Hospital Authority,,YES,YES,290
+Appling,4D,Special--Hospital Authority,,YES,YES,506
+Appling,5A,Special--Hospital Authority,,YES,YES,288
+Appling,5B,Special--Hospital Authority,,YES,YES,324
+Appling,1B,Special--Hospital Authority,,NO,NO,339
+Appling,1C,Special--Hospital Authority,,NO,NO,230
+Appling,2,Special--Hospital Authority,,NO,NO,516
+Appling,3A1,Special--Hospital Authority,,NO,NO,225
+Appling,3C,Special--Hospital Authority,,NO,NO,397
+Appling,4B,Special--Hospital Authority,,NO,NO,241
+Appling,4D,Special--Hospital Authority,,NO,NO,400
+Appling,5A,Special--Hospital Authority,,NO,NO,284
+Appling,5B,Special--Hospital Authority,,NO,NO,288

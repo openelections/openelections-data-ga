@@ -1,0 +1,373 @@
+county,precinct,office,district,party,candidate,votes
+Marion,Pineknot,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",84
+Marion,Buena Vista,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",91
+Marion,Tazewell,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",23
+Marion,Brantley,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",34
+Marion,Ft. Perry,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",36
+Marion,Pineknot,Governor,,REP,HUNTER HILL  (REP),41
+Marion,Buena Vista,Governor,,REP,HUNTER HILL  (REP),26
+Marion,Tazewell,Governor,,REP,HUNTER HILL  (REP),14
+Marion,Brantley,Governor,,REP,HUNTER HILL  (REP),11
+Marion,Ft. Perry,Governor,,REP,HUNTER HILL  (REP),16
+Marion,Pineknot,Governor,,REP,BRIAN KEMP  (REP),31
+Marion,Buena Vista,Governor,,REP,BRIAN KEMP  (REP),37
+Marion,Tazewell,Governor,,REP,BRIAN KEMP  (REP),8
+Marion,Brantley,Governor,,REP,BRIAN KEMP  (REP),14
+Marion,Ft. Perry,Governor,,REP,BRIAN KEMP  (REP),9
+Marion,Pineknot,Governor,,REP,CLAY TIPPINS  (REP),19
+Marion,Buena Vista,Governor,,REP,CLAY TIPPINS  (REP),24
+Marion,Tazewell,Governor,,REP,CLAY TIPPINS  (REP),6
+Marion,Brantley,Governor,,REP,CLAY TIPPINS  (REP),13
+Marion,Ft. Perry,Governor,,REP,CLAY TIPPINS  (REP),8
+Marion,Pineknot,Governor,,REP,MICHAEL WILLIAMS  (REP),15
+Marion,Buena Vista,Governor,,REP,MICHAEL WILLIAMS  (REP),12
+Marion,Tazewell,Governor,,REP,MICHAEL WILLIAMS  (REP),11
+Marion,Brantley,Governor,,REP,MICHAEL WILLIAMS  (REP),9
+Marion,Ft. Perry,Governor,,REP,MICHAEL WILLIAMS  (REP),9
+Marion,Pineknot,Governor,,DEM,STACEY ABRAMS  (DEM),4
+Marion,Buena Vista,Governor,,DEM,STACEY ABRAMS  (DEM),157
+Marion,Tazewell,Governor,,DEM,STACEY ABRAMS  (DEM),9
+Marion,Brantley,Governor,,DEM,STACEY ABRAMS  (DEM),1
+Marion,Ft. Perry,Governor,,DEM,STACEY ABRAMS  (DEM),16
+Marion,Pineknot,Governor,,DEM,STACEY EVANS  (DEM),7
+Marion,Buena Vista,Governor,,DEM,STACEY EVANS  (DEM),62
+Marion,Tazewell,Governor,,DEM,STACEY EVANS  (DEM),2
+Marion,Brantley,Governor,,DEM,STACEY EVANS  (DEM),6
+Marion,Ft. Perry,Governor,,DEM,STACEY EVANS  (DEM),8
+Marion,Pineknot,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),46
+Marion,Buena Vista,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),53
+Marion,Tazewell,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),15
+Marion,Brantley,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),23
+Marion,Ft. Perry,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),23
+Marion,Pineknot,Lieutenant Governor,,REP,RICK JEFFARES  (REP),34
+Marion,Buena Vista,Lieutenant Governor,,REP,RICK JEFFARES  (REP),43
+Marion,Tazewell,Lieutenant Governor,,REP,RICK JEFFARES  (REP),11
+Marion,Brantley,Lieutenant Governor,,REP,RICK JEFFARES  (REP),13
+Marion,Ft. Perry,Lieutenant Governor,,REP,RICK JEFFARES  (REP),15
+Marion,Pineknot,Lieutenant Governor,,REP,DAVID SHAFER  (REP),95
+Marion,Buena Vista,Lieutenant Governor,,REP,DAVID SHAFER  (REP),68
+Marion,Tazewell,Lieutenant Governor,,REP,DAVID SHAFER  (REP),24
+Marion,Brantley,Lieutenant Governor,,REP,DAVID SHAFER  (REP),31
+Marion,Ft. Perry,Lieutenant Governor,,REP,DAVID SHAFER  (REP),29
+Marion,Pineknot,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),8
+Marion,Buena Vista,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),104
+Marion,Tazewell,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),3
+Marion,Brantley,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),5
+Marion,Ft. Perry,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),14
+Marion,Pineknot,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),3
+Marion,Buena Vista,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),92
+Marion,Tazewell,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),5
+Marion,Brantley,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),0
+Marion,Ft. Perry,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),8
+Marion,Pineknot,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),35
+Marion,Buena Vista,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),38
+Marion,Tazewell,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),10
+Marion,Brantley,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),10
+Marion,Ft. Perry,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),16
+Marion,Pineknot,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),29
+Marion,Buena Vista,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),9
+Marion,Tazewell,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),4
+Marion,Brantley,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),11
+Marion,Ft. Perry,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),5
+Marion,Pineknot,Secretary Of State,,REP,JOSH MCKOON  (REP),94
+Marion,Buena Vista,Secretary Of State,,REP,JOSH MCKOON  (REP),105
+Marion,Tazewell,Secretary Of State,,REP,JOSH MCKOON  (REP),26
+Marion,Brantley,Secretary Of State,,REP,JOSH MCKOON  (REP),38
+Marion,Ft. Perry,Secretary Of State,,REP,JOSH MCKOON  (REP),43
+Marion,Pineknot,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),9
+Marion,Buena Vista,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),9
+Marion,Tazewell,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),4
+Marion,Brantley,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),8
+Marion,Ft. Perry,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),3
+Marion,Pineknot,Secretary Of State,,DEM,JOHN BARROW  (DEM),4
+Marion,Buena Vista,Secretary Of State,,DEM,JOHN BARROW  (DEM),88
+Marion,Tazewell,Secretary Of State,,DEM,JOHN BARROW  (DEM),8
+Marion,Brantley,Secretary Of State,,DEM,JOHN BARROW  (DEM),2
+Marion,Ft. Perry,Secretary Of State,,DEM,JOHN BARROW  (DEM),11
+Marion,Pineknot,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),6
+Marion,Buena Vista,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),80
+Marion,Tazewell,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),1
+Marion,Brantley,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),0
+Marion,Ft. Perry,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),9
+Marion,Pineknot,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",1
+Marion,Buena Vista,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",32
+Marion,Tazewell,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",0
+Marion,Brantley,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",4
+Marion,Ft. Perry,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",3
+Marion,Pineknot,Attorney General,,REP,CHRIS CARR (I) (REP),147
+Marion,Buena Vista,Attorney General,,REP,CHRIS CARR (I) (REP),146
+Marion,Tazewell,Attorney General,,REP,CHRIS CARR (I) (REP),36
+Marion,Brantley,Attorney General,,REP,CHRIS CARR (I) (REP),59
+Marion,Ft. Perry,Attorney General,,REP,CHRIS CARR (I) (REP),55
+Marion,Pineknot,Attorney General,,DEM,CHARLIE BAILEY  (DEM),11
+Marion,Buena Vista,Attorney General,,DEM,CHARLIE BAILEY  (DEM),187
+Marion,Tazewell,Attorney General,,DEM,CHARLIE BAILEY  (DEM),10
+Marion,Brantley,Attorney General,,DEM,CHARLIE BAILEY  (DEM),6
+Marion,Ft. Perry,Attorney General,,DEM,CHARLIE BAILEY  (DEM),22
+Marion,Pineknot,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),145
+Marion,Buena Vista,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),153
+Marion,Tazewell,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),44
+Marion,Brantley,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),66
+Marion,Ft. Perry,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),57
+Marion,Pineknot,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),11
+Marion,Buena Vista,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),179
+Marion,Tazewell,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),10
+Marion,Brantley,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),6
+Marion,Ft. Perry,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),23
+Marion,Pineknot,Commissioner Of Insurance,,REP,JIM BECK  (REP),110
+Marion,Buena Vista,Commissioner Of Insurance,,REP,JIM BECK  (REP),101
+Marion,Tazewell,Commissioner Of Insurance,,REP,JIM BECK  (REP),37
+Marion,Brantley,Commissioner Of Insurance,,REP,JIM BECK  (REP),44
+Marion,Ft. Perry,Commissioner Of Insurance,,REP,JIM BECK  (REP),41
+Marion,Pineknot,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),11
+Marion,Buena Vista,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),17
+Marion,Tazewell,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),2
+Marion,Brantley,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),11
+Marion,Ft. Perry,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),9
+Marion,Pineknot,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),39
+Marion,Buena Vista,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),30
+Marion,Tazewell,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),8
+Marion,Brantley,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),9
+Marion,Ft. Perry,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),12
+Marion,Pineknot,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),6
+Marion,Buena Vista,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),129
+Marion,Tazewell,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),8
+Marion,Brantley,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),4
+Marion,Ft. Perry,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),17
+Marion,Pineknot,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),5
+Marion,Buena Vista,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),67
+Marion,Tazewell,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),1
+Marion,Brantley,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),1
+Marion,Ft. Perry,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),5
+Marion,Pineknot,State School Superintendent,,REP,JOHN BARGE  (REP),81
+Marion,Buena Vista,State School Superintendent,,REP,JOHN BARGE  (REP),61
+Marion,Tazewell,State School Superintendent,,REP,JOHN BARGE  (REP),15
+Marion,Brantley,State School Superintendent,,REP,JOHN BARGE  (REP),23
+Marion,Ft. Perry,State School Superintendent,,REP,JOHN BARGE  (REP),27
+Marion,Pineknot,State School Superintendent,,REP,RICHARD WOODS (I) (REP),87
+Marion,Buena Vista,State School Superintendent,,REP,RICHARD WOODS (I) (REP),116
+Marion,Tazewell,State School Superintendent,,REP,RICHARD WOODS (I) (REP),36
+Marion,Brantley,State School Superintendent,,REP,RICHARD WOODS (I) (REP),49
+Marion,Ft. Perry,State School Superintendent,,REP,RICHARD WOODS (I) (REP),35
+Marion,Pineknot,State School Superintendent,,DEM,SID CHAPMAN (DEM),3
+Marion,Buena Vista,State School Superintendent,,DEM,SID CHAPMAN (DEM),67
+Marion,Tazewell,State School Superintendent,,DEM,SID CHAPMAN (DEM),3
+Marion,Brantley,State School Superintendent,,DEM,SID CHAPMAN (DEM),1
+Marion,Ft. Perry,State School Superintendent,,DEM,SID CHAPMAN (DEM),11
+Marion,Pineknot,State School Superintendent,,DEM,SAM MOSTELLER (DEM),5
+Marion,Buena Vista,State School Superintendent,,DEM,SAM MOSTELLER (DEM),34
+Marion,Tazewell,State School Superintendent,,DEM,SAM MOSTELLER (DEM),0
+Marion,Brantley,State School Superintendent,,DEM,SAM MOSTELLER (DEM),0
+Marion,Ft. Perry,State School Superintendent,,DEM,SAM MOSTELLER (DEM),9
+Marion,Pineknot,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",3
+Marion,Buena Vista,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",101
+Marion,Tazewell,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",7
+Marion,Brantley,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",4
+Marion,Ft. Perry,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",2
+Marion,Pineknot,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),150
+Marion,Buena Vista,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),151
+Marion,Tazewell,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),44
+Marion,Brantley,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),60
+Marion,Ft. Perry,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),59
+Marion,Pineknot,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),2
+Marion,Buena Vista,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),93
+Marion,Tazewell,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),7
+Marion,Brantley,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),4
+Marion,Ft. Perry,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),12
+Marion,Pineknot,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),9
+Marion,Buena Vista,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),96
+Marion,Tazewell,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),2
+Marion,Brantley,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),1
+Marion,Ft. Perry,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),10
+Marion,Pineknot,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),145
+Marion,Buena Vista,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),143
+Marion,Tazewell,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),39
+Marion,Brantley,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),57
+Marion,Ft. Perry,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),56
+Marion,Pineknot,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),8
+Marion,Buena Vista,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),130
+Marion,Tazewell,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),6
+Marion,Brantley,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),6
+Marion,Ft. Perry,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),11
+Marion,Pineknot,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),1
+Marion,Buena Vista,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),24
+Marion,Tazewell,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),1
+Marion,Brantley,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),0
+Marion,Ft. Perry,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),8
+Marion,Pineknot,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),2
+Marion,Buena Vista,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),40
+Marion,Tazewell,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),2
+Marion,Brantley,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),0
+Marion,Ft. Perry,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),3
+Marion,Pineknot,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),91
+Marion,Buena Vista,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),63
+Marion,Tazewell,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),22
+Marion,Brantley,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),34
+Marion,Ft. Perry,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),28
+Marion,Pineknot,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),72
+Marion,Buena Vista,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),90
+Marion,Tazewell,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),27
+Marion,Brantley,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),28
+Marion,Ft. Perry,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),33
+Marion,Pineknot,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),7
+Marion,Buena Vista,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),149
+Marion,Tazewell,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),5
+Marion,Brantley,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),4
+Marion,Ft. Perry,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),16
+Marion,Pineknot,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),4
+Marion,Buena Vista,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),45
+Marion,Tazewell,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),4
+Marion,Brantley,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),1
+Marion,Ft. Perry,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),7
+Marion,Pineknot,"U.S. Representative, District 2",2,REP,HERMAN WEST JR (REP),144
+Marion,Buena Vista,"U.S. Representative, District 2",2,REP,HERMAN WEST JR (REP),155
+Marion,Tazewell,"U.S. Representative, District 2",2,REP,HERMAN WEST JR (REP),44
+Marion,Brantley,"U.S. Representative, District 2",2,REP,HERMAN WEST JR (REP),58
+Marion,Ft. Perry,"U.S. Representative, District 2",2,REP,HERMAN WEST JR (REP),58
+Marion,Pineknot,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I) (DEM),11
+Marion,Buena Vista,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I) (DEM),217
+Marion,Tazewell,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I) (DEM),10
+Marion,Brantley,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I) (DEM),7
+Marion,Ft. Perry,"U.S. Representative, District 2",2,DEM,SANFORD BISHOP (I) (DEM),23
+Marion,Pineknot,"State Senator, District 15",15,DEM,ED HARBISON (I) (DEM),11
+Marion,Buena Vista,"State Senator, District 15",15,DEM,ED HARBISON (I) (DEM),193
+Marion,Tazewell,"State Senator, District 15",15,DEM,ED HARBISON (I) (DEM),12
+Marion,Brantley,"State Senator, District 15",15,DEM,ED HARBISON (I) (DEM),7
+Marion,Ft. Perry,"State Senator, District 15",15,DEM,ED HARBISON (I) (DEM),24
+Marion,Pineknot,"State Representative, District 138",138,REP,MIKE CHEOKAS  (REP),156
+Marion,Buena Vista,"State Representative, District 138",138,REP,MIKE CHEOKAS  (REP),151
+Marion,Tazewell,"State Representative, District 138",138,REP,MIKE CHEOKAS  (REP),36
+Marion,Brantley,"State Representative, District 138",138,REP,MIKE CHEOKAS  (REP),74
+Marion,Ft. Perry,"State Representative, District 138",138,REP,MIKE CHEOKAS  (REP),59
+Marion,Pineknot,"State Representative, District 138",138,REP,HERSCHEL SMITH  (REP),30
+Marion,Buena Vista,"State Representative, District 138",138,REP,HERSCHEL SMITH  (REP),47
+Marion,Tazewell,"State Representative, District 138",138,REP,HERSCHEL SMITH  (REP),23
+Marion,Brantley,"State Representative, District 138",138,REP,HERSCHEL SMITH  (REP),7
+Marion,Ft. Perry,"State Representative, District 138",138,REP,HERSCHEL SMITH  (REP),16
+Marion,Pineknot,"State Representative, District 138",138,DEM,BARDIN HOOKS  (DEM),11
+Marion,Buena Vista,"State Representative, District 138",138,DEM,BARDIN HOOKS  (DEM),170
+Marion,Tazewell,"State Representative, District 138",138,DEM,BARDIN HOOKS  (DEM),9
+Marion,Brantley,"State Representative, District 138",138,DEM,BARDIN HOOKS  (DEM),6
+Marion,Ft. Perry,"State Representative, District 138",138,DEM,BARDIN HOOKS  (DEM),22
+Marion,Buena Vista,"CC, D2", D2 - R,REP,J. GRIMSLEY,32
+Marion,Tazewell,"CC, D2", D2 - R,REP,J. GRIMSLEY,40
+Marion,Ft. Perry,"CC, D2", D2 - R,REP,J. GRIMSLEY,65
+Marion,Buena Vista,"CC, D2", D2 - R,REP,C. H. MCMICKLE (I),15
+Marion,Tazewell,"CC, D2", D2 - R,REP,C. H. MCMICKLE (I),22
+Marion,Ft. Perry,"CC, D2", D2 - R,REP,C. H. MCMICKLE (I),13
+Marion,Pineknot,"CC, D3", D3 - R,REP,M. GUNNELS,152
+Marion,Brantley,"CC, D3", D3 - R,REP,M. GUNNELS,41
+Marion,Pineknot,"CC, D3", D3 - R,REP,"L. OGAN, JR. (I)",43
+Marion,Brantley,"CC, D3", D3 - R,REP,"L. OGAN, JR. (I)",35
+Marion,Pineknot,Democratic Party Question 1,,DEM,YES,8
+Marion,Buena Vista,Democratic Party Question 1,,DEM,YES,135
+Marion,Tazewell,Democratic Party Question 1,,DEM,YES,5
+Marion,Brantley,Democratic Party Question 1,,DEM,YES,7
+Marion,Ft. Perry,Democratic Party Question 1,,DEM,YES,19
+Marion,Pineknot,Democratic Party Question 1,,DEM,NO,3
+Marion,Buena Vista,Democratic Party Question 1,,DEM,NO,71
+Marion,Tazewell,Democratic Party Question 1,,DEM,NO,6
+Marion,Brantley,Democratic Party Question 1,,DEM,NO,0
+Marion,Ft. Perry,Democratic Party Question 1,,DEM,NO,3
+Marion,Pineknot,Democratic Party Question 2,,DEM,YES,10
+Marion,Buena Vista,Democratic Party Question 2,,DEM,YES,194
+Marion,Tazewell,Democratic Party Question 2,,DEM,YES,6
+Marion,Brantley,Democratic Party Question 2,,DEM,YES,7
+Marion,Ft. Perry,Democratic Party Question 2,,DEM,YES,22
+Marion,Pineknot,Democratic Party Question 2,,DEM,NO,1
+Marion,Buena Vista,Democratic Party Question 2,,DEM,NO,23
+Marion,Tazewell,Democratic Party Question 2,,DEM,NO,4
+Marion,Brantley,Democratic Party Question 2,,DEM,NO,0
+Marion,Ft. Perry,Democratic Party Question 2,,DEM,NO,1
+Marion,Pineknot,Democratic Party Question 3, non-partisan commission?,DEM,YES,8
+Marion,Buena Vista,Democratic Party Question 3, non-partisan commission?,DEM,YES,130
+Marion,Tazewell,Democratic Party Question 3, non-partisan commission?,DEM,YES,3
+Marion,Brantley,Democratic Party Question 3, non-partisan commission?,DEM,YES,6
+Marion,Ft. Perry,Democratic Party Question 3, non-partisan commission?,DEM,YES,18
+Marion,Pineknot,Democratic Party Question 3, non-partisan commission?,DEM,NO,2
+Marion,Buena Vista,Democratic Party Question 3, non-partisan commission?,DEM,NO,81
+Marion,Tazewell,Democratic Party Question 3, non-partisan commission?,DEM,NO,7
+Marion,Brantley,Democratic Party Question 3, non-partisan commission?,DEM,NO,1
+Marion,Ft. Perry,Democratic Party Question 3, non-partisan commission?,DEM,NO,5
+Marion,Pineknot,Democratic Party Question 4, reduce carbon emissions,DEM,YES,8
+Marion,Buena Vista,Democratic Party Question 4, reduce carbon emissions,DEM,YES,151
+Marion,Tazewell,Democratic Party Question 4, reduce carbon emissions,DEM,YES,5
+Marion,Brantley,Democratic Party Question 4, reduce carbon emissions,DEM,YES,6
+Marion,Ft. Perry,Democratic Party Question 4, reduce carbon emissions,DEM,YES,15
+Marion,Pineknot,Democratic Party Question 4, reduce carbon emissions,DEM,NO,3
+Marion,Buena Vista,Democratic Party Question 4, reduce carbon emissions,DEM,NO,65
+Marion,Tazewell,Democratic Party Question 4, reduce carbon emissions,DEM,NO,6
+Marion,Brantley,Democratic Party Question 4, reduce carbon emissions,DEM,NO,1
+Marion,Ft. Perry,Democratic Party Question 4, reduce carbon emissions,DEM,NO,8
+Marion,Pineknot,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,155
+Marion,Buena Vista,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,332
+Marion,Tazewell,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,61
+Marion,Brantley,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,62
+Marion,Ft. Perry,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,79
+Marion,Pineknot,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,154
+Marion,Buena Vista,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,330
+Marion,Tazewell,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,58
+Marion,Brantley,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,63
+Marion,Ft. Perry,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,77
+Marion,Pineknot,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,158
+Marion,Buena Vista,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,330
+Marion,Tazewell,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,56
+Marion,Brantley,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,63
+Marion,Ft. Perry,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,77
+Marion,Pineknot,Supreme Court Justice, Melton,,HAROLD D. MELTON ,156
+Marion,Buena Vista,Supreme Court Justice, Melton,,HAROLD D. MELTON ,321
+Marion,Tazewell,Supreme Court Justice, Melton,,HAROLD D. MELTON ,57
+Marion,Brantley,Supreme Court Justice, Melton,,HAROLD D. MELTON ,63
+Marion,Ft. Perry,Supreme Court Justice, Melton,,HAROLD D. MELTON ,78
+Marion,Pineknot,Supreme Court Justice, Peterson,,NELS PETERSON ,156
+Marion,Buena Vista,Supreme Court Justice, Peterson,,NELS PETERSON ,319
+Marion,Tazewell,Supreme Court Justice, Peterson,,NELS PETERSON ,55
+Marion,Brantley,Supreme Court Justice, Peterson,,NELS PETERSON ,60
+Marion,Ft. Perry,Supreme Court Justice, Peterson,,NELS PETERSON ,77
+Marion,Pineknot,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,157
+Marion,Buena Vista,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,322
+Marion,Tazewell,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,56
+Marion,Brantley,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,60
+Marion,Ft. Perry,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,77
+Marion,Pineknot,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,152
+Marion,Buena Vista,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,318
+Marion,Tazewell,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,59
+Marion,Brantley,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,61
+Marion,Ft. Perry,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,78
+Marion,Pineknot,Appeals Court Judge, Ellington,,KEN HODGES  ,144
+Marion,Buena Vista,Appeals Court Judge, Ellington,,KEN HODGES  ,269
+Marion,Tazewell,Appeals Court Judge, Ellington,,KEN HODGES  ,54
+Marion,Brantley,Appeals Court Judge, Ellington,,KEN HODGES  ,54
+Marion,Ft. Perry,Appeals Court Judge, Ellington,,KEN HODGES  ,69
+Marion,Pineknot,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,32
+Marion,Buena Vista,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,73
+Marion,Tazewell,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,6
+Marion,Brantley,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,11
+Marion,Ft. Perry,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,14
+Marion,Pineknot,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,156
+Marion,Buena Vista,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,316
+Marion,Tazewell,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,58
+Marion,Brantley,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,62
+Marion,Ft. Perry,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,80
+Marion,Pineknot,Appeals Court Judge, Miller,,M. YVETTE MILLER ,155
+Marion,Buena Vista,Appeals Court Judge, Miller,,M. YVETTE MILLER ,314
+Marion,Tazewell,Appeals Court Judge, Miller,,M. YVETTE MILLER ,56
+Marion,Brantley,Appeals Court Judge, Miller,,M. YVETTE MILLER ,59
+Marion,Ft. Perry,Appeals Court Judge, Miller,,M. YVETTE MILLER ,79
+Marion,Pineknot,Appeals Court Judge, Reese,,CLYDE L. REESE III ,157
+Marion,Buena Vista,Appeals Court Judge, Reese,,CLYDE L. REESE III ,314
+Marion,Tazewell,Appeals Court Judge, Reese,,CLYDE L. REESE III ,57
+Marion,Brantley,Appeals Court Judge, Reese,,CLYDE L. REESE III ,63
+Marion,Ft. Perry,Appeals Court Judge, Reese,,CLYDE L. REESE III ,78
+Marion,Pineknot,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,156
+Marion,Buena Vista,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,317
+Marion,Tazewell,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,57
+Marion,Brantley,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,59
+Marion,Ft. Perry,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,78
+Marion,Pineknot,BOE LRG,,,V. SWINT ,181
+Marion,Buena Vista,BOE LRG,,,V. SWINT ,355
+Marion,Tazewell,BOE LRG,,,V. SWINT ,68
+Marion,Brantley,BOE LRG,,,V. SWINT ,69
+Marion,Ft. Perry,BOE LRG,,,V. SWINT ,87
+Marion,Buena Vista,BOE, D1,,D. P. GRAHAM ,150
+Marion,Brantley,BOE, D1,,D. P. GRAHAM ,9

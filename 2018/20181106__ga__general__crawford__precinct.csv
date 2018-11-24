@@ -1,0 +1,264 @@
+county,precinct,office,district,party,candidate,votes
+Crawford,1A,Governor,,REP,BRIAN KEMP,161
+Crawford,1B,Governor,,REP,BRIAN KEMP,246
+Crawford,2,Governor,,REP,BRIAN KEMP,580
+Crawford,3,Governor,,REP,BRIAN KEMP,824
+Crawford,4,Governor,,REP,BRIAN KEMP,891
+Crawford,5,Governor,,REP,BRIAN KEMP,893
+Crawford,1A,Governor,,DEM,STACEY ABRAMS,125
+Crawford,1B,Governor,,DEM,STACEY ABRAMS,363
+Crawford,2,Governor,,DEM,STACEY ABRAMS,464
+Crawford,3,Governor,,DEM,STACEY ABRAMS,143
+Crawford,4,Governor,,DEM,STACEY ABRAMS,101
+Crawford,5,Governor,,DEM,STACEY ABRAMS,106
+Crawford,1A,Governor,,LIB,TED METZ,4
+Crawford,1B,Governor,,LIB,TED METZ,2
+Crawford,2,Governor,,LIB,TED METZ,2
+Crawford,3,Governor,,LIB,TED METZ,18
+Crawford,4,Governor,,LIB,TED METZ,8
+Crawford,5,Governor,,LIB,TED METZ,3
+Crawford,1A,Lieutenant Governor,,REP,GEOFF DUNCAN,154
+Crawford,1B,Lieutenant Governor,,REP,GEOFF DUNCAN,230
+Crawford,2,Lieutenant Governor,,REP,GEOFF DUNCAN,546
+Crawford,3,Lieutenant Governor,,REP,GEOFF DUNCAN,786
+Crawford,4,Lieutenant Governor,,REP,GEOFF DUNCAN,862
+Crawford,5,Lieutenant Governor,,REP,GEOFF DUNCAN,844
+Crawford,1A,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,114
+Crawford,1B,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,329
+Crawford,2,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,412
+Crawford,3,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,158
+Crawford,4,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,113
+Crawford,5,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,123
+Crawford,1A,Secretary Of State,,REP,BRAD RAFFENSPERGER,147
+Crawford,1B,Secretary Of State,,REP,BRAD RAFFENSPERGER,230
+Crawford,2,Secretary Of State,,REP,BRAD RAFFENSPERGER,539
+Crawford,3,Secretary Of State,,REP,BRAD RAFFENSPERGER,772
+Crawford,4,Secretary Of State,,REP,BRAD RAFFENSPERGER,840
+Crawford,5,Secretary Of State,,REP,BRAD RAFFENSPERGER,833
+Crawford,1A,Secretary Of State,,DEM,JOHN BARROW,123
+Crawford,1B,Secretary Of State,,DEM,JOHN BARROW,341
+Crawford,2,Secretary Of State,,DEM,JOHN BARROW,468
+Crawford,3,Secretary Of State,,DEM,JOHN BARROW,173
+Crawford,4,Secretary Of State,,DEM,JOHN BARROW,132
+Crawford,5,Secretary Of State,,DEM,JOHN BARROW,141
+Crawford,1A,Secretary Of State,,LIB,SMYTHE DUVAL,10
+Crawford,1B,Secretary Of State,,LIB,SMYTHE DUVAL,6
+Crawford,2,Secretary Of State,,LIB,SMYTHE DUVAL,11
+Crawford,3,Secretary Of State,,LIB,SMYTHE DUVAL,23
+Crawford,4,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Crawford,5,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Crawford,1A,Attorney General,,(REP,CHRIS CARR ,158
+Crawford,1B,Attorney General,,(REP,CHRIS CARR ,244
+Crawford,2,Attorney General,,(REP,CHRIS CARR ,555
+Crawford,3,Attorney General,,(REP,CHRIS CARR ,798
+Crawford,4,Attorney General,,(REP,CHRIS CARR ,866
+Crawford,5,Attorney General,,(REP,CHRIS CARR ,851
+Crawford,1A,Attorney General,,DEM,CHARLIE BAILEY,123
+Crawford,1B,Attorney General,,DEM,CHARLIE BAILEY,332
+Crawford,2,Attorney General,,DEM,CHARLIE BAILEY,460
+Crawford,3,Attorney General,,DEM,CHARLIE BAILEY,167
+Crawford,4,Attorney General,,DEM,CHARLIE BAILEY,114
+Crawford,5,Attorney General,,DEM,CHARLIE BAILEY,137
+Crawford,1A,Commissioner Of Agriculture,,(REP,GARY BLACK ,164
+Crawford,1B,Commissioner Of Agriculture,,(REP,GARY BLACK ,247
+Crawford,2,Commissioner Of Agriculture,,(REP,GARY BLACK ,583
+Crawford,3,Commissioner Of Agriculture,,(REP,GARY BLACK ,804
+Crawford,4,Commissioner Of Agriculture,,(REP,GARY BLACK ,873
+Crawford,5,Commissioner Of Agriculture,,(REP,GARY BLACK ,869
+Crawford,1A,Commissioner Of Agriculture,,DEM,FRED SWANN,116
+Crawford,1B,Commissioner Of Agriculture,,DEM,FRED SWANN,324
+Crawford,2,Commissioner Of Agriculture,,DEM,FRED SWANN,426
+Crawford,3,Commissioner Of Agriculture,,DEM,FRED SWANN,161
+Crawford,4,Commissioner Of Agriculture,,DEM,FRED SWANN,106
+Crawford,5,Commissioner Of Agriculture,,DEM,FRED SWANN,111
+Crawford,1A,Commissioner Of Insurance,,REP,JIM BECK,154
+Crawford,1B,Commissioner Of Insurance,,REP,JIM BECK,245
+Crawford,2,Commissioner Of Insurance,,REP,JIM BECK,555
+Crawford,3,Commissioner Of Insurance,,REP,JIM BECK,797
+Crawford,4,Commissioner Of Insurance,,REP,JIM BECK,868
+Crawford,5,Commissioner Of Insurance,,REP,JIM BECK,864
+Crawford,1A,Commissioner Of Insurance,,DEM,JANICE LAWS,117
+Crawford,1B,Commissioner Of Insurance,,DEM,JANICE LAWS,329
+Crawford,2,Commissioner Of Insurance,,DEM,JANICE LAWS,442
+Crawford,3,Commissioner Of Insurance,,DEM,JANICE LAWS,144
+Crawford,4,Commissioner Of Insurance,,DEM,JANICE LAWS,104
+Crawford,5,Commissioner Of Insurance,,DEM,JANICE LAWS,111
+Crawford,1A,Commissioner Of Insurance,,LIB,DONNIE FOSTER,7
+Crawford,1B,Commissioner Of Insurance,,LIB,DONNIE FOSTER,2
+Crawford,2,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Crawford,3,Commissioner Of Insurance,,LIB,DONNIE FOSTER,25
+Crawford,4,Commissioner Of Insurance,,LIB,DONNIE FOSTER,17
+Crawford,5,Commissioner Of Insurance,,LIB,DONNIE FOSTER,12
+Crawford,1A,State School Superintendent,,(REP,RICHARD WOODS ,159
+Crawford,1B,State School Superintendent,,(REP,RICHARD WOODS ,246
+Crawford,2,State School Superintendent,,(REP,RICHARD WOODS ,570
+Crawford,3,State School Superintendent,,(REP,RICHARD WOODS ,805
+Crawford,4,State School Superintendent,,(REP,RICHARD WOODS ,887
+Crawford,5,State School Superintendent,,(REP,RICHARD WOODS ,879
+Crawford,1A,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",123
+Crawford,1B,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",331
+Crawford,2,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",444
+Crawford,3,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",152
+Crawford,4,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",97
+Crawford,5,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",109
+Crawford,1A,Commissioner Of Labor,,(REP,MARK BUTLER ,159
+Crawford,1B,Commissioner Of Labor,,(REP,MARK BUTLER ,250
+Crawford,2,Commissioner Of Labor,,(REP,MARK BUTLER ,568
+Crawford,3,Commissioner Of Labor,,(REP,MARK BUTLER ,801
+Crawford,4,Commissioner Of Labor,,(REP,MARK BUTLER ,874
+Crawford,5,Commissioner Of Labor,,(REP,MARK BUTLER ,869
+Crawford,1A,Commissioner Of Labor,,DEM,RICHARD KEATLEY,122
+Crawford,1B,Commissioner Of Labor,,DEM,RICHARD KEATLEY,323
+Crawford,2,Commissioner Of Labor,,DEM,RICHARD KEATLEY,446
+Crawford,3,Commissioner Of Labor,,DEM,RICHARD KEATLEY,160
+Crawford,4,Commissioner Of Labor,,DEM,RICHARD KEATLEY,112
+Crawford,5,Commissioner Of Labor,,DEM,RICHARD KEATLEY,118
+Crawford,1A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,152
+Crawford,1B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,236
+Crawford,2,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,542
+Crawford,3,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,777
+Crawford,4,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,846
+Crawford,5,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,842
+Crawford,1A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,125
+Crawford,1B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,335
+Crawford,2,"Public Service Commission, District 3",3,DEM,LINDY MILLER,456
+Crawford,3,"Public Service Commission, District 3",3,DEM,LINDY MILLER,154
+Crawford,4,"Public Service Commission, District 3",3,DEM,LINDY MILLER,119
+Crawford,5,"Public Service Commission, District 3",3,DEM,LINDY MILLER,131
+Crawford,1A,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,7
+Crawford,1B,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,7
+Crawford,2,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,18
+Crawford,3,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,31
+Crawford,4,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,23
+Crawford,5,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,17
+Crawford,1A,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,152
+Crawford,1B,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,235
+Crawford,2,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,547
+Crawford,3,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,785
+Crawford,4,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,851
+Crawford,5,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,856
+Crawford,1A,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,119
+Crawford,1B,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,333
+Crawford,2,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,448
+Crawford,3,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,150
+Crawford,4,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,112
+Crawford,5,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,116
+Crawford,1A,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,8
+Crawford,1B,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,3
+Crawford,2,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Crawford,3,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,27
+Crawford,4,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,23
+Crawford,5,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,16
+Crawford,1A,U.S. Representative,2,REP,HERMAN WEST JR,150
+Crawford,1B,U.S. Representative,2,REP,HERMAN WEST JR,225
+Crawford,2,U.S. Representative,2,REP,HERMAN WEST JR,513
+Crawford,3,U.S. Representative,2,REP,HERMAN WEST JR,774
+Crawford,4,U.S. Representative,2,REP,HERMAN WEST JR,843
+Crawford,5,U.S. Representative,2,REP,HERMAN WEST JR,846
+Crawford,1A,U.S. Representative,2,(DEM,SANFORD BISHOP ,133
+Crawford,1B,U.S. Representative,2,(DEM,SANFORD BISHOP ,361
+Crawford,2,U.S. Representative,2,(DEM,SANFORD BISHOP ,512
+Crawford,3,U.S. Representative,2,(DEM,SANFORD BISHOP ,200
+Crawford,4,U.S. Representative,2,(DEM,SANFORD BISHOP ,152
+Crawford,5,U.S. Representative,2,(DEM,SANFORD BISHOP ,149
+Crawford,1A,State Senator,18,(REP,JOHN F. KENNEDY ,215
+Crawford,1B,State Senator,18,(REP,JOHN F. KENNEDY ,358
+Crawford,2,State Senator,18,(REP,JOHN F. KENNEDY ,767
+Crawford,3,State Senator,18,(REP,JOHN F. KENNEDY ,876
+Crawford,4,State Senator,18,(REP,JOHN F. KENNEDY ,945
+Crawford,5,State Senator,18,(REP,JOHN F. KENNEDY ,936
+Crawford,1A,State Representative,140,(REP,ROBERT DICKEY ,223
+Crawford,1B,State Representative,140,(REP,ROBERT DICKEY ,374
+Crawford,2,State Representative,140,(REP,ROBERT DICKEY ,773
+Crawford,3,State Representative,140,(REP,ROBERT DICKEY ,876
+Crawford,4,State Representative,140,(REP,ROBERT DICKEY ,947
+Crawford,5,State Representative,140,(REP,ROBERT DICKEY ,927
+Crawford,1A,CC, D1,R,F. HOLMES,169
+Crawford,1B,CC, D1,R,F. HOLMES,240
+Crawford,1A,CC, D1,D,S. BRASWELL ,117
+Crawford,1B,CC, D1,D,S. BRASWELL ,331
+Crawford,5,CC, D5,R,P. CHAPMAN ,916
+Crawford,1A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,220
+Crawford,1B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,421
+Crawford,2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,715
+Crawford,3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,721
+Crawford,4,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,762
+Crawford,5,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,767
+Crawford,1A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,59
+Crawford,1B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,133
+Crawford,2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,264
+Crawford,3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,230
+Crawford,4,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,207
+Crawford,5,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,215
+Crawford,1A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,192
+Crawford,1B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,355
+Crawford,2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,612
+Crawford,3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,595
+Crawford,4,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,603
+Crawford,5,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,621
+Crawford,1A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,87
+Crawford,1B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,177
+Crawford,2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,362
+Crawford,3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,337
+Crawford,4,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,343
+Crawford,5,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,340
+Crawford,1A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,170
+Crawford,1B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,286
+Crawford,2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,534
+Crawford,3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,522
+Crawford,4,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,553
+Crawford,5,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,573
+Crawford,1A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,101
+Crawford,1B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,240
+Crawford,2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,421
+Crawford,3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,407
+Crawford,4,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,383
+Crawford,5,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,384
+Crawford,1A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,208
+Crawford,1B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,411
+Crawford,2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,728
+Crawford,3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,680
+Crawford,4,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,698
+Crawford,5,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,701
+Crawford,1A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,70
+Crawford,1B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,142
+Crawford,2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,266
+Crawford,3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,267
+Crawford,4,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,266
+Crawford,5,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,280
+Crawford,1A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,200
+Crawford,1B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,341
+Crawford,2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,637
+Crawford,3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,564
+Crawford,4,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,613
+Crawford,5,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,603
+Crawford,1A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,72
+Crawford,1B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,194
+Crawford,2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,339
+Crawford,3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,365
+Crawford,4,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,336
+Crawford,5,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,362
+Crawford,1A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,160
+Crawford,1B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,274
+Crawford,2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,495
+Crawford,3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,453
+Crawford,4,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,505
+Crawford,5,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,515
+Crawford,1A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,111
+Crawford,1B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,250
+Crawford,2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,459
+Crawford,3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,469
+Crawford,4,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,433
+Crawford,5,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,440
+Crawford,1A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,210
+Crawford,1B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,408
+Crawford,2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,685
+Crawford,3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,626
+Crawford,4,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,676
+Crawford,5,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,672
+Crawford,1A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,66
+Crawford,1B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,139
+Crawford,2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,291
+Crawford,3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,303
+Crawford,4,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,278
+Crawford,5,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,304

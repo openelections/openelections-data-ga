@@ -1,0 +1,383 @@
+county,precinct,office,district,party,candidate,votes
+Tattnall,COBBTOWN,Governor,,REP,BRIAN KEMP,352
+Tattnall,SHILOH,Governor,,REP,BRIAN KEMP,277
+Tattnall,COLLINS,Governor,,REP,BRIAN KEMP,662
+Tattnall,MANASSAS,Governor,,REP,BRIAN KEMP,118
+Tattnall,DISTRICT II,Governor,,REP,BRIAN KEMP,890
+Tattnall,EAST GLENNVILLE,Governor,,REP,BRIAN KEMP,1199
+Tattnall,DISTRICT IV,Governor,,REP,BRIAN KEMP,1029
+Tattnall,DISTRICT V,Governor,,REP,BRIAN KEMP,546
+Tattnall,COBBTOWN,Governor,,DEM,STACEY ABRAMS,65
+Tattnall,SHILOH,Governor,,DEM,STACEY ABRAMS,144
+Tattnall,COLLINS,Governor,,DEM,STACEY ABRAMS,175
+Tattnall,MANASSAS,Governor,,DEM,STACEY ABRAMS,48
+Tattnall,DISTRICT II,Governor,,DEM,STACEY ABRAMS,414
+Tattnall,EAST GLENNVILLE,Governor,,DEM,STACEY ABRAMS,221
+Tattnall,DISTRICT IV,Governor,,DEM,STACEY ABRAMS,410
+Tattnall,DISTRICT V,Governor,,DEM,STACEY ABRAMS,60
+Tattnall,COBBTOWN,Governor,,LIB,TED METZ,4
+Tattnall,SHILOH,Governor,,LIB,TED METZ,4
+Tattnall,COLLINS,Governor,,LIB,TED METZ,6
+Tattnall,MANASSAS,Governor,,LIB,TED METZ,0
+Tattnall,DISTRICT II,Governor,,LIB,TED METZ,7
+Tattnall,EAST GLENNVILLE,Governor,,LIB,TED METZ,5
+Tattnall,DISTRICT IV,Governor,,LIB,TED METZ,8
+Tattnall,DISTRICT V,Governor,,LIB,TED METZ,3
+Tattnall,COBBTOWN,Lieutenant Governor,,REP,GEOFF DUNCAN,335
+Tattnall,SHILOH,Lieutenant Governor,,REP,GEOFF DUNCAN,260
+Tattnall,COLLINS,Lieutenant Governor,,REP,GEOFF DUNCAN,620
+Tattnall,MANASSAS,Lieutenant Governor,,REP,GEOFF DUNCAN,109
+Tattnall,DISTRICT II,Lieutenant Governor,,REP,GEOFF DUNCAN,858
+Tattnall,EAST GLENNVILLE,Lieutenant Governor,,REP,GEOFF DUNCAN,1138
+Tattnall,DISTRICT IV,Lieutenant Governor,,REP,GEOFF DUNCAN,980
+Tattnall,DISTRICT V,Lieutenant Governor,,REP,GEOFF DUNCAN,524
+Tattnall,COBBTOWN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,64
+Tattnall,SHILOH,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,131
+Tattnall,COLLINS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,164
+Tattnall,MANASSAS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,46
+Tattnall,DISTRICT II,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,377
+Tattnall,EAST GLENNVILLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,225
+Tattnall,DISTRICT IV,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,372
+Tattnall,DISTRICT V,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,58
+Tattnall,COBBTOWN,Secretary Of State,,REP,BRAD RAFFENSPERGER,289
+Tattnall,SHILOH,Secretary Of State,,REP,BRAD RAFFENSPERGER,220
+Tattnall,COLLINS,Secretary Of State,,REP,BRAD RAFFENSPERGER,544
+Tattnall,MANASSAS,Secretary Of State,,REP,BRAD RAFFENSPERGER,106
+Tattnall,DISTRICT II,Secretary Of State,,REP,BRAD RAFFENSPERGER,739
+Tattnall,EAST GLENNVILLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,992
+Tattnall,DISTRICT IV,Secretary Of State,,REP,BRAD RAFFENSPERGER,852
+Tattnall,DISTRICT V,Secretary Of State,,REP,BRAD RAFFENSPERGER,465
+Tattnall,COBBTOWN,Secretary Of State,,DEM,JOHN BARROW,120
+Tattnall,SHILOH,Secretary Of State,,DEM,JOHN BARROW,186
+Tattnall,COLLINS,Secretary Of State,,DEM,JOHN BARROW,272
+Tattnall,MANASSAS,Secretary Of State,,DEM,JOHN BARROW,57
+Tattnall,DISTRICT II,Secretary Of State,,DEM,JOHN BARROW,529
+Tattnall,EAST GLENNVILLE,Secretary Of State,,DEM,JOHN BARROW,390
+Tattnall,DISTRICT IV,Secretary Of State,,DEM,JOHN BARROW,555
+Tattnall,DISTRICT V,Secretary Of State,,DEM,JOHN BARROW,132
+Tattnall,COBBTOWN,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Tattnall,SHILOH,Secretary Of State,,LIB,SMYTHE DUVAL,10
+Tattnall,COLLINS,Secretary Of State,,LIB,SMYTHE DUVAL,7
+Tattnall,MANASSAS,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Tattnall,DISTRICT II,Secretary Of State,,LIB,SMYTHE DUVAL,14
+Tattnall,EAST GLENNVILLE,Secretary Of State,,LIB,SMYTHE DUVAL,20
+Tattnall,DISTRICT IV,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Tattnall,DISTRICT V,Secretary Of State,,LIB,SMYTHE DUVAL,2
+Tattnall,COBBTOWN,Attorney General,,(REP,CHRIS CARR ,341
+Tattnall,SHILOH,Attorney General,,(REP,CHRIS CARR ,262
+Tattnall,COLLINS,Attorney General,,(REP,CHRIS CARR ,620
+Tattnall,MANASSAS,Attorney General,,(REP,CHRIS CARR ,109
+Tattnall,DISTRICT II,Attorney General,,(REP,CHRIS CARR ,862
+Tattnall,EAST GLENNVILLE,Attorney General,,(REP,CHRIS CARR ,1144
+Tattnall,DISTRICT IV,Attorney General,,(REP,CHRIS CARR ,983
+Tattnall,DISTRICT V,Attorney General,,(REP,CHRIS CARR ,515
+Tattnall,COBBTOWN,Attorney General,,DEM,CHARLIE BAILEY,68
+Tattnall,SHILOH,Attorney General,,DEM,CHARLIE BAILEY,150
+Tattnall,COLLINS,Attorney General,,DEM,CHARLIE BAILEY,189
+Tattnall,MANASSAS,Attorney General,,DEM,CHARLIE BAILEY,55
+Tattnall,DISTRICT II,Attorney General,,DEM,CHARLIE BAILEY,404
+Tattnall,EAST GLENNVILLE,Attorney General,,DEM,CHARLIE BAILEY,246
+Tattnall,DISTRICT IV,Attorney General,,DEM,CHARLIE BAILEY,407
+Tattnall,DISTRICT V,Attorney General,,DEM,CHARLIE BAILEY,77
+Tattnall,COBBTOWN,Commissioner Of Agriculture,,(REP,GARY BLACK ,348
+Tattnall,SHILOH,Commissioner Of Agriculture,,(REP,GARY BLACK ,260
+Tattnall,COLLINS,Commissioner Of Agriculture,,(REP,GARY BLACK ,635
+Tattnall,MANASSAS,Commissioner Of Agriculture,,(REP,GARY BLACK ,114
+Tattnall,DISTRICT II,Commissioner Of Agriculture,,(REP,GARY BLACK ,878
+Tattnall,EAST GLENNVILLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,1167
+Tattnall,DISTRICT IV,Commissioner Of Agriculture,,(REP,GARY BLACK ,1009
+Tattnall,DISTRICT V,Commissioner Of Agriculture,,(REP,GARY BLACK ,528
+Tattnall,COBBTOWN,Commissioner Of Agriculture,,DEM,FRED SWANN,60
+Tattnall,SHILOH,Commissioner Of Agriculture,,DEM,FRED SWANN,145
+Tattnall,COLLINS,Commissioner Of Agriculture,,DEM,FRED SWANN,171
+Tattnall,MANASSAS,Commissioner Of Agriculture,,DEM,FRED SWANN,48
+Tattnall,DISTRICT II,Commissioner Of Agriculture,,DEM,FRED SWANN,386
+Tattnall,EAST GLENNVILLE,Commissioner Of Agriculture,,DEM,FRED SWANN,223
+Tattnall,DISTRICT IV,Commissioner Of Agriculture,,DEM,FRED SWANN,380
+Tattnall,DISTRICT V,Commissioner Of Agriculture,,DEM,FRED SWANN,65
+Tattnall,COBBTOWN,Commissioner Of Insurance,,REP,JIM BECK,339
+Tattnall,SHILOH,Commissioner Of Insurance,,REP,JIM BECK,263
+Tattnall,COLLINS,Commissioner Of Insurance,,REP,JIM BECK,639
+Tattnall,MANASSAS,Commissioner Of Insurance,,REP,JIM BECK,114
+Tattnall,DISTRICT II,Commissioner Of Insurance,,REP,JIM BECK,857
+Tattnall,EAST GLENNVILLE,Commissioner Of Insurance,,REP,JIM BECK,1146
+Tattnall,DISTRICT IV,Commissioner Of Insurance,,REP,JIM BECK,997
+Tattnall,DISTRICT V,Commissioner Of Insurance,,REP,JIM BECK,525
+Tattnall,COBBTOWN,Commissioner Of Insurance,,DEM,JANICE LAWS,64
+Tattnall,SHILOH,Commissioner Of Insurance,,DEM,JANICE LAWS,136
+Tattnall,COLLINS,Commissioner Of Insurance,,DEM,JANICE LAWS,165
+Tattnall,MANASSAS,Commissioner Of Insurance,,DEM,JANICE LAWS,47
+Tattnall,DISTRICT II,Commissioner Of Insurance,,DEM,JANICE LAWS,383
+Tattnall,EAST GLENNVILLE,Commissioner Of Insurance,,DEM,JANICE LAWS,219
+Tattnall,DISTRICT IV,Commissioner Of Insurance,,DEM,JANICE LAWS,377
+Tattnall,DISTRICT V,Commissioner Of Insurance,,DEM,JANICE LAWS,64
+Tattnall,COBBTOWN,Commissioner Of Insurance,,LIB,DONNIE FOSTER,4
+Tattnall,SHILOH,Commissioner Of Insurance,,LIB,DONNIE FOSTER,10
+Tattnall,COLLINS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,12
+Tattnall,MANASSAS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,0
+Tattnall,DISTRICT II,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
+Tattnall,EAST GLENNVILLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Tattnall,DISTRICT IV,Commissioner Of Insurance,,LIB,DONNIE FOSTER,26
+Tattnall,DISTRICT V,Commissioner Of Insurance,,LIB,DONNIE FOSTER,6
+Tattnall,COBBTOWN,State School Superintendent,,(REP,RICHARD WOODS ,347
+Tattnall,SHILOH,State School Superintendent,,(REP,RICHARD WOODS ,274
+Tattnall,COLLINS,State School Superintendent,,(REP,RICHARD WOODS ,636
+Tattnall,MANASSAS,State School Superintendent,,(REP,RICHARD WOODS ,115
+Tattnall,DISTRICT II,State School Superintendent,,(REP,RICHARD WOODS ,886
+Tattnall,EAST GLENNVILLE,State School Superintendent,,(REP,RICHARD WOODS ,1162
+Tattnall,DISTRICT IV,State School Superintendent,,(REP,RICHARD WOODS ,1021
+Tattnall,DISTRICT V,State School Superintendent,,(REP,RICHARD WOODS ,532
+Tattnall,COBBTOWN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",64
+Tattnall,SHILOH,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",136
+Tattnall,COLLINS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",175
+Tattnall,MANASSAS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",46
+Tattnall,DISTRICT II,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",389
+Tattnall,EAST GLENNVILLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",230
+Tattnall,DISTRICT IV,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",378
+Tattnall,DISTRICT V,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",64
+Tattnall,COBBTOWN,Commissioner Of Labor,,(REP,MARK BUTLER ,345
+Tattnall,SHILOH,Commissioner Of Labor,,(REP,MARK BUTLER ,266
+Tattnall,COLLINS,Commissioner Of Labor,,(REP,MARK BUTLER ,645
+Tattnall,MANASSAS,Commissioner Of Labor,,(REP,MARK BUTLER ,117
+Tattnall,DISTRICT II,Commissioner Of Labor,,(REP,MARK BUTLER ,898
+Tattnall,EAST GLENNVILLE,Commissioner Of Labor,,(REP,MARK BUTLER ,1157
+Tattnall,DISTRICT IV,Commissioner Of Labor,,(REP,MARK BUTLER ,1009
+Tattnall,DISTRICT V,Commissioner Of Labor,,(REP,MARK BUTLER ,527
+Tattnall,COBBTOWN,Commissioner Of Labor,,DEM,RICHARD KEATLEY,66
+Tattnall,SHILOH,Commissioner Of Labor,,DEM,RICHARD KEATLEY,144
+Tattnall,COLLINS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,167
+Tattnall,MANASSAS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,46
+Tattnall,DISTRICT II,Commissioner Of Labor,,DEM,RICHARD KEATLEY,371
+Tattnall,EAST GLENNVILLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,232
+Tattnall,DISTRICT IV,Commissioner Of Labor,,DEM,RICHARD KEATLEY,387
+Tattnall,DISTRICT V,Commissioner Of Labor,,DEM,RICHARD KEATLEY,68
+Tattnall,COBBTOWN,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,337
+Tattnall,SHILOH,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,249
+Tattnall,COLLINS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,616
+Tattnall,MANASSAS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,110
+Tattnall,DISTRICT II,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,836
+Tattnall,EAST GLENNVILLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1133
+Tattnall,DISTRICT IV,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,970
+Tattnall,DISTRICT V,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,516
+Tattnall,COBBTOWN,"Public Service Commission, District 3",3,DEM,LINDY MILLER,59
+Tattnall,SHILOH,"Public Service Commission, District 3",3,DEM,LINDY MILLER,146
+Tattnall,COLLINS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,174
+Tattnall,MANASSAS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,51
+Tattnall,DISTRICT II,"Public Service Commission, District 3",3,DEM,LINDY MILLER,401
+Tattnall,EAST GLENNVILLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,235
+Tattnall,DISTRICT IV,"Public Service Commission, District 3",3,DEM,LINDY MILLER,404
+Tattnall,DISTRICT V,"Public Service Commission, District 3",3,DEM,LINDY MILLER,70
+Tattnall,COBBTOWN,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,12
+Tattnall,SHILOH,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,15
+Tattnall,COLLINS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Tattnall,MANASSAS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,2
+Tattnall,DISTRICT II,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,23
+Tattnall,EAST GLENNVILLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,25
+Tattnall,DISTRICT IV,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,21
+Tattnall,DISTRICT V,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Tattnall,COBBTOWN,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,338
+Tattnall,SHILOH,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,259
+Tattnall,COLLINS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,621
+Tattnall,MANASSAS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,112
+Tattnall,DISTRICT II,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,843
+Tattnall,EAST GLENNVILLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1131
+Tattnall,DISTRICT IV,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,990
+Tattnall,DISTRICT V,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,516
+Tattnall,COBBTOWN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,64
+Tattnall,SHILOH,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,143
+Tattnall,COLLINS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,172
+Tattnall,MANASSAS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,46
+Tattnall,DISTRICT II,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,395
+Tattnall,EAST GLENNVILLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,232
+Tattnall,DISTRICT IV,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,382
+Tattnall,DISTRICT V,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,67
+Tattnall,COBBTOWN,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,5
+Tattnall,SHILOH,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
+Tattnall,COLLINS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,13
+Tattnall,MANASSAS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,3
+Tattnall,DISTRICT II,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,24
+Tattnall,EAST GLENNVILLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
+Tattnall,DISTRICT IV,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,18
+Tattnall,DISTRICT V,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
+Tattnall,COBBTOWN,U.S. Representative,12,(REP,RICK W. ALLEN ,354
+Tattnall,SHILOH,U.S. Representative,12,(REP,RICK W. ALLEN ,276
+Tattnall,COLLINS,U.S. Representative,12,(REP,RICK W. ALLEN ,647
+Tattnall,MANASSAS,U.S. Representative,12,(REP,RICK W. ALLEN ,117
+Tattnall,DISTRICT II,U.S. Representative,12,(REP,RICK W. ALLEN ,884
+Tattnall,EAST GLENNVILLE,U.S. Representative,12,(REP,RICK W. ALLEN ,1189
+Tattnall,DISTRICT IV,U.S. Representative,12,(REP,RICK W. ALLEN ,1027
+Tattnall,DISTRICT V,U.S. Representative,12,(REP,RICK W. ALLEN ,534
+Tattnall,COBBTOWN,U.S. Representative,12,DEM,FRANCYS JOHNSON,61
+Tattnall,SHILOH,U.S. Representative,12,DEM,FRANCYS JOHNSON,136
+Tattnall,COLLINS,U.S. Representative,12,DEM,FRANCYS JOHNSON,176
+Tattnall,MANASSAS,U.S. Representative,12,DEM,FRANCYS JOHNSON,48
+Tattnall,DISTRICT II,U.S. Representative,12,DEM,FRANCYS JOHNSON,397
+Tattnall,EAST GLENNVILLE,U.S. Representative,12,DEM,FRANCYS JOHNSON,224
+Tattnall,DISTRICT IV,U.S. Representative,12,DEM,FRANCYS JOHNSON,394
+Tattnall,DISTRICT V,U.S. Representative,12,DEM,FRANCYS JOHNSON,65
+Tattnall,COBBTOWN,State Senator,4,(REP,JACK HILL ,391
+Tattnall,COLLINS,State Senator,4,(REP,JACK HILL ,734
+Tattnall,MANASSAS,State Senator,4,(REP,JACK HILL ,139
+Tattnall,DISTRICT II,State Senator,4,(REP,JACK HILL ,1114
+Tattnall,SHILOH,State Senator,19,(REP,BLAKE TILLERY ,324
+Tattnall,EAST GLENNVILLE,State Senator,19,(REP,BLAKE TILLERY ,1257
+Tattnall,DISTRICT IV,State Senator,19,(REP,BLAKE TILLERY ,1132
+Tattnall,DISTRICT V,State Senator,19,(REP,BLAKE TILLERY ,538
+Tattnall,COBBTOWN,State Representative,157,(REP,"WILLIAM ""BILL"" WERKHEISER ",369
+Tattnall,SHILOH,State Representative,157,(REP,"WILLIAM ""BILL"" WERKHEISER ",326
+Tattnall,COLLINS,State Representative,157,(REP,"WILLIAM ""BILL"" WERKHEISER ",689
+Tattnall,MANASSAS,State Representative,157,(REP,"WILLIAM ""BILL"" WERKHEISER ",135
+Tattnall,DISTRICT II,State Representative,157,(REP,"WILLIAM ""BILL"" WERKHEISER ",1045
+Tattnall,EAST GLENNVILLE,State Representative,157,(REP,"WILLIAM ""BILL"" WERKHEISER ",1229
+Tattnall,DISTRICT IV,State Representative,157,(REP,"WILLIAM ""BILL"" WERKHEISER ",1118
+Tattnall,DISTRICT V,State Representative,157,(REP,"WILLIAM ""BILL"" WERKHEISER ",528
+Tattnall,COBBTOWN,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,240
+Tattnall,SHILOH,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,304
+Tattnall,COLLINS,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,512
+Tattnall,MANASSAS,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,112
+Tattnall,DISTRICT II,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,918
+Tattnall,EAST GLENNVILLE,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,929
+Tattnall,DISTRICT IV,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,973
+Tattnall,DISTRICT V,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,364
+Tattnall,COBBTOWN,SOLICITOR GENERAL,,R,J. G. SKEENS ,369
+Tattnall,SHILOH,SOLICITOR GENERAL,,R,J. G. SKEENS ,322
+Tattnall,COLLINS,SOLICITOR GENERAL,,R,J. G. SKEENS ,688
+Tattnall,MANASSAS,SOLICITOR GENERAL,,R,J. G. SKEENS ,131
+Tattnall,DISTRICT II,SOLICITOR GENERAL,,R,J. G. SKEENS ,1047
+Tattnall,EAST GLENNVILLE,SOLICITOR GENERAL,,R,J. G. SKEENS ,1244
+Tattnall,DISTRICT IV,SOLICITOR GENERAL,,R,J. G. SKEENS ,1128
+Tattnall,DISTRICT V,SOLICITOR GENERAL,,R,J. G. SKEENS ,535
+Tattnall,COBBTOWN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,316
+Tattnall,SHILOH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,329
+Tattnall,COLLINS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,612
+Tattnall,MANASSAS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,124
+Tattnall,DISTRICT II,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,957
+Tattnall,EAST GLENNVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1004
+Tattnall,DISTRICT IV,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1053
+Tattnall,DISTRICT V,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,407
+Tattnall,COBBTOWN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,84
+Tattnall,SHILOH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,73
+Tattnall,COLLINS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,182
+Tattnall,MANASSAS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,39
+Tattnall,DISTRICT II,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,265
+Tattnall,EAST GLENNVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,344
+Tattnall,DISTRICT IV,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,302
+Tattnall,DISTRICT V,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,166
+Tattnall,COBBTOWN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,264
+Tattnall,SHILOH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,272
+Tattnall,COLLINS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,487
+Tattnall,MANASSAS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,99
+Tattnall,DISTRICT II,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,816
+Tattnall,EAST GLENNVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,843
+Tattnall,DISTRICT IV,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,903
+Tattnall,DISTRICT V,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,323
+Tattnall,COBBTOWN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,121
+Tattnall,SHILOH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,117
+Tattnall,COLLINS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,270
+Tattnall,MANASSAS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,61
+Tattnall,DISTRICT II,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,379
+Tattnall,EAST GLENNVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,454
+Tattnall,DISTRICT IV,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,402
+Tattnall,DISTRICT V,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,228
+Tattnall,COBBTOWN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,229
+Tattnall,SHILOH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,249
+Tattnall,COLLINS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,468
+Tattnall,MANASSAS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,94
+Tattnall,DISTRICT II,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,706
+Tattnall,EAST GLENNVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,734
+Tattnall,DISTRICT IV,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,805
+Tattnall,DISTRICT V,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,296
+Tattnall,COBBTOWN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,138
+Tattnall,SHILOH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,143
+Tattnall,COLLINS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,290
+Tattnall,MANASSAS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,63
+Tattnall,DISTRICT II,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,468
+Tattnall,EAST GLENNVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,548
+Tattnall,DISTRICT IV,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,486
+Tattnall,DISTRICT V,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,239
+Tattnall,COBBTOWN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,307
+Tattnall,SHILOH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,311
+Tattnall,COLLINS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,597
+Tattnall,MANASSAS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,120
+Tattnall,DISTRICT II,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,930
+Tattnall,EAST GLENNVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,956
+Tattnall,DISTRICT IV,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,997
+Tattnall,DISTRICT V,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,382
+Tattnall,COBBTOWN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,91
+Tattnall,SHILOH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,92
+Tattnall,COLLINS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,198
+Tattnall,MANASSAS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,42
+Tattnall,DISTRICT II,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,299
+Tattnall,EAST GLENNVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,381
+Tattnall,DISTRICT IV,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,341
+Tattnall,DISTRICT V,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,188
+Tattnall,COBBTOWN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,268
+Tattnall,SHILOH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,277
+Tattnall,COLLINS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,500
+Tattnall,MANASSAS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,98
+Tattnall,DISTRICT II,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,803
+Tattnall,EAST GLENNVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,845
+Tattnall,DISTRICT IV,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,894
+Tattnall,DISTRICT V,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,313
+Tattnall,COBBTOWN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,111
+Tattnall,SHILOH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,109
+Tattnall,COLLINS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,260
+Tattnall,MANASSAS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,59
+Tattnall,DISTRICT II,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,396
+Tattnall,EAST GLENNVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,456
+Tattnall,DISTRICT IV,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,410
+Tattnall,DISTRICT V,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,237
+Tattnall,COBBTOWN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,207
+Tattnall,SHILOH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,227
+Tattnall,COLLINS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,412
+Tattnall,MANASSAS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,83
+Tattnall,DISTRICT II,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,653
+Tattnall,EAST GLENNVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,637
+Tattnall,DISTRICT IV,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,722
+Tattnall,DISTRICT V,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,264
+Tattnall,COBBTOWN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,165
+Tattnall,SHILOH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,153
+Tattnall,COLLINS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,340
+Tattnall,MANASSAS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,73
+Tattnall,DISTRICT II,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,514
+Tattnall,EAST GLENNVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,630
+Tattnall,DISTRICT IV,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,555
+Tattnall,DISTRICT V,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,264
+Tattnall,COBBTOWN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,275
+Tattnall,SHILOH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,288
+Tattnall,COLLINS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,569
+Tattnall,MANASSAS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,106
+Tattnall,DISTRICT II,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,854
+Tattnall,EAST GLENNVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,943
+Tattnall,DISTRICT IV,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,967
+Tattnall,DISTRICT V,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,354
+Tattnall,COBBTOWN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,109
+Tattnall,SHILOH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,102
+Tattnall,COLLINS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,201
+Tattnall,MANASSAS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,50
+Tattnall,DISTRICT II,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,343
+Tattnall,EAST GLENNVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,369
+Tattnall,DISTRICT IV,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,342
+Tattnall,DISTRICT V,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,195
+Tattnall,COBBTOWN,Elect CC As NP,,,YES,238
+Tattnall,SHILOH,Elect CC As NP,,,YES,252
+Tattnall,COLLINS,Elect CC As NP,,,YES,494
+Tattnall,MANASSAS,Elect CC As NP,,,YES,89
+Tattnall,DISTRICT II,Elect CC As NP,,,YES,769
+Tattnall,EAST GLENNVILLE,Elect CC As NP,,,YES,818
+Tattnall,DISTRICT IV,Elect CC As NP,,,YES,802
+Tattnall,DISTRICT V,Elect CC As NP,,,YES,328
+Tattnall,COBBTOWN,Elect CC As NP,,,NO,137
+Tattnall,SHILOH,Elect CC As NP,,,NO,137
+Tattnall,COLLINS,Elect CC As NP,,,NO,265
+Tattnall,MANASSAS,Elect CC As NP,,,NO,65
+Tattnall,DISTRICT II,Elect CC As NP,,,NO,405
+Tattnall,EAST GLENNVILLE,Elect CC As NP,,,NO,478
+Tattnall,DISTRICT IV,Elect CC As NP,,,NO,489
+Tattnall,DISTRICT V,Elect CC As NP,,,NO,214
+Tattnall,DISTRICT II,Reidsville City Council W2P3,,,T. PADGETT,245
+Tattnall,DISTRICT II,Reidsville City Council W2P3,,,D. PRESTAGE,229
+Tattnall,DISTRICT II,Reidsville,,,YES,437
+Tattnall,DISTRICT II,Reidsville,,,NO,288
+Tattnall,DISTRICT II,Redisville,,,YES,451
+Tattnall,DISTRICT II,Redisville,,,NO,278

@@ -1,0 +1,264 @@
+county,precinct,office,district,party,candidate,votes
+Putnam,101,Governor,,REP,BRIAN KEMP,999
+Putnam,104,Governor,,REP,BRIAN KEMP,964
+Putnam,105,Governor,,REP,BRIAN KEMP,2022
+Putnam,106,Governor,,REP,BRIAN KEMP,682
+Putnam,107,Governor,,REP,BRIAN KEMP,2037
+Putnam,101,Governor,,DEM,STACEY ABRAMS,819
+Putnam,104,Governor,,DEM,STACEY ABRAMS,897
+Putnam,105,Governor,,DEM,STACEY ABRAMS,345
+Putnam,106,Governor,,DEM,STACEY ABRAMS,107
+Putnam,107,Governor,,DEM,STACEY ABRAMS,411
+Putnam,101,Governor,,LIB,TED METZ,6
+Putnam,104,Governor,,LIB,TED METZ,5
+Putnam,105,Governor,,LIB,TED METZ,17
+Putnam,106,Governor,,LIB,TED METZ,6
+Putnam,107,Governor,,LIB,TED METZ,18
+Putnam,101,Lieutenant Governor,,REP,GEOFF DUNCAN,980
+Putnam,104,Lieutenant Governor,,REP,GEOFF DUNCAN,961
+Putnam,105,Lieutenant Governor,,REP,GEOFF DUNCAN,1981
+Putnam,106,Lieutenant Governor,,REP,GEOFF DUNCAN,669
+Putnam,107,Lieutenant Governor,,REP,GEOFF DUNCAN,1982
+Putnam,101,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,767
+Putnam,104,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,816
+Putnam,105,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,356
+Putnam,106,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,105
+Putnam,107,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,419
+Putnam,101,Secretary Of State,,REP,BRAD RAFFENSPERGER,966
+Putnam,104,Secretary Of State,,REP,BRAD RAFFENSPERGER,939
+Putnam,105,Secretary Of State,,REP,BRAD RAFFENSPERGER,1966
+Putnam,106,Secretary Of State,,REP,BRAD RAFFENSPERGER,654
+Putnam,107,Secretary Of State,,REP,BRAD RAFFENSPERGER,1978
+Putnam,101,Secretary Of State,,DEM,JOHN BARROW,813
+Putnam,104,Secretary Of State,,DEM,JOHN BARROW,865
+Putnam,105,Secretary Of State,,DEM,JOHN BARROW,369
+Putnam,106,Secretary Of State,,DEM,JOHN BARROW,120
+Putnam,107,Secretary Of State,,DEM,JOHN BARROW,430
+Putnam,101,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Putnam,104,Secretary Of State,,LIB,SMYTHE DUVAL,20
+Putnam,105,Secretary Of State,,LIB,SMYTHE DUVAL,29
+Putnam,106,Secretary Of State,,LIB,SMYTHE DUVAL,7
+Putnam,107,Secretary Of State,,LIB,SMYTHE DUVAL,38
+Putnam,101,Attorney General,,(REP,CHRIS CARR ,973
+Putnam,104,Attorney General,,(REP,CHRIS CARR ,958
+Putnam,105,Attorney General,,(REP,CHRIS CARR ,1977
+Putnam,106,Attorney General,,(REP,CHRIS CARR ,642
+Putnam,107,Attorney General,,(REP,CHRIS CARR ,1993
+Putnam,101,Attorney General,,DEM,CHARLIE BAILEY,811
+Putnam,104,Attorney General,,DEM,CHARLIE BAILEY,868
+Putnam,105,Attorney General,,DEM,CHARLIE BAILEY,360
+Putnam,106,Attorney General,,DEM,CHARLIE BAILEY,132
+Putnam,107,Attorney General,,DEM,CHARLIE BAILEY,439
+Putnam,101,Commissioner Of Agriculture,,(REP,GARY BLACK ,1011
+Putnam,104,Commissioner Of Agriculture,,(REP,GARY BLACK ,983
+Putnam,105,Commissioner Of Agriculture,,(REP,GARY BLACK ,2020
+Putnam,106,Commissioner Of Agriculture,,(REP,GARY BLACK ,663
+Putnam,107,Commissioner Of Agriculture,,(REP,GARY BLACK ,2035
+Putnam,101,Commissioner Of Agriculture,,DEM,FRED SWANN,776
+Putnam,104,Commissioner Of Agriculture,,DEM,FRED SWANN,836
+Putnam,105,Commissioner Of Agriculture,,DEM,FRED SWANN,316
+Putnam,106,Commissioner Of Agriculture,,DEM,FRED SWANN,102
+Putnam,107,Commissioner Of Agriculture,,DEM,FRED SWANN,380
+Putnam,101,Commissioner Of Insurance,,REP,JIM BECK,985
+Putnam,104,Commissioner Of Insurance,,REP,JIM BECK,947
+Putnam,105,Commissioner Of Insurance,,REP,JIM BECK,1964
+Putnam,106,Commissioner Of Insurance,,REP,JIM BECK,655
+Putnam,107,Commissioner Of Insurance,,REP,JIM BECK,1981
+Putnam,101,Commissioner Of Insurance,,DEM,JANICE LAWS,769
+Putnam,104,Commissioner Of Insurance,,DEM,JANICE LAWS,855
+Putnam,105,Commissioner Of Insurance,,DEM,JANICE LAWS,339
+Putnam,106,Commissioner Of Insurance,,DEM,JANICE LAWS,111
+Putnam,107,Commissioner Of Insurance,,DEM,JANICE LAWS,400
+Putnam,101,Commissioner Of Insurance,,LIB,DONNIE FOSTER,30
+Putnam,104,Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Putnam,105,Commissioner Of Insurance,,LIB,DONNIE FOSTER,45
+Putnam,106,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Putnam,107,Commissioner Of Insurance,,LIB,DONNIE FOSTER,50
+Putnam,101,State School Superintendent,,(REP,RICHARD WOODS ,1003
+Putnam,104,State School Superintendent,,(REP,RICHARD WOODS ,980
+Putnam,105,State School Superintendent,,(REP,RICHARD WOODS ,2027
+Putnam,106,State School Superintendent,,(REP,RICHARD WOODS ,662
+Putnam,107,State School Superintendent,,(REP,RICHARD WOODS ,2042
+Putnam,101,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",790
+Putnam,104,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",843
+Putnam,105,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",319
+Putnam,106,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",100
+Putnam,107,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",387
+Putnam,101,Commissioner Of Labor,,(REP,MARK BUTLER ,996
+Putnam,104,Commissioner Of Labor,,(REP,MARK BUTLER ,981
+Putnam,105,Commissioner Of Labor,,(REP,MARK BUTLER ,2006
+Putnam,106,Commissioner Of Labor,,(REP,MARK BUTLER ,652
+Putnam,107,Commissioner Of Labor,,(REP,MARK BUTLER ,2029
+Putnam,101,Commissioner Of Labor,,DEM,RICHARD KEATLEY,785
+Putnam,104,Commissioner Of Labor,,DEM,RICHARD KEATLEY,841
+Putnam,105,Commissioner Of Labor,,DEM,RICHARD KEATLEY,326
+Putnam,106,Commissioner Of Labor,,DEM,RICHARD KEATLEY,114
+Putnam,107,Commissioner Of Labor,,DEM,RICHARD KEATLEY,397
+Putnam,101,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,970
+Putnam,104,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,936
+Putnam,105,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1950
+Putnam,106,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,643
+Putnam,107,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1968
+Putnam,101,"Public Service Commission, District 3",3,DEM,LINDY MILLER,791
+Putnam,104,"Public Service Commission, District 3",3,DEM,LINDY MILLER,867
+Putnam,105,"Public Service Commission, District 3",3,DEM,LINDY MILLER,358
+Putnam,106,"Public Service Commission, District 3",3,DEM,LINDY MILLER,121
+Putnam,107,"Public Service Commission, District 3",3,DEM,LINDY MILLER,421
+Putnam,101,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,29
+Putnam,104,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,19
+Putnam,105,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,39
+Putnam,106,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,8
+Putnam,107,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,38
+Putnam,101,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,975
+Putnam,104,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,959
+Putnam,105,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1976
+Putnam,106,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,649
+Putnam,107,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1970
+Putnam,101,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,779
+Putnam,104,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,837
+Putnam,105,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,334
+Putnam,106,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,111
+Putnam,107,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,404
+Putnam,101,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,32
+Putnam,104,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21
+Putnam,105,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,40
+Putnam,106,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,10
+Putnam,107,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,54
+Putnam,101,U.S. Representative,10,(REP,JODY HICE ,1005
+Putnam,104,U.S. Representative,10,(REP,JODY HICE ,978
+Putnam,105,U.S. Representative,10,(REP,JODY HICE ,2030
+Putnam,106,U.S. Representative,10,(REP,JODY HICE ,666
+Putnam,107,U.S. Representative,10,(REP,JODY HICE ,2040
+Putnam,101,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,791
+Putnam,104,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,849
+Putnam,105,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,329
+Putnam,106,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,112
+Putnam,107,U.S. Representative,10,DEM,TABITHA A. JOHNSON-GREEN,399
+Putnam,101,State Senator,25,(REP,BURT JONES ,1269
+Putnam,104,State Senator,25,(REP,BURT JONES ,1267
+Putnam,105,State Senator,25,(REP,BURT JONES ,2130
+Putnam,106,State Senator,25,(REP,BURT JONES ,701
+Putnam,107,State Senator,25,(REP,BURT JONES ,2187
+Putnam,101,State Representative,120,(REP,TREY RHODES ,1003
+Putnam,104,State Representative,120,(REP,TREY RHODES ,831
+Putnam,105,State Representative,120,(REP,TREY RHODES ,2014
+Putnam,106,State Representative,120,(REP,TREY RHODES ,658
+Putnam,101,State Representative,120,DEM,"CHARLES ""CHUCK"" HOGG",784
+Putnam,104,State Representative,120,DEM,"CHARLES ""CHUCK"" HOGG",266
+Putnam,105,State Representative,120,DEM,"CHARLES ""CHUCK"" HOGG",321
+Putnam,106,State Representative,120,DEM,"CHARLES ""CHUCK"" HOGG",111
+Putnam,101,State Representative,145,(REP,RICKY A. WILLIAMS ,0
+Putnam,104,State Representative,145,(REP,RICKY A. WILLIAMS ,341
+Putnam,107,State Representative,145,(REP,RICKY A. WILLIAMS ,2197
+Putnam,101,Solicitor General,,R,R. THOMAS ,1285
+Putnam,104,Solicitor General,,R,R. THOMAS ,1267
+Putnam,105,Solicitor General,,R,R. THOMAS ,2128
+Putnam,106,Solicitor General,,R,R. THOMAS ,694
+Putnam,107,Solicitor General,,R,R. THOMAS ,2181
+Putnam,101,County Comm Chair,,R,B. WEBSTER,1258
+Putnam,104,County Comm Chair,,R,B. WEBSTER,1254
+Putnam,105,County Comm Chair,,R,B. WEBSTER,2112
+Putnam,106,County Comm Chair,,R,B. WEBSTER,696
+Putnam,107,County Comm Chair,,R,B. WEBSTER,2166
+Putnam,105,County Comm Dist 3,,R,B. W. SHARP,2137
+Putnam,106,County Comm Dist 3,,R,B. W. SHARP,695
+Putnam,107,County Comm Dist 4,,R,T. J. ADDISON ,2177
+Putnam,101,BOE 1,,D,D. CLEMONS ,1010
+Putnam,104,BOE 1,,D,D. CLEMONS ,16
+Putnam,101,BOE 2,,D,S. JONES ,176
+Putnam,104,BOE 2,,D,S. JONES ,896
+Putnam,101,Soil and Water,,,H. DAVIS ,1274
+Putnam,104,Soil and Water,,,H. DAVIS ,1329
+Putnam,105,Soil and Water,,,H. DAVIS ,2005
+Putnam,106,Soil and Water,,,H. DAVIS ,646
+Putnam,107,Soil and Water,,,H. DAVIS ,2067
+Putnam,101,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1330
+Putnam,104,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1377
+Putnam,105,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1834
+Putnam,106,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,596
+Putnam,107,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1810
+Putnam,101,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,397
+Putnam,104,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,380
+Putnam,105,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,472
+Putnam,106,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,160
+Putnam,107,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,590
+Putnam,101,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1067
+Putnam,104,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1155
+Putnam,105,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1509
+Putnam,106,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,463
+Putnam,107,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1466
+Putnam,101,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,607
+Putnam,104,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,547
+Putnam,105,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,758
+Putnam,106,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,272
+Putnam,107,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,890
+Putnam,101,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,933
+Putnam,104,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1022
+Putnam,105,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1358
+Putnam,106,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,427
+Putnam,107,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1315
+Putnam,101,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,725
+Putnam,104,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,675
+Putnam,105,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,891
+Putnam,106,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,297
+Putnam,107,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1006
+Putnam,101,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1389
+Putnam,104,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1448
+Putnam,105,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1806
+Putnam,106,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,609
+Putnam,107,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1830
+Putnam,101,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,350
+Putnam,104,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,319
+Putnam,105,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,497
+Putnam,106,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,154
+Putnam,107,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,572
+Putnam,101,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1037
+Putnam,104,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1138
+Putnam,105,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1420
+Putnam,106,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,457
+Putnam,107,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1388
+Putnam,101,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,646
+Putnam,104,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,588
+Putnam,105,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,844
+Putnam,106,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,281
+Putnam,107,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,949
+Putnam,101,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,858
+Putnam,104,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,932
+Putnam,105,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1108
+Putnam,106,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,389
+Putnam,107,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1176
+Putnam,101,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,782
+Putnam,104,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,741
+Putnam,105,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1083
+Putnam,106,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,332
+Putnam,107,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1115
+Putnam,101,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1222
+Putnam,104,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1286
+Putnam,105,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1569
+Putnam,106,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,511
+Putnam,107,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1520
+Putnam,101,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,467
+Putnam,104,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,442
+Putnam,105,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,677
+Putnam,106,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,225
+Putnam,107,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,829
+Putnam,101,SPLOST,,,YES,933
+Putnam,104,SPLOST,,,YES,1029
+Putnam,105,SPLOST,,,YES,1377
+Putnam,106,SPLOST,,,YES,431
+Putnam,107,SPLOST,,,YES,1396
+Putnam,101,SPLOST,,,NO,762
+Putnam,104,SPLOST,,,NO,707
+Putnam,105,SPLOST,,,NO,910
+Putnam,106,SPLOST,,,NO,311
+Putnam,107,SPLOST,,,NO,983
+Putnam,101,REDEVELOPMENTPOWERS REFERENDUM,,,YES,794
+Putnam,104,REDEVELOPMENTPOWERS REFERENDUM,,,YES,921
+Putnam,105,REDEVELOPMENTPOWERS REFERENDUM,,,YES,1149
+Putnam,106,REDEVELOPMENTPOWERS REFERENDUM,,,YES,341
+Putnam,107,REDEVELOPMENTPOWERS REFERENDUM,,,YES,1129
+Putnam,101,REDEVELOPMENTPOWERS REFERENDUM,,,NO,817
+Putnam,104,REDEVELOPMENTPOWERS REFERENDUM,,,NO,737
+Putnam,105,REDEVELOPMENTPOWERS REFERENDUM,,,NO,1026
+Putnam,106,REDEVELOPMENTPOWERS REFERENDUM,,,NO,369
+Putnam,107,REDEVELOPMENTPOWERS REFERENDUM,,,NO,1148

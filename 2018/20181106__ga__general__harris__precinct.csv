@@ -1,0 +1,551 @@
+county,precinct,office,district,party,candidate,votes
+Harris,CATAULA,Governor,,REP,BRIAN KEMP,1429
+Harris,ELLERSLIE,Governor,,REP,BRIAN KEMP,1953
+Harris,GOODMAN,Governor,,REP,BRIAN KEMP,623
+Harris,HAMILTON,Governor,,REP,BRIAN KEMP,1086
+Harris,LOWER 19TH,Governor,,REP,BRIAN KEMP,1298
+Harris,MULBERRY GROVE,Governor,,REP,BRIAN KEMP,1564
+Harris,PINE MOUNTAIN VALLEY,Governor,,REP,BRIAN KEMP,571
+Harris,SKINNER,Governor,,REP,BRIAN KEMP,371
+Harris,UPPER 19TH,Governor,,REP,BRIAN KEMP,866
+Harris,VALLEY PLAINS,Governor,,REP,BRIAN KEMP,312
+Harris,WAVERLY HALL,Governor,,REP,BRIAN KEMP,1085
+Harris,WHITESVILLE,Governor,,REP,BRIAN KEMP,676
+Harris,CATAULA,Governor,,DEM,STACEY ABRAMS,409
+Harris,ELLERSLIE,Governor,,DEM,STACEY ABRAMS,679
+Harris,GOODMAN,Governor,,DEM,STACEY ABRAMS,375
+Harris,HAMILTON,Governor,,DEM,STACEY ABRAMS,556
+Harris,LOWER 19TH,Governor,,DEM,STACEY ABRAMS,341
+Harris,MULBERRY GROVE,Governor,,DEM,STACEY ABRAMS,294
+Harris,PINE MOUNTAIN VALLEY,Governor,,DEM,STACEY ABRAMS,115
+Harris,SKINNER,Governor,,DEM,STACEY ABRAMS,199
+Harris,UPPER 19TH,Governor,,DEM,STACEY ABRAMS,153
+Harris,VALLEY PLAINS,Governor,,DEM,STACEY ABRAMS,139
+Harris,WAVERLY HALL,Governor,,DEM,STACEY ABRAMS,553
+Harris,WHITESVILLE,Governor,,DEM,STACEY ABRAMS,208
+Harris,CATAULA,Governor,,LIB,TED METZ,19
+Harris,ELLERSLIE,Governor,,LIB,TED METZ,21
+Harris,GOODMAN,Governor,,LIB,TED METZ,6
+Harris,HAMILTON,Governor,,LIB,TED METZ,11
+Harris,LOWER 19TH,Governor,,LIB,TED METZ,19
+Harris,MULBERRY GROVE,Governor,,LIB,TED METZ,15
+Harris,PINE MOUNTAIN VALLEY,Governor,,LIB,TED METZ,3
+Harris,SKINNER,Governor,,LIB,TED METZ,5
+Harris,UPPER 19TH,Governor,,LIB,TED METZ,11
+Harris,VALLEY PLAINS,Governor,,LIB,TED METZ,1
+Harris,WAVERLY HALL,Governor,,LIB,TED METZ,13
+Harris,WHITESVILLE,Governor,,LIB,TED METZ,7
+Harris,CATAULA,Lieutenant Governor,,REP,GEOFF DUNCAN,1397
+Harris,ELLERSLIE,Lieutenant Governor,,REP,GEOFF DUNCAN,1898
+Harris,GOODMAN,Lieutenant Governor,,REP,GEOFF DUNCAN,611
+Harris,HAMILTON,Lieutenant Governor,,REP,GEOFF DUNCAN,1065
+Harris,LOWER 19TH,Lieutenant Governor,,REP,GEOFF DUNCAN,1255
+Harris,MULBERRY GROVE,Lieutenant Governor,,REP,GEOFF DUNCAN,1520
+Harris,PINE MOUNTAIN VALLEY,Lieutenant Governor,,REP,GEOFF DUNCAN,549
+Harris,SKINNER,Lieutenant Governor,,REP,GEOFF DUNCAN,359
+Harris,UPPER 19TH,Lieutenant Governor,,REP,GEOFF DUNCAN,856
+Harris,VALLEY PLAINS,Lieutenant Governor,,REP,GEOFF DUNCAN,294
+Harris,WAVERLY HALL,Lieutenant Governor,,REP,GEOFF DUNCAN,1066
+Harris,WHITESVILLE,Lieutenant Governor,,REP,GEOFF DUNCAN,662
+Harris,CATAULA,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,374
+Harris,ELLERSLIE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,668
+Harris,GOODMAN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,336
+Harris,HAMILTON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,510
+Harris,LOWER 19TH,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,338
+Harris,MULBERRY GROVE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,295
+Harris,PINE MOUNTAIN VALLEY,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,112
+Harris,SKINNER,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,192
+Harris,UPPER 19TH,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,143
+Harris,VALLEY PLAINS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,132
+Harris,WAVERLY HALL,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,516
+Harris,WHITESVILLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,199
+Harris,CATAULA,Secretary Of State,,REP,BRAD RAFFENSPERGER,1391
+Harris,ELLERSLIE,Secretary Of State,,REP,BRAD RAFFENSPERGER,1895
+Harris,GOODMAN,Secretary Of State,,REP,BRAD RAFFENSPERGER,596
+Harris,HAMILTON,Secretary Of State,,REP,BRAD RAFFENSPERGER,1047
+Harris,LOWER 19TH,Secretary Of State,,REP,BRAD RAFFENSPERGER,1269
+Harris,MULBERRY GROVE,Secretary Of State,,REP,BRAD RAFFENSPERGER,1506
+Harris,PINE MOUNTAIN VALLEY,Secretary Of State,,REP,BRAD RAFFENSPERGER,548
+Harris,SKINNER,Secretary Of State,,REP,BRAD RAFFENSPERGER,345
+Harris,UPPER 19TH,Secretary Of State,,REP,BRAD RAFFENSPERGER,844
+Harris,VALLEY PLAINS,Secretary Of State,,REP,BRAD RAFFENSPERGER,295
+Harris,WAVERLY HALL,Secretary Of State,,REP,BRAD RAFFENSPERGER,1052
+Harris,WHITESVILLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,661
+Harris,CATAULA,Secretary Of State,,DEM,JOHN BARROW,404
+Harris,ELLERSLIE,Secretary Of State,,DEM,JOHN BARROW,700
+Harris,GOODMAN,Secretary Of State,,DEM,JOHN BARROW,364
+Harris,HAMILTON,Secretary Of State,,DEM,JOHN BARROW,554
+Harris,LOWER 19TH,Secretary Of State,,DEM,JOHN BARROW,350
+Harris,MULBERRY GROVE,Secretary Of State,,DEM,JOHN BARROW,319
+Harris,PINE MOUNTAIN VALLEY,Secretary Of State,,DEM,JOHN BARROW,121
+Harris,SKINNER,Secretary Of State,,DEM,JOHN BARROW,209
+Harris,UPPER 19TH,Secretary Of State,,DEM,JOHN BARROW,162
+Harris,VALLEY PLAINS,Secretary Of State,,DEM,JOHN BARROW,141
+Harris,WAVERLY HALL,Secretary Of State,,DEM,JOHN BARROW,542
+Harris,WHITESVILLE,Secretary Of State,,DEM,JOHN BARROW,206
+Harris,CATAULA,Secretary Of State,,LIB,SMYTHE DUVAL,36
+Harris,ELLERSLIE,Secretary Of State,,LIB,SMYTHE DUVAL,35
+Harris,GOODMAN,Secretary Of State,,LIB,SMYTHE DUVAL,16
+Harris,HAMILTON,Secretary Of State,,LIB,SMYTHE DUVAL,25
+Harris,LOWER 19TH,Secretary Of State,,LIB,SMYTHE DUVAL,29
+Harris,MULBERRY GROVE,Secretary Of State,,LIB,SMYTHE DUVAL,29
+Harris,PINE MOUNTAIN VALLEY,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Harris,SKINNER,Secretary Of State,,LIB,SMYTHE DUVAL,11
+Harris,UPPER 19TH,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Harris,VALLEY PLAINS,Secretary Of State,,LIB,SMYTHE DUVAL,4
+Harris,WAVERLY HALL,Secretary Of State,,LIB,SMYTHE DUVAL,25
+Harris,WHITESVILLE,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Harris,CATAULA,Attorney General,,(REP,CHRIS CARR ,1350
+Harris,ELLERSLIE,Attorney General,,(REP,CHRIS CARR ,1851
+Harris,GOODMAN,Attorney General,,(REP,CHRIS CARR ,555
+Harris,HAMILTON,Attorney General,,(REP,CHRIS CARR ,1006
+Harris,LOWER 19TH,Attorney General,,(REP,CHRIS CARR ,1232
+Harris,MULBERRY GROVE,Attorney General,,(REP,CHRIS CARR ,1466
+Harris,PINE MOUNTAIN VALLEY,Attorney General,,(REP,CHRIS CARR ,520
+Harris,SKINNER,Attorney General,,(REP,CHRIS CARR ,354
+Harris,UPPER 19TH,Attorney General,,(REP,CHRIS CARR ,791
+Harris,VALLEY PLAINS,Attorney General,,(REP,CHRIS CARR ,269
+Harris,WAVERLY HALL,Attorney General,,(REP,CHRIS CARR ,1032
+Harris,WHITESVILLE,Attorney General,,(REP,CHRIS CARR ,631
+Harris,CATAULA,Attorney General,,DEM,CHARLIE BAILEY,472
+Harris,ELLERSLIE,Attorney General,,DEM,CHARLIE BAILEY,769
+Harris,GOODMAN,Attorney General,,DEM,CHARLIE BAILEY,427
+Harris,HAMILTON,Attorney General,,DEM,CHARLIE BAILEY,619
+Harris,LOWER 19TH,Attorney General,,DEM,CHARLIE BAILEY,407
+Harris,MULBERRY GROVE,Attorney General,,DEM,CHARLIE BAILEY,372
+Harris,PINE MOUNTAIN VALLEY,Attorney General,,DEM,CHARLIE BAILEY,160
+Harris,SKINNER,Attorney General,,DEM,CHARLIE BAILEY,201
+Harris,UPPER 19TH,Attorney General,,DEM,CHARLIE BAILEY,223
+Harris,VALLEY PLAINS,Attorney General,,DEM,CHARLIE BAILEY,171
+Harris,WAVERLY HALL,Attorney General,,DEM,CHARLIE BAILEY,581
+Harris,WHITESVILLE,Attorney General,,DEM,CHARLIE BAILEY,252
+Harris,CATAULA,Commissioner Of Agriculture,,(REP,GARY BLACK ,1435
+Harris,ELLERSLIE,Commissioner Of Agriculture,,(REP,GARY BLACK ,1956
+Harris,GOODMAN,Commissioner Of Agriculture,,(REP,GARY BLACK ,635
+Harris,HAMILTON,Commissioner Of Agriculture,,(REP,GARY BLACK ,1103
+Harris,LOWER 19TH,Commissioner Of Agriculture,,(REP,GARY BLACK ,1290
+Harris,MULBERRY GROVE,Commissioner Of Agriculture,,(REP,GARY BLACK ,1539
+Harris,PINE MOUNTAIN VALLEY,Commissioner Of Agriculture,,(REP,GARY BLACK ,564
+Harris,SKINNER,Commissioner Of Agriculture,,(REP,GARY BLACK ,369
+Harris,UPPER 19TH,Commissioner Of Agriculture,,(REP,GARY BLACK ,862
+Harris,VALLEY PLAINS,Commissioner Of Agriculture,,(REP,GARY BLACK ,305
+Harris,WAVERLY HALL,Commissioner Of Agriculture,,(REP,GARY BLACK ,1090
+Harris,WHITESVILLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,679
+Harris,CATAULA,Commissioner Of Agriculture,,DEM,FRED SWANN,383
+Harris,ELLERSLIE,Commissioner Of Agriculture,,DEM,FRED SWANN,662
+Harris,GOODMAN,Commissioner Of Agriculture,,DEM,FRED SWANN,329
+Harris,HAMILTON,Commissioner Of Agriculture,,DEM,FRED SWANN,515
+Harris,LOWER 19TH,Commissioner Of Agriculture,,DEM,FRED SWANN,335
+Harris,MULBERRY GROVE,Commissioner Of Agriculture,,DEM,FRED SWANN,291
+Harris,PINE MOUNTAIN VALLEY,Commissioner Of Agriculture,,DEM,FRED SWANN,114
+Harris,SKINNER,Commissioner Of Agriculture,,DEM,FRED SWANN,182
+Harris,UPPER 19TH,Commissioner Of Agriculture,,DEM,FRED SWANN,145
+Harris,VALLEY PLAINS,Commissioner Of Agriculture,,DEM,FRED SWANN,128
+Harris,WAVERLY HALL,Commissioner Of Agriculture,,DEM,FRED SWANN,518
+Harris,WHITESVILLE,Commissioner Of Agriculture,,DEM,FRED SWANN,187
+Harris,CATAULA,Commissioner Of Insurance,,REP,JIM BECK,1403
+Harris,ELLERSLIE,Commissioner Of Insurance,,REP,JIM BECK,1909
+Harris,GOODMAN,Commissioner Of Insurance,,REP,JIM BECK,609
+Harris,HAMILTON,Commissioner Of Insurance,,REP,JIM BECK,1070
+Harris,LOWER 19TH,Commissioner Of Insurance,,REP,JIM BECK,1271
+Harris,MULBERRY GROVE,Commissioner Of Insurance,,REP,JIM BECK,1512
+Harris,PINE MOUNTAIN VALLEY,Commissioner Of Insurance,,REP,JIM BECK,550
+Harris,SKINNER,Commissioner Of Insurance,,REP,JIM BECK,356
+Harris,UPPER 19TH,Commissioner Of Insurance,,REP,JIM BECK,848
+Harris,VALLEY PLAINS,Commissioner Of Insurance,,REP,JIM BECK,302
+Harris,WAVERLY HALL,Commissioner Of Insurance,,REP,JIM BECK,1068
+Harris,WHITESVILLE,Commissioner Of Insurance,,REP,JIM BECK,668
+Harris,CATAULA,Commissioner Of Insurance,,DEM,JANICE LAWS,370
+Harris,ELLERSLIE,Commissioner Of Insurance,,DEM,JANICE LAWS,664
+Harris,GOODMAN,Commissioner Of Insurance,,DEM,JANICE LAWS,350
+Harris,HAMILTON,Commissioner Of Insurance,,DEM,JANICE LAWS,524
+Harris,LOWER 19TH,Commissioner Of Insurance,,DEM,JANICE LAWS,333
+Harris,MULBERRY GROVE,Commissioner Of Insurance,,DEM,JANICE LAWS,291
+Harris,PINE MOUNTAIN VALLEY,Commissioner Of Insurance,,DEM,JANICE LAWS,110
+Harris,SKINNER,Commissioner Of Insurance,,DEM,JANICE LAWS,186
+Harris,UPPER 19TH,Commissioner Of Insurance,,DEM,JANICE LAWS,148
+Harris,VALLEY PLAINS,Commissioner Of Insurance,,DEM,JANICE LAWS,133
+Harris,WAVERLY HALL,Commissioner Of Insurance,,DEM,JANICE LAWS,518
+Harris,WHITESVILLE,Commissioner Of Insurance,,DEM,JANICE LAWS,187
+Harris,CATAULA,Commissioner Of Insurance,,LIB,DONNIE FOSTER,46
+Harris,ELLERSLIE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,48
+Harris,GOODMAN,Commissioner Of Insurance,,LIB,DONNIE FOSTER,8
+Harris,HAMILTON,Commissioner Of Insurance,,LIB,DONNIE FOSTER,30
+Harris,LOWER 19TH,Commissioner Of Insurance,,LIB,DONNIE FOSTER,31
+Harris,MULBERRY GROVE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,37
+Harris,PINE MOUNTAIN VALLEY,Commissioner Of Insurance,,LIB,DONNIE FOSTER,15
+Harris,SKINNER,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Harris,UPPER 19TH,Commissioner Of Insurance,,LIB,DONNIE FOSTER,19
+Harris,VALLEY PLAINS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,5
+Harris,WAVERLY HALL,Commissioner Of Insurance,,LIB,DONNIE FOSTER,29
+Harris,WHITESVILLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Harris,CATAULA,State School Superintendent,,(REP,RICHARD WOODS ,1446
+Harris,ELLERSLIE,State School Superintendent,,(REP,RICHARD WOODS ,1973
+Harris,GOODMAN,State School Superintendent,,(REP,RICHARD WOODS ,641
+Harris,HAMILTON,State School Superintendent,,(REP,RICHARD WOODS ,1108
+Harris,LOWER 19TH,State School Superintendent,,(REP,RICHARD WOODS ,1308
+Harris,MULBERRY GROVE,State School Superintendent,,(REP,RICHARD WOODS ,1566
+Harris,PINE MOUNTAIN VALLEY,State School Superintendent,,(REP,RICHARD WOODS ,573
+Harris,SKINNER,State School Superintendent,,(REP,RICHARD WOODS ,375
+Harris,UPPER 19TH,State School Superintendent,,(REP,RICHARD WOODS ,879
+Harris,VALLEY PLAINS,State School Superintendent,,(REP,RICHARD WOODS ,306
+Harris,WAVERLY HALL,State School Superintendent,,(REP,RICHARD WOODS ,1109
+Harris,WHITESVILLE,State School Superintendent,,(REP,RICHARD WOODS ,692
+Harris,CATAULA,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",376
+Harris,ELLERSLIE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",655
+Harris,GOODMAN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",330
+Harris,HAMILTON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",518
+Harris,LOWER 19TH,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",325
+Harris,MULBERRY GROVE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",285
+Harris,PINE MOUNTAIN VALLEY,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",106
+Harris,SKINNER,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",185
+Harris,UPPER 19TH,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",135
+Harris,VALLEY PLAINS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",132
+Harris,WAVERLY HALL,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",511
+Harris,WHITESVILLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",183
+Harris,CATAULA,Commissioner Of Labor,,(REP,MARK BUTLER ,1443
+Harris,ELLERSLIE,Commissioner Of Labor,,(REP,MARK BUTLER ,1962
+Harris,GOODMAN,Commissioner Of Labor,,(REP,MARK BUTLER ,628
+Harris,HAMILTON,Commissioner Of Labor,,(REP,MARK BUTLER ,1095
+Harris,LOWER 19TH,Commissioner Of Labor,,(REP,MARK BUTLER ,1299
+Harris,MULBERRY GROVE,Commissioner Of Labor,,(REP,MARK BUTLER ,1540
+Harris,PINE MOUNTAIN VALLEY,Commissioner Of Labor,,(REP,MARK BUTLER ,564
+Harris,SKINNER,Commissioner Of Labor,,(REP,MARK BUTLER ,371
+Harris,UPPER 19TH,Commissioner Of Labor,,(REP,MARK BUTLER ,866
+Harris,VALLEY PLAINS,Commissioner Of Labor,,(REP,MARK BUTLER ,302
+Harris,WAVERLY HALL,Commissioner Of Labor,,(REP,MARK BUTLER ,1094
+Harris,WHITESVILLE,Commissioner Of Labor,,(REP,MARK BUTLER ,679
+Harris,CATAULA,Commissioner Of Labor,,DEM,RICHARD KEATLEY,376
+Harris,ELLERSLIE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,658
+Harris,GOODMAN,Commissioner Of Labor,,DEM,RICHARD KEATLEY,345
+Harris,HAMILTON,Commissioner Of Labor,,DEM,RICHARD KEATLEY,530
+Harris,LOWER 19TH,Commissioner Of Labor,,DEM,RICHARD KEATLEY,333
+Harris,MULBERRY GROVE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,304
+Harris,PINE MOUNTAIN VALLEY,Commissioner Of Labor,,DEM,RICHARD KEATLEY,112
+Harris,SKINNER,Commissioner Of Labor,,DEM,RICHARD KEATLEY,185
+Harris,UPPER 19TH,Commissioner Of Labor,,DEM,RICHARD KEATLEY,145
+Harris,VALLEY PLAINS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,134
+Harris,WAVERLY HALL,Commissioner Of Labor,,DEM,RICHARD KEATLEY,519
+Harris,WHITESVILLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,193
+Harris,CATAULA,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1392
+Harris,ELLERSLIE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1901
+Harris,GOODMAN,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,609
+Harris,HAMILTON,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1059
+Harris,LOWER 19TH,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1261
+Harris,MULBERRY GROVE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1504
+Harris,PINE MOUNTAIN VALLEY,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,545
+Harris,SKINNER,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,354
+Harris,UPPER 19TH,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,847
+Harris,VALLEY PLAINS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,294
+Harris,WAVERLY HALL,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1075
+Harris,WHITESVILLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,663
+Harris,CATAULA,"Public Service Commission, District 3",3,DEM,LINDY MILLER,384
+Harris,ELLERSLIE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,675
+Harris,GOODMAN,"Public Service Commission, District 3",3,DEM,LINDY MILLER,345
+Harris,HAMILTON,"Public Service Commission, District 3",3,DEM,LINDY MILLER,535
+Harris,LOWER 19TH,"Public Service Commission, District 3",3,DEM,LINDY MILLER,330
+Harris,MULBERRY GROVE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,303
+Harris,PINE MOUNTAIN VALLEY,"Public Service Commission, District 3",3,DEM,LINDY MILLER,115
+Harris,SKINNER,"Public Service Commission, District 3",3,DEM,LINDY MILLER,193
+Harris,UPPER 19TH,"Public Service Commission, District 3",3,DEM,LINDY MILLER,148
+Harris,VALLEY PLAINS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,139
+Harris,WAVERLY HALL,"Public Service Commission, District 3",3,DEM,LINDY MILLER,522
+Harris,WHITESVILLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,193
+Harris,CATAULA,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,44
+Harris,ELLERSLIE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,45
+Harris,GOODMAN,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,11
+Harris,HAMILTON,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,36
+Harris,LOWER 19TH,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,43
+Harris,MULBERRY GROVE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,37
+Harris,PINE MOUNTAIN VALLEY,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,13
+Harris,SKINNER,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,12
+Harris,UPPER 19TH,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,20
+Harris,VALLEY PLAINS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,7
+Harris,WAVERLY HALL,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,25
+Harris,WHITESVILLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Harris,CATAULA,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1401
+Harris,ELLERSLIE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1907
+Harris,GOODMAN,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,615
+Harris,HAMILTON,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1061
+Harris,LOWER 19TH,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1275
+Harris,MULBERRY GROVE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1508
+Harris,PINE MOUNTAIN VALLEY,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,547
+Harris,SKINNER,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,363
+Harris,UPPER 19TH,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,843
+Harris,VALLEY PLAINS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,301
+Harris,WAVERLY HALL,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1067
+Harris,WHITESVILLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,666
+Harris,CATAULA,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,382
+Harris,ELLERSLIE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,673
+Harris,GOODMAN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,342
+Harris,HAMILTON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,526
+Harris,LOWER 19TH,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,323
+Harris,MULBERRY GROVE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,299
+Harris,PINE MOUNTAIN VALLEY,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,114
+Harris,SKINNER,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,184
+Harris,UPPER 19TH,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,151
+Harris,VALLEY PLAINS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,136
+Harris,WAVERLY HALL,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,522
+Harris,WHITESVILLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,191
+Harris,CATAULA,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,43
+Harris,ELLERSLIE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,45
+Harris,GOODMAN,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Harris,HAMILTON,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,37
+Harris,LOWER 19TH,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,36
+Harris,MULBERRY GROVE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34
+Harris,PINE MOUNTAIN VALLEY,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Harris,SKINNER,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,11
+Harris,UPPER 19TH,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,18
+Harris,VALLEY PLAINS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,4
+Harris,WAVERLY HALL,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,29
+Harris,WHITESVILLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,16
+Harris,CATAULA,U.S. Representative,3,(REP,DREW FERGUSON ,1435
+Harris,ELLERSLIE,U.S. Representative,3,(REP,DREW FERGUSON ,1953
+Harris,GOODMAN,U.S. Representative,3,(REP,DREW FERGUSON ,625
+Harris,HAMILTON,U.S. Representative,3,(REP,DREW FERGUSON ,1107
+Harris,LOWER 19TH,U.S. Representative,3,(REP,DREW FERGUSON ,1298
+Harris,MULBERRY GROVE,U.S. Representative,3,(REP,DREW FERGUSON ,1545
+Harris,PINE MOUNTAIN VALLEY,U.S. Representative,3,(REP,DREW FERGUSON ,562
+Harris,SKINNER,U.S. Representative,3,(REP,DREW FERGUSON ,391
+Harris,UPPER 19TH,U.S. Representative,3,(REP,DREW FERGUSON ,865
+Harris,VALLEY PLAINS,U.S. Representative,3,(REP,DREW FERGUSON ,303
+Harris,WAVERLY HALL,U.S. Representative,3,(REP,DREW FERGUSON ,1089
+Harris,WHITESVILLE,U.S. Representative,3,(REP,DREW FERGUSON ,688
+Harris,CATAULA,U.S. Representative,3,DEM,CHUCK ENDERLIN,396
+Harris,ELLERSLIE,U.S. Representative,3,DEM,CHUCK ENDERLIN,676
+Harris,GOODMAN,U.S. Representative,3,DEM,CHUCK ENDERLIN,351
+Harris,HAMILTON,U.S. Representative,3,DEM,CHUCK ENDERLIN,526
+Harris,LOWER 19TH,U.S. Representative,3,DEM,CHUCK ENDERLIN,335
+Harris,MULBERRY GROVE,U.S. Representative,3,DEM,CHUCK ENDERLIN,309
+Harris,PINE MOUNTAIN VALLEY,U.S. Representative,3,DEM,CHUCK ENDERLIN,115
+Harris,SKINNER,U.S. Representative,3,DEM,CHUCK ENDERLIN,175
+Harris,UPPER 19TH,U.S. Representative,3,DEM,CHUCK ENDERLIN,157
+Harris,VALLEY PLAINS,U.S. Representative,3,DEM,CHUCK ENDERLIN,134
+Harris,WAVERLY HALL,U.S. Representative,3,DEM,CHUCK ENDERLIN,530
+Harris,WHITESVILLE,U.S. Representative,3,DEM,CHUCK ENDERLIN,188
+Harris,CATAULA,State Senator,29,REP,RANDY ROBERTSON,1441
+Harris,ELLERSLIE,State Senator,29,REP,RANDY ROBERTSON,1948
+Harris,GOODMAN,State Senator,29,REP,RANDY ROBERTSON,621
+Harris,HAMILTON,State Senator,29,REP,RANDY ROBERTSON,1091
+Harris,LOWER 19TH,State Senator,29,REP,RANDY ROBERTSON,1294
+Harris,MULBERRY GROVE,State Senator,29,REP,RANDY ROBERTSON,1538
+Harris,PINE MOUNTAIN VALLEY,State Senator,29,REP,RANDY ROBERTSON,559
+Harris,SKINNER,State Senator,29,REP,RANDY ROBERTSON,360
+Harris,UPPER 19TH,State Senator,29,REP,RANDY ROBERTSON,866
+Harris,VALLEY PLAINS,State Senator,29,REP,RANDY ROBERTSON,306
+Harris,WAVERLY HALL,State Senator,29,REP,RANDY ROBERTSON,1068
+Harris,WHITESVILLE,State Senator,29,REP,RANDY ROBERTSON,683
+Harris,CATAULA,State Senator,29,DEM,VALERIE HASKINS,392
+Harris,ELLERSLIE,State Senator,29,DEM,VALERIE HASKINS,680
+Harris,GOODMAN,State Senator,29,DEM,VALERIE HASKINS,351
+Harris,HAMILTON,State Senator,29,DEM,VALERIE HASKINS,538
+Harris,LOWER 19TH,State Senator,29,DEM,VALERIE HASKINS,340
+Harris,MULBERRY GROVE,State Senator,29,DEM,VALERIE HASKINS,309
+Harris,PINE MOUNTAIN VALLEY,State Senator,29,DEM,VALERIE HASKINS,122
+Harris,SKINNER,State Senator,29,DEM,VALERIE HASKINS,198
+Harris,UPPER 19TH,State Senator,29,DEM,VALERIE HASKINS,155
+Harris,VALLEY PLAINS,State Senator,29,DEM,VALERIE HASKINS,137
+Harris,WAVERLY HALL,State Senator,29,DEM,VALERIE HASKINS,559
+Harris,WHITESVILLE,State Senator,29,DEM,VALERIE HASKINS,194
+Harris,GOODMAN,State Representative,133,REP,VANCE SMITH,791
+Harris,HAMILTON,State Representative,133,REP,VANCE SMITH,1305
+Harris,LOWER 19TH,State Representative,133,REP,VANCE SMITH,1437
+Harris,MULBERRY GROVE,State Representative,133,REP,VANCE SMITH,1668
+Harris,PINE MOUNTAIN VALLEY,State Representative,133,REP,VANCE SMITH,612
+Harris,SKINNER,State Representative,133,REP,VANCE SMITH,442
+Harris,UPPER 19TH,State Representative,133,REP,VANCE SMITH,946
+Harris,WHITESVILLE,State Representative,133,REP,VANCE SMITH,758
+Harris,CATAULA,State Representative,134,(REP,RICHARD H. SMITH ,1615
+Harris,ELLERSLIE,State Representative,134,(REP,RICHARD H. SMITH ,2226
+Harris,VALLEY PLAINS,State Representative,137,(DEM,DEBBIE G. BUCKNER ,319
+Harris,WAVERLY HALL,State Representative,137,(DEM,DEBBIE G. BUCKNER ,1072
+Harris,HAMILTON,CC, D1,R,A. ZUERNER,742
+Harris,PINE MOUNTAIN VALLEY,CC, D1,R,A. ZUERNER,609
+Harris,VALLEY PLAINS,CC, D1,R,A. ZUERNER,356
+Harris,WAVERLY HALL,CC, D1,R,A. ZUERNER,431
+Harris,GOODMAN,CC, D2,R,R. GRANT,436
+Harris,HAMILTON,CC, D2,R,R. GRANT,121
+Harris,SKINNER,CC, D2,R,R. GRANT,313
+Harris,UPPER 19TH,CC, D2,R,R. GRANT,189
+Harris,WHITESVILLE,CC, D2,R,R. GRANT,558
+Harris,GOODMAN,CC, D2,IND,C. KIMBROUGH,483
+Harris,HAMILTON,CC, D2,IND,C. KIMBROUGH,90
+Harris,SKINNER,CC, D2,IND,C. KIMBROUGH,199
+Harris,UPPER 19TH,CC, D2,IND,C. KIMBROUGH,64
+Harris,WHITESVILLE,CC, D2,IND,C. KIMBROUGH,280
+Harris,LOWER 19TH,CC, D3,R,B. LANGSTON ,1418
+Harris,MULBERRY GROVE,CC, D3,R,B. LANGSTON ,931
+Harris,UPPER 19TH,CC, D3,R,B. LANGSTON ,681
+Harris,CATAULA,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1542
+Harris,ELLERSLIE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2195
+Harris,GOODMAN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,756
+Harris,HAMILTON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1366
+Harris,LOWER 19TH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1351
+Harris,MULBERRY GROVE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1552
+Harris,PINE MOUNTAIN VALLEY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,555
+Harris,SKINNER,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,455
+Harris,UPPER 19TH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,824
+Harris,VALLEY PLAINS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,349
+Harris,WAVERLY HALL,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1342
+Harris,WHITESVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,722
+Harris,CATAULA,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,261
+Harris,ELLERSLIE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,395
+Harris,GOODMAN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,198
+Harris,HAMILTON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,233
+Harris,LOWER 19TH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,258
+Harris,MULBERRY GROVE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,262
+Harris,PINE MOUNTAIN VALLEY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,123
+Harris,SKINNER,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,89
+Harris,UPPER 19TH,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,178
+Harris,VALLEY PLAINS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,85
+Harris,WAVERLY HALL,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,264
+Harris,WHITESVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,144
+Harris,CATAULA,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1286
+Harris,ELLERSLIE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1808
+Harris,GOODMAN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,621
+Harris,HAMILTON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1163
+Harris,LOWER 19TH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1129
+Harris,MULBERRY GROVE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1291
+Harris,PINE MOUNTAIN VALLEY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,440
+Harris,SKINNER,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,362
+Harris,UPPER 19TH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,708
+Harris,VALLEY PLAINS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,299
+Harris,WAVERLY HALL,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1123
+Harris,WHITESVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,603
+Harris,CATAULA,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,476
+Harris,ELLERSLIE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,726
+Harris,GOODMAN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,301
+Harris,HAMILTON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,397
+Harris,LOWER 19TH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,435
+Harris,MULBERRY GROVE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,480
+Harris,PINE MOUNTAIN VALLEY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,209
+Harris,SKINNER,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,169
+Harris,UPPER 19TH,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,267
+Harris,VALLEY PLAINS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,123
+Harris,WAVERLY HALL,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,441
+Harris,WHITESVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,232
+Harris,CATAULA,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1131
+Harris,ELLERSLIE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1606
+Harris,GOODMAN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,553
+Harris,HAMILTON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1014
+Harris,LOWER 19TH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1006
+Harris,MULBERRY GROVE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1137
+Harris,PINE MOUNTAIN VALLEY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,406
+Harris,SKINNER,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,334
+Harris,UPPER 19TH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,595
+Harris,VALLEY PLAINS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,259
+Harris,WAVERLY HALL,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,952
+Harris,WHITESVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,524
+Harris,CATAULA,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,592
+Harris,ELLERSLIE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,904
+Harris,GOODMAN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,363
+Harris,HAMILTON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,535
+Harris,LOWER 19TH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,551
+Harris,MULBERRY GROVE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,612
+Harris,PINE MOUNTAIN VALLEY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,236
+Harris,SKINNER,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,191
+Harris,UPPER 19TH,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,365
+Harris,VALLEY PLAINS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,155
+Harris,WAVERLY HALL,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,585
+Harris,WHITESVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,308
+Harris,CATAULA,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1415
+Harris,ELLERSLIE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2035
+Harris,GOODMAN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,720
+Harris,HAMILTON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1253
+Harris,LOWER 19TH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1264
+Harris,MULBERRY GROVE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1412
+Harris,PINE MOUNTAIN VALLEY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,486
+Harris,SKINNER,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,423
+Harris,UPPER 19TH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,757
+Harris,VALLEY PLAINS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,346
+Harris,WAVERLY HALL,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1295
+Harris,WHITESVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,679
+Harris,CATAULA,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,353
+Harris,ELLERSLIE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,515
+Harris,GOODMAN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,210
+Harris,HAMILTON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,319
+Harris,LOWER 19TH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,321
+Harris,MULBERRY GROVE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,380
+Harris,PINE MOUNTAIN VALLEY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,166
+Harris,SKINNER,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,113
+Harris,UPPER 19TH,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,228
+Harris,VALLEY PLAINS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,74
+Harris,WAVERLY HALL,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,279
+Harris,WHITESVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,172
+Harris,CATAULA,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1234
+Harris,ELLERSLIE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1748
+Harris,GOODMAN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,630
+Harris,HAMILTON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1117
+Harris,LOWER 19TH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1123
+Harris,MULBERRY GROVE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1226
+Harris,PINE MOUNTAIN VALLEY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,435
+Harris,SKINNER,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,374
+Harris,UPPER 19TH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,676
+Harris,VALLEY PLAINS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,308
+Harris,WAVERLY HALL,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1072
+Harris,WHITESVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,582
+Harris,CATAULA,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,496
+Harris,ELLERSLIE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,776
+Harris,GOODMAN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,292
+Harris,HAMILTON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,418
+Harris,LOWER 19TH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,447
+Harris,MULBERRY GROVE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,524
+Harris,PINE MOUNTAIN VALLEY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,213
+Harris,SKINNER,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,152
+Harris,UPPER 19TH,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,286
+Harris,VALLEY PLAINS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,108
+Harris,WAVERLY HALL,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,470
+Harris,WHITESVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,253
+Harris,CATAULA,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,959
+Harris,ELLERSLIE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1355
+Harris,GOODMAN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,466
+Harris,HAMILTON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,924
+Harris,LOWER 19TH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,877
+Harris,MULBERRY GROVE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,988
+Harris,PINE MOUNTAIN VALLEY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,355
+Harris,SKINNER,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,328
+Harris,UPPER 19TH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,520
+Harris,VALLEY PLAINS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,249
+Harris,WAVERLY HALL,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,858
+Harris,WHITESVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,469
+Harris,CATAULA,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,741
+Harris,ELLERSLIE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1104
+Harris,GOODMAN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,433
+Harris,HAMILTON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,612
+Harris,LOWER 19TH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,661
+Harris,MULBERRY GROVE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,738
+Harris,PINE MOUNTAIN VALLEY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,285
+Harris,SKINNER,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,195
+Harris,UPPER 19TH,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,426
+Harris,VALLEY PLAINS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,167
+Harris,WAVERLY HALL,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,656
+Harris,WHITESVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,349
+Harris,CATAULA,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1318
+Harris,ELLERSLIE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1879
+Harris,GOODMAN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,692
+Harris,HAMILTON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1229
+Harris,LOWER 19TH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1160
+Harris,MULBERRY GROVE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1305
+Harris,PINE MOUNTAIN VALLEY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,477
+Harris,SKINNER,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,417
+Harris,UPPER 19TH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,687
+Harris,VALLEY PLAINS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,322
+Harris,WAVERLY HALL,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1184
+Harris,WHITESVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,624
+Harris,CATAULA,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,443
+Harris,ELLERSLIE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,650
+Harris,GOODMAN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,245
+Harris,HAMILTON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,353
+Harris,LOWER 19TH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,405
+Harris,MULBERRY GROVE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,464
+Harris,PINE MOUNTAIN VALLEY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,181
+Harris,SKINNER,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,110
+Harris,UPPER 19TH,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,288
+Harris,VALLEY PLAINS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,96
+Harris,WAVERLY HALL,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,372
+Harris,WHITESVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,222
+Harris,LOWER 19TH,BOE DIST 3 SPECIAL,,,G. E. RAY III ,1416
+Harris,MULBERRY GROVE,BOE DIST 3 SPECIAL,,,G. E. RAY III ,892
+Harris,UPPER 19TH,BOE DIST 3 SPECIAL,,,G. E. RAY III ,678
+Harris,GOODMAN,PINE MOUNTAIN,,,YES,317
+Harris,GOODMAN,PINE MOUNTAIN,,,NO,161

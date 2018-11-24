@@ -1,0 +1,1779 @@
+county,precinct,office,district,party,candidate,votes
+Hall,01-Wilson,Governor,,REP,BRIAN KEMP,2442
+Hall,02-Chicopee,Governor,,REP,BRIAN KEMP,728
+Hall,03-Oakwood I,Governor,,REP,BRIAN KEMP,713
+Hall,04-Oakwood II,Governor,,REP,BRIAN KEMP,1832
+Hall,05-Flowery Branch I,Governor,,REP,BRIAN KEMP,1835
+Hall,06-Flowery Branch II,Governor,,REP,BRIAN KEMP,1313
+Hall,07-Roberts,Governor,,REP,BRIAN KEMP,2418
+Hall,08-Morgan I,Governor,,REP,BRIAN KEMP,1866
+Hall,09-Morgan II,Governor,,REP,BRIAN KEMP,1943
+Hall,10-Candler,Governor,,REP,BRIAN KEMP,2083
+Hall,11-Tadmore,Governor,,REP,BRIAN KEMP,1076
+Hall,12-Glade,Governor,,REP,BRIAN KEMP,1395
+Hall,13-Lula,Governor,,REP,BRIAN KEMP,1508
+Hall,14-Clermont,Governor,,REP,BRIAN KEMP,1847
+Hall,15-Quillians,Governor,,REP,BRIAN KEMP,1550
+Hall,16-Bark Camp,Governor,,REP,BRIAN KEMP,2515
+Hall,17-Chestatee,Governor,,REP,BRIAN KEMP,1787
+Hall,18-Fork,Governor,,REP,BRIAN KEMP,1690
+Hall,19-Whelchel,Governor,,REP,BRIAN KEMP,2060
+Hall,20-West Whelchel,Governor,,REP,BRIAN KEMP,2131
+Hall,21-Gainesville I,Governor,,REP,BRIAN KEMP,1268
+Hall,22-Gainesville II,Governor,,REP,BRIAN KEMP,96
+Hall,23-Gainesville III,Governor,,REP,BRIAN KEMP,818
+Hall,24-Gainesville IV,Governor,,REP,BRIAN KEMP,781
+Hall,25-Gainesville V,Governor,,REP,BRIAN KEMP,482
+Hall,26-Gillsville,Governor,,REP,BRIAN KEMP,582
+Hall,27-Big Hickory,Governor,,REP,BRIAN KEMP,2140
+Hall,28-Friendship I,Governor,,REP,BRIAN KEMP,3954
+Hall,29-Friendship II,Governor,,REP,BRIAN KEMP,1415
+Hall,30-Friendship III,Governor,,REP,BRIAN KEMP,1848
+Hall,31-Friendship IV,Governor,,REP,BRIAN KEMP,1326
+Hall,01-Wilson,Governor,,DEM,STACEY ABRAMS,938
+Hall,02-Chicopee,Governor,,DEM,STACEY ABRAMS,649
+Hall,03-Oakwood I,Governor,,DEM,STACEY ABRAMS,477
+Hall,04-Oakwood II,Governor,,DEM,STACEY ABRAMS,518
+Hall,05-Flowery Branch I,Governor,,DEM,STACEY ABRAMS,509
+Hall,06-Flowery Branch II,Governor,,DEM,STACEY ABRAMS,486
+Hall,07-Roberts,Governor,,DEM,STACEY ABRAMS,656
+Hall,08-Morgan I,Governor,,DEM,STACEY ABRAMS,349
+Hall,09-Morgan II,Governor,,DEM,STACEY ABRAMS,674
+Hall,10-Candler,Governor,,DEM,STACEY ABRAMS,856
+Hall,11-Tadmore,Governor,,DEM,STACEY ABRAMS,1170
+Hall,12-Glade,Governor,,DEM,STACEY ABRAMS,431
+Hall,13-Lula,Governor,,DEM,STACEY ABRAMS,234
+Hall,14-Clermont,Governor,,DEM,STACEY ABRAMS,176
+Hall,15-Quillians,Governor,,DEM,STACEY ABRAMS,167
+Hall,16-Bark Camp,Governor,,DEM,STACEY ABRAMS,542
+Hall,17-Chestatee,Governor,,DEM,STACEY ABRAMS,365
+Hall,18-Fork,Governor,,DEM,STACEY ABRAMS,390
+Hall,19-Whelchel,Governor,,DEM,STACEY ABRAMS,458
+Hall,20-West Whelchel,Governor,,DEM,STACEY ABRAMS,515
+Hall,21-Gainesville I,Governor,,DEM,STACEY ABRAMS,697
+Hall,22-Gainesville II,Governor,,DEM,STACEY ABRAMS,1219
+Hall,23-Gainesville III,Governor,,DEM,STACEY ABRAMS,966
+Hall,24-Gainesville IV,Governor,,DEM,STACEY ABRAMS,552
+Hall,25-Gainesville V,Governor,,DEM,STACEY ABRAMS,230
+Hall,26-Gillsville,Governor,,DEM,STACEY ABRAMS,78
+Hall,27-Big Hickory,Governor,,DEM,STACEY ABRAMS,259
+Hall,28-Friendship I,Governor,,DEM,STACEY ABRAMS,1137
+Hall,29-Friendship II,Governor,,DEM,STACEY ABRAMS,384
+Hall,30-Friendship III,Governor,,DEM,STACEY ABRAMS,626
+Hall,31-Friendship IV,Governor,,DEM,STACEY ABRAMS,479
+Hall,01-Wilson,Governor,,LIB,TED METZ,32
+Hall,02-Chicopee,Governor,,LIB,TED METZ,23
+Hall,03-Oakwood I,Governor,,LIB,TED METZ,16
+Hall,04-Oakwood II,Governor,,LIB,TED METZ,42
+Hall,05-Flowery Branch I,Governor,,LIB,TED METZ,34
+Hall,06-Flowery Branch II,Governor,,LIB,TED METZ,29
+Hall,07-Roberts,Governor,,LIB,TED METZ,28
+Hall,08-Morgan I,Governor,,LIB,TED METZ,40
+Hall,09-Morgan II,Governor,,LIB,TED METZ,37
+Hall,10-Candler,Governor,,LIB,TED METZ,33
+Hall,11-Tadmore,Governor,,LIB,TED METZ,11
+Hall,12-Glade,Governor,,LIB,TED METZ,20
+Hall,13-Lula,Governor,,LIB,TED METZ,8
+Hall,14-Clermont,Governor,,LIB,TED METZ,17
+Hall,15-Quillians,Governor,,LIB,TED METZ,13
+Hall,16-Bark Camp,Governor,,LIB,TED METZ,28
+Hall,17-Chestatee,Governor,,LIB,TED METZ,25
+Hall,18-Fork,Governor,,LIB,TED METZ,22
+Hall,19-Whelchel,Governor,,LIB,TED METZ,27
+Hall,20-West Whelchel,Governor,,LIB,TED METZ,30
+Hall,21-Gainesville I,Governor,,LIB,TED METZ,30
+Hall,22-Gainesville II,Governor,,LIB,TED METZ,3
+Hall,23-Gainesville III,Governor,,LIB,TED METZ,30
+Hall,24-Gainesville IV,Governor,,LIB,TED METZ,19
+Hall,25-Gainesville V,Governor,,LIB,TED METZ,14
+Hall,26-Gillsville,Governor,,LIB,TED METZ,2
+Hall,27-Big Hickory,Governor,,LIB,TED METZ,33
+Hall,28-Friendship I,Governor,,LIB,TED METZ,58
+Hall,29-Friendship II,Governor,,LIB,TED METZ,26
+Hall,30-Friendship III,Governor,,LIB,TED METZ,29
+Hall,31-Friendship IV,Governor,,LIB,TED METZ,18
+Hall,01-Wilson,Lieutenant Governor,,REP,GEOFF DUNCAN,2401
+Hall,02-Chicopee,Lieutenant Governor,,REP,GEOFF DUNCAN,731
+Hall,03-Oakwood I,Lieutenant Governor,,REP,GEOFF DUNCAN,700
+Hall,04-Oakwood II,Lieutenant Governor,,REP,GEOFF DUNCAN,1808
+Hall,05-Flowery Branch I,Lieutenant Governor,,REP,GEOFF DUNCAN,1793
+Hall,06-Flowery Branch II,Lieutenant Governor,,REP,GEOFF DUNCAN,1289
+Hall,07-Roberts,Lieutenant Governor,,REP,GEOFF DUNCAN,2369
+Hall,08-Morgan I,Lieutenant Governor,,REP,GEOFF DUNCAN,1831
+Hall,09-Morgan II,Lieutenant Governor,,REP,GEOFF DUNCAN,1918
+Hall,10-Candler,Lieutenant Governor,,REP,GEOFF DUNCAN,2051
+Hall,11-Tadmore,Lieutenant Governor,,REP,GEOFF DUNCAN,1061
+Hall,12-Glade,Lieutenant Governor,,REP,GEOFF DUNCAN,1350
+Hall,13-Lula,Lieutenant Governor,,REP,GEOFF DUNCAN,1455
+Hall,14-Clermont,Lieutenant Governor,,REP,GEOFF DUNCAN,1795
+Hall,15-Quillians,Lieutenant Governor,,REP,GEOFF DUNCAN,1523
+Hall,16-Bark Camp,Lieutenant Governor,,REP,GEOFF DUNCAN,2457
+Hall,17-Chestatee,Lieutenant Governor,,REP,GEOFF DUNCAN,1765
+Hall,18-Fork,Lieutenant Governor,,REP,GEOFF DUNCAN,1656
+Hall,19-Whelchel,Lieutenant Governor,,REP,GEOFF DUNCAN,2029
+Hall,20-West Whelchel,Lieutenant Governor,,REP,GEOFF DUNCAN,2120
+Hall,21-Gainesville I,Lieutenant Governor,,REP,GEOFF DUNCAN,1262
+Hall,22-Gainesville II,Lieutenant Governor,,REP,GEOFF DUNCAN,106
+Hall,23-Gainesville III,Lieutenant Governor,,REP,GEOFF DUNCAN,816
+Hall,24-Gainesville IV,Lieutenant Governor,,REP,GEOFF DUNCAN,775
+Hall,25-Gainesville V,Lieutenant Governor,,REP,GEOFF DUNCAN,476
+Hall,26-Gillsville,Lieutenant Governor,,REP,GEOFF DUNCAN,563
+Hall,27-Big Hickory,Lieutenant Governor,,REP,GEOFF DUNCAN,2098
+Hall,28-Friendship I,Lieutenant Governor,,REP,GEOFF DUNCAN,3915
+Hall,29-Friendship II,Lieutenant Governor,,REP,GEOFF DUNCAN,1393
+Hall,30-Friendship III,Lieutenant Governor,,REP,GEOFF DUNCAN,1816
+Hall,31-Friendship IV,Lieutenant Governor,,REP,GEOFF DUNCAN,1314
+Hall,01-Wilson,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,888
+Hall,02-Chicopee,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,613
+Hall,03-Oakwood I,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,455
+Hall,04-Oakwood II,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,500
+Hall,05-Flowery Branch I,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,506
+Hall,06-Flowery Branch II,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,471
+Hall,07-Roberts,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,617
+Hall,08-Morgan I,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,342
+Hall,09-Morgan II,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,663
+Hall,10-Candler,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,795
+Hall,11-Tadmore,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1084
+Hall,12-Glade,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,421
+Hall,13-Lula,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,232
+Hall,14-Clermont,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,188
+Hall,15-Quillians,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,166
+Hall,16-Bark Camp,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,535
+Hall,17-Chestatee,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,351
+Hall,18-Fork,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,386
+Hall,19-Whelchel,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,462
+Hall,20-West Whelchel,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,497
+Hall,21-Gainesville I,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,659
+Hall,22-Gainesville II,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1071
+Hall,23-Gainesville III,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,900
+Hall,24-Gainesville IV,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,515
+Hall,25-Gainesville V,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,217
+Hall,26-Gillsville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,80
+Hall,27-Big Hickory,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,266
+Hall,28-Friendship I,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1090
+Hall,29-Friendship II,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,370
+Hall,30-Friendship III,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,602
+Hall,31-Friendship IV,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,459
+Hall,01-Wilson,Secretary Of State,,REP,BRAD RAFFENSPERGER,2393
+Hall,02-Chicopee,Secretary Of State,,REP,BRAD RAFFENSPERGER,706
+Hall,03-Oakwood I,Secretary Of State,,REP,BRAD RAFFENSPERGER,689
+Hall,04-Oakwood II,Secretary Of State,,REP,BRAD RAFFENSPERGER,1799
+Hall,05-Flowery Branch I,Secretary Of State,,REP,BRAD RAFFENSPERGER,1771
+Hall,06-Flowery Branch II,Secretary Of State,,REP,BRAD RAFFENSPERGER,1272
+Hall,07-Roberts,Secretary Of State,,REP,BRAD RAFFENSPERGER,2360
+Hall,08-Morgan I,Secretary Of State,,REP,BRAD RAFFENSPERGER,1812
+Hall,09-Morgan II,Secretary Of State,,REP,BRAD RAFFENSPERGER,1897
+Hall,10-Candler,Secretary Of State,,REP,BRAD RAFFENSPERGER,2035
+Hall,11-Tadmore,Secretary Of State,,REP,BRAD RAFFENSPERGER,1051
+Hall,12-Glade,Secretary Of State,,REP,BRAD RAFFENSPERGER,1341
+Hall,13-Lula,Secretary Of State,,REP,BRAD RAFFENSPERGER,1478
+Hall,14-Clermont,Secretary Of State,,REP,BRAD RAFFENSPERGER,1788
+Hall,15-Quillians,Secretary Of State,,REP,BRAD RAFFENSPERGER,1501
+Hall,16-Bark Camp,Secretary Of State,,REP,BRAD RAFFENSPERGER,2451
+Hall,17-Chestatee,Secretary Of State,,REP,BRAD RAFFENSPERGER,1744
+Hall,18-Fork,Secretary Of State,,REP,BRAD RAFFENSPERGER,1630
+Hall,19-Whelchel,Secretary Of State,,REP,BRAD RAFFENSPERGER,1983
+Hall,20-West Whelchel,Secretary Of State,,REP,BRAD RAFFENSPERGER,2066
+Hall,21-Gainesville I,Secretary Of State,,REP,BRAD RAFFENSPERGER,1213
+Hall,22-Gainesville II,Secretary Of State,,REP,BRAD RAFFENSPERGER,98
+Hall,23-Gainesville III,Secretary Of State,,REP,BRAD RAFFENSPERGER,797
+Hall,24-Gainesville IV,Secretary Of State,,REP,BRAD RAFFENSPERGER,745
+Hall,25-Gainesville V,Secretary Of State,,REP,BRAD RAFFENSPERGER,453
+Hall,26-Gillsville,Secretary Of State,,REP,BRAD RAFFENSPERGER,568
+Hall,27-Big Hickory,Secretary Of State,,REP,BRAD RAFFENSPERGER,2072
+Hall,28-Friendship I,Secretary Of State,,REP,BRAD RAFFENSPERGER,3850
+Hall,29-Friendship II,Secretary Of State,,REP,BRAD RAFFENSPERGER,1396
+Hall,30-Friendship III,Secretary Of State,,REP,BRAD RAFFENSPERGER,1816
+Hall,31-Friendship IV,Secretary Of State,,REP,BRAD RAFFENSPERGER,1311
+Hall,01-Wilson,Secretary Of State,,DEM,JOHN BARROW,907
+Hall,02-Chicopee,Secretary Of State,,DEM,JOHN BARROW,618
+Hall,03-Oakwood I,Secretary Of State,,DEM,JOHN BARROW,470
+Hall,04-Oakwood II,Secretary Of State,,DEM,JOHN BARROW,505
+Hall,05-Flowery Branch I,Secretary Of State,,DEM,JOHN BARROW,504
+Hall,06-Flowery Branch II,Secretary Of State,,DEM,JOHN BARROW,486
+Hall,07-Roberts,Secretary Of State,,DEM,JOHN BARROW,649
+Hall,08-Morgan I,Secretary Of State,,DEM,JOHN BARROW,350
+Hall,09-Morgan II,Secretary Of State,,DEM,JOHN BARROW,660
+Hall,10-Candler,Secretary Of State,,DEM,JOHN BARROW,814
+Hall,11-Tadmore,Secretary Of State,,DEM,JOHN BARROW,1127
+Hall,12-Glade,Secretary Of State,,DEM,JOHN BARROW,431
+Hall,13-Lula,Secretary Of State,,DEM,JOHN BARROW,227
+Hall,14-Clermont,Secretary Of State,,DEM,JOHN BARROW,186
+Hall,15-Quillians,Secretary Of State,,DEM,JOHN BARROW,174
+Hall,16-Bark Camp,Secretary Of State,,DEM,JOHN BARROW,545
+Hall,17-Chestatee,Secretary Of State,,DEM,JOHN BARROW,361
+Hall,18-Fork,Secretary Of State,,DEM,JOHN BARROW,389
+Hall,19-Whelchel,Secretary Of State,,DEM,JOHN BARROW,483
+Hall,20-West Whelchel,Secretary Of State,,DEM,JOHN BARROW,526
+Hall,21-Gainesville I,Secretary Of State,,DEM,JOHN BARROW,690
+Hall,22-Gainesville II,Secretary Of State,,DEM,JOHN BARROW,1157
+Hall,23-Gainesville III,Secretary Of State,,DEM,JOHN BARROW,903
+Hall,24-Gainesville IV,Secretary Of State,,DEM,JOHN BARROW,533
+Hall,25-Gainesville V,Secretary Of State,,DEM,JOHN BARROW,237
+Hall,26-Gillsville,Secretary Of State,,DEM,JOHN BARROW,80
+Hall,27-Big Hickory,Secretary Of State,,DEM,JOHN BARROW,271
+Hall,28-Friendship I,Secretary Of State,,DEM,JOHN BARROW,1138
+Hall,29-Friendship II,Secretary Of State,,DEM,JOHN BARROW,380
+Hall,30-Friendship III,Secretary Of State,,DEM,JOHN BARROW,594
+Hall,31-Friendship IV,Secretary Of State,,DEM,JOHN BARROW,464
+Hall,01-Wilson,Secretary Of State,,LIB,SMYTHE DUVAL,61
+Hall,02-Chicopee,Secretary Of State,,LIB,SMYTHE DUVAL,49
+Hall,03-Oakwood I,Secretary Of State,,LIB,SMYTHE DUVAL,25
+Hall,04-Oakwood II,Secretary Of State,,LIB,SMYTHE DUVAL,56
+Hall,05-Flowery Branch I,Secretary Of State,,LIB,SMYTHE DUVAL,71
+Hall,06-Flowery Branch II,Secretary Of State,,LIB,SMYTHE DUVAL,52
+Hall,07-Roberts,Secretary Of State,,LIB,SMYTHE DUVAL,67
+Hall,08-Morgan I,Secretary Of State,,LIB,SMYTHE DUVAL,67
+Hall,09-Morgan II,Secretary Of State,,LIB,SMYTHE DUVAL,68
+Hall,10-Candler,Secretary Of State,,LIB,SMYTHE DUVAL,80
+Hall,11-Tadmore,Secretary Of State,,LIB,SMYTHE DUVAL,37
+Hall,12-Glade,Secretary Of State,,LIB,SMYTHE DUVAL,48
+Hall,13-Lula,Secretary Of State,,LIB,SMYTHE DUVAL,26
+Hall,14-Clermont,Secretary Of State,,LIB,SMYTHE DUVAL,34
+Hall,15-Quillians,Secretary Of State,,LIB,SMYTHE DUVAL,32
+Hall,16-Bark Camp,Secretary Of State,,LIB,SMYTHE DUVAL,50
+Hall,17-Chestatee,Secretary Of State,,LIB,SMYTHE DUVAL,50
+Hall,18-Fork,Secretary Of State,,LIB,SMYTHE DUVAL,49
+Hall,19-Whelchel,Secretary Of State,,LIB,SMYTHE DUVAL,45
+Hall,20-West Whelchel,Secretary Of State,,LIB,SMYTHE DUVAL,53
+Hall,21-Gainesville I,Secretary Of State,,LIB,SMYTHE DUVAL,56
+Hall,22-Gainesville II,Secretary Of State,,LIB,SMYTHE DUVAL,19
+Hall,23-Gainesville III,Secretary Of State,,LIB,SMYTHE DUVAL,79
+Hall,24-Gainesville IV,Secretary Of State,,LIB,SMYTHE DUVAL,37
+Hall,25-Gainesville V,Secretary Of State,,LIB,SMYTHE DUVAL,22
+Hall,26-Gillsville,Secretary Of State,,LIB,SMYTHE DUVAL,7
+Hall,27-Big Hickory,Secretary Of State,,LIB,SMYTHE DUVAL,47
+Hall,28-Friendship I,Secretary Of State,,LIB,SMYTHE DUVAL,93
+Hall,29-Friendship II,Secretary Of State,,LIB,SMYTHE DUVAL,43
+Hall,30-Friendship III,Secretary Of State,,LIB,SMYTHE DUVAL,58
+Hall,31-Friendship IV,Secretary Of State,,LIB,SMYTHE DUVAL,37
+Hall,01-Wilson,Attorney General,,(REP,CHRIS CARR ,2425
+Hall,02-Chicopee,Attorney General,,(REP,CHRIS CARR ,730
+Hall,03-Oakwood I,Attorney General,,(REP,CHRIS CARR ,700
+Hall,04-Oakwood II,Attorney General,,(REP,CHRIS CARR ,1803
+Hall,05-Flowery Branch I,Attorney General,,(REP,CHRIS CARR ,1803
+Hall,06-Flowery Branch II,Attorney General,,(REP,CHRIS CARR ,1291
+Hall,07-Roberts,Attorney General,,(REP,CHRIS CARR ,2403
+Hall,08-Morgan I,Attorney General,,(REP,CHRIS CARR ,1843
+Hall,09-Morgan II,Attorney General,,(REP,CHRIS CARR ,1934
+Hall,10-Candler,Attorney General,,(REP,CHRIS CARR ,2077
+Hall,11-Tadmore,Attorney General,,(REP,CHRIS CARR ,1076
+Hall,12-Glade,Attorney General,,(REP,CHRIS CARR ,1364
+Hall,13-Lula,Attorney General,,(REP,CHRIS CARR ,1490
+Hall,14-Clermont,Attorney General,,(REP,CHRIS CARR ,1802
+Hall,15-Quillians,Attorney General,,(REP,CHRIS CARR ,1515
+Hall,16-Bark Camp,Attorney General,,(REP,CHRIS CARR ,2461
+Hall,17-Chestatee,Attorney General,,(REP,CHRIS CARR ,1773
+Hall,18-Fork,Attorney General,,(REP,CHRIS CARR ,1671
+Hall,19-Whelchel,Attorney General,,(REP,CHRIS CARR ,2031
+Hall,20-West Whelchel,Attorney General,,(REP,CHRIS CARR ,2118
+Hall,21-Gainesville I,Attorney General,,(REP,CHRIS CARR ,1260
+Hall,22-Gainesville II,Attorney General,,(REP,CHRIS CARR ,113
+Hall,23-Gainesville III,Attorney General,,(REP,CHRIS CARR ,821
+Hall,24-Gainesville IV,Attorney General,,(REP,CHRIS CARR ,784
+Hall,25-Gainesville V,Attorney General,,(REP,CHRIS CARR ,481
+Hall,26-Gillsville,Attorney General,,(REP,CHRIS CARR ,569
+Hall,27-Big Hickory,Attorney General,,(REP,CHRIS CARR ,2093
+Hall,28-Friendship I,Attorney General,,(REP,CHRIS CARR ,3921
+Hall,29-Friendship II,Attorney General,,(REP,CHRIS CARR ,1415
+Hall,30-Friendship III,Attorney General,,(REP,CHRIS CARR ,1840
+Hall,31-Friendship IV,Attorney General,,(REP,CHRIS CARR ,1326
+Hall,01-Wilson,Attorney General,,DEM,CHARLIE BAILEY,935
+Hall,02-Chicopee,Attorney General,,DEM,CHARLIE BAILEY,638
+Hall,03-Oakwood I,Attorney General,,DEM,CHARLIE BAILEY,488
+Hall,04-Oakwood II,Attorney General,,DEM,CHARLIE BAILEY,541
+Hall,05-Flowery Branch I,Attorney General,,DEM,CHARLIE BAILEY,535
+Hall,06-Flowery Branch II,Attorney General,,DEM,CHARLIE BAILEY,509
+Hall,07-Roberts,Attorney General,,DEM,CHARLIE BAILEY,656
+Hall,08-Morgan I,Attorney General,,DEM,CHARLIE BAILEY,377
+Hall,09-Morgan II,Attorney General,,DEM,CHARLIE BAILEY,677
+Hall,10-Candler,Attorney General,,DEM,CHARLIE BAILEY,839
+Hall,11-Tadmore,Attorney General,,DEM,CHARLIE BAILEY,1123
+Hall,12-Glade,Attorney General,,DEM,CHARLIE BAILEY,437
+Hall,13-Lula,Attorney General,,DEM,CHARLIE BAILEY,239
+Hall,14-Clermont,Attorney General,,DEM,CHARLIE BAILEY,191
+Hall,15-Quillians,Attorney General,,DEM,CHARLIE BAILEY,182
+Hall,16-Bark Camp,Attorney General,,DEM,CHARLIE BAILEY,563
+Hall,17-Chestatee,Attorney General,,DEM,CHARLIE BAILEY,365
+Hall,18-Fork,Attorney General,,DEM,CHARLIE BAILEY,398
+Hall,19-Whelchel,Attorney General,,DEM,CHARLIE BAILEY,484
+Hall,20-West Whelchel,Attorney General,,DEM,CHARLIE BAILEY,514
+Hall,21-Gainesville I,Attorney General,,DEM,CHARLIE BAILEY,683
+Hall,22-Gainesville II,Attorney General,,DEM,CHARLIE BAILEY,1150
+Hall,23-Gainesville III,Attorney General,,DEM,CHARLIE BAILEY,944
+Hall,24-Gainesville IV,Attorney General,,DEM,CHARLIE BAILEY,524
+Hall,25-Gainesville V,Attorney General,,DEM,CHARLIE BAILEY,227
+Hall,26-Gillsville,Attorney General,,DEM,CHARLIE BAILEY,82
+Hall,27-Big Hickory,Attorney General,,DEM,CHARLIE BAILEY,284
+Hall,28-Friendship I,Attorney General,,DEM,CHARLIE BAILEY,1127
+Hall,29-Friendship II,Attorney General,,DEM,CHARLIE BAILEY,390
+Hall,30-Friendship III,Attorney General,,DEM,CHARLIE BAILEY,631
+Hall,31-Friendship IV,Attorney General,,DEM,CHARLIE BAILEY,479
+Hall,01-Wilson,Commissioner Of Agriculture,,(REP,GARY BLACK ,2459
+Hall,02-Chicopee,Commissioner Of Agriculture,,(REP,GARY BLACK ,748
+Hall,03-Oakwood I,Commissioner Of Agriculture,,(REP,GARY BLACK ,726
+Hall,04-Oakwood II,Commissioner Of Agriculture,,(REP,GARY BLACK ,1855
+Hall,05-Flowery Branch I,Commissioner Of Agriculture,,(REP,GARY BLACK ,1849
+Hall,06-Flowery Branch II,Commissioner Of Agriculture,,(REP,GARY BLACK ,1320
+Hall,07-Roberts,Commissioner Of Agriculture,,(REP,GARY BLACK ,2432
+Hall,08-Morgan I,Commissioner Of Agriculture,,(REP,GARY BLACK ,1874
+Hall,09-Morgan II,Commissioner Of Agriculture,,(REP,GARY BLACK ,1969
+Hall,10-Candler,Commissioner Of Agriculture,,(REP,GARY BLACK ,2114
+Hall,11-Tadmore,Commissioner Of Agriculture,,(REP,GARY BLACK ,1110
+Hall,12-Glade,Commissioner Of Agriculture,,(REP,GARY BLACK ,1407
+Hall,13-Lula,Commissioner Of Agriculture,,(REP,GARY BLACK ,1509
+Hall,14-Clermont,Commissioner Of Agriculture,,(REP,GARY BLACK ,1840
+Hall,15-Quillians,Commissioner Of Agriculture,,(REP,GARY BLACK ,1545
+Hall,16-Bark Camp,Commissioner Of Agriculture,,(REP,GARY BLACK ,2525
+Hall,17-Chestatee,Commissioner Of Agriculture,,(REP,GARY BLACK ,1803
+Hall,18-Fork,Commissioner Of Agriculture,,(REP,GARY BLACK ,1694
+Hall,19-Whelchel,Commissioner Of Agriculture,,(REP,GARY BLACK ,2076
+Hall,20-West Whelchel,Commissioner Of Agriculture,,(REP,GARY BLACK ,2190
+Hall,21-Gainesville I,Commissioner Of Agriculture,,(REP,GARY BLACK ,1326
+Hall,22-Gainesville II,Commissioner Of Agriculture,,(REP,GARY BLACK ,123
+Hall,23-Gainesville III,Commissioner Of Agriculture,,(REP,GARY BLACK ,855
+Hall,24-Gainesville IV,Commissioner Of Agriculture,,(REP,GARY BLACK ,847
+Hall,25-Gainesville V,Commissioner Of Agriculture,,(REP,GARY BLACK ,504
+Hall,26-Gillsville,Commissioner Of Agriculture,,(REP,GARY BLACK ,574
+Hall,27-Big Hickory,Commissioner Of Agriculture,,(REP,GARY BLACK ,2165
+Hall,28-Friendship I,Commissioner Of Agriculture,,(REP,GARY BLACK ,3980
+Hall,29-Friendship II,Commissioner Of Agriculture,,(REP,GARY BLACK ,1440
+Hall,30-Friendship III,Commissioner Of Agriculture,,(REP,GARY BLACK ,1881
+Hall,31-Friendship IV,Commissioner Of Agriculture,,(REP,GARY BLACK ,1366
+Hall,01-Wilson,Commissioner Of Agriculture,,DEM,FRED SWANN,867
+Hall,02-Chicopee,Commissioner Of Agriculture,,DEM,FRED SWANN,604
+Hall,03-Oakwood I,Commissioner Of Agriculture,,DEM,FRED SWANN,445
+Hall,04-Oakwood II,Commissioner Of Agriculture,,DEM,FRED SWANN,480
+Hall,05-Flowery Branch I,Commissioner Of Agriculture,,DEM,FRED SWANN,475
+Hall,06-Flowery Branch II,Commissioner Of Agriculture,,DEM,FRED SWANN,475
+Hall,07-Roberts,Commissioner Of Agriculture,,DEM,FRED SWANN,611
+Hall,08-Morgan I,Commissioner Of Agriculture,,DEM,FRED SWANN,332
+Hall,09-Morgan II,Commissioner Of Agriculture,,DEM,FRED SWANN,636
+Hall,10-Candler,Commissioner Of Agriculture,,DEM,FRED SWANN,804
+Hall,11-Tadmore,Commissioner Of Agriculture,,DEM,FRED SWANN,1078
+Hall,12-Glade,Commissioner Of Agriculture,,DEM,FRED SWANN,401
+Hall,13-Lula,Commissioner Of Agriculture,,DEM,FRED SWANN,207
+Hall,14-Clermont,Commissioner Of Agriculture,,DEM,FRED SWANN,159
+Hall,15-Quillians,Commissioner Of Agriculture,,DEM,FRED SWANN,145
+Hall,16-Bark Camp,Commissioner Of Agriculture,,DEM,FRED SWANN,491
+Hall,17-Chestatee,Commissioner Of Agriculture,,DEM,FRED SWANN,333
+Hall,18-Fork,Commissioner Of Agriculture,,DEM,FRED SWANN,357
+Hall,19-Whelchel,Commissioner Of Agriculture,,DEM,FRED SWANN,413
+Hall,20-West Whelchel,Commissioner Of Agriculture,,DEM,FRED SWANN,427
+Hall,21-Gainesville I,Commissioner Of Agriculture,,DEM,FRED SWANN,602
+Hall,22-Gainesville II,Commissioner Of Agriculture,,DEM,FRED SWANN,1135
+Hall,23-Gainesville III,Commissioner Of Agriculture,,DEM,FRED SWANN,910
+Hall,24-Gainesville IV,Commissioner Of Agriculture,,DEM,FRED SWANN,461
+Hall,25-Gainesville V,Commissioner Of Agriculture,,DEM,FRED SWANN,198
+Hall,26-Gillsville,Commissioner Of Agriculture,,DEM,FRED SWANN,77
+Hall,27-Big Hickory,Commissioner Of Agriculture,,DEM,FRED SWANN,210
+Hall,28-Friendship I,Commissioner Of Agriculture,,DEM,FRED SWANN,1046
+Hall,29-Friendship II,Commissioner Of Agriculture,,DEM,FRED SWANN,353
+Hall,30-Friendship III,Commissioner Of Agriculture,,DEM,FRED SWANN,572
+Hall,31-Friendship IV,Commissioner Of Agriculture,,DEM,FRED SWANN,427
+Hall,01-Wilson,Commissioner Of Insurance,,REP,JIM BECK,2397
+Hall,02-Chicopee,Commissioner Of Insurance,,REP,JIM BECK,719
+Hall,03-Oakwood I,Commissioner Of Insurance,,REP,JIM BECK,696
+Hall,04-Oakwood II,Commissioner Of Insurance,,REP,JIM BECK,1794
+Hall,05-Flowery Branch I,Commissioner Of Insurance,,REP,JIM BECK,1782
+Hall,06-Flowery Branch II,Commissioner Of Insurance,,REP,JIM BECK,1287
+Hall,07-Roberts,Commissioner Of Insurance,,REP,JIM BECK,2364
+Hall,08-Morgan I,Commissioner Of Insurance,,REP,JIM BECK,1826
+Hall,09-Morgan II,Commissioner Of Insurance,,REP,JIM BECK,1913
+Hall,10-Candler,Commissioner Of Insurance,,REP,JIM BECK,2051
+Hall,11-Tadmore,Commissioner Of Insurance,,REP,JIM BECK,1068
+Hall,12-Glade,Commissioner Of Insurance,,REP,JIM BECK,1346
+Hall,13-Lula,Commissioner Of Insurance,,REP,JIM BECK,1489
+Hall,14-Clermont,Commissioner Of Insurance,,REP,JIM BECK,1786
+Hall,15-Quillians,Commissioner Of Insurance,,REP,JIM BECK,1505
+Hall,16-Bark Camp,Commissioner Of Insurance,,REP,JIM BECK,2471
+Hall,17-Chestatee,Commissioner Of Insurance,,REP,JIM BECK,1744
+Hall,18-Fork,Commissioner Of Insurance,,REP,JIM BECK,1642
+Hall,19-Whelchel,Commissioner Of Insurance,,REP,JIM BECK,2013
+Hall,20-West Whelchel,Commissioner Of Insurance,,REP,JIM BECK,2094
+Hall,21-Gainesville I,Commissioner Of Insurance,,REP,JIM BECK,1257
+Hall,22-Gainesville II,Commissioner Of Insurance,,REP,JIM BECK,101
+Hall,23-Gainesville III,Commissioner Of Insurance,,REP,JIM BECK,788
+Hall,24-Gainesville IV,Commissioner Of Insurance,,REP,JIM BECK,778
+Hall,25-Gainesville V,Commissioner Of Insurance,,REP,JIM BECK,469
+Hall,26-Gillsville,Commissioner Of Insurance,,REP,JIM BECK,570
+Hall,27-Big Hickory,Commissioner Of Insurance,,REP,JIM BECK,2098
+Hall,28-Friendship I,Commissioner Of Insurance,,REP,JIM BECK,3850
+Hall,29-Friendship II,Commissioner Of Insurance,,REP,JIM BECK,1373
+Hall,30-Friendship III,Commissioner Of Insurance,,REP,JIM BECK,1824
+Hall,31-Friendship IV,Commissioner Of Insurance,,REP,JIM BECK,1321
+Hall,01-Wilson,Commissioner Of Insurance,,DEM,JANICE LAWS,867
+Hall,02-Chicopee,Commissioner Of Insurance,,DEM,JANICE LAWS,600
+Hall,03-Oakwood I,Commissioner Of Insurance,,DEM,JANICE LAWS,448
+Hall,04-Oakwood II,Commissioner Of Insurance,,DEM,JANICE LAWS,484
+Hall,05-Flowery Branch I,Commissioner Of Insurance,,DEM,JANICE LAWS,481
+Hall,06-Flowery Branch II,Commissioner Of Insurance,,DEM,JANICE LAWS,454
+Hall,07-Roberts,Commissioner Of Insurance,,DEM,JANICE LAWS,605
+Hall,08-Morgan I,Commissioner Of Insurance,,DEM,JANICE LAWS,318
+Hall,09-Morgan II,Commissioner Of Insurance,,DEM,JANICE LAWS,637
+Hall,10-Candler,Commissioner Of Insurance,,DEM,JANICE LAWS,788
+Hall,11-Tadmore,Commissioner Of Insurance,,DEM,JANICE LAWS,1085
+Hall,12-Glade,Commissioner Of Insurance,,DEM,JANICE LAWS,399
+Hall,13-Lula,Commissioner Of Insurance,,DEM,JANICE LAWS,209
+Hall,14-Clermont,Commissioner Of Insurance,,DEM,JANICE LAWS,162
+Hall,15-Quillians,Commissioner Of Insurance,,DEM,JANICE LAWS,150
+Hall,16-Bark Camp,Commissioner Of Insurance,,DEM,JANICE LAWS,497
+Hall,17-Chestatee,Commissioner Of Insurance,,DEM,JANICE LAWS,338
+Hall,18-Fork,Commissioner Of Insurance,,DEM,JANICE LAWS,367
+Hall,19-Whelchel,Commissioner Of Insurance,,DEM,JANICE LAWS,434
+Hall,20-West Whelchel,Commissioner Of Insurance,,DEM,JANICE LAWS,456
+Hall,21-Gainesville I,Commissioner Of Insurance,,DEM,JANICE LAWS,624
+Hall,22-Gainesville II,Commissioner Of Insurance,,DEM,JANICE LAWS,1150
+Hall,23-Gainesville III,Commissioner Of Insurance,,DEM,JANICE LAWS,888
+Hall,24-Gainesville IV,Commissioner Of Insurance,,DEM,JANICE LAWS,492
+Hall,25-Gainesville V,Commissioner Of Insurance,,DEM,JANICE LAWS,209
+Hall,26-Gillsville,Commissioner Of Insurance,,DEM,JANICE LAWS,72
+Hall,27-Big Hickory,Commissioner Of Insurance,,DEM,JANICE LAWS,231
+Hall,28-Friendship I,Commissioner Of Insurance,,DEM,JANICE LAWS,1068
+Hall,29-Friendship II,Commissioner Of Insurance,,DEM,JANICE LAWS,368
+Hall,30-Friendship III,Commissioner Of Insurance,,DEM,JANICE LAWS,577
+Hall,31-Friendship IV,Commissioner Of Insurance,,DEM,JANICE LAWS,440
+Hall,01-Wilson,Commissioner Of Insurance,,LIB,DONNIE FOSTER,85
+Hall,02-Chicopee,Commissioner Of Insurance,,LIB,DONNIE FOSTER,53
+Hall,03-Oakwood I,Commissioner Of Insurance,,LIB,DONNIE FOSTER,35
+Hall,04-Oakwood II,Commissioner Of Insurance,,LIB,DONNIE FOSTER,68
+Hall,05-Flowery Branch I,Commissioner Of Insurance,,LIB,DONNIE FOSTER,80
+Hall,06-Flowery Branch II,Commissioner Of Insurance,,LIB,DONNIE FOSTER,63
+Hall,07-Roberts,Commissioner Of Insurance,,LIB,DONNIE FOSTER,93
+Hall,08-Morgan I,Commissioner Of Insurance,,LIB,DONNIE FOSTER,82
+Hall,09-Morgan II,Commissioner Of Insurance,,LIB,DONNIE FOSTER,72
+Hall,10-Candler,Commissioner Of Insurance,,LIB,DONNIE FOSTER,83
+Hall,11-Tadmore,Commissioner Of Insurance,,LIB,DONNIE FOSTER,50
+Hall,12-Glade,Commissioner Of Insurance,,LIB,DONNIE FOSTER,66
+Hall,13-Lula,Commissioner Of Insurance,,LIB,DONNIE FOSTER,33
+Hall,14-Clermont,Commissioner Of Insurance,,LIB,DONNIE FOSTER,58
+Hall,15-Quillians,Commissioner Of Insurance,,LIB,DONNIE FOSTER,42
+Hall,16-Bark Camp,Commissioner Of Insurance,,LIB,DONNIE FOSTER,71
+Hall,17-Chestatee,Commissioner Of Insurance,,LIB,DONNIE FOSTER,60
+Hall,18-Fork,Commissioner Of Insurance,,LIB,DONNIE FOSTER,59
+Hall,19-Whelchel,Commissioner Of Insurance,,LIB,DONNIE FOSTER,54
+Hall,20-West Whelchel,Commissioner Of Insurance,,LIB,DONNIE FOSTER,78
+Hall,21-Gainesville I,Commissioner Of Insurance,,LIB,DONNIE FOSTER,59
+Hall,22-Gainesville II,Commissioner Of Insurance,,LIB,DONNIE FOSTER,24
+Hall,23-Gainesville III,Commissioner Of Insurance,,LIB,DONNIE FOSTER,91
+Hall,24-Gainesville IV,Commissioner Of Insurance,,LIB,DONNIE FOSTER,46
+Hall,25-Gainesville V,Commissioner Of Insurance,,LIB,DONNIE FOSTER,30
+Hall,26-Gillsville,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
+Hall,27-Big Hickory,Commissioner Of Insurance,,LIB,DONNIE FOSTER,60
+Hall,28-Friendship I,Commissioner Of Insurance,,LIB,DONNIE FOSTER,137
+Hall,29-Friendship II,Commissioner Of Insurance,,LIB,DONNIE FOSTER,63
+Hall,30-Friendship III,Commissioner Of Insurance,,LIB,DONNIE FOSTER,63
+Hall,31-Friendship IV,Commissioner Of Insurance,,LIB,DONNIE FOSTER,42
+Hall,01-Wilson,State School Superintendent,,(REP,RICHARD WOODS ,2494
+Hall,02-Chicopee,State School Superintendent,,(REP,RICHARD WOODS ,754
+Hall,03-Oakwood I,State School Superintendent,,(REP,RICHARD WOODS ,725
+Hall,04-Oakwood II,State School Superintendent,,(REP,RICHARD WOODS ,1857
+Hall,05-Flowery Branch I,State School Superintendent,,(REP,RICHARD WOODS ,1861
+Hall,06-Flowery Branch II,State School Superintendent,,(REP,RICHARD WOODS ,1333
+Hall,07-Roberts,State School Superintendent,,(REP,RICHARD WOODS ,2442
+Hall,08-Morgan I,State School Superintendent,,(REP,RICHARD WOODS ,1889
+Hall,09-Morgan II,State School Superintendent,,(REP,RICHARD WOODS ,1972
+Hall,10-Candler,State School Superintendent,,(REP,RICHARD WOODS ,2117
+Hall,11-Tadmore,State School Superintendent,,(REP,RICHARD WOODS ,1110
+Hall,12-Glade,State School Superintendent,,(REP,RICHARD WOODS ,1408
+Hall,13-Lula,State School Superintendent,,(REP,RICHARD WOODS ,1509
+Hall,14-Clermont,State School Superintendent,,(REP,RICHARD WOODS ,1834
+Hall,15-Quillians,State School Superintendent,,(REP,RICHARD WOODS ,1550
+Hall,16-Bark Camp,State School Superintendent,,(REP,RICHARD WOODS ,2535
+Hall,17-Chestatee,State School Superintendent,,(REP,RICHARD WOODS ,1822
+Hall,18-Fork,State School Superintendent,,(REP,RICHARD WOODS ,1716
+Hall,19-Whelchel,State School Superintendent,,(REP,RICHARD WOODS ,2075
+Hall,20-West Whelchel,State School Superintendent,,(REP,RICHARD WOODS ,2185
+Hall,21-Gainesville I,State School Superintendent,,(REP,RICHARD WOODS ,1326
+Hall,22-Gainesville II,State School Superintendent,,(REP,RICHARD WOODS ,116
+Hall,23-Gainesville III,State School Superintendent,,(REP,RICHARD WOODS ,844
+Hall,24-Gainesville IV,State School Superintendent,,(REP,RICHARD WOODS ,814
+Hall,25-Gainesville V,State School Superintendent,,(REP,RICHARD WOODS ,497
+Hall,26-Gillsville,State School Superintendent,,(REP,RICHARD WOODS ,580
+Hall,27-Big Hickory,State School Superintendent,,(REP,RICHARD WOODS ,2156
+Hall,28-Friendship I,State School Superintendent,,(REP,RICHARD WOODS ,4044
+Hall,29-Friendship II,State School Superintendent,,(REP,RICHARD WOODS ,1432
+Hall,30-Friendship III,State School Superintendent,,(REP,RICHARD WOODS ,1879
+Hall,31-Friendship IV,State School Superintendent,,(REP,RICHARD WOODS ,1380
+Hall,01-Wilson,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",855
+Hall,02-Chicopee,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",608
+Hall,03-Oakwood I,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",451
+Hall,04-Oakwood II,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",497
+Hall,05-Flowery Branch I,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",473
+Hall,06-Flowery Branch II,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",463
+Hall,07-Roberts,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",618
+Hall,08-Morgan I,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",328
+Hall,09-Morgan II,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",646
+Hall,10-Candler,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",796
+Hall,11-Tadmore,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1093
+Hall,12-Glade,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",405
+Hall,13-Lula,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",218
+Hall,14-Clermont,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",170
+Hall,15-Quillians,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",154
+Hall,16-Bark Camp,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",496
+Hall,17-Chestatee,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",325
+Hall,18-Fork,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",351
+Hall,19-Whelchel,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",418
+Hall,20-West Whelchel,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",428
+Hall,21-Gainesville I,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",614
+Hall,22-Gainesville II,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1148
+Hall,23-Gainesville III,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",917
+Hall,24-Gainesville IV,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",492
+Hall,25-Gainesville V,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",210
+Hall,26-Gillsville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",74
+Hall,27-Big Hickory,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",232
+Hall,28-Friendship I,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1006
+Hall,29-Friendship II,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",366
+Hall,30-Friendship III,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",584
+Hall,31-Friendship IV,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",425
+Hall,01-Wilson,Commissioner Of Labor,,(REP,MARK BUTLER ,2476
+Hall,02-Chicopee,Commissioner Of Labor,,(REP,MARK BUTLER ,752
+Hall,03-Oakwood I,Commissioner Of Labor,,(REP,MARK BUTLER ,734
+Hall,04-Oakwood II,Commissioner Of Labor,,(REP,MARK BUTLER ,1849
+Hall,05-Flowery Branch I,Commissioner Of Labor,,(REP,MARK BUTLER ,1848
+Hall,06-Flowery Branch II,Commissioner Of Labor,,(REP,MARK BUTLER ,1321
+Hall,07-Roberts,Commissioner Of Labor,,(REP,MARK BUTLER ,2428
+Hall,08-Morgan I,Commissioner Of Labor,,(REP,MARK BUTLER ,1864
+Hall,09-Morgan II,Commissioner Of Labor,,(REP,MARK BUTLER ,1958
+Hall,10-Candler,Commissioner Of Labor,,(REP,MARK BUTLER ,2111
+Hall,11-Tadmore,Commissioner Of Labor,,(REP,MARK BUTLER ,1095
+Hall,12-Glade,Commissioner Of Labor,,(REP,MARK BUTLER ,1396
+Hall,13-Lula,Commissioner Of Labor,,(REP,MARK BUTLER ,1500
+Hall,14-Clermont,Commissioner Of Labor,,(REP,MARK BUTLER ,1830
+Hall,15-Quillians,Commissioner Of Labor,,(REP,MARK BUTLER ,1549
+Hall,16-Bark Camp,Commissioner Of Labor,,(REP,MARK BUTLER ,2524
+Hall,17-Chestatee,Commissioner Of Labor,,(REP,MARK BUTLER ,1804
+Hall,18-Fork,Commissioner Of Labor,,(REP,MARK BUTLER ,1700
+Hall,19-Whelchel,Commissioner Of Labor,,(REP,MARK BUTLER ,2061
+Hall,20-West Whelchel,Commissioner Of Labor,,(REP,MARK BUTLER ,2151
+Hall,21-Gainesville I,Commissioner Of Labor,,(REP,MARK BUTLER ,1308
+Hall,22-Gainesville II,Commissioner Of Labor,,(REP,MARK BUTLER ,116
+Hall,23-Gainesville III,Commissioner Of Labor,,(REP,MARK BUTLER ,836
+Hall,24-Gainesville IV,Commissioner Of Labor,,(REP,MARK BUTLER ,811
+Hall,25-Gainesville V,Commissioner Of Labor,,(REP,MARK BUTLER ,489
+Hall,26-Gillsville,Commissioner Of Labor,,(REP,MARK BUTLER ,578
+Hall,27-Big Hickory,Commissioner Of Labor,,(REP,MARK BUTLER ,2147
+Hall,28-Friendship I,Commissioner Of Labor,,(REP,MARK BUTLER ,3985
+Hall,29-Friendship II,Commissioner Of Labor,,(REP,MARK BUTLER ,1425
+Hall,30-Friendship III,Commissioner Of Labor,,(REP,MARK BUTLER ,1870
+Hall,31-Friendship IV,Commissioner Of Labor,,(REP,MARK BUTLER ,1356
+Hall,01-Wilson,Commissioner Of Labor,,DEM,RICHARD KEATLEY,870
+Hall,02-Chicopee,Commissioner Of Labor,,DEM,RICHARD KEATLEY,619
+Hall,03-Oakwood I,Commissioner Of Labor,,DEM,RICHARD KEATLEY,444
+Hall,04-Oakwood II,Commissioner Of Labor,,DEM,RICHARD KEATLEY,494
+Hall,05-Flowery Branch I,Commissioner Of Labor,,DEM,RICHARD KEATLEY,479
+Hall,06-Flowery Branch II,Commissioner Of Labor,,DEM,RICHARD KEATLEY,472
+Hall,07-Roberts,Commissioner Of Labor,,DEM,RICHARD KEATLEY,623
+Hall,08-Morgan I,Commissioner Of Labor,,DEM,RICHARD KEATLEY,342
+Hall,09-Morgan II,Commissioner Of Labor,,DEM,RICHARD KEATLEY,648
+Hall,10-Candler,Commissioner Of Labor,,DEM,RICHARD KEATLEY,798
+Hall,11-Tadmore,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1106
+Hall,12-Glade,Commissioner Of Labor,,DEM,RICHARD KEATLEY,412
+Hall,13-Lula,Commissioner Of Labor,,DEM,RICHARD KEATLEY,219
+Hall,14-Clermont,Commissioner Of Labor,,DEM,RICHARD KEATLEY,168
+Hall,15-Quillians,Commissioner Of Labor,,DEM,RICHARD KEATLEY,148
+Hall,16-Bark Camp,Commissioner Of Labor,,DEM,RICHARD KEATLEY,505
+Hall,17-Chestatee,Commissioner Of Labor,,DEM,RICHARD KEATLEY,336
+Hall,18-Fork,Commissioner Of Labor,,DEM,RICHARD KEATLEY,367
+Hall,19-Whelchel,Commissioner Of Labor,,DEM,RICHARD KEATLEY,436
+Hall,20-West Whelchel,Commissioner Of Labor,,DEM,RICHARD KEATLEY,459
+Hall,21-Gainesville I,Commissioner Of Labor,,DEM,RICHARD KEATLEY,635
+Hall,22-Gainesville II,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1155
+Hall,23-Gainesville III,Commissioner Of Labor,,DEM,RICHARD KEATLEY,928
+Hall,24-Gainesville IV,Commissioner Of Labor,,DEM,RICHARD KEATLEY,487
+Hall,25-Gainesville V,Commissioner Of Labor,,DEM,RICHARD KEATLEY,211
+Hall,26-Gillsville,Commissioner Of Labor,,DEM,RICHARD KEATLEY,73
+Hall,27-Big Hickory,Commissioner Of Labor,,DEM,RICHARD KEATLEY,237
+Hall,28-Friendship I,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1050
+Hall,29-Friendship II,Commissioner Of Labor,,DEM,RICHARD KEATLEY,370
+Hall,30-Friendship III,Commissioner Of Labor,,DEM,RICHARD KEATLEY,587
+Hall,31-Friendship IV,Commissioner Of Labor,,DEM,RICHARD KEATLEY,439
+Hall,01-Wilson,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2356
+Hall,02-Chicopee,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,705
+Hall,03-Oakwood I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,686
+Hall,04-Oakwood II,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1795
+Hall,05-Flowery Branch I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1751
+Hall,06-Flowery Branch II,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1268
+Hall,07-Roberts,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2307
+Hall,08-Morgan I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1795
+Hall,09-Morgan II,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1863
+Hall,10-Candler,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2005
+Hall,11-Tadmore,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1047
+Hall,12-Glade,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1311
+Hall,13-Lula,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1458
+Hall,14-Clermont,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1754
+Hall,15-Quillians,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1489
+Hall,16-Bark Camp,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2411
+Hall,17-Chestatee,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1736
+Hall,18-Fork,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1612
+Hall,19-Whelchel,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1983
+Hall,20-West Whelchel,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2066
+Hall,21-Gainesville I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1212
+Hall,22-Gainesville II,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,92
+Hall,23-Gainesville III,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,776
+Hall,24-Gainesville IV,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,764
+Hall,25-Gainesville V,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,455
+Hall,26-Gillsville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,559
+Hall,27-Big Hickory,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2072
+Hall,28-Friendship I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3799
+Hall,29-Friendship II,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1369
+Hall,30-Friendship III,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1798
+Hall,31-Friendship IV,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1288
+Hall,01-Wilson,"Public Service Commission, District 3",3,DEM,LINDY MILLER,890
+Hall,02-Chicopee,"Public Service Commission, District 3",3,DEM,LINDY MILLER,603
+Hall,03-Oakwood I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,461
+Hall,04-Oakwood II,"Public Service Commission, District 3",3,DEM,LINDY MILLER,495
+Hall,05-Flowery Branch I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,493
+Hall,06-Flowery Branch II,"Public Service Commission, District 3",3,DEM,LINDY MILLER,468
+Hall,07-Roberts,"Public Service Commission, District 3",3,DEM,LINDY MILLER,635
+Hall,08-Morgan I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,328
+Hall,09-Morgan II,"Public Service Commission, District 3",3,DEM,LINDY MILLER,663
+Hall,10-Candler,"Public Service Commission, District 3",3,DEM,LINDY MILLER,798
+Hall,11-Tadmore,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1104
+Hall,12-Glade,"Public Service Commission, District 3",3,DEM,LINDY MILLER,434
+Hall,13-Lula,"Public Service Commission, District 3",3,DEM,LINDY MILLER,231
+Hall,14-Clermont,"Public Service Commission, District 3",3,DEM,LINDY MILLER,187
+Hall,15-Quillians,"Public Service Commission, District 3",3,DEM,LINDY MILLER,166
+Hall,16-Bark Camp,"Public Service Commission, District 3",3,DEM,LINDY MILLER,541
+Hall,17-Chestatee,"Public Service Commission, District 3",3,DEM,LINDY MILLER,351
+Hall,18-Fork,"Public Service Commission, District 3",3,DEM,LINDY MILLER,374
+Hall,19-Whelchel,"Public Service Commission, District 3",3,DEM,LINDY MILLER,462
+Hall,20-West Whelchel,"Public Service Commission, District 3",3,DEM,LINDY MILLER,475
+Hall,21-Gainesville I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,659
+Hall,22-Gainesville II,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1147
+Hall,23-Gainesville III,"Public Service Commission, District 3",3,DEM,LINDY MILLER,901
+Hall,24-Gainesville IV,"Public Service Commission, District 3",3,DEM,LINDY MILLER,496
+Hall,25-Gainesville V,"Public Service Commission, District 3",3,DEM,LINDY MILLER,222
+Hall,26-Gillsville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,80
+Hall,27-Big Hickory,"Public Service Commission, District 3",3,DEM,LINDY MILLER,264
+Hall,28-Friendship I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1097
+Hall,29-Friendship II,"Public Service Commission, District 3",3,DEM,LINDY MILLER,368
+Hall,30-Friendship III,"Public Service Commission, District 3",3,DEM,LINDY MILLER,592
+Hall,31-Friendship IV,"Public Service Commission, District 3",3,DEM,LINDY MILLER,457
+Hall,01-Wilson,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,100
+Hall,02-Chicopee,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,58
+Hall,03-Oakwood I,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,33
+Hall,04-Oakwood II,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,63
+Hall,05-Flowery Branch I,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,92
+Hall,06-Flowery Branch II,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,58
+Hall,07-Roberts,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,111
+Hall,08-Morgan I,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,100
+Hall,09-Morgan II,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,82
+Hall,10-Candler,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,106
+Hall,11-Tadmore,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,49
+Hall,12-Glade,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,70
+Hall,13-Lula,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,33
+Hall,14-Clermont,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,62
+Hall,15-Quillians,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,42
+Hall,16-Bark Camp,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,80
+Hall,17-Chestatee,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,64
+Hall,18-Fork,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,70
+Hall,19-Whelchel,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,50
+Hall,20-West Whelchel,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,75
+Hall,21-Gainesville I,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,69
+Hall,22-Gainesville II,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,27
+Hall,23-Gainesville III,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,90
+Hall,24-Gainesville IV,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,49
+Hall,25-Gainesville V,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,30
+Hall,26-Gillsville,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,14
+Hall,27-Big Hickory,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,54
+Hall,28-Friendship I,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,143
+Hall,29-Friendship II,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,63
+Hall,30-Friendship III,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,64
+Hall,31-Friendship IV,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,56
+Hall,01-Wilson,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2386
+Hall,02-Chicopee,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,710
+Hall,03-Oakwood I,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,691
+Hall,04-Oakwood II,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1802
+Hall,05-Flowery Branch I,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1774
+Hall,06-Flowery Branch II,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1266
+Hall,07-Roberts,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2322
+Hall,08-Morgan I,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1804
+Hall,09-Morgan II,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1887
+Hall,10-Candler,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2034
+Hall,11-Tadmore,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1066
+Hall,12-Glade,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1336
+Hall,13-Lula,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1469
+Hall,14-Clermont,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1773
+Hall,15-Quillians,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1484
+Hall,16-Bark Camp,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2432
+Hall,17-Chestatee,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1748
+Hall,18-Fork,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1629
+Hall,19-Whelchel,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1996
+Hall,20-West Whelchel,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2089
+Hall,21-Gainesville I,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1228
+Hall,22-Gainesville II,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,103
+Hall,23-Gainesville III,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,792
+Hall,24-Gainesville IV,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,777
+Hall,25-Gainesville V,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,469
+Hall,26-Gillsville,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,556
+Hall,27-Big Hickory,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2090
+Hall,28-Friendship I,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3846
+Hall,29-Friendship II,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1369
+Hall,30-Friendship III,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1810
+Hall,31-Friendship IV,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1305
+Hall,01-Wilson,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,867
+Hall,02-Chicopee,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,596
+Hall,03-Oakwood I,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,459
+Hall,04-Oakwood II,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,483
+Hall,05-Flowery Branch I,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,471
+Hall,06-Flowery Branch II,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,462
+Hall,07-Roberts,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,617
+Hall,08-Morgan I,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,322
+Hall,09-Morgan II,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,638
+Hall,10-Candler,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,783
+Hall,11-Tadmore,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1098
+Hall,12-Glade,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,407
+Hall,13-Lula,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,219
+Hall,14-Clermont,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,166
+Hall,15-Quillians,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,149
+Hall,16-Bark Camp,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,509
+Hall,17-Chestatee,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,341
+Hall,18-Fork,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,364
+Hall,19-Whelchel,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,442
+Hall,20-West Whelchel,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,456
+Hall,21-Gainesville I,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,641
+Hall,22-Gainesville II,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1157
+Hall,23-Gainesville III,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,884
+Hall,24-Gainesville IV,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,477
+Hall,25-Gainesville V,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,212
+Hall,26-Gillsville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,80
+Hall,27-Big Hickory,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,236
+Hall,28-Friendship I,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1062
+Hall,29-Friendship II,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,364
+Hall,30-Friendship III,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,578
+Hall,31-Friendship IV,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,440
+Hall,01-Wilson,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,88
+Hall,02-Chicopee,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,61
+Hall,03-Oakwood I,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34
+Hall,04-Oakwood II,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,62
+Hall,05-Flowery Branch I,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,90
+Hall,06-Flowery Branch II,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,64
+Hall,07-Roberts,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,115
+Hall,08-Morgan I,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,98
+Hall,09-Morgan II,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,83
+Hall,10-Candler,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,94
+Hall,11-Tadmore,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,45
+Hall,12-Glade,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,70
+Hall,13-Lula,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,31
+Hall,14-Clermont,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,66
+Hall,15-Quillians,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,49
+Hall,16-Bark Camp,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,84
+Hall,17-Chestatee,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,57
+Hall,18-Fork,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,67
+Hall,19-Whelchel,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,57
+Hall,20-West Whelchel,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,74
+Hall,21-Gainesville I,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,74
+Hall,22-Gainesville II,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,16
+Hall,23-Gainesville III,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,89
+Hall,24-Gainesville IV,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,50
+Hall,25-Gainesville V,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
+Hall,26-Gillsville,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,13
+Hall,27-Big Hickory,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,58
+Hall,28-Friendship I,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,131
+Hall,29-Friendship II,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,67
+Hall,30-Friendship III,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,66
+Hall,31-Friendship IV,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,52
+Hall,01-Wilson,U.S. Representative,9,(REP,DOUG COLLINS ,2450
+Hall,02-Chicopee,U.S. Representative,9,(REP,DOUG COLLINS ,739
+Hall,03-Oakwood I,U.S. Representative,9,(REP,DOUG COLLINS ,720
+Hall,04-Oakwood II,U.S. Representative,9,(REP,DOUG COLLINS ,1836
+Hall,05-Flowery Branch I,U.S. Representative,9,(REP,DOUG COLLINS ,1834
+Hall,06-Flowery Branch II,U.S. Representative,9,(REP,DOUG COLLINS ,1322
+Hall,07-Roberts,U.S. Representative,9,(REP,DOUG COLLINS ,2426
+Hall,08-Morgan I,U.S. Representative,9,(REP,DOUG COLLINS ,1870
+Hall,09-Morgan II,U.S. Representative,9,(REP,DOUG COLLINS ,1938
+Hall,10-Candler,U.S. Representative,9,(REP,DOUG COLLINS ,2096
+Hall,11-Tadmore,U.S. Representative,9,(REP,DOUG COLLINS ,1081
+Hall,12-Glade,U.S. Representative,9,(REP,DOUG COLLINS ,1387
+Hall,13-Lula,U.S. Representative,9,(REP,DOUG COLLINS ,1500
+Hall,14-Clermont,U.S. Representative,9,(REP,DOUG COLLINS ,1817
+Hall,15-Quillians,U.S. Representative,9,(REP,DOUG COLLINS ,1522
+Hall,16-Bark Camp,U.S. Representative,9,(REP,DOUG COLLINS ,2503
+Hall,17-Chestatee,U.S. Representative,9,(REP,DOUG COLLINS ,1787
+Hall,18-Fork,U.S. Representative,9,(REP,DOUG COLLINS ,1684
+Hall,19-Whelchel,U.S. Representative,9,(REP,DOUG COLLINS ,2044
+Hall,20-West Whelchel,U.S. Representative,9,(REP,DOUG COLLINS ,2112
+Hall,21-Gainesville I,U.S. Representative,9,(REP,DOUG COLLINS ,1258
+Hall,22-Gainesville II,U.S. Representative,9,(REP,DOUG COLLINS ,120
+Hall,23-Gainesville III,U.S. Representative,9,(REP,DOUG COLLINS ,830
+Hall,24-Gainesville IV,U.S. Representative,9,(REP,DOUG COLLINS ,773
+Hall,25-Gainesville V,U.S. Representative,9,(REP,DOUG COLLINS ,477
+Hall,26-Gillsville,U.S. Representative,9,(REP,DOUG COLLINS ,584
+Hall,27-Big Hickory,U.S. Representative,9,(REP,DOUG COLLINS ,2131
+Hall,28-Friendship I,U.S. Representative,9,(REP,DOUG COLLINS ,3965
+Hall,29-Friendship II,U.S. Representative,9,(REP,DOUG COLLINS ,1432
+Hall,30-Friendship III,U.S. Representative,9,(REP,DOUG COLLINS ,1843
+Hall,31-Friendship IV,U.S. Representative,9,(REP,DOUG COLLINS ,1349
+Hall,01-Wilson,U.S. Representative,9,DEM,JOSH MCCALL,916
+Hall,02-Chicopee,U.S. Representative,9,DEM,JOSH MCCALL,633
+Hall,03-Oakwood I,U.S. Representative,9,DEM,JOSH MCCALL,467
+Hall,04-Oakwood II,U.S. Representative,9,DEM,JOSH MCCALL,525
+Hall,05-Flowery Branch I,U.S. Representative,9,DEM,JOSH MCCALL,511
+Hall,06-Flowery Branch II,U.S. Representative,9,DEM,JOSH MCCALL,489
+Hall,07-Roberts,U.S. Representative,9,DEM,JOSH MCCALL,637
+Hall,08-Morgan I,U.S. Representative,9,DEM,JOSH MCCALL,354
+Hall,09-Morgan II,U.S. Representative,9,DEM,JOSH MCCALL,679
+Hall,10-Candler,U.S. Representative,9,DEM,JOSH MCCALL,835
+Hall,11-Tadmore,U.S. Representative,9,DEM,JOSH MCCALL,1135
+Hall,12-Glade,U.S. Representative,9,DEM,JOSH MCCALL,429
+Hall,13-Lula,U.S. Representative,9,DEM,JOSH MCCALL,222
+Hall,14-Clermont,U.S. Representative,9,DEM,JOSH MCCALL,186
+Hall,15-Quillians,U.S. Representative,9,DEM,JOSH MCCALL,178
+Hall,16-Bark Camp,U.S. Representative,9,DEM,JOSH MCCALL,546
+Hall,17-Chestatee,U.S. Representative,9,DEM,JOSH MCCALL,371
+Hall,18-Fork,U.S. Representative,9,DEM,JOSH MCCALL,387
+Hall,19-Whelchel,U.S. Representative,9,DEM,JOSH MCCALL,466
+Hall,20-West Whelchel,U.S. Representative,9,DEM,JOSH MCCALL,527
+Hall,21-Gainesville I,U.S. Representative,9,DEM,JOSH MCCALL,704
+Hall,22-Gainesville II,U.S. Representative,9,DEM,JOSH MCCALL,1159
+Hall,23-Gainesville III,U.S. Representative,9,DEM,JOSH MCCALL,950
+Hall,24-Gainesville IV,U.S. Representative,9,DEM,JOSH MCCALL,543
+Hall,25-Gainesville V,U.S. Representative,9,DEM,JOSH MCCALL,234
+Hall,26-Gillsville,U.S. Representative,9,DEM,JOSH MCCALL,72
+Hall,27-Big Hickory,U.S. Representative,9,DEM,JOSH MCCALL,270
+Hall,28-Friendship I,U.S. Representative,9,DEM,JOSH MCCALL,1104
+Hall,29-Friendship II,U.S. Representative,9,DEM,JOSH MCCALL,375
+Hall,30-Friendship III,U.S. Representative,9,DEM,JOSH MCCALL,628
+Hall,31-Friendship IV,U.S. Representative,9,DEM,JOSH MCCALL,459
+Hall,01-Wilson,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",2832
+Hall,02-Chicopee,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1069
+Hall,03-Oakwood I,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",910
+Hall,04-Oakwood II,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",2070
+Hall,05-Flowery Branch I,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",2051
+Hall,06-Flowery Branch II,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1493
+Hall,07-Roberts,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",2675
+Hall,08-Morgan I,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",2033
+Hall,09-Morgan II,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",2229
+Hall,10-Candler,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",2478
+Hall,11-Tadmore,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",965
+Hall,12-Glade,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1580
+Hall,13-Lula,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1606
+Hall,14-Clermont,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1892
+Hall,15-Quillians,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1618
+Hall,16-Bark Camp,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",2747
+Hall,17-Chestatee,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1948
+Hall,18-Fork,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1836
+Hall,19-Whelchel,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",2259
+Hall,20-West Whelchel,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",2353
+Hall,21-Gainesville I,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1612
+Hall,22-Gainesville II,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",581
+Hall,23-Gainesville III,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1282
+Hall,24-Gainesville IV,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1086
+Hall,25-Gainesville V,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",584
+Hall,27-Big Hickory,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",2234
+Hall,28-Friendship I,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",4358
+Hall,29-Friendship II,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1577
+Hall,30-Friendship III,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",2126
+Hall,31-Friendship IV,State Senator,49,(REP,"CECIL T. ""BUTCH"" MILLER ",1525
+Hall,11-Tadmore,State Senator,50,(REP,JOHN K. WILKINSON ,619
+Hall,13-Lula,State Senator,50,(REP,JOHN K. WILKINSON ,2
+Hall,26-Gillsville,State Senator,50,(REP,JOHN K. WILKINSON ,611
+Hall,11-Tadmore,State Representative,27,(REP,LEE HAWKINS ,831
+Hall,12-Glade,State Representative,27,(REP,LEE HAWKINS ,692
+Hall,13-Lula,State Representative,27,(REP,LEE HAWKINS ,1607
+Hall,14-Clermont,State Representative,27,(REP,LEE HAWKINS ,1891
+Hall,15-Quillians,State Representative,27,(REP,LEE HAWKINS ,1612
+Hall,16-Bark Camp,State Representative,27,(REP,LEE HAWKINS ,2748
+Hall,17-Chestatee,State Representative,27,(REP,LEE HAWKINS ,1944
+Hall,18-Fork,State Representative,27,(REP,LEE HAWKINS ,1833
+Hall,19-Whelchel,State Representative,27,(REP,LEE HAWKINS ,1266
+Hall,23-Gainesville III,State Representative,27,(REP,LEE HAWKINS ,428
+Hall,26-Gillsville,State Representative,27,(REP,LEE HAWKINS ,608
+Hall,27-Big Hickory,State Representative,27,(REP,LEE HAWKINS ,2236
+Hall,01-Wilson,State Representative,29,(REP,MATT DUBNIK ,2201
+Hall,02-Chicopee,State Representative,29,(REP,MATT DUBNIK ,654
+Hall,12-Glade,State Representative,29,(REP,MATT DUBNIK ,737
+Hall,19-Whelchel,State Representative,29,(REP,MATT DUBNIK ,869
+Hall,20-West Whelchel,State Representative,29,(REP,MATT DUBNIK ,2090
+Hall,21-Gainesville I,State Representative,29,(REP,MATT DUBNIK ,1257
+Hall,22-Gainesville II,State Representative,29,(REP,MATT DUBNIK ,141
+Hall,23-Gainesville III,State Representative,29,(REP,MATT DUBNIK ,534
+Hall,24-Gainesville IV,State Representative,29,(REP,MATT DUBNIK ,772
+Hall,25-Gainesville V,State Representative,29,(REP,MATT DUBNIK ,473
+Hall,01-Wilson,State Representative,29,IND,NANCY STEAD,632
+Hall,02-Chicopee,State Representative,29,IND,NANCY STEAD,389
+Hall,12-Glade,State Representative,29,IND,NANCY STEAD,263
+Hall,19-Whelchel,State Representative,29,IND,NANCY STEAD,226
+Hall,20-West Whelchel,State Representative,29,IND,NANCY STEAD,510
+Hall,21-Gainesville I,State Representative,29,IND,NANCY STEAD,622
+Hall,22-Gainesville II,State Representative,29,IND,NANCY STEAD,772
+Hall,23-Gainesville III,State Representative,29,IND,NANCY STEAD,571
+Hall,24-Gainesville IV,State Representative,29,IND,NANCY STEAD,403
+Hall,25-Gainesville V,State Representative,29,IND,NANCY STEAD,207
+Hall,01-Wilson,State Representative,30,(REP,EMORY DUNAHOO JR ,275
+Hall,02-Chicopee,State Representative,30,(REP,EMORY DUNAHOO JR ,116
+Hall,03-Oakwood I,State Representative,30,(REP,EMORY DUNAHOO JR ,714
+Hall,04-Oakwood II,State Representative,30,(REP,EMORY DUNAHOO JR ,1832
+Hall,05-Flowery Branch I,State Representative,30,(REP,EMORY DUNAHOO JR ,1824
+Hall,06-Flowery Branch II,State Representative,30,(REP,EMORY DUNAHOO JR ,1294
+Hall,07-Roberts,State Representative,30,(REP,EMORY DUNAHOO JR ,1736
+Hall,08-Morgan I,State Representative,30,(REP,EMORY DUNAHOO JR ,5
+Hall,09-Morgan II,State Representative,30,(REP,EMORY DUNAHOO JR ,1934
+Hall,10-Candler,State Representative,30,(REP,EMORY DUNAHOO JR ,2095
+Hall,11-Tadmore,State Representative,30,(REP,EMORY DUNAHOO JR ,532
+Hall,22-Gainesville II,State Representative,30,(REP,EMORY DUNAHOO JR ,9
+Hall,24-Gainesville IV,State Representative,30,(REP,EMORY DUNAHOO JR ,33
+Hall,30-Friendship III,State Representative,30,(REP,EMORY DUNAHOO JR ,1615
+Hall,31-Friendship IV,State Representative,30,(REP,EMORY DUNAHOO JR ,344
+Hall,01-Wilson,State Representative,30,DEM,ALANA WATKINS,114
+Hall,02-Chicopee,State Representative,30,DEM,ALANA WATKINS,120
+Hall,03-Oakwood I,State Representative,30,DEM,ALANA WATKINS,466
+Hall,04-Oakwood II,State Representative,30,DEM,ALANA WATKINS,515
+Hall,05-Flowery Branch I,State Representative,30,DEM,ALANA WATKINS,502
+Hall,06-Flowery Branch II,State Representative,30,DEM,ALANA WATKINS,503
+Hall,07-Roberts,State Representative,30,DEM,ALANA WATKINS,395
+Hall,08-Morgan I,State Representative,30,DEM,ALANA WATKINS,2
+Hall,09-Morgan II,State Representative,30,DEM,ALANA WATKINS,673
+Hall,10-Candler,State Representative,30,DEM,ALANA WATKINS,824
+Hall,11-Tadmore,State Representative,30,DEM,ALANA WATKINS,461
+Hall,22-Gainesville II,State Representative,30,DEM,ALANA WATKINS,47
+Hall,24-Gainesville IV,State Representative,30,DEM,ALANA WATKINS,66
+Hall,30-Friendship III,State Representative,30,DEM,ALANA WATKINS,539
+Hall,31-Friendship IV,State Representative,30,DEM,ALANA WATKINS,131
+Hall,07-Roberts,State Representative,103,(REP,TIMOTHY BARR ,780
+Hall,08-Morgan I,State Representative,103,(REP,TIMOTHY BARR ,2011
+Hall,28-Friendship I,State Representative,103,(REP,TIMOTHY BARR ,4325
+Hall,29-Friendship II,State Representative,103,(REP,TIMOTHY BARR ,1571
+Hall,30-Friendship III,State Representative,103,(REP,TIMOTHY BARR ,259
+Hall,31-Friendship IV,State Representative,103,(REP,TIMOTHY BARR ,1132
+Hall,01-Wilson,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,2821
+Hall,02-Chicopee,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1067
+Hall,03-Oakwood I,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,917
+Hall,04-Oakwood II,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,2057
+Hall,05-Flowery Branch I,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,2046
+Hall,06-Flowery Branch II,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1491
+Hall,07-Roberts,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,2653
+Hall,08-Morgan I,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,2016
+Hall,09-Morgan II,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,2220
+Hall,10-Candler,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,2470
+Hall,11-Tadmore,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1588
+Hall,12-Glade,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1576
+Hall,13-Lula,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1604
+Hall,14-Clermont,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1889
+Hall,15-Quillians,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1601
+Hall,16-Bark Camp,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,2749
+Hall,17-Chestatee,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1940
+Hall,18-Fork,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1837
+Hall,19-Whelchel,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,2234
+Hall,20-West Whelchel,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,2322
+Hall,21-Gainesville I,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1599
+Hall,22-Gainesville II,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,583
+Hall,23-Gainesville III,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1303
+Hall,24-Gainesville IV,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1056
+Hall,25-Gainesville V,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,587
+Hall,26-Gillsville,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,611
+Hall,27-Big Hickory,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,2219
+Hall,28-Friendship I,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,4308
+Hall,29-Friendship II,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1568
+Hall,30-Friendship III,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,2123
+Hall,31-Friendship IV,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1517
+Hall,01-Wilson,Solicitor General,,R,S. D. WOODARD ,2804
+Hall,02-Chicopee,Solicitor General,,R,S. D. WOODARD ,1063
+Hall,03-Oakwood I,Solicitor General,,R,S. D. WOODARD ,914
+Hall,04-Oakwood II,Solicitor General,,R,S. D. WOODARD ,2049
+Hall,05-Flowery Branch I,Solicitor General,,R,S. D. WOODARD ,2034
+Hall,06-Flowery Branch II,Solicitor General,,R,S. D. WOODARD ,1486
+Hall,07-Roberts,Solicitor General,,R,S. D. WOODARD ,2639
+Hall,08-Morgan I,Solicitor General,,R,S. D. WOODARD ,1991
+Hall,09-Morgan II,Solicitor General,,R,S. D. WOODARD ,2198
+Hall,10-Candler,Solicitor General,,R,S. D. WOODARD ,2464
+Hall,11-Tadmore,Solicitor General,,R,S. D. WOODARD ,1580
+Hall,12-Glade,Solicitor General,,R,S. D. WOODARD ,1566
+Hall,13-Lula,Solicitor General,,R,S. D. WOODARD ,1574
+Hall,14-Clermont,Solicitor General,,R,S. D. WOODARD ,1867
+Hall,15-Quillians,Solicitor General,,R,S. D. WOODARD ,1578
+Hall,16-Bark Camp,Solicitor General,,R,S. D. WOODARD ,2717
+Hall,17-Chestatee,Solicitor General,,R,S. D. WOODARD ,1914
+Hall,18-Fork,Solicitor General,,R,S. D. WOODARD ,1803
+Hall,19-Whelchel,Solicitor General,,R,S. D. WOODARD ,2209
+Hall,20-West Whelchel,Solicitor General,,R,S. D. WOODARD ,2313
+Hall,21-Gainesville I,Solicitor General,,R,S. D. WOODARD ,1604
+Hall,22-Gainesville II,Solicitor General,,R,S. D. WOODARD ,582
+Hall,23-Gainesville III,Solicitor General,,R,S. D. WOODARD ,1308
+Hall,24-Gainesville IV,Solicitor General,,R,S. D. WOODARD ,1052
+Hall,25-Gainesville V,Solicitor General,,R,S. D. WOODARD ,586
+Hall,26-Gillsville,Solicitor General,,R,S. D. WOODARD ,603
+Hall,27-Big Hickory,Solicitor General,,R,S. D. WOODARD ,2195
+Hall,28-Friendship I,Solicitor General,,R,S. D. WOODARD ,4277
+Hall,29-Friendship II,Solicitor General,,R,S. D. WOODARD ,1554
+Hall,30-Friendship III,Solicitor General,,R,S. D. WOODARD ,2109
+Hall,31-Friendship IV,Solicitor General,,R,S. D. WOODARD ,1512
+Hall,05-Flowery Branch I,County Comm P1,,R,K. L. COOPER ,1832
+Hall,06-Flowery Branch II,County Comm P1,,R,K. L. COOPER ,1326
+Hall,07-Roberts,County Comm P1,,R,K. L. COOPER ,2438
+Hall,08-Morgan I,County Comm P1,,R,K. L. COOPER ,1876
+Hall,09-Morgan II,County Comm P1,,R,K. L. COOPER ,1178
+Hall,10-Candler,County Comm P1,,R,K. L. COOPER ,971
+Hall,28-Friendship I,County Comm P1,,R,K. L. COOPER ,3972
+Hall,29-Friendship II,County Comm P1,,R,K. L. COOPER ,1429
+Hall,30-Friendship III,County Comm P1,,R,K. L. COOPER ,1855
+Hall,31-Friendship IV,County Comm P1,,R,K. L. COOPER ,1354
+Hall,05-Flowery Branch I,County Comm P1,,D,M. W. PARKER,487
+Hall,06-Flowery Branch II,County Comm P1,,D,M. W. PARKER,468
+Hall,07-Roberts,County Comm P1,,D,M. W. PARKER,607
+Hall,08-Morgan I,County Comm P1,,D,M. W. PARKER,333
+Hall,09-Morgan II,County Comm P1,,D,M. W. PARKER,207
+Hall,10-Candler,County Comm P1,,D,M. W. PARKER,230
+Hall,28-Friendship I,County Comm P1,,D,M. W. PARKER,1022
+Hall,29-Friendship II,County Comm P1,,D,M. W. PARKER,358
+Hall,30-Friendship III,County Comm P1,,D,M. W. PARKER,591
+Hall,31-Friendship IV,County Comm P1,,D,M. W. PARKER,440
+Hall,10-Candler,County Comm P3,,R,S. ECHOLS,672
+Hall,11-Tadmore,County Comm P3,,R,S. ECHOLS,1274
+Hall,12-Glade,County Comm P3,,R,S. ECHOLS,1075
+Hall,13-Lula,County Comm P3,,R,S. ECHOLS,1618
+Hall,14-Clermont,County Comm P3,,R,S. ECHOLS,1896
+Hall,15-Quillians,County Comm P3,,R,S. ECHOLS,1598
+Hall,19-Whelchel,County Comm P3,,R,S. ECHOLS,1987
+Hall,22-Gainesville II,County Comm P3,,R,S. ECHOLS,65
+Hall,26-Gillsville,County Comm P3,,R,S. ECHOLS,617
+Hall,27-Big Hickory,County Comm P3,,R,S. ECHOLS,2233
+Hall,01-Wilson,BOE At Large,,R,B. THOMPSON ,1246
+Hall,02-Chicopee,BOE At Large,,R,B. THOMPSON ,283
+Hall,03-Oakwood I,BOE At Large,,R,B. THOMPSON ,713
+Hall,04-Oakwood II,BOE At Large,,R,B. THOMPSON ,1788
+Hall,05-Flowery Branch I,BOE At Large,,R,B. THOMPSON ,1834
+Hall,06-Flowery Branch II,BOE At Large,,R,B. THOMPSON ,1306
+Hall,07-Roberts,BOE At Large,,R,B. THOMPSON ,1707
+Hall,08-Morgan I,BOE At Large,,R,B. THOMPSON ,1879
+Hall,09-Morgan II,BOE At Large,,R,B. THOMPSON ,1977
+Hall,10-Candler,BOE At Large,,R,B. THOMPSON ,1993
+Hall,11-Tadmore,BOE At Large,,R,B. THOMPSON ,1059
+Hall,12-Glade,BOE At Large,,R,B. THOMPSON ,1265
+Hall,13-Lula,BOE At Large,,R,B. THOMPSON ,1495
+Hall,14-Clermont,BOE At Large,,R,B. THOMPSON ,1818
+Hall,15-Quillians,BOE At Large,,R,B. THOMPSON ,1523
+Hall,16-Bark Camp,BOE At Large,,R,B. THOMPSON ,2535
+Hall,17-Chestatee,BOE At Large,,R,B. THOMPSON ,1778
+Hall,18-Fork,BOE At Large,,R,B. THOMPSON ,1659
+Hall,19-Whelchel,BOE At Large,,R,B. THOMPSON ,1998
+Hall,20-West Whelchel,BOE At Large,,R,B. THOMPSON ,1480
+Hall,21-Gainesville I,BOE At Large,,R,B. THOMPSON ,163
+Hall,22-Gainesville II,BOE At Large,,R,B. THOMPSON ,39
+Hall,23-Gainesville III,BOE At Large,,R,B. THOMPSON ,218
+Hall,24-Gainesville IV,BOE At Large,,R,B. THOMPSON ,32
+Hall,25-Gainesville V,BOE At Large,,R,B. THOMPSON ,5
+Hall,26-Gillsville,BOE At Large,,R,B. THOMPSON ,578
+Hall,27-Big Hickory,BOE At Large,,R,B. THOMPSON ,2131
+Hall,28-Friendship I,BOE At Large,,R,B. THOMPSON ,3955
+Hall,29-Friendship II,BOE At Large,,R,B. THOMPSON ,1357
+Hall,30-Friendship III,BOE At Large,,R,B. THOMPSON ,1842
+Hall,31-Friendship IV,BOE At Large,,R,B. THOMPSON ,1336
+Hall,01-Wilson,BOE At Large,,D,S. LOPEZ,413
+Hall,02-Chicopee,BOE At Large,,D,S. LOPEZ,218
+Hall,03-Oakwood I,BOE At Large,,D,S. LOPEZ,470
+Hall,04-Oakwood II,BOE At Large,,D,S. LOPEZ,445
+Hall,05-Flowery Branch I,BOE At Large,,D,S. LOPEZ,497
+Hall,06-Flowery Branch II,BOE At Large,,D,S. LOPEZ,480
+Hall,07-Roberts,BOE At Large,,D,S. LOPEZ,430
+Hall,08-Morgan I,BOE At Large,,D,S. LOPEZ,343
+Hall,09-Morgan II,BOE At Large,,D,S. LOPEZ,638
+Hall,10-Candler,BOE At Large,,D,S. LOPEZ,708
+Hall,11-Tadmore,BOE At Large,,D,S. LOPEZ,1055
+Hall,12-Glade,BOE At Large,,D,S. LOPEZ,328
+Hall,13-Lula,BOE At Large,,D,S. LOPEZ,226
+Hall,14-Clermont,BOE At Large,,D,S. LOPEZ,182
+Hall,15-Quillians,BOE At Large,,D,S. LOPEZ,157
+Hall,16-Bark Camp,BOE At Large,,D,S. LOPEZ,496
+Hall,17-Chestatee,BOE At Large,,D,S. LOPEZ,340
+Hall,18-Fork,BOE At Large,,D,S. LOPEZ,348
+Hall,19-Whelchel,BOE At Large,,D,S. LOPEZ,403
+Hall,20-West Whelchel,BOE At Large,,D,S. LOPEZ,345
+Hall,21-Gainesville I,BOE At Large,,D,S. LOPEZ,46
+Hall,22-Gainesville II,BOE At Large,,D,S. LOPEZ,614
+Hall,23-Gainesville III,BOE At Large,,D,S. LOPEZ,216
+Hall,24-Gainesville IV,BOE At Large,,D,S. LOPEZ,58
+Hall,25-Gainesville V,BOE At Large,,D,S. LOPEZ,2
+Hall,26-Gillsville,BOE At Large,,D,S. LOPEZ,73
+Hall,27-Big Hickory,BOE At Large,,D,S. LOPEZ,252
+Hall,28-Friendship I,BOE At Large,,D,S. LOPEZ,1085
+Hall,29-Friendship II,BOE At Large,,D,S. LOPEZ,358
+Hall,30-Friendship III,BOE At Large,,D,S. LOPEZ,614
+Hall,31-Friendship IV,BOE At Large,,D,S. LOPEZ,465
+Hall,01-Wilson,BOE 1,,R,S. CHAPMAN ,1411
+Hall,02-Chicopee,BOE 1,,R,S. CHAPMAN ,404
+Hall,03-Oakwood I,BOE 1,,R,S. CHAPMAN ,905
+Hall,04-Oakwood II,BOE 1,,R,S. CHAPMAN ,1954
+Hall,05-Flowery Branch I,BOE 1,,R,S. CHAPMAN ,2030
+Hall,06-Flowery Branch II,BOE 1,,R,S. CHAPMAN ,1469
+Hall,07-Roberts,BOE 1,,R,S. CHAPMAN ,1854
+Hall,08-Morgan I,BOE 1,,R,S. CHAPMAN ,2018
+Hall,09-Morgan II,BOE 1,,R,S. CHAPMAN ,2210
+Hall,10-Candler,BOE 1,,R,S. CHAPMAN ,2293
+Hall,11-Tadmore,BOE 1,,R,S. CHAPMAN ,1513
+Hall,12-Glade,BOE 1,,R,S. CHAPMAN ,1405
+Hall,13-Lula,BOE 1,,R,S. CHAPMAN ,1594
+Hall,14-Clermont,BOE 1,,R,S. CHAPMAN ,1877
+Hall,15-Quillians,BOE 1,,R,S. CHAPMAN ,1593
+Hall,16-Bark Camp,BOE 1,,R,S. CHAPMAN ,2737
+Hall,17-Chestatee,BOE 1,,R,S. CHAPMAN ,1924
+Hall,18-Fork,BOE 1,,R,S. CHAPMAN ,1773
+Hall,19-Whelchel,BOE 1,,R,S. CHAPMAN ,2154
+Hall,20-West Whelchel,BOE 1,,R,S. CHAPMAN ,1611
+Hall,21-Gainesville I,BOE 1,,R,S. CHAPMAN ,186
+Hall,22-Gainesville II,BOE 1,,R,S. CHAPMAN ,256
+Hall,23-Gainesville III,BOE 1,,R,S. CHAPMAN ,351
+Hall,24-Gainesville IV,BOE 1,,R,S. CHAPMAN ,65
+Hall,25-Gainesville V,BOE 1,,R,S. CHAPMAN ,7
+Hall,26-Gillsville,BOE 1,,R,S. CHAPMAN ,606
+Hall,27-Big Hickory,BOE 1,,R,S. CHAPMAN ,2205
+Hall,28-Friendship I,BOE 1,,R,S. CHAPMAN ,4326
+Hall,29-Friendship II,BOE 1,,R,S. CHAPMAN ,1499
+Hall,30-Friendship III,BOE 1,,R,S. CHAPMAN ,2102
+Hall,31-Friendship IV,BOE 1,,R,S. CHAPMAN ,1516
+Hall,01-Wilson,BOE 2,,R,M. PETTITT,1231
+Hall,02-Chicopee,BOE 2,,R,M. PETTITT,276
+Hall,03-Oakwood I,BOE 2,,R,M. PETTITT,713
+Hall,04-Oakwood II,BOE 2,,R,M. PETTITT,1765
+Hall,05-Flowery Branch I,BOE 2,,R,M. PETTITT,1809
+Hall,06-Flowery Branch II,BOE 2,,R,M. PETTITT,1292
+Hall,07-Roberts,BOE 2,,R,M. PETTITT,1689
+Hall,08-Morgan I,BOE 2,,R,M. PETTITT,1831
+Hall,09-Morgan II,BOE 2,,R,M. PETTITT,1926
+Hall,10-Candler,BOE 2,,R,M. PETTITT,1954
+Hall,11-Tadmore,BOE 2,,R,M. PETTITT,1050
+Hall,12-Glade,BOE 2,,R,M. PETTITT,1252
+Hall,13-Lula,BOE 2,,R,M. PETTITT,1471
+Hall,14-Clermont,BOE 2,,R,M. PETTITT,1802
+Hall,15-Quillians,BOE 2,,R,M. PETTITT,1521
+Hall,16-Bark Camp,BOE 2,,R,M. PETTITT,2483
+Hall,17-Chestatee,BOE 2,,R,M. PETTITT,1739
+Hall,18-Fork,BOE 2,,R,M. PETTITT,1634
+Hall,19-Whelchel,BOE 2,,R,M. PETTITT,1972
+Hall,20-West Whelchel,BOE 2,,R,M. PETTITT,1463
+Hall,21-Gainesville I,BOE 2,,R,M. PETTITT,159
+Hall,22-Gainesville II,BOE 2,,R,M. PETTITT,38
+Hall,23-Gainesville III,BOE 2,,R,M. PETTITT,207
+Hall,24-Gainesville IV,BOE 2,,R,M. PETTITT,36
+Hall,25-Gainesville V,BOE 2,,R,M. PETTITT,5
+Hall,26-Gillsville,BOE 2,,R,M. PETTITT,579
+Hall,27-Big Hickory,BOE 2,,R,M. PETTITT,2111
+Hall,28-Friendship I,BOE 2,,R,M. PETTITT,3922
+Hall,29-Friendship II,BOE 2,,R,M. PETTITT,1345
+Hall,30-Friendship III,BOE 2,,R,M. PETTITT,1818
+Hall,31-Friendship IV,BOE 2,,R,M. PETTITT,1328
+Hall,01-Wilson,BOE 2,,D,W. WALLACE,407
+Hall,02-Chicopee,BOE 2,,D,W. WALLACE,213
+Hall,03-Oakwood I,BOE 2,,D,W. WALLACE,464
+Hall,04-Oakwood II,BOE 2,,D,W. WALLACE,462
+Hall,05-Flowery Branch I,BOE 2,,D,W. WALLACE,512
+Hall,06-Flowery Branch II,BOE 2,,D,W. WALLACE,480
+Hall,07-Roberts,BOE 2,,D,W. WALLACE,440
+Hall,08-Morgan I,BOE 2,,D,W. WALLACE,370
+Hall,09-Morgan II,BOE 2,,D,W. WALLACE,683
+Hall,10-Candler,BOE 2,,D,W. WALLACE,716
+Hall,11-Tadmore,BOE 2,,D,W. WALLACE,1051
+Hall,12-Glade,BOE 2,,D,W. WALLACE,340
+Hall,13-Lula,BOE 2,,D,W. WALLACE,244
+Hall,14-Clermont,BOE 2,,D,W. WALLACE,193
+Hall,15-Quillians,BOE 2,,D,W. WALLACE,168
+Hall,16-Bark Camp,BOE 2,,D,W. WALLACE,544
+Hall,17-Chestatee,BOE 2,,D,W. WALLACE,364
+Hall,18-Fork,BOE 2,,D,W. WALLACE,364
+Hall,19-Whelchel,BOE 2,,D,W. WALLACE,416
+Hall,20-West Whelchel,BOE 2,,D,W. WALLACE,349
+Hall,21-Gainesville I,BOE 2,,D,W. WALLACE,51
+Hall,22-Gainesville II,BOE 2,,D,W. WALLACE,615
+Hall,23-Gainesville III,BOE 2,,D,W. WALLACE,225
+Hall,24-Gainesville IV,BOE 2,,D,W. WALLACE,56
+Hall,25-Gainesville V,BOE 2,,D,W. WALLACE,2
+Hall,26-Gillsville,BOE 2,,D,W. WALLACE,72
+Hall,27-Big Hickory,BOE 2,,D,W. WALLACE,260
+Hall,28-Friendship I,BOE 2,,D,W. WALLACE,1102
+Hall,29-Friendship II,BOE 2,,D,W. WALLACE,367
+Hall,30-Friendship III,BOE 2,,D,W. WALLACE,624
+Hall,31-Friendship IV,BOE 2,,D,W. WALLACE,463
+Hall,01-Wilson,Soil and Water,,,E. ANDERSON ,2797
+Hall,02-Chicopee,Soil and Water,,,E. ANDERSON ,1103
+Hall,03-Oakwood I,Soil and Water,,,E. ANDERSON ,913
+Hall,04-Oakwood II,Soil and Water,,,E. ANDERSON ,1985
+Hall,05-Flowery Branch I,Soil and Water,,,E. ANDERSON ,1980
+Hall,06-Flowery Branch II,Soil and Water,,,E. ANDERSON ,1440
+Hall,07-Roberts,Soil and Water,,,E. ANDERSON ,2586
+Hall,08-Morgan I,Soil and Water,,,E. ANDERSON ,1933
+Hall,09-Morgan II,Soil and Water,,,E. ANDERSON ,2157
+Hall,10-Candler,Soil and Water,,,E. ANDERSON ,2423
+Hall,11-Tadmore,Soil and Water,,,E. ANDERSON ,1630
+Hall,12-Glade,Soil and Water,,,E. ANDERSON ,1518
+Hall,13-Lula,Soil and Water,,,E. ANDERSON ,1521
+Hall,14-Clermont,Soil and Water,,,E. ANDERSON ,1817
+Hall,15-Quillians,Soil and Water,,,E. ANDERSON ,1516
+Hall,16-Bark Camp,Soil and Water,,,E. ANDERSON ,2667
+Hall,17-Chestatee,Soil and Water,,,E. ANDERSON ,1887
+Hall,18-Fork,Soil and Water,,,E. ANDERSON ,1755
+Hall,19-Whelchel,Soil and Water,,,E. ANDERSON ,2173
+Hall,20-West Whelchel,Soil and Water,,,E. ANDERSON ,2295
+Hall,21-Gainesville I,Soil and Water,,,E. ANDERSON ,1635
+Hall,22-Gainesville II,Soil and Water,,,E. ANDERSON ,698
+Hall,23-Gainesville III,Soil and Water,,,E. ANDERSON ,1358
+Hall,24-Gainesville IV,Soil and Water,,,E. ANDERSON ,1115
+Hall,25-Gainesville V,Soil and Water,,,E. ANDERSON ,604
+Hall,26-Gillsville,Soil and Water,,,E. ANDERSON ,577
+Hall,27-Big Hickory,Soil and Water,,,E. ANDERSON ,2108
+Hall,28-Friendship I,Soil and Water,,,E. ANDERSON ,4129
+Hall,29-Friendship II,Soil and Water,,,E. ANDERSON ,1503
+Hall,30-Friendship III,Soil and Water,,,E. ANDERSON ,2046
+Hall,31-Friendship IV,Soil and Water,,,E. ANDERSON ,1471
+Hall,01-Wilson,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2695
+Hall,02-Chicopee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1165
+Hall,03-Oakwood I,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1005
+Hall,04-Oakwood II,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1786
+Hall,05-Flowery Branch I,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1791
+Hall,06-Flowery Branch II,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1444
+Hall,07-Roberts,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2290
+Hall,08-Morgan I,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1673
+Hall,09-Morgan II,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1960
+Hall,10-Candler,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2222
+Hall,11-Tadmore,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1832
+Hall,12-Glade,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1404
+Hall,13-Lula,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1233
+Hall,14-Clermont,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1424
+Hall,15-Quillians,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1175
+Hall,16-Bark Camp,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2273
+Hall,17-Chestatee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1626
+Hall,18-Fork,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1567
+Hall,19-Whelchel,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1892
+Hall,20-West Whelchel,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1968
+Hall,21-Gainesville I,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1546
+Hall,22-Gainesville II,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1065
+Hall,23-Gainesville III,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1493
+Hall,24-Gainesville IV,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1049
+Hall,25-Gainesville V,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,567
+Hall,26-Gillsville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,471
+Hall,27-Big Hickory,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1665
+Hall,28-Friendship I,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3887
+Hall,29-Friendship II,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1393
+Hall,30-Friendship III,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1916
+Hall,31-Friendship IV,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1420
+Hall,01-Wilson,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,649
+Hall,02-Chicopee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,198
+Hall,03-Oakwood I,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,172
+Hall,04-Oakwood II,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,537
+Hall,05-Flowery Branch I,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,541
+Hall,06-Flowery Branch II,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,340
+Hall,07-Roberts,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,733
+Hall,08-Morgan I,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,515
+Hall,09-Morgan II,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,609
+Hall,10-Candler,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,660
+Hall,11-Tadmore,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,341
+Hall,12-Glade,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,385
+Hall,13-Lula,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,484
+Hall,14-Clermont,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,559
+Hall,15-Quillians,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,494
+Hall,16-Bark Camp,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,715
+Hall,17-Chestatee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,501
+Hall,18-Fork,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,478
+Hall,19-Whelchel,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,580
+Hall,20-West Whelchel,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,624
+Hall,21-Gainesville I,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,383
+Hall,22-Gainesville II,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,161
+Hall,23-Gainesville III,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,262
+Hall,24-Gainesville IV,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,263
+Hall,25-Gainesville V,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,134
+Hall,26-Gillsville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,167
+Hall,27-Big Hickory,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,690
+Hall,28-Friendship I,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1094
+Hall,29-Friendship II,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,397
+Hall,30-Friendship III,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,531
+Hall,31-Friendship IV,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,355
+Hall,01-Wilson,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2282
+Hall,02-Chicopee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,953
+Hall,03-Oakwood I,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,810
+Hall,04-Oakwood II,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1531
+Hall,05-Flowery Branch I,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1435
+Hall,06-Flowery Branch II,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1216
+Hall,07-Roberts,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1928
+Hall,08-Morgan I,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1356
+Hall,09-Morgan II,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1684
+Hall,10-Candler,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1899
+Hall,11-Tadmore,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1576
+Hall,12-Glade,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1186
+Hall,13-Lula,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1077
+Hall,14-Clermont,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1127
+Hall,15-Quillians,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,926
+Hall,16-Bark Camp,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1886
+Hall,17-Chestatee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1357
+Hall,18-Fork,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1281
+Hall,19-Whelchel,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1578
+Hall,20-West Whelchel,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1675
+Hall,21-Gainesville I,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1223
+Hall,22-Gainesville II,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,952
+Hall,23-Gainesville III,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1222
+Hall,24-Gainesville IV,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,843
+Hall,25-Gainesville V,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,471
+Hall,26-Gillsville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,377
+Hall,27-Big Hickory,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1388
+Hall,28-Friendship I,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3215
+Hall,29-Friendship II,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1140
+Hall,30-Friendship III,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1584
+Hall,31-Friendship IV,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1178
+Hall,01-Wilson,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,994
+Hall,02-Chicopee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,357
+Hall,03-Oakwood I,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,327
+Hall,04-Oakwood II,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,754
+Hall,05-Flowery Branch I,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,841
+Hall,06-Flowery Branch II,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,526
+Hall,07-Roberts,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1004
+Hall,08-Morgan I,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,784
+Hall,09-Morgan II,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,829
+Hall,10-Candler,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,934
+Hall,11-Tadmore,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,557
+Hall,12-Glade,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,558
+Hall,13-Lula,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,610
+Hall,14-Clermont,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,813
+Hall,15-Quillians,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,692
+Hall,16-Bark Camp,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1045
+Hall,17-Chestatee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,715
+Hall,18-Fork,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,709
+Hall,19-Whelchel,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,836
+Hall,20-West Whelchel,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,857
+Hall,21-Gainesville I,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,635
+Hall,22-Gainesville II,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,251
+Hall,23-Gainesville III,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,477
+Hall,24-Gainesville IV,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,425
+Hall,25-Gainesville V,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,212
+Hall,26-Gillsville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,243
+Hall,27-Big Hickory,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,905
+Hall,28-Friendship I,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1657
+Hall,29-Friendship II,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,611
+Hall,30-Friendship III,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,810
+Hall,31-Friendship IV,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,561
+Hall,01-Wilson,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1996
+Hall,02-Chicopee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,812
+Hall,03-Oakwood I,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,745
+Hall,04-Oakwood II,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1346
+Hall,05-Flowery Branch I,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1263
+Hall,06-Flowery Branch II,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1032
+Hall,07-Roberts,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1686
+Hall,08-Morgan I,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1232
+Hall,09-Morgan II,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1438
+Hall,10-Candler,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1634
+Hall,11-Tadmore,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1341
+Hall,12-Glade,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1016
+Hall,13-Lula,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,929
+Hall,14-Clermont,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1092
+Hall,15-Quillians,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,842
+Hall,16-Bark Camp,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1655
+Hall,17-Chestatee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1171
+Hall,18-Fork,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1117
+Hall,19-Whelchel,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1369
+Hall,20-West Whelchel,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1474
+Hall,21-Gainesville I,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1119
+Hall,22-Gainesville II,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,799
+Hall,23-Gainesville III,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1079
+Hall,24-Gainesville IV,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,768
+Hall,25-Gainesville V,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,431
+Hall,26-Gillsville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,341
+Hall,27-Big Hickory,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1254
+Hall,28-Friendship I,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2880
+Hall,29-Friendship II,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1034
+Hall,30-Friendship III,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1371
+Hall,31-Friendship IV,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1043
+Hall,01-Wilson,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1238
+Hall,02-Chicopee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,484
+Hall,03-Oakwood I,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,372
+Hall,04-Oakwood II,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,912
+Hall,05-Flowery Branch I,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,967
+Hall,06-Flowery Branch II,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,692
+Hall,07-Roberts,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1221
+Hall,08-Morgan I,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,881
+Hall,09-Morgan II,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1033
+Hall,10-Candler,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1163
+Hall,11-Tadmore,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,766
+Hall,12-Glade,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,711
+Hall,13-Lula,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,734
+Hall,14-Clermont,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,835
+Hall,15-Quillians,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,753
+Hall,16-Bark Camp,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1241
+Hall,17-Chestatee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,899
+Hall,18-Fork,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,843
+Hall,19-Whelchel,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1008
+Hall,20-West Whelchel,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1035
+Hall,21-Gainesville I,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,724
+Hall,22-Gainesville II,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,368
+Hall,23-Gainesville III,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,607
+Hall,24-Gainesville IV,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,493
+Hall,25-Gainesville V,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,238
+Hall,26-Gillsville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,266
+Hall,27-Big Hickory,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1028
+Hall,28-Friendship I,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1914
+Hall,29-Friendship II,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,694
+Hall,30-Friendship III,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,986
+Hall,31-Friendship IV,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,674
+Hall,01-Wilson,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2673
+Hall,02-Chicopee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1115
+Hall,03-Oakwood I,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,921
+Hall,04-Oakwood II,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1762
+Hall,05-Flowery Branch I,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1738
+Hall,06-Flowery Branch II,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1383
+Hall,07-Roberts,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2213
+Hall,08-Morgan I,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1562
+Hall,09-Morgan II,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1935
+Hall,10-Candler,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2171
+Hall,11-Tadmore,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1776
+Hall,12-Glade,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1396
+Hall,13-Lula,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1238
+Hall,14-Clermont,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1375
+Hall,15-Quillians,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1151
+Hall,16-Bark Camp,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2195
+Hall,17-Chestatee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1517
+Hall,18-Fork,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1567
+Hall,19-Whelchel,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1876
+Hall,20-West Whelchel,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1938
+Hall,21-Gainesville I,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1462
+Hall,22-Gainesville II,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1122
+Hall,23-Gainesville III,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1396
+Hall,24-Gainesville IV,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,970
+Hall,25-Gainesville V,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,530
+Hall,26-Gillsville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,445
+Hall,27-Big Hickory,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1651
+Hall,28-Friendship I,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3940
+Hall,29-Friendship II,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1327
+Hall,30-Friendship III,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1850
+Hall,31-Friendship IV,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1395
+Hall,01-Wilson,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,648
+Hall,02-Chicopee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,226
+Hall,03-Oakwood I,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,242
+Hall,04-Oakwood II,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,551
+Hall,05-Flowery Branch I,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,580
+Hall,06-Flowery Branch II,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,388
+Hall,07-Roberts,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,779
+Hall,08-Morgan I,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,624
+Hall,09-Morgan II,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,631
+Hall,10-Candler,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,707
+Hall,11-Tadmore,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,393
+Hall,12-Glade,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,384
+Hall,13-Lula,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,465
+Hall,14-Clermont,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,601
+Hall,15-Quillians,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,516
+Hall,16-Bark Camp,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,797
+Hall,17-Chestatee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,593
+Hall,18-Fork,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,474
+Hall,19-Whelchel,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,594
+Hall,20-West Whelchel,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,658
+Hall,21-Gainesville I,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,454
+Hall,22-Gainesville II,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,119
+Hall,23-Gainesville III,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,338
+Hall,24-Gainesville IV,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,328
+Hall,25-Gainesville V,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,171
+Hall,26-Gillsville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,187
+Hall,27-Big Hickory,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,704
+Hall,28-Friendship I,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1071
+Hall,29-Friendship II,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,447
+Hall,30-Friendship III,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,583
+Hall,31-Friendship IV,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,394
+Hall,01-Wilson,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2218
+Hall,02-Chicopee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,957
+Hall,03-Oakwood I,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,846
+Hall,04-Oakwood II,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1490
+Hall,05-Flowery Branch I,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1460
+Hall,06-Flowery Branch II,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1187
+Hall,07-Roberts,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1890
+Hall,08-Morgan I,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1376
+Hall,09-Morgan II,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1655
+Hall,10-Candler,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1868
+Hall,11-Tadmore,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1593
+Hall,12-Glade,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1142
+Hall,13-Lula,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1046
+Hall,14-Clermont,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1165
+Hall,15-Quillians,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,944
+Hall,16-Bark Camp,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1882
+Hall,17-Chestatee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1354
+Hall,18-Fork,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1260
+Hall,19-Whelchel,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1576
+Hall,20-West Whelchel,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1755
+Hall,21-Gainesville I,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1296
+Hall,22-Gainesville II,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,990
+Hall,23-Gainesville III,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1256
+Hall,24-Gainesville IV,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,881
+Hall,25-Gainesville V,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,490
+Hall,26-Gillsville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,374
+Hall,27-Big Hickory,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1374
+Hall,28-Friendship I,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3213
+Hall,29-Friendship II,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1115
+Hall,30-Friendship III,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1582
+Hall,31-Friendship IV,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1226
+Hall,01-Wilson,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1054
+Hall,02-Chicopee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,367
+Hall,03-Oakwood I,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,302
+Hall,04-Oakwood II,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,775
+Hall,05-Flowery Branch I,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,800
+Hall,06-Flowery Branch II,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,562
+Hall,07-Roberts,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1065
+Hall,08-Morgan I,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,755
+Hall,09-Morgan II,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,846
+Hall,10-Candler,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,953
+Hall,11-Tadmore,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,539
+Hall,12-Glade,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,603
+Hall,13-Lula,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,630
+Hall,14-Clermont,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,759
+Hall,15-Quillians,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,661
+Hall,16-Bark Camp,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1057
+Hall,17-Chestatee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,739
+Hall,18-Fork,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,735
+Hall,19-Whelchel,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,839
+Hall,20-West Whelchel,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,773
+Hall,21-Gainesville I,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,564
+Hall,22-Gainesville II,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,218
+Hall,23-Gainesville III,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,454
+Hall,24-Gainesville IV,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,391
+Hall,25-Gainesville V,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,192
+Hall,26-Gillsville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,237
+Hall,27-Big Hickory,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,918
+Hall,28-Friendship I,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1622
+Hall,29-Friendship II,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,625
+Hall,30-Friendship III,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,808
+Hall,31-Friendship IV,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,512
+Hall,01-Wilson,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1746
+Hall,02-Chicopee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,719
+Hall,03-Oakwood I,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,660
+Hall,04-Oakwood II,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1109
+Hall,05-Flowery Branch I,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1064
+Hall,06-Flowery Branch II,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,893
+Hall,07-Roberts,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1475
+Hall,08-Morgan I,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1069
+Hall,09-Morgan II,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1231
+Hall,10-Candler,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1432
+Hall,11-Tadmore,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1262
+Hall,12-Glade,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,902
+Hall,13-Lula,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,856
+Hall,14-Clermont,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,851
+Hall,15-Quillians,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,719
+Hall,16-Bark Camp,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1417
+Hall,17-Chestatee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1013
+Hall,18-Fork,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,936
+Hall,19-Whelchel,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1226
+Hall,20-West Whelchel,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1243
+Hall,21-Gainesville I,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,972
+Hall,22-Gainesville II,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,801
+Hall,23-Gainesville III,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,930
+Hall,24-Gainesville IV,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,664
+Hall,25-Gainesville V,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,363
+Hall,26-Gillsville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,282
+Hall,27-Big Hickory,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1048
+Hall,28-Friendship I,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2578
+Hall,29-Friendship II,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,867
+Hall,30-Friendship III,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1198
+Hall,31-Friendship IV,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,891
+Hall,01-Wilson,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1441
+Hall,02-Chicopee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,556
+Hall,03-Oakwood I,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,450
+Hall,04-Oakwood II,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1119
+Hall,05-Flowery Branch I,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1132
+Hall,06-Flowery Branch II,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,811
+Hall,07-Roberts,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1398
+Hall,08-Morgan I,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1020
+Hall,09-Morgan II,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1202
+Hall,10-Candler,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1325
+Hall,11-Tadmore,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,827
+Hall,12-Glade,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,808
+Hall,13-Lula,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,792
+Hall,14-Clermont,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1033
+Hall,15-Quillians,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,850
+Hall,16-Bark Camp,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1452
+Hall,17-Chestatee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1017
+Hall,18-Fork,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,995
+Hall,19-Whelchel,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1134
+Hall,20-West Whelchel,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1188
+Hall,21-Gainesville I,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,808
+Hall,22-Gainesville II,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,368
+Hall,23-Gainesville III,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,722
+Hall,24-Gainesville IV,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,554
+Hall,25-Gainesville V,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,291
+Hall,26-Gillsville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,326
+Hall,27-Big Hickory,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1177
+Hall,28-Friendship I,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2165
+Hall,29-Friendship II,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,831
+Hall,30-Friendship III,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1144
+Hall,31-Friendship IV,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,797
+Hall,01-Wilson,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2356
+Hall,02-Chicopee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1027
+Hall,03-Oakwood I,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,890
+Hall,04-Oakwood II,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1614
+Hall,05-Flowery Branch I,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1528
+Hall,06-Flowery Branch II,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1277
+Hall,07-Roberts,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2123
+Hall,08-Morgan I,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1503
+Hall,09-Morgan II,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1838
+Hall,10-Candler,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2044
+Hall,11-Tadmore,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1687
+Hall,12-Glade,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1275
+Hall,13-Lula,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1181
+Hall,14-Clermont,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1273
+Hall,15-Quillians,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1056
+Hall,16-Bark Camp,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2053
+Hall,17-Chestatee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1440
+Hall,18-Fork,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1348
+Hall,19-Whelchel,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1700
+Hall,20-West Whelchel,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1766
+Hall,21-Gainesville I,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1362
+Hall,22-Gainesville II,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1061
+Hall,23-Gainesville III,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1313
+Hall,24-Gainesville IV,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,896
+Hall,25-Gainesville V,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,506
+Hall,26-Gillsville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,423
+Hall,27-Big Hickory,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1489
+Hall,28-Friendship I,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3494
+Hall,29-Friendship II,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1254
+Hall,30-Friendship III,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1754
+Hall,31-Friendship IV,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1265
+Hall,01-Wilson,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,897
+Hall,02-Chicopee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,294
+Hall,03-Oakwood I,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,249
+Hall,04-Oakwood II,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,675
+Hall,05-Flowery Branch I,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,735
+Hall,06-Flowery Branch II,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,475
+Hall,07-Roberts,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,842
+Hall,08-Morgan I,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,644
+Hall,09-Morgan II,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,674
+Hall,10-Candler,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,789
+Hall,11-Tadmore,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,459
+Hall,12-Glade,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,487
+Hall,13-Lula,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,499
+Hall,14-Clermont,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,672
+Hall,15-Quillians,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,569
+Hall,16-Bark Camp,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,880
+Hall,17-Chestatee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,637
+Hall,18-Fork,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,639
+Hall,19-Whelchel,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,726
+Hall,20-West Whelchel,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,747
+Hall,21-Gainesville I,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,489
+Hall,22-Gainesville II,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,155
+Hall,23-Gainesville III,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,381
+Hall,24-Gainesville IV,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,361
+Hall,25-Gainesville V,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,170
+Hall,26-Gillsville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,193
+Hall,27-Big Hickory,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,811
+Hall,28-Friendship I,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1381
+Hall,29-Friendship II,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,497
+Hall,30-Friendship III,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,648
+Hall,31-Friendship IV,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,459
+Hall,01-Wilson,HALL SUNDAY ALCOHOL SALES,,,YES,2233
+Hall,02-Chicopee,HALL SUNDAY ALCOHOL SALES,,,YES,799
+Hall,03-Oakwood I,HALL SUNDAY ALCOHOL SALES,,,YES,723
+Hall,04-Oakwood II,HALL SUNDAY ALCOHOL SALES,,,YES,1489
+Hall,05-Flowery Branch I,HALL SUNDAY ALCOHOL SALES,,,YES,1616
+Hall,06-Flowery Branch II,HALL SUNDAY ALCOHOL SALES,,,YES,1214
+Hall,07-Roberts,HALL SUNDAY ALCOHOL SALES,,,YES,2100
+Hall,08-Morgan I,HALL SUNDAY ALCOHOL SALES,,,YES,1274
+Hall,09-Morgan II,HALL SUNDAY ALCOHOL SALES,,,YES,1507
+Hall,10-Candler,HALL SUNDAY ALCOHOL SALES,,,YES,1572
+Hall,11-Tadmore,HALL SUNDAY ALCOHOL SALES,,,YES,1222
+Hall,12-Glade,HALL SUNDAY ALCOHOL SALES,,,YES,993
+Hall,13-Lula,HALL SUNDAY ALCOHOL SALES,,,YES,874
+Hall,14-Clermont,HALL SUNDAY ALCOHOL SALES,,,YES,1031
+Hall,15-Quillians,HALL SUNDAY ALCOHOL SALES,,,YES,868
+Hall,16-Bark Camp,HALL SUNDAY ALCOHOL SALES,,,YES,1745
+Hall,17-Chestatee,HALL SUNDAY ALCOHOL SALES,,,YES,1375
+Hall,18-Fork,HALL SUNDAY ALCOHOL SALES,,,YES,1390
+Hall,19-Whelchel,HALL SUNDAY ALCOHOL SALES,,,YES,1597
+Hall,20-West Whelchel,HALL SUNDAY ALCOHOL SALES,,,YES,1846
+Hall,21-Gainesville I,HALL SUNDAY ALCOHOL SALES,,,YES,1295
+Hall,22-Gainesville II,HALL SUNDAY ALCOHOL SALES,,,YES,814
+Hall,23-Gainesville III,HALL SUNDAY ALCOHOL SALES,,,YES,1122
+Hall,24-Gainesville IV,HALL SUNDAY ALCOHOL SALES,,,YES,953
+Hall,25-Gainesville V,HALL SUNDAY ALCOHOL SALES,,,YES,487
+Hall,26-Gillsville,HALL SUNDAY ALCOHOL SALES,,,YES,293
+Hall,27-Big Hickory,HALL SUNDAY ALCOHOL SALES,,,YES,1386
+Hall,28-Friendship I,HALL SUNDAY ALCOHOL SALES,,,YES,3470
+Hall,29-Friendship II,HALL SUNDAY ALCOHOL SALES,,,YES,1157
+Hall,30-Friendship III,HALL SUNDAY ALCOHOL SALES,,,YES,1568
+Hall,31-Friendship IV,HALL SUNDAY ALCOHOL SALES,,,YES,1279
+Hall,01-Wilson,HALL SUNDAY ALCOHOL SALES,,,NO,1104
+Hall,02-Chicopee,HALL SUNDAY ALCOHOL SALES,,,NO,550
+Hall,03-Oakwood I,HALL SUNDAY ALCOHOL SALES,,,NO,458
+Hall,04-Oakwood II,HALL SUNDAY ALCOHOL SALES,,,NO,864
+Hall,05-Flowery Branch I,HALL SUNDAY ALCOHOL SALES,,,NO,710
+Hall,06-Flowery Branch II,HALL SUNDAY ALCOHOL SALES,,,NO,579
+Hall,07-Roberts,HALL SUNDAY ALCOHOL SALES,,,NO,930
+Hall,08-Morgan I,HALL SUNDAY ALCOHOL SALES,,,NO,932
+Hall,09-Morgan II,HALL SUNDAY ALCOHOL SALES,,,NO,1081
+Hall,10-Candler,HALL SUNDAY ALCOHOL SALES,,,NO,1329
+Hall,11-Tadmore,HALL SUNDAY ALCOHOL SALES,,,NO,963
+Hall,12-Glade,HALL SUNDAY ALCOHOL SALES,,,NO,797
+Hall,13-Lula,HALL SUNDAY ALCOHOL SALES,,,NO,843
+Hall,14-Clermont,HALL SUNDAY ALCOHOL SALES,,,NO,958
+Hall,15-Quillians,HALL SUNDAY ALCOHOL SALES,,,NO,816
+Hall,16-Bark Camp,HALL SUNDAY ALCOHOL SALES,,,NO,1256
+Hall,17-Chestatee,HALL SUNDAY ALCOHOL SALES,,,NO,758
+Hall,18-Fork,HALL SUNDAY ALCOHOL SALES,,,NO,651
+Hall,19-Whelchel,HALL SUNDAY ALCOHOL SALES,,,NO,891
+Hall,20-West Whelchel,HALL SUNDAY ALCOHOL SALES,,,NO,770
+Hall,21-Gainesville I,HALL SUNDAY ALCOHOL SALES,,,NO,620
+Hall,22-Gainesville II,HALL SUNDAY ALCOHOL SALES,,,NO,423
+Hall,23-Gainesville III,HALL SUNDAY ALCOHOL SALES,,,NO,623
+Hall,24-Gainesville IV,HALL SUNDAY ALCOHOL SALES,,,NO,352
+Hall,25-Gainesville V,HALL SUNDAY ALCOHOL SALES,,,NO,218
+Hall,26-Gillsville,HALL SUNDAY ALCOHOL SALES,,,NO,353
+Hall,27-Big Hickory,HALL SUNDAY ALCOHOL SALES,,,NO,981
+Hall,28-Friendship I,HALL SUNDAY ALCOHOL SALES,,,NO,1547
+Hall,29-Friendship II,HALL SUNDAY ALCOHOL SALES,,,NO,622
+Hall,30-Friendship III,HALL SUNDAY ALCOHOL SALES,,,NO,884
+Hall,31-Friendship IV,HALL SUNDAY ALCOHOL SALES,,,NO,486
+Hall,03-Oakwood I,FLOWERY BRANCH,,,L. JARCHOW,0
+Hall,05-Flowery Branch I,FLOWERY BRANCH,,,L. JARCHOW,337
+Hall,06-Flowery Branch II,FLOWERY BRANCH,,,L. JARCHOW,180
+Hall,29-Friendship II,FLOWERY BRANCH,,,L. JARCHOW,0
+Hall,30-Friendship III,FLOWERY BRANCH,,,L. JARCHOW,12
+Hall,31-Friendship IV,FLOWERY BRANCH,,,L. JARCHOW,967
+Hall,03-Oakwood I,FLOWERY BRANCH,,,C. WORL,2
+Hall,05-Flowery Branch I,FLOWERY BRANCH,,,C. WORL,412
+Hall,06-Flowery Branch II,FLOWERY BRANCH,,,C. WORL,154
+Hall,29-Friendship II,FLOWERY BRANCH,,,C. WORL,0
+Hall,30-Friendship III,FLOWERY BRANCH,,,C. WORL,9
+Hall,31-Friendship IV,FLOWERY BRANCH,,,C. WORL,462
+Hall,03-Oakwood I,FLOWERY BRANCH,,,YES,2
+Hall,05-Flowery Branch I,FLOWERY BRANCH,,,YES,609
+Hall,06-Flowery Branch II,FLOWERY BRANCH,,,YES,284
+Hall,29-Friendship II,FLOWERY BRANCH,,,YES,1
+Hall,30-Friendship III,FLOWERY BRANCH,,,YES,22
+Hall,31-Friendship IV,FLOWERY BRANCH,,,YES,1247
+Hall,03-Oakwood I,FLOWERY BRANCH,,,NO,0
+Hall,05-Flowery Branch I,FLOWERY BRANCH,,,NO,279
+Hall,06-Flowery Branch II,FLOWERY BRANCH,,,NO,131
+Hall,29-Friendship II,FLOWERY BRANCH,,,NO,0
+Hall,30-Friendship III,FLOWERY BRANCH,,,NO,5
+Hall,31-Friendship IV,FLOWERY BRANCH,,,NO,452
+Hall,01-Wilson,GAINESVILLE,,,YES,1245
+Hall,02-Chicopee,GAINESVILLE,,,YES,539
+Hall,04-Oakwood II,GAINESVILLE,,,YES,78
+Hall,10-Candler,GAINESVILLE,,,YES,155
+Hall,11-Tadmore,GAINESVILLE,,,YES,60
+Hall,12-Glade,GAINESVILLE,,,YES,134
+Hall,17-Chestatee,GAINESVILLE,,,YES,15
+Hall,18-Fork,GAINESVILLE,,,YES,36
+Hall,19-Whelchel,GAINESVILLE,,,YES,64
+Hall,20-West Whelchel,GAINESVILLE,,,YES,603
+Hall,21-Gainesville I,GAINESVILLE,,,YES,1169
+Hall,22-Gainesville II,GAINESVILLE,,,YES,413
+Hall,23-Gainesville III,GAINESVILLE,,,YES,854
+Hall,24-Gainesville IV,GAINESVILLE,,,YES,914
+Hall,25-Gainesville V,GAINESVILLE,,,YES,500
+Hall,01-Wilson,GAINESVILLE,,,NO,444
+Hall,02-Chicopee,GAINESVILLE,,,NO,317
+Hall,04-Oakwood II,GAINESVILLE,,,NO,46
+Hall,10-Candler,GAINESVILLE,,,NO,58
+Hall,11-Tadmore,GAINESVILLE,,,NO,36
+Hall,12-Glade,GAINESVILLE,,,NO,79
+Hall,17-Chestatee,GAINESVILLE,,,NO,7
+Hall,18-Fork,GAINESVILLE,,,NO,12
+Hall,19-Whelchel,GAINESVILLE,,,NO,29
+Hall,20-West Whelchel,GAINESVILLE,,,NO,196
+Hall,21-Gainesville I,GAINESVILLE,,,NO,540
+Hall,22-Gainesville II,GAINESVILLE,,,NO,200
+Hall,23-Gainesville III,GAINESVILLE,,,NO,468
+Hall,24-Gainesville IV,GAINESVILLE,,,NO,305
+Hall,25-Gainesville V,GAINESVILLE,,,NO,203
+Hall,01-Wilson,OAKWOOD,,,YES,33
+Hall,02-Chicopee,OAKWOOD,,,YES,21
+Hall,03-Oakwood I,OAKWOOD,,,YES,571
+Hall,04-Oakwood II,OAKWOOD,,,YES,17
+Hall,09-Morgan II,OAKWOOD,,,YES,163
+Hall,10-Candler,OAKWOOD,,,YES,0
+Hall,01-Wilson,OAKWOOD,,,NO,16
+Hall,02-Chicopee,OAKWOOD,,,NO,7
+Hall,03-Oakwood I,OAKWOOD,,,NO,324
+Hall,04-Oakwood II,OAKWOOD,,,NO,15
+Hall,09-Morgan II,OAKWOOD,,,NO,76
+Hall,10-Candler,OAKWOOD,,,NO,1

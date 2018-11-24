@@ -1,0 +1,837 @@
+county,precinct,office,district,party,candidate,votes
+Bryan,Pembroke,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",101
+Bryan,Danielsiding,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",84
+Bryan,Ellabell,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",68
+Bryan,Black Creek,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",73
+Bryan,Ways Station,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",42
+Bryan,RH Rec Complex,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",52
+Bryan,J.F. Gregory Park,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",177
+Bryan,Keller,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",162
+Bryan,HWY 144 East,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",112
+Bryan,Public Safety Complex,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",36
+Bryan,Pembroke,Governor,,REP,HUNTER HILL  (REP),49
+Bryan,Danielsiding,Governor,,REP,HUNTER HILL  (REP),51
+Bryan,Ellabell,Governor,,REP,HUNTER HILL  (REP),43
+Bryan,Black Creek,Governor,,REP,HUNTER HILL  (REP),38
+Bryan,Ways Station,Governor,,REP,HUNTER HILL  (REP),23
+Bryan,RH Rec Complex,Governor,,REP,HUNTER HILL  (REP),28
+Bryan,J.F. Gregory Park,Governor,,REP,HUNTER HILL  (REP),79
+Bryan,Keller,Governor,,REP,HUNTER HILL  (REP),66
+Bryan,HWY 144 East,Governor,,REP,HUNTER HILL  (REP),47
+Bryan,Public Safety Complex,Governor,,REP,HUNTER HILL  (REP),30
+Bryan,Pembroke,Governor,,REP,BRIAN KEMP  (REP),49
+Bryan,Danielsiding,Governor,,REP,BRIAN KEMP  (REP),45
+Bryan,Ellabell,Governor,,REP,BRIAN KEMP  (REP),37
+Bryan,Black Creek,Governor,,REP,BRIAN KEMP  (REP),54
+Bryan,Ways Station,Governor,,REP,BRIAN KEMP  (REP),20
+Bryan,RH Rec Complex,Governor,,REP,BRIAN KEMP  (REP),28
+Bryan,J.F. Gregory Park,Governor,,REP,BRIAN KEMP  (REP),51
+Bryan,Keller,Governor,,REP,BRIAN KEMP  (REP),64
+Bryan,HWY 144 East,Governor,,REP,BRIAN KEMP  (REP),64
+Bryan,Public Safety Complex,Governor,,REP,BRIAN KEMP  (REP),21
+Bryan,Pembroke,Governor,,REP,CLAY TIPPINS  (REP),34
+Bryan,Danielsiding,Governor,,REP,CLAY TIPPINS  (REP),25
+Bryan,Ellabell,Governor,,REP,CLAY TIPPINS  (REP),17
+Bryan,Black Creek,Governor,,REP,CLAY TIPPINS  (REP),26
+Bryan,Ways Station,Governor,,REP,CLAY TIPPINS  (REP),10
+Bryan,RH Rec Complex,Governor,,REP,CLAY TIPPINS  (REP),14
+Bryan,J.F. Gregory Park,Governor,,REP,CLAY TIPPINS  (REP),64
+Bryan,Keller,Governor,,REP,CLAY TIPPINS  (REP),56
+Bryan,HWY 144 East,Governor,,REP,CLAY TIPPINS  (REP),29
+Bryan,Public Safety Complex,Governor,,REP,CLAY TIPPINS  (REP),10
+Bryan,Pembroke,Governor,,REP,MICHAEL WILLIAMS  (REP),12
+Bryan,Danielsiding,Governor,,REP,MICHAEL WILLIAMS  (REP),9
+Bryan,Ellabell,Governor,,REP,MICHAEL WILLIAMS  (REP),14
+Bryan,Black Creek,Governor,,REP,MICHAEL WILLIAMS  (REP),11
+Bryan,Ways Station,Governor,,REP,MICHAEL WILLIAMS  (REP),9
+Bryan,RH Rec Complex,Governor,,REP,MICHAEL WILLIAMS  (REP),4
+Bryan,J.F. Gregory Park,Governor,,REP,MICHAEL WILLIAMS  (REP),24
+Bryan,Keller,Governor,,REP,MICHAEL WILLIAMS  (REP),16
+Bryan,HWY 144 East,Governor,,REP,MICHAEL WILLIAMS  (REP),30
+Bryan,Public Safety Complex,Governor,,REP,MICHAEL WILLIAMS  (REP),7
+Bryan,Pembroke,Governor,,DEM,STACEY ABRAMS  (DEM),94
+Bryan,Danielsiding,Governor,,DEM,STACEY ABRAMS  (DEM),59
+Bryan,Ellabell,Governor,,DEM,STACEY ABRAMS  (DEM),35
+Bryan,Black Creek,Governor,,DEM,STACEY ABRAMS  (DEM),48
+Bryan,Ways Station,Governor,,DEM,STACEY ABRAMS  (DEM),52
+Bryan,RH Rec Complex,Governor,,DEM,STACEY ABRAMS  (DEM),92
+Bryan,J.F. Gregory Park,Governor,,DEM,STACEY ABRAMS  (DEM),84
+Bryan,Keller,Governor,,DEM,STACEY ABRAMS  (DEM),131
+Bryan,HWY 144 East,Governor,,DEM,STACEY ABRAMS  (DEM),105
+Bryan,Public Safety Complex,Governor,,DEM,STACEY ABRAMS  (DEM),63
+Bryan,Pembroke,Governor,,DEM,STACEY EVANS  (DEM),29
+Bryan,Danielsiding,Governor,,DEM,STACEY EVANS  (DEM),35
+Bryan,Ellabell,Governor,,DEM,STACEY EVANS  (DEM),23
+Bryan,Black Creek,Governor,,DEM,STACEY EVANS  (DEM),19
+Bryan,Ways Station,Governor,,DEM,STACEY EVANS  (DEM),26
+Bryan,RH Rec Complex,Governor,,DEM,STACEY EVANS  (DEM),34
+Bryan,J.F. Gregory Park,Governor,,DEM,STACEY EVANS  (DEM),52
+Bryan,Keller,Governor,,DEM,STACEY EVANS  (DEM),46
+Bryan,HWY 144 East,Governor,,DEM,STACEY EVANS  (DEM),51
+Bryan,Public Safety Complex,Governor,,DEM,STACEY EVANS  (DEM),27
+Bryan,Pembroke,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),57
+Bryan,Danielsiding,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),42
+Bryan,Ellabell,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),40
+Bryan,Black Creek,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),49
+Bryan,Ways Station,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),27
+Bryan,RH Rec Complex,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),32
+Bryan,J.F. Gregory Park,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),94
+Bryan,Keller,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),83
+Bryan,HWY 144 East,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),61
+Bryan,Public Safety Complex,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),24
+Bryan,Pembroke,Lieutenant Governor,,REP,RICK JEFFARES  (REP),58
+Bryan,Danielsiding,Lieutenant Governor,,REP,RICK JEFFARES  (REP),53
+Bryan,Ellabell,Lieutenant Governor,,REP,RICK JEFFARES  (REP),33
+Bryan,Black Creek,Lieutenant Governor,,REP,RICK JEFFARES  (REP),50
+Bryan,Ways Station,Lieutenant Governor,,REP,RICK JEFFARES  (REP),24
+Bryan,RH Rec Complex,Lieutenant Governor,,REP,RICK JEFFARES  (REP),24
+Bryan,J.F. Gregory Park,Lieutenant Governor,,REP,RICK JEFFARES  (REP),101
+Bryan,Keller,Lieutenant Governor,,REP,RICK JEFFARES  (REP),92
+Bryan,HWY 144 East,Lieutenant Governor,,REP,RICK JEFFARES  (REP),73
+Bryan,Public Safety Complex,Lieutenant Governor,,REP,RICK JEFFARES  (REP),24
+Bryan,Pembroke,Lieutenant Governor,,REP,DAVID SHAFER  (REP),100
+Bryan,Danielsiding,Lieutenant Governor,,REP,DAVID SHAFER  (REP),98
+Bryan,Ellabell,Lieutenant Governor,,REP,DAVID SHAFER  (REP),89
+Bryan,Black Creek,Lieutenant Governor,,REP,DAVID SHAFER  (REP),93
+Bryan,Ways Station,Lieutenant Governor,,REP,DAVID SHAFER  (REP),40
+Bryan,RH Rec Complex,Lieutenant Governor,,REP,DAVID SHAFER  (REP),52
+Bryan,J.F. Gregory Park,Lieutenant Governor,,REP,DAVID SHAFER  (REP),146
+Bryan,Keller,Lieutenant Governor,,REP,DAVID SHAFER  (REP),142
+Bryan,HWY 144 East,Lieutenant Governor,,REP,DAVID SHAFER  (REP),108
+Bryan,Public Safety Complex,Lieutenant Governor,,REP,DAVID SHAFER  (REP),52
+Bryan,Pembroke,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),65
+Bryan,Danielsiding,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),46
+Bryan,Ellabell,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),32
+Bryan,Black Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),25
+Bryan,Ways Station,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),40
+Bryan,RH Rec Complex,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),68
+Bryan,J.F. Gregory Park,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),89
+Bryan,Keller,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),99
+Bryan,HWY 144 East,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),79
+Bryan,Public Safety Complex,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),48
+Bryan,Pembroke,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),37
+Bryan,Danielsiding,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),40
+Bryan,Ellabell,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),21
+Bryan,Black Creek,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),31
+Bryan,Ways Station,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),34
+Bryan,RH Rec Complex,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),50
+Bryan,J.F. Gregory Park,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),36
+Bryan,Keller,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),61
+Bryan,HWY 144 East,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),60
+Bryan,Public Safety Complex,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),35
+Bryan,Pembroke,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),66
+Bryan,Danielsiding,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),82
+Bryan,Ellabell,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),61
+Bryan,Black Creek,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),50
+Bryan,Ways Station,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),39
+Bryan,RH Rec Complex,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),43
+Bryan,J.F. Gregory Park,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),117
+Bryan,Keller,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),98
+Bryan,HWY 144 East,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),85
+Bryan,Public Safety Complex,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),36
+Bryan,Pembroke,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),49
+Bryan,Danielsiding,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),33
+Bryan,Ellabell,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),41
+Bryan,Black Creek,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),47
+Bryan,Ways Station,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),21
+Bryan,RH Rec Complex,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),29
+Bryan,J.F. Gregory Park,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),62
+Bryan,Keller,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),70
+Bryan,HWY 144 East,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),48
+Bryan,Public Safety Complex,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),17
+Bryan,Pembroke,Secretary Of State,,REP,JOSH MCKOON  (REP),47
+Bryan,Danielsiding,Secretary Of State,,REP,JOSH MCKOON  (REP),42
+Bryan,Ellabell,Secretary Of State,,REP,JOSH MCKOON  (REP),35
+Bryan,Black Creek,Secretary Of State,,REP,JOSH MCKOON  (REP),55
+Bryan,Ways Station,Secretary Of State,,REP,JOSH MCKOON  (REP),19
+Bryan,RH Rec Complex,Secretary Of State,,REP,JOSH MCKOON  (REP),27
+Bryan,J.F. Gregory Park,Secretary Of State,,REP,JOSH MCKOON  (REP),76
+Bryan,Keller,Secretary Of State,,REP,JOSH MCKOON  (REP),84
+Bryan,HWY 144 East,Secretary Of State,,REP,JOSH MCKOON  (REP),60
+Bryan,Public Safety Complex,Secretary Of State,,REP,JOSH MCKOON  (REP),22
+Bryan,Pembroke,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),39
+Bryan,Danielsiding,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),30
+Bryan,Ellabell,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),22
+Bryan,Black Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),30
+Bryan,Ways Station,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),9
+Bryan,RH Rec Complex,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),16
+Bryan,J.F. Gregory Park,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),69
+Bryan,Keller,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),56
+Bryan,HWY 144 East,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),39
+Bryan,Public Safety Complex,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),21
+Bryan,Pembroke,Secretary Of State,,DEM,JOHN BARROW  (DEM),84
+Bryan,Danielsiding,Secretary Of State,,DEM,JOHN BARROW  (DEM),56
+Bryan,Ellabell,Secretary Of State,,DEM,JOHN BARROW  (DEM),42
+Bryan,Black Creek,Secretary Of State,,DEM,JOHN BARROW  (DEM),39
+Bryan,Ways Station,Secretary Of State,,DEM,JOHN BARROW  (DEM),40
+Bryan,RH Rec Complex,Secretary Of State,,DEM,JOHN BARROW  (DEM),67
+Bryan,J.F. Gregory Park,Secretary Of State,,DEM,JOHN BARROW  (DEM),84
+Bryan,Keller,Secretary Of State,,DEM,JOHN BARROW  (DEM),91
+Bryan,HWY 144 East,Secretary Of State,,DEM,JOHN BARROW  (DEM),85
+Bryan,Public Safety Complex,Secretary Of State,,DEM,JOHN BARROW  (DEM),44
+Bryan,Pembroke,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),18
+Bryan,Danielsiding,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),21
+Bryan,Ellabell,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),10
+Bryan,Black Creek,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),14
+Bryan,Ways Station,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),20
+Bryan,RH Rec Complex,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),29
+Bryan,J.F. Gregory Park,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),30
+Bryan,Keller,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),44
+Bryan,HWY 144 East,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),42
+Bryan,Public Safety Complex,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),18
+Bryan,Pembroke,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",12
+Bryan,Danielsiding,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",13
+Bryan,Ellabell,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",6
+Bryan,Black Creek,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",7
+Bryan,Ways Station,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",13
+Bryan,RH Rec Complex,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",26
+Bryan,J.F. Gregory Park,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",17
+Bryan,Keller,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",32
+Bryan,HWY 144 East,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",26
+Bryan,Public Safety Complex,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",21
+Bryan,Pembroke,Attorney General,,REP,CHRIS CARR (I) (REP),187
+Bryan,Danielsiding,Attorney General,,REP,CHRIS CARR (I) (REP),174
+Bryan,Ellabell,Attorney General,,REP,CHRIS CARR (I) (REP),147
+Bryan,Black Creek,Attorney General,,REP,CHRIS CARR (I) (REP),163
+Bryan,Ways Station,Attorney General,,REP,CHRIS CARR (I) (REP),84
+Bryan,RH Rec Complex,Attorney General,,REP,CHRIS CARR (I) (REP),114
+Bryan,J.F. Gregory Park,Attorney General,,REP,CHRIS CARR (I) (REP),319
+Bryan,Keller,Attorney General,,REP,CHRIS CARR (I) (REP),299
+Bryan,HWY 144 East,Attorney General,,REP,CHRIS CARR (I) (REP),220
+Bryan,Public Safety Complex,Attorney General,,REP,CHRIS CARR (I) (REP),90
+Bryan,Pembroke,Attorney General,,DEM,CHARLIE BAILEY  (DEM),85
+Bryan,Danielsiding,Attorney General,,DEM,CHARLIE BAILEY  (DEM),75
+Bryan,Ellabell,Attorney General,,DEM,CHARLIE BAILEY  (DEM),46
+Bryan,Black Creek,Attorney General,,DEM,CHARLIE BAILEY  (DEM),46
+Bryan,Ways Station,Attorney General,,DEM,CHARLIE BAILEY  (DEM),67
+Bryan,RH Rec Complex,Attorney General,,DEM,CHARLIE BAILEY  (DEM),106
+Bryan,J.F. Gregory Park,Attorney General,,DEM,CHARLIE BAILEY  (DEM),110
+Bryan,Keller,Attorney General,,DEM,CHARLIE BAILEY  (DEM),147
+Bryan,HWY 144 East,Attorney General,,DEM,CHARLIE BAILEY  (DEM),133
+Bryan,Public Safety Complex,Attorney General,,DEM,CHARLIE BAILEY  (DEM),71
+Bryan,Pembroke,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),191
+Bryan,Danielsiding,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),179
+Bryan,Ellabell,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),152
+Bryan,Black Creek,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),166
+Bryan,Ways Station,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),84
+Bryan,RH Rec Complex,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),113
+Bryan,J.F. Gregory Park,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),319
+Bryan,Keller,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),300
+Bryan,HWY 144 East,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),229
+Bryan,Public Safety Complex,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),88
+Bryan,Pembroke,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),82
+Bryan,Danielsiding,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),76
+Bryan,Ellabell,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),45
+Bryan,Black Creek,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),49
+Bryan,Ways Station,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),68
+Bryan,RH Rec Complex,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),107
+Bryan,J.F. Gregory Park,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),105
+Bryan,Keller,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),149
+Bryan,HWY 144 East,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),131
+Bryan,Public Safety Complex,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),73
+Bryan,Pembroke,Commissioner Of Insurance,,REP,JIM BECK  (REP),153
+Bryan,Danielsiding,Commissioner Of Insurance,,REP,JIM BECK  (REP),102
+Bryan,Ellabell,Commissioner Of Insurance,,REP,JIM BECK  (REP),115
+Bryan,Black Creek,Commissioner Of Insurance,,REP,JIM BECK  (REP),124
+Bryan,Ways Station,Commissioner Of Insurance,,REP,JIM BECK  (REP),48
+Bryan,RH Rec Complex,Commissioner Of Insurance,,REP,JIM BECK  (REP),70
+Bryan,J.F. Gregory Park,Commissioner Of Insurance,,REP,JIM BECK  (REP),194
+Bryan,Keller,Commissioner Of Insurance,,REP,JIM BECK  (REP),178
+Bryan,HWY 144 East,Commissioner Of Insurance,,REP,JIM BECK  (REP),137
+Bryan,Public Safety Complex,Commissioner Of Insurance,,REP,JIM BECK  (REP),61
+Bryan,Pembroke,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),15
+Bryan,Danielsiding,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),28
+Bryan,Ellabell,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),16
+Bryan,Black Creek,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),22
+Bryan,Ways Station,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),22
+Bryan,RH Rec Complex,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),19
+Bryan,J.F. Gregory Park,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),67
+Bryan,Keller,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),58
+Bryan,HWY 144 East,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),40
+Bryan,Public Safety Complex,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),16
+Bryan,Pembroke,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),41
+Bryan,Danielsiding,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),61
+Bryan,Ellabell,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),32
+Bryan,Black Creek,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),39
+Bryan,Ways Station,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),21
+Bryan,RH Rec Complex,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),25
+Bryan,J.F. Gregory Park,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),70
+Bryan,Keller,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),77
+Bryan,HWY 144 East,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),49
+Bryan,Public Safety Complex,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),20
+Bryan,Pembroke,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),70
+Bryan,Danielsiding,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),48
+Bryan,Ellabell,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),28
+Bryan,Black Creek,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),42
+Bryan,Ways Station,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),43
+Bryan,RH Rec Complex,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),68
+Bryan,J.F. Gregory Park,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),59
+Bryan,Keller,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),83
+Bryan,HWY 144 East,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),90
+Bryan,Public Safety Complex,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),45
+Bryan,Pembroke,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),32
+Bryan,Danielsiding,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),30
+Bryan,Ellabell,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),25
+Bryan,Black Creek,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),16
+Bryan,Ways Station,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),26
+Bryan,RH Rec Complex,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),43
+Bryan,J.F. Gregory Park,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),54
+Bryan,Keller,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),67
+Bryan,HWY 144 East,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),39
+Bryan,Public Safety Complex,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),30
+Bryan,Pembroke,State School Superintendent,,REP,JOHN BARGE  (REP),84
+Bryan,Danielsiding,State School Superintendent,,REP,JOHN BARGE  (REP),78
+Bryan,Ellabell,State School Superintendent,,REP,JOHN BARGE  (REP),63
+Bryan,Black Creek,State School Superintendent,,REP,JOHN BARGE  (REP),87
+Bryan,Ways Station,State School Superintendent,,REP,JOHN BARGE  (REP),34
+Bryan,RH Rec Complex,State School Superintendent,,REP,JOHN BARGE  (REP),41
+Bryan,J.F. Gregory Park,State School Superintendent,,REP,JOHN BARGE  (REP),129
+Bryan,Keller,State School Superintendent,,REP,JOHN BARGE  (REP),156
+Bryan,HWY 144 East,State School Superintendent,,REP,JOHN BARGE  (REP),96
+Bryan,Public Safety Complex,State School Superintendent,,REP,JOHN BARGE  (REP),49
+Bryan,Pembroke,State School Superintendent,,REP,RICHARD WOODS (I) (REP),131
+Bryan,Danielsiding,State School Superintendent,,REP,RICHARD WOODS (I) (REP),110
+Bryan,Ellabell,State School Superintendent,,REP,RICHARD WOODS (I) (REP),106
+Bryan,Black Creek,State School Superintendent,,REP,RICHARD WOODS (I) (REP),102
+Bryan,Ways Station,State School Superintendent,,REP,RICHARD WOODS (I) (REP),60
+Bryan,RH Rec Complex,State School Superintendent,,REP,RICHARD WOODS (I) (REP),73
+Bryan,J.F. Gregory Park,State School Superintendent,,REP,RICHARD WOODS (I) (REP),218
+Bryan,Keller,State School Superintendent,,REP,RICHARD WOODS (I) (REP),170
+Bryan,HWY 144 East,State School Superintendent,,REP,RICHARD WOODS (I) (REP),144
+Bryan,Public Safety Complex,State School Superintendent,,REP,RICHARD WOODS (I) (REP),48
+Bryan,Pembroke,State School Superintendent,,DEM,SID CHAPMAN (DEM),43
+Bryan,Danielsiding,State School Superintendent,,DEM,SID CHAPMAN (DEM),31
+Bryan,Ellabell,State School Superintendent,,DEM,SID CHAPMAN (DEM),25
+Bryan,Black Creek,State School Superintendent,,DEM,SID CHAPMAN (DEM),12
+Bryan,Ways Station,State School Superintendent,,DEM,SID CHAPMAN (DEM),13
+Bryan,RH Rec Complex,State School Superintendent,,DEM,SID CHAPMAN (DEM),35
+Bryan,J.F. Gregory Park,State School Superintendent,,DEM,SID CHAPMAN (DEM),33
+Bryan,Keller,State School Superintendent,,DEM,SID CHAPMAN (DEM),42
+Bryan,HWY 144 East,State School Superintendent,,DEM,SID CHAPMAN (DEM),45
+Bryan,Public Safety Complex,State School Superintendent,,DEM,SID CHAPMAN (DEM),34
+Bryan,Pembroke,State School Superintendent,,DEM,SAM MOSTELLER (DEM),21
+Bryan,Danielsiding,State School Superintendent,,DEM,SAM MOSTELLER (DEM),13
+Bryan,Ellabell,State School Superintendent,,DEM,SAM MOSTELLER (DEM),7
+Bryan,Black Creek,State School Superintendent,,DEM,SAM MOSTELLER (DEM),12
+Bryan,Ways Station,State School Superintendent,,DEM,SAM MOSTELLER (DEM),14
+Bryan,RH Rec Complex,State School Superintendent,,DEM,SAM MOSTELLER (DEM),15
+Bryan,J.F. Gregory Park,State School Superintendent,,DEM,SAM MOSTELLER (DEM),20
+Bryan,Keller,State School Superintendent,,DEM,SAM MOSTELLER (DEM),29
+Bryan,HWY 144 East,State School Superintendent,,DEM,SAM MOSTELLER (DEM),27
+Bryan,Public Safety Complex,State School Superintendent,,DEM,SAM MOSTELLER (DEM),12
+Bryan,Pembroke,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",37
+Bryan,Danielsiding,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",41
+Bryan,Ellabell,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",21
+Bryan,Black Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",28
+Bryan,Ways Station,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",41
+Bryan,RH Rec Complex,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",58
+Bryan,J.F. Gregory Park,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",61
+Bryan,Keller,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",80
+Bryan,HWY 144 East,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",61
+Bryan,Public Safety Complex,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",32
+Bryan,Pembroke,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),196
+Bryan,Danielsiding,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),175
+Bryan,Ellabell,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),151
+Bryan,Black Creek,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),165
+Bryan,Ways Station,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),85
+Bryan,RH Rec Complex,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),113
+Bryan,J.F. Gregory Park,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),317
+Bryan,Keller,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),295
+Bryan,HWY 144 East,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),219
+Bryan,Public Safety Complex,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),90
+Bryan,Pembroke,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),45
+Bryan,Danielsiding,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),49
+Bryan,Ellabell,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),32
+Bryan,Black Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),31
+Bryan,Ways Station,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),35
+Bryan,RH Rec Complex,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),60
+Bryan,J.F. Gregory Park,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),68
+Bryan,Keller,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),90
+Bryan,HWY 144 East,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),68
+Bryan,Public Safety Complex,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),31
+Bryan,Pembroke,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),50
+Bryan,Danielsiding,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),31
+Bryan,Ellabell,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),20
+Bryan,Black Creek,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),22
+Bryan,Ways Station,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),30
+Bryan,RH Rec Complex,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),45
+Bryan,J.F. Gregory Park,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),38
+Bryan,Keller,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),49
+Bryan,HWY 144 East,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),57
+Bryan,Public Safety Complex,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),44
+Bryan,Pembroke,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),193
+Bryan,Danielsiding,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),177
+Bryan,Ellabell,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),153
+Bryan,Black Creek,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),165
+Bryan,Ways Station,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),83
+Bryan,RH Rec Complex,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),111
+Bryan,J.F. Gregory Park,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),321
+Bryan,Keller,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),297
+Bryan,HWY 144 East,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),221
+Bryan,Public Safety Complex,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),88
+Bryan,Pembroke,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),56
+Bryan,Danielsiding,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),39
+Bryan,Ellabell,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),31
+Bryan,Black Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),28
+Bryan,Ways Station,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),42
+Bryan,RH Rec Complex,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),73
+Bryan,J.F. Gregory Park,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),78
+Bryan,Keller,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),93
+Bryan,HWY 144 East,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),95
+Bryan,Public Safety Complex,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),49
+Bryan,Pembroke,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),29
+Bryan,Danielsiding,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),17
+Bryan,Ellabell,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),14
+Bryan,Black Creek,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),6
+Bryan,Ways Station,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),18
+Bryan,RH Rec Complex,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),21
+Bryan,J.F. Gregory Park,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),24
+Bryan,Keller,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),28
+Bryan,HWY 144 East,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),13
+Bryan,Public Safety Complex,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),17
+Bryan,Pembroke,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),14
+Bryan,Danielsiding,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),23
+Bryan,Ellabell,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),9
+Bryan,Black Creek,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),13
+Bryan,Ways Station,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),9
+Bryan,RH Rec Complex,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),13
+Bryan,J.F. Gregory Park,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),14
+Bryan,Keller,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),28
+Bryan,HWY 144 East,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),21
+Bryan,Public Safety Complex,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),10
+Bryan,Pembroke,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),105
+Bryan,Danielsiding,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),93
+Bryan,Ellabell,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),78
+Bryan,Black Creek,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),108
+Bryan,Ways Station,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),38
+Bryan,RH Rec Complex,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),54
+Bryan,J.F. Gregory Park,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),142
+Bryan,Keller,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),148
+Bryan,HWY 144 East,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),114
+Bryan,Public Safety Complex,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),52
+Bryan,Pembroke,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),114
+Bryan,Danielsiding,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),96
+Bryan,Ellabell,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),86
+Bryan,Black Creek,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),81
+Bryan,Ways Station,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),53
+Bryan,RH Rec Complex,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),62
+Bryan,J.F. Gregory Park,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),198
+Bryan,Keller,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),168
+Bryan,HWY 144 East,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),127
+Bryan,Public Safety Complex,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),45
+Bryan,Pembroke,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),62
+Bryan,Danielsiding,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),63
+Bryan,Ellabell,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),42
+Bryan,Black Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),40
+Bryan,Ways Station,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),54
+Bryan,RH Rec Complex,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),86
+Bryan,J.F. Gregory Park,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),81
+Bryan,Keller,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),118
+Bryan,HWY 144 East,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),110
+Bryan,Public Safety Complex,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),59
+Bryan,Pembroke,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),36
+Bryan,Danielsiding,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),20
+Bryan,Ellabell,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),11
+Bryan,Black Creek,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),8
+Bryan,Ways Station,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),15
+Bryan,RH Rec Complex,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),22
+Bryan,J.F. Gregory Park,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),29
+Bryan,Keller,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),31
+Bryan,HWY 144 East,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),20
+Bryan,Public Safety Complex,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),18
+Bryan,Pembroke,"U.S. Representative, District 1",1,REP,"EARL L. ""BUDDY"" CARTER (I) (REP)",211
+Bryan,Danielsiding,"U.S. Representative, District 1",1,REP,"EARL L. ""BUDDY"" CARTER (I) (REP)",191
+Bryan,Ellabell,"U.S. Representative, District 1",1,REP,"EARL L. ""BUDDY"" CARTER (I) (REP)",161
+Bryan,Black Creek,"U.S. Representative, District 1",1,REP,"EARL L. ""BUDDY"" CARTER (I) (REP)",179
+Bryan,Ways Station,"U.S. Representative, District 1",1,REP,"EARL L. ""BUDDY"" CARTER (I) (REP)",90
+Bryan,RH Rec Complex,"U.S. Representative, District 1",1,REP,"EARL L. ""BUDDY"" CARTER (I) (REP)",119
+Bryan,J.F. Gregory Park,"U.S. Representative, District 1",1,REP,"EARL L. ""BUDDY"" CARTER (I) (REP)",350
+Bryan,Keller,"U.S. Representative, District 1",1,REP,"EARL L. ""BUDDY"" CARTER (I) (REP)",323
+Bryan,HWY 144 East,"U.S. Representative, District 1",1,REP,"EARL L. ""BUDDY"" CARTER (I) (REP)",252
+Bryan,Public Safety Complex,"U.S. Representative, District 1",1,REP,"EARL L. ""BUDDY"" CARTER (I) (REP)",93
+Bryan,Pembroke,"U.S. Representative, District 1",1,DEM,LISA M. RING (DEM),69
+Bryan,Danielsiding,"U.S. Representative, District 1",1,DEM,LISA M. RING (DEM),74
+Bryan,Ellabell,"U.S. Representative, District 1",1,DEM,LISA M. RING (DEM),40
+Bryan,Black Creek,"U.S. Representative, District 1",1,DEM,LISA M. RING (DEM),30
+Bryan,Ways Station,"U.S. Representative, District 1",1,DEM,LISA M. RING (DEM),54
+Bryan,RH Rec Complex,"U.S. Representative, District 1",1,DEM,LISA M. RING (DEM),91
+Bryan,J.F. Gregory Park,"U.S. Representative, District 1",1,DEM,LISA M. RING (DEM),98
+Bryan,Keller,"U.S. Representative, District 1",1,DEM,LISA M. RING (DEM),131
+Bryan,HWY 144 East,"U.S. Representative, District 1",1,DEM,LISA M. RING (DEM),113
+Bryan,Public Safety Complex,"U.S. Representative, District 1",1,DEM,LISA M. RING (DEM),69
+Bryan,Pembroke,"U.S. Representative, District 1",1,DEM,BARBARA A. SEIDMAN (DEM),40
+Bryan,Danielsiding,"U.S. Representative, District 1",1,DEM,BARBARA A. SEIDMAN (DEM),16
+Bryan,Ellabell,"U.S. Representative, District 1",1,DEM,BARBARA A. SEIDMAN (DEM),14
+Bryan,Black Creek,"U.S. Representative, District 1",1,DEM,BARBARA A. SEIDMAN (DEM),26
+Bryan,Ways Station,"U.S. Representative, District 1",1,DEM,BARBARA A. SEIDMAN (DEM),18
+Bryan,RH Rec Complex,"U.S. Representative, District 1",1,DEM,BARBARA A. SEIDMAN (DEM),25
+Bryan,J.F. Gregory Park,"U.S. Representative, District 1",1,DEM,BARBARA A. SEIDMAN (DEM),31
+Bryan,Keller,"U.S. Representative, District 1",1,DEM,BARBARA A. SEIDMAN (DEM),36
+Bryan,HWY 144 East,"U.S. Representative, District 1",1,DEM,BARBARA A. SEIDMAN (DEM),25
+Bryan,Public Safety Complex,"U.S. Representative, District 1",1,DEM,BARBARA A. SEIDMAN (DEM),17
+Bryan,Pembroke,"State Senator, District 1",1,REP,BEN WATSON (I) (REP),188
+Bryan,Danielsiding,"State Senator, District 1",1,REP,BEN WATSON (I) (REP),179
+Bryan,Ellabell,"State Senator, District 1",1,REP,BEN WATSON (I) (REP),150
+Bryan,Black Creek,"State Senator, District 1",1,REP,BEN WATSON (I) (REP),170
+Bryan,Ways Station,"State Senator, District 1",1,REP,BEN WATSON (I) (REP),85
+Bryan,RH Rec Complex,"State Senator, District 1",1,REP,BEN WATSON (I) (REP),113
+Bryan,J.F. Gregory Park,"State Senator, District 1",1,REP,BEN WATSON (I) (REP),332
+Bryan,Keller,"State Senator, District 1",1,REP,BEN WATSON (I) (REP),308
+Bryan,HWY 144 East,"State Senator, District 1",1,REP,BEN WATSON (I) (REP),231
+Bryan,Public Safety Complex,"State Senator, District 1",1,REP,BEN WATSON (I) (REP),88
+Bryan,Pembroke,"State Senator, District 1",1,DEM,SANDRA WORKMAN  (DEM),92
+Bryan,Danielsiding,"State Senator, District 1",1,DEM,SANDRA WORKMAN  (DEM),74
+Bryan,Ellabell,"State Senator, District 1",1,DEM,SANDRA WORKMAN  (DEM),48
+Bryan,Black Creek,"State Senator, District 1",1,DEM,SANDRA WORKMAN  (DEM),48
+Bryan,Ways Station,"State Senator, District 1",1,DEM,SANDRA WORKMAN  (DEM),66
+Bryan,RH Rec Complex,"State Senator, District 1",1,DEM,SANDRA WORKMAN  (DEM),106
+Bryan,J.F. Gregory Park,"State Senator, District 1",1,DEM,SANDRA WORKMAN  (DEM),109
+Bryan,Keller,"State Senator, District 1",1,DEM,SANDRA WORKMAN  (DEM),148
+Bryan,HWY 144 East,"State Senator, District 1",1,DEM,SANDRA WORKMAN  (DEM),133
+Bryan,Public Safety Complex,"State Senator, District 1",1,DEM,SANDRA WORKMAN  (DEM),70
+Bryan,Pembroke,"State Representative, District 160",160,REP,ROBERT BUSBEE  (REP),46
+Bryan,Ellabell,"State Representative, District 160",160,REP,ROBERT BUSBEE  (REP),53
+Bryan,Black Creek,"State Representative, District 160",160,REP,ROBERT BUSBEE  (REP),73
+Bryan,Pembroke,"State Representative, District 160",160,REP,JAN TANKERSLEY (I) (REP),195
+Bryan,Ellabell,"State Representative, District 160",160,REP,JAN TANKERSLEY (I) (REP),119
+Bryan,Black Creek,"State Representative, District 160",160,REP,JAN TANKERSLEY (I) (REP),123
+Bryan,Danielsiding,"State Representative, District 164",164,REP,RON STEPHENS (I) (REP),85
+Bryan,Ways Station,"State Representative, District 164",164,REP,RON STEPHENS (I) (REP),86
+Bryan,RH Rec Complex,"State Representative, District 164",164,REP,RON STEPHENS (I) (REP),112
+Bryan,J.F. Gregory Park,"State Representative, District 164",164,REP,RON STEPHENS (I) (REP),274
+Bryan,HWY 144 East,"State Representative, District 164",164,REP,RON STEPHENS (I) (REP),45
+Bryan,Public Safety Complex,"State Representative, District 164",164,REP,RON STEPHENS (I) (REP),89
+Bryan,Danielsiding,"State Representative, District 164",164,DEM,"ALICIA ""AER"" SCOTT  (DEM)",39
+Bryan,Ways Station,"State Representative, District 164",164,DEM,"ALICIA ""AER"" SCOTT  (DEM)",64
+Bryan,RH Rec Complex,"State Representative, District 164",164,DEM,"ALICIA ""AER"" SCOTT  (DEM)",104
+Bryan,J.F. Gregory Park,"State Representative, District 164",164,DEM,"ALICIA ""AER"" SCOTT  (DEM)",87
+Bryan,HWY 144 East,"State Representative, District 164",164,DEM,"ALICIA ""AER"" SCOTT  (DEM)",59
+Bryan,Public Safety Complex,"State Representative, District 164",164,DEM,"ALICIA ""AER"" SCOTT  (DEM)",67
+Bryan,Danielsiding,"State Representative, District 166",166,REP,JESSE PETREA (I) (REP),98
+Bryan,J.F. Gregory Park,"State Representative, District 166",166,REP,JESSE PETREA (I) (REP),66
+Bryan,Keller,"State Representative, District 166",166,REP,JESSE PETREA (I) (REP),307
+Bryan,HWY 144 East,"State Representative, District 166",166,REP,JESSE PETREA (I) (REP),185
+Bryan,Pembroke,"District Attorney, Atlantic Circuit", Atlantic Circuit - DEM,DEM,TOM DURDEN (I) (DEM),195
+Bryan,Danielsiding,"District Attorney, Atlantic Circuit", Atlantic Circuit - DEM,DEM,TOM DURDEN (I) (DEM),177
+Bryan,Ellabell,"District Attorney, Atlantic Circuit", Atlantic Circuit - DEM,DEM,TOM DURDEN (I) (DEM),148
+Bryan,Black Creek,"District Attorney, Atlantic Circuit", Atlantic Circuit - DEM,DEM,TOM DURDEN (I) (DEM),171
+Bryan,Ways Station,"District Attorney, Atlantic Circuit", Atlantic Circuit - DEM,DEM,TOM DURDEN (I) (DEM),89
+Bryan,RH Rec Complex,"District Attorney, Atlantic Circuit", Atlantic Circuit - DEM,DEM,TOM DURDEN (I) (DEM),112
+Bryan,J.F. Gregory Park,"District Attorney, Atlantic Circuit", Atlantic Circuit - DEM,DEM,TOM DURDEN (I) (DEM),319
+Bryan,Keller,"District Attorney, Atlantic Circuit", Atlantic Circuit - DEM,DEM,TOM DURDEN (I) (DEM),303
+Bryan,HWY 144 East,"District Attorney, Atlantic Circuit", Atlantic Circuit - DEM,DEM,TOM DURDEN (I) (DEM),229
+Bryan,Public Safety Complex,"District Attorney, Atlantic Circuit", Atlantic Circuit - DEM,DEM,TOM DURDEN (I) (DEM),92
+Bryan,Black Creek,"CC, D2", D2 - R,REP,W. PRICE (I),172
+Bryan,Ways Station,"CC, D2", D2 - R,REP,W. PRICE (I),86
+Bryan,Keller,"CC, D4", D4 - R,REP,B. BROOKSHIRE (I),315
+Bryan,HWY 144 East,"CC, D4", D4 - R,REP,B. BROOKSHIRE (I),235
+Bryan,Danielsiding,"CC, D5", D5 - R,REP,G. WALLACE,183
+Bryan,Public Safety Complex,"CC, D5", D5 - R,REP,G. WALLACE,97
+Bryan,Pembroke,BOE LRG,,REP,A. MURPHY,190
+Bryan,Danielsiding,BOE LRG,,REP,A. MURPHY,173
+Bryan,Ellabell,BOE LRG,,REP,A. MURPHY,150
+Bryan,Black Creek,BOE LRG,,REP,A. MURPHY,163
+Bryan,Ways Station,BOE LRG,,REP,A. MURPHY,86
+Bryan,RH Rec Complex,BOE LRG,,REP,A. MURPHY,115
+Bryan,J.F. Gregory Park,BOE LRG,,REP,A. MURPHY,323
+Bryan,Keller,BOE LRG,,REP,A. MURPHY,298
+Bryan,HWY 144 East,BOE LRG,,REP,A. MURPHY,221
+Bryan,Public Safety Complex,BOE LRG,,REP,A. MURPHY,91
+Bryan,Pembroke,"BOE, D1 P3", D1 P3 - R,REP,P. GUNTER,197
+Bryan,Ellabell,"BOE, D1 P3", D1 P3 - R,REP,P. GUNTER,152
+Bryan,RH Rec Complex,"BOE, D3 P5", D3 P5 - Special,,D. SMITH,185
+Bryan,J.F. Gregory Park,"BOE, D3 P5", D3 P5 - Special,,D. SMITH,420
+Bryan,Keller,"BOE, D4 P7", D4 P7 - R,REP,M. SMITH (I) ,311
+Bryan,HWY 144 East,"BOE, D4 P7", D4 P7 - R,REP,M. SMITH (I) ,225
+Bryan,Danielsiding,"BOE, D5 P6", D5 P6 - R,REP,D. SCHWARTZ (I),177
+Bryan,Public Safety Complex,"BOE, D5 P6", D5 P6 - R,REP,D. SCHWARTZ (I),92
+Bryan,Pembroke,Democratic Party Question 1,,DEM,YES,81
+Bryan,Danielsiding,Democratic Party Question 1,,DEM,YES,75
+Bryan,Ellabell,Democratic Party Question 1,,DEM,YES,46
+Bryan,Black Creek,Democratic Party Question 1,,DEM,YES,41
+Bryan,Ways Station,Democratic Party Question 1,,DEM,YES,59
+Bryan,RH Rec Complex,Democratic Party Question 1,,DEM,YES,93
+Bryan,J.F. Gregory Park,Democratic Party Question 1,,DEM,YES,120
+Bryan,Keller,Democratic Party Question 1,,DEM,YES,139
+Bryan,HWY 144 East,Democratic Party Question 1,,DEM,YES,129
+Bryan,Public Safety Complex,Democratic Party Question 1,,DEM,YES,68
+Bryan,Pembroke,Democratic Party Question 1,,DEM,NO,26
+Bryan,Danielsiding,Democratic Party Question 1,,DEM,NO,14
+Bryan,Ellabell,Democratic Party Question 1,,DEM,NO,10
+Bryan,Black Creek,Democratic Party Question 1,,DEM,NO,18
+Bryan,Ways Station,Democratic Party Question 1,,DEM,NO,13
+Bryan,RH Rec Complex,Democratic Party Question 1,,DEM,NO,25
+Bryan,J.F. Gregory Park,Democratic Party Question 1,,DEM,NO,14
+Bryan,Keller,Democratic Party Question 1,,DEM,NO,30
+Bryan,HWY 144 East,Democratic Party Question 1,,DEM,NO,23
+Bryan,Public Safety Complex,Democratic Party Question 1,,DEM,NO,18
+Bryan,Pembroke,Democratic Party Question 2,,DEM,YES,107
+Bryan,Danielsiding,Democratic Party Question 2,,DEM,YES,88
+Bryan,Ellabell,Democratic Party Question 2,,DEM,YES,52
+Bryan,Black Creek,Democratic Party Question 2,,DEM,YES,59
+Bryan,Ways Station,Democratic Party Question 2,,DEM,YES,69
+Bryan,RH Rec Complex,Democratic Party Question 2,,DEM,YES,114
+Bryan,J.F. Gregory Park,Democratic Party Question 2,,DEM,YES,122
+Bryan,Keller,Democratic Party Question 2,,DEM,YES,165
+Bryan,HWY 144 East,Democratic Party Question 2,,DEM,YES,144
+Bryan,Public Safety Complex,Democratic Party Question 2,,DEM,YES,83
+Bryan,Pembroke,Democratic Party Question 2,,DEM,NO,10
+Bryan,Danielsiding,Democratic Party Question 2,,DEM,NO,4
+Bryan,Ellabell,Democratic Party Question 2,,DEM,NO,6
+Bryan,Black Creek,Democratic Party Question 2,,DEM,NO,4
+Bryan,Ways Station,Democratic Party Question 2,,DEM,NO,5
+Bryan,RH Rec Complex,Democratic Party Question 2,,DEM,NO,9
+Bryan,J.F. Gregory Park,Democratic Party Question 2,,DEM,NO,14
+Bryan,Keller,Democratic Party Question 2,,DEM,NO,11
+Bryan,HWY 144 East,Democratic Party Question 2,,DEM,NO,12
+Bryan,Public Safety Complex,Democratic Party Question 2,,DEM,NO,6
+Bryan,Pembroke,Democratic Party Question 3, non-partisan commission?,DEM,YES,81
+Bryan,Danielsiding,Democratic Party Question 3, non-partisan commission?,DEM,YES,72
+Bryan,Ellabell,Democratic Party Question 3, non-partisan commission?,DEM,YES,40
+Bryan,Black Creek,Democratic Party Question 3, non-partisan commission?,DEM,YES,42
+Bryan,Ways Station,Democratic Party Question 3, non-partisan commission?,DEM,YES,54
+Bryan,RH Rec Complex,Democratic Party Question 3, non-partisan commission?,DEM,YES,86
+Bryan,J.F. Gregory Park,Democratic Party Question 3, non-partisan commission?,DEM,YES,112
+Bryan,Keller,Democratic Party Question 3, non-partisan commission?,DEM,YES,140
+Bryan,HWY 144 East,Democratic Party Question 3, non-partisan commission?,DEM,YES,118
+Bryan,Public Safety Complex,Democratic Party Question 3, non-partisan commission?,DEM,YES,68
+Bryan,Pembroke,Democratic Party Question 3, non-partisan commission?,DEM,NO,32
+Bryan,Danielsiding,Democratic Party Question 3, non-partisan commission?,DEM,NO,17
+Bryan,Ellabell,Democratic Party Question 3, non-partisan commission?,DEM,NO,17
+Bryan,Black Creek,Democratic Party Question 3, non-partisan commission?,DEM,NO,15
+Bryan,Ways Station,Democratic Party Question 3, non-partisan commission?,DEM,NO,20
+Bryan,RH Rec Complex,Democratic Party Question 3, non-partisan commission?,DEM,NO,33
+Bryan,J.F. Gregory Park,Democratic Party Question 3, non-partisan commission?,DEM,NO,24
+Bryan,Keller,Democratic Party Question 3, non-partisan commission?,DEM,NO,34
+Bryan,HWY 144 East,Democratic Party Question 3, non-partisan commission?,DEM,NO,38
+Bryan,Public Safety Complex,Democratic Party Question 3, non-partisan commission?,DEM,NO,19
+Bryan,Pembroke,Democratic Party Question 4, reduce carbon emissions,DEM,YES,85
+Bryan,Danielsiding,Democratic Party Question 4, reduce carbon emissions,DEM,YES,78
+Bryan,Ellabell,Democratic Party Question 4, reduce carbon emissions,DEM,YES,45
+Bryan,Black Creek,Democratic Party Question 4, reduce carbon emissions,DEM,YES,41
+Bryan,Ways Station,Democratic Party Question 4, reduce carbon emissions,DEM,YES,64
+Bryan,RH Rec Complex,Democratic Party Question 4, reduce carbon emissions,DEM,YES,97
+Bryan,J.F. Gregory Park,Democratic Party Question 4, reduce carbon emissions,DEM,YES,115
+Bryan,Keller,Democratic Party Question 4, reduce carbon emissions,DEM,YES,144
+Bryan,HWY 144 East,Democratic Party Question 4, reduce carbon emissions,DEM,YES,131
+Bryan,Public Safety Complex,Democratic Party Question 4, reduce carbon emissions,DEM,YES,70
+Bryan,Pembroke,Democratic Party Question 4, reduce carbon emissions,DEM,NO,30
+Bryan,Danielsiding,Democratic Party Question 4, reduce carbon emissions,DEM,NO,15
+Bryan,Ellabell,Democratic Party Question 4, reduce carbon emissions,DEM,NO,12
+Bryan,Black Creek,Democratic Party Question 4, reduce carbon emissions,DEM,NO,18
+Bryan,Ways Station,Democratic Party Question 4, reduce carbon emissions,DEM,NO,11
+Bryan,RH Rec Complex,Democratic Party Question 4, reduce carbon emissions,DEM,NO,24
+Bryan,J.F. Gregory Park,Democratic Party Question 4, reduce carbon emissions,DEM,NO,20
+Bryan,Keller,Democratic Party Question 4, reduce carbon emissions,DEM,NO,30
+Bryan,HWY 144 East,Democratic Party Question 4, reduce carbon emissions,DEM,NO,25
+Bryan,Public Safety Complex,Democratic Party Question 4, reduce carbon emissions,DEM,NO,19
+Bryan,Pembroke,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,275
+Bryan,Danielsiding,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,238
+Bryan,Ellabell,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,201
+Bryan,Black Creek,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,213
+Bryan,Ways Station,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,140
+Bryan,RH Rec Complex,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,204
+Bryan,J.F. Gregory Park,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,416
+Bryan,Keller,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,431
+Bryan,HWY 144 East,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,332
+Bryan,Public Safety Complex,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,160
+Bryan,Pembroke,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,282
+Bryan,Danielsiding,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,235
+Bryan,Ellabell,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,205
+Bryan,Black Creek,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,209
+Bryan,Ways Station,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,137
+Bryan,RH Rec Complex,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,202
+Bryan,J.F. Gregory Park,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,408
+Bryan,Keller,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,429
+Bryan,HWY 144 East,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,327
+Bryan,Public Safety Complex,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,156
+Bryan,Pembroke,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,284
+Bryan,Danielsiding,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,235
+Bryan,Ellabell,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,196
+Bryan,Black Creek,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,212
+Bryan,Ways Station,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,141
+Bryan,RH Rec Complex,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,206
+Bryan,J.F. Gregory Park,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,412
+Bryan,Keller,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,427
+Bryan,HWY 144 East,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,329
+Bryan,Public Safety Complex,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,153
+Bryan,Pembroke,Supreme Court Justice, Melton,,HAROLD D. MELTON ,281
+Bryan,Danielsiding,Supreme Court Justice, Melton,,HAROLD D. MELTON ,235
+Bryan,Ellabell,Supreme Court Justice, Melton,,HAROLD D. MELTON ,202
+Bryan,Black Creek,Supreme Court Justice, Melton,,HAROLD D. MELTON ,208
+Bryan,Ways Station,Supreme Court Justice, Melton,,HAROLD D. MELTON ,137
+Bryan,RH Rec Complex,Supreme Court Justice, Melton,,HAROLD D. MELTON ,199
+Bryan,J.F. Gregory Park,Supreme Court Justice, Melton,,HAROLD D. MELTON ,407
+Bryan,Keller,Supreme Court Justice, Melton,,HAROLD D. MELTON ,426
+Bryan,HWY 144 East,Supreme Court Justice, Melton,,HAROLD D. MELTON ,328
+Bryan,Public Safety Complex,Supreme Court Justice, Melton,,HAROLD D. MELTON ,152
+Bryan,Pembroke,Supreme Court Justice, Peterson,,NELS PETERSON ,279
+Bryan,Danielsiding,Supreme Court Justice, Peterson,,NELS PETERSON ,232
+Bryan,Ellabell,Supreme Court Justice, Peterson,,NELS PETERSON ,199
+Bryan,Black Creek,Supreme Court Justice, Peterson,,NELS PETERSON ,209
+Bryan,Ways Station,Supreme Court Justice, Peterson,,NELS PETERSON ,136
+Bryan,RH Rec Complex,Supreme Court Justice, Peterson,,NELS PETERSON ,200
+Bryan,J.F. Gregory Park,Supreme Court Justice, Peterson,,NELS PETERSON ,407
+Bryan,Keller,Supreme Court Justice, Peterson,,NELS PETERSON ,427
+Bryan,HWY 144 East,Supreme Court Justice, Peterson,,NELS PETERSON ,327
+Bryan,Public Safety Complex,Supreme Court Justice, Peterson,,NELS PETERSON ,150
+Bryan,Pembroke,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,279
+Bryan,Danielsiding,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,236
+Bryan,Ellabell,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,198
+Bryan,Black Creek,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,210
+Bryan,Ways Station,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,136
+Bryan,RH Rec Complex,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,201
+Bryan,J.F. Gregory Park,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,408
+Bryan,Keller,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,428
+Bryan,HWY 144 East,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,324
+Bryan,Public Safety Complex,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,151
+Bryan,Pembroke,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,278
+Bryan,Danielsiding,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,232
+Bryan,Ellabell,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,198
+Bryan,Black Creek,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,210
+Bryan,Ways Station,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,133
+Bryan,RH Rec Complex,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,199
+Bryan,J.F. Gregory Park,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,400
+Bryan,Keller,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,420
+Bryan,HWY 144 East,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,320
+Bryan,Public Safety Complex,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,153
+Bryan,Pembroke,Appeals Court Judge, Ellington,,KEN HODGES  ,222
+Bryan,Danielsiding,Appeals Court Judge, Ellington,,KEN HODGES  ,143
+Bryan,Ellabell,Appeals Court Judge, Ellington,,KEN HODGES  ,157
+Bryan,Black Creek,Appeals Court Judge, Ellington,,KEN HODGES  ,187
+Bryan,Ways Station,Appeals Court Judge, Ellington,,KEN HODGES  ,106
+Bryan,RH Rec Complex,Appeals Court Judge, Ellington,,KEN HODGES  ,136
+Bryan,J.F. Gregory Park,Appeals Court Judge, Ellington,,KEN HODGES  ,257
+Bryan,Keller,Appeals Court Judge, Ellington,,KEN HODGES  ,266
+Bryan,HWY 144 East,Appeals Court Judge, Ellington,,KEN HODGES  ,210
+Bryan,Public Safety Complex,Appeals Court Judge, Ellington,,KEN HODGES  ,113
+Bryan,Pembroke,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,74
+Bryan,Danielsiding,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,105
+Bryan,Ellabell,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,55
+Bryan,Black Creek,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,42
+Bryan,Ways Station,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,37
+Bryan,RH Rec Complex,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,75
+Bryan,J.F. Gregory Park,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,167
+Bryan,Keller,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,175
+Bryan,HWY 144 East,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,113
+Bryan,Public Safety Complex,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,55
+Bryan,Pembroke,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,280
+Bryan,Danielsiding,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,235
+Bryan,Ellabell,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,199
+Bryan,Black Creek,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,208
+Bryan,Ways Station,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,135
+Bryan,RH Rec Complex,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,205
+Bryan,J.F. Gregory Park,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,407
+Bryan,Keller,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,428
+Bryan,HWY 144 East,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,335
+Bryan,Public Safety Complex,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,155
+Bryan,Pembroke,Appeals Court Judge, Miller,,M. YVETTE MILLER ,280
+Bryan,Danielsiding,Appeals Court Judge, Miller,,M. YVETTE MILLER ,229
+Bryan,Ellabell,Appeals Court Judge, Miller,,M. YVETTE MILLER ,197
+Bryan,Black Creek,Appeals Court Judge, Miller,,M. YVETTE MILLER ,209
+Bryan,Ways Station,Appeals Court Judge, Miller,,M. YVETTE MILLER ,137
+Bryan,RH Rec Complex,Appeals Court Judge, Miller,,M. YVETTE MILLER ,202
+Bryan,J.F. Gregory Park,Appeals Court Judge, Miller,,M. YVETTE MILLER ,399
+Bryan,Keller,Appeals Court Judge, Miller,,M. YVETTE MILLER ,428
+Bryan,HWY 144 East,Appeals Court Judge, Miller,,M. YVETTE MILLER ,325
+Bryan,Public Safety Complex,Appeals Court Judge, Miller,,M. YVETTE MILLER ,153
+Bryan,Pembroke,Appeals Court Judge, Reese,,CLYDE L. REESE III ,275
+Bryan,Danielsiding,Appeals Court Judge, Reese,,CLYDE L. REESE III ,226
+Bryan,Ellabell,Appeals Court Judge, Reese,,CLYDE L. REESE III ,197
+Bryan,Black Creek,Appeals Court Judge, Reese,,CLYDE L. REESE III ,211
+Bryan,Ways Station,Appeals Court Judge, Reese,,CLYDE L. REESE III ,136
+Bryan,RH Rec Complex,Appeals Court Judge, Reese,,CLYDE L. REESE III ,196
+Bryan,J.F. Gregory Park,Appeals Court Judge, Reese,,CLYDE L. REESE III ,394
+Bryan,Keller,Appeals Court Judge, Reese,,CLYDE L. REESE III ,421
+Bryan,HWY 144 East,Appeals Court Judge, Reese,,CLYDE L. REESE III ,318
+Bryan,Public Safety Complex,Appeals Court Judge, Reese,,CLYDE L. REESE III ,148
+Bryan,Pembroke,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,275
+Bryan,Danielsiding,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,228
+Bryan,Ellabell,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,196
+Bryan,Black Creek,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,210
+Bryan,Ways Station,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,132
+Bryan,RH Rec Complex,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,193
+Bryan,J.F. Gregory Park,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,400
+Bryan,Keller,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,422
+Bryan,HWY 144 East,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,322
+Bryan,Public Safety Complex,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,150
+Bryan,Pembroke,Superior Court Judge, Atlantic Circuit (Cheney),,GLEN A. CHENEY ,280
+Bryan,Danielsiding,Superior Court Judge, Atlantic Circuit (Cheney),,GLEN A. CHENEY ,229
+Bryan,Ellabell,Superior Court Judge, Atlantic Circuit (Cheney),,GLEN A. CHENEY ,197
+Bryan,Black Creek,Superior Court Judge, Atlantic Circuit (Cheney),,GLEN A. CHENEY ,210
+Bryan,Ways Station,Superior Court Judge, Atlantic Circuit (Cheney),,GLEN A. CHENEY ,137
+Bryan,RH Rec Complex,Superior Court Judge, Atlantic Circuit (Cheney),,GLEN A. CHENEY ,197
+Bryan,J.F. Gregory Park,Superior Court Judge, Atlantic Circuit (Cheney),,GLEN A. CHENEY ,399
+Bryan,Keller,Superior Court Judge, Atlantic Circuit (Cheney),,GLEN A. CHENEY ,419
+Bryan,HWY 144 East,Superior Court Judge, Atlantic Circuit (Cheney),,GLEN A. CHENEY ,323
+Bryan,Public Safety Complex,Superior Court Judge, Atlantic Circuit (Cheney),,GLEN A. CHENEY ,151
+Bryan,Pembroke,Superior Court Judge, Atlantic Circuit (Stewart),,D. JAY STEWART ,314
+Bryan,Danielsiding,Superior Court Judge, Atlantic Circuit (Stewart),,D. JAY STEWART ,233
+Bryan,Ellabell,Superior Court Judge, Atlantic Circuit (Stewart),,D. JAY STEWART ,203
+Bryan,Black Creek,Superior Court Judge, Atlantic Circuit (Stewart),,D. JAY STEWART ,220
+Bryan,Ways Station,Superior Court Judge, Atlantic Circuit (Stewart),,D. JAY STEWART ,141
+Bryan,RH Rec Complex,Superior Court Judge, Atlantic Circuit (Stewart),,D. JAY STEWART ,200
+Bryan,J.F. Gregory Park,Superior Court Judge, Atlantic Circuit (Stewart),,D. JAY STEWART ,405
+Bryan,Keller,Superior Court Judge, Atlantic Circuit (Stewart),,D. JAY STEWART ,427
+Bryan,HWY 144 East,Superior Court Judge, Atlantic Circuit (Stewart),,D. JAY STEWART ,325
+Bryan,Public Safety Complex,Superior Court Judge, Atlantic Circuit (Stewart),,D. JAY STEWART ,152
+Bryan,Pembroke,TSPLOST,,,YES,240
+Bryan,Danielsiding,TSPLOST,,,YES,223
+Bryan,Ellabell,TSPLOST,,,YES,137
+Bryan,Black Creek,TSPLOST,,,YES,126
+Bryan,Ways Station,TSPLOST,,,YES,117
+Bryan,RH Rec Complex,TSPLOST,,,YES,170
+Bryan,J.F. Gregory Park,TSPLOST,,,YES,359
+Bryan,Keller,TSPLOST,,,YES,393
+Bryan,HWY 144 East,TSPLOST,,,YES,292
+Bryan,Public Safety Complex,TSPLOST,,,YES,126
+Bryan,Pembroke,TSPLOST,,,NO,124
+Bryan,Danielsiding,TSPLOST,,,NO,89
+Bryan,Ellabell,TSPLOST,,,NO,103
+Bryan,Black Creek,TSPLOST,,,NO,146
+Bryan,Ways Station,TSPLOST,,,NO,65
+Bryan,RH Rec Complex,TSPLOST,,,NO,80
+Bryan,J.F. Gregory Park,TSPLOST,,,NO,181
+Bryan,Keller,TSPLOST,,,NO,163
+Bryan,HWY 144 East,TSPLOST,,,NO,159
+Bryan,Public Safety Complex,TSPLOST,,,NO,70
+Bryan,Ways Station,Question 1,,,YES,104
+Bryan,RH Rec Complex,Question 1,,,YES,132
+Bryan,J.F. Gregory Park,Question 1,,,YES,140
+Bryan,HWY 144 East,Question 1,,,YES,49
+Bryan,Public Safety Complex,Question 1,,,YES,90
+Bryan,Ways Station,Question 1,,,NO,52
+Bryan,RH Rec Complex,Question 1,,,NO,99
+Bryan,J.F. Gregory Park,Question 1,,,NO,81
+Bryan,HWY 144 East,Question 1,,,NO,39
+Bryan,Public Safety Complex,Question 1,,,NO,78
+Bryan,Ways Station,Question 2,,,YES,98
+Bryan,RH Rec Complex,Question 2,,,YES,133
+Bryan,J.F. Gregory Park,Question 2,,,YES,140
+Bryan,HWY 144 East,Question 2,,,YES,46
+Bryan,Public Safety Complex,Question 2,,,YES,86
+Bryan,Ways Station,Question 2,,,NO,56
+Bryan,RH Rec Complex,Question 2,,,NO,95
+Bryan,J.F. Gregory Park,Question 2,,,NO,80
+Bryan,HWY 144 East,Question 2,,,NO,43
+Bryan,Public Safety Complex,Question 2,,,NO,78
+Bryan,Ways Station,Question 3,,,YES,85
+Bryan,RH Rec Complex,Question 3,,,YES,123
+Bryan,J.F. Gregory Park,Question 3,,,YES,132
+Bryan,HWY 144 East,Question 3,,,YES,47
+Bryan,Public Safety Complex,Question 3,,,YES,75
+Bryan,Ways Station,Question 3,,,NO,66
+Bryan,RH Rec Complex,Question 3,,,NO,103
+Bryan,J.F. Gregory Park,Question 3,,,NO,84
+Bryan,HWY 144 East,Question 3,,,NO,40
+Bryan,Public Safety Complex,Question 3,,,NO,88
+Bryan,Ways Station,Question 4,,,YES,88
+Bryan,RH Rec Complex,Question 4,,,YES,122
+Bryan,J.F. Gregory Park,Question 4,,,YES,129
+Bryan,HWY 144 East,Question 4,,,YES,51
+Bryan,Public Safety Complex,Question 4,,,YES,91
+Bryan,Ways Station,Question 4,,,NO,63
+Bryan,RH Rec Complex,Question 4,,,NO,105
+Bryan,J.F. Gregory Park,Question 4,,,NO,86
+Bryan,HWY 144 East,Question 4,,,NO,36
+Bryan,Public Safety Complex,Question 4,,,NO,75

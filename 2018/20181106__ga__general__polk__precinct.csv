@@ -1,0 +1,375 @@
+county,precinct,office,district,party,candidate,votes
+Polk,ARAGON,Governor,,REP,BRIAN KEMP,1394
+Polk,BLOOMING GROVE,Governor,,REP,BRIAN KEMP,728
+Polk,CEDARTOWN,Governor,,REP,BRIAN KEMP,2100
+Polk,FISH CREEK,Governor,,REP,BRIAN KEMP,1217
+Polk,LAKE CREEK,Governor,,REP,BRIAN KEMP,1484
+Polk,ROCKMART,Governor,,REP,BRIAN KEMP,2302
+Polk,YOUNGS GROVE,Governor,,REP,BRIAN KEMP,952
+Polk,ARAGON,Governor,,DEM,STACEY ABRAMS,252
+Polk,BLOOMING GROVE,Governor,,DEM,STACEY ABRAMS,145
+Polk,CEDARTOWN,Governor,,DEM,STACEY ABRAMS,941
+Polk,FISH CREEK,Governor,,DEM,STACEY ABRAMS,223
+Polk,LAKE CREEK,Governor,,DEM,STACEY ABRAMS,218
+Polk,ROCKMART,Governor,,DEM,STACEY ABRAMS,708
+Polk,YOUNGS GROVE,Governor,,DEM,STACEY ABRAMS,101
+Polk,ARAGON,Governor,,LIB,TED METZ,10
+Polk,BLOOMING GROVE,Governor,,LIB,TED METZ,6
+Polk,CEDARTOWN,Governor,,LIB,TED METZ,28
+Polk,FISH CREEK,Governor,,LIB,TED METZ,15
+Polk,LAKE CREEK,Governor,,LIB,TED METZ,9
+Polk,ROCKMART,Governor,,LIB,TED METZ,21
+Polk,YOUNGS GROVE,Governor,,LIB,TED METZ,7
+Polk,ARAGON,Lieutenant Governor,,REP,GEOFF DUNCAN,1318
+Polk,BLOOMING GROVE,Lieutenant Governor,,REP,GEOFF DUNCAN,698
+Polk,CEDARTOWN,Lieutenant Governor,,REP,GEOFF DUNCAN,2004
+Polk,FISH CREEK,Lieutenant Governor,,REP,GEOFF DUNCAN,1169
+Polk,LAKE CREEK,Lieutenant Governor,,REP,GEOFF DUNCAN,1408
+Polk,ROCKMART,Lieutenant Governor,,REP,GEOFF DUNCAN,2194
+Polk,YOUNGS GROVE,Lieutenant Governor,,REP,GEOFF DUNCAN,904
+Polk,ARAGON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,238
+Polk,BLOOMING GROVE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,141
+Polk,CEDARTOWN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,874
+Polk,FISH CREEK,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,217
+Polk,LAKE CREEK,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,223
+Polk,ROCKMART,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,686
+Polk,YOUNGS GROVE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,113
+Polk,ARAGON,Secretary Of State,,REP,BRAD RAFFENSPERGER,1344
+Polk,BLOOMING GROVE,Secretary Of State,,REP,BRAD RAFFENSPERGER,684
+Polk,CEDARTOWN,Secretary Of State,,REP,BRAD RAFFENSPERGER,1966
+Polk,FISH CREEK,Secretary Of State,,REP,BRAD RAFFENSPERGER,1168
+Polk,LAKE CREEK,Secretary Of State,,REP,BRAD RAFFENSPERGER,1417
+Polk,ROCKMART,Secretary Of State,,REP,BRAD RAFFENSPERGER,2214
+Polk,YOUNGS GROVE,Secretary Of State,,REP,BRAD RAFFENSPERGER,908
+Polk,ARAGON,Secretary Of State,,DEM,JOHN BARROW,261
+Polk,BLOOMING GROVE,Secretary Of State,,DEM,JOHN BARROW,161
+Polk,CEDARTOWN,Secretary Of State,,DEM,JOHN BARROW,984
+Polk,FISH CREEK,Secretary Of State,,DEM,JOHN BARROW,246
+Polk,LAKE CREEK,Secretary Of State,,DEM,JOHN BARROW,243
+Polk,ROCKMART,Secretary Of State,,DEM,JOHN BARROW,715
+Polk,YOUNGS GROVE,Secretary Of State,,DEM,JOHN BARROW,132
+Polk,ARAGON,Secretary Of State,,LIB,SMYTHE DUVAL,22
+Polk,BLOOMING GROVE,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Polk,CEDARTOWN,Secretary Of State,,LIB,SMYTHE DUVAL,49
+Polk,FISH CREEK,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Polk,LAKE CREEK,Secretary Of State,,LIB,SMYTHE DUVAL,13
+Polk,ROCKMART,Secretary Of State,,LIB,SMYTHE DUVAL,60
+Polk,YOUNGS GROVE,Secretary Of State,,LIB,SMYTHE DUVAL,11
+Polk,ARAGON,Attorney General,,(REP,CHRIS CARR ,1348
+Polk,BLOOMING GROVE,Attorney General,,(REP,CHRIS CARR ,696
+Polk,CEDARTOWN,Attorney General,,(REP,CHRIS CARR ,2029
+Polk,FISH CREEK,Attorney General,,(REP,CHRIS CARR ,1176
+Polk,LAKE CREEK,Attorney General,,(REP,CHRIS CARR ,1418
+Polk,ROCKMART,Attorney General,,(REP,CHRIS CARR ,2257
+Polk,YOUNGS GROVE,Attorney General,,(REP,CHRIS CARR ,912
+Polk,ARAGON,Attorney General,,DEM,CHARLIE BAILEY,268
+Polk,BLOOMING GROVE,Attorney General,,DEM,CHARLIE BAILEY,160
+Polk,CEDARTOWN,Attorney General,,DEM,CHARLIE BAILEY,970
+Polk,FISH CREEK,Attorney General,,DEM,CHARLIE BAILEY,246
+Polk,LAKE CREEK,Attorney General,,DEM,CHARLIE BAILEY,247
+Polk,ROCKMART,Attorney General,,DEM,CHARLIE BAILEY,716
+Polk,YOUNGS GROVE,Attorney General,,DEM,CHARLIE BAILEY,127
+Polk,ARAGON,Commissioner Of Agriculture,,(REP,GARY BLACK ,1363
+Polk,BLOOMING GROVE,Commissioner Of Agriculture,,(REP,GARY BLACK ,711
+Polk,CEDARTOWN,Commissioner Of Agriculture,,(REP,GARY BLACK ,2085
+Polk,FISH CREEK,Commissioner Of Agriculture,,(REP,GARY BLACK ,1202
+Polk,LAKE CREEK,Commissioner Of Agriculture,,(REP,GARY BLACK ,1457
+Polk,ROCKMART,Commissioner Of Agriculture,,(REP,GARY BLACK ,2264
+Polk,YOUNGS GROVE,Commissioner Of Agriculture,,(REP,GARY BLACK ,921
+Polk,ARAGON,Commissioner Of Agriculture,,DEM,FRED SWANN,243
+Polk,BLOOMING GROVE,Commissioner Of Agriculture,,DEM,FRED SWANN,142
+Polk,CEDARTOWN,Commissioner Of Agriculture,,DEM,FRED SWANN,901
+Polk,FISH CREEK,Commissioner Of Agriculture,,DEM,FRED SWANN,216
+Polk,LAKE CREEK,Commissioner Of Agriculture,,DEM,FRED SWANN,209
+Polk,ROCKMART,Commissioner Of Agriculture,,DEM,FRED SWANN,684
+Polk,YOUNGS GROVE,Commissioner Of Agriculture,,DEM,FRED SWANN,113
+Polk,ARAGON,Commissioner Of Insurance,,REP,JIM BECK,1340
+Polk,BLOOMING GROVE,Commissioner Of Insurance,,REP,JIM BECK,689
+Polk,CEDARTOWN,Commissioner Of Insurance,,REP,JIM BECK,2012
+Polk,FISH CREEK,Commissioner Of Insurance,,REP,JIM BECK,1181
+Polk,LAKE CREEK,Commissioner Of Insurance,,REP,JIM BECK,1414
+Polk,ROCKMART,Commissioner Of Insurance,,REP,JIM BECK,2239
+Polk,YOUNGS GROVE,Commissioner Of Insurance,,REP,JIM BECK,920
+Polk,ARAGON,Commissioner Of Insurance,,DEM,JANICE LAWS,246
+Polk,BLOOMING GROVE,Commissioner Of Insurance,,DEM,JANICE LAWS,143
+Polk,CEDARTOWN,Commissioner Of Insurance,,DEM,JANICE LAWS,916
+Polk,FISH CREEK,Commissioner Of Insurance,,DEM,JANICE LAWS,221
+Polk,LAKE CREEK,Commissioner Of Insurance,,DEM,JANICE LAWS,220
+Polk,ROCKMART,Commissioner Of Insurance,,DEM,JANICE LAWS,678
+Polk,YOUNGS GROVE,Commissioner Of Insurance,,DEM,JANICE LAWS,109
+Polk,ARAGON,Commissioner Of Insurance,,LIB,DONNIE FOSTER,31
+Polk,BLOOMING GROVE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,27
+Polk,CEDARTOWN,Commissioner Of Insurance,,LIB,DONNIE FOSTER,68
+Polk,FISH CREEK,Commissioner Of Insurance,,LIB,DONNIE FOSTER,24
+Polk,LAKE CREEK,Commissioner Of Insurance,,LIB,DONNIE FOSTER,33
+Polk,ROCKMART,Commissioner Of Insurance,,LIB,DONNIE FOSTER,57
+Polk,YOUNGS GROVE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
+Polk,ARAGON,State School Superintendent,,(REP,RICHARD WOODS ,1375
+Polk,BLOOMING GROVE,State School Superintendent,,(REP,RICHARD WOODS ,710
+Polk,CEDARTOWN,State School Superintendent,,(REP,RICHARD WOODS ,2087
+Polk,FISH CREEK,State School Superintendent,,(REP,RICHARD WOODS ,1200
+Polk,LAKE CREEK,State School Superintendent,,(REP,RICHARD WOODS ,1450
+Polk,ROCKMART,State School Superintendent,,(REP,RICHARD WOODS ,2293
+Polk,YOUNGS GROVE,State School Superintendent,,(REP,RICHARD WOODS ,930
+Polk,ARAGON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",250
+Polk,BLOOMING GROVE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",146
+Polk,CEDARTOWN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",914
+Polk,FISH CREEK,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",228
+Polk,LAKE CREEK,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",221
+Polk,ROCKMART,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",691
+Polk,YOUNGS GROVE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",110
+Polk,ARAGON,Commissioner Of Labor,,(REP,MARK BUTLER ,1369
+Polk,BLOOMING GROVE,Commissioner Of Labor,,(REP,MARK BUTLER ,721
+Polk,CEDARTOWN,Commissioner Of Labor,,(REP,MARK BUTLER ,2060
+Polk,FISH CREEK,Commissioner Of Labor,,(REP,MARK BUTLER ,1196
+Polk,LAKE CREEK,Commissioner Of Labor,,(REP,MARK BUTLER ,1438
+Polk,ROCKMART,Commissioner Of Labor,,(REP,MARK BUTLER ,2271
+Polk,YOUNGS GROVE,Commissioner Of Labor,,(REP,MARK BUTLER ,924
+Polk,ARAGON,Commissioner Of Labor,,DEM,RICHARD KEATLEY,249
+Polk,BLOOMING GROVE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,141
+Polk,CEDARTOWN,Commissioner Of Labor,,DEM,RICHARD KEATLEY,929
+Polk,FISH CREEK,Commissioner Of Labor,,DEM,RICHARD KEATLEY,226
+Polk,LAKE CREEK,Commissioner Of Labor,,DEM,RICHARD KEATLEY,225
+Polk,ROCKMART,Commissioner Of Labor,,DEM,RICHARD KEATLEY,702
+Polk,YOUNGS GROVE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,119
+Polk,ARAGON,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1330
+Polk,BLOOMING GROVE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,672
+Polk,CEDARTOWN,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1972
+Polk,FISH CREEK,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1167
+Polk,LAKE CREEK,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1406
+Polk,ROCKMART,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2206
+Polk,YOUNGS GROVE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,905
+Polk,ARAGON,"Public Service Commission, District 3",3,DEM,LINDY MILLER,260
+Polk,BLOOMING GROVE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,161
+Polk,CEDARTOWN,"Public Service Commission, District 3",3,DEM,LINDY MILLER,951
+Polk,FISH CREEK,"Public Service Commission, District 3",3,DEM,LINDY MILLER,230
+Polk,LAKE CREEK,"Public Service Commission, District 3",3,DEM,LINDY MILLER,239
+Polk,ROCKMART,"Public Service Commission, District 3",3,DEM,LINDY MILLER,704
+Polk,YOUNGS GROVE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,118
+Polk,ARAGON,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,30
+Polk,BLOOMING GROVE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,25
+Polk,CEDARTOWN,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,73
+Polk,FISH CREEK,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,29
+Polk,LAKE CREEK,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,31
+Polk,ROCKMART,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,65
+Polk,YOUNGS GROVE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,22
+Polk,ARAGON,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1340
+Polk,BLOOMING GROVE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,681
+Polk,CEDARTOWN,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2007
+Polk,FISH CREEK,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1174
+Polk,LAKE CREEK,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1406
+Polk,ROCKMART,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2221
+Polk,YOUNGS GROVE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,905
+Polk,ARAGON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,251
+Polk,BLOOMING GROVE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,145
+Polk,CEDARTOWN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,918
+Polk,FISH CREEK,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,220
+Polk,LAKE CREEK,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,225
+Polk,ROCKMART,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,686
+Polk,YOUNGS GROVE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,115
+Polk,ARAGON,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
+Polk,BLOOMING GROVE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34
+Polk,CEDARTOWN,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,59
+Polk,FISH CREEK,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,30
+Polk,LAKE CREEK,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,32
+Polk,ROCKMART,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,66
+Polk,YOUNGS GROVE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21
+Polk,ARAGON,U.S. Representative,14,(REP,TOM GRAVES ,1374
+Polk,BLOOMING GROVE,U.S. Representative,14,(REP,TOM GRAVES ,715
+Polk,CEDARTOWN,U.S. Representative,14,(REP,TOM GRAVES ,2110
+Polk,FISH CREEK,U.S. Representative,14,(REP,TOM GRAVES ,1207
+Polk,LAKE CREEK,U.S. Representative,14,(REP,TOM GRAVES ,1458
+Polk,ROCKMART,U.S. Representative,14,(REP,TOM GRAVES ,2285
+Polk,YOUNGS GROVE,U.S. Representative,14,(REP,TOM GRAVES ,926
+Polk,ARAGON,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,250
+Polk,BLOOMING GROVE,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,142
+Polk,CEDARTOWN,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,901
+Polk,FISH CREEK,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,222
+Polk,LAKE CREEK,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,224
+Polk,ROCKMART,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,700
+Polk,YOUNGS GROVE,U.S. Representative,14,DEM,STEVEN LAMAR FOSTER,114
+Polk,ARAGON,State Senator,31,(REP,BILL HEATH ,1445
+Polk,BLOOMING GROVE,State Senator,31,(REP,BILL HEATH ,770
+Polk,CEDARTOWN,State Senator,31,(REP,BILL HEATH ,2450
+Polk,FISH CREEK,State Senator,31,(REP,BILL HEATH ,1275
+Polk,LAKE CREEK,State Senator,31,(REP,BILL HEATH ,1521
+Polk,ROCKMART,State Senator,31,(REP,BILL HEATH ,2527
+Polk,YOUNGS GROVE,State Senator,31,(REP,BILL HEATH ,966
+Polk,ARAGON,State Representative,16,(REP,TREY KELLEY ,1457
+Polk,BLOOMING GROVE,State Representative,16,(REP,TREY KELLEY ,774
+Polk,CEDARTOWN,State Representative,16,(REP,TREY KELLEY ,2558
+Polk,FISH CREEK,State Representative,16,(REP,TREY KELLEY ,1299
+Polk,LAKE CREEK,State Representative,16,(REP,TREY KELLEY ,1555
+Polk,ROCKMART,State Representative,16,(REP,TREY KELLEY ,2571
+Polk,YOUNGS GROVE,State Representative,16,(REP,TREY KELLEY ,973
+Polk,ARAGON,CC, D1,R,G. MARTIN,1441
+Polk,BLOOMING GROVE,CC, D1,R,G. MARTIN,764
+Polk,CEDARTOWN,CC, D1,R,G. MARTIN,2444
+Polk,FISH CREEK,CC, D1,R,G. MARTIN,1281
+Polk,LAKE CREEK,CC, D1,R,G. MARTIN,1507
+Polk,ROCKMART,CC, D1,R,G. MARTIN,2508
+Polk,YOUNGS GROVE,CC, D1,R,G. MARTIN,972
+Polk,ARAGON,CC, D2,R,J. HULSEY ,1317
+Polk,BLOOMING GROVE,CC, D2,R,J. HULSEY ,704
+Polk,CEDARTOWN,CC, D2,R,J. HULSEY ,2030
+Polk,FISH CREEK,CC, D2,R,J. HULSEY ,1143
+Polk,LAKE CREEK,CC, D2,R,J. HULSEY ,1397
+Polk,ROCKMART,CC, D2,R,J. HULSEY ,2166
+Polk,YOUNGS GROVE,CC, D2,R,J. HULSEY ,881
+Polk,ARAGON,CC, D2,D,R. CLARK,294
+Polk,BLOOMING GROVE,CC, D2,D,R. CLARK,160
+Polk,CEDARTOWN,CC, D2,D,R. CLARK,928
+Polk,FISH CREEK,CC, D2,D,R. CLARK,273
+Polk,LAKE CREEK,CC, D2,D,R. CLARK,260
+Polk,ROCKMART,CC, D2,D,R. CLARK,774
+Polk,YOUNGS GROVE,CC, D2,D,R. CLARK,152
+Polk,ARAGON,CC, D3,R,H. M. FLOYD,1440
+Polk,BLOOMING GROVE,CC, D3,R,H. M. FLOYD,760
+Polk,CEDARTOWN,CC, D3,R,H. M. FLOYD,2423
+Polk,FISH CREEK,CC, D3,R,H. M. FLOYD,1268
+Polk,LAKE CREEK,CC, D3,R,H. M. FLOYD,1504
+Polk,ROCKMART,CC, D3,R,H. M. FLOYD,2509
+Polk,YOUNGS GROVE,CC, D3,R,H. M. FLOYD,956
+Polk,BLOOMING GROVE,BOE D1,,R,"B. MADDEN, JR.",763
+Polk,CEDARTOWN,BOE D1,,R,"B. MADDEN, JR.",205
+Polk,LAKE CREEK,BOE D1,,R,"B. MADDEN, JR.",623
+Polk,CEDARTOWN,BOE D2,,D,B. MORGAN ,682
+Polk,CEDARTOWN,BOE D4,,R,V. MAYES,280
+Polk,FISH CREEK,BOE D4,,R,V. MAYES,108
+Polk,LAKE CREEK,BOE D4,,R,V. MAYES,438
+Polk,YOUNGS GROVE,BOE D4,,R,V. MAYES,821
+Polk,ARAGON,BOE D7,,R,T. SANDERS ,1011
+Polk,ROCKMART,BOE D7,,R,T. SANDERS ,549
+Polk,ARAGON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1252
+Polk,BLOOMING GROVE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,680
+Polk,CEDARTOWN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2354
+Polk,FISH CREEK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1120
+Polk,LAKE CREEK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1311
+Polk,ROCKMART,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2345
+Polk,YOUNGS GROVE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,806
+Polk,ARAGON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,327
+Polk,BLOOMING GROVE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,169
+Polk,CEDARTOWN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,571
+Polk,FISH CREEK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,299
+Polk,LAKE CREEK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,341
+Polk,ROCKMART,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,591
+Polk,YOUNGS GROVE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,223
+Polk,ARAGON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1018
+Polk,BLOOMING GROVE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,501
+Polk,CEDARTOWN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1906
+Polk,FISH CREEK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,904
+Polk,LAKE CREEK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1025
+Polk,ROCKMART,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1911
+Polk,YOUNGS GROVE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,626
+Polk,ARAGON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,532
+Polk,BLOOMING GROVE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,311
+Polk,CEDARTOWN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,944
+Polk,FISH CREEK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,492
+Polk,LAKE CREEK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,552
+Polk,ROCKMART,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,944
+Polk,YOUNGS GROVE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,369
+Polk,ARAGON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,886
+Polk,BLOOMING GROVE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,438
+Polk,CEDARTOWN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1683
+Polk,FISH CREEK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,795
+Polk,LAKE CREEK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,891
+Polk,ROCKMART,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1646
+Polk,YOUNGS GROVE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,558
+Polk,ARAGON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,657
+Polk,BLOOMING GROVE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,372
+Polk,CEDARTOWN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1131
+Polk,FISH CREEK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,577
+Polk,LAKE CREEK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,681
+Polk,ROCKMART,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1182
+Polk,YOUNGS GROVE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,427
+Polk,ARAGON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1236
+Polk,BLOOMING GROVE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,662
+Polk,CEDARTOWN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2408
+Polk,FISH CREEK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1101
+Polk,LAKE CREEK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1287
+Polk,ROCKMART,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2241
+Polk,YOUNGS GROVE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,794
+Polk,ARAGON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,348
+Polk,BLOOMING GROVE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,181
+Polk,CEDARTOWN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,542
+Polk,FISH CREEK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,307
+Polk,LAKE CREEK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,355
+Polk,ROCKMART,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,691
+Polk,YOUNGS GROVE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,230
+Polk,ARAGON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1029
+Polk,BLOOMING GROVE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,521
+Polk,CEDARTOWN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2039
+Polk,FISH CREEK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,898
+Polk,LAKE CREEK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1046
+Polk,ROCKMART,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1890
+Polk,YOUNGS GROVE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,641
+Polk,ARAGON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,526
+Polk,BLOOMING GROVE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,292
+Polk,CEDARTOWN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,831
+Polk,FISH CREEK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,487
+Polk,LAKE CREEK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,544
+Polk,ROCKMART,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,960
+Polk,YOUNGS GROVE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,359
+Polk,ARAGON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,834
+Polk,BLOOMING GROVE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,409
+Polk,CEDARTOWN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1606
+Polk,FISH CREEK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,704
+Polk,LAKE CREEK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,804
+Polk,ROCKMART,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1540
+Polk,YOUNGS GROVE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,503
+Polk,ARAGON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,695
+Polk,BLOOMING GROVE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,389
+Polk,CEDARTOWN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1182
+Polk,FISH CREEK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,659
+Polk,LAKE CREEK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,748
+Polk,ROCKMART,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1271
+Polk,YOUNGS GROVE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,476
+Polk,ARAGON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1129
+Polk,BLOOMING GROVE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,571
+Polk,CEDARTOWN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2160
+Polk,FISH CREEK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1000
+Polk,LAKE CREEK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1122
+Polk,ROCKMART,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2086
+Polk,YOUNGS GROVE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,700
+Polk,ARAGON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,427
+Polk,BLOOMING GROVE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,245
+Polk,CEDARTOWN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,702
+Polk,FISH CREEK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,391
+Polk,LAKE CREEK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,471
+Polk,ROCKMART,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,769
+Polk,YOUNGS GROVE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,303
+Polk,ARAGON,Special-CC, D3,R,R. L. CARTER,800
+Polk,BLOOMING GROVE,Special-CC, D3,R,R. L. CARTER,508
+Polk,CEDARTOWN,Special-CC, D3,R,R. L. CARTER,1655
+Polk,FISH CREEK,Special-CC, D3,R,R. L. CARTER,716
+Polk,LAKE CREEK,Special-CC, D3,R,R. L. CARTER,1017
+Polk,ROCKMART,Special-CC, D3,R,R. L. CARTER,1320
+Polk,YOUNGS GROVE,Special-CC, D3,R,R. L. CARTER,629
+Polk,ARAGON,Special-CC, D3,R,J. PURDY,321
+Polk,BLOOMING GROVE,Special-CC, D3,R,J. PURDY,117
+Polk,CEDARTOWN,Special-CC, D3,R,J. PURDY,442
+Polk,FISH CREEK,Special-CC, D3,R,J. PURDY,277
+Polk,LAKE CREEK,Special-CC, D3,R,J. PURDY,194
+Polk,ROCKMART,Special-CC, D3,R,J. PURDY,599
+Polk,YOUNGS GROVE,Special-CC, D3,R,J. PURDY,158
+Polk,ARAGON,Special-CC, D3,R,L. L. REYNOLDS,323
+Polk,BLOOMING GROVE,Special-CC, D3,R,L. L. REYNOLDS,140
+Polk,CEDARTOWN,Special-CC, D3,R,L. L. REYNOLDS,420
+Polk,FISH CREEK,Special-CC, D3,R,L. L. REYNOLDS,304
+Polk,LAKE CREEK,Special-CC, D3,R,L. L. REYNOLDS,247
+Polk,ROCKMART,Special-CC, D3,R,L. L. REYNOLDS,653
+Polk,YOUNGS GROVE,Special-CC, D3,R,L. L. REYNOLDS,174
+Polk,ARAGON,SPLOST,,,YES,886
+Polk,BLOOMING GROVE,SPLOST,,,YES,482
+Polk,CEDARTOWN,SPLOST,,,YES,1966
+Polk,FISH CREEK,SPLOST,,,YES,823
+Polk,LAKE CREEK,SPLOST,,,YES,1007
+Polk,ROCKMART,SPLOST,,,YES,1826
+Polk,YOUNGS GROVE,SPLOST,,,YES,601
+Polk,ARAGON,SPLOST,,,NO,706
+Polk,BLOOMING GROVE,SPLOST,,,NO,359
+Polk,CEDARTOWN,SPLOST,,,NO,970
+Polk,FISH CREEK,SPLOST,,,NO,590
+Polk,LAKE CREEK,SPLOST,,,NO,637
+Polk,ROCKMART,SPLOST,,,NO,1108
+Polk,YOUNGS GROVE,SPLOST,,,NO,423

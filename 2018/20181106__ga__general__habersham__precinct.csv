@@ -1,0 +1,382 @@
+county,precinct,office,district,party,candidate,votes
+Habersham,Habersham North,Governor,,REP,BRIAN KEMP,4534
+Habersham,Habersham South,Governor,,REP,BRIAN KEMP,2578
+Habersham,Demorest,Governor,,REP,BRIAN KEMP,2345
+Habersham,Town of Mount Airy,Governor,,REP,BRIAN KEMP,311
+Habersham,City of Baldwin,Governor,,REP,BRIAN KEMP,337
+Habersham,Mud Creek,Governor,,REP,BRIAN KEMP,2009
+Habersham,Amys Creek,Governor,,REP,BRIAN KEMP,830
+Habersham,Habersham North,Governor,,DEM,STACEY ABRAMS,811
+Habersham,Habersham South,Governor,,DEM,STACEY ABRAMS,571
+Habersham,Demorest,Governor,,DEM,STACEY ABRAMS,358
+Habersham,Town of Mount Airy,Governor,,DEM,STACEY ABRAMS,73
+Habersham,City of Baldwin,Governor,,DEM,STACEY ABRAMS,107
+Habersham,Mud Creek,Governor,,DEM,STACEY ABRAMS,309
+Habersham,Amys Creek,Governor,,DEM,STACEY ABRAMS,188
+Habersham,Habersham North,Governor,,LIB,TED METZ,62
+Habersham,Habersham South,Governor,,LIB,TED METZ,21
+Habersham,Demorest,Governor,,LIB,TED METZ,15
+Habersham,Town of Mount Airy,Governor,,LIB,TED METZ,8
+Habersham,City of Baldwin,Governor,,LIB,TED METZ,4
+Habersham,Mud Creek,Governor,,LIB,TED METZ,21
+Habersham,Amys Creek,Governor,,LIB,TED METZ,8
+Habersham,Habersham North,Lieutenant Governor,,REP,GEOFF DUNCAN,4412
+Habersham,Habersham South,Lieutenant Governor,,REP,GEOFF DUNCAN,2486
+Habersham,Demorest,Lieutenant Governor,,REP,GEOFF DUNCAN,2273
+Habersham,Town of Mount Airy,Lieutenant Governor,,REP,GEOFF DUNCAN,303
+Habersham,City of Baldwin,Lieutenant Governor,,REP,GEOFF DUNCAN,331
+Habersham,Mud Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,1960
+Habersham,Amys Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,798
+Habersham,Habersham North,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,833
+Habersham,Habersham South,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,549
+Habersham,Demorest,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,345
+Habersham,Town of Mount Airy,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,69
+Habersham,City of Baldwin,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,102
+Habersham,Mud Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,320
+Habersham,Amys Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,191
+Habersham,Habersham North,Secretary Of State,,REP,BRAD RAFFENSPERGER,4340
+Habersham,Habersham South,Secretary Of State,,REP,BRAD RAFFENSPERGER,2496
+Habersham,Demorest,Secretary Of State,,REP,BRAD RAFFENSPERGER,2259
+Habersham,Town of Mount Airy,Secretary Of State,,REP,BRAD RAFFENSPERGER,295
+Habersham,City of Baldwin,Secretary Of State,,REP,BRAD RAFFENSPERGER,328
+Habersham,Mud Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,1939
+Habersham,Amys Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,794
+Habersham,Habersham North,Secretary Of State,,DEM,JOHN BARROW,854
+Habersham,Habersham South,Secretary Of State,,DEM,JOHN BARROW,570
+Habersham,Demorest,Secretary Of State,,DEM,JOHN BARROW,365
+Habersham,Town of Mount Airy,Secretary Of State,,DEM,JOHN BARROW,79
+Habersham,City of Baldwin,Secretary Of State,,DEM,JOHN BARROW,106
+Habersham,Mud Creek,Secretary Of State,,DEM,JOHN BARROW,315
+Habersham,Amys Creek,Secretary Of State,,DEM,JOHN BARROW,195
+Habersham,Habersham North,Secretary Of State,,LIB,SMYTHE DUVAL,115
+Habersham,Habersham South,Secretary Of State,,LIB,SMYTHE DUVAL,48
+Habersham,Demorest,Secretary Of State,,LIB,SMYTHE DUVAL,45
+Habersham,Town of Mount Airy,Secretary Of State,,LIB,SMYTHE DUVAL,11
+Habersham,City of Baldwin,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Habersham,Mud Creek,Secretary Of State,,LIB,SMYTHE DUVAL,42
+Habersham,Amys Creek,Secretary Of State,,LIB,SMYTHE DUVAL,23
+Habersham,Habersham North,Attorney General,,(REP,CHRIS CARR ,4430
+Habersham,Habersham South,Attorney General,,(REP,CHRIS CARR ,2520
+Habersham,Demorest,Attorney General,,(REP,CHRIS CARR ,2308
+Habersham,Town of Mount Airy,Attorney General,,(REP,CHRIS CARR ,307
+Habersham,City of Baldwin,Attorney General,,(REP,CHRIS CARR ,329
+Habersham,Mud Creek,Attorney General,,(REP,CHRIS CARR ,1956
+Habersham,Amys Creek,Attorney General,,(REP,CHRIS CARR ,807
+Habersham,Habersham North,Attorney General,,DEM,CHARLIE BAILEY,858
+Habersham,Habersham South,Attorney General,,DEM,CHARLIE BAILEY,572
+Habersham,Demorest,Attorney General,,DEM,CHARLIE BAILEY,366
+Habersham,Town of Mount Airy,Attorney General,,DEM,CHARLIE BAILEY,76
+Habersham,City of Baldwin,Attorney General,,DEM,CHARLIE BAILEY,110
+Habersham,Mud Creek,Attorney General,,DEM,CHARLIE BAILEY,340
+Habersham,Amys Creek,Attorney General,,DEM,CHARLIE BAILEY,205
+Habersham,Habersham North,Commissioner Of Agriculture,,(REP,GARY BLACK ,4555
+Habersham,Habersham South,Commissioner Of Agriculture,,(REP,GARY BLACK ,2589
+Habersham,Demorest,Commissioner Of Agriculture,,(REP,GARY BLACK ,2344
+Habersham,Town of Mount Airy,Commissioner Of Agriculture,,(REP,GARY BLACK ,317
+Habersham,City of Baldwin,Commissioner Of Agriculture,,(REP,GARY BLACK ,344
+Habersham,Mud Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,2005
+Habersham,Amys Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,838
+Habersham,Habersham North,Commissioner Of Agriculture,,DEM,FRED SWANN,735
+Habersham,Habersham South,Commissioner Of Agriculture,,DEM,FRED SWANN,491
+Habersham,Demorest,Commissioner Of Agriculture,,DEM,FRED SWANN,319
+Habersham,Town of Mount Airy,Commissioner Of Agriculture,,DEM,FRED SWANN,67
+Habersham,City of Baldwin,Commissioner Of Agriculture,,DEM,FRED SWANN,98
+Habersham,Mud Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,284
+Habersham,Amys Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,175
+Habersham,Habersham North,Commissioner Of Insurance,,REP,JIM BECK,4390
+Habersham,Habersham South,Commissioner Of Insurance,,REP,JIM BECK,2508
+Habersham,Demorest,Commissioner Of Insurance,,REP,JIM BECK,2285
+Habersham,Town of Mount Airy,Commissioner Of Insurance,,REP,JIM BECK,302
+Habersham,City of Baldwin,Commissioner Of Insurance,,REP,JIM BECK,332
+Habersham,Mud Creek,Commissioner Of Insurance,,REP,JIM BECK,1941
+Habersham,Amys Creek,Commissioner Of Insurance,,REP,JIM BECK,794
+Habersham,Habersham North,Commissioner Of Insurance,,DEM,JANICE LAWS,767
+Habersham,Habersham South,Commissioner Of Insurance,,DEM,JANICE LAWS,525
+Habersham,Demorest,Commissioner Of Insurance,,DEM,JANICE LAWS,325
+Habersham,Town of Mount Airy,Commissioner Of Insurance,,DEM,JANICE LAWS,72
+Habersham,City of Baldwin,Commissioner Of Insurance,,DEM,JANICE LAWS,98
+Habersham,Mud Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,306
+Habersham,Amys Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,184
+Habersham,Habersham North,Commissioner Of Insurance,,LIB,DONNIE FOSTER,132
+Habersham,Habersham South,Commissioner Of Insurance,,LIB,DONNIE FOSTER,63
+Habersham,Demorest,Commissioner Of Insurance,,LIB,DONNIE FOSTER,55
+Habersham,Town of Mount Airy,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Habersham,City of Baldwin,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Habersham,Mud Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,51
+Habersham,Amys Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,33
+Habersham,Habersham North,State School Superintendent,,(REP,RICHARD WOODS ,4544
+Habersham,Habersham South,State School Superintendent,,(REP,RICHARD WOODS ,2571
+Habersham,Demorest,State School Superintendent,,(REP,RICHARD WOODS ,2346
+Habersham,Town of Mount Airy,State School Superintendent,,(REP,RICHARD WOODS ,309
+Habersham,City of Baldwin,State School Superintendent,,(REP,RICHARD WOODS ,339
+Habersham,Mud Creek,State School Superintendent,,(REP,RICHARD WOODS ,2003
+Habersham,Amys Creek,State School Superintendent,,(REP,RICHARD WOODS ,833
+Habersham,Habersham North,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",751
+Habersham,Habersham South,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",519
+Habersham,Demorest,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",328
+Habersham,Town of Mount Airy,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",75
+Habersham,City of Baldwin,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",103
+Habersham,Mud Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",295
+Habersham,Amys Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",176
+Habersham,Habersham North,Commissioner Of Labor,,(REP,MARK BUTLER ,4489
+Habersham,Habersham South,Commissioner Of Labor,,(REP,MARK BUTLER ,2550
+Habersham,Demorest,Commissioner Of Labor,,(REP,MARK BUTLER ,2326
+Habersham,Town of Mount Airy,Commissioner Of Labor,,(REP,MARK BUTLER ,309
+Habersham,City of Baldwin,Commissioner Of Labor,,(REP,MARK BUTLER ,334
+Habersham,Mud Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,1994
+Habersham,Amys Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,821
+Habersham,Habersham North,Commissioner Of Labor,,DEM,RICHARD KEATLEY,777
+Habersham,Habersham South,Commissioner Of Labor,,DEM,RICHARD KEATLEY,524
+Habersham,Demorest,Commissioner Of Labor,,DEM,RICHARD KEATLEY,339
+Habersham,Town of Mount Airy,Commissioner Of Labor,,DEM,RICHARD KEATLEY,75
+Habersham,City of Baldwin,Commissioner Of Labor,,DEM,RICHARD KEATLEY,104
+Habersham,Mud Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,304
+Habersham,Amys Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,185
+Habersham,Habersham North,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,4307
+Habersham,Habersham South,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2451
+Habersham,Demorest,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2251
+Habersham,Town of Mount Airy,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,302
+Habersham,City of Baldwin,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,328
+Habersham,Mud Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1912
+Habersham,Amys Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,771
+Habersham,Habersham North,"Public Service Commission, District 3",3,DEM,LINDY MILLER,829
+Habersham,Habersham South,"Public Service Commission, District 3",3,DEM,LINDY MILLER,558
+Habersham,Demorest,"Public Service Commission, District 3",3,DEM,LINDY MILLER,345
+Habersham,Town of Mount Airy,"Public Service Commission, District 3",3,DEM,LINDY MILLER,75
+Habersham,City of Baldwin,"Public Service Commission, District 3",3,DEM,LINDY MILLER,108
+Habersham,Mud Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,323
+Habersham,Amys Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,202
+Habersham,Habersham North,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,142
+Habersham,Habersham South,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,69
+Habersham,Demorest,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,66
+Habersham,Town of Mount Airy,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,9
+Habersham,City of Baldwin,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,7
+Habersham,Mud Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,56
+Habersham,Amys Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,32
+Habersham,Habersham North,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,4347
+Habersham,Habersham South,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2490
+Habersham,Demorest,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2267
+Habersham,Town of Mount Airy,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,296
+Habersham,City of Baldwin,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,321
+Habersham,Mud Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1928
+Habersham,Amys Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,784
+Habersham,Habersham North,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,778
+Habersham,Habersham South,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,523
+Habersham,Demorest,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,340
+Habersham,Town of Mount Airy,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,77
+Habersham,City of Baldwin,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,104
+Habersham,Mud Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,300
+Habersham,Amys Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,187
+Habersham,Habersham North,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,152
+Habersham,Habersham South,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,61
+Habersham,Demorest,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,62
+Habersham,Town of Mount Airy,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Habersham,City of Baldwin,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,13
+Habersham,Mud Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,66
+Habersham,Amys Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34
+Habersham,Habersham North,U.S. Representative,9,(REP,DOUG COLLINS ,4457
+Habersham,Habersham South,U.S. Representative,9,(REP,DOUG COLLINS ,2558
+Habersham,Demorest,U.S. Representative,9,(REP,DOUG COLLINS ,2314
+Habersham,Town of Mount Airy,U.S. Representative,9,(REP,DOUG COLLINS ,310
+Habersham,City of Baldwin,U.S. Representative,9,(REP,DOUG COLLINS ,340
+Habersham,Mud Creek,U.S. Representative,9,(REP,DOUG COLLINS ,1987
+Habersham,Amys Creek,U.S. Representative,9,(REP,DOUG COLLINS ,822
+Habersham,Habersham North,U.S. Representative,9,DEM,JOSH MCCALL,862
+Habersham,Habersham South,U.S. Representative,9,DEM,JOSH MCCALL,551
+Habersham,Demorest,U.S. Representative,9,DEM,JOSH MCCALL,362
+Habersham,Town of Mount Airy,U.S. Representative,9,DEM,JOSH MCCALL,78
+Habersham,City of Baldwin,U.S. Representative,9,DEM,JOSH MCCALL,105
+Habersham,Mud Creek,U.S. Representative,9,DEM,JOSH MCCALL,321
+Habersham,Amys Creek,U.S. Representative,9,DEM,JOSH MCCALL,192
+Habersham,Habersham North,State Senator,50,(REP,JOHN K. WILKINSON ,4699
+Habersham,Habersham South,State Senator,50,(REP,JOHN K. WILKINSON ,2724
+Habersham,Demorest,State Senator,50,(REP,JOHN K. WILKINSON ,2426
+Habersham,Town of Mount Airy,State Senator,50,(REP,JOHN K. WILKINSON ,331
+Habersham,City of Baldwin,State Senator,50,(REP,JOHN K. WILKINSON ,385
+Habersham,Mud Creek,State Senator,50,(REP,JOHN K. WILKINSON ,2105
+Habersham,Amys Creek,State Senator,50,(REP,JOHN K. WILKINSON ,866
+Habersham,Habersham North,State Representative,10,(REP,TERRY ROGERS ,3408
+Habersham,Habersham South,State Representative,10,(REP,TERRY ROGERS ,1080
+Habersham,Demorest,State Representative,10,(REP,TERRY ROGERS ,2423
+Habersham,City of Baldwin,State Representative,10,(REP,TERRY ROGERS ,381
+Habersham,Mud Creek,State Representative,10,(REP,TERRY ROGERS ,2090
+Habersham,Amys Creek,State Representative,10,(REP,TERRY ROGERS ,875
+Habersham,Habersham North,County Comm 2,,R,D. MEALOR,4634
+Habersham,Habersham South,County Comm 2,,R,D. MEALOR,2682
+Habersham,Demorest,County Comm 2,,R,D. MEALOR,2397
+Habersham,Town of Mount Airy,County Comm 2,,R,D. MEALOR,325
+Habersham,City of Baldwin,County Comm 2,,R,D. MEALOR,381
+Habersham,Mud Creek,County Comm 2,,R,D. MEALOR,2087
+Habersham,Amys Creek,County Comm 2,,R,D. MEALOR,860
+Habersham,Habersham North,County Comm 3,,R,J. TENCH,4641
+Habersham,Habersham South,County Comm 3,,R,J. TENCH,2697
+Habersham,Demorest,County Comm 3,,R,J. TENCH,2401
+Habersham,Town of Mount Airy,County Comm 3,,R,J. TENCH,323
+Habersham,City of Baldwin,County Comm 3,,R,J. TENCH,381
+Habersham,Mud Creek,County Comm 3,,R,J. TENCH,2070
+Habersham,Amys Creek,County Comm 3,,R,J. TENCH,859
+Habersham,Habersham North,BOE 3,,R,"R. NELSON, III ",4602
+Habersham,Habersham South,BOE 3,,R,"R. NELSON, III ",2685
+Habersham,Demorest,BOE 3,,R,"R. NELSON, III ",2394
+Habersham,Town of Mount Airy,BOE 3,,R,"R. NELSON, III ",328
+Habersham,City of Baldwin,BOE 3,,R,"R. NELSON, III ",377
+Habersham,Mud Creek,BOE 3,,R,"R. NELSON, III ",2060
+Habersham,Amys Creek,BOE 3,,R,"R. NELSON, III ",860
+Habersham,Habersham North,BOE 4,,R,K. DOVER,4648
+Habersham,Habersham South,BOE 4,,R,K. DOVER,2705
+Habersham,Demorest,BOE 4,,R,K. DOVER,2384
+Habersham,Town of Mount Airy,BOE 4,,R,K. DOVER,327
+Habersham,City of Baldwin,BOE 4,,R,K. DOVER,380
+Habersham,Mud Creek,BOE 4,,R,K. DOVER,2085
+Habersham,Amys Creek,BOE 4,,R,K. DOVER,866
+Habersham,Habersham North,BOE 5,,R,J. F. ELGER,4630
+Habersham,Habersham South,BOE 5,,R,J. F. ELGER,2705
+Habersham,Demorest,BOE 5,,R,J. F. ELGER,2377
+Habersham,Town of Mount Airy,BOE 5,,R,J. F. ELGER,329
+Habersham,City of Baldwin,BOE 5,,R,J. F. ELGER,385
+Habersham,Mud Creek,BOE 5,,R,J. F. ELGER,2076
+Habersham,Amys Creek,BOE 5,,R,J. F. ELGER,877
+Habersham,Habersham North,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4040
+Habersham,Habersham South,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2382
+Habersham,Demorest,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2007
+Habersham,Town of Mount Airy,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,310
+Habersham,City of Baldwin,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,337
+Habersham,Mud Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1726
+Habersham,Amys Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,800
+Habersham,Habersham North,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1186
+Habersham,Habersham South,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,665
+Habersham,Demorest,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,626
+Habersham,Town of Mount Airy,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,70
+Habersham,City of Baldwin,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,90
+Habersham,Mud Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,517
+Habersham,Amys Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,198
+Habersham,Habersham North,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3158
+Habersham,Habersham South,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1805
+Habersham,Demorest,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1609
+Habersham,Town of Mount Airy,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,261
+Habersham,City of Baldwin,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,272
+Habersham,Mud Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1349
+Habersham,Amys Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,631
+Habersham,Habersham North,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1851
+Habersham,Habersham South,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1097
+Habersham,Demorest,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,919
+Habersham,Town of Mount Airy,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,109
+Habersham,City of Baldwin,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,143
+Habersham,Mud Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,821
+Habersham,Amys Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,331
+Habersham,Habersham North,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2815
+Habersham,Habersham South,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1634
+Habersham,Demorest,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1368
+Habersham,Town of Mount Airy,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,210
+Habersham,City of Baldwin,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,241
+Habersham,Mud Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1200
+Habersham,Amys Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,602
+Habersham,Habersham North,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2145
+Habersham,Habersham South,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1249
+Habersham,Demorest,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1145
+Habersham,Town of Mount Airy,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,150
+Habersham,City of Baldwin,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,168
+Habersham,Mud Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,943
+Habersham,Amys Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,358
+Habersham,Habersham North,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3900
+Habersham,Habersham South,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2364
+Habersham,Demorest,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1957
+Habersham,Town of Mount Airy,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,305
+Habersham,City of Baldwin,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,321
+Habersham,Mud Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1685
+Habersham,Amys Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,789
+Habersham,Habersham North,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1261
+Habersham,Habersham South,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,636
+Habersham,Demorest,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,640
+Habersham,Town of Mount Airy,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,68
+Habersham,City of Baldwin,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,107
+Habersham,Mud Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,547
+Habersham,Amys Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,202
+Habersham,Habersham North,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3093
+Habersham,Habersham South,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1870
+Habersham,Demorest,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1590
+Habersham,Town of Mount Airy,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,245
+Habersham,City of Baldwin,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,280
+Habersham,Mud Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1332
+Habersham,Amys Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,590
+Habersham,Habersham North,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1934
+Habersham,Habersham South,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1064
+Habersham,Demorest,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,974
+Habersham,Town of Mount Airy,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,123
+Habersham,City of Baldwin,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,139
+Habersham,Mud Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,836
+Habersham,Amys Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,376
+Habersham,Habersham North,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2310
+Habersham,Habersham South,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1394
+Habersham,Demorest,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1107
+Habersham,Town of Mount Airy,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,183
+Habersham,City of Baldwin,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,209
+Habersham,Mud Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,997
+Habersham,Amys Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,434
+Habersham,Habersham North,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2526
+Habersham,Habersham South,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1408
+Habersham,Demorest,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1366
+Habersham,Town of Mount Airy,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,176
+Habersham,City of Baldwin,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,193
+Habersham,Mud Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1128
+Habersham,Amys Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,498
+Habersham,Habersham North,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3414
+Habersham,Habersham South,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2039
+Habersham,Demorest,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1714
+Habersham,Town of Mount Airy,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,256
+Habersham,City of Baldwin,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,301
+Habersham,Mud Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1482
+Habersham,Amys Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,677
+Habersham,Habersham North,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1571
+Habersham,Habersham South,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,852
+Habersham,Demorest,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,818
+Habersham,Town of Mount Airy,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,110
+Habersham,City of Baldwin,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,111
+Habersham,Mud Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,682
+Habersham,Amys Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,284
+Habersham,Habersham North,SPLOST,,,YES,2374
+Habersham,Habersham South,SPLOST,,,YES,1365
+Habersham,Demorest,SPLOST,,,YES,1121
+Habersham,Town of Mount Airy,SPLOST,,,YES,174
+Habersham,City of Baldwin,SPLOST,,,YES,202
+Habersham,Mud Creek,SPLOST,,,YES,988
+Habersham,Amys Creek,SPLOST,,,YES,460
+Habersham,Habersham North,SPLOST,,,NO,2695
+Habersham,Habersham South,SPLOST,,,NO,1562
+Habersham,Demorest,SPLOST,,,NO,1448
+Habersham,Town of Mount Airy,SPLOST,,,NO,201
+Habersham,City of Baldwin,SPLOST,,,NO,212
+Habersham,Mud Creek,SPLOST,,,NO,1198
+Habersham,Amys Creek,SPLOST,,,NO,517
+Habersham,Habersham North,Habersham Alcohol by the Drink,,,YES,3264
+Habersham,Habersham South,Habersham Alcohol by the Drink,,,YES,1909
+Habersham,Demorest,Habersham Alcohol by the Drink,,,YES,1567
+Habersham,Town of Mount Airy,Habersham Alcohol by the Drink,,,YES,270
+Habersham,City of Baldwin,Habersham Alcohol by the Drink,,,YES,281
+Habersham,Mud Creek,Habersham Alcohol by the Drink,,,YES,1388
+Habersham,Amys Creek,Habersham Alcohol by the Drink,,,YES,711
+Habersham,Habersham North,Habersham Alcohol by the Drink,,,NO,1930
+Habersham,Habersham South,Habersham Alcohol by the Drink,,,NO,1113
+Habersham,Demorest,Habersham Alcohol by the Drink,,,NO,1059
+Habersham,Town of Mount Airy,Habersham Alcohol by the Drink,,,NO,113
+Habersham,City of Baldwin,Habersham Alcohol by the Drink,,,NO,143
+Habersham,Mud Creek,Habersham Alcohol by the Drink,,,NO,869
+Habersham,Amys Creek,Habersham Alcohol by the Drink,,,NO,280
+Habersham,Habersham North,Habersham Sunday Alcohol,,,YES,2898
+Habersham,Habersham South,Habersham Sunday Alcohol,,,YES,1697
+Habersham,Demorest,Habersham Sunday Alcohol,,,YES,1391
+Habersham,Town of Mount Airy,Habersham Sunday Alcohol,,,YES,246
+Habersham,City of Baldwin,Habersham Sunday Alcohol,,,YES,244
+Habersham,Mud Creek,Habersham Sunday Alcohol,,,YES,1218
+Habersham,Amys Creek,Habersham Sunday Alcohol,,,YES,647
+Habersham,Habersham North,Habersham Sunday Alcohol,,,NO,2295
+Habersham,Habersham South,Habersham Sunday Alcohol,,,NO,1339
+Habersham,Demorest,Habersham Sunday Alcohol,,,NO,1246
+Habersham,Town of Mount Airy,Habersham Sunday Alcohol,,,NO,132
+Habersham,City of Baldwin,Habersham Sunday Alcohol,,,NO,181
+Habersham,Mud Creek,Habersham Sunday Alcohol,,,NO,1037
+Habersham,Amys Creek,Habersham Sunday Alcohol,,,NO,343
+Habersham,Mud Creek,Alto Alcohol Package Sales,,,YES,91
+Habersham,Mud Creek,Alto Alcohol Package Sales,,,NO,69
+Habersham,Habersham North,Clarkesville City Council,,,R. BARRON,433
+Habersham,Habersham North,Clarkesville City Council,,,M. CASH,132

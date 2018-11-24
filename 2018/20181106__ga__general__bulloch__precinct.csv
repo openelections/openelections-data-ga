@@ -1,0 +1,822 @@
+county,precinct,office,district,party,candidate,votes
+Bulloch,Lockhart,Governor,,REP,BRIAN KEMP,317
+Bulloch,Emit,Governor,,REP,BRIAN KEMP,1185
+Bulloch,Statesboro,Governor,,REP,BRIAN KEMP,1518
+Bulloch,Portal,Governor,,REP,BRIAN KEMP,682
+Bulloch,Fair,Governor,,REP,BRIAN KEMP,2190
+Bulloch,Church,Governor,,REP,BRIAN KEMP,1464
+Bulloch,Pittman Park,Governor,,REP,BRIAN KEMP,862
+Bulloch,Leefield,Governor,,REP,BRIAN KEMP,477
+Bulloch,Blitch,Governor,,REP,BRIAN KEMP,1003
+Bulloch,Hagin,Governor,,REP,BRIAN KEMP,884
+Bulloch,Brooklet,Governor,,REP,BRIAN KEMP,1465
+Bulloch,Stilson,Governor,,REP,BRIAN KEMP,885
+Bulloch,Bay,Governor,,REP,BRIAN KEMP,792
+Bulloch,Nevils,Governor,,REP,BRIAN KEMP,537
+Bulloch,Sinkhole,Governor,,REP,BRIAN KEMP,281
+Bulloch,Register,Governor,,REP,BRIAN KEMP,306
+Bulloch,Lockhart,Governor,,DEM,STACEY ABRAMS,124
+Bulloch,Emit,Governor,,DEM,STACEY ABRAMS,511
+Bulloch,Statesboro,Governor,,DEM,STACEY ABRAMS,1677
+Bulloch,Portal,Governor,,DEM,STACEY ABRAMS,252
+Bulloch,Fair,Governor,,DEM,STACEY ABRAMS,1201
+Bulloch,Church,Governor,,DEM,STACEY ABRAMS,1562
+Bulloch,Pittman Park,Governor,,DEM,STACEY ABRAMS,1490
+Bulloch,Leefield,Governor,,DEM,STACEY ABRAMS,74
+Bulloch,Blitch,Governor,,DEM,STACEY ABRAMS,294
+Bulloch,Hagin,Governor,,DEM,STACEY ABRAMS,459
+Bulloch,Brooklet,Governor,,DEM,STACEY ABRAMS,384
+Bulloch,Stilson,Governor,,DEM,STACEY ABRAMS,154
+Bulloch,Bay,Governor,,DEM,STACEY ABRAMS,114
+Bulloch,Nevils,Governor,,DEM,STACEY ABRAMS,125
+Bulloch,Sinkhole,Governor,,DEM,STACEY ABRAMS,39
+Bulloch,Register,Governor,,DEM,STACEY ABRAMS,170
+Bulloch,Lockhart,Governor,,LIB,TED METZ,3
+Bulloch,Emit,Governor,,LIB,TED METZ,22
+Bulloch,Statesboro,Governor,,LIB,TED METZ,14
+Bulloch,Portal,Governor,,LIB,TED METZ,6
+Bulloch,Fair,Governor,,LIB,TED METZ,32
+Bulloch,Church,Governor,,LIB,TED METZ,34
+Bulloch,Pittman Park,Governor,,LIB,TED METZ,32
+Bulloch,Leefield,Governor,,LIB,TED METZ,4
+Bulloch,Blitch,Governor,,LIB,TED METZ,8
+Bulloch,Hagin,Governor,,LIB,TED METZ,8
+Bulloch,Brooklet,Governor,,LIB,TED METZ,16
+Bulloch,Stilson,Governor,,LIB,TED METZ,8
+Bulloch,Bay,Governor,,LIB,TED METZ,5
+Bulloch,Nevils,Governor,,LIB,TED METZ,5
+Bulloch,Sinkhole,Governor,,LIB,TED METZ,3
+Bulloch,Register,Governor,,LIB,TED METZ,5
+Bulloch,Lockhart,Lieutenant Governor,,REP,GEOFF DUNCAN,308
+Bulloch,Emit,Lieutenant Governor,,REP,GEOFF DUNCAN,1175
+Bulloch,Statesboro,Lieutenant Governor,,REP,GEOFF DUNCAN,1502
+Bulloch,Portal,Lieutenant Governor,,REP,GEOFF DUNCAN,661
+Bulloch,Fair,Lieutenant Governor,,REP,GEOFF DUNCAN,2144
+Bulloch,Church,Lieutenant Governor,,REP,GEOFF DUNCAN,1448
+Bulloch,Pittman Park,Lieutenant Governor,,REP,GEOFF DUNCAN,875
+Bulloch,Leefield,Lieutenant Governor,,REP,GEOFF DUNCAN,459
+Bulloch,Blitch,Lieutenant Governor,,REP,GEOFF DUNCAN,977
+Bulloch,Hagin,Lieutenant Governor,,REP,GEOFF DUNCAN,872
+Bulloch,Brooklet,Lieutenant Governor,,REP,GEOFF DUNCAN,1425
+Bulloch,Stilson,Lieutenant Governor,,REP,GEOFF DUNCAN,833
+Bulloch,Bay,Lieutenant Governor,,REP,GEOFF DUNCAN,762
+Bulloch,Nevils,Lieutenant Governor,,REP,GEOFF DUNCAN,509
+Bulloch,Sinkhole,Lieutenant Governor,,REP,GEOFF DUNCAN,271
+Bulloch,Register,Lieutenant Governor,,REP,GEOFF DUNCAN,302
+Bulloch,Lockhart,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,116
+Bulloch,Emit,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,497
+Bulloch,Statesboro,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1546
+Bulloch,Portal,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,239
+Bulloch,Fair,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1168
+Bulloch,Church,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1447
+Bulloch,Pittman Park,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1421
+Bulloch,Leefield,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,73
+Bulloch,Blitch,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,277
+Bulloch,Hagin,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,411
+Bulloch,Brooklet,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,382
+Bulloch,Stilson,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,164
+Bulloch,Bay,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,112
+Bulloch,Nevils,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,119
+Bulloch,Sinkhole,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,41
+Bulloch,Register,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,153
+Bulloch,Lockhart,Secretary Of State,,REP,BRAD RAFFENSPERGER,273
+Bulloch,Emit,Secretary Of State,,REP,BRAD RAFFENSPERGER,1083
+Bulloch,Statesboro,Secretary Of State,,REP,BRAD RAFFENSPERGER,1347
+Bulloch,Portal,Secretary Of State,,REP,BRAD RAFFENSPERGER,589
+Bulloch,Fair,Secretary Of State,,REP,BRAD RAFFENSPERGER,1964
+Bulloch,Church,Secretary Of State,,REP,BRAD RAFFENSPERGER,1299
+Bulloch,Pittman Park,Secretary Of State,,REP,BRAD RAFFENSPERGER,794
+Bulloch,Leefield,Secretary Of State,,REP,BRAD RAFFENSPERGER,416
+Bulloch,Blitch,Secretary Of State,,REP,BRAD RAFFENSPERGER,882
+Bulloch,Hagin,Secretary Of State,,REP,BRAD RAFFENSPERGER,801
+Bulloch,Brooklet,Secretary Of State,,REP,BRAD RAFFENSPERGER,1313
+Bulloch,Stilson,Secretary Of State,,REP,BRAD RAFFENSPERGER,761
+Bulloch,Bay,Secretary Of State,,REP,BRAD RAFFENSPERGER,711
+Bulloch,Nevils,Secretary Of State,,REP,BRAD RAFFENSPERGER,485
+Bulloch,Sinkhole,Secretary Of State,,REP,BRAD RAFFENSPERGER,258
+Bulloch,Register,Secretary Of State,,REP,BRAD RAFFENSPERGER,266
+Bulloch,Lockhart,Secretary Of State,,DEM,JOHN BARROW,162
+Bulloch,Emit,Secretary Of State,,DEM,JOHN BARROW,599
+Bulloch,Statesboro,Secretary Of State,,DEM,JOHN BARROW,1765
+Bulloch,Portal,Secretary Of State,,DEM,JOHN BARROW,326
+Bulloch,Fair,Secretary Of State,,DEM,JOHN BARROW,1365
+Bulloch,Church,Secretary Of State,,DEM,JOHN BARROW,1659
+Bulloch,Pittman Park,Secretary Of State,,DEM,JOHN BARROW,1462
+Bulloch,Leefield,Secretary Of State,,DEM,JOHN BARROW,119
+Bulloch,Blitch,Secretary Of State,,DEM,JOHN BARROW,391
+Bulloch,Hagin,Secretary Of State,,DEM,JOHN BARROW,503
+Bulloch,Brooklet,Secretary Of State,,DEM,JOHN BARROW,497
+Bulloch,Stilson,Secretary Of State,,DEM,JOHN BARROW,253
+Bulloch,Bay,Secretary Of State,,DEM,JOHN BARROW,187
+Bulloch,Nevils,Secretary Of State,,DEM,JOHN BARROW,169
+Bulloch,Sinkhole,Secretary Of State,,DEM,JOHN BARROW,60
+Bulloch,Register,Secretary Of State,,DEM,JOHN BARROW,204
+Bulloch,Lockhart,Secretary Of State,,LIB,SMYTHE DUVAL,8
+Bulloch,Emit,Secretary Of State,,LIB,SMYTHE DUVAL,24
+Bulloch,Statesboro,Secretary Of State,,LIB,SMYTHE DUVAL,58
+Bulloch,Portal,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Bulloch,Fair,Secretary Of State,,LIB,SMYTHE DUVAL,56
+Bulloch,Church,Secretary Of State,,LIB,SMYTHE DUVAL,53
+Bulloch,Pittman Park,Secretary Of State,,LIB,SMYTHE DUVAL,100
+Bulloch,Leefield,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Bulloch,Blitch,Secretary Of State,,LIB,SMYTHE DUVAL,14
+Bulloch,Hagin,Secretary Of State,,LIB,SMYTHE DUVAL,22
+Bulloch,Brooklet,Secretary Of State,,LIB,SMYTHE DUVAL,31
+Bulloch,Stilson,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Bulloch,Bay,Secretary Of State,,LIB,SMYTHE DUVAL,10
+Bulloch,Nevils,Secretary Of State,,LIB,SMYTHE DUVAL,6
+Bulloch,Sinkhole,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Bulloch,Register,Secretary Of State,,LIB,SMYTHE DUVAL,4
+Bulloch,Lockhart,Attorney General,,(REP,CHRIS CARR ,311
+Bulloch,Emit,Attorney General,,(REP,CHRIS CARR ,1189
+Bulloch,Statesboro,Attorney General,,(REP,CHRIS CARR ,1534
+Bulloch,Portal,Attorney General,,(REP,CHRIS CARR ,668
+Bulloch,Fair,Attorney General,,(REP,CHRIS CARR ,2189
+Bulloch,Church,Attorney General,,(REP,CHRIS CARR ,1473
+Bulloch,Pittman Park,Attorney General,,(REP,CHRIS CARR ,909
+Bulloch,Leefield,Attorney General,,(REP,CHRIS CARR ,465
+Bulloch,Blitch,Attorney General,,(REP,CHRIS CARR ,981
+Bulloch,Hagin,Attorney General,,(REP,CHRIS CARR ,878
+Bulloch,Brooklet,Attorney General,,(REP,CHRIS CARR ,1450
+Bulloch,Stilson,Attorney General,,(REP,CHRIS CARR ,851
+Bulloch,Bay,Attorney General,,(REP,CHRIS CARR ,766
+Bulloch,Nevils,Attorney General,,(REP,CHRIS CARR ,523
+Bulloch,Sinkhole,Attorney General,,(REP,CHRIS CARR ,275
+Bulloch,Register,Attorney General,,(REP,CHRIS CARR ,299
+Bulloch,Lockhart,Attorney General,,DEM,CHARLIE BAILEY,119
+Bulloch,Emit,Attorney General,,DEM,CHARLIE BAILEY,504
+Bulloch,Statesboro,Attorney General,,DEM,CHARLIE BAILEY,1587
+Bulloch,Portal,Attorney General,,DEM,CHARLIE BAILEY,244
+Bulloch,Fair,Attorney General,,DEM,CHARLIE BAILEY,1163
+Bulloch,Church,Attorney General,,DEM,CHARLIE BAILEY,1502
+Bulloch,Pittman Park,Attorney General,,DEM,CHARLIE BAILEY,1427
+Bulloch,Leefield,Attorney General,,DEM,CHARLIE BAILEY,79
+Bulloch,Blitch,Attorney General,,DEM,CHARLIE BAILEY,298
+Bulloch,Hagin,Attorney General,,DEM,CHARLIE BAILEY,430
+Bulloch,Brooklet,Attorney General,,DEM,CHARLIE BAILEY,380
+Bulloch,Stilson,Attorney General,,DEM,CHARLIE BAILEY,169
+Bulloch,Bay,Attorney General,,DEM,CHARLIE BAILEY,127
+Bulloch,Nevils,Attorney General,,DEM,CHARLIE BAILEY,127
+Bulloch,Sinkhole,Attorney General,,DEM,CHARLIE BAILEY,41
+Bulloch,Register,Attorney General,,DEM,CHARLIE BAILEY,163
+Bulloch,Lockhart,Commissioner Of Agriculture,,(REP,GARY BLACK ,326
+Bulloch,Emit,Commissioner Of Agriculture,,(REP,GARY BLACK ,1235
+Bulloch,Statesboro,Commissioner Of Agriculture,,(REP,GARY BLACK ,1604
+Bulloch,Portal,Commissioner Of Agriculture,,(REP,GARY BLACK ,686
+Bulloch,Fair,Commissioner Of Agriculture,,(REP,GARY BLACK ,2283
+Bulloch,Church,Commissioner Of Agriculture,,(REP,GARY BLACK ,1548
+Bulloch,Pittman Park,Commissioner Of Agriculture,,(REP,GARY BLACK ,973
+Bulloch,Leefield,Commissioner Of Agriculture,,(REP,GARY BLACK ,477
+Bulloch,Blitch,Commissioner Of Agriculture,,(REP,GARY BLACK ,1009
+Bulloch,Hagin,Commissioner Of Agriculture,,(REP,GARY BLACK ,902
+Bulloch,Brooklet,Commissioner Of Agriculture,,(REP,GARY BLACK ,1469
+Bulloch,Stilson,Commissioner Of Agriculture,,(REP,GARY BLACK ,878
+Bulloch,Bay,Commissioner Of Agriculture,,(REP,GARY BLACK ,785
+Bulloch,Nevils,Commissioner Of Agriculture,,(REP,GARY BLACK ,530
+Bulloch,Sinkhole,Commissioner Of Agriculture,,(REP,GARY BLACK ,275
+Bulloch,Register,Commissioner Of Agriculture,,(REP,GARY BLACK ,309
+Bulloch,Lockhart,Commissioner Of Agriculture,,DEM,FRED SWANN,101
+Bulloch,Emit,Commissioner Of Agriculture,,DEM,FRED SWANN,450
+Bulloch,Statesboro,Commissioner Of Agriculture,,DEM,FRED SWANN,1509
+Bulloch,Portal,Commissioner Of Agriculture,,DEM,FRED SWANN,234
+Bulloch,Fair,Commissioner Of Agriculture,,DEM,FRED SWANN,1067
+Bulloch,Church,Commissioner Of Agriculture,,DEM,FRED SWANN,1419
+Bulloch,Pittman Park,Commissioner Of Agriculture,,DEM,FRED SWANN,1346
+Bulloch,Leefield,Commissioner Of Agriculture,,DEM,FRED SWANN,65
+Bulloch,Blitch,Commissioner Of Agriculture,,DEM,FRED SWANN,267
+Bulloch,Hagin,Commissioner Of Agriculture,,DEM,FRED SWANN,405
+Bulloch,Brooklet,Commissioner Of Agriculture,,DEM,FRED SWANN,353
+Bulloch,Stilson,Commissioner Of Agriculture,,DEM,FRED SWANN,139
+Bulloch,Bay,Commissioner Of Agriculture,,DEM,FRED SWANN,108
+Bulloch,Nevils,Commissioner Of Agriculture,,DEM,FRED SWANN,118
+Bulloch,Sinkhole,Commissioner Of Agriculture,,DEM,FRED SWANN,41
+Bulloch,Register,Commissioner Of Agriculture,,DEM,FRED SWANN,156
+Bulloch,Lockhart,Commissioner Of Insurance,,REP,JIM BECK,317
+Bulloch,Emit,Commissioner Of Insurance,,REP,JIM BECK,1171
+Bulloch,Statesboro,Commissioner Of Insurance,,REP,JIM BECK,1498
+Bulloch,Portal,Commissioner Of Insurance,,REP,JIM BECK,669
+Bulloch,Fair,Commissioner Of Insurance,,REP,JIM BECK,2160
+Bulloch,Church,Commissioner Of Insurance,,REP,JIM BECK,1439
+Bulloch,Pittman Park,Commissioner Of Insurance,,REP,JIM BECK,862
+Bulloch,Leefield,Commissioner Of Insurance,,REP,JIM BECK,464
+Bulloch,Blitch,Commissioner Of Insurance,,REP,JIM BECK,983
+Bulloch,Hagin,Commissioner Of Insurance,,REP,JIM BECK,874
+Bulloch,Brooklet,Commissioner Of Insurance,,REP,JIM BECK,1438
+Bulloch,Stilson,Commissioner Of Insurance,,REP,JIM BECK,856
+Bulloch,Bay,Commissioner Of Insurance,,REP,JIM BECK,780
+Bulloch,Nevils,Commissioner Of Insurance,,REP,JIM BECK,529
+Bulloch,Sinkhole,Commissioner Of Insurance,,REP,JIM BECK,278
+Bulloch,Register,Commissioner Of Insurance,,REP,JIM BECK,301
+Bulloch,Lockhart,Commissioner Of Insurance,,DEM,JANICE LAWS,112
+Bulloch,Emit,Commissioner Of Insurance,,DEM,JANICE LAWS,473
+Bulloch,Statesboro,Commissioner Of Insurance,,DEM,JANICE LAWS,1562
+Bulloch,Portal,Commissioner Of Insurance,,DEM,JANICE LAWS,236
+Bulloch,Fair,Commissioner Of Insurance,,DEM,JANICE LAWS,1122
+Bulloch,Church,Commissioner Of Insurance,,DEM,JANICE LAWS,1457
+Bulloch,Pittman Park,Commissioner Of Insurance,,DEM,JANICE LAWS,1366
+Bulloch,Leefield,Commissioner Of Insurance,,DEM,JANICE LAWS,63
+Bulloch,Blitch,Commissioner Of Insurance,,DEM,JANICE LAWS,275
+Bulloch,Hagin,Commissioner Of Insurance,,DEM,JANICE LAWS,416
+Bulloch,Brooklet,Commissioner Of Insurance,,DEM,JANICE LAWS,352
+Bulloch,Stilson,Commissioner Of Insurance,,DEM,JANICE LAWS,153
+Bulloch,Bay,Commissioner Of Insurance,,DEM,JANICE LAWS,106
+Bulloch,Nevils,Commissioner Of Insurance,,DEM,JANICE LAWS,119
+Bulloch,Sinkhole,Commissioner Of Insurance,,DEM,JANICE LAWS,38
+Bulloch,Register,Commissioner Of Insurance,,DEM,JANICE LAWS,158
+Bulloch,Lockhart,Commissioner Of Insurance,,LIB,DONNIE FOSTER,4
+Bulloch,Emit,Commissioner Of Insurance,,LIB,DONNIE FOSTER,44
+Bulloch,Statesboro,Commissioner Of Insurance,,LIB,DONNIE FOSTER,62
+Bulloch,Portal,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Bulloch,Fair,Commissioner Of Insurance,,LIB,DONNIE FOSTER,68
+Bulloch,Church,Commissioner Of Insurance,,LIB,DONNIE FOSTER,80
+Bulloch,Pittman Park,Commissioner Of Insurance,,LIB,DONNIE FOSTER,106
+Bulloch,Leefield,Commissioner Of Insurance,,LIB,DONNIE FOSTER,19
+Bulloch,Blitch,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Bulloch,Hagin,Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Bulloch,Brooklet,Commissioner Of Insurance,,LIB,DONNIE FOSTER,36
+Bulloch,Stilson,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
+Bulloch,Bay,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
+Bulloch,Nevils,Commissioner Of Insurance,,LIB,DONNIE FOSTER,6
+Bulloch,Sinkhole,Commissioner Of Insurance,,LIB,DONNIE FOSTER,4
+Bulloch,Register,Commissioner Of Insurance,,LIB,DONNIE FOSTER,10
+Bulloch,Lockhart,State School Superintendent,,(REP,RICHARD WOODS ,319
+Bulloch,Emit,State School Superintendent,,(REP,RICHARD WOODS ,1229
+Bulloch,Statesboro,State School Superintendent,,(REP,RICHARD WOODS ,1573
+Bulloch,Portal,State School Superintendent,,(REP,RICHARD WOODS ,687
+Bulloch,Fair,State School Superintendent,,(REP,RICHARD WOODS ,2250
+Bulloch,Church,State School Superintendent,,(REP,RICHARD WOODS ,1530
+Bulloch,Pittman Park,State School Superintendent,,(REP,RICHARD WOODS ,935
+Bulloch,Leefield,State School Superintendent,,(REP,RICHARD WOODS ,479
+Bulloch,Blitch,State School Superintendent,,(REP,RICHARD WOODS ,1013
+Bulloch,Hagin,State School Superintendent,,(REP,RICHARD WOODS ,900
+Bulloch,Brooklet,State School Superintendent,,(REP,RICHARD WOODS ,1478
+Bulloch,Stilson,State School Superintendent,,(REP,RICHARD WOODS ,873
+Bulloch,Bay,State School Superintendent,,(REP,RICHARD WOODS ,792
+Bulloch,Nevils,State School Superintendent,,(REP,RICHARD WOODS ,534
+Bulloch,Sinkhole,State School Superintendent,,(REP,RICHARD WOODS ,280
+Bulloch,Register,State School Superintendent,,(REP,RICHARD WOODS ,308
+Bulloch,Lockhart,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",113
+Bulloch,Emit,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",473
+Bulloch,Statesboro,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1556
+Bulloch,Portal,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",230
+Bulloch,Fair,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1096
+Bulloch,Church,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1447
+Bulloch,Pittman Park,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1395
+Bulloch,Leefield,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",67
+Bulloch,Blitch,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",277
+Bulloch,Hagin,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",418
+Bulloch,Brooklet,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",355
+Bulloch,Stilson,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",150
+Bulloch,Bay,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",105
+Bulloch,Nevils,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",124
+Bulloch,Sinkhole,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",40
+Bulloch,Register,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",162
+Bulloch,Lockhart,Commissioner Of Labor,,(REP,MARK BUTLER ,318
+Bulloch,Emit,Commissioner Of Labor,,(REP,MARK BUTLER ,1215
+Bulloch,Statesboro,Commissioner Of Labor,,(REP,MARK BUTLER ,1543
+Bulloch,Portal,Commissioner Of Labor,,(REP,MARK BUTLER ,673
+Bulloch,Fair,Commissioner Of Labor,,(REP,MARK BUTLER ,2218
+Bulloch,Church,Commissioner Of Labor,,(REP,MARK BUTLER ,1499
+Bulloch,Pittman Park,Commissioner Of Labor,,(REP,MARK BUTLER ,919
+Bulloch,Leefield,Commissioner Of Labor,,(REP,MARK BUTLER ,475
+Bulloch,Blitch,Commissioner Of Labor,,(REP,MARK BUTLER ,1001
+Bulloch,Hagin,Commissioner Of Labor,,(REP,MARK BUTLER ,890
+Bulloch,Brooklet,Commissioner Of Labor,,(REP,MARK BUTLER ,1463
+Bulloch,Stilson,Commissioner Of Labor,,(REP,MARK BUTLER ,860
+Bulloch,Bay,Commissioner Of Labor,,(REP,MARK BUTLER ,788
+Bulloch,Nevils,Commissioner Of Labor,,(REP,MARK BUTLER ,530
+Bulloch,Sinkhole,Commissioner Of Labor,,(REP,MARK BUTLER ,278
+Bulloch,Register,Commissioner Of Labor,,(REP,MARK BUTLER ,310
+Bulloch,Lockhart,Commissioner Of Labor,,DEM,RICHARD KEATLEY,113
+Bulloch,Emit,Commissioner Of Labor,,DEM,RICHARD KEATLEY,475
+Bulloch,Statesboro,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1574
+Bulloch,Portal,Commissioner Of Labor,,DEM,RICHARD KEATLEY,236
+Bulloch,Fair,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1118
+Bulloch,Church,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1474
+Bulloch,Pittman Park,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1387
+Bulloch,Leefield,Commissioner Of Labor,,DEM,RICHARD KEATLEY,71
+Bulloch,Blitch,Commissioner Of Labor,,DEM,RICHARD KEATLEY,280
+Bulloch,Hagin,Commissioner Of Labor,,DEM,RICHARD KEATLEY,423
+Bulloch,Brooklet,Commissioner Of Labor,,DEM,RICHARD KEATLEY,368
+Bulloch,Stilson,Commissioner Of Labor,,DEM,RICHARD KEATLEY,160
+Bulloch,Bay,Commissioner Of Labor,,DEM,RICHARD KEATLEY,109
+Bulloch,Nevils,Commissioner Of Labor,,DEM,RICHARD KEATLEY,125
+Bulloch,Sinkhole,Commissioner Of Labor,,DEM,RICHARD KEATLEY,40
+Bulloch,Register,Commissioner Of Labor,,DEM,RICHARD KEATLEY,162
+Bulloch,Lockhart,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,312
+Bulloch,Emit,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1178
+Bulloch,Statesboro,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1500
+Bulloch,Portal,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,654
+Bulloch,Fair,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2153
+Bulloch,Church,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1432
+Bulloch,Pittman Park,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,861
+Bulloch,Leefield,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,466
+Bulloch,Blitch,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,978
+Bulloch,Hagin,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,859
+Bulloch,Brooklet,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1423
+Bulloch,Stilson,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,849
+Bulloch,Bay,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,760
+Bulloch,Nevils,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,523
+Bulloch,Sinkhole,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,264
+Bulloch,Register,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,296
+Bulloch,Lockhart,"Public Service Commission, District 3",3,DEM,LINDY MILLER,112
+Bulloch,Emit,"Public Service Commission, District 3",3,DEM,LINDY MILLER,466
+Bulloch,Statesboro,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1556
+Bulloch,Portal,"Public Service Commission, District 3",3,DEM,LINDY MILLER,242
+Bulloch,Fair,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1103
+Bulloch,Church,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1463
+Bulloch,Pittman Park,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1366
+Bulloch,Leefield,"Public Service Commission, District 3",3,DEM,LINDY MILLER,67
+Bulloch,Blitch,"Public Service Commission, District 3",3,DEM,LINDY MILLER,275
+Bulloch,Hagin,"Public Service Commission, District 3",3,DEM,LINDY MILLER,427
+Bulloch,Brooklet,"Public Service Commission, District 3",3,DEM,LINDY MILLER,366
+Bulloch,Stilson,"Public Service Commission, District 3",3,DEM,LINDY MILLER,153
+Bulloch,Bay,"Public Service Commission, District 3",3,DEM,LINDY MILLER,115
+Bulloch,Nevils,"Public Service Commission, District 3",3,DEM,LINDY MILLER,128
+Bulloch,Sinkhole,"Public Service Commission, District 3",3,DEM,LINDY MILLER,45
+Bulloch,Register,"Public Service Commission, District 3",3,DEM,LINDY MILLER,157
+Bulloch,Lockhart,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Bulloch,Emit,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,46
+Bulloch,Statesboro,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,70
+Bulloch,Portal,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,15
+Bulloch,Fair,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,82
+Bulloch,Church,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,83
+Bulloch,Pittman Park,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,96
+Bulloch,Leefield,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,11
+Bulloch,Blitch,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,25
+Bulloch,Hagin,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,31
+Bulloch,Brooklet,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,39
+Bulloch,Stilson,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,20
+Bulloch,Bay,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,19
+Bulloch,Nevils,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,6
+Bulloch,Sinkhole,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Bulloch,Register,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,14
+Bulloch,Lockhart,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,306
+Bulloch,Emit,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1179
+Bulloch,Statesboro,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1498
+Bulloch,Portal,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,658
+Bulloch,Fair,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2150
+Bulloch,Church,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1427
+Bulloch,Pittman Park,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,865
+Bulloch,Leefield,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,462
+Bulloch,Blitch,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,975
+Bulloch,Hagin,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,860
+Bulloch,Brooklet,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1416
+Bulloch,Stilson,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,846
+Bulloch,Bay,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,763
+Bulloch,Nevils,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,523
+Bulloch,Sinkhole,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,270
+Bulloch,Register,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,297
+Bulloch,Lockhart,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,113
+Bulloch,Emit,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,475
+Bulloch,Statesboro,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1567
+Bulloch,Portal,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,240
+Bulloch,Fair,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1123
+Bulloch,Church,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1465
+Bulloch,Pittman Park,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1371
+Bulloch,Leefield,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,68
+Bulloch,Blitch,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,279
+Bulloch,Hagin,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,419
+Bulloch,Brooklet,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,361
+Bulloch,Stilson,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,163
+Bulloch,Bay,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,110
+Bulloch,Nevils,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,124
+Bulloch,Sinkhole,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,43
+Bulloch,Register,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,159
+Bulloch,Lockhart,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,11
+Bulloch,Emit,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,32
+Bulloch,Statesboro,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,58
+Bulloch,Portal,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14
+Bulloch,Fair,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,69
+Bulloch,Church,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,90
+Bulloch,Pittman Park,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,88
+Bulloch,Leefield,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,15
+Bulloch,Blitch,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,20
+Bulloch,Hagin,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,33
+Bulloch,Brooklet,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,46
+Bulloch,Stilson,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Bulloch,Bay,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,19
+Bulloch,Nevils,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,10
+Bulloch,Sinkhole,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,5
+Bulloch,Register,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Bulloch,Lockhart,U.S. Representative,12,(REP,RICK W. ALLEN ,317
+Bulloch,Emit,U.S. Representative,12,(REP,RICK W. ALLEN ,1200
+Bulloch,Statesboro,U.S. Representative,12,(REP,RICK W. ALLEN ,1523
+Bulloch,Portal,U.S. Representative,12,(REP,RICK W. ALLEN ,676
+Bulloch,Fair,U.S. Representative,12,(REP,RICK W. ALLEN ,2199
+Bulloch,Church,U.S. Representative,12,(REP,RICK W. ALLEN ,1504
+Bulloch,Pittman Park,U.S. Representative,12,(REP,RICK W. ALLEN ,907
+Bulloch,Leefield,U.S. Representative,12,(REP,RICK W. ALLEN ,474
+Bulloch,Blitch,U.S. Representative,12,(REP,RICK W. ALLEN ,989
+Bulloch,Hagin,U.S. Representative,12,(REP,RICK W. ALLEN ,891
+Bulloch,Brooklet,U.S. Representative,12,(REP,RICK W. ALLEN ,1479
+Bulloch,Stilson,U.S. Representative,12,(REP,RICK W. ALLEN ,879
+Bulloch,Bay,U.S. Representative,12,(REP,RICK W. ALLEN ,791
+Bulloch,Nevils,U.S. Representative,12,(REP,RICK W. ALLEN ,534
+Bulloch,Sinkhole,U.S. Representative,12,(REP,RICK W. ALLEN ,282
+Bulloch,Register,U.S. Representative,12,(REP,RICK W. ALLEN ,307
+Bulloch,Lockhart,U.S. Representative,12,DEM,FRANCYS JOHNSON,119
+Bulloch,Emit,U.S. Representative,12,DEM,FRANCYS JOHNSON,507
+Bulloch,Statesboro,U.S. Representative,12,DEM,FRANCYS JOHNSON,1644
+Bulloch,Portal,U.S. Representative,12,DEM,FRANCYS JOHNSON,251
+Bulloch,Fair,U.S. Representative,12,DEM,FRANCYS JOHNSON,1193
+Bulloch,Church,U.S. Representative,12,DEM,FRANCYS JOHNSON,1522
+Bulloch,Pittman Park,U.S. Representative,12,DEM,FRANCYS JOHNSON,1450
+Bulloch,Leefield,U.S. Representative,12,DEM,FRANCYS JOHNSON,73
+Bulloch,Blitch,U.S. Representative,12,DEM,FRANCYS JOHNSON,304
+Bulloch,Hagin,U.S. Representative,12,DEM,FRANCYS JOHNSON,436
+Bulloch,Brooklet,U.S. Representative,12,DEM,FRANCYS JOHNSON,369
+Bulloch,Stilson,U.S. Representative,12,DEM,FRANCYS JOHNSON,153
+Bulloch,Bay,U.S. Representative,12,DEM,FRANCYS JOHNSON,111
+Bulloch,Nevils,U.S. Representative,12,DEM,FRANCYS JOHNSON,132
+Bulloch,Sinkhole,U.S. Representative,12,DEM,FRANCYS JOHNSON,40
+Bulloch,Register,U.S. Representative,12,DEM,FRANCYS JOHNSON,169
+Bulloch,Lockhart,State Senator,4,(REP,JACK HILL ,386
+Bulloch,Emit,State Senator,4,(REP,JACK HILL ,1445
+Bulloch,Statesboro,State Senator,4,(REP,JACK HILL ,2356
+Bulloch,Portal,State Senator,4,(REP,JACK HILL ,811
+Bulloch,Fair,State Senator,4,(REP,JACK HILL ,2803
+Bulloch,Church,State Senator,4,(REP,JACK HILL ,2211
+Bulloch,Pittman Park,State Senator,4,(REP,JACK HILL ,1687
+Bulloch,Leefield,State Senator,4,(REP,JACK HILL ,515
+Bulloch,Blitch,State Senator,4,(REP,JACK HILL ,1129
+Bulloch,Hagin,State Senator,4,(REP,JACK HILL ,1081
+Bulloch,Brooklet,State Senator,4,(REP,JACK HILL ,1660
+Bulloch,Stilson,State Senator,4,(REP,JACK HILL ,951
+Bulloch,Bay,State Senator,4,(REP,JACK HILL ,847
+Bulloch,Nevils,State Senator,4,(REP,JACK HILL ,591
+Bulloch,Sinkhole,State Senator,4,(REP,JACK HILL ,291
+Bulloch,Register,State Senator,4,(REP,JACK HILL ,375
+Bulloch,Statesboro,State Representative,158,(REP,BUTCH PARRISH ,2277
+Bulloch,Portal,State Representative,158,(REP,BUTCH PARRISH ,783
+Bulloch,Register,State Representative,158,(REP,BUTCH PARRISH ,181
+Bulloch,Lockhart,State Representative,159,(REP,JON G. BURNS ,375
+Bulloch,Church,State Representative,159,(REP,JON G. BURNS ,2154
+Bulloch,Blitch,State Representative,159,(REP,JON G. BURNS ,1115
+Bulloch,Hagin,State Representative,159,(REP,JON G. BURNS ,702
+Bulloch,Emit,State Representative,160,(REP,JAN TANKERSLEY ,1429
+Bulloch,Statesboro,State Representative,160,(REP,JAN TANKERSLEY ,1
+Bulloch,Fair,State Representative,160,(REP,JAN TANKERSLEY ,2766
+Bulloch,Pittman Park,State Representative,160,(REP,JAN TANKERSLEY ,1670
+Bulloch,Leefield,State Representative,160,(REP,JAN TANKERSLEY ,511
+Bulloch,Hagin,State Representative,160,(REP,JAN TANKERSLEY ,358
+Bulloch,Brooklet,State Representative,160,(REP,JAN TANKERSLEY ,1653
+Bulloch,Stilson,State Representative,160,(REP,JAN TANKERSLEY ,936
+Bulloch,Bay,State Representative,160,(REP,JAN TANKERSLEY ,828
+Bulloch,Nevils,State Representative,160,(REP,JAN TANKERSLEY ,590
+Bulloch,Sinkhole,State Representative,160,(REP,JAN TANKERSLEY ,289
+Bulloch,Register,State Representative,160,(REP,JAN TANKERSLEY ,194
+Bulloch,Lockhart,County Comm 1B,,R,S. BRANNEN,80
+Bulloch,Statesboro,County Comm 1B,,R,S. BRANNEN,487
+Bulloch,Portal,County Comm 1B,,R,S. BRANNEN,546
+Bulloch,Fair,County Comm 1B,,R,S. BRANNEN,20
+Bulloch,Church,County Comm 1B,,R,S. BRANNEN,318
+Bulloch,Pittman Park,County Comm 1B,,R,S. BRANNEN,135
+Bulloch,Hagin,County Comm 1B,,R,S. BRANNEN,90
+Bulloch,Sinkhole,County Comm 1B,,R,S. BRANNEN,1
+Bulloch,Register,County Comm 1B,,R,S. BRANNEN,122
+Bulloch,Lockhart,County Comm 1B,,D,A. SIMMONS ,81
+Bulloch,Statesboro,County Comm 1B,,D,A. SIMMONS ,1268
+Bulloch,Portal,County Comm 1B,,D,A. SIMMONS ,248
+Bulloch,Fair,County Comm 1B,,D,A. SIMMONS ,87
+Bulloch,Church,County Comm 1B,,D,A. SIMMONS ,840
+Bulloch,Pittman Park,County Comm 1B,,D,A. SIMMONS ,480
+Bulloch,Hagin,County Comm 1B,,D,A. SIMMONS ,132
+Bulloch,Sinkhole,County Comm 1B,,D,A. SIMMONS ,8
+Bulloch,Register,County Comm 1B,,D,A. SIMMONS ,109
+Bulloch,Lockhart,County Comm 2B,,R,W. C. GIBSON ,233
+Bulloch,Emit,County Comm 2B,,R,W. C. GIBSON ,1193
+Bulloch,Statesboro,County Comm 2B,,R,W. C. GIBSON ,1018
+Bulloch,Portal,County Comm 2B,,R,W. C. GIBSON ,112
+Bulloch,Fair,County Comm 2B,,R,W. C. GIBSON ,2184
+Bulloch,Church,County Comm 2B,,R,W. C. GIBSON ,1161
+Bulloch,Pittman Park,County Comm 2B,,R,W. C. GIBSON ,773
+Bulloch,Leefield,County Comm 2B,,R,W. C. GIBSON ,470
+Bulloch,Blitch,County Comm 2B,,R,W. C. GIBSON ,993
+Bulloch,Hagin,County Comm 2B,,R,W. C. GIBSON ,795
+Bulloch,Brooklet,County Comm 2B,,R,W. C. GIBSON ,1445
+Bulloch,Stilson,County Comm 2B,,R,W. C. GIBSON ,863
+Bulloch,Bay,County Comm 2B,,R,W. C. GIBSON ,766
+Bulloch,Nevils,County Comm 2B,,R,W. C. GIBSON ,513
+Bulloch,Sinkhole,County Comm 2B,,R,W. C. GIBSON ,274
+Bulloch,Register,County Comm 2B,,R,W. C. GIBSON ,183
+Bulloch,Lockhart,County Comm 2B,,D,A. DOBBS,39
+Bulloch,Emit,County Comm 2B,,D,A. DOBBS,483
+Bulloch,Statesboro,County Comm 2B,,D,A. DOBBS,325
+Bulloch,Portal,County Comm 2B,,D,A. DOBBS,8
+Bulloch,Fair,County Comm 2B,,D,A. DOBBS,1041
+Bulloch,Church,County Comm 2B,,D,A. DOBBS,632
+Bulloch,Pittman Park,County Comm 2B,,D,A. DOBBS,914
+Bulloch,Leefield,County Comm 2B,,D,A. DOBBS,73
+Bulloch,Blitch,County Comm 2B,,D,A. DOBBS,291
+Bulloch,Hagin,County Comm 2B,,D,A. DOBBS,289
+Bulloch,Brooklet,County Comm 2B,,D,A. DOBBS,373
+Bulloch,Stilson,County Comm 2B,,D,A. DOBBS,154
+Bulloch,Bay,County Comm 2B,,D,A. DOBBS,124
+Bulloch,Nevils,County Comm 2B,,D,A. DOBBS,130
+Bulloch,Sinkhole,County Comm 2B,,D,A. DOBBS,31
+Bulloch,Register,County Comm 2B,,D,A. DOBBS,58
+Bulloch,Lockhart,County Comm 2D,,R,"T. RUSHING, SR.",231
+Bulloch,Emit,County Comm 2D,,R,"T. RUSHING, SR.",1195
+Bulloch,Statesboro,County Comm 2D,,R,"T. RUSHING, SR.",1016
+Bulloch,Portal,County Comm 2D,,R,"T. RUSHING, SR.",114
+Bulloch,Fair,County Comm 2D,,R,"T. RUSHING, SR.",2192
+Bulloch,Church,County Comm 2D,,R,"T. RUSHING, SR.",1155
+Bulloch,Pittman Park,County Comm 2D,,R,"T. RUSHING, SR.",755
+Bulloch,Leefield,County Comm 2D,,R,"T. RUSHING, SR.",478
+Bulloch,Blitch,County Comm 2D,,R,"T. RUSHING, SR.",992
+Bulloch,Hagin,County Comm 2D,,R,"T. RUSHING, SR.",798
+Bulloch,Brooklet,County Comm 2D,,R,"T. RUSHING, SR.",1464
+Bulloch,Stilson,County Comm 2D,,R,"T. RUSHING, SR.",864
+Bulloch,Bay,County Comm 2D,,R,"T. RUSHING, SR.",784
+Bulloch,Nevils,County Comm 2D,,R,"T. RUSHING, SR.",527
+Bulloch,Sinkhole,County Comm 2D,,R,"T. RUSHING, SR.",279
+Bulloch,Register,County Comm 2D,,R,"T. RUSHING, SR.",184
+Bulloch,Lockhart,County Comm 2D,,D,C. BROWN,35
+Bulloch,Emit,County Comm 2D,,D,C. BROWN,500
+Bulloch,Statesboro,County Comm 2D,,D,C. BROWN,335
+Bulloch,Portal,County Comm 2D,,D,C. BROWN,7
+Bulloch,Fair,County Comm 2D,,D,C. BROWN,1049
+Bulloch,Church,County Comm 2D,,D,C. BROWN,641
+Bulloch,Pittman Park,County Comm 2D,,D,C. BROWN,929
+Bulloch,Leefield,County Comm 2D,,D,C. BROWN,71
+Bulloch,Blitch,County Comm 2D,,D,C. BROWN,292
+Bulloch,Hagin,County Comm 2D,,D,C. BROWN,291
+Bulloch,Brooklet,County Comm 2D,,D,C. BROWN,366
+Bulloch,Stilson,County Comm 2D,,D,C. BROWN,157
+Bulloch,Bay,County Comm 2D,,D,C. BROWN,119
+Bulloch,Nevils,County Comm 2D,,D,C. BROWN,129
+Bulloch,Sinkhole,County Comm 2D,,D,C. BROWN,29
+Bulloch,Register,County Comm 2D,,D,C. BROWN,61
+Bulloch,Lockhart,Soil and Water,,,C. FINCH ,381
+Bulloch,Emit,Soil and Water,,,C. FINCH ,1429
+Bulloch,Statesboro,Soil and Water,,,C. FINCH ,2407
+Bulloch,Portal,Soil and Water,,,C. FINCH ,794
+Bulloch,Fair,Soil and Water,,,C. FINCH ,2776
+Bulloch,Church,Soil and Water,,,C. FINCH ,2274
+Bulloch,Pittman Park,Soil and Water,,,C. FINCH ,1786
+Bulloch,Leefield,Soil and Water,,,C. FINCH ,494
+Bulloch,Blitch,Soil and Water,,,C. FINCH ,1114
+Bulloch,Hagin,Soil and Water,,,C. FINCH ,1080
+Bulloch,Brooklet,Soil and Water,,,C. FINCH ,1602
+Bulloch,Stilson,Soil and Water,,,C. FINCH ,901
+Bulloch,Bay,Soil and Water,,,C. FINCH ,809
+Bulloch,Nevils,Soil and Water,,,C. FINCH ,572
+Bulloch,Sinkhole,Soil and Water,,,C. FINCH ,286
+Bulloch,Register,Soil and Water,,,C. FINCH ,376
+Bulloch,Lockhart,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,359
+Bulloch,Emit,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1369
+Bulloch,Statesboro,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2511
+Bulloch,Portal,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,729
+Bulloch,Fair,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2715
+Bulloch,Church,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2487
+Bulloch,Pittman Park,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2081
+Bulloch,Leefield,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,429
+Bulloch,Blitch,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1010
+Bulloch,Hagin,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1046
+Bulloch,Brooklet,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1423
+Bulloch,Stilson,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,845
+Bulloch,Bay,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,736
+Bulloch,Nevils,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,483
+Bulloch,Sinkhole,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,220
+Bulloch,Register,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,360
+Bulloch,Lockhart,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,63
+Bulloch,Emit,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,299
+Bulloch,Statesboro,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,593
+Bulloch,Portal,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,179
+Bulloch,Fair,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,613
+Bulloch,Church,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,479
+Bulloch,Pittman Park,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,258
+Bulloch,Leefield,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,108
+Bulloch,Blitch,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,252
+Bulloch,Hagin,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,261
+Bulloch,Brooklet,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,396
+Bulloch,Stilson,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,178
+Bulloch,Bay,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,152
+Bulloch,Nevils,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,160
+Bulloch,Sinkhole,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,96
+Bulloch,Register,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,105
+Bulloch,Lockhart,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,280
+Bulloch,Emit,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1087
+Bulloch,Statesboro,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2074
+Bulloch,Portal,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,606
+Bulloch,Fair,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2167
+Bulloch,Church,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2054
+Bulloch,Pittman Park,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1628
+Bulloch,Leefield,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,353
+Bulloch,Blitch,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,814
+Bulloch,Hagin,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,860
+Bulloch,Brooklet,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1128
+Bulloch,Stilson,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,691
+Bulloch,Bay,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,580
+Bulloch,Nevils,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,395
+Bulloch,Sinkhole,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,188
+Bulloch,Register,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,298
+Bulloch,Lockhart,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,131
+Bulloch,Emit,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,536
+Bulloch,Statesboro,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,946
+Bulloch,Portal,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,285
+Bulloch,Fair,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1066
+Bulloch,Church,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,833
+Bulloch,Pittman Park,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,651
+Bulloch,Leefield,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,168
+Bulloch,Blitch,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,421
+Bulloch,Hagin,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,400
+Bulloch,Brooklet,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,644
+Bulloch,Stilson,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,312
+Bulloch,Bay,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,288
+Bulloch,Nevils,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,241
+Bulloch,Sinkhole,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,121
+Bulloch,Register,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,157
+Bulloch,Lockhart,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,259
+Bulloch,Emit,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,966
+Bulloch,Statesboro,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1902
+Bulloch,Portal,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,539
+Bulloch,Fair,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1984
+Bulloch,Church,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1827
+Bulloch,Pittman Park,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1530
+Bulloch,Leefield,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,339
+Bulloch,Blitch,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,754
+Bulloch,Hagin,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,755
+Bulloch,Brooklet,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1079
+Bulloch,Stilson,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,659
+Bulloch,Bay,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,504
+Bulloch,Nevils,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,365
+Bulloch,Sinkhole,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,172
+Bulloch,Register,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,254
+Bulloch,Lockhart,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,150
+Bulloch,Emit,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,641
+Bulloch,Statesboro,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1073
+Bulloch,Portal,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,334
+Bulloch,Fair,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1230
+Bulloch,Church,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1009
+Bulloch,Pittman Park,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,732
+Bulloch,Leefield,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,184
+Bulloch,Blitch,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,463
+Bulloch,Hagin,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,484
+Bulloch,Brooklet,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,677
+Bulloch,Stilson,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,334
+Bulloch,Bay,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,345
+Bulloch,Nevils,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,266
+Bulloch,Sinkhole,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,133
+Bulloch,Register,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,191
+Bulloch,Lockhart,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,319
+Bulloch,Emit,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1239
+Bulloch,Statesboro,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2366
+Bulloch,Portal,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,683
+Bulloch,Fair,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2518
+Bulloch,Church,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2313
+Bulloch,Pittman Park,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1893
+Bulloch,Leefield,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,400
+Bulloch,Blitch,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,935
+Bulloch,Hagin,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,954
+Bulloch,Brooklet,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1286
+Bulloch,Stilson,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,795
+Bulloch,Bay,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,650
+Bulloch,Nevils,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,477
+Bulloch,Sinkhole,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,231
+Bulloch,Register,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,345
+Bulloch,Lockhart,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,102
+Bulloch,Emit,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,408
+Bulloch,Statesboro,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,695
+Bulloch,Portal,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,228
+Bulloch,Fair,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,781
+Bulloch,Church,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,619
+Bulloch,Pittman Park,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,426
+Bulloch,Leefield,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,134
+Bulloch,Blitch,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,327
+Bulloch,Hagin,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,337
+Bulloch,Brooklet,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,513
+Bulloch,Stilson,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,221
+Bulloch,Bay,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,238
+Bulloch,Nevils,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,165
+Bulloch,Sinkhole,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,82
+Bulloch,Register,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,112
+Bulloch,Lockhart,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,283
+Bulloch,Emit,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1088
+Bulloch,Statesboro,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2162
+Bulloch,Portal,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,590
+Bulloch,Fair,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2242
+Bulloch,Church,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2131
+Bulloch,Pittman Park,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1775
+Bulloch,Leefield,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,365
+Bulloch,Blitch,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,811
+Bulloch,Hagin,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,824
+Bulloch,Brooklet,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1174
+Bulloch,Stilson,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,671
+Bulloch,Bay,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,543
+Bulloch,Nevils,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,382
+Bulloch,Sinkhole,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,184
+Bulloch,Register,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,289
+Bulloch,Lockhart,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,124
+Bulloch,Emit,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,529
+Bulloch,Statesboro,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,838
+Bulloch,Portal,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,295
+Bulloch,Fair,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,985
+Bulloch,Church,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,746
+Bulloch,Pittman Park,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,494
+Bulloch,Leefield,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,160
+Bulloch,Blitch,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,415
+Bulloch,Hagin,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,429
+Bulloch,Brooklet,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,593
+Bulloch,Stilson,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,333
+Bulloch,Bay,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,311
+Bulloch,Nevils,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,249
+Bulloch,Sinkhole,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,128
+Bulloch,Register,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,164
+Bulloch,Lockhart,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,216
+Bulloch,Emit,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,788
+Bulloch,Statesboro,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1633
+Bulloch,Portal,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,486
+Bulloch,Fair,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1620
+Bulloch,Church,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1640
+Bulloch,Pittman Park,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1225
+Bulloch,Leefield,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,284
+Bulloch,Blitch,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,626
+Bulloch,Hagin,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,667
+Bulloch,Brooklet,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,864
+Bulloch,Stilson,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,556
+Bulloch,Bay,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,453
+Bulloch,Nevils,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,304
+Bulloch,Sinkhole,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,157
+Bulloch,Register,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,220
+Bulloch,Lockhart,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,188
+Bulloch,Emit,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,793
+Bulloch,Statesboro,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1274
+Bulloch,Portal,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,393
+Bulloch,Fair,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1521
+Bulloch,Church,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1166
+Bulloch,Pittman Park,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,962
+Bulloch,Leefield,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,233
+Bulloch,Blitch,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,575
+Bulloch,Hagin,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,564
+Bulloch,Brooklet,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,850
+Bulloch,Stilson,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,430
+Bulloch,Bay,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,397
+Bulloch,Nevils,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,316
+Bulloch,Sinkhole,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,146
+Bulloch,Register,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,231
+Bulloch,Lockhart,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,292
+Bulloch,Emit,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1165
+Bulloch,Statesboro,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2294
+Bulloch,Portal,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,649
+Bulloch,Fair,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2345
+Bulloch,Church,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2279
+Bulloch,Pittman Park,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1874
+Bulloch,Leefield,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,401
+Bulloch,Blitch,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,843
+Bulloch,Hagin,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,912
+Bulloch,Brooklet,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1273
+Bulloch,Stilson,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,756
+Bulloch,Bay,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,600
+Bulloch,Nevils,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,404
+Bulloch,Sinkhole,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,215
+Bulloch,Register,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,332
+Bulloch,Lockhart,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,120
+Bulloch,Emit,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,465
+Bulloch,Statesboro,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,727
+Bulloch,Portal,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,237
+Bulloch,Fair,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,913
+Bulloch,Church,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,624
+Bulloch,Pittman Park,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,432
+Bulloch,Leefield,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,124
+Bulloch,Blitch,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,393
+Bulloch,Hagin,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,354
+Bulloch,Brooklet,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,506
+Bulloch,Stilson,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,249
+Bulloch,Bay,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,271
+Bulloch,Nevils,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,219
+Bulloch,Sinkhole,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,94
+Bulloch,Register,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,126
+Bulloch,Lockhart,Special,,,YES,236
+Bulloch,Emit,Special,,,YES,902
+Bulloch,Statesboro,Special,,,YES,1755
+Bulloch,Portal,Special,,,YES,500
+Bulloch,Fair,Special,,,YES,1971
+Bulloch,Church,Special,,,YES,1776
+Bulloch,Pittman Park,Special,,,YES,1491
+Bulloch,Leefield,Special,,,YES,297
+Bulloch,Blitch,Special,,,YES,716
+Bulloch,Hagin,Special,,,YES,677
+Bulloch,Brooklet,Special,,,YES,987
+Bulloch,Stilson,Special,,,YES,570
+Bulloch,Bay,Special,,,YES,460
+Bulloch,Nevils,Special,,,YES,299
+Bulloch,Sinkhole,Special,,,YES,158
+Bulloch,Register,Special,,,YES,247
+Bulloch,Lockhart,Special,,,NO,164
+Bulloch,Emit,Special,,,NO,708
+Bulloch,Statesboro,Special,,,NO,1206
+Bulloch,Portal,Special,,,NO,373
+Bulloch,Fair,Special,,,NO,1272
+Bulloch,Church,Special,,,NO,1071
+Bulloch,Pittman Park,Special,,,NO,754
+Bulloch,Leefield,Special,,,NO,225
+Bulloch,Blitch,Special,,,NO,518
+Bulloch,Hagin,Special,,,NO,574
+Bulloch,Brooklet,Special,,,NO,769
+Bulloch,Stilson,Special,,,NO,419
+Bulloch,Bay,Special,,,NO,405
+Bulloch,Nevils,Special,,,NO,325
+Bulloch,Sinkhole,Special,,,NO,149
+Bulloch,Register,Special,,,NO,196

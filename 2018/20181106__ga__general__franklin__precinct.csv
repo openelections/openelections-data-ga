@@ -1,0 +1,337 @@
+county,precinct,office,district,party,candidate,votes
+Franklin,Carnesville,Governor,,REP,BRIAN KEMP,1237
+Franklin,West Franklin,Governor,,REP,BRIAN KEMP,834
+Franklin,Northeast,Governor,,REP,BRIAN KEMP,1290
+Franklin,Lavonia,Governor,,REP,BRIAN KEMP,924
+Franklin,Canon,Governor,,REP,BRIAN KEMP,596
+Franklin,Royston,Governor,,REP,BRIAN KEMP,919
+Franklin,Southwest,Governor,,REP,BRIAN KEMP,1251
+Franklin,Carnesville,Governor,,DEM,STACEY ABRAMS,132
+Franklin,West Franklin,Governor,,DEM,STACEY ABRAMS,76
+Franklin,Northeast,Governor,,DEM,STACEY ABRAMS,211
+Franklin,Lavonia,Governor,,DEM,STACEY ABRAMS,257
+Franklin,Canon,Governor,,DEM,STACEY ABRAMS,80
+Franklin,Royston,Governor,,DEM,STACEY ABRAMS,183
+Franklin,Southwest,Governor,,DEM,STACEY ABRAMS,97
+Franklin,Carnesville,Governor,,LIB,TED METZ,6
+Franklin,West Franklin,Governor,,LIB,TED METZ,8
+Franklin,Northeast,Governor,,LIB,TED METZ,12
+Franklin,Lavonia,Governor,,LIB,TED METZ,11
+Franklin,Canon,Governor,,LIB,TED METZ,5
+Franklin,Royston,Governor,,LIB,TED METZ,10
+Franklin,Southwest,Governor,,LIB,TED METZ,9
+Franklin,Carnesville,Lieutenant Governor,,REP,GEOFF DUNCAN,1186
+Franklin,West Franklin,Lieutenant Governor,,REP,GEOFF DUNCAN,804
+Franklin,Northeast,Lieutenant Governor,,REP,GEOFF DUNCAN,1254
+Franklin,Lavonia,Lieutenant Governor,,REP,GEOFF DUNCAN,884
+Franklin,Canon,Lieutenant Governor,,REP,GEOFF DUNCAN,570
+Franklin,Royston,Lieutenant Governor,,REP,GEOFF DUNCAN,879
+Franklin,Southwest,Lieutenant Governor,,REP,GEOFF DUNCAN,1209
+Franklin,Carnesville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,132
+Franklin,West Franklin,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,85
+Franklin,Northeast,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,200
+Franklin,Lavonia,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,229
+Franklin,Canon,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,80
+Franklin,Royston,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,176
+Franklin,Southwest,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,104
+Franklin,Carnesville,Secretary Of State,,REP,BRAD RAFFENSPERGER,1193
+Franklin,West Franklin,Secretary Of State,,REP,BRAD RAFFENSPERGER,794
+Franklin,Northeast,Secretary Of State,,REP,BRAD RAFFENSPERGER,1245
+Franklin,Lavonia,Secretary Of State,,REP,BRAD RAFFENSPERGER,892
+Franklin,Canon,Secretary Of State,,REP,BRAD RAFFENSPERGER,573
+Franklin,Royston,Secretary Of State,,REP,BRAD RAFFENSPERGER,880
+Franklin,Southwest,Secretary Of State,,REP,BRAD RAFFENSPERGER,1203
+Franklin,Carnesville,Secretary Of State,,DEM,JOHN BARROW,141
+Franklin,West Franklin,Secretary Of State,,DEM,JOHN BARROW,88
+Franklin,Northeast,Secretary Of State,,DEM,JOHN BARROW,220
+Franklin,Lavonia,Secretary Of State,,DEM,JOHN BARROW,272
+Franklin,Canon,Secretary Of State,,DEM,JOHN BARROW,89
+Franklin,Royston,Secretary Of State,,DEM,JOHN BARROW,191
+Franklin,Southwest,Secretary Of State,,DEM,JOHN BARROW,119
+Franklin,Carnesville,Secretary Of State,,LIB,SMYTHE DUVAL,10
+Franklin,West Franklin,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Franklin,Northeast,Secretary Of State,,LIB,SMYTHE DUVAL,22
+Franklin,Lavonia,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Franklin,Canon,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Franklin,Royston,Secretary Of State,,LIB,SMYTHE DUVAL,20
+Franklin,Southwest,Secretary Of State,,LIB,SMYTHE DUVAL,19
+Franklin,Carnesville,Attorney General,,(REP,CHRIS CARR ,1220
+Franklin,West Franklin,Attorney General,,(REP,CHRIS CARR ,802
+Franklin,Northeast,Attorney General,,(REP,CHRIS CARR ,1259
+Franklin,Lavonia,Attorney General,,(REP,CHRIS CARR ,901
+Franklin,Canon,Attorney General,,(REP,CHRIS CARR ,577
+Franklin,Royston,Attorney General,,(REP,CHRIS CARR ,896
+Franklin,Southwest,Attorney General,,(REP,CHRIS CARR ,1224
+Franklin,Carnesville,Attorney General,,DEM,CHARLIE BAILEY,135
+Franklin,West Franklin,Attorney General,,DEM,CHARLIE BAILEY,98
+Franklin,Northeast,Attorney General,,DEM,CHARLIE BAILEY,225
+Franklin,Lavonia,Attorney General,,DEM,CHARLIE BAILEY,262
+Franklin,Canon,Attorney General,,DEM,CHARLIE BAILEY,88
+Franklin,Royston,Attorney General,,DEM,CHARLIE BAILEY,189
+Franklin,Southwest,Attorney General,,DEM,CHARLIE BAILEY,113
+Franklin,Carnesville,Commissioner Of Agriculture,,(REP,GARY BLACK ,1230
+Franklin,West Franklin,Commissioner Of Agriculture,,(REP,GARY BLACK ,820
+Franklin,Northeast,Commissioner Of Agriculture,,(REP,GARY BLACK ,1284
+Franklin,Lavonia,Commissioner Of Agriculture,,(REP,GARY BLACK ,918
+Franklin,Canon,Commissioner Of Agriculture,,(REP,GARY BLACK ,592
+Franklin,Royston,Commissioner Of Agriculture,,(REP,GARY BLACK ,910
+Franklin,Southwest,Commissioner Of Agriculture,,(REP,GARY BLACK ,1236
+Franklin,Carnesville,Commissioner Of Agriculture,,DEM,FRED SWANN,121
+Franklin,West Franklin,Commissioner Of Agriculture,,DEM,FRED SWANN,79
+Franklin,Northeast,Commissioner Of Agriculture,,DEM,FRED SWANN,198
+Franklin,Lavonia,Commissioner Of Agriculture,,DEM,FRED SWANN,236
+Franklin,Canon,Commissioner Of Agriculture,,DEM,FRED SWANN,79
+Franklin,Royston,Commissioner Of Agriculture,,DEM,FRED SWANN,172
+Franklin,Southwest,Commissioner Of Agriculture,,DEM,FRED SWANN,101
+Franklin,Carnesville,Commissioner Of Insurance,,REP,JIM BECK,1206
+Franklin,West Franklin,Commissioner Of Insurance,,REP,JIM BECK,794
+Franklin,Northeast,Commissioner Of Insurance,,REP,JIM BECK,1252
+Franklin,Lavonia,Commissioner Of Insurance,,REP,JIM BECK,885
+Franklin,Canon,Commissioner Of Insurance,,REP,JIM BECK,580
+Franklin,Royston,Commissioner Of Insurance,,REP,JIM BECK,881
+Franklin,Southwest,Commissioner Of Insurance,,REP,JIM BECK,1218
+Franklin,Carnesville,Commissioner Of Insurance,,DEM,JANICE LAWS,130
+Franklin,West Franklin,Commissioner Of Insurance,,DEM,JANICE LAWS,88
+Franklin,Northeast,Commissioner Of Insurance,,DEM,JANICE LAWS,205
+Franklin,Lavonia,Commissioner Of Insurance,,DEM,JANICE LAWS,258
+Franklin,Canon,Commissioner Of Insurance,,DEM,JANICE LAWS,81
+Franklin,Royston,Commissioner Of Insurance,,DEM,JANICE LAWS,180
+Franklin,Southwest,Commissioner Of Insurance,,DEM,JANICE LAWS,101
+Franklin,Carnesville,Commissioner Of Insurance,,LIB,DONNIE FOSTER,20
+Franklin,West Franklin,Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Franklin,Northeast,Commissioner Of Insurance,,LIB,DONNIE FOSTER,29
+Franklin,Lavonia,Commissioner Of Insurance,,LIB,DONNIE FOSTER,24
+Franklin,Canon,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
+Franklin,Royston,Commissioner Of Insurance,,LIB,DONNIE FOSTER,30
+Franklin,Southwest,Commissioner Of Insurance,,LIB,DONNIE FOSTER,23
+Franklin,Carnesville,State School Superintendent,,(REP,RICHARD WOODS ,1220
+Franklin,West Franklin,State School Superintendent,,(REP,RICHARD WOODS ,807
+Franklin,Northeast,State School Superintendent,,(REP,RICHARD WOODS ,1298
+Franklin,Lavonia,State School Superintendent,,(REP,RICHARD WOODS ,923
+Franklin,Canon,State School Superintendent,,(REP,RICHARD WOODS ,589
+Franklin,Royston,State School Superintendent,,(REP,RICHARD WOODS ,910
+Franklin,Southwest,State School Superintendent,,(REP,RICHARD WOODS ,1236
+Franklin,Carnesville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",126
+Franklin,West Franklin,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",89
+Franklin,Northeast,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",196
+Franklin,Lavonia,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",246
+Franklin,Canon,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",80
+Franklin,Royston,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",184
+Franklin,Southwest,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",104
+Franklin,Carnesville,Commissioner Of Labor,,(REP,MARK BUTLER ,1221
+Franklin,West Franklin,Commissioner Of Labor,,(REP,MARK BUTLER ,805
+Franklin,Northeast,Commissioner Of Labor,,(REP,MARK BUTLER ,1270
+Franklin,Lavonia,Commissioner Of Labor,,(REP,MARK BUTLER ,905
+Franklin,Canon,Commissioner Of Labor,,(REP,MARK BUTLER ,589
+Franklin,Royston,Commissioner Of Labor,,(REP,MARK BUTLER ,904
+Franklin,Southwest,Commissioner Of Labor,,(REP,MARK BUTLER ,1229
+Franklin,Carnesville,Commissioner Of Labor,,DEM,RICHARD KEATLEY,133
+Franklin,West Franklin,Commissioner Of Labor,,DEM,RICHARD KEATLEY,97
+Franklin,Northeast,Commissioner Of Labor,,DEM,RICHARD KEATLEY,217
+Franklin,Lavonia,Commissioner Of Labor,,DEM,RICHARD KEATLEY,261
+Franklin,Canon,Commissioner Of Labor,,DEM,RICHARD KEATLEY,81
+Franklin,Royston,Commissioner Of Labor,,DEM,RICHARD KEATLEY,184
+Franklin,Southwest,Commissioner Of Labor,,DEM,RICHARD KEATLEY,106
+Franklin,Carnesville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1202
+Franklin,West Franklin,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,784
+Franklin,Northeast,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1243
+Franklin,Lavonia,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,886
+Franklin,Canon,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,578
+Franklin,Royston,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,878
+Franklin,Southwest,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1212
+Franklin,Carnesville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,131
+Franklin,West Franklin,"Public Service Commission, District 3",3,DEM,LINDY MILLER,92
+Franklin,Northeast,"Public Service Commission, District 3",3,DEM,LINDY MILLER,211
+Franklin,Lavonia,"Public Service Commission, District 3",3,DEM,LINDY MILLER,260
+Franklin,Canon,"Public Service Commission, District 3",3,DEM,LINDY MILLER,80
+Franklin,Royston,"Public Service Commission, District 3",3,DEM,LINDY MILLER,180
+Franklin,Southwest,"Public Service Commission, District 3",3,DEM,LINDY MILLER,105
+Franklin,Carnesville,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,19
+Franklin,West Franklin,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,25
+Franklin,Northeast,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,30
+Franklin,Lavonia,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,21
+Franklin,Canon,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,9
+Franklin,Royston,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,32
+Franklin,Southwest,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,25
+Franklin,Carnesville,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1202
+Franklin,West Franklin,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,782
+Franklin,Northeast,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1240
+Franklin,Lavonia,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,887
+Franklin,Canon,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,578
+Franklin,Royston,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,878
+Franklin,Southwest,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1203
+Franklin,Carnesville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,131
+Franklin,West Franklin,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,98
+Franklin,Northeast,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,213
+Franklin,Lavonia,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,254
+Franklin,Canon,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,79
+Franklin,Royston,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,186
+Franklin,Southwest,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,107
+Franklin,Carnesville,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,18
+Franklin,West Franklin,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,24
+Franklin,Northeast,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,33
+Franklin,Lavonia,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,23
+Franklin,Canon,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14
+Franklin,Royston,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,25
+Franklin,Southwest,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,25
+Franklin,Carnesville,U.S. Representative,9,(REP,DOUG COLLINS ,1227
+Franklin,West Franklin,U.S. Representative,9,(REP,DOUG COLLINS ,814
+Franklin,Northeast,U.S. Representative,9,(REP,DOUG COLLINS ,1272
+Franklin,Lavonia,U.S. Representative,9,(REP,DOUG COLLINS ,904
+Franklin,Canon,U.S. Representative,9,(REP,DOUG COLLINS ,582
+Franklin,Royston,U.S. Representative,9,(REP,DOUG COLLINS ,915
+Franklin,Southwest,U.S. Representative,9,(REP,DOUG COLLINS ,1239
+Franklin,Carnesville,U.S. Representative,9,DEM,JOSH MCCALL,128
+Franklin,West Franklin,U.S. Representative,9,DEM,JOSH MCCALL,89
+Franklin,Northeast,U.S. Representative,9,DEM,JOSH MCCALL,221
+Franklin,Lavonia,U.S. Representative,9,DEM,JOSH MCCALL,270
+Franklin,Canon,U.S. Representative,9,DEM,JOSH MCCALL,89
+Franklin,Royston,U.S. Representative,9,DEM,JOSH MCCALL,187
+Franklin,Southwest,U.S. Representative,9,DEM,JOSH MCCALL,109
+Franklin,Carnesville,State Senator,50,(REP,JOHN K. WILKINSON ,1283
+Franklin,West Franklin,State Senator,50,(REP,JOHN K. WILKINSON ,848
+Franklin,Northeast,State Senator,50,(REP,JOHN K. WILKINSON ,1369
+Franklin,Lavonia,State Senator,50,(REP,JOHN K. WILKINSON ,1023
+Franklin,Canon,State Senator,50,(REP,JOHN K. WILKINSON ,622
+Franklin,Royston,State Senator,50,(REP,JOHN K. WILKINSON ,995
+Franklin,Southwest,State Senator,50,(REP,JOHN K. WILKINSON ,1288
+Franklin,Carnesville,State Representative,32,(REP,ALAN POWELL ,1279
+Franklin,West Franklin,State Representative,32,(REP,ALAN POWELL ,837
+Franklin,Northeast,State Representative,32,(REP,ALAN POWELL ,1368
+Franklin,Lavonia,State Representative,32,(REP,ALAN POWELL ,1031
+Franklin,Canon,State Representative,32,(REP,ALAN POWELL ,623
+Franklin,Royston,State Representative,32,(REP,ALAN POWELL ,991
+Franklin,Southwest,State Representative,32,(REP,ALAN POWELL ,1276
+Franklin,Carnesville,County Comm 3,,R,R. SWAILS,1266
+Franklin,West Franklin,County Comm 3,,R,R. SWAILS,838
+Franklin,Northeast,County Comm 3,,R,R. SWAILS,1361
+Franklin,Lavonia,County Comm 3,,R,R. SWAILS,1023
+Franklin,Canon,County Comm 3,,R,R. SWAILS,619
+Franklin,Royston,County Comm 3,,R,R. SWAILS,993
+Franklin,Southwest,County Comm 3,,R,R. SWAILS,1283
+Franklin,Carnesville,County Comm 4,,R,E. WESTER ,1271
+Franklin,West Franklin,County Comm 4,,R,E. WESTER ,845
+Franklin,Northeast,County Comm 4,,R,E. WESTER ,1355
+Franklin,Lavonia,County Comm 4,,R,E. WESTER ,1015
+Franklin,Canon,County Comm 4,,R,E. WESTER ,619
+Franklin,Royston,County Comm 4,,R,E. WESTER ,986
+Franklin,Southwest,County Comm 4,,R,E. WESTER ,1272
+Franklin,Carnesville,BOE 3,,R,R. GAILEY,1262
+Franklin,West Franklin,BOE 3,,R,R. GAILEY,831
+Franklin,Northeast,BOE 3,,R,R. GAILEY,1355
+Franklin,Lavonia,BOE 3,,R,R. GAILEY,1020
+Franklin,Canon,BOE 3,,R,R. GAILEY,621
+Franklin,Royston,BOE 3,,R,R. GAILEY,994
+Franklin,Southwest,BOE 3,,R,R. GAILEY,1271
+Franklin,Carnesville,BOE 4,,R,A. D. MITCHELL ,1272
+Franklin,West Franklin,BOE 4,,R,A. D. MITCHELL ,834
+Franklin,Northeast,BOE 4,,R,A. D. MITCHELL ,1363
+Franklin,Lavonia,BOE 4,,R,A. D. MITCHELL ,1033
+Franklin,Canon,BOE 4,,R,A. D. MITCHELL ,615
+Franklin,Royston,BOE 4,,R,A. D. MITCHELL ,991
+Franklin,Southwest,BOE 4,,R,A. D. MITCHELL ,1284
+Franklin,Carnesville,BOE 5,,R,R. CATO ,1259
+Franklin,West Franklin,BOE 5,,R,R. CATO ,840
+Franklin,Northeast,BOE 5,,R,R. CATO ,1357
+Franklin,Lavonia,BOE 5,,R,R. CATO ,1023
+Franklin,Canon,BOE 5,,R,R. CATO ,611
+Franklin,Royston,BOE 5,,R,R. CATO ,977
+Franklin,Southwest,BOE 5,,R,R. CATO ,1266
+Franklin,Carnesville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,949
+Franklin,West Franklin,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,618
+Franklin,Northeast,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1099
+Franklin,Lavonia,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,847
+Franklin,Canon,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,464
+Franklin,Royston,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,793
+Franklin,Southwest,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,977
+Franklin,Carnesville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,368
+Franklin,West Franklin,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,261
+Franklin,Northeast,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,372
+Franklin,Lavonia,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,291
+Franklin,Canon,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,193
+Franklin,Royston,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,276
+Franklin,Southwest,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,341
+Franklin,Carnesville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,731
+Franklin,West Franklin,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,479
+Franklin,Northeast,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,886
+Franklin,Lavonia,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,690
+Franklin,Canon,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,361
+Franklin,Royston,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,628
+Franklin,Southwest,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,795
+Franklin,Carnesville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,563
+Franklin,West Franklin,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,381
+Franklin,Northeast,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,555
+Franklin,Lavonia,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,421
+Franklin,Canon,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,278
+Franklin,Royston,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,425
+Franklin,Southwest,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,501
+Franklin,Carnesville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,674
+Franklin,West Franklin,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,400
+Franklin,Northeast,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,776
+Franklin,Lavonia,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,640
+Franklin,Canon,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,318
+Franklin,Royston,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,578
+Franklin,Southwest,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,740
+Franklin,Carnesville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,615
+Franklin,West Franklin,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,460
+Franklin,Northeast,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,667
+Franklin,Lavonia,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,462
+Franklin,Canon,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,318
+Franklin,Royston,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,464
+Franklin,Southwest,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,547
+Franklin,Carnesville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,924
+Franklin,West Franklin,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,574
+Franklin,Northeast,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1070
+Franklin,Lavonia,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,846
+Franklin,Canon,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,466
+Franklin,Royston,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,767
+Franklin,Southwest,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,928
+Franklin,Carnesville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,383
+Franklin,West Franklin,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,294
+Franklin,Northeast,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,401
+Franklin,Lavonia,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,287
+Franklin,Canon,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,181
+Franklin,Royston,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,297
+Franklin,Southwest,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,380
+Franklin,Carnesville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,766
+Franklin,West Franklin,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,456
+Franklin,Northeast,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,889
+Franklin,Lavonia,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,707
+Franklin,Canon,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,389
+Franklin,Royston,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,653
+Franklin,Southwest,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,785
+Franklin,Carnesville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,532
+Franklin,West Franklin,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,407
+Franklin,Northeast,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,562
+Franklin,Lavonia,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,399
+Franklin,Canon,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,248
+Franklin,Royston,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,395
+Franklin,Southwest,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,505
+Franklin,Carnesville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,600
+Franklin,West Franklin,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,368
+Franklin,Northeast,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,695
+Franklin,Lavonia,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,594
+Franklin,Canon,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,320
+Franklin,Royston,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,557
+Franklin,Southwest,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,604
+Franklin,Carnesville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,669
+Franklin,West Franklin,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,485
+Franklin,Northeast,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,731
+Franklin,Lavonia,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,499
+Franklin,Canon,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,307
+Franklin,Royston,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,482
+Franklin,Southwest,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,667
+Franklin,Carnesville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,839
+Franklin,West Franklin,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,511
+Franklin,Northeast,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,963
+Franklin,Lavonia,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,778
+Franklin,Canon,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,402
+Franklin,Royston,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,736
+Franklin,Southwest,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,845
+Franklin,Carnesville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,450
+Franklin,West Franklin,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,354
+Franklin,Northeast,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,484
+Franklin,Lavonia,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,328
+Franklin,Canon,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,240
+Franklin,Royston,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,316
+Franklin,Southwest,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,455

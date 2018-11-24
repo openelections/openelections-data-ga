@@ -1,0 +1,1394 @@
+county,precinct,office,district,party,candidate,votes
+Bibb,EAST MACON 1,Governor,,REP,BRIAN KEMP,22
+Bibb,EAST MACON 2,Governor,,REP,BRIAN KEMP,91
+Bibb,EAST MACON 3,Governor,,REP,BRIAN KEMP,488
+Bibb,EAST MACON 4,Governor,,REP,BRIAN KEMP,56
+Bibb,EAST MACON 5,Governor,,REP,BRIAN KEMP,281
+Bibb,GODFREY 1,Governor,,REP,BRIAN KEMP,226
+Bibb,GODFREY 2,Governor,,REP,BRIAN KEMP,52
+Bibb,GODFREY 3,Governor,,REP,BRIAN KEMP,129
+Bibb,GODFREY 4,Governor,,REP,BRIAN KEMP,84
+Bibb,GODFREY 5,Governor,,REP,BRIAN KEMP,237
+Bibb,HAZZARD 1,Governor,,REP,BRIAN KEMP,176
+Bibb,HAZZARD 2,Governor,,REP,BRIAN KEMP,1034
+Bibb,HAZZARD 3,Governor,,REP,BRIAN KEMP,1013
+Bibb,HAZZARD 4,Governor,,REP,BRIAN KEMP,956
+Bibb,HOWARD 1,Governor,,REP,BRIAN KEMP,1624
+Bibb,HOWARD 2,Governor,,REP,BRIAN KEMP,1793
+Bibb,HOWARD 3,Governor,,REP,BRIAN KEMP,3079
+Bibb,HOWARD 4,Governor,,REP,BRIAN KEMP,546
+Bibb,HOWARD 5,Governor,,REP,BRIAN KEMP,425
+Bibb,HOWARD 6,Governor,,REP,BRIAN KEMP,777
+Bibb,HOWARD 7,Governor,,REP,BRIAN KEMP,1175
+Bibb,RUTLAND 1,Governor,,REP,BRIAN KEMP,2210
+Bibb,RUTLAND 2,Governor,,REP,BRIAN KEMP,1382
+Bibb,VINEVILLE 1,Governor,,REP,BRIAN KEMP,565
+Bibb,VINEVILLE 2,Governor,,REP,BRIAN KEMP,279
+Bibb,VINEVILLE 3,Governor,,REP,BRIAN KEMP,96
+Bibb,VINEVILLE 4,Governor,,REP,BRIAN KEMP,197
+Bibb,VINEVILLE 5,Governor,,REP,BRIAN KEMP,855
+Bibb,VINEVILLE 6,Governor,,REP,BRIAN KEMP,899
+Bibb,WARRIOR 1,Governor,,REP,BRIAN KEMP,1174
+Bibb,WARRIOR 2,Governor,,REP,BRIAN KEMP,1304
+Bibb,EAST MACON 1,Governor,,DEM,STACEY ABRAMS,836
+Bibb,EAST MACON 2,Governor,,DEM,STACEY ABRAMS,2012
+Bibb,EAST MACON 3,Governor,,DEM,STACEY ABRAMS,1315
+Bibb,EAST MACON 4,Governor,,DEM,STACEY ABRAMS,1182
+Bibb,EAST MACON 5,Governor,,DEM,STACEY ABRAMS,1119
+Bibb,GODFREY 1,Governor,,DEM,STACEY ABRAMS,2690
+Bibb,GODFREY 2,Governor,,DEM,STACEY ABRAMS,693
+Bibb,GODFREY 3,Governor,,DEM,STACEY ABRAMS,1392
+Bibb,GODFREY 4,Governor,,DEM,STACEY ABRAMS,824
+Bibb,GODFREY 5,Governor,,DEM,STACEY ABRAMS,2123
+Bibb,HAZZARD 1,Governor,,DEM,STACEY ABRAMS,1541
+Bibb,HAZZARD 2,Governor,,DEM,STACEY ABRAMS,1328
+Bibb,HAZZARD 3,Governor,,DEM,STACEY ABRAMS,2749
+Bibb,HAZZARD 4,Governor,,DEM,STACEY ABRAMS,500
+Bibb,HOWARD 1,Governor,,DEM,STACEY ABRAMS,1151
+Bibb,HOWARD 2,Governor,,DEM,STACEY ABRAMS,783
+Bibb,HOWARD 3,Governor,,DEM,STACEY ABRAMS,2286
+Bibb,HOWARD 4,Governor,,DEM,STACEY ABRAMS,495
+Bibb,HOWARD 5,Governor,,DEM,STACEY ABRAMS,462
+Bibb,HOWARD 6,Governor,,DEM,STACEY ABRAMS,577
+Bibb,HOWARD 7,Governor,,DEM,STACEY ABRAMS,612
+Bibb,RUTLAND 1,Governor,,DEM,STACEY ABRAMS,1428
+Bibb,RUTLAND 2,Governor,,DEM,STACEY ABRAMS,683
+Bibb,VINEVILLE 1,Governor,,DEM,STACEY ABRAMS,1297
+Bibb,VINEVILLE 2,Governor,,DEM,STACEY ABRAMS,843
+Bibb,VINEVILLE 3,Governor,,DEM,STACEY ABRAMS,1433
+Bibb,VINEVILLE 4,Governor,,DEM,STACEY ABRAMS,1882
+Bibb,VINEVILLE 5,Governor,,DEM,STACEY ABRAMS,579
+Bibb,VINEVILLE 6,Governor,,DEM,STACEY ABRAMS,923
+Bibb,WARRIOR 1,Governor,,DEM,STACEY ABRAMS,566
+Bibb,WARRIOR 2,Governor,,DEM,STACEY ABRAMS,762
+Bibb,EAST MACON 1,Governor,,LIB,TED METZ,1
+Bibb,EAST MACON 2,Governor,,LIB,TED METZ,5
+Bibb,EAST MACON 3,Governor,,LIB,TED METZ,11
+Bibb,EAST MACON 4,Governor,,LIB,TED METZ,5
+Bibb,EAST MACON 5,Governor,,LIB,TED METZ,6
+Bibb,GODFREY 1,Governor,,LIB,TED METZ,18
+Bibb,GODFREY 2,Governor,,LIB,TED METZ,3
+Bibb,GODFREY 3,Governor,,LIB,TED METZ,6
+Bibb,GODFREY 4,Governor,,LIB,TED METZ,1
+Bibb,GODFREY 5,Governor,,LIB,TED METZ,11
+Bibb,HAZZARD 1,Governor,,LIB,TED METZ,8
+Bibb,HAZZARD 2,Governor,,LIB,TED METZ,17
+Bibb,HAZZARD 3,Governor,,LIB,TED METZ,14
+Bibb,HAZZARD 4,Governor,,LIB,TED METZ,10
+Bibb,HOWARD 1,Governor,,LIB,TED METZ,15
+Bibb,HOWARD 2,Governor,,LIB,TED METZ,13
+Bibb,HOWARD 3,Governor,,LIB,TED METZ,48
+Bibb,HOWARD 4,Governor,,LIB,TED METZ,17
+Bibb,HOWARD 5,Governor,,LIB,TED METZ,10
+Bibb,HOWARD 6,Governor,,LIB,TED METZ,18
+Bibb,HOWARD 7,Governor,,LIB,TED METZ,16
+Bibb,RUTLAND 1,Governor,,LIB,TED METZ,13
+Bibb,RUTLAND 2,Governor,,LIB,TED METZ,18
+Bibb,VINEVILLE 1,Governor,,LIB,TED METZ,28
+Bibb,VINEVILLE 2,Governor,,LIB,TED METZ,11
+Bibb,VINEVILLE 3,Governor,,LIB,TED METZ,10
+Bibb,VINEVILLE 4,Governor,,LIB,TED METZ,11
+Bibb,VINEVILLE 5,Governor,,LIB,TED METZ,20
+Bibb,VINEVILLE 6,Governor,,LIB,TED METZ,20
+Bibb,WARRIOR 1,Governor,,LIB,TED METZ,7
+Bibb,WARRIOR 2,Governor,,LIB,TED METZ,10
+Bibb,EAST MACON 1,Lieutenant Governor,,REP,GEOFF DUNCAN,26
+Bibb,EAST MACON 2,Lieutenant Governor,,REP,GEOFF DUNCAN,98
+Bibb,EAST MACON 3,Lieutenant Governor,,REP,GEOFF DUNCAN,461
+Bibb,EAST MACON 4,Lieutenant Governor,,REP,GEOFF DUNCAN,57
+Bibb,EAST MACON 5,Lieutenant Governor,,REP,GEOFF DUNCAN,263
+Bibb,GODFREY 1,Lieutenant Governor,,REP,GEOFF DUNCAN,259
+Bibb,GODFREY 2,Lieutenant Governor,,REP,GEOFF DUNCAN,58
+Bibb,GODFREY 3,Lieutenant Governor,,REP,GEOFF DUNCAN,131
+Bibb,GODFREY 4,Lieutenant Governor,,REP,GEOFF DUNCAN,93
+Bibb,GODFREY 5,Lieutenant Governor,,REP,GEOFF DUNCAN,219
+Bibb,HAZZARD 1,Lieutenant Governor,,REP,GEOFF DUNCAN,174
+Bibb,HAZZARD 2,Lieutenant Governor,,REP,GEOFF DUNCAN,1009
+Bibb,HAZZARD 3,Lieutenant Governor,,REP,GEOFF DUNCAN,966
+Bibb,HAZZARD 4,Lieutenant Governor,,REP,GEOFF DUNCAN,924
+Bibb,HOWARD 1,Lieutenant Governor,,REP,GEOFF DUNCAN,1606
+Bibb,HOWARD 2,Lieutenant Governor,,REP,GEOFF DUNCAN,1752
+Bibb,HOWARD 3,Lieutenant Governor,,REP,GEOFF DUNCAN,3042
+Bibb,HOWARD 4,Lieutenant Governor,,REP,GEOFF DUNCAN,528
+Bibb,HOWARD 5,Lieutenant Governor,,REP,GEOFF DUNCAN,406
+Bibb,HOWARD 6,Lieutenant Governor,,REP,GEOFF DUNCAN,749
+Bibb,HOWARD 7,Lieutenant Governor,,REP,GEOFF DUNCAN,1143
+Bibb,RUTLAND 1,Lieutenant Governor,,REP,GEOFF DUNCAN,2110
+Bibb,RUTLAND 2,Lieutenant Governor,,REP,GEOFF DUNCAN,1318
+Bibb,VINEVILLE 1,Lieutenant Governor,,REP,GEOFF DUNCAN,569
+Bibb,VINEVILLE 2,Lieutenant Governor,,REP,GEOFF DUNCAN,272
+Bibb,VINEVILLE 3,Lieutenant Governor,,REP,GEOFF DUNCAN,112
+Bibb,VINEVILLE 4,Lieutenant Governor,,REP,GEOFF DUNCAN,204
+Bibb,VINEVILLE 5,Lieutenant Governor,,REP,GEOFF DUNCAN,841
+Bibb,VINEVILLE 6,Lieutenant Governor,,REP,GEOFF DUNCAN,887
+Bibb,WARRIOR 1,Lieutenant Governor,,REP,GEOFF DUNCAN,1104
+Bibb,WARRIOR 2,Lieutenant Governor,,REP,GEOFF DUNCAN,1252
+Bibb,EAST MACON 1,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,756
+Bibb,EAST MACON 2,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1865
+Bibb,EAST MACON 3,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1269
+Bibb,EAST MACON 4,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1122
+Bibb,EAST MACON 5,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1063
+Bibb,GODFREY 1,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2454
+Bibb,GODFREY 2,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,624
+Bibb,GODFREY 3,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1261
+Bibb,GODFREY 4,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,746
+Bibb,GODFREY 5,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1983
+Bibb,HAZZARD 1,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1424
+Bibb,HAZZARD 2,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1275
+Bibb,HAZZARD 3,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2608
+Bibb,HAZZARD 4,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,500
+Bibb,HOWARD 1,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1095
+Bibb,HOWARD 2,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,759
+Bibb,HOWARD 3,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2201
+Bibb,HOWARD 4,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,493
+Bibb,HOWARD 5,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,432
+Bibb,HOWARD 6,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,573
+Bibb,HOWARD 7,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,609
+Bibb,RUTLAND 1,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1392
+Bibb,RUTLAND 2,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,675
+Bibb,VINEVILLE 1,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1237
+Bibb,VINEVILLE 2,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,794
+Bibb,VINEVILLE 3,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1314
+Bibb,VINEVILLE 4,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1746
+Bibb,VINEVILLE 5,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,568
+Bibb,VINEVILLE 6,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,870
+Bibb,WARRIOR 1,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,561
+Bibb,WARRIOR 2,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,737
+Bibb,EAST MACON 1,Secretary Of State,,REP,BRAD RAFFENSPERGER,21
+Bibb,EAST MACON 2,Secretary Of State,,REP,BRAD RAFFENSPERGER,99
+Bibb,EAST MACON 3,Secretary Of State,,REP,BRAD RAFFENSPERGER,452
+Bibb,EAST MACON 4,Secretary Of State,,REP,BRAD RAFFENSPERGER,55
+Bibb,EAST MACON 5,Secretary Of State,,REP,BRAD RAFFENSPERGER,271
+Bibb,GODFREY 1,Secretary Of State,,REP,BRAD RAFFENSPERGER,238
+Bibb,GODFREY 2,Secretary Of State,,REP,BRAD RAFFENSPERGER,48
+Bibb,GODFREY 3,Secretary Of State,,REP,BRAD RAFFENSPERGER,127
+Bibb,GODFREY 4,Secretary Of State,,REP,BRAD RAFFENSPERGER,91
+Bibb,GODFREY 5,Secretary Of State,,REP,BRAD RAFFENSPERGER,225
+Bibb,HAZZARD 1,Secretary Of State,,REP,BRAD RAFFENSPERGER,165
+Bibb,HAZZARD 2,Secretary Of State,,REP,BRAD RAFFENSPERGER,1005
+Bibb,HAZZARD 3,Secretary Of State,,REP,BRAD RAFFENSPERGER,953
+Bibb,HAZZARD 4,Secretary Of State,,REP,BRAD RAFFENSPERGER,922
+Bibb,HOWARD 1,Secretary Of State,,REP,BRAD RAFFENSPERGER,1532
+Bibb,HOWARD 2,Secretary Of State,,REP,BRAD RAFFENSPERGER,1688
+Bibb,HOWARD 3,Secretary Of State,,REP,BRAD RAFFENSPERGER,2958
+Bibb,HOWARD 4,Secretary Of State,,REP,BRAD RAFFENSPERGER,508
+Bibb,HOWARD 5,Secretary Of State,,REP,BRAD RAFFENSPERGER,387
+Bibb,HOWARD 6,Secretary Of State,,REP,BRAD RAFFENSPERGER,725
+Bibb,HOWARD 7,Secretary Of State,,REP,BRAD RAFFENSPERGER,1120
+Bibb,RUTLAND 1,Secretary Of State,,REP,BRAD RAFFENSPERGER,2097
+Bibb,RUTLAND 2,Secretary Of State,,REP,BRAD RAFFENSPERGER,1315
+Bibb,VINEVILLE 1,Secretary Of State,,REP,BRAD RAFFENSPERGER,534
+Bibb,VINEVILLE 2,Secretary Of State,,REP,BRAD RAFFENSPERGER,253
+Bibb,VINEVILLE 3,Secretary Of State,,REP,BRAD RAFFENSPERGER,109
+Bibb,VINEVILLE 4,Secretary Of State,,REP,BRAD RAFFENSPERGER,209
+Bibb,VINEVILLE 5,Secretary Of State,,REP,BRAD RAFFENSPERGER,814
+Bibb,VINEVILLE 6,Secretary Of State,,REP,BRAD RAFFENSPERGER,837
+Bibb,WARRIOR 1,Secretary Of State,,REP,BRAD RAFFENSPERGER,1103
+Bibb,WARRIOR 2,Secretary Of State,,REP,BRAD RAFFENSPERGER,1255
+Bibb,EAST MACON 1,Secretary Of State,,DEM,JOHN BARROW,800
+Bibb,EAST MACON 2,Secretary Of State,,DEM,JOHN BARROW,1941
+Bibb,EAST MACON 3,Secretary Of State,,DEM,JOHN BARROW,1298
+Bibb,EAST MACON 4,Secretary Of State,,DEM,JOHN BARROW,1157
+Bibb,EAST MACON 5,Secretary Of State,,DEM,JOHN BARROW,1099
+Bibb,GODFREY 1,Secretary Of State,,DEM,JOHN BARROW,2574
+Bibb,GODFREY 2,Secretary Of State,,DEM,JOHN BARROW,671
+Bibb,GODFREY 3,Secretary Of State,,DEM,JOHN BARROW,1335
+Bibb,GODFREY 4,Secretary Of State,,DEM,JOHN BARROW,777
+Bibb,GODFREY 5,Secretary Of State,,DEM,JOHN BARROW,2063
+Bibb,HAZZARD 1,Secretary Of State,,DEM,JOHN BARROW,1506
+Bibb,HAZZARD 2,Secretary Of State,,DEM,JOHN BARROW,1314
+Bibb,HAZZARD 3,Secretary Of State,,DEM,JOHN BARROW,2715
+Bibb,HAZZARD 4,Secretary Of State,,DEM,JOHN BARROW,504
+Bibb,HOWARD 1,Secretary Of State,,DEM,JOHN BARROW,1179
+Bibb,HOWARD 2,Secretary Of State,,DEM,JOHN BARROW,837
+Bibb,HOWARD 3,Secretary Of State,,DEM,JOHN BARROW,2298
+Bibb,HOWARD 4,Secretary Of State,,DEM,JOHN BARROW,497
+Bibb,HOWARD 5,Secretary Of State,,DEM,JOHN BARROW,475
+Bibb,HOWARD 6,Secretary Of State,,DEM,JOHN BARROW,601
+Bibb,HOWARD 7,Secretary Of State,,DEM,JOHN BARROW,632
+Bibb,RUTLAND 1,Secretary Of State,,DEM,JOHN BARROW,1475
+Bibb,RUTLAND 2,Secretary Of State,,DEM,JOHN BARROW,704
+Bibb,VINEVILLE 1,Secretary Of State,,DEM,JOHN BARROW,1246
+Bibb,VINEVILLE 2,Secretary Of State,,DEM,JOHN BARROW,832
+Bibb,VINEVILLE 3,Secretary Of State,,DEM,JOHN BARROW,1376
+Bibb,VINEVILLE 4,Secretary Of State,,DEM,JOHN BARROW,1813
+Bibb,VINEVILLE 5,Secretary Of State,,DEM,JOHN BARROW,601
+Bibb,VINEVILLE 6,Secretary Of State,,DEM,JOHN BARROW,940
+Bibb,WARRIOR 1,Secretary Of State,,DEM,JOHN BARROW,595
+Bibb,WARRIOR 2,Secretary Of State,,DEM,JOHN BARROW,773
+Bibb,EAST MACON 1,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Bibb,EAST MACON 2,Secretary Of State,,LIB,SMYTHE DUVAL,36
+Bibb,EAST MACON 3,Secretary Of State,,LIB,SMYTHE DUVAL,40
+Bibb,EAST MACON 4,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Bibb,EAST MACON 5,Secretary Of State,,LIB,SMYTHE DUVAL,14
+Bibb,GODFREY 1,Secretary Of State,,LIB,SMYTHE DUVAL,55
+Bibb,GODFREY 2,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Bibb,GODFREY 3,Secretary Of State,,LIB,SMYTHE DUVAL,29
+Bibb,GODFREY 4,Secretary Of State,,LIB,SMYTHE DUVAL,14
+Bibb,GODFREY 5,Secretary Of State,,LIB,SMYTHE DUVAL,41
+Bibb,HAZZARD 1,Secretary Of State,,LIB,SMYTHE DUVAL,26
+Bibb,HAZZARD 2,Secretary Of State,,LIB,SMYTHE DUVAL,39
+Bibb,HAZZARD 3,Secretary Of State,,LIB,SMYTHE DUVAL,59
+Bibb,HAZZARD 4,Secretary Of State,,LIB,SMYTHE DUVAL,20
+Bibb,HOWARD 1,Secretary Of State,,LIB,SMYTHE DUVAL,53
+Bibb,HOWARD 2,Secretary Of State,,LIB,SMYTHE DUVAL,40
+Bibb,HOWARD 3,Secretary Of State,,LIB,SMYTHE DUVAL,96
+Bibb,HOWARD 4,Secretary Of State,,LIB,SMYTHE DUVAL,39
+Bibb,HOWARD 5,Secretary Of State,,LIB,SMYTHE DUVAL,20
+Bibb,HOWARD 6,Secretary Of State,,LIB,SMYTHE DUVAL,28
+Bibb,HOWARD 7,Secretary Of State,,LIB,SMYTHE DUVAL,31
+Bibb,RUTLAND 1,Secretary Of State,,LIB,SMYTHE DUVAL,38
+Bibb,RUTLAND 2,Secretary Of State,,LIB,SMYTHE DUVAL,33
+Bibb,VINEVILLE 1,Secretary Of State,,LIB,SMYTHE DUVAL,74
+Bibb,VINEVILLE 2,Secretary Of State,,LIB,SMYTHE DUVAL,27
+Bibb,VINEVILLE 3,Secretary Of State,,LIB,SMYTHE DUVAL,23
+Bibb,VINEVILLE 4,Secretary Of State,,LIB,SMYTHE DUVAL,31
+Bibb,VINEVILLE 5,Secretary Of State,,LIB,SMYTHE DUVAL,26
+Bibb,VINEVILLE 6,Secretary Of State,,LIB,SMYTHE DUVAL,39
+Bibb,WARRIOR 1,Secretary Of State,,LIB,SMYTHE DUVAL,18
+Bibb,WARRIOR 2,Secretary Of State,,LIB,SMYTHE DUVAL,28
+Bibb,EAST MACON 1,Attorney General,,(REP,CHRIS CARR ,39
+Bibb,EAST MACON 2,Attorney General,,(REP,CHRIS CARR ,107
+Bibb,EAST MACON 3,Attorney General,,(REP,CHRIS CARR ,491
+Bibb,EAST MACON 4,Attorney General,,(REP,CHRIS CARR ,64
+Bibb,EAST MACON 5,Attorney General,,(REP,CHRIS CARR ,287
+Bibb,GODFREY 1,Attorney General,,(REP,CHRIS CARR ,270
+Bibb,GODFREY 2,Attorney General,,(REP,CHRIS CARR ,60
+Bibb,GODFREY 3,Attorney General,,(REP,CHRIS CARR ,144
+Bibb,GODFREY 4,Attorney General,,(REP,CHRIS CARR ,100
+Bibb,GODFREY 5,Attorney General,,(REP,CHRIS CARR ,255
+Bibb,HAZZARD 1,Attorney General,,(REP,CHRIS CARR ,181
+Bibb,HAZZARD 2,Attorney General,,(REP,CHRIS CARR ,1034
+Bibb,HAZZARD 3,Attorney General,,(REP,CHRIS CARR ,1008
+Bibb,HAZZARD 4,Attorney General,,(REP,CHRIS CARR ,931
+Bibb,HOWARD 1,Attorney General,,(REP,CHRIS CARR ,1602
+Bibb,HOWARD 2,Attorney General,,(REP,CHRIS CARR ,1780
+Bibb,HOWARD 3,Attorney General,,(REP,CHRIS CARR ,3089
+Bibb,HOWARD 4,Attorney General,,(REP,CHRIS CARR ,549
+Bibb,HOWARD 5,Attorney General,,(REP,CHRIS CARR ,409
+Bibb,HOWARD 6,Attorney General,,(REP,CHRIS CARR ,763
+Bibb,HOWARD 7,Attorney General,,(REP,CHRIS CARR ,1151
+Bibb,RUTLAND 1,Attorney General,,(REP,CHRIS CARR ,2151
+Bibb,RUTLAND 2,Attorney General,,(REP,CHRIS CARR ,1340
+Bibb,VINEVILLE 1,Attorney General,,(REP,CHRIS CARR ,595
+Bibb,VINEVILLE 2,Attorney General,,(REP,CHRIS CARR ,280
+Bibb,VINEVILLE 3,Attorney General,,(REP,CHRIS CARR ,112
+Bibb,VINEVILLE 4,Attorney General,,(REP,CHRIS CARR ,226
+Bibb,VINEVILLE 5,Attorney General,,(REP,CHRIS CARR ,848
+Bibb,VINEVILLE 6,Attorney General,,(REP,CHRIS CARR ,906
+Bibb,WARRIOR 1,Attorney General,,(REP,CHRIS CARR ,1130
+Bibb,WARRIOR 2,Attorney General,,(REP,CHRIS CARR ,1266
+Bibb,EAST MACON 1,Attorney General,,DEM,CHARLIE BAILEY,788
+Bibb,EAST MACON 2,Attorney General,,DEM,CHARLIE BAILEY,1945
+Bibb,EAST MACON 3,Attorney General,,DEM,CHARLIE BAILEY,1292
+Bibb,EAST MACON 4,Attorney General,,DEM,CHARLIE BAILEY,1153
+Bibb,EAST MACON 5,Attorney General,,DEM,CHARLIE BAILEY,1092
+Bibb,GODFREY 1,Attorney General,,DEM,CHARLIE BAILEY,2559
+Bibb,GODFREY 2,Attorney General,,DEM,CHARLIE BAILEY,669
+Bibb,GODFREY 3,Attorney General,,DEM,CHARLIE BAILEY,1336
+Bibb,GODFREY 4,Attorney General,,DEM,CHARLIE BAILEY,780
+Bibb,GODFREY 5,Attorney General,,DEM,CHARLIE BAILEY,2067
+Bibb,HAZZARD 1,Attorney General,,DEM,CHARLIE BAILEY,1508
+Bibb,HAZZARD 2,Attorney General,,DEM,CHARLIE BAILEY,1312
+Bibb,HAZZARD 3,Attorney General,,DEM,CHARLIE BAILEY,2705
+Bibb,HAZZARD 4,Attorney General,,DEM,CHARLIE BAILEY,510
+Bibb,HOWARD 1,Attorney General,,DEM,CHARLIE BAILEY,1138
+Bibb,HOWARD 2,Attorney General,,DEM,CHARLIE BAILEY,775
+Bibb,HOWARD 3,Attorney General,,DEM,CHARLIE BAILEY,2241
+Bibb,HOWARD 4,Attorney General,,DEM,CHARLIE BAILEY,486
+Bibb,HOWARD 5,Attorney General,,DEM,CHARLIE BAILEY,459
+Bibb,HOWARD 6,Attorney General,,DEM,CHARLIE BAILEY,585
+Bibb,HOWARD 7,Attorney General,,DEM,CHARLIE BAILEY,621
+Bibb,RUTLAND 1,Attorney General,,DEM,CHARLIE BAILEY,1433
+Bibb,RUTLAND 2,Attorney General,,DEM,CHARLIE BAILEY,711
+Bibb,VINEVILLE 1,Attorney General,,DEM,CHARLIE BAILEY,1238
+Bibb,VINEVILLE 2,Attorney General,,DEM,CHARLIE BAILEY,819
+Bibb,VINEVILLE 3,Attorney General,,DEM,CHARLIE BAILEY,1372
+Bibb,VINEVILLE 4,Attorney General,,DEM,CHARLIE BAILEY,1812
+Bibb,VINEVILLE 5,Attorney General,,DEM,CHARLIE BAILEY,572
+Bibb,VINEVILLE 6,Attorney General,,DEM,CHARLIE BAILEY,896
+Bibb,WARRIOR 1,Attorney General,,DEM,CHARLIE BAILEY,579
+Bibb,WARRIOR 2,Attorney General,,DEM,CHARLIE BAILEY,773
+Bibb,EAST MACON 1,Commissioner Of Agriculture,,(REP,GARY BLACK ,40
+Bibb,EAST MACON 2,Commissioner Of Agriculture,,(REP,GARY BLACK ,122
+Bibb,EAST MACON 3,Commissioner Of Agriculture,,(REP,GARY BLACK ,527
+Bibb,EAST MACON 4,Commissioner Of Agriculture,,(REP,GARY BLACK ,70
+Bibb,EAST MACON 5,Commissioner Of Agriculture,,(REP,GARY BLACK ,295
+Bibb,GODFREY 1,Commissioner Of Agriculture,,(REP,GARY BLACK ,319
+Bibb,GODFREY 2,Commissioner Of Agriculture,,(REP,GARY BLACK ,61
+Bibb,GODFREY 3,Commissioner Of Agriculture,,(REP,GARY BLACK ,157
+Bibb,GODFREY 4,Commissioner Of Agriculture,,(REP,GARY BLACK ,111
+Bibb,GODFREY 5,Commissioner Of Agriculture,,(REP,GARY BLACK ,287
+Bibb,HAZZARD 1,Commissioner Of Agriculture,,(REP,GARY BLACK ,204
+Bibb,HAZZARD 2,Commissioner Of Agriculture,,(REP,GARY BLACK ,1072
+Bibb,HAZZARD 3,Commissioner Of Agriculture,,(REP,GARY BLACK ,1043
+Bibb,HAZZARD 4,Commissioner Of Agriculture,,(REP,GARY BLACK ,957
+Bibb,HOWARD 1,Commissioner Of Agriculture,,(REP,GARY BLACK ,1665
+Bibb,HOWARD 2,Commissioner Of Agriculture,,(REP,GARY BLACK ,1853
+Bibb,HOWARD 3,Commissioner Of Agriculture,,(REP,GARY BLACK ,3224
+Bibb,HOWARD 4,Commissioner Of Agriculture,,(REP,GARY BLACK ,571
+Bibb,HOWARD 5,Commissioner Of Agriculture,,(REP,GARY BLACK ,428
+Bibb,HOWARD 6,Commissioner Of Agriculture,,(REP,GARY BLACK ,811
+Bibb,HOWARD 7,Commissioner Of Agriculture,,(REP,GARY BLACK ,1211
+Bibb,RUTLAND 1,Commissioner Of Agriculture,,(REP,GARY BLACK ,2186
+Bibb,RUTLAND 2,Commissioner Of Agriculture,,(REP,GARY BLACK ,1360
+Bibb,VINEVILLE 1,Commissioner Of Agriculture,,(REP,GARY BLACK ,655
+Bibb,VINEVILLE 2,Commissioner Of Agriculture,,(REP,GARY BLACK ,316
+Bibb,VINEVILLE 3,Commissioner Of Agriculture,,(REP,GARY BLACK ,123
+Bibb,VINEVILLE 4,Commissioner Of Agriculture,,(REP,GARY BLACK ,260
+Bibb,VINEVILLE 5,Commissioner Of Agriculture,,(REP,GARY BLACK ,904
+Bibb,VINEVILLE 6,Commissioner Of Agriculture,,(REP,GARY BLACK ,962
+Bibb,WARRIOR 1,Commissioner Of Agriculture,,(REP,GARY BLACK ,1165
+Bibb,WARRIOR 2,Commissioner Of Agriculture,,(REP,GARY BLACK ,1299
+Bibb,EAST MACON 1,Commissioner Of Agriculture,,DEM,FRED SWANN,783
+Bibb,EAST MACON 2,Commissioner Of Agriculture,,DEM,FRED SWANN,1928
+Bibb,EAST MACON 3,Commissioner Of Agriculture,,DEM,FRED SWANN,1248
+Bibb,EAST MACON 4,Commissioner Of Agriculture,,DEM,FRED SWANN,1140
+Bibb,EAST MACON 5,Commissioner Of Agriculture,,DEM,FRED SWANN,1061
+Bibb,GODFREY 1,Commissioner Of Agriculture,,DEM,FRED SWANN,2496
+Bibb,GODFREY 2,Commissioner Of Agriculture,,DEM,FRED SWANN,654
+Bibb,GODFREY 3,Commissioner Of Agriculture,,DEM,FRED SWANN,1305
+Bibb,GODFREY 4,Commissioner Of Agriculture,,DEM,FRED SWANN,768
+Bibb,GODFREY 5,Commissioner Of Agriculture,,DEM,FRED SWANN,2027
+Bibb,HAZZARD 1,Commissioner Of Agriculture,,DEM,FRED SWANN,1476
+Bibb,HAZZARD 2,Commissioner Of Agriculture,,DEM,FRED SWANN,1273
+Bibb,HAZZARD 3,Commissioner Of Agriculture,,DEM,FRED SWANN,2652
+Bibb,HAZZARD 4,Commissioner Of Agriculture,,DEM,FRED SWANN,482
+Bibb,HOWARD 1,Commissioner Of Agriculture,,DEM,FRED SWANN,1070
+Bibb,HOWARD 2,Commissioner Of Agriculture,,DEM,FRED SWANN,699
+Bibb,HOWARD 3,Commissioner Of Agriculture,,DEM,FRED SWANN,2101
+Bibb,HOWARD 4,Commissioner Of Agriculture,,DEM,FRED SWANN,454
+Bibb,HOWARD 5,Commissioner Of Agriculture,,DEM,FRED SWANN,437
+Bibb,HOWARD 6,Commissioner Of Agriculture,,DEM,FRED SWANN,530
+Bibb,HOWARD 7,Commissioner Of Agriculture,,DEM,FRED SWANN,550
+Bibb,RUTLAND 1,Commissioner Of Agriculture,,DEM,FRED SWANN,1376
+Bibb,RUTLAND 2,Commissioner Of Agriculture,,DEM,FRED SWANN,661
+Bibb,VINEVILLE 1,Commissioner Of Agriculture,,DEM,FRED SWANN,1164
+Bibb,VINEVILLE 2,Commissioner Of Agriculture,,DEM,FRED SWANN,780
+Bibb,VINEVILLE 3,Commissioner Of Agriculture,,DEM,FRED SWANN,1361
+Bibb,VINEVILLE 4,Commissioner Of Agriculture,,DEM,FRED SWANN,1769
+Bibb,VINEVILLE 5,Commissioner Of Agriculture,,DEM,FRED SWANN,516
+Bibb,VINEVILLE 6,Commissioner Of Agriculture,,DEM,FRED SWANN,832
+Bibb,WARRIOR 1,Commissioner Of Agriculture,,DEM,FRED SWANN,537
+Bibb,WARRIOR 2,Commissioner Of Agriculture,,DEM,FRED SWANN,734
+Bibb,EAST MACON 1,Commissioner Of Insurance,,REP,JIM BECK,34
+Bibb,EAST MACON 2,Commissioner Of Insurance,,REP,JIM BECK,105
+Bibb,EAST MACON 3,Commissioner Of Insurance,,REP,JIM BECK,474
+Bibb,EAST MACON 4,Commissioner Of Insurance,,REP,JIM BECK,63
+Bibb,EAST MACON 5,Commissioner Of Insurance,,REP,JIM BECK,281
+Bibb,GODFREY 1,Commissioner Of Insurance,,REP,JIM BECK,250
+Bibb,GODFREY 2,Commissioner Of Insurance,,REP,JIM BECK,58
+Bibb,GODFREY 3,Commissioner Of Insurance,,REP,JIM BECK,145
+Bibb,GODFREY 4,Commissioner Of Insurance,,REP,JIM BECK,103
+Bibb,GODFREY 5,Commissioner Of Insurance,,REP,JIM BECK,242
+Bibb,HAZZARD 1,Commissioner Of Insurance,,REP,JIM BECK,174
+Bibb,HAZZARD 2,Commissioner Of Insurance,,REP,JIM BECK,1041
+Bibb,HAZZARD 3,Commissioner Of Insurance,,REP,JIM BECK,1004
+Bibb,HAZZARD 4,Commissioner Of Insurance,,REP,JIM BECK,940
+Bibb,HOWARD 1,Commissioner Of Insurance,,REP,JIM BECK,1593
+Bibb,HOWARD 2,Commissioner Of Insurance,,REP,JIM BECK,1792
+Bibb,HOWARD 3,Commissioner Of Insurance,,REP,JIM BECK,3068
+Bibb,HOWARD 4,Commissioner Of Insurance,,REP,JIM BECK,531
+Bibb,HOWARD 5,Commissioner Of Insurance,,REP,JIM BECK,420
+Bibb,HOWARD 6,Commissioner Of Insurance,,REP,JIM BECK,764
+Bibb,HOWARD 7,Commissioner Of Insurance,,REP,JIM BECK,1151
+Bibb,RUTLAND 1,Commissioner Of Insurance,,REP,JIM BECK,2168
+Bibb,RUTLAND 2,Commissioner Of Insurance,,REP,JIM BECK,1344
+Bibb,VINEVILLE 1,Commissioner Of Insurance,,REP,JIM BECK,570
+Bibb,VINEVILLE 2,Commissioner Of Insurance,,REP,JIM BECK,281
+Bibb,VINEVILLE 3,Commissioner Of Insurance,,REP,JIM BECK,105
+Bibb,VINEVILLE 4,Commissioner Of Insurance,,REP,JIM BECK,224
+Bibb,VINEVILLE 5,Commissioner Of Insurance,,REP,JIM BECK,857
+Bibb,VINEVILLE 6,Commissioner Of Insurance,,REP,JIM BECK,900
+Bibb,WARRIOR 1,Commissioner Of Insurance,,REP,JIM BECK,1154
+Bibb,WARRIOR 2,Commissioner Of Insurance,,REP,JIM BECK,1285
+Bibb,EAST MACON 1,Commissioner Of Insurance,,DEM,JANICE LAWS,781
+Bibb,EAST MACON 2,Commissioner Of Insurance,,DEM,JANICE LAWS,1931
+Bibb,EAST MACON 3,Commissioner Of Insurance,,DEM,JANICE LAWS,1254
+Bibb,EAST MACON 4,Commissioner Of Insurance,,DEM,JANICE LAWS,1145
+Bibb,EAST MACON 5,Commissioner Of Insurance,,DEM,JANICE LAWS,1075
+Bibb,GODFREY 1,Commissioner Of Insurance,,DEM,JANICE LAWS,2518
+Bibb,GODFREY 2,Commissioner Of Insurance,,DEM,JANICE LAWS,661
+Bibb,GODFREY 3,Commissioner Of Insurance,,DEM,JANICE LAWS,1310
+Bibb,GODFREY 4,Commissioner Of Insurance,,DEM,JANICE LAWS,763
+Bibb,GODFREY 5,Commissioner Of Insurance,,DEM,JANICE LAWS,2049
+Bibb,HAZZARD 1,Commissioner Of Insurance,,DEM,JANICE LAWS,1490
+Bibb,HAZZARD 2,Commissioner Of Insurance,,DEM,JANICE LAWS,1265
+Bibb,HAZZARD 3,Commissioner Of Insurance,,DEM,JANICE LAWS,2652
+Bibb,HAZZARD 4,Commissioner Of Insurance,,DEM,JANICE LAWS,483
+Bibb,HOWARD 1,Commissioner Of Insurance,,DEM,JANICE LAWS,1091
+Bibb,HOWARD 2,Commissioner Of Insurance,,DEM,JANICE LAWS,724
+Bibb,HOWARD 3,Commissioner Of Insurance,,DEM,JANICE LAWS,2135
+Bibb,HOWARD 4,Commissioner Of Insurance,,DEM,JANICE LAWS,469
+Bibb,HOWARD 5,Commissioner Of Insurance,,DEM,JANICE LAWS,433
+Bibb,HOWARD 6,Commissioner Of Insurance,,DEM,JANICE LAWS,556
+Bibb,HOWARD 7,Commissioner Of Insurance,,DEM,JANICE LAWS,571
+Bibb,RUTLAND 1,Commissioner Of Insurance,,DEM,JANICE LAWS,1390
+Bibb,RUTLAND 2,Commissioner Of Insurance,,DEM,JANICE LAWS,669
+Bibb,VINEVILLE 1,Commissioner Of Insurance,,DEM,JANICE LAWS,1188
+Bibb,VINEVILLE 2,Commissioner Of Insurance,,DEM,JANICE LAWS,798
+Bibb,VINEVILLE 3,Commissioner Of Insurance,,DEM,JANICE LAWS,1364
+Bibb,VINEVILLE 4,Commissioner Of Insurance,,DEM,JANICE LAWS,1780
+Bibb,VINEVILLE 5,Commissioner Of Insurance,,DEM,JANICE LAWS,521
+Bibb,VINEVILLE 6,Commissioner Of Insurance,,DEM,JANICE LAWS,857
+Bibb,WARRIOR 1,Commissioner Of Insurance,,DEM,JANICE LAWS,535
+Bibb,WARRIOR 2,Commissioner Of Insurance,,DEM,JANICE LAWS,725
+Bibb,EAST MACON 1,Commissioner Of Insurance,,LIB,DONNIE FOSTER,10
+Bibb,EAST MACON 2,Commissioner Of Insurance,,LIB,DONNIE FOSTER,25
+Bibb,EAST MACON 3,Commissioner Of Insurance,,LIB,DONNIE FOSTER,50
+Bibb,EAST MACON 4,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
+Bibb,EAST MACON 5,Commissioner Of Insurance,,LIB,DONNIE FOSTER,21
+Bibb,GODFREY 1,Commissioner Of Insurance,,LIB,DONNIE FOSTER,70
+Bibb,GODFREY 2,Commissioner Of Insurance,,LIB,DONNIE FOSTER,7
+Bibb,GODFREY 3,Commissioner Of Insurance,,LIB,DONNIE FOSTER,23
+Bibb,GODFREY 4,Commissioner Of Insurance,,LIB,DONNIE FOSTER,15
+Bibb,GODFREY 5,Commissioner Of Insurance,,LIB,DONNIE FOSTER,31
+Bibb,HAZZARD 1,Commissioner Of Insurance,,LIB,DONNIE FOSTER,26
+Bibb,HAZZARD 2,Commissioner Of Insurance,,LIB,DONNIE FOSTER,45
+Bibb,HAZZARD 3,Commissioner Of Insurance,,LIB,DONNIE FOSTER,59
+Bibb,HAZZARD 4,Commissioner Of Insurance,,LIB,DONNIE FOSTER,25
+Bibb,HOWARD 1,Commissioner Of Insurance,,LIB,DONNIE FOSTER,65
+Bibb,HOWARD 2,Commissioner Of Insurance,,LIB,DONNIE FOSTER,44
+Bibb,HOWARD 3,Commissioner Of Insurance,,LIB,DONNIE FOSTER,124
+Bibb,HOWARD 4,Commissioner Of Insurance,,LIB,DONNIE FOSTER,37
+Bibb,HOWARD 5,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Bibb,HOWARD 6,Commissioner Of Insurance,,LIB,DONNIE FOSTER,25
+Bibb,HOWARD 7,Commissioner Of Insurance,,LIB,DONNIE FOSTER,52
+Bibb,RUTLAND 1,Commissioner Of Insurance,,LIB,DONNIE FOSTER,45
+Bibb,RUTLAND 2,Commissioner Of Insurance,,LIB,DONNIE FOSTER,41
+Bibb,VINEVILLE 1,Commissioner Of Insurance,,LIB,DONNIE FOSTER,68
+Bibb,VINEVILLE 2,Commissioner Of Insurance,,LIB,DONNIE FOSTER,26
+Bibb,VINEVILLE 3,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
+Bibb,VINEVILLE 4,Commissioner Of Insurance,,LIB,DONNIE FOSTER,37
+Bibb,VINEVILLE 5,Commissioner Of Insurance,,LIB,DONNIE FOSTER,38
+Bibb,VINEVILLE 6,Commissioner Of Insurance,,LIB,DONNIE FOSTER,43
+Bibb,WARRIOR 1,Commissioner Of Insurance,,LIB,DONNIE FOSTER,25
+Bibb,WARRIOR 2,Commissioner Of Insurance,,LIB,DONNIE FOSTER,39
+Bibb,EAST MACON 1,State School Superintendent,,(REP,RICHARD WOODS ,38
+Bibb,EAST MACON 2,State School Superintendent,,(REP,RICHARD WOODS ,111
+Bibb,EAST MACON 3,State School Superintendent,,(REP,RICHARD WOODS ,528
+Bibb,EAST MACON 4,State School Superintendent,,(REP,RICHARD WOODS ,72
+Bibb,EAST MACON 5,State School Superintendent,,(REP,RICHARD WOODS ,298
+Bibb,GODFREY 1,State School Superintendent,,(REP,RICHARD WOODS ,286
+Bibb,GODFREY 2,State School Superintendent,,(REP,RICHARD WOODS ,59
+Bibb,GODFREY 3,State School Superintendent,,(REP,RICHARD WOODS ,152
+Bibb,GODFREY 4,State School Superintendent,,(REP,RICHARD WOODS ,102
+Bibb,GODFREY 5,State School Superintendent,,(REP,RICHARD WOODS ,276
+Bibb,HAZZARD 1,State School Superintendent,,(REP,RICHARD WOODS ,190
+Bibb,HAZZARD 2,State School Superintendent,,(REP,RICHARD WOODS ,1070
+Bibb,HAZZARD 3,State School Superintendent,,(REP,RICHARD WOODS ,1037
+Bibb,HAZZARD 4,State School Superintendent,,(REP,RICHARD WOODS ,961
+Bibb,HOWARD 1,State School Superintendent,,(REP,RICHARD WOODS ,1662
+Bibb,HOWARD 2,State School Superintendent,,(REP,RICHARD WOODS ,1850
+Bibb,HOWARD 3,State School Superintendent,,(REP,RICHARD WOODS ,3195
+Bibb,HOWARD 4,State School Superintendent,,(REP,RICHARD WOODS ,565
+Bibb,HOWARD 5,State School Superintendent,,(REP,RICHARD WOODS ,440
+Bibb,HOWARD 6,State School Superintendent,,(REP,RICHARD WOODS ,817
+Bibb,HOWARD 7,State School Superintendent,,(REP,RICHARD WOODS ,1206
+Bibb,RUTLAND 1,State School Superintendent,,(REP,RICHARD WOODS ,2199
+Bibb,RUTLAND 2,State School Superintendent,,(REP,RICHARD WOODS ,1372
+Bibb,VINEVILLE 1,State School Superintendent,,(REP,RICHARD WOODS ,643
+Bibb,VINEVILLE 2,State School Superintendent,,(REP,RICHARD WOODS ,310
+Bibb,VINEVILLE 3,State School Superintendent,,(REP,RICHARD WOODS ,117
+Bibb,VINEVILLE 4,State School Superintendent,,(REP,RICHARD WOODS ,241
+Bibb,VINEVILLE 5,State School Superintendent,,(REP,RICHARD WOODS ,904
+Bibb,VINEVILLE 6,State School Superintendent,,(REP,RICHARD WOODS ,966
+Bibb,WARRIOR 1,State School Superintendent,,(REP,RICHARD WOODS ,1181
+Bibb,WARRIOR 2,State School Superintendent,,(REP,RICHARD WOODS ,1313
+Bibb,EAST MACON 1,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",785
+Bibb,EAST MACON 2,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1948
+Bibb,EAST MACON 3,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1246
+Bibb,EAST MACON 4,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1151
+Bibb,EAST MACON 5,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1091
+Bibb,GODFREY 1,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2562
+Bibb,GODFREY 2,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",666
+Bibb,GODFREY 3,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1343
+Bibb,GODFREY 4,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",780
+Bibb,GODFREY 5,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2044
+Bibb,HAZZARD 1,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1499
+Bibb,HAZZARD 2,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1277
+Bibb,HAZZARD 3,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2673
+Bibb,HAZZARD 4,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",482
+Bibb,HOWARD 1,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1077
+Bibb,HOWARD 2,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",701
+Bibb,HOWARD 3,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2130
+Bibb,HOWARD 4,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",474
+Bibb,HOWARD 5,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",429
+Bibb,HOWARD 6,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",523
+Bibb,HOWARD 7,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",554
+Bibb,RUTLAND 1,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1385
+Bibb,RUTLAND 2,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",666
+Bibb,VINEVILLE 1,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1187
+Bibb,VINEVILLE 2,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",795
+Bibb,VINEVILLE 3,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1389
+Bibb,VINEVILLE 4,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1799
+Bibb,VINEVILLE 5,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",516
+Bibb,VINEVILLE 6,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",826
+Bibb,WARRIOR 1,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",538
+Bibb,WARRIOR 2,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",724
+Bibb,EAST MACON 1,Commissioner Of Labor,,(REP,MARK BUTLER ,34
+Bibb,EAST MACON 2,Commissioner Of Labor,,(REP,MARK BUTLER ,118
+Bibb,EAST MACON 3,Commissioner Of Labor,,(REP,MARK BUTLER ,513
+Bibb,EAST MACON 4,Commissioner Of Labor,,(REP,MARK BUTLER ,68
+Bibb,EAST MACON 5,Commissioner Of Labor,,(REP,MARK BUTLER ,287
+Bibb,GODFREY 1,Commissioner Of Labor,,(REP,MARK BUTLER ,298
+Bibb,GODFREY 2,Commissioner Of Labor,,(REP,MARK BUTLER ,71
+Bibb,GODFREY 3,Commissioner Of Labor,,(REP,MARK BUTLER ,147
+Bibb,GODFREY 4,Commissioner Of Labor,,(REP,MARK BUTLER ,100
+Bibb,GODFREY 5,Commissioner Of Labor,,(REP,MARK BUTLER ,267
+Bibb,HAZZARD 1,Commissioner Of Labor,,(REP,MARK BUTLER ,188
+Bibb,HAZZARD 2,Commissioner Of Labor,,(REP,MARK BUTLER ,1056
+Bibb,HAZZARD 3,Commissioner Of Labor,,(REP,MARK BUTLER ,1032
+Bibb,HAZZARD 4,Commissioner Of Labor,,(REP,MARK BUTLER ,960
+Bibb,HOWARD 1,Commissioner Of Labor,,(REP,MARK BUTLER ,1633
+Bibb,HOWARD 2,Commissioner Of Labor,,(REP,MARK BUTLER ,1828
+Bibb,HOWARD 3,Commissioner Of Labor,,(REP,MARK BUTLER ,3170
+Bibb,HOWARD 4,Commissioner Of Labor,,(REP,MARK BUTLER ,568
+Bibb,HOWARD 5,Commissioner Of Labor,,(REP,MARK BUTLER ,417
+Bibb,HOWARD 6,Commissioner Of Labor,,(REP,MARK BUTLER ,794
+Bibb,HOWARD 7,Commissioner Of Labor,,(REP,MARK BUTLER ,1192
+Bibb,RUTLAND 1,Commissioner Of Labor,,(REP,MARK BUTLER ,2199
+Bibb,RUTLAND 2,Commissioner Of Labor,,(REP,MARK BUTLER ,1361
+Bibb,VINEVILLE 1,Commissioner Of Labor,,(REP,MARK BUTLER ,632
+Bibb,VINEVILLE 2,Commissioner Of Labor,,(REP,MARK BUTLER ,312
+Bibb,VINEVILLE 3,Commissioner Of Labor,,(REP,MARK BUTLER ,124
+Bibb,VINEVILLE 4,Commissioner Of Labor,,(REP,MARK BUTLER ,228
+Bibb,VINEVILLE 5,Commissioner Of Labor,,(REP,MARK BUTLER ,883
+Bibb,VINEVILLE 6,Commissioner Of Labor,,(REP,MARK BUTLER ,936
+Bibb,WARRIOR 1,Commissioner Of Labor,,(REP,MARK BUTLER ,1171
+Bibb,WARRIOR 2,Commissioner Of Labor,,(REP,MARK BUTLER ,1299
+Bibb,EAST MACON 1,Commissioner Of Labor,,DEM,RICHARD KEATLEY,784
+Bibb,EAST MACON 2,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1938
+Bibb,EAST MACON 3,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1264
+Bibb,EAST MACON 4,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1151
+Bibb,EAST MACON 5,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1091
+Bibb,GODFREY 1,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2538
+Bibb,GODFREY 2,Commissioner Of Labor,,DEM,RICHARD KEATLEY,653
+Bibb,GODFREY 3,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1333
+Bibb,GODFREY 4,Commissioner Of Labor,,DEM,RICHARD KEATLEY,787
+Bibb,GODFREY 5,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2051
+Bibb,HAZZARD 1,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1498
+Bibb,HAZZARD 2,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1286
+Bibb,HAZZARD 3,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2681
+Bibb,HAZZARD 4,Commissioner Of Labor,,DEM,RICHARD KEATLEY,484
+Bibb,HOWARD 1,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1088
+Bibb,HOWARD 2,Commissioner Of Labor,,DEM,RICHARD KEATLEY,715
+Bibb,HOWARD 3,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2126
+Bibb,HOWARD 4,Commissioner Of Labor,,DEM,RICHARD KEATLEY,464
+Bibb,HOWARD 5,Commissioner Of Labor,,DEM,RICHARD KEATLEY,445
+Bibb,HOWARD 6,Commissioner Of Labor,,DEM,RICHARD KEATLEY,545
+Bibb,HOWARD 7,Commissioner Of Labor,,DEM,RICHARD KEATLEY,562
+Bibb,RUTLAND 1,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1384
+Bibb,RUTLAND 2,Commissioner Of Labor,,DEM,RICHARD KEATLEY,670
+Bibb,VINEVILLE 1,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1190
+Bibb,VINEVILLE 2,Commissioner Of Labor,,DEM,RICHARD KEATLEY,784
+Bibb,VINEVILLE 3,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1379
+Bibb,VINEVILLE 4,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1804
+Bibb,VINEVILLE 5,Commissioner Of Labor,,DEM,RICHARD KEATLEY,528
+Bibb,VINEVILLE 6,Commissioner Of Labor,,DEM,RICHARD KEATLEY,846
+Bibb,WARRIOR 1,Commissioner Of Labor,,DEM,RICHARD KEATLEY,546
+Bibb,WARRIOR 2,Commissioner Of Labor,,DEM,RICHARD KEATLEY,731
+Bibb,EAST MACON 1,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,28
+Bibb,EAST MACON 2,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,102
+Bibb,EAST MACON 3,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,461
+Bibb,EAST MACON 4,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,60
+Bibb,EAST MACON 5,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,264
+Bibb,GODFREY 1,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,240
+Bibb,GODFREY 2,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,59
+Bibb,GODFREY 3,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,130
+Bibb,GODFREY 4,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,95
+Bibb,GODFREY 5,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,248
+Bibb,HAZZARD 1,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,165
+Bibb,HAZZARD 2,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1014
+Bibb,HAZZARD 3,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,968
+Bibb,HAZZARD 4,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,923
+Bibb,HOWARD 1,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1543
+Bibb,HOWARD 2,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1758
+Bibb,HOWARD 3,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2998
+Bibb,HOWARD 4,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,520
+Bibb,HOWARD 5,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,385
+Bibb,HOWARD 6,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,739
+Bibb,HOWARD 7,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1117
+Bibb,RUTLAND 1,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2091
+Bibb,RUTLAND 2,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1308
+Bibb,VINEVILLE 1,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,550
+Bibb,VINEVILLE 2,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,268
+Bibb,VINEVILLE 3,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,100
+Bibb,VINEVILLE 4,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,209
+Bibb,VINEVILLE 5,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,838
+Bibb,VINEVILLE 6,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,856
+Bibb,WARRIOR 1,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1103
+Bibb,WARRIOR 2,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1237
+Bibb,EAST MACON 1,"Public Service Commission, District 3",3,DEM,LINDY MILLER,793
+Bibb,EAST MACON 2,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1940
+Bibb,EAST MACON 3,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1263
+Bibb,EAST MACON 4,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1147
+Bibb,EAST MACON 5,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1098
+Bibb,GODFREY 1,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2538
+Bibb,GODFREY 2,"Public Service Commission, District 3",3,DEM,LINDY MILLER,655
+Bibb,GODFREY 3,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1336
+Bibb,GODFREY 4,"Public Service Commission, District 3",3,DEM,LINDY MILLER,779
+Bibb,GODFREY 5,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2058
+Bibb,HAZZARD 1,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1510
+Bibb,HAZZARD 2,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1285
+Bibb,HAZZARD 3,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2687
+Bibb,HAZZARD 4,"Public Service Commission, District 3",3,DEM,LINDY MILLER,498
+Bibb,HOWARD 1,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1138
+Bibb,HOWARD 2,"Public Service Commission, District 3",3,DEM,LINDY MILLER,755
+Bibb,HOWARD 3,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2208
+Bibb,HOWARD 4,"Public Service Commission, District 3",3,DEM,LINDY MILLER,480
+Bibb,HOWARD 5,"Public Service Commission, District 3",3,DEM,LINDY MILLER,458
+Bibb,HOWARD 6,"Public Service Commission, District 3",3,DEM,LINDY MILLER,565
+Bibb,HOWARD 7,"Public Service Commission, District 3",3,DEM,LINDY MILLER,603
+Bibb,RUTLAND 1,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1438
+Bibb,RUTLAND 2,"Public Service Commission, District 3",3,DEM,LINDY MILLER,701
+Bibb,VINEVILLE 1,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1214
+Bibb,VINEVILLE 2,"Public Service Commission, District 3",3,DEM,LINDY MILLER,810
+Bibb,VINEVILLE 3,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1386
+Bibb,VINEVILLE 4,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1800
+Bibb,VINEVILLE 5,"Public Service Commission, District 3",3,DEM,LINDY MILLER,546
+Bibb,VINEVILLE 6,"Public Service Commission, District 3",3,DEM,LINDY MILLER,890
+Bibb,WARRIOR 1,"Public Service Commission, District 3",3,DEM,LINDY MILLER,583
+Bibb,WARRIOR 2,"Public Service Commission, District 3",3,DEM,LINDY MILLER,757
+Bibb,EAST MACON 1,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,8
+Bibb,EAST MACON 2,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,23
+Bibb,EAST MACON 3,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,47
+Bibb,EAST MACON 4,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,15
+Bibb,EAST MACON 5,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,21
+Bibb,GODFREY 1,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,58
+Bibb,GODFREY 2,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,9
+Bibb,GODFREY 3,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,26
+Bibb,GODFREY 4,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,12
+Bibb,GODFREY 5,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,29
+Bibb,HAZZARD 1,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,20
+Bibb,HAZZARD 2,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,41
+Bibb,HAZZARD 3,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,50
+Bibb,HAZZARD 4,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,24
+Bibb,HOWARD 1,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,60
+Bibb,HOWARD 2,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,35
+Bibb,HOWARD 3,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,107
+Bibb,HOWARD 4,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,39
+Bibb,HOWARD 5,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,24
+Bibb,HOWARD 6,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,31
+Bibb,HOWARD 7,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,42
+Bibb,RUTLAND 1,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,53
+Bibb,RUTLAND 2,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,37
+Bibb,VINEVILLE 1,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,60
+Bibb,VINEVILLE 2,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,27
+Bibb,VINEVILLE 3,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,17
+Bibb,VINEVILLE 4,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,28
+Bibb,VINEVILLE 5,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,35
+Bibb,VINEVILLE 6,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,49
+Bibb,WARRIOR 1,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,26
+Bibb,WARRIOR 2,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,36
+Bibb,EAST MACON 1,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,28
+Bibb,EAST MACON 2,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,106
+Bibb,EAST MACON 3,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,476
+Bibb,EAST MACON 4,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,60
+Bibb,EAST MACON 5,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,274
+Bibb,GODFREY 1,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,245
+Bibb,GODFREY 2,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,61
+Bibb,GODFREY 3,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,137
+Bibb,GODFREY 4,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,91
+Bibb,GODFREY 5,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,245
+Bibb,HAZZARD 1,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,180
+Bibb,HAZZARD 2,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1019
+Bibb,HAZZARD 3,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,999
+Bibb,HAZZARD 4,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,926
+Bibb,HOWARD 1,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1584
+Bibb,HOWARD 2,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1785
+Bibb,HOWARD 3,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3051
+Bibb,HOWARD 4,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,532
+Bibb,HOWARD 5,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,398
+Bibb,HOWARD 6,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,764
+Bibb,HOWARD 7,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1140
+Bibb,RUTLAND 1,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2138
+Bibb,RUTLAND 2,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1325
+Bibb,VINEVILLE 1,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,572
+Bibb,VINEVILLE 2,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,271
+Bibb,VINEVILLE 3,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,112
+Bibb,VINEVILLE 4,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,204
+Bibb,VINEVILLE 5,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,846
+Bibb,VINEVILLE 6,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,886
+Bibb,WARRIOR 1,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1137
+Bibb,WARRIOR 2,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1264
+Bibb,EAST MACON 1,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,796
+Bibb,EAST MACON 2,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1936
+Bibb,EAST MACON 3,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1254
+Bibb,EAST MACON 4,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1150
+Bibb,EAST MACON 5,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1091
+Bibb,GODFREY 1,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2554
+Bibb,GODFREY 2,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,656
+Bibb,GODFREY 3,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1338
+Bibb,GODFREY 4,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,788
+Bibb,GODFREY 5,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2059
+Bibb,HAZZARD 1,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1495
+Bibb,HAZZARD 2,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1276
+Bibb,HAZZARD 3,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2672
+Bibb,HAZZARD 4,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,490
+Bibb,HOWARD 1,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1096
+Bibb,HOWARD 2,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,716
+Bibb,HOWARD 3,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2157
+Bibb,HOWARD 4,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,460
+Bibb,HOWARD 5,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,451
+Bibb,HOWARD 6,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,553
+Bibb,HOWARD 7,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,574
+Bibb,RUTLAND 1,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1401
+Bibb,RUTLAND 2,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,672
+Bibb,VINEVILLE 1,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1195
+Bibb,VINEVILLE 2,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,802
+Bibb,VINEVILLE 3,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1372
+Bibb,VINEVILLE 4,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1804
+Bibb,VINEVILLE 5,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,532
+Bibb,VINEVILLE 6,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,864
+Bibb,WARRIOR 1,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,557
+Bibb,WARRIOR 2,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,729
+Bibb,EAST MACON 1,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,5
+Bibb,EAST MACON 2,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,22
+Bibb,EAST MACON 3,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,46
+Bibb,EAST MACON 4,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,12
+Bibb,EAST MACON 5,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Bibb,GODFREY 1,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,45
+Bibb,GODFREY 2,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,10
+Bibb,GODFREY 3,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,16
+Bibb,GODFREY 4,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,9
+Bibb,GODFREY 5,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,29
+Bibb,HAZZARD 1,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21
+Bibb,HAZZARD 2,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,43
+Bibb,HAZZARD 3,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,36
+Bibb,HAZZARD 4,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
+Bibb,HOWARD 1,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,59
+Bibb,HOWARD 2,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,50
+Bibb,HOWARD 3,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,108
+Bibb,HOWARD 4,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,45
+Bibb,HOWARD 5,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21
+Bibb,HOWARD 6,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,23
+Bibb,HOWARD 7,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,43
+Bibb,RUTLAND 1,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,47
+Bibb,RUTLAND 2,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,45
+Bibb,VINEVILLE 1,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,61
+Bibb,VINEVILLE 2,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,22
+Bibb,VINEVILLE 3,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Bibb,VINEVILLE 4,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
+Bibb,VINEVILLE 5,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,35
+Bibb,VINEVILLE 6,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,38
+Bibb,WARRIOR 1,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,25
+Bibb,WARRIOR 2,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,35
+Bibb,EAST MACON 1,U.S. Representative,2,REP,HERMAN WEST JR,25
+Bibb,EAST MACON 2,U.S. Representative,2,REP,HERMAN WEST JR,95
+Bibb,EAST MACON 3,U.S. Representative,2,REP,HERMAN WEST JR,449
+Bibb,EAST MACON 4,U.S. Representative,2,REP,HERMAN WEST JR,56
+Bibb,EAST MACON 5,U.S. Representative,2,REP,HERMAN WEST JR,270
+Bibb,GODFREY 1,U.S. Representative,2,REP,HERMAN WEST JR,240
+Bibb,GODFREY 2,U.S. Representative,2,REP,HERMAN WEST JR,55
+Bibb,GODFREY 3,U.S. Representative,2,REP,HERMAN WEST JR,129
+Bibb,GODFREY 4,U.S. Representative,2,REP,HERMAN WEST JR,94
+Bibb,GODFREY 5,U.S. Representative,2,REP,HERMAN WEST JR,233
+Bibb,HAZZARD 1,U.S. Representative,2,REP,HERMAN WEST JR,184
+Bibb,HAZZARD 3,U.S. Representative,2,REP,HERMAN WEST JR,945
+Bibb,HAZZARD 4,U.S. Representative,2,REP,HERMAN WEST JR,928
+Bibb,HOWARD 2,U.S. Representative,2,REP,HERMAN WEST JR,328
+Bibb,RUTLAND 1,U.S. Representative,2,REP,HERMAN WEST JR,2083
+Bibb,RUTLAND 2,U.S. Representative,2,REP,HERMAN WEST JR,1306
+Bibb,VINEVILLE 1,U.S. Representative,2,REP,HERMAN WEST JR,556
+Bibb,VINEVILLE 2,U.S. Representative,2,REP,HERMAN WEST JR,271
+Bibb,VINEVILLE 3,U.S. Representative,2,REP,HERMAN WEST JR,107
+Bibb,VINEVILLE 4,U.S. Representative,2,REP,HERMAN WEST JR,207
+Bibb,WARRIOR 1,U.S. Representative,2,REP,HERMAN WEST JR,1106
+Bibb,WARRIOR 2,U.S. Representative,2,REP,HERMAN WEST JR,1241
+Bibb,EAST MACON 1,U.S. Representative,2,(DEM,SANFORD BISHOP ,799
+Bibb,EAST MACON 2,U.S. Representative,2,(DEM,SANFORD BISHOP ,1970
+Bibb,EAST MACON 3,U.S. Representative,2,(DEM,SANFORD BISHOP ,1326
+Bibb,EAST MACON 4,U.S. Representative,2,(DEM,SANFORD BISHOP ,1160
+Bibb,EAST MACON 5,U.S. Representative,2,(DEM,SANFORD BISHOP ,1114
+Bibb,GODFREY 1,U.S. Representative,2,(DEM,SANFORD BISHOP ,2617
+Bibb,GODFREY 2,U.S. Representative,2,(DEM,SANFORD BISHOP ,669
+Bibb,GODFREY 3,U.S. Representative,2,(DEM,SANFORD BISHOP ,1348
+Bibb,GODFREY 4,U.S. Representative,2,(DEM,SANFORD BISHOP ,782
+Bibb,GODFREY 5,U.S. Representative,2,(DEM,SANFORD BISHOP ,2093
+Bibb,HAZZARD 1,U.S. Representative,2,(DEM,SANFORD BISHOP ,1502
+Bibb,HAZZARD 3,U.S. Representative,2,(DEM,SANFORD BISHOP ,2752
+Bibb,HAZZARD 4,U.S. Representative,2,(DEM,SANFORD BISHOP ,518
+Bibb,HOWARD 2,U.S. Representative,2,(DEM,SANFORD BISHOP ,114
+Bibb,RUTLAND 1,U.S. Representative,2,(DEM,SANFORD BISHOP ,1508
+Bibb,RUTLAND 2,U.S. Representative,2,(DEM,SANFORD BISHOP ,731
+Bibb,VINEVILLE 1,U.S. Representative,2,(DEM,SANFORD BISHOP ,1285
+Bibb,VINEVILLE 2,U.S. Representative,2,(DEM,SANFORD BISHOP ,825
+Bibb,VINEVILLE 3,U.S. Representative,2,(DEM,SANFORD BISHOP ,1399
+Bibb,VINEVILLE 4,U.S. Representative,2,(DEM,SANFORD BISHOP ,1831
+Bibb,WARRIOR 1,U.S. Representative,2,(DEM,SANFORD BISHOP ,611
+Bibb,WARRIOR 2,U.S. Representative,2,(DEM,SANFORD BISHOP ,796
+Bibb,HAZZARD 2,U.S. Representative,8,(REP,AUSTIN SCOTT ,1584
+Bibb,HOWARD 1,U.S. Representative,8,(REP,AUSTIN SCOTT ,2068
+Bibb,HOWARD 2,U.S. Representative,8,(REP,AUSTIN SCOTT ,1695
+Bibb,HOWARD 3,U.S. Representative,8,(REP,AUSTIN SCOTT ,3954
+Bibb,HOWARD 4,U.S. Representative,8,(REP,AUSTIN SCOTT ,718
+Bibb,HOWARD 5,U.S. Representative,8,(REP,AUSTIN SCOTT ,609
+Bibb,HOWARD 6,U.S. Representative,8,(REP,AUSTIN SCOTT ,996
+Bibb,HOWARD 7,U.S. Representative,8,(REP,AUSTIN SCOTT ,1382
+Bibb,VINEVILLE 5,U.S. Representative,8,(REP,AUSTIN SCOTT ,1078
+Bibb,VINEVILLE 6,U.S. Representative,8,(REP,AUSTIN SCOTT ,1242
+Bibb,WARRIOR 2,U.S. Representative,8,(REP,AUSTIN SCOTT ,0
+Bibb,HAZZARD 2,State Senator,18,(REP,JOHN F. KENNEDY ,1602
+Bibb,HAZZARD 4,State Senator,18,(REP,JOHN F. KENNEDY ,1161
+Bibb,HOWARD 1,State Senator,18,(REP,JOHN F. KENNEDY ,2103
+Bibb,HOWARD 2,State Senator,18,(REP,JOHN F. KENNEDY ,2097
+Bibb,HOWARD 3,State Senator,18,(REP,JOHN F. KENNEDY ,1761
+Bibb,HOWARD 6,State Senator,18,(REP,JOHN F. KENNEDY ,1010
+Bibb,HOWARD 7,State Senator,18,(REP,JOHN F. KENNEDY ,1405
+Bibb,RUTLAND 1,State Senator,18,(REP,JOHN F. KENNEDY ,2761
+Bibb,RUTLAND 2,State Senator,18,(REP,JOHN F. KENNEDY ,1178
+Bibb,VINEVILLE 5,State Senator,18,(REP,JOHN F. KENNEDY ,1101
+Bibb,VINEVILLE 6,State Senator,18,(REP,JOHN F. KENNEDY ,1253
+Bibb,WARRIOR 1,State Senator,18,(REP,JOHN F. KENNEDY ,1344
+Bibb,WARRIOR 2,State Senator,18,(REP,JOHN F. KENNEDY ,1606
+Bibb,HOWARD 3,State Senator,25,(REP,BURT JONES ,2213
+Bibb,HOWARD 4,State Senator,25,(REP,BURT JONES ,724
+Bibb,HOWARD 5,State Senator,25,(REP,BURT JONES ,611
+Bibb,EAST MACON 1,State Senator,26,(DEM,DAVID E. LUCAS SR ,809
+Bibb,EAST MACON 2,State Senator,26,(DEM,DAVID E. LUCAS SR ,1993
+Bibb,EAST MACON 3,State Senator,26,(DEM,DAVID E. LUCAS SR ,1405
+Bibb,EAST MACON 4,State Senator,26,(DEM,DAVID E. LUCAS SR ,1191
+Bibb,EAST MACON 5,State Senator,26,(DEM,DAVID E. LUCAS SR ,1209
+Bibb,GODFREY 1,State Senator,26,(DEM,DAVID E. LUCAS SR ,2698
+Bibb,GODFREY 2,State Senator,26,(DEM,DAVID E. LUCAS SR ,705
+Bibb,GODFREY 3,State Senator,26,(DEM,DAVID E. LUCAS SR ,1416
+Bibb,GODFREY 4,State Senator,26,(DEM,DAVID E. LUCAS SR ,815
+Bibb,GODFREY 5,State Senator,26,(DEM,DAVID E. LUCAS SR ,2182
+Bibb,HAZZARD 1,State Senator,26,(DEM,DAVID E. LUCAS SR ,1592
+Bibb,HAZZARD 3,State Senator,26,(DEM,DAVID E. LUCAS SR ,3006
+Bibb,RUTLAND 2,State Senator,26,(DEM,DAVID E. LUCAS SR ,323
+Bibb,VINEVILLE 1,State Senator,26,(DEM,DAVID E. LUCAS SR ,1440
+Bibb,VINEVILLE 2,State Senator,26,(DEM,DAVID E. LUCAS SR ,887
+Bibb,VINEVILLE 3,State Senator,26,(DEM,DAVID E. LUCAS SR ,1420
+Bibb,VINEVILLE 4,State Senator,26,(DEM,DAVID E. LUCAS SR ,1902
+Bibb,WARRIOR 1,State Representative,140,(REP,ROBERT DICKEY ,1337
+Bibb,HAZZARD 2,State Representative,141,REP,DALE WASHBURN,1578
+Bibb,HAZZARD 4,State Representative,141,REP,DALE WASHBURN,1143
+Bibb,HOWARD 1,State Representative,141,REP,DALE WASHBURN,2057
+Bibb,HOWARD 2,State Representative,141,REP,DALE WASHBURN,2072
+Bibb,HOWARD 3,State Representative,141,REP,DALE WASHBURN,3978
+Bibb,HOWARD 5,State Representative,141,REP,DALE WASHBURN,620
+Bibb,HOWARD 6,State Representative,141,REP,DALE WASHBURN,997
+Bibb,HOWARD 7,State Representative,141,REP,DALE WASHBURN,1374
+Bibb,VINEVILLE 4,State Representative,141,REP,DALE WASHBURN,422
+Bibb,GODFREY 1,State Representative,142,(DEM,MIRIAM PARIS ,1175
+Bibb,GODFREY 3,State Representative,142,(DEM,MIRIAM PARIS ,1366
+Bibb,GODFREY 5,State Representative,142,(DEM,MIRIAM PARIS ,2121
+Bibb,HAZZARD 1,State Representative,142,(DEM,MIRIAM PARIS ,1558
+Bibb,HAZZARD 3,State Representative,142,(DEM,MIRIAM PARIS ,2982
+Bibb,RUTLAND 1,State Representative,142,(DEM,MIRIAM PARIS ,2250
+Bibb,VINEVILLE 3,State Representative,142,(DEM,MIRIAM PARIS ,1379
+Bibb,VINEVILLE 4,State Representative,142,(DEM,MIRIAM PARIS ,1063
+Bibb,WARRIOR 2,State Representative,142,(DEM,MIRIAM PARIS ,1254
+Bibb,EAST MACON 1,State Representative,143,(DEM,JAMES BEVERLY ,799
+Bibb,EAST MACON 2,State Representative,143,(DEM,JAMES BEVERLY ,1967
+Bibb,EAST MACON 3,State Representative,143,(DEM,JAMES BEVERLY ,1432
+Bibb,EAST MACON 4,State Representative,143,(DEM,JAMES BEVERLY ,1175
+Bibb,EAST MACON 5,State Representative,143,(DEM,JAMES BEVERLY ,1202
+Bibb,GODFREY 1,State Representative,143,(DEM,JAMES BEVERLY ,1469
+Bibb,GODFREY 2,State Representative,143,(DEM,JAMES BEVERLY ,692
+Bibb,GODFREY 4,State Representative,143,(DEM,JAMES BEVERLY ,817
+Bibb,HOWARD 4,State Representative,143,(DEM,JAMES BEVERLY ,731
+Bibb,VINEVILLE 1,State Representative,143,(DEM,JAMES BEVERLY ,1482
+Bibb,VINEVILLE 2,State Representative,143,(DEM,JAMES BEVERLY ,908
+Bibb,VINEVILLE 5,State Representative,143,(DEM,JAMES BEVERLY ,952
+Bibb,VINEVILLE 6,State Representative,143,(DEM,JAMES BEVERLY ,1247
+Bibb,RUTLAND 2,State Representative,144,REP,DANNY MATHIS,1300
+Bibb,RUTLAND 2,State Representative,144,DEM,JESSICA WALDEN,743
+Bibb,EAST MACON 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,663
+Bibb,EAST MACON 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1640
+Bibb,EAST MACON 3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1420
+Bibb,EAST MACON 4,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,962
+Bibb,EAST MACON 5,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1057
+Bibb,GODFREY 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2371
+Bibb,GODFREY 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,607
+Bibb,GODFREY 3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1207
+Bibb,GODFREY 4,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,735
+Bibb,GODFREY 5,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1911
+Bibb,HAZZARD 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1370
+Bibb,HAZZARD 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1831
+Bibb,HAZZARD 3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3002
+Bibb,HAZZARD 4,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1058
+Bibb,HOWARD 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2091
+Bibb,HOWARD 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1884
+Bibb,HOWARD 3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4065
+Bibb,HOWARD 4,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,806
+Bibb,HOWARD 5,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,672
+Bibb,HOWARD 6,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1021
+Bibb,HOWARD 7,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1303
+Bibb,RUTLAND 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2660
+Bibb,RUTLAND 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1545
+Bibb,VINEVILLE 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1563
+Bibb,VINEVILLE 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,900
+Bibb,VINEVILLE 3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1216
+Bibb,VINEVILLE 4,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1670
+Bibb,VINEVILLE 5,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1095
+Bibb,VINEVILLE 6,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1379
+Bibb,WARRIOR 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1244
+Bibb,WARRIOR 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1498
+Bibb,EAST MACON 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,146
+Bibb,EAST MACON 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,391
+Bibb,EAST MACON 3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,348
+Bibb,EAST MACON 4,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,230
+Bibb,EAST MACON 5,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,294
+Bibb,GODFREY 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,421
+Bibb,GODFREY 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,103
+Bibb,GODFREY 3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,244
+Bibb,GODFREY 4,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,138
+Bibb,GODFREY 5,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,381
+Bibb,HAZZARD 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,291
+Bibb,HAZZARD 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,488
+Bibb,HAZZARD 3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,642
+Bibb,HAZZARD 4,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,370
+Bibb,HOWARD 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,618
+Bibb,HOWARD 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,624
+Bibb,HOWARD 3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1179
+Bibb,HOWARD 4,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,224
+Bibb,HOWARD 5,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,195
+Bibb,HOWARD 6,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,300
+Bibb,HOWARD 7,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,459
+Bibb,RUTLAND 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,872
+Bibb,RUTLAND 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,481
+Bibb,VINEVILLE 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,282
+Bibb,VINEVILLE 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,193
+Bibb,VINEVILLE 3,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,244
+Bibb,VINEVILLE 4,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,323
+Bibb,VINEVILLE 5,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,321
+Bibb,VINEVILLE 6,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,401
+Bibb,WARRIOR 1,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,426
+Bibb,WARRIOR 2,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,499
+Bibb,EAST MACON 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,597
+Bibb,EAST MACON 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1495
+Bibb,EAST MACON 3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1172
+Bibb,EAST MACON 4,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,865
+Bibb,EAST MACON 5,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,933
+Bibb,GODFREY 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2089
+Bibb,GODFREY 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,560
+Bibb,GODFREY 3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1128
+Bibb,GODFREY 4,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,684
+Bibb,GODFREY 5,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1737
+Bibb,HAZZARD 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1247
+Bibb,HAZZARD 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1565
+Bibb,HAZZARD 3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2587
+Bibb,HAZZARD 4,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,853
+Bibb,HOWARD 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1716
+Bibb,HOWARD 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1532
+Bibb,HOWARD 3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3223
+Bibb,HOWARD 4,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,635
+Bibb,HOWARD 5,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,562
+Bibb,HOWARD 6,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,818
+Bibb,HOWARD 7,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,991
+Bibb,RUTLAND 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2191
+Bibb,RUTLAND 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1273
+Bibb,VINEVILLE 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1203
+Bibb,VINEVILLE 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,707
+Bibb,VINEVILLE 3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1110
+Bibb,VINEVILLE 4,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1485
+Bibb,VINEVILLE 5,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,844
+Bibb,VINEVILLE 6,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1086
+Bibb,WARRIOR 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,970
+Bibb,WARRIOR 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1216
+Bibb,EAST MACON 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,215
+Bibb,EAST MACON 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,525
+Bibb,EAST MACON 3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,563
+Bibb,EAST MACON 4,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,321
+Bibb,EAST MACON 5,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,414
+Bibb,GODFREY 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,691
+Bibb,GODFREY 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,145
+Bibb,GODFREY 3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,311
+Bibb,GODFREY 4,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,180
+Bibb,GODFREY 5,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,534
+Bibb,HAZZARD 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,394
+Bibb,HAZZARD 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,705
+Bibb,HAZZARD 3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1018
+Bibb,HAZZARD 4,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,550
+Bibb,HOWARD 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,938
+Bibb,HOWARD 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,905
+Bibb,HOWARD 3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1862
+Bibb,HOWARD 4,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,370
+Bibb,HOWARD 5,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,274
+Bibb,HOWARD 6,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,468
+Bibb,HOWARD 7,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,714
+Bibb,RUTLAND 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1258
+Bibb,RUTLAND 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,719
+Bibb,VINEVILLE 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,607
+Bibb,VINEVILLE 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,359
+Bibb,VINEVILLE 3,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,344
+Bibb,VINEVILLE 4,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,494
+Bibb,VINEVILLE 5,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,543
+Bibb,VINEVILLE 6,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,664
+Bibb,WARRIOR 1,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,664
+Bibb,WARRIOR 2,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,730
+Bibb,EAST MACON 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,480
+Bibb,EAST MACON 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1233
+Bibb,EAST MACON 3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1075
+Bibb,EAST MACON 4,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,752
+Bibb,EAST MACON 5,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,757
+Bibb,GODFREY 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1797
+Bibb,GODFREY 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,444
+Bibb,GODFREY 3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,900
+Bibb,GODFREY 4,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,536
+Bibb,GODFREY 5,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1400
+Bibb,HAZZARD 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1023
+Bibb,HAZZARD 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1305
+Bibb,HAZZARD 3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2136
+Bibb,HAZZARD 4,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,741
+Bibb,HOWARD 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1594
+Bibb,HOWARD 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1452
+Bibb,HOWARD 3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,3124
+Bibb,HOWARD 4,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,601
+Bibb,HOWARD 5,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,513
+Bibb,HOWARD 6,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,780
+Bibb,HOWARD 7,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,966
+Bibb,RUTLAND 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1867
+Bibb,RUTLAND 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1083
+Bibb,VINEVILLE 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1166
+Bibb,VINEVILLE 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,698
+Bibb,VINEVILLE 3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,899
+Bibb,VINEVILLE 4,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1253
+Bibb,VINEVILLE 5,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,796
+Bibb,VINEVILLE 6,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1071
+Bibb,WARRIOR 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,886
+Bibb,WARRIOR 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1098
+Bibb,EAST MACON 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,314
+Bibb,EAST MACON 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,760
+Bibb,EAST MACON 3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,647
+Bibb,EAST MACON 4,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,415
+Bibb,EAST MACON 5,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,581
+Bibb,GODFREY 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,955
+Bibb,GODFREY 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,251
+Bibb,GODFREY 3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,515
+Bibb,GODFREY 4,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,319
+Bibb,GODFREY 5,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,847
+Bibb,HAZZARD 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,598
+Bibb,HAZZARD 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,936
+Bibb,HAZZARD 3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1429
+Bibb,HAZZARD 4,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,647
+Bibb,HOWARD 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1030
+Bibb,HOWARD 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,972
+Bibb,HOWARD 3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1952
+Bibb,HOWARD 4,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,396
+Bibb,HOWARD 5,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,312
+Bibb,HOWARD 6,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,504
+Bibb,HOWARD 7,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,723
+Bibb,RUTLAND 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1558
+Bibb,RUTLAND 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,876
+Bibb,VINEVILLE 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,637
+Bibb,VINEVILLE 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,362
+Bibb,VINEVILLE 3,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,530
+Bibb,VINEVILLE 4,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,702
+Bibb,VINEVILLE 5,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,578
+Bibb,VINEVILLE 6,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,663
+Bibb,WARRIOR 1,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,745
+Bibb,WARRIOR 2,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,834
+Bibb,EAST MACON 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,705
+Bibb,EAST MACON 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1770
+Bibb,EAST MACON 3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1374
+Bibb,EAST MACON 4,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1049
+Bibb,EAST MACON 5,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1140
+Bibb,GODFREY 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2386
+Bibb,GODFREY 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,649
+Bibb,GODFREY 3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1276
+Bibb,GODFREY 4,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,758
+Bibb,GODFREY 5,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2032
+Bibb,HAZZARD 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1482
+Bibb,HAZZARD 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1889
+Bibb,HAZZARD 3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3115
+Bibb,HAZZARD 4,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1034
+Bibb,HOWARD 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2071
+Bibb,HOWARD 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1799
+Bibb,HOWARD 3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3856
+Bibb,HOWARD 4,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,792
+Bibb,HOWARD 5,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,683
+Bibb,HOWARD 6,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,962
+Bibb,HOWARD 7,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1240
+Bibb,RUTLAND 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2666
+Bibb,RUTLAND 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1493
+Bibb,VINEVILLE 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1429
+Bibb,VINEVILLE 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,873
+Bibb,VINEVILLE 3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1300
+Bibb,VINEVILLE 4,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1736
+Bibb,VINEVILLE 5,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1048
+Bibb,VINEVILLE 6,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1290
+Bibb,WARRIOR 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1235
+Bibb,WARRIOR 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1501
+Bibb,EAST MACON 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,111
+Bibb,EAST MACON 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,277
+Bibb,EAST MACON 3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,387
+Bibb,EAST MACON 4,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,147
+Bibb,EAST MACON 5,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,228
+Bibb,GODFREY 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,428
+Bibb,GODFREY 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,71
+Bibb,GODFREY 3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,189
+Bibb,GODFREY 4,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,119
+Bibb,GODFREY 5,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,275
+Bibb,HAZZARD 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,201
+Bibb,HAZZARD 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,427
+Bibb,HAZZARD 3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,543
+Bibb,HAZZARD 4,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,385
+Bibb,HOWARD 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,628
+Bibb,HOWARD 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,692
+Bibb,HOWARD 3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1353
+Bibb,HOWARD 4,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,238
+Bibb,HOWARD 5,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,178
+Bibb,HOWARD 6,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,352
+Bibb,HOWARD 7,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,506
+Bibb,RUTLAND 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,872
+Bibb,RUTLAND 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,535
+Bibb,VINEVILLE 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,407
+Bibb,VINEVILLE 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,217
+Bibb,VINEVILLE 3,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,172
+Bibb,VINEVILLE 4,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,272
+Bibb,VINEVILLE 5,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,369
+Bibb,VINEVILLE 6,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,494
+Bibb,WARRIOR 1,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,441
+Bibb,WARRIOR 2,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,491
+Bibb,EAST MACON 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,611
+Bibb,EAST MACON 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1564
+Bibb,EAST MACON 3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1248
+Bibb,EAST MACON 4,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,936
+Bibb,EAST MACON 5,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,974
+Bibb,GODFREY 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2200
+Bibb,GODFREY 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,583
+Bibb,GODFREY 3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1160
+Bibb,GODFREY 4,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,666
+Bibb,GODFREY 5,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1823
+Bibb,HAZZARD 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1293
+Bibb,HAZZARD 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1560
+Bibb,HAZZARD 3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2593
+Bibb,HAZZARD 4,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,833
+Bibb,HOWARD 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1712
+Bibb,HOWARD 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1529
+Bibb,HOWARD 3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3316
+Bibb,HOWARD 4,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,655
+Bibb,HOWARD 5,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,577
+Bibb,HOWARD 6,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,833
+Bibb,HOWARD 7,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1016
+Bibb,RUTLAND 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2095
+Bibb,RUTLAND 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1195
+Bibb,VINEVILLE 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1346
+Bibb,VINEVILLE 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,759
+Bibb,VINEVILLE 3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1137
+Bibb,VINEVILLE 4,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1542
+Bibb,VINEVILLE 5,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,894
+Bibb,VINEVILLE 6,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1169
+Bibb,WARRIOR 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,963
+Bibb,WARRIOR 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1174
+Bibb,EAST MACON 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,198
+Bibb,EAST MACON 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,463
+Bibb,EAST MACON 3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,489
+Bibb,EAST MACON 4,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,256
+Bibb,EAST MACON 5,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,379
+Bibb,GODFREY 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,587
+Bibb,GODFREY 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,125
+Bibb,GODFREY 3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,285
+Bibb,GODFREY 4,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,192
+Bibb,GODFREY 5,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,446
+Bibb,HAZZARD 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,369
+Bibb,HAZZARD 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,708
+Bibb,HAZZARD 3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,994
+Bibb,HAZZARD 4,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,575
+Bibb,HOWARD 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,938
+Bibb,HOWARD 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,915
+Bibb,HOWARD 3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1782
+Bibb,HOWARD 4,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,349
+Bibb,HOWARD 5,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,263
+Bibb,HOWARD 6,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,459
+Bibb,HOWARD 7,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,682
+Bibb,RUTLAND 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1366
+Bibb,RUTLAND 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,776
+Bibb,VINEVILLE 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,458
+Bibb,VINEVILLE 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,305
+Bibb,VINEVILLE 3,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,306
+Bibb,VINEVILLE 4,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,444
+Bibb,VINEVILLE 5,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,496
+Bibb,VINEVILLE 6,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,567
+Bibb,WARRIOR 1,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,681
+Bibb,WARRIOR 2,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,770
+Bibb,EAST MACON 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,471
+Bibb,EAST MACON 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1228
+Bibb,EAST MACON 3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,976
+Bibb,EAST MACON 4,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,747
+Bibb,EAST MACON 5,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,771
+Bibb,GODFREY 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1745
+Bibb,GODFREY 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,450
+Bibb,GODFREY 3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,928
+Bibb,GODFREY 4,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,526
+Bibb,GODFREY 5,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1422
+Bibb,HAZZARD 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1039
+Bibb,HAZZARD 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1175
+Bibb,HAZZARD 3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2057
+Bibb,HAZZARD 4,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,635
+Bibb,HOWARD 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1341
+Bibb,HOWARD 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1149
+Bibb,HOWARD 3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2543
+Bibb,HOWARD 4,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,518
+Bibb,HOWARD 5,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,429
+Bibb,HOWARD 6,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,637
+Bibb,HOWARD 7,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,777
+Bibb,RUTLAND 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1661
+Bibb,RUTLAND 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,990
+Bibb,VINEVILLE 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1036
+Bibb,VINEVILLE 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,602
+Bibb,VINEVILLE 3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,880
+Bibb,VINEVILLE 4,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1228
+Bibb,VINEVILLE 5,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,710
+Bibb,VINEVILLE 6,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,880
+Bibb,WARRIOR 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,770
+Bibb,WARRIOR 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,941
+Bibb,EAST MACON 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,324
+Bibb,EAST MACON 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,765
+Bibb,EAST MACON 3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,710
+Bibb,EAST MACON 4,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,423
+Bibb,EAST MACON 5,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,571
+Bibb,GODFREY 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,992
+Bibb,GODFREY 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,254
+Bibb,GODFREY 3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,492
+Bibb,GODFREY 4,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,325
+Bibb,GODFREY 5,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,809
+Bibb,HAZZARD 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,598
+Bibb,HAZZARD 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1048
+Bibb,HAZZARD 3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1459
+Bibb,HAZZARD 4,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,729
+Bibb,HOWARD 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1226
+Bibb,HOWARD 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1198
+Bibb,HOWARD 3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2343
+Bibb,HOWARD 4,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,459
+Bibb,HOWARD 5,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,384
+Bibb,HOWARD 6,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,611
+Bibb,HOWARD 7,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,879
+Bibb,RUTLAND 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1731
+Bibb,RUTLAND 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,944
+Bibb,VINEVILLE 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,712
+Bibb,VINEVILLE 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,424
+Bibb,VINEVILLE 3,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,543
+Bibb,VINEVILLE 4,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,717
+Bibb,VINEVILLE 5,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,625
+Bibb,VINEVILLE 6,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,780
+Bibb,WARRIOR 1,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,839
+Bibb,WARRIOR 2,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,971
+Bibb,EAST MACON 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,641
+Bibb,EAST MACON 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1652
+Bibb,EAST MACON 3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1349
+Bibb,EAST MACON 4,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,988
+Bibb,EAST MACON 5,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1055
+Bibb,GODFREY 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2319
+Bibb,GODFREY 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,601
+Bibb,GODFREY 3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1206
+Bibb,GODFREY 4,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,703
+Bibb,GODFREY 5,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1913
+Bibb,HAZZARD 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1391
+Bibb,HAZZARD 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1744
+Bibb,HAZZARD 3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2842
+Bibb,HAZZARD 4,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,929
+Bibb,HOWARD 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1921
+Bibb,HOWARD 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1684
+Bibb,HOWARD 3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3616
+Bibb,HOWARD 4,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,728
+Bibb,HOWARD 5,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,644
+Bibb,HOWARD 6,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,927
+Bibb,HOWARD 7,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1164
+Bibb,RUTLAND 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2412
+Bibb,RUTLAND 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1372
+Bibb,VINEVILLE 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1404
+Bibb,VINEVILLE 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,822
+Bibb,VINEVILLE 3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1210
+Bibb,VINEVILLE 4,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1651
+Bibb,VINEVILLE 5,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1006
+Bibb,VINEVILLE 6,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1273
+Bibb,WARRIOR 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1121
+Bibb,WARRIOR 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1406
+Bibb,EAST MACON 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,161
+Bibb,EAST MACON 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,367
+Bibb,EAST MACON 3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,395
+Bibb,EAST MACON 4,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,200
+Bibb,EAST MACON 5,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,288
+Bibb,GODFREY 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,475
+Bibb,GODFREY 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,100
+Bibb,GODFREY 3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,244
+Bibb,GODFREY 4,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,159
+Bibb,GODFREY 5,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,370
+Bibb,HAZZARD 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,270
+Bibb,HAZZARD 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,523
+Bibb,HAZZARD 3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,740
+Bibb,HAZZARD 4,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,456
+Bibb,HOWARD 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,726
+Bibb,HOWARD 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,754
+Bibb,HOWARD 3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1457
+Bibb,HOWARD 4,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,278
+Bibb,HOWARD 5,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,195
+Bibb,HOWARD 6,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,362
+Bibb,HOWARD 7,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,541
+Bibb,RUTLAND 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1056
+Bibb,RUTLAND 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,604
+Bibb,VINEVILLE 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,401
+Bibb,VINEVILLE 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,244
+Bibb,VINEVILLE 3,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,236
+Bibb,VINEVILLE 4,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,328
+Bibb,VINEVILLE 5,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,377
+Bibb,VINEVILLE 6,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,450
+Bibb,WARRIOR 1,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,523
+Bibb,WARRIOR 2,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,539
+Bibb,EAST MACON 1,SUNDAY BRUNCH ALCOHOL SALES,,,YES,534
+Bibb,EAST MACON 2,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1309
+Bibb,EAST MACON 3,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1201
+Bibb,EAST MACON 4,SUNDAY BRUNCH ALCOHOL SALES,,,YES,750
+Bibb,EAST MACON 5,SUNDAY BRUNCH ALCOHOL SALES,,,YES,799
+Bibb,GODFREY 1,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1958
+Bibb,GODFREY 2,SUNDAY BRUNCH ALCOHOL SALES,,,YES,472
+Bibb,GODFREY 3,SUNDAY BRUNCH ALCOHOL SALES,,,YES,930
+Bibb,GODFREY 4,SUNDAY BRUNCH ALCOHOL SALES,,,YES,526
+Bibb,GODFREY 5,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1477
+Bibb,HAZZARD 1,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1033
+Bibb,HAZZARD 2,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1459
+Bibb,HAZZARD 3,SUNDAY BRUNCH ALCOHOL SALES,,,YES,2240
+Bibb,HAZZARD 4,SUNDAY BRUNCH ALCOHOL SALES,,,YES,828
+Bibb,HOWARD 1,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1821
+Bibb,HOWARD 2,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1642
+Bibb,HOWARD 3,SUNDAY BRUNCH ALCOHOL SALES,,,YES,3501
+Bibb,HOWARD 4,SUNDAY BRUNCH ALCOHOL SALES,,,YES,643
+Bibb,HOWARD 5,SUNDAY BRUNCH ALCOHOL SALES,,,YES,541
+Bibb,HOWARD 6,SUNDAY BRUNCH ALCOHOL SALES,,,YES,862
+Bibb,HOWARD 7,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1156
+Bibb,RUTLAND 1,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1970
+Bibb,RUTLAND 2,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1090
+Bibb,VINEVILLE 1,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1368
+Bibb,VINEVILLE 2,SUNDAY BRUNCH ALCOHOL SALES,,,YES,775
+Bibb,VINEVILLE 3,SUNDAY BRUNCH ALCOHOL SALES,,,YES,930
+Bibb,VINEVILLE 4,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1357
+Bibb,VINEVILLE 5,SUNDAY BRUNCH ALCOHOL SALES,,,YES,925
+Bibb,VINEVILLE 6,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1244
+Bibb,WARRIOR 1,SUNDAY BRUNCH ALCOHOL SALES,,,YES,895
+Bibb,WARRIOR 2,SUNDAY BRUNCH ALCOHOL SALES,,,YES,1050
+Bibb,EAST MACON 1,SUNDAY BRUNCH ALCOHOL SALES,,,NO,287
+Bibb,EAST MACON 2,SUNDAY BRUNCH ALCOHOL SALES,,,NO,741
+Bibb,EAST MACON 3,SUNDAY BRUNCH ALCOHOL SALES,,,NO,569
+Bibb,EAST MACON 4,SUNDAY BRUNCH ALCOHOL SALES,,,NO,462
+Bibb,EAST MACON 5,SUNDAY BRUNCH ALCOHOL SALES,,,NO,574
+Bibb,GODFREY 1,SUNDAY BRUNCH ALCOHOL SALES,,,NO,889
+Bibb,GODFREY 2,SUNDAY BRUNCH ALCOHOL SALES,,,NO,246
+Bibb,GODFREY 3,SUNDAY BRUNCH ALCOHOL SALES,,,NO,524
+Bibb,GODFREY 4,SUNDAY BRUNCH ALCOHOL SALES,,,NO,352
+Bibb,GODFREY 5,SUNDAY BRUNCH ALCOHOL SALES,,,NO,843
+Bibb,HAZZARD 1,SUNDAY BRUNCH ALCOHOL SALES,,,NO,652
+Bibb,HAZZARD 2,SUNDAY BRUNCH ALCOHOL SALES,,,NO,870
+Bibb,HAZZARD 3,SUNDAY BRUNCH ALCOHOL SALES,,,NO,1432
+Bibb,HAZZARD 4,SUNDAY BRUNCH ALCOHOL SALES,,,NO,600
+Bibb,HOWARD 1,SUNDAY BRUNCH ALCOHOL SALES,,,NO,903
+Bibb,HOWARD 2,SUNDAY BRUNCH ALCOHOL SALES,,,NO,874
+Bibb,HOWARD 3,SUNDAY BRUNCH ALCOHOL SALES,,,NO,1736
+Bibb,HOWARD 4,SUNDAY BRUNCH ALCOHOL SALES,,,NO,393
+Bibb,HOWARD 5,SUNDAY BRUNCH ALCOHOL SALES,,,NO,318
+Bibb,HOWARD 6,SUNDAY BRUNCH ALCOHOL SALES,,,NO,469
+Bibb,HOWARD 7,SUNDAY BRUNCH ALCOHOL SALES,,,NO,611
+Bibb,RUTLAND 1,SUNDAY BRUNCH ALCOHOL SALES,,,NO,1586
+Bibb,RUTLAND 2,SUNDAY BRUNCH ALCOHOL SALES,,,NO,951
+Bibb,VINEVILLE 1,SUNDAY BRUNCH ALCOHOL SALES,,,NO,475
+Bibb,VINEVILLE 2,SUNDAY BRUNCH ALCOHOL SALES,,,NO,321
+Bibb,VINEVILLE 3,SUNDAY BRUNCH ALCOHOL SALES,,,NO,534
+Bibb,VINEVILLE 4,SUNDAY BRUNCH ALCOHOL SALES,,,NO,665
+Bibb,VINEVILLE 5,SUNDAY BRUNCH ALCOHOL SALES,,,NO,495
+Bibb,VINEVILLE 6,SUNDAY BRUNCH ALCOHOL SALES,,,NO,541
+Bibb,WARRIOR 1,SUNDAY BRUNCH ALCOHOL SALES,,,NO,789
+Bibb,WARRIOR 2,SUNDAY BRUNCH ALCOHOL SALES,,,NO,959

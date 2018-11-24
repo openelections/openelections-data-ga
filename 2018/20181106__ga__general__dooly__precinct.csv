@@ -1,0 +1,229 @@
+county,precinct,office,district,party,candidate,votes
+Dooly,LILLY,Governor,,REP,BRIAN KEMP,169
+Dooly,BYROMVILLE,Governor,,REP,BRIAN KEMP,207
+Dooly,UNADILLA,Governor,,REP,BRIAN KEMP,506
+Dooly,VIENNA,Governor,,REP,BRIAN KEMP,864
+Dooly,PINEHURST,Governor,,REP,BRIAN KEMP,255
+Dooly,LILLY,Governor,,DEM,STACEY ABRAMS,166
+Dooly,BYROMVILLE,Governor,,DEM,STACEY ABRAMS,212
+Dooly,UNADILLA,Governor,,DEM,STACEY ABRAMS,502
+Dooly,VIENNA,Governor,,DEM,STACEY ABRAMS,800
+Dooly,PINEHURST,Governor,,DEM,STACEY ABRAMS,102
+Dooly,LILLY,Governor,,LIB,TED METZ,1
+Dooly,BYROMVILLE,Governor,,LIB,TED METZ,1
+Dooly,UNADILLA,Governor,,LIB,TED METZ,4
+Dooly,VIENNA,Governor,,LIB,TED METZ,5
+Dooly,PINEHURST,Governor,,LIB,TED METZ,1
+Dooly,LILLY,Lieutenant Governor,,REP,GEOFF DUNCAN,164
+Dooly,BYROMVILLE,Lieutenant Governor,,REP,GEOFF DUNCAN,207
+Dooly,UNADILLA,Lieutenant Governor,,REP,GEOFF DUNCAN,481
+Dooly,VIENNA,Lieutenant Governor,,REP,GEOFF DUNCAN,809
+Dooly,PINEHURST,Lieutenant Governor,,REP,GEOFF DUNCAN,242
+Dooly,LILLY,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,148
+Dooly,BYROMVILLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,180
+Dooly,UNADILLA,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,451
+Dooly,VIENNA,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,705
+Dooly,PINEHURST,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,95
+Dooly,LILLY,Secretary Of State,,REP,BRAD RAFFENSPERGER,154
+Dooly,BYROMVILLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,195
+Dooly,UNADILLA,Secretary Of State,,REP,BRAD RAFFENSPERGER,472
+Dooly,VIENNA,Secretary Of State,,REP,BRAD RAFFENSPERGER,805
+Dooly,PINEHURST,Secretary Of State,,REP,BRAD RAFFENSPERGER,237
+Dooly,LILLY,Secretary Of State,,DEM,JOHN BARROW,166
+Dooly,BYROMVILLE,Secretary Of State,,DEM,JOHN BARROW,205
+Dooly,UNADILLA,Secretary Of State,,DEM,JOHN BARROW,500
+Dooly,VIENNA,Secretary Of State,,DEM,JOHN BARROW,797
+Dooly,PINEHURST,Secretary Of State,,DEM,JOHN BARROW,112
+Dooly,LILLY,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Dooly,BYROMVILLE,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Dooly,UNADILLA,Secretary Of State,,LIB,SMYTHE DUVAL,7
+Dooly,VIENNA,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Dooly,PINEHURST,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Dooly,LILLY,Attorney General,,(REP,CHRIS CARR ,162
+Dooly,BYROMVILLE,Attorney General,,(REP,CHRIS CARR ,200
+Dooly,UNADILLA,Attorney General,,(REP,CHRIS CARR ,498
+Dooly,VIENNA,Attorney General,,(REP,CHRIS CARR ,846
+Dooly,PINEHURST,Attorney General,,(REP,CHRIS CARR ,242
+Dooly,LILLY,Attorney General,,DEM,CHARLIE BAILEY,160
+Dooly,BYROMVILLE,Attorney General,,DEM,CHARLIE BAILEY,198
+Dooly,UNADILLA,Attorney General,,DEM,CHARLIE BAILEY,486
+Dooly,VIENNA,Attorney General,,DEM,CHARLIE BAILEY,764
+Dooly,PINEHURST,Attorney General,,DEM,CHARLIE BAILEY,106
+Dooly,LILLY,Commissioner Of Agriculture,,(REP,GARY BLACK ,173
+Dooly,BYROMVILLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,206
+Dooly,UNADILLA,Commissioner Of Agriculture,,(REP,GARY BLACK ,508
+Dooly,VIENNA,Commissioner Of Agriculture,,(REP,GARY BLACK ,876
+Dooly,PINEHURST,Commissioner Of Agriculture,,(REP,GARY BLACK ,249
+Dooly,LILLY,Commissioner Of Agriculture,,DEM,FRED SWANN,152
+Dooly,BYROMVILLE,Commissioner Of Agriculture,,DEM,FRED SWANN,187
+Dooly,UNADILLA,Commissioner Of Agriculture,,DEM,FRED SWANN,462
+Dooly,VIENNA,Commissioner Of Agriculture,,DEM,FRED SWANN,725
+Dooly,PINEHURST,Commissioner Of Agriculture,,DEM,FRED SWANN,97
+Dooly,LILLY,Commissioner Of Insurance,,REP,JIM BECK,160
+Dooly,BYROMVILLE,Commissioner Of Insurance,,REP,JIM BECK,200
+Dooly,UNADILLA,Commissioner Of Insurance,,REP,JIM BECK,499
+Dooly,VIENNA,Commissioner Of Insurance,,REP,JIM BECK,850
+Dooly,PINEHURST,Commissioner Of Insurance,,REP,JIM BECK,246
+Dooly,LILLY,Commissioner Of Insurance,,DEM,JANICE LAWS,156
+Dooly,BYROMVILLE,Commissioner Of Insurance,,DEM,JANICE LAWS,195
+Dooly,UNADILLA,Commissioner Of Insurance,,DEM,JANICE LAWS,466
+Dooly,VIENNA,Commissioner Of Insurance,,DEM,JANICE LAWS,745
+Dooly,PINEHURST,Commissioner Of Insurance,,DEM,JANICE LAWS,98
+Dooly,LILLY,Commissioner Of Insurance,,LIB,DONNIE FOSTER,6
+Dooly,BYROMVILLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,3
+Dooly,UNADILLA,Commissioner Of Insurance,,LIB,DONNIE FOSTER,9
+Dooly,VIENNA,Commissioner Of Insurance,,LIB,DONNIE FOSTER,15
+Dooly,PINEHURST,Commissioner Of Insurance,,LIB,DONNIE FOSTER,3
+Dooly,LILLY,State School Superintendent,,(REP,RICHARD WOODS ,174
+Dooly,BYROMVILLE,State School Superintendent,,(REP,RICHARD WOODS ,204
+Dooly,UNADILLA,State School Superintendent,,(REP,RICHARD WOODS ,497
+Dooly,VIENNA,State School Superintendent,,(REP,RICHARD WOODS ,859
+Dooly,PINEHURST,State School Superintendent,,(REP,RICHARD WOODS ,249
+Dooly,LILLY,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",149
+Dooly,BYROMVILLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",198
+Dooly,UNADILLA,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",471
+Dooly,VIENNA,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",751
+Dooly,PINEHURST,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",95
+Dooly,LILLY,Commissioner Of Labor,,(REP,MARK BUTLER ,165
+Dooly,BYROMVILLE,Commissioner Of Labor,,(REP,MARK BUTLER ,201
+Dooly,UNADILLA,Commissioner Of Labor,,(REP,MARK BUTLER ,494
+Dooly,VIENNA,Commissioner Of Labor,,(REP,MARK BUTLER ,864
+Dooly,PINEHURST,Commissioner Of Labor,,(REP,MARK BUTLER ,246
+Dooly,LILLY,Commissioner Of Labor,,DEM,RICHARD KEATLEY,157
+Dooly,BYROMVILLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,198
+Dooly,UNADILLA,Commissioner Of Labor,,DEM,RICHARD KEATLEY,474
+Dooly,VIENNA,Commissioner Of Labor,,DEM,RICHARD KEATLEY,742
+Dooly,PINEHURST,Commissioner Of Labor,,DEM,RICHARD KEATLEY,97
+Dooly,LILLY,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,161
+Dooly,BYROMVILLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,192
+Dooly,UNADILLA,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,474
+Dooly,VIENNA,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,823
+Dooly,PINEHURST,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,241
+Dooly,LILLY,"Public Service Commission, District 3",3,DEM,LINDY MILLER,156
+Dooly,BYROMVILLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,205
+Dooly,UNADILLA,"Public Service Commission, District 3",3,DEM,LINDY MILLER,489
+Dooly,VIENNA,"Public Service Commission, District 3",3,DEM,LINDY MILLER,757
+Dooly,PINEHURST,"Public Service Commission, District 3",3,DEM,LINDY MILLER,99
+Dooly,LILLY,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,8
+Dooly,BYROMVILLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Dooly,UNADILLA,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,11
+Dooly,VIENNA,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,23
+Dooly,PINEHURST,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,3
+Dooly,LILLY,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,162
+Dooly,BYROMVILLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,200
+Dooly,UNADILLA,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,485
+Dooly,VIENNA,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,829
+Dooly,PINEHURST,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,243
+Dooly,LILLY,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,155
+Dooly,BYROMVILLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,194
+Dooly,UNADILLA,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,474
+Dooly,VIENNA,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,752
+Dooly,PINEHURST,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,99
+Dooly,LILLY,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,6
+Dooly,BYROMVILLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,3
+Dooly,UNADILLA,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,6
+Dooly,VIENNA,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,13
+Dooly,PINEHURST,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,3
+Dooly,LILLY,U.S. Representative,2,REP,HERMAN WEST JR,142
+Dooly,BYROMVILLE,U.S. Representative,2,REP,HERMAN WEST JR,174
+Dooly,UNADILLA,U.S. Representative,2,REP,HERMAN WEST JR,447
+Dooly,VIENNA,U.S. Representative,2,REP,HERMAN WEST JR,688
+Dooly,PINEHURST,U.S. Representative,2,REP,HERMAN WEST JR,198
+Dooly,LILLY,U.S. Representative,2,(DEM,SANFORD BISHOP ,182
+Dooly,BYROMVILLE,U.S. Representative,2,(DEM,SANFORD BISHOP ,230
+Dooly,UNADILLA,U.S. Representative,2,(DEM,SANFORD BISHOP ,531
+Dooly,VIENNA,U.S. Representative,2,(DEM,SANFORD BISHOP ,930
+Dooly,PINEHURST,U.S. Representative,2,(DEM,SANFORD BISHOP ,148
+Dooly,LILLY,State Senator,13,(REP,GREG KIRK ,214
+Dooly,BYROMVILLE,State Senator,13,(REP,GREG KIRK ,258
+Dooly,UNADILLA,State Senator,13,(REP,GREG KIRK ,654
+Dooly,VIENNA,State Senator,13,(REP,GREG KIRK ,1143
+Dooly,PINEHURST,State Senator,13,(REP,GREG KIRK ,285
+Dooly,LILLY,State Representative,139,(DEM,PATTY BENTLEY ,240
+Dooly,BYROMVILLE,State Representative,139,(DEM,PATTY BENTLEY ,299
+Dooly,UNADILLA,State Representative,139,(DEM,PATTY BENTLEY ,719
+Dooly,VIENNA,State Representative,139,(DEM,PATTY BENTLEY ,1194
+Dooly,PINEHURST,State Representative,139,(DEM,PATTY BENTLEY ,232
+Dooly,LILLY,District Attorney, Cordele Circuit,(REP,BRAD RIGBY ,213
+Dooly,BYROMVILLE,District Attorney, Cordele Circuit,(REP,BRAD RIGBY ,257
+Dooly,UNADILLA,District Attorney, Cordele Circuit,(REP,BRAD RIGBY ,664
+Dooly,VIENNA,District Attorney, Cordele Circuit,(REP,BRAD RIGBY ,1137
+Dooly,PINEHURST,District Attorney, Cordele Circuit,(REP,BRAD RIGBY ,286
+Dooly,LILLY,County Comm D5,,Ind,D. BARRON ,241
+Dooly,BYROMVILLE,County Comm D5,,Ind,D. BARRON ,296
+Dooly,VIENNA,BOE D3,,D,W. P. JACKSON ,531
+Dooly,LILLY,Soil and Water,,,B. REID,215
+Dooly,BYROMVILLE,Soil and Water,,,B. REID,249
+Dooly,UNADILLA,Soil and Water,,,B. REID,610
+Dooly,VIENNA,Soil and Water,,,B. REID,1097
+Dooly,PINEHURST,Soil and Water,,,B. REID,261
+Dooly,LILLY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,242
+Dooly,BYROMVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,286
+Dooly,UNADILLA,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,697
+Dooly,VIENNA,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1199
+Dooly,PINEHURST,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,239
+Dooly,LILLY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,68
+Dooly,BYROMVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,91
+Dooly,UNADILLA,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,225
+Dooly,VIENNA,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,363
+Dooly,PINEHURST,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,97
+Dooly,LILLY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,194
+Dooly,BYROMVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,257
+Dooly,UNADILLA,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,624
+Dooly,VIENNA,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1057
+Dooly,PINEHURST,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,216
+Dooly,LILLY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,100
+Dooly,BYROMVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,108
+Dooly,UNADILLA,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,272
+Dooly,VIENNA,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,456
+Dooly,PINEHURST,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,113
+Dooly,LILLY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,188
+Dooly,BYROMVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,234
+Dooly,UNADILLA,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,516
+Dooly,VIENNA,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,939
+Dooly,PINEHURST,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,206
+Dooly,LILLY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,102
+Dooly,BYROMVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,132
+Dooly,UNADILLA,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,367
+Dooly,VIENNA,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,565
+Dooly,PINEHURST,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,121
+Dooly,LILLY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,238
+Dooly,BYROMVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,289
+Dooly,UNADILLA,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,726
+Dooly,VIENNA,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1245
+Dooly,PINEHURST,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,254
+Dooly,LILLY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,65
+Dooly,BYROMVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,90
+Dooly,UNADILLA,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,200
+Dooly,VIENNA,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,313
+Dooly,PINEHURST,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,80
+Dooly,LILLY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,190
+Dooly,BYROMVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,237
+Dooly,UNADILLA,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,583
+Dooly,VIENNA,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1030
+Dooly,PINEHURST,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,199
+Dooly,LILLY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,107
+Dooly,BYROMVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,136
+Dooly,UNADILLA,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,319
+Dooly,VIENNA,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,497
+Dooly,PINEHURST,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,129
+Dooly,LILLY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,170
+Dooly,BYROMVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,203
+Dooly,UNADILLA,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,490
+Dooly,VIENNA,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,876
+Dooly,PINEHURST,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,179
+Dooly,LILLY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,122
+Dooly,BYROMVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,163
+Dooly,UNADILLA,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,401
+Dooly,VIENNA,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,616
+Dooly,PINEHURST,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,148
+Dooly,LILLY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,228
+Dooly,BYROMVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,270
+Dooly,UNADILLA,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,683
+Dooly,VIENNA,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1194
+Dooly,PINEHURST,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,237
+Dooly,LILLY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,77
+Dooly,BYROMVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,104
+Dooly,UNADILLA,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,246
+Dooly,VIENNA,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,378
+Dooly,PINEHURST,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,96

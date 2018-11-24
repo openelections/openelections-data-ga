@@ -1,0 +1,573 @@
+county,precinct,office,district,party,candidate,votes
+Murray,MCDONALD,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",48
+Murray,SHUCK PEN,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",64
+Murray,SOUTHWEST,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",90
+Murray,SPRING PLACE,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",95
+Murray,TOWN,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",158
+Murray,CARTERS-DOOLITTLE,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",65
+Murray,NORTH,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",63
+Murray,MCDONALD,Governor,,REP,HUNTER HILL  (REP),65
+Murray,SHUCK PEN,Governor,,REP,HUNTER HILL  (REP),65
+Murray,SOUTHWEST,Governor,,REP,HUNTER HILL  (REP),61
+Murray,SPRING PLACE,Governor,,REP,HUNTER HILL  (REP),99
+Murray,TOWN,Governor,,REP,HUNTER HILL  (REP),174
+Murray,CARTERS-DOOLITTLE,Governor,,REP,HUNTER HILL  (REP),55
+Murray,NORTH,Governor,,REP,HUNTER HILL  (REP),58
+Murray,MCDONALD,Governor,,REP,BRIAN KEMP  (REP),58
+Murray,SHUCK PEN,Governor,,REP,BRIAN KEMP  (REP),54
+Murray,SOUTHWEST,Governor,,REP,BRIAN KEMP  (REP),48
+Murray,SPRING PLACE,Governor,,REP,BRIAN KEMP  (REP),97
+Murray,TOWN,Governor,,REP,BRIAN KEMP  (REP),134
+Murray,CARTERS-DOOLITTLE,Governor,,REP,BRIAN KEMP  (REP),46
+Murray,NORTH,Governor,,REP,BRIAN KEMP  (REP),42
+Murray,MCDONALD,Governor,,REP,CLAY TIPPINS  (REP),13
+Murray,SHUCK PEN,Governor,,REP,CLAY TIPPINS  (REP),23
+Murray,SOUTHWEST,Governor,,REP,CLAY TIPPINS  (REP),37
+Murray,SPRING PLACE,Governor,,REP,CLAY TIPPINS  (REP),59
+Murray,TOWN,Governor,,REP,CLAY TIPPINS  (REP),81
+Murray,CARTERS-DOOLITTLE,Governor,,REP,CLAY TIPPINS  (REP),38
+Murray,NORTH,Governor,,REP,CLAY TIPPINS  (REP),25
+Murray,MCDONALD,Governor,,REP,MICHAEL WILLIAMS  (REP),11
+Murray,SHUCK PEN,Governor,,REP,MICHAEL WILLIAMS  (REP),37
+Murray,SOUTHWEST,Governor,,REP,MICHAEL WILLIAMS  (REP),36
+Murray,SPRING PLACE,Governor,,REP,MICHAEL WILLIAMS  (REP),24
+Murray,TOWN,Governor,,REP,MICHAEL WILLIAMS  (REP),67
+Murray,CARTERS-DOOLITTLE,Governor,,REP,MICHAEL WILLIAMS  (REP),16
+Murray,NORTH,Governor,,REP,MICHAEL WILLIAMS  (REP),19
+Murray,MCDONALD,Governor,,DEM,STACEY ABRAMS  (DEM),11
+Murray,SHUCK PEN,Governor,,DEM,STACEY ABRAMS  (DEM),25
+Murray,SOUTHWEST,Governor,,DEM,STACEY ABRAMS  (DEM),13
+Murray,SPRING PLACE,Governor,,DEM,STACEY ABRAMS  (DEM),22
+Murray,TOWN,Governor,,DEM,STACEY ABRAMS  (DEM),42
+Murray,CARTERS-DOOLITTLE,Governor,,DEM,STACEY ABRAMS  (DEM),22
+Murray,NORTH,Governor,,DEM,STACEY ABRAMS  (DEM),12
+Murray,MCDONALD,Governor,,DEM,STACEY EVANS  (DEM),17
+Murray,SHUCK PEN,Governor,,DEM,STACEY EVANS  (DEM),21
+Murray,SOUTHWEST,Governor,,DEM,STACEY EVANS  (DEM),12
+Murray,SPRING PLACE,Governor,,DEM,STACEY EVANS  (DEM),26
+Murray,TOWN,Governor,,DEM,STACEY EVANS  (DEM),60
+Murray,CARTERS-DOOLITTLE,Governor,,DEM,STACEY EVANS  (DEM),17
+Murray,NORTH,Governor,,DEM,STACEY EVANS  (DEM),15
+Murray,MCDONALD,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),60
+Murray,SHUCK PEN,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),65
+Murray,SOUTHWEST,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),79
+Murray,SPRING PLACE,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),92
+Murray,TOWN,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),141
+Murray,CARTERS-DOOLITTLE,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),68
+Murray,NORTH,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),43
+Murray,MCDONALD,Lieutenant Governor,,REP,RICK JEFFARES  (REP),58
+Murray,SHUCK PEN,Lieutenant Governor,,REP,RICK JEFFARES  (REP),74
+Murray,SOUTHWEST,Lieutenant Governor,,REP,RICK JEFFARES  (REP),77
+Murray,SPRING PLACE,Lieutenant Governor,,REP,RICK JEFFARES  (REP),139
+Murray,TOWN,Lieutenant Governor,,REP,RICK JEFFARES  (REP),226
+Murray,CARTERS-DOOLITTLE,Lieutenant Governor,,REP,RICK JEFFARES  (REP),74
+Murray,NORTH,Lieutenant Governor,,REP,RICK JEFFARES  (REP),83
+Murray,MCDONALD,Lieutenant Governor,,REP,DAVID SHAFER  (REP),53
+Murray,SHUCK PEN,Lieutenant Governor,,REP,DAVID SHAFER  (REP),80
+Murray,SOUTHWEST,Lieutenant Governor,,REP,DAVID SHAFER  (REP),89
+Murray,SPRING PLACE,Lieutenant Governor,,REP,DAVID SHAFER  (REP),99
+Murray,TOWN,Lieutenant Governor,,REP,DAVID SHAFER  (REP),179
+Murray,CARTERS-DOOLITTLE,Lieutenant Governor,,REP,DAVID SHAFER  (REP),65
+Murray,NORTH,Lieutenant Governor,,REP,DAVID SHAFER  (REP),57
+Murray,MCDONALD,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),16
+Murray,SHUCK PEN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),28
+Murray,SOUTHWEST,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),15
+Murray,SPRING PLACE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),22
+Murray,TOWN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),60
+Murray,CARTERS-DOOLITTLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),27
+Murray,NORTH,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),15
+Murray,MCDONALD,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),9
+Murray,SHUCK PEN,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),17
+Murray,SOUTHWEST,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),10
+Murray,SPRING PLACE,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),20
+Murray,TOWN,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),34
+Murray,CARTERS-DOOLITTLE,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),9
+Murray,NORTH,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),8
+Murray,MCDONALD,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),82
+Murray,SHUCK PEN,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),69
+Murray,SOUTHWEST,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),89
+Murray,SPRING PLACE,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),100
+Murray,TOWN,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),174
+Murray,CARTERS-DOOLITTLE,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),78
+Murray,NORTH,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),72
+Murray,MCDONALD,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),29
+Murray,SHUCK PEN,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),52
+Murray,SOUTHWEST,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),36
+Murray,SPRING PLACE,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),61
+Murray,TOWN,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),100
+Murray,CARTERS-DOOLITTLE,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),32
+Murray,NORTH,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),44
+Murray,MCDONALD,Secretary Of State,,REP,JOSH MCKOON  (REP),25
+Murray,SHUCK PEN,Secretary Of State,,REP,JOSH MCKOON  (REP),42
+Murray,SOUTHWEST,Secretary Of State,,REP,JOSH MCKOON  (REP),58
+Murray,SPRING PLACE,Secretary Of State,,REP,JOSH MCKOON  (REP),65
+Murray,TOWN,Secretary Of State,,REP,JOSH MCKOON  (REP),103
+Murray,CARTERS-DOOLITTLE,Secretary Of State,,REP,JOSH MCKOON  (REP),40
+Murray,NORTH,Secretary Of State,,REP,JOSH MCKOON  (REP),33
+Murray,MCDONALD,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),35
+Murray,SHUCK PEN,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),50
+Murray,SOUTHWEST,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),52
+Murray,SPRING PLACE,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),87
+Murray,TOWN,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),112
+Murray,CARTERS-DOOLITTLE,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),36
+Murray,NORTH,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),29
+Murray,MCDONALD,Secretary Of State,,DEM,JOHN BARROW  (DEM),17
+Murray,SHUCK PEN,Secretary Of State,,DEM,JOHN BARROW  (DEM),24
+Murray,SOUTHWEST,Secretary Of State,,DEM,JOHN BARROW  (DEM),13
+Murray,SPRING PLACE,Secretary Of State,,DEM,JOHN BARROW  (DEM),30
+Murray,TOWN,Secretary Of State,,DEM,JOHN BARROW  (DEM),61
+Murray,CARTERS-DOOLITTLE,Secretary Of State,,DEM,JOHN BARROW  (DEM),26
+Murray,NORTH,Secretary Of State,,DEM,JOHN BARROW  (DEM),12
+Murray,MCDONALD,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),6
+Murray,SHUCK PEN,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),16
+Murray,SOUTHWEST,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),10
+Murray,SPRING PLACE,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),10
+Murray,TOWN,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),25
+Murray,CARTERS-DOOLITTLE,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),8
+Murray,NORTH,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),8
+Murray,MCDONALD,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",4
+Murray,SHUCK PEN,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",4
+Murray,SOUTHWEST,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",2
+Murray,SPRING PLACE,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",2
+Murray,TOWN,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",12
+Murray,CARTERS-DOOLITTLE,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",2
+Murray,NORTH,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",4
+Murray,MCDONALD,Attorney General,,REP,CHRIS CARR (I) (REP),160
+Murray,SHUCK PEN,Attorney General,,REP,CHRIS CARR (I) (REP),199
+Murray,SOUTHWEST,Attorney General,,REP,CHRIS CARR (I) (REP),195
+Murray,SPRING PLACE,Attorney General,,REP,CHRIS CARR (I) (REP),263
+Murray,TOWN,Attorney General,,REP,CHRIS CARR (I) (REP),433
+Murray,CARTERS-DOOLITTLE,Attorney General,,REP,CHRIS CARR (I) (REP),156
+Murray,NORTH,Attorney General,,REP,CHRIS CARR (I) (REP),161
+Murray,MCDONALD,Attorney General,,DEM,CHARLIE BAILEY  (DEM),24
+Murray,SHUCK PEN,Attorney General,,DEM,CHARLIE BAILEY  (DEM),39
+Murray,SOUTHWEST,Attorney General,,DEM,CHARLIE BAILEY  (DEM),21
+Murray,SPRING PLACE,Attorney General,,DEM,CHARLIE BAILEY  (DEM),40
+Murray,TOWN,Attorney General,,DEM,CHARLIE BAILEY  (DEM),87
+Murray,CARTERS-DOOLITTLE,Attorney General,,DEM,CHARLIE BAILEY  (DEM),33
+Murray,NORTH,Attorney General,,DEM,CHARLIE BAILEY  (DEM),22
+Murray,MCDONALD,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),165
+Murray,SHUCK PEN,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),204
+Murray,SOUTHWEST,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),207
+Murray,SPRING PLACE,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),266
+Murray,TOWN,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),441
+Murray,CARTERS-DOOLITTLE,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),162
+Murray,NORTH,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),168
+Murray,MCDONALD,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),24
+Murray,SHUCK PEN,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),39
+Murray,SOUTHWEST,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),19
+Murray,SPRING PLACE,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),41
+Murray,TOWN,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),85
+Murray,CARTERS-DOOLITTLE,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),32
+Murray,NORTH,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),24
+Murray,MCDONALD,Commissioner Of Insurance,,REP,JIM BECK  (REP),111
+Murray,SHUCK PEN,Commissioner Of Insurance,,REP,JIM BECK  (REP),128
+Murray,SOUTHWEST,Commissioner Of Insurance,,REP,JIM BECK  (REP),150
+Murray,SPRING PLACE,Commissioner Of Insurance,,REP,JIM BECK  (REP),203
+Murray,TOWN,Commissioner Of Insurance,,REP,JIM BECK  (REP),330
+Murray,CARTERS-DOOLITTLE,Commissioner Of Insurance,,REP,JIM BECK  (REP),117
+Murray,NORTH,Commissioner Of Insurance,,REP,JIM BECK  (REP),107
+Murray,MCDONALD,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),19
+Murray,SHUCK PEN,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),24
+Murray,SOUTHWEST,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),30
+Murray,SPRING PLACE,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),27
+Murray,TOWN,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),45
+Murray,CARTERS-DOOLITTLE,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),28
+Murray,NORTH,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),24
+Murray,MCDONALD,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),50
+Murray,SHUCK PEN,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),58
+Murray,SOUTHWEST,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),58
+Murray,SPRING PLACE,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),81
+Murray,TOWN,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),142
+Murray,CARTERS-DOOLITTLE,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),48
+Murray,NORTH,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),49
+Murray,MCDONALD,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),12
+Murray,SHUCK PEN,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),25
+Murray,SOUTHWEST,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),12
+Murray,SPRING PLACE,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),22
+Murray,TOWN,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),55
+Murray,CARTERS-DOOLITTLE,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),18
+Murray,NORTH,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),16
+Murray,MCDONALD,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),12
+Murray,SHUCK PEN,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),18
+Murray,SOUTHWEST,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),12
+Murray,SPRING PLACE,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),20
+Murray,TOWN,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),31
+Murray,CARTERS-DOOLITTLE,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),17
+Murray,NORTH,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),7
+Murray,MCDONALD,State School Superintendent,,REP,JOHN BARGE  (REP),75
+Murray,SHUCK PEN,State School Superintendent,,REP,JOHN BARGE  (REP),111
+Murray,SOUTHWEST,State School Superintendent,,REP,JOHN BARGE  (REP),114
+Murray,SPRING PLACE,State School Superintendent,,REP,JOHN BARGE  (REP),128
+Murray,TOWN,State School Superintendent,,REP,JOHN BARGE  (REP),275
+Murray,CARTERS-DOOLITTLE,State School Superintendent,,REP,JOHN BARGE  (REP),81
+Murray,NORTH,State School Superintendent,,REP,JOHN BARGE  (REP),83
+Murray,MCDONALD,State School Superintendent,,REP,RICHARD WOODS (I) (REP),104
+Murray,SHUCK PEN,State School Superintendent,,REP,RICHARD WOODS (I) (REP),117
+Murray,SOUTHWEST,State School Superintendent,,REP,RICHARD WOODS (I) (REP),124
+Murray,SPRING PLACE,State School Superintendent,,REP,RICHARD WOODS (I) (REP),202
+Murray,TOWN,State School Superintendent,,REP,RICHARD WOODS (I) (REP),270
+Murray,CARTERS-DOOLITTLE,State School Superintendent,,REP,RICHARD WOODS (I) (REP),114
+Murray,NORTH,State School Superintendent,,REP,RICHARD WOODS (I) (REP),102
+Murray,MCDONALD,State School Superintendent,,DEM,SID CHAPMAN (DEM),3
+Murray,SHUCK PEN,State School Superintendent,,DEM,SID CHAPMAN (DEM),15
+Murray,SOUTHWEST,State School Superintendent,,DEM,SID CHAPMAN (DEM),8
+Murray,SPRING PLACE,State School Superintendent,,DEM,SID CHAPMAN (DEM),12
+Murray,TOWN,State School Superintendent,,DEM,SID CHAPMAN (DEM),34
+Murray,CARTERS-DOOLITTLE,State School Superintendent,,DEM,SID CHAPMAN (DEM),11
+Murray,NORTH,State School Superintendent,,DEM,SID CHAPMAN (DEM),6
+Murray,MCDONALD,State School Superintendent,,DEM,SAM MOSTELLER (DEM),12
+Murray,SHUCK PEN,State School Superintendent,,DEM,SAM MOSTELLER (DEM),22
+Murray,SOUTHWEST,State School Superintendent,,DEM,SAM MOSTELLER (DEM),12
+Murray,SPRING PLACE,State School Superintendent,,DEM,SAM MOSTELLER (DEM),18
+Murray,TOWN,State School Superintendent,,DEM,SAM MOSTELLER (DEM),40
+Murray,CARTERS-DOOLITTLE,State School Superintendent,,DEM,SAM MOSTELLER (DEM),17
+Murray,NORTH,State School Superintendent,,DEM,SAM MOSTELLER (DEM),12
+Murray,MCDONALD,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",9
+Murray,SHUCK PEN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",5
+Murray,SOUTHWEST,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",5
+Murray,SPRING PLACE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",13
+Murray,TOWN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",20
+Murray,CARTERS-DOOLITTLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",9
+Murray,NORTH,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",4
+Murray,MCDONALD,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),162
+Murray,SHUCK PEN,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),199
+Murray,SOUTHWEST,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),203
+Murray,SPRING PLACE,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),271
+Murray,TOWN,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),431
+Murray,CARTERS-DOOLITTLE,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),157
+Murray,NORTH,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),161
+Murray,MCDONALD,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),11
+Murray,SHUCK PEN,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),17
+Murray,SOUTHWEST,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),12
+Murray,SPRING PLACE,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),24
+Murray,TOWN,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),44
+Murray,CARTERS-DOOLITTLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),20
+Murray,NORTH,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),10
+Murray,MCDONALD,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),13
+Murray,SHUCK PEN,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),26
+Murray,SOUTHWEST,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),12
+Murray,SPRING PLACE,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),18
+Murray,TOWN,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),46
+Murray,CARTERS-DOOLITTLE,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),17
+Murray,NORTH,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),13
+Murray,MCDONALD,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),164
+Murray,SHUCK PEN,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),200
+Murray,SOUTHWEST,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),198
+Murray,SPRING PLACE,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),268
+Murray,TOWN,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),427
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),157
+Murray,NORTH,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),163
+Murray,MCDONALD,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),16
+Murray,SHUCK PEN,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),35
+Murray,SOUTHWEST,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),15
+Murray,SPRING PLACE,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),30
+Murray,TOWN,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),61
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),21
+Murray,NORTH,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),15
+Murray,MCDONALD,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),4
+Murray,SHUCK PEN,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),4
+Murray,SOUTHWEST,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),1
+Murray,SPRING PLACE,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),6
+Murray,TOWN,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),18
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),5
+Murray,NORTH,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),1
+Murray,MCDONALD,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),3
+Murray,SHUCK PEN,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),3
+Murray,SOUTHWEST,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),8
+Murray,SPRING PLACE,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),6
+Murray,TOWN,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),10
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),9
+Murray,NORTH,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),7
+Murray,MCDONALD,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),81
+Murray,SHUCK PEN,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),118
+Murray,SOUTHWEST,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),121
+Murray,SPRING PLACE,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),168
+Murray,TOWN,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),276
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),95
+Murray,NORTH,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),99
+Murray,MCDONALD,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),98
+Murray,SHUCK PEN,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),100
+Murray,SOUTHWEST,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),110
+Murray,SPRING PLACE,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),148
+Murray,TOWN,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),236
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),98
+Murray,NORTH,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),78
+Murray,MCDONALD,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),16
+Murray,SHUCK PEN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),33
+Murray,SOUTHWEST,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),16
+Murray,SPRING PLACE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),35
+Murray,TOWN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),64
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),21
+Murray,NORTH,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),13
+Murray,MCDONALD,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),7
+Murray,SHUCK PEN,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),10
+Murray,SOUTHWEST,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),9
+Murray,SPRING PLACE,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),7
+Murray,TOWN,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),27
+Murray,CARTERS-DOOLITTLE,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),15
+Murray,NORTH,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),9
+Murray,MCDONALD,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),167
+Murray,SHUCK PEN,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),205
+Murray,SOUTHWEST,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),211
+Murray,SPRING PLACE,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),284
+Murray,TOWN,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),472
+Murray,CARTERS-DOOLITTLE,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),174
+Murray,NORTH,"U.S. Representative, District 14",14,REP,TOM GRAVES (I) (REP),172
+Murray,MCDONALD,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),24
+Murray,SHUCK PEN,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),38
+Murray,SOUTHWEST,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),20
+Murray,SPRING PLACE,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),40
+Murray,TOWN,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),86
+Murray,CARTERS-DOOLITTLE,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),32
+Murray,NORTH,"U.S. Representative, District 14",14,DEM,STEVEN LAMAR FOSTER (DEM),25
+Murray,MCDONALD,"State Senator, District 54",54,REP,CHUCK PAYNE (I) (REP),102
+Murray,SHUCK PEN,"State Senator, District 54",54,REP,CHUCK PAYNE (I) (REP),136
+Murray,SOUTHWEST,"State Senator, District 54",54,REP,CHUCK PAYNE (I) (REP),133
+Murray,SPRING PLACE,"State Senator, District 54",54,REP,CHUCK PAYNE (I) (REP),215
+Murray,TOWN,"State Senator, District 54",54,REP,CHUCK PAYNE (I) (REP),353
+Murray,CARTERS-DOOLITTLE,"State Senator, District 54",54,REP,CHUCK PAYNE (I) (REP),113
+Murray,NORTH,"State Senator, District 54",54,REP,CHUCK PAYNE (I) (REP),108
+Murray,MCDONALD,"State Senator, District 54",54,REP,J. SCOTT TIDWELL  (REP),90
+Murray,SHUCK PEN,"State Senator, District 54",54,REP,J. SCOTT TIDWELL  (REP),102
+Murray,SOUTHWEST,"State Senator, District 54",54,REP,J. SCOTT TIDWELL  (REP),131
+Murray,SPRING PLACE,"State Senator, District 54",54,REP,J. SCOTT TIDWELL  (REP),145
+Murray,TOWN,"State Senator, District 54",54,REP,J. SCOTT TIDWELL  (REP),247
+Murray,CARTERS-DOOLITTLE,"State Senator, District 54",54,REP,J. SCOTT TIDWELL  (REP),94
+Murray,NORTH,"State Senator, District 54",54,REP,J. SCOTT TIDWELL  (REP),95
+Murray,MCDONALD,"State Senator, District 54",54,DEM,MICHAEL S. MORGAN  (DEM),21
+Murray,SHUCK PEN,"State Senator, District 54",54,DEM,MICHAEL S. MORGAN  (DEM),36
+Murray,SOUTHWEST,"State Senator, District 54",54,DEM,MICHAEL S. MORGAN  (DEM),20
+Murray,SPRING PLACE,"State Senator, District 54",54,DEM,MICHAEL S. MORGAN  (DEM),42
+Murray,TOWN,"State Senator, District 54",54,DEM,MICHAEL S. MORGAN  (DEM),85
+Murray,CARTERS-DOOLITTLE,"State Senator, District 54",54,DEM,MICHAEL S. MORGAN  (DEM),31
+Murray,NORTH,"State Senator, District 54",54,DEM,MICHAEL S. MORGAN  (DEM),15
+Murray,SOUTHWEST,"State Representative, District 5",5,REP,JOHN MEADOWS (I) (REP),197
+Murray,SOUTHWEST,"State Representative, District 5",5,DEM,BRIAN ROSSER  (DEM),19
+Murray,MCDONALD,"State Representative, District 6",6,REP,JASON T. RIDLEY (I) (REP),178
+Murray,SHUCK PEN,"State Representative, District 6",6,REP,JASON T. RIDLEY (I) (REP),209
+Murray,TOWN,"State Representative, District 6",6,REP,JASON T. RIDLEY (I) (REP),159
+Murray,NORTH,"State Representative, District 6",6,REP,JASON T. RIDLEY (I) (REP),180
+Murray,SPRING PLACE,"State Representative, District 11",11,REP,RICK JASPERSE (I) (REP),275
+Murray,TOWN,"State Representative, District 11",11,REP,RICK JASPERSE (I) (REP),283
+Murray,CARTERS-DOOLITTLE,"State Representative, District 11",11,REP,RICK JASPERSE (I) (REP),163
+Murray,SPRING PLACE,"State Representative, District 11",11,DEM,LEE A. SHIVER  (DEM),41
+Murray,TOWN,"State Representative, District 11",11,DEM,LEE A. SHIVER  (DEM),51
+Murray,CARTERS-DOOLITTLE,"State Representative, District 11",11,DEM,LEE A. SHIVER  (DEM),31
+Murray,MCDONALD,BOE D5,,REP,M. WILSON,148
+Murray,SHUCK PEN,BOE D5,,REP,M. WILSON,194
+Murray,SOUTHWEST,BOE D5,,REP,M. WILSON,189
+Murray,SPRING PLACE,BOE D5,,REP,M. WILSON,249
+Murray,TOWN,BOE D5,,REP,M. WILSON,413
+Murray,CARTERS-DOOLITTLE,BOE D5,,REP,M. WILSON,154
+Murray,NORTH,BOE D5,,REP,M. WILSON,156
+Murray,MCDONALD,BOE D6,,REP,C. BARGERON,67
+Murray,SHUCK PEN,BOE D6,,REP,C. BARGERON,87
+Murray,SOUTHWEST,BOE D6,,REP,C. BARGERON,73
+Murray,SPRING PLACE,BOE D6,,REP,C. BARGERON,123
+Murray,TOWN,BOE D6,,REP,C. BARGERON,179
+Murray,CARTERS-DOOLITTLE,BOE D6,,REP,C. BARGERON,68
+Murray,NORTH,BOE D6,,REP,C. BARGERON,71
+Murray,MCDONALD,BOE D6,,REP,H. JONES (I),126
+Murray,SHUCK PEN,BOE D6,,REP,H. JONES (I),152
+Murray,SOUTHWEST,BOE D6,,REP,H. JONES (I),174
+Murray,SPRING PLACE,BOE D6,,REP,H. JONES (I),236
+Murray,TOWN,BOE D6,,REP,H. JONES (I),433
+Murray,CARTERS-DOOLITTLE,BOE D6,,REP,H. JONES (I),141
+Murray,NORTH,BOE D6,,REP,H. JONES (I),124
+Murray,MCDONALD,BOE D7,,REP,K. H. REED (I),157
+Murray,SHUCK PEN,BOE D7,,REP,K. H. REED (I),191
+Murray,SOUTHWEST,BOE D7,,REP,K. H. REED (I),198
+Murray,SPRING PLACE,BOE D7,,REP,K. H. REED (I),261
+Murray,TOWN,BOE D7,,REP,K. H. REED (I),430
+Murray,CARTERS-DOOLITTLE,BOE D7,,REP,K. H. REED (I),158
+Murray,NORTH,BOE D7,,REP,K. H. REED (I),159
+Murray,MCDONALD,Democratic Party Question 1,,DEM,YES,23
+Murray,SHUCK PEN,Democratic Party Question 1,,DEM,YES,27
+Murray,SOUTHWEST,Democratic Party Question 1,,DEM,YES,21
+Murray,SPRING PLACE,Democratic Party Question 1,,DEM,YES,39
+Murray,TOWN,Democratic Party Question 1,,DEM,YES,85
+Murray,CARTERS-DOOLITTLE,Democratic Party Question 1,,DEM,YES,31
+Murray,NORTH,Democratic Party Question 1,,DEM,YES,20
+Murray,MCDONALD,Democratic Party Question 1,,DEM,NO,5
+Murray,SHUCK PEN,Democratic Party Question 1,,DEM,NO,17
+Murray,SOUTHWEST,Democratic Party Question 1,,DEM,NO,2
+Murray,SPRING PLACE,Democratic Party Question 1,,DEM,NO,7
+Murray,TOWN,Democratic Party Question 1,,DEM,NO,13
+Murray,CARTERS-DOOLITTLE,Democratic Party Question 1,,DEM,NO,8
+Murray,NORTH,Democratic Party Question 1,,DEM,NO,5
+Murray,MCDONALD,Democratic Party Question 2,,DEM,YES,27
+Murray,SHUCK PEN,Democratic Party Question 2,,DEM,YES,41
+Murray,SOUTHWEST,Democratic Party Question 2,,DEM,YES,24
+Murray,SPRING PLACE,Democratic Party Question 2,,DEM,YES,43
+Murray,TOWN,Democratic Party Question 2,,DEM,YES,91
+Murray,CARTERS-DOOLITTLE,Democratic Party Question 2,,DEM,YES,35
+Murray,NORTH,Democratic Party Question 2,,DEM,YES,25
+Murray,MCDONALD,Democratic Party Question 2,,DEM,NO,1
+Murray,SHUCK PEN,Democratic Party Question 2,,DEM,NO,5
+Murray,SOUTHWEST,Democratic Party Question 2,,DEM,NO,1
+Murray,SPRING PLACE,Democratic Party Question 2,,DEM,NO,3
+Murray,TOWN,Democratic Party Question 2,,DEM,NO,11
+Murray,CARTERS-DOOLITTLE,Democratic Party Question 2,,DEM,NO,4
+Murray,NORTH,Democratic Party Question 2,,DEM,NO,2
+Murray,MCDONALD,Democratic Party Question 3, non-partisan commission?,DEM,YES,22
+Murray,SHUCK PEN,Democratic Party Question 3, non-partisan commission?,DEM,YES,39
+Murray,SOUTHWEST,Democratic Party Question 3, non-partisan commission?,DEM,YES,20
+Murray,SPRING PLACE,Democratic Party Question 3, non-partisan commission?,DEM,YES,33
+Murray,TOWN,Democratic Party Question 3, non-partisan commission?,DEM,YES,79
+Murray,CARTERS-DOOLITTLE,Democratic Party Question 3, non-partisan commission?,DEM,YES,31
+Murray,NORTH,Democratic Party Question 3, non-partisan commission?,DEM,YES,20
+Murray,MCDONALD,Democratic Party Question 3, non-partisan commission?,DEM,NO,5
+Murray,SHUCK PEN,Democratic Party Question 3, non-partisan commission?,DEM,NO,5
+Murray,SOUTHWEST,Democratic Party Question 3, non-partisan commission?,DEM,NO,5
+Murray,SPRING PLACE,Democratic Party Question 3, non-partisan commission?,DEM,NO,11
+Murray,TOWN,Democratic Party Question 3, non-partisan commission?,DEM,NO,20
+Murray,CARTERS-DOOLITTLE,Democratic Party Question 3, non-partisan commission?,DEM,NO,7
+Murray,NORTH,Democratic Party Question 3, non-partisan commission?,DEM,NO,6
+Murray,MCDONALD,Democratic Party Question 4, reduce carbon emissions,DEM,YES,18
+Murray,SHUCK PEN,Democratic Party Question 4, reduce carbon emissions,DEM,YES,39
+Murray,SOUTHWEST,Democratic Party Question 4, reduce carbon emissions,DEM,YES,18
+Murray,SPRING PLACE,Democratic Party Question 4, reduce carbon emissions,DEM,YES,34
+Murray,TOWN,Democratic Party Question 4, reduce carbon emissions,DEM,YES,78
+Murray,CARTERS-DOOLITTLE,Democratic Party Question 4, reduce carbon emissions,DEM,YES,28
+Murray,NORTH,Democratic Party Question 4, reduce carbon emissions,DEM,YES,23
+Murray,MCDONALD,Democratic Party Question 4, reduce carbon emissions,DEM,NO,11
+Murray,SHUCK PEN,Democratic Party Question 4, reduce carbon emissions,DEM,NO,5
+Murray,SOUTHWEST,Democratic Party Question 4, reduce carbon emissions,DEM,NO,5
+Murray,SPRING PLACE,Democratic Party Question 4, reduce carbon emissions,DEM,NO,10
+Murray,TOWN,Democratic Party Question 4, reduce carbon emissions,DEM,NO,22
+Murray,CARTERS-DOOLITTLE,Democratic Party Question 4, reduce carbon emissions,DEM,NO,11
+Murray,NORTH,Democratic Party Question 4, reduce carbon emissions,DEM,NO,3
+Murray,MCDONALD,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,187
+Murray,SHUCK PEN,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,224
+Murray,SOUTHWEST,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,214
+Murray,SPRING PLACE,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,316
+Murray,TOWN,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,533
+Murray,CARTERS-DOOLITTLE,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,203
+Murray,NORTH,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,176
+Murray,MCDONALD,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,183
+Murray,SHUCK PEN,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,229
+Murray,SOUTHWEST,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,221
+Murray,SPRING PLACE,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,313
+Murray,TOWN,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,520
+Murray,CARTERS-DOOLITTLE,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,196
+Murray,NORTH,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,182
+Murray,MCDONALD,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,178
+Murray,SHUCK PEN,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,224
+Murray,SOUTHWEST,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,217
+Murray,SPRING PLACE,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,307
+Murray,TOWN,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,517
+Murray,CARTERS-DOOLITTLE,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,195
+Murray,NORTH,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,183
+Murray,MCDONALD,Supreme Court Justice, Melton,,HAROLD D. MELTON ,179
+Murray,SHUCK PEN,Supreme Court Justice, Melton,,HAROLD D. MELTON ,222
+Murray,SOUTHWEST,Supreme Court Justice, Melton,,HAROLD D. MELTON ,215
+Murray,SPRING PLACE,Supreme Court Justice, Melton,,HAROLD D. MELTON ,313
+Murray,TOWN,Supreme Court Justice, Melton,,HAROLD D. MELTON ,509
+Murray,CARTERS-DOOLITTLE,Supreme Court Justice, Melton,,HAROLD D. MELTON ,191
+Murray,NORTH,Supreme Court Justice, Melton,,HAROLD D. MELTON ,181
+Murray,MCDONALD,Supreme Court Justice, Peterson,,NELS PETERSON ,179
+Murray,SHUCK PEN,Supreme Court Justice, Peterson,,NELS PETERSON ,220
+Murray,SOUTHWEST,Supreme Court Justice, Peterson,,NELS PETERSON ,214
+Murray,SPRING PLACE,Supreme Court Justice, Peterson,,NELS PETERSON ,310
+Murray,TOWN,Supreme Court Justice, Peterson,,NELS PETERSON ,505
+Murray,CARTERS-DOOLITTLE,Supreme Court Justice, Peterson,,NELS PETERSON ,192
+Murray,NORTH,Supreme Court Justice, Peterson,,NELS PETERSON ,183
+Murray,MCDONALD,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,184
+Murray,SHUCK PEN,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,231
+Murray,SOUTHWEST,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,223
+Murray,SPRING PLACE,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,325
+Murray,TOWN,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,532
+Murray,CARTERS-DOOLITTLE,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,195
+Murray,NORTH,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,184
+Murray,MCDONALD,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,180
+Murray,SHUCK PEN,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,223
+Murray,SOUTHWEST,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,215
+Murray,SPRING PLACE,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,309
+Murray,TOWN,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,506
+Murray,CARTERS-DOOLITTLE,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,194
+Murray,NORTH,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,181
+Murray,MCDONALD,Appeals Court Judge, Ellington,,KEN HODGES  ,135
+Murray,SHUCK PEN,Appeals Court Judge, Ellington,,KEN HODGES  ,175
+Murray,SOUTHWEST,Appeals Court Judge, Ellington,,KEN HODGES  ,156
+Murray,SPRING PLACE,Appeals Court Judge, Ellington,,KEN HODGES  ,221
+Murray,TOWN,Appeals Court Judge, Ellington,,KEN HODGES  ,381
+Murray,CARTERS-DOOLITTLE,Appeals Court Judge, Ellington,,KEN HODGES  ,160
+Murray,NORTH,Appeals Court Judge, Ellington,,KEN HODGES  ,133
+Murray,MCDONALD,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,59
+Murray,SHUCK PEN,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,62
+Murray,SOUTHWEST,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,83
+Murray,SPRING PLACE,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,116
+Murray,TOWN,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,182
+Murray,CARTERS-DOOLITTLE,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,56
+Murray,NORTH,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,62
+Murray,MCDONALD,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,178
+Murray,SHUCK PEN,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,222
+Murray,SOUTHWEST,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,211
+Murray,SPRING PLACE,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,306
+Murray,TOWN,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,513
+Murray,CARTERS-DOOLITTLE,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,192
+Murray,NORTH,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,182
+Murray,MCDONALD,Appeals Court Judge, Miller,,M. YVETTE MILLER ,181
+Murray,SHUCK PEN,Appeals Court Judge, Miller,,M. YVETTE MILLER ,223
+Murray,SOUTHWEST,Appeals Court Judge, Miller,,M. YVETTE MILLER ,209
+Murray,SPRING PLACE,Appeals Court Judge, Miller,,M. YVETTE MILLER ,302
+Murray,TOWN,Appeals Court Judge, Miller,,M. YVETTE MILLER ,511
+Murray,CARTERS-DOOLITTLE,Appeals Court Judge, Miller,,M. YVETTE MILLER ,189
+Murray,NORTH,Appeals Court Judge, Miller,,M. YVETTE MILLER ,174
+Murray,MCDONALD,Appeals Court Judge, Reese,,CLYDE L. REESE III ,176
+Murray,SHUCK PEN,Appeals Court Judge, Reese,,CLYDE L. REESE III ,218
+Murray,SOUTHWEST,Appeals Court Judge, Reese,,CLYDE L. REESE III ,210
+Murray,SPRING PLACE,Appeals Court Judge, Reese,,CLYDE L. REESE III ,299
+Murray,TOWN,Appeals Court Judge, Reese,,CLYDE L. REESE III ,502
+Murray,CARTERS-DOOLITTLE,Appeals Court Judge, Reese,,CLYDE L. REESE III ,184
+Murray,NORTH,Appeals Court Judge, Reese,,CLYDE L. REESE III ,177
+Murray,MCDONALD,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,180
+Murray,SHUCK PEN,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,222
+Murray,SOUTHWEST,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,211
+Murray,SPRING PLACE,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,304
+Murray,TOWN,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,505
+Murray,CARTERS-DOOLITTLE,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,186
+Murray,NORTH,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,180
+Murray,MCDONALD,Superior Court Judge, Conasauga Circuit (Boyett),,WILLIAM BOYETT ,189
+Murray,SHUCK PEN,Superior Court Judge, Conasauga Circuit (Boyett),,WILLIAM BOYETT ,232
+Murray,SOUTHWEST,Superior Court Judge, Conasauga Circuit (Boyett),,WILLIAM BOYETT ,225
+Murray,SPRING PLACE,Superior Court Judge, Conasauga Circuit (Boyett),,WILLIAM BOYETT ,326
+Murray,TOWN,Superior Court Judge, Conasauga Circuit (Boyett),,WILLIAM BOYETT ,548
+Murray,CARTERS-DOOLITTLE,Superior Court Judge, Conasauga Circuit (Boyett),,WILLIAM BOYETT ,199
+Murray,NORTH,Superior Court Judge, Conasauga Circuit (Boyett),,WILLIAM BOYETT ,187
+Murray,MCDONALD,Superior Court Judge, Conasauga Circuit (Morris),,"MAXINE C. ""CINDY"" MORRIS ",181
+Murray,SHUCK PEN,Superior Court Judge, Conasauga Circuit (Morris),,"MAXINE C. ""CINDY"" MORRIS ",232
+Murray,SOUTHWEST,Superior Court Judge, Conasauga Circuit (Morris),,"MAXINE C. ""CINDY"" MORRIS ",221
+Murray,SPRING PLACE,Superior Court Judge, Conasauga Circuit (Morris),,"MAXINE C. ""CINDY"" MORRIS ",316
+Murray,TOWN,Superior Court Judge, Conasauga Circuit (Morris),,"MAXINE C. ""CINDY"" MORRIS ",541
+Murray,CARTERS-DOOLITTLE,Superior Court Judge, Conasauga Circuit (Morris),,"MAXINE C. ""CINDY"" MORRIS ",201
+Murray,NORTH,Superior Court Judge, Conasauga Circuit (Morris),,"MAXINE C. ""CINDY"" MORRIS ",192
+Murray,MCDONALD,Superior Court Judge, Conasauga Circuit (Wilbanks),,JIM WILBANKS ,193
+Murray,SHUCK PEN,Superior Court Judge, Conasauga Circuit (Wilbanks),,JIM WILBANKS ,237
+Murray,SOUTHWEST,Superior Court Judge, Conasauga Circuit (Wilbanks),,JIM WILBANKS ,240
+Murray,SPRING PLACE,Superior Court Judge, Conasauga Circuit (Wilbanks),,JIM WILBANKS ,334
+Murray,TOWN,Superior Court Judge, Conasauga Circuit (Wilbanks),,JIM WILBANKS ,572
+Murray,CARTERS-DOOLITTLE,Superior Court Judge, Conasauga Circuit (Wilbanks),,JIM WILBANKS ,208
+Murray,NORTH,Superior Court Judge, Conasauga Circuit (Wilbanks),,JIM WILBANKS ,197
+Murray,MCDONALD,CHIEF MAGISTRATE,,,C. G. REED,194
+Murray,SHUCK PEN,CHIEF MAGISTRATE,,,C. G. REED,237
+Murray,SOUTHWEST,CHIEF MAGISTRATE,,,C. G. REED,239
+Murray,SPRING PLACE,CHIEF MAGISTRATE,,,C. G. REED,326
+Murray,TOWN,CHIEF MAGISTRATE,,,C. G. REED,591
+Murray,CARTERS-DOOLITTLE,CHIEF MAGISTRATE,,,C. G. REED,227
+Murray,NORTH,CHIEF MAGISTRATE,,,C. G. REED,206
+Murray,MCDONALD,SPLOST,,,YES,151
+Murray,SHUCK PEN,SPLOST,,,YES,193
+Murray,SOUTHWEST,SPLOST,,,YES,182
+Murray,SPRING PLACE,SPLOST,,,YES,303
+Murray,TOWN,SPLOST,,,YES,534
+Murray,CARTERS-DOOLITTLE,SPLOST,,,YES,177
+Murray,NORTH,SPLOST,,,YES,149
+Murray,MCDONALD,SPLOST,,,NO,84
+Murray,SHUCK PEN,SPLOST,,,NO,107
+Murray,SOUTHWEST,SPLOST,,,NO,122
+Murray,SPRING PLACE,SPLOST,,,NO,117
+Murray,TOWN,SPLOST,,,NO,209
+Murray,CARTERS-DOOLITTLE,SPLOST,,,NO,97
+Murray,NORTH,SPLOST,,,NO,94

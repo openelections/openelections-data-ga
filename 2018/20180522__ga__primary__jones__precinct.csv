@@ -1,0 +1,759 @@
+county,precinct,office,district,party,candidate,votes
+Jones,GRAY,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",141
+Jones,HAWKINS,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",84
+Jones,ETHRIDGE,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",97
+Jones,CLINTON,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",148
+Jones,ROBERTS,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",106
+Jones,DAVIDSON,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",89
+Jones,POPE,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",53
+Jones,BARRON,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",79
+Jones,SANDERS,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",10
+Jones,FINNEY,Governor,,REP,"L.S. ""CASEY"" CAGLE (REP)",150
+Jones,GRAY,Governor,,REP,HUNTER HILL  (REP),52
+Jones,HAWKINS,Governor,,REP,HUNTER HILL  (REP),38
+Jones,ETHRIDGE,Governor,,REP,HUNTER HILL  (REP),32
+Jones,CLINTON,Governor,,REP,HUNTER HILL  (REP),48
+Jones,ROBERTS,Governor,,REP,HUNTER HILL  (REP),34
+Jones,DAVIDSON,Governor,,REP,HUNTER HILL  (REP),35
+Jones,POPE,Governor,,REP,HUNTER HILL  (REP),42
+Jones,BARRON,Governor,,REP,HUNTER HILL  (REP),30
+Jones,SANDERS,Governor,,REP,HUNTER HILL  (REP),5
+Jones,FINNEY,Governor,,REP,HUNTER HILL  (REP),82
+Jones,GRAY,Governor,,REP,BRIAN KEMP  (REP),76
+Jones,HAWKINS,Governor,,REP,BRIAN KEMP  (REP),41
+Jones,ETHRIDGE,Governor,,REP,BRIAN KEMP  (REP),46
+Jones,CLINTON,Governor,,REP,BRIAN KEMP  (REP),69
+Jones,ROBERTS,Governor,,REP,BRIAN KEMP  (REP),72
+Jones,DAVIDSON,Governor,,REP,BRIAN KEMP  (REP),63
+Jones,POPE,Governor,,REP,BRIAN KEMP  (REP),79
+Jones,BARRON,Governor,,REP,BRIAN KEMP  (REP),84
+Jones,SANDERS,Governor,,REP,BRIAN KEMP  (REP),6
+Jones,FINNEY,Governor,,REP,BRIAN KEMP  (REP),126
+Jones,GRAY,Governor,,REP,CLAY TIPPINS  (REP),47
+Jones,HAWKINS,Governor,,REP,CLAY TIPPINS  (REP),30
+Jones,ETHRIDGE,Governor,,REP,CLAY TIPPINS  (REP),20
+Jones,CLINTON,Governor,,REP,CLAY TIPPINS  (REP),42
+Jones,ROBERTS,Governor,,REP,CLAY TIPPINS  (REP),27
+Jones,DAVIDSON,Governor,,REP,CLAY TIPPINS  (REP),25
+Jones,POPE,Governor,,REP,CLAY TIPPINS  (REP),15
+Jones,BARRON,Governor,,REP,CLAY TIPPINS  (REP),21
+Jones,SANDERS,Governor,,REP,CLAY TIPPINS  (REP),20
+Jones,FINNEY,Governor,,REP,CLAY TIPPINS  (REP),76
+Jones,GRAY,Governor,,REP,MICHAEL WILLIAMS  (REP),17
+Jones,HAWKINS,Governor,,REP,MICHAEL WILLIAMS  (REP),9
+Jones,ETHRIDGE,Governor,,REP,MICHAEL WILLIAMS  (REP),8
+Jones,CLINTON,Governor,,REP,MICHAEL WILLIAMS  (REP),10
+Jones,ROBERTS,Governor,,REP,MICHAEL WILLIAMS  (REP),14
+Jones,DAVIDSON,Governor,,REP,MICHAEL WILLIAMS  (REP),9
+Jones,POPE,Governor,,REP,MICHAEL WILLIAMS  (REP),6
+Jones,BARRON,Governor,,REP,MICHAEL WILLIAMS  (REP),2
+Jones,SANDERS,Governor,,REP,MICHAEL WILLIAMS  (REP),1
+Jones,FINNEY,Governor,,REP,MICHAEL WILLIAMS  (REP),8
+Jones,GRAY,Governor,,DEM,STACEY ABRAMS  (DEM),95
+Jones,HAWKINS,Governor,,DEM,STACEY ABRAMS  (DEM),315
+Jones,ETHRIDGE,Governor,,DEM,STACEY ABRAMS  (DEM),105
+Jones,CLINTON,Governor,,DEM,STACEY ABRAMS  (DEM),94
+Jones,ROBERTS,Governor,,DEM,STACEY ABRAMS  (DEM),132
+Jones,DAVIDSON,Governor,,DEM,STACEY ABRAMS  (DEM),42
+Jones,POPE,Governor,,DEM,STACEY ABRAMS  (DEM),118
+Jones,BARRON,Governor,,DEM,STACEY ABRAMS  (DEM),62
+Jones,SANDERS,Governor,,DEM,STACEY ABRAMS  (DEM),4
+Jones,FINNEY,Governor,,DEM,STACEY ABRAMS  (DEM),99
+Jones,GRAY,Governor,,DEM,STACEY EVANS  (DEM),51
+Jones,HAWKINS,Governor,,DEM,STACEY EVANS  (DEM),100
+Jones,ETHRIDGE,Governor,,DEM,STACEY EVANS  (DEM),26
+Jones,CLINTON,Governor,,DEM,STACEY EVANS  (DEM),30
+Jones,ROBERTS,Governor,,DEM,STACEY EVANS  (DEM),42
+Jones,DAVIDSON,Governor,,DEM,STACEY EVANS  (DEM),26
+Jones,POPE,Governor,,DEM,STACEY EVANS  (DEM),32
+Jones,BARRON,Governor,,DEM,STACEY EVANS  (DEM),15
+Jones,SANDERS,Governor,,DEM,STACEY EVANS  (DEM),6
+Jones,FINNEY,Governor,,DEM,STACEY EVANS  (DEM),47
+Jones,GRAY,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),70
+Jones,HAWKINS,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),38
+Jones,ETHRIDGE,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),68
+Jones,CLINTON,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),84
+Jones,ROBERTS,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),63
+Jones,DAVIDSON,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),54
+Jones,POPE,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),36
+Jones,BARRON,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),38
+Jones,SANDERS,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),12
+Jones,FINNEY,Lieutenant Governor,,REP,GEOFF DUNCAN  (REP),108
+Jones,GRAY,Lieutenant Governor,,REP,RICK JEFFARES  (REP),105
+Jones,HAWKINS,Lieutenant Governor,,REP,RICK JEFFARES  (REP),53
+Jones,ETHRIDGE,Lieutenant Governor,,REP,RICK JEFFARES  (REP),49
+Jones,CLINTON,Lieutenant Governor,,REP,RICK JEFFARES  (REP),86
+Jones,ROBERTS,Lieutenant Governor,,REP,RICK JEFFARES  (REP),51
+Jones,DAVIDSON,Lieutenant Governor,,REP,RICK JEFFARES  (REP),58
+Jones,POPE,Lieutenant Governor,,REP,RICK JEFFARES  (REP),66
+Jones,BARRON,Lieutenant Governor,,REP,RICK JEFFARES  (REP),51
+Jones,SANDERS,Lieutenant Governor,,REP,RICK JEFFARES  (REP),12
+Jones,FINNEY,Lieutenant Governor,,REP,RICK JEFFARES  (REP),98
+Jones,GRAY,Lieutenant Governor,,REP,DAVID SHAFER  (REP),130
+Jones,HAWKINS,Lieutenant Governor,,REP,DAVID SHAFER  (REP),86
+Jones,ETHRIDGE,Lieutenant Governor,,REP,DAVID SHAFER  (REP),72
+Jones,CLINTON,Lieutenant Governor,,REP,DAVID SHAFER  (REP),126
+Jones,ROBERTS,Lieutenant Governor,,REP,DAVID SHAFER  (REP),123
+Jones,DAVIDSON,Lieutenant Governor,,REP,DAVID SHAFER  (REP),93
+Jones,POPE,Lieutenant Governor,,REP,DAVID SHAFER  (REP),70
+Jones,BARRON,Lieutenant Governor,,REP,DAVID SHAFER  (REP),106
+Jones,SANDERS,Lieutenant Governor,,REP,DAVID SHAFER  (REP),17
+Jones,FINNEY,Lieutenant Governor,,REP,DAVID SHAFER  (REP),195
+Jones,GRAY,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),69
+Jones,HAWKINS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),213
+Jones,ETHRIDGE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),67
+Jones,CLINTON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),67
+Jones,ROBERTS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),90
+Jones,DAVIDSON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),43
+Jones,POPE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),65
+Jones,BARRON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),34
+Jones,SANDERS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),5
+Jones,FINNEY,Lieutenant Governor,,DEM,SARAH RIGGS AMICO (DEM),80
+Jones,GRAY,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),68
+Jones,HAWKINS,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),172
+Jones,ETHRIDGE,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),50
+Jones,CLINTON,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),48
+Jones,ROBERTS,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),76
+Jones,DAVIDSON,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),22
+Jones,POPE,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),72
+Jones,BARRON,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),33
+Jones,SANDERS,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),5
+Jones,FINNEY,Lieutenant Governor,,DEM,TRIANA ARNOLD JAMES (DEM),55
+Jones,GRAY,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),75
+Jones,HAWKINS,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),57
+Jones,ETHRIDGE,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),59
+Jones,CLINTON,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),89
+Jones,ROBERTS,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),83
+Jones,DAVIDSON,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),63
+Jones,POPE,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),38
+Jones,BARRON,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),51
+Jones,SANDERS,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),11
+Jones,FINNEY,Secretary Of State,,REP,DAVID BELLE ISLE  (REP),95
+Jones,GRAY,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),27
+Jones,HAWKINS,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),17
+Jones,ETHRIDGE,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),25
+Jones,CLINTON,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),37
+Jones,ROBERTS,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),19
+Jones,DAVIDSON,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),28
+Jones,POPE,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),21
+Jones,BARRON,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),19
+Jones,SANDERS,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),4
+Jones,FINNEY,Secretary Of State,,REP,BUZZ BROCKWAY  (REP),53
+Jones,GRAY,Secretary Of State,,REP,JOSH MCKOON  (REP),45
+Jones,HAWKINS,Secretary Of State,,REP,JOSH MCKOON  (REP),31
+Jones,ETHRIDGE,Secretary Of State,,REP,JOSH MCKOON  (REP),27
+Jones,CLINTON,Secretary Of State,,REP,JOSH MCKOON  (REP),46
+Jones,ROBERTS,Secretary Of State,,REP,JOSH MCKOON  (REP),43
+Jones,DAVIDSON,Secretary Of State,,REP,JOSH MCKOON  (REP),27
+Jones,POPE,Secretary Of State,,REP,JOSH MCKOON  (REP),27
+Jones,BARRON,Secretary Of State,,REP,JOSH MCKOON  (REP),51
+Jones,SANDERS,Secretary Of State,,REP,JOSH MCKOON  (REP),8
+Jones,FINNEY,Secretary Of State,,REP,JOSH MCKOON  (REP),72
+Jones,GRAY,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),145
+Jones,HAWKINS,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),65
+Jones,ETHRIDGE,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),74
+Jones,CLINTON,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),124
+Jones,ROBERTS,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),90
+Jones,DAVIDSON,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),74
+Jones,POPE,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),81
+Jones,BARRON,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),73
+Jones,SANDERS,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),18
+Jones,FINNEY,Secretary Of State,,REP,BRAD RAFFENSPERGER  (REP),177
+Jones,GRAY,Secretary Of State,,DEM,JOHN BARROW  (DEM),80
+Jones,HAWKINS,Secretary Of State,,DEM,JOHN BARROW  (DEM),233
+Jones,ETHRIDGE,Secretary Of State,,DEM,JOHN BARROW  (DEM),74
+Jones,CLINTON,Secretary Of State,,DEM,JOHN BARROW  (DEM),62
+Jones,ROBERTS,Secretary Of State,,DEM,JOHN BARROW  (DEM),102
+Jones,DAVIDSON,Secretary Of State,,DEM,JOHN BARROW  (DEM),50
+Jones,POPE,Secretary Of State,,DEM,JOHN BARROW  (DEM),92
+Jones,BARRON,Secretary Of State,,DEM,JOHN BARROW  (DEM),44
+Jones,SANDERS,Secretary Of State,,DEM,JOHN BARROW  (DEM),8
+Jones,FINNEY,Secretary Of State,,DEM,JOHN BARROW  (DEM),81
+Jones,GRAY,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),29
+Jones,HAWKINS,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),106
+Jones,ETHRIDGE,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),34
+Jones,CLINTON,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),41
+Jones,ROBERTS,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),40
+Jones,DAVIDSON,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),13
+Jones,POPE,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),32
+Jones,BARRON,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),19
+Jones,SANDERS,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),0
+Jones,FINNEY,Secretary Of State,,DEM,DEE DAWKINS-HAIGLER  (DEM),41
+Jones,GRAY,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",30
+Jones,HAWKINS,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",53
+Jones,ETHRIDGE,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",13
+Jones,CLINTON,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",13
+Jones,ROBERTS,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",31
+Jones,DAVIDSON,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",4
+Jones,POPE,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",16
+Jones,BARRON,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",7
+Jones,SANDERS,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",1
+Jones,FINNEY,Secretary Of State,,DEM,"RAKEIM ""RJ"" HADLEY (DEM)",23
+Jones,GRAY,Attorney General,,REP,CHRIS CARR (I) (REP),253
+Jones,HAWKINS,Attorney General,,REP,CHRIS CARR (I) (REP),159
+Jones,ETHRIDGE,Attorney General,,REP,CHRIS CARR (I) (REP),169
+Jones,CLINTON,Attorney General,,REP,CHRIS CARR (I) (REP),263
+Jones,ROBERTS,Attorney General,,REP,CHRIS CARR (I) (REP),211
+Jones,DAVIDSON,Attorney General,,REP,CHRIS CARR (I) (REP),167
+Jones,POPE,Attorney General,,REP,CHRIS CARR (I) (REP),147
+Jones,BARRON,Attorney General,,REP,CHRIS CARR (I) (REP),173
+Jones,SANDERS,Attorney General,,REP,CHRIS CARR (I) (REP),34
+Jones,FINNEY,Attorney General,,REP,CHRIS CARR (I) (REP),353
+Jones,GRAY,Attorney General,,DEM,CHARLIE BAILEY  (DEM),119
+Jones,HAWKINS,Attorney General,,DEM,CHARLIE BAILEY  (DEM),342
+Jones,ETHRIDGE,Attorney General,,DEM,CHARLIE BAILEY  (DEM),103
+Jones,CLINTON,Attorney General,,DEM,CHARLIE BAILEY  (DEM),102
+Jones,ROBERTS,Attorney General,,DEM,CHARLIE BAILEY  (DEM),158
+Jones,DAVIDSON,Attorney General,,DEM,CHARLIE BAILEY  (DEM),63
+Jones,POPE,Attorney General,,DEM,CHARLIE BAILEY  (DEM),130
+Jones,BARRON,Attorney General,,DEM,CHARLIE BAILEY  (DEM),56
+Jones,SANDERS,Attorney General,,DEM,CHARLIE BAILEY  (DEM),9
+Jones,FINNEY,Attorney General,,DEM,CHARLIE BAILEY  (DEM),124
+Jones,GRAY,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),259
+Jones,HAWKINS,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),154
+Jones,ETHRIDGE,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),167
+Jones,CLINTON,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),266
+Jones,ROBERTS,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),206
+Jones,DAVIDSON,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),172
+Jones,POPE,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),149
+Jones,BARRON,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),172
+Jones,SANDERS,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),35
+Jones,FINNEY,Commissioner Of Agriculture,,REP,GARY BLACK (I) (REP),356
+Jones,GRAY,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),114
+Jones,HAWKINS,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),341
+Jones,ETHRIDGE,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),102
+Jones,CLINTON,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),99
+Jones,ROBERTS,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),155
+Jones,DAVIDSON,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),61
+Jones,POPE,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),127
+Jones,BARRON,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),57
+Jones,SANDERS,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),9
+Jones,FINNEY,Commissioner Of Agriculture,,DEM,FRED SWANN  (DEM),122
+Jones,GRAY,Commissioner Of Insurance,,REP,JIM BECK  (REP),182
+Jones,HAWKINS,Commissioner Of Insurance,,REP,JIM BECK  (REP),107
+Jones,ETHRIDGE,Commissioner Of Insurance,,REP,JIM BECK  (REP),107
+Jones,CLINTON,Commissioner Of Insurance,,REP,JIM BECK  (REP),198
+Jones,ROBERTS,Commissioner Of Insurance,,REP,JIM BECK  (REP),162
+Jones,DAVIDSON,Commissioner Of Insurance,,REP,JIM BECK  (REP),133
+Jones,POPE,Commissioner Of Insurance,,REP,JIM BECK  (REP),117
+Jones,BARRON,Commissioner Of Insurance,,REP,JIM BECK  (REP),131
+Jones,SANDERS,Commissioner Of Insurance,,REP,JIM BECK  (REP),27
+Jones,FINNEY,Commissioner Of Insurance,,REP,JIM BECK  (REP),254
+Jones,GRAY,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),39
+Jones,HAWKINS,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),23
+Jones,ETHRIDGE,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),33
+Jones,CLINTON,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),38
+Jones,ROBERTS,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),21
+Jones,DAVIDSON,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),25
+Jones,POPE,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),23
+Jones,BARRON,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),29
+Jones,SANDERS,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),5
+Jones,FINNEY,Commissioner Of Insurance,,REP,JAY FLORENCE  (REP),58
+Jones,GRAY,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),65
+Jones,HAWKINS,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),29
+Jones,ETHRIDGE,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),33
+Jones,CLINTON,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),52
+Jones,ROBERTS,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),48
+Jones,DAVIDSON,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),32
+Jones,POPE,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),28
+Jones,BARRON,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),31
+Jones,SANDERS,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),7
+Jones,FINNEY,Commissioner Of Insurance,,REP,TRACY JORDAN (REP),73
+Jones,GRAY,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),79
+Jones,HAWKINS,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),280
+Jones,ETHRIDGE,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),89
+Jones,CLINTON,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),83
+Jones,ROBERTS,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),122
+Jones,DAVIDSON,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),42
+Jones,POPE,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),102
+Jones,BARRON,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),41
+Jones,SANDERS,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),7
+Jones,FINNEY,Commissioner Of Insurance,,DEM,JANICE LAWS  (DEM),78
+Jones,GRAY,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),52
+Jones,HAWKINS,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),87
+Jones,ETHRIDGE,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),28
+Jones,CLINTON,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),26
+Jones,ROBERTS,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),43
+Jones,DAVIDSON,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),19
+Jones,POPE,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),32
+Jones,BARRON,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),23
+Jones,SANDERS,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),2
+Jones,FINNEY,Commissioner Of Insurance,,DEM,CINDY ZELDIN  (DEM),54
+Jones,GRAY,State School Superintendent,,REP,JOHN BARGE  (REP),113
+Jones,HAWKINS,State School Superintendent,,REP,JOHN BARGE  (REP),71
+Jones,ETHRIDGE,State School Superintendent,,REP,JOHN BARGE  (REP),69
+Jones,CLINTON,State School Superintendent,,REP,JOHN BARGE  (REP),97
+Jones,ROBERTS,State School Superintendent,,REP,JOHN BARGE  (REP),81
+Jones,DAVIDSON,State School Superintendent,,REP,JOHN BARGE  (REP),86
+Jones,POPE,State School Superintendent,,REP,JOHN BARGE  (REP),75
+Jones,BARRON,State School Superintendent,,REP,JOHN BARGE  (REP),71
+Jones,SANDERS,State School Superintendent,,REP,JOHN BARGE  (REP),10
+Jones,FINNEY,State School Superintendent,,REP,JOHN BARGE  (REP),152
+Jones,GRAY,State School Superintendent,,REP,RICHARD WOODS (I) (REP),178
+Jones,HAWKINS,State School Superintendent,,REP,RICHARD WOODS (I) (REP),98
+Jones,ETHRIDGE,State School Superintendent,,REP,RICHARD WOODS (I) (REP),115
+Jones,CLINTON,State School Superintendent,,REP,RICHARD WOODS (I) (REP),199
+Jones,ROBERTS,State School Superintendent,,REP,RICHARD WOODS (I) (REP),150
+Jones,DAVIDSON,State School Superintendent,,REP,RICHARD WOODS (I) (REP),108
+Jones,POPE,State School Superintendent,,REP,RICHARD WOODS (I) (REP),97
+Jones,BARRON,State School Superintendent,,REP,RICHARD WOODS (I) (REP),122
+Jones,SANDERS,State School Superintendent,,REP,RICHARD WOODS (I) (REP),29
+Jones,FINNEY,State School Superintendent,,REP,RICHARD WOODS (I) (REP),249
+Jones,GRAY,State School Superintendent,,DEM,SID CHAPMAN (DEM),34
+Jones,HAWKINS,State School Superintendent,,DEM,SID CHAPMAN (DEM),113
+Jones,ETHRIDGE,State School Superintendent,,DEM,SID CHAPMAN (DEM),42
+Jones,CLINTON,State School Superintendent,,DEM,SID CHAPMAN (DEM),38
+Jones,ROBERTS,State School Superintendent,,DEM,SID CHAPMAN (DEM),41
+Jones,DAVIDSON,State School Superintendent,,DEM,SID CHAPMAN (DEM),18
+Jones,POPE,State School Superintendent,,DEM,SID CHAPMAN (DEM),40
+Jones,BARRON,State School Superintendent,,DEM,SID CHAPMAN (DEM),21
+Jones,SANDERS,State School Superintendent,,DEM,SID CHAPMAN (DEM),1
+Jones,FINNEY,State School Superintendent,,DEM,SID CHAPMAN (DEM),29
+Jones,GRAY,State School Superintendent,,DEM,SAM MOSTELLER (DEM),39
+Jones,HAWKINS,State School Superintendent,,DEM,SAM MOSTELLER (DEM),100
+Jones,ETHRIDGE,State School Superintendent,,DEM,SAM MOSTELLER (DEM),33
+Jones,CLINTON,State School Superintendent,,DEM,SAM MOSTELLER (DEM),33
+Jones,ROBERTS,State School Superintendent,,DEM,SAM MOSTELLER (DEM),47
+Jones,DAVIDSON,State School Superintendent,,DEM,SAM MOSTELLER (DEM),17
+Jones,POPE,State School Superintendent,,DEM,SAM MOSTELLER (DEM),47
+Jones,BARRON,State School Superintendent,,DEM,SAM MOSTELLER (DEM),17
+Jones,SANDERS,State School Superintendent,,DEM,SAM MOSTELLER (DEM),5
+Jones,FINNEY,State School Superintendent,,DEM,SAM MOSTELLER (DEM),46
+Jones,GRAY,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",57
+Jones,HAWKINS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",153
+Jones,ETHRIDGE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",39
+Jones,CLINTON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",39
+Jones,ROBERTS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",74
+Jones,DAVIDSON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",23
+Jones,POPE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",47
+Jones,BARRON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",32
+Jones,SANDERS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",2
+Jones,FINNEY,State School Superintendent,,DEM,"OTHA E. THORNTON, JR (DEM)",57
+Jones,GRAY,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),255
+Jones,HAWKINS,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),154
+Jones,ETHRIDGE,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),168
+Jones,CLINTON,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),260
+Jones,ROBERTS,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),211
+Jones,DAVIDSON,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),169
+Jones,POPE,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),148
+Jones,BARRON,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),172
+Jones,SANDERS,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),35
+Jones,FINNEY,Commissioner Of Labor,,REP,MARK BUTLER (I) (REP),360
+Jones,GRAY,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),71
+Jones,HAWKINS,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),172
+Jones,ETHRIDGE,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),62
+Jones,CLINTON,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),44
+Jones,ROBERTS,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),78
+Jones,DAVIDSON,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),28
+Jones,POPE,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),64
+Jones,BARRON,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),27
+Jones,SANDERS,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),5
+Jones,FINNEY,Commissioner Of Labor,,DEM,RICHARD KEATLEY (DEM),56
+Jones,GRAY,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),57
+Jones,HAWKINS,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),186
+Jones,ETHRIDGE,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),48
+Jones,CLINTON,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),65
+Jones,ROBERTS,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),82
+Jones,DAVIDSON,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),30
+Jones,POPE,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),69
+Jones,BARRON,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),38
+Jones,SANDERS,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),4
+Jones,FINNEY,Commissioner Of Labor,,DEM,FRED QUINN  (DEM),67
+Jones,GRAY,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),252
+Jones,HAWKINS,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),156
+Jones,ETHRIDGE,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),169
+Jones,CLINTON,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),260
+Jones,ROBERTS,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),209
+Jones,DAVIDSON,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),170
+Jones,POPE,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),149
+Jones,BARRON,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),167
+Jones,SANDERS,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),34
+Jones,FINNEY,"Public Service Commission, District 3",3,REP,CHUCK EATON (I) (REP),355
+Jones,GRAY,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),84
+Jones,HAWKINS,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),221
+Jones,ETHRIDGE,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),73
+Jones,CLINTON,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),71
+Jones,ROBERTS,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),106
+Jones,DAVIDSON,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),43
+Jones,POPE,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),78
+Jones,BARRON,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),31
+Jones,SANDERS,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),5
+Jones,FINNEY,"Public Service Commission, District 3",3,DEM,LINDY MILLER (DEM),73
+Jones,GRAY,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),18
+Jones,HAWKINS,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),82
+Jones,ETHRIDGE,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),14
+Jones,CLINTON,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),9
+Jones,ROBERTS,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),28
+Jones,DAVIDSON,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),10
+Jones,POPE,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),15
+Jones,BARRON,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),17
+Jones,SANDERS,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),1
+Jones,FINNEY,"Public Service Commission, District 3",3,DEM,JOHN NOEL (DEM),29
+Jones,GRAY,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),24
+Jones,HAWKINS,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),62
+Jones,ETHRIDGE,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),28
+Jones,CLINTON,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),31
+Jones,ROBERTS,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),25
+Jones,DAVIDSON,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),8
+Jones,POPE,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),41
+Jones,BARRON,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),14
+Jones,SANDERS,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),3
+Jones,FINNEY,"Public Service Commission, District 3",3,DEM,JOHNNY C. WHITE (DEM),30
+Jones,GRAY,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),118
+Jones,HAWKINS,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),76
+Jones,ETHRIDGE,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),68
+Jones,CLINTON,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),134
+Jones,ROBERTS,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),95
+Jones,DAVIDSON,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),95
+Jones,POPE,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),85
+Jones,BARRON,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),110
+Jones,SANDERS,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),20
+Jones,FINNEY,"Public Service Commission, District 5",5,REP,JOHN HITCHINS III (REP),195
+Jones,GRAY,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),168
+Jones,HAWKINS,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),85
+Jones,ETHRIDGE,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),113
+Jones,CLINTON,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),156
+Jones,ROBERTS,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),127
+Jones,DAVIDSON,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),96
+Jones,POPE,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),83
+Jones,BARRON,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),80
+Jones,SANDERS,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),19
+Jones,FINNEY,"Public Service Commission, District 5",5,REP,TRICIA PRIDEMORE (I) (REP),204
+Jones,GRAY,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),98
+Jones,HAWKINS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),279
+Jones,ETHRIDGE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),84
+Jones,CLINTON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),80
+Jones,ROBERTS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),120
+Jones,DAVIDSON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),49
+Jones,POPE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),89
+Jones,BARRON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),45
+Jones,SANDERS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),5
+Jones,FINNEY,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH (DEM),105
+Jones,GRAY,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),23
+Jones,HAWKINS,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),77
+Jones,ETHRIDGE,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),27
+Jones,CLINTON,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),25
+Jones,ROBERTS,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),35
+Jones,DAVIDSON,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),12
+Jones,POPE,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),43
+Jones,BARRON,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),17
+Jones,SANDERS,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),4
+Jones,FINNEY,"Public Service Commission, District 5",5,DEM,DOUG STONER (DEM),23
+Jones,GRAY,"U.S. Representative, District 8",8,REP,AUSTIN SCOTT (I) (REP),272
+Jones,HAWKINS,"U.S. Representative, District 8",8,REP,AUSTIN SCOTT (I) (REP),164
+Jones,ETHRIDGE,"U.S. Representative, District 8",8,REP,AUSTIN SCOTT (I) (REP),181
+Jones,CLINTON,"U.S. Representative, District 8",8,REP,AUSTIN SCOTT (I) (REP),270
+Jones,ROBERTS,"U.S. Representative, District 8",8,REP,AUSTIN SCOTT (I) (REP),217
+Jones,DAVIDSON,"U.S. Representative, District 8",8,REP,AUSTIN SCOTT (I) (REP),180
+Jones,POPE,"U.S. Representative, District 8",8,REP,AUSTIN SCOTT (I) (REP),155
+Jones,BARRON,"U.S. Representative, District 8",8,REP,AUSTIN SCOTT (I) (REP),180
+Jones,SANDERS,"U.S. Representative, District 8",8,REP,AUSTIN SCOTT (I) (REP),36
+Jones,FINNEY,"U.S. Representative, District 8",8,REP,AUSTIN SCOTT (I) (REP),380
+Jones,CLINTON,"State Senator, District 25",25,REP,BURT JONES (I) (REP),259
+Jones,POPE,"State Senator, District 25",25,REP,BURT JONES (I) (REP),148
+Jones,BARRON,"State Senator, District 25",25,REP,BURT JONES (I) (REP),172
+Jones,SANDERS,"State Senator, District 25",25,REP,BURT JONES (I) (REP),36
+Jones,FINNEY,"State Senator, District 25",25,REP,BURT JONES (I) (REP),370
+Jones,GRAY,"State Senator, District 26",26,DEM,DAVID E. LUCAS SR (I) (DEM),128
+Jones,HAWKINS,"State Senator, District 26",26,DEM,DAVID E. LUCAS SR (I) (DEM),376
+Jones,ETHRIDGE,"State Senator, District 26",26,DEM,DAVID E. LUCAS SR (I) (DEM),112
+Jones,CLINTON,"State Senator, District 26",26,DEM,DAVID E. LUCAS SR (I) (DEM),3
+Jones,ROBERTS,"State Senator, District 26",26,DEM,DAVID E. LUCAS SR (I) (DEM),164
+Jones,DAVIDSON,"State Senator, District 26",26,DEM,DAVID E. LUCAS SR (I) (DEM),55
+Jones,GRAY,"State Representative, District 129",129,REP,SUSAN HOLMES (I) (REP),259
+Jones,HAWKINS,"State Representative, District 129",129,REP,SUSAN HOLMES (I) (REP),154
+Jones,ETHRIDGE,"State Representative, District 129",129,REP,SUSAN HOLMES (I) (REP),174
+Jones,CLINTON,"State Representative, District 129",129,REP,SUSAN HOLMES (I) (REP),268
+Jones,POPE,"State Representative, District 129",129,REP,SUSAN HOLMES (I) (REP),95
+Jones,BARRON,"State Representative, District 129",129,REP,SUSAN HOLMES (I) (REP),172
+Jones,SANDERS,"State Representative, District 129",129,REP,SUSAN HOLMES (I) (REP),35
+Jones,FINNEY,"State Representative, District 129",129,REP,SUSAN HOLMES (I) (REP),370
+Jones,ROBERTS,"State Representative, District 144",144,REP,TREY ENNIS  (REP),111
+Jones,DAVIDSON,"State Representative, District 144",144,REP,TREY ENNIS  (REP),99
+Jones,POPE,"State Representative, District 144",144,REP,TREY ENNIS  (REP),38
+Jones,ROBERTS,"State Representative, District 144",144,REP,DANNY MATHIS  (REP),90
+Jones,DAVIDSON,"State Representative, District 144",144,REP,DANNY MATHIS  (REP),75
+Jones,POPE,"State Representative, District 144",144,REP,DANNY MATHIS  (REP),19
+Jones,ROBERTS,"State Representative, District 144",144,REP,MILTON SAMPSON  (REP),22
+Jones,DAVIDSON,"State Representative, District 144",144,REP,MILTON SAMPSON  (REP),8
+Jones,POPE,"State Representative, District 144",144,REP,MILTON SAMPSON  (REP),4
+Jones,ROBERTS,"State Representative, District 144",144,DEM,GREGORY D. ODOMS  (DEM),41
+Jones,DAVIDSON,"State Representative, District 144",144,DEM,GREGORY D. ODOMS  (DEM),11
+Jones,POPE,"State Representative, District 144",144,DEM,GREGORY D. ODOMS  (DEM),9
+Jones,ROBERTS,"State Representative, District 144",144,DEM,JESSICA WALDEN  (DEM),54
+Jones,DAVIDSON,"State Representative, District 144",144,DEM,JESSICA WALDEN  (DEM),43
+Jones,POPE,"State Representative, District 144",144,DEM,JESSICA WALDEN  (DEM),36
+Jones,ROBERTS,"State Representative, District 144",144,DEM,CHEYENNE WARNOCK  (DEM),15
+Jones,DAVIDSON,"State Representative, District 144",144,DEM,CHEYENNE WARNOCK  (DEM),5
+Jones,POPE,"State Representative, District 144",144,DEM,CHEYENNE WARNOCK  (DEM),1
+Jones,ROBERTS,"State Representative, District 144",144,DEM,MARY WHIPPLE- LUE  (DEM),56
+Jones,DAVIDSON,"State Representative, District 144",144,DEM,MARY WHIPPLE- LUE  (DEM),10
+Jones,POPE,"State Representative, District 144",144,DEM,MARY WHIPPLE- LUE  (DEM),18
+Jones,GRAY,Democratic Party Question 1,,DEM,YES,99
+Jones,HAWKINS,Democratic Party Question 1,,DEM,YES,245
+Jones,ETHRIDGE,Democratic Party Question 1,,DEM,YES,84
+Jones,CLINTON,Democratic Party Question 1,,DEM,YES,83
+Jones,ROBERTS,Democratic Party Question 1,,DEM,YES,103
+Jones,DAVIDSON,Democratic Party Question 1,,DEM,YES,55
+Jones,POPE,Democratic Party Question 1,,DEM,YES,101
+Jones,BARRON,Democratic Party Question 1,,DEM,YES,46
+Jones,SANDERS,Democratic Party Question 1,,DEM,YES,4
+Jones,FINNEY,Democratic Party Question 1,,DEM,YES,107
+Jones,GRAY,Democratic Party Question 1,,DEM,NO,39
+Jones,HAWKINS,Democratic Party Question 1,,DEM,NO,138
+Jones,ETHRIDGE,Democratic Party Question 1,,DEM,NO,37
+Jones,CLINTON,Democratic Party Question 1,,DEM,NO,34
+Jones,ROBERTS,Democratic Party Question 1,,DEM,NO,64
+Jones,DAVIDSON,Democratic Party Question 1,,DEM,NO,10
+Jones,POPE,Democratic Party Question 1,,DEM,NO,38
+Jones,BARRON,Democratic Party Question 1,,DEM,NO,26
+Jones,SANDERS,Democratic Party Question 1,,DEM,NO,5
+Jones,FINNEY,Democratic Party Question 1,,DEM,NO,37
+Jones,GRAY,Democratic Party Question 2,,DEM,YES,128
+Jones,HAWKINS,Democratic Party Question 2,,DEM,YES,361
+Jones,ETHRIDGE,Democratic Party Question 2,,DEM,YES,105
+Jones,CLINTON,Democratic Party Question 2,,DEM,YES,112
+Jones,ROBERTS,Democratic Party Question 2,,DEM,YES,150
+Jones,DAVIDSON,Democratic Party Question 2,,DEM,YES,64
+Jones,POPE,Democratic Party Question 2,,DEM,YES,124
+Jones,BARRON,Democratic Party Question 2,,DEM,YES,64
+Jones,SANDERS,Democratic Party Question 2,,DEM,YES,7
+Jones,FINNEY,Democratic Party Question 2,,DEM,YES,131
+Jones,GRAY,Democratic Party Question 2,,DEM,NO,14
+Jones,HAWKINS,Democratic Party Question 2,,DEM,NO,43
+Jones,ETHRIDGE,Democratic Party Question 2,,DEM,NO,19
+Jones,CLINTON,Democratic Party Question 2,,DEM,NO,8
+Jones,ROBERTS,Democratic Party Question 2,,DEM,NO,20
+Jones,DAVIDSON,Democratic Party Question 2,,DEM,NO,4
+Jones,POPE,Democratic Party Question 2,,DEM,NO,21
+Jones,BARRON,Democratic Party Question 2,,DEM,NO,11
+Jones,SANDERS,Democratic Party Question 2,,DEM,NO,2
+Jones,FINNEY,Democratic Party Question 2,,DEM,NO,15
+Jones,GRAY,Democratic Party Question 3, non-partisan commission?,DEM,YES,93
+Jones,HAWKINS,Democratic Party Question 3, non-partisan commission?,DEM,YES,259
+Jones,ETHRIDGE,Democratic Party Question 3, non-partisan commission?,DEM,YES,82
+Jones,CLINTON,Democratic Party Question 3, non-partisan commission?,DEM,YES,91
+Jones,ROBERTS,Democratic Party Question 3, non-partisan commission?,DEM,YES,97
+Jones,DAVIDSON,Democratic Party Question 3, non-partisan commission?,DEM,YES,51
+Jones,POPE,Democratic Party Question 3, non-partisan commission?,DEM,YES,96
+Jones,BARRON,Democratic Party Question 3, non-partisan commission?,DEM,YES,52
+Jones,SANDERS,Democratic Party Question 3, non-partisan commission?,DEM,YES,6
+Jones,FINNEY,Democratic Party Question 3, non-partisan commission?,DEM,YES,108
+Jones,GRAY,Democratic Party Question 3, non-partisan commission?,DEM,NO,49
+Jones,HAWKINS,Democratic Party Question 3, non-partisan commission?,DEM,NO,132
+Jones,ETHRIDGE,Democratic Party Question 3, non-partisan commission?,DEM,NO,39
+Jones,CLINTON,Democratic Party Question 3, non-partisan commission?,DEM,NO,26
+Jones,ROBERTS,Democratic Party Question 3, non-partisan commission?,DEM,NO,71
+Jones,DAVIDSON,Democratic Party Question 3, non-partisan commission?,DEM,NO,16
+Jones,POPE,Democratic Party Question 3, non-partisan commission?,DEM,NO,48
+Jones,BARRON,Democratic Party Question 3, non-partisan commission?,DEM,NO,19
+Jones,SANDERS,Democratic Party Question 3, non-partisan commission?,DEM,NO,4
+Jones,FINNEY,Democratic Party Question 3, non-partisan commission?,DEM,NO,38
+Jones,GRAY,Democratic Party Question 4, reduce carbon emissions,DEM,YES,112
+Jones,HAWKINS,Democratic Party Question 4, reduce carbon emissions,DEM,YES,294
+Jones,ETHRIDGE,Democratic Party Question 4, reduce carbon emissions,DEM,YES,88
+Jones,CLINTON,Democratic Party Question 4, reduce carbon emissions,DEM,YES,95
+Jones,ROBERTS,Democratic Party Question 4, reduce carbon emissions,DEM,YES,122
+Jones,DAVIDSON,Democratic Party Question 4, reduce carbon emissions,DEM,YES,51
+Jones,POPE,Democratic Party Question 4, reduce carbon emissions,DEM,YES,96
+Jones,BARRON,Democratic Party Question 4, reduce carbon emissions,DEM,YES,50
+Jones,SANDERS,Democratic Party Question 4, reduce carbon emissions,DEM,YES,5
+Jones,FINNEY,Democratic Party Question 4, reduce carbon emissions,DEM,YES,107
+Jones,GRAY,Democratic Party Question 4, reduce carbon emissions,DEM,NO,31
+Jones,HAWKINS,Democratic Party Question 4, reduce carbon emissions,DEM,NO,102
+Jones,ETHRIDGE,Democratic Party Question 4, reduce carbon emissions,DEM,NO,37
+Jones,CLINTON,Democratic Party Question 4, reduce carbon emissions,DEM,NO,21
+Jones,ROBERTS,Democratic Party Question 4, reduce carbon emissions,DEM,NO,48
+Jones,DAVIDSON,Democratic Party Question 4, reduce carbon emissions,DEM,NO,17
+Jones,POPE,Democratic Party Question 4, reduce carbon emissions,DEM,NO,44
+Jones,BARRON,Democratic Party Question 4, reduce carbon emissions,DEM,NO,22
+Jones,SANDERS,Democratic Party Question 4, reduce carbon emissions,DEM,NO,5
+Jones,FINNEY,Democratic Party Question 4, reduce carbon emissions,DEM,NO,33
+Jones,GRAY,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,370
+Jones,HAWKINS,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,488
+Jones,ETHRIDGE,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,271
+Jones,CLINTON,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,350
+Jones,ROBERTS,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,365
+Jones,DAVIDSON,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,236
+Jones,POPE,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,274
+Jones,BARRON,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,222
+Jones,SANDERS,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,47
+Jones,FINNEY,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,478
+Jones,GRAY,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,368
+Jones,HAWKINS,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,480
+Jones,ETHRIDGE,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,269
+Jones,CLINTON,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,351
+Jones,ROBERTS,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,365
+Jones,DAVIDSON,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,235
+Jones,POPE,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,272
+Jones,BARRON,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,223
+Jones,SANDERS,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,46
+Jones,FINNEY,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,472
+Jones,GRAY,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,370
+Jones,HAWKINS,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,480
+Jones,ETHRIDGE,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,272
+Jones,CLINTON,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,356
+Jones,ROBERTS,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,363
+Jones,DAVIDSON,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,234
+Jones,POPE,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,272
+Jones,BARRON,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,224
+Jones,SANDERS,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,47
+Jones,FINNEY,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,480
+Jones,GRAY,Supreme Court Justice, Melton,,HAROLD D. MELTON ,364
+Jones,HAWKINS,Supreme Court Justice, Melton,,HAROLD D. MELTON ,484
+Jones,ETHRIDGE,Supreme Court Justice, Melton,,HAROLD D. MELTON ,268
+Jones,CLINTON,Supreme Court Justice, Melton,,HAROLD D. MELTON ,358
+Jones,ROBERTS,Supreme Court Justice, Melton,,HAROLD D. MELTON ,364
+Jones,DAVIDSON,Supreme Court Justice, Melton,,HAROLD D. MELTON ,228
+Jones,POPE,Supreme Court Justice, Melton,,HAROLD D. MELTON ,267
+Jones,BARRON,Supreme Court Justice, Melton,,HAROLD D. MELTON ,226
+Jones,SANDERS,Supreme Court Justice, Melton,,HAROLD D. MELTON ,46
+Jones,FINNEY,Supreme Court Justice, Melton,,HAROLD D. MELTON ,474
+Jones,GRAY,Supreme Court Justice, Peterson,,NELS PETERSON ,363
+Jones,HAWKINS,Supreme Court Justice, Peterson,,NELS PETERSON ,474
+Jones,ETHRIDGE,Supreme Court Justice, Peterson,,NELS PETERSON ,268
+Jones,CLINTON,Supreme Court Justice, Peterson,,NELS PETERSON ,350
+Jones,ROBERTS,Supreme Court Justice, Peterson,,NELS PETERSON ,358
+Jones,DAVIDSON,Supreme Court Justice, Peterson,,NELS PETERSON ,231
+Jones,POPE,Supreme Court Justice, Peterson,,NELS PETERSON ,267
+Jones,BARRON,Supreme Court Justice, Peterson,,NELS PETERSON ,224
+Jones,SANDERS,Supreme Court Justice, Peterson,,NELS PETERSON ,44
+Jones,FINNEY,Supreme Court Justice, Peterson,,NELS PETERSON ,472
+Jones,GRAY,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,360
+Jones,HAWKINS,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,475
+Jones,ETHRIDGE,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,266
+Jones,CLINTON,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,352
+Jones,ROBERTS,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,359
+Jones,DAVIDSON,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,231
+Jones,POPE,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,267
+Jones,BARRON,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,223
+Jones,SANDERS,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,45
+Jones,FINNEY,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,464
+Jones,GRAY,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,357
+Jones,HAWKINS,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,475
+Jones,ETHRIDGE,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,266
+Jones,CLINTON,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,350
+Jones,ROBERTS,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,359
+Jones,DAVIDSON,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,228
+Jones,POPE,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,268
+Jones,BARRON,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,222
+Jones,SANDERS,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,43
+Jones,FINNEY,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,469
+Jones,GRAY,Appeals Court Judge, Ellington,,KEN HODGES  ,312
+Jones,HAWKINS,Appeals Court Judge, Ellington,,KEN HODGES  ,380
+Jones,ETHRIDGE,Appeals Court Judge, Ellington,,KEN HODGES  ,231
+Jones,CLINTON,Appeals Court Judge, Ellington,,KEN HODGES  ,287
+Jones,ROBERTS,Appeals Court Judge, Ellington,,KEN HODGES  ,299
+Jones,DAVIDSON,Appeals Court Judge, Ellington,,KEN HODGES  ,198
+Jones,POPE,Appeals Court Judge, Ellington,,KEN HODGES  ,236
+Jones,BARRON,Appeals Court Judge, Ellington,,KEN HODGES  ,183
+Jones,SANDERS,Appeals Court Judge, Ellington,,KEN HODGES  ,39
+Jones,FINNEY,Appeals Court Judge, Ellington,,KEN HODGES  ,372
+Jones,GRAY,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,82
+Jones,HAWKINS,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,131
+Jones,ETHRIDGE,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,58
+Jones,CLINTON,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,89
+Jones,ROBERTS,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,82
+Jones,DAVIDSON,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,44
+Jones,POPE,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,59
+Jones,BARRON,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,54
+Jones,SANDERS,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,8
+Jones,FINNEY,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,126
+Jones,GRAY,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,367
+Jones,HAWKINS,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,477
+Jones,ETHRIDGE,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,272
+Jones,CLINTON,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,355
+Jones,ROBERTS,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,360
+Jones,DAVIDSON,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,236
+Jones,POPE,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,270
+Jones,BARRON,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,221
+Jones,SANDERS,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,43
+Jones,FINNEY,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,467
+Jones,GRAY,Appeals Court Judge, Miller,,M. YVETTE MILLER ,368
+Jones,HAWKINS,Appeals Court Judge, Miller,,M. YVETTE MILLER ,498
+Jones,ETHRIDGE,Appeals Court Judge, Miller,,M. YVETTE MILLER ,267
+Jones,CLINTON,Appeals Court Judge, Miller,,M. YVETTE MILLER ,353
+Jones,ROBERTS,Appeals Court Judge, Miller,,M. YVETTE MILLER ,359
+Jones,DAVIDSON,Appeals Court Judge, Miller,,M. YVETTE MILLER ,236
+Jones,POPE,Appeals Court Judge, Miller,,M. YVETTE MILLER ,263
+Jones,BARRON,Appeals Court Judge, Miller,,M. YVETTE MILLER ,222
+Jones,SANDERS,Appeals Court Judge, Miller,,M. YVETTE MILLER ,44
+Jones,FINNEY,Appeals Court Judge, Miller,,M. YVETTE MILLER ,465
+Jones,GRAY,Appeals Court Judge, Reese,,CLYDE L. REESE III ,364
+Jones,HAWKINS,Appeals Court Judge, Reese,,CLYDE L. REESE III ,480
+Jones,ETHRIDGE,Appeals Court Judge, Reese,,CLYDE L. REESE III ,262
+Jones,CLINTON,Appeals Court Judge, Reese,,CLYDE L. REESE III ,348
+Jones,ROBERTS,Appeals Court Judge, Reese,,CLYDE L. REESE III ,354
+Jones,DAVIDSON,Appeals Court Judge, Reese,,CLYDE L. REESE III ,233
+Jones,POPE,Appeals Court Judge, Reese,,CLYDE L. REESE III ,262
+Jones,BARRON,Appeals Court Judge, Reese,,CLYDE L. REESE III ,217
+Jones,SANDERS,Appeals Court Judge, Reese,,CLYDE L. REESE III ,45
+Jones,FINNEY,Appeals Court Judge, Reese,,CLYDE L. REESE III ,462
+Jones,GRAY,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,363
+Jones,HAWKINS,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,478
+Jones,ETHRIDGE,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,261
+Jones,CLINTON,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,350
+Jones,ROBERTS,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,358
+Jones,DAVIDSON,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,230
+Jones,POPE,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,259
+Jones,BARRON,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,216
+Jones,SANDERS,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,43
+Jones,FINNEY,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,463
+Jones,GRAY,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,361
+Jones,HAWKINS,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,486
+Jones,ETHRIDGE,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,262
+Jones,CLINTON,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,351
+Jones,ROBERTS,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,358
+Jones,DAVIDSON,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,233
+Jones,POPE,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,261
+Jones,BARRON,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,225
+Jones,SANDERS,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,41
+Jones,FINNEY,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,463
+Jones,GRAY,BOE CHAIRPERSON,,,G. D. BAILEY ,370
+Jones,HAWKINS,BOE CHAIRPERSON,,,G. D. BAILEY ,492
+Jones,ETHRIDGE,BOE CHAIRPERSON,,,G. D. BAILEY ,263
+Jones,CLINTON,BOE CHAIRPERSON,,,G. D. BAILEY ,357
+Jones,ROBERTS,BOE CHAIRPERSON,,,G. D. BAILEY ,361
+Jones,DAVIDSON,BOE CHAIRPERSON,,,G. D. BAILEY ,244
+Jones,POPE,BOE CHAIRPERSON,,,G. D. BAILEY ,272
+Jones,BARRON,BOE CHAIRPERSON,,,G. D. BAILEY ,224
+Jones,SANDERS,BOE CHAIRPERSON,,,G. D. BAILEY ,42
+Jones,FINNEY,BOE CHAIRPERSON,,,G. D. BAILEY ,472
+Jones,GRAY,BOE D1,,,M. GORDON,14
+Jones,ETHRIDGE,BOE D1,,,M. GORDON,48
+Jones,CLINTON,BOE D1,,,M. GORDON,181
+Jones,BARRON,BOE D1,,,M. GORDON,80
+Jones,SANDERS,BOE D1,,,M. GORDON,22
+Jones,FINNEY,BOE D1,,,M. GORDON,378
+Jones,GRAY,BOE D1,,,K. L. HAMILTON ,20
+Jones,ETHRIDGE,BOE D1,,,K. L. HAMILTON ,40
+Jones,CLINTON,BOE D1,,,K. L. HAMILTON ,130
+Jones,BARRON,BOE D1,,,K. L. HAMILTON ,44
+Jones,SANDERS,BOE D1,,,K. L. HAMILTON ,26
+Jones,FINNEY,BOE D1,,,K. L. HAMILTON ,166
+Jones,GRAY,BOE D3,,,N. G. NASH ,296
+Jones,HAWKINS,BOE D3,,,N. G. NASH ,187
+Jones,ETHRIDGE,BOE D3,,,N. G. NASH ,55
+Jones,ROBERTS,BOE D3,,,N. G. NASH ,48
+Jones,DAVIDSON,BOE D3,,,N. G. NASH ,194
+Jones,POPE,BOE D3,,,N. G. NASH ,6
+Jones,GRAY,MIDDLE GEORGIA TSPLOST,,,YES,217
+Jones,HAWKINS,MIDDLE GEORGIA TSPLOST,,,YES,328
+Jones,ETHRIDGE,MIDDLE GEORGIA TSPLOST,,,YES,168
+Jones,CLINTON,MIDDLE GEORGIA TSPLOST,,,YES,211
+Jones,ROBERTS,MIDDLE GEORGIA TSPLOST,,,YES,195
+Jones,DAVIDSON,MIDDLE GEORGIA TSPLOST,,,YES,131
+Jones,POPE,MIDDLE GEORGIA TSPLOST,,,YES,148
+Jones,BARRON,MIDDLE GEORGIA TSPLOST,,,YES,138
+Jones,SANDERS,MIDDLE GEORGIA TSPLOST,,,YES,17
+Jones,FINNEY,MIDDLE GEORGIA TSPLOST,,,YES,270
+Jones,GRAY,MIDDLE GEORGIA TSPLOST,,,NO,253
+Jones,HAWKINS,MIDDLE GEORGIA TSPLOST,,,NO,266
+Jones,ETHRIDGE,MIDDLE GEORGIA TSPLOST,,,NO,164
+Jones,CLINTON,MIDDLE GEORGIA TSPLOST,,,NO,231
+Jones,ROBERTS,MIDDLE GEORGIA TSPLOST,,,NO,232
+Jones,DAVIDSON,MIDDLE GEORGIA TSPLOST,,,NO,167
+Jones,POPE,MIDDLE GEORGIA TSPLOST,,,NO,201
+Jones,BARRON,MIDDLE GEORGIA TSPLOST,,,NO,159
+Jones,SANDERS,MIDDLE GEORGIA TSPLOST,,,NO,35
+Jones,FINNEY,MIDDLE GEORGIA TSPLOST,,,NO,322

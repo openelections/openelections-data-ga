@@ -1,0 +1,530 @@
+county,precinct,office,district,party,candidate,votes
+Elbert,Elberton,Governor,,REP,BRIAN KEMP,1130
+Elbert,Longstreet,Governor,,REP,BRIAN KEMP,302
+Elbert,Eliam,Governor,,REP,BRIAN KEMP,423
+Elbert,Petersburg,Governor,,REP,BRIAN KEMP,200
+Elbert,Wyche,Governor,,REP,BRIAN KEMP,535
+Elbert,Moss-Ruckersville,Governor,,REP,BRIAN KEMP,200
+Elbert,Pike,Governor,,REP,BRIAN KEMP,605
+Elbert,Gaines,Governor,,REP,BRIAN KEMP,298
+Elbert,Goshen,Governor,,REP,BRIAN KEMP,758
+Elbert,Webbsboro,Governor,,REP,BRIAN KEMP,214
+Elbert,Centerville,Governor,,REP,BRIAN KEMP,487
+Elbert,Elberton,Governor,,DEM,STACEY ABRAMS,994
+Elbert,Longstreet,Governor,,DEM,STACEY ABRAMS,81
+Elbert,Eliam,Governor,,DEM,STACEY ABRAMS,85
+Elbert,Petersburg,Governor,,DEM,STACEY ABRAMS,33
+Elbert,Wyche,Governor,,DEM,STACEY ABRAMS,211
+Elbert,Moss-Ruckersville,Governor,,DEM,STACEY ABRAMS,71
+Elbert,Pike,Governor,,DEM,STACEY ABRAMS,339
+Elbert,Gaines,Governor,,DEM,STACEY ABRAMS,40
+Elbert,Goshen,Governor,,DEM,STACEY ABRAMS,174
+Elbert,Webbsboro,Governor,,DEM,STACEY ABRAMS,53
+Elbert,Centerville,Governor,,DEM,STACEY ABRAMS,113
+Elbert,Elberton,Governor,,LIB,TED METZ,8
+Elbert,Longstreet,Governor,,LIB,TED METZ,0
+Elbert,Eliam,Governor,,LIB,TED METZ,5
+Elbert,Petersburg,Governor,,LIB,TED METZ,2
+Elbert,Wyche,Governor,,LIB,TED METZ,3
+Elbert,Moss-Ruckersville,Governor,,LIB,TED METZ,4
+Elbert,Pike,Governor,,LIB,TED METZ,5
+Elbert,Gaines,Governor,,LIB,TED METZ,4
+Elbert,Goshen,Governor,,LIB,TED METZ,2
+Elbert,Webbsboro,Governor,,LIB,TED METZ,3
+Elbert,Centerville,Governor,,LIB,TED METZ,6
+Elbert,Elberton,Lieutenant Governor,,REP,GEOFF DUNCAN,1086
+Elbert,Longstreet,Lieutenant Governor,,REP,GEOFF DUNCAN,289
+Elbert,Eliam,Lieutenant Governor,,REP,GEOFF DUNCAN,408
+Elbert,Petersburg,Lieutenant Governor,,REP,GEOFF DUNCAN,191
+Elbert,Wyche,Lieutenant Governor,,REP,GEOFF DUNCAN,512
+Elbert,Moss-Ruckersville,Lieutenant Governor,,REP,GEOFF DUNCAN,195
+Elbert,Pike,Lieutenant Governor,,REP,GEOFF DUNCAN,592
+Elbert,Gaines,Lieutenant Governor,,REP,GEOFF DUNCAN,284
+Elbert,Goshen,Lieutenant Governor,,REP,GEOFF DUNCAN,735
+Elbert,Webbsboro,Lieutenant Governor,,REP,GEOFF DUNCAN,207
+Elbert,Centerville,Lieutenant Governor,,REP,GEOFF DUNCAN,471
+Elbert,Elberton,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,905
+Elbert,Longstreet,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,79
+Elbert,Eliam,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,79
+Elbert,Petersburg,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,34
+Elbert,Wyche,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,195
+Elbert,Moss-Ruckersville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,68
+Elbert,Pike,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,324
+Elbert,Gaines,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,41
+Elbert,Goshen,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,172
+Elbert,Webbsboro,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,54
+Elbert,Centerville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,102
+Elbert,Elberton,Secretary Of State,,REP,BRAD RAFFENSPERGER,1077
+Elbert,Longstreet,Secretary Of State,,REP,BRAD RAFFENSPERGER,289
+Elbert,Eliam,Secretary Of State,,REP,BRAD RAFFENSPERGER,407
+Elbert,Petersburg,Secretary Of State,,REP,BRAD RAFFENSPERGER,185
+Elbert,Wyche,Secretary Of State,,REP,BRAD RAFFENSPERGER,508
+Elbert,Moss-Ruckersville,Secretary Of State,,REP,BRAD RAFFENSPERGER,185
+Elbert,Pike,Secretary Of State,,REP,BRAD RAFFENSPERGER,579
+Elbert,Gaines,Secretary Of State,,REP,BRAD RAFFENSPERGER,282
+Elbert,Goshen,Secretary Of State,,REP,BRAD RAFFENSPERGER,724
+Elbert,Webbsboro,Secretary Of State,,REP,BRAD RAFFENSPERGER,202
+Elbert,Centerville,Secretary Of State,,REP,BRAD RAFFENSPERGER,474
+Elbert,Elberton,Secretary Of State,,DEM,JOHN BARROW,982
+Elbert,Longstreet,Secretary Of State,,DEM,JOHN BARROW,87
+Elbert,Eliam,Secretary Of State,,DEM,JOHN BARROW,88
+Elbert,Petersburg,Secretary Of State,,DEM,JOHN BARROW,42
+Elbert,Wyche,Secretary Of State,,DEM,JOHN BARROW,225
+Elbert,Moss-Ruckersville,Secretary Of State,,DEM,JOHN BARROW,75
+Elbert,Pike,Secretary Of State,,DEM,JOHN BARROW,347
+Elbert,Gaines,Secretary Of State,,DEM,JOHN BARROW,49
+Elbert,Goshen,Secretary Of State,,DEM,JOHN BARROW,189
+Elbert,Webbsboro,Secretary Of State,,DEM,JOHN BARROW,61
+Elbert,Centerville,Secretary Of State,,DEM,JOHN BARROW,113
+Elbert,Elberton,Secretary Of State,,LIB,SMYTHE DUVAL,22
+Elbert,Longstreet,Secretary Of State,,LIB,SMYTHE DUVAL,1
+Elbert,Eliam,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Elbert,Petersburg,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Elbert,Wyche,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Elbert,Moss-Ruckersville,Secretary Of State,,LIB,SMYTHE DUVAL,5
+Elbert,Pike,Secretary Of State,,LIB,SMYTHE DUVAL,8
+Elbert,Gaines,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Elbert,Goshen,Secretary Of State,,LIB,SMYTHE DUVAL,4
+Elbert,Webbsboro,Secretary Of State,,LIB,SMYTHE DUVAL,4
+Elbert,Centerville,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Elbert,Elberton,Attorney General,,(REP,CHRIS CARR ,1122
+Elbert,Longstreet,Attorney General,,(REP,CHRIS CARR ,283
+Elbert,Eliam,Attorney General,,(REP,CHRIS CARR ,415
+Elbert,Petersburg,Attorney General,,(REP,CHRIS CARR ,186
+Elbert,Wyche,Attorney General,,(REP,CHRIS CARR ,516
+Elbert,Moss-Ruckersville,Attorney General,,(REP,CHRIS CARR ,197
+Elbert,Pike,Attorney General,,(REP,CHRIS CARR ,595
+Elbert,Gaines,Attorney General,,(REP,CHRIS CARR ,286
+Elbert,Goshen,Attorney General,,(REP,CHRIS CARR ,736
+Elbert,Webbsboro,Attorney General,,(REP,CHRIS CARR ,206
+Elbert,Centerville,Attorney General,,(REP,CHRIS CARR ,476
+Elbert,Elberton,Attorney General,,DEM,CHARLIE BAILEY,954
+Elbert,Longstreet,Attorney General,,DEM,CHARLIE BAILEY,91
+Elbert,Eliam,Attorney General,,DEM,CHARLIE BAILEY,84
+Elbert,Petersburg,Attorney General,,DEM,CHARLIE BAILEY,41
+Elbert,Wyche,Attorney General,,DEM,CHARLIE BAILEY,215
+Elbert,Moss-Ruckersville,Attorney General,,DEM,CHARLIE BAILEY,70
+Elbert,Pike,Attorney General,,DEM,CHARLIE BAILEY,333
+Elbert,Gaines,Attorney General,,DEM,CHARLIE BAILEY,46
+Elbert,Goshen,Attorney General,,DEM,CHARLIE BAILEY,179
+Elbert,Webbsboro,Attorney General,,DEM,CHARLIE BAILEY,59
+Elbert,Centerville,Attorney General,,DEM,CHARLIE BAILEY,116
+Elbert,Elberton,Commissioner Of Agriculture,,(REP,GARY BLACK ,1145
+Elbert,Longstreet,Commissioner Of Agriculture,,(REP,GARY BLACK ,294
+Elbert,Eliam,Commissioner Of Agriculture,,(REP,GARY BLACK ,419
+Elbert,Petersburg,Commissioner Of Agriculture,,(REP,GARY BLACK ,186
+Elbert,Wyche,Commissioner Of Agriculture,,(REP,GARY BLACK ,528
+Elbert,Moss-Ruckersville,Commissioner Of Agriculture,,(REP,GARY BLACK ,198
+Elbert,Pike,Commissioner Of Agriculture,,(REP,GARY BLACK ,599
+Elbert,Gaines,Commissioner Of Agriculture,,(REP,GARY BLACK ,293
+Elbert,Goshen,Commissioner Of Agriculture,,(REP,GARY BLACK ,745
+Elbert,Webbsboro,Commissioner Of Agriculture,,(REP,GARY BLACK ,213
+Elbert,Centerville,Commissioner Of Agriculture,,(REP,GARY BLACK ,484
+Elbert,Elberton,Commissioner Of Agriculture,,DEM,FRED SWANN,926
+Elbert,Longstreet,Commissioner Of Agriculture,,DEM,FRED SWANN,77
+Elbert,Eliam,Commissioner Of Agriculture,,DEM,FRED SWANN,76
+Elbert,Petersburg,Commissioner Of Agriculture,,DEM,FRED SWANN,38
+Elbert,Wyche,Commissioner Of Agriculture,,DEM,FRED SWANN,198
+Elbert,Moss-Ruckersville,Commissioner Of Agriculture,,DEM,FRED SWANN,70
+Elbert,Pike,Commissioner Of Agriculture,,DEM,FRED SWANN,327
+Elbert,Gaines,Commissioner Of Agriculture,,DEM,FRED SWANN,40
+Elbert,Goshen,Commissioner Of Agriculture,,DEM,FRED SWANN,170
+Elbert,Webbsboro,Commissioner Of Agriculture,,DEM,FRED SWANN,54
+Elbert,Centerville,Commissioner Of Agriculture,,DEM,FRED SWANN,107
+Elbert,Elberton,Commissioner Of Insurance,,REP,JIM BECK,1087
+Elbert,Longstreet,Commissioner Of Insurance,,REP,JIM BECK,285
+Elbert,Eliam,Commissioner Of Insurance,,REP,JIM BECK,419
+Elbert,Petersburg,Commissioner Of Insurance,,REP,JIM BECK,182
+Elbert,Wyche,Commissioner Of Insurance,,REP,JIM BECK,511
+Elbert,Moss-Ruckersville,Commissioner Of Insurance,,REP,JIM BECK,186
+Elbert,Pike,Commissioner Of Insurance,,REP,JIM BECK,581
+Elbert,Gaines,Commissioner Of Insurance,,REP,JIM BECK,282
+Elbert,Goshen,Commissioner Of Insurance,,REP,JIM BECK,738
+Elbert,Webbsboro,Commissioner Of Insurance,,REP,JIM BECK,205
+Elbert,Centerville,Commissioner Of Insurance,,REP,JIM BECK,471
+Elbert,Elberton,Commissioner Of Insurance,,DEM,JANICE LAWS,946
+Elbert,Longstreet,Commissioner Of Insurance,,DEM,JANICE LAWS,87
+Elbert,Eliam,Commissioner Of Insurance,,DEM,JANICE LAWS,82
+Elbert,Petersburg,Commissioner Of Insurance,,DEM,JANICE LAWS,38
+Elbert,Wyche,Commissioner Of Insurance,,DEM,JANICE LAWS,207
+Elbert,Moss-Ruckersville,Commissioner Of Insurance,,DEM,JANICE LAWS,68
+Elbert,Pike,Commissioner Of Insurance,,DEM,JANICE LAWS,335
+Elbert,Gaines,Commissioner Of Insurance,,DEM,JANICE LAWS,41
+Elbert,Goshen,Commissioner Of Insurance,,DEM,JANICE LAWS,171
+Elbert,Webbsboro,Commissioner Of Insurance,,DEM,JANICE LAWS,55
+Elbert,Centerville,Commissioner Of Insurance,,DEM,JANICE LAWS,108
+Elbert,Elberton,Commissioner Of Insurance,,LIB,DONNIE FOSTER,31
+Elbert,Longstreet,Commissioner Of Insurance,,LIB,DONNIE FOSTER,5
+Elbert,Eliam,Commissioner Of Insurance,,LIB,DONNIE FOSTER,3
+Elbert,Petersburg,Commissioner Of Insurance,,LIB,DONNIE FOSTER,4
+Elbert,Wyche,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Elbert,Moss-Ruckersville,Commissioner Of Insurance,,LIB,DONNIE FOSTER,10
+Elbert,Pike,Commissioner Of Insurance,,LIB,DONNIE FOSTER,15
+Elbert,Gaines,Commissioner Of Insurance,,LIB,DONNIE FOSTER,6
+Elbert,Goshen,Commissioner Of Insurance,,LIB,DONNIE FOSTER,10
+Elbert,Webbsboro,Commissioner Of Insurance,,LIB,DONNIE FOSTER,8
+Elbert,Centerville,Commissioner Of Insurance,,LIB,DONNIE FOSTER,13
+Elbert,Elberton,State School Superintendent,,(REP,RICHARD WOODS ,996
+Elbert,Longstreet,State School Superintendent,,(REP,RICHARD WOODS ,278
+Elbert,Eliam,State School Superintendent,,(REP,RICHARD WOODS ,386
+Elbert,Petersburg,State School Superintendent,,(REP,RICHARD WOODS ,182
+Elbert,Wyche,State School Superintendent,,(REP,RICHARD WOODS ,464
+Elbert,Moss-Ruckersville,State School Superintendent,,(REP,RICHARD WOODS ,186
+Elbert,Pike,State School Superintendent,,(REP,RICHARD WOODS ,547
+Elbert,Gaines,State School Superintendent,,(REP,RICHARD WOODS ,274
+Elbert,Goshen,State School Superintendent,,(REP,RICHARD WOODS ,703
+Elbert,Webbsboro,State School Superintendent,,(REP,RICHARD WOODS ,196
+Elbert,Centerville,State School Superintendent,,(REP,RICHARD WOODS ,458
+Elbert,Elberton,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1110
+Elbert,Longstreet,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",103
+Elbert,Eliam,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",114
+Elbert,Petersburg,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",47
+Elbert,Wyche,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",276
+Elbert,Moss-Ruckersville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",85
+Elbert,Pike,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",394
+Elbert,Gaines,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",60
+Elbert,Goshen,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",229
+Elbert,Webbsboro,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",72
+Elbert,Centerville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",138
+Elbert,Elberton,Commissioner Of Labor,,(REP,MARK BUTLER ,1113
+Elbert,Longstreet,Commissioner Of Labor,,(REP,MARK BUTLER ,293
+Elbert,Eliam,Commissioner Of Labor,,(REP,MARK BUTLER ,417
+Elbert,Petersburg,Commissioner Of Labor,,(REP,MARK BUTLER ,186
+Elbert,Wyche,Commissioner Of Labor,,(REP,MARK BUTLER ,520
+Elbert,Moss-Ruckersville,Commissioner Of Labor,,(REP,MARK BUTLER ,194
+Elbert,Pike,Commissioner Of Labor,,(REP,MARK BUTLER ,594
+Elbert,Gaines,Commissioner Of Labor,,(REP,MARK BUTLER ,288
+Elbert,Goshen,Commissioner Of Labor,,(REP,MARK BUTLER ,748
+Elbert,Webbsboro,Commissioner Of Labor,,(REP,MARK BUTLER ,208
+Elbert,Centerville,Commissioner Of Labor,,(REP,MARK BUTLER ,480
+Elbert,Elberton,Commissioner Of Labor,,DEM,RICHARD KEATLEY,953
+Elbert,Longstreet,Commissioner Of Labor,,DEM,RICHARD KEATLEY,82
+Elbert,Eliam,Commissioner Of Labor,,DEM,RICHARD KEATLEY,81
+Elbert,Petersburg,Commissioner Of Labor,,DEM,RICHARD KEATLEY,39
+Elbert,Wyche,Commissioner Of Labor,,DEM,RICHARD KEATLEY,210
+Elbert,Moss-Ruckersville,Commissioner Of Labor,,DEM,RICHARD KEATLEY,72
+Elbert,Pike,Commissioner Of Labor,,DEM,RICHARD KEATLEY,328
+Elbert,Gaines,Commissioner Of Labor,,DEM,RICHARD KEATLEY,42
+Elbert,Goshen,Commissioner Of Labor,,DEM,RICHARD KEATLEY,174
+Elbert,Webbsboro,Commissioner Of Labor,,DEM,RICHARD KEATLEY,59
+Elbert,Centerville,Commissioner Of Labor,,DEM,RICHARD KEATLEY,115
+Elbert,Elberton,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1077
+Elbert,Longstreet,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,291
+Elbert,Eliam,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,409
+Elbert,Petersburg,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,184
+Elbert,Wyche,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,510
+Elbert,Moss-Ruckersville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,188
+Elbert,Pike,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,578
+Elbert,Gaines,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,280
+Elbert,Goshen,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,734
+Elbert,Webbsboro,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,201
+Elbert,Centerville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,470
+Elbert,Elberton,"Public Service Commission, District 3",3,DEM,LINDY MILLER,955
+Elbert,Longstreet,"Public Service Commission, District 3",3,DEM,LINDY MILLER,83
+Elbert,Eliam,"Public Service Commission, District 3",3,DEM,LINDY MILLER,82
+Elbert,Petersburg,"Public Service Commission, District 3",3,DEM,LINDY MILLER,38
+Elbert,Wyche,"Public Service Commission, District 3",3,DEM,LINDY MILLER,213
+Elbert,Moss-Ruckersville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,70
+Elbert,Pike,"Public Service Commission, District 3",3,DEM,LINDY MILLER,331
+Elbert,Gaines,"Public Service Commission, District 3",3,DEM,LINDY MILLER,43
+Elbert,Goshen,"Public Service Commission, District 3",3,DEM,LINDY MILLER,175
+Elbert,Webbsboro,"Public Service Commission, District 3",3,DEM,LINDY MILLER,57
+Elbert,Centerville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,106
+Elbert,Elberton,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,28
+Elbert,Longstreet,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,6
+Elbert,Eliam,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,5
+Elbert,Petersburg,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Elbert,Wyche,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,6
+Elbert,Moss-Ruckersville,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,7
+Elbert,Pike,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Elbert,Gaines,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,8
+Elbert,Goshen,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,13
+Elbert,Webbsboro,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,7
+Elbert,Centerville,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Elbert,Elberton,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1087
+Elbert,Longstreet,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,284
+Elbert,Eliam,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,407
+Elbert,Petersburg,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,184
+Elbert,Wyche,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,511
+Elbert,Moss-Ruckersville,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,186
+Elbert,Pike,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,568
+Elbert,Gaines,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,275
+Elbert,Goshen,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,728
+Elbert,Webbsboro,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,204
+Elbert,Centerville,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,460
+Elbert,Elberton,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,934
+Elbert,Longstreet,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,88
+Elbert,Eliam,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,84
+Elbert,Petersburg,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,40
+Elbert,Wyche,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,210
+Elbert,Moss-Ruckersville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,73
+Elbert,Pike,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,336
+Elbert,Gaines,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,44
+Elbert,Goshen,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,180
+Elbert,Webbsboro,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,59
+Elbert,Centerville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,113
+Elbert,Elberton,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
+Elbert,Longstreet,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,5
+Elbert,Eliam,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,6
+Elbert,Petersburg,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,2
+Elbert,Wyche,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,8
+Elbert,Moss-Ruckersville,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
+Elbert,Pike,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,17
+Elbert,Gaines,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,5
+Elbert,Goshen,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,9
+Elbert,Webbsboro,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,5
+Elbert,Centerville,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,15
+Elbert,Elberton,U.S. Representative,9,(REP,DOUG COLLINS ,1111
+Elbert,Longstreet,U.S. Representative,9,(REP,DOUG COLLINS ,293
+Elbert,Eliam,U.S. Representative,9,(REP,DOUG COLLINS ,419
+Elbert,Petersburg,U.S. Representative,9,(REP,DOUG COLLINS ,190
+Elbert,Wyche,U.S. Representative,9,(REP,DOUG COLLINS ,527
+Elbert,Moss-Ruckersville,U.S. Representative,9,(REP,DOUG COLLINS ,195
+Elbert,Pike,U.S. Representative,9,(REP,DOUG COLLINS ,591
+Elbert,Gaines,U.S. Representative,9,(REP,DOUG COLLINS ,292
+Elbert,Goshen,U.S. Representative,9,(REP,DOUG COLLINS ,740
+Elbert,Webbsboro,U.S. Representative,9,(REP,DOUG COLLINS ,214
+Elbert,Centerville,U.S. Representative,9,(REP,DOUG COLLINS ,483
+Elbert,Elberton,U.S. Representative,9,DEM,JOSH MCCALL,983
+Elbert,Longstreet,U.S. Representative,9,DEM,JOSH MCCALL,86
+Elbert,Eliam,U.S. Representative,9,DEM,JOSH MCCALL,83
+Elbert,Petersburg,U.S. Representative,9,DEM,JOSH MCCALL,41
+Elbert,Wyche,U.S. Representative,9,DEM,JOSH MCCALL,208
+Elbert,Moss-Ruckersville,U.S. Representative,9,DEM,JOSH MCCALL,76
+Elbert,Pike,U.S. Representative,9,DEM,JOSH MCCALL,339
+Elbert,Gaines,U.S. Representative,9,DEM,JOSH MCCALL,42
+Elbert,Goshen,U.S. Representative,9,DEM,JOSH MCCALL,184
+Elbert,Webbsboro,U.S. Representative,9,DEM,JOSH MCCALL,54
+Elbert,Centerville,U.S. Representative,9,DEM,JOSH MCCALL,111
+Elbert,Elberton,State Senator,24,(REP,LEE ANDERSON ,1521
+Elbert,Longstreet,State Senator,24,(REP,LEE ANDERSON ,323
+Elbert,Eliam,State Senator,24,(REP,LEE ANDERSON ,443
+Elbert,Petersburg,State Senator,24,(REP,LEE ANDERSON ,209
+Elbert,Wyche,State Senator,24,(REP,LEE ANDERSON ,615
+Elbert,Moss-Ruckersville,State Senator,24,(REP,LEE ANDERSON ,222
+Elbert,Pike,State Senator,24,(REP,LEE ANDERSON ,740
+Elbert,Gaines,State Senator,24,(REP,LEE ANDERSON ,298
+Elbert,Goshen,State Senator,24,(REP,LEE ANDERSON ,810
+Elbert,Webbsboro,State Senator,24,(REP,LEE ANDERSON ,239
+Elbert,Centerville,State Senator,24,(REP,LEE ANDERSON ,534
+Elbert,Elberton,State Representative,33,(REP,TOM MCCALL ,1617
+Elbert,Longstreet,State Representative,33,(REP,TOM MCCALL ,338
+Elbert,Eliam,State Representative,33,(REP,TOM MCCALL ,457
+Elbert,Petersburg,State Representative,33,(REP,TOM MCCALL ,212
+Elbert,Wyche,State Representative,33,(REP,TOM MCCALL ,635
+Elbert,Moss-Ruckersville,State Representative,33,(REP,TOM MCCALL ,228
+Elbert,Pike,State Representative,33,(REP,TOM MCCALL ,766
+Elbert,Gaines,State Representative,33,(REP,TOM MCCALL ,304
+Elbert,Goshen,State Representative,33,(REP,TOM MCCALL ,826
+Elbert,Webbsboro,State Representative,33,(REP,TOM MCCALL ,243
+Elbert,Centerville,State Representative,33,(REP,TOM MCCALL ,539
+Elbert,Elberton,Chief Magistrate,,D,L. M. SIMMONS ,1651
+Elbert,Longstreet,Chief Magistrate,,D,L. M. SIMMONS ,263
+Elbert,Eliam,Chief Magistrate,,D,L. M. SIMMONS ,396
+Elbert,Petersburg,Chief Magistrate,,D,L. M. SIMMONS ,150
+Elbert,Wyche,Chief Magistrate,,D,L. M. SIMMONS ,593
+Elbert,Moss-Ruckersville,Chief Magistrate,,D,L. M. SIMMONS ,197
+Elbert,Pike,Chief Magistrate,,D,L. M. SIMMONS ,713
+Elbert,Gaines,Chief Magistrate,,D,L. M. SIMMONS ,207
+Elbert,Goshen,Chief Magistrate,,D,L. M. SIMMONS ,623
+Elbert,Webbsboro,Chief Magistrate,,D,L. M. SIMMONS ,182
+Elbert,Centerville,Chief Magistrate,,D,L. M. SIMMONS ,411
+Elbert,Elberton,County Comm Chair,,R,L. VAUGHN,1139
+Elbert,Longstreet,County Comm Chair,,R,L. VAUGHN,258
+Elbert,Eliam,County Comm Chair,,R,L. VAUGHN,356
+Elbert,Petersburg,County Comm Chair,,R,L. VAUGHN,158
+Elbert,Wyche,County Comm Chair,,R,L. VAUGHN,507
+Elbert,Moss-Ruckersville,County Comm Chair,,R,L. VAUGHN,160
+Elbert,Pike,County Comm Chair,,R,L. VAUGHN,568
+Elbert,Gaines,County Comm Chair,,R,L. VAUGHN,227
+Elbert,Goshen,County Comm Chair,,R,L. VAUGHN,699
+Elbert,Webbsboro,County Comm Chair,,R,L. VAUGHN,190
+Elbert,Centerville,County Comm Chair,,R,L. VAUGHN,410
+Elbert,Elberton,County Comm Chair,,D,T. W. ALLGOOD,934
+Elbert,Longstreet,County Comm Chair,,D,T. W. ALLGOOD,122
+Elbert,Eliam,County Comm Chair,,D,T. W. ALLGOOD,151
+Elbert,Petersburg,County Comm Chair,,D,T. W. ALLGOOD,72
+Elbert,Wyche,County Comm Chair,,D,T. W. ALLGOOD,232
+Elbert,Moss-Ruckersville,County Comm Chair,,D,T. W. ALLGOOD,110
+Elbert,Pike,County Comm Chair,,D,T. W. ALLGOOD,355
+Elbert,Gaines,County Comm Chair,,D,T. W. ALLGOOD,104
+Elbert,Goshen,County Comm Chair,,D,T. W. ALLGOOD,222
+Elbert,Webbsboro,County Comm Chair,,D,T. W. ALLGOOD,76
+Elbert,Centerville,County Comm Chair,,D,T. W. ALLGOOD,179
+Elbert,Eliam,County Comm 2,,R,"C. FREEMAN, JR.",366
+Elbert,Petersburg,County Comm 2,,R,"C. FREEMAN, JR.",181
+Elbert,Wyche,County Comm 2,,R,"C. FREEMAN, JR.",403
+Elbert,Webbsboro,County Comm 2,,R,"C. FREEMAN, JR.",113
+Elbert,Eliam,County Comm 2,,D,K. N. MCCLARY,132
+Elbert,Petersburg,County Comm 2,,D,K. N. MCCLARY,47
+Elbert,Wyche,County Comm 2,,D,K. N. MCCLARY,331
+Elbert,Webbsboro,County Comm 2,,D,K. N. MCCLARY,46
+Elbert,Pike,County Comm 4,,R,K. ASHWORTH ,465
+Elbert,Goshen,County Comm 4,,R,K. ASHWORTH ,792
+Elbert,Webbsboro,County Comm 4,,R,K. ASHWORTH ,90
+Elbert,Elberton,County Comm 5,,D,F. JONES ,652
+Elbert,Pike,County Comm 5,,D,F. JONES ,236
+Elbert,Eliam,BOE 2,,R,B. C. BAKER ,436
+Elbert,Petersburg,BOE 2,,R,B. C. BAKER ,201
+Elbert,Wyche,BOE 2,,R,B. C. BAKER ,598
+Elbert,Webbsboro,BOE 2,,R,B. C. BAKER ,139
+Elbert,Longstreet,BOE 3,,R,S. RUCKER,314
+Elbert,Moss-Ruckersville,BOE 3,,R,S. RUCKER,211
+Elbert,Gaines,BOE 3,,R,S. RUCKER,296
+Elbert,Centerville,BOE 3,,R,S. RUCKER,509
+Elbert,Elberton,BOE 5,,D,T. D. BARNETT ,666
+Elbert,Pike,BOE 5,,D,T. D. BARNETT ,229
+Elbert,Elberton,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1562
+Elbert,Longstreet,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,280
+Elbert,Eliam,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,366
+Elbert,Petersburg,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,168
+Elbert,Wyche,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,512
+Elbert,Moss-Ruckersville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,189
+Elbert,Pike,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,666
+Elbert,Gaines,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,224
+Elbert,Goshen,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,682
+Elbert,Webbsboro,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,214
+Elbert,Centerville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,428
+Elbert,Elberton,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,437
+Elbert,Longstreet,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,87
+Elbert,Eliam,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,114
+Elbert,Petersburg,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,57
+Elbert,Wyche,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,194
+Elbert,Moss-Ruckersville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,71
+Elbert,Pike,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,228
+Elbert,Gaines,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,100
+Elbert,Goshen,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,223
+Elbert,Webbsboro,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,47
+Elbert,Centerville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,149
+Elbert,Elberton,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1282
+Elbert,Longstreet,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,216
+Elbert,Eliam,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,284
+Elbert,Petersburg,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,130
+Elbert,Wyche,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,400
+Elbert,Moss-Ruckersville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,150
+Elbert,Pike,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,515
+Elbert,Gaines,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,177
+Elbert,Goshen,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,512
+Elbert,Webbsboro,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,155
+Elbert,Centerville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,350
+Elbert,Elberton,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,656
+Elbert,Longstreet,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,129
+Elbert,Eliam,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,178
+Elbert,Petersburg,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,88
+Elbert,Wyche,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,285
+Elbert,Moss-Ruckersville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,110
+Elbert,Pike,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,360
+Elbert,Gaines,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,132
+Elbert,Goshen,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,363
+Elbert,Webbsboro,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,96
+Elbert,Centerville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,211
+Elbert,Elberton,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1074
+Elbert,Longstreet,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,175
+Elbert,Eliam,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,250
+Elbert,Petersburg,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,121
+Elbert,Wyche,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,348
+Elbert,Moss-Ruckersville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,125
+Elbert,Pike,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,446
+Elbert,Gaines,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,146
+Elbert,Goshen,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,452
+Elbert,Webbsboro,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,137
+Elbert,Centerville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,298
+Elbert,Elberton,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,842
+Elbert,Longstreet,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,160
+Elbert,Eliam,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,211
+Elbert,Petersburg,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,97
+Elbert,Wyche,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,329
+Elbert,Moss-Ruckersville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,131
+Elbert,Pike,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,420
+Elbert,Gaines,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,161
+Elbert,Goshen,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,414
+Elbert,Webbsboro,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,110
+Elbert,Centerville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,255
+Elbert,Elberton,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1524
+Elbert,Longstreet,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,251
+Elbert,Eliam,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,342
+Elbert,Petersburg,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,166
+Elbert,Wyche,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,481
+Elbert,Moss-Ruckersville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,177
+Elbert,Pike,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,601
+Elbert,Gaines,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,223
+Elbert,Goshen,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,618
+Elbert,Webbsboro,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,195
+Elbert,Centerville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,385
+Elbert,Elberton,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,458
+Elbert,Longstreet,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,99
+Elbert,Eliam,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,137
+Elbert,Petersburg,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,60
+Elbert,Wyche,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,215
+Elbert,Moss-Ruckersville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,84
+Elbert,Pike,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,279
+Elbert,Gaines,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,88
+Elbert,Goshen,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,262
+Elbert,Webbsboro,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,59
+Elbert,Centerville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,176
+Elbert,Elberton,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1279
+Elbert,Longstreet,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,205
+Elbert,Eliam,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,287
+Elbert,Petersburg,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,140
+Elbert,Wyche,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,419
+Elbert,Moss-Ruckersville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,150
+Elbert,Pike,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,511
+Elbert,Gaines,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,177
+Elbert,Goshen,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,534
+Elbert,Webbsboro,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,144
+Elbert,Centerville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,333
+Elbert,Elberton,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,664
+Elbert,Longstreet,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,139
+Elbert,Eliam,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,183
+Elbert,Petersburg,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,78
+Elbert,Wyche,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,258
+Elbert,Moss-Ruckersville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,106
+Elbert,Pike,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,360
+Elbert,Gaines,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,133
+Elbert,Goshen,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,342
+Elbert,Webbsboro,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,104
+Elbert,Centerville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,222
+Elbert,Elberton,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1005
+Elbert,Longstreet,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,163
+Elbert,Eliam,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,219
+Elbert,Petersburg,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,105
+Elbert,Wyche,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,337
+Elbert,Moss-Ruckersville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,117
+Elbert,Pike,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,407
+Elbert,Gaines,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,141
+Elbert,Goshen,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,414
+Elbert,Webbsboro,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,125
+Elbert,Centerville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,273
+Elbert,Elberton,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,895
+Elbert,Longstreet,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,168
+Elbert,Eliam,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,232
+Elbert,Petersburg,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,112
+Elbert,Wyche,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,335
+Elbert,Moss-Ruckersville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,138
+Elbert,Pike,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,453
+Elbert,Gaines,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,168
+Elbert,Goshen,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,443
+Elbert,Webbsboro,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,123
+Elbert,Centerville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,271
+Elbert,Elberton,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1422
+Elbert,Longstreet,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,239
+Elbert,Eliam,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,312
+Elbert,Petersburg,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,134
+Elbert,Wyche,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,446
+Elbert,Moss-Ruckersville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,157
+Elbert,Pike,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,587
+Elbert,Gaines,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,190
+Elbert,Goshen,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,597
+Elbert,Webbsboro,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,162
+Elbert,Centerville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,387
+Elbert,Elberton,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,528
+Elbert,Longstreet,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,113
+Elbert,Eliam,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,156
+Elbert,Petersburg,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,86
+Elbert,Wyche,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,239
+Elbert,Moss-Ruckersville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,103
+Elbert,Pike,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,299
+Elbert,Gaines,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,131
+Elbert,Goshen,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,280
+Elbert,Webbsboro,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,92
+Elbert,Centerville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,179

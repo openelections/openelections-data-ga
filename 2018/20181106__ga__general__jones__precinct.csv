@@ -1,0 +1,435 @@
+county,precinct,office,district,party,candidate,votes
+Jones,GRAY,Governor,,REP,BRIAN KEMP,1360
+Jones,HAWKINS,Governor,,REP,BRIAN KEMP,702
+Jones,ETHRIDGE,Governor,,REP,BRIAN KEMP,703
+Jones,CLINTON,Governor,,REP,BRIAN KEMP,1174
+Jones,ROBERTS,Governor,,REP,BRIAN KEMP,931
+Jones,DAVIDSON,Governor,,REP,BRIAN KEMP,831
+Jones,POPE,Governor,,REP,BRIAN KEMP,771
+Jones,BARRON,Governor,,REP,BRIAN KEMP,623
+Jones,SANDERS,Governor,,REP,BRIAN KEMP,91
+Jones,FINNEY,Governor,,REP,BRIAN KEMP,1252
+Jones,GRAY,Governor,,DEM,STACEY ABRAMS,418
+Jones,HAWKINS,Governor,,DEM,STACEY ABRAMS,1153
+Jones,ETHRIDGE,Governor,,DEM,STACEY ABRAMS,378
+Jones,CLINTON,Governor,,DEM,STACEY ABRAMS,333
+Jones,ROBERTS,Governor,,DEM,STACEY ABRAMS,476
+Jones,DAVIDSON,Governor,,DEM,STACEY ABRAMS,147
+Jones,POPE,Governor,,DEM,STACEY ABRAMS,368
+Jones,BARRON,Governor,,DEM,STACEY ABRAMS,230
+Jones,SANDERS,Governor,,DEM,STACEY ABRAMS,24
+Jones,FINNEY,Governor,,DEM,STACEY ABRAMS,411
+Jones,GRAY,Governor,,LIB,TED METZ,9
+Jones,HAWKINS,Governor,,LIB,TED METZ,9
+Jones,ETHRIDGE,Governor,,LIB,TED METZ,5
+Jones,CLINTON,Governor,,LIB,TED METZ,4
+Jones,ROBERTS,Governor,,LIB,TED METZ,11
+Jones,DAVIDSON,Governor,,LIB,TED METZ,5
+Jones,POPE,Governor,,LIB,TED METZ,2
+Jones,BARRON,Governor,,LIB,TED METZ,4
+Jones,SANDERS,Governor,,LIB,TED METZ,1
+Jones,FINNEY,Governor,,LIB,TED METZ,15
+Jones,GRAY,Lieutenant Governor,,REP,GEOFF DUNCAN,1303
+Jones,HAWKINS,Lieutenant Governor,,REP,GEOFF DUNCAN,667
+Jones,ETHRIDGE,Lieutenant Governor,,REP,GEOFF DUNCAN,689
+Jones,CLINTON,Lieutenant Governor,,REP,GEOFF DUNCAN,1129
+Jones,ROBERTS,Lieutenant Governor,,REP,GEOFF DUNCAN,890
+Jones,DAVIDSON,Lieutenant Governor,,REP,GEOFF DUNCAN,792
+Jones,POPE,Lieutenant Governor,,REP,GEOFF DUNCAN,741
+Jones,BARRON,Lieutenant Governor,,REP,GEOFF DUNCAN,602
+Jones,SANDERS,Lieutenant Governor,,REP,GEOFF DUNCAN,85
+Jones,FINNEY,Lieutenant Governor,,REP,GEOFF DUNCAN,1216
+Jones,GRAY,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,421
+Jones,HAWKINS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1124
+Jones,ETHRIDGE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,354
+Jones,CLINTON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,326
+Jones,ROBERTS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,458
+Jones,DAVIDSON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,156
+Jones,POPE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,339
+Jones,BARRON,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,222
+Jones,SANDERS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,23
+Jones,FINNEY,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,410
+Jones,GRAY,Secretary Of State,,REP,BRAD RAFFENSPERGER,1279
+Jones,HAWKINS,Secretary Of State,,REP,BRAD RAFFENSPERGER,672
+Jones,ETHRIDGE,Secretary Of State,,REP,BRAD RAFFENSPERGER,661
+Jones,CLINTON,Secretary Of State,,REP,BRAD RAFFENSPERGER,1110
+Jones,ROBERTS,Secretary Of State,,REP,BRAD RAFFENSPERGER,871
+Jones,DAVIDSON,Secretary Of State,,REP,BRAD RAFFENSPERGER,774
+Jones,POPE,Secretary Of State,,REP,BRAD RAFFENSPERGER,727
+Jones,BARRON,Secretary Of State,,REP,BRAD RAFFENSPERGER,600
+Jones,SANDERS,Secretary Of State,,REP,BRAD RAFFENSPERGER,85
+Jones,FINNEY,Secretary Of State,,REP,BRAD RAFFENSPERGER,1183
+Jones,GRAY,Secretary Of State,,DEM,JOHN BARROW,461
+Jones,HAWKINS,Secretary Of State,,DEM,JOHN BARROW,1145
+Jones,ETHRIDGE,Secretary Of State,,DEM,JOHN BARROW,396
+Jones,CLINTON,Secretary Of State,,DEM,JOHN BARROW,377
+Jones,ROBERTS,Secretary Of State,,DEM,JOHN BARROW,511
+Jones,DAVIDSON,Secretary Of State,,DEM,JOHN BARROW,177
+Jones,POPE,Secretary Of State,,DEM,JOHN BARROW,374
+Jones,BARRON,Secretary Of State,,DEM,JOHN BARROW,242
+Jones,SANDERS,Secretary Of State,,DEM,JOHN BARROW,26
+Jones,FINNEY,Secretary Of State,,DEM,JOHN BARROW,448
+Jones,GRAY,Secretary Of State,,LIB,SMYTHE DUVAL,18
+Jones,HAWKINS,Secretary Of State,,LIB,SMYTHE DUVAL,21
+Jones,ETHRIDGE,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Jones,CLINTON,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Jones,ROBERTS,Secretary Of State,,LIB,SMYTHE DUVAL,13
+Jones,DAVIDSON,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Jones,POPE,Secretary Of State,,LIB,SMYTHE DUVAL,13
+Jones,BARRON,Secretary Of State,,LIB,SMYTHE DUVAL,10
+Jones,SANDERS,Secretary Of State,,LIB,SMYTHE DUVAL,2
+Jones,FINNEY,Secretary Of State,,LIB,SMYTHE DUVAL,30
+Jones,GRAY,Attorney General,,(REP,CHRIS CARR ,1318
+Jones,HAWKINS,Attorney General,,(REP,CHRIS CARR ,694
+Jones,ETHRIDGE,Attorney General,,(REP,CHRIS CARR ,704
+Jones,CLINTON,Attorney General,,(REP,CHRIS CARR ,1141
+Jones,ROBERTS,Attorney General,,(REP,CHRIS CARR ,904
+Jones,DAVIDSON,Attorney General,,(REP,CHRIS CARR ,803
+Jones,POPE,Attorney General,,(REP,CHRIS CARR ,757
+Jones,BARRON,Attorney General,,(REP,CHRIS CARR ,606
+Jones,SANDERS,Attorney General,,(REP,CHRIS CARR ,90
+Jones,FINNEY,Attorney General,,(REP,CHRIS CARR ,1228
+Jones,GRAY,Attorney General,,DEM,CHARLIE BAILEY,425
+Jones,HAWKINS,Attorney General,,DEM,CHARLIE BAILEY,1130
+Jones,ETHRIDGE,Attorney General,,DEM,CHARLIE BAILEY,366
+Jones,CLINTON,Attorney General,,DEM,CHARLIE BAILEY,354
+Jones,ROBERTS,Attorney General,,DEM,CHARLIE BAILEY,484
+Jones,DAVIDSON,Attorney General,,DEM,CHARLIE BAILEY,166
+Jones,POPE,Attorney General,,DEM,CHARLIE BAILEY,351
+Jones,BARRON,Attorney General,,DEM,CHARLIE BAILEY,236
+Jones,SANDERS,Attorney General,,DEM,CHARLIE BAILEY,22
+Jones,FINNEY,Attorney General,,DEM,CHARLIE BAILEY,421
+Jones,GRAY,Commissioner Of Agriculture,,(REP,GARY BLACK ,1346
+Jones,HAWKINS,Commissioner Of Agriculture,,(REP,GARY BLACK ,707
+Jones,ETHRIDGE,Commissioner Of Agriculture,,(REP,GARY BLACK ,707
+Jones,CLINTON,Commissioner Of Agriculture,,(REP,GARY BLACK ,1152
+Jones,ROBERTS,Commissioner Of Agriculture,,(REP,GARY BLACK ,923
+Jones,DAVIDSON,Commissioner Of Agriculture,,(REP,GARY BLACK ,828
+Jones,POPE,Commissioner Of Agriculture,,(REP,GARY BLACK ,768
+Jones,BARRON,Commissioner Of Agriculture,,(REP,GARY BLACK ,616
+Jones,SANDERS,Commissioner Of Agriculture,,(REP,GARY BLACK ,89
+Jones,FINNEY,Commissioner Of Agriculture,,(REP,GARY BLACK ,1262
+Jones,GRAY,Commissioner Of Agriculture,,DEM,FRED SWANN,401
+Jones,HAWKINS,Commissioner Of Agriculture,,DEM,FRED SWANN,1111
+Jones,ETHRIDGE,Commissioner Of Agriculture,,DEM,FRED SWANN,350
+Jones,CLINTON,Commissioner Of Agriculture,,DEM,FRED SWANN,335
+Jones,ROBERTS,Commissioner Of Agriculture,,DEM,FRED SWANN,460
+Jones,DAVIDSON,Commissioner Of Agriculture,,DEM,FRED SWANN,139
+Jones,POPE,Commissioner Of Agriculture,,DEM,FRED SWANN,335
+Jones,BARRON,Commissioner Of Agriculture,,DEM,FRED SWANN,224
+Jones,SANDERS,Commissioner Of Agriculture,,DEM,FRED SWANN,24
+Jones,FINNEY,Commissioner Of Agriculture,,DEM,FRED SWANN,389
+Jones,GRAY,Commissioner Of Insurance,,REP,JIM BECK,1321
+Jones,HAWKINS,Commissioner Of Insurance,,REP,JIM BECK,691
+Jones,ETHRIDGE,Commissioner Of Insurance,,REP,JIM BECK,695
+Jones,CLINTON,Commissioner Of Insurance,,REP,JIM BECK,1139
+Jones,ROBERTS,Commissioner Of Insurance,,REP,JIM BECK,907
+Jones,DAVIDSON,Commissioner Of Insurance,,REP,JIM BECK,794
+Jones,POPE,Commissioner Of Insurance,,REP,JIM BECK,745
+Jones,BARRON,Commissioner Of Insurance,,REP,JIM BECK,611
+Jones,SANDERS,Commissioner Of Insurance,,REP,JIM BECK,87
+Jones,FINNEY,Commissioner Of Insurance,,REP,JIM BECK,1225
+Jones,GRAY,Commissioner Of Insurance,,DEM,JANICE LAWS,400
+Jones,HAWKINS,Commissioner Of Insurance,,DEM,JANICE LAWS,1116
+Jones,ETHRIDGE,Commissioner Of Insurance,,DEM,JANICE LAWS,359
+Jones,CLINTON,Commissioner Of Insurance,,DEM,JANICE LAWS,334
+Jones,ROBERTS,Commissioner Of Insurance,,DEM,JANICE LAWS,463
+Jones,DAVIDSON,Commissioner Of Insurance,,DEM,JANICE LAWS,148
+Jones,POPE,Commissioner Of Insurance,,DEM,JANICE LAWS,347
+Jones,BARRON,Commissioner Of Insurance,,DEM,JANICE LAWS,221
+Jones,SANDERS,Commissioner Of Insurance,,DEM,JANICE LAWS,22
+Jones,FINNEY,Commissioner Of Insurance,,DEM,JANICE LAWS,381
+Jones,GRAY,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
+Jones,HAWKINS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,23
+Jones,ETHRIDGE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
+Jones,CLINTON,Commissioner Of Insurance,,LIB,DONNIE FOSTER,20
+Jones,ROBERTS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,14
+Jones,DAVIDSON,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Jones,POPE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
+Jones,BARRON,Commissioner Of Insurance,,LIB,DONNIE FOSTER,9
+Jones,SANDERS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,2
+Jones,FINNEY,Commissioner Of Insurance,,LIB,DONNIE FOSTER,45
+Jones,GRAY,State School Superintendent,,(REP,RICHARD WOODS ,1360
+Jones,HAWKINS,State School Superintendent,,(REP,RICHARD WOODS ,707
+Jones,ETHRIDGE,State School Superintendent,,(REP,RICHARD WOODS ,706
+Jones,CLINTON,State School Superintendent,,(REP,RICHARD WOODS ,1161
+Jones,ROBERTS,State School Superintendent,,(REP,RICHARD WOODS ,931
+Jones,DAVIDSON,State School Superintendent,,(REP,RICHARD WOODS ,822
+Jones,POPE,State School Superintendent,,(REP,RICHARD WOODS ,768
+Jones,BARRON,State School Superintendent,,(REP,RICHARD WOODS ,619
+Jones,SANDERS,State School Superintendent,,(REP,RICHARD WOODS ,89
+Jones,FINNEY,State School Superintendent,,(REP,RICHARD WOODS ,1267
+Jones,GRAY,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",398
+Jones,HAWKINS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1121
+Jones,ETHRIDGE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",360
+Jones,CLINTON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",326
+Jones,ROBERTS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",461
+Jones,DAVIDSON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",144
+Jones,POPE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",343
+Jones,BARRON,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",223
+Jones,SANDERS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",26
+Jones,FINNEY,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",384
+Jones,GRAY,Commissioner Of Labor,,(REP,MARK BUTLER ,1333
+Jones,HAWKINS,Commissioner Of Labor,,(REP,MARK BUTLER ,706
+Jones,ETHRIDGE,Commissioner Of Labor,,(REP,MARK BUTLER ,699
+Jones,CLINTON,Commissioner Of Labor,,(REP,MARK BUTLER ,1152
+Jones,ROBERTS,Commissioner Of Labor,,(REP,MARK BUTLER ,919
+Jones,DAVIDSON,Commissioner Of Labor,,(REP,MARK BUTLER ,816
+Jones,POPE,Commissioner Of Labor,,(REP,MARK BUTLER ,757
+Jones,BARRON,Commissioner Of Labor,,(REP,MARK BUTLER ,612
+Jones,SANDERS,Commissioner Of Labor,,(REP,MARK BUTLER ,91
+Jones,FINNEY,Commissioner Of Labor,,(REP,MARK BUTLER ,1250
+Jones,GRAY,Commissioner Of Labor,,DEM,RICHARD KEATLEY,415
+Jones,HAWKINS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1123
+Jones,ETHRIDGE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,363
+Jones,CLINTON,Commissioner Of Labor,,DEM,RICHARD KEATLEY,330
+Jones,ROBERTS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,465
+Jones,DAVIDSON,Commissioner Of Labor,,DEM,RICHARD KEATLEY,147
+Jones,POPE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,347
+Jones,BARRON,Commissioner Of Labor,,DEM,RICHARD KEATLEY,225
+Jones,SANDERS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,22
+Jones,FINNEY,Commissioner Of Labor,,DEM,RICHARD KEATLEY,395
+Jones,GRAY,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1294
+Jones,HAWKINS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,684
+Jones,ETHRIDGE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,673
+Jones,CLINTON,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1120
+Jones,ROBERTS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,900
+Jones,DAVIDSON,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,780
+Jones,POPE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,726
+Jones,BARRON,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,606
+Jones,SANDERS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,86
+Jones,FINNEY,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1200
+Jones,GRAY,"Public Service Commission, District 3",3,DEM,LINDY MILLER,423
+Jones,HAWKINS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1126
+Jones,ETHRIDGE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,368
+Jones,CLINTON,"Public Service Commission, District 3",3,DEM,LINDY MILLER,343
+Jones,ROBERTS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,474
+Jones,DAVIDSON,"Public Service Commission, District 3",3,DEM,LINDY MILLER,159
+Jones,POPE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,362
+Jones,BARRON,"Public Service Commission, District 3",3,DEM,LINDY MILLER,225
+Jones,SANDERS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,24
+Jones,FINNEY,"Public Service Commission, District 3",3,DEM,LINDY MILLER,409
+Jones,GRAY,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,29
+Jones,HAWKINS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,20
+Jones,ETHRIDGE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,19
+Jones,CLINTON,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,26
+Jones,ROBERTS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,19
+Jones,DAVIDSON,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,21
+Jones,POPE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
+Jones,BARRON,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,9
+Jones,SANDERS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,3
+Jones,FINNEY,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,42
+Jones,GRAY,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1295
+Jones,HAWKINS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,687
+Jones,ETHRIDGE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,683
+Jones,CLINTON,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1123
+Jones,ROBERTS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,890
+Jones,DAVIDSON,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,792
+Jones,POPE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,743
+Jones,BARRON,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,602
+Jones,SANDERS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,84
+Jones,FINNEY,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1208
+Jones,GRAY,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,417
+Jones,HAWKINS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1127
+Jones,ETHRIDGE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,361
+Jones,CLINTON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,336
+Jones,ROBERTS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,475
+Jones,DAVIDSON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,145
+Jones,POPE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,351
+Jones,BARRON,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,222
+Jones,SANDERS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,24
+Jones,FINNEY,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,394
+Jones,GRAY,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,35
+Jones,HAWKINS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,20
+Jones,ETHRIDGE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,20
+Jones,CLINTON,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,24
+Jones,ROBERTS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,24
+Jones,DAVIDSON,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21
+Jones,POPE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14
+Jones,BARRON,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,9
+Jones,SANDERS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,4
+Jones,FINNEY,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,47
+Jones,GRAY,U.S. Representative,8,(REP,AUSTIN SCOTT ,1508
+Jones,HAWKINS,U.S. Representative,8,(REP,AUSTIN SCOTT ,1133
+Jones,ETHRIDGE,U.S. Representative,8,(REP,AUSTIN SCOTT ,831
+Jones,CLINTON,U.S. Representative,8,(REP,AUSTIN SCOTT ,1260
+Jones,ROBERTS,U.S. Representative,8,(REP,AUSTIN SCOTT ,1113
+Jones,DAVIDSON,U.S. Representative,8,(REP,AUSTIN SCOTT ,869
+Jones,POPE,U.S. Representative,8,(REP,AUSTIN SCOTT ,881
+Jones,BARRON,U.S. Representative,8,(REP,AUSTIN SCOTT ,690
+Jones,SANDERS,U.S. Representative,8,(REP,AUSTIN SCOTT ,94
+Jones,FINNEY,U.S. Representative,8,(REP,AUSTIN SCOTT ,1402
+Jones,CLINTON,State Senator,25,(REP,BURT JONES ,1215
+Jones,POPE,State Senator,25,(REP,BURT JONES ,879
+Jones,BARRON,State Senator,25,(REP,BURT JONES ,691
+Jones,SANDERS,State Senator,25,(REP,BURT JONES ,96
+Jones,FINNEY,State Senator,25,(REP,BURT JONES ,1406
+Jones,GRAY,State Senator,26,(DEM,DAVID E. LUCAS SR ,969
+Jones,HAWKINS,State Senator,26,(DEM,DAVID E. LUCAS SR ,1395
+Jones,ETHRIDGE,State Senator,26,(DEM,DAVID E. LUCAS SR ,673
+Jones,CLINTON,State Senator,26,(DEM,DAVID E. LUCAS SR ,41
+Jones,ROBERTS,State Senator,26,(DEM,DAVID E. LUCAS SR ,887
+Jones,DAVIDSON,State Senator,26,(DEM,DAVID E. LUCAS SR ,474
+Jones,GRAY,State Representative,129,(REP,SUSAN HOLMES ,1484
+Jones,HAWKINS,State Representative,129,(REP,SUSAN HOLMES ,1126
+Jones,ETHRIDGE,State Representative,129,(REP,SUSAN HOLMES ,828
+Jones,CLINTON,State Representative,129,(REP,SUSAN HOLMES ,1260
+Jones,POPE,State Representative,129,(REP,SUSAN HOLMES ,569
+Jones,BARRON,State Representative,129,(REP,SUSAN HOLMES ,693
+Jones,SANDERS,State Representative,129,(REP,SUSAN HOLMES ,96
+Jones,FINNEY,State Representative,129,(REP,SUSAN HOLMES ,1407
+Jones,ROBERTS,State Representative,144,REP,DANNY MATHIS,898
+Jones,DAVIDSON,State Representative,144,REP,DANNY MATHIS,781
+Jones,POPE,State Representative,144,REP,DANNY MATHIS,255
+Jones,ROBERTS,State Representative,144,DEM,JESSICA WALDEN,495
+Jones,DAVIDSON,State Representative,144,DEM,JESSICA WALDEN,180
+Jones,POPE,State Representative,144,DEM,JESSICA WALDEN,164
+Jones,GRAY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1393
+Jones,HAWKINS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1478
+Jones,ETHRIDGE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,841
+Jones,CLINTON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1147
+Jones,ROBERTS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1136
+Jones,DAVIDSON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,745
+Jones,POPE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,843
+Jones,BARRON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,653
+Jones,SANDERS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,90
+Jones,FINNEY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1306
+Jones,GRAY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,321
+Jones,HAWKINS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,318
+Jones,ETHRIDGE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,197
+Jones,CLINTON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,301
+Jones,ROBERTS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,242
+Jones,DAVIDSON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,198
+Jones,POPE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,225
+Jones,BARRON,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,164
+Jones,SANDERS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,25
+Jones,FINNEY,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,330
+Jones,GRAY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1108
+Jones,HAWKINS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1201
+Jones,ETHRIDGE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,706
+Jones,CLINTON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,916
+Jones,ROBERTS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,941
+Jones,DAVIDSON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,597
+Jones,POPE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,698
+Jones,BARRON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,510
+Jones,SANDERS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,72
+Jones,FINNEY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1009
+Jones,GRAY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,537
+Jones,HAWKINS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,541
+Jones,ETHRIDGE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,309
+Jones,CLINTON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,486
+Jones,ROBERTS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,418
+Jones,DAVIDSON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,321
+Jones,POPE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,355
+Jones,BARRON,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,293
+Jones,SANDERS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,37
+Jones,FINNEY,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,579
+Jones,GRAY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,981
+Jones,HAWKINS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1034
+Jones,ETHRIDGE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,620
+Jones,CLINTON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,832
+Jones,ROBERTS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,836
+Jones,DAVIDSON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,564
+Jones,POPE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,653
+Jones,BARRON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,497
+Jones,SANDERS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,59
+Jones,FINNEY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,940
+Jones,GRAY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,649
+Jones,HAWKINS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,703
+Jones,ETHRIDGE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,382
+Jones,CLINTON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,560
+Jones,ROBERTS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,511
+Jones,DAVIDSON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,348
+Jones,POPE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,392
+Jones,BARRON,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,309
+Jones,SANDERS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,52
+Jones,FINNEY,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,629
+Jones,GRAY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1281
+Jones,HAWKINS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1485
+Jones,ETHRIDGE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,801
+Jones,CLINTON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1083
+Jones,ROBERTS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1126
+Jones,DAVIDSON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,700
+Jones,POPE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,816
+Jones,BARRON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,629
+Jones,SANDERS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,79
+Jones,FINNEY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1208
+Jones,GRAY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,419
+Jones,HAWKINS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,306
+Jones,ETHRIDGE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,230
+Jones,CLINTON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,357
+Jones,ROBERTS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,255
+Jones,DAVIDSON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,244
+Jones,POPE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,266
+Jones,BARRON,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,198
+Jones,SANDERS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,31
+Jones,FINNEY,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,412
+Jones,GRAY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1102
+Jones,HAWKINS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1294
+Jones,ETHRIDGE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,704
+Jones,CLINTON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,935
+Jones,ROBERTS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,979
+Jones,DAVIDSON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,611
+Jones,POPE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,727
+Jones,BARRON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,531
+Jones,SANDERS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,58
+Jones,FINNEY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1040
+Jones,GRAY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,569
+Jones,HAWKINS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,470
+Jones,ETHRIDGE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,310
+Jones,CLINTON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,481
+Jones,ROBERTS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,385
+Jones,DAVIDSON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,308
+Jones,POPE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,335
+Jones,BARRON,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,278
+Jones,SANDERS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,53
+Jones,FINNEY,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,549
+Jones,GRAY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,833
+Jones,HAWKINS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1018
+Jones,ETHRIDGE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,558
+Jones,CLINTON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,743
+Jones,ROBERTS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,771
+Jones,DAVIDSON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,475
+Jones,POPE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,561
+Jones,BARRON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,416
+Jones,SANDERS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,56
+Jones,FINNEY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,813
+Jones,GRAY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,782
+Jones,HAWKINS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,696
+Jones,ETHRIDGE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,416
+Jones,CLINTON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,635
+Jones,ROBERTS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,574
+Jones,DAVIDSON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,423
+Jones,POPE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,474
+Jones,BARRON,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,371
+Jones,SANDERS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,53
+Jones,FINNEY,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,736
+Jones,GRAY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1148
+Jones,HAWKINS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1377
+Jones,ETHRIDGE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,718
+Jones,CLINTON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,972
+Jones,ROBERTS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1027
+Jones,DAVIDSON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,631
+Jones,POPE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,714
+Jones,BARRON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,573
+Jones,SANDERS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,69
+Jones,FINNEY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1106
+Jones,GRAY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,506
+Jones,HAWKINS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,375
+Jones,ETHRIDGE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,280
+Jones,CLINTON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,437
+Jones,ROBERTS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,332
+Jones,DAVIDSON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,288
+Jones,POPE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,342
+Jones,BARRON,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,235
+Jones,SANDERS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,41
+Jones,FINNEY,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,498
+Jones,GRAY,GRAY,,,J. COLLINS,112
+Jones,ETHRIDGE,GRAY,,,J. COLLINS,871
+Jones,CLINTON,GRAY,,,J. COLLINS,80
+Jones,GRAY,GRAY,,,YES,94
+Jones,ETHRIDGE,GRAY,,,YES,652
+Jones,CLINTON,GRAY,,,YES,65
+Jones,GRAY,GRAY,,,NO,40
+Jones,ETHRIDGE,GRAY,,,NO,398
+Jones,CLINTON,GRAY,,,NO,33

@@ -1,0 +1,776 @@
+county,precinct,office,district,party,candidate,votes
+Effingham,1A,Governor,,REP,BRIAN KEMP,878
+Effingham,1B,Governor,,REP,BRIAN KEMP,1274
+Effingham,1C,Governor,,REP,BRIAN KEMP,599
+Effingham,1D,Governor,,REP,BRIAN KEMP,994
+Effingham,2A,Governor,,REP,BRIAN KEMP,1346
+Effingham,2B,Governor,,REP,BRIAN KEMP,1259
+Effingham,2C,Governor,,REP,BRIAN KEMP,1742
+Effingham,3A,Governor,,REP,BRIAN KEMP,614
+Effingham,3B,Governor,,REP,BRIAN KEMP,596
+Effingham,3C,Governor,,REP,BRIAN KEMP,841
+Effingham,3D,Governor,,REP,BRIAN KEMP,1144
+Effingham,4A,Governor,,REP,BRIAN KEMP,1507
+Effingham,4B,Governor,,REP,BRIAN KEMP,663
+Effingham,4C,Governor,,REP,BRIAN KEMP,1192
+Effingham,5A,Governor,,REP,BRIAN KEMP,1263
+Effingham,5B,Governor,,REP,BRIAN KEMP,1352
+Effingham,5C,Governor,,REP,BRIAN KEMP,705
+Effingham,1A,Governor,,DEM,STACEY ABRAMS,178
+Effingham,1B,Governor,,DEM,STACEY ABRAMS,214
+Effingham,1C,Governor,,DEM,STACEY ABRAMS,145
+Effingham,1D,Governor,,DEM,STACEY ABRAMS,133
+Effingham,2A,Governor,,DEM,STACEY ABRAMS,312
+Effingham,2B,Governor,,DEM,STACEY ABRAMS,372
+Effingham,2C,Governor,,DEM,STACEY ABRAMS,582
+Effingham,3A,Governor,,DEM,STACEY ABRAMS,149
+Effingham,3B,Governor,,DEM,STACEY ABRAMS,308
+Effingham,3C,Governor,,DEM,STACEY ABRAMS,208
+Effingham,3D,Governor,,DEM,STACEY ABRAMS,442
+Effingham,4A,Governor,,DEM,STACEY ABRAMS,404
+Effingham,4B,Governor,,DEM,STACEY ABRAMS,304
+Effingham,4C,Governor,,DEM,STACEY ABRAMS,186
+Effingham,5A,Governor,,DEM,STACEY ABRAMS,280
+Effingham,5B,Governor,,DEM,STACEY ABRAMS,667
+Effingham,5C,Governor,,DEM,STACEY ABRAMS,261
+Effingham,1A,Governor,,LIB,TED METZ,6
+Effingham,1B,Governor,,LIB,TED METZ,15
+Effingham,1C,Governor,,LIB,TED METZ,12
+Effingham,1D,Governor,,LIB,TED METZ,11
+Effingham,2A,Governor,,LIB,TED METZ,21
+Effingham,2B,Governor,,LIB,TED METZ,18
+Effingham,2C,Governor,,LIB,TED METZ,31
+Effingham,3A,Governor,,LIB,TED METZ,2
+Effingham,3B,Governor,,LIB,TED METZ,6
+Effingham,3C,Governor,,LIB,TED METZ,10
+Effingham,3D,Governor,,LIB,TED METZ,12
+Effingham,4A,Governor,,LIB,TED METZ,22
+Effingham,4B,Governor,,LIB,TED METZ,13
+Effingham,4C,Governor,,LIB,TED METZ,25
+Effingham,5A,Governor,,LIB,TED METZ,14
+Effingham,5B,Governor,,LIB,TED METZ,31
+Effingham,5C,Governor,,LIB,TED METZ,8
+Effingham,1A,Lieutenant Governor,,REP,GEOFF DUNCAN,851
+Effingham,1B,Lieutenant Governor,,REP,GEOFF DUNCAN,1222
+Effingham,1C,Lieutenant Governor,,REP,GEOFF DUNCAN,577
+Effingham,1D,Lieutenant Governor,,REP,GEOFF DUNCAN,958
+Effingham,2A,Lieutenant Governor,,REP,GEOFF DUNCAN,1329
+Effingham,2B,Lieutenant Governor,,REP,GEOFF DUNCAN,1225
+Effingham,2C,Lieutenant Governor,,REP,GEOFF DUNCAN,1696
+Effingham,3A,Lieutenant Governor,,REP,GEOFF DUNCAN,591
+Effingham,3B,Lieutenant Governor,,REP,GEOFF DUNCAN,568
+Effingham,3C,Lieutenant Governor,,REP,GEOFF DUNCAN,827
+Effingham,3D,Lieutenant Governor,,REP,GEOFF DUNCAN,1100
+Effingham,4A,Lieutenant Governor,,REP,GEOFF DUNCAN,1468
+Effingham,4B,Lieutenant Governor,,REP,GEOFF DUNCAN,652
+Effingham,4C,Lieutenant Governor,,REP,GEOFF DUNCAN,1164
+Effingham,5A,Lieutenant Governor,,REP,GEOFF DUNCAN,1210
+Effingham,5B,Lieutenant Governor,,REP,GEOFF DUNCAN,1335
+Effingham,5C,Lieutenant Governor,,REP,GEOFF DUNCAN,686
+Effingham,1A,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,185
+Effingham,1B,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,208
+Effingham,1C,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,154
+Effingham,1D,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,137
+Effingham,2A,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,305
+Effingham,2B,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,352
+Effingham,2C,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,553
+Effingham,3A,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,140
+Effingham,3B,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,289
+Effingham,3C,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,183
+Effingham,3D,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,414
+Effingham,4A,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,388
+Effingham,4B,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,286
+Effingham,4C,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,191
+Effingham,5A,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,285
+Effingham,5B,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,639
+Effingham,5C,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,252
+Effingham,1A,Secretary Of State,,REP,BRAD RAFFENSPERGER,813
+Effingham,1B,Secretary Of State,,REP,BRAD RAFFENSPERGER,1147
+Effingham,1C,Secretary Of State,,REP,BRAD RAFFENSPERGER,541
+Effingham,1D,Secretary Of State,,REP,BRAD RAFFENSPERGER,890
+Effingham,2A,Secretary Of State,,REP,BRAD RAFFENSPERGER,1247
+Effingham,2B,Secretary Of State,,REP,BRAD RAFFENSPERGER,1162
+Effingham,2C,Secretary Of State,,REP,BRAD RAFFENSPERGER,1614
+Effingham,3A,Secretary Of State,,REP,BRAD RAFFENSPERGER,553
+Effingham,3B,Secretary Of State,,REP,BRAD RAFFENSPERGER,521
+Effingham,3C,Secretary Of State,,REP,BRAD RAFFENSPERGER,780
+Effingham,3D,Secretary Of State,,REP,BRAD RAFFENSPERGER,1016
+Effingham,4A,Secretary Of State,,REP,BRAD RAFFENSPERGER,1395
+Effingham,4B,Secretary Of State,,REP,BRAD RAFFENSPERGER,609
+Effingham,4C,Secretary Of State,,REP,BRAD RAFFENSPERGER,1093
+Effingham,5A,Secretary Of State,,REP,BRAD RAFFENSPERGER,1139
+Effingham,5B,Secretary Of State,,REP,BRAD RAFFENSPERGER,1234
+Effingham,5C,Secretary Of State,,REP,BRAD RAFFENSPERGER,651
+Effingham,1A,Secretary Of State,,DEM,JOHN BARROW,232
+Effingham,1B,Secretary Of State,,DEM,JOHN BARROW,306
+Effingham,1C,Secretary Of State,,DEM,JOHN BARROW,196
+Effingham,1D,Secretary Of State,,DEM,JOHN BARROW,224
+Effingham,2A,Secretary Of State,,DEM,JOHN BARROW,384
+Effingham,2B,Secretary Of State,,DEM,JOHN BARROW,440
+Effingham,2C,Secretary Of State,,DEM,JOHN BARROW,668
+Effingham,3A,Secretary Of State,,DEM,JOHN BARROW,199
+Effingham,3B,Secretary Of State,,DEM,JOHN BARROW,363
+Effingham,3C,Secretary Of State,,DEM,JOHN BARROW,254
+Effingham,3D,Secretary Of State,,DEM,JOHN BARROW,538
+Effingham,4A,Secretary Of State,,DEM,JOHN BARROW,493
+Effingham,4B,Secretary Of State,,DEM,JOHN BARROW,345
+Effingham,4C,Secretary Of State,,DEM,JOHN BARROW,270
+Effingham,5A,Secretary Of State,,DEM,JOHN BARROW,378
+Effingham,5B,Secretary Of State,,DEM,JOHN BARROW,759
+Effingham,5C,Secretary Of State,,DEM,JOHN BARROW,307
+Effingham,1A,Secretary Of State,,LIB,SMYTHE DUVAL,16
+Effingham,1B,Secretary Of State,,LIB,SMYTHE DUVAL,23
+Effingham,1C,Secretary Of State,,LIB,SMYTHE DUVAL,16
+Effingham,1D,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Effingham,2A,Secretary Of State,,LIB,SMYTHE DUVAL,35
+Effingham,2B,Secretary Of State,,LIB,SMYTHE DUVAL,33
+Effingham,2C,Secretary Of State,,LIB,SMYTHE DUVAL,54
+Effingham,3A,Secretary Of State,,LIB,SMYTHE DUVAL,4
+Effingham,3B,Secretary Of State,,LIB,SMYTHE DUVAL,9
+Effingham,3C,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Effingham,3D,Secretary Of State,,LIB,SMYTHE DUVAL,24
+Effingham,4A,Secretary Of State,,LIB,SMYTHE DUVAL,30
+Effingham,4B,Secretary Of State,,LIB,SMYTHE DUVAL,16
+Effingham,4C,Secretary Of State,,LIB,SMYTHE DUVAL,32
+Effingham,5A,Secretary Of State,,LIB,SMYTHE DUVAL,29
+Effingham,5B,Secretary Of State,,LIB,SMYTHE DUVAL,53
+Effingham,5C,Secretary Of State,,LIB,SMYTHE DUVAL,12
+Effingham,1A,Attorney General,,(REP,CHRIS CARR ,862
+Effingham,1B,Attorney General,,(REP,CHRIS CARR ,1230
+Effingham,1C,Attorney General,,(REP,CHRIS CARR ,579
+Effingham,1D,Attorney General,,(REP,CHRIS CARR ,971
+Effingham,2A,Attorney General,,(REP,CHRIS CARR ,1331
+Effingham,2B,Attorney General,,(REP,CHRIS CARR ,1241
+Effingham,2C,Attorney General,,(REP,CHRIS CARR ,1721
+Effingham,3A,Attorney General,,(REP,CHRIS CARR ,604
+Effingham,3B,Attorney General,,(REP,CHRIS CARR ,584
+Effingham,3C,Attorney General,,(REP,CHRIS CARR ,842
+Effingham,3D,Attorney General,,(REP,CHRIS CARR ,1134
+Effingham,4A,Attorney General,,(REP,CHRIS CARR ,1495
+Effingham,4B,Attorney General,,(REP,CHRIS CARR ,667
+Effingham,4C,Attorney General,,(REP,CHRIS CARR ,1184
+Effingham,5A,Attorney General,,(REP,CHRIS CARR ,1242
+Effingham,5B,Attorney General,,(REP,CHRIS CARR ,1351
+Effingham,5C,Attorney General,,(REP,CHRIS CARR ,696
+Effingham,1A,Attorney General,,DEM,CHARLIE BAILEY,191
+Effingham,1B,Attorney General,,DEM,CHARLIE BAILEY,223
+Effingham,1C,Attorney General,,DEM,CHARLIE BAILEY,161
+Effingham,1D,Attorney General,,DEM,CHARLIE BAILEY,150
+Effingham,2A,Attorney General,,DEM,CHARLIE BAILEY,321
+Effingham,2B,Attorney General,,DEM,CHARLIE BAILEY,378
+Effingham,2C,Attorney General,,DEM,CHARLIE BAILEY,589
+Effingham,3A,Attorney General,,DEM,CHARLIE BAILEY,142
+Effingham,3B,Attorney General,,DEM,CHARLIE BAILEY,298
+Effingham,3C,Attorney General,,DEM,CHARLIE BAILEY,198
+Effingham,3D,Attorney General,,DEM,CHARLIE BAILEY,428
+Effingham,4A,Attorney General,,DEM,CHARLIE BAILEY,407
+Effingham,4B,Attorney General,,DEM,CHARLIE BAILEY,299
+Effingham,4C,Attorney General,,DEM,CHARLIE BAILEY,203
+Effingham,5A,Attorney General,,DEM,CHARLIE BAILEY,293
+Effingham,5B,Attorney General,,DEM,CHARLIE BAILEY,673
+Effingham,5C,Attorney General,,DEM,CHARLIE BAILEY,269
+Effingham,1A,Commissioner Of Agriculture,,(REP,GARY BLACK ,883
+Effingham,1B,Commissioner Of Agriculture,,(REP,GARY BLACK ,1253
+Effingham,1C,Commissioner Of Agriculture,,(REP,GARY BLACK ,589
+Effingham,1D,Commissioner Of Agriculture,,(REP,GARY BLACK ,981
+Effingham,2A,Commissioner Of Agriculture,,(REP,GARY BLACK ,1349
+Effingham,2B,Commissioner Of Agriculture,,(REP,GARY BLACK ,1260
+Effingham,2C,Commissioner Of Agriculture,,(REP,GARY BLACK ,1756
+Effingham,3A,Commissioner Of Agriculture,,(REP,GARY BLACK ,614
+Effingham,3B,Commissioner Of Agriculture,,(REP,GARY BLACK ,593
+Effingham,3C,Commissioner Of Agriculture,,(REP,GARY BLACK ,842
+Effingham,3D,Commissioner Of Agriculture,,(REP,GARY BLACK ,1158
+Effingham,4A,Commissioner Of Agriculture,,(REP,GARY BLACK ,1506
+Effingham,4B,Commissioner Of Agriculture,,(REP,GARY BLACK ,677
+Effingham,4C,Commissioner Of Agriculture,,(REP,GARY BLACK ,1192
+Effingham,5A,Commissioner Of Agriculture,,(REP,GARY BLACK ,1254
+Effingham,5B,Commissioner Of Agriculture,,(REP,GARY BLACK ,1374
+Effingham,5C,Commissioner Of Agriculture,,(REP,GARY BLACK ,717
+Effingham,1A,Commissioner Of Agriculture,,DEM,FRED SWANN,172
+Effingham,1B,Commissioner Of Agriculture,,DEM,FRED SWANN,199
+Effingham,1C,Commissioner Of Agriculture,,DEM,FRED SWANN,150
+Effingham,1D,Commissioner Of Agriculture,,DEM,FRED SWANN,131
+Effingham,2A,Commissioner Of Agriculture,,DEM,FRED SWANN,306
+Effingham,2B,Commissioner Of Agriculture,,DEM,FRED SWANN,365
+Effingham,2C,Commissioner Of Agriculture,,DEM,FRED SWANN,556
+Effingham,3A,Commissioner Of Agriculture,,DEM,FRED SWANN,130
+Effingham,3B,Commissioner Of Agriculture,,DEM,FRED SWANN,289
+Effingham,3C,Commissioner Of Agriculture,,DEM,FRED SWANN,184
+Effingham,3D,Commissioner Of Agriculture,,DEM,FRED SWANN,396
+Effingham,4A,Commissioner Of Agriculture,,DEM,FRED SWANN,379
+Effingham,4B,Commissioner Of Agriculture,,DEM,FRED SWANN,287
+Effingham,4C,Commissioner Of Agriculture,,DEM,FRED SWANN,194
+Effingham,5A,Commissioner Of Agriculture,,DEM,FRED SWANN,275
+Effingham,5B,Commissioner Of Agriculture,,DEM,FRED SWANN,647
+Effingham,5C,Commissioner Of Agriculture,,DEM,FRED SWANN,242
+Effingham,1A,Commissioner Of Insurance,,REP,JIM BECK,854
+Effingham,1B,Commissioner Of Insurance,,REP,JIM BECK,1224
+Effingham,1C,Commissioner Of Insurance,,REP,JIM BECK,583
+Effingham,1D,Commissioner Of Insurance,,REP,JIM BECK,967
+Effingham,2A,Commissioner Of Insurance,,REP,JIM BECK,1329
+Effingham,2B,Commissioner Of Insurance,,REP,JIM BECK,1242
+Effingham,2C,Commissioner Of Insurance,,REP,JIM BECK,1702
+Effingham,3A,Commissioner Of Insurance,,REP,JIM BECK,608
+Effingham,3B,Commissioner Of Insurance,,REP,JIM BECK,587
+Effingham,3C,Commissioner Of Insurance,,REP,JIM BECK,837
+Effingham,3D,Commissioner Of Insurance,,REP,JIM BECK,1114
+Effingham,4A,Commissioner Of Insurance,,REP,JIM BECK,1467
+Effingham,4B,Commissioner Of Insurance,,REP,JIM BECK,653
+Effingham,4C,Commissioner Of Insurance,,REP,JIM BECK,1165
+Effingham,5A,Commissioner Of Insurance,,REP,JIM BECK,1227
+Effingham,5B,Commissioner Of Insurance,,REP,JIM BECK,1325
+Effingham,5C,Commissioner Of Insurance,,REP,JIM BECK,709
+Effingham,1A,Commissioner Of Insurance,,DEM,JANICE LAWS,175
+Effingham,1B,Commissioner Of Insurance,,DEM,JANICE LAWS,200
+Effingham,1C,Commissioner Of Insurance,,DEM,JANICE LAWS,145
+Effingham,1D,Commissioner Of Insurance,,DEM,JANICE LAWS,128
+Effingham,2A,Commissioner Of Insurance,,DEM,JANICE LAWS,296
+Effingham,2B,Commissioner Of Insurance,,DEM,JANICE LAWS,358
+Effingham,2C,Commissioner Of Insurance,,DEM,JANICE LAWS,547
+Effingham,3A,Commissioner Of Insurance,,DEM,JANICE LAWS,129
+Effingham,3B,Commissioner Of Insurance,,DEM,JANICE LAWS,285
+Effingham,3C,Commissioner Of Insurance,,DEM,JANICE LAWS,186
+Effingham,3D,Commissioner Of Insurance,,DEM,JANICE LAWS,403
+Effingham,4A,Commissioner Of Insurance,,DEM,JANICE LAWS,374
+Effingham,4B,Commissioner Of Insurance,,DEM,JANICE LAWS,283
+Effingham,4C,Commissioner Of Insurance,,DEM,JANICE LAWS,188
+Effingham,5A,Commissioner Of Insurance,,DEM,JANICE LAWS,270
+Effingham,5B,Commissioner Of Insurance,,DEM,JANICE LAWS,646
+Effingham,5C,Commissioner Of Insurance,,DEM,JANICE LAWS,241
+Effingham,1A,Commissioner Of Insurance,,LIB,DONNIE FOSTER,29
+Effingham,1B,Commissioner Of Insurance,,LIB,DONNIE FOSTER,34
+Effingham,1C,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Effingham,1D,Commissioner Of Insurance,,LIB,DONNIE FOSTER,25
+Effingham,2A,Commissioner Of Insurance,,LIB,DONNIE FOSTER,38
+Effingham,2B,Commissioner Of Insurance,,LIB,DONNIE FOSTER,33
+Effingham,2C,Commissioner Of Insurance,,LIB,DONNIE FOSTER,69
+Effingham,3A,Commissioner Of Insurance,,LIB,DONNIE FOSTER,10
+Effingham,3B,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
+Effingham,3C,Commissioner Of Insurance,,LIB,DONNIE FOSTER,17
+Effingham,3D,Commissioner Of Insurance,,LIB,DONNIE FOSTER,45
+Effingham,4A,Commissioner Of Insurance,,LIB,DONNIE FOSTER,54
+Effingham,4B,Commissioner Of Insurance,,LIB,DONNIE FOSTER,25
+Effingham,4C,Commissioner Of Insurance,,LIB,DONNIE FOSTER,39
+Effingham,5A,Commissioner Of Insurance,,LIB,DONNIE FOSTER,37
+Effingham,5B,Commissioner Of Insurance,,LIB,DONNIE FOSTER,57
+Effingham,5C,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
+Effingham,1A,State School Superintendent,,(REP,RICHARD WOODS ,884
+Effingham,1B,State School Superintendent,,(REP,RICHARD WOODS ,1257
+Effingham,1C,State School Superintendent,,(REP,RICHARD WOODS ,600
+Effingham,1D,State School Superintendent,,(REP,RICHARD WOODS ,980
+Effingham,2A,State School Superintendent,,(REP,RICHARD WOODS ,1360
+Effingham,2B,State School Superintendent,,(REP,RICHARD WOODS ,1263
+Effingham,2C,State School Superintendent,,(REP,RICHARD WOODS ,1752
+Effingham,3A,State School Superintendent,,(REP,RICHARD WOODS ,621
+Effingham,3B,State School Superintendent,,(REP,RICHARD WOODS ,589
+Effingham,3C,State School Superintendent,,(REP,RICHARD WOODS ,850
+Effingham,3D,State School Superintendent,,(REP,RICHARD WOODS ,1142
+Effingham,4A,State School Superintendent,,(REP,RICHARD WOODS ,1518
+Effingham,4B,State School Superintendent,,(REP,RICHARD WOODS ,680
+Effingham,4C,State School Superintendent,,(REP,RICHARD WOODS ,1192
+Effingham,5A,State School Superintendent,,(REP,RICHARD WOODS ,1271
+Effingham,5B,State School Superintendent,,(REP,RICHARD WOODS ,1387
+Effingham,5C,State School Superintendent,,(REP,RICHARD WOODS ,720
+Effingham,1A,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",170
+Effingham,1B,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",208
+Effingham,1C,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",145
+Effingham,1D,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",133
+Effingham,2A,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",298
+Effingham,2B,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",365
+Effingham,2C,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",572
+Effingham,3A,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",129
+Effingham,3B,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",295
+Effingham,3C,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",190
+Effingham,3D,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",419
+Effingham,4A,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",378
+Effingham,4B,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",285
+Effingham,4C,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",194
+Effingham,5A,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",266
+Effingham,5B,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",643
+Effingham,5C,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",244
+Effingham,1A,Commissioner Of Labor,,(REP,MARK BUTLER ,871
+Effingham,1B,Commissioner Of Labor,,(REP,MARK BUTLER ,1252
+Effingham,1C,Commissioner Of Labor,,(REP,MARK BUTLER ,590
+Effingham,1D,Commissioner Of Labor,,(REP,MARK BUTLER ,977
+Effingham,2A,Commissioner Of Labor,,(REP,MARK BUTLER ,1350
+Effingham,2B,Commissioner Of Labor,,(REP,MARK BUTLER ,1262
+Effingham,2C,Commissioner Of Labor,,(REP,MARK BUTLER ,1741
+Effingham,3A,Commissioner Of Labor,,(REP,MARK BUTLER ,612
+Effingham,3B,Commissioner Of Labor,,(REP,MARK BUTLER ,587
+Effingham,3C,Commissioner Of Labor,,(REP,MARK BUTLER ,841
+Effingham,3D,Commissioner Of Labor,,(REP,MARK BUTLER ,1143
+Effingham,4A,Commissioner Of Labor,,(REP,MARK BUTLER ,1506
+Effingham,4B,Commissioner Of Labor,,(REP,MARK BUTLER ,675
+Effingham,4C,Commissioner Of Labor,,(REP,MARK BUTLER ,1196
+Effingham,5A,Commissioner Of Labor,,(REP,MARK BUTLER ,1262
+Effingham,5B,Commissioner Of Labor,,(REP,MARK BUTLER ,1370
+Effingham,5C,Commissioner Of Labor,,(REP,MARK BUTLER ,716
+Effingham,1A,Commissioner Of Labor,,DEM,RICHARD KEATLEY,180
+Effingham,1B,Commissioner Of Labor,,DEM,RICHARD KEATLEY,208
+Effingham,1C,Commissioner Of Labor,,DEM,RICHARD KEATLEY,147
+Effingham,1D,Commissioner Of Labor,,DEM,RICHARD KEATLEY,142
+Effingham,2A,Commissioner Of Labor,,DEM,RICHARD KEATLEY,307
+Effingham,2B,Commissioner Of Labor,,DEM,RICHARD KEATLEY,366
+Effingham,2C,Commissioner Of Labor,,DEM,RICHARD KEATLEY,563
+Effingham,3A,Commissioner Of Labor,,DEM,RICHARD KEATLEY,136
+Effingham,3B,Commissioner Of Labor,,DEM,RICHARD KEATLEY,300
+Effingham,3C,Commissioner Of Labor,,DEM,RICHARD KEATLEY,194
+Effingham,3D,Commissioner Of Labor,,DEM,RICHARD KEATLEY,421
+Effingham,4A,Commissioner Of Labor,,DEM,RICHARD KEATLEY,389
+Effingham,4B,Commissioner Of Labor,,DEM,RICHARD KEATLEY,289
+Effingham,4C,Commissioner Of Labor,,DEM,RICHARD KEATLEY,191
+Effingham,5A,Commissioner Of Labor,,DEM,RICHARD KEATLEY,275
+Effingham,5B,Commissioner Of Labor,,DEM,RICHARD KEATLEY,650
+Effingham,5C,Commissioner Of Labor,,DEM,RICHARD KEATLEY,248
+Effingham,1A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,848
+Effingham,1B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1204
+Effingham,1C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,568
+Effingham,1D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,949
+Effingham,2A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1325
+Effingham,2B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1225
+Effingham,2C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1683
+Effingham,3A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,592
+Effingham,3B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,570
+Effingham,3C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,824
+Effingham,3D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1104
+Effingham,4A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1456
+Effingham,4B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,644
+Effingham,4C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1152
+Effingham,5A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1216
+Effingham,5B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1320
+Effingham,5C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,687
+Effingham,1A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,180
+Effingham,1B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,201
+Effingham,1C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,149
+Effingham,1D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,138
+Effingham,2A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,293
+Effingham,2B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,357
+Effingham,2C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,557
+Effingham,3A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,142
+Effingham,3B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,295
+Effingham,3C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,187
+Effingham,3D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,408
+Effingham,4A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,382
+Effingham,4B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,290
+Effingham,4C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,189
+Effingham,5A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,285
+Effingham,5B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,651
+Effingham,5C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,249
+Effingham,1A,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,26
+Effingham,1B,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,50
+Effingham,1C,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,26
+Effingham,1D,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,24
+Effingham,2A,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,41
+Effingham,2B,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,45
+Effingham,2C,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,74
+Effingham,3A,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,11
+Effingham,3B,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,21
+Effingham,3C,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,24
+Effingham,3D,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,48
+Effingham,4A,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,56
+Effingham,4B,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,28
+Effingham,4C,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,49
+Effingham,5A,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,39
+Effingham,5B,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,60
+Effingham,5C,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,27
+Effingham,1A,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,851
+Effingham,1B,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1211
+Effingham,1C,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,569
+Effingham,1D,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,950
+Effingham,2A,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1320
+Effingham,2B,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1226
+Effingham,2C,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1690
+Effingham,3A,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,599
+Effingham,3B,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,578
+Effingham,3C,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,824
+Effingham,3D,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1092
+Effingham,4A,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1459
+Effingham,4B,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,645
+Effingham,4C,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1155
+Effingham,5A,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1213
+Effingham,5B,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1327
+Effingham,5C,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,682
+Effingham,1A,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,178
+Effingham,1B,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,202
+Effingham,1C,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,151
+Effingham,1D,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,136
+Effingham,2A,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,298
+Effingham,2B,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,363
+Effingham,2C,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,559
+Effingham,3A,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,132
+Effingham,3B,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,293
+Effingham,3C,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,189
+Effingham,3D,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,423
+Effingham,4A,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,381
+Effingham,4B,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,287
+Effingham,4C,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,191
+Effingham,5A,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,281
+Effingham,5B,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,645
+Effingham,5C,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,253
+Effingham,1A,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,25
+Effingham,1B,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,49
+Effingham,1C,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,18
+Effingham,1D,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
+Effingham,2A,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,42
+Effingham,2B,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,42
+Effingham,2C,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,69
+Effingham,3A,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,9
+Effingham,3B,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,15
+Effingham,3C,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,22
+Effingham,3D,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,38
+Effingham,4A,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,48
+Effingham,4B,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,27
+Effingham,4C,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,42
+Effingham,5A,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,42
+Effingham,5B,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,56
+Effingham,5C,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,27
+Effingham,1A,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",884
+Effingham,1B,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",759
+Effingham,1C,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",602
+Effingham,1D,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",980
+Effingham,2A,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1353
+Effingham,2B,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1259
+Effingham,2C,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1758
+Effingham,4B,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",223
+Effingham,5A,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1261
+Effingham,5B,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1399
+Effingham,5C,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",718
+Effingham,1A,U.S. Representative,1,DEM,LISA M. RING,175
+Effingham,1B,U.S. Representative,1,DEM,LISA M. RING,127
+Effingham,1C,U.S. Representative,1,DEM,LISA M. RING,149
+Effingham,1D,U.S. Representative,1,DEM,LISA M. RING,145
+Effingham,2A,U.S. Representative,1,DEM,LISA M. RING,312
+Effingham,2B,U.S. Representative,1,DEM,LISA M. RING,379
+Effingham,2C,U.S. Representative,1,DEM,LISA M. RING,578
+Effingham,4B,U.S. Representative,1,DEM,LISA M. RING,191
+Effingham,5A,U.S. Representative,1,DEM,LISA M. RING,280
+Effingham,5B,U.S. Representative,1,DEM,LISA M. RING,648
+Effingham,5C,U.S. Representative,1,DEM,LISA M. RING,249
+Effingham,1B,U.S. Representative,12,(REP,RICK W. ALLEN ,508
+Effingham,3A,U.S. Representative,12,(REP,RICK W. ALLEN ,616
+Effingham,3B,U.S. Representative,12,(REP,RICK W. ALLEN ,586
+Effingham,3C,U.S. Representative,12,(REP,RICK W. ALLEN ,854
+Effingham,3D,U.S. Representative,12,(REP,RICK W. ALLEN ,1150
+Effingham,4A,U.S. Representative,12,(REP,RICK W. ALLEN ,1519
+Effingham,4B,U.S. Representative,12,(REP,RICK W. ALLEN ,454
+Effingham,4C,U.S. Representative,12,(REP,RICK W. ALLEN ,1197
+Effingham,5C,U.S. Representative,12,(REP,RICK W. ALLEN ,0
+Effingham,1B,U.S. Representative,12,DEM,FRANCYS JOHNSON,83
+Effingham,3A,U.S. Representative,12,DEM,FRANCYS JOHNSON,139
+Effingham,3B,U.S. Representative,12,DEM,FRANCYS JOHNSON,310
+Effingham,3C,U.S. Representative,12,DEM,FRANCYS JOHNSON,193
+Effingham,3D,U.S. Representative,12,DEM,FRANCYS JOHNSON,433
+Effingham,4A,U.S. Representative,12,DEM,FRANCYS JOHNSON,384
+Effingham,4B,U.S. Representative,12,DEM,FRANCYS JOHNSON,98
+Effingham,4C,U.S. Representative,12,DEM,FRANCYS JOHNSON,192
+Effingham,5C,U.S. Representative,12,DEM,FRANCYS JOHNSON,0
+Effingham,1A,State Senator,4,(REP,JACK HILL ,958
+Effingham,1B,State Senator,4,(REP,JACK HILL ,1372
+Effingham,1C,State Senator,4,(REP,JACK HILL ,661
+Effingham,1D,State Senator,4,(REP,JACK HILL ,1038
+Effingham,2A,State Senator,4,(REP,JACK HILL ,1486
+Effingham,2B,State Senator,4,(REP,JACK HILL ,1414
+Effingham,2C,State Senator,4,(REP,JACK HILL ,2004
+Effingham,3A,State Senator,4,(REP,JACK HILL ,664
+Effingham,3B,State Senator,4,(REP,JACK HILL ,702
+Effingham,3C,State Senator,4,(REP,JACK HILL ,948
+Effingham,3D,State Senator,4,(REP,JACK HILL ,1366
+Effingham,4A,State Senator,4,(REP,JACK HILL ,1718
+Effingham,4B,State Senator,4,(REP,JACK HILL ,778
+Effingham,4C,State Senator,4,(REP,JACK HILL ,1279
+Effingham,5A,State Senator,4,(REP,JACK HILL ,1370
+Effingham,5B,State Senator,4,(REP,JACK HILL ,1647
+Effingham,5C,State Senator,4,(REP,JACK HILL ,827
+Effingham,1B,State Representative,159,(REP,JON G. BURNS ,1365
+Effingham,3A,State Representative,159,(REP,JON G. BURNS ,673
+Effingham,3B,State Representative,159,(REP,JON G. BURNS ,702
+Effingham,3C,State Representative,159,(REP,JON G. BURNS ,950
+Effingham,3D,State Representative,159,(REP,JON G. BURNS ,1365
+Effingham,4A,State Representative,159,(REP,JON G. BURNS ,1711
+Effingham,4B,State Representative,159,(REP,JON G. BURNS ,494
+Effingham,4C,State Representative,159,(REP,JON G. BURNS ,1279
+Effingham,1A,State Representative,161,(REP,BILL HITCHENS ,877
+Effingham,1C,State Representative,161,(REP,BILL HITCHENS ,589
+Effingham,1D,State Representative,161,(REP,BILL HITCHENS ,981
+Effingham,2A,State Representative,161,(REP,BILL HITCHENS ,1354
+Effingham,2B,State Representative,161,(REP,BILL HITCHENS ,1256
+Effingham,2C,State Representative,161,(REP,BILL HITCHENS ,1748
+Effingham,4B,State Representative,161,(REP,BILL HITCHENS ,220
+Effingham,5A,State Representative,161,(REP,BILL HITCHENS ,1256
+Effingham,5B,State Representative,161,(REP,BILL HITCHENS ,1387
+Effingham,5C,State Representative,161,(REP,BILL HITCHENS ,705
+Effingham,1A,State Representative,161,DEM,ADAM BRIDGES,179
+Effingham,1C,State Representative,161,DEM,ADAM BRIDGES,154
+Effingham,1D,State Representative,161,DEM,ADAM BRIDGES,133
+Effingham,2A,State Representative,161,DEM,ADAM BRIDGES,306
+Effingham,2B,State Representative,161,DEM,ADAM BRIDGES,365
+Effingham,2C,State Representative,161,DEM,ADAM BRIDGES,575
+Effingham,4B,State Representative,161,DEM,ADAM BRIDGES,190
+Effingham,5A,State Representative,161,DEM,ADAM BRIDGES,285
+Effingham,5B,State Representative,161,DEM,ADAM BRIDGES,654
+Effingham,5C,State Representative,161,DEM,ADAM BRIDGES,258
+Effingham,1A,Solicitor General,,R,A. M. LEE ,951
+Effingham,1B,Solicitor General,,R,A. M. LEE ,1357
+Effingham,1C,Solicitor General,,R,A. M. LEE ,660
+Effingham,1D,Solicitor General,,R,A. M. LEE ,1033
+Effingham,2A,Solicitor General,,R,A. M. LEE ,1489
+Effingham,2B,Solicitor General,,R,A. M. LEE ,1412
+Effingham,2C,Solicitor General,,R,A. M. LEE ,2001
+Effingham,3A,Solicitor General,,R,A. M. LEE ,660
+Effingham,3B,Solicitor General,,R,A. M. LEE ,688
+Effingham,3C,Solicitor General,,R,A. M. LEE ,936
+Effingham,3D,Solicitor General,,R,A. M. LEE ,1347
+Effingham,4A,Solicitor General,,R,A. M. LEE ,1700
+Effingham,4B,Solicitor General,,R,A. M. LEE ,779
+Effingham,4C,Solicitor General,,R,A. M. LEE ,1286
+Effingham,5A,Solicitor General,,R,A. M. LEE ,1371
+Effingham,5B,Solicitor General,,R,A. M. LEE ,1658
+Effingham,5C,Solicitor General,,R,A. M. LEE ,824
+Effingham,2A,County Comm 2,,R,R. BURDETTE,1464
+Effingham,2B,County Comm 2,,R,R. BURDETTE,1406
+Effingham,2C,County Comm 2,,R,R. BURDETTE,1967
+Effingham,3A,County Comm 3,,R,J. DELOACH ,651
+Effingham,3B,County Comm 3,,R,J. DELOACH ,693
+Effingham,3C,County Comm 3,,R,J. DELOACH ,937
+Effingham,3D,County Comm 3,,R,J. DELOACH ,1333
+Effingham,5A,County Comm 5,,R,P. KIEFFER ,1354
+Effingham,5B,County Comm 5,,R,P. KIEFFER ,1628
+Effingham,5C,County Comm 5,,R,P. KIEFFER ,811
+Effingham,1A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,923
+Effingham,1B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1232
+Effingham,1C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,641
+Effingham,1D,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,970
+Effingham,2A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1412
+Effingham,2B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1344
+Effingham,2C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1957
+Effingham,3A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,649
+Effingham,3B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,737
+Effingham,3C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,853
+Effingham,3D,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1287
+Effingham,4A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1611
+Effingham,4B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,797
+Effingham,4C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1197
+Effingham,5A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1333
+Effingham,5B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1730
+Effingham,5C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,818
+Effingham,1A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,114
+Effingham,1B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,217
+Effingham,1C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,94
+Effingham,1D,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,130
+Effingham,2A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,224
+Effingham,2B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,260
+Effingham,2C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,336
+Effingham,3A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,88
+Effingham,3B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,139
+Effingham,3C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,172
+Effingham,3D,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,268
+Effingham,4A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,267
+Effingham,4B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,145
+Effingham,4C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,192
+Effingham,5A,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,193
+Effingham,5B,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,280
+Effingham,5C,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,134
+Effingham,1A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,779
+Effingham,1B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1019
+Effingham,1C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,536
+Effingham,1D,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,810
+Effingham,2A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1163
+Effingham,2B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1118
+Effingham,2C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1655
+Effingham,3A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,559
+Effingham,3B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,639
+Effingham,3C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,734
+Effingham,3D,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1049
+Effingham,4A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1371
+Effingham,4B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,648
+Effingham,4C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,993
+Effingham,5A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1124
+Effingham,5B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1405
+Effingham,5C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,712
+Effingham,1A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,226
+Effingham,1B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,384
+Effingham,1C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,189
+Effingham,1D,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,262
+Effingham,2A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,431
+Effingham,2B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,456
+Effingham,2C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,591
+Effingham,3A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,161
+Effingham,3B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,211
+Effingham,3C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,266
+Effingham,3D,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,461
+Effingham,4A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,462
+Effingham,4B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,271
+Effingham,4C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,367
+Effingham,5A,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,367
+Effingham,5B,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,562
+Effingham,5C,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,221
+Effingham,1A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,672
+Effingham,1B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,915
+Effingham,1C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,481
+Effingham,1D,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,724
+Effingham,2A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1057
+Effingham,2B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1022
+Effingham,2C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1420
+Effingham,3A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,500
+Effingham,3B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,552
+Effingham,3C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,656
+Effingham,3D,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,972
+Effingham,4A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1179
+Effingham,4B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,561
+Effingham,4C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,907
+Effingham,5A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,978
+Effingham,5B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1238
+Effingham,5C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,639
+Effingham,1A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,326
+Effingham,1B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,460
+Effingham,1C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,231
+Effingham,1D,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,330
+Effingham,2A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,516
+Effingham,2B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,536
+Effingham,2C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,789
+Effingham,3A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,215
+Effingham,3B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,290
+Effingham,3C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,338
+Effingham,3D,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,526
+Effingham,4A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,636
+Effingham,4B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,340
+Effingham,4C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,438
+Effingham,5A,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,489
+Effingham,5B,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,694
+Effingham,5C,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,293
+Effingham,1A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,854
+Effingham,1B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1155
+Effingham,1C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,629
+Effingham,1D,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,902
+Effingham,2A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1298
+Effingham,2B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1305
+Effingham,2C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1868
+Effingham,3A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,596
+Effingham,3B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,692
+Effingham,3C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,821
+Effingham,3D,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1196
+Effingham,4A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1482
+Effingham,4B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,744
+Effingham,4C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1112
+Effingham,5A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1238
+Effingham,5B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1646
+Effingham,5C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,810
+Effingham,1A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,177
+Effingham,1B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,283
+Effingham,1C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,111
+Effingham,1D,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,193
+Effingham,2A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,317
+Effingham,2B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,296
+Effingham,2C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,414
+Effingham,3A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,135
+Effingham,3B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,165
+Effingham,3C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,197
+Effingham,3D,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,343
+Effingham,4A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,372
+Effingham,4B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,190
+Effingham,4C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,264
+Effingham,5A,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,276
+Effingham,5B,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,353
+Effingham,5C,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,143
+Effingham,1A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,697
+Effingham,1B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,980
+Effingham,1C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,507
+Effingham,1D,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,771
+Effingham,2A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1134
+Effingham,2B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1137
+Effingham,2C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1626
+Effingham,3A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,531
+Effingham,3B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,606
+Effingham,3C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,689
+Effingham,3D,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1027
+Effingham,4A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1348
+Effingham,4B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,664
+Effingham,4C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,971
+Effingham,5A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1086
+Effingham,5B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1443
+Effingham,5C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,669
+Effingham,1A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,308
+Effingham,1B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,410
+Effingham,1C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,203
+Effingham,1D,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,287
+Effingham,2A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,445
+Effingham,2B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,428
+Effingham,2C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,611
+Effingham,3A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,182
+Effingham,3B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,242
+Effingham,3C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,304
+Effingham,3D,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,481
+Effingham,4A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,468
+Effingham,4B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,247
+Effingham,4C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,394
+Effingham,5A,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,386
+Effingham,5B,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,511
+Effingham,5C,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,257
+Effingham,1A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,582
+Effingham,1B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,846
+Effingham,1C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,417
+Effingham,1D,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,629
+Effingham,2A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,909
+Effingham,2B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,937
+Effingham,2C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1330
+Effingham,3A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,438
+Effingham,3B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,504
+Effingham,3C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,579
+Effingham,3D,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,854
+Effingham,4A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1064
+Effingham,4B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,515
+Effingham,4C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,786
+Effingham,5A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,914
+Effingham,5B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1166
+Effingham,5C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,550
+Effingham,1A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,407
+Effingham,1B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,523
+Effingham,1C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,295
+Effingham,1D,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,410
+Effingham,2A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,639
+Effingham,2B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,598
+Effingham,2C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,869
+Effingham,3A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,270
+Effingham,3B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,331
+Effingham,3C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,400
+Effingham,3D,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,637
+Effingham,4A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,719
+Effingham,4B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,372
+Effingham,4C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,543
+Effingham,5A,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,540
+Effingham,5B,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,753
+Effingham,5C,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,358
+Effingham,1A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,799
+Effingham,1B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1096
+Effingham,1C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,550
+Effingham,1D,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,849
+Effingham,2A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1198
+Effingham,2B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1231
+Effingham,2C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1765
+Effingham,3A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,566
+Effingham,3B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,665
+Effingham,3C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,725
+Effingham,3D,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1158
+Effingham,4A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1405
+Effingham,4B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,727
+Effingham,4C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1025
+Effingham,5A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1200
+Effingham,5B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1560
+Effingham,5C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,750
+Effingham,1A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,210
+Effingham,1B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,321
+Effingham,1C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,177
+Effingham,1D,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,230
+Effingham,2A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,394
+Effingham,2B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,342
+Effingham,2C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,506
+Effingham,3A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,167
+Effingham,3B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,187
+Effingham,3C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,273
+Effingham,3D,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,384
+Effingham,4A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,438
+Effingham,4B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,202
+Effingham,4C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,345
+Effingham,5A,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,295
+Effingham,5B,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,424
+Effingham,5C,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,195

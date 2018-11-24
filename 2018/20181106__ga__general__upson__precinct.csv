@@ -1,0 +1,183 @@
+county,precinct,office,district,party,candidate,votes
+Upson,YATESVILLE,Governor,,REP,BRIAN KEMP,639
+Upson,SALEM,Governor,,REP,BRIAN KEMP,39
+Upson,REDBONE,Governor,,REP,BRIAN KEMP,3843
+Upson,TOWN,Governor,,REP,BRIAN KEMP,2542
+Upson,YATESVILLE,Governor,,DEM,STACEY ABRAMS,212
+Upson,SALEM,Governor,,DEM,STACEY ABRAMS,247
+Upson,REDBONE,Governor,,DEM,STACEY ABRAMS,1038
+Upson,TOWN,Governor,,DEM,STACEY ABRAMS,1946
+Upson,YATESVILLE,Governor,,LIB,TED METZ,5
+Upson,SALEM,Governor,,LIB,TED METZ,1
+Upson,REDBONE,Governor,,LIB,TED METZ,25
+Upson,TOWN,Governor,,LIB,TED METZ,31
+Upson,YATESVILLE,Lieutenant Governor,,REP,GEOFF DUNCAN,616
+Upson,SALEM,Lieutenant Governor,,REP,GEOFF DUNCAN,39
+Upson,REDBONE,Lieutenant Governor,,REP,GEOFF DUNCAN,3719
+Upson,TOWN,Lieutenant Governor,,REP,GEOFF DUNCAN,2471
+Upson,YATESVILLE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,203
+Upson,SALEM,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,227
+Upson,REDBONE,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,984
+Upson,TOWN,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1755
+Upson,YATESVILLE,Secretary Of State,,REP,BRAD RAFFENSPERGER,613
+Upson,SALEM,Secretary Of State,,REP,BRAD RAFFENSPERGER,37
+Upson,REDBONE,Secretary Of State,,REP,BRAD RAFFENSPERGER,3712
+Upson,TOWN,Secretary Of State,,REP,BRAD RAFFENSPERGER,2448
+Upson,YATESVILLE,Secretary Of State,,DEM,JOHN BARROW,222
+Upson,SALEM,Secretary Of State,,DEM,JOHN BARROW,239
+Upson,REDBONE,Secretary Of State,,DEM,JOHN BARROW,1066
+Upson,TOWN,Secretary Of State,,DEM,JOHN BARROW,1878
+Upson,YATESVILLE,Secretary Of State,,LIB,SMYTHE DUVAL,11
+Upson,SALEM,Secretary Of State,,LIB,SMYTHE DUVAL,6
+Upson,REDBONE,Secretary Of State,,LIB,SMYTHE DUVAL,49
+Upson,TOWN,Secretary Of State,,LIB,SMYTHE DUVAL,67
+Upson,YATESVILLE,Attorney General,,(REP,CHRIS CARR ,623
+Upson,SALEM,Attorney General,,(REP,CHRIS CARR ,47
+Upson,REDBONE,Attorney General,,(REP,CHRIS CARR ,3728
+Upson,TOWN,Attorney General,,(REP,CHRIS CARR ,2477
+Upson,YATESVILLE,Attorney General,,DEM,CHARLIE BAILEY,218
+Upson,SALEM,Attorney General,,DEM,CHARLIE BAILEY,234
+Upson,REDBONE,Attorney General,,DEM,CHARLIE BAILEY,1076
+Upson,TOWN,Attorney General,,DEM,CHARLIE BAILEY,1890
+Upson,YATESVILLE,Commissioner Of Agriculture,,(REP,GARY BLACK ,644
+Upson,SALEM,Commissioner Of Agriculture,,(REP,GARY BLACK ,48
+Upson,REDBONE,Commissioner Of Agriculture,,(REP,GARY BLACK ,3785
+Upson,TOWN,Commissioner Of Agriculture,,(REP,GARY BLACK ,2538
+Upson,YATESVILLE,Commissioner Of Agriculture,,DEM,FRED SWANN,198
+Upson,SALEM,Commissioner Of Agriculture,,DEM,FRED SWANN,234
+Upson,REDBONE,Commissioner Of Agriculture,,DEM,FRED SWANN,996
+Upson,TOWN,Commissioner Of Agriculture,,DEM,FRED SWANN,1805
+Upson,YATESVILLE,Commissioner Of Insurance,,REP,JIM BECK,631
+Upson,SALEM,Commissioner Of Insurance,,REP,JIM BECK,39
+Upson,REDBONE,Commissioner Of Insurance,,REP,JIM BECK,3743
+Upson,TOWN,Commissioner Of Insurance,,REP,JIM BECK,2458
+Upson,YATESVILLE,Commissioner Of Insurance,,DEM,JANICE LAWS,206
+Upson,SALEM,Commissioner Of Insurance,,DEM,JANICE LAWS,240
+Upson,REDBONE,Commissioner Of Insurance,,DEM,JANICE LAWS,994
+Upson,TOWN,Commissioner Of Insurance,,DEM,JANICE LAWS,1833
+Upson,YATESVILLE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,6
+Upson,SALEM,Commissioner Of Insurance,,LIB,DONNIE FOSTER,2
+Upson,REDBONE,Commissioner Of Insurance,,LIB,DONNIE FOSTER,74
+Upson,TOWN,Commissioner Of Insurance,,LIB,DONNIE FOSTER,87
+Upson,YATESVILLE,State School Superintendent,,(REP,RICHARD WOODS ,638
+Upson,SALEM,State School Superintendent,,(REP,RICHARD WOODS ,45
+Upson,REDBONE,State School Superintendent,,(REP,RICHARD WOODS ,3800
+Upson,TOWN,State School Superintendent,,(REP,RICHARD WOODS ,2564
+Upson,YATESVILLE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",208
+Upson,SALEM,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",238
+Upson,REDBONE,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1019
+Upson,TOWN,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1830
+Upson,YATESVILLE,Commissioner Of Labor,,(REP,MARK BUTLER ,636
+Upson,SALEM,Commissioner Of Labor,,(REP,MARK BUTLER ,43
+Upson,REDBONE,Commissioner Of Labor,,(REP,MARK BUTLER ,3790
+Upson,TOWN,Commissioner Of Labor,,(REP,MARK BUTLER ,2546
+Upson,YATESVILLE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,208
+Upson,SALEM,Commissioner Of Labor,,DEM,RICHARD KEATLEY,239
+Upson,REDBONE,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1013
+Upson,TOWN,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1842
+Upson,YATESVILLE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,614
+Upson,SALEM,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,36
+Upson,REDBONE,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3704
+Upson,TOWN,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2451
+Upson,YATESVILLE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,222
+Upson,SALEM,"Public Service Commission, District 3",3,DEM,LINDY MILLER,243
+Upson,REDBONE,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1034
+Upson,TOWN,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1868
+Upson,YATESVILLE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,10
+Upson,SALEM,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,3
+Upson,REDBONE,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,74
+Upson,TOWN,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,89
+Upson,YATESVILLE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,621
+Upson,SALEM,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,41
+Upson,REDBONE,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3707
+Upson,TOWN,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2501
+Upson,YATESVILLE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,206
+Upson,SALEM,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,235
+Upson,REDBONE,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1020
+Upson,TOWN,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1816
+Upson,YATESVILLE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,16
+Upson,SALEM,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,5
+Upson,REDBONE,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,72
+Upson,TOWN,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,72
+Upson,YATESVILLE,U.S. Representative,3,(REP,DREW FERGUSON ,639
+Upson,SALEM,U.S. Representative,3,(REP,DREW FERGUSON ,43
+Upson,REDBONE,U.S. Representative,3,(REP,DREW FERGUSON ,3808
+Upson,TOWN,U.S. Representative,3,(REP,DREW FERGUSON ,2573
+Upson,YATESVILLE,U.S. Representative,3,DEM,CHUCK ENDERLIN,207
+Upson,SALEM,U.S. Representative,3,DEM,CHUCK ENDERLIN,240
+Upson,REDBONE,U.S. Representative,3,DEM,CHUCK ENDERLIN,1030
+Upson,TOWN,U.S. Representative,3,DEM,CHUCK ENDERLIN,1849
+Upson,YATESVILLE,State Senator,18,(REP,JOHN F. KENNEDY ,723
+Upson,SALEM,State Senator,18,(REP,JOHN F. KENNEDY ,154
+Upson,REDBONE,State Senator,18,(REP,JOHN F. KENNEDY ,4234
+Upson,TOWN,State Senator,18,(REP,JOHN F. KENNEDY ,3329
+Upson,YATESVILLE,State Representative,131,REP,KEN PULLIN,642
+Upson,SALEM,State Representative,131,REP,KEN PULLIN,46
+Upson,REDBONE,State Representative,131,REP,KEN PULLIN,3802
+Upson,TOWN,State Representative,131,REP,KEN PULLIN,2563
+Upson,YATESVILLE,State Representative,131,DEM,CHRIS BENTON,208
+Upson,SALEM,State Representative,131,DEM,CHRIS BENTON,236
+Upson,REDBONE,State Representative,131,DEM,CHRIS BENTON,1038
+Upson,TOWN,State Representative,131,DEM,CHRIS BENTON,1856
+Upson,YATESVILLE,CC, D3,R,P. JONES,499
+Upson,REDBONE,CC, D3,R,P. JONES,1869
+Upson,REDBONE,CC, D4,R,B. WATSON IV,311
+Upson,TOWN,CC, D4,R,B. WATSON IV,1078
+Upson,REDBONE,CC, D4,D,A. S. DAWSON,423
+Upson,TOWN,CC, D4,D,A. S. DAWSON,554
+Upson,YATESVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,626
+Upson,SALEM,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,207
+Upson,REDBONE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3825
+Upson,TOWN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3527
+Upson,YATESVILLE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,193
+Upson,SALEM,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,61
+Upson,REDBONE,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,889
+Upson,TOWN,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,790
+Upson,YATESVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,521
+Upson,SALEM,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,184
+Upson,REDBONE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3185
+Upson,TOWN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3045
+Upson,YATESVILLE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,284
+Upson,SALEM,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,81
+Upson,REDBONE,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1413
+Upson,TOWN,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1170
+Upson,YATESVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,448
+Upson,SALEM,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,159
+Upson,REDBONE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2837
+Upson,TOWN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2603
+Upson,YATESVILLE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,346
+Upson,SALEM,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,101
+Upson,REDBONE,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1723
+Upson,TOWN,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1555
+Upson,YATESVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,644
+Upson,SALEM,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,232
+Upson,REDBONE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3804
+Upson,TOWN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3590
+Upson,YATESVILLE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,184
+Upson,SALEM,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,38
+Upson,REDBONE,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,926
+Upson,TOWN,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,731
+Upson,YATESVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,490
+Upson,SALEM,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,181
+Upson,REDBONE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3154
+Upson,TOWN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3099
+Upson,YATESVILLE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,302
+Upson,SALEM,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,80
+Upson,REDBONE,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1456
+Upson,TOWN,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1118
+Upson,YATESVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,414
+Upson,SALEM,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,158
+Upson,REDBONE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2582
+Upson,TOWN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2472
+Upson,YATESVILLE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,370
+Upson,SALEM,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,101
+Upson,REDBONE,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1949
+Upson,TOWN,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1669
+Upson,YATESVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,563
+Upson,SALEM,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,203
+Upson,REDBONE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3457
+Upson,TOWN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3334
+Upson,YATESVILLE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,249
+Upson,SALEM,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,64
+Upson,REDBONE,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1198
+Upson,TOWN,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,948

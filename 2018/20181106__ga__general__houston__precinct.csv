@@ -1,0 +1,738 @@
+county,precinct,office,district,party,candidate,votes
+Houston,ANNX,Governor,,REP,BRIAN KEMP,1956
+Houston,BMS,Governor,,REP,BRIAN KEMP,3955
+Houston,CENT,Governor,,REP,BRIAN KEMP,2550
+Houston,CGTC,Governor,,REP,BRIAN KEMP,1800
+Houston,FMMS,Governor,,REP,BRIAN KEMP,2941
+Houston,HAFS,Governor,,REP,BRIAN KEMP,855
+Houston,HCTC,Governor,,REP,BRIAN KEMP,1680
+Houston,HEFS,Governor,,REP,BRIAN KEMP,562
+Houston,HHPC,Governor,,REP,BRIAN KEMP,2393
+Houston,MCMS,Governor,,REP,BRIAN KEMP,3330
+Houston,NSES,Governor,,REP,BRIAN KEMP,967
+Houston,RECR,Governor,,REP,BRIAN KEMP,813
+Houston,ROZR,Governor,,REP,BRIAN KEMP,5220
+Houston,TMS,Governor,,REP,BRIAN KEMP,1181
+Houston,TWPK,Governor,,REP,BRIAN KEMP,1644
+Houston,VHS,Governor,,REP,BRIAN KEMP,2467
+Houston,ANNX,Governor,,DEM,STACEY ABRAMS,927
+Houston,BMS,Governor,,DEM,STACEY ABRAMS,1797
+Houston,CENT,Governor,,DEM,STACEY ABRAMS,1672
+Houston,CGTC,Governor,,DEM,STACEY ABRAMS,1016
+Houston,FMMS,Governor,,DEM,STACEY ABRAMS,2277
+Houston,HAFS,Governor,,DEM,STACEY ABRAMS,240
+Houston,HCTC,Governor,,DEM,STACEY ABRAMS,1583
+Houston,HEFS,Governor,,DEM,STACEY ABRAMS,300
+Houston,HHPC,Governor,,DEM,STACEY ABRAMS,2420
+Houston,MCMS,Governor,,DEM,STACEY ABRAMS,1986
+Houston,NSES,Governor,,DEM,STACEY ABRAMS,541
+Houston,RECR,Governor,,DEM,STACEY ABRAMS,3236
+Houston,ROZR,Governor,,DEM,STACEY ABRAMS,2689
+Houston,TMS,Governor,,DEM,STACEY ABRAMS,1600
+Houston,TWPK,Governor,,DEM,STACEY ABRAMS,1102
+Houston,VHS,Governor,,DEM,STACEY ABRAMS,972
+Houston,ANNX,Governor,,LIB,TED METZ,27
+Houston,BMS,Governor,,LIB,TED METZ,57
+Houston,CENT,Governor,,LIB,TED METZ,42
+Houston,CGTC,Governor,,LIB,TED METZ,29
+Houston,FMMS,Governor,,LIB,TED METZ,64
+Houston,HAFS,Governor,,LIB,TED METZ,3
+Houston,HCTC,Governor,,LIB,TED METZ,41
+Houston,HEFS,Governor,,LIB,TED METZ,3
+Houston,HHPC,Governor,,LIB,TED METZ,47
+Houston,MCMS,Governor,,LIB,TED METZ,56
+Houston,NSES,Governor,,LIB,TED METZ,15
+Houston,RECR,Governor,,LIB,TED METZ,28
+Houston,ROZR,Governor,,LIB,TED METZ,67
+Houston,TMS,Governor,,LIB,TED METZ,14
+Houston,TWPK,Governor,,LIB,TED METZ,32
+Houston,VHS,Governor,,LIB,TED METZ,35
+Houston,ANNX,Lieutenant Governor,,REP,GEOFF DUNCAN,1917
+Houston,BMS,Lieutenant Governor,,REP,GEOFF DUNCAN,3883
+Houston,CENT,Lieutenant Governor,,REP,GEOFF DUNCAN,2467
+Houston,CGTC,Lieutenant Governor,,REP,GEOFF DUNCAN,1744
+Houston,FMMS,Lieutenant Governor,,REP,GEOFF DUNCAN,2887
+Houston,HAFS,Lieutenant Governor,,REP,GEOFF DUNCAN,825
+Houston,HCTC,Lieutenant Governor,,REP,GEOFF DUNCAN,1617
+Houston,HEFS,Lieutenant Governor,,REP,GEOFF DUNCAN,543
+Houston,HHPC,Lieutenant Governor,,REP,GEOFF DUNCAN,2283
+Houston,MCMS,Lieutenant Governor,,REP,GEOFF DUNCAN,3294
+Houston,NSES,Lieutenant Governor,,REP,GEOFF DUNCAN,932
+Houston,RECR,Lieutenant Governor,,REP,GEOFF DUNCAN,802
+Houston,ROZR,Lieutenant Governor,,REP,GEOFF DUNCAN,5069
+Houston,TMS,Lieutenant Governor,,REP,GEOFF DUNCAN,1157
+Houston,TWPK,Lieutenant Governor,,REP,GEOFF DUNCAN,1618
+Houston,VHS,Lieutenant Governor,,REP,GEOFF DUNCAN,2418
+Houston,ANNX,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,896
+Houston,BMS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1762
+Houston,CENT,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1646
+Houston,CGTC,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,997
+Houston,FMMS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2222
+Houston,HAFS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,231
+Houston,HCTC,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1546
+Houston,HEFS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,286
+Houston,HHPC,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2334
+Houston,MCMS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1927
+Houston,NSES,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,531
+Houston,RECR,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2975
+Houston,ROZR,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,2525
+Houston,TMS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1549
+Houston,TWPK,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1056
+Houston,VHS,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,959
+Houston,ANNX,Secretary Of State,,REP,BRAD RAFFENSPERGER,1879
+Houston,BMS,Secretary Of State,,REP,BRAD RAFFENSPERGER,3830
+Houston,CENT,Secretary Of State,,REP,BRAD RAFFENSPERGER,2434
+Houston,CGTC,Secretary Of State,,REP,BRAD RAFFENSPERGER,1744
+Houston,FMMS,Secretary Of State,,REP,BRAD RAFFENSPERGER,2842
+Houston,HAFS,Secretary Of State,,REP,BRAD RAFFENSPERGER,819
+Houston,HCTC,Secretary Of State,,REP,BRAD RAFFENSPERGER,1585
+Houston,HEFS,Secretary Of State,,REP,BRAD RAFFENSPERGER,547
+Houston,HHPC,Secretary Of State,,REP,BRAD RAFFENSPERGER,2233
+Houston,MCMS,Secretary Of State,,REP,BRAD RAFFENSPERGER,3223
+Houston,NSES,Secretary Of State,,REP,BRAD RAFFENSPERGER,923
+Houston,RECR,Secretary Of State,,REP,BRAD RAFFENSPERGER,776
+Houston,ROZR,Secretary Of State,,REP,BRAD RAFFENSPERGER,5020
+Houston,TMS,Secretary Of State,,REP,BRAD RAFFENSPERGER,1147
+Houston,TWPK,Secretary Of State,,REP,BRAD RAFFENSPERGER,1585
+Houston,VHS,Secretary Of State,,REP,BRAD RAFFENSPERGER,2373
+Houston,ANNX,Secretary Of State,,DEM,JOHN BARROW,951
+Houston,BMS,Secretary Of State,,DEM,JOHN BARROW,1842
+Houston,CENT,Secretary Of State,,DEM,JOHN BARROW,1704
+Houston,CGTC,Secretary Of State,,DEM,JOHN BARROW,1025
+Houston,FMMS,Secretary Of State,,DEM,JOHN BARROW,2280
+Houston,HAFS,Secretary Of State,,DEM,JOHN BARROW,250
+Houston,HCTC,Secretary Of State,,DEM,JOHN BARROW,1575
+Houston,HEFS,Secretary Of State,,DEM,JOHN BARROW,302
+Houston,HHPC,Secretary Of State,,DEM,JOHN BARROW,2432
+Houston,MCMS,Secretary Of State,,DEM,JOHN BARROW,2000
+Houston,NSES,Secretary Of State,,DEM,JOHN BARROW,556
+Houston,RECR,Secretary Of State,,DEM,JOHN BARROW,3150
+Houston,ROZR,Secretary Of State,,DEM,JOHN BARROW,2732
+Houston,TMS,Secretary Of State,,DEM,JOHN BARROW,1577
+Houston,TWPK,Secretary Of State,,DEM,JOHN BARROW,1114
+Houston,VHS,Secretary Of State,,DEM,JOHN BARROW,998
+Houston,ANNX,Secretary Of State,,LIB,SMYTHE DUVAL,50
+Houston,BMS,Secretary Of State,,LIB,SMYTHE DUVAL,87
+Houston,CENT,Secretary Of State,,LIB,SMYTHE DUVAL,77
+Houston,CGTC,Secretary Of State,,LIB,SMYTHE DUVAL,51
+Houston,FMMS,Secretary Of State,,LIB,SMYTHE DUVAL,113
+Houston,HAFS,Secretary Of State,,LIB,SMYTHE DUVAL,13
+Houston,HCTC,Secretary Of State,,LIB,SMYTHE DUVAL,100
+Houston,HEFS,Secretary Of State,,LIB,SMYTHE DUVAL,3
+Houston,HHPC,Secretary Of State,,LIB,SMYTHE DUVAL,115
+Houston,MCMS,Secretary Of State,,LIB,SMYTHE DUVAL,98
+Houston,NSES,Secretary Of State,,LIB,SMYTHE DUVAL,25
+Houston,RECR,Secretary Of State,,LIB,SMYTHE DUVAL,76
+Houston,ROZR,Secretary Of State,,LIB,SMYTHE DUVAL,127
+Houston,TMS,Secretary Of State,,LIB,SMYTHE DUVAL,45
+Houston,TWPK,Secretary Of State,,LIB,SMYTHE DUVAL,54
+Houston,VHS,Secretary Of State,,LIB,SMYTHE DUVAL,64
+Houston,ANNX,Attorney General,,(REP,CHRIS CARR ,1945
+Houston,BMS,Attorney General,,(REP,CHRIS CARR ,3954
+Houston,CENT,Attorney General,,(REP,CHRIS CARR ,2512
+Houston,CGTC,Attorney General,,(REP,CHRIS CARR ,1781
+Houston,FMMS,Attorney General,,(REP,CHRIS CARR ,2961
+Houston,HAFS,Attorney General,,(REP,CHRIS CARR ,834
+Houston,HCTC,Attorney General,,(REP,CHRIS CARR ,1654
+Houston,HEFS,Attorney General,,(REP,CHRIS CARR ,552
+Houston,HHPC,Attorney General,,(REP,CHRIS CARR ,2331
+Houston,MCMS,Attorney General,,(REP,CHRIS CARR ,3366
+Houston,NSES,Attorney General,,(REP,CHRIS CARR ,957
+Houston,RECR,Attorney General,,(REP,CHRIS CARR ,838
+Houston,ROZR,Attorney General,,(REP,CHRIS CARR ,5160
+Houston,TMS,Attorney General,,(REP,CHRIS CARR ,1178
+Houston,TWPK,Attorney General,,(REP,CHRIS CARR ,1642
+Houston,VHS,Attorney General,,(REP,CHRIS CARR ,2442
+Houston,ANNX,Attorney General,,DEM,CHARLIE BAILEY,923
+Houston,BMS,Attorney General,,DEM,CHARLIE BAILEY,1793
+Houston,CENT,Attorney General,,DEM,CHARLIE BAILEY,1693
+Houston,CGTC,Attorney General,,DEM,CHARLIE BAILEY,1020
+Houston,FMMS,Attorney General,,DEM,CHARLIE BAILEY,2243
+Houston,HAFS,Attorney General,,DEM,CHARLIE BAILEY,243
+Houston,HCTC,Attorney General,,DEM,CHARLIE BAILEY,1589
+Houston,HEFS,Attorney General,,DEM,CHARLIE BAILEY,299
+Houston,HHPC,Attorney General,,DEM,CHARLIE BAILEY,2435
+Houston,MCMS,Attorney General,,DEM,CHARLIE BAILEY,1930
+Houston,NSES,Attorney General,,DEM,CHARLIE BAILEY,544
+Houston,RECR,Attorney General,,DEM,CHARLIE BAILEY,3120
+Houston,ROZR,Attorney General,,DEM,CHARLIE BAILEY,2695
+Houston,TMS,Attorney General,,DEM,CHARLIE BAILEY,1584
+Houston,TWPK,Attorney General,,DEM,CHARLIE BAILEY,1107
+Houston,VHS,Attorney General,,DEM,CHARLIE BAILEY,975
+Houston,ANNX,Commissioner Of Agriculture,,(REP,GARY BLACK ,1987
+Houston,BMS,Commissioner Of Agriculture,,(REP,GARY BLACK ,4047
+Houston,CENT,Commissioner Of Agriculture,,(REP,GARY BLACK ,2572
+Houston,CGTC,Commissioner Of Agriculture,,(REP,GARY BLACK ,1844
+Houston,FMMS,Commissioner Of Agriculture,,(REP,GARY BLACK ,3027
+Houston,HAFS,Commissioner Of Agriculture,,(REP,GARY BLACK ,858
+Houston,HCTC,Commissioner Of Agriculture,,(REP,GARY BLACK ,1697
+Houston,HEFS,Commissioner Of Agriculture,,(REP,GARY BLACK ,564
+Houston,HHPC,Commissioner Of Agriculture,,(REP,GARY BLACK ,2413
+Houston,MCMS,Commissioner Of Agriculture,,(REP,GARY BLACK ,3437
+Houston,NSES,Commissioner Of Agriculture,,(REP,GARY BLACK ,963
+Houston,RECR,Commissioner Of Agriculture,,(REP,GARY BLACK ,888
+Houston,ROZR,Commissioner Of Agriculture,,(REP,GARY BLACK ,5282
+Houston,TMS,Commissioner Of Agriculture,,(REP,GARY BLACK ,1209
+Houston,TWPK,Commissioner Of Agriculture,,(REP,GARY BLACK ,1665
+Houston,VHS,Commissioner Of Agriculture,,(REP,GARY BLACK ,2517
+Houston,ANNX,Commissioner Of Agriculture,,DEM,FRED SWANN,870
+Houston,BMS,Commissioner Of Agriculture,,DEM,FRED SWANN,1687
+Houston,CENT,Commissioner Of Agriculture,,DEM,FRED SWANN,1615
+Houston,CGTC,Commissioner Of Agriculture,,DEM,FRED SWANN,958
+Houston,FMMS,Commissioner Of Agriculture,,DEM,FRED SWANN,2180
+Houston,HAFS,Commissioner Of Agriculture,,DEM,FRED SWANN,221
+Houston,HCTC,Commissioner Of Agriculture,,DEM,FRED SWANN,1520
+Houston,HEFS,Commissioner Of Agriculture,,DEM,FRED SWANN,286
+Houston,HHPC,Commissioner Of Agriculture,,DEM,FRED SWANN,2318
+Houston,MCMS,Commissioner Of Agriculture,,DEM,FRED SWANN,1847
+Houston,NSES,Commissioner Of Agriculture,,DEM,FRED SWANN,527
+Houston,RECR,Commissioner Of Agriculture,,DEM,FRED SWANN,3059
+Houston,ROZR,Commissioner Of Agriculture,,DEM,FRED SWANN,2542
+Houston,TMS,Commissioner Of Agriculture,,DEM,FRED SWANN,1543
+Houston,TWPK,Commissioner Of Agriculture,,DEM,FRED SWANN,1066
+Houston,VHS,Commissioner Of Agriculture,,DEM,FRED SWANN,909
+Houston,ANNX,Commissioner Of Insurance,,REP,JIM BECK,1917
+Houston,BMS,Commissioner Of Insurance,,REP,JIM BECK,3900
+Houston,CENT,Commissioner Of Insurance,,REP,JIM BECK,2500
+Houston,CGTC,Commissioner Of Insurance,,REP,JIM BECK,1765
+Houston,FMMS,Commissioner Of Insurance,,REP,JIM BECK,2901
+Houston,HAFS,Commissioner Of Insurance,,REP,JIM BECK,830
+Houston,HCTC,Commissioner Of Insurance,,REP,JIM BECK,1631
+Houston,HEFS,Commissioner Of Insurance,,REP,JIM BECK,555
+Houston,HHPC,Commissioner Of Insurance,,REP,JIM BECK,2345
+Houston,MCMS,Commissioner Of Insurance,,REP,JIM BECK,3306
+Houston,NSES,Commissioner Of Insurance,,REP,JIM BECK,949
+Houston,RECR,Commissioner Of Insurance,,REP,JIM BECK,798
+Houston,ROZR,Commissioner Of Insurance,,REP,JIM BECK,5136
+Houston,TMS,Commissioner Of Insurance,,REP,JIM BECK,1166
+Houston,TWPK,Commissioner Of Insurance,,REP,JIM BECK,1620
+Houston,VHS,Commissioner Of Insurance,,REP,JIM BECK,2426
+Houston,ANNX,Commissioner Of Insurance,,DEM,JANICE LAWS,890
+Houston,BMS,Commissioner Of Insurance,,DEM,JANICE LAWS,1707
+Houston,CENT,Commissioner Of Insurance,,DEM,JANICE LAWS,1613
+Houston,CGTC,Commissioner Of Insurance,,DEM,JANICE LAWS,971
+Houston,FMMS,Commissioner Of Insurance,,DEM,JANICE LAWS,2171
+Houston,HAFS,Commissioner Of Insurance,,DEM,JANICE LAWS,235
+Houston,HCTC,Commissioner Of Insurance,,DEM,JANICE LAWS,1533
+Houston,HEFS,Commissioner Of Insurance,,DEM,JANICE LAWS,294
+Houston,HHPC,Commissioner Of Insurance,,DEM,JANICE LAWS,2304
+Houston,MCMS,Commissioner Of Insurance,,DEM,JANICE LAWS,1875
+Houston,NSES,Commissioner Of Insurance,,DEM,JANICE LAWS,517
+Houston,RECR,Commissioner Of Insurance,,DEM,JANICE LAWS,3079
+Houston,ROZR,Commissioner Of Insurance,,DEM,JANICE LAWS,2572
+Houston,TMS,Commissioner Of Insurance,,DEM,JANICE LAWS,1542
+Houston,TWPK,Commissioner Of Insurance,,DEM,JANICE LAWS,1059
+Houston,VHS,Commissioner Of Insurance,,DEM,JANICE LAWS,923
+Houston,ANNX,Commissioner Of Insurance,,LIB,DONNIE FOSTER,65
+Houston,BMS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,134
+Houston,CENT,Commissioner Of Insurance,,LIB,DONNIE FOSTER,91
+Houston,CGTC,Commissioner Of Insurance,,LIB,DONNIE FOSTER,70
+Houston,FMMS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,145
+Houston,HAFS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,15
+Houston,HCTC,Commissioner Of Insurance,,LIB,DONNIE FOSTER,87
+Houston,HEFS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,4
+Houston,HHPC,Commissioner Of Insurance,,LIB,DONNIE FOSTER,121
+Houston,MCMS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,121
+Houston,NSES,Commissioner Of Insurance,,LIB,DONNIE FOSTER,37
+Houston,RECR,Commissioner Of Insurance,,LIB,DONNIE FOSTER,89
+Houston,ROZR,Commissioner Of Insurance,,LIB,DONNIE FOSTER,145
+Houston,TMS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,43
+Houston,TWPK,Commissioner Of Insurance,,LIB,DONNIE FOSTER,72
+Houston,VHS,Commissioner Of Insurance,,LIB,DONNIE FOSTER,81
+Houston,ANNX,State School Superintendent,,(REP,RICHARD WOODS ,1990
+Houston,BMS,State School Superintendent,,(REP,RICHARD WOODS ,4021
+Houston,CENT,State School Superintendent,,(REP,RICHARD WOODS ,2562
+Houston,CGTC,State School Superintendent,,(REP,RICHARD WOODS ,1841
+Houston,FMMS,State School Superintendent,,(REP,RICHARD WOODS ,3054
+Houston,HAFS,State School Superintendent,,(REP,RICHARD WOODS ,857
+Houston,HCTC,State School Superintendent,,(REP,RICHARD WOODS ,1708
+Houston,HEFS,State School Superintendent,,(REP,RICHARD WOODS ,559
+Houston,HHPC,State School Superintendent,,(REP,RICHARD WOODS ,2427
+Houston,MCMS,State School Superintendent,,(REP,RICHARD WOODS ,3428
+Houston,NSES,State School Superintendent,,(REP,RICHARD WOODS ,986
+Houston,RECR,State School Superintendent,,(REP,RICHARD WOODS ,863
+Houston,ROZR,State School Superintendent,,(REP,RICHARD WOODS ,5296
+Houston,TMS,State School Superintendent,,(REP,RICHARD WOODS ,1222
+Houston,TWPK,State School Superintendent,,(REP,RICHARD WOODS ,1689
+Houston,VHS,State School Superintendent,,(REP,RICHARD WOODS ,2505
+Houston,ANNX,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",883
+Houston,BMS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1711
+Houston,CENT,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1631
+Houston,CGTC,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",969
+Houston,FMMS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2172
+Houston,HAFS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",225
+Houston,HCTC,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1537
+Houston,HEFS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",293
+Houston,HHPC,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2334
+Houston,MCMS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1873
+Houston,NSES,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",508
+Houston,RECR,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",3110
+Houston,ROZR,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",2574
+Houston,TMS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1543
+Houston,TWPK,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1055
+Houston,VHS,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",929
+Houston,ANNX,Commissioner Of Labor,,(REP,MARK BUTLER ,1981
+Houston,BMS,Commissioner Of Labor,,(REP,MARK BUTLER ,4014
+Houston,CENT,Commissioner Of Labor,,(REP,MARK BUTLER ,2554
+Houston,CGTC,Commissioner Of Labor,,(REP,MARK BUTLER ,1830
+Houston,FMMS,Commissioner Of Labor,,(REP,MARK BUTLER ,2998
+Houston,HAFS,Commissioner Of Labor,,(REP,MARK BUTLER ,848
+Houston,HCTC,Commissioner Of Labor,,(REP,MARK BUTLER ,1694
+Houston,HEFS,Commissioner Of Labor,,(REP,MARK BUTLER ,556
+Houston,HHPC,Commissioner Of Labor,,(REP,MARK BUTLER ,2408
+Houston,MCMS,Commissioner Of Labor,,(REP,MARK BUTLER ,3407
+Houston,NSES,Commissioner Of Labor,,(REP,MARK BUTLER ,969
+Houston,RECR,Commissioner Of Labor,,(REP,MARK BUTLER ,864
+Houston,ROZR,Commissioner Of Labor,,(REP,MARK BUTLER ,5227
+Houston,TMS,Commissioner Of Labor,,(REP,MARK BUTLER ,1197
+Houston,TWPK,Commissioner Of Labor,,(REP,MARK BUTLER ,1664
+Houston,VHS,Commissioner Of Labor,,(REP,MARK BUTLER ,2478
+Houston,ANNX,Commissioner Of Labor,,DEM,RICHARD KEATLEY,888
+Houston,BMS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1718
+Houston,CENT,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1638
+Houston,CGTC,Commissioner Of Labor,,DEM,RICHARD KEATLEY,967
+Houston,FMMS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2206
+Houston,HAFS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,234
+Houston,HCTC,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1548
+Houston,HEFS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,295
+Houston,HHPC,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2358
+Houston,MCMS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1874
+Houston,NSES,Commissioner Of Labor,,DEM,RICHARD KEATLEY,527
+Houston,RECR,Commissioner Of Labor,,DEM,RICHARD KEATLEY,3103
+Houston,ROZR,Commissioner Of Labor,,DEM,RICHARD KEATLEY,2610
+Houston,TMS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1557
+Houston,TWPK,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1074
+Houston,VHS,Commissioner Of Labor,,DEM,RICHARD KEATLEY,939
+Houston,ANNX,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1912
+Houston,BMS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3875
+Houston,CENT,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2456
+Houston,CGTC,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1758
+Houston,FMMS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2867
+Houston,HAFS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,832
+Houston,HCTC,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1622
+Houston,HEFS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,548
+Houston,HHPC,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2292
+Houston,MCMS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3273
+Houston,NSES,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,934
+Houston,RECR,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,792
+Houston,ROZR,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,5077
+Houston,TMS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1159
+Houston,TWPK,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1608
+Houston,VHS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,2405
+Houston,ANNX,"Public Service Commission, District 3",3,DEM,LINDY MILLER,905
+Houston,BMS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1743
+Houston,CENT,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1648
+Houston,CGTC,"Public Service Commission, District 3",3,DEM,LINDY MILLER,985
+Houston,FMMS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2203
+Houston,HAFS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,241
+Houston,HCTC,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1540
+Houston,HEFS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,304
+Houston,HHPC,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2344
+Houston,MCMS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1898
+Houston,NSES,"Public Service Commission, District 3",3,DEM,LINDY MILLER,536
+Houston,RECR,"Public Service Commission, District 3",3,DEM,LINDY MILLER,3114
+Houston,ROZR,"Public Service Commission, District 3",3,DEM,LINDY MILLER,2622
+Houston,TMS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1555
+Houston,TWPK,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1066
+Houston,VHS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,940
+Houston,ANNX,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,55
+Houston,BMS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,118
+Houston,CENT,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,93
+Houston,CGTC,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,63
+Houston,FMMS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,145
+Houston,HAFS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,13
+Houston,HCTC,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,91
+Houston,HEFS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,4
+Houston,HHPC,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,130
+Houston,MCMS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,119
+Houston,NSES,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,27
+Houston,RECR,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,77
+Houston,ROZR,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,158
+Houston,TMS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,49
+Houston,TWPK,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,75
+Houston,VHS,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,74
+Houston,ANNX,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1929
+Houston,BMS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3898
+Houston,CENT,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2490
+Houston,CGTC,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1780
+Houston,FMMS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2898
+Houston,HAFS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,841
+Houston,HCTC,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1637
+Houston,HEFS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,549
+Houston,HHPC,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2311
+Houston,MCMS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3310
+Houston,NSES,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,941
+Houston,RECR,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,810
+Houston,ROZR,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,5080
+Houston,TMS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1159
+Houston,TWPK,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1600
+Houston,VHS,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,2403
+Houston,ANNX,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,891
+Houston,BMS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1722
+Houston,CENT,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1628
+Houston,CGTC,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,965
+Houston,FMMS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2180
+Houston,HAFS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,227
+Houston,HCTC,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1522
+Houston,HEFS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,297
+Houston,HHPC,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2341
+Houston,MCMS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1876
+Houston,NSES,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,524
+Houston,RECR,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,3081
+Houston,ROZR,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,2597
+Houston,TMS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1550
+Houston,TWPK,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1073
+Houston,VHS,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,933
+Houston,ANNX,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,51
+Houston,BMS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,120
+Houston,CENT,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,90
+Houston,CGTC,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,65
+Houston,FMMS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,135
+Houston,HAFS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14
+Houston,HCTC,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,92
+Houston,HEFS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,6
+Houston,HHPC,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,114
+Houston,MCMS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,111
+Houston,NSES,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
+Houston,RECR,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,77
+Houston,ROZR,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,162
+Houston,TMS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,47
+Houston,TWPK,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,75
+Houston,VHS,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,83
+Houston,ANNX,U.S. Representative,8,(REP,AUSTIN SCOTT ,2321
+Houston,BMS,U.S. Representative,8,(REP,AUSTIN SCOTT ,4696
+Houston,CENT,U.S. Representative,8,(REP,AUSTIN SCOTT ,3183
+Houston,CGTC,U.S. Representative,8,(REP,AUSTIN SCOTT ,2186
+Houston,FMMS,U.S. Representative,8,(REP,AUSTIN SCOTT ,3883
+Houston,HAFS,U.S. Representative,8,(REP,AUSTIN SCOTT ,926
+Houston,HCTC,U.S. Representative,8,(REP,AUSTIN SCOTT ,2328
+Houston,HEFS,U.S. Representative,8,(REP,AUSTIN SCOTT ,651
+Houston,HHPC,U.S. Representative,8,(REP,AUSTIN SCOTT ,3329
+Houston,MCMS,U.S. Representative,8,(REP,AUSTIN SCOTT ,4241
+Houston,NSES,U.S. Representative,8,(REP,AUSTIN SCOTT ,1171
+Houston,RECR,U.S. Representative,8,(REP,AUSTIN SCOTT ,1955
+Houston,ROZR,U.S. Representative,8,(REP,AUSTIN SCOTT ,6232
+Houston,TMS,U.S. Representative,8,(REP,AUSTIN SCOTT ,1800
+Houston,TWPK,U.S. Representative,8,(REP,AUSTIN SCOTT ,2112
+Houston,VHS,U.S. Representative,8,(REP,AUSTIN SCOTT ,2836
+Houston,CENT,State Senator,18,(REP,JOHN F. KENNEDY ,3191
+Houston,HHPC,State Senator,18,(REP,JOHN F. KENNEDY ,1724
+Houston,NSES,State Senator,18,(REP,JOHN F. KENNEDY ,1121
+Houston,RECR,State Senator,18,(REP,JOHN F. KENNEDY ,271
+Houston,TMS,State Senator,18,(REP,JOHN F. KENNEDY ,856
+Houston,ANNX,State Senator,20,(REP,LARRY WALKER ,2331
+Houston,BMS,State Senator,20,(REP,LARRY WALKER ,4726
+Houston,CGTC,State Senator,20,(REP,LARRY WALKER ,2206
+Houston,FMMS,State Senator,20,(REP,LARRY WALKER ,3912
+Houston,HAFS,State Senator,20,(REP,LARRY WALKER ,938
+Houston,HCTC,State Senator,20,(REP,LARRY WALKER ,2343
+Houston,HEFS,State Senator,20,(REP,LARRY WALKER ,669
+Houston,HHPC,State Senator,20,(REP,LARRY WALKER ,1481
+Houston,MCMS,State Senator,20,(REP,LARRY WALKER ,4233
+Houston,RECR,State Senator,20,(REP,LARRY WALKER ,525
+Houston,ROZR,State Senator,20,(REP,LARRY WALKER ,6431
+Houston,TMS,State Senator,20,(REP,LARRY WALKER ,964
+Houston,TWPK,State Senator,20,(REP,LARRY WALKER ,2124
+Houston,VHS,State Senator,20,(REP,LARRY WALKER ,2864
+Houston,HHPC,State Senator,26,(DEM,DAVID E. LUCAS SR ,180
+Houston,NSES,State Senator,26,(DEM,DAVID E. LUCAS SR ,32
+Houston,RECR,State Senator,26,(DEM,DAVID E. LUCAS SR ,2028
+Houston,CENT,State Representative,140,(REP,ROBERT DICKEY ,222
+Houston,HHPC,State Representative,140,(REP,ROBERT DICKEY ,1148
+Houston,NSES,State Representative,140,(REP,ROBERT DICKEY ,1169
+Houston,RECR,State Representative,140,(REP,ROBERT DICKEY ,888
+Houston,BMS,State Representative,144,REP,DANNY MATHIS,2404
+Houston,BMS,State Representative,144,DEM,JESSICA WALDEN,1124
+Houston,BMS,State Representative,146,(REP,SHAW BLACKMON ,1810
+Houston,CGTC,State Representative,146,(REP,SHAW BLACKMON ,2208
+Houston,FMMS,State Representative,146,(REP,SHAW BLACKMON ,3866
+Houston,MCMS,State Representative,146,(REP,SHAW BLACKMON ,4225
+Houston,ROZR,State Representative,146,(REP,SHAW BLACKMON ,5257
+Houston,TWPK,State Representative,146,(REP,SHAW BLACKMON ,1754
+Houston,VHS,State Representative,146,(REP,SHAW BLACKMON ,1255
+Houston,ANNX,State Representative,147,(REP,HEATH CLARK ,1995
+Houston,CENT,State Representative,147,(REP,HEATH CLARK ,2405
+Houston,HCTC,State Representative,147,(REP,HEATH CLARK ,1700
+Houston,HHPC,State Representative,147,(REP,HEATH CLARK ,1659
+Houston,RECR,State Representative,147,(REP,HEATH CLARK ,515
+Houston,TMS,State Representative,147,(REP,HEATH CLARK ,1201
+Houston,TWPK,State Representative,147,(REP,HEATH CLARK ,312
+Houston,ANNX,State Representative,147,DEM,FENIKA MILLER,866
+Houston,CENT,State Representative,147,DEM,FENIKA MILLER,1433
+Houston,HCTC,State Representative,147,DEM,FENIKA MILLER,1525
+Houston,HHPC,State Representative,147,DEM,FENIKA MILLER,1376
+Houston,RECR,State Representative,147,DEM,FENIKA MILLER,1429
+Houston,TMS,State Representative,147,DEM,FENIKA MILLER,1551
+Houston,TWPK,State Representative,147,DEM,FENIKA MILLER,108
+Houston,HAFS,State Representative,148,REP,NOEL WILLIAMS JR,846
+Houston,HEFS,State Representative,148,REP,NOEL WILLIAMS JR,554
+Houston,ROZR,State Representative,148,REP,NOEL WILLIAMS JR,927
+Houston,VHS,State Representative,148,REP,NOEL WILLIAMS JR,1336
+Houston,HAFS,State Representative,148,DEM,JOSHUA DERISO,231
+Houston,HEFS,State Representative,148,DEM,JOSHUA DERISO,286
+Houston,ROZR,State Representative,148,DEM,JOSHUA DERISO,230
+Houston,VHS,State Representative,148,DEM,JOSHUA DERISO,662
+Houston,ANNX,CC, CHAIRMAN P1,R,T. STALNAKER ,2342
+Houston,BMS,CC, CHAIRMAN P1,R,T. STALNAKER ,4708
+Houston,CENT,CC, CHAIRMAN P1,R,T. STALNAKER ,3214
+Houston,CGTC,CC, CHAIRMAN P1,R,T. STALNAKER ,2201
+Houston,FMMS,CC, CHAIRMAN P1,R,T. STALNAKER ,3882
+Houston,HAFS,CC, CHAIRMAN P1,R,T. STALNAKER ,929
+Houston,HCTC,CC, CHAIRMAN P1,R,T. STALNAKER ,2357
+Houston,HEFS,CC, CHAIRMAN P1,R,T. STALNAKER ,651
+Houston,HHPC,CC, CHAIRMAN P1,R,T. STALNAKER ,3350
+Houston,MCMS,CC, CHAIRMAN P1,R,T. STALNAKER ,4240
+Houston,NSES,CC, CHAIRMAN P1,R,T. STALNAKER ,1171
+Houston,RECR,CC, CHAIRMAN P1,R,T. STALNAKER ,1972
+Houston,ROZR,CC, CHAIRMAN P1,R,T. STALNAKER ,6302
+Houston,TMS,CC, CHAIRMAN P1,R,T. STALNAKER ,1816
+Houston,TWPK,CC, CHAIRMAN P1,R,T. STALNAKER ,2111
+Houston,VHS,CC, CHAIRMAN P1,R,T. STALNAKER ,2854
+Houston,ANNX,CC, P2,R,J. WALKER ,2334
+Houston,BMS,CC, P2,R,J. WALKER ,4710
+Houston,CENT,CC, P2,R,J. WALKER ,3199
+Houston,CGTC,CC, P2,R,J. WALKER ,2213
+Houston,FMMS,CC, P2,R,J. WALKER ,3887
+Houston,HAFS,CC, P2,R,J. WALKER ,926
+Houston,HCTC,CC, P2,R,J. WALKER ,2342
+Houston,HEFS,CC, P2,R,J. WALKER ,657
+Houston,HHPC,CC, P2,R,J. WALKER ,3361
+Houston,MCMS,CC, P2,R,J. WALKER ,4234
+Houston,NSES,CC, P2,R,J. WALKER ,1182
+Houston,RECR,CC, P2,R,J. WALKER ,2013
+Houston,ROZR,CC, P2,R,J. WALKER ,6307
+Houston,TMS,CC, P2,R,J. WALKER ,1811
+Houston,TWPK,CC, P2,R,J. WALKER ,2117
+Houston,VHS,CC, P2,R,J. WALKER ,2856
+Houston,ANNX,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2238
+Houston,BMS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4421
+Houston,CENT,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3413
+Houston,CGTC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2210
+Houston,FMMS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4229
+Houston,HAFS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,834
+Houston,HCTC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2669
+Houston,HEFS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,654
+Houston,HHPC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3893
+Houston,MCMS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,4230
+Houston,NSES,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1181
+Houston,RECR,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3279
+Houston,ROZR,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,6127
+Houston,TMS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2271
+Houston,TWPK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2213
+Houston,VHS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2709
+Houston,ANNX,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,573
+Houston,BMS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1234
+Houston,CENT,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,746
+Houston,CGTC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,562
+Houston,FMMS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,913
+Houston,HAFS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,223
+Houston,HCTC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,555
+Houston,HEFS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,174
+Houston,HHPC,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,819
+Houston,MCMS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1019
+Houston,NSES,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,300
+Houston,RECR,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,628
+Houston,ROZR,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1546
+Houston,TMS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,449
+Houston,TWPK,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,512
+Houston,VHS,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,666
+Houston,ANNX,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1756
+Houston,BMS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3517
+Houston,CENT,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2809
+Houston,CGTC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1799
+Houston,FMMS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3379
+Houston,HAFS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,662
+Houston,HCTC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2163
+Houston,HEFS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,537
+Houston,HHPC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3225
+Houston,MCMS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3400
+Houston,NSES,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,960
+Houston,RECR,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2822
+Houston,ROZR,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,5174
+Houston,TMS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1880
+Houston,TWPK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1768
+Houston,VHS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2202
+Houston,ANNX,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1009
+Houston,BMS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,2045
+Houston,CENT,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1279
+Houston,CGTC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,928
+Houston,FMMS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1674
+Houston,HAFS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,375
+Houston,HCTC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1005
+Houston,HEFS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,277
+Houston,HHPC,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1419
+Houston,MCMS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1748
+Houston,NSES,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,502
+Houston,RECR,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1024
+Houston,ROZR,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,2387
+Houston,TMS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,792
+Houston,TWPK,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,912
+Houston,VHS,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1110
+Houston,ANNX,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1641
+Houston,BMS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,3280
+Houston,CENT,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2510
+Houston,CGTC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1616
+Houston,FMMS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,3054
+Houston,HAFS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,613
+Houston,HCTC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1945
+Houston,HEFS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,487
+Houston,HHPC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2879
+Houston,MCMS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,3055
+Houston,NSES,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,903
+Houston,RECR,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2361
+Houston,ROZR,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,4541
+Houston,TMS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1579
+Houston,TWPK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1580
+Houston,VHS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1952
+Houston,ANNX,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1097
+Houston,BMS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2241
+Houston,CENT,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1528
+Houston,CGTC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1074
+Houston,FMMS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1919
+Houston,HAFS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,411
+Houston,HCTC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1172
+Houston,HEFS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,316
+Houston,HHPC,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1699
+Houston,MCMS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2027
+Houston,NSES,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,544
+Houston,RECR,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1397
+Houston,ROZR,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,2919
+Houston,TMS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1043
+Houston,TWPK,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1046
+Houston,VHS,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1314
+Houston,ANNX,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2144
+Houston,BMS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,4240
+Houston,CENT,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3328
+Houston,CGTC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2132
+Houston,FMMS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,4049
+Houston,HAFS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,750
+Houston,HCTC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2572
+Houston,HEFS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,604
+Houston,HHPC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3811
+Houston,MCMS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,4040
+Houston,NSES,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1143
+Houston,RECR,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3326
+Houston,ROZR,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,5705
+Houston,TMS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2214
+Houston,TWPK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2160
+Houston,VHS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2517
+Houston,ANNX,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,686
+Houston,BMS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1406
+Houston,CENT,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,831
+Houston,CGTC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,623
+Houston,FMMS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1074
+Houston,HAFS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,292
+Houston,HCTC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,641
+Houston,HEFS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,216
+Houston,HHPC,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,908
+Houston,MCMS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1185
+Houston,NSES,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,340
+Houston,RECR,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,585
+Houston,ROZR,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1924
+Houston,TMS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,504
+Houston,TWPK,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,561
+Houston,VHS,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,852
+Houston,ANNX,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1803
+Houston,BMS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3672
+Houston,CENT,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2925
+Houston,CGTC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1862
+Houston,FMMS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3570
+Houston,HAFS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,645
+Houston,HCTC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2268
+Houston,HEFS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,531
+Houston,HHPC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3328
+Houston,MCMS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,3518
+Houston,NSES,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,970
+Houston,RECR,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2958
+Houston,ROZR,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,5033
+Houston,TMS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1968
+Houston,TWPK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1825
+Houston,VHS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2206
+Houston,ANNX,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,965
+Houston,BMS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1863
+Houston,CENT,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1148
+Houston,CGTC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,855
+Houston,FMMS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1465
+Houston,HAFS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,383
+Houston,HCTC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,888
+Houston,HEFS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,275
+Houston,HHPC,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1298
+Houston,MCMS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1611
+Houston,NSES,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,476
+Houston,RECR,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,873
+Houston,ROZR,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,2477
+Houston,TMS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,704
+Houston,TWPK,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,829
+Houston,VHS,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1100
+Houston,ANNX,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1390
+Houston,BMS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2798
+Houston,CENT,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2265
+Houston,CGTC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1381
+Houston,FMMS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2681
+Houston,HAFS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,525
+Houston,HCTC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1671
+Houston,HEFS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,429
+Houston,HHPC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2577
+Houston,MCMS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2742
+Houston,NSES,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,763
+Houston,RECR,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2309
+Houston,ROZR,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,3939
+Houston,TMS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1474
+Houston,TWPK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1411
+Houston,VHS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1685
+Houston,ANNX,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1333
+Houston,BMS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2665
+Houston,CENT,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1732
+Houston,CGTC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1272
+Houston,FMMS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2245
+Houston,HAFS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,489
+Houston,HCTC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1424
+Houston,HEFS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,371
+Houston,HHPC,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1959
+Houston,MCMS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2296
+Houston,NSES,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,653
+Houston,RECR,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1457
+Houston,ROZR,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,3427
+Houston,TMS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1134
+Houston,TWPK,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1202
+Houston,VHS,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1548
+Houston,ANNX,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2048
+Houston,BMS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,4091
+Houston,CENT,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3151
+Houston,CGTC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2031
+Houston,FMMS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3952
+Houston,HAFS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,736
+Houston,HCTC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2489
+Houston,HEFS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,578
+Houston,HHPC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3735
+Houston,MCMS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3909
+Houston,NSES,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1102
+Houston,RECR,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3289
+Houston,ROZR,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,5659
+Houston,TMS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2180
+Houston,TWPK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2056
+Houston,VHS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,2499
+Houston,ANNX,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,744
+Houston,BMS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1493
+Houston,CENT,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,961
+Houston,CGTC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,690
+Houston,FMMS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1140
+Houston,HAFS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,306
+Houston,HCTC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,702
+Houston,HEFS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,242
+Houston,HHPC,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,952
+Houston,MCMS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1247
+Houston,NSES,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,365
+Houston,RECR,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,626
+Houston,ROZR,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1912
+Houston,TMS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,510
+Houston,TWPK,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,635
+Houston,VHS,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,845
+Houston,CGTC,PERRY,,,YES,0
+Houston,MCMS,PERRY,,,YES,157
+Houston,ROZR,PERRY,,,YES,3239
+Houston,VHS,PERRY,,,YES,655
+Houston,CGTC,PERRY,,,NO,0
+Houston,MCMS,PERRY,,,NO,85
+Houston,ROZR,PERRY,,,NO,1921
+Houston,VHS,PERRY,,,NO,309

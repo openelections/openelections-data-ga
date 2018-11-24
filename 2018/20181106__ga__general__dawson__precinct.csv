@@ -1,0 +1,149 @@
+county,precinct,office,district,party,candidate,votes
+Dawson,West,Governor,,REP,BRIAN KEMP,1328
+Dawson,Central,Governor,,REP,BRIAN KEMP,4574
+Dawson,East,Governor,,REP,BRIAN KEMP,4051
+Dawson,West,Governor,,DEM,STACEY ABRAMS,382
+Dawson,Central,Governor,,DEM,STACEY ABRAMS,492
+Dawson,East,Governor,,DEM,STACEY ABRAMS,645
+Dawson,West,Governor,,LIB,TED METZ,16
+Dawson,Central,Governor,,LIB,TED METZ,48
+Dawson,East,Governor,,LIB,TED METZ,45
+Dawson,West,Lieutenant Governor,,REP,GEOFF DUNCAN,1315
+Dawson,Central,Lieutenant Governor,,REP,GEOFF DUNCAN,4427
+Dawson,East,Lieutenant Governor,,REP,GEOFF DUNCAN,3988
+Dawson,West,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,376
+Dawson,Central,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,490
+Dawson,East,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,618
+Dawson,West,Secretary Of State,,REP,BRAD RAFFENSPERGER,1296
+Dawson,Central,Secretary Of State,,REP,BRAD RAFFENSPERGER,4411
+Dawson,East,Secretary Of State,,REP,BRAD RAFFENSPERGER,3943
+Dawson,West,Secretary Of State,,DEM,JOHN BARROW,392
+Dawson,Central,Secretary Of State,,DEM,JOHN BARROW,534
+Dawson,East,Secretary Of State,,DEM,JOHN BARROW,642
+Dawson,West,Secretary Of State,,LIB,SMYTHE DUVAL,30
+Dawson,Central,Secretary Of State,,LIB,SMYTHE DUVAL,96
+Dawson,East,Secretary Of State,,LIB,SMYTHE DUVAL,107
+Dawson,West,Attorney General,,(REP,CHRIS CARR ,1318
+Dawson,Central,Attorney General,,(REP,CHRIS CARR ,4488
+Dawson,East,Attorney General,,(REP,CHRIS CARR ,3991
+Dawson,West,Attorney General,,DEM,CHARLIE BAILEY,392
+Dawson,Central,Attorney General,,DEM,CHARLIE BAILEY,535
+Dawson,East,Attorney General,,DEM,CHARLIE BAILEY,666
+Dawson,West,Commissioner Of Agriculture,,(REP,GARY BLACK ,1349
+Dawson,Central,Commissioner Of Agriculture,,(REP,GARY BLACK ,4523
+Dawson,East,Commissioner Of Agriculture,,(REP,GARY BLACK ,4053
+Dawson,West,Commissioner Of Agriculture,,DEM,FRED SWANN,351
+Dawson,Central,Commissioner Of Agriculture,,DEM,FRED SWANN,477
+Dawson,East,Commissioner Of Agriculture,,DEM,FRED SWANN,590
+Dawson,West,Commissioner Of Insurance,,REP,JIM BECK,1306
+Dawson,Central,Commissioner Of Insurance,,REP,JIM BECK,4412
+Dawson,East,Commissioner Of Insurance,,REP,JIM BECK,3945
+Dawson,West,Commissioner Of Insurance,,DEM,JANICE LAWS,362
+Dawson,Central,Commissioner Of Insurance,,DEM,JANICE LAWS,485
+Dawson,East,Commissioner Of Insurance,,DEM,JANICE LAWS,586
+Dawson,West,Commissioner Of Insurance,,LIB,DONNIE FOSTER,40
+Dawson,Central,Commissioner Of Insurance,,LIB,DONNIE FOSTER,140
+Dawson,East,Commissioner Of Insurance,,LIB,DONNIE FOSTER,140
+Dawson,West,State School Superintendent,,(REP,RICHARD WOODS ,1358
+Dawson,Central,State School Superintendent,,(REP,RICHARD WOODS ,4544
+Dawson,East,State School Superintendent,,(REP,RICHARD WOODS ,4064
+Dawson,West,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",349
+Dawson,Central,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",476
+Dawson,East,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",590
+Dawson,West,Commissioner Of Labor,,(REP,MARK BUTLER ,1334
+Dawson,Central,Commissioner Of Labor,,(REP,MARK BUTLER ,4518
+Dawson,East,Commissioner Of Labor,,(REP,MARK BUTLER ,4040
+Dawson,West,Commissioner Of Labor,,DEM,RICHARD KEATLEY,367
+Dawson,Central,Commissioner Of Labor,,DEM,RICHARD KEATLEY,493
+Dawson,East,Commissioner Of Labor,,DEM,RICHARD KEATLEY,602
+Dawson,West,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1301
+Dawson,Central,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,4374
+Dawson,East,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,3881
+Dawson,West,"Public Service Commission, District 3",3,DEM,LINDY MILLER,375
+Dawson,Central,"Public Service Commission, District 3",3,DEM,LINDY MILLER,509
+Dawson,East,"Public Service Commission, District 3",3,DEM,LINDY MILLER,618
+Dawson,West,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,39
+Dawson,Central,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,151
+Dawson,East,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,153
+Dawson,West,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1310
+Dawson,Central,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,4379
+Dawson,East,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,3904
+Dawson,West,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,363
+Dawson,Central,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,491
+Dawson,East,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,602
+Dawson,West,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,40
+Dawson,Central,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,154
+Dawson,East,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,145
+Dawson,West,U.S. Representative,9,(REP,DOUG COLLINS ,1340
+Dawson,Central,U.S. Representative,9,(REP,DOUG COLLINS ,4524
+Dawson,East,U.S. Representative,9,(REP,DOUG COLLINS ,4010
+Dawson,West,U.S. Representative,9,DEM,JOSH MCCALL,377
+Dawson,Central,U.S. Representative,9,DEM,JOSH MCCALL,513
+Dawson,East,U.S. Representative,9,DEM,JOSH MCCALL,649
+Dawson,West,State Senator,51,(REP,STEVE GOOCH ,1439
+Dawson,Central,State Senator,51,(REP,STEVE GOOCH ,4667
+Dawson,East,State Senator,51,(REP,STEVE GOOCH ,4270
+Dawson,West,State Representative,7,(REP,DAVID RALSTON ,1347
+Dawson,West,State Representative,7,DEM,RICK D. DAY,356
+Dawson,Central,State Representative,9,(REP,KEVIN TANNER ,4677
+Dawson,East,State Representative,9,(REP,KEVIN TANNER ,4304
+Dawson,West,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,1422
+Dawson,Central,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,4664
+Dawson,East,District Attorney, Northeastern Circuit,(REP,LEE DARRAGH ,4261
+Dawson,West,County Comm 1,,R,S. R. FAUSETT ,1435
+Dawson,Central,County Comm 1,,R,S. R. FAUSETT ,4645
+Dawson,East,County Comm 1,,R,S. R. FAUSETT ,4241
+Dawson,West,County Comm 3,,R,T. SATTERFIELD,1416
+Dawson,Central,County Comm 3,,R,T. SATTERFIELD,4590
+Dawson,East,County Comm 3,,R,T. SATTERFIELD,4217
+Dawson,West,BOE At Large,,R,W. S. WADE ,1420
+Dawson,Central,BOE At Large,,R,W. S. WADE ,4645
+Dawson,East,BOE At Large,,R,W. S. WADE ,4247
+Dawson,West,BOE 3,,R,K M. ARMSTRONG ,1419
+Dawson,Central,BOE 3,,R,K M. ARMSTRONG ,4653
+Dawson,East,BOE 3,,R,K M. ARMSTRONG ,4251
+Dawson,West,Soil and Water,,,G. W. LYONS ,1377
+Dawson,Central,Soil and Water,,,G. W. LYONS ,4384
+Dawson,East,Soil and Water,,,G. W. LYONS ,4052
+Dawson,West,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1347
+Dawson,Central,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3791
+Dawson,East,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,3568
+Dawson,West,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,347
+Dawson,Central,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1115
+Dawson,East,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,999
+Dawson,West,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1053
+Dawson,Central,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,3157
+Dawson,East,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,2929
+Dawson,West,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,601
+Dawson,Central,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1596
+Dawson,East,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,1499
+Dawson,West,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,997
+Dawson,Central,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2786
+Dawson,East,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,2582
+Dawson,West,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,639
+Dawson,Central,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1936
+Dawson,East,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,1796
+Dawson,West,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1343
+Dawson,Central,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3678
+Dawson,East,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,3482
+Dawson,West,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,340
+Dawson,Central,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1208
+Dawson,East,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,1066
+Dawson,West,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1061
+Dawson,Central,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2973
+Dawson,East,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,2863
+Dawson,West,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,578
+Dawson,Central,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1796
+Dawson,East,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,1572
+Dawson,West,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,907
+Dawson,Central,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2295
+Dawson,East,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,2145
+Dawson,West,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,692
+Dawson,Central,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2350
+Dawson,East,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,2167
+Dawson,West,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1194
+Dawson,Central,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3379
+Dawson,East,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,3158
+Dawson,West,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,457
+Dawson,Central,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1395
+Dawson,East,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,1274

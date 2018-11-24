@@ -1,0 +1,494 @@
+county,precinct,office,district,party,candidate,votes
+Bryan,Pembroke,Governor,,REP,BRIAN KEMP,846
+Bryan,Danielsiding,Governor,,REP,BRIAN KEMP,965
+Bryan,Ellabell,Governor,,REP,BRIAN KEMP,905
+Bryan,Black Creek,Governor,,REP,BRIAN KEMP,1060
+Bryan,Ways Station,Governor,,REP,BRIAN KEMP,477
+Bryan,RH Rec Complex,Governor,,REP,BRIAN KEMP,864
+Bryan,J.F. Gregory Park,Governor,,REP,BRIAN KEMP,1362
+Bryan,Keller,Governor,,REP,BRIAN KEMP,1772
+Bryan,HWY 144 East,Governor,,REP,BRIAN KEMP,1633
+Bryan,Public Safety Complex,Governor,,REP,BRIAN KEMP,623
+Bryan,Pembroke,Governor,,DEM,STACEY ABRAMS,409
+Bryan,Danielsiding,Governor,,DEM,STACEY ABRAMS,310
+Bryan,Ellabell,Governor,,DEM,STACEY ABRAMS,199
+Bryan,Black Creek,Governor,,DEM,STACEY ABRAMS,260
+Bryan,Ways Station,Governor,,DEM,STACEY ABRAMS,363
+Bryan,RH Rec Complex,Governor,,DEM,STACEY ABRAMS,568
+Bryan,J.F. Gregory Park,Governor,,DEM,STACEY ABRAMS,425
+Bryan,Keller,Governor,,DEM,STACEY ABRAMS,650
+Bryan,HWY 144 East,Governor,,DEM,STACEY ABRAMS,727
+Bryan,Public Safety Complex,Governor,,DEM,STACEY ABRAMS,402
+Bryan,Pembroke,Governor,,LIB,TED METZ,7
+Bryan,Danielsiding,Governor,,LIB,TED METZ,23
+Bryan,Ellabell,Governor,,LIB,TED METZ,9
+Bryan,Black Creek,Governor,,LIB,TED METZ,8
+Bryan,Ways Station,Governor,,LIB,TED METZ,10
+Bryan,RH Rec Complex,Governor,,LIB,TED METZ,17
+Bryan,J.F. Gregory Park,Governor,,LIB,TED METZ,22
+Bryan,Keller,Governor,,LIB,TED METZ,38
+Bryan,HWY 144 East,Governor,,LIB,TED METZ,20
+Bryan,Public Safety Complex,Governor,,LIB,TED METZ,11
+Bryan,Pembroke,Lieutenant Governor,,REP,GEOFF DUNCAN,819
+Bryan,Danielsiding,Lieutenant Governor,,REP,GEOFF DUNCAN,945
+Bryan,Ellabell,Lieutenant Governor,,REP,GEOFF DUNCAN,860
+Bryan,Black Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,1004
+Bryan,Ways Station,Lieutenant Governor,,REP,GEOFF DUNCAN,470
+Bryan,RH Rec Complex,Lieutenant Governor,,REP,GEOFF DUNCAN,845
+Bryan,J.F. Gregory Park,Lieutenant Governor,,REP,GEOFF DUNCAN,1347
+Bryan,Keller,Lieutenant Governor,,REP,GEOFF DUNCAN,1748
+Bryan,HWY 144 East,Lieutenant Governor,,REP,GEOFF DUNCAN,1608
+Bryan,Public Safety Complex,Lieutenant Governor,,REP,GEOFF DUNCAN,602
+Bryan,Pembroke,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,376
+Bryan,Danielsiding,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,303
+Bryan,Ellabell,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,208
+Bryan,Black Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,255
+Bryan,Ways Station,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,348
+Bryan,RH Rec Complex,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,559
+Bryan,J.F. Gregory Park,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,396
+Bryan,Keller,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,645
+Bryan,HWY 144 East,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,704
+Bryan,Public Safety Complex,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,400
+Bryan,Pembroke,Secretary Of State,,REP,BRAD RAFFENSPERGER,730
+Bryan,Danielsiding,Secretary Of State,,REP,BRAD RAFFENSPERGER,908
+Bryan,Ellabell,Secretary Of State,,REP,BRAD RAFFENSPERGER,826
+Bryan,Black Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,956
+Bryan,Ways Station,Secretary Of State,,REP,BRAD RAFFENSPERGER,430
+Bryan,RH Rec Complex,Secretary Of State,,REP,BRAD RAFFENSPERGER,802
+Bryan,J.F. Gregory Park,Secretary Of State,,REP,BRAD RAFFENSPERGER,1266
+Bryan,Keller,Secretary Of State,,REP,BRAD RAFFENSPERGER,1680
+Bryan,HWY 144 East,Secretary Of State,,REP,BRAD RAFFENSPERGER,1542
+Bryan,Public Safety Complex,Secretary Of State,,REP,BRAD RAFFENSPERGER,603
+Bryan,Pembroke,Secretary Of State,,DEM,JOHN BARROW,493
+Bryan,Danielsiding,Secretary Of State,,DEM,JOHN BARROW,336
+Bryan,Ellabell,Secretary Of State,,DEM,JOHN BARROW,264
+Bryan,Black Creek,Secretary Of State,,DEM,JOHN BARROW,334
+Bryan,Ways Station,Secretary Of State,,DEM,JOHN BARROW,387
+Bryan,RH Rec Complex,Secretary Of State,,DEM,JOHN BARROW,595
+Bryan,J.F. Gregory Park,Secretary Of State,,DEM,JOHN BARROW,485
+Bryan,Keller,Secretary Of State,,DEM,JOHN BARROW,700
+Bryan,HWY 144 East,Secretary Of State,,DEM,JOHN BARROW,760
+Bryan,Public Safety Complex,Secretary Of State,,DEM,JOHN BARROW,405
+Bryan,Pembroke,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Bryan,Danielsiding,Secretary Of State,,LIB,SMYTHE DUVAL,38
+Bryan,Ellabell,Secretary Of State,,LIB,SMYTHE DUVAL,15
+Bryan,Black Creek,Secretary Of State,,LIB,SMYTHE DUVAL,16
+Bryan,Ways Station,Secretary Of State,,LIB,SMYTHE DUVAL,27
+Bryan,RH Rec Complex,Secretary Of State,,LIB,SMYTHE DUVAL,39
+Bryan,J.F. Gregory Park,Secretary Of State,,LIB,SMYTHE DUVAL,39
+Bryan,Keller,Secretary Of State,,LIB,SMYTHE DUVAL,60
+Bryan,HWY 144 East,Secretary Of State,,LIB,SMYTHE DUVAL,60
+Bryan,Public Safety Complex,Secretary Of State,,LIB,SMYTHE DUVAL,17
+Bryan,Pembroke,Attorney General,,(REP,CHRIS CARR ,822
+Bryan,Danielsiding,Attorney General,,(REP,CHRIS CARR ,966
+Bryan,Ellabell,Attorney General,,(REP,CHRIS CARR ,879
+Bryan,Black Creek,Attorney General,,(REP,CHRIS CARR ,1018
+Bryan,Ways Station,Attorney General,,(REP,CHRIS CARR ,489
+Bryan,RH Rec Complex,Attorney General,,(REP,CHRIS CARR ,867
+Bryan,J.F. Gregory Park,Attorney General,,(REP,CHRIS CARR ,1373
+Bryan,Keller,Attorney General,,(REP,CHRIS CARR ,1778
+Bryan,HWY 144 East,Attorney General,,(REP,CHRIS CARR ,1625
+Bryan,Public Safety Complex,Attorney General,,(REP,CHRIS CARR ,619
+Bryan,Pembroke,Attorney General,,DEM,CHARLIE BAILEY,399
+Bryan,Danielsiding,Attorney General,,DEM,CHARLIE BAILEY,312
+Bryan,Ellabell,Attorney General,,DEM,CHARLIE BAILEY,213
+Bryan,Black Creek,Attorney General,,DEM,CHARLIE BAILEY,273
+Bryan,Ways Station,Attorney General,,DEM,CHARLIE BAILEY,350
+Bryan,RH Rec Complex,Attorney General,,DEM,CHARLIE BAILEY,559
+Bryan,J.F. Gregory Park,Attorney General,,DEM,CHARLIE BAILEY,413
+Bryan,Keller,Attorney General,,DEM,CHARLIE BAILEY,646
+Bryan,HWY 144 East,Attorney General,,DEM,CHARLIE BAILEY,719
+Bryan,Public Safety Complex,Attorney General,,DEM,CHARLIE BAILEY,404
+Bryan,Pembroke,Commissioner Of Agriculture,,(REP,GARY BLACK ,842
+Bryan,Danielsiding,Commissioner Of Agriculture,,(REP,GARY BLACK ,976
+Bryan,Ellabell,Commissioner Of Agriculture,,(REP,GARY BLACK ,887
+Bryan,Black Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,1038
+Bryan,Ways Station,Commissioner Of Agriculture,,(REP,GARY BLACK ,488
+Bryan,RH Rec Complex,Commissioner Of Agriculture,,(REP,GARY BLACK ,872
+Bryan,J.F. Gregory Park,Commissioner Of Agriculture,,(REP,GARY BLACK ,1379
+Bryan,Keller,Commissioner Of Agriculture,,(REP,GARY BLACK ,1807
+Bryan,HWY 144 East,Commissioner Of Agriculture,,(REP,GARY BLACK ,1649
+Bryan,Public Safety Complex,Commissioner Of Agriculture,,(REP,GARY BLACK ,633
+Bryan,Pembroke,Commissioner Of Agriculture,,DEM,FRED SWANN,369
+Bryan,Danielsiding,Commissioner Of Agriculture,,DEM,FRED SWANN,293
+Bryan,Ellabell,Commissioner Of Agriculture,,DEM,FRED SWANN,204
+Bryan,Black Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,246
+Bryan,Ways Station,Commissioner Of Agriculture,,DEM,FRED SWANN,347
+Bryan,RH Rec Complex,Commissioner Of Agriculture,,DEM,FRED SWANN,555
+Bryan,J.F. Gregory Park,Commissioner Of Agriculture,,DEM,FRED SWANN,391
+Bryan,Keller,Commissioner Of Agriculture,,DEM,FRED SWANN,595
+Bryan,HWY 144 East,Commissioner Of Agriculture,,DEM,FRED SWANN,683
+Bryan,Public Safety Complex,Commissioner Of Agriculture,,DEM,FRED SWANN,387
+Bryan,Pembroke,Commissioner Of Insurance,,REP,JIM BECK,820
+Bryan,Danielsiding,Commissioner Of Insurance,,REP,JIM BECK,941
+Bryan,Ellabell,Commissioner Of Insurance,,REP,JIM BECK,879
+Bryan,Black Creek,Commissioner Of Insurance,,REP,JIM BECK,1021
+Bryan,Ways Station,Commissioner Of Insurance,,REP,JIM BECK,479
+Bryan,RH Rec Complex,Commissioner Of Insurance,,REP,JIM BECK,851
+Bryan,J.F. Gregory Park,Commissioner Of Insurance,,REP,JIM BECK,1345
+Bryan,Keller,Commissioner Of Insurance,,REP,JIM BECK,1748
+Bryan,HWY 144 East,Commissioner Of Insurance,,REP,JIM BECK,1587
+Bryan,Public Safety Complex,Commissioner Of Insurance,,REP,JIM BECK,617
+Bryan,Pembroke,Commissioner Of Insurance,,DEM,JANICE LAWS,382
+Bryan,Danielsiding,Commissioner Of Insurance,,DEM,JANICE LAWS,290
+Bryan,Ellabell,Commissioner Of Insurance,,DEM,JANICE LAWS,196
+Bryan,Black Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,253
+Bryan,Ways Station,Commissioner Of Insurance,,DEM,JANICE LAWS,336
+Bryan,RH Rec Complex,Commissioner Of Insurance,,DEM,JANICE LAWS,523
+Bryan,J.F. Gregory Park,Commissioner Of Insurance,,DEM,JANICE LAWS,382
+Bryan,Keller,Commissioner Of Insurance,,DEM,JANICE LAWS,596
+Bryan,HWY 144 East,Commissioner Of Insurance,,DEM,JANICE LAWS,676
+Bryan,Public Safety Complex,Commissioner Of Insurance,,DEM,JANICE LAWS,375
+Bryan,Pembroke,Commissioner Of Insurance,,LIB,DONNIE FOSTER,26
+Bryan,Danielsiding,Commissioner Of Insurance,,LIB,DONNIE FOSTER,46
+Bryan,Ellabell,Commissioner Of Insurance,,LIB,DONNIE FOSTER,20
+Bryan,Black Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
+Bryan,Ways Station,Commissioner Of Insurance,,LIB,DONNIE FOSTER,30
+Bryan,RH Rec Complex,Commissioner Of Insurance,,LIB,DONNIE FOSTER,55
+Bryan,J.F. Gregory Park,Commissioner Of Insurance,,LIB,DONNIE FOSTER,51
+Bryan,Keller,Commissioner Of Insurance,,LIB,DONNIE FOSTER,81
+Bryan,HWY 144 East,Commissioner Of Insurance,,LIB,DONNIE FOSTER,78
+Bryan,Public Safety Complex,Commissioner Of Insurance,,LIB,DONNIE FOSTER,26
+Bryan,Pembroke,State School Superintendent,,(REP,RICHARD WOODS ,845
+Bryan,Danielsiding,State School Superintendent,,(REP,RICHARD WOODS ,975
+Bryan,Ellabell,State School Superintendent,,(REP,RICHARD WOODS ,898
+Bryan,Black Creek,State School Superintendent,,(REP,RICHARD WOODS ,1044
+Bryan,Ways Station,State School Superintendent,,(REP,RICHARD WOODS ,499
+Bryan,RH Rec Complex,State School Superintendent,,(REP,RICHARD WOODS ,889
+Bryan,J.F. Gregory Park,State School Superintendent,,(REP,RICHARD WOODS ,1389
+Bryan,Keller,State School Superintendent,,(REP,RICHARD WOODS ,1807
+Bryan,HWY 144 East,State School Superintendent,,(REP,RICHARD WOODS ,1667
+Bryan,Public Safety Complex,State School Superintendent,,(REP,RICHARD WOODS ,632
+Bryan,Pembroke,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",383
+Bryan,Danielsiding,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",303
+Bryan,Ellabell,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",199
+Bryan,Black Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",255
+Bryan,Ways Station,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",340
+Bryan,RH Rec Complex,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",540
+Bryan,J.F. Gregory Park,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",392
+Bryan,Keller,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",620
+Bryan,HWY 144 East,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",674
+Bryan,Public Safety Complex,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",389
+Bryan,Pembroke,Commissioner Of Labor,,(REP,MARK BUTLER ,846
+Bryan,Danielsiding,Commissioner Of Labor,,(REP,MARK BUTLER ,977
+Bryan,Ellabell,Commissioner Of Labor,,(REP,MARK BUTLER ,889
+Bryan,Black Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,1045
+Bryan,Ways Station,Commissioner Of Labor,,(REP,MARK BUTLER ,498
+Bryan,RH Rec Complex,Commissioner Of Labor,,(REP,MARK BUTLER ,879
+Bryan,J.F. Gregory Park,Commissioner Of Labor,,(REP,MARK BUTLER ,1390
+Bryan,Keller,Commissioner Of Labor,,(REP,MARK BUTLER ,1808
+Bryan,HWY 144 East,Commissioner Of Labor,,(REP,MARK BUTLER ,1657
+Bryan,Public Safety Complex,Commissioner Of Labor,,(REP,MARK BUTLER ,631
+Bryan,Pembroke,Commissioner Of Labor,,DEM,RICHARD KEATLEY,381
+Bryan,Danielsiding,Commissioner Of Labor,,DEM,RICHARD KEATLEY,297
+Bryan,Ellabell,Commissioner Of Labor,,DEM,RICHARD KEATLEY,205
+Bryan,Black Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,254
+Bryan,Ways Station,Commissioner Of Labor,,DEM,RICHARD KEATLEY,338
+Bryan,RH Rec Complex,Commissioner Of Labor,,DEM,RICHARD KEATLEY,548
+Bryan,J.F. Gregory Park,Commissioner Of Labor,,DEM,RICHARD KEATLEY,382
+Bryan,Keller,Commissioner Of Labor,,DEM,RICHARD KEATLEY,609
+Bryan,HWY 144 East,Commissioner Of Labor,,DEM,RICHARD KEATLEY,678
+Bryan,Public Safety Complex,Commissioner Of Labor,,DEM,RICHARD KEATLEY,388
+Bryan,Pembroke,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,817
+Bryan,Danielsiding,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,930
+Bryan,Ellabell,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,872
+Bryan,Black Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1020
+Bryan,Ways Station,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,474
+Bryan,RH Rec Complex,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,839
+Bryan,J.F. Gregory Park,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1347
+Bryan,Keller,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1723
+Bryan,HWY 144 East,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1592
+Bryan,Public Safety Complex,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,603
+Bryan,Pembroke,"Public Service Commission, District 3",3,DEM,LINDY MILLER,393
+Bryan,Danielsiding,"Public Service Commission, District 3",3,DEM,LINDY MILLER,290
+Bryan,Ellabell,"Public Service Commission, District 3",3,DEM,LINDY MILLER,205
+Bryan,Black Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,256
+Bryan,Ways Station,"Public Service Commission, District 3",3,DEM,LINDY MILLER,337
+Bryan,RH Rec Complex,"Public Service Commission, District 3",3,DEM,LINDY MILLER,539
+Bryan,J.F. Gregory Park,"Public Service Commission, District 3",3,DEM,LINDY MILLER,377
+Bryan,Keller,"Public Service Commission, District 3",3,DEM,LINDY MILLER,621
+Bryan,HWY 144 East,"Public Service Commission, District 3",3,DEM,LINDY MILLER,681
+Bryan,Public Safety Complex,"Public Service Commission, District 3",3,DEM,LINDY MILLER,388
+Bryan,Pembroke,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,10
+Bryan,Danielsiding,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,58
+Bryan,Ellabell,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,18
+Bryan,Black Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,24
+Bryan,Ways Station,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,31
+Bryan,RH Rec Complex,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,53
+Bryan,J.F. Gregory Park,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,52
+Bryan,Keller,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,78
+Bryan,HWY 144 East,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,72
+Bryan,Public Safety Complex,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,34
+Bryan,Pembroke,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,827
+Bryan,Danielsiding,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,938
+Bryan,Ellabell,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,874
+Bryan,Black Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1017
+Bryan,Ways Station,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,475
+Bryan,RH Rec Complex,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,846
+Bryan,J.F. Gregory Park,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1348
+Bryan,Keller,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1732
+Bryan,HWY 144 East,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1598
+Bryan,Public Safety Complex,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,618
+Bryan,Pembroke,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,379
+Bryan,Danielsiding,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,289
+Bryan,Ellabell,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,202
+Bryan,Black Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,256
+Bryan,Ways Station,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,333
+Bryan,RH Rec Complex,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,539
+Bryan,J.F. Gregory Park,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,372
+Bryan,Keller,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,613
+Bryan,HWY 144 East,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,675
+Bryan,Public Safety Complex,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,383
+Bryan,Pembroke,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14
+Bryan,Danielsiding,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,48
+Bryan,Ellabell,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,16
+Bryan,Black Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,25
+Bryan,Ways Station,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,29
+Bryan,RH Rec Complex,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,42
+Bryan,J.F. Gregory Park,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,51
+Bryan,Keller,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,78
+Bryan,HWY 144 East,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,70
+Bryan,Public Safety Complex,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,22
+Bryan,Pembroke,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",853
+Bryan,Danielsiding,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",969
+Bryan,Ellabell,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",891
+Bryan,Black Creek,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1051
+Bryan,Ways Station,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",493
+Bryan,RH Rec Complex,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",877
+Bryan,J.F. Gregory Park,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1383
+Bryan,Keller,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1796
+Bryan,HWY 144 East,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1644
+Bryan,Public Safety Complex,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",628
+Bryan,Pembroke,U.S. Representative,1,DEM,LISA M. RING,399
+Bryan,Danielsiding,U.S. Representative,1,DEM,LISA M. RING,321
+Bryan,Ellabell,U.S. Representative,1,DEM,LISA M. RING,216
+Bryan,Black Creek,U.S. Representative,1,DEM,LISA M. RING,261
+Bryan,Ways Station,U.S. Representative,1,DEM,LISA M. RING,353
+Bryan,RH Rec Complex,U.S. Representative,1,DEM,LISA M. RING,563
+Bryan,J.F. Gregory Park,U.S. Representative,1,DEM,LISA M. RING,416
+Bryan,Keller,U.S. Representative,1,DEM,LISA M. RING,649
+Bryan,HWY 144 East,U.S. Representative,1,DEM,LISA M. RING,727
+Bryan,Public Safety Complex,U.S. Representative,1,DEM,LISA M. RING,402
+Bryan,Pembroke,State Senator,1,(REP,BEN WATSON ,843
+Bryan,Danielsiding,State Senator,1,(REP,BEN WATSON ,972
+Bryan,Ellabell,State Senator,1,(REP,BEN WATSON ,891
+Bryan,Black Creek,State Senator,1,(REP,BEN WATSON ,1037
+Bryan,Ways Station,State Senator,1,(REP,BEN WATSON ,489
+Bryan,RH Rec Complex,State Senator,1,(REP,BEN WATSON ,871
+Bryan,J.F. Gregory Park,State Senator,1,(REP,BEN WATSON ,1382
+Bryan,Keller,State Senator,1,(REP,BEN WATSON ,1801
+Bryan,HWY 144 East,State Senator,1,(REP,BEN WATSON ,1637
+Bryan,Public Safety Complex,State Senator,1,(REP,BEN WATSON ,620
+Bryan,Pembroke,State Senator,1,DEM,SANDRA WORKMAN,389
+Bryan,Danielsiding,State Senator,1,DEM,SANDRA WORKMAN,313
+Bryan,Ellabell,State Senator,1,DEM,SANDRA WORKMAN,209
+Bryan,Black Creek,State Senator,1,DEM,SANDRA WORKMAN,264
+Bryan,Ways Station,State Senator,1,DEM,SANDRA WORKMAN,350
+Bryan,RH Rec Complex,State Senator,1,DEM,SANDRA WORKMAN,561
+Bryan,J.F. Gregory Park,State Senator,1,DEM,SANDRA WORKMAN,410
+Bryan,Keller,State Senator,1,DEM,SANDRA WORKMAN,639
+Bryan,HWY 144 East,State Senator,1,DEM,SANDRA WORKMAN,722
+Bryan,Public Safety Complex,State Senator,1,DEM,SANDRA WORKMAN,403
+Bryan,Pembroke,State Representative,160,(REP,JAN TANKERSLEY ,1016
+Bryan,Ellabell,State Representative,160,(REP,JAN TANKERSLEY ,987
+Bryan,Black Creek,State Representative,160,(REP,JAN TANKERSLEY ,1144
+Bryan,Danielsiding,State Representative,164,(REP,RON STEPHENS ,379
+Bryan,Ways Station,State Representative,164,(REP,RON STEPHENS ,495
+Bryan,RH Rec Complex,State Representative,164,(REP,RON STEPHENS ,888
+Bryan,J.F. Gregory Park,State Representative,164,(REP,RON STEPHENS ,1195
+Bryan,HWY 144 East,State Representative,164,(REP,RON STEPHENS ,477
+Bryan,Public Safety Complex,State Representative,164,(REP,RON STEPHENS ,631
+Bryan,Danielsiding,State Representative,164,DEM,"ALICIA ""AER"" SCOTT",157
+Bryan,Ways Station,State Representative,164,DEM,"ALICIA ""AER"" SCOTT",345
+Bryan,RH Rec Complex,State Representative,164,DEM,"ALICIA ""AER"" SCOTT",547
+Bryan,J.F. Gregory Park,State Representative,164,DEM,"ALICIA ""AER"" SCOTT",345
+Bryan,HWY 144 East,State Representative,164,DEM,"ALICIA ""AER"" SCOTT",308
+Bryan,Public Safety Complex,State Representative,164,DEM,"ALICIA ""AER"" SCOTT",390
+Bryan,Danielsiding,State Representative,166,(REP,JESSE PETREA ,656
+Bryan,J.F. Gregory Park,State Representative,166,(REP,JESSE PETREA ,218
+Bryan,Keller,State Representative,166,(REP,JESSE PETREA ,2049
+Bryan,HWY 144 East,State Representative,166,(REP,JESSE PETREA ,1326
+Bryan,Pembroke,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,858
+Bryan,Danielsiding,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,795
+Bryan,Ellabell,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,673
+Bryan,Black Creek,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,815
+Bryan,Ways Station,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,609
+Bryan,RH Rec Complex,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,1008
+Bryan,J.F. Gregory Park,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,1073
+Bryan,Keller,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,1521
+Bryan,HWY 144 East,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,1476
+Bryan,Public Safety Complex,District Attorney, Atlantic Circuit,(DEM,TOM DURDEN ,723
+Bryan,Black Creek,CC, D2,R,W. PRICE ,1145
+Bryan,Ways Station,CC, D2,R,W. PRICE ,617
+Bryan,Keller,CC, D4,R,B. BROOKSHIRE ,2056
+Bryan,HWY 144 East,CC, D4,R,B. BROOKSHIRE ,1945
+Bryan,Danielsiding,CC, D5,R,G. WALLACE,1082
+Bryan,Public Safety Complex,CC, D5,R,G. WALLACE,804
+Bryan,Pembroke,BOE CHAIR LRG,,R,A. MURPHY,1005
+Bryan,Danielsiding,BOE CHAIR LRG,,R,A. MURPHY,1089
+Bryan,Ellabell,BOE CHAIR LRG,,R,A. MURPHY,989
+Bryan,Black Creek,BOE CHAIR LRG,,R,A. MURPHY,1147
+Bryan,Ways Station,BOE CHAIR LRG,,R,A. MURPHY,647
+Bryan,RH Rec Complex,BOE CHAIR LRG,,R,A. MURPHY,1139
+Bryan,J.F. Gregory Park,BOE CHAIR LRG,,R,A. MURPHY,1547
+Bryan,Keller,BOE CHAIR LRG,,R,A. MURPHY,2061
+Bryan,HWY 144 East,BOE CHAIR LRG,,R,A. MURPHY,1965
+Bryan,Public Safety Complex,BOE CHAIR LRG,,R,A. MURPHY,803
+Bryan,Pembroke,BOE, D1 P3,R,P. GUNTER,1013
+Bryan,Ellabell,BOE, D1 P3,R,P. GUNTER,991
+Bryan,Keller,BOE, D4 P7,R,M. SMITH ,2060
+Bryan,HWY 144 East,BOE, D4 P7,R,M. SMITH ,1960
+Bryan,Danielsiding,BOE, D5 P6,R,D. SCHWARTZ ,1081
+Bryan,Public Safety Complex,BOE, D5 P6,R,D. SCHWARTZ ,792
+Bryan,Pembroke,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,990
+Bryan,Danielsiding,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1093
+Bryan,Ellabell,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,880
+Bryan,Black Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1030
+Bryan,Ways Station,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,712
+Bryan,RH Rec Complex,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1265
+Bryan,J.F. Gregory Park,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1493
+Bryan,Keller,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2089
+Bryan,HWY 144 East,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2015
+Bryan,Public Safety Complex,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,855
+Bryan,Pembroke,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,217
+Bryan,Danielsiding,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,164
+Bryan,Ellabell,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,190
+Bryan,Black Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,247
+Bryan,Ways Station,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,110
+Bryan,RH Rec Complex,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,153
+Bryan,J.F. Gregory Park,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,269
+Bryan,Keller,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,324
+Bryan,HWY 144 East,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,310
+Bryan,Public Safety Complex,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,151
+Bryan,Pembroke,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,832
+Bryan,Danielsiding,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,875
+Bryan,Ellabell,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,747
+Bryan,Black Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,851
+Bryan,Ways Station,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,577
+Bryan,RH Rec Complex,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1047
+Bryan,J.F. Gregory Park,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1193
+Bryan,Keller,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1644
+Bryan,HWY 144 East,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1692
+Bryan,Public Safety Complex,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,709
+Bryan,Pembroke,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,331
+Bryan,Danielsiding,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,335
+Bryan,Ellabell,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,296
+Bryan,Black Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,377
+Bryan,Ways Station,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,221
+Bryan,RH Rec Complex,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,342
+Bryan,J.F. Gregory Park,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,510
+Bryan,Keller,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,658
+Bryan,HWY 144 East,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,536
+Bryan,Public Safety Complex,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,271
+Bryan,Pembroke,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,759
+Bryan,Danielsiding,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,859
+Bryan,Ellabell,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,665
+Bryan,Black Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,759
+Bryan,Ways Station,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,537
+Bryan,RH Rec Complex,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,960
+Bryan,J.F. Gregory Park,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1076
+Bryan,Keller,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1560
+Bryan,HWY 144 East,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1509
+Bryan,Public Safety Complex,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,655
+Bryan,Pembroke,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,394
+Bryan,Danielsiding,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,342
+Bryan,Ellabell,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,353
+Bryan,Black Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,456
+Bryan,Ways Station,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,256
+Bryan,RH Rec Complex,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,409
+Bryan,J.F. Gregory Park,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,601
+Bryan,Keller,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,740
+Bryan,HWY 144 East,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,712
+Bryan,Public Safety Complex,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,317
+Bryan,Pembroke,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,972
+Bryan,Danielsiding,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1012
+Bryan,Ellabell,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,870
+Bryan,Black Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1014
+Bryan,Ways Station,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,660
+Bryan,RH Rec Complex,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1201
+Bryan,J.F. Gregory Park,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1412
+Bryan,Keller,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1899
+Bryan,HWY 144 East,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1878
+Bryan,Public Safety Complex,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,823
+Bryan,Pembroke,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,226
+Bryan,Danielsiding,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,221
+Bryan,Ellabell,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,198
+Bryan,Black Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,249
+Bryan,Ways Station,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,158
+Bryan,RH Rec Complex,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,199
+Bryan,J.F. Gregory Park,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,324
+Bryan,Keller,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,453
+Bryan,HWY 144 East,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,405
+Bryan,Public Safety Complex,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,175
+Bryan,Pembroke,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,819
+Bryan,Danielsiding,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,897
+Bryan,Ellabell,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,734
+Bryan,Black Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,837
+Bryan,Ways Station,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,597
+Bryan,RH Rec Complex,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1116
+Bryan,J.F. Gregory Park,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1198
+Bryan,Keller,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1741
+Bryan,HWY 144 East,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1689
+Bryan,Public Safety Complex,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,747
+Bryan,Pembroke,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,343
+Bryan,Danielsiding,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,325
+Bryan,Ellabell,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,304
+Bryan,Black Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,393
+Bryan,Ways Station,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,210
+Bryan,RH Rec Complex,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,268
+Bryan,J.F. Gregory Park,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,498
+Bryan,Keller,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,586
+Bryan,HWY 144 East,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,565
+Bryan,Public Safety Complex,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,241
+Bryan,Pembroke,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,713
+Bryan,Danielsiding,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,763
+Bryan,Ellabell,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,604
+Bryan,Black Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,716
+Bryan,Ways Station,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,483
+Bryan,RH Rec Complex,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,827
+Bryan,J.F. Gregory Park,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,990
+Bryan,Keller,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1302
+Bryan,HWY 144 East,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1343
+Bryan,Public Safety Complex,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,585
+Bryan,Pembroke,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,419
+Bryan,Danielsiding,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,437
+Bryan,Ellabell,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,422
+Bryan,Black Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,491
+Bryan,Ways Station,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,298
+Bryan,RH Rec Complex,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,519
+Bryan,J.F. Gregory Park,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,665
+Bryan,Keller,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,957
+Bryan,HWY 144 East,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,826
+Bryan,Public Safety Complex,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,373
+Bryan,Pembroke,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,883
+Bryan,Danielsiding,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,981
+Bryan,Ellabell,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,791
+Bryan,Black Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,951
+Bryan,Ways Station,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,651
+Bryan,RH Rec Complex,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1136
+Bryan,J.F. Gregory Park,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1271
+Bryan,Keller,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1810
+Bryan,HWY 144 East,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1760
+Bryan,Public Safety Complex,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,820
+Bryan,Pembroke,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,279
+Bryan,Danielsiding,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,246
+Bryan,Ellabell,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,250
+Bryan,Black Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,292
+Bryan,Ways Station,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,161
+Bryan,RH Rec Complex,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,255
+Bryan,J.F. Gregory Park,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,440
+Bryan,Keller,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,534
+Bryan,HWY 144 East,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,479
+Bryan,Public Safety Complex,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,160
+Bryan,RH Rec Complex,SP-BOE, D3 P5,R,D. SMITH,1129
+Bryan,J.F. Gregory Park,SP-BOE, D3 P5,R,D. SMITH,1531
+Bryan,Ways Station,SP-Richmond Hill Brunch Bill,,,YES,475
+Bryan,RH Rec Complex,SP-Richmond Hill Brunch Bill,,,YES,980
+Bryan,J.F. Gregory Park,SP-Richmond Hill Brunch Bill,,,YES,543
+Bryan,HWY 144 East,SP-Richmond Hill Brunch Bill,,,YES,438
+Bryan,Public Safety Complex,SP-Richmond Hill Brunch Bill,,,YES,622
+Bryan,Ways Station,SP-Richmond Hill Brunch Bill,,,NO,218
+Bryan,RH Rec Complex,SP-Richmond Hill Brunch Bill,,,NO,402
+Bryan,J.F. Gregory Park,SP-Richmond Hill Brunch Bill,,,NO,201
+Bryan,HWY 144 East,SP-Richmond Hill Brunch Bill,,,NO,178
+Bryan,Public Safety Complex,SP-Richmond Hill Brunch Bill,,,NO,313
