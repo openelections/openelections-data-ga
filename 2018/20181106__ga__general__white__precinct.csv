@@ -1,548 +1,548 @@
-county,precinct,office,district,party,candidate,votes
-White,Blue Creek,Governor,,REP,BRIAN KEMP,1171
-White,Blue Ridge,Governor,,REP,BRIAN KEMP,431
-White,Helen,Governor,,REP,BRIAN KEMP,269
-White,Mossy Creek,Governor,,REP,BRIAN KEMP,1517
-White,Mt. Yonah,Governor,,REP,BRIAN KEMP,2022
-White,Nacoochee,Governor,,REP,BRIAN KEMP,735
-White,Robertstown,Governor,,REP,BRIAN KEMP,175
-White,Shoal Creek,Governor,,REP,BRIAN KEMP,1112
-White,Tesnatee,Governor,,REP,BRIAN KEMP,557
-White,Town Creek,Governor,,REP,BRIAN KEMP,782
-White,White Creek,Governor,,REP,BRIAN KEMP,896
-White,Blue Creek,Governor,,DEM,STACEY ABRAMS,236
-White,Blue Ridge,Governor,,DEM,STACEY ABRAMS,62
-White,Helen,Governor,,DEM,STACEY ABRAMS,82
-White,Mossy Creek,Governor,,DEM,STACEY ABRAMS,150
-White,Mt. Yonah,Governor,,DEM,STACEY ABRAMS,376
-White,Nacoochee,Governor,,DEM,STACEY ABRAMS,287
-White,Robertstown,Governor,,DEM,STACEY ABRAMS,46
-White,Shoal Creek,Governor,,DEM,STACEY ABRAMS,124
-White,Tesnatee,Governor,,DEM,STACEY ABRAMS,91
-White,Town Creek,Governor,,DEM,STACEY ABRAMS,121
-White,White Creek,Governor,,DEM,STACEY ABRAMS,72
-White,Blue Creek,Governor,,LIB,TED METZ,19
-White,Blue Ridge,Governor,,LIB,TED METZ,6
-White,Helen,Governor,,LIB,TED METZ,6
-White,Mossy Creek,Governor,,LIB,TED METZ,14
-White,Mt. Yonah,Governor,,LIB,TED METZ,19
-White,Nacoochee,Governor,,LIB,TED METZ,11
-White,Robertstown,Governor,,LIB,TED METZ,3
-White,Shoal Creek,Governor,,LIB,TED METZ,19
-White,Tesnatee,Governor,,LIB,TED METZ,7
-White,Town Creek,Governor,,LIB,TED METZ,13
-White,White Creek,Governor,,LIB,TED METZ,8
-White,Blue Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,1144
-White,Blue Ridge,Lieutenant Governor,,REP,GEOFF DUNCAN,425
-White,Helen,Lieutenant Governor,,REP,GEOFF DUNCAN,260
-White,Mossy Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,1465
-White,Mt. Yonah,Lieutenant Governor,,REP,GEOFF DUNCAN,1969
-White,Nacoochee,Lieutenant Governor,,REP,GEOFF DUNCAN,721
-White,Robertstown,Lieutenant Governor,,REP,GEOFF DUNCAN,173
-White,Shoal Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,1084
-White,Tesnatee,Lieutenant Governor,,REP,GEOFF DUNCAN,534
-White,Town Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,761
-White,White Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,875
-White,Blue Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,252
-White,Blue Ridge,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,65
-White,Helen,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,86
-White,Mossy Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,165
-White,Mt. Yonah,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,376
-White,Nacoochee,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,291
-White,Robertstown,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,46
-White,Shoal Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,135
-White,Tesnatee,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,91
-White,Town Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,131
-White,White Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,81
-White,Blue Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,1124
-White,Blue Ridge,Secretary Of State,,REP,BRAD RAFFENSPERGER,418
-White,Helen,Secretary Of State,,REP,BRAD RAFFENSPERGER,254
-White,Mossy Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,1454
-White,Mt. Yonah,Secretary Of State,,REP,BRAD RAFFENSPERGER,1950
-White,Nacoochee,Secretary Of State,,REP,BRAD RAFFENSPERGER,705
-White,Robertstown,Secretary Of State,,REP,BRAD RAFFENSPERGER,174
-White,Shoal Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,1067
-White,Tesnatee,Secretary Of State,,REP,BRAD RAFFENSPERGER,530
-White,Town Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,751
-White,White Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,866
-White,Blue Creek,Secretary Of State,,DEM,JOHN BARROW,252
-White,Blue Ridge,Secretary Of State,,DEM,JOHN BARROW,66
-White,Helen,Secretary Of State,,DEM,JOHN BARROW,94
-White,Mossy Creek,Secretary Of State,,DEM,JOHN BARROW,176
-White,Mt. Yonah,Secretary Of State,,DEM,JOHN BARROW,392
-White,Nacoochee,Secretary Of State,,DEM,JOHN BARROW,295
-White,Robertstown,Secretary Of State,,DEM,JOHN BARROW,46
-White,Shoal Creek,Secretary Of State,,DEM,JOHN BARROW,140
-White,Tesnatee,Secretary Of State,,DEM,JOHN BARROW,102
-White,Town Creek,Secretary Of State,,DEM,JOHN BARROW,126
-White,White Creek,Secretary Of State,,DEM,JOHN BARROW,87
-White,Blue Creek,Secretary Of State,,LIB,SMYTHE DUVAL,37
-White,Blue Ridge,Secretary Of State,,LIB,SMYTHE DUVAL,11
-White,Helen,Secretary Of State,,LIB,SMYTHE DUVAL,6
-White,Mossy Creek,Secretary Of State,,LIB,SMYTHE DUVAL,28
-White,Mt. Yonah,Secretary Of State,,LIB,SMYTHE DUVAL,41
-White,Nacoochee,Secretary Of State,,LIB,SMYTHE DUVAL,19
-White,Robertstown,Secretary Of State,,LIB,SMYTHE DUVAL,5
-White,Shoal Creek,Secretary Of State,,LIB,SMYTHE DUVAL,35
-White,Tesnatee,Secretary Of State,,LIB,SMYTHE DUVAL,10
-White,Town Creek,Secretary Of State,,LIB,SMYTHE DUVAL,20
-White,White Creek,Secretary Of State,,LIB,SMYTHE DUVAL,10
-White,Blue Creek,Attorney General,,(REP,CHRIS CARR ,1144
-White,Blue Ridge,Attorney General,,(REP,CHRIS CARR ,420
-White,Helen,Attorney General,,(REP,CHRIS CARR ,261
-White,Mossy Creek,Attorney General,,(REP,CHRIS CARR ,1485
-White,Mt. Yonah,Attorney General,,(REP,CHRIS CARR ,1971
-White,Nacoochee,Attorney General,,(REP,CHRIS CARR ,714
-White,Robertstown,Attorney General,,(REP,CHRIS CARR ,175
-White,Shoal Creek,Attorney General,,(REP,CHRIS CARR ,1085
-White,Tesnatee,Attorney General,,(REP,CHRIS CARR ,535
-White,Town Creek,Attorney General,,(REP,CHRIS CARR ,766
-White,White Creek,Attorney General,,(REP,CHRIS CARR ,879
-White,Blue Creek,Attorney General,,DEM,CHARLIE BAILEY,262
-White,Blue Ridge,Attorney General,,DEM,CHARLIE BAILEY,69
-White,Helen,Attorney General,,DEM,CHARLIE BAILEY,96
-White,Mossy Creek,Attorney General,,DEM,CHARLIE BAILEY,180
-White,Mt. Yonah,Attorney General,,DEM,CHARLIE BAILEY,399
-White,Nacoochee,Attorney General,,DEM,CHARLIE BAILEY,307
-White,Robertstown,Attorney General,,DEM,CHARLIE BAILEY,47
-White,Shoal Creek,Attorney General,,DEM,CHARLIE BAILEY,149
-White,Tesnatee,Attorney General,,DEM,CHARLIE BAILEY,99
-White,Town Creek,Attorney General,,DEM,CHARLIE BAILEY,131
-White,White Creek,Attorney General,,DEM,CHARLIE BAILEY,81
-White,Blue Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,1162
-White,Blue Ridge,Commissioner Of Agriculture,,(REP,GARY BLACK ,433
-White,Helen,Commissioner Of Agriculture,,(REP,GARY BLACK ,266
-White,Mossy Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,1516
-White,Mt. Yonah,Commissioner Of Agriculture,,(REP,GARY BLACK ,2021
-White,Nacoochee,Commissioner Of Agriculture,,(REP,GARY BLACK ,737
-White,Robertstown,Commissioner Of Agriculture,,(REP,GARY BLACK ,177
-White,Shoal Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,1117
-White,Tesnatee,Commissioner Of Agriculture,,(REP,GARY BLACK ,551
-White,Town Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,786
-White,White Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,898
-White,Blue Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,236
-White,Blue Ridge,Commissioner Of Agriculture,,DEM,FRED SWANN,57
-White,Helen,Commissioner Of Agriculture,,DEM,FRED SWANN,87
-White,Mossy Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,143
-White,Mt. Yonah,Commissioner Of Agriculture,,DEM,FRED SWANN,355
-White,Nacoochee,Commissioner Of Agriculture,,DEM,FRED SWANN,272
-White,Robertstown,Commissioner Of Agriculture,,DEM,FRED SWANN,45
-White,Shoal Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,117
-White,Tesnatee,Commissioner Of Agriculture,,DEM,FRED SWANN,86
-White,Town Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,109
-White,White Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,59
-White,Blue Creek,Commissioner Of Insurance,,REP,JIM BECK,1115
-White,Blue Ridge,Commissioner Of Insurance,,REP,JIM BECK,416
-White,Helen,Commissioner Of Insurance,,REP,JIM BECK,261
-White,Mossy Creek,Commissioner Of Insurance,,REP,JIM BECK,1468
-White,Mt. Yonah,Commissioner Of Insurance,,REP,JIM BECK,1957
-White,Nacoochee,Commissioner Of Insurance,,REP,JIM BECK,722
-White,Robertstown,Commissioner Of Insurance,,REP,JIM BECK,172
-White,Shoal Creek,Commissioner Of Insurance,,REP,JIM BECK,1077
-White,Tesnatee,Commissioner Of Insurance,,REP,JIM BECK,533
-White,Town Creek,Commissioner Of Insurance,,REP,JIM BECK,755
-White,White Creek,Commissioner Of Insurance,,REP,JIM BECK,864
-White,Blue Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,246
-White,Blue Ridge,Commissioner Of Insurance,,DEM,JANICE LAWS,58
-White,Helen,Commissioner Of Insurance,,DEM,JANICE LAWS,85
-White,Mossy Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,155
-White,Mt. Yonah,Commissioner Of Insurance,,DEM,JANICE LAWS,367
-White,Nacoochee,Commissioner Of Insurance,,DEM,JANICE LAWS,270
-White,Robertstown,Commissioner Of Insurance,,DEM,JANICE LAWS,40
-White,Shoal Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,127
-White,Tesnatee,Commissioner Of Insurance,,DEM,JANICE LAWS,88
-White,Town Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,116
-White,White Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,72
-White,Blue Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,47
-White,Blue Ridge,Commissioner Of Insurance,,LIB,DONNIE FOSTER,15
-White,Helen,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11
-White,Mossy Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,36
-White,Mt. Yonah,Commissioner Of Insurance,,LIB,DONNIE FOSTER,54
-White,Nacoochee,Commissioner Of Insurance,,LIB,DONNIE FOSTER,27
-White,Robertstown,Commissioner Of Insurance,,LIB,DONNIE FOSTER,9
-White,Shoal Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,30
-White,Tesnatee,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18
-White,Town Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,29
-White,White Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
-White,Blue Creek,State School Superintendent,,(REP,RICHARD WOODS ,1168
-White,Blue Ridge,State School Superintendent,,(REP,RICHARD WOODS ,433
-White,Helen,State School Superintendent,,(REP,RICHARD WOODS ,270
-White,Mossy Creek,State School Superintendent,,(REP,RICHARD WOODS ,1510
-White,Mt. Yonah,State School Superintendent,,(REP,RICHARD WOODS ,2022
-White,Nacoochee,State School Superintendent,,(REP,RICHARD WOODS ,743
-White,Robertstown,State School Superintendent,,(REP,RICHARD WOODS ,181
-White,Shoal Creek,State School Superintendent,,(REP,RICHARD WOODS ,1100
-White,Tesnatee,State School Superintendent,,(REP,RICHARD WOODS ,554
-White,Town Creek,State School Superintendent,,(REP,RICHARD WOODS ,778
-White,White Creek,State School Superintendent,,(REP,RICHARD WOODS ,892
-White,Blue Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",237
-White,Blue Ridge,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",61
-White,Helen,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",79
-White,Mossy Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",147
-White,Mt. Yonah,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",355
-White,Nacoochee,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",267
-White,Robertstown,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",43
-White,Shoal Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",126
-White,Tesnatee,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",85
-White,Town Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",115
-White,White Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",71
-White,Blue Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,1151
-White,Blue Ridge,Commissioner Of Labor,,(REP,MARK BUTLER ,429
-White,Helen,Commissioner Of Labor,,(REP,MARK BUTLER ,264
-White,Mossy Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,1497
-White,Mt. Yonah,Commissioner Of Labor,,(REP,MARK BUTLER ,2009
-White,Nacoochee,Commissioner Of Labor,,(REP,MARK BUTLER ,737
-White,Robertstown,Commissioner Of Labor,,(REP,MARK BUTLER ,179
-White,Shoal Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,1093
-White,Tesnatee,Commissioner Of Labor,,(REP,MARK BUTLER ,551
-White,Town Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,774
-White,White Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,893
-White,Blue Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,248
-White,Blue Ridge,Commissioner Of Labor,,DEM,RICHARD KEATLEY,61
-White,Helen,Commissioner Of Labor,,DEM,RICHARD KEATLEY,84
-White,Mossy Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,158
-White,Mt. Yonah,Commissioner Of Labor,,DEM,RICHARD KEATLEY,366
-White,Nacoochee,Commissioner Of Labor,,DEM,RICHARD KEATLEY,277
-White,Robertstown,Commissioner Of Labor,,DEM,RICHARD KEATLEY,42
-White,Shoal Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,128
-White,Tesnatee,Commissioner Of Labor,,DEM,RICHARD KEATLEY,87
-White,Town Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,124
-White,White Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,69
-White,Blue Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1105
-White,Blue Ridge,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,415
-White,Helen,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,250
-White,Mossy Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1452
-White,Mt. Yonah,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1945
-White,Nacoochee,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,699
-White,Robertstown,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,171
-White,Shoal Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1067
-White,Tesnatee,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,521
-White,Town Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,736
-White,White Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,862
-White,Blue Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,254
-White,Blue Ridge,"Public Service Commission, District 3",3,DEM,LINDY MILLER,61
-White,Helen,"Public Service Commission, District 3",3,DEM,LINDY MILLER,89
-White,Mossy Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,173
-White,Mt. Yonah,"Public Service Commission, District 3",3,DEM,LINDY MILLER,374
-White,Nacoochee,"Public Service Commission, District 3",3,DEM,LINDY MILLER,281
-White,Robertstown,"Public Service Commission, District 3",3,DEM,LINDY MILLER,50
-White,Shoal Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,130
-White,Tesnatee,"Public Service Commission, District 3",3,DEM,LINDY MILLER,98
-White,Town Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,123
-White,White Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,81
-White,Blue Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,49
-White,Blue Ridge,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,18
-White,Helen,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,13
-White,Mossy Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,31
-White,Mt. Yonah,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,55
-White,Nacoochee,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,36
-White,Robertstown,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,3
-White,Shoal Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,36
-White,Tesnatee,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,18
-White,Town Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,39
-White,White Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16
-White,Blue Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1108
-White,Blue Ridge,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,413
-White,Helen,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,254
-White,Mossy Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1462
-White,Mt. Yonah,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1957
-White,Nacoochee,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,709
-White,Robertstown,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,172
-White,Shoal Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1066
-White,Tesnatee,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,528
-White,Town Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,742
-White,White Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,878
-White,Blue Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,241
-White,Blue Ridge,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,60
-White,Helen,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,83
-White,Mossy Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,155
-White,Mt. Yonah,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,371
-White,Nacoochee,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,277
-White,Robertstown,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,45
-White,Shoal Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,125
-White,Tesnatee,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,90
-White,Town Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,118
-White,White Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,66
-White,Blue Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,54
-White,Blue Ridge,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,18
-White,Helen,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14
-White,Mossy Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34
-White,Mt. Yonah,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,56
-White,Nacoochee,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,31
-White,Robertstown,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7
-White,Shoal Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,39
-White,Tesnatee,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,20
-White,Town Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,33
-White,White Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,16
-White,Blue Creek,U.S. Representative,9,(REP,DOUG COLLINS ,1162
-White,Blue Ridge,U.S. Representative,9,(REP,DOUG COLLINS ,426
-White,Helen,U.S. Representative,9,(REP,DOUG COLLINS ,267
-White,Mossy Creek,U.S. Representative,9,(REP,DOUG COLLINS ,1480
-White,Mt. Yonah,U.S. Representative,9,(REP,DOUG COLLINS ,2005
-White,Nacoochee,U.S. Representative,9,(REP,DOUG COLLINS ,726
-White,Robertstown,U.S. Representative,9,(REP,DOUG COLLINS ,176
-White,Shoal Creek,U.S. Representative,9,(REP,DOUG COLLINS ,1094
-White,Tesnatee,U.S. Representative,9,(REP,DOUG COLLINS ,553
-White,Town Creek,U.S. Representative,9,(REP,DOUG COLLINS ,774
-White,White Creek,U.S. Representative,9,(REP,DOUG COLLINS ,884
-White,Blue Creek,U.S. Representative,9,DEM,JOSH MCCALL,252
-White,Blue Ridge,U.S. Representative,9,DEM,JOSH MCCALL,66
-White,Helen,U.S. Representative,9,DEM,JOSH MCCALL,84
-White,Mossy Creek,U.S. Representative,9,DEM,JOSH MCCALL,179
-White,Mt. Yonah,U.S. Representative,9,DEM,JOSH MCCALL,390
-White,Nacoochee,U.S. Representative,9,DEM,JOSH MCCALL,295
-White,Robertstown,U.S. Representative,9,DEM,JOSH MCCALL,46
-White,Shoal Creek,U.S. Representative,9,DEM,JOSH MCCALL,133
-White,Tesnatee,U.S. Representative,9,DEM,JOSH MCCALL,91
-White,Town Creek,U.S. Representative,9,DEM,JOSH MCCALL,128
-White,White Creek,U.S. Representative,9,DEM,JOSH MCCALL,82
-White,Blue Creek,State Senator,51,(REP,STEVE GOOCH ,1253
-White,Blue Ridge,State Senator,51,(REP,STEVE GOOCH ,453
-White,Helen,State Senator,51,(REP,STEVE GOOCH ,283
-White,Mossy Creek,State Senator,51,(REP,STEVE GOOCH ,1565
-White,Mt. Yonah,State Senator,51,(REP,STEVE GOOCH ,2168
-White,Nacoochee,State Senator,51,(REP,STEVE GOOCH ,830
-White,Robertstown,State Senator,51,(REP,STEVE GOOCH ,205
-White,Shoal Creek,State Senator,51,(REP,STEVE GOOCH ,1142
-White,Tesnatee,State Senator,51,(REP,STEVE GOOCH ,590
-White,Town Creek,State Senator,51,(REP,STEVE GOOCH ,824
-White,White Creek,State Senator,51,(REP,STEVE GOOCH ,912
-White,Blue Ridge,State Representative,8,(REP,MATT GURTLER ,447
-White,Helen,State Representative,8,(REP,MATT GURTLER ,287
-White,Robertstown,State Representative,8,(REP,MATT GURTLER ,202
-White,Tesnatee,State Representative,8,(REP,MATT GURTLER ,584
-White,Town Creek,State Representative,8,(REP,MATT GURTLER ,809
-White,Blue Creek,State Representative,10,(REP,TERRY ROGERS ,1247
-White,Mossy Creek,State Representative,10,(REP,TERRY ROGERS ,1559
-White,Mt. Yonah,State Representative,10,(REP,TERRY ROGERS ,2178
-White,Nacoochee,State Representative,10,(REP,TERRY ROGERS ,829
-White,Shoal Creek,State Representative,10,(REP,TERRY ROGERS ,446
-White,White Creek,State Representative,10,(REP,TERRY ROGERS ,915
-White,Shoal Creek,State Representative,27,(REP,LEE HAWKINS ,704
-White,Blue Creek,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,1241
-White,Blue Ridge,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,443
-White,Helen,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,286
-White,Mossy Creek,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,1553
-White,Mt. Yonah,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,2163
-White,Nacoochee,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,830
-White,Robertstown,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,205
-White,Shoal Creek,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,1142
-White,Tesnatee,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,577
-White,Town Creek,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,814
-White,White Creek,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,903
-White,Mossy Creek,County Comm 2,,R,L. HOLCOMB ,1464
-White,White Creek,County Comm 2,,R,L. HOLCOMB ,854
-White,Blue Ridge,County Comm 3,,R,E. NIX ,448
-White,Mt. Yonah,County Comm 3,,R,E. NIX ,1
-White,Shoal Creek,County Comm 3,,R,E. NIX ,1112
-White,Tesnatee,County Comm 3,,R,E. NIX ,74
-White,Town Creek,County Comm 3,,R,E. NIX ,809
-White,Blue Creek,BOE 2,,R,J. SOLMON,1248
-White,Blue Ridge,BOE 2,,R,J. SOLMON,450
-White,Helen,BOE 2,,R,J. SOLMON,290
-White,Mossy Creek,BOE 2,,R,J. SOLMON,1543
-White,Mt. Yonah,BOE 2,,R,J. SOLMON,2166
-White,Nacoochee,BOE 2,,R,J. SOLMON,828
-White,Robertstown,BOE 2,,R,J. SOLMON,205
-White,Shoal Creek,BOE 2,,R,J. SOLMON,1139
-White,Tesnatee,BOE 2,,R,J. SOLMON,587
-White,Town Creek,BOE 2,,R,J. SOLMON,816
-White,White Creek,BOE 2,,R,J. SOLMON,902
-White,Blue Creek,BOE 4,,R,L. M. ERBELE,1251
-White,Blue Ridge,BOE 4,,R,L. M. ERBELE,454
-White,Helen,BOE 4,,R,L. M. ERBELE,304
-White,Mossy Creek,BOE 4,,R,L. M. ERBELE,1550
-White,Mt. Yonah,BOE 4,,R,L. M. ERBELE,2161
-White,Nacoochee,BOE 4,,R,L. M. ERBELE,864
-White,Robertstown,BOE 4,,R,L. M. ERBELE,206
-White,Shoal Creek,BOE 4,,R,L. M. ERBELE,1138
-White,Tesnatee,BOE 4,,R,L. M. ERBELE,584
-White,Town Creek,BOE 4,,R,L. M. ERBELE,820
-White,White Creek,BOE 4,,R,L. M. ERBELE,900
-White,Blue Creek,Soil and Water,,l,DAVID B. SILLS,1240
-White,Blue Ridge,Soil and Water,,l,DAVID B. SILLS,429
-White,Helen,Soil and Water,,l,DAVID B. SILLS,298
-White,Mossy Creek,Soil and Water,,l,DAVID B. SILLS,1519
-White,Mt. Yonah,Soil and Water,,l,DAVID B. SILLS,2134
-White,Nacoochee,Soil and Water,,l,DAVID B. SILLS,866
-White,Robertstown,Soil and Water,,l,DAVID B. SILLS,199
-White,Shoal Creek,Soil and Water,,l,DAVID B. SILLS,1089
-White,Tesnatee,Soil and Water,,l,DAVID B. SILLS,565
-White,Town Creek,Soil and Water,,l,DAVID B. SILLS,789
-White,White Creek,Soil and Water,,l,DAVID B. SILLS,885
-White,Blue Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1080
-White,Blue Ridge,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,373
-White,Helen,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,284
-White,Mossy Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1213
-White,Mt. Yonah,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1867
-White,Nacoochee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,853
-White,Robertstown,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,181
-White,Shoal Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,919
-White,Tesnatee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,487
-White,Town Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,675
-White,White Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,695
-White,Blue Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,303
-White,Blue Ridge,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,108
-White,Helen,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,64
-White,Mossy Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,417
-White,Mt. Yonah,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,497
-White,Nacoochee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,162
-White,Robertstown,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,38
-White,Shoal Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,295
-White,Tesnatee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,145
-White,Town Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,221
-White,White Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,253
-White,Blue Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,861
-White,Blue Ridge,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,297
-White,Helen,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,217
-White,Mossy Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,958
-White,Mt. Yonah,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1514
-White,Nacoochee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,649
-White,Robertstown,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,140
-White,Shoal Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,697
-White,Tesnatee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,407
-White,Town Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,547
-White,White Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,554
-White,Blue Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,483
-White,Blue Ridge,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,170
-White,Helen,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,112
-White,Mossy Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,624
-White,Mt. Yonah,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,765
-White,Nacoochee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,319
-White,Robertstown,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,72
-White,Shoal Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,483
-White,Tesnatee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,204
-White,Town Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,322
-White,White Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,366
-White,Blue Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,789
-White,Blue Ridge,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,275
-White,Helen,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,201
-White,Mossy Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,858
-White,Mt. Yonah,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1396
-White,Nacoochee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,636
-White,Robertstown,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,134
-White,Shoal Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,651
-White,Tesnatee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,357
-White,Town Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,476
-White,White Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,494
-White,Blue Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,540
-White,Blue Ridge,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,185
-White,Helen,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,128
-White,Mossy Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,717
-White,Mt. Yonah,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,887
-White,Nacoochee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,342
-White,Robertstown,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,75
-White,Shoal Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,522
-White,Tesnatee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,247
-White,Town Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,388
-White,White Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,416
-White,Blue Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1072
-White,Blue Ridge,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,377
-White,Helen,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,281
-White,Mossy Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1187
-White,Mt. Yonah,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1879
-White,Nacoochee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,809
-White,Robertstown,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,177
-White,Shoal Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,920
-White,Tesnatee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,529
-White,Town Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,669
-White,White Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,702
-White,Blue Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,312
-White,Blue Ridge,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,104
-White,Helen,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,65
-White,Mossy Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,442
-White,Mt. Yonah,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,471
-White,Nacoochee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,184
-White,Robertstown,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,42
-White,Shoal Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,295
-White,Tesnatee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,105
-White,Town Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,214
-White,White Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,241
-White,Blue Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,856
-White,Blue Ridge,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,311
-White,Helen,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,233
-White,Mossy Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,961
-White,Mt. Yonah,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1521
-White,Nacoochee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,666
-White,Robertstown,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,150
-White,Shoal Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,730
-White,Tesnatee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,410
-White,Town Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,526
-White,White Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,570
-White,Blue Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,486
-White,Blue Ridge,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,157
-White,Helen,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,105
-White,Mossy Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,619
-White,Mt. Yonah,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,776
-White,Nacoochee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,314
-White,Robertstown,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,61
-White,Shoal Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,458
-White,Tesnatee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,210
-White,Town Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,344
-White,White Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,342
-White,Blue Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,637
-White,Blue Ridge,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,242
-White,Helen,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,167
-White,Mossy Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,706
-White,Mt. Yonah,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1140
-White,Nacoochee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,515
-White,Robertstown,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,105
-White,Shoal Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,538
-White,Tesnatee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,303
-White,Town Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,397
-White,White Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,444
-White,Blue Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,692
-White,Blue Ridge,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,214
-White,Helen,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,159
-White,Mossy Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,844
-White,Mt. Yonah,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1087
-White,Nacoochee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,429
-White,Robertstown,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,99
-White,Shoal Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,619
-White,Tesnatee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,308
-White,Town Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,450
-White,White Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,456
-White,Blue Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,915
-White,Blue Ridge,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,334
-White,Helen,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,240
-White,Mossy Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1048
-White,Mt. Yonah,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1646
-White,Nacoochee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,723
-White,Robertstown,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,159
-White,Shoal Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,785
-White,Tesnatee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,427
-White,Town Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,592
-White,White Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,621
-White,Blue Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,439
-White,Blue Ridge,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,133
-White,Helen,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,94
-White,Mossy Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,539
-White,Mt. Yonah,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,639
-White,Nacoochee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,257
-White,Robertstown,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,55
-White,Shoal Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,400
-White,Tesnatee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,191
-White,Town Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,277
-White,White Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,295
-White,Blue Creek,SPLOST,,,YES,843
-White,Blue Ridge,SPLOST,,,YES,307
-White,Helen,SPLOST,,,YES,240
-White,Mossy Creek,SPLOST,,,YES,1025
-White,Mt. Yonah,SPLOST,,,YES,1594
-White,Nacoochee,SPLOST,,,YES,689
-White,Robertstown,SPLOST,,,YES,154
-White,Shoal Creek,SPLOST,,,YES,729
-White,Tesnatee,SPLOST,,,YES,416
-White,Town Creek,SPLOST,,,YES,528
-White,White Creek,SPLOST,,,YES,580
-White,Blue Creek,SPLOST,,,NO,524
-White,Blue Ridge,SPLOST,,,NO,169
-White,Helen,SPLOST,,,NO,104
-White,Mossy Creek,SPLOST,,,NO,589
-White,Mt. Yonah,SPLOST,,,NO,744
-White,Nacoochee,SPLOST,,,NO,304
-White,Robertstown,SPLOST,,,NO,61
-White,Shoal Creek,SPLOST,,,NO,472
-White,Tesnatee,SPLOST,,,NO,211
-White,Town Creek,SPLOST,,,NO,356
-White,White Creek,SPLOST,,,NO,345
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,advance_in_person,election_day,provisional
+White,Blue Creek,Governor,,REP,BRIAN KEMP,1171,38,562,568,3
+White,Blue Ridge,Governor,,REP,BRIAN KEMP,431,18,173,240,0
+White,Helen,Governor,,REP,BRIAN KEMP,269,7,114,148,0
+White,Mossy Creek,Governor,,REP,BRIAN KEMP,1517,64,630,823,0
+White,Mt. Yonah,Governor,,REP,BRIAN KEMP,2022,94,1140,787,1
+White,Nacoochee,Governor,,REP,BRIAN KEMP,735,45,389,301,0
+White,Robertstown,Governor,,REP,BRIAN KEMP,175,11,50,114,0
+White,Shoal Creek,Governor,,REP,BRIAN KEMP,1112,36,480,595,1
+White,Tesnatee,Governor,,REP,BRIAN KEMP,557,25,275,257,0
+White,Town Creek,Governor,,REP,BRIAN KEMP,782,37,348,397,0
+White,White Creek,Governor,,REP,BRIAN KEMP,896,46,361,489,0
+White,Blue Creek,Governor,,DEM,STACEY ABRAMS,236,17,122,97,0
+White,Blue Ridge,Governor,,DEM,STACEY ABRAMS,62,2,31,29,0
+White,Helen,Governor,,DEM,STACEY ABRAMS,82,5,40,37,0
+White,Mossy Creek,Governor,,DEM,STACEY ABRAMS,150,8,71,71,0
+White,Mt. Yonah,Governor,,DEM,STACEY ABRAMS,376,26,205,145,0
+White,Nacoochee,Governor,,DEM,STACEY ABRAMS,287,28,144,115,0
+White,Robertstown,Governor,,DEM,STACEY ABRAMS,46,2,21,23,0
+White,Shoal Creek,Governor,,DEM,STACEY ABRAMS,124,5,71,48,0
+White,Tesnatee,Governor,,DEM,STACEY ABRAMS,91,4,45,42,0
+White,Town Creek,Governor,,DEM,STACEY ABRAMS,121,6,66,49,0
+White,White Creek,Governor,,DEM,STACEY ABRAMS,72,8,30,34,0
+White,Blue Creek,Governor,,LIB,TED METZ,19,2,6,11,0
+White,Blue Ridge,Governor,,LIB,TED METZ,6,0,2,4,0
+White,Helen,Governor,,LIB,TED METZ,6,0,1,5,0
+White,Mossy Creek,Governor,,LIB,TED METZ,14,0,6,8,0
+White,Mt. Yonah,Governor,,LIB,TED METZ,19,0,8,11,0
+White,Nacoochee,Governor,,LIB,TED METZ,11,0,3,8,0
+White,Robertstown,Governor,,LIB,TED METZ,3,1,1,1,0
+White,Shoal Creek,Governor,,LIB,TED METZ,19,0,7,12,0
+White,Tesnatee,Governor,,LIB,TED METZ,7,0,3,4,0
+White,Town Creek,Governor,,LIB,TED METZ,13,2,3,8,0
+White,White Creek,Governor,,LIB,TED METZ,8,0,0,8,0
+White,Blue Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,1144,38,550,553,3
+White,Blue Ridge,Lieutenant Governor,,REP,GEOFF DUNCAN,425,18,172,235,0
+White,Helen,Lieutenant Governor,,REP,GEOFF DUNCAN,260,7,112,141,0
+White,Mossy Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,1465,61,605,799,0
+White,Mt. Yonah,Lieutenant Governor,,REP,GEOFF DUNCAN,1969,95,1105,769,0
+White,Nacoochee,Lieutenant Governor,,REP,GEOFF DUNCAN,721,43,380,298,0
+White,Robertstown,Lieutenant Governor,,REP,GEOFF DUNCAN,173,12,51,110,0
+White,Shoal Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,1084,36,468,579,1
+White,Tesnatee,Lieutenant Governor,,REP,GEOFF DUNCAN,534,25,261,248,0
+White,Town Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,761,34,340,387,0
+White,White Creek,Lieutenant Governor,,REP,GEOFF DUNCAN,875,45,354,476,0
+White,Blue Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,252,18,121,113,0
+White,Blue Ridge,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,65,2,30,33,0
+White,Helen,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,86,5,39,42,0
+White,Mossy Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,165,9,76,80,0
+White,Mt. Yonah,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,376,29,199,147,1
+White,Nacoochee,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,291,30,145,116,0
+White,Robertstown,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,46,2,21,23,0
+White,Shoal Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,135,5,71,59,0
+White,Tesnatee,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,91,4,45,42,0
+White,Town Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,131,9,64,58,0
+White,White Creek,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,81,8,29,44,0
+White,Blue Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,1124,37,545,539,3
+White,Blue Ridge,Secretary Of State,,REP,BRAD RAFFENSPERGER,418,18,168,232,0
+White,Helen,Secretary Of State,,REP,BRAD RAFFENSPERGER,254,7,110,137,0
+White,Mossy Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,1454,54,615,785,0
+White,Mt. Yonah,Secretary Of State,,REP,BRAD RAFFENSPERGER,1950,92,1101,757,0
+White,Nacoochee,Secretary Of State,,REP,BRAD RAFFENSPERGER,705,44,377,284,0
+White,Robertstown,Secretary Of State,,REP,BRAD RAFFENSPERGER,174,11,50,113,0
+White,Shoal Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,1067,35,462,569,1
+White,Tesnatee,Secretary Of State,,REP,BRAD RAFFENSPERGER,530,24,262,244,0
+White,Town Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,751,32,344,375,0
+White,White Creek,Secretary Of State,,REP,BRAD RAFFENSPERGER,866,47,351,468,0
+White,Blue Creek,Secretary Of State,,DEM,JOHN BARROW,252,16,125,111,0
+White,Blue Ridge,Secretary Of State,,DEM,JOHN BARROW,66,2,29,35,0
+White,Helen,Secretary Of State,,DEM,JOHN BARROW,94,4,42,48,0
+White,Mossy Creek,Secretary Of State,,DEM,JOHN BARROW,176,12,77,87,0
+White,Mt. Yonah,Secretary Of State,,DEM,JOHN BARROW,392,28,213,150,1
+White,Nacoochee,Secretary Of State,,DEM,JOHN BARROW,295,29,143,123,0
+White,Robertstown,Secretary Of State,,DEM,JOHN BARROW,46,2,21,23,0
+White,Shoal Creek,Secretary Of State,,DEM,JOHN BARROW,140,3,75,62,0
+White,Tesnatee,Secretary Of State,,DEM,JOHN BARROW,102,4,49,49,0
+White,Town Creek,Secretary Of State,,DEM,JOHN BARROW,126,8,62,56,0
+White,White Creek,Secretary Of State,,DEM,JOHN BARROW,87,6,33,48,0
+White,Blue Creek,Secretary Of State,,LIB,SMYTHE DUVAL,37,4,12,21,0
+White,Blue Ridge,Secretary Of State,,LIB,SMYTHE DUVAL,11,0,4,7,0
+White,Helen,Secretary Of State,,LIB,SMYTHE DUVAL,6,0,2,4,0
+White,Mossy Creek,Secretary Of State,,LIB,SMYTHE DUVAL,28,1,9,18,0
+White,Mt. Yonah,Secretary Of State,,LIB,SMYTHE DUVAL,41,2,14,24,1
+White,Nacoochee,Secretary Of State,,LIB,SMYTHE DUVAL,19,0,8,11,0
+White,Robertstown,Secretary Of State,,LIB,SMYTHE DUVAL,5,1,1,3,0
+White,Shoal Creek,Secretary Of State,,LIB,SMYTHE DUVAL,35,3,10,22,0
+White,Tesnatee,Secretary Of State,,LIB,SMYTHE DUVAL,10,0,4,6,0
+White,Town Creek,Secretary Of State,,LIB,SMYTHE DUVAL,20,1,4,15,0
+White,White Creek,Secretary Of State,,LIB,SMYTHE DUVAL,10,0,3,7,0
+White,Blue Creek,Attorney General,,(REP,CHRIS CARR ,1144,36,553,552,3
+White,Blue Ridge,Attorney General,,(REP,CHRIS CARR ,420,17,172,231,0
+White,Helen,Attorney General,,(REP,CHRIS CARR ,261,7,113,141,0
+White,Mossy Creek,Attorney General,,(REP,CHRIS CARR ,1485,63,622,800,0
+White,Mt. Yonah,Attorney General,,(REP,CHRIS CARR ,1971,93,1101,776,1
+White,Nacoochee,Attorney General,,(REP,CHRIS CARR ,714,46,383,285,0
+White,Robertstown,Attorney General,,(REP,CHRIS CARR ,175,11,47,117,0
+White,Shoal Creek,Attorney General,,(REP,CHRIS CARR ,1085,36,476,572,1
+White,Tesnatee,Attorney General,,(REP,CHRIS CARR ,535,25,263,247,0
+White,Town Creek,Attorney General,,(REP,CHRIS CARR ,766,32,347,387,0
+White,White Creek,Attorney General,,(REP,CHRIS CARR ,879,47,356,476,0
+White,Blue Creek,Attorney General,,DEM,CHARLIE BAILEY,262,20,128,114,0
+White,Blue Ridge,Attorney General,,DEM,CHARLIE BAILEY,69,3,28,38,0
+White,Helen,Attorney General,,DEM,CHARLIE BAILEY,96,5,42,49,0
+White,Mossy Creek,Attorney General,,DEM,CHARLIE BAILEY,180,10,78,92,0
+White,Mt. Yonah,Attorney General,,DEM,CHARLIE BAILEY,399,28,214,156,1
+White,Nacoochee,Attorney General,,DEM,CHARLIE BAILEY,307,27,150,130,0
+White,Robertstown,Attorney General,,DEM,CHARLIE BAILEY,47,3,24,20,0
+White,Shoal Creek,Attorney General,,DEM,CHARLIE BAILEY,149,5,70,74,0
+White,Tesnatee,Attorney General,,DEM,CHARLIE BAILEY,99,4,47,48,0
+White,Town Creek,Attorney General,,DEM,CHARLIE BAILEY,131,10,63,58,0
+White,White Creek,Attorney General,,DEM,CHARLIE BAILEY,81,6,25,50,0
+White,Blue Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,1162,39,557,563,3
+White,Blue Ridge,Commissioner Of Agriculture,,(REP,GARY BLACK ,433,18,174,241,0
+White,Helen,Commissioner Of Agriculture,,(REP,GARY BLACK ,266,7,112,147,0
+White,Mossy Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,1516,64,627,825,0
+White,Mt. Yonah,Commissioner Of Agriculture,,(REP,GARY BLACK ,2021,96,1130,794,1
+White,Nacoochee,Commissioner Of Agriculture,,(REP,GARY BLACK ,737,44,383,310,0
+White,Robertstown,Commissioner Of Agriculture,,(REP,GARY BLACK ,177,12,46,119,0
+White,Shoal Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,1117,38,483,595,1
+White,Tesnatee,Commissioner Of Agriculture,,(REP,GARY BLACK ,551,26,267,258,0
+White,Town Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,786,36,357,393,0
+White,White Creek,Commissioner Of Agriculture,,(REP,GARY BLACK ,898,45,359,494,0
+White,Blue Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,236,17,119,100,0
+White,Blue Ridge,Commissioner Of Agriculture,,DEM,FRED SWANN,57,2,27,28,0
+White,Helen,Commissioner Of Agriculture,,DEM,FRED SWANN,87,5,41,41,0
+White,Mossy Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,143,8,70,65,0
+White,Mt. Yonah,Commissioner Of Agriculture,,DEM,FRED SWANN,355,25,192,137,1
+White,Nacoochee,Commissioner Of Agriculture,,DEM,FRED SWANN,272,29,137,106,0
+White,Robertstown,Commissioner Of Agriculture,,DEM,FRED SWANN,45,2,22,21,0
+White,Shoal Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,117,3,65,49,0
+White,Tesnatee,Commissioner Of Agriculture,,DEM,FRED SWANN,86,3,46,37,0
+White,Town Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,109,7,54,48,0
+White,White Creek,Commissioner Of Agriculture,,DEM,FRED SWANN,59,8,22,29,0
+White,Blue Creek,Commissioner Of Insurance,,REP,JIM BECK,1115,35,537,540,3
+White,Blue Ridge,Commissioner Of Insurance,,REP,JIM BECK,416,18,169,229,0
+White,Helen,Commissioner Of Insurance,,REP,JIM BECK,261,7,110,144,0
+White,Mossy Creek,Commissioner Of Insurance,,REP,JIM BECK,1468,60,619,789,0
+White,Mt. Yonah,Commissioner Of Insurance,,REP,JIM BECK,1957,90,1098,768,1
+White,Nacoochee,Commissioner Of Insurance,,REP,JIM BECK,722,45,387,290,0
+White,Robertstown,Commissioner Of Insurance,,REP,JIM BECK,172,11,49,112,0
+White,Shoal Creek,Commissioner Of Insurance,,REP,JIM BECK,1077,36,472,568,1
+White,Tesnatee,Commissioner Of Insurance,,REP,JIM BECK,533,24,264,245,0
+White,Town Creek,Commissioner Of Insurance,,REP,JIM BECK,755,32,340,383,0
+White,White Creek,Commissioner Of Insurance,,REP,JIM BECK,864,45,342,477,0
+White,Blue Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,246,18,128,100,0
+White,Blue Ridge,Commissioner Of Insurance,,DEM,JANICE LAWS,58,2,28,28,0
+White,Helen,Commissioner Of Insurance,,DEM,JANICE LAWS,85,4,41,40,0
+White,Mossy Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,155,9,72,74,0
+White,Mt. Yonah,Commissioner Of Insurance,,DEM,JANICE LAWS,367,30,201,135,1
+White,Nacoochee,Commissioner Of Insurance,,DEM,JANICE LAWS,270,28,134,108,0
+White,Robertstown,Commissioner Of Insurance,,DEM,JANICE LAWS,40,2,21,17,0
+White,Shoal Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,127,3,67,57,0
+White,Tesnatee,Commissioner Of Insurance,,DEM,JANICE LAWS,88,4,47,37,0
+White,Town Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,116,9,60,47,0
+White,White Creek,Commissioner Of Insurance,,DEM,JANICE LAWS,72,7,30,35,0
+White,Blue Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,47,4,17,26,0
+White,Blue Ridge,Commissioner Of Insurance,,LIB,DONNIE FOSTER,15,0,3,12,0
+White,Helen,Commissioner Of Insurance,,LIB,DONNIE FOSTER,11,1,4,6,0
+White,Mossy Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,36,1,8,27,0
+White,Mt. Yonah,Commissioner Of Insurance,,LIB,DONNIE FOSTER,54,1,25,28,0
+White,Nacoochee,Commissioner Of Insurance,,LIB,DONNIE FOSTER,27,0,9,18,0
+White,Robertstown,Commissioner Of Insurance,,LIB,DONNIE FOSTER,9,1,1,7,0
+White,Shoal Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,30,1,10,19,0
+White,Tesnatee,Commissioner Of Insurance,,LIB,DONNIE FOSTER,18,1,5,12,0
+White,Town Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,29,2,10,17,0
+White,White Creek,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16,1,4,11,0
+White,Blue Creek,State School Superintendent,,(REP,RICHARD WOODS ,1168,39,565,561,3
+White,Blue Ridge,State School Superintendent,,(REP,RICHARD WOODS ,433,18,173,242,0
+White,Helen,State School Superintendent,,(REP,RICHARD WOODS ,270,7,116,147,0
+White,Mossy Creek,State School Superintendent,,(REP,RICHARD WOODS ,1510,62,633,815,0
+White,Mt. Yonah,State School Superintendent,,(REP,RICHARD WOODS ,2022,94,1127,800,1
+White,Nacoochee,State School Superintendent,,(REP,RICHARD WOODS ,743,45,391,307,0
+White,Robertstown,State School Superintendent,,(REP,RICHARD WOODS ,181,11,49,121,0
+White,Shoal Creek,State School Superintendent,,(REP,RICHARD WOODS ,1100,36,475,588,1
+White,Tesnatee,State School Superintendent,,(REP,RICHARD WOODS ,554,24,269,261,0
+White,Town Creek,State School Superintendent,,(REP,RICHARD WOODS ,778,35,350,393,0
+White,White Creek,State School Superintendent,,(REP,RICHARD WOODS ,892,47,360,485,0
+White,Blue Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",237,17,117,103,0
+White,Blue Ridge,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",61,2,26,33,0
+White,Helen,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",79,5,37,37,0
+White,Mossy Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",147,8,68,71,0
+White,Mt. Yonah,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",355,28,197,129,1
+White,Nacoochee,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",267,27,136,104,0
+White,Robertstown,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",43,3,21,19,0
+White,Shoal Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",126,4,68,54,0
+White,Tesnatee,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",85,4,44,37,0
+White,Town Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",115,7,59,49,0
+White,White Creek,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",71,6,27,38,0
+White,Blue Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,1151,36,555,557,3
+White,Blue Ridge,Commissioner Of Labor,,(REP,MARK BUTLER ,429,18,170,241,0
+White,Helen,Commissioner Of Labor,,(REP,MARK BUTLER ,264,7,112,145,0
+White,Mossy Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,1497,60,631,806,0
+White,Mt. Yonah,Commissioner Of Labor,,(REP,MARK BUTLER ,2009,92,1126,790,1
+White,Nacoochee,Commissioner Of Labor,,(REP,MARK BUTLER ,737,45,392,300,0
+White,Robertstown,Commissioner Of Labor,,(REP,MARK BUTLER ,179,11,49,119,0
+White,Shoal Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,1093,36,477,579,1
+White,Tesnatee,Commissioner Of Labor,,(REP,MARK BUTLER ,551,24,273,254,0
+White,Town Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,774,33,351,390,0
+White,White Creek,Commissioner Of Labor,,(REP,MARK BUTLER ,893,47,360,486,0
+White,Blue Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,248,19,125,104,0
+White,Blue Ridge,Commissioner Of Labor,,DEM,RICHARD KEATLEY,61,2,28,31,0
+White,Helen,Commissioner Of Labor,,DEM,RICHARD KEATLEY,84,4,39,41,0
+White,Mossy Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,158,9,70,79,0
+White,Mt. Yonah,Commissioner Of Labor,,DEM,RICHARD KEATLEY,366,28,197,140,1
+White,Nacoochee,Commissioner Of Labor,,DEM,RICHARD KEATLEY,277,28,136,113,0
+White,Robertstown,Commissioner Of Labor,,DEM,RICHARD KEATLEY,42,3,22,17,0
+White,Shoal Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,128,4,68,56,0
+White,Tesnatee,Commissioner Of Labor,,DEM,RICHARD KEATLEY,87,5,42,40,0
+White,Town Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,124,9,61,54,0
+White,White Creek,Commissioner Of Labor,,DEM,RICHARD KEATLEY,69,6,26,37,0
+White,Blue Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1105,34,546,522,3
+White,Blue Ridge,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,415,18,165,232,0
+White,Helen,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,250,7,104,139,0
+White,Mossy Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1452,58,616,778,0
+White,Mt. Yonah,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1945,93,1094,757,1
+White,Nacoochee,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,699,41,377,281,0
+White,Robertstown,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,171,11,47,113,0
+White,Shoal Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1067,34,470,562,1
+White,Tesnatee,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,521,24,264,233,0
+White,Town Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,736,32,343,361,0
+White,White Creek,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,862,44,348,470,0
+White,Blue Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,254,18,123,113,0
+White,Blue Ridge,"Public Service Commission, District 3",3,DEM,LINDY MILLER,61,2,29,30,0
+White,Helen,"Public Service Commission, District 3",3,DEM,LINDY MILLER,89,5,42,42,0
+White,Mossy Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,173,9,74,90,0
+White,Mt. Yonah,"Public Service Commission, District 3",3,DEM,LINDY MILLER,374,27,203,143,1
+White,Nacoochee,"Public Service Commission, District 3",3,DEM,LINDY MILLER,281,28,139,114,0
+White,Robertstown,"Public Service Commission, District 3",3,DEM,LINDY MILLER,50,2,24,24,0
+White,Shoal Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,130,3,67,60,0
+White,Tesnatee,"Public Service Commission, District 3",3,DEM,LINDY MILLER,98,5,45,48,0
+White,Town Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,123,9,60,54,0
+White,White Creek,"Public Service Commission, District 3",3,DEM,LINDY MILLER,81,8,31,42,0
+White,Blue Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,49,4,16,29,0
+White,Blue Ridge,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,18,0,6,12,0
+White,Helen,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,13,0,7,6,0
+White,Mossy Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,31,2,9,20,0
+White,Mt. Yonah,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,55,2,21,32,0
+White,Nacoochee,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,36,4,13,19,0
+White,Robertstown,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,3,1,0,2,0
+White,Shoal Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,36,3,12,21,0
+White,Tesnatee,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,18,0,5,13,0
+White,Town Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,39,1,10,28,0
+White,White Creek,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,16,1,4,11,0
+White,Blue Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1108,35,543,527,3
+White,Blue Ridge,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,413,18,164,231,0
+White,Helen,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,254,7,106,141,0
+White,Mossy Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1462,56,620,786,0
+White,Mt. Yonah,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1957,93,1096,768,0
+White,Nacoochee,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,709,38,381,290,0
+White,Robertstown,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,172,11,49,112,0
+White,Shoal Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1066,36,466,563,1
+White,Tesnatee,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,528,25,264,239,0
+White,Town Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,742,32,345,365,0
+White,White Creek,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,878,45,353,480,0
+White,Blue Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,241,18,116,107,0
+White,Blue Ridge,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,60,2,30,28,0
+White,Helen,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,83,4,39,40,0
+White,Mossy Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,155,9,72,74,0
+White,Mt. Yonah,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,371,28,204,138,1
+White,Nacoochee,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,277,29,141,107,0
+White,Robertstown,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,45,2,21,22,0
+White,Shoal Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,125,3,69,53,0
+White,Tesnatee,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,90,4,44,42,0
+White,Town Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,118,8,59,51,0
+White,White Creek,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,66,6,27,33,0
+White,Blue Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,54,4,20,30,0
+White,Blue Ridge,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,18,0,5,13,0
+White,Helen,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,14,1,7,6,0
+White,Mossy Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,34,1,10,23,0
+White,Mt. Yonah,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,56,1,26,28,1
+White,Nacoochee,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,31,6,8,17,0
+White,Robertstown,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,7,1,2,4,0
+White,Shoal Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,39,2,14,23,0
+White,Tesnatee,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,20,0,6,14,0
+White,Town Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,33,1,6,26,0
+White,White Creek,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,16,1,5,10,0
+White,Blue Creek,U.S. Representative,9,(REP,DOUG COLLINS ,1162,37,558,564,3
+White,Blue Ridge,U.S. Representative,9,(REP,DOUG COLLINS ,426,18,171,237,0
+White,Helen,U.S. Representative,9,(REP,DOUG COLLINS ,267,7,114,146,0
+White,Mossy Creek,U.S. Representative,9,(REP,DOUG COLLINS ,1480,61,618,801,0
+White,Mt. Yonah,U.S. Representative,9,(REP,DOUG COLLINS ,2005,95,1124,785,1
+White,Nacoochee,U.S. Representative,9,(REP,DOUG COLLINS ,726,44,385,297,0
+White,Robertstown,U.S. Representative,9,(REP,DOUG COLLINS ,176,12,50,114,0
+White,Shoal Creek,U.S. Representative,9,(REP,DOUG COLLINS ,1094,35,475,583,1
+White,Tesnatee,U.S. Representative,9,(REP,DOUG COLLINS ,553,25,277,251,0
+White,Town Creek,U.S. Representative,9,(REP,DOUG COLLINS ,774,35,352,387,0
+White,White Creek,U.S. Representative,9,(REP,DOUG COLLINS ,884,46,356,482,0
+White,Blue Creek,U.S. Representative,9,DEM,JOSH MCCALL,252,19,128,105,0
+White,Blue Ridge,U.S. Representative,9,DEM,JOSH MCCALL,66,2,31,33,0
+White,Helen,U.S. Representative,9,DEM,JOSH MCCALL,84,5,38,41,0
+White,Mossy Creek,U.S. Representative,9,DEM,JOSH MCCALL,179,10,79,90,0
+White,Mt. Yonah,U.S. Representative,9,DEM,JOSH MCCALL,390,28,210,151,1
+White,Nacoochee,U.S. Representative,9,DEM,JOSH MCCALL,295,28,146,121,0
+White,Robertstown,U.S. Representative,9,DEM,JOSH MCCALL,46,2,22,22,0
+White,Shoal Creek,U.S. Representative,9,DEM,JOSH MCCALL,133,5,69,59,0
+White,Tesnatee,U.S. Representative,9,DEM,JOSH MCCALL,91,4,42,45,0
+White,Town Creek,U.S. Representative,9,DEM,JOSH MCCALL,128,9,61,58,0
+White,White Creek,U.S. Representative,9,DEM,JOSH MCCALL,82,8,31,43,0
+White,Blue Creek,State Senator,51,(REP,STEVE GOOCH ,1253,41,595,614,3
+White,Blue Ridge,State Senator,51,(REP,STEVE GOOCH ,453,18,181,254,0
+White,Helen,State Senator,51,(REP,STEVE GOOCH ,283,7,123,153,0
+White,Mossy Creek,State Senator,51,(REP,STEVE GOOCH ,1565,63,650,852,0
+White,Mt. Yonah,State Senator,51,(REP,STEVE GOOCH ,2168,103,1201,863,1
+White,Nacoochee,State Senator,51,(REP,STEVE GOOCH ,830,52,423,355,0
+White,Robertstown,State Senator,51,(REP,STEVE GOOCH ,205,14,62,129,0
+White,Shoal Creek,State Senator,51,(REP,STEVE GOOCH ,1142,35,501,605,1
+White,Tesnatee,State Senator,51,(REP,STEVE GOOCH ,590,26,290,274,0
+White,Town Creek,State Senator,51,(REP,STEVE GOOCH ,824,37,376,411,0
+White,White Creek,State Senator,51,(REP,STEVE GOOCH ,912,48,363,501,0
+White,Blue Ridge,State Representative,8,(REP,MATT GURTLER ,447,18,179,250,0
+White,Helen,State Representative,8,(REP,MATT GURTLER ,287,7,126,154,0
+White,Robertstown,State Representative,8,(REP,MATT GURTLER ,202,14,62,126,0
+White,Tesnatee,State Representative,8,(REP,MATT GURTLER ,584,25,284,275,0
+White,Town Creek,State Representative,8,(REP,MATT GURTLER ,809,37,365,407,0
+White,Blue Creek,State Representative,10,(REP,TERRY ROGERS ,1247,42,597,605,3
+White,Mossy Creek,State Representative,10,(REP,TERRY ROGERS ,1559,62,650,847,0
+White,Mt. Yonah,State Representative,10,(REP,TERRY ROGERS ,2178,107,1206,864,1
+White,Nacoochee,State Representative,10,(REP,TERRY ROGERS ,829,53,421,355,0
+White,Shoal Creek,State Representative,10,(REP,TERRY ROGERS ,446,13,205,228,0
+White,White Creek,State Representative,10,(REP,TERRY ROGERS ,915,47,366,502,0
+White,Shoal Creek,State Representative,27,(REP,LEE HAWKINS ,704,23,295,385,1
+White,Blue Creek,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,1241,41,590,607,3
+White,Blue Ridge,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,443,18,175,250,0
+White,Helen,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,286,7,124,155,0
+White,Mossy Creek,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,1553,61,644,848,0
+White,Mt. Yonah,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,2163,105,1198,859,1
+White,Nacoochee,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,830,53,420,357,0
+White,Robertstown,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,205,14,62,129,0
+White,Shoal Creek,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,1142,35,501,605,1
+White,Tesnatee,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,577,26,282,269,0
+White,Town Creek,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,814,35,370,409,0
+White,White Creek,District Attorney, Enotah Circuit,(REP,JEFF LANGLEY ,903,49,362,492,0
+White,Mossy Creek,County Comm 2,,R,L. HOLCOMB ,1464,61,593,810,0
+White,White Creek,County Comm 2,,R,L. HOLCOMB ,854,45,345,464,0
+White,Blue Ridge,County Comm 3,,R,E. NIX ,448,18,178,252,0
+White,Mt. Yonah,County Comm 3,,R,E. NIX ,1,0,0,1,0
+White,Shoal Creek,County Comm 3,,R,E. NIX ,1112,34,476,601,1
+White,Tesnatee,County Comm 3,,R,E. NIX ,74,2,40,32,0
+White,Town Creek,County Comm 3,,R,E. NIX ,809,37,369,403,0
+White,Blue Creek,BOE 2,,R,J. SOLMON,1248,41,597,607,3
+White,Blue Ridge,BOE 2,,R,J. SOLMON,450,15,182,253,0
+White,Helen,BOE 2,,R,J. SOLMON,290,7,129,154,0
+White,Mossy Creek,BOE 2,,R,J. SOLMON,1543,59,636,848,0
+White,Mt. Yonah,BOE 2,,R,J. SOLMON,2166,105,1196,864,1
+White,Nacoochee,BOE 2,,R,J. SOLMON,828,53,419,356,0
+White,Robertstown,BOE 2,,R,J. SOLMON,205,14,63,128,0
+White,Shoal Creek,BOE 2,,R,J. SOLMON,1139,35,496,607,1
+White,Tesnatee,BOE 2,,R,J. SOLMON,587,25,286,276,0
+White,Town Creek,BOE 2,,R,J. SOLMON,816,37,374,405,0
+White,White Creek,BOE 2,,R,J. SOLMON,902,48,359,495,0
+White,Blue Creek,BOE 4,,R,L. M. ERBELE,1251,42,602,604,3
+White,Blue Ridge,BOE 4,,R,L. M. ERBELE,454,18,182,254,0
+White,Helen,BOE 4,,R,L. M. ERBELE,304,7,134,163,0
+White,Mossy Creek,BOE 4,,R,L. M. ERBELE,1550,61,641,848,0
+White,Mt. Yonah,BOE 4,,R,L. M. ERBELE,2161,100,1202,858,1
+White,Nacoochee,BOE 4,,R,L. M. ERBELE,864,53,441,370,0
+White,Robertstown,BOE 4,,R,L. M. ERBELE,206,13,64,129,0
+White,Shoal Creek,BOE 4,,R,L. M. ERBELE,1138,35,498,604,1
+White,Tesnatee,BOE 4,,R,L. M. ERBELE,584,26,282,276,0
+White,Town Creek,BOE 4,,R,L. M. ERBELE,820,36,376,408,0
+White,White Creek,BOE 4,,R,L. M. ERBELE,900,48,361,491,0
+White,Blue Creek,Soil and Water,,l,DAVID B. SILLS,1240,40,593,604,3
+White,Blue Ridge,Soil and Water,,l,DAVID B. SILLS,429,17,176,236,0
+White,Helen,Soil and Water,,l,DAVID B. SILLS,298,7,130,161,0
+White,Mossy Creek,Soil and Water,,l,DAVID B. SILLS,1519,64,620,835,0
+White,Mt. Yonah,Soil and Water,,l,DAVID B. SILLS,2134,104,1180,850,0
+White,Nacoochee,Soil and Water,,l,DAVID B. SILLS,866,56,435,375,0
+White,Robertstown,Soil and Water,,l,DAVID B. SILLS,199,14,60,125,0
+White,Shoal Creek,Soil and Water,,l,DAVID B. SILLS,1089,35,472,581,1
+White,Tesnatee,Soil and Water,,l,DAVID B. SILLS,565,24,274,267,0
+White,Town Creek,Soil and Water,,l,DAVID B. SILLS,789,34,352,403,0
+White,White Creek,Soil and Water,,l,DAVID B. SILLS,885,48,347,490,0
+White,Blue Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1080,43,520,515,2
+White,Blue Ridge,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,373,15,160,198,0
+White,Helen,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,284,11,126,147,0
+White,Mossy Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1213,53,507,653,0
+White,Mt. Yonah,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1867,88,1035,742,2
+White,Nacoochee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,853,68,435,350,0
+White,Robertstown,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,181,12,58,111,0
+White,Shoal Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,919,30,421,467,1
+White,Tesnatee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,487,27,244,216,0
+White,Town Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,675,27,317,331,0
+White,White Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,695,39,272,384,0
+White,Blue Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,303,12,144,146,1
+White,Blue Ridge,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,108,5,39,64,0
+White,Helen,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,64,0,27,37,0
+White,Mossy Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,417,14,176,227,0
+White,Mt. Yonah,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,497,32,288,177,0
+White,Nacoochee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,162,3,92,67,0
+White,Robertstown,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,38,1,13,24,0
+White,Shoal Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,295,9,126,160,0
+White,Tesnatee,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,145,2,66,77,0
+White,Town Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,221,16,91,114,0
+White,White Creek,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,253,10,104,139,0
+White,Blue Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,861,31,422,406,2
+White,Blue Ridge,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,297,16,133,148,0
+White,Helen,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,217,9,97,111,0
+White,Mossy Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,958,44,415,499,0
+White,Mt. Yonah,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1514,73,846,593,2
+White,Nacoochee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,649,39,351,259,0
+White,Robertstown,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,140,9,43,88,0
+White,Shoal Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,697,25,318,353,1
+White,Tesnatee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,407,19,211,177,0
+White,Town Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,547,26,251,270,0
+White,White Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,554,29,217,308,0
+White,Blue Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,483,21,227,234,1
+White,Blue Ridge,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,170,3,61,106,0
+White,Helen,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,112,0,48,64,0
+White,Mossy Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,624,23,249,352,0
+White,Mt. Yonah,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,765,39,437,289,0
+White,Nacoochee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,319,30,153,136,0
+White,Robertstown,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,72,4,27,41,0
+White,Shoal Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,483,14,209,260,0
+White,Tesnatee,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,204,10,88,106,0
+White,Town Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,322,14,150,158,0
+White,White Creek,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,366,20,148,198,0
+White,Blue Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,789,34,376,377,2
+White,Blue Ridge,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,275,8,121,146,0
+White,Helen,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,201,2,91,108,0
+White,Mossy Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,858,33,351,474,0
+White,Mt. Yonah,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1396,60,777,557,2
+White,Nacoochee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,636,47,332,257,0
+White,Robertstown,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,134,8,48,78,0
+White,Shoal Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,651,22,296,332,1
+White,Tesnatee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,357,15,189,153,0
+White,Town Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,476,14,233,229,0
+White,White Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,494,19,195,280,0
+White,Blue Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,540,20,258,261,1
+White,Blue Ridge,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,185,11,69,105,0
+White,Helen,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,128,7,55,66,0
+White,Mossy Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,717,34,311,372,0
+White,Mt. Yonah,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,887,50,509,328,0
+White,Nacoochee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,342,22,177,143,0
+White,Robertstown,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,75,5,21,49,0
+White,Shoal Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,522,17,228,277,0
+White,Tesnatee,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,247,14,107,126,0
+White,Town Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,388,26,166,196,0
+White,White Creek,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,416,26,166,224,0
+White,Blue Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1072,43,514,513,2
+White,Blue Ridge,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,377,15,155,207,0
+White,Helen,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,281,10,122,149,0
+White,Mossy Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1187,54,522,611,0
+White,Mt. Yonah,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1879,93,1063,722,1
+White,Nacoochee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,809,55,435,319,0
+White,Robertstown,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,177,12,61,104,0
+White,Shoal Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,920,27,428,464,1
+White,Tesnatee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,529,23,262,244,0
+White,Town Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,669,33,303,333,0
+White,White Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,702,40,266,396,0
+White,Blue Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,312,11,147,153,1
+White,Blue Ridge,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,104,4,43,57,0
+White,Helen,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,65,1,27,37,0
+White,Mossy Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,442,15,163,264,0
+White,Mt. Yonah,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,471,26,250,195,0
+White,Nacoochee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,184,12,87,85,0
+White,Robertstown,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,42,1,11,30,0
+White,Shoal Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,295,13,117,165,0
+White,Tesnatee,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,105,5,50,50,0
+White,Town Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,214,8,105,101,0
+White,White Creek,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,241,9,109,123,0
+White,Blue Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,856,37,410,407,2
+White,Blue Ridge,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,311,11,126,174,0
+White,Helen,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,233,5,104,124,0
+White,Mossy Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,961,34,394,533,0
+White,Mt. Yonah,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1521,68,823,628,2
+White,Nacoochee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,666,49,343,274,0
+White,Robertstown,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,150,12,48,90,0
+White,Shoal Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,730,21,328,380,1
+White,Tesnatee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,410,19,205,186,0
+White,Town Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,526,20,247,259,0
+White,White Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,570,26,207,337,0
+White,Blue Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,486,15,231,239,1
+White,Blue Ridge,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,157,7,67,83,0
+White,Helen,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,105,5,45,55,0
+White,Mossy Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,619,31,270,318,0
+White,Mt. Yonah,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,776,45,464,267,0
+White,Nacoochee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,314,20,168,126,0
+White,Robertstown,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,61,2,22,37,0
+White,Shoal Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,458,17,211,230,0
+White,Tesnatee,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,210,9,101,100,0
+White,Town Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,344,21,154,169,0
+White,White Creek,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,342,24,149,169,0
+White,Blue Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,637,19,306,311,1
+White,Blue Ridge,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,242,7,111,124,0
+White,Helen,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,167,2,74,91,0
+White,Mossy Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,706,25,297,384,0
+White,Mt. Yonah,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1140,50,653,436,1
+White,Nacoochee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,515,31,272,212,0
+White,Robertstown,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,105,7,31,67,0
+White,Shoal Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,538,12,255,270,1
+White,Tesnatee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,303,13,163,127,0
+White,Town Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,397,18,194,185,0
+White,White Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,444,16,182,246,0
+White,Blue Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,692,31,334,325,2
+White,Blue Ridge,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,214,10,79,125,0
+White,Helen,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,159,6,71,82,0
+White,Mossy Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,844,39,351,454,0
+White,Mt. Yonah,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1087,54,604,429,0
+White,Nacoochee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,429,35,217,177,0
+White,Robertstown,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,99,6,37,56,0
+White,Shoal Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,619,25,269,325,0
+White,Tesnatee,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,308,13,134,161,0
+White,Town Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,450,22,200,228,0
+White,White Creek,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,456,29,179,248,0
+White,Blue Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,915,29,441,443,2
+White,Blue Ridge,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,334,12,147,175,0
+White,Helen,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,240,5,115,120,0
+White,Mossy Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1048,39,443,566,0
+White,Mt. Yonah,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1646,74,914,657,1
+White,Nacoochee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,723,48,376,299,0
+White,Robertstown,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,159,12,56,91,0
+White,Shoal Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,785,19,358,407,1
+White,Tesnatee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,427,18,221,188,0
+White,Town Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,592,23,276,293,0
+White,White Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,621,32,243,346,0
+White,Blue Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,439,23,208,207,1
+White,Blue Ridge,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,133,6,45,82,0
+White,Helen,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,94,3,33,58,0
+White,Mossy Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,539,27,221,291,0
+White,Mt. Yonah,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,639,33,370,236,0
+White,Nacoochee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,257,19,133,105,0
+White,Robertstown,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,55,2,14,39,0
+White,Shoal Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,400,18,178,204,0
+White,Tesnatee,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,191,9,83,99,0
+White,Town Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,277,19,123,135,0
+White,White Creek,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,295,18,114,163,0
+White,Blue Creek,SPLOST,,,YES,843,35,393,413,2
+White,Blue Ridge,SPLOST,,,YES,307,9,130,168,0
+White,Helen,SPLOST,,,YES,240,3,110,127,0
+White,Mossy Creek,SPLOST,,,YES,1025,34,402,589,0
+White,Mt. Yonah,SPLOST,,,YES,1594,77,877,638,2
+White,Nacoochee,SPLOST,,,YES,689,52,354,283,0
+White,Robertstown,SPLOST,,,YES,154,11,45,98,0
+White,Shoal Creek,SPLOST,,,YES,729,25,345,358,1
+White,Tesnatee,SPLOST,,,YES,416,19,198,199,0
+White,Town Creek,SPLOST,,,YES,528,23,246,259,0
+White,White Creek,SPLOST,,,YES,580,28,220,332,0
+White,Blue Creek,SPLOST,,,NO,524,19,267,237,1
+White,Blue Ridge,SPLOST,,,NO,169,10,66,93,0
+White,Helen,SPLOST,,,NO,104,7,41,56,0
+White,Mossy Creek,SPLOST,,,NO,589,34,276,279,0
+White,Mt. Yonah,SPLOST,,,NO,744,39,429,276,0
+White,Nacoochee,SPLOST,,,NO,304,17,165,122,0
+White,Robertstown,SPLOST,,,NO,61,3,25,33,0
+White,Shoal Creek,SPLOST,,,NO,472,15,198,259,0
+White,Tesnatee,SPLOST,,,NO,211,10,110,91,0
+White,Town Creek,SPLOST,,,NO,356,19,159,178,0
+White,White Creek,SPLOST,,,NO,345,19,147,179,0

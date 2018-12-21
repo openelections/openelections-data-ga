@@ -1,51 +1,51 @@
-county,precinct,office,district,party,candidate,votes
-Miller,Colquitt-Miller,Governor,,REP,BRIAN KEMP,1803
-Miller,Colquitt-Miller,Governor,,DEM,STACEY ABRAMS,502
-Miller,Colquitt-Miller,Governor,,LIB,TED METZ,10
-Miller,Colquitt-Miller,Lieutenant Governor,,REP,GEOFF DUNCAN,1710
-Miller,Colquitt-Miller,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,442
-Miller,Colquitt-Miller,Secretary Of State,,REP,BRAD RAFFENSPERGER,1697
-Miller,Colquitt-Miller,Secretary Of State,,DEM,JOHN BARROW,493
-Miller,Colquitt-Miller,Secretary Of State,,LIB,SMYTHE DUVAL,19
-Miller,Colquitt-Miller,Attorney General,,(REP,CHRIS CARR ,1731
-Miller,Colquitt-Miller,Attorney General,,DEM,CHARLIE BAILEY,485
-Miller,Colquitt-Miller,Commissioner Of Agriculture,,(REP,GARY BLACK ,1759
-Miller,Colquitt-Miller,Commissioner Of Agriculture,,DEM,FRED SWANN,454
-Miller,Colquitt-Miller,Commissioner Of Insurance,,REP,JIM BECK,1719
-Miller,Colquitt-Miller,Commissioner Of Insurance,,DEM,JANICE LAWS,465
-Miller,Colquitt-Miller,Commissioner Of Insurance,,LIB,DONNIE FOSTER,30
-Miller,Colquitt-Miller,State School Superintendent,,(REP,RICHARD WOODS ,1736
-Miller,Colquitt-Miller,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",464
-Miller,Colquitt-Miller,Commissioner Of Labor,,(REP,MARK BUTLER ,1740
-Miller,Colquitt-Miller,Commissioner Of Labor,,DEM,RICHARD KEATLEY,468
-Miller,Colquitt-Miller,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1700
-Miller,Colquitt-Miller,"Public Service Commission, District 3",3,DEM,LINDY MILLER,472
-Miller,Colquitt-Miller,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,29
-Miller,Colquitt-Miller,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1710
-Miller,Colquitt-Miller,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,469
-Miller,Colquitt-Miller,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,27
-Miller,Colquitt-Miller,U.S. Representative,2,REP,HERMAN WEST JR,1569
-Miller,Colquitt-Miller,U.S. Representative,2,(DEM,SANFORD BISHOP ,670
-Miller,Colquitt-Miller,State Senator,11,(REP,DEAN BURKE ,1910
-Miller,Colquitt-Miller,State Representative,154,(DEM,WINFRED DUKES ,1242
-Miller,Colquitt-Miller,District Attorney, Pataula Circuit,D,V. MCNEASE ,1523
-Miller,Colquitt-Miller,CC, D2,R,K. FREEMAN ,378
-Miller,Colquitt-Miller,CC, D4,R,N. NIXON,312
-Miller,Colquitt-Miller,BOE D2,,R,V. FLEET ,383
-Miller,Colquitt-Miller,BOE D4,,R,R.W. LITTLE ,299
-Miller,Colquitt-Miller,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1680
-Miller,Colquitt-Miller,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,435
-Miller,Colquitt-Miller,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1386
-Miller,Colquitt-Miller,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,596
-Miller,Colquitt-Miller,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1223
-Miller,Colquitt-Miller,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,740
-Miller,Colquitt-Miller,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1669
-Miller,Colquitt-Miller,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,385
-Miller,Colquitt-Miller,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1414
-Miller,Colquitt-Miller,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,596
-Miller,Colquitt-Miller,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1086
-Miller,Colquitt-Miller,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,836
-Miller,Colquitt-Miller,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1440
-Miller,Colquitt-Miller,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,549
-Miller,Colquitt-Miller,TSPLOST,,,YES,1014
-Miller,Colquitt-Miller,TSPLOST,,,NO,1010
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,advance_in_person,election_day,provisional
+Miller,Colquitt-Miller,Governor,,REP,BRIAN KEMP,1803,88,902,812,1
+Miller,Colquitt-Miller,Governor,,DEM,STACEY ABRAMS,502,42,122,337,1
+Miller,Colquitt-Miller,Governor,,LIB,TED METZ,10,2,5,3,0
+Miller,Colquitt-Miller,Lieutenant Governor,,REP,GEOFF DUNCAN,1710,85,850,775,0
+Miller,Colquitt-Miller,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,442,43,110,287,2
+Miller,Colquitt-Miller,Secretary Of State,,REP,BRAD RAFFENSPERGER,1697,83,843,771,0
+Miller,Colquitt-Miller,Secretary Of State,,DEM,JOHN BARROW,493,43,128,320,2
+Miller,Colquitt-Miller,Secretary Of State,,LIB,SMYTHE DUVAL,19,1,9,9,0
+Miller,Colquitt-Miller,Attorney General,,(REP,CHRIS CARR ,1731,83,860,788,0
+Miller,Colquitt-Miller,Attorney General,,DEM,CHARLIE BAILEY,485,45,120,318,2
+Miller,Colquitt-Miller,Commissioner Of Agriculture,,(REP,GARY BLACK ,1759,86,870,803,0
+Miller,Colquitt-Miller,Commissioner Of Agriculture,,DEM,FRED SWANN,454,42,110,300,2
+Miller,Colquitt-Miller,Commissioner Of Insurance,,REP,JIM BECK,1719,83,859,777,0
+Miller,Colquitt-Miller,Commissioner Of Insurance,,DEM,JANICE LAWS,465,40,115,308,2
+Miller,Colquitt-Miller,Commissioner Of Insurance,,LIB,DONNIE FOSTER,30,3,10,17,0
+Miller,Colquitt-Miller,State School Superintendent,,(REP,RICHARD WOODS ,1736,82,864,790,0
+Miller,Colquitt-Miller,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",464,42,115,305,2
+Miller,Colquitt-Miller,Commissioner Of Labor,,(REP,MARK BUTLER ,1740,85,869,785,1
+Miller,Colquitt-Miller,Commissioner Of Labor,,DEM,RICHARD KEATLEY,468,41,117,309,1
+Miller,Colquitt-Miller,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1700,82,843,775,0
+Miller,Colquitt-Miller,"Public Service Commission, District 3",3,DEM,LINDY MILLER,472,39,116,315,2
+Miller,Colquitt-Miller,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,29,5,12,12,0
+Miller,Colquitt-Miller,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1710,80,861,769,0
+Miller,Colquitt-Miller,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,469,41,111,315,2
+Miller,Colquitt-Miller,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,27,5,9,13,0
+Miller,Colquitt-Miller,U.S. Representative,2,REP,HERMAN WEST JR,1569,76,785,708,0
+Miller,Colquitt-Miller,U.S. Representative,2,(DEM,SANFORD BISHOP ,670,53,207,408,2
+Miller,Colquitt-Miller,State Senator,11,(REP,DEAN BURKE ,1910,95,904,910,1
+Miller,Colquitt-Miller,State Representative,154,(DEM,WINFRED DUKES ,1242,81,491,669,1
+Miller,Colquitt-Miller,District Attorney, Pataula Circuit,D,V. MCNEASE ,1523,89,635,798,1
+Miller,Colquitt-Miller,CC, D2,R,K. FREEMAN ,378,15,169,194,0
+Miller,Colquitt-Miller,CC, D4,R,N. NIXON,312,21,134,157,0
+Miller,Colquitt-Miller,BOE D2,,R,V. FLEET ,383,16,171,196,0
+Miller,Colquitt-Miller,BOE D4,,R,R.W. LITTLE ,299,19,128,152,0
+Miller,Colquitt-Miller,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1680,92,727,859,2
+Miller,Colquitt-Miller,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,435,19,214,202,0
+Miller,Colquitt-Miller,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1386,66,595,724,1
+Miller,Colquitt-Miller,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,596,36,277,283,0
+Miller,Colquitt-Miller,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1223,53,543,627,0
+Miller,Colquitt-Miller,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,740,50,322,367,1
+Miller,Colquitt-Miller,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1669,95,725,848,1
+Miller,Colquitt-Miller,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,385,12,183,190,0
+Miller,Colquitt-Miller,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1414,77,613,724,0
+Miller,Colquitt-Miller,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,596,33,272,290,1
+Miller,Colquitt-Miller,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1086,42,485,559,0
+Miller,Colquitt-Miller,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,836,59,360,416,1
+Miller,Colquitt-Miller,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1440,66,633,740,1
+Miller,Colquitt-Miller,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,549,37,250,262,0
+Miller,Colquitt-Miller,TSPLOST,,,YES,1014,50,455,509,0
+Miller,Colquitt-Miller,TSPLOST,,,NO,1010,60,450,499,1

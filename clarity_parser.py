@@ -109,7 +109,7 @@ def precinct_results(county_name, filename):
         vote_types.remove('underVotes')
     with open(f, "wt") as csvfile:
         w = csv.writer(csvfile)
-        headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] #+ [x.replace(' ','_').lower() for x in vote_types]
+        headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] + [x.replace(' ','_').lower() for x in vote_types]
         w.writerow(headers)
         for row in results:
             if 'Republican' in row['office']:
@@ -117,7 +117,7 @@ def precinct_results(county_name, filename):
             elif 'Democrat' in row['office']:
                 row['party'] = 'DEM'
             total_votes = sum([row[k] for k in vote_types if row[k]])
-            w.writerow([row['county'], row['precinct'], row['office'], row['district'], row['party'], row['candidate'], total_votes])# + [row[k] for k in vote_types])
+            w.writerow([row['county'], row['precinct'], row['office'], row['district'], row['party'], row['candidate'], total_votes] + [row[k] for k in vote_types])
 
 
 def parse_office(office_text):

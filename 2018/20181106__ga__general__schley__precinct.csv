@@ -1,56 +1,56 @@
-county,precinct,office,district,party,candidate,votes
-Schley,Precinct One,Governor,,REP,BRIAN KEMP,1565
-Schley,Precinct One,Governor,,DEM,STACEY ABRAMS,353
-Schley,Precinct One,Governor,,LIB,TED METZ,15
-Schley,Precinct One,Lieutenant Governor,,REP,GEOFF DUNCAN,1515
-Schley,Precinct One,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,345
-Schley,Precinct One,Secretary Of State,,REP,BRAD RAFFENSPERGER,1471
-Schley,Precinct One,Secretary Of State,,DEM,JOHN BARROW,389
-Schley,Precinct One,Secretary Of State,,LIB,SMYTHE DUVAL,18
-Schley,Precinct One,Attorney General,,(REP,CHRIS CARR ,1518
-Schley,Precinct One,Attorney General,,DEM,CHARLIE BAILEY,356
-Schley,Precinct One,Commissioner Of Agriculture,,(REP,GARY BLACK ,1528
-Schley,Precinct One,Commissioner Of Agriculture,,DEM,FRED SWANN,341
-Schley,Precinct One,Commissioner Of Insurance,,REP,JIM BECK,1503
-Schley,Precinct One,Commissioner Of Insurance,,DEM,JANICE LAWS,349
-Schley,Precinct One,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22
-Schley,Precinct One,State School Superintendent,,(REP,RICHARD WOODS ,1541
-Schley,Precinct One,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",339
-Schley,Precinct One,Commissioner Of Labor,,(REP,MARK BUTLER ,1536
-Schley,Precinct One,Commissioner Of Labor,,DEM,RICHARD KEATLEY,342
-Schley,Precinct One,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1494
-Schley,Precinct One,"Public Service Commission, District 3",3,DEM,LINDY MILLER,360
-Schley,Precinct One,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,22
-Schley,Precinct One,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1497
-Schley,Precinct One,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,351
-Schley,Precinct One,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26
-Schley,Precinct One,U.S. Representative,2,REP,HERMAN WEST JR,1449
-Schley,Precinct One,U.S. Representative,2,(DEM,SANFORD BISHOP ,453
-Schley,Precinct One,State Senator,15,(DEM,ED HARBISON ,950
-Schley,Precinct One,State Representative,138,REP,MIKE CHEOKAS,1453
-Schley,Precinct One,State Representative,138,DEM,BARDIN HOOKS,440
-Schley,Precinct One,CC, D1,R,M. HAMMACK,496
-Schley,Precinct One,CC, D4,R,D. JONES ,385
-Schley,Precinct One,BOE D1,,R,S. S. HOLLOWAY,491
-Schley,Precinct One,BOE D4,,R,K. MORROW,388
-Schley,Precinct One,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1433
-Schley,Precinct One,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,387
-Schley,Precinct One,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1143
-Schley,Precinct One,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,589
-Schley,Precinct One,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,975
-Schley,Precinct One,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,722
-Schley,Precinct One,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1275
-Schley,Precinct One,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,466
-Schley,Precinct One,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1146
-Schley,Precinct One,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,574
-Schley,Precinct One,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,863
-Schley,Precinct One,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,807
-Schley,Precinct One,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1135
-Schley,Precinct One,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,573
-Schley,Precinct One,SPLOST,,,YES,1204
-Schley,Precinct One,SPLOST,,,NO,600
-Schley,Precinct One,City Council Dist 3,,,C. HAMMACK,114
-Schley,Precinct One,Sunday Package Sales,,,YES,319
-Schley,Precinct One,Sunday Package Sales,,,NO,252
-Schley,Precinct One,Alcohol Sales by the Drink,,,YES,336
-Schley,Precinct One,Alcohol Sales by the Drink,,,NO,219
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,advance_in_person,election_day,provisional
+Schley,Precinct One,Governor,,REP,BRIAN KEMP,1565,43,1125,395,2
+Schley,Precinct One,Governor,,DEM,STACEY ABRAMS,353,53,190,110,0
+Schley,Precinct One,Governor,,LIB,TED METZ,15,0,6,9,0
+Schley,Precinct One,Lieutenant Governor,,REP,GEOFF DUNCAN,1515,42,1089,382,2
+Schley,Precinct One,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,345,54,188,103,0
+Schley,Precinct One,Secretary Of State,,REP,BRAD RAFFENSPERGER,1471,37,1053,379,2
+Schley,Precinct One,Secretary Of State,,DEM,JOHN BARROW,389,58,217,114,0
+Schley,Precinct One,Secretary Of State,,LIB,SMYTHE DUVAL,18,1,13,4,0
+Schley,Precinct One,Attorney General,,(REP,CHRIS CARR ,1518,42,1094,380,2
+Schley,Precinct One,Attorney General,,DEM,CHARLIE BAILEY,356,54,192,110,0
+Schley,Precinct One,Commissioner Of Agriculture,,(REP,GARY BLACK ,1528,43,1096,387,2
+Schley,Precinct One,Commissioner Of Agriculture,,DEM,FRED SWANN,341,52,184,105,0
+Schley,Precinct One,Commissioner Of Insurance,,REP,JIM BECK,1503,42,1078,381,2
+Schley,Precinct One,Commissioner Of Insurance,,DEM,JANICE LAWS,349,53,195,101,0
+Schley,Precinct One,Commissioner Of Insurance,,LIB,DONNIE FOSTER,22,1,14,7,0
+Schley,Precinct One,State School Superintendent,,(REP,RICHARD WOODS ,1541,44,1101,394,2
+Schley,Precinct One,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",339,51,183,105,0
+Schley,Precinct One,Commissioner Of Labor,,(REP,MARK BUTLER ,1536,43,1102,389,2
+Schley,Precinct One,Commissioner Of Labor,,DEM,RICHARD KEATLEY,342,53,185,104,0
+Schley,Precinct One,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1494,39,1068,385,2
+Schley,Precinct One,"Public Service Commission, District 3",3,DEM,LINDY MILLER,360,57,199,104,0
+Schley,Precinct One,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,22,0,17,5,0
+Schley,Precinct One,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1497,38,1073,384,2
+Schley,Precinct One,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,351,56,193,102,0
+Schley,Precinct One,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,26,2,18,6,0
+Schley,Precinct One,U.S. Representative,2,REP,HERMAN WEST JR,1449,34,1042,371,2
+Schley,Precinct One,U.S. Representative,2,(DEM,SANFORD BISHOP ,453,61,257,135,0
+Schley,Precinct One,State Senator,15,(DEM,ED HARBISON ,950,66,615,269,0
+Schley,Precinct One,State Representative,138,REP,MIKE CHEOKAS,1453,39,1048,365,1
+Schley,Precinct One,State Representative,138,DEM,BARDIN HOOKS,440,56,250,134,0
+Schley,Precinct One,CC, D1,R,M. HAMMACK,496,16,370,110,0
+Schley,Precinct One,CC, D4,R,D. JONES ,385,9,261,115,0
+Schley,Precinct One,BOE D1,,R,S. S. HOLLOWAY,491,17,363,111,0
+Schley,Precinct One,BOE D4,,R,K. MORROW,388,9,265,114,0
+Schley,Precinct One,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,1433,69,973,389,2
+Schley,Precinct One,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,387,17,282,88,0
+Schley,Precinct One,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1143,54,773,315,1
+Schley,Precinct One,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,589,32,412,144,1
+Schley,Precinct One,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,975,42,664,268,1
+Schley,Precinct One,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,722,41,500,180,1
+Schley,Precinct One,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,1275,61,860,352,2
+Schley,Precinct One,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,466,19,342,105,0
+Schley,Precinct One,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1146,50,784,311,1
+Schley,Precinct One,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,574,32,399,142,1
+Schley,Precinct One,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,863,44,575,243,1
+Schley,Precinct One,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,807,40,566,200,1
+Schley,Precinct One,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1135,56,743,335,1
+Schley,Precinct One,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,573,28,429,115,1
+Schley,Precinct One,SPLOST,,,YES,1204,50,831,322,1
+Schley,Precinct One,SPLOST,,,NO,600,37,411,151,1
+Schley,Precinct One,City Council Dist 3,,,C. HAMMACK,114,2,80,32,0
+Schley,Precinct One,Sunday Package Sales,,,YES,319,20,202,97,0
+Schley,Precinct One,Sunday Package Sales,,,NO,252,17,170,65,0
+Schley,Precinct One,Alcohol Sales by the Drink,,,YES,336,16,216,104,0
+Schley,Precinct One,Alcohol Sales by the Drink,,,NO,219,19,145,55,0
