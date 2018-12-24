@@ -1,50 +1,50 @@
-county,precinct,office,district,party,candidate,votes
-Echols,Statenville,Governor,,REP,BRIAN KEMP,1008
-Echols,Statenville,Governor,,DEM,STACEY ABRAMS,126
-Echols,Statenville,Governor,,LIB,TED METZ,9
-Echols,Statenville,Lieutenant Governor,,REP,GEOFF DUNCAN,953
-Echols,Statenville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,118
-Echols,Statenville,Secretary Of State,,REP,BRAD RAFFENSPERGER,955
-Echols,Statenville,Secretary Of State,,DEM,JOHN BARROW,139
-Echols,Statenville,Secretary Of State,,LIB,SMYTHE DUVAL,13
-Echols,Statenville,Attorney General,,(REP,CHRIS CARR ,975
-Echols,Statenville,Attorney General,,DEM,CHARLIE BAILEY,130
-Echols,Statenville,Commissioner Of Agriculture,,(REP,GARY BLACK ,1005
-Echols,Statenville,Commissioner Of Agriculture,,DEM,FRED SWANN,113
-Echols,Statenville,Commissioner Of Insurance,,REP,JIM BECK,967
-Echols,Statenville,Commissioner Of Insurance,,DEM,JANICE LAWS,125
-Echols,Statenville,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16
-Echols,Statenville,State School Superintendent,,(REP,RICHARD WOODS ,989
-Echols,Statenville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",124
-Echols,Statenville,Commissioner Of Labor,,(REP,MARK BUTLER ,989
-Echols,Statenville,Commissioner Of Labor,,DEM,RICHARD KEATLEY,126
-Echols,Statenville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,963
-Echols,Statenville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,129
-Echols,Statenville,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,20
-Echols,Statenville,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,959
-Echols,Statenville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,127
-Echols,Statenville,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21
-Echols,Statenville,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1001
-Echols,Statenville,U.S. Representative,1,DEM,LISA M. RING,122
-Echols,Statenville,State Senator,8,(REP,ELLIS BLACK ,1042
-Echols,Statenville,State Representative,174,(REP,JOHN CORBETT ,1057
-Echols,Statenville,CC, P3,R,K. PETTY,1035
-Echols,Statenville,BOE, P 1,,BO CORBETT ,1021
-Echols,Statenville,BOE, P 2,,CHAD PAFFORD,999
-Echols,Statenville,Soil and Water,,,O. C. PRINCE ,1024
-Echols,Statenville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,843
-Echols,Statenville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,238
-Echols,Statenville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,644
-Echols,Statenville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,387
-Echols,Statenville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,576
-Echols,Statenville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,455
-Echols,Statenville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,836
-Echols,Statenville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,227
-Echols,Statenville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,729
-Echols,Statenville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,316
-Echols,Statenville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,542
-Echols,Statenville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,485
-Echols,Statenville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,749
-Echols,Statenville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,295
-Echols,Statenville,SPLOST,,,YES,621
-Echols,Statenville,SPLOST,,,NO,458
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,advance_in_person,election_day,provisional
+Echols,Statenville,Governor,,REP,BRIAN KEMP,1008,28,690,290,0
+Echols,Statenville,Governor,,DEM,STACEY ABRAMS,126,7,72,47,0
+Echols,Statenville,Governor,,LIB,TED METZ,9,0,5,4,0
+Echols,Statenville,Lieutenant Governor,,REP,GEOFF DUNCAN,953,28,651,274,0
+Echols,Statenville,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,118,7,66,45,0
+Echols,Statenville,Secretary Of State,,REP,BRAD RAFFENSPERGER,955,27,658,270,0
+Echols,Statenville,Secretary Of State,,DEM,JOHN BARROW,139,8,81,50,0
+Echols,Statenville,Secretary Of State,,LIB,SMYTHE DUVAL,13,0,6,7,0
+Echols,Statenville,Attorney General,,(REP,CHRIS CARR ,975,28,666,281,0
+Echols,Statenville,Attorney General,,DEM,CHARLIE BAILEY,130,7,75,48,0
+Echols,Statenville,Commissioner Of Agriculture,,(REP,GARY BLACK ,1005,28,688,289,0
+Echols,Statenville,Commissioner Of Agriculture,,DEM,FRED SWANN,113,7,66,40,0
+Echols,Statenville,Commissioner Of Insurance,,REP,JIM BECK,967,28,662,277,0
+Echols,Statenville,Commissioner Of Insurance,,DEM,JANICE LAWS,125,7,74,44,0
+Echols,Statenville,Commissioner Of Insurance,,LIB,DONNIE FOSTER,16,0,9,7,0
+Echols,Statenville,State School Superintendent,,(REP,RICHARD WOODS ,989,28,674,287,0
+Echols,Statenville,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",124,7,73,44,0
+Echols,Statenville,Commissioner Of Labor,,(REP,MARK BUTLER ,989,27,676,286,0
+Echols,Statenville,Commissioner Of Labor,,DEM,RICHARD KEATLEY,126,8,72,46,0
+Echols,Statenville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,963,27,662,274,0
+Echols,Statenville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,129,7,78,44,0
+Echols,Statenville,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,20,1,8,11,0
+Echols,Statenville,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,959,27,661,271,0
+Echols,Statenville,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,127,7,74,46,0
+Echols,Statenville,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,21,1,12,8,0
+Echols,Statenville,U.S. Representative,1,(REP,"EARL L. ""BUDDY"" CARTER ",1001,28,688,285,0
+Echols,Statenville,U.S. Representative,1,DEM,LISA M. RING,122,7,69,46,0
+Echols,Statenville,State Senator,8,(REP,ELLIS BLACK ,1042,31,695,316,0
+Echols,Statenville,State Representative,174,(REP,JOHN CORBETT ,1057,28,715,314,0
+Echols,Statenville,CC, P3,R,K. PETTY,1035,29,699,307,0
+Echols,Statenville,BOE, P 1,,BO CORBETT ,1021,28,691,302,0
+Echols,Statenville,BOE, P 2,,CHAD PAFFORD,999,29,678,292,0
+Echols,Statenville,Soil and Water,,,O. C. PRINCE ,1024,29,699,296,0
+Echols,Statenville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,843,24,559,260,0
+Echols,Statenville,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,238,7,172,59,0
+Echols,Statenville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,644,14,435,195,0
+Echols,Statenville,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,387,15,264,108,0
+Echols,Statenville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,576,11,390,175,0
+Echols,Statenville,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,455,18,310,127,0
+Echols,Statenville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,836,26,549,261,0
+Echols,Statenville,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,227,6,164,57,0
+Echols,Statenville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,729,22,485,222,0
+Echols,Statenville,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,316,10,214,92,0
+Echols,Statenville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,542,10,364,168,0
+Echols,Statenville,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,485,22,330,133,0
+Echols,Statenville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,749,21,494,234,0
+Echols,Statenville,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,295,10,211,74,0
+Echols,Statenville,SPLOST,,,YES,621,16,421,184,0
+Echols,Statenville,SPLOST,,,NO,458,17,308,133,0

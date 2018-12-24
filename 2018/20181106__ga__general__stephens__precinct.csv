@@ -1,52 +1,52 @@
-county,precinct,office,district,party,candidate,votes
-Stephens,Senior Center,Governor,,REP,BRIAN KEMP,7326
-Stephens,Senior Center,Governor,,DEM,STACEY ABRAMS,1692
-Stephens,Senior Center,Governor,,LIB,TED METZ,69
-Stephens,Senior Center,Lieutenant Governor,,REP,GEOFF DUNCAN,7106
-Stephens,Senior Center,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1658
-Stephens,Senior Center,Secretary Of State,,REP,BRAD RAFFENSPERGER,7039
-Stephens,Senior Center,Secretary Of State,,DEM,JOHN BARROW,1732
-Stephens,Senior Center,Secretary Of State,,LIB,SMYTHE DUVAL,149
-Stephens,Senior Center,Attorney General,,(REP,CHRIS CARR ,7171
-Stephens,Senior Center,Attorney General,,DEM,CHARLIE BAILEY,1707
-Stephens,Senior Center,Commissioner Of Agriculture,,(REP,GARY BLACK ,7269
-Stephens,Senior Center,Commissioner Of Agriculture,,DEM,FRED SWANN,1604
-Stephens,Senior Center,Commissioner Of Insurance,,REP,JIM BECK,7074
-Stephens,Senior Center,Commissioner Of Insurance,,DEM,JANICE LAWS,1618
-Stephens,Senior Center,Commissioner Of Insurance,,LIB,DONNIE FOSTER,208
-Stephens,Senior Center,State School Superintendent,,(REP,RICHARD WOODS ,7275
-Stephens,Senior Center,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1649
-Stephens,Senior Center,Commissioner Of Labor,,(REP,MARK BUTLER ,7200
-Stephens,Senior Center,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1666
-Stephens,Senior Center,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,7022
-Stephens,Senior Center,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1646
-Stephens,Senior Center,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,212
-Stephens,Senior Center,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,7043
-Stephens,Senior Center,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1660
-Stephens,Senior Center,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,179
-Stephens,Senior Center,U.S. Representative,9,(REP,DOUG COLLINS ,7243
-Stephens,Senior Center,U.S. Representative,9,DEM,JOSH MCCALL,1705
-Stephens,Senior Center,State Senator,50,(REP,JOHN K. WILKINSON ,8000
-Stephens,Senior Center,County Comm 1,,R,M. IVESTER ,7786
-Stephens,Senior Center,County Comm 4,,R,J. ADDISON,7832
-Stephens,Senior Center,County Comm 5,,R,D. SCARBOROUGH ,7769
-Stephens,Senior Center,BOE 1 P2,,R,J. BELLAMY ,7843
-Stephens,Senior Center,BOE 2 P1,,R,R. MOORE ,7880
-Stephens,Senior Center,BOE 2 P2,,R,W. WHEELER ,7785
-Stephens,Senior Center,BOE 3 P1,,R,K. H. REED,7831
-Stephens,Senior Center,Soil and Water,,,F. R. BIGGERS ,5685
-Stephens,Senior Center,Soil and Water,,,L. N. MEEKS ,1337
-Stephens,Senior Center,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,6772
-Stephens,Senior Center,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1921
-Stephens,Senior Center,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,5449
-Stephens,Senior Center,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,3030
-Stephens,Senior Center,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,4772
-Stephens,Senior Center,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,3487
-Stephens,Senior Center,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,6440
-Stephens,Senior Center,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,2100
-Stephens,Senior Center,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,5380
-Stephens,Senior Center,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,2993
-Stephens,Senior Center,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,4322
-Stephens,Senior Center,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,3868
-Stephens,Senior Center,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,5947
-Stephens,Senior Center,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,2526
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,advance_in_person,election_day,provisional
+Stephens,Senior Center,Governor,,REP,BRIAN KEMP,7326,362,5137,1814,13
+Stephens,Senior Center,Governor,,DEM,STACEY ABRAMS,1692,167,977,543,5
+Stephens,Senior Center,Governor,,LIB,TED METZ,69,7,25,37,0
+Stephens,Senior Center,Lieutenant Governor,,REP,GEOFF DUNCAN,7106,358,4973,1762,13
+Stephens,Senior Center,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,1658,168,955,531,4
+Stephens,Senior Center,Secretary Of State,,REP,BRAD RAFFENSPERGER,7039,353,4945,1729,12
+Stephens,Senior Center,Secretary Of State,,DEM,JOHN BARROW,1732,165,1021,542,4
+Stephens,Senior Center,Secretary Of State,,LIB,SMYTHE DUVAL,149,11,73,64,1
+Stephens,Senior Center,Attorney General,,(REP,CHRIS CARR ,7171,365,5022,1771,13
+Stephens,Senior Center,Attorney General,,DEM,CHARLIE BAILEY,1707,162,985,556,4
+Stephens,Senior Center,Commissioner Of Agriculture,,(REP,GARY BLACK ,7269,372,5078,1806,13
+Stephens,Senior Center,Commissioner Of Agriculture,,DEM,FRED SWANN,1604,156,928,516,4
+Stephens,Senior Center,Commissioner Of Insurance,,REP,JIM BECK,7074,353,4973,1735,13
+Stephens,Senior Center,Commissioner Of Insurance,,DEM,JANICE LAWS,1618,159,943,512,4
+Stephens,Senior Center,Commissioner Of Insurance,,LIB,DONNIE FOSTER,208,13,110,85,0
+Stephens,Senior Center,State School Superintendent,,(REP,RICHARD WOODS ,7275,365,5104,1793,13
+Stephens,Senior Center,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",1649,164,941,540,4
+Stephens,Senior Center,Commissioner Of Labor,,(REP,MARK BUTLER ,7200,358,5044,1785,13
+Stephens,Senior Center,Commissioner Of Labor,,DEM,RICHARD KEATLEY,1666,164,961,537,4
+Stephens,Senior Center,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,7022,341,4958,1712,11
+Stephens,Senior Center,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1646,165,954,523,4
+Stephens,Senior Center,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,212,15,110,85,2
+Stephens,Senior Center,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,7043,349,4952,1731,11
+Stephens,Senior Center,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,1660,158,982,516,4
+Stephens,Senior Center,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,179,15,88,74,2
+Stephens,Senior Center,U.S. Representative,9,(REP,DOUG COLLINS ,7243,366,5081,1784,12
+Stephens,Senior Center,U.S. Representative,9,DEM,JOSH MCCALL,1705,163,972,565,5
+Stephens,Senior Center,State Senator,50,(REP,JOHN K. WILKINSON ,8000,430,5466,2087,17
+Stephens,Senior Center,County Comm 1,,R,M. IVESTER ,7786,417,5313,2040,16
+Stephens,Senior Center,County Comm 4,,R,J. ADDISON,7832,421,5340,2055,16
+Stephens,Senior Center,County Comm 5,,R,D. SCARBOROUGH ,7769,424,5297,2032,16
+Stephens,Senior Center,BOE 1 P2,,R,J. BELLAMY ,7843,420,5356,2053,14
+Stephens,Senior Center,BOE 2 P1,,R,R. MOORE ,7880,417,5387,2061,15
+Stephens,Senior Center,BOE 2 P2,,R,W. WHEELER ,7785,420,5320,2029,16
+Stephens,Senior Center,BOE 3 P1,,R,K. H. REED,7831,421,5343,2051,16
+Stephens,Senior Center,Soil and Water,,,F. R. BIGGERS ,5685,0,4180,1505,0
+Stephens,Senior Center,Soil and Water,,,L. N. MEEKS ,1337,0,902,435,0
+Stephens,Senior Center,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,6772,369,4534,1856,13
+Stephens,Senior Center,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,1921,113,1346,458,4
+Stephens,Senior Center,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,5449,294,3661,1485,9
+Stephens,Senior Center,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,3030,177,2075,771,7
+Stephens,Senior Center,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,4772,234,3212,1319,7
+Stephens,Senior Center,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,3487,222,2371,885,9
+Stephens,Senior Center,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,6440,347,4383,1699,11
+Stephens,Senior Center,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,2100,119,1411,564,6
+Stephens,Senior Center,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,5380,288,3598,1484,10
+Stephens,Senior Center,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,2993,184,2053,750,6
+Stephens,Senior Center,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,4322,205,2887,1222,8
+Stephens,Senior Center,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,3868,239,2652,969,8
+Stephens,Senior Center,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,5947,311,4001,1624,11
+Stephens,Senior Center,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,2526,149,1748,624,5

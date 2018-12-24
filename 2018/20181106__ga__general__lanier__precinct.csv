@@ -1,51 +1,51 @@
-county,precinct,office,district,party,candidate,votes
-Lanier,Lakeland,Governor,,REP,BRIAN KEMP,1910
-Lanier,Lakeland,Governor,,DEM,STACEY ABRAMS,762
-Lanier,Lakeland,Governor,,LIB,TED METZ,9
-Lanier,Lakeland,Lieutenant Governor,,REP,GEOFF DUNCAN,1811
-Lanier,Lakeland,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,677
-Lanier,Lakeland,Secretary Of State,,REP,BRAD RAFFENSPERGER,1793
-Lanier,Lakeland,Secretary Of State,,DEM,JOHN BARROW,762
-Lanier,Lakeland,Secretary Of State,,LIB,SMYTHE DUVAL,36
-Lanier,Lakeland,Attorney General,,(REP,CHRIS CARR ,1831
-Lanier,Lakeland,Attorney General,,DEM,CHARLIE BAILEY,738
-Lanier,Lakeland,Commissioner Of Agriculture,,(REP,GARY BLACK ,1860
-Lanier,Lakeland,Commissioner Of Agriculture,,DEM,FRED SWANN,710
-Lanier,Lakeland,Commissioner Of Insurance,,REP,JIM BECK,1804
-Lanier,Lakeland,Commissioner Of Insurance,,DEM,JANICE LAWS,718
-Lanier,Lakeland,Commissioner Of Insurance,,LIB,DONNIE FOSTER,54
-Lanier,Lakeland,State School Superintendent,,(REP,RICHARD WOODS ,1870
-Lanier,Lakeland,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",714
-Lanier,Lakeland,Commissioner Of Labor,,(REP,MARK BUTLER ,1850
-Lanier,Lakeland,Commissioner Of Labor,,DEM,RICHARD KEATLEY,730
-Lanier,Lakeland,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1801
-Lanier,Lakeland,"Public Service Commission, District 3",3,DEM,LINDY MILLER,741
-Lanier,Lakeland,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,47
-Lanier,Lakeland,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1809
-Lanier,Lakeland,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,727
-Lanier,Lakeland,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,41
-Lanier,Lakeland,U.S. Representative,8,(REP,AUSTIN SCOTT ,2214
-Lanier,Lakeland,State Senator,8,R,E. BLACK ,2209
-Lanier,Lakeland,State Representative,176,(REP,JASON SHAW ,2269
-Lanier,Lakeland,CC, D1,D,P. BROCKINGTON ,397
-Lanier,Lakeland,CC, D2,R,H. SMITH,541
-Lanier,Lakeland,BOE, D1,D,E. LOCKLEAR ,403
-Lanier,Lakeland,BOE, D3,R,P. CONNELL ,613
-Lanier,Lakeland,BOE, D4,R,D. FENDER ,703
-Lanier,Lakeland,Soil and Water,,,P. FOLSOM ,2173
-Lanier,Lakeland,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2076
-Lanier,Lakeland,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,495
-Lanier,Lakeland,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1762
-Lanier,Lakeland,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,743
-Lanier,Lakeland,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1518
-Lanier,Lakeland,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,946
-Lanier,Lakeland,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2056
-Lanier,Lakeland,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,471
-Lanier,Lakeland,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1772
-Lanier,Lakeland,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,714
-Lanier,Lakeland,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1425
-Lanier,Lakeland,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1019
-Lanier,Lakeland,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1872
-Lanier,Lakeland,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,613
-Lanier,Lakeland,Special,,,YES,423
-Lanier,Lakeland,Special,,,NO,243
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,advance_in_person,election_day,provisional
+Lanier,Lakeland,Governor,,REP,BRIAN KEMP,1910,60,1277,571,2
+Lanier,Lakeland,Governor,,DEM,STACEY ABRAMS,762,48,382,332,0
+Lanier,Lakeland,Governor,,LIB,TED METZ,9,0,2,7,0
+Lanier,Lakeland,Lieutenant Governor,,REP,GEOFF DUNCAN,1811,59,1221,529,2
+Lanier,Lakeland,Lieutenant Governor,,DEM,SARAH RIGGS AMICO,677,47,332,298,0
+Lanier,Lakeland,Secretary Of State,,REP,BRAD RAFFENSPERGER,1793,57,1210,524,2
+Lanier,Lakeland,Secretary Of State,,DEM,JOHN BARROW,762,47,386,329,0
+Lanier,Lakeland,Secretary Of State,,LIB,SMYTHE DUVAL,36,2,16,18,0
+Lanier,Lakeland,Attorney General,,(REP,CHRIS CARR ,1831,61,1228,540,2
+Lanier,Lakeland,Attorney General,,DEM,CHARLIE BAILEY,738,44,375,319,0
+Lanier,Lakeland,Commissioner Of Agriculture,,(REP,GARY BLACK ,1860,59,1243,556,2
+Lanier,Lakeland,Commissioner Of Agriculture,,DEM,FRED SWANN,710,46,358,306,0
+Lanier,Lakeland,Commissioner Of Insurance,,REP,JIM BECK,1804,59,1215,528,2
+Lanier,Lakeland,Commissioner Of Insurance,,DEM,JANICE LAWS,718,45,367,306,0
+Lanier,Lakeland,Commissioner Of Insurance,,LIB,DONNIE FOSTER,54,1,24,29,0
+Lanier,Lakeland,State School Superintendent,,(REP,RICHARD WOODS ,1870,61,1251,556,2
+Lanier,Lakeland,State School Superintendent,,DEM,"OTHA E. THORNTON, JR",714,44,361,309,0
+Lanier,Lakeland,Commissioner Of Labor,,(REP,MARK BUTLER ,1850,58,1240,550,2
+Lanier,Lakeland,Commissioner Of Labor,,DEM,RICHARD KEATLEY,730,47,369,314,0
+Lanier,Lakeland,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1801,52,1218,529,2
+Lanier,Lakeland,"Public Service Commission, District 3",3,DEM,LINDY MILLER,741,49,378,314,0
+Lanier,Lakeland,"Public Service Commission, District 3",3,LIB,RYAN GRAHAM,47,3,20,24,0
+Lanier,Lakeland,"Public Service Commission, District 5",5,(REP,TRICIA PRIDEMORE ,1809,55,1222,530,2
+Lanier,Lakeland,"Public Service Commission, District 5",5,DEM,DAWN A. RANDOLPH,727,47,372,308,0
+Lanier,Lakeland,"Public Service Commission, District 5",5,LIB,JOHN TURPISH,41,2,16,23,0
+Lanier,Lakeland,U.S. Representative,8,(REP,AUSTIN SCOTT ,2214,83,1416,713,2
+Lanier,Lakeland,State Senator,8,R,E. BLACK ,2209,84,1406,717,2
+Lanier,Lakeland,State Representative,176,(REP,JASON SHAW ,2269,84,1441,742,2
+Lanier,Lakeland,CC, D1,D,P. BROCKINGTON ,397,19,200,178,0
+Lanier,Lakeland,CC, D2,R,H. SMITH,541,21,364,155,1
+Lanier,Lakeland,BOE, D1,D,E. LOCKLEAR ,403,20,202,181,0
+Lanier,Lakeland,BOE, D3,R,P. CONNELL ,613,27,376,209,1
+Lanier,Lakeland,BOE, D4,R,D. FENDER ,703,20,462,221,0
+Lanier,Lakeland,Soil and Water,,,P. FOLSOM ,2173,80,1379,712,2
+Lanier,Lakeland,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,YES,2076,83,1255,736,2
+Lanier,Lakeland,Constitutional Amendment #1<br>Creates the Georgia Outdoor Stewardship Trust Fund to protect water quality, wildlife habitat,,NO,495,17,333,145,0
+Lanier,Lakeland,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,YES,1762,65,1059,637,1
+Lanier,Lakeland,Constitutional Amendment #2 <br>Creates a state-wide business court to lower costs, enhance efficiency,,NO,743,36,494,212,1
+Lanier,Lakeland,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,YES,1518,50,918,548,2
+Lanier,Lakeland,Constitutional Amendment #3 <br>Encourages the conservation, sustainability,,NO,946,50,609,287,0
+Lanier,Lakeland,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,YES,2056,84,1236,735,1
+Lanier,Lakeland,Constitutional Amendment #4 <br>Provides rights for victims of crime in the judicial process.,,,NO,471,19,330,121,1
+Lanier,Lakeland,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,YES,1772,68,1059,643,2
+Lanier,Lakeland,Constitutional Amendment #5 <br>Authorizes fair allocation of sales tax proceeds to county and city school districts.,,,NO,714,34,481,199,0
+Lanier,Lakeland,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,YES,1425,42,876,507,0
+Lanier,Lakeland,Statewide Referendum A <br>Provides for a homestead exemption for residents of certain municipal corporations.,,,NO,1019,58,648,311,2
+Lanier,Lakeland,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,YES,1872,76,1122,672,2
+Lanier,Lakeland,Statewide Referendum B <br>Provides a tax exemption for certain homes for the mentally disabled.,,,NO,613,28,423,162,0
+Lanier,Lakeland,Special,,,YES,423,21,222,180,0
+Lanier,Lakeland,Special,,,NO,243,12,144,87,0
