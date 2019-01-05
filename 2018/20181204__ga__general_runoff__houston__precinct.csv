@@ -1,0 +1,65 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,advance_in_person,election_day,provisional
+Houston,ANNX,Secretary Of State,,REP,BRAD RAFFENSPERGER,751,58,290,402,1
+Houston,BMS,Secretary Of State,,REP,BRAD RAFFENSPERGER,1432,98,381,951,2
+Houston,CENT,Secretary Of State,,REP,BRAD RAFFENSPERGER,976,76,257,642,1
+Houston,CGTC,Secretary Of State,,REP,BRAD RAFFENSPERGER,609,34,245,329,1
+Houston,FMMS,Secretary Of State,,REP,BRAD RAFFENSPERGER,854,57,224,572,1
+Houston,HAFS,Secretary Of State,,REP,BRAD RAFFENSPERGER,320,13,57,250,0
+Houston,HCTC,Secretary Of State,,REP,BRAD RAFFENSPERGER,606,88,219,298,1
+Houston,HEFS,Secretary Of State,,REP,BRAD RAFFENSPERGER,221,11,53,156,1
+Houston,HHPC,Secretary Of State,,REP,BRAD RAFFENSPERGER,944,94,308,542,0
+Houston,MCMS,Secretary Of State,,REP,BRAD RAFFENSPERGER,963,42,258,663,0
+Houston,NSES,Secretary Of State,,REP,BRAD RAFFENSPERGER,381,19,128,233,1
+Houston,RECR,Secretary Of State,,REP,BRAD RAFFENSPERGER,295,46,96,153,0
+Houston,ROZR,Secretary Of State,,REP,BRAD RAFFENSPERGER,1922,141,761,1020,0
+Houston,TMS,Secretary Of State,,REP,BRAD RAFFENSPERGER,387,37,129,221,0
+Houston,TWPK,Secretary Of State,,REP,BRAD RAFFENSPERGER,640,34,179,427,0
+Houston,VHS,Secretary Of State,,REP,BRAD RAFFENSPERGER,776,44,249,481,2
+Houston,ANNX,Secretary Of State,,DEM,JOHN BARROW,359,40,129,190,0
+Houston,BMS,Secretary Of State,,DEM,JOHN BARROW,723,44,174,505,0
+Houston,CENT,Secretary Of State,,DEM,JOHN BARROW,644,49,169,426,0
+Houston,CGTC,Secretary Of State,,DEM,JOHN BARROW,402,28,116,258,0
+Houston,FMMS,Secretary Of State,,DEM,JOHN BARROW,817,43,219,555,0
+Houston,HAFS,Secretary Of State,,DEM,JOHN BARROW,120,12,23,85,0
+Houston,HCTC,Secretary Of State,,DEM,JOHN BARROW,485,45,124,315,1
+Houston,HEFS,Secretary Of State,,DEM,JOHN BARROW,126,10,17,98,1
+Houston,HHPC,Secretary Of State,,DEM,JOHN BARROW,806,76,244,484,2
+Houston,MCMS,Secretary Of State,,DEM,JOHN BARROW,761,55,237,465,4
+Houston,NSES,Secretary Of State,,DEM,JOHN BARROW,246,14,71,160,1
+Houston,RECR,Secretary Of State,,DEM,JOHN BARROW,1081,129,300,652,0
+Houston,ROZR,Secretary Of State,,DEM,JOHN BARROW,948,145,276,527,0
+Houston,TMS,Secretary Of State,,DEM,JOHN BARROW,543,56,140,345,2
+Houston,TWPK,Secretary Of State,,DEM,JOHN BARROW,446,37,114,292,3
+Houston,VHS,Secretary Of State,,DEM,JOHN BARROW,355,26,104,222,3
+Houston,ANNX,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,762,58,292,411,1
+Houston,BMS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1439,98,379,960,2
+Houston,CENT,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,973,77,257,638,1
+Houston,CGTC,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,608,33,244,330,1
+Houston,FMMS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,857,58,222,576,1
+Houston,HAFS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,322,13,56,253,0
+Houston,HCTC,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,607,88,216,302,1
+Houston,HEFS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,219,11,52,155,1
+Houston,HHPC,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,943,96,312,535,0
+Houston,MCMS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,972,48,257,666,1
+Houston,NSES,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,384,18,128,237,1
+Houston,RECR,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,304,46,102,156,0
+Houston,ROZR,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1910,139,762,1009,0
+Houston,TMS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,386,36,128,222,0
+Houston,TWPK,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,636,34,176,426,0
+Houston,VHS,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,778,45,248,483,2
+Houston,ANNX,"Public Service Commission, District 3",3,DEM,LINDY MILLER,343,39,124,180,0
+Houston,BMS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,712,43,174,495,0
+Houston,CENT,"Public Service Commission, District 3",3,DEM,LINDY MILLER,640,48,166,426,0
+Houston,CGTC,"Public Service Commission, District 3",3,DEM,LINDY MILLER,399,29,115,255,0
+Houston,FMMS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,808,42,219,547,0
+Houston,HAFS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,113,13,22,78,0
+Houston,HCTC,"Public Service Commission, District 3",3,DEM,LINDY MILLER,478,45,121,311,1
+Houston,HEFS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,125,10,17,97,1
+Houston,HHPC,"Public Service Commission, District 3",3,DEM,LINDY MILLER,795,73,238,482,2
+Houston,MCMS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,744,48,233,460,3
+Houston,NSES,"Public Service Commission, District 3",3,DEM,LINDY MILLER,240,13,70,156,1
+Houston,RECR,"Public Service Commission, District 3",3,DEM,LINDY MILLER,1048,129,283,636,0
+Houston,ROZR,"Public Service Commission, District 3",3,DEM,LINDY MILLER,928,143,267,518,0
+Houston,TMS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,540,57,140,341,2
+Houston,TWPK,"Public Service Commission, District 3",3,DEM,LINDY MILLER,440,36,112,289,3
+Houston,VHS,"Public Service Commission, District 3",3,DEM,LINDY MILLER,348,25,102,218,3
