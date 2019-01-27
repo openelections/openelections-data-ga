@@ -1,0 +1,629 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,advance_in_person,election_day,provisional
+Gwinnett,HARBINS A,Secretary Of State,,REP,BRAD RAFFENSPERGER,666,24,135,506,1
+Gwinnett,ROCKBRIDGE A,Secretary Of State,,REP,BRAD RAFFENSPERGER,177,11,21,143,2
+Gwinnett,DACULA,Secretary Of State,,REP,BRAD RAFFENSPERGER,389,7,44,338,0
+Gwinnett,SUWANEE A,Secretary Of State,,REP,BRAD RAFFENSPERGER,123,6,5,111,1
+Gwinnett,BAYCREEK A,Secretary Of State,,REP,BRAD RAFFENSPERGER,425,21,53,349,2
+Gwinnett,GOODWINS A,Secretary Of State,,REP,BRAD RAFFENSPERGER,330,16,41,272,1
+Gwinnett,DULUTH A,Secretary Of State,,REP,BRAD RAFFENSPERGER,489,29,21,439,0
+Gwinnett,DUNCANS A,Secretary Of State,,REP,BRAD RAFFENSPERGER,629,34,45,550,0
+Gwinnett,PUCKETTS A,Secretary Of State,,REP,BRAD RAFFENSPERGER,708,47,27,634,0
+Gwinnett,CATES A,Secretary Of State,,REP,BRAD RAFFENSPERGER,360,54,69,236,1
+Gwinnett,BERKSHIRE A,Secretary Of State,,REP,BRAD RAFFENSPERGER,159,16,17,126,0
+Gwinnett,BERKSHIRE B,Secretary Of State,,REP,BRAD RAFFENSPERGER,265,21,14,230,0
+Gwinnett,DUNCANS C,Secretary Of State,,REP,BRAD RAFFENSPERGER,428,7,31,389,1
+Gwinnett,GARNERS A,Secretary Of State,,REP,BRAD RAFFENSPERGER,587,35,45,506,1
+Gwinnett,LAWRENCEVILLE A,Secretary Of State,,REP,BRAD RAFFENSPERGER,315,29,90,196,0
+Gwinnett,LAWRENCEVILLE B,Secretary Of State,,REP,BRAD RAFFENSPERGER,296,14,74,208,0
+Gwinnett,MARTINS A,Secretary Of State,,REP,BRAD RAFFENSPERGER,86,8,13,64,1
+Gwinnett,MARTINS B,Secretary Of State,,REP,BRAD RAFFENSPERGER,199,14,31,154,0
+Gwinnett,MARTINS C,Secretary Of State,,REP,BRAD RAFFENSPERGER,243,14,24,205,0
+Gwinnett,PINCKNEYVILLE A,Secretary Of State,,REP,BRAD RAFFENSPERGER,50,5,3,42,0
+Gwinnett,PINCKNEYVILLE B,Secretary Of State,,REP,BRAD RAFFENSPERGER,108,12,5,91,0
+Gwinnett,PINCKNEYVILLE C,Secretary Of State,,REP,BRAD RAFFENSPERGER,303,18,8,277,0
+Gwinnett,PINCKNEYVILLE D,Secretary Of State,,REP,BRAD RAFFENSPERGER,63,8,11,44,0
+Gwinnett,SUGAR HILL A,Secretary Of State,,REP,BRAD RAFFENSPERGER,368,26,11,331,0
+Gwinnett,SUGAR HILL B,Secretary Of State,,REP,BRAD RAFFENSPERGER,501,30,25,444,2
+Gwinnett,HOG MOUNTAIN A,Secretary Of State,,REP,BRAD RAFFENSPERGER,348,15,21,310,2
+Gwinnett,HOG MOUNTAIN B,Secretary Of State,,REP,BRAD RAFFENSPERGER,611,36,50,525,0
+Gwinnett,ROCKYCREEK A,Secretary Of State,,REP,BRAD RAFFENSPERGER,665,27,39,598,1
+Gwinnett,CATES B,Secretary Of State,,REP,BRAD RAFFENSPERGER,281,12,40,229,0
+Gwinnett,CATES C,Secretary Of State,,REP,BRAD RAFFENSPERGER,237,13,32,189,3
+Gwinnett,HOG MOUNTAIN D,Secretary Of State,,REP,BRAD RAFFENSPERGER,307,15,52,239,1
+Gwinnett,BERKSHIRE D,Secretary Of State,,REP,BRAD RAFFENSPERGER,397,23,25,349,0
+Gwinnett,BERKSHIRE E,Secretary Of State,,REP,BRAD RAFFENSPERGER,326,9,31,286,0
+Gwinnett,BERKSHIRE F,Secretary Of State,,REP,BRAD RAFFENSPERGER,163,17,6,140,0
+Gwinnett,CATES D,Secretary Of State,,REP,BRAD RAFFENSPERGER,381,21,52,308,0
+Gwinnett,035 Cates D - 04,Secretary Of State,,REP,BRAD RAFFENSPERGER,66,1,2,63,0
+Gwinnett,CATES E,Secretary Of State,,REP,BRAD RAFFENSPERGER,447,17,37,392,1
+Gwinnett,PINCKNEYVILLE E,Secretary Of State,,REP,BRAD RAFFENSPERGER,70,3,4,63,0
+Gwinnett,PINCKNEYVILLE F,Secretary Of State,,REP,BRAD RAFFENSPERGER,104,17,12,75,0
+Gwinnett,DUNCANS D,Secretary Of State,,REP,BRAD RAFFENSPERGER,828,49,37,738,4
+Gwinnett,PINCKNEYVILLE H,Secretary Of State,,REP,BRAD RAFFENSPERGER,514,21,31,462,0
+Gwinnett,BAYCREEK B,Secretary Of State,,REP,BRAD RAFFENSPERGER,418,20,49,348,1
+Gwinnett,LAWRENCEVILLE C,Secretary Of State,,REP,BRAD RAFFENSPERGER,336,19,39,277,1
+Gwinnett,MARTINS D,Secretary Of State,,REP,BRAD RAFFENSPERGER,39,2,4,32,1
+Gwinnett,ROCKBRIDGE B,Secretary Of State,,REP,BRAD RAFFENSPERGER,214,16,25,173,0
+Gwinnett,GARNERS B,Secretary Of State,,REP,BRAD RAFFENSPERGER,287,21,41,223,2
+Gwinnett,CATES F,Secretary Of State,,REP,BRAD RAFFENSPERGER,317,14,36,265,2
+Gwinnett,CATES G,Secretary Of State,,REP,BRAD RAFFENSPERGER,481,20,70,391,0
+Gwinnett,DULUTH B,Secretary Of State,,REP,BRAD RAFFENSPERGER,421,25,30,366,0
+Gwinnett,GARNERS C,Secretary Of State,,REP,BRAD RAFFENSPERGER,216,7,8,201,0
+Gwinnett,PINCKNEYVILLE I,Secretary Of State,,REP,BRAD RAFFENSPERGER,102,5,10,87,0
+Gwinnett,PINCKNEYVILLE J,Secretary Of State,,REP,BRAD RAFFENSPERGER,47,9,1,36,1
+Gwinnett,BERKSHIRE G,Secretary Of State,,REP,BRAD RAFFENSPERGER,351,28,10,313,0
+Gwinnett,CATES H,Secretary Of State,,REP,BRAD RAFFENSPERGER,251,24,25,199,3
+Gwinnett,SUGAR HILL C,Secretary Of State,,REP,BRAD RAFFENSPERGER,527,35,11,477,4
+Gwinnett,SUGAR HILL D,Secretary Of State,,REP,BRAD RAFFENSPERGER,440,28,13,397,2
+Gwinnett,DULUTH C,Secretary Of State,,REP,BRAD RAFFENSPERGER,263,19,13,231,0
+Gwinnett,DULUTH D,Secretary Of State,,REP,BRAD RAFFENSPERGER,325,23,28,274,0
+Gwinnett,PINCKNEYVILLE K,Secretary Of State,,REP,BRAD RAFFENSPERGER,122,13,6,103,0
+Gwinnett,PINCKNEYVILLE N,Secretary Of State,,REP,BRAD RAFFENSPERGER,81,0,4,77,0
+Gwinnett,LAWRENCEVILLE D,Secretary Of State,,REP,BRAD RAFFENSPERGER,159,8,41,109,1
+Gwinnett,LAWRENCEVILLE E,Secretary Of State,,REP,BRAD RAFFENSPERGER,317,26,82,209,0
+Gwinnett,PINCKNEYVILLE L,Secretary Of State,,REP,BRAD RAFFENSPERGER,475,28,15,432,0
+Gwinnett,PINCKNEYVILLE M,Secretary Of State,,REP,BRAD RAFFENSPERGER,477,25,13,438,1
+Gwinnett,GARNERS D,Secretary Of State,,REP,BRAD RAFFENSPERGER,200,9,26,163,2
+Gwinnett,BERKSHIRE H,Secretary Of State,,REP,BRAD RAFFENSPERGER,125,9,11,105,0
+Gwinnett,PINCKNEYVILLE O,Secretary Of State,,REP,BRAD RAFFENSPERGER,107,4,4,99,0
+Gwinnett,PUCKETTS E,Secretary Of State,,REP,BRAD RAFFENSPERGER,455,34,38,380,3
+Gwinnett,CATES I,Secretary Of State,,REP,BRAD RAFFENSPERGER,429,15,49,364,1
+Gwinnett,CATES J,Secretary Of State,,REP,BRAD RAFFENSPERGER,332,8,23,299,2
+Gwinnett,GOODWINS B,Secretary Of State,,REP,BRAD RAFFENSPERGER,535,28,55,449,3
+Gwinnett,LAWRENCEVILLE F,Secretary Of State,,REP,BRAD RAFFENSPERGER,185,7,33,145,0
+Gwinnett,MARTINS E,Secretary Of State,,REP,BRAD RAFFENSPERGER,49,14,4,30,1
+Gwinnett,PINCKNEYVILLE P,Secretary Of State,,REP,BRAD RAFFENSPERGER,288,17,6,265,0
+Gwinnett,PINCKNEYVILLE Q,Secretary Of State,,REP,BRAD RAFFENSPERGER,37,0,1,35,1
+Gwinnett,ROCKBRIDGE C,Secretary Of State,,REP,BRAD RAFFENSPERGER,260,17,28,214,1
+Gwinnett,ROCKBRIDGE D,Secretary Of State,,REP,BRAD RAFFENSPERGER,245,12,35,197,1
+Gwinnett,GOODWINS C,Secretary Of State,,REP,BRAD RAFFENSPERGER,349,31,46,272,0
+Gwinnett,BAYCREEK K,Secretary Of State,,REP,BRAD RAFFENSPERGER,409,34,97,277,1
+Gwinnett,CATES K,Secretary Of State,,REP,BRAD RAFFENSPERGER,367,17,32,318,0
+Gwinnett,BAYCREEK C,Secretary Of State,,REP,BRAD RAFFENSPERGER,533,26,109,398,0
+Gwinnett,CATES L,Secretary Of State,,REP,BRAD RAFFENSPERGER,384,21,55,308,0
+Gwinnett,DULUTH E,Secretary Of State,,REP,BRAD RAFFENSPERGER,251,18,12,220,1
+Gwinnett,GOODWINS D,Secretary Of State,,REP,BRAD RAFFENSPERGER,424,15,49,360,0
+Gwinnett,LAWRENCEVILLE G,Secretary Of State,,REP,BRAD RAFFENSPERGER,171,4,34,127,6
+Gwinnett,LAWRENCEVILLE H,Secretary Of State,,REP,BRAD RAFFENSPERGER,460,25,87,348,0
+Gwinnett,MARTINS F,Secretary Of State,,REP,BRAD RAFFENSPERGER,100,8,5,86,1
+Gwinnett,PINCKNEYVILLE S,Secretary Of State,,REP,BRAD RAFFENSPERGER,238,32,14,192,0
+Gwinnett,ROCKBRIDGE E,Secretary Of State,,REP,BRAD RAFFENSPERGER,219,6,15,198,0
+Gwinnett,SUGAR HILL E,Secretary Of State,,REP,BRAD RAFFENSPERGER,306,21,12,269,4
+Gwinnett,LAWRENCEVILLE I,Secretary Of State,,REP,BRAD RAFFENSPERGER,238,17,50,171,0
+Gwinnett,BAYCREEK D,Secretary Of State,,REP,BRAD RAFFENSPERGER,514,23,86,405,0
+Gwinnett,BERKSHIRE J,Secretary Of State,,REP,BRAD RAFFENSPERGER,501,16,34,450,1
+Gwinnett,CATES M,Secretary Of State,,REP,BRAD RAFFENSPERGER,574,36,112,425,1
+Gwinnett,CATES N,Secretary Of State,,REP,BRAD RAFFENSPERGER,496,24,120,352,0
+Gwinnett,DULUTH F,Secretary Of State,,REP,BRAD RAFFENSPERGER,111,10,16,85,0
+Gwinnett,DULUTH G,Secretary Of State,,REP,BRAD RAFFENSPERGER,395,17,19,356,3
+Gwinnett,GOODWINS E,Secretary Of State,,REP,BRAD RAFFENSPERGER,467,29,51,387,0
+Gwinnett,GOODWINS F,Secretary Of State,,REP,BRAD RAFFENSPERGER,261,20,27,214,0
+Gwinnett,PINCKNEYVILLE T,Secretary Of State,,REP,BRAD RAFFENSPERGER,221,23,13,185,0
+Gwinnett,SUWANEE B,Secretary Of State,,REP,BRAD RAFFENSPERGER,438,14,21,402,1
+Gwinnett,PINCKNEYVILLE U,Secretary Of State,,REP,BRAD RAFFENSPERGER,239,14,8,217,0
+Gwinnett,PUCKETTS B,Secretary Of State,,REP,BRAD RAFFENSPERGER,424,25,25,370,4
+Gwinnett,BERKSHIRE L,Secretary Of State,,REP,BRAD RAFFENSPERGER,146,14,13,117,2
+Gwinnett,ROCKBRIDGE F,Secretary Of State,,REP,BRAD RAFFENSPERGER,242,17,32,193,0
+Gwinnett,SUGAR HILL F,Secretary Of State,,REP,BRAD RAFFENSPERGER,429,15,18,393,3
+Gwinnett,SUWANEE C,Secretary Of State,,REP,BRAD RAFFENSPERGER,487,25,34,424,4
+Gwinnett,CATES O,Secretary Of State,,REP,BRAD RAFFENSPERGER,212,11,8,191,2
+Gwinnett,BAYCREEK E,Secretary Of State,,REP,BRAD RAFFENSPERGER,305,15,46,244,0
+Gwinnett,BERKSHIRE M,Secretary Of State,,REP,BRAD RAFFENSPERGER,282,10,18,253,1
+Gwinnett,MARTINS G,Secretary Of State,,REP,BRAD RAFFENSPERGER,114,8,16,90,0
+Gwinnett,DULUTH H,Secretary Of State,,REP,BRAD RAFFENSPERGER,264,33,12,218,1
+Gwinnett,BERKSHIRE N,Secretary Of State,,REP,BRAD RAFFENSPERGER,577,30,47,499,1
+Gwinnett,PINCKNEYVILLE V,Secretary Of State,,REP,BRAD RAFFENSPERGER,133,7,7,119,0
+Gwinnett,PINCKNEYVILLE W,Secretary Of State,,REP,BRAD RAFFENSPERGER,339,25,16,296,2
+Gwinnett,MARTINS H,Secretary Of State,,REP,BRAD RAFFENSPERGER,303,33,52,218,0
+Gwinnett,MARTINS I,Secretary Of State,,REP,BRAD RAFFENSPERGER,142,34,16,92,0
+Gwinnett,MARTINS J,Secretary Of State,,REP,BRAD RAFFENSPERGER,103,7,12,84,0
+Gwinnett,GARNERS F,Secretary Of State,,REP,BRAD RAFFENSPERGER,224,10,8,206,0
+Gwinnett,BERKSHIRE O,Secretary Of State,,REP,BRAD RAFFENSPERGER,418,25,22,371,0
+Gwinnett,BERKSHIRE P,Secretary Of State,,REP,BRAD RAFFENSPERGER,99,5,12,82,0
+Gwinnett,PINCKNEYVILLE X,Secretary Of State,,REP,BRAD RAFFENSPERGER,396,22,20,354,0
+Gwinnett,ROCKBRIDGE G,Secretary Of State,,REP,BRAD RAFFENSPERGER,246,18,35,191,2
+Gwinnett,PINCKNEYVILLE Y,Secretary Of State,,REP,BRAD RAFFENSPERGER,79,7,3,69,0
+Gwinnett,GOODWINS G,Secretary Of State,,REP,BRAD RAFFENSPERGER,152,7,13,132,0
+Gwinnett,PINCKNEYVILLE Z,Secretary Of State,,REP,BRAD RAFFENSPERGER,390,11,8,371,0
+Gwinnett,PINCKNEYVILLE A1,Secretary Of State,,REP,BRAD RAFFENSPERGER,457,24,7,426,0
+Gwinnett,LAWRENCEVILLE J,Secretary Of State,,REP,BRAD RAFFENSPERGER,157,2,15,139,1
+Gwinnett,GOODWINS H,Secretary Of State,,REP,BRAD RAFFENSPERGER,253,7,16,230,0
+Gwinnett,DUNCANS B,Secretary Of State,,REP,BRAD RAFFENSPERGER,649,37,36,576,0
+Gwinnett,SUWANEE D,Secretary Of State,,REP,BRAD RAFFENSPERGER,514,17,28,465,4
+Gwinnett,SUWANEE E,Secretary Of State,,REP,BRAD RAFFENSPERGER,541,28,31,481,1
+Gwinnett,LAWRENCEVILLE K,Secretary Of State,,REP,BRAD RAFFENSPERGER,332,13,55,263,1
+Gwinnett,HARBINS B,Secretary Of State,,REP,BRAD RAFFENSPERGER,534,14,48,470,2
+Gwinnett,BAYCREEK F,Secretary Of State,,REP,BRAD RAFFENSPERGER,334,17,63,254,0
+Gwinnett,PUCKETTS C,Secretary Of State,,REP,BRAD RAFFENSPERGER,324,15,15,289,5
+Gwinnett,HOG MOUNTAIN C,Secretary Of State,,REP,BRAD RAFFENSPERGER,433,19,42,372,0
+Gwinnett,ROCKYCREEK B,Secretary Of State,,REP,BRAD RAFFENSPERGER,479,33,43,402,1
+Gwinnett,DULUTH I,Secretary Of State,,REP,BRAD RAFFENSPERGER,480,49,33,396,2
+Gwinnett,MARTINS K,Secretary Of State,,REP,BRAD RAFFENSPERGER,193,20,34,138,1
+Gwinnett,SUWANEE H,Secretary Of State,,REP,BRAD RAFFENSPERGER,533,30,23,475,5
+Gwinnett,SUGAR HILL G,Secretary Of State,,REP,BRAD RAFFENSPERGER,389,10,26,351,2
+Gwinnett,SUWANEE F,Secretary Of State,,REP,BRAD RAFFENSPERGER,366,13,17,334,2
+Gwinnett,LAWRENCEVILLE L,Secretary Of State,,REP,BRAD RAFFENSPERGER,408,23,82,303,0
+Gwinnett,LAWRENCEVILLE M,Secretary Of State,,REP,BRAD RAFFENSPERGER,192,11,38,143,0
+Gwinnett,BAYCREEK G,Secretary Of State,,REP,BRAD RAFFENSPERGER,374,22,59,291,2
+Gwinnett,BAYCREEK H,Secretary Of State,,REP,BRAD RAFFENSPERGER,748,21,131,596,0
+Gwinnett,BAYCREEK I,Secretary Of State,,REP,BRAD RAFFENSPERGER,449,23,118,308,0
+Gwinnett,BERKSHIRE Q,Secretary Of State,,REP,BRAD RAFFENSPERGER,263,12,27,222,2
+Gwinnett,GOODWINS I,Secretary Of State,,REP,BRAD RAFFENSPERGER,342,15,29,297,1
+Gwinnett,DULUTH K,Secretary Of State,,REP,BRAD RAFFENSPERGER,51,8,3,40,0
+Gwinnett,HARBINS C,Secretary Of State,,REP,BRAD RAFFENSPERGER,355,15,23,316,1
+Gwinnett,ROCKYCREEK C,Secretary Of State,,REP,BRAD RAFFENSPERGER,503,21,46,435,1
+Gwinnett,LAWRENCEVILLE N,Secretary Of State,,REP,BRAD RAFFENSPERGER,211,17,37,157,0
+Gwinnett,PUCKETTS D,Secretary Of State,,REP,BRAD RAFFENSPERGER,422,37,42,340,3
+Gwinnett,SUWANEE G,Secretary Of State,,REP,BRAD RAFFENSPERGER,362,7,12,342,1
+Gwinnett,BAYCREEK J,Secretary Of State,,REP,BRAD RAFFENSPERGER,343,23,39,281,0
+Gwinnett,HARBINS A,Secretary Of State,,DEM,JOHN BARROW,505,14,105,382,4
+Gwinnett,ROCKBRIDGE A,Secretary Of State,,DEM,JOHN BARROW,574,24,54,490,6
+Gwinnett,DACULA,Secretary Of State,,DEM,JOHN BARROW,396,17,54,322,3
+Gwinnett,SUWANEE A,Secretary Of State,,DEM,JOHN BARROW,142,2,14,121,5
+Gwinnett,BAYCREEK A,Secretary Of State,,DEM,JOHN BARROW,294,13,62,218,1
+Gwinnett,GOODWINS A,Secretary Of State,,DEM,JOHN BARROW,381,14,46,320,1
+Gwinnett,DULUTH A,Secretary Of State,,DEM,JOHN BARROW,595,19,69,499,8
+Gwinnett,DUNCANS A,Secretary Of State,,DEM,JOHN BARROW,291,14,47,230,0
+Gwinnett,PUCKETTS A,Secretary Of State,,DEM,JOHN BARROW,266,22,16,226,2
+Gwinnett,CATES A,Secretary Of State,,DEM,JOHN BARROW,220,22,39,157,2
+Gwinnett,BERKSHIRE A,Secretary Of State,,DEM,JOHN BARROW,238,9,10,216,3
+Gwinnett,BERKSHIRE B,Secretary Of State,,DEM,JOHN BARROW,586,21,38,527,0
+Gwinnett,DUNCANS C,Secretary Of State,,DEM,JOHN BARROW,183,9,13,160,1
+Gwinnett,GARNERS A,Secretary Of State,,DEM,JOHN BARROW,397,16,32,348,1
+Gwinnett,LAWRENCEVILLE A,Secretary Of State,,DEM,JOHN BARROW,248,19,72,155,2
+Gwinnett,LAWRENCEVILLE B,Secretary Of State,,DEM,JOHN BARROW,547,16,117,414,0
+Gwinnett,MARTINS A,Secretary Of State,,DEM,JOHN BARROW,264,10,32,222,0
+Gwinnett,MARTINS B,Secretary Of State,,DEM,JOHN BARROW,278,11,33,234,0
+Gwinnett,MARTINS C,Secretary Of State,,DEM,JOHN BARROW,255,9,14,232,0
+Gwinnett,PINCKNEYVILLE A,Secretary Of State,,DEM,JOHN BARROW,252,9,20,222,1
+Gwinnett,PINCKNEYVILLE B,Secretary Of State,,DEM,JOHN BARROW,275,19,20,232,4
+Gwinnett,PINCKNEYVILLE C,Secretary Of State,,DEM,JOHN BARROW,271,22,7,242,0
+Gwinnett,PINCKNEYVILLE D,Secretary Of State,,DEM,JOHN BARROW,163,7,16,140,0
+Gwinnett,SUGAR HILL A,Secretary Of State,,DEM,JOHN BARROW,227,19,14,189,5
+Gwinnett,SUGAR HILL B,Secretary Of State,,DEM,JOHN BARROW,312,9,21,280,2
+Gwinnett,HOG MOUNTAIN A,Secretary Of State,,DEM,JOHN BARROW,405,9,38,355,3
+Gwinnett,HOG MOUNTAIN B,Secretary Of State,,DEM,JOHN BARROW,390,17,69,304,0
+Gwinnett,ROCKYCREEK A,Secretary Of State,,DEM,JOHN BARROW,402,13,31,355,3
+Gwinnett,CATES B,Secretary Of State,,DEM,JOHN BARROW,165,4,29,132,0
+Gwinnett,CATES C,Secretary Of State,,DEM,JOHN BARROW,319,13,39,262,5
+Gwinnett,HOG MOUNTAIN D,Secretary Of State,,DEM,JOHN BARROW,216,19,32,164,1
+Gwinnett,BERKSHIRE D,Secretary Of State,,DEM,JOHN BARROW,329,13,22,294,0
+Gwinnett,BERKSHIRE E,Secretary Of State,,DEM,JOHN BARROW,224,12,14,197,1
+Gwinnett,BERKSHIRE F,Secretary Of State,,DEM,JOHN BARROW,187,11,25,151,0
+Gwinnett,CATES D,Secretary Of State,,DEM,JOHN BARROW,290,7,39,243,1
+Gwinnett,035 Cates D - 04,Secretary Of State,,DEM,JOHN BARROW,67,3,10,53,1
+Gwinnett,CATES E,Secretary Of State,,DEM,JOHN BARROW,357,10,49,298,0
+Gwinnett,PINCKNEYVILLE E,Secretary Of State,,DEM,JOHN BARROW,191,3,9,178,1
+Gwinnett,PINCKNEYVILLE F,Secretary Of State,,DEM,JOHN BARROW,195,7,1,184,3
+Gwinnett,DUNCANS D,Secretary Of State,,DEM,JOHN BARROW,338,14,23,298,3
+Gwinnett,PINCKNEYVILLE H,Secretary Of State,,DEM,JOHN BARROW,573,23,37,507,6
+Gwinnett,BAYCREEK B,Secretary Of State,,DEM,JOHN BARROW,711,29,94,581,7
+Gwinnett,LAWRENCEVILLE C,Secretary Of State,,DEM,JOHN BARROW,188,9,48,129,2
+Gwinnett,MARTINS D,Secretary Of State,,DEM,JOHN BARROW,186,6,17,162,1
+Gwinnett,ROCKBRIDGE B,Secretary Of State,,DEM,JOHN BARROW,451,9,59,377,6
+Gwinnett,GARNERS B,Secretary Of State,,DEM,JOHN BARROW,508,18,56,432,2
+Gwinnett,CATES F,Secretary Of State,,DEM,JOHN BARROW,155,10,27,118,0
+Gwinnett,CATES G,Secretary Of State,,DEM,JOHN BARROW,300,8,42,250,0
+Gwinnett,DULUTH B,Secretary Of State,,DEM,JOHN BARROW,290,16,22,250,2
+Gwinnett,GARNERS C,Secretary Of State,,DEM,JOHN BARROW,209,6,11,192,0
+Gwinnett,PINCKNEYVILLE I,Secretary Of State,,DEM,JOHN BARROW,209,10,10,186,3
+Gwinnett,PINCKNEYVILLE J,Secretary Of State,,DEM,JOHN BARROW,193,12,7,173,1
+Gwinnett,BERKSHIRE G,Secretary Of State,,DEM,JOHN BARROW,316,3,17,296,0
+Gwinnett,CATES H,Secretary Of State,,DEM,JOHN BARROW,391,18,64,304,5
+Gwinnett,SUGAR HILL C,Secretary Of State,,DEM,JOHN BARROW,268,9,11,248,0
+Gwinnett,SUGAR HILL D,Secretary Of State,,DEM,JOHN BARROW,246,14,6,224,2
+Gwinnett,DULUTH C,Secretary Of State,,DEM,JOHN BARROW,269,8,19,242,0
+Gwinnett,DULUTH D,Secretary Of State,,DEM,JOHN BARROW,411,18,39,351,3
+Gwinnett,PINCKNEYVILLE K,Secretary Of State,,DEM,JOHN BARROW,308,12,19,275,2
+Gwinnett,PINCKNEYVILLE N,Secretary Of State,,DEM,JOHN BARROW,335,8,12,312,3
+Gwinnett,LAWRENCEVILLE D,Secretary Of State,,DEM,JOHN BARROW,341,17,64,259,1
+Gwinnett,LAWRENCEVILLE E,Secretary Of State,,DEM,JOHN BARROW,185,14,50,121,0
+Gwinnett,PINCKNEYVILLE L,Secretary Of State,,DEM,JOHN BARROW,285,8,12,264,1
+Gwinnett,PINCKNEYVILLE M,Secretary Of State,,DEM,JOHN BARROW,262,11,16,235,0
+Gwinnett,GARNERS D,Secretary Of State,,DEM,JOHN BARROW,534,20,39,473,2
+Gwinnett,BERKSHIRE H,Secretary Of State,,DEM,JOHN BARROW,164,4,16,144,0
+Gwinnett,PINCKNEYVILLE O,Secretary Of State,,DEM,JOHN BARROW,316,10,19,287,0
+Gwinnett,PUCKETTS E,Secretary Of State,,DEM,JOHN BARROW,331,14,25,284,8
+Gwinnett,CATES I,Secretary Of State,,DEM,JOHN BARROW,384,7,48,327,2
+Gwinnett,CATES J,Secretary Of State,,DEM,JOHN BARROW,434,7,39,388,0
+Gwinnett,GOODWINS B,Secretary Of State,,DEM,JOHN BARROW,370,18,49,302,1
+Gwinnett,LAWRENCEVILLE F,Secretary Of State,,DEM,JOHN BARROW,431,17,115,298,1
+Gwinnett,MARTINS E,Secretary Of State,,DEM,JOHN BARROW,396,18,50,320,8
+Gwinnett,PINCKNEYVILLE P,Secretary Of State,,DEM,JOHN BARROW,261,25,8,227,1
+Gwinnett,PINCKNEYVILLE Q,Secretary Of State,,DEM,JOHN BARROW,208,5,15,187,1
+Gwinnett,ROCKBRIDGE C,Secretary Of State,,DEM,JOHN BARROW,904,33,79,781,11
+Gwinnett,ROCKBRIDGE D,Secretary Of State,,DEM,JOHN BARROW,512,16,52,435,9
+Gwinnett,GOODWINS C,Secretary Of State,,DEM,JOHN BARROW,477,26,56,390,5
+Gwinnett,BAYCREEK K,Secretary Of State,,DEM,JOHN BARROW,392,13,96,283,0
+Gwinnett,CATES K,Secretary Of State,,DEM,JOHN BARROW,269,10,39,219,1
+Gwinnett,BAYCREEK C,Secretary Of State,,DEM,JOHN BARROW,747,15,151,581,0
+Gwinnett,CATES L,Secretary Of State,,DEM,JOHN BARROW,427,9,65,353,0
+Gwinnett,DULUTH E,Secretary Of State,,DEM,JOHN BARROW,478,17,28,431,2
+Gwinnett,GOODWINS D,Secretary Of State,,DEM,JOHN BARROW,378,9,41,326,2
+Gwinnett,LAWRENCEVILLE G,Secretary Of State,,DEM,JOHN BARROW,302,6,34,261,1
+Gwinnett,LAWRENCEVILLE H,Secretary Of State,,DEM,JOHN BARROW,368,13,65,287,3
+Gwinnett,MARTINS F,Secretary Of State,,DEM,JOHN BARROW,186,14,21,147,4
+Gwinnett,PINCKNEYVILLE S,Secretary Of State,,DEM,JOHN BARROW,283,18,19,246,0
+Gwinnett,ROCKBRIDGE E,Secretary Of State,,DEM,JOHN BARROW,587,13,51,517,6
+Gwinnett,SUGAR HILL E,Secretary Of State,,DEM,JOHN BARROW,227,12,19,195,1
+Gwinnett,LAWRENCEVILLE I,Secretary Of State,,DEM,JOHN BARROW,308,21,40,247,0
+Gwinnett,BAYCREEK D,Secretary Of State,,DEM,JOHN BARROW,454,20,98,336,0
+Gwinnett,BERKSHIRE J,Secretary Of State,,DEM,JOHN BARROW,368,8,30,330,0
+Gwinnett,CATES M,Secretary Of State,,DEM,JOHN BARROW,387,16,75,296,0
+Gwinnett,CATES N,Secretary Of State,,DEM,JOHN BARROW,213,7,44,162,0
+Gwinnett,DULUTH F,Secretary Of State,,DEM,JOHN BARROW,398,20,51,325,2
+Gwinnett,DULUTH G,Secretary Of State,,DEM,JOHN BARROW,279,11,25,242,1
+Gwinnett,GOODWINS E,Secretary Of State,,DEM,JOHN BARROW,489,30,62,394,3
+Gwinnett,GOODWINS F,Secretary Of State,,DEM,JOHN BARROW,286,8,43,233,2
+Gwinnett,PINCKNEYVILLE T,Secretary Of State,,DEM,JOHN BARROW,286,14,18,253,1
+Gwinnett,SUWANEE B,Secretary Of State,,DEM,JOHN BARROW,341,14,16,309,2
+Gwinnett,PINCKNEYVILLE U,Secretary Of State,,DEM,JOHN BARROW,250,9,12,227,2
+Gwinnett,PUCKETTS B,Secretary Of State,,DEM,JOHN BARROW,193,8,19,164,2
+Gwinnett,BERKSHIRE L,Secretary Of State,,DEM,JOHN BARROW,279,9,31,238,1
+Gwinnett,ROCKBRIDGE F,Secretary Of State,,DEM,JOHN BARROW,857,13,81,761,2
+Gwinnett,SUGAR HILL F,Secretary Of State,,DEM,JOHN BARROW,238,13,9,212,4
+Gwinnett,SUWANEE C,Secretary Of State,,DEM,JOHN BARROW,353,17,40,293,3
+Gwinnett,CATES O,Secretary Of State,,DEM,JOHN BARROW,164,8,18,137,1
+Gwinnett,BAYCREEK E,Secretary Of State,,DEM,JOHN BARROW,292,27,32,230,3
+Gwinnett,BERKSHIRE M,Secretary Of State,,DEM,JOHN BARROW,201,6,16,179,0
+Gwinnett,MARTINS G,Secretary Of State,,DEM,JOHN BARROW,222,3,39,179,1
+Gwinnett,DULUTH H,Secretary Of State,,DEM,JOHN BARROW,245,16,18,209,2
+Gwinnett,BERKSHIRE N,Secretary Of State,,DEM,JOHN BARROW,408,16,31,361,0
+Gwinnett,PINCKNEYVILLE V,Secretary Of State,,DEM,JOHN BARROW,157,6,9,142,0
+Gwinnett,PINCKNEYVILLE W,Secretary Of State,,DEM,JOHN BARROW,365,11,18,331,5
+Gwinnett,MARTINS H,Secretary Of State,,DEM,JOHN BARROW,442,28,60,352,2
+Gwinnett,MARTINS I,Secretary Of State,,DEM,JOHN BARROW,338,24,42,271,1
+Gwinnett,MARTINS J,Secretary Of State,,DEM,JOHN BARROW,321,13,31,273,4
+Gwinnett,GARNERS F,Secretary Of State,,DEM,JOHN BARROW,185,7,9,169,0
+Gwinnett,BERKSHIRE O,Secretary Of State,,DEM,JOHN BARROW,277,16,25,236,0
+Gwinnett,BERKSHIRE P,Secretary Of State,,DEM,JOHN BARROW,126,10,17,99,0
+Gwinnett,PINCKNEYVILLE X,Secretary Of State,,DEM,JOHN BARROW,407,20,33,353,1
+Gwinnett,ROCKBRIDGE G,Secretary Of State,,DEM,JOHN BARROW,813,23,105,667,18
+Gwinnett,PINCKNEYVILLE Y,Secretary Of State,,DEM,JOHN BARROW,242,8,15,218,1
+Gwinnett,GOODWINS G,Secretary Of State,,DEM,JOHN BARROW,251,5,26,218,2
+Gwinnett,PINCKNEYVILLE Z,Secretary Of State,,DEM,JOHN BARROW,232,15,15,202,0
+Gwinnett,PINCKNEYVILLE A1,Secretary Of State,,DEM,JOHN BARROW,343,19,12,312,0
+Gwinnett,LAWRENCEVILLE J,Secretary Of State,,DEM,JOHN BARROW,209,7,33,169,0
+Gwinnett,GOODWINS H,Secretary Of State,,DEM,JOHN BARROW,240,10,17,213,0
+Gwinnett,DUNCANS B,Secretary Of State,,DEM,JOHN BARROW,242,11,22,208,1
+Gwinnett,SUWANEE D,Secretary Of State,,DEM,JOHN BARROW,303,15,11,274,3
+Gwinnett,SUWANEE E,Secretary Of State,,DEM,JOHN BARROW,338,6,24,302,6
+Gwinnett,LAWRENCEVILLE K,Secretary Of State,,DEM,JOHN BARROW,290,10,39,240,1
+Gwinnett,HARBINS B,Secretary Of State,,DEM,JOHN BARROW,286,11,40,235,0
+Gwinnett,BAYCREEK F,Secretary Of State,,DEM,JOHN BARROW,554,14,105,433,2
+Gwinnett,PUCKETTS C,Secretary Of State,,DEM,JOHN BARROW,177,5,16,153,3
+Gwinnett,HOG MOUNTAIN C,Secretary Of State,,DEM,JOHN BARROW,248,14,27,204,3
+Gwinnett,ROCKYCREEK B,Secretary Of State,,DEM,JOHN BARROW,320,13,33,272,2
+Gwinnett,DULUTH I,Secretary Of State,,DEM,JOHN BARROW,354,29,41,279,5
+Gwinnett,MARTINS K,Secretary Of State,,DEM,JOHN BARROW,508,18,73,413,4
+Gwinnett,SUWANEE H,Secretary Of State,,DEM,JOHN BARROW,230,4,10,215,1
+Gwinnett,SUGAR HILL G,Secretary Of State,,DEM,JOHN BARROW,228,20,24,184,0
+Gwinnett,SUWANEE F,Secretary Of State,,DEM,JOHN BARROW,342,11,14,317,0
+Gwinnett,LAWRENCEVILLE L,Secretary Of State,,DEM,JOHN BARROW,518,17,83,417,1
+Gwinnett,LAWRENCEVILLE M,Secretary Of State,,DEM,JOHN BARROW,600,19,133,448,0
+Gwinnett,BAYCREEK G,Secretary Of State,,DEM,JOHN BARROW,588,10,121,456,1
+Gwinnett,BAYCREEK H,Secretary Of State,,DEM,JOHN BARROW,550,26,86,437,1
+Gwinnett,BAYCREEK I,Secretary Of State,,DEM,JOHN BARROW,550,26,137,384,3
+Gwinnett,BERKSHIRE Q,Secretary Of State,,DEM,JOHN BARROW,190,9,9,172,0
+Gwinnett,GOODWINS I,Secretary Of State,,DEM,JOHN BARROW,291,4,28,258,1
+Gwinnett,DULUTH K,Secretary Of State,,DEM,JOHN BARROW,187,6,10,171,0
+Gwinnett,HARBINS C,Secretary Of State,,DEM,JOHN BARROW,147,4,19,122,2
+Gwinnett,ROCKYCREEK C,Secretary Of State,,DEM,JOHN BARROW,395,10,53,332,0
+Gwinnett,LAWRENCEVILLE N,Secretary Of State,,DEM,JOHN BARROW,198,5,41,151,1
+Gwinnett,PUCKETTS D,Secretary Of State,,DEM,JOHN BARROW,171,17,23,128,3
+Gwinnett,SUWANEE G,Secretary Of State,,DEM,JOHN BARROW,374,13,19,342,0
+Gwinnett,BAYCREEK J,Secretary Of State,,DEM,JOHN BARROW,552,16,82,446,8
+Gwinnett,HARBINS A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,658,23,134,500,1
+Gwinnett,ROCKBRIDGE A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,173,9,21,141,2
+Gwinnett,DACULA,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,379,7,40,332,0
+Gwinnett,SUWANEE A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,124,6,6,111,1
+Gwinnett,BAYCREEK A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,399,21,48,328,2
+Gwinnett,GOODWINS A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,320,16,41,263,0
+Gwinnett,DULUTH A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,480,28,22,430,0
+Gwinnett,DUNCANS A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,620,34,45,541,0
+Gwinnett,PUCKETTS A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,695,47,26,622,0
+Gwinnett,CATES A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,354,53,66,234,1
+Gwinnett,BERKSHIRE A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,150,13,16,121,0
+Gwinnett,BERKSHIRE B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,258,21,14,223,0
+Gwinnett,DUNCANS C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,423,7,32,383,1
+Gwinnett,GARNERS A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,579,36,45,497,1
+Gwinnett,LAWRENCEVILLE A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,313,28,92,193,0
+Gwinnett,LAWRENCEVILLE B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,286,15,72,199,0
+Gwinnett,MARTINS A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,85,8,13,63,1
+Gwinnett,MARTINS B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,199,15,31,153,0
+Gwinnett,MARTINS C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,236,13,24,199,0
+Gwinnett,PINCKNEYVILLE A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,46,4,3,39,0
+Gwinnett,PINCKNEYVILLE B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,106,12,4,90,0
+Gwinnett,PINCKNEYVILLE C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,298,20,8,270,0
+Gwinnett,PINCKNEYVILLE D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,59,8,11,40,0
+Gwinnett,SUGAR HILL A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,356,25,11,320,0
+Gwinnett,SUGAR HILL B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,490,30,25,433,2
+Gwinnett,HOG MOUNTAIN A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,342,16,22,302,2
+Gwinnett,HOG MOUNTAIN B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,592,32,50,510,0
+Gwinnett,ROCKYCREEK A,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,662,25,42,594,1
+Gwinnett,CATES B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,272,11,40,221,0
+Gwinnett,CATES C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,220,13,32,172,3
+Gwinnett,HOG MOUNTAIN D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,300,14,50,234,2
+Gwinnett,BERKSHIRE D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,387,20,25,342,0
+Gwinnett,BERKSHIRE E,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,318,10,31,277,0
+Gwinnett,BERKSHIRE F,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,158,16,6,136,0
+Gwinnett,CATES D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,378,21,51,306,0
+Gwinnett,035 Cates D - 04,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,66,1,2,63,0
+Gwinnett,CATES E,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,431,17,37,376,1
+Gwinnett,PINCKNEYVILLE E,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,71,2,4,65,0
+Gwinnett,PINCKNEYVILLE F,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,102,16,11,75,0
+Gwinnett,DUNCANS D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,816,50,36,726,4
+Gwinnett,PINCKNEYVILLE H,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,507,21,29,457,0
+Gwinnett,BAYCREEK B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,400,17,48,334,1
+Gwinnett,LAWRENCEVILLE C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,331,19,39,272,1
+Gwinnett,MARTINS D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,37,2,4,30,1
+Gwinnett,ROCKBRIDGE B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,207,18,23,166,0
+Gwinnett,GARNERS B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,279,23,41,213,2
+Gwinnett,CATES F,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,312,14,36,260,2
+Gwinnett,CATES G,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,472,20,72,380,0
+Gwinnett,DULUTH B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,405,25,29,351,0
+Gwinnett,GARNERS C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,212,7,10,195,0
+Gwinnett,PINCKNEYVILLE I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,99,5,11,83,0
+Gwinnett,PINCKNEYVILLE J,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,46,9,1,35,1
+Gwinnett,BERKSHIRE G,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,345,24,10,311,0
+Gwinnett,CATES H,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,245,24,25,193,3
+Gwinnett,SUGAR HILL C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,506,35,9,458,4
+Gwinnett,SUGAR HILL D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,435,29,13,391,2
+Gwinnett,DULUTH C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,253,18,13,222,0
+Gwinnett,DULUTH D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,308,21,27,260,0
+Gwinnett,PINCKNEYVILLE K,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,112,12,6,94,0
+Gwinnett,PINCKNEYVILLE N,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,82,1,4,77,0
+Gwinnett,LAWRENCEVILLE D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,160,10,41,108,1
+Gwinnett,LAWRENCEVILLE E,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,307,24,78,205,0
+Gwinnett,PINCKNEYVILLE L,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,453,26,15,412,0
+Gwinnett,PINCKNEYVILLE M,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,451,23,13,414,1
+Gwinnett,GARNERS D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,188,9,24,153,2
+Gwinnett,BERKSHIRE H,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,117,9,10,98,0
+Gwinnett,PINCKNEYVILLE O,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,109,4,4,101,0
+Gwinnett,PUCKETTS E,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,439,31,38,367,3
+Gwinnett,CATES I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,417,15,48,353,1
+Gwinnett,CATES J,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,330,8,23,297,2
+Gwinnett,GOODWINS B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,513,25,54,431,3
+Gwinnett,LAWRENCEVILLE F,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,183,7,34,142,0
+Gwinnett,MARTINS E,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,44,10,4,29,1
+Gwinnett,PINCKNEYVILLE P,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,274,17,6,251,0
+Gwinnett,PINCKNEYVILLE Q,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,38,0,1,36,1
+Gwinnett,ROCKBRIDGE C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,253,17,27,208,1
+Gwinnett,ROCKBRIDGE D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,240,13,35,191,1
+Gwinnett,GOODWINS C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,345,32,45,268,0
+Gwinnett,BAYCREEK K,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,403,33,96,273,1
+Gwinnett,CATES K,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,368,18,33,317,0
+Gwinnett,BAYCREEK C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,527,26,109,392,0
+Gwinnett,CATES L,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,374,18,55,301,0
+Gwinnett,DULUTH E,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,237,17,12,207,1
+Gwinnett,GOODWINS D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,408,14,48,346,0
+Gwinnett,LAWRENCEVILLE G,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,167,4,34,123,6
+Gwinnett,LAWRENCEVILLE H,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,450,23,84,343,0
+Gwinnett,MARTINS F,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,99,8,4,86,1
+Gwinnett,PINCKNEYVILLE S,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,231,31,13,187,0
+Gwinnett,ROCKBRIDGE E,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,211,6,15,190,0
+Gwinnett,SUGAR HILL E,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,292,21,11,256,4
+Gwinnett,LAWRENCEVILLE I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,230,18,51,161,0
+Gwinnett,BAYCREEK D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,507,24,87,396,0
+Gwinnett,BERKSHIRE J,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,486,14,33,438,1
+Gwinnett,CATES M,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,568,35,112,420,1
+Gwinnett,CATES N,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,485,25,112,348,0
+Gwinnett,DULUTH F,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,106,10,16,80,0
+Gwinnett,DULUTH G,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,396,17,20,356,3
+Gwinnett,GOODWINS E,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,465,29,51,385,0
+Gwinnett,GOODWINS F,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,258,20,28,210,0
+Gwinnett,PINCKNEYVILLE T,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,221,19,13,189,0
+Gwinnett,SUWANEE B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,427,14,21,391,1
+Gwinnett,PINCKNEYVILLE U,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,219,14,8,197,0
+Gwinnett,PUCKETTS B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,422,25,25,368,4
+Gwinnett,BERKSHIRE L,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,142,13,13,114,2
+Gwinnett,ROCKBRIDGE F,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,236,16,32,188,0
+Gwinnett,SUGAR HILL F,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,412,15,16,378,3
+Gwinnett,SUWANEE C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,483,25,33,421,4
+Gwinnett,CATES O,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,210,10,9,189,2
+Gwinnett,BAYCREEK E,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,299,14,46,239,0
+Gwinnett,BERKSHIRE M,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,277,10,20,246,1
+Gwinnett,MARTINS G,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,112,8,15,89,0
+Gwinnett,DULUTH H,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,256,32,11,212,1
+Gwinnett,BERKSHIRE N,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,553,30,45,478,0
+Gwinnett,PINCKNEYVILLE V,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,130,9,7,114,0
+Gwinnett,PINCKNEYVILLE W,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,336,25,16,293,2
+Gwinnett,MARTINS H,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,293,32,53,208,0
+Gwinnett,MARTINS I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,134,32,17,85,0
+Gwinnett,MARTINS J,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,101,7,12,82,0
+Gwinnett,GARNERS F,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,213,9,8,196,0
+Gwinnett,BERKSHIRE O,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,402,24,23,355,0
+Gwinnett,BERKSHIRE P,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,102,6,13,83,0
+Gwinnett,PINCKNEYVILLE X,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,383,22,19,342,0
+Gwinnett,ROCKBRIDGE G,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,235,17,34,182,2
+Gwinnett,PINCKNEYVILLE Y,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,76,6,3,67,0
+Gwinnett,GOODWINS G,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,149,7,11,131,0
+Gwinnett,PINCKNEYVILLE Z,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,381,9,8,364,0
+Gwinnett,PINCKNEYVILLE A1,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,443,26,7,410,0
+Gwinnett,LAWRENCEVILLE J,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,149,2,16,131,0
+Gwinnett,GOODWINS H,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,251,7,16,228,0
+Gwinnett,DUNCANS B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,647,36,36,575,0
+Gwinnett,SUWANEE D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,511,18,28,461,4
+Gwinnett,SUWANEE E,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,531,27,30,473,1
+Gwinnett,LAWRENCEVILLE K,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,328,13,55,259,1
+Gwinnett,HARBINS B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,519,14,46,458,1
+Gwinnett,BAYCREEK F,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,328,14,62,252,0
+Gwinnett,PUCKETTS C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,321,16,15,285,5
+Gwinnett,HOG MOUNTAIN C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,412,17,41,354,0
+Gwinnett,ROCKYCREEK B,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,469,31,43,394,1
+Gwinnett,DULUTH I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,475,48,31,394,2
+Gwinnett,MARTINS K,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,187,21,33,133,0
+Gwinnett,SUWANEE H,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,517,29,21,462,5
+Gwinnett,SUGAR HILL G,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,378,11,26,339,2
+Gwinnett,SUWANEE F,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,362,13,16,331,2
+Gwinnett,LAWRENCEVILLE L,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,401,24,81,296,0
+Gwinnett,LAWRENCEVILLE M,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,184,10,37,137,0
+Gwinnett,BAYCREEK G,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,374,21,61,290,2
+Gwinnett,BAYCREEK H,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,741,21,129,591,0
+Gwinnett,BAYCREEK I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,439,23,115,301,0
+Gwinnett,BERKSHIRE Q,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,247,14,26,205,2
+Gwinnett,GOODWINS I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,343,15,30,297,1
+Gwinnett,DULUTH K,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,52,9,3,40,0
+Gwinnett,HARBINS C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,347,15,22,309,1
+Gwinnett,ROCKYCREEK C,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,498,20,47,430,1
+Gwinnett,LAWRENCEVILLE N,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,204,14,36,154,0
+Gwinnett,PUCKETTS D,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,417,36,41,337,3
+Gwinnett,SUWANEE G,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,360,8,14,337,1
+Gwinnett,BAYCREEK J,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,332,22,38,272,0
+Gwinnett,HARBINS A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,511,15,105,387,4
+Gwinnett,ROCKBRIDGE A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,576,25,54,491,6
+Gwinnett,DACULA,"Public Service Commission, District 3",3,DEM,LINDY MILLER,400,17,56,324,3
+Gwinnett,SUWANEE A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,141,2,13,121,5
+Gwinnett,BAYCREEK A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,318,13,67,237,1
+Gwinnett,GOODWINS A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,391,14,46,329,2
+Gwinnett,DULUTH A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,602,20,68,506,8
+Gwinnett,DUNCANS A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,299,14,47,238,0
+Gwinnett,PUCKETTS A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,274,22,17,233,2
+Gwinnett,CATES A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,226,23,42,159,2
+Gwinnett,BERKSHIRE A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,243,12,11,217,3
+Gwinnett,BERKSHIRE B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,591,21,38,532,0
+Gwinnett,DUNCANS C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,186,9,12,164,1
+Gwinnett,GARNERS A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,404,15,32,356,1
+Gwinnett,LAWRENCEVILLE A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,246,20,68,156,2
+Gwinnett,LAWRENCEVILLE B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,556,15,119,422,0
+Gwinnett,MARTINS A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,263,10,32,221,0
+Gwinnett,MARTINS B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,277,10,33,234,0
+Gwinnett,MARTINS C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,260,9,14,237,0
+Gwinnett,PINCKNEYVILLE A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,255,10,20,224,1
+Gwinnett,PINCKNEYVILLE B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,278,19,21,234,4
+Gwinnett,PINCKNEYVILLE C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,274,21,7,246,0
+Gwinnett,PINCKNEYVILLE D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,165,7,16,142,0
+Gwinnett,SUGAR HILL A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,235,21,14,195,5
+Gwinnett,SUGAR HILL B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,322,9,21,290,2
+Gwinnett,HOG MOUNTAIN A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,409,8,37,361,3
+Gwinnett,HOG MOUNTAIN B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,409,21,71,317,0
+Gwinnett,ROCKYCREEK A,"Public Service Commission, District 3",3,DEM,LINDY MILLER,406,15,28,360,3
+Gwinnett,CATES B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,173,5,29,139,0
+Gwinnett,CATES C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,333,13,39,276,5
+Gwinnett,HOG MOUNTAIN D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,222,21,35,166,0
+Gwinnett,BERKSHIRE D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,337,16,22,299,0
+Gwinnett,BERKSHIRE E,"Public Service Commission, District 3",3,DEM,LINDY MILLER,230,11,14,204,1
+Gwinnett,BERKSHIRE F,"Public Service Commission, District 3",3,DEM,LINDY MILLER,188,11,25,152,0
+Gwinnett,CATES D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,292,6,40,245,1
+Gwinnett,035 Cates D - 04,"Public Service Commission, District 3",3,DEM,LINDY MILLER,67,3,10,53,1
+Gwinnett,CATES E,"Public Service Commission, District 3",3,DEM,LINDY MILLER,370,10,49,311,0
+Gwinnett,PINCKNEYVILLE E,"Public Service Commission, District 3",3,DEM,LINDY MILLER,190,4,9,176,1
+Gwinnett,PINCKNEYVILLE F,"Public Service Commission, District 3",3,DEM,LINDY MILLER,194,8,1,182,3
+Gwinnett,DUNCANS D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,349,14,24,308,3
+Gwinnett,PINCKNEYVILLE H,"Public Service Commission, District 3",3,DEM,LINDY MILLER,581,23,40,512,6
+Gwinnett,BAYCREEK B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,726,32,95,592,7
+Gwinnett,LAWRENCEVILLE C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,192,9,48,133,2
+Gwinnett,MARTINS D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,188,6,17,164,1
+Gwinnett,ROCKBRIDGE B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,455,7,60,382,6
+Gwinnett,GARNERS B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,514,16,55,441,2
+Gwinnett,CATES F,"Public Service Commission, District 3",3,DEM,LINDY MILLER,157,10,27,120,0
+Gwinnett,CATES G,"Public Service Commission, District 3",3,DEM,LINDY MILLER,308,8,39,261,0
+Gwinnett,DULUTH B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,302,16,23,261,2
+Gwinnett,GARNERS C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,208,6,9,193,0
+Gwinnett,PINCKNEYVILLE I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,212,10,10,189,3
+Gwinnett,PINCKNEYVILLE J,"Public Service Commission, District 3",3,DEM,LINDY MILLER,195,12,7,175,1
+Gwinnett,BERKSHIRE G,"Public Service Commission, District 3",3,DEM,LINDY MILLER,317,7,17,293,0
+Gwinnett,CATES H,"Public Service Commission, District 3",3,DEM,LINDY MILLER,392,18,63,306,5
+Gwinnett,SUGAR HILL C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,289,9,13,267,0
+Gwinnett,SUGAR HILL D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,251,13,6,230,2
+Gwinnett,DULUTH C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,277,9,19,249,0
+Gwinnett,DULUTH D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,428,20,40,365,3
+Gwinnett,PINCKNEYVILLE K,"Public Service Commission, District 3",3,DEM,LINDY MILLER,317,13,19,283,2
+Gwinnett,PINCKNEYVILLE N,"Public Service Commission, District 3",3,DEM,LINDY MILLER,333,7,12,311,3
+Gwinnett,LAWRENCEVILLE D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,338,15,64,258,1
+Gwinnett,LAWRENCEVILLE E,"Public Service Commission, District 3",3,DEM,LINDY MILLER,195,16,55,124,0
+Gwinnett,PINCKNEYVILLE L,"Public Service Commission, District 3",3,DEM,LINDY MILLER,306,10,12,283,1
+Gwinnett,PINCKNEYVILLE M,"Public Service Commission, District 3",3,DEM,LINDY MILLER,287,13,16,258,0
+Gwinnett,GARNERS D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,543,20,41,480,2
+Gwinnett,BERKSHIRE H,"Public Service Commission, District 3",3,DEM,LINDY MILLER,173,4,17,152,0
+Gwinnett,PINCKNEYVILLE O,"Public Service Commission, District 3",3,DEM,LINDY MILLER,315,10,19,286,0
+Gwinnett,PUCKETTS E,"Public Service Commission, District 3",3,DEM,LINDY MILLER,344,16,25,295,8
+Gwinnett,CATES I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,395,7,49,337,2
+Gwinnett,CATES J,"Public Service Commission, District 3",3,DEM,LINDY MILLER,434,7,39,388,0
+Gwinnett,GOODWINS B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,385,21,49,314,1
+Gwinnett,LAWRENCEVILLE F,"Public Service Commission, District 3",3,DEM,LINDY MILLER,428,16,112,299,1
+Gwinnett,MARTINS E,"Public Service Commission, District 3",3,DEM,LINDY MILLER,398,21,50,319,8
+Gwinnett,PINCKNEYVILLE P,"Public Service Commission, District 3",3,DEM,LINDY MILLER,274,25,8,240,1
+Gwinnett,PINCKNEYVILLE Q,"Public Service Commission, District 3",3,DEM,LINDY MILLER,209,5,15,188,1
+Gwinnett,ROCKBRIDGE C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,908,33,79,785,11
+Gwinnett,ROCKBRIDGE D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,514,15,52,438,9
+Gwinnett,GOODWINS C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,480,25,57,393,5
+Gwinnett,BAYCREEK K,"Public Service Commission, District 3",3,DEM,LINDY MILLER,399,14,98,287,0
+Gwinnett,CATES K,"Public Service Commission, District 3",3,DEM,LINDY MILLER,268,9,38,220,1
+Gwinnett,BAYCREEK C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,749,15,151,583,0
+Gwinnett,CATES L,"Public Service Commission, District 3",3,DEM,LINDY MILLER,433,12,64,357,0
+Gwinnett,DULUTH E,"Public Service Commission, District 3",3,DEM,LINDY MILLER,489,18,28,441,2
+Gwinnett,GOODWINS D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,393,10,41,340,2
+Gwinnett,LAWRENCEVILLE G,"Public Service Commission, District 3",3,DEM,LINDY MILLER,306,6,34,265,1
+Gwinnett,LAWRENCEVILLE H,"Public Service Commission, District 3",3,DEM,LINDY MILLER,373,14,67,289,3
+Gwinnett,MARTINS F,"Public Service Commission, District 3",3,DEM,LINDY MILLER,187,14,22,147,4
+Gwinnett,PINCKNEYVILLE S,"Public Service Commission, District 3",3,DEM,LINDY MILLER,287,19,20,248,0
+Gwinnett,ROCKBRIDGE E,"Public Service Commission, District 3",3,DEM,LINDY MILLER,593,13,51,523,6
+Gwinnett,SUGAR HILL E,"Public Service Commission, District 3",3,DEM,LINDY MILLER,241,12,20,208,1
+Gwinnett,LAWRENCEVILLE I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,313,19,39,255,0
+Gwinnett,BAYCREEK D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,458,19,97,342,0
+Gwinnett,BERKSHIRE J,"Public Service Commission, District 3",3,DEM,LINDY MILLER,380,10,31,339,0
+Gwinnett,CATES M,"Public Service Commission, District 3",3,DEM,LINDY MILLER,391,17,75,299,0
+Gwinnett,CATES N,"Public Service Commission, District 3",3,DEM,LINDY MILLER,225,7,51,167,0
+Gwinnett,DULUTH F,"Public Service Commission, District 3",3,DEM,LINDY MILLER,400,20,49,329,2
+Gwinnett,DULUTH G,"Public Service Commission, District 3",3,DEM,LINDY MILLER,277,11,24,241,1
+Gwinnett,GOODWINS E,"Public Service Commission, District 3",3,DEM,LINDY MILLER,490,29,62,396,3
+Gwinnett,GOODWINS F,"Public Service Commission, District 3",3,DEM,LINDY MILLER,289,8,42,237,2
+Gwinnett,PINCKNEYVILLE T,"Public Service Commission, District 3",3,DEM,LINDY MILLER,284,17,18,248,1
+Gwinnett,SUWANEE B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,349,13,16,318,2
+Gwinnett,PINCKNEYVILLE U,"Public Service Commission, District 3",3,DEM,LINDY MILLER,270,9,12,247,2
+Gwinnett,PUCKETTS B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,194,8,19,165,2
+Gwinnett,BERKSHIRE L,"Public Service Commission, District 3",3,DEM,LINDY MILLER,283,10,31,241,1
+Gwinnett,ROCKBRIDGE F,"Public Service Commission, District 3",3,DEM,LINDY MILLER,859,14,81,762,2
+Gwinnett,SUGAR HILL F,"Public Service Commission, District 3",3,DEM,LINDY MILLER,252,13,11,224,4
+Gwinnett,SUWANEE C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,353,16,41,293,3
+Gwinnett,CATES O,"Public Service Commission, District 3",3,DEM,LINDY MILLER,166,9,17,139,1
+Gwinnett,BAYCREEK E,"Public Service Commission, District 3",3,DEM,LINDY MILLER,295,28,31,233,3
+Gwinnett,BERKSHIRE M,"Public Service Commission, District 3",3,DEM,LINDY MILLER,206,6,14,186,0
+Gwinnett,MARTINS G,"Public Service Commission, District 3",3,DEM,LINDY MILLER,224,4,40,179,1
+Gwinnett,DULUTH H,"Public Service Commission, District 3",3,DEM,LINDY MILLER,248,16,19,211,2
+Gwinnett,BERKSHIRE N,"Public Service Commission, District 3",3,DEM,LINDY MILLER,431,16,32,382,1
+Gwinnett,PINCKNEYVILLE V,"Public Service Commission, District 3",3,DEM,LINDY MILLER,161,5,9,147,0
+Gwinnett,PINCKNEYVILLE W,"Public Service Commission, District 3",3,DEM,LINDY MILLER,366,11,18,332,5
+Gwinnett,MARTINS H,"Public Service Commission, District 3",3,DEM,LINDY MILLER,453,29,59,363,2
+Gwinnett,MARTINS I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,341,25,41,274,1
+Gwinnett,MARTINS J,"Public Service Commission, District 3",3,DEM,LINDY MILLER,321,13,31,273,4
+Gwinnett,GARNERS F,"Public Service Commission, District 3",3,DEM,LINDY MILLER,194,8,9,177,0
+Gwinnett,BERKSHIRE O,"Public Service Commission, District 3",3,DEM,LINDY MILLER,291,16,24,251,0
+Gwinnett,BERKSHIRE P,"Public Service Commission, District 3",3,DEM,LINDY MILLER,123,9,16,98,0
+Gwinnett,PINCKNEYVILLE X,"Public Service Commission, District 3",3,DEM,LINDY MILLER,420,20,34,365,1
+Gwinnett,ROCKBRIDGE G,"Public Service Commission, District 3",3,DEM,LINDY MILLER,818,24,106,670,18
+Gwinnett,PINCKNEYVILLE Y,"Public Service Commission, District 3",3,DEM,LINDY MILLER,245,8,15,221,1
+Gwinnett,GOODWINS G,"Public Service Commission, District 3",3,DEM,LINDY MILLER,253,5,28,218,2
+Gwinnett,PINCKNEYVILLE Z,"Public Service Commission, District 3",3,DEM,LINDY MILLER,241,17,15,209,0
+Gwinnett,PINCKNEYVILLE A1,"Public Service Commission, District 3",3,DEM,LINDY MILLER,356,16,12,328,0
+Gwinnett,LAWRENCEVILLE J,"Public Service Commission, District 3",3,DEM,LINDY MILLER,215,7,32,176,0
+Gwinnett,GOODWINS H,"Public Service Commission, District 3",3,DEM,LINDY MILLER,242,10,17,215,0
+Gwinnett,DUNCANS B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,244,12,22,209,1
+Gwinnett,SUWANEE D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,305,14,11,277,3
+Gwinnett,SUWANEE E,"Public Service Commission, District 3",3,DEM,LINDY MILLER,347,7,25,309,6
+Gwinnett,LAWRENCEVILLE K,"Public Service Commission, District 3",3,DEM,LINDY MILLER,292,10,39,242,1
+Gwinnett,HARBINS B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,305,11,43,250,1
+Gwinnett,BAYCREEK F,"Public Service Commission, District 3",3,DEM,LINDY MILLER,557,18,105,432,2
+Gwinnett,PUCKETTS C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,177,5,16,153,3
+Gwinnett,HOG MOUNTAIN C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,264,16,28,217,3
+Gwinnett,ROCKYCREEK B,"Public Service Commission, District 3",3,DEM,LINDY MILLER,325,15,33,275,2
+Gwinnett,DULUTH I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,357,29,42,281,5
+Gwinnett,MARTINS K,"Public Service Commission, District 3",3,DEM,LINDY MILLER,513,17,75,416,5
+Gwinnett,SUWANEE H,"Public Service Commission, District 3",3,DEM,LINDY MILLER,242,5,11,225,1
+Gwinnett,SUGAR HILL G,"Public Service Commission, District 3",3,DEM,LINDY MILLER,237,19,24,194,0
+Gwinnett,SUWANEE F,"Public Service Commission, District 3",3,DEM,LINDY MILLER,345,11,15,319,0
+Gwinnett,LAWRENCEVILLE L,"Public Service Commission, District 3",3,DEM,LINDY MILLER,522,16,84,421,1
+Gwinnett,LAWRENCEVILLE M,"Public Service Commission, District 3",3,DEM,LINDY MILLER,602,20,134,448,0
+Gwinnett,BAYCREEK G,"Public Service Commission, District 3",3,DEM,LINDY MILLER,585,10,119,455,1
+Gwinnett,BAYCREEK H,"Public Service Commission, District 3",3,DEM,LINDY MILLER,551,27,87,436,1
+Gwinnett,BAYCREEK I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,551,26,137,385,3
+Gwinnett,BERKSHIRE Q,"Public Service Commission, District 3",3,DEM,LINDY MILLER,203,7,9,187,0
+Gwinnett,GOODWINS I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,290,4,27,258,1
+Gwinnett,DULUTH K,"Public Service Commission, District 3",3,DEM,LINDY MILLER,185,5,9,171,0
+Gwinnett,HARBINS C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,154,4,20,128,2
+Gwinnett,ROCKYCREEK C,"Public Service Commission, District 3",3,DEM,LINDY MILLER,398,11,51,336,0
+Gwinnett,LAWRENCEVILLE N,"Public Service Commission, District 3",3,DEM,LINDY MILLER,204,6,42,155,1
+Gwinnett,PUCKETTS D,"Public Service Commission, District 3",3,DEM,LINDY MILLER,176,17,24,132,3
+Gwinnett,SUWANEE G,"Public Service Commission, District 3",3,DEM,LINDY MILLER,374,12,17,345,0
+Gwinnett,BAYCREEK J,"Public Service Commission, District 3",3,DEM,LINDY MILLER,555,16,81,450,8
