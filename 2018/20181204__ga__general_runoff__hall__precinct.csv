@@ -1,0 +1,125 @@
+county,precinct,office,district,party,candidate,votes,absentee_by_mail,advance_in_person,election_day,provisional
+Hall,01-Wilson,Secretary Of State,,REP,BRAD RAFFENSPERGER,1094,67,488,539,0
+Hall,02-Chicopee,Secretary Of State,,REP,BRAD RAFFENSPERGER,238,11,87,140,0
+Hall,03-Oakwood I,Secretary Of State,,REP,BRAD RAFFENSPERGER,252,13,36,203,0
+Hall,04-Oakwood II,Secretary Of State,,REP,BRAD RAFFENSPERGER,738,22,153,563,0
+Hall,05-Flowery Branch I,Secretary Of State,,REP,BRAD RAFFENSPERGER,709,31,157,521,0
+Hall,06-Flowery Branch II,Secretary Of State,,REP,BRAD RAFFENSPERGER,509,18,74,414,3
+Hall,07-Roberts,Secretary Of State,,REP,BRAD RAFFENSPERGER,947,51,150,746,0
+Hall,08-Morgan I,Secretary Of State,,REP,BRAD RAFFENSPERGER,675,24,111,540,0
+Hall,09-Morgan II,Secretary Of State,,REP,BRAD RAFFENSPERGER,759,40,193,526,0
+Hall,10-Candler,Secretary Of State,,REP,BRAD RAFFENSPERGER,815,39,175,601,0
+Hall,11-Tadmore,Secretary Of State,,REP,BRAD RAFFENSPERGER,365,15,63,287,0
+Hall,12-Glade,Secretary Of State,,REP,BRAD RAFFENSPERGER,466,26,98,341,1
+Hall,13-Lula,Secretary Of State,,REP,BRAD RAFFENSPERGER,531,21,50,459,1
+Hall,14-Clermont,Secretary Of State,,REP,BRAD RAFFENSPERGER,701,23,71,605,2
+Hall,15-Quillians,Secretary Of State,,REP,BRAD RAFFENSPERGER,627,27,86,513,1
+Hall,16-Bark Camp,Secretary Of State,,REP,BRAD RAFFENSPERGER,920,42,204,674,0
+Hall,17-Chestatee,Secretary Of State,,REP,BRAD RAFFENSPERGER,609,24,120,465,0
+Hall,18-Fork,Secretary Of State,,REP,BRAD RAFFENSPERGER,712,18,192,502,0
+Hall,19-Whelchel,Secretary Of State,,REP,BRAD RAFFENSPERGER,781,36,159,586,0
+Hall,20-West Whelchel,Secretary Of State,,REP,BRAD RAFFENSPERGER,983,86,181,716,0
+Hall,21-Gainesville I,Secretary Of State,,REP,BRAD RAFFENSPERGER,460,43,105,312,0
+Hall,22-Gainesville II,Secretary Of State,,REP,BRAD RAFFENSPERGER,21,5,4,12,0
+Hall,23-Gainesville III,Secretary Of State,,REP,BRAD RAFFENSPERGER,248,21,58,168,1
+Hall,24-Gainesville IV,Secretary Of State,,REP,BRAD RAFFENSPERGER,268,18,88,162,0
+Hall,25-Gainesville V,Secretary Of State,,REP,BRAD RAFFENSPERGER,186,15,32,139,0
+Hall,26-Gillsville,Secretary Of State,,REP,BRAD RAFFENSPERGER,204,10,13,181,0
+Hall,27-Big Hickory,Secretary Of State,,REP,BRAD RAFFENSPERGER,883,30,144,709,0
+Hall,28-Friendship I,Secretary Of State,,REP,BRAD RAFFENSPERGER,1515,155,334,1026,0
+Hall,29-Friendship II,Secretary Of State,,REP,BRAD RAFFENSPERGER,511,19,63,427,2
+Hall,30-Friendship III,Secretary Of State,,REP,BRAD RAFFENSPERGER,583,25,134,423,1
+Hall,31-Friendship IV,Secretary Of State,,REP,BRAD RAFFENSPERGER,487,21,56,410,0
+Hall,01-Wilson,Secretary Of State,,DEM,JOHN BARROW,349,22,152,175,0
+Hall,02-Chicopee,Secretary Of State,,DEM,JOHN BARROW,130,10,27,93,0
+Hall,03-Oakwood I,Secretary Of State,,DEM,JOHN BARROW,102,3,12,87,0
+Hall,04-Oakwood II,Secretary Of State,,DEM,JOHN BARROW,166,4,43,119,0
+Hall,05-Flowery Branch I,Secretary Of State,,DEM,JOHN BARROW,167,8,36,123,0
+Hall,06-Flowery Branch II,Secretary Of State,,DEM,JOHN BARROW,162,5,29,128,0
+Hall,07-Roberts,Secretary Of State,,DEM,JOHN BARROW,239,28,36,175,0
+Hall,08-Morgan I,Secretary Of State,,DEM,JOHN BARROW,118,17,9,92,0
+Hall,09-Morgan II,Secretary Of State,,DEM,JOHN BARROW,182,19,26,137,0
+Hall,10-Candler,Secretary Of State,,DEM,JOHN BARROW,173,11,29,133,0
+Hall,11-Tadmore,Secretary Of State,,DEM,JOHN BARROW,224,20,28,176,0
+Hall,12-Glade,Secretary Of State,,DEM,JOHN BARROW,94,17,24,53,0
+Hall,13-Lula,Secretary Of State,,DEM,JOHN BARROW,61,5,7,49,0
+Hall,14-Clermont,Secretary Of State,,DEM,JOHN BARROW,79,5,6,68,0
+Hall,15-Quillians,Secretary Of State,,DEM,JOHN BARROW,61,4,9,48,0
+Hall,16-Bark Camp,Secretary Of State,,DEM,JOHN BARROW,174,16,26,132,0
+Hall,17-Chestatee,Secretary Of State,,DEM,JOHN BARROW,134,9,31,94,0
+Hall,18-Fork,Secretary Of State,,DEM,JOHN BARROW,154,3,24,127,0
+Hall,19-Whelchel,Secretary Of State,,DEM,JOHN BARROW,197,12,35,150,0
+Hall,20-West Whelchel,Secretary Of State,,DEM,JOHN BARROW,267,15,50,202,0
+Hall,21-Gainesville I,Secretary Of State,,DEM,JOHN BARROW,233,19,42,172,0
+Hall,22-Gainesville II,Secretary Of State,,DEM,JOHN BARROW,393,64,67,262,0
+Hall,23-Gainesville III,Secretary Of State,,DEM,JOHN BARROW,146,7,26,113,0
+Hall,24-Gainesville IV,Secretary Of State,,DEM,JOHN BARROW,161,10,34,117,0
+Hall,25-Gainesville V,Secretary Of State,,DEM,JOHN BARROW,76,2,16,58,0
+Hall,26-Gillsville,Secretary Of State,,DEM,JOHN BARROW,28,1,2,25,0
+Hall,27-Big Hickory,Secretary Of State,,DEM,JOHN BARROW,107,1,18,88,0
+Hall,28-Friendship I,Secretary Of State,,DEM,JOHN BARROW,455,63,102,288,2
+Hall,29-Friendship II,Secretary Of State,,DEM,JOHN BARROW,125,4,15,106,0
+Hall,30-Friendship III,Secretary Of State,,DEM,JOHN BARROW,151,8,32,111,0
+Hall,31-Friendship IV,Secretary Of State,,DEM,JOHN BARROW,167,3,10,154,0
+Hall,01-Wilson,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1070,65,477,528,0
+Hall,02-Chicopee,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,228,11,85,132,0
+Hall,03-Oakwood I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,247,12,35,200,0
+Hall,04-Oakwood II,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,728,22,153,553,0
+Hall,05-Flowery Branch I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,683,31,149,503,0
+Hall,06-Flowery Branch II,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,502,18,74,407,3
+Hall,07-Roberts,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,911,50,144,717,0
+Hall,08-Morgan I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,657,23,110,524,0
+Hall,09-Morgan II,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,744,41,189,514,0
+Hall,10-Candler,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,791,36,170,585,0
+Hall,11-Tadmore,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,348,15,64,269,0
+Hall,12-Glade,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,453,29,91,332,1
+Hall,13-Lula,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,523,20,50,452,1
+Hall,14-Clermont,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,679,25,69,583,2
+Hall,15-Quillians,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,606,27,82,496,1
+Hall,16-Bark Camp,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,892,40,196,656,0
+Hall,17-Chestatee,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,602,24,118,460,0
+Hall,18-Fork,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,696,16,192,488,0
+Hall,19-Whelchel,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,770,37,156,577,0
+Hall,20-West Whelchel,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,963,81,180,702,0
+Hall,21-Gainesville I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,453,42,99,312,0
+Hall,22-Gainesville II,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,21,5,4,12,0
+Hall,23-Gainesville III,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,240,21,57,161,1
+Hall,24-Gainesville IV,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,263,20,82,161,0
+Hall,25-Gainesville V,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,184,15,33,136,0
+Hall,26-Gillsville,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,194,8,13,173,0
+Hall,27-Big Hickory,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,857,26,143,688,0
+Hall,28-Friendship I,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,1469,148,327,994,0
+Hall,29-Friendship II,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,500,18,61,419,2
+Hall,30-Friendship III,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,575,24,134,416,1
+Hall,31-Friendship IV,"Public Service Commission, District 3",3,(REP,CHUCK EATON ,473,20,56,397,0
+Hall,01-Wilson,"Public Service Commission, District 3",3,DEM,LINDY MILLER,370,25,161,184,0
+Hall,02-Chicopee,"Public Service Commission, District 3",3,DEM,LINDY MILLER,139,10,30,99,0
+Hall,03-Oakwood I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,107,3,13,91,0
+Hall,04-Oakwood II,"Public Service Commission, District 3",3,DEM,LINDY MILLER,173,4,44,125,0
+Hall,05-Flowery Branch I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,192,8,43,141,0
+Hall,06-Flowery Branch II,"Public Service Commission, District 3",3,DEM,LINDY MILLER,164,5,28,131,0
+Hall,07-Roberts,"Public Service Commission, District 3",3,DEM,LINDY MILLER,271,29,42,200,0
+Hall,08-Morgan I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,133,18,10,105,0
+Hall,09-Morgan II,"Public Service Commission, District 3",3,DEM,LINDY MILLER,195,18,30,147,0
+Hall,10-Candler,"Public Service Commission, District 3",3,DEM,LINDY MILLER,188,14,33,141,0
+Hall,11-Tadmore,"Public Service Commission, District 3",3,DEM,LINDY MILLER,240,22,27,191,0
+Hall,12-Glade,"Public Service Commission, District 3",3,DEM,LINDY MILLER,103,14,31,58,0
+Hall,13-Lula,"Public Service Commission, District 3",3,DEM,LINDY MILLER,69,6,8,55,0
+Hall,14-Clermont,"Public Service Commission, District 3",3,DEM,LINDY MILLER,100,3,8,89,0
+Hall,15-Quillians,"Public Service Commission, District 3",3,DEM,LINDY MILLER,80,4,13,63,0
+Hall,16-Bark Camp,"Public Service Commission, District 3",3,DEM,LINDY MILLER,193,18,33,142,0
+Hall,17-Chestatee,"Public Service Commission, District 3",3,DEM,LINDY MILLER,136,9,30,97,0
+Hall,18-Fork,"Public Service Commission, District 3",3,DEM,LINDY MILLER,164,4,23,137,0
+Hall,19-Whelchel,"Public Service Commission, District 3",3,DEM,LINDY MILLER,210,11,38,161,0
+Hall,20-West Whelchel,"Public Service Commission, District 3",3,DEM,LINDY MILLER,285,19,52,214,0
+Hall,21-Gainesville I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,240,20,48,172,0
+Hall,22-Gainesville II,"Public Service Commission, District 3",3,DEM,LINDY MILLER,386,64,65,257,0
+Hall,23-Gainesville III,"Public Service Commission, District 3",3,DEM,LINDY MILLER,152,7,27,118,0
+Hall,24-Gainesville IV,"Public Service Commission, District 3",3,DEM,LINDY MILLER,162,8,36,118,0
+Hall,25-Gainesville V,"Public Service Commission, District 3",3,DEM,LINDY MILLER,77,2,15,60,0
+Hall,26-Gillsville,"Public Service Commission, District 3",3,DEM,LINDY MILLER,38,3,2,33,0
+Hall,27-Big Hickory,"Public Service Commission, District 3",3,DEM,LINDY MILLER,130,5,19,106,0
+Hall,28-Friendship I,"Public Service Commission, District 3",3,DEM,LINDY MILLER,490,67,107,314,2
+Hall,29-Friendship II,"Public Service Commission, District 3",3,DEM,LINDY MILLER,135,5,17,113,0
+Hall,30-Friendship III,"Public Service Commission, District 3",3,DEM,LINDY MILLER,158,9,32,117,0
+Hall,31-Friendship IV,"Public Service Commission, District 3",3,DEM,LINDY MILLER,180,4,10,166,0
