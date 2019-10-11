@@ -68,5 +68,55 @@ where office = 'US Senate'
 order by district, candidate, county;
 
 ----------------------------------------------
---
+-- Governor
+----------------------------------------------
+select *
+from ga_general_nov2010
+where office = 'Governor';
+
+update ga_general_nov2010
+    set candidate = 'Nathan Deal',
+        party = 'Republican'
+where office = 'Governor'
+    and candidate = 'Deal';
+
+update ga_general_nov2010
+    set candidate = 'Roy E. Barnes',
+        party = 'Democrat'
+where office = 'Governor'
+    and candidate = 'Barnes';
+
+update ga_general_nov2010
+    set candidate = 'John H. Monds',
+        party = 'Libertarian'
+where office = 'Governor'
+    and candidate = 'Monds';
+
+update ga_general_nov2010
+    set candidate = 'David C. Byrne',
+        party = 'Write-In'
+where office = 'Governor'
+    and candidate = 'Byrne';
+
+update ga_general_nov2010
+    set candidate = 'Neal Horsley',
+        party = 'Write-In'
+where office = 'Governor'
+    and candidate = 'Horsley';
+
+-- Check the vote numbers...
+select candidate, party, sum(votes) as votes
+from ga_general_nov2010
+where office = 'Governor'
+group by candidate, party
+order by votes desc;
+
+-- Final Output...
+select county, office, district, party, candidate, votes
+from ga_general_nov2010
+where office = 'Governor'
+order by district, candidate, county;
+
+----------------------------------------------
+-- Lieutenant Governor
 ----------------------------------------------
