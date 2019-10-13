@@ -120,3 +120,62 @@ order by district, candidate, county;
 ----------------------------------------------
 -- Lieutenant Governor
 ----------------------------------------------
+select *
+from ga_general_nov2010
+where office = 'Lieutenant Governor';
+
+update ga_general_nov2010
+    set candidate = 'L.S. Casey Cagle',
+        party = 'Republican'
+where office = 'Lieutenant Governor'
+    and candidate = 'Cagle';
+
+update ga_general_nov2010
+    set candidate = 'Carol Porter',
+        party = 'Democrat'
+where office = 'Lieutenant Governor'
+    and candidate = 'Porter';
+
+update ga_general_nov2010
+    set candidate = 'Dan Barber',
+        party = 'Libertarian'
+where office = 'Lieutenant Governor'
+    and candidate = 'Barber';
+
+-- Check the vote numbers...
+select candidate, party, sum(votes) as votes
+from ga_general_nov2010
+where office = 'Lieutenant Governor'
+group by candidate, party
+order by votes desc;
+
+-- Final Output...
+select county, office, district, party, candidate, votes
+from ga_general_nov2010
+where office = 'Lieutenant Governor'
+order by district, candidate, county;
+
+----------------------------------------------
+-- Secretary of State
+----------------------------------------------
+select *
+from ga_general_nov2010
+where office = 'Secretary of State';
+
+update ga_general_nov2010
+    set candidate = 'Brian Kemp',
+        party = 'Republican'
+where office = 'Secretary of State'
+    and candidate = 'Kemp';
+
+update ga_general_nov2010
+    set candidate = 'Georganna Sinkfield',
+        party = 'Democrat'
+where office = 'Secretary of State'
+    and candidate = 'Sinkfield';
+
+update ga_general_nov2010
+    set candidate = 'David Chastain',
+        party = 'Libertarian'
+where office = 'Secretary of State'
+    and candidate = 'Chastain';
