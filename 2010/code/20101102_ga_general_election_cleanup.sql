@@ -179,3 +179,23 @@ update ga_general_nov2010
         party = 'Libertarian'
 where office = 'Secretary of State'
     and candidate = 'Chastain';
+
+-- Check the vote numbers...
+select candidate, party, sum(votes) as votes
+from ga_general_nov2010
+where office = 'Secretary of State'
+group by candidate, party
+order by votes desc;
+
+-- Final Output...
+select county, office, district, party, candidate, votes
+from ga_general_nov2010
+where office = 'Secretary of State'
+order by district, candidate, county;
+
+----------------------------------------------
+-- Attorney General
+----------------------------------------------
+select *
+from ga_general_nov2010
+where office = 'Attorney General';
