@@ -199,3 +199,41 @@ order by district, candidate, county;
 select *
 from ga_general_nov2010
 where office = 'Attorney General';
+
+update ga_general_nov2010
+    set candidate = 'Sam Olens',
+        party = 'Republican'
+where office = 'Attorney General'
+    and candidate = 'Olens';
+
+update ga_general_nov2010
+    set candidate = 'Ken Hodges',
+        party = 'Democrat'
+where office = 'Attorney General'
+    and candidate = 'Hodges';
+
+update ga_general_nov2010
+    set candidate = 'Don Smart',
+        party = 'Libertarian'
+where office = 'Attorney General'
+    and candidate = 'Smart';
+
+-- Check the vote numbers...
+select candidate, party, sum(votes) as votes
+from ga_general_nov2010
+where office = 'Attorney General'
+group by candidate, party
+order by votes desc;
+
+-- Final Output...
+select county, office, district, party, candidate, votes
+from ga_general_nov2010
+where office = 'Attorney General'
+order by district, candidate, county;
+
+----------------------------------------------
+-- State School Superintendent
+----------------------------------------------
+select *
+from ga_general_nov2010
+where office = 'State School Superintendent';
