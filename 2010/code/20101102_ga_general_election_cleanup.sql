@@ -237,3 +237,47 @@ order by district, candidate, county;
 select *
 from ga_general_nov2010
 where office = 'State School Superintendent';
+
+update ga_general_nov2010
+    set candidate = 'John D. Barge',
+        party = 'Republican'
+where office = 'State School Superintendent'
+    and candidate = 'Barge';
+
+update ga_general_nov2010
+    set candidate = 'Joe Martin',
+        party = 'Democrat'
+where office = 'State School Superintendent'
+    and candidate = 'Martin';
+
+update ga_general_nov2010
+    set candidate = 'Kira Griffiths Willis',
+        party = 'Libertarian'
+where office = 'State School Superintendent'
+    and candidate = 'Willis';
+
+update ga_general_nov2010
+    set candidate = 'Howard Miller',
+        party = 'Write-In'
+where office = 'State School Superintendent'
+    and candidate = 'Miller';
+
+-- Check the vote numbers...
+select candidate, party, sum(votes) as votes
+from ga_general_nov2010
+where office = 'State School Superintendent'
+group by candidate, party
+order by votes desc;
+
+-- Final Output...
+select county, office, district, party, candidate, votes
+from ga_general_nov2010
+where office = 'State School Superintendent'
+order by district, candidate, county;
+
+----------------------------------------------
+-- State School Superintendent
+----------------------------------------------
+select *
+from ga_general_nov2010
+where office = 'Commissioner Of Insurance';
