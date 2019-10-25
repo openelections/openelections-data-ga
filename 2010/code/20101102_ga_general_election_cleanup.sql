@@ -276,8 +276,47 @@ where office = 'State School Superintendent'
 order by district, candidate, county;
 
 ----------------------------------------------
--- State School Superintendent
+-- Commissioner Of Insurance
 ----------------------------------------------
 select *
 from ga_general_nov2010
 where office = 'Commissioner Of Insurance';
+
+update ga_general_nov2010
+    set candidate = 'Ralph T. Hudgens',
+        party = 'Republican'
+where office = 'Commissioner Of Insurance'
+    and candidate = 'Hudgens';
+
+update ga_general_nov2010
+    set candidate = 'Mary Squires',
+        party = 'Democrat'
+where office = 'Commissioner Of Insurance'
+    and candidate = 'Squires';
+
+update ga_general_nov2010
+    set candidate = 'Shane Bruce',
+        party = 'Libertarian'
+where office = 'Commissioner Of Insurance'
+    and candidate = 'Bruce';
+
+-- Check the vote numbers...
+select candidate, party, sum(votes) as votes
+from ga_general_nov2010
+where office = 'Commissioner Of Insurance'
+group by candidate, party
+order by votes desc;
+
+-- Final Output...
+select county, office, district, party, candidate, votes
+from ga_general_nov2010
+where office = 'Commissioner Of Insurance'
+order by district, candidate, county;
+
+----------------------------------------------
+-- Commissioner Of Agriculture
+----------------------------------------------
+select *
+from ga_general_nov2010
+where office = 'Commissioner Of Agriculture';
+
