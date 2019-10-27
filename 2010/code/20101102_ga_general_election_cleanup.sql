@@ -320,3 +320,40 @@ select *
 from ga_general_nov2010
 where office = 'Commissioner Of Agriculture';
 
+update ga_general_nov2010
+    set candidate = 'Gary Black',
+        party = 'Republican'
+where office = 'Commissioner Of Agriculture'
+    and candidate = 'Black';
+
+update ga_general_nov2010
+    set candidate = 'J. B. Powell',
+        party = 'Democrat'
+where office = 'Commissioner Of Agriculture'
+    and candidate = 'Powell';
+
+update ga_general_nov2010
+    set candidate = 'Kevin Cherry',
+        party = 'Libertarian'
+where office = 'Commissioner Of Agriculture'
+    and candidate = 'Cherry';
+
+-- Check the vote numbers...
+select candidate, party, sum(votes) as votes
+from ga_general_nov2010
+where office = 'Commissioner Of Agriculture'
+group by candidate, party
+order by votes desc;
+
+-- Final Output...
+select county, office, district, party, candidate, votes
+from ga_general_nov2010
+where office = 'Commissioner Of Agriculture'
+order by district, candidate, county;
+
+----------------------------------------------
+-- Commissioner Of Labor
+----------------------------------------------
+select *
+from ga_general_nov2010
+where office = 'Commissioner Of Labor';
