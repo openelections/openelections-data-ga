@@ -357,3 +357,34 @@ order by district, candidate, county;
 select *
 from ga_general_nov2010
 where office = 'Commissioner Of Labor';
+
+update ga_general_nov2010
+    set candidate = 'Mark Butler',
+        party = 'Republican'
+where office = 'Commissioner Of Labor'
+    and candidate = 'Butler';
+
+update ga_general_nov2010
+    set candidate = 'Darryl Hicks',
+        party = 'Democrat'
+where office = 'Commissioner Of Labor'
+    and candidate = 'Hicks';
+
+update ga_general_nov2010
+    set candidate = 'Will Costa',
+        party = 'Libertarian'
+where office = 'Commissioner Of Labor'
+    and candidate = 'Costa';
+
+-- Check the vote numbers...
+select candidate, party, sum(votes) as votes
+from ga_general_nov2010
+where office = 'Commissioner Of Labor'
+group by candidate, party
+order by votes desc;
+
+-- Final Output...
+select county, office, district, party, candidate, votes
+from ga_general_nov2010
+where office = 'Commissioner Of Labor'
+order by district, candidate, county;
