@@ -388,3 +388,183 @@ select county, office, district, party, candidate, votes
 from ga_general_nov2010
 where office = 'Commissioner Of Labor'
 order by district, candidate, county;
+
+----------------------------------------------
+-- U.S. Representative
+----------------------------------------------
+select *
+from ga_general_nov2010
+where office = 'U.S. Representative';
+
+update ga_general_nov2010
+    set party = 'Republican'
+where office = 'U.S. Representative'
+    and party = 'R';
+
+update ga_general_nov2010
+    set party = 'Democrat'
+where office = 'U.S. Representative'
+    and party = 'D';
+
+update ga_general_nov2010
+    set candidate = 'Jack Kingston'
+where office = 'U.S. Representative'
+    and district = '1'
+    and candidate = 'Kingston';
+
+update ga_general_nov2010
+    set candidate = 'Oscar L. Harris II'
+where office = 'U.S. Representative'
+    and district = '1'
+    and candidate = 'Harris';
+
+update ga_general_nov2010
+    set candidate = 'Sanford Bishop'
+where office = 'U.S. Representative'
+    and district = '2'
+    and candidate = 'Bishop';
+
+update ga_general_nov2010
+    set candidate = 'Mike Keown'
+where office = 'U.S. Representative'
+    and district = '2'
+    and candidate = 'Keown';
+
+update ga_general_nov2010
+    set candidate = 'Lynn Westmoreland'
+where office = 'U.S. Representative'
+    and district = '3'
+    and candidate = 'Westmoreland';
+
+update ga_general_nov2010
+    set candidate = 'Frank Saunders'
+where office = 'U.S. Representative'
+    and district = '3'
+    and candidate = 'Saunders';
+
+update ga_general_nov2010
+    set candidate = 'Jagdish Agrawal'
+where office = 'U.S. Representative'
+    and district = '3'
+    and candidate = 'Agrawal';
+
+update ga_general_nov2010
+    set candidate = 'Hank Johnson Jr.'
+where office = 'U.S. Representative'
+    and district = '4'
+    and candidate = 'Johnson';
+
+update ga_general_nov2010
+    set candidate = 'Lisbeth (Liz) Carter'
+where office = 'U.S. Representative'
+    and district = '4'
+    and candidate = 'Carter';
+
+update ga_general_nov2010
+    set candidate = 'John Lewis'
+where office = 'U.S. Representative'
+    and district = '5'
+    and candidate = 'Lewis';
+
+update ga_general_nov2010
+    set candidate = 'Fenn Little'
+where office = 'U.S. Representative'
+    and district = '5'
+    and candidate = 'Little';
+
+update ga_general_nov2010
+    set candidate = 'Tom Price'
+where office = 'U.S. Representative'
+    and district = '6'
+    and candidate = 'Price';
+
+update ga_general_nov2010
+    set candidate = 'Sean Greenberg'
+where office = 'U.S. Representative'
+    and district = '6'
+    and candidate = 'Greenberg';
+
+update ga_general_nov2010
+    set candidate = 'Rob Woodall'
+where office = 'U.S. Representative'
+    and district = '7'
+    and candidate = 'Woodall';
+
+update ga_general_nov2010
+    set candidate = 'Doug Heckman'
+where office = 'U.S. Representative'
+    and district = '7'
+    and candidate = 'Heckman';
+
+update ga_general_nov2010
+    set candidate = 'Austin Scott'
+where office = 'U.S. Representative'
+    and district = '8'
+    and candidate = 'Scott';
+
+update ga_general_nov2010
+    set candidate = 'Jim Marshall'
+where office = 'U.S. Representative'
+    and district = '8'
+    and candidate = 'Marshall';
+
+update ga_general_nov2010
+    set candidate = 'Tom Graves'
+where office = 'U.S. Representative'
+    and district = '9'
+    and candidate = 'Graves';
+
+update ga_general_nov2010
+    set candidate = 'Paul Broun'
+where office = 'U.S. Representative'
+    and district = '10'
+    and candidate = 'Broun';
+
+update ga_general_nov2010
+    set candidate = 'Russell Edwards'
+where office = 'U.S. Representative'
+    and district = '10'
+    and candidate = 'Edwards';
+
+update ga_general_nov2010
+    set candidate = 'Phil Gingrey'
+where office = 'U.S. Representative'
+    and district = '11'
+    and candidate = 'Gingrey';
+
+update ga_general_nov2010
+    set candidate = 'John Barrow'
+where office = 'U.S. Representative'
+    and district = '12'
+    and candidate = 'Barrow';
+
+update ga_general_nov2010
+    set candidate = 'Raymond Mckinney'
+where office = 'U.S. Representative'
+    and district = '12'
+    and candidate = 'Mckinney';
+
+update ga_general_nov2010
+    set candidate = 'David Scott'
+where office = 'U.S. Representative'
+    and district = '13'
+    and candidate = 'Scott';
+
+update ga_general_nov2010
+    set candidate = 'Mike Crane'
+where office = 'U.S. Representative'
+    and district = '13'
+    and candidate = 'Crane';
+
+-- Check the vote numbers...
+select candidate, district, party, sum(votes) as votes
+from ga_general_nov2010
+where office = 'U.S. Representative'
+group by candidate, district, party
+order by district::int, votes desc;
+
+-- Final Output...
+select county, office, district, party, candidate, votes
+from ga_general_nov2010
+where office = 'U.S. Representative'
+order by district::int, candidate, county;
