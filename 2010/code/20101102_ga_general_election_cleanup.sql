@@ -568,3 +568,187 @@ select county, office, district, party, candidate, votes
 from ga_general_nov2010
 where office = 'U.S. Representative'
 order by district::int, candidate, county;
+
+----------------------------------------------
+-- U.S. Representative
+----------------------------------------------
+select *
+from ga_general_nov2010
+where office = 'State Senate';
+
+select *
+from state_senate_full_names;
+
+alter table state_senate_full_names
+    add column last_name text;
+
+update state_senate_full_names
+  set last_name = split_part(candidate, ' ', 2);
+
+select district, candidate, last_name, party
+from state_senate_full_names
+order by last_name;
+
+update state_senate_full_names
+  set last_name = 'Johnson'
+where rtrim(candidate) = 'Jordan ''Alex'' Johnson'
+    and district = 41;
+
+update state_senate_full_names
+  set last_name = 'Pollard'
+where rtrim(candidate) = 'Frances ''Beth'' Pollard'
+    and district = 6;
+
+update state_senate_full_names
+  set last_name = 'Carter'
+where rtrim(candidate) = 'Earl ''Buddy'' Carter'
+    and district = 1;
+
+update state_senate_full_names
+  set last_name = 'Billingslea'
+where rtrim(candidate) = 'Zannie (Tiger) Billingslea'
+    and district = 34;
+
+update state_senate_full_names
+  set last_name = 'Ramsey'
+where rtrim(candidate) = 'Ronald B. Ramsey, Sr.'
+    and district = 43;
+
+update state_senate_full_names
+  set last_name = 'Jackson'
+where rtrim(candidate) = 'Lester G. Jackson'
+    and district = 2;
+
+update state_senate_full_names
+  set last_name = 'Bennett'
+where rtrim(candidate) = 'Tracy Gene Bennett'
+    and district = 31;
+
+update state_senate_full_names
+  set last_name = 'Griffin'
+where rtrim(candidate) = 'Floyd L. Griffin'
+    and district = 25;
+
+update state_senate_full_names
+  set last_name = 'Sims'
+where rtrim(candidate) = 'Freddie Powell Sims'
+    and district = 12;
+
+update state_senate_full_names
+  set last_name = 'Unterman'
+where rtrim(candidate) = 'Renee S. Unterman'
+    and district = 45;
+
+update state_senate_full_names
+  set last_name = 'Jackson'
+where rtrim(candidate) = 'William S.(Bill) Jackson'
+    and district = 24;
+
+update state_senate_full_names
+  set last_name = 'Ligon'
+where rtrim(candidate) = 'William T. Ligon Jr.'
+    and district = 3;
+
+update state_senate_full_names
+  set last_name = 'Crosby'
+where rtrim(candidate) = 'John Dickey Crosby'
+    and district = 13;
+
+update state_senate_full_names
+  set last_name = 'Anderson'
+where rtrim(candidate) = 'Evelyn Thompson Anderson'
+    and district = 29;
+
+
+update ga_general_nov2010
+    set party = 'Republican'
+where office = 'State Senate'
+    and party = 'R';
+
+update ga_general_nov2010
+    set party = 'Democrat'
+where office = 'State Senate'
+    and party = 'D';
+
+update state_senate_full_names
+    set party = 'Democrat'
+where party = 'Democratic'
+
+select *
+from state_senate_full_names
+where district = 29;
+
+update ga_general_nov2010
+    set candidate = 'Sims'
+where candidate = 'Powell Sims'
+    and district::int = 12
+    and office = 'State Senate';
+
+alter table ga_general_nov2010
+    add column last_name text;
+
+update ga_general_nov2010
+    set last_name = candidate
+where office = 'State Senate';
+
+-- QC to make sure we are matching both sides...
+with state_senate as
+(
+    select *
+    from ga_general_nov2010
+    where office = 'State Senate'
+)
+select *
+from state_senate as a
+  left join state_senate_full_names as b
+    on a.last_name = b.last_name
+      and a.district::int = b.district
+      and a.party = b.party
+where b.last_name is null;
+
+with state_senate as
+(
+    select *
+    from ga_general_nov2010
+    where office = 'State Senate'
+)
+select *
+from state_senate_full_names as a
+  left join state_senate as b
+    on a.last_name = b.last_name
+      and a.district = b.district::int
+      and a.party = b.party
+where b.last_name is null;
+
+-- QC make sure total votes match from each side...
+with state_senate as
+(
+    select last_name, district, party, sum(votes) as total_votes
+    from ga_general_nov2010
+    where office = 'State Senate'
+    group by last_name, district, party
+)
+select *
+from state_senate as a
+  left join state_senate_full_names as b
+    on a.last_name = b.last_name
+      and a.district::int = b.district
+      and a.party = b.party
+      and a.total_votes = b.total_votes
+where b.last_name is null;
+
+-- Generate the final output .csv file...
+with state_senate as
+(
+    select *
+    from ga_general_nov2010
+    where office = 'State Senate'
+)
+select b.county, 'State Senate' as office,
+  a.district, a.party as party, a.candidate, b.votes
+from state_senate_full_names as a
+  inner join state_senate as b
+    on a.last_name = b.last_name
+      and a.district = b.district::int
+      and a.party = b.party
+order by a.district, a.party, b.county, a.candidate
