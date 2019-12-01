@@ -10078,19 +10078,19 @@ DEKALB,U.S. House,13,Republican,Rupert G. Parchment,2
 DOUGLAS,U.S. House,13,Republican,Rupert G. Parchment,275
 FULTON,U.S. House,13,Republican,Rupert G. Parchment,34
 HENRY,U.S. House,13,Republican,Rupert G. Parchment,101
-BRYAN,State Senate,1,Democratic,Carry Smith,412
-CHATHAM,State Senate,1,Democratic,Carry Smith,2430
-LIBERTY,State Senate,1,Democratic,Carry Smith,617
+BRYAN,State Senate,1,Democrat,Carry Smith,412
+CHATHAM,State Senate,1,Democrat,Carry Smith,2430
+LIBERTY,State Senate,1,Democrat,Carry Smith,617
 BRYAN,State Senate,1,Republican,Earl 'Buddy' Carter,2345
 CHATHAM,State Senate,1,Republican,Earl 'Buddy' Carter,10412
 LIBERTY,State Senate,1,Republican,Earl 'Buddy' Carter,696
-CHATHAM,State Senate,2,Democratic,Lester G. Jackson,6783
+CHATHAM,State Senate,2,Democrat,Lester G. Jackson,6783
 CHATHAM,State Senate,2,Republican,Michael Gaster,2944
-BRANTLEY,State Senate,3,Democratic,Griffin Lotson,444
-CAMDEN,State Senate,3,Democratic,Griffin Lotson,704
-CHARLTON,State Senate,3,Democratic,Griffin Lotson,237
-GLYNN,State Senate,3,Democratic,Griffin Lotson,1578
-MCINTOSH,State Senate,3,Democratic,Griffin Lotson,1025
+BRANTLEY,State Senate,3,Democrat,Griffin Lotson,444
+CAMDEN,State Senate,3,Democrat,Griffin Lotson,704
+CHARLTON,State Senate,3,Democrat,Griffin Lotson,237
+GLYNN,State Senate,3,Democrat,Griffin Lotson,1578
+MCINTOSH,State Senate,3,Democrat,Griffin Lotson,1025
 BRANTLEY,State Senate,3,Republican,Terry Carter,746
 BRANTLEY,State Senate,3,Republican,William T. Ligon Jr.,651
 CAMDEN,State Senate,3,Republican,Terry Carter,2009
@@ -10108,11 +10108,11 @@ EMANUEL,State Senate,4,Republican,Jack Hill,764
 EVANS,State Senate,4,Republican,Jack Hill,510
 TATTNALL,State Senate,4,Republican,Jack Hill,541
 TREUTLEN,State Senate,4,Republican,Jack Hill,190
-DEKALB,State Senate,5,Democratic,Curt Thompson,100
-GWINNETT,State Senate,5,Democratic,Curt Thompson,1806
+DEKALB,State Senate,5,Democrat,Curt Thompson,100
+GWINNETT,State Senate,5,Democrat,Curt Thompson,1806
 DEKALB,State Senate,5,Republican,Garry Guan,57
 GWINNETT,State Senate,5,Republican,Garry Guan,2173
-COBB,State Senate,6,Democratic,Doug Stoner,4611
+COBB,State Senate,6,Democrat,Doug Stoner,4611
 COBB,State Senate,6,Republican,Frances 'Beth' Pollard,5142
 ATKINSON,State Senate,7,Republican,Greg Goggans,248
 BACON,State Senate,7,Republican,Greg Goggans,667
@@ -10124,16 +10124,16 @@ ECHOLS,State Senate,7,Republican,Greg Goggans,85
 LANIER,State Senate,7,Republican,Greg Goggans,484
 PIERCE,State Senate,7,Republican,Greg Goggans,2217
 WARE,State Senate,7,Republican,Greg Goggans,4052
-BROOKS,State Senate,8,Democratic,Tim Golden,1720
-COOK,State Senate,8,Democratic,Tim Golden,911
-LOWNDES,State Senate,8,Democratic,Tim Golden,2534
-THOMAS,State Senate,8,Democratic,Tim Golden,931
-GWINNETT,State Senate,9,Democratic,Rashid Malik,3847
+BROOKS,State Senate,8,Democrat,Tim Golden,1720
+COOK,State Senate,8,Democrat,Tim Golden,911
+LOWNDES,State Senate,8,Democrat,Tim Golden,2534
+THOMAS,State Senate,8,Democrat,Tim Golden,931
+GWINNETT,State Senate,9,Democrat,Rashid Malik,3847
 GWINNETT,State Senate,9,Republican,Don Balfour,11155
 GWINNETT,State Senate,9,Republican,Joe Anderson,4125
 GWINNETT,State Senate,9,Republican,Travis Bowden,2015
-DEKALB,State Senate,10,Democratic,Emanuel Jones,9402
-HENRY,State Senate,10,Democratic,Emanuel Jones,3032
+DEKALB,State Senate,10,Democrat,Emanuel Jones,9402
+HENRY,State Senate,10,Democrat,Emanuel Jones,3032
 COLQUITT,State Senate,11,Republican,John Bulloch,1924
 DECATUR,State Senate,11,Republican,John Bulloch,1014
 EARLY,State Senate,11,Republican,John Bulloch,539
@@ -10142,14 +10142,14 @@ MILLER,State Senate,11,Republican,John Bulloch,286
 MITCHELL,State Senate,11,Republican,John Bulloch,521
 SEMINOLE,State Senate,11,Republican,John Bulloch,588
 THOMAS,State Senate,11,Republican,John Bulloch,1567
-BAKER,State Senate,12,Democratic,Freddie Powell Sims,189
-CALHOUN,State Senate,12,Democratic,Freddie Powell Sims,490
-CLAY,State Senate,12,Democratic,Freddie Powell Sims,147
-DOUGHERTY,State Senate,12,Democratic,Freddie Powell Sims,7485
-MITCHELL,State Senate,12,Democratic,Freddie Powell Sims,690
-QUITMAN,State Senate,12,Democratic,Freddie Powell Sims,95
-RANDOLPH,State Senate,12,Democratic,Freddie Powell Sims,518
-TERRELL,State Senate,12,Democratic,Freddie Powell Sims,1023
+BAKER,State Senate,12,Democrat,Freddie Powell Sims,189
+CALHOUN,State Senate,12,Democrat,Freddie Powell Sims,490
+CLAY,State Senate,12,Democrat,Freddie Powell Sims,147
+DOUGHERTY,State Senate,12,Democrat,Freddie Powell Sims,7485
+MITCHELL,State Senate,12,Democrat,Freddie Powell Sims,690
+QUITMAN,State Senate,12,Democrat,Freddie Powell Sims,95
+RANDOLPH,State Senate,12,Democrat,Freddie Powell Sims,518
+TERRELL,State Senate,12,Democrat,Freddie Powell Sims,1023
 BEN HILL,State Senate,13,Republican,John Dickey Crosby,644
 CRISP,State Senate,13,Republican,John Dickey Crosby,1148
 IRWIN,State Senate,13,Republican,John Dickey Crosby,889
@@ -10158,35 +10158,35 @@ TIFT,State Senate,13,Republican,John Dickey Crosby,2432
 TURNER,State Senate,13,Republican,John Dickey Crosby,480
 WILCOX,State Senate,13,Republican,John Dickey Crosby,188
 WORTH,State Senate,13,Republican,John Dickey Crosby,1498
-CRAWFORD,State Senate,14,Democratic,George Hooks,118
-DOOLY,State Senate,14,Democratic,George Hooks,745
-MACON,State Senate,14,Democratic,George Hooks,989
-MARION,State Senate,14,Democratic,George Hooks,242
-PEACH,State Senate,14,Democratic,George Hooks,1310
-SCHLEY,State Senate,14,Democratic,George Hooks,103
-STEWART,State Senate,14,Democratic,George Hooks,435
-SUMTER,State Senate,14,Democratic,George Hooks,1163
-TALBOT,State Senate,14,Democratic,George Hooks,341
-TAYLOR,State Senate,14,Democratic,George Hooks,393
-UPSON,State Senate,14,Democratic,George Hooks,772
-WEBSTER,State Senate,14,Democratic,George Hooks,141
-CHATTAHOOCHEE,State Senate,15,Democratic,Ed Harbison,82
-MUSCOGEE,State Senate,15,Democratic,Ed Harbison,4518
+CRAWFORD,State Senate,14,Democrat,George Hooks,118
+DOOLY,State Senate,14,Democrat,George Hooks,745
+MACON,State Senate,14,Democrat,George Hooks,989
+MARION,State Senate,14,Democrat,George Hooks,242
+PEACH,State Senate,14,Democrat,George Hooks,1310
+SCHLEY,State Senate,14,Democrat,George Hooks,103
+STEWART,State Senate,14,Democrat,George Hooks,435
+SUMTER,State Senate,14,Democrat,George Hooks,1163
+TALBOT,State Senate,14,Democrat,George Hooks,341
+TAYLOR,State Senate,14,Democrat,George Hooks,393
+UPSON,State Senate,14,Democrat,George Hooks,772
+WEBSTER,State Senate,14,Democrat,George Hooks,141
+CHATTAHOOCHEE,State Senate,15,Democrat,Ed Harbison,82
+MUSCOGEE,State Senate,15,Democrat,Ed Harbison,4518
 FAYETTE,State Senate,16,Republican,Ronnie Chance,7976
 LAMAR,State Senate,16,Republican,Ronnie Chance,1616
 MONROE,State Senate,16,Republican,Ronnie Chance,384
 PIKE,State Senate,16,Republican,Ronnie Chance,1889
 SPALDING,State Senate,16,Republican,Ronnie Chance,3646
-HENRY,State Senate,17,Democratic,Jim Nichols,1262
-HENRY,State Senate,17,Democratic,Nicholas P. Day,606
-NEWTON,State Senate,17,Democratic,Jim Nichols,2310
-NEWTON,State Senate,17,Democratic,Nicholas P. Day,1559
-ROCKDALE,State Senate,17,Democratic,Jim Nichols,316
-ROCKDALE,State Senate,17,Democratic,Nicholas P. Day,186
-SPALDING,State Senate,17,Democratic,Jim Nichols,145
-SPALDING,State Senate,17,Democratic,Nicholas P. Day,68
-WALTON,State Senate,17,Democratic,Jim Nichols,233
-WALTON,State Senate,17,Democratic,Nicholas P. Day,110
+HENRY,State Senate,17,Democrat,Jim Nichols,1262
+HENRY,State Senate,17,Democrat,Nicholas P. Day,606
+NEWTON,State Senate,17,Democrat,Jim Nichols,2310
+NEWTON,State Senate,17,Democrat,Nicholas P. Day,1559
+ROCKDALE,State Senate,17,Democrat,Jim Nichols,316
+ROCKDALE,State Senate,17,Democrat,Nicholas P. Day,186
+SPALDING,State Senate,17,Democrat,Jim Nichols,145
+SPALDING,State Senate,17,Democrat,Nicholas P. Day,68
+WALTON,State Senate,17,Democrat,Jim Nichols,233
+WALTON,State Senate,17,Democrat,Nicholas P. Day,110
 HENRY,State Senate,17,Republican,"Ester Fleming, Jr",854
 HENRY,State Senate,17,Republican,Rick Jeffares,4750
 HENRY,State Senate,17,Republican,Todd Hilton,1622
@@ -10224,11 +10224,11 @@ LAURENS,State Senate,20,Republican,Ross Tolleson,1566
 PULASKI,State Senate,20,Republican,Ross Tolleson,514
 TELFAIR,State Senate,20,Republican,Ross Tolleson,229
 WILCOX,State Senate,20,Republican,Ross Tolleson,622
-CHEROKEE,State Senate,21,Democratic,Patrick Thompson,1266
-COBB,State Senate,21,Democratic,Patrick Thompson,1081
+CHEROKEE,State Senate,21,Democrat,Patrick Thompson,1266
+COBB,State Senate,21,Democrat,Patrick Thompson,1081
 CHEROKEE,State Senate,21,Republican,Chip Rogers,10512
 COBB,State Senate,21,Republican,Chip Rogers,6380
-RICHMOND,State Senate,22,Democratic,Hardie Davis,5302
+RICHMOND,State Senate,22,Democrat,Hardie Davis,5302
 BURKE,State Senate,23,Republican,Jesse Stone,866
 EMANUEL,State Senate,23,Republican,Jesse Stone,411
 JEFFERSON,State Senate,23,Republican,Jesse Stone,363
@@ -10244,16 +10244,16 @@ LINCOLN,State Senate,24,Republican,William S.(Bill) Jackson,924
 MCDUFFIE,State Senate,24,Republican,William S.(Bill) Jackson,1278
 WARREN,State Senate,24,Republican,William S.(Bill) Jackson,6
 WILKES,State Senate,24,Republican,William S.(Bill) Jackson,467
-BALDWIN,State Senate,25,Democratic,Floyd L. Griffin,2040
-BUTTS,State Senate,25,Democratic,Floyd L. Griffin,505
-GREENE,State Senate,25,Democratic,Floyd L. Griffin,548
-HANCOCK,State Senate,25,Democratic,Floyd L. Griffin,1605
-JASPER,State Senate,25,Democratic,Floyd L. Griffin,397
-JONES,State Senate,25,Democratic,Floyd L. Griffin,240
-MORGAN,State Senate,25,Democratic,Floyd L. Griffin,542
-PUTNAM,State Senate,25,Democratic,Floyd L. Griffin,565
-TALIAFERRO,State Senate,25,Democratic,Floyd L. Griffin,396
-WARREN,State Senate,25,Democratic,Floyd L. Griffin,245
+BALDWIN,State Senate,25,Democrat,Floyd L. Griffin,2040
+BUTTS,State Senate,25,Democrat,Floyd L. Griffin,505
+GREENE,State Senate,25,Democrat,Floyd L. Griffin,548
+HANCOCK,State Senate,25,Democrat,Floyd L. Griffin,1605
+JASPER,State Senate,25,Democrat,Floyd L. Griffin,397
+JONES,State Senate,25,Democrat,Floyd L. Griffin,240
+MORGAN,State Senate,25,Democrat,Floyd L. Griffin,542
+PUTNAM,State Senate,25,Democrat,Floyd L. Griffin,565
+TALIAFERRO,State Senate,25,Democrat,Floyd L. Griffin,396
+WARREN,State Senate,25,Democrat,Floyd L. Griffin,245
 BALDWIN,State Senate,25,Republican,Johnny Grant,1880
 BUTTS,State Senate,25,Republican,Johnny Grant,1786
 GREENE,State Senate,25,Republican,Johnny Grant,1452
@@ -10264,38 +10264,38 @@ MORGAN,State Senate,25,Republican,Johnny Grant,2061
 PUTNAM,State Senate,25,Republican,Johnny Grant,1746
 TALIAFERRO,State Senate,25,Republican,Johnny Grant,22
 WARREN,State Senate,25,Republican,Johnny Grant,204
-BIBB,State Senate,26,Democratic,Robert Brown,6243
-HOUSTON,State Senate,26,Democratic,Robert Brown,308
-TWIGGS,State Senate,26,Democratic,Robert Brown,879
-WILKINSON,State Senate,26,Democratic,Robert Brown,706
+BIBB,State Senate,26,Democrat,Robert Brown,6243
+HOUSTON,State Senate,26,Democrat,Robert Brown,308
+TWIGGS,State Senate,26,Democrat,Robert Brown,879
+WILKINSON,State Senate,26,Democrat,Robert Brown,706
 CHEROKEE,State Senate,27,Republican,Jack Murphy,8093
 FORSYTH,State Senate,27,Republican,Jack Murphy,14414
 CARROLL,State Senate,28,Republican,Mitch Seabaugh,3613
 COWETA,State Senate,28,Republican,Mitch Seabaugh,9696
 HEARD,State Senate,28,Republican,Mitch Seabaugh,713
 TROUP,State Senate,28,Republican,Mitch Seabaugh,1008
-HARRIS,State Senate,29,Democratic,Evelyn Thompson Anderson,388
-HARRIS,State Senate,29,Democratic,Joseph 'Joe' Hurst,219
-MERIWETHER,State Senate,29,Democratic,Evelyn Thompson Anderson,854
-MERIWETHER,State Senate,29,Democratic,Joseph 'Joe' Hurst,420
-MUSCOGEE,State Senate,29,Democratic,Evelyn Thompson Anderson,1166
-MUSCOGEE,State Senate,29,Democratic,Joseph 'Joe' Hurst,597
-TROUP,State Senate,29,Democratic,Evelyn Thompson Anderson,769
-TROUP,State Senate,29,Democratic,Joseph 'Joe' Hurst,349
+HARRIS,State Senate,29,Democrat,Evelyn Thompson Anderson,388
+HARRIS,State Senate,29,Democrat,Joseph 'Joe' Hurst,219
+MERIWETHER,State Senate,29,Democrat,Evelyn Thompson Anderson,854
+MERIWETHER,State Senate,29,Democrat,Joseph 'Joe' Hurst,420
+MUSCOGEE,State Senate,29,Democrat,Evelyn Thompson Anderson,1166
+MUSCOGEE,State Senate,29,Democrat,Joseph 'Joe' Hurst,597
+TROUP,State Senate,29,Democrat,Evelyn Thompson Anderson,769
+TROUP,State Senate,29,Democrat,Joseph 'Joe' Hurst,349
 HARRIS,State Senate,29,Republican,Joshua McKoon,2219
 MERIWETHER,State Senate,29,Republican,Joshua McKoon,1161
 MUSCOGEE,State Senate,29,Republican,Joshua McKoon,3401
 TROUP,State Senate,29,Republican,Joshua McKoon,2212
-CARROLL,State Senate,30,Democratic,Pat Rhudy,1251
-DOUGLAS,State Senate,30,Democratic,Pat Rhudy,1656
-PAULDING,State Senate,30,Democratic,Pat Rhudy,1093
+CARROLL,State Senate,30,Democrat,Pat Rhudy,1251
+DOUGLAS,State Senate,30,Democrat,Pat Rhudy,1656
+PAULDING,State Senate,30,Democrat,Pat Rhudy,1093
 CARROLL,State Senate,30,Republican,Bill Hamrick,4257
 DOUGLAS,State Senate,30,Republican,Bill Hamrick,5346
 PAULDING,State Senate,30,Republican,Bill Hamrick,4685
-BARTOW,State Senate,31,Democratic,Tracy Gene Bennett,909
-HARALSON,State Senate,31,Democratic,Tracy Gene Bennett,505
-PAULDING,State Senate,31,Democratic,Tracy Gene Bennett,790
-POLK,State Senate,31,Democratic,Tracy Gene Bennett,1206
+BARTOW,State Senate,31,Democrat,Tracy Gene Bennett,909
+HARALSON,State Senate,31,Democrat,Tracy Gene Bennett,505
+PAULDING,State Senate,31,Democrat,Tracy Gene Bennett,790
+POLK,State Senate,31,Democrat,Tracy Gene Bennett,1206
 BARTOW,State Senate,31,Republican,Bill Heath,2961
 BARTOW,State Senate,31,Republican,Pete Bridges,1797
 HARALSON,State Senate,31,Republican,Bill Heath,1065
@@ -10308,63 +10308,63 @@ COBB,State Senate,32,Republican,Judson Hill,10020
 COBB,State Senate,32,Republican,Lynda Coker,6200
 FULTON,State Senate,32,Republican,Judson Hill,2280
 FULTON,State Senate,32,Republican,Lynda Coker,1116
-COBB,State Senate,33,Democratic,Steve Thompson,5644
+COBB,State Senate,33,Democrat,Steve Thompson,5644
 COBB,State Senate,33,Republican,Craig Prewett,6279
-CLAYTON,State Senate,34,Democratic,Travis Spruill,729
-CLAYTON,State Senate,34,Democratic,Valencia Seay,4654
-CLAYTON,State Senate,34,Democratic,Victor Hill,4080
-FAYETTE,State Senate,34,Democratic,Travis Spruill,301
-FAYETTE,State Senate,34,Democratic,Valencia Seay,1641
-FAYETTE,State Senate,34,Democratic,Victor Hill,678
+CLAYTON,State Senate,34,Democrat,Travis Spruill,729
+CLAYTON,State Senate,34,Democrat,Valencia Seay,4654
+CLAYTON,State Senate,34,Democrat,Victor Hill,4080
+FAYETTE,State Senate,34,Democrat,Travis Spruill,301
+FAYETTE,State Senate,34,Democrat,Valencia Seay,1641
+FAYETTE,State Senate,34,Democrat,Victor Hill,678
 CLAYTON,State Senate,34,Republican,Zannie (Tiger) Billingslea,987
 FAYETTE,State Senate,34,Republican,Zannie (Tiger) Billingslea,3337
-DOUGLAS,State Senate,35,Democratic,Donzella James,1571
-DOUGLAS,State Senate,35,Democratic,Roberta Cooper,385
-DOUGLAS,State Senate,35,Democratic,Torrey O. Johnson,485
-FULTON,State Senate,35,Democratic,Donzella James,8168
-FULTON,State Senate,35,Democratic,Roberta Cooper,871
-FULTON,State Senate,35,Democratic,Torrey O. Johnson,3156
-FULTON,State Senate,36,Democratic,Nan Orrock,7010
+DOUGLAS,State Senate,35,Democrat,Donzella James,1571
+DOUGLAS,State Senate,35,Democrat,Roberta Cooper,385
+DOUGLAS,State Senate,35,Democrat,Torrey O. Johnson,485
+FULTON,State Senate,35,Democrat,Donzella James,8168
+FULTON,State Senate,35,Democrat,Roberta Cooper,871
+FULTON,State Senate,35,Democrat,Torrey O. Johnson,3156
+FULTON,State Senate,36,Democrat,Nan Orrock,7010
 COBB,State Senate,37,Republican,John J. Wiles,7765
 COBB,State Senate,37,Republican,Lindsey Tippins,11759
-FULTON,State Senate,38,Democratic,Horacena Tate,9376
-FULTON,State Senate,38,Democratic,Michael Adams,0
+FULTON,State Senate,38,Democrat,Horacena Tate,9376
+FULTON,State Senate,38,Democrat,Michael Adams,0
 FULTON,State Senate,38,Republican,Beth Beskin,3955
-FULTON,State Senate,39,Democratic,Graham Balch,3288
-FULTON,State Senate,39,Democratic,Vincent Fort,6901
-DEKALB,State Senate,40,Democratic,Eric Christ,3284
-GWINNETT,State Senate,40,Democratic,Eric Christ,438
+FULTON,State Senate,39,Democrat,Graham Balch,3288
+FULTON,State Senate,39,Democrat,Vincent Fort,6901
+DEKALB,State Senate,40,Democrat,Eric Christ,3284
+GWINNETT,State Senate,40,Democrat,Eric Christ,438
 DEKALB,State Senate,40,Republican,Fran Millar,7414
 DEKALB,State Senate,40,Republican,James Sibold,2391
 DEKALB,State Senate,40,Republican,Jim Duffie,983
 GWINNETT,State Senate,40,Republican,Fran Millar,1104
 GWINNETT,State Senate,40,Republican,James Sibold,1017
 GWINNETT,State Senate,40,Republican,Jim Duffie,458
-DEKALB,State Senate,41,Democratic,Steve Henson,5449
-GWINNETT,State Senate,41,Democratic,Steve Henson,1004
+DEKALB,State Senate,41,Democrat,Steve Henson,5449
+GWINNETT,State Senate,41,Democrat,Steve Henson,1004
 DEKALB,State Senate,41,Republican,Jordan 'Alex' Johnson,3468
 GWINNETT,State Senate,41,Republican,Jordan 'Alex' Johnson,3361
-DEKALB,State Senate,42,Democratic,Jason Carter,9056
-DEKALB,State Senate,43,Democratic,"Ronald B. Ramsey, Sr.",10467
-ROCKDALE,State Senate,43,Democratic,"Ronald B. Ramsey, Sr.",3281
+DEKALB,State Senate,42,Democrat,Jason Carter,9056
+DEKALB,State Senate,43,Democrat,"Ronald B. Ramsey, Sr.",10467
+ROCKDALE,State Senate,43,Democrat,"Ronald B. Ramsey, Sr.",3281
 DEKALB,State Senate,43,Republican,Diana Williams,350
 ROCKDALE,State Senate,43,Republican,Diana Williams,3537
-CLAYTON,State Senate,44,Democratic,Dawn Randolph,765
-CLAYTON,State Senate,44,Democratic,Gail Davenport,5410
-CLAYTON,State Senate,44,Democratic,Mike Glanton,3167
-HENRY,State Senate,44,Democratic,Dawn Randolph,112
-HENRY,State Senate,44,Democratic,Gail Davenport,1080
-HENRY,State Senate,44,Democratic,Mike Glanton,229
+CLAYTON,State Senate,44,Democrat,Dawn Randolph,765
+CLAYTON,State Senate,44,Democrat,Gail Davenport,5410
+CLAYTON,State Senate,44,Democrat,Mike Glanton,3167
+HENRY,State Senate,44,Democrat,Dawn Randolph,112
+HENRY,State Senate,44,Democrat,Gail Davenport,1080
+HENRY,State Senate,44,Democrat,Mike Glanton,229
 GWINNETT,State Senate,45,Republican,Renee S. Unterman,17699
 CLARKE,State Senate,46,Republican,Bill Cowsert,2315
 OCONEE,State Senate,46,Republican,Bill Cowsert,4697
 WALTON,State Senate,46,Republican,Bill Cowsert,6289
-BARROW,State Senate,47,Democratic,Tim Riley,853
-CLARKE,State Senate,47,Democratic,Tim Riley,1252
-ELBERT,State Senate,47,Democratic,Tim Riley,336
-JACKSON,State Senate,47,Democratic,Tim Riley,676
-MADISON,State Senate,47,Democratic,Tim Riley,536
-OGLETHORPE,State Senate,47,Democratic,Tim Riley,384
+BARROW,State Senate,47,Democrat,Tim Riley,853
+CLARKE,State Senate,47,Democrat,Tim Riley,1252
+ELBERT,State Senate,47,Democrat,Tim Riley,336
+JACKSON,State Senate,47,Democrat,Tim Riley,676
+MADISON,State Senate,47,Democrat,Tim Riley,536
+OGLETHORPE,State Senate,47,Democrat,Tim Riley,384
 BARROW,State Senate,47,Republican,Doug Bower,727
 BARROW,State Senate,47,Republican,Frank Ginn,2143
 BARROW,State Senate,47,Republican,Kelley Gary,953
@@ -10411,14 +10411,14 @@ TOWNS,State Senate,50,Republican,Jim Butterworth,742
 TOWNS,State Senate,50,Republican,Terry Rogers,443
 WHITE,State Senate,50,Republican,Jim Butterworth,210
 WHITE,State Senate,50,Republican,Terry Rogers,269
-DAWSON,State Senate,51,Democratic,Joseph Mann,275
-FANNIN,State Senate,51,Democratic,Joseph Mann,363
-FORSYTH,State Senate,51,Democratic,Joseph Mann,93
-GILMER,State Senate,51,Democratic,Joseph Mann,379
-LUMPKIN,State Senate,51,Democratic,Joseph Mann,445
-PICKENS,State Senate,51,Democratic,Joseph Mann,369
-UNION,State Senate,51,Democratic,Joseph Mann,1593
-WHITE,State Senate,51,Democratic,Joseph Mann,382
+DAWSON,State Senate,51,Democrat,Joseph Mann,275
+FANNIN,State Senate,51,Democrat,Joseph Mann,363
+FORSYTH,State Senate,51,Democrat,Joseph Mann,93
+GILMER,State Senate,51,Democrat,Joseph Mann,379
+LUMPKIN,State Senate,51,Democrat,Joseph Mann,445
+PICKENS,State Senate,51,Democrat,Joseph Mann,369
+UNION,State Senate,51,Democrat,Joseph Mann,1593
+WHITE,State Senate,51,Democrat,Joseph Mann,382
 DAWSON,State Senate,51,Republican,Steve Gooch,2763
 FANNIN,State Senate,51,Republican,Steve Gooch,1984
 FORSYTH,State Senate,51,Republican,Steve Gooch,950
@@ -10427,9 +10427,9 @@ LUMPKIN,State Senate,51,Republican,Steve Gooch,2212
 PICKENS,State Senate,51,Republican,Steve Gooch,2902
 UNION,State Senate,51,Republican,Steve Gooch,3493
 WHITE,State Senate,51,Republican,Steve Gooch,2643
-BARTOW,State Senate,52,Democratic,Mike Burton,514
-FLOYD,State Senate,52,Democratic,Mike Burton,1989
-GORDON,State Senate,52,Democratic,Mike Burton,446
+BARTOW,State Senate,52,Democrat,Mike Burton,514
+FLOYD,State Senate,52,Democrat,Mike Burton,1989
+GORDON,State Senate,52,Democrat,Mike Burton,446
 BARTOW,State Senate,52,Republican,Barry Loudermilk,2697
 BARTOW,State Senate,52,Republican,Jeff Knight,865
 FLOYD,State Senate,52,Republican,Barry Loudermilk,5060
@@ -10456,8 +10456,8 @@ MURRAY,State Senate,54,Republican,Charlie Bethel,973
 MURRAY,State Senate,54,Republican,Steve Brannon,860
 WHITFIELD,State Senate,54,Republican,Charlie Bethel,5138
 WHITFIELD,State Senate,54,Republican,Steve Brannon,2235
-DEKALB,State Senate,55,Democratic,Gloria Butler,9120
-GWINNETT,State Senate,55,Democratic,Gloria Butler,1978
+DEKALB,State Senate,55,Democrat,Gloria Butler,9120
+GWINNETT,State Senate,55,Democrat,Gloria Butler,1978
 FULTON,State Senate,56,Republican,Brandon Beach,5280
 FULTON,State Senate,56,Republican,David Christian Belle Isle,3959
 FULTON,State Senate,56,Republican,John Albers,4655
@@ -10473,9 +10473,9 @@ WHITFIELD,State House,4,Republican,Dennis Mock,1746
 WHITFIELD,State House,4,Republican,Roger Williams,1922
 GORDON,State House,5,Republican,John Meadows,1695
 MURRAY,State House,5,Republican,John Meadows,808
-CATOOSA,State House,6,Democratic,Tommy Patterson,37
-MURRAY,State House,6,Democratic,Tommy Patterson,211
-WHITFIELD,State House,6,Democratic,Tommy Patterson,242
+CATOOSA,State House,6,Democrat,Tommy Patterson,37
+MURRAY,State House,6,Democrat,Tommy Patterson,211
+WHITFIELD,State House,6,Democrat,Tommy Patterson,242
 CATOOSA,State House,6,Republican,Mike Cowan,149
 CATOOSA,State House,6,Republican,Tom Dickson,120
 MURRAY,State House,6,Republican,Mike Cowan,446
@@ -10485,10 +10485,10 @@ WHITFIELD,State House,6,Republican,Tom Dickson,1390
 DAWSON,State House,7,Republican,David Ralston,667
 FANNIN,State House,7,Republican,David Ralston,2535
 GILMER,State House,7,Republican,David Ralston,3178
-RABUN,State House,8,Democratic,Jack Lance,426
-TOWNS,State House,8,Democratic,Jack Lance,260
-UNION,State House,8,Democratic,Jack Lance,1903
-WHITE,State House,8,Democratic,Jack Lance,133
+RABUN,State House,8,Democrat,Jack Lance,426
+TOWNS,State House,8,Democrat,Jack Lance,260
+UNION,State House,8,Democrat,Jack Lance,1903
+WHITE,State House,8,Democrat,Jack Lance,133
 RABUN,State House,8,Republican,Stephen Allison,1737
 TOWNS,State House,8,Republican,Stephen Allison,925
 UNION,State House,8,Republican,Stephen Allison,3673
@@ -10498,20 +10498,20 @@ FORSYTH,State House,9,Republican,Amos Amerson,2039
 LUMPKIN,State House,9,Republican,Amos Amerson,2379
 HABERSHAM,State House,10,Republican,Rick Austin,4109
 WHITE,State House,10,Republican,Rick Austin,1451
-CHATTOOGA,State House,11,Democratic,Barbara Massey Reece,1301
-FLOYD,State House,11,Democratic,Barbara Massey Reece,355
-BARTOW,State House,12,Democratic,Jerry Nally,55
-GORDON,State House,12,Democratic,Jerry Nally,291
-PICKENS,State House,12,Democratic,Jerry Nally,367
+CHATTOOGA,State House,11,Democrat,Barbara Massey Reece,1301
+FLOYD,State House,11,Democrat,Barbara Massey Reece,355
+BARTOW,State House,12,Democrat,Jerry Nally,55
+GORDON,State House,12,Democrat,Jerry Nally,291
+PICKENS,State House,12,Democrat,Jerry Nally,367
 BARTOW,State House,12,Republican,Rick Jasperse,157
 GORDON,State House,12,Republican,Rick Jasperse,1201
 PICKENS,State House,12,Republican,Rick Jasperse,3719
-FLOYD,State House,13,Democratic,Bonny Askew,1111
+FLOYD,State House,13,Democrat,Bonny Askew,1111
 FLOYD,State House,13,Republican,Katie M. Dempsey,2137
-BARTOW,State House,14,Democratic,Dan Ledford,289
-BARTOW,State House,14,Democratic,Jessica Weaver-Stoll,296
-FLOYD,State House,14,Democratic,Dan Ledford,260
-FLOYD,State House,14,Democratic,Jessica Weaver-Stoll,215
+BARTOW,State House,14,Democrat,Dan Ledford,289
+BARTOW,State House,14,Democrat,Jessica Weaver-Stoll,296
+FLOYD,State House,14,Democrat,Dan Ledford,260
+FLOYD,State House,14,Democrat,Jessica Weaver-Stoll,215
 BARTOW,State House,14,Republican,Christian Coomer,1249
 BARTOW,State House,14,Republican,Greg Bowen,664
 BARTOW,State House,14,Republican,Shep Helton,1467
@@ -10520,86 +10520,86 @@ FLOYD,State House,14,Republican,Greg Bowen,399
 FLOYD,State House,14,Republican,Shep Helton,511
 BARTOW,State House,15,Republican,Hayden Collins,1572
 BARTOW,State House,15,Republican,Paul R. Battles,3364
-FLOYD,State House,16,Democratic,Rick Crawford,178
-POLK,State House,16,Democratic,Rick Crawford,1405
+FLOYD,State House,16,Democrat,Rick Crawford,178
+POLK,State House,16,Democrat,Rick Crawford,1405
 HARALSON,State House,17,Republican,Howard R. Maxwell,965
 PAULDING,State House,17,Republican,Howard R. Maxwell,4772
 CARROLL,State House,18,Republican,Gerald Pilgrim,1116
 CARROLL,State House,18,Republican,Kevin Cooke,1530
 HARALSON,State House,18,Republican,Gerald Pilgrim,1213
 HARALSON,State House,18,Republican,Kevin Cooke,1134
-PAULDING,State House,19,Democratic,Will Avery,1052
+PAULDING,State House,19,Democrat,Will Avery,1052
 PAULDING,State House,19,Republican,Daniel Stout,2335
 PAULDING,State House,19,Republican,Paulette Rakestraw Braddock,1878
 PAULDING,State House,19,Republican,Steve R. Golden,1796
-CHEROKEE,State House,20,Democratic,Lillian Burnaman,559
+CHEROKEE,State House,20,Democrat,Lillian Burnaman,559
 CHEROKEE,State House,20,Republican,Charlice Byrd,2791
 CHEROKEE,State House,20,Republican,Michael Caldwell,2310
-CHEROKEE,State House,21,Democratic,Stephanie Webb,766
+CHEROKEE,State House,21,Democrat,Stephanie Webb,766
 CHEROKEE,State House,21,Republican,Calvin Hill,6871
-CHEROKEE,State House,22,Democratic,Bill Brown,790
+CHEROKEE,State House,22,Democrat,Bill Brown,790
 CHEROKEE,State House,22,Republican,Sean Jerguson,4308
 CHEROKEE,State House,23,Republican,Mark Hamilton,750
 FORSYTH,State House,23,Republican,Mark Hamilton,6735
 FORSYTH,State House,24,Republican,Anna McManus,2979
 FORSYTH,State House,24,Republican,Douglas Wright,825
 FORSYTH,State House,24,Republican,Mike Dudgeon,4255
-HALL,State House,25,Democratic,Mike Parker,596
+HALL,State House,25,Democrat,Mike Parker,596
 HALL,State House,25,Republican,James Mills,6482
-HALL,State House,26,Democratic,Chad Cobb,556
+HALL,State House,26,Democrat,Chad Cobb,556
 HALL,State House,26,Republican,Carl Rogers,2434
 HALL,State House,27,Republican,Doug Collins,6650
 LUMPKIN,State House,27,Republican,Doug Collins,126
 WHITE,State House,27,Republican,Doug Collins,882
-BANKS,State House,28,Democratic,Christopher James Irvin,240
-FRANKLIN,State House,28,Democratic,Christopher James Irvin,103
-STEPHENS,State House,28,Democratic,Christopher James Irvin,511
+BANKS,State House,28,Democrat,Christopher James Irvin,240
+FRANKLIN,State House,28,Democrat,Christopher James Irvin,103
+STEPHENS,State House,28,Democrat,Christopher James Irvin,511
 BANKS,State House,28,Republican,Michael Harden,2061
 FRANKLIN,State House,28,Republican,Michael Harden,441
 STEPHENS,State House,28,Republican,Michael Harden,1604
-FRANKLIN,State House,29,Democratic,Alan Powell,335
-HART,State House,29,Democratic,Alan Powell,500
-MADISON,State House,29,Democratic,Alan Powell,146
-ELBERT,State House,30,Democratic,Marilyn 'MJ' Bridges,1044
-JACKSON,State House,30,Democratic,Marilyn 'MJ' Bridges,105
-MADISON,State House,30,Democratic,Marilyn 'MJ' Bridges,394
+FRANKLIN,State House,29,Democrat,Alan Powell,335
+HART,State House,29,Democrat,Alan Powell,500
+MADISON,State House,29,Democrat,Alan Powell,146
+ELBERT,State House,30,Democrat,Marilyn 'MJ' Bridges,1044
+JACKSON,State House,30,Democrat,Marilyn 'MJ' Bridges,105
+MADISON,State House,30,Democrat,Marilyn 'MJ' Bridges,394
 ELBERT,State House,30,Republican,Tom McCall,2095
 JACKSON,State House,30,Republican,Tom McCall,644
 MADISON,State House,30,Republican,Tom McCall,1726
 BARROW,State House,31,Republican,Tommy Benton,83
 HALL,State House,31,Republican,Tommy Benton,548
 JACKSON,State House,31,Republican,Tommy Benton,4697
-COBB,State House,32,Democratic,Kevin Hagler,1046
+COBB,State House,32,Democrat,Kevin Hagler,1046
 COBB,State House,32,Republican,Buddy Simpson,1889
 COBB,State House,32,Republican,Judy Manning,4425
-COBB,State House,33,Democratic,David Wilkerson,1608
-COBB,State House,33,Democratic,Don Wix,1464
-COBB,State House,34,Democratic,Maryline Blackburn,1485
+COBB,State House,33,Democrat,David Wilkerson,1608
+COBB,State House,33,Democrat,Don Wix,1464
+COBB,State House,34,Democrat,Maryline Blackburn,1485
 COBB,State House,34,Republican,Rich Golick,3080
-COBB,State House,35,Democratic,Matthew D. Adams,1133
+COBB,State House,35,Democrat,Matthew D. Adams,1133
 COBB,State House,35,Republican,Ed Setzler,3545
 COBB,State House,36,Republican,Earl Ehrhart,6565
-COBB,State House,37,Democratic,Mark G. Koch,474
-COBB,State House,37,Democratic,Terry Johnson,1299
+COBB,State House,37,Democrat,Mark G. Koch,474
+COBB,State House,37,Democrat,Terry Johnson,1299
 COBB,State House,37,Republican,Jason Shepherd,2227
-COBB,State House,38,Democratic,Pat Dooley,1104
+COBB,State House,38,Democrat,Pat Dooley,1104
 COBB,State House,38,Republican,Sam Teasley,2352
-COBB,State House,39,Democratic,Alisha Thomas Morgan,2296
-COBB,State House,39,Democratic,Betty Gray,831
-COBB,State House,40,Democratic,Stacey Evans,638
+COBB,State House,39,Democrat,Alisha Thomas Morgan,2296
+COBB,State House,39,Democrat,Betty Gray,831
+COBB,State House,40,Democrat,Stacey Evans,638
 COBB,State House,40,Republican,D. Scott McDearman,622
-COBB,State House,41,Democratic,Diane Lore,879
+COBB,State House,41,Democrat,Diane Lore,879
 COBB,State House,41,Republican,Calvin Rhodes,1764
 COBB,State House,41,Republican,Sharon Cooper,2866
 COBB,State House,42,Republican,Don L. Parsons,3674
 COBB,State House,43,Republican,Bobby Franklin,4621
-COBB,State House,44,Democratic,Sheila Jones,511
-COBB,State House,44,Democratic,Steven Lee,153
-FULTON,State House,44,Democratic,Sheila Jones,2122
-FULTON,State House,44,Democratic,Steven Lee,405
-COBB,State House,45,Democratic,Ruth Levy,933
+COBB,State House,44,Democrat,Sheila Jones,511
+COBB,State House,44,Democrat,Steven Lee,153
+FULTON,State House,44,Democrat,Sheila Jones,2122
+FULTON,State House,44,Democrat,Steven Lee,405
+COBB,State House,45,Democrat,Ruth Levy,933
 COBB,State House,45,Republican,Matt Dollar,6134
-FULTON,State House,46,Democratic,Paul Kennedy,822
+FULTON,State House,46,Democrat,Paul Kennedy,822
 FULTON,State House,46,Republican,Jan Jones,5224
 FULTON,State House,47,Republican,"Charles E. 'Chuck' Martin, Jr.",2841
 FULTON,State House,48,Republican,Harry Geisinger,2859
@@ -10610,32 +10610,32 @@ FULTON,State House,51,Republican,Tom Rice,1026
 GWINNETT,State House,51,Republican,Neal Towey,1030
 GWINNETT,State House,51,Republican,Tom Rice,2820
 FULTON,State House,52,Republican,Joe Wilkinson,3467
-FULTON,State House,53,Democratic,Elly Dobbs,2343
+FULTON,State House,53,Democrat,Elly Dobbs,2343
 FULTON,State House,54,Republican,Edward Lindsey,3581
-FULTON,State House,55,Democratic,Able Mable Thomas,1265
-FULTON,State House,55,Democratic,Rashad Taylor,1614
-FULTON,State House,56,Democratic,Kathy Ashe,1692
-DEKALB,State House,57,Democratic,Pat Gardner,699
-FULTON,State House,57,Democratic,Pat Gardner,1883
-DEKALB,State House,58,Democratic,Simone Bell,1569
-FULTON,State House,58,Democratic,Simone Bell,929
-FULTON,State House,59,Democratic,Margaret D Kaiser,2423
-CLAYTON,State House,60,Democratic,Gloria Bromell Tinubu,452
-DEKALB,State House,60,Democratic,Gloria Bromell Tinubu,104
-FULTON,State House,60,Democratic,Gloria Bromell Tinubu,1090
-FULTON,State House,61,Democratic,Emory McClinton Jr.,829
-FULTON,State House,61,Democratic,Ralph Long,2233
-CLAYTON,State House,62,Democratic,Joe Heckstall,459
-FULTON,State House,62,Democratic,Joe Heckstall,2093
-DOUGLAS,State House,63,Democratic,Tyrone Brooks,1196
-FULTON,State House,63,Democratic,Tyrone Brooks,4747
-DOUGLAS,State House,64,Democratic,Roger Bruce,905
-FULTON,State House,64,Democratic,Roger Bruce,3748
-FULTON,State House,65,Democratic,George Sneed,1118
-FULTON,State House,65,Democratic,Sharon Beasley-Teague,3551
-FAYETTE,State House,66,Democratic,Virgil Fludd,576
-FULTON,State House,66,Democratic,Virgil Fludd,2912
-DOUGLAS,State House,67,Democratic,Kimberly Alexander,1642
+FULTON,State House,55,Democrat,Able Mable Thomas,1265
+FULTON,State House,55,Democrat,Rashad Taylor,1614
+FULTON,State House,56,Democrat,Kathy Ashe,1692
+DEKALB,State House,57,Democrat,Pat Gardner,699
+FULTON,State House,57,Democrat,Pat Gardner,1883
+DEKALB,State House,58,Democrat,Simone Bell,1569
+FULTON,State House,58,Democrat,Simone Bell,929
+FULTON,State House,59,Democrat,Margaret D Kaiser,2423
+CLAYTON,State House,60,Democrat,Gloria Bromell Tinubu,452
+DEKALB,State House,60,Democrat,Gloria Bromell Tinubu,104
+FULTON,State House,60,Democrat,Gloria Bromell Tinubu,1090
+FULTON,State House,61,Democrat,Emory McClinton Jr.,829
+FULTON,State House,61,Democrat,Ralph Long,2233
+CLAYTON,State House,62,Democrat,Joe Heckstall,459
+FULTON,State House,62,Democrat,Joe Heckstall,2093
+DOUGLAS,State House,63,Democrat,Tyrone Brooks,1196
+FULTON,State House,63,Democrat,Tyrone Brooks,4747
+DOUGLAS,State House,64,Democrat,Roger Bruce,905
+FULTON,State House,64,Democrat,Roger Bruce,3748
+FULTON,State House,65,Democrat,George Sneed,1118
+FULTON,State House,65,Democrat,Sharon Beasley-Teague,3551
+FAYETTE,State House,66,Democrat,Virgil Fludd,576
+FULTON,State House,66,Democrat,Virgil Fludd,2912
+DOUGLAS,State House,67,Democrat,Kimberly Alexander,1642
 DOUGLAS,State House,67,Republican,Bill Hembree,4046
 CARROLL,State House,68,Republican,Timothy J. Bearden,4305
 DOUGLAS,State House,68,Republican,Timothy J. Bearden,473
@@ -10646,113 +10646,113 @@ COWETA,State House,70,Republican,Lynn R. Smith,4060
 HEARD,State House,70,Republican,Lynn R. Smith,85
 COWETA,State House,71,Republican,Billy Horne,5445
 FAYETTE,State House,72,Republican,Matt Ramsey,5842
-FAYETTE,State House,73,Democratic,Rose Carroll,171
-HENRY,State House,73,Democratic,Rose Carroll,481
-SPALDING,State House,73,Democratic,Rose Carroll,694
+FAYETTE,State House,73,Democrat,Rose Carroll,171
+HENRY,State House,73,Democrat,Rose Carroll,481
+SPALDING,State House,73,Democrat,Rose Carroll,694
 FAYETTE,State House,73,Republican,John Yates,1670
 HENRY,State House,73,Republican,John Yates,1132
 SPALDING,State House,73,Republican,John Yates,2611
-CLAYTON,State House,74,Democratic,Emory Wilkerson,903
-CLAYTON,State House,74,Democratic,Roberta Abdul-Salaam,1725
-FAYETTE,State House,74,Democratic,Emory Wilkerson,623
-FAYETTE,State House,74,Democratic,Roberta Abdul-Salaam,826
-CLAYTON,State House,75,Democratic,H. Shawn James,708
-CLAYTON,State House,75,Democratic,Kristy Dubuisson,485
-CLAYTON,State House,75,Democratic,Yasmin Neal,675
-CLAYTON,State House,76,Democratic,Carlotta Harrell,1281
-CLAYTON,State House,76,Democratic,Sandra G. Scott,2138
-CLAYTON,State House,76,Democratic,Thomas Pough,789
-CLAYTON,State House,77,Democratic,Darryl Jordan,2489
-FAYETTE,State House,77,Democratic,Darryl Jordan,259
+CLAYTON,State House,74,Democrat,Emory Wilkerson,903
+CLAYTON,State House,74,Democrat,Roberta Abdul-Salaam,1725
+FAYETTE,State House,74,Democrat,Emory Wilkerson,623
+FAYETTE,State House,74,Democrat,Roberta Abdul-Salaam,826
+CLAYTON,State House,75,Democrat,H. Shawn James,708
+CLAYTON,State House,75,Democrat,Kristy Dubuisson,485
+CLAYTON,State House,75,Democrat,Yasmin Neal,675
+CLAYTON,State House,76,Democrat,Carlotta Harrell,1281
+CLAYTON,State House,76,Democrat,Sandra G. Scott,2138
+CLAYTON,State House,76,Democrat,Thomas Pough,789
+CLAYTON,State House,77,Democrat,Darryl Jordan,2489
+FAYETTE,State House,77,Democrat,Darryl Jordan,259
 CLAYTON,State House,77,Republican,James Brown,356
 FAYETTE,State House,77,Republican,James Brown,590
-CLAYTON,State House,78,Democratic,Glenn Baker,2908
-CLAYTON,State House,78,Democratic,Jackie Anderson-Woods,2216
-HENRY,State House,78,Democratic,Glenn Baker,173
-HENRY,State House,78,Democratic,Jackie Anderson-Woods,247
-DEKALB,State House,79,Democratic,Keith A. Kaylor,1026
+CLAYTON,State House,78,Democrat,Glenn Baker,2908
+CLAYTON,State House,78,Democrat,Jackie Anderson-Woods,2216
+HENRY,State House,78,Democrat,Glenn Baker,173
+HENRY,State House,78,Democrat,Jackie Anderson-Woods,247
+DEKALB,State House,79,Democrat,Keith A. Kaylor,1026
 DEKALB,State House,79,Republican,Tammy Anderson,1578
 DEKALB,State House,79,Republican,Tom Taylor,3735
-DEKALB,State House,80,Democratic,Keith Gross,433
-DEKALB,State House,80,Democratic,Sandy Murray,934
+DEKALB,State House,80,Democrat,Keith Gross,433
+DEKALB,State House,80,Democrat,Sandy Murray,934
 DEKALB,State House,80,Republican,Mike Jacobs,2090
-DEKALB,State House,81,Democratic,Elena Parent,734
+DEKALB,State House,81,Democrat,Elena Parent,734
 DEKALB,State House,81,Republican,Jill Chambers,1052
-DEKALB,State House,83,Democratic,Mary Margaret Oliver,3313
-DEKALB,State House,84,Democratic,Stacey Abrams,3398
-DEKALB,State House,85,Democratic,Stephanie Stuckey Benfield,3839
+DEKALB,State House,83,Democrat,Mary Margaret Oliver,3313
+DEKALB,State House,84,Democrat,Stacey Abrams,3398
+DEKALB,State House,85,Democrat,Stephanie Stuckey Benfield,3839
 DEKALB,State House,85,Republican,Kenneth Brett Quarterman,520
-DEKALB,State House,86,Democratic,Karla Drenner,1520
-DEKALB,State House,87,Democratic,Michele Henson,3134
-DEKALB,State House,88,Democratic,Billy Mitchell,3051
-DEKALB,State House,88,Democratic,Simone Joye,1140
-GWINNETT,State House,88,Democratic,Billy Mitchell,104
-GWINNETT,State House,88,Democratic,Simone Joye,64
-DEKALB,State House,89,Democratic,Earnest 'Coach' Williams,2816
-DEKALB,State House,89,Democratic,Kenneth Samuel,1590
-DEKALB,State House,90,Democratic,Howard Mosby,2944
-HENRY,State House,90,Democratic,Howard Mosby,1077
-DEKALB,State House,91,Democratic,Rahn Mayo,3934
-HENRY,State House,91,Democratic,Rahn Mayo,1174
-DEKALB,State House,92,Democratic,Pam S. Stephenson,4318
-ROCKDALE,State House,92,Democratic,Pam S. Stephenson,857
-DEKALB,State House,93,Democratic,Dee Dawkins-Haigler,3096
-ROCKDALE,State House,93,Democratic,Dee Dawkins-Haigler,1227
-DEKALB,State House,94,Democratic,Andrew Bostic,363
-DEKALB,State House,94,Democratic,Dar'shun N. Kendrick,1048
-DEKALB,State House,94,Democratic,Rhonda Peek,764
-DEKALB,State House,94,Democratic,Sherri L. Washington,591
-ROCKDALE,State House,94,Democratic,Andrew Bostic,161
-ROCKDALE,State House,94,Democratic,Dar'shun N. Kendrick,328
-ROCKDALE,State House,94,Democratic,Rhonda Peek,283
-ROCKDALE,State House,94,Democratic,Sherri L. Washington,285
+DEKALB,State House,86,Democrat,Karla Drenner,1520
+DEKALB,State House,87,Democrat,Michele Henson,3134
+DEKALB,State House,88,Democrat,Billy Mitchell,3051
+DEKALB,State House,88,Democrat,Simone Joye,1140
+GWINNETT,State House,88,Democrat,Billy Mitchell,104
+GWINNETT,State House,88,Democrat,Simone Joye,64
+DEKALB,State House,89,Democrat,Earnest 'Coach' Williams,2816
+DEKALB,State House,89,Democrat,Kenneth Samuel,1590
+DEKALB,State House,90,Democrat,Howard Mosby,2944
+HENRY,State House,90,Democrat,Howard Mosby,1077
+DEKALB,State House,91,Democrat,Rahn Mayo,3934
+HENRY,State House,91,Democrat,Rahn Mayo,1174
+DEKALB,State House,92,Democrat,Pam S. Stephenson,4318
+ROCKDALE,State House,92,Democrat,Pam S. Stephenson,857
+DEKALB,State House,93,Democrat,Dee Dawkins-Haigler,3096
+ROCKDALE,State House,93,Democrat,Dee Dawkins-Haigler,1227
+DEKALB,State House,94,Democrat,Andrew Bostic,363
+DEKALB,State House,94,Democrat,Dar'shun N. Kendrick,1048
+DEKALB,State House,94,Democrat,Rhonda Peek,764
+DEKALB,State House,94,Democrat,Sherri L. Washington,591
+ROCKDALE,State House,94,Democrat,Andrew Bostic,161
+ROCKDALE,State House,94,Democrat,Dar'shun N. Kendrick,328
+ROCKDALE,State House,94,Democrat,Rhonda Peek,283
+ROCKDALE,State House,94,Democrat,Sherri L. Washington,285
 DEKALB,State House,94,Republican,Steven Conner,110
 ROCKDALE,State House,94,Republican,Steven Conner,748
-GWINNETT,State House,95,Democratic,Andrea Cooper,351
-GWINNETT,State House,95,Democratic,Pam Dickerson,479
-GWINNETT,State House,95,Democratic,Toney Collins,698
-NEWTON,State House,95,Democratic,Andrea Cooper,372
-NEWTON,State House,95,Democratic,Pam Dickerson,399
-NEWTON,State House,95,Democratic,Toney Collins,499
-ROCKDALE,State House,95,Democratic,Andrea Cooper,127
-ROCKDALE,State House,95,Democratic,Pam Dickerson,330
-ROCKDALE,State House,95,Democratic,Toney Collins,359
+GWINNETT,State House,95,Democrat,Andrea Cooper,351
+GWINNETT,State House,95,Democrat,Pam Dickerson,479
+GWINNETT,State House,95,Democrat,Toney Collins,698
+NEWTON,State House,95,Democrat,Andrea Cooper,372
+NEWTON,State House,95,Democrat,Pam Dickerson,399
+NEWTON,State House,95,Democrat,Toney Collins,499
+ROCKDALE,State House,95,Democrat,Andrea Cooper,127
+ROCKDALE,State House,95,Democrat,Pam Dickerson,330
+ROCKDALE,State House,95,Democrat,Toney Collins,359
 GWINNETT,State House,95,Republican,Rodney Upton,1312
 NEWTON,State House,95,Republican,Rodney Upton,1104
 ROCKDALE,State House,95,Republican,Rodney Upton,1003
-GWINNETT,State House,96,Democratic,Brian Mock,323
-GWINNETT,State House,96,Democratic,Pedro 'Pete' Marin,354
+GWINNETT,State House,96,Democrat,Brian Mock,323
+GWINNETT,State House,96,Democrat,Pedro 'Pete' Marin,354
 GWINNETT,State House,97,Republican,Brooks Coleman,3539
 GWINNETT,State House,98,Republican,Josh Clark,5401
 GWINNETT,State House,98,Republican,Wayne Hill,2340
-GWINNETT,State House,99,Democratic,Hugh Floyd,442
-GWINNETT,State House,100,Democratic,Brian Thomas,699
+GWINNETT,State House,99,Democrat,Hugh Floyd,442
+GWINNETT,State House,100,Democrat,Brian Thomas,699
 GWINNETT,State House,101,Republican,Buzz Brockway,2436
 GWINNETT,State House,101,Republican,Jesse Jones,1034
-GWINNETT,State House,102,Democratic,Porter D. Deal,929
+GWINNETT,State House,102,Democrat,Porter D. Deal,929
 GWINNETT,State House,102,Republican,B.J. Pak,1980
 GWINNETT,State House,102,Republican,Keith A. Royal,1336
 GWINNETT,State House,102,Republican,Linda Carsten,1481
 GWINNETT,State House,102,Republican,Steve Allen,894
-GWINNETT,State House,103,Democratic,Allan Burns,1098
+GWINNETT,State House,103,Democrat,Allan Burns,1098
 GWINNETT,State House,103,Republican,David Casas,2600
 GWINNETT,State House,103,Republican,Steve Ramey,1861
-GWINNETT,State House,104,Democratic,Lee Thompson,1000
+GWINNETT,State House,104,Democrat,Lee Thompson,1000
 GWINNETT,State House,104,Republican,Gary H Webb,550
 GWINNETT,State House,104,Republican,Timothy Swiney,876
 GWINNETT,State House,104,Republican,Valerie Clark,1890
 GWINNETT,State House,105,Republican,Donna Sheldon,6724
-GWINNETT,State House,106,Democratic,Steffini Bethea,1274
+GWINNETT,State House,106,Democrat,Steffini Bethea,1274
 GWINNETT,State House,106,Republican,Brett Harrell,2899
 GWINNETT,State House,106,Republican,Warren Auld,2474
 GWINNETT,State House,107,Republican,Len Walker,4469
 WALTON,State House,107,Republican,Len Walker,2335
 BARROW,State House,108,Republican,Terry England,5547
-HENRY,State House,109,Democratic,Matt Roberts,2139
+HENRY,State House,109,Democrat,Matt Roberts,2139
 HENRY,State House,109,Republican,Steve Davis,4578
-BUTTS,State House,110,Democratic,Rudy Cox,282
-HENRY,State House,110,Democratic,Rudy Cox,487
-NEWTON,State House,110,Democratic,Rudy Cox,1053
+BUTTS,State House,110,Democrat,Rudy Cox,282
+HENRY,State House,110,Democrat,Rudy Cox,487
+NEWTON,State House,110,Democrat,Rudy Cox,1053
 BUTTS,State House,110,Republican,Andrew 'Andy' J. Welch III,516
 BUTTS,State House,110,Republican,Lee M. Spahos,563
 BUTTS,State House,110,Republican,Tom R. Nicholson,220
@@ -10767,10 +10767,10 @@ WALTON,State House,111,Republican,Lee Rowell,1557
 WALTON,State House,111,Republican,Timmy Shelnutt,2680
 MORGAN,State House,112,Republican,Doug Holt,1678
 NEWTON,State House,112,Republican,Doug Holt,3311
-CLARKE,State House,113,Democratic,Suzy Compere,721
-MORGAN,State House,113,Democratic,Suzy Compere,93
-OCONEE,State House,113,Democratic,Suzy Compere,636
-OGLETHORPE,State House,113,Democratic,Suzy Compere,156
+CLARKE,State House,113,Democrat,Suzy Compere,721
+MORGAN,State House,113,Democrat,Suzy Compere,93
+OCONEE,State House,113,Democrat,Suzy Compere,636
+OGLETHORPE,State House,113,Democrat,Suzy Compere,156
 CLARKE,State House,113,Republican,Hank Huckaby,614
 CLARKE,State House,113,Republican,Kirk Shook,139
 CLARKE,State House,113,Republican,Tommy Malcom,166
@@ -10783,9 +10783,9 @@ OCONEE,State House,113,Republican,Tommy Malcom,1917
 OGLETHORPE,State House,113,Republican,Hank Huckaby,364
 OGLETHORPE,State House,113,Republican,Kirk Shook,182
 OGLETHORPE,State House,113,Republican,Tommy Malcom,73
-CLARKE,State House,114,Democratic,Holly Ward,1236
-CLARKE,State House,114,Democratic,Keith G. Heard,1786
-CLARKE,State House,115,Democratic,Doug McKillip,1687
+CLARKE,State House,114,Democrat,Holly Ward,1236
+CLARKE,State House,114,Democrat,Keith G. Heard,1786
+CLARKE,State House,115,Democrat,Doug McKillip,1687
 GREENE,State House,116,Republican,Mickey Channell,1490
 OGLETHORPE,State House,116,Republican,Mickey Channell,716
 PUTNAM,State House,116,Republican,Mickey Channell,1201
@@ -10796,27 +10796,27 @@ WILKES,State House,117,Republican,Lee Anderson,129
 COLUMBIA,State House,118,Republican,Ben Harbin,5615
 COLUMBIA,State House,119,Republican,Barbara Sims,935
 RICHMOND,State House,119,Republican,Barbara Sims,2981
-RICHMOND,State House,120,Democratic,Quincy Murphy,1906
-RICHMOND,State House,121,Democratic,Henry 'Wayne' Howard,1296
-RICHMOND,State House,122,Democratic,Earnest Smith,1516
-BURKE,State House,123,Democratic,Gloria Frazier,730
-RICHMOND,State House,123,Democratic,Gloria Frazier,913
-GLASCOCK,State House,124,Democratic,Helen G. 'Sistie' Hudson,89
-HANCOCK,State House,124,Democratic,Helen G. 'Sistie' Hudson,1600
-MCDUFFIE,State House,124,Democratic,Helen G. 'Sistie' Hudson,547
-PUTNAM,State House,124,Democratic,Helen G. 'Sistie' Hudson,71
-TALIAFERRO,State House,124,Democratic,Helen G. 'Sistie' Hudson,467
-WARREN,State House,124,Democratic,Helen G. 'Sistie' Hudson,324
+RICHMOND,State House,120,Democrat,Quincy Murphy,1906
+RICHMOND,State House,121,Democrat,Henry 'Wayne' Howard,1296
+RICHMOND,State House,122,Democrat,Earnest Smith,1516
+BURKE,State House,123,Democrat,Gloria Frazier,730
+RICHMOND,State House,123,Democrat,Gloria Frazier,913
+GLASCOCK,State House,124,Democrat,Helen G. 'Sistie' Hudson,89
+HANCOCK,State House,124,Democrat,Helen G. 'Sistie' Hudson,1600
+MCDUFFIE,State House,124,Democrat,Helen G. 'Sistie' Hudson,547
+PUTNAM,State House,124,Democrat,Helen G. 'Sistie' Hudson,71
+TALIAFERRO,State House,124,Democrat,Helen G. 'Sistie' Hudson,467
+WARREN,State House,124,Democrat,Helen G. 'Sistie' Hudson,324
 GLASCOCK,State House,124,Republican,Charles Ashfield,132
 HANCOCK,State House,124,Republican,Charles Ashfield,51
 MCDUFFIE,State House,124,Republican,Charles Ashfield,1216
 PUTNAM,State House,124,Republican,Charles Ashfield,364
 TALIAFERRO,State House,124,Republican,Charles Ashfield,17
 WARREN,State House,124,Republican,Charles Ashfield,215
-JASPER,State House,125,Democratic,David Gault,335
-JONES,State House,125,Democratic,David Gault,604
-LAMAR,State House,125,Democratic,David Gault,270
-MONROE,State House,125,Democratic,David Gault,498
+JASPER,State House,125,Democrat,David Gault,335
+JONES,State House,125,Democrat,David Gault,604
+LAMAR,State House,125,Democrat,David Gault,270
+MONROE,State House,125,Democrat,David Gault,498
 JASPER,State House,125,Republican,Mary Alice Carter,649
 JASPER,State House,125,Republican,Susan Holmes,918
 JONES,State House,125,Republican,Mary Alice Carter,591
@@ -10837,33 +10837,33 @@ PIKE,State House,127,Republican,Billy Maddox,1570
 PIKE,State House,127,Republican,Spencer Price,743
 UPSON,State House,127,Republican,Billy Maddox,1308
 UPSON,State House,127,Republican,Spencer Price,1095
-MERIWETHER,State House,128,Democratic,Carl Von Epps,1225
-TROUP,State House,128,Democratic,Carl Von Epps,780
+MERIWETHER,State House,128,Democrat,Carl Von Epps,1225
+TROUP,State House,128,Democrat,Carl Von Epps,780
 HARRIS,State House,129,Republican,Kip Smith,2021
 MUSCOGEE,State House,129,Republican,Kip Smith,983
 TROUP,State House,129,Republican,Kip Smith,790
-HARRIS,State House,130,Democratic,Debbie G. Buckner,145
-MUSCOGEE,State House,130,Democratic,Debbie G. Buckner,1438
-TALBOT,State House,130,Democratic,Debbie G. Buckner,90
+HARRIS,State House,130,Democrat,Debbie G. Buckner,145
+MUSCOGEE,State House,130,Democrat,Debbie G. Buckner,1438
+TALBOT,State House,130,Democrat,Debbie G. Buckner,90
 MUSCOGEE,State House,131,Republican,Richard H. Smith,2540
-MUSCOGEE,State House,132,Democratic,Calvin Smyre,1189
-MUSCOGEE,State House,133,Democratic,Carolyn F. Hugley,2166
-MARION,State House,134,Democratic,Mike Cheokas,245
-SCHLEY,State House,134,Democratic,Mike Cheokas,101
-SUMTER,State House,134,Democratic,Mike Cheokas,1126
-TALBOT,State House,134,Democratic,Mike Cheokas,60
-DOOLY,State House,135,Democratic,Lynmore James,312
-MACON,State House,135,Democratic,Lynmore James,1107
-PEACH,State House,135,Democratic,Lynmore James,976
-TALBOT,State House,135,Democratic,Lynmore James,221
-TAYLOR,State House,135,Democratic,Lynmore James,406
-BIBB,State House,136,Democratic,Sharon B. Howard,128
-CRAWFORD,State House,136,Democratic,Sharon B. Howard,381
-HOUSTON,State House,136,Democratic,Sharon B. Howard,356
-LAMAR,State House,136,Democratic,Sharon B. Howard,29
-MONROE,State House,136,Democratic,Sharon B. Howard,225
-PEACH,State House,136,Democratic,Sharon B. Howard,388
-UPSON,State House,136,Democratic,Sharon B. Howard,135
+MUSCOGEE,State House,132,Democrat,Calvin Smyre,1189
+MUSCOGEE,State House,133,Democrat,Carolyn F. Hugley,2166
+MARION,State House,134,Democrat,Mike Cheokas,245
+SCHLEY,State House,134,Democrat,Mike Cheokas,101
+SUMTER,State House,134,Democrat,Mike Cheokas,1126
+TALBOT,State House,134,Democrat,Mike Cheokas,60
+DOOLY,State House,135,Democrat,Lynmore James,312
+MACON,State House,135,Democrat,Lynmore James,1107
+PEACH,State House,135,Democrat,Lynmore James,976
+TALBOT,State House,135,Democrat,Lynmore James,221
+TAYLOR,State House,135,Democrat,Lynmore James,406
+BIBB,State House,136,Democrat,Sharon B. Howard,128
+CRAWFORD,State House,136,Democrat,Sharon B. Howard,381
+HOUSTON,State House,136,Democrat,Sharon B. Howard,356
+LAMAR,State House,136,Democrat,Sharon B. Howard,29
+MONROE,State House,136,Democrat,Sharon B. Howard,225
+PEACH,State House,136,Democrat,Sharon B. Howard,388
+UPSON,State House,136,Democrat,Sharon B. Howard,135
 BIBB,State House,136,Republican,Tony Sellier,241
 CRAWFORD,State House,136,Republican,Tony Sellier,759
 HOUSTON,State House,136,Republican,Tony Sellier,649
@@ -10872,31 +10872,31 @@ MONROE,State House,136,Republican,Tony Sellier,895
 PEACH,State House,136,Republican,Tony Sellier,636
 UPSON,State House,136,Republican,Tony Sellier,43
 BIBB,State House,137,Republican,Allen Peake,5028
-BIBB,State House,138,Democratic,Nikki T. Randall,2747
-BIBB,State House,139,Democratic,David E. Lucas,2326
-BIBB,State House,140,Democratic,James A. 'Bubber' Epps,715
-JONES,State House,140,Democratic,James A. 'Bubber' Epps,490
-TWIGGS,State House,140,Democratic,James A. 'Bubber' Epps,844
-WILKINSON,State House,140,Democratic,James A. 'Bubber' Epps,766
+BIBB,State House,138,Democrat,Nikki T. Randall,2747
+BIBB,State House,139,Democrat,David E. Lucas,2326
+BIBB,State House,140,Democrat,James A. 'Bubber' Epps,715
+JONES,State House,140,Democrat,James A. 'Bubber' Epps,490
+TWIGGS,State House,140,Democrat,James A. 'Bubber' Epps,844
+WILKINSON,State House,140,Democrat,James A. 'Bubber' Epps,766
 BIBB,State House,140,Republican,Allen G. Freeman,1039
 JONES,State House,140,Republican,Allen G. Freeman,574
 TWIGGS,State House,140,Republican,Allen G. Freeman,332
 WILKINSON,State House,140,Republican,Allen G. Freeman,416
-BALDWIN,State House,141,Democratic,Quentin T. Howell,1963
-PUTNAM,State House,141,Democratic,Quentin T. Howell,31
-BURKE,State House,142,Democratic,Mack Jackson,41
-EMANUEL,State House,142,Democratic,Mack Jackson,39
-JEFFERSON,State House,142,Democratic,Mack Jackson,958
-JOHNSON,State House,142,Democratic,Mack Jackson,264
-WASHINGTON,State House,142,Democratic,Mack Jackson,2284
-JOHNSON,State House,143,Democratic,Claudia Graham,2
-JOHNSON,State House,143,Democratic,Dan King,52
-JOHNSON,State House,143,Democratic,Mitch Warnock,16
-JOHNSON,State House,143,Democratic,Pablo Santamaria,6
-LAURENS,State House,143,Democratic,Claudia Graham,1392
-LAURENS,State House,143,Democratic,Dan King,1478
-LAURENS,State House,143,Democratic,Mitch Warnock,2066
-LAURENS,State House,143,Democratic,Pablo Santamaria,1534
+BALDWIN,State House,141,Democrat,Quentin T. Howell,1963
+PUTNAM,State House,141,Democrat,Quentin T. Howell,31
+BURKE,State House,142,Democrat,Mack Jackson,41
+EMANUEL,State House,142,Democrat,Mack Jackson,39
+JEFFERSON,State House,142,Democrat,Mack Jackson,958
+JOHNSON,State House,142,Democrat,Mack Jackson,264
+WASHINGTON,State House,142,Democrat,Mack Jackson,2284
+JOHNSON,State House,143,Democrat,Claudia Graham,2
+JOHNSON,State House,143,Democrat,Dan King,52
+JOHNSON,State House,143,Democrat,Mitch Warnock,16
+JOHNSON,State House,143,Democrat,Pablo Santamaria,6
+LAURENS,State House,143,Democrat,Claudia Graham,1392
+LAURENS,State House,143,Democrat,Dan King,1478
+LAURENS,State House,143,Democrat,Mitch Warnock,2066
+LAURENS,State House,143,Democrat,Pablo Santamaria,1534
 JOHNSON,State House,143,Republican,Matt Hatchett,24
 LAURENS,State House,143,Republican,Matt Hatchett,1780
 BEN HILL,State House,144,Republican,Jimmy Pruett,108
@@ -10904,7 +10904,7 @@ BLECKLEY,State House,144,Republican,Jimmy Pruett,649
 DODGE,State House,144,Republican,Jimmy Pruett,943
 PULASKI,State House,144,Republican,Jimmy Pruett,173
 WILCOX,State House,144,Republican,Jimmy Pruett,837
-HOUSTON,State House,145,Democratic,Fenika Miller,990
+HOUSTON,State House,145,Democrat,Fenika Miller,990
 HOUSTON,State House,145,Republican,Willie L. Talton,1429
 HOUSTON,State House,146,Republican,Larry O'Neal,3561
 CRISP,State House,147,Republican,Buddy Harden,1319
@@ -10912,30 +10912,30 @@ DOOLY,State House,147,Republican,Buddy Harden,282
 HOUSTON,State House,147,Republican,Buddy Harden,747
 PULASKI,State House,147,Republican,Buddy Harden,311
 WORTH,State House,147,Republican,Buddy Harden,189
-CHATTAHOOCHEE,State House,148,Democratic,Bob Hanner,73
-LEE,State House,148,Democratic,Bob Hanner,249
-QUITMAN,State House,148,Democratic,Bob Hanner,104
-STEWART,State House,148,Democratic,Bob Hanner,421
-TERRELL,State House,148,Democratic,Bob Hanner,1181
-WEBSTER,State House,148,Democratic,Bob Hanner,135
-CALHOUN,State House,149,Democratic,Gerald E. Greene,534
-CLAY,State House,149,Democratic,Gerald E. Greene,169
-EARLY,State House,149,Democratic,Gerald E. Greene,597
-MILLER,State House,149,Democratic,Gerald E. Greene,498
-RANDOLPH,State House,149,Democratic,Gerald E. Greene,622
-SEMINOLE,State House,149,Democratic,Gerald E. Greene,397
-BAKER,State House,150,Democratic,Winfred Dukes,211
-DOUGHERTY,State House,150,Democratic,Winfred Dukes,4060
+CHATTAHOOCHEE,State House,148,Democrat,Bob Hanner,73
+LEE,State House,148,Democrat,Bob Hanner,249
+QUITMAN,State House,148,Democrat,Bob Hanner,104
+STEWART,State House,148,Democrat,Bob Hanner,421
+TERRELL,State House,148,Democrat,Bob Hanner,1181
+WEBSTER,State House,148,Democrat,Bob Hanner,135
+CALHOUN,State House,149,Democrat,Gerald E. Greene,534
+CLAY,State House,149,Democrat,Gerald E. Greene,169
+EARLY,State House,149,Democrat,Gerald E. Greene,597
+MILLER,State House,149,Democrat,Gerald E. Greene,498
+RANDOLPH,State House,149,Democrat,Gerald E. Greene,622
+SEMINOLE,State House,149,Democrat,Gerald E. Greene,397
+BAKER,State House,150,Democrat,Winfred Dukes,211
+DOUGHERTY,State House,150,Democrat,Winfred Dukes,4060
 BAKER,State House,150,Republican,Karen Kemp,159
 DOUGHERTY,State House,150,Republican,Karen Kemp,1705
-DOUGHERTY,State House,151,Democratic,Carol H. Fullerton,1838
-DOUGHERTY,State House,151,Democratic,Freddy Grimsley,1357
+DOUGHERTY,State House,151,Democrat,Carol H. Fullerton,1838
+DOUGHERTY,State House,151,Democrat,Freddy Grimsley,1357
 COLQUITT,State House,152,Republican,Ed Rynders,92
 DOUGHERTY,State House,152,Republican,Ed Rynders,288
 LEE,State House,152,Republican,Ed Rynders,2003
 WORTH,State House,152,Republican,Ed Rynders,1360
-TIFT,State House,153,Democratic,John Tibbetts,738
-TURNER,State House,153,Democratic,John Tibbetts,372
+TIFT,State House,153,Democrat,John Tibbetts,738
+TURNER,State House,153,Democrat,John Tibbetts,372
 TIFT,State House,153,Republican,Tony McBrayer,2053
 TURNER,State House,153,Republican,Tony McBrayer,480
 BEN HILL,State House,154,Republican,Jay Roberts,585
@@ -10953,11 +10953,11 @@ BULLOCH,State House,156,Republican,Butch Parrish,787
 CANDLER,State House,156,Republican,Butch Parrish,515
 EMANUEL,State House,156,Republican,Butch Parrish,1167
 JOHNSON,State House,156,Republican,Butch Parrish,179
-BULLOCH,State House,157,Democratic,Elizabeth Johnson,154
-BURKE,State House,157,Democratic,Elizabeth Johnson,31
-EFFINGHAM,State House,157,Democratic,Elizabeth Johnson,401
-JENKINS,State House,157,Democratic,Elizabeth Johnson,445
-SCREVEN,State House,157,Democratic,Elizabeth Johnson,569
+BULLOCH,State House,157,Democrat,Elizabeth Johnson,154
+BURKE,State House,157,Democrat,Elizabeth Johnson,31
+EFFINGHAM,State House,157,Democrat,Elizabeth Johnson,401
+JENKINS,State House,157,Democrat,Elizabeth Johnson,445
+SCREVEN,State House,157,Democrat,Elizabeth Johnson,569
 BULLOCH,State House,157,Republican,Jon G. Burns,391
 BURKE,State House,157,Republican,Jon G. Burns,58
 EFFINGHAM,State House,157,Republican,Jon G. Burns,1287
@@ -10967,25 +10967,25 @@ BRYAN,State House,158,Republican,Jan Tankersley,609
 BRYAN,State House,158,Republican,Tom McElwee,289
 BULLOCH,State House,158,Republican,Jan Tankersley,1662
 BULLOCH,State House,158,Republican,Tom McElwee,877
-CHATHAM,State House,159,Democratic,Tawana 'T' Garrett,904
-EFFINGHAM,State House,159,Democratic,Tawana 'T' Garrett,417
+CHATHAM,State House,159,Democrat,Tawana 'T' Garrett,904
+EFFINGHAM,State House,159,Democrat,Tawana 'T' Garrett,417
 CHATHAM,State House,159,Republican,Ann R Purcell,2019
 EFFINGHAM,State House,159,Republican,Ann R Purcell,2355
-CHATHAM,State House,160,Democratic,Bob Bryant,1523
+CHATHAM,State House,160,Democrat,Bob Bryant,1523
 CHATHAM,State House,160,Republican,Joseph Woods,571
-CHATHAM,State House,161,Democratic,Mickey Stephens,2044
-CHATHAM,State House,162,Democratic,J. Craig Gordon,2372
-CHATHAM,State House,163,Democratic,Jeremy Scheinbart,997
+CHATHAM,State House,161,Democrat,Mickey Stephens,2044
+CHATHAM,State House,162,Democrat,J. Craig Gordon,2372
+CHATHAM,State House,163,Democrat,Jeremy Scheinbart,997
 CHATHAM,State House,163,Republican,Ben Watson,5543
 CHATHAM,State House,163,Republican,Gary Wisenbaker,1452
 CHATHAM,State House,163,Republican,Joe T. Welch,1604
-BRYAN,State House,164,Democratic,Zena McClain,220
-CHATHAM,State House,164,Democratic,Zena McClain,743
-LIBERTY,State House,164,Democratic,Zena McClain,70
+BRYAN,State House,164,Democrat,Zena McClain,220
+CHATHAM,State House,164,Democrat,Zena McClain,743
+LIBERTY,State House,164,Democrat,Zena McClain,70
 BRYAN,State House,164,Republican,Ron Stephens,1446
 CHATHAM,State House,164,Republican,Ron Stephens,1557
 LIBERTY,State House,164,Republican,Ron Stephens,224
-LIBERTY,State House,165,Democratic,Al Williams,1110
+LIBERTY,State House,165,Democrat,Al Williams,1110
 EVANS,State House,166,Republican,Delvis Dutton,491
 LIBERTY,State House,166,Republican,Delvis Dutton,22
 TATTNALL,State House,166,Republican,Delvis Dutton,1109
@@ -11007,31 +11007,31 @@ JEFF DAVIS,State House,169,Republican,Chuck Sims,49
 BERRIEN,State House,170,Republican,Penny Houston,869
 COLQUITT,State House,170,Republican,Penny Houston,825
 COOK,State House,170,Republican,Penny Houston,464
-COLQUITT,State House,171,Democratic,James R. C. Timmons,460
-MITCHELL,State House,171,Democratic,James R. C. Timmons,936
+COLQUITT,State House,171,Democrat,James R. C. Timmons,460
+MITCHELL,State House,171,Democrat,James R. C. Timmons,936
 COLQUITT,State House,171,Republican,Jay Powell,1009
 MITCHELL,State House,171,Republican,Jay Powell,1084
-DECATUR,State House,172,Democratic,Marjean Boyd,998
-GRADY,State House,172,Democratic,Marjean Boyd,359
+DECATUR,State House,172,Democrat,Marjean Boyd,998
+GRADY,State House,172,Democrat,Marjean Boyd,359
 DECATUR,State House,172,Republican,Gene Maddox,1058
 GRADY,State House,172,Republican,Gene Maddox,915
-GRADY,State House,173,Democratic,Haley Shank,100
-THOMAS,State House,173,Democratic,Haley Shank,958
+GRADY,State House,173,Democrat,Haley Shank,100
+THOMAS,State House,173,Democrat,Haley Shank,958
 GRADY,State House,173,Republican,Darlene K Taylor,155
 GRADY,State House,173,Republican,Heather Abbott,131
 GRADY,State House,173,Republican,Ryan Lee,304
 THOMAS,State House,173,Republican,Darlene K Taylor,2229
 THOMAS,State House,173,Republican,Heather Abbott,1323
 THOMAS,State House,173,Republican,Ryan Lee,537
-BROOKS,State House,174,Democratic,Ellis Black,1704
-ECHOLS,State House,174,Democratic,Ellis Black,50
-LOWNDES,State House,174,Democratic,Ellis Black,422
-THOMAS,State House,174,Democratic,Ellis Black,152
-LOWNDES,State House,175,Democratic,Amy Carter,1405
-BERRIEN,State House,176,Democratic,Debra Tann,188
-CLINCH,State House,176,Democratic,Debra Tann,369
-LANIER,State House,176,Democratic,Debra Tann,261
-LOWNDES,State House,176,Democratic,Debra Tann,706
+BROOKS,State House,174,Democrat,Ellis Black,1704
+ECHOLS,State House,174,Democrat,Ellis Black,50
+LOWNDES,State House,174,Democrat,Ellis Black,422
+THOMAS,State House,174,Democrat,Ellis Black,152
+LOWNDES,State House,175,Democrat,Amy Carter,1405
+BERRIEN,State House,176,Democrat,Debra Tann,188
+CLINCH,State House,176,Democrat,Debra Tann,369
+LANIER,State House,176,Democrat,Debra Tann,261
+LOWNDES,State House,176,Democrat,Debra Tann,706
 BERRIEN,State House,176,Republican,Aleta Larger,348
 BERRIEN,State House,176,Republican,Jason Shaw,283
 CLINCH,State House,176,Republican,Aleta Larger,68
@@ -11047,14 +11047,14 @@ WARE,State House,177,Republican,Pete Gibson,1668
 BRANTLEY,State House,178,Republican,Mark Williams,1179
 PIERCE,State House,178,Republican,Mark Williams,2194
 WAYNE,State House,178,Republican,Mark Williams,1131
-GLYNN,State House,179,Democratic,Audrey Stewart,741
-GLYNN,State House,179,Democratic,Leroy Dumas,562
+GLYNN,State House,179,Democrat,Audrey Stewart,741
+GLYNN,State House,179,Democrat,Leroy Dumas,562
 GLYNN,State House,179,Republican,Alex Atwood,1523
 GLYNN,State House,179,Republican,Bill Keim,657
 GLYNN,State House,179,Republican,Cap Fendig,1360
 GLYNN,State House,179,Republican,Shaw McVeigh,1841
-CAMDEN,State House,180,Democratic,Adell James,774
-GLYNN,State House,180,Democratic,Adell James,82
+CAMDEN,State House,180,Democrat,Adell James,774
+GLYNN,State House,180,Democrat,Adell James,82
 CAMDEN,State House,180,Republican,Cecily Hill,1843
 CAMDEN,State House,180,Republican,Jason Spencer,1410
 CAMDEN,State House,180,Republican,Rindy Howell,847
