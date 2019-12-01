@@ -1,19 +1,19 @@
-county,office,district,candidate,party,votes
-DOUGLAS,State Senate,35,DONZELLA JAMES,Democrat,278
-DOUGLAS,State Senate,35,TORREY JOHNSON,Democrat,201
-FULTON,State Senate,35,DONZELLA JAMES,Democrat,3148
-FULTON,State Senate,35,TORREY JOHNSON,Democrat,2842
-DEKALB,State Representative,58,ASHA JACKSON,Democrat,1264
-DEKALB,State Representative,58,SIMONE BELL,Democrat,1199
-FULTON,State Representative,58,ASHA JACKSON,Democrat,1077
-FULTON,State Representative,58,SIMONE BELL,Democrat,1752
-HARRIS,State Representative,129,KIP SMITH,Republican,1134
-HARRIS,State Representative,129,STEVE EARLES,Republican,597
-MUSCOGEE,State Representative,129,KIP SMITH,Republican,607
-MUSCOGEE,State Representative,129,STEVE EARLES,Republican,222
-TROUP,State Representative,129,KIP SMITH,Republican,278
-TROUP,State Representative,129,STEVE EARLES,Republican,247
-BALDWIN,State Representative,141,DARRELL BLACK,Democrat,1279
-BALDWIN,State Representative,141,E CULVER(RUSTY) KIDD,Independent,2338
-PUTNAM,State Representative,141,DARRELL BLACK,Democrat,19
-PUTNAM,State Representative,141,E CULVER(RUSTY) KIDD,Independent,14
+county,office,district,party,candidate,votes
+DOUGLAS,State Senate,35,Democrat,DONZELLA JAMES,278
+DOUGLAS,State Senate,35,Democrat,TORREY JOHNSON,201
+FULTON,State Senate,35,Democrat,DONZELLA JAMES,3148
+FULTON,State Senate,35,Democrat,TORREY JOHNSON,2842
+DEKALB,State House,58,Democrat,ASHA JACKSON,1264
+DEKALB,State House,58,Democrat,SIMONE BELL,1199
+FULTON,State House,58,Democrat,ASHA JACKSON,1077
+FULTON,State House,58,Democrat,SIMONE BELL,1752
+HARRIS,State House,129,Republican,KIP SMITH,1134
+HARRIS,State House,129,Republican,STEVE EARLES,597
+MUSCOGEE,State House,129,Republican,KIP SMITH,607
+MUSCOGEE,State House,129,Republican,STEVE EARLES,222
+TROUP,State House,129,Republican,KIP SMITH,278
+TROUP,State House,129,Republican,STEVE EARLES,247
+BALDWIN,State House,141,Democrat,DARRELL BLACK,1279
+BALDWIN,State House,141,Independent,E CULVER(RUSTY) KIDD,2338
+PUTNAM,State House,141,Democrat,DARRELL BLACK,19
+PUTNAM,State House,141,Independent,E CULVER(RUSTY) KIDD,14
