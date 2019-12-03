@@ -1,1 +1,37 @@
-office,district,candidate,party,county,votesState Senate,28,Duke Blackburn,Republican,CARROLL,574State Senate,28,Mike Crane,Republican,CARROLL,383State Senate,28,Matt Brass,Republican,CARROLL,361State Senate,28,Cynthia C. Bennett,Non-Partisan,CARROLL,138State Senate,28,Dale Pepper,Republican,CARROLL,58State Senate,28,M Seabolt,Democratic,CARROLL,298State Senate,28,Jammie Williams,Democratic,CARROLL,86State Senate,28,Edward Stone,Republican,CARROLL,105State Senate,28,Kyle Frank,Republican,CARROLL,29State Senate,28,Duke Blackburn,Republican,COWETA,"2,719"State Senate,28,Mike Crane,Republican,COWETA,"2,096"State Senate,28,Matt Brass,Republican,COWETA,"1,832"State Senate,28,Cynthia C. Bennett,Non-Partisan,COWETA,"1,062"State Senate,28,Dale Pepper,Republican,COWETA,954State Senate,28,M Seabolt,Democratic,COWETA,513State Senate,28,Jammie Williams,Democratic,COWETA,422State Senate,28,Edward Stone,Republican,COWETA,458State Senate,28,Kyle Frank,Republican,COWETA,275State Senate,28,Duke Blackburn,Republican,HEARD,465State Senate,28,Mike Crane,Republican,HEARD,103State Senate,28,Matt Brass,Republican,HEARD,81State Senate,28,Cynthia C. Bennett,Non-Partisan,HEARD,76State Senate,28,Dale Pepper,Republican,HEARD,22State Senate,28,M Seabolt,Democratic,HEARD,76State Senate,28,Jammie Williams,Democratic,HEARD,29State Senate,28,Edward Stone,Republican,HEARD,18State Senate,28,Kyle Frank,Republican,HEARD,3State Senate,28,Duke Blackburn,Republican,TROUP,405State Senate,28,Mike Crane,Republican,TROUP,402State Senate,28,Matt Brass,Republican,TROUP,280State Senate,28,Cynthia C. Bennett,Non-Partisan,TROUP,144State Senate,28,Dale Pepper,Republican,TROUP,53State Senate,28,M Seabolt,Democratic,TROUP,175State Senate,28,Jammie Williams,Democratic,TROUP,161State Senate,28,Edward Stone,Republican,TROUP,77State Senate,28,Kyle Frank,Republican,TROUP,36
+county,office,district,party,candidate,votes
+CARROLL,State Senate,28,Republican,Duke Blackburn,574
+CARROLL,State Senate,28,Republican,Mike Crane,383
+CARROLL,State Senate,28,Republican,Matt Brass,361
+CARROLL,State Senate,28,Nonpartisan,Cynthia C. Bennett,138
+CARROLL,State Senate,28,Republican,Dale Pepper,58
+CARROLL,State Senate,28,Democrat,M Seabolt,298
+CARROLL,State Senate,28,Democrat,Jammie Williams,86
+CARROLL,State Senate,28,Republican,Edward Stone,105
+CARROLL,State Senate,28,Republican,Kyle Frank,29
+COWETA,State Senate,28,Republican,Duke Blackburn,2719
+COWETA,State Senate,28,Republican,Mike Crane,2096
+COWETA,State Senate,28,Republican,Matt Brass,1832
+COWETA,State Senate,28,Nonpartisan,Cynthia C. Bennett,1062
+COWETA,State Senate,28,Republican,Dale Pepper,954
+COWETA,State Senate,28,Democrat,M Seabolt,513
+COWETA,State Senate,28,Democrat,Jammie Williams,422
+COWETA,State Senate,28,Republican,Edward Stone,458
+COWETA,State Senate,28,Republican,Kyle Frank,275
+HEARD,State Senate,28,Republican,Duke Blackburn,465
+HEARD,State Senate,28,Republican,Mike Crane,103
+HEARD,State Senate,28,Republican,Matt Brass,81
+HEARD,State Senate,28,Nonpartisan,Cynthia C. Bennett,76
+HEARD,State Senate,28,Republican,Dale Pepper,22
+HEARD,State Senate,28,Democrat,M Seabolt,76
+HEARD,State Senate,28,Democrat,Jammie Williams,29
+HEARD,State Senate,28,Republican,Edward Stone,18
+HEARD,State Senate,28,Republican,Kyle Frank,3
+TROUP,State Senate,28,Republican,Duke Blackburn,405
+TROUP,State Senate,28,Republican,Mike Crane,402
+TROUP,State Senate,28,Republican,Matt Brass,280
+TROUP,State Senate,28,Nonpartisan,Cynthia C. Bennett,144
+TROUP,State Senate,28,Republican,Dale Pepper,53
+TROUP,State Senate,28,Democrat,M Seabolt,175
+TROUP,State Senate,28,Democrat,Jammie Williams,161
+TROUP,State Senate,28,Republican,Edward Stone,77
+TROUP,State Senate,28,Republican,Kyle Frank,36

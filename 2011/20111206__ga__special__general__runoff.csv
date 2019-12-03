@@ -1,1 +1,39 @@
-office,district,candidate,party,county,votesState Senate,28,Mike Crane,Republican,CARROLL,1007State Senate,28,Mike Crane,Republican,COWETA,3970State Senate,28,Mike Crane,Republican,HEARD,162State Senate,28,Mike Crane,Republican,TROUP,242State Senate,28,Duke Blackburn,Republican,CARROLL,680State Senate,28,Duke Blackburn,Republican,COWETA,2348State Senate,28,Duke Blackburn,Republican,HEARD,289State Senate,28,Duke Blackburn,Republican,TROUP,204State Senate,50,Rick Austin,Republican,BANKS,306State Senate,50,Rick Austin,Republican,FRANKLIN,275State Senate,50,Rick Austin,Republican,HABERSHAM,2814State Senate,50,Rick Austin,Republican,HART,357State Senate,50,Rick Austin,Republican,RABUN,318State Senate,50,Rick Austin,Republican,STEPHENS,456State Senate,50,Rick Austin,Republican,TOWNS,445State Senate,50,Rick Austin,Republican,WHITE,103State Senate,50,John K. Wilkinson,Republican,BANKS,735State Senate,50,John K. Wilkinson,Republican,FRANKLIN,1182State Senate,50,John K. Wilkinson,Republican,HABERSHAM,1492State Senate,50,John K. Wilkinson,Republican,HART,683State Senate,50,John K. Wilkinson,Republican,RABUN,552State Senate,50,John K. Wilkinson,Republican,STEPHENS,2130State Senate,50,John K. Wilkinson,Republican,TOWNS,320State Senate,50,John K. Wilkinson,Republican,WHITE,77State Representative,25,Emory West Dunahoo Jr.,Republican,HALL,1582State Representative,25,Bobby Banks,Republican,HALL,933State Representative,68,"Dustin ""Dusty"" Hightower",Republican,CARROLL,862State Representative,68,Alan Martinez,Republican,CARROLL,443State Representative,68,Thom Fitzpatrick,Republican,CARROLL,304State Representative,68,Tim Whetstone,Republican,CARROLL,209State Representative,68,James M. Camp,Libertarian,CARROLL,152State Representative,68,Marc E. Lattanzio,Republican,CARROLL,71State Representative,68,"Dustin ""Dusty"" Hightower",Republican,DOUGLAS,30State Representative,68,Alan Martinez,Republican,DOUGLAS,11State Representative,68,Thom Fitzpatrick,Republican,DOUGLAS,14State Representative,68,Tim Whetstone,Republican,DOUGLAS,23State Representative,68,James M. Camp,Libertarian,DOUGLAS,10State Representative,68,Marc E. Lattanzio,Republican,DOUGLAS,6
+county,office,district,party,candidate,votes
+CARROLL,State Senate,28,Republican,Mike Crane,1007
+COWETA,State Senate,28,Republican,Mike Crane,3970
+HEARD,State Senate,28,Republican,Mike Crane,162
+TROUP,State Senate,28,Republican,Mike Crane,242
+CARROLL,State Senate,28,Republican,Duke Blackburn,680
+COWETA,State Senate,28,Republican,Duke Blackburn,2348
+HEARD,State Senate,28,Republican,Duke Blackburn,289
+TROUP,State Senate,28,Republican,Duke Blackburn,204
+BANKS,State Senate,50,Republican,Rick Austin,306
+FRANKLIN,State Senate,50,Republican,Rick Austin,275
+HABERSHAM,State Senate,50,Republican,Rick Austin,2814
+HART,State Senate,50,Republican,Rick Austin,357
+RABUN,State Senate,50,Republican,Rick Austin,318
+STEPHENS,State Senate,50,Republican,Rick Austin,456
+TOWNS,State Senate,50,Republican,Rick Austin,445
+WHITE,State Senate,50,Republican,Rick Austin,103
+BANKS,State Senate,50,Republican,John K. Wilkinson,735
+FRANKLIN,State Senate,50,Republican,John K. Wilkinson,1182
+HABERSHAM,State Senate,50,Republican,John K. Wilkinson,1492
+HART,State Senate,50,Republican,John K. Wilkinson,683
+RABUN,State Senate,50,Republican,John K. Wilkinson,552
+STEPHENS,State Senate,50,Republican,John K. Wilkinson,2130
+TOWNS,State Senate,50,Republican,John K. Wilkinson,320
+WHITE,State Senate,50,Republican,John K. Wilkinson,77
+HALL,State House,25,Republican,Emory West Dunahoo Jr,1582
+HALL,State House,25,Republican,Bobby Banks,933
+CARROLL,State House,68,Republican,Dustin (Dusty) Hightower,862
+CARROLL,State House,68,Republican,Alan Martinez,443
+CARROLL,State House,68,Republican,Thom Fitzpatrick,304
+CARROLL,State House,68,Republican,Tim Whetstone,209
+CARROLL,State House,68,Libertarian,James M. Camp,152
+CARROLL,State House,68,Republican,Marc E. Lattanzio,71
+DOUGLAS,State House,68,Republican,Dustin (Dusty) Hightower,30
+DOUGLAS,State House,68,Republican,Alan Martinez,11
+DOUGLAS,State House,68,Republican,Thom Fitzpatrick,14
+DOUGLAS,State House,68,Republican,Tim Whetstone,23
+DOUGLAS,State House,68,Libertarian,James M. Camp,10
+DOUGLAS,State House,68,Republican,Marc E. Lattanzio,6
