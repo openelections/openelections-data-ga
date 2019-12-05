@@ -570,7 +570,7 @@ where office = 'U.S. Representative'
 order by district::int, candidate, county;
 
 ----------------------------------------------
--- U.S. Representative
+-- State Senate
 ----------------------------------------------
 select *
 from ga_general_nov2010
@@ -658,7 +658,6 @@ update state_senate_full_names
   set last_name = 'Anderson'
 where rtrim(candidate) = 'Evelyn Thompson Anderson'
     and district = 29;
-
 
 update ga_general_nov2010
     set party = 'Republican'
@@ -748,6 +747,413 @@ select b.county, 'State Senate' as office,
   a.district, a.party as party, a.candidate, b.votes
 from state_senate_full_names as a
   inner join state_senate as b
+    on a.last_name = b.last_name
+      and a.district = b.district::int
+      and a.party = b.party
+order by a.district, a.party, b.county, a.candidate
+
+----------------------------------------------
+-- State House
+----------------------------------------------
+set search_path to dev;
+
+update ga_general_nov2010
+    set last_name = candidate
+where office = 'State House';
+
+select *
+from ga_general_nov2010
+where office = 'State House';
+
+select *
+from state_house_full_names;
+
+alter table state_house_full_names
+    add column last_name text;
+
+update state_house_full_names
+  set last_name = split_part(candidate, ' ', 2);
+
+select district, candidate, last_name, party
+from state_house_full_names
+order by last_name;
+
+update state_house_full_names
+  set last_name = 'Welch'
+where rtrim(candidate) = 'Andrew ''Andy'' J. Welch III'
+    and district = 110;
+
+update state_house_full_names
+  set last_name = 'Williams'
+where rtrim(candidate) = 'Earnest ''Coach'' Williams'
+    and district = 89;
+
+update state_house_full_names
+  set last_name = 'Bridges'
+where rtrim(candidate) = 'Marilyn ''MJ'' Bridges'
+    and district = 30;
+
+update state_house_full_names
+  set last_name = 'Marin'
+where rtrim(candidate) = 'Pedro ''Pete'' Marin'
+    and district = 96;
+
+update state_house_full_names
+  set last_name = 'Garrett'
+where rtrim(candidate) = 'Tawana ''T'' Garrett'
+    and district = 159;
+
+update state_house_full_names
+  set last_name = 'Howard'
+where rtrim(candidate) = 'Henry ''Wayne'' Howard'
+    and district = 121;
+
+update state_house_full_names
+  set last_name = 'Kaylor'
+where rtrim(candidate) = 'Keith A. Kaylor'
+    and district = 79;
+
+update state_house_full_names
+  set last_name = 'Epps'
+where rtrim(candidate) = 'James A. ''Bubber'' Epps'
+    and district = 140;
+
+update state_house_full_names
+  set last_name = 'Howard'
+where rtrim(candidate) = 'Sharon B. Howard'
+    and district = 136;
+
+update state_house_full_names
+  set last_name = 'Lane'
+where rtrim(candidate) = 'Roger B. Lane'
+    and district = 167;
+
+update state_house_full_names
+  set last_name = 'Kaiser'
+where rtrim(candidate) = 'Margaret D Kaiser'
+    and district = 59;
+
+update state_house_full_names
+  set last_name = 'Adams'
+where rtrim(candidate) = 'Matthew D. Adams'
+    and district = 35;
+
+update state_house_full_names
+  set last_name = 'Deal'
+where rtrim(candidate) = 'Porter D. Deal'
+    and district = 102;
+
+update state_house_full_names
+  set last_name = 'Martin'
+where rtrim(candidate) = 'Charles E. ''Chuck'' Martin, Jr.'
+    and district = 47;
+
+update state_house_full_names
+  set last_name = 'Greene'
+where rtrim(candidate) = 'Gerald E. Greene'
+    and district = 149;
+
+update state_house_full_names
+  set last_name = 'Lucas'
+where rtrim(candidate) = 'David E. Lucas'
+    and district = 139;
+
+update state_house_full_names
+  set last_name = 'Hugley'
+where rtrim(candidate) = 'Carolyn F. Hugley'
+    and district = 133;
+
+update state_house_full_names
+  set last_name = 'Buckner'
+where rtrim(candidate) = 'Debbie G. Buckner'
+    and district = 130;
+
+update state_house_full_names
+  set last_name = 'Freeman'
+where rtrim(candidate) = 'Allen G. Freeman'
+    and district = 140;
+
+update state_house_full_names
+  set last_name = 'Scott'
+where rtrim(candidate) = 'Sandra G. Scott'
+    and district = 76;
+
+update state_house_full_names
+  set last_name = 'Burns'
+where rtrim(candidate) = 'Jon G. Burns'
+    and district = 157;
+
+update state_house_full_names
+  set last_name = 'Heard'
+where rtrim(candidate) = 'Keith G. Heard'
+    and district = 114;
+
+update state_house_full_names
+  set last_name = 'Hudson'
+where rtrim(candidate) = 'Helen G. ''Sistie'' Hudson'
+    and district = 124;
+
+update state_house_full_names
+  set last_name = 'Fullerton'
+where rtrim(candidate) = 'Carol H. Fullerton'
+    and district = 151;
+
+update state_house_full_names
+  set last_name = 'Smith'
+where rtrim(candidate) = 'Richard H. Smith'
+    and district = 131;
+
+update state_house_full_names
+  set last_name = 'Bearden'
+where rtrim(candidate) = 'Timothy J. Bearden'
+    and district = 68;
+
+update state_house_full_names
+  set last_name = 'Taylor'
+where rtrim(candidate) = 'Darlene K Taylor'
+    and district = 173;
+
+update state_house_full_names
+  set last_name = 'Parsons'
+where rtrim(candidate) = 'Don L. Parsons'
+    and district = 42;
+
+update state_house_full_names
+  set last_name = 'Talton'
+where rtrim(candidate) = 'Willie L. Talton'
+    and district = 145;
+
+update state_house_full_names
+  set last_name = 'Dempsey'
+where rtrim(candidate) = 'Katie M. Dempsey'
+    and district = 13;
+
+update state_house_full_names
+  set last_name = 'Kendrick'
+where rtrim(candidate) = 'Dar''shun N. Kendrick'
+    and district = 94;
+
+update state_house_full_names
+  set last_name = 'Purcell'
+where rtrim(candidate) = 'Ann R Purcell'
+    and district = 159;
+
+update state_house_full_names
+  set last_name = 'Battles'
+where rtrim(candidate) = 'Paul R. Battles'
+    and district = 15;
+
+update state_house_full_names
+  set last_name = ''
+where rtrim(candidate) = ''
+    and district = ;
+
+update state_house_full_names
+  set last_name = 'Timmons'
+where rtrim(candidate) = 'James R. C. Timmons'
+    and district = 171;
+
+update state_house_full_names
+  set last_name = 'Smith'
+where rtrim(candidate) = 'Lynn R. Smith'
+    and district = 70;
+
+update state_house_full_names
+  set last_name = 'Maxwell'
+where rtrim(candidate) = 'Howard R. Maxwell'
+    and district = 17;
+
+update state_house_full_names
+  set last_name = 'Stephenson'
+where rtrim(candidate) = 'Pam S. Stephenson'
+    and district = 92;
+
+update state_house_full_names
+  set last_name = 'Howell'
+where rtrim(candidate) = 'Quentin T. Howell'
+    and district = 141;
+
+update state_house_full_names
+  set last_name = 'Randall'
+where rtrim(candidate) = 'Nikki T. Randall'
+    and district = 138;
+
+update state_house_full_names
+  set last_name = 'Epps'
+where rtrim(candidate) = 'Carl Von Epps'
+    and district = 128;
+
+update state_house_full_names
+  set last_name = 'Smith'
+where rtrim(candidate) = 'Lynn R. Smith'
+    and district = 70;
+
+update state_house_full_names
+  set last_name = 'Timmons'
+where rtrim(candidate) = 'James R. C. Timmons'
+    and district = 171;
+
+update state_house_full_names
+  set last_name = 'Maxwell'
+where rtrim(candidate) = 'Howard R. Maxwell'
+    and district = 17;
+
+update state_house_full_names
+  set last_name = 'Braddock'
+where rtrim(candidate) = 'Paulette Rakestraw Braddock'
+    and district = 19;
+
+update state_house_full_names
+  set last_name = 'Stephenson'
+where rtrim(candidate) = 'Pam S. Stephenson'
+    and district = 92;
+
+update state_house_full_names
+  set last_name = 'Quarterman'
+where rtrim(candidate) = 'Kenneth Brett Quarterman'
+    and district = 85;
+
+update state_house_full_names
+  set last_name = 'Tinubu'
+where rtrim(candidate) = 'Gloria Bromell Tinubu'
+    and district = 60;
+
+update state_house_full_names
+  set last_name = 'Kidd'
+where rtrim(candidate) = 'E Culver ''Rusty'' Kidd'
+    and district = 141;
+
+update state_house_full_names
+  set last_name = 'Irvin'
+where rtrim(candidate) = 'Christopher James Irvin'
+    and district = 28;
+
+update state_house_full_names
+  set last_name = 'Oliver'
+where rtrim(candidate) = 'Mary Margaret Oliver'
+    and district = 83;
+
+update state_house_full_names
+  set last_name = 'Morgan'
+where rtrim(candidate) = 'Alisha Thomas Morgan'
+    and district = 39;
+
+update state_house_full_names
+  set last_name = 'Benfield'
+where rtrim(candidate) = 'Stephanie Stuckey Benfield'
+    and district = 85;
+
+update state_house_full_names
+  set last_name = 'McDearman'
+where rtrim(candidate) = 'D. Scott McDearman'
+    and district = 40;
+
+select district, candidate, last_name, party
+from state_house_full_names
+order by last_name;
+
+select *
+from state_house_full_names;
+
+update ga_general_nov2010
+    set party = 'Republican'
+where office = 'State House'
+    and party = 'R';
+
+update ga_general_nov2010
+    set party = 'Democrat'
+where office = 'State House'
+    and party = 'D';
+
+update ga_general_nov2010
+    set party = 'Independent'
+where office = 'State House'
+    and party = 'Ind';
+
+update state_house_full_names
+    set party = 'Democrat'
+where party = 'Democratic';
+
+select *
+from state_house_full_names
+where district = 164
+
+update state_house_full_names
+  set last_name = 'Reece'
+where rtrim(candidate) = 'Barbara Massey Reece'
+    and district = 11;
+
+update state_house_full_names
+  set last_name = 'Gordon'
+where rtrim(candidate) = 'J. Craig Gordon'
+    and district = 162;
+
+update state_house_full_names
+  set last_name = 'Mcclain-Haymon',
+      candidate = 'Zena McClain-Haymon'
+where rtrim(candidate) = 'Zena Mcclain'
+    and district = 164;
+
+Mcclain-Haymon
+
+
+-- QC to make sure we are matching both sides...
+with state_house as
+(
+    select *
+    from ga_general_nov2010
+    where office = 'State House'
+)
+select *
+from state_house as a
+  left join state_house_full_names as b
+    on a.last_name = b.last_name
+      and a.district::int = b.district
+      and a.party = b.party
+where b.last_name is null;
+
+with state_house as
+(
+    select *
+    from ga_general_nov2010
+    where office = 'State House'
+)
+select *
+from state_house_full_names as a
+  left join state_house as b
+    on a.last_name = b.last_name
+      and a.district = b.district::int
+      and a.party = b.party
+where b.last_name is null;
+
+-- QC make sure total votes match from each side...
+with state_house as
+(
+    select last_name, district, party, sum(votes) as total_votes
+    from ga_general_nov2010
+    where office = 'State House'
+    group by last_name, district, party
+)
+select *
+from state_house as a
+  left join state_house_full_names as b
+    on a.last_name = b.last_name
+      and a.district::int = b.district
+      and a.party = b.party
+      and a.total_votes = b.total_votes
+where b.last_name is null;
+
+-- Generate the final output .csv file...
+with state_house as
+(
+    select *
+    from ga_general_nov2010
+    where office = 'State House'
+)
+select b.county, 'State House' as office,
+  a.district, a.party as party, a.candidate, b.votes
+from state_house_full_names as a
+  inner join state_house as b
     on a.last_name = b.last_name
       and a.district = b.district::int
       and a.party = b.party
