@@ -7,3 +7,34 @@ This repository contains scraped or pre-processed election results from HTML pag
 
 * Derek Willis
 * Joseph Reed
+
+### Parties
+* Democrat
+* Republican
+* Libertarian
+* Independent
+* Nonpartisan
+* Green
+* Write-In
+* Unknown
+
+### Office Names
+* Appeals Court Judge
+* Attorney General
+* Commissioner of Agriculture
+* Commissioner of Insurance
+* Commissioner of Labor
+* District Attorney
+* Governor
+* Lieutenant Governor
+* President
+* Public Service Commissioner
+* Secretary of State
+* State House
+* State School Superintendent
+* State Senate
+* Superior Court Judge
+* Supreme Court Justice
+* U.S. House
+* U.S. Senate
+* Vice President
