@@ -4,7 +4,7 @@ CARROLL,State Senate,28,Republican,Mike Crane,383
 CARROLL,State Senate,28,Republican,Matt Brass,361
 CARROLL,State Senate,28,Nonpartisan,Cynthia C. Bennett,138
 CARROLL,State Senate,28,Republican,Dale Pepper,58
-CARROLL,State Senate,28,Democrat,M Seabolt,298
+CARROLL,State Senate,28,Democrat,Wayne Seabolt,298
 CARROLL,State Senate,28,Democrat,Jammie Williams,86
 CARROLL,State Senate,28,Republican,Edward Stone,105
 CARROLL,State Senate,28,Republican,Kyle Frank,29
@@ -13,7 +13,7 @@ COWETA,State Senate,28,Republican,Mike Crane,2096
 COWETA,State Senate,28,Republican,Matt Brass,1832
 COWETA,State Senate,28,Nonpartisan,Cynthia C. Bennett,1062
 COWETA,State Senate,28,Republican,Dale Pepper,954
-COWETA,State Senate,28,Democrat,M Seabolt,513
+COWETA,State Senate,28,Democrat,Wayne Seabolt,513
 COWETA,State Senate,28,Democrat,Jammie Williams,422
 COWETA,State Senate,28,Republican,Edward Stone,458
 COWETA,State Senate,28,Republican,Kyle Frank,275
@@ -22,7 +22,7 @@ HEARD,State Senate,28,Republican,Mike Crane,103
 HEARD,State Senate,28,Republican,Matt Brass,81
 HEARD,State Senate,28,Nonpartisan,Cynthia C. Bennett,76
 HEARD,State Senate,28,Republican,Dale Pepper,22
-HEARD,State Senate,28,Democrat,M Seabolt,76
+HEARD,State Senate,28,Democrat,Wayne Seabolt,76
 HEARD,State Senate,28,Democrat,Jammie Williams,29
 HEARD,State Senate,28,Republican,Edward Stone,18
 HEARD,State Senate,28,Republican,Kyle Frank,3
@@ -31,7 +31,60 @@ TROUP,State Senate,28,Republican,Mike Crane,402
 TROUP,State Senate,28,Republican,Matt Brass,280
 TROUP,State Senate,28,Nonpartisan,Cynthia C. Bennett,144
 TROUP,State Senate,28,Republican,Dale Pepper,53
-TROUP,State Senate,28,Democrat,M Seabolt,175
+TROUP,State Senate,28,Democrat,Wayne Seabolt,175
 TROUP,State Senate,28,Democrat,Jammie Williams,161
 TROUP,State Senate,28,Republican,Edward Stone,77
 TROUP,State Senate,28,Republican,Kyle Frank,36
+BANKS,State Senate,50,Republican,Rick Austin,454
+FRANKLIN,State Senate,50,Republican,Rick Austin,363
+HABERSHAM,State Senate,50,Republican,Rick Austin,3526
+HART,State Senate,50,Republican,Rick Austin,446
+RABUN,State Senate,50,Republican,Rick Austin,590
+STEPHENS,State Senate,50,Republican,Rick Austin,658
+TOWNS,State Senate,50,Republican,Rick Austin,571
+WHITE,State Senate,50,Republican,Rick Austin,163
+BANKS,State Senate,50,Republican,Curtis Burger,15
+FRANKLIN,State Senate,50,Republican,Curtis Burger,40
+HABERSHAM,State Senate,50,Republican,Curtis Burger,86
+HART,State Senate,50,Republican,Curtis Burger,30
+RABUN,State Senate,50,Republican,Curtis Burger,21
+STEPHENS,State Senate,50,Republican,Curtis Burger,49
+TOWNS,State Senate,50,Republican,Curtis Burger,19
+WHITE,State Senate,50,Republican,Curtis Burger,3
+BANKS,State Senate,50,Democrat,Mary Beth Focer,46
+FRANKLIN,State Senate,50,Democrat,Mary Beth Focer,131
+HABERSHAM,State Senate,50,Democrat,Mary Beth Focer,269
+HART,State Senate,50,Democrat,Mary Beth Focer,307
+RABUN,State Senate,50,Democrat,Mary Beth Focer,158
+STEPHENS,State Senate,50,Democrat,Mary Beth Focer,271
+TOWNS,State Senate,50,Democrat,Mary Beth Focer,201
+WHITE,State Senate,50,Democrat,Mary Beth Focer,34
+BANKS,State Senate,50,Republican,David R. Strickland,58
+FRANKLIN,State Senate,50,Republican,David R. Strickland,375
+HABERSHAM,State Senate,50,Republican,David R. Strickland,171
+HART,State Senate,50,Republican,David R. Strickland,182
+RABUN,State Senate,50,Republican,David R. Strickland,93
+STEPHENS,State Senate,50,Republican,David R. Strickland,124
+TOWNS,State Senate,50,Republican,David R. Strickland,42
+WHITE,State Senate,50,Republican,David R. Strickland,19
+BANKS,State Senate,50,Republican,John K. Wilkinson,690
+FRANKLIN,State Senate,50,Republican,John K. Wilkinson,1008
+HABERSHAM,State Senate,50,Republican,John K. Wilkinson,1089
+HART,State Senate,50,Republican,John K. Wilkinson,589
+RABUN,State Senate,50,Republican,John K. Wilkinson,460
+STEPHENS,State Senate,50,Republican,John K. Wilkinson,2032
+TOWNS,State Senate,50,Republican,John K. Wilkinson,224
+WHITE,State Senate,50,Republican,John K. Wilkinson,41
+HABERSHAM,State House,10,Republican,J Bruce Harkness Sr,1237
+WHITE,State House,10,Republican,J Bruce Harkness Sr,159
+HABERSHAM,State House,10,Republican,Lori Duke Jones,724
+WHITE,State House,10,Republican,Lori Duke Jones,138
+HABERSHAM,State House,10,Republican,Terry Rogers,3043
+WHITE,State House,10,Republican,Terry Rogers,551
+HALL,State House,25,Republican,Bobby Banks,982
+HALL,State House,25,Republican,Emory West Dunahoo Jr,1063
+HALL,State House,25,Democrat,Paul Wayne Godfrey,372
+HALL,State House,25,Republican,Dominic Ottaviano,264
+HALL,State House,25,Republican,Todd W. Reed,934
+HALL,State House,25,Republican,William (Sonny) Sykes,702
+HALL,State House,25,Republican,Kris Yardley,667
