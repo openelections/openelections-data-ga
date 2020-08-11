@@ -1,15 +1,18 @@
 #!/usr/bin/python3.7
 # -*- coding: utf-8 -*-
-import logging
+import glob
 import os
-import sys
 import xml.etree.ElementTree as ET
 
 import psycopg2
 
+import helpers
 
-INSERT_SQL = """
-    INSERT INTO dev.ga_special_state_house_20200128
+
+TABLE_NAME = 'dev.ga_special_state_senate_20200204'
+
+INSERT_SQL = f"""
+    INSERT INTO {TABLE_NAME}
         (county, precinct, office, candidate, party,
         total_votes, vote_type, votes)
     VALUES (%(county)s, %(precinct)s, %(office)s, %(candidate)s, %(party)s,
@@ -69,18 +72,6 @@ def process_detail_xml_file(file, logger):
     write_results(results)
 
 
-def setup_logger_stdout(logger_name):
-    logger = logging.getLogger(logger_name)
-    logger.setLevel(logging.DEBUG)
-    ch = logging.StreamHandler(sys.stdout)
-    formatter = logging.Formatter(
-        '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-    )
-    ch.setFormatter(formatter)
-    logger.addHandler(ch)
-    return logger
-
-
 def write_results(results):
     conn = create_connection()
     conn.cursor().executemany(INSERT_SQL, results)
@@ -94,6 +85,8 @@ if __name__ == '__main__':
     dname = os.path.dirname(abspath)
     os.chdir(dname)
 
-    logger = setup_logger_stdout('process_detail_xml_file')
+    logger = helpers.setup_logger_stdout('process_detail_xml_file')
 
-    process_detail_xml_file('Detail.xml', logger)
+    files = glob.glob('detail_*.xml')
+    for file in files:
+        process_detail_xml_file(file, logger)
