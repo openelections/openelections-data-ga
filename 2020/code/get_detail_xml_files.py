@@ -8,13 +8,13 @@ import helpers
 
 def get_detail_xml_files(url, logger):
     logger.info(f'Starting to process URL: {url}')
-    participating_county_urls = helpers.get_participating_counties(url, 5, logger) # noqa
+    participating_county_urls = helpers.get_participating_counties(url, 10, logger) # noqa
     for c in participating_county_urls:
         logger.info(c)
         o = urlparse(c)
         county = o.path.split('/')[3]
         logger.info(f'Looking for detail xml for {county} country')
-        url = helpers.get_county_detail_xml_urls(c, 5, logger)
+        url = helpers.get_county_detail_xml_urls(c, 10, logger)
         if not url:
             logger.error(f'No detail XML URL found for {county} country')
         else:
@@ -29,6 +29,6 @@ if __name__ == '__main__':
 
     logger = helpers.setup_logger_stdout('get_detail_xml_files')
 
-    url = 'https://results.enr.clarityelections.com/GA/102879/web.255599/#/access-to-races' # noqa
+    url = 'https://results.enr.clarityelections.com/GA/103613/web.255599/#/access-to-races' # noqa
 
     get_detail_xml_files(url, logger)
