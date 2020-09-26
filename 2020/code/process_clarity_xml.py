@@ -9,11 +9,11 @@ import psycopg2
 import helpers
 
 
-TABLE_NAME = 'dev.ga_presidential_primary_20200324'
+TABLE_NAME = 'dev.ga_primary_20200609'
 
 INSERT_SQL = f"""
     INSERT INTO {TABLE_NAME}
-        (county, precinct, office, candidate, party,
+        (county, precinct, input_office, input_candidate, party,
         total_votes, vote_type, votes)
     VALUES (%(county)s, %(precinct)s, %(office)s, %(candidate)s, %(party)s,
         %(total_votes)s, %(vote_type)s, %(votes)s);
@@ -88,5 +88,11 @@ if __name__ == '__main__':
     logger = helpers.setup_logger_stdout('process_detail_xml_file')
 
     files = glob.glob('detail_*.xml')
+
+    counter = 0
+    num_files = len(files)
+    logger.info(f'Found {num_files} to process')
     for file in files:
+        counter += 1
+        logger.info(f'Processing file {counter} of {num_files} files')
         process_detail_xml_file(file, logger)
