@@ -25,6 +25,7 @@ def download_detail_xml_file(url, county, logger):
 
 
 def get_county_detail_xml_urls(url, sleep_seconds, logger):
+    # TODO: This is where I need to wait for the detail.xml to show up...
     html = get_rendered_html(url, sleep_seconds)
     soup = BeautifulSoup(html, 'lxml')
     links = []
