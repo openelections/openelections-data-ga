@@ -38,7 +38,7 @@ def get_county_detail_xml_urls(url, sleep_seconds, logger):
 
 
 def get_georgia_counties(logger):
-    with open('georgia_counties.json') as f:
+    with open('georgia_counties_missing_details.json') as f:
         ga_counties = json.load(f)
     counties = []
     for c in ga_counties:
@@ -66,7 +66,7 @@ def get_rendered_html(url, sleep_seconds):
     chrome_options = Options()
     chrome_options.add_argument('--headless')
     browser = webdriver.Chrome(
-        executable_path="/Users/jreed/Development/chromedriver",
+        executable_path="/Users/skunkworks/Development/chromedriver",
         options=chrome_options
     )
     browser.get(url)

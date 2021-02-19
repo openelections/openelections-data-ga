@@ -1,6 +1,14 @@
--- drop table dev.ga_runoff_20210105;
+-- Postgres
+-- host: localhost
+-- database: openelections
 
-create table dev.ga_runoff_20210105
+set search_path to raw, stage, working;
+show search_path;
+
+
+-- drop table stage.ga_runoff_20210105;
+
+create table stage.ga_runoff_20210105
     (
         county varchar(100),
         precinct varchar(100),
@@ -15,21 +23,21 @@ create table dev.ga_runoff_20210105
         votes varchar(50)
     );
 
--- truncate table dev.ga_runoff_20210105;
+-- truncate table stage.ga_runoff_20210105;
 
 select *
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 limit 5000;
 
 select count(*) as cnt
-from dev.ga_runoff_20210105;
+from stage.ga_runoff_20210105;
 -- 62720
 
 ---------------------------------------------------------------
 -- Check a couple of big races to make sure numbers match up...
 ---------------------------------------------------------------
 select input_candidate, sum(votes::int) as votes
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 where input_office ilike ('%Senate%')
 group by input_candidate
 order by input_candidate;
@@ -38,55 +46,55 @@ order by input_candidate;
 with unique_counties_laoded as
 (
     select distinct county
-    from dev.ga_runoff_20210105
+    from stage.ga_runoff_20210105
 )
 select *
-from dev.georgia_counties as a
+from stage.georgia_counties as a
     left join unique_counties_laoded as b
         on a.county = b.county
 where b.county is null
 order by a.county;
 
 select party, count(*) as cnt
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 group by party
 order by party;
 
 -- Clean-up the data...
-update dev.ga_runoff_20210105
+update stage.ga_runoff_20210105
     set party = 'Republican'
 where input_candidate ilike '% (Rep)';
 
-update dev.ga_runoff_20210105
+update stage.ga_runoff_20210105
     set party = 'Democrat'
 where input_candidate ilike '% (Dem)';
 
 select party, count(*) as cnt
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 group by party
 order by party;
 
 select *
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 where party = 'Democrat'
 limit 5000;
 
 -- Move input values over...
-update dev.ga_runoff_20210105
+update stage.ga_runoff_20210105
     set candidate = trim(regexp_replace(input_candidate, '\s+', ' ', 'g'));
 
 /*
 RESET...
-update dev.ga_runoff_20210105
+update stage.ga_runoff_20210105
     set candidate = null;
 
-update dev.ga_runoff_20210105
+update stage.ga_runoff_20210105
     set office = null,
         district = null;
 */
 
 select input_office, office, district, count(*) as cnt
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 group by input_office, office, district
 order by input_office;
 
@@ -94,13 +102,13 @@ order by input_office;
 -- Standardize Federal Offices...
 ------------------------------------------------------------------------------------------------------------------------
 -- U.S. Senate
-update dev.ga_runoff_20210105
+update stage.ga_runoff_20210105
     set office = 'U.S. Senate (Special)'
 where input_office ilike '%US Senate%Special%'
     and office is null;
 
 -- U.S. Senate
-update dev.ga_runoff_20210105
+update stage.ga_runoff_20210105
     set office = 'U.S. Senate'
 where input_office ilike '%US Senate%'
     and office is null;
@@ -108,20 +116,20 @@ where input_office ilike '%US Senate%'
 ------------------------------------------------------------------------------------------------------------------------
 -- Standardize State Offices...
 ------------------------------------------------------------------------------------------------------------------------
-update dev.ga_runoff_20210105
+update stage.ga_runoff_20210105
     set office = 'Public Service Commissioner',
         district = '4'
 where input_office ilike 'Public Service Commission Dist%'
     and office is null;
 
 select office, district, input_office, count(*) as cnt
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 where office is not null
 group by office, district, input_office
 order by office, district, input_office;
 
 select input_office, count(*) as cnt
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 where office is null
 group by input_office
 order by input_office;
@@ -130,34 +138,34 @@ order by input_office;
 -- Fix candidate names...
 ------------------------------------------------------------------------------------------------------------------------
 select input_candidate, candidate, party, count(*) as cnt
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 where office is not null
 group by input_candidate, candidate, party
 order by input_candidate;
 
-update dev.ga_runoff_20210105
+update stage.ga_runoff_20210105
     set candidate = replace(candidate, '(I) (Rep)', '')
 where office is not null
     and candidate ilike '% (I) (Rep)';
 
-update dev.ga_runoff_20210105
+update stage.ga_runoff_20210105
     set candidate = replace(candidate, ' (Dem)', '')
 where office is not null
     and candidate like '% (Dem)';
 
 select input_candidate, candidate, count(*) as cnt
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 where office is not null
 group by input_candidate, candidate
 order by input_candidate;
 
 -- Remove double spaces...
-update dev.ga_runoff_20210105
+update stage.ga_runoff_20210105
     set candidate = trim(regexp_replace(candidate, '\s+', ' ', 'g'))
 where office is not null;
 
 -- Remove comma from candidate...
-update dev.ga_runoff_20210105
+update stage.ga_runoff_20210105
     set candidate = replace(candidate, ',', '')
 where office is not null
     and candidate like '%,%';
@@ -169,7 +177,7 @@ where office is not null
 create temp table qc
 as
 select county, candidate, party, min(total_votes::int) as total_votes, sum(votes::int) as votes
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 where office is not null
 group by county, candidate, party
 order by county, candidate;
@@ -183,18 +191,18 @@ from qc
 order by county, candidate;
 
 select office, district, candidate, party, sum(votes::int) as votes
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 where office is not null
 group by office, district, candidate, party
 order by office, district, candidate;
 
 select *
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 where office is not null
 limit 500;
 
 select count(*) as cnt
-from dev.ga_runoff_20210105
+from stage.ga_runoff_20210105
 where office is not null;
 -- 62664
 
@@ -209,28 +217,28 @@ as
 with election_day_votes as
 (
     select county, precinct, office, district, party, candidate, votes as election_day_votes
-    from dev.ga_runoff_20210105
+    from stage.ga_runoff_20210105
     where office is not null
         and vote_type = 'Election Day Votes'
 ),
 advanced_votes as
 (
     select county, precinct, office, district, party, candidate, votes as advanced_votes
-    from dev.ga_runoff_20210105
+    from stage.ga_runoff_20210105
     where office is not null
         and vote_type = 'Advanced Voting Votes'
 ),
 absentee_by_mail_votes as
 (
     select county, precinct, office, district, party, candidate, votes as absentee_by_mail_votes
-    from dev.ga_runoff_20210105
+    from stage.ga_runoff_20210105
     where office is not null
         and vote_type = 'Absentee by Mail Votes'
 ),
 provisional_votes as
 (
     select county, precinct, office, district, party, candidate, votes as provisional_votes
-    from dev.ga_runoff_20210105
+    from stage.ga_runoff_20210105
     where office is not null
         and vote_type = 'Provisional Votes'
 )

@@ -9,7 +9,7 @@ import psycopg2
 import helpers
 
 
-TABLE_NAME = 'dev.ga_runoff_20210105'
+TABLE_NAME = 'stage.ga_runoff_20210105'
 
 INSERT_SQL = f"""
     INSERT INTO {TABLE_NAME}
@@ -23,7 +23,7 @@ INSERT_SQL = f"""
 def create_connection():
     conn = psycopg2.connect(
         database='openelections',
-        user='jreed',
+        user='skunkworks',
         host='127.0.0.1',
         port='5432'
     )
