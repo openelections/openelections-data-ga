@@ -140,12 +140,12 @@ Turner,Rebecca,"State Senator, District 13",13,REP,GREG KIRK (I) (REP),68
 Turner,Ashburn,"State Representative, District 155",155,REP,CLAY PIRKLE (I) (REP),223
 Turner,Sycamore,"State Representative, District 155",155,REP,CLAY PIRKLE (I) (REP),374
 Turner,Rebecca,"State Representative, District 155",155,REP,CLAY PIRKLE (I) (REP),71
-Turner,Ashburn,"CC, D1", D1 - D,DEM,J. BURGESS (I),104
-Turner,Sycamore,"CC, D5", D5 - R,REP,N. DENHAM (I),179
-Turner,Sycamore,"CC, D5", D5 - R,REP,J. WYNN,140
-Turner,Ashburn,"BOE, D1", D1 - D,DEM,C. BALL (I),103
-Turner,Ashburn,"BOE, D3", D3 - R,REP,SANDRA BLUE (I),123
-Turner,Sycamore,"BOE, D3", D3 - R,REP,SANDRA BLUE (I),22
+Turner,Ashburn,"CC, D1",D1 - D,DEM,J. BURGESS (I),104
+Turner,Sycamore,"CC, D5",D5 - R,REP,N. DENHAM (I),179
+Turner,Sycamore,"CC, D5",D5 - R,REP,J. WYNN,140
+Turner,Ashburn,"BOE, D1",D1 - D,DEM,C. BALL (I),103
+Turner,Ashburn,"BOE, D3",D3 - R,REP,SANDRA BLUE (I),123
+Turner,Sycamore,"BOE, D3",D3 - R,REP,SANDRA BLUE (I),22
 Turner,Ashburn,Democratic Party Question 1,,DEM,YES,153
 Turner,Sycamore,Democratic Party Question 1,,DEM,YES,22
 Turner,Rebecca,Democratic Party Question 1,,DEM,YES,10
@@ -158,60 +158,60 @@ Turner,Rebecca,Democratic Party Question 2,,DEM,YES,7
 Turner,Ashburn,Democratic Party Question 2,,DEM,NO,37
 Turner,Sycamore,Democratic Party Question 2,,DEM,NO,3
 Turner,Rebecca,Democratic Party Question 2,,DEM,NO,4
-Turner,Ashburn,Democratic Party Question 3, non-partisan commission?,DEM,YES,146
-Turner,Sycamore,Democratic Party Question 3, non-partisan commission?,DEM,YES,21
-Turner,Rebecca,Democratic Party Question 3, non-partisan commission?,DEM,YES,8
-Turner,Ashburn,Democratic Party Question 3, non-partisan commission?,DEM,NO,91
-Turner,Sycamore,Democratic Party Question 3, non-partisan commission?,DEM,NO,6
-Turner,Rebecca,Democratic Party Question 3, non-partisan commission?,DEM,NO,3
-Turner,Ashburn,Democratic Party Question 4, reduce carbon emissions,DEM,YES,158
-Turner,Sycamore,Democratic Party Question 4, reduce carbon emissions,DEM,YES,18
-Turner,Rebecca,Democratic Party Question 4, reduce carbon emissions,DEM,YES,6
-Turner,Ashburn,Democratic Party Question 4, reduce carbon emissions,DEM,NO,77
-Turner,Sycamore,Democratic Party Question 4, reduce carbon emissions,DEM,NO,9
-Turner,Rebecca,Democratic Party Question 4, reduce carbon emissions,DEM,NO,5
-Turner,Ashburn,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,411
-Turner,Sycamore,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,359
-Turner,Rebecca,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,78
-Turner,Ashburn,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,403
-Turner,Sycamore,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,355
-Turner,Rebecca,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,78
-Turner,Ashburn,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,416
-Turner,Sycamore,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,354
-Turner,Rebecca,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,77
-Turner,Ashburn,Supreme Court Justice, Melton,,HAROLD D. MELTON ,409
-Turner,Sycamore,Supreme Court Justice, Melton,,HAROLD D. MELTON ,350
-Turner,Rebecca,Supreme Court Justice, Melton,,HAROLD D. MELTON ,78
-Turner,Ashburn,Supreme Court Justice, Peterson,,NELS PETERSON ,398
-Turner,Sycamore,Supreme Court Justice, Peterson,,NELS PETERSON ,350
-Turner,Rebecca,Supreme Court Justice, Peterson,,NELS PETERSON ,78
-Turner,Ashburn,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,406
-Turner,Sycamore,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,354
-Turner,Rebecca,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,77
-Turner,Ashburn,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,400
-Turner,Sycamore,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,352
-Turner,Rebecca,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,77
-Turner,Ashburn,Appeals Court Judge, Ellington,,KEN HODGES  ,382
-Turner,Sycamore,Appeals Court Judge, Ellington,,KEN HODGES  ,321
-Turner,Rebecca,Appeals Court Judge, Ellington,,KEN HODGES  ,70
-Turner,Ashburn,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,80
-Turner,Sycamore,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,83
-Turner,Rebecca,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,13
-Turner,Ashburn,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,409
-Turner,Sycamore,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,355
-Turner,Rebecca,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,76
-Turner,Ashburn,Appeals Court Judge, Miller,,M. YVETTE MILLER ,409
-Turner,Sycamore,Appeals Court Judge, Miller,,M. YVETTE MILLER ,353
-Turner,Rebecca,Appeals Court Judge, Miller,,M. YVETTE MILLER ,75
-Turner,Ashburn,Appeals Court Judge, Reese,,CLYDE L. REESE III ,406
-Turner,Sycamore,Appeals Court Judge, Reese,,CLYDE L. REESE III ,351
-Turner,Rebecca,Appeals Court Judge, Reese,,CLYDE L. REESE III ,76
-Turner,Ashburn,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,400
-Turner,Sycamore,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,351
-Turner,Rebecca,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,76
-Turner,Ashburn,Superior Court Judge, Tifton Circuit (Reinhardt),,BILL REINHARDT ,445
-Turner,Sycamore,Superior Court Judge, Tifton Circuit (Reinhardt),,BILL REINHARDT ,388
-Turner,Rebecca,Superior Court Judge, Tifton Circuit (Reinhardt),,BILL REINHARDT ,79
+Turner,Ashburn,Democratic Party Question 3,non-partisan commission?,DEM,YES,146
+Turner,Sycamore,Democratic Party Question 3,non-partisan commission?,DEM,YES,21
+Turner,Rebecca,Democratic Party Question 3,non-partisan commission?,DEM,YES,8
+Turner,Ashburn,Democratic Party Question 3,non-partisan commission?,DEM,NO,91
+Turner,Sycamore,Democratic Party Question 3,non-partisan commission?,DEM,NO,6
+Turner,Rebecca,Democratic Party Question 3,non-partisan commission?,DEM,NO,3
+Turner,Ashburn,Democratic Party Question 4,reduce carbon emissions,DEM,YES,158
+Turner,Sycamore,Democratic Party Question 4,reduce carbon emissions,DEM,YES,18
+Turner,Rebecca,Democratic Party Question 4,reduce carbon emissions,DEM,YES,6
+Turner,Ashburn,Democratic Party Question 4,reduce carbon emissions,DEM,NO,77
+Turner,Sycamore,Democratic Party Question 4,reduce carbon emissions,DEM,NO,9
+Turner,Rebecca,Democratic Party Question 4,reduce carbon emissions,DEM,NO,5
+Turner,Ashburn,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,411
+Turner,Sycamore,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,359
+Turner,Rebecca,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,78
+Turner,Ashburn,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,403
+Turner,Sycamore,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,355
+Turner,Rebecca,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,78
+Turner,Ashburn,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,416
+Turner,Sycamore,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,354
+Turner,Rebecca,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,77
+Turner,Ashburn,Supreme Court Justice,Melton,,HAROLD D. MELTON,409
+Turner,Sycamore,Supreme Court Justice,Melton,,HAROLD D. MELTON,350
+Turner,Rebecca,Supreme Court Justice,Melton,,HAROLD D. MELTON,78
+Turner,Ashburn,Supreme Court Justice,Peterson,,NELS PETERSON,398
+Turner,Sycamore,Supreme Court Justice,Peterson,,NELS PETERSON,350
+Turner,Rebecca,Supreme Court Justice,Peterson,,NELS PETERSON,78
+Turner,Ashburn,Appeals Court Judge,Bethel,,CHARLIE BETHEL,406
+Turner,Sycamore,Appeals Court Judge,Bethel,,CHARLIE BETHEL,354
+Turner,Rebecca,Appeals Court Judge,Bethel,,CHARLIE BETHEL,77
+Turner,Ashburn,Appeals Court Judge,Dillard,,STEPHEN DILLARD,400
+Turner,Sycamore,Appeals Court Judge,Dillard,,STEPHEN DILLARD,352
+Turner,Rebecca,Appeals Court Judge,Dillard,,STEPHEN DILLARD,77
+Turner,Ashburn,Appeals Court Judge,Ellington,,KEN HODGES,382
+Turner,Sycamore,Appeals Court Judge,Ellington,,KEN HODGES,321
+Turner,Rebecca,Appeals Court Judge,Ellington,,KEN HODGES,70
+Turner,Ashburn,Appeals Court Judge,Ellington,,KEN SHIGLEY,80
+Turner,Sycamore,Appeals Court Judge,Ellington,,KEN SHIGLEY,83
+Turner,Rebecca,Appeals Court Judge,Ellington,,KEN SHIGLEY,13
+Turner,Ashburn,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,409
+Turner,Sycamore,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,355
+Turner,Rebecca,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,76
+Turner,Ashburn,Appeals Court Judge,Miller,,M. YVETTE MILLER,409
+Turner,Sycamore,Appeals Court Judge,Miller,,M. YVETTE MILLER,353
+Turner,Rebecca,Appeals Court Judge,Miller,,M. YVETTE MILLER,75
+Turner,Ashburn,Appeals Court Judge,Reese,,CLYDE L. REESE III,406
+Turner,Sycamore,Appeals Court Judge,Reese,,CLYDE L. REESE III,351
+Turner,Rebecca,Appeals Court Judge,Reese,,CLYDE L. REESE III,76
+Turner,Ashburn,Appeals Court Judge,Rickman,,BRIAN RICKMAN,400
+Turner,Sycamore,Appeals Court Judge,Rickman,,BRIAN RICKMAN,351
+Turner,Rebecca,Appeals Court Judge,Rickman,,BRIAN RICKMAN,76
+Turner,Ashburn,Superior Court Judge,Tifton Circuit (Reinhardt),,BILL REINHARDT,445
+Turner,Sycamore,Superior Court Judge,Tifton Circuit (Reinhardt),,BILL REINHARDT,388
+Turner,Rebecca,Superior Court Judge,Tifton Circuit (Reinhardt),,BILL REINHARDT,79
 Turner,Ashburn,T SPLOST,,,YES,268
 Turner,Sycamore,T SPLOST,,,YES,192
 Turner,Rebecca,T SPLOST,,,YES,51

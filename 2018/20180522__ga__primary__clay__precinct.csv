@@ -244,10 +244,10 @@ Clay,Zetto,"State Representative, District 151",151,DEM,JOYCE BARLOW  (DEM),44
 Clay,Courthouse,"State Representative, District 151",151,DEM,JOYCE BARLOW  (DEM),55
 Clay,Old Head Start,"State Representative, District 151",151,DEM,JOYCE BARLOW  (DEM),42
 Clay,Day's Cross Roads,"State Representative, District 151",151,DEM,JOYCE BARLOW  (DEM),36
-Clay,0+,"CC, D1", D1 - D,DEM,L. HUBBARD (I),14
-Clay,0+,"CC, D1", D1 - D,DEM,"H. TAYLOR, JR.",21
-Clay,Zetto,"CC, D2", D2 - R,REP,D. SHIVERS (I),40
-Clay,Zetto,"CC, D2", D2 - D,DEM,L. SPANN,63
+Clay,0+,"CC, D1",D1 - D,DEM,L. HUBBARD (I),14
+Clay,0+,"CC, D1",D1 - D,DEM,"H. TAYLOR, JR.",21
+Clay,Zetto,"CC, D2",D2 - R,REP,D. SHIVERS (I),40
+Clay,Zetto,"CC, D2",D2 - D,DEM,L. SPANN,63
 Clay,0+,Democratic Party Question 1,,DEM,YES,29
 Clay,Zetto,Democratic Party Question 1,,DEM,YES,35
 Clay,Courthouse,Democratic Party Question 1,,DEM,YES,41
@@ -268,112 +268,112 @@ Clay,Zetto,Democratic Party Question 2,,DEM,NO,9
 Clay,Courthouse,Democratic Party Question 2,,DEM,NO,5
 Clay,Old Head Start,Democratic Party Question 2,,DEM,NO,6
 Clay,Day's Cross Roads,Democratic Party Question 2,,DEM,NO,6
-Clay,0+,Democratic Party Question 3, non-partisan commission?,DEM,YES,31
-Clay,Zetto,Democratic Party Question 3, non-partisan commission?,DEM,YES,38
-Clay,Courthouse,Democratic Party Question 3, non-partisan commission?,DEM,YES,46
-Clay,Old Head Start,Democratic Party Question 3, non-partisan commission?,DEM,YES,37
-Clay,Day's Cross Roads,Democratic Party Question 3, non-partisan commission?,DEM,YES,35
-Clay,0+,Democratic Party Question 3, non-partisan commission?,DEM,NO,24
-Clay,Zetto,Democratic Party Question 3, non-partisan commission?,DEM,NO,13
-Clay,Courthouse,Democratic Party Question 3, non-partisan commission?,DEM,NO,18
-Clay,Old Head Start,Democratic Party Question 3, non-partisan commission?,DEM,NO,22
-Clay,Day's Cross Roads,Democratic Party Question 3, non-partisan commission?,DEM,NO,11
-Clay,0+,Democratic Party Question 4, reduce carbon emissions,DEM,YES,26
-Clay,Zetto,Democratic Party Question 4, reduce carbon emissions,DEM,YES,35
-Clay,Courthouse,Democratic Party Question 4, reduce carbon emissions,DEM,YES,44
-Clay,Old Head Start,Democratic Party Question 4, reduce carbon emissions,DEM,YES,34
-Clay,Day's Cross Roads,Democratic Party Question 4, reduce carbon emissions,DEM,YES,32
-Clay,0+,Democratic Party Question 4, reduce carbon emissions,DEM,NO,30
-Clay,Zetto,Democratic Party Question 4, reduce carbon emissions,DEM,NO,17
-Clay,Courthouse,Democratic Party Question 4, reduce carbon emissions,DEM,NO,23
-Clay,Old Head Start,Democratic Party Question 4, reduce carbon emissions,DEM,NO,23
-Clay,Day's Cross Roads,Democratic Party Question 4, reduce carbon emissions,DEM,NO,11
-Clay,0+,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,99
-Clay,Zetto,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,70
-Clay,Courthouse,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,62
-Clay,Old Head Start,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,75
-Clay,Day's Cross Roads,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,80
-Clay,0+,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,96
-Clay,Zetto,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,65
-Clay,Courthouse,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,61
-Clay,Old Head Start,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,78
-Clay,Day's Cross Roads,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,79
-Clay,0+,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,97
-Clay,Zetto,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,62
-Clay,Courthouse,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,61
-Clay,Old Head Start,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,76
-Clay,Day's Cross Roads,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,77
-Clay,0+,Supreme Court Justice, Melton,,HAROLD D. MELTON ,96
-Clay,Zetto,Supreme Court Justice, Melton,,HAROLD D. MELTON ,61
-Clay,Courthouse,Supreme Court Justice, Melton,,HAROLD D. MELTON ,60
-Clay,Old Head Start,Supreme Court Justice, Melton,,HAROLD D. MELTON ,78
-Clay,Day's Cross Roads,Supreme Court Justice, Melton,,HAROLD D. MELTON ,78
-Clay,0+,Supreme Court Justice, Peterson,,NELS PETERSON ,96
-Clay,Zetto,Supreme Court Justice, Peterson,,NELS PETERSON ,62
-Clay,Courthouse,Supreme Court Justice, Peterson,,NELS PETERSON ,57
-Clay,Old Head Start,Supreme Court Justice, Peterson,,NELS PETERSON ,77
-Clay,Day's Cross Roads,Supreme Court Justice, Peterson,,NELS PETERSON ,78
-Clay,0+,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,97
-Clay,Zetto,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,62
-Clay,Courthouse,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,62
-Clay,Old Head Start,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,75
-Clay,Day's Cross Roads,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,79
-Clay,0+,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,98
-Clay,Zetto,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,60
-Clay,Courthouse,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,60
-Clay,Old Head Start,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,72
-Clay,Day's Cross Roads,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,76
-Clay,0+,Appeals Court Judge, Ellington,,KEN HODGES  ,77
-Clay,Zetto,Appeals Court Judge, Ellington,,KEN HODGES  ,55
-Clay,Courthouse,Appeals Court Judge, Ellington,,KEN HODGES  ,59
-Clay,Old Head Start,Appeals Court Judge, Ellington,,KEN HODGES  ,71
-Clay,Day's Cross Roads,Appeals Court Judge, Ellington,,KEN HODGES  ,72
-Clay,0+,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,31
-Clay,Zetto,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,21
-Clay,Courthouse,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,13
-Clay,Old Head Start,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,17
-Clay,Day's Cross Roads,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,20
-Clay,0+,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,99
-Clay,Zetto,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,60
-Clay,Courthouse,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,64
-Clay,Old Head Start,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,75
-Clay,Day's Cross Roads,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,77
-Clay,0+,Appeals Court Judge, Miller,,M. YVETTE MILLER ,98
-Clay,Zetto,Appeals Court Judge, Miller,,M. YVETTE MILLER ,57
-Clay,Courthouse,Appeals Court Judge, Miller,,M. YVETTE MILLER ,64
-Clay,Old Head Start,Appeals Court Judge, Miller,,M. YVETTE MILLER ,75
-Clay,Day's Cross Roads,Appeals Court Judge, Miller,,M. YVETTE MILLER ,76
-Clay,0+,Appeals Court Judge, Reese,,CLYDE L. REESE III ,95
-Clay,Zetto,Appeals Court Judge, Reese,,CLYDE L. REESE III ,59
-Clay,Courthouse,Appeals Court Judge, Reese,,CLYDE L. REESE III ,62
-Clay,Old Head Start,Appeals Court Judge, Reese,,CLYDE L. REESE III ,72
-Clay,Day's Cross Roads,Appeals Court Judge, Reese,,CLYDE L. REESE III ,74
-Clay,0+,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,98
-Clay,Zetto,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,58
-Clay,Courthouse,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,63
-Clay,Old Head Start,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,75
-Clay,Day's Cross Roads,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,77
-Clay,0+,Superior Court Judge, Pataula Circuit (Bishop),,HENRY BALKCOM  ,53
-Clay,Zetto,Superior Court Judge, Pataula Circuit (Bishop),,HENRY BALKCOM  ,52
-Clay,Courthouse,Superior Court Judge, Pataula Circuit (Bishop),,HENRY BALKCOM  ,32
-Clay,Old Head Start,Superior Court Judge, Pataula Circuit (Bishop),,HENRY BALKCOM  ,56
-Clay,Day's Cross Roads,Superior Court Judge, Pataula Circuit (Bishop),,HENRY BALKCOM  ,74
-Clay,0+,Superior Court Judge, Pataula Circuit (Bishop),,MEGAN LANE CONNELL  ,14
-Clay,Zetto,Superior Court Judge, Pataula Circuit (Bishop),,MEGAN LANE CONNELL  ,16
-Clay,Courthouse,Superior Court Judge, Pataula Circuit (Bishop),,MEGAN LANE CONNELL  ,19
-Clay,Old Head Start,Superior Court Judge, Pataula Circuit (Bishop),,MEGAN LANE CONNELL  ,15
-Clay,Day's Cross Roads,Superior Court Judge, Pataula Circuit (Bishop),,MEGAN LANE CONNELL  ,8
-Clay,0+,Superior Court Judge, Pataula Circuit (Bishop),,KEITH DAY  ,28
-Clay,Zetto,Superior Court Judge, Pataula Circuit (Bishop),,KEITH DAY  ,11
-Clay,Courthouse,Superior Court Judge, Pataula Circuit (Bishop),,KEITH DAY  ,14
-Clay,Old Head Start,Superior Court Judge, Pataula Circuit (Bishop),,KEITH DAY  ,21
-Clay,Day's Cross Roads,Superior Court Judge, Pataula Circuit (Bishop),,KEITH DAY  ,10
-Clay,0+,Superior Court Judge, Pataula Circuit (Bishop),,"CHARLES ""CHIP"" STEWART  ",23
-Clay,Zetto,Superior Court Judge, Pataula Circuit (Bishop),,"CHARLES ""CHIP"" STEWART  ",13
-Clay,Courthouse,Superior Court Judge, Pataula Circuit (Bishop),,"CHARLES ""CHIP"" STEWART  ",23
-Clay,Old Head Start,Superior Court Judge, Pataula Circuit (Bishop),,"CHARLES ""CHIP"" STEWART  ",15
-Clay,Day's Cross Roads,Superior Court Judge, Pataula Circuit (Bishop),,"CHARLES ""CHIP"" STEWART  ",16
-Clay,0+,BOE, D1,,E. DAVIS ,15
-Clay,0+,BOE, D1,,H. HARRELL ,50
-Clay,Zetto,BOE, D2,,C. GILBERT,74
-Clay,Zetto,BOE, D2,,W. JOHNSON,21
+Clay,0+,Democratic Party Question 3,non-partisan commission?,DEM,YES,31
+Clay,Zetto,Democratic Party Question 3,non-partisan commission?,DEM,YES,38
+Clay,Courthouse,Democratic Party Question 3,non-partisan commission?,DEM,YES,46
+Clay,Old Head Start,Democratic Party Question 3,non-partisan commission?,DEM,YES,37
+Clay,Day's Cross Roads,Democratic Party Question 3,non-partisan commission?,DEM,YES,35
+Clay,0+,Democratic Party Question 3,non-partisan commission?,DEM,NO,24
+Clay,Zetto,Democratic Party Question 3,non-partisan commission?,DEM,NO,13
+Clay,Courthouse,Democratic Party Question 3,non-partisan commission?,DEM,NO,18
+Clay,Old Head Start,Democratic Party Question 3,non-partisan commission?,DEM,NO,22
+Clay,Day's Cross Roads,Democratic Party Question 3,non-partisan commission?,DEM,NO,11
+Clay,0+,Democratic Party Question 4,reduce carbon emissions,DEM,YES,26
+Clay,Zetto,Democratic Party Question 4,reduce carbon emissions,DEM,YES,35
+Clay,Courthouse,Democratic Party Question 4,reduce carbon emissions,DEM,YES,44
+Clay,Old Head Start,Democratic Party Question 4,reduce carbon emissions,DEM,YES,34
+Clay,Day's Cross Roads,Democratic Party Question 4,reduce carbon emissions,DEM,YES,32
+Clay,0+,Democratic Party Question 4,reduce carbon emissions,DEM,NO,30
+Clay,Zetto,Democratic Party Question 4,reduce carbon emissions,DEM,NO,17
+Clay,Courthouse,Democratic Party Question 4,reduce carbon emissions,DEM,NO,23
+Clay,Old Head Start,Democratic Party Question 4,reduce carbon emissions,DEM,NO,23
+Clay,Day's Cross Roads,Democratic Party Question 4,reduce carbon emissions,DEM,NO,11
+Clay,0+,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,99
+Clay,Zetto,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,70
+Clay,Courthouse,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,62
+Clay,Old Head Start,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,75
+Clay,Day's Cross Roads,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,80
+Clay,0+,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,96
+Clay,Zetto,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,65
+Clay,Courthouse,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,61
+Clay,Old Head Start,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,78
+Clay,Day's Cross Roads,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,79
+Clay,0+,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,97
+Clay,Zetto,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,62
+Clay,Courthouse,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,61
+Clay,Old Head Start,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,76
+Clay,Day's Cross Roads,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,77
+Clay,0+,Supreme Court Justice,Melton,,HAROLD D. MELTON,96
+Clay,Zetto,Supreme Court Justice,Melton,,HAROLD D. MELTON,61
+Clay,Courthouse,Supreme Court Justice,Melton,,HAROLD D. MELTON,60
+Clay,Old Head Start,Supreme Court Justice,Melton,,HAROLD D. MELTON,78
+Clay,Day's Cross Roads,Supreme Court Justice,Melton,,HAROLD D. MELTON,78
+Clay,0+,Supreme Court Justice,Peterson,,NELS PETERSON,96
+Clay,Zetto,Supreme Court Justice,Peterson,,NELS PETERSON,62
+Clay,Courthouse,Supreme Court Justice,Peterson,,NELS PETERSON,57
+Clay,Old Head Start,Supreme Court Justice,Peterson,,NELS PETERSON,77
+Clay,Day's Cross Roads,Supreme Court Justice,Peterson,,NELS PETERSON,78
+Clay,0+,Appeals Court Judge,Bethel,,CHARLIE BETHEL,97
+Clay,Zetto,Appeals Court Judge,Bethel,,CHARLIE BETHEL,62
+Clay,Courthouse,Appeals Court Judge,Bethel,,CHARLIE BETHEL,62
+Clay,Old Head Start,Appeals Court Judge,Bethel,,CHARLIE BETHEL,75
+Clay,Day's Cross Roads,Appeals Court Judge,Bethel,,CHARLIE BETHEL,79
+Clay,0+,Appeals Court Judge,Dillard,,STEPHEN DILLARD,98
+Clay,Zetto,Appeals Court Judge,Dillard,,STEPHEN DILLARD,60
+Clay,Courthouse,Appeals Court Judge,Dillard,,STEPHEN DILLARD,60
+Clay,Old Head Start,Appeals Court Judge,Dillard,,STEPHEN DILLARD,72
+Clay,Day's Cross Roads,Appeals Court Judge,Dillard,,STEPHEN DILLARD,76
+Clay,0+,Appeals Court Judge,Ellington,,KEN HODGES,77
+Clay,Zetto,Appeals Court Judge,Ellington,,KEN HODGES,55
+Clay,Courthouse,Appeals Court Judge,Ellington,,KEN HODGES,59
+Clay,Old Head Start,Appeals Court Judge,Ellington,,KEN HODGES,71
+Clay,Day's Cross Roads,Appeals Court Judge,Ellington,,KEN HODGES,72
+Clay,0+,Appeals Court Judge,Ellington,,KEN SHIGLEY,31
+Clay,Zetto,Appeals Court Judge,Ellington,,KEN SHIGLEY,21
+Clay,Courthouse,Appeals Court Judge,Ellington,,KEN SHIGLEY,13
+Clay,Old Head Start,Appeals Court Judge,Ellington,,KEN SHIGLEY,17
+Clay,Day's Cross Roads,Appeals Court Judge,Ellington,,KEN SHIGLEY,20
+Clay,0+,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,99
+Clay,Zetto,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,60
+Clay,Courthouse,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,64
+Clay,Old Head Start,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,75
+Clay,Day's Cross Roads,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,77
+Clay,0+,Appeals Court Judge,Miller,,M. YVETTE MILLER,98
+Clay,Zetto,Appeals Court Judge,Miller,,M. YVETTE MILLER,57
+Clay,Courthouse,Appeals Court Judge,Miller,,M. YVETTE MILLER,64
+Clay,Old Head Start,Appeals Court Judge,Miller,,M. YVETTE MILLER,75
+Clay,Day's Cross Roads,Appeals Court Judge,Miller,,M. YVETTE MILLER,76
+Clay,0+,Appeals Court Judge,Reese,,CLYDE L. REESE III,95
+Clay,Zetto,Appeals Court Judge,Reese,,CLYDE L. REESE III,59
+Clay,Courthouse,Appeals Court Judge,Reese,,CLYDE L. REESE III,62
+Clay,Old Head Start,Appeals Court Judge,Reese,,CLYDE L. REESE III,72
+Clay,Day's Cross Roads,Appeals Court Judge,Reese,,CLYDE L. REESE III,74
+Clay,0+,Appeals Court Judge,Rickman,,BRIAN RICKMAN,98
+Clay,Zetto,Appeals Court Judge,Rickman,,BRIAN RICKMAN,58
+Clay,Courthouse,Appeals Court Judge,Rickman,,BRIAN RICKMAN,63
+Clay,Old Head Start,Appeals Court Judge,Rickman,,BRIAN RICKMAN,75
+Clay,Day's Cross Roads,Appeals Court Judge,Rickman,,BRIAN RICKMAN,77
+Clay,0+,Superior Court Judge,Pataula Circuit (Bishop),,HENRY BALKCOM,53
+Clay,Zetto,Superior Court Judge,Pataula Circuit (Bishop),,HENRY BALKCOM,52
+Clay,Courthouse,Superior Court Judge,Pataula Circuit (Bishop),,HENRY BALKCOM,32
+Clay,Old Head Start,Superior Court Judge,Pataula Circuit (Bishop),,HENRY BALKCOM,56
+Clay,Day's Cross Roads,Superior Court Judge,Pataula Circuit (Bishop),,HENRY BALKCOM,74
+Clay,0+,Superior Court Judge,Pataula Circuit (Bishop),,MEGAN LANE CONNELL,14
+Clay,Zetto,Superior Court Judge,Pataula Circuit (Bishop),,MEGAN LANE CONNELL,16
+Clay,Courthouse,Superior Court Judge,Pataula Circuit (Bishop),,MEGAN LANE CONNELL,19
+Clay,Old Head Start,Superior Court Judge,Pataula Circuit (Bishop),,MEGAN LANE CONNELL,15
+Clay,Day's Cross Roads,Superior Court Judge,Pataula Circuit (Bishop),,MEGAN LANE CONNELL,8
+Clay,0+,Superior Court Judge,Pataula Circuit (Bishop),,KEITH DAY,28
+Clay,Zetto,Superior Court Judge,Pataula Circuit (Bishop),,KEITH DAY,11
+Clay,Courthouse,Superior Court Judge,Pataula Circuit (Bishop),,KEITH DAY,14
+Clay,Old Head Start,Superior Court Judge,Pataula Circuit (Bishop),,KEITH DAY,21
+Clay,Day's Cross Roads,Superior Court Judge,Pataula Circuit (Bishop),,KEITH DAY,10
+Clay,0+,Superior Court Judge,Pataula Circuit (Bishop),,"CHARLES ""CHIP"" STEWART",23
+Clay,Zetto,Superior Court Judge,Pataula Circuit (Bishop),,"CHARLES ""CHIP"" STEWART",13
+Clay,Courthouse,Superior Court Judge,Pataula Circuit (Bishop),,"CHARLES ""CHIP"" STEWART",23
+Clay,Old Head Start,Superior Court Judge,Pataula Circuit (Bishop),,"CHARLES ""CHIP"" STEWART",15
+Clay,Day's Cross Roads,Superior Court Judge,Pataula Circuit (Bishop),,"CHARLES ""CHIP"" STEWART",16
+Clay,0+,BOE,D1,,E. DAVIS,15
+Clay,0+,BOE,D1,,H. HARRELL,50
+Clay,Zetto,BOE,D2,,C. GILBERT,74
+Clay,Zetto,BOE,D2,,W. JOHNSON,21
