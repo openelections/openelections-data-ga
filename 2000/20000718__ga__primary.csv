@@ -1,4 +1,4 @@
-country,office,district,party,candidate,votes
+county,office,district,party,candidate,votes
 DADE,State House,1,Democrat,FRED STEPHENS,590
 WALKER,State House,1,Democrat,FRED STEPHENS,1769
 DADE,State House,1,Republican,BRIAN JOYCE,534
@@ -2208,4 +2208,3 @@ WILCOX,Public Service Commissioner,5,Republican,Stan Wise,84
 WILKES,Public Service Commissioner,5,Republican,Stan Wise,24
 WILKINSON,Public Service Commissioner,5,Republican,Stan Wise,7
 WORTH,Public Service Commissioner,5,Republican,Stan Wise,188
-
