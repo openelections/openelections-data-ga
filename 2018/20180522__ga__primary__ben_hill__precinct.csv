@@ -93,12 +93,12 @@ Ben Hill,East,"State Senator, District 7",7,REP,TYLER HARPER (I) (REP),200
 Ben Hill,West,"State Senator, District 7",7,REP,TYLER HARPER (I) (REP),623
 Ben Hill,East,"State Representative, District 155",155,REP,CLAY PIRKLE (I) (REP),196
 Ben Hill,West,"State Representative, District 155",155,REP,CLAY PIRKLE (I) (REP),608
-Ben Hill,East,"District Attorney, Cordele Circuit", Cordele Circuit - REP,REP,BRAD RIGBY (I) (REP),194
-Ben Hill,West,"District Attorney, Cordele Circuit", Cordele Circuit - REP,REP,BRAD RIGBY (I) (REP),603
-Ben Hill,East,"CC, D2 P2", D2 P2 - D,DEM,H. HARMON (I),259
-Ben Hill,West,"CC, D2 P2", D2 P2 - D,DEM,H. HARMON (I),103
-Ben Hill,East,"CC, D3 P1", D3 P1 - R,REP,J. MOONEY (I),46
-Ben Hill,West,"CC, D3 P1", D3 P1 - R,REP,J. MOONEY (I),534
+Ben Hill,East,"District Attorney, Cordele Circuit",Cordele Circuit - REP,REP,BRAD RIGBY (I) (REP),194
+Ben Hill,West,"District Attorney, Cordele Circuit",Cordele Circuit - REP,REP,BRAD RIGBY (I) (REP),603
+Ben Hill,East,"CC, D2 P2",D2 P2 - D,DEM,H. HARMON (I),259
+Ben Hill,West,"CC, D2 P2",D2 P2 - D,DEM,H. HARMON (I),103
+Ben Hill,East,"CC, D3 P1",D3 P1 - R,REP,J. MOONEY (I),46
+Ben Hill,West,"CC, D3 P1",D3 P1 - R,REP,J. MOONEY (I),534
 Ben Hill,East,Democratic Party Question 1,,DEM,YES,186
 Ben Hill,West,Democratic Party Question 1,,DEM,YES,182
 Ben Hill,East,Democratic Party Question 1,,DEM,NO,105
@@ -107,45 +107,45 @@ Ben Hill,East,Democratic Party Question 2,,DEM,YES,257
 Ben Hill,West,Democratic Party Question 2,,DEM,YES,241
 Ben Hill,East,Democratic Party Question 2,,DEM,NO,47
 Ben Hill,West,Democratic Party Question 2,,DEM,NO,18
-Ben Hill,East,Democratic Party Question 3, non-partisan commission?,DEM,YES,194
-Ben Hill,West,Democratic Party Question 3, non-partisan commission?,DEM,YES,166
-Ben Hill,East,Democratic Party Question 3, non-partisan commission?,DEM,NO,99
-Ben Hill,West,Democratic Party Question 3, non-partisan commission?,DEM,NO,86
-Ben Hill,East,Democratic Party Question 4, reduce carbon emissions,DEM,YES,211
-Ben Hill,West,Democratic Party Question 4, reduce carbon emissions,DEM,YES,179
-Ben Hill,East,Democratic Party Question 4, reduce carbon emissions,DEM,NO,86
-Ben Hill,West,Democratic Party Question 4, reduce carbon emissions,DEM,NO,75
-Ben Hill,East,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,463
-Ben Hill,West,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,829
-Ben Hill,East,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,448
-Ben Hill,West,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,830
-Ben Hill,East,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,450
-Ben Hill,West,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,839
-Ben Hill,East,Supreme Court Justice, Melton,,HAROLD D. MELTON ,458
-Ben Hill,West,Supreme Court Justice, Melton,,HAROLD D. MELTON ,834
-Ben Hill,East,Supreme Court Justice, Peterson,,NELS PETERSON ,440
-Ben Hill,West,Supreme Court Justice, Peterson,,NELS PETERSON ,822
-Ben Hill,East,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,451
-Ben Hill,West,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,826
-Ben Hill,East,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,442
-Ben Hill,West,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,829
-Ben Hill,East,Appeals Court Judge, Ellington,,KEN HODGES  ,396
-Ben Hill,West,Appeals Court Judge, Ellington,,KEN HODGES  ,738
-Ben Hill,East,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,109
-Ben Hill,West,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,178
-Ben Hill,East,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,451
-Ben Hill,West,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,823
-Ben Hill,East,Appeals Court Judge, Miller,,M. YVETTE MILLER ,452
-Ben Hill,West,Appeals Court Judge, Miller,,M. YVETTE MILLER ,817
-Ben Hill,East,Appeals Court Judge, Reese,,CLYDE L. REESE III ,446
-Ben Hill,West,Appeals Court Judge, Reese,,CLYDE L. REESE III ,814
-Ben Hill,East,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,446
-Ben Hill,West,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,817
-Ben Hill,East,BOE, D1,,S. BROOKS ,125
-Ben Hill,West,BOE, D2,,G. SMITH ,153
-Ben Hill,West,BOE, D3,,M. YEAGER,328
-Ben Hill,East,BOE, D7,,J. MEDELLIN,0
-Ben Hill,West,BOE, D7,,J. MEDELLIN,185
+Ben Hill,East,Democratic Party Question 3,non-partisan commission?,DEM,YES,194
+Ben Hill,West,Democratic Party Question 3,non-partisan commission?,DEM,YES,166
+Ben Hill,East,Democratic Party Question 3,non-partisan commission?,DEM,NO,99
+Ben Hill,West,Democratic Party Question 3,non-partisan commission?,DEM,NO,86
+Ben Hill,East,Democratic Party Question 4,reduce carbon emissions,DEM,YES,211
+Ben Hill,West,Democratic Party Question 4,reduce carbon emissions,DEM,YES,179
+Ben Hill,East,Democratic Party Question 4,reduce carbon emissions,DEM,NO,86
+Ben Hill,West,Democratic Party Question 4,reduce carbon emissions,DEM,NO,75
+Ben Hill,East,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,463
+Ben Hill,West,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,829
+Ben Hill,East,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,448
+Ben Hill,West,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,830
+Ben Hill,East,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,450
+Ben Hill,West,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,839
+Ben Hill,East,Supreme Court Justice,Melton,,HAROLD D. MELTON,458
+Ben Hill,West,Supreme Court Justice,Melton,,HAROLD D. MELTON,834
+Ben Hill,East,Supreme Court Justice,Peterson,,NELS PETERSON,440
+Ben Hill,West,Supreme Court Justice,Peterson,,NELS PETERSON,822
+Ben Hill,East,Appeals Court Judge,Bethel,,CHARLIE BETHEL,451
+Ben Hill,West,Appeals Court Judge,Bethel,,CHARLIE BETHEL,826
+Ben Hill,East,Appeals Court Judge,Dillard,,STEPHEN DILLARD,442
+Ben Hill,West,Appeals Court Judge,Dillard,,STEPHEN DILLARD,829
+Ben Hill,East,Appeals Court Judge,Ellington,,KEN HODGES,396
+Ben Hill,West,Appeals Court Judge,Ellington,,KEN HODGES,738
+Ben Hill,East,Appeals Court Judge,Ellington,,KEN SHIGLEY,109
+Ben Hill,West,Appeals Court Judge,Ellington,,KEN SHIGLEY,178
+Ben Hill,East,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,451
+Ben Hill,West,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,823
+Ben Hill,East,Appeals Court Judge,Miller,,M. YVETTE MILLER,452
+Ben Hill,West,Appeals Court Judge,Miller,,M. YVETTE MILLER,817
+Ben Hill,East,Appeals Court Judge,Reese,,CLYDE L. REESE III,446
+Ben Hill,West,Appeals Court Judge,Reese,,CLYDE L. REESE III,814
+Ben Hill,East,Appeals Court Judge,Rickman,,BRIAN RICKMAN,446
+Ben Hill,West,Appeals Court Judge,Rickman,,BRIAN RICKMAN,817
+Ben Hill,East,BOE,D1,,S. BROOKS,125
+Ben Hill,West,BOE,D2,,G. SMITH,153
+Ben Hill,West,BOE,D3,,M. YEAGER,328
+Ben Hill,East,BOE,D7,,J. MEDELLIN,0
+Ben Hill,West,BOE,D7,,J. MEDELLIN,185
 Ben Hill,East,TSPLOST,,,YES,408
 Ben Hill,West,TSPLOST,,,YES,744
 Ben Hill,East,TSPLOST,,,NO,156

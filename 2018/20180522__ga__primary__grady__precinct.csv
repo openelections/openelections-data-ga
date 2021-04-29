@@ -649,14 +649,14 @@ Grady,Spence,SOLICITOR GENERAL,,REP,C. FERENCHICK,94
 Grady,Spring Hill,SOLICITOR GENERAL,,REP,C. FERENCHICK,72
 Grady,Whigham,SOLICITOR GENERAL,,REP,C. FERENCHICK,76
 Grady,Woodland,SOLICITOR GENERAL,,REP,C. FERENCHICK,304
-Grady,Pine Park,"CC, D2", D2 - R,REP,R. PRINCE (I),29
-Grady,Spence,"CC, D2", D2 - R,REP,R. PRINCE (I),81
-Grady,Woodland,"CC, D2", D2 - R,REP,R. PRINCE (I),176
-Grady,Pine Park,"CC, D2", D2 - R,REP,S. WHITE,41
-Grady,Spence,"CC, D2", D2 - R,REP,S. WHITE,44
-Grady,Woodland,"CC, D2", D2 - R,REP,S. WHITE,110
-Grady,Cairo 5th District,"CC, D5", D5 - R,REP,T.D. DAVID (I),172
-Grady,Midway,"CC, D5", D5 - R,REP,T.D. DAVID (I),1
+Grady,Pine Park,"CC, D2",D2 - R,REP,R. PRINCE (I),29
+Grady,Spence,"CC, D2",D2 - R,REP,R. PRINCE (I),81
+Grady,Woodland,"CC, D2",D2 - R,REP,R. PRINCE (I),176
+Grady,Pine Park,"CC, D2",D2 - R,REP,S. WHITE,41
+Grady,Spence,"CC, D2",D2 - R,REP,S. WHITE,44
+Grady,Woodland,"CC, D2",D2 - R,REP,S. WHITE,110
+Grady,Cairo 5th District,"CC, D5",D5 - R,REP,T.D. DAVID (I),172
+Grady,Midway,"CC, D5",D5 - R,REP,T.D. DAVID (I),1
 Grady,Blowing Cave,Democratic Party Question 1,,DEM,YES,10
 Grady,Cairo 4th District,Democratic Party Question 1,,DEM,YES,130
 Grady,Cairo 5th District,Democratic Party Question 1,,DEM,YES,81
@@ -709,245 +709,245 @@ Grady,Spence,Democratic Party Question 2,,DEM,NO,0
 Grady,Spring Hill,Democratic Party Question 2,,DEM,NO,2
 Grady,Whigham,Democratic Party Question 2,,DEM,NO,4
 Grady,Woodland,Democratic Party Question 2,,DEM,NO,8
-Grady,Blowing Cave,Democratic Party Question 3, non-partisan commission?,DEM,YES,14
-Grady,Cairo 4th District,Democratic Party Question 3, non-partisan commission?,DEM,YES,155
-Grady,Cairo 5th District,Democratic Party Question 3, non-partisan commission?,DEM,YES,90
-Grady,Duncanville,Democratic Party Question 3, non-partisan commission?,DEM,YES,25
-Grady,Higdon,Democratic Party Question 3, non-partisan commission?,DEM,YES,36
-Grady,Limesink,Democratic Party Question 3, non-partisan commission?,DEM,YES,2
-Grady,Midway,Democratic Party Question 3, non-partisan commission?,DEM,YES,44
-Grady,Pine Park,Democratic Party Question 3, non-partisan commission?,DEM,YES,11
-Grady,Ragan,Democratic Party Question 3, non-partisan commission?,DEM,YES,15
-Grady,Spence,Democratic Party Question 3, non-partisan commission?,DEM,YES,7
-Grady,Spring Hill,Democratic Party Question 3, non-partisan commission?,DEM,YES,4
-Grady,Whigham,Democratic Party Question 3, non-partisan commission?,DEM,YES,22
-Grady,Woodland,Democratic Party Question 3, non-partisan commission?,DEM,YES,33
-Grady,Blowing Cave,Democratic Party Question 3, non-partisan commission?,DEM,NO,4
-Grady,Cairo 4th District,Democratic Party Question 3, non-partisan commission?,DEM,NO,82
-Grady,Cairo 5th District,Democratic Party Question 3, non-partisan commission?,DEM,NO,40
-Grady,Duncanville,Democratic Party Question 3, non-partisan commission?,DEM,NO,11
-Grady,Higdon,Democratic Party Question 3, non-partisan commission?,DEM,NO,11
-Grady,Limesink,Democratic Party Question 3, non-partisan commission?,DEM,NO,1
-Grady,Midway,Democratic Party Question 3, non-partisan commission?,DEM,NO,8
-Grady,Pine Park,Democratic Party Question 3, non-partisan commission?,DEM,NO,12
-Grady,Ragan,Democratic Party Question 3, non-partisan commission?,DEM,NO,9
-Grady,Spence,Democratic Party Question 3, non-partisan commission?,DEM,NO,1
-Grady,Spring Hill,Democratic Party Question 3, non-partisan commission?,DEM,NO,4
-Grady,Whigham,Democratic Party Question 3, non-partisan commission?,DEM,NO,7
-Grady,Woodland,Democratic Party Question 3, non-partisan commission?,DEM,NO,12
-Grady,Blowing Cave,Democratic Party Question 4, reduce carbon emissions,DEM,YES,8
-Grady,Cairo 4th District,Democratic Party Question 4, reduce carbon emissions,DEM,YES,171
-Grady,Cairo 5th District,Democratic Party Question 4, reduce carbon emissions,DEM,YES,102
-Grady,Duncanville,Democratic Party Question 4, reduce carbon emissions,DEM,YES,23
-Grady,Higdon,Democratic Party Question 4, reduce carbon emissions,DEM,YES,31
-Grady,Limesink,Democratic Party Question 4, reduce carbon emissions,DEM,YES,3
-Grady,Midway,Democratic Party Question 4, reduce carbon emissions,DEM,YES,45
-Grady,Pine Park,Democratic Party Question 4, reduce carbon emissions,DEM,YES,12
-Grady,Ragan,Democratic Party Question 4, reduce carbon emissions,DEM,YES,16
-Grady,Spence,Democratic Party Question 4, reduce carbon emissions,DEM,YES,7
-Grady,Spring Hill,Democratic Party Question 4, reduce carbon emissions,DEM,YES,6
-Grady,Whigham,Democratic Party Question 4, reduce carbon emissions,DEM,YES,19
-Grady,Woodland,Democratic Party Question 4, reduce carbon emissions,DEM,YES,31
-Grady,Blowing Cave,Democratic Party Question 4, reduce carbon emissions,DEM,NO,11
-Grady,Cairo 4th District,Democratic Party Question 4, reduce carbon emissions,DEM,NO,68
-Grady,Cairo 5th District,Democratic Party Question 4, reduce carbon emissions,DEM,NO,31
-Grady,Duncanville,Democratic Party Question 4, reduce carbon emissions,DEM,NO,13
-Grady,Higdon,Democratic Party Question 4, reduce carbon emissions,DEM,NO,17
-Grady,Limesink,Democratic Party Question 4, reduce carbon emissions,DEM,NO,1
-Grady,Midway,Democratic Party Question 4, reduce carbon emissions,DEM,NO,7
-Grady,Pine Park,Democratic Party Question 4, reduce carbon emissions,DEM,NO,13
-Grady,Ragan,Democratic Party Question 4, reduce carbon emissions,DEM,NO,9
-Grady,Spence,Democratic Party Question 4, reduce carbon emissions,DEM,NO,2
-Grady,Spring Hill,Democratic Party Question 4, reduce carbon emissions,DEM,NO,3
-Grady,Whigham,Democratic Party Question 4, reduce carbon emissions,DEM,NO,10
-Grady,Woodland,Democratic Party Question 4, reduce carbon emissions,DEM,NO,13
-Grady,Blowing Cave,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,78
-Grady,Cairo 4th District,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,248
-Grady,Cairo 5th District,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,284
-Grady,Duncanville,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,71
-Grady,Higdon,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,100
-Grady,Limesink,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,36
-Grady,Midway,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,127
-Grady,Pine Park,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,81
-Grady,Ragan,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,66
-Grady,Spence,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,103
-Grady,Spring Hill,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,82
-Grady,Whigham,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,105
-Grady,Woodland,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,330
-Grady,Blowing Cave,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,78
-Grady,Cairo 4th District,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,241
-Grady,Cairo 5th District,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,289
-Grady,Duncanville,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,71
-Grady,Higdon,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,100
-Grady,Limesink,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,37
-Grady,Midway,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,127
-Grady,Pine Park,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,83
-Grady,Ragan,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,66
-Grady,Spence,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,104
-Grady,Spring Hill,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,82
-Grady,Whigham,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,104
-Grady,Woodland,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,335
-Grady,Blowing Cave,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,77
-Grady,Cairo 4th District,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,240
-Grady,Cairo 5th District,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,291
-Grady,Duncanville,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,69
-Grady,Higdon,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,99
-Grady,Limesink,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,37
-Grady,Midway,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,131
-Grady,Pine Park,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,81
-Grady,Ragan,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,64
-Grady,Spence,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,101
-Grady,Spring Hill,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,80
-Grady,Whigham,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,109
-Grady,Woodland,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,329
-Grady,Blowing Cave,Supreme Court Justice, Melton,,HAROLD D. MELTON ,75
-Grady,Cairo 4th District,Supreme Court Justice, Melton,,HAROLD D. MELTON ,239
-Grady,Cairo 5th District,Supreme Court Justice, Melton,,HAROLD D. MELTON ,290
-Grady,Duncanville,Supreme Court Justice, Melton,,HAROLD D. MELTON ,69
-Grady,Higdon,Supreme Court Justice, Melton,,HAROLD D. MELTON ,100
-Grady,Limesink,Supreme Court Justice, Melton,,HAROLD D. MELTON ,37
-Grady,Midway,Supreme Court Justice, Melton,,HAROLD D. MELTON ,125
-Grady,Pine Park,Supreme Court Justice, Melton,,HAROLD D. MELTON ,81
-Grady,Ragan,Supreme Court Justice, Melton,,HAROLD D. MELTON ,66
-Grady,Spence,Supreme Court Justice, Melton,,HAROLD D. MELTON ,104
-Grady,Spring Hill,Supreme Court Justice, Melton,,HAROLD D. MELTON ,81
-Grady,Whigham,Supreme Court Justice, Melton,,HAROLD D. MELTON ,108
-Grady,Woodland,Supreme Court Justice, Melton,,HAROLD D. MELTON ,331
-Grady,Blowing Cave,Supreme Court Justice, Peterson,,NELS PETERSON ,75
-Grady,Cairo 4th District,Supreme Court Justice, Peterson,,NELS PETERSON ,244
-Grady,Cairo 5th District,Supreme Court Justice, Peterson,,NELS PETERSON ,286
-Grady,Duncanville,Supreme Court Justice, Peterson,,NELS PETERSON ,68
-Grady,Higdon,Supreme Court Justice, Peterson,,NELS PETERSON ,102
-Grady,Limesink,Supreme Court Justice, Peterson,,NELS PETERSON ,37
-Grady,Midway,Supreme Court Justice, Peterson,,NELS PETERSON ,120
-Grady,Pine Park,Supreme Court Justice, Peterson,,NELS PETERSON ,84
-Grady,Ragan,Supreme Court Justice, Peterson,,NELS PETERSON ,63
-Grady,Spence,Supreme Court Justice, Peterson,,NELS PETERSON ,102
-Grady,Spring Hill,Supreme Court Justice, Peterson,,NELS PETERSON ,80
-Grady,Whigham,Supreme Court Justice, Peterson,,NELS PETERSON ,106
-Grady,Woodland,Supreme Court Justice, Peterson,,NELS PETERSON ,327
-Grady,Blowing Cave,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,74
-Grady,Cairo 4th District,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,243
-Grady,Cairo 5th District,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,288
-Grady,Duncanville,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,69
-Grady,Higdon,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,102
-Grady,Limesink,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,37
-Grady,Midway,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,123
-Grady,Pine Park,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,84
-Grady,Ragan,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,64
-Grady,Spence,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,104
-Grady,Spring Hill,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,80
-Grady,Whigham,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,107
-Grady,Woodland,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,326
-Grady,Blowing Cave,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,76
-Grady,Cairo 4th District,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,241
-Grady,Cairo 5th District,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,288
-Grady,Duncanville,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,66
-Grady,Higdon,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,102
-Grady,Limesink,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,36
-Grady,Midway,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,125
-Grady,Pine Park,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,82
-Grady,Ragan,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,66
-Grady,Spence,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,105
-Grady,Spring Hill,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,79
-Grady,Whigham,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,107
-Grady,Woodland,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,330
-Grady,Blowing Cave,Appeals Court Judge, Ellington,,KEN HODGES  ,68
-Grady,Cairo 4th District,Appeals Court Judge, Ellington,,KEN HODGES  ,206
-Grady,Cairo 5th District,Appeals Court Judge, Ellington,,KEN HODGES  ,245
-Grady,Duncanville,Appeals Court Judge, Ellington,,KEN HODGES  ,50
-Grady,Higdon,Appeals Court Judge, Ellington,,KEN HODGES  ,78
-Grady,Limesink,Appeals Court Judge, Ellington,,KEN HODGES  ,36
-Grady,Midway,Appeals Court Judge, Ellington,,KEN HODGES  ,105
-Grady,Pine Park,Appeals Court Judge, Ellington,,KEN HODGES  ,73
-Grady,Ragan,Appeals Court Judge, Ellington,,KEN HODGES  ,59
-Grady,Spence,Appeals Court Judge, Ellington,,KEN HODGES  ,95
-Grady,Spring Hill,Appeals Court Judge, Ellington,,KEN HODGES  ,59
-Grady,Whigham,Appeals Court Judge, Ellington,,KEN HODGES  ,96
-Grady,Woodland,Appeals Court Judge, Ellington,,KEN HODGES  ,281
-Grady,Blowing Cave,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,18
-Grady,Cairo 4th District,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,50
-Grady,Cairo 5th District,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,62
-Grady,Duncanville,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,14
-Grady,Higdon,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,20
-Grady,Limesink,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,2
-Grady,Midway,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,25
-Grady,Pine Park,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,15
-Grady,Ragan,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,10
-Grady,Spence,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,19
-Grady,Spring Hill,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,22
-Grady,Whigham,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,20
-Grady,Woodland,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,61
-Grady,Blowing Cave,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,76
-Grady,Cairo 4th District,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,246
-Grady,Cairo 5th District,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,289
-Grady,Duncanville,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,68
-Grady,Higdon,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,98
-Grady,Limesink,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,36
-Grady,Midway,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,126
-Grady,Pine Park,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,83
-Grady,Ragan,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,68
-Grady,Spence,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,103
-Grady,Spring Hill,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,80
-Grady,Whigham,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,104
-Grady,Woodland,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,329
-Grady,Blowing Cave,Appeals Court Judge, Miller,,M. YVETTE MILLER ,76
-Grady,Cairo 4th District,Appeals Court Judge, Miller,,M. YVETTE MILLER ,248
-Grady,Cairo 5th District,Appeals Court Judge, Miller,,M. YVETTE MILLER ,290
-Grady,Duncanville,Appeals Court Judge, Miller,,M. YVETTE MILLER ,68
-Grady,Higdon,Appeals Court Judge, Miller,,M. YVETTE MILLER ,101
-Grady,Limesink,Appeals Court Judge, Miller,,M. YVETTE MILLER ,37
-Grady,Midway,Appeals Court Judge, Miller,,M. YVETTE MILLER ,129
-Grady,Pine Park,Appeals Court Judge, Miller,,M. YVETTE MILLER ,85
-Grady,Ragan,Appeals Court Judge, Miller,,M. YVETTE MILLER ,64
-Grady,Spence,Appeals Court Judge, Miller,,M. YVETTE MILLER ,102
-Grady,Spring Hill,Appeals Court Judge, Miller,,M. YVETTE MILLER ,81
-Grady,Whigham,Appeals Court Judge, Miller,,M. YVETTE MILLER ,102
-Grady,Woodland,Appeals Court Judge, Miller,,M. YVETTE MILLER ,326
-Grady,Blowing Cave,Appeals Court Judge, Reese,,CLYDE L. REESE III ,78
-Grady,Cairo 4th District,Appeals Court Judge, Reese,,CLYDE L. REESE III ,239
-Grady,Cairo 5th District,Appeals Court Judge, Reese,,CLYDE L. REESE III ,287
-Grady,Duncanville,Appeals Court Judge, Reese,,CLYDE L. REESE III ,68
-Grady,Higdon,Appeals Court Judge, Reese,,CLYDE L. REESE III ,102
-Grady,Limesink,Appeals Court Judge, Reese,,CLYDE L. REESE III ,37
-Grady,Midway,Appeals Court Judge, Reese,,CLYDE L. REESE III ,127
-Grady,Pine Park,Appeals Court Judge, Reese,,CLYDE L. REESE III ,85
-Grady,Ragan,Appeals Court Judge, Reese,,CLYDE L. REESE III ,67
-Grady,Spence,Appeals Court Judge, Reese,,CLYDE L. REESE III ,104
-Grady,Spring Hill,Appeals Court Judge, Reese,,CLYDE L. REESE III ,80
-Grady,Whigham,Appeals Court Judge, Reese,,CLYDE L. REESE III ,106
-Grady,Woodland,Appeals Court Judge, Reese,,CLYDE L. REESE III ,324
-Grady,Blowing Cave,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,77
-Grady,Cairo 4th District,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,242
-Grady,Cairo 5th District,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,283
-Grady,Duncanville,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,69
-Grady,Higdon,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,103
-Grady,Limesink,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,37
-Grady,Midway,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,124
-Grady,Pine Park,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,86
-Grady,Ragan,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,68
-Grady,Spence,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,101
-Grady,Spring Hill,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,81
-Grady,Whigham,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,105
-Grady,Woodland,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,328
-Grady,Blowing Cave,JUDGE, STATE COURT,,J. BELL ,82
-Grady,Cairo 4th District,JUDGE, STATE COURT,,J. BELL ,270
-Grady,Cairo 5th District,JUDGE, STATE COURT,,J. BELL ,299
-Grady,Duncanville,JUDGE, STATE COURT,,J. BELL ,68
-Grady,Higdon,JUDGE, STATE COURT,,J. BELL ,107
-Grady,Limesink,JUDGE, STATE COURT,,J. BELL ,35
-Grady,Midway,JUDGE, STATE COURT,,J. BELL ,133
-Grady,Pine Park,JUDGE, STATE COURT,,J. BELL ,84
-Grady,Ragan,JUDGE, STATE COURT,,J. BELL ,71
-Grady,Spence,JUDGE, STATE COURT,,J. BELL ,109
-Grady,Spring Hill,JUDGE, STATE COURT,,J. BELL ,86
-Grady,Whigham,JUDGE, STATE COURT,,J. BELL ,119
-Grady,Woodland,JUDGE, STATE COURT,,J. BELL ,350
-Grady,Pine Park,BOE, D2,,R. CHAPLIN ,43
-Grady,Spence,BOE, D2,,R. CHAPLIN ,50
-Grady,Woodland,BOE, D2,,R. CHAPLIN ,100
-Grady,Pine Park,BOE, D2,,D. MAJORS,50
-Grady,Spence,BOE, D2,,D. MAJORS,83
-Grady,Woodland,BOE, D2,,D. MAJORS,208
-Grady,Cairo 5th District,BOE, D5,,J. WHITE,303
-Grady,Midway,BOE, D5,,J. WHITE,1
+Grady,Blowing Cave,Democratic Party Question 3,non-partisan commission?,DEM,YES,14
+Grady,Cairo 4th District,Democratic Party Question 3,non-partisan commission?,DEM,YES,155
+Grady,Cairo 5th District,Democratic Party Question 3,non-partisan commission?,DEM,YES,90
+Grady,Duncanville,Democratic Party Question 3,non-partisan commission?,DEM,YES,25
+Grady,Higdon,Democratic Party Question 3,non-partisan commission?,DEM,YES,36
+Grady,Limesink,Democratic Party Question 3,non-partisan commission?,DEM,YES,2
+Grady,Midway,Democratic Party Question 3,non-partisan commission?,DEM,YES,44
+Grady,Pine Park,Democratic Party Question 3,non-partisan commission?,DEM,YES,11
+Grady,Ragan,Democratic Party Question 3,non-partisan commission?,DEM,YES,15
+Grady,Spence,Democratic Party Question 3,non-partisan commission?,DEM,YES,7
+Grady,Spring Hill,Democratic Party Question 3,non-partisan commission?,DEM,YES,4
+Grady,Whigham,Democratic Party Question 3,non-partisan commission?,DEM,YES,22
+Grady,Woodland,Democratic Party Question 3,non-partisan commission?,DEM,YES,33
+Grady,Blowing Cave,Democratic Party Question 3,non-partisan commission?,DEM,NO,4
+Grady,Cairo 4th District,Democratic Party Question 3,non-partisan commission?,DEM,NO,82
+Grady,Cairo 5th District,Democratic Party Question 3,non-partisan commission?,DEM,NO,40
+Grady,Duncanville,Democratic Party Question 3,non-partisan commission?,DEM,NO,11
+Grady,Higdon,Democratic Party Question 3,non-partisan commission?,DEM,NO,11
+Grady,Limesink,Democratic Party Question 3,non-partisan commission?,DEM,NO,1
+Grady,Midway,Democratic Party Question 3,non-partisan commission?,DEM,NO,8
+Grady,Pine Park,Democratic Party Question 3,non-partisan commission?,DEM,NO,12
+Grady,Ragan,Democratic Party Question 3,non-partisan commission?,DEM,NO,9
+Grady,Spence,Democratic Party Question 3,non-partisan commission?,DEM,NO,1
+Grady,Spring Hill,Democratic Party Question 3,non-partisan commission?,DEM,NO,4
+Grady,Whigham,Democratic Party Question 3,non-partisan commission?,DEM,NO,7
+Grady,Woodland,Democratic Party Question 3,non-partisan commission?,DEM,NO,12
+Grady,Blowing Cave,Democratic Party Question 4,reduce carbon emissions,DEM,YES,8
+Grady,Cairo 4th District,Democratic Party Question 4,reduce carbon emissions,DEM,YES,171
+Grady,Cairo 5th District,Democratic Party Question 4,reduce carbon emissions,DEM,YES,102
+Grady,Duncanville,Democratic Party Question 4,reduce carbon emissions,DEM,YES,23
+Grady,Higdon,Democratic Party Question 4,reduce carbon emissions,DEM,YES,31
+Grady,Limesink,Democratic Party Question 4,reduce carbon emissions,DEM,YES,3
+Grady,Midway,Democratic Party Question 4,reduce carbon emissions,DEM,YES,45
+Grady,Pine Park,Democratic Party Question 4,reduce carbon emissions,DEM,YES,12
+Grady,Ragan,Democratic Party Question 4,reduce carbon emissions,DEM,YES,16
+Grady,Spence,Democratic Party Question 4,reduce carbon emissions,DEM,YES,7
+Grady,Spring Hill,Democratic Party Question 4,reduce carbon emissions,DEM,YES,6
+Grady,Whigham,Democratic Party Question 4,reduce carbon emissions,DEM,YES,19
+Grady,Woodland,Democratic Party Question 4,reduce carbon emissions,DEM,YES,31
+Grady,Blowing Cave,Democratic Party Question 4,reduce carbon emissions,DEM,NO,11
+Grady,Cairo 4th District,Democratic Party Question 4,reduce carbon emissions,DEM,NO,68
+Grady,Cairo 5th District,Democratic Party Question 4,reduce carbon emissions,DEM,NO,31
+Grady,Duncanville,Democratic Party Question 4,reduce carbon emissions,DEM,NO,13
+Grady,Higdon,Democratic Party Question 4,reduce carbon emissions,DEM,NO,17
+Grady,Limesink,Democratic Party Question 4,reduce carbon emissions,DEM,NO,1
+Grady,Midway,Democratic Party Question 4,reduce carbon emissions,DEM,NO,7
+Grady,Pine Park,Democratic Party Question 4,reduce carbon emissions,DEM,NO,13
+Grady,Ragan,Democratic Party Question 4,reduce carbon emissions,DEM,NO,9
+Grady,Spence,Democratic Party Question 4,reduce carbon emissions,DEM,NO,2
+Grady,Spring Hill,Democratic Party Question 4,reduce carbon emissions,DEM,NO,3
+Grady,Whigham,Democratic Party Question 4,reduce carbon emissions,DEM,NO,10
+Grady,Woodland,Democratic Party Question 4,reduce carbon emissions,DEM,NO,13
+Grady,Blowing Cave,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,78
+Grady,Cairo 4th District,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,248
+Grady,Cairo 5th District,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,284
+Grady,Duncanville,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,71
+Grady,Higdon,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,100
+Grady,Limesink,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,36
+Grady,Midway,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,127
+Grady,Pine Park,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,81
+Grady,Ragan,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,66
+Grady,Spence,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,103
+Grady,Spring Hill,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,82
+Grady,Whigham,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,105
+Grady,Woodland,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,330
+Grady,Blowing Cave,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,78
+Grady,Cairo 4th District,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,241
+Grady,Cairo 5th District,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,289
+Grady,Duncanville,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,71
+Grady,Higdon,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,100
+Grady,Limesink,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,37
+Grady,Midway,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,127
+Grady,Pine Park,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,83
+Grady,Ragan,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,66
+Grady,Spence,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,104
+Grady,Spring Hill,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,82
+Grady,Whigham,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,104
+Grady,Woodland,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,335
+Grady,Blowing Cave,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,77
+Grady,Cairo 4th District,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,240
+Grady,Cairo 5th District,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,291
+Grady,Duncanville,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,69
+Grady,Higdon,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,99
+Grady,Limesink,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,37
+Grady,Midway,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,131
+Grady,Pine Park,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,81
+Grady,Ragan,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,64
+Grady,Spence,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,101
+Grady,Spring Hill,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,80
+Grady,Whigham,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,109
+Grady,Woodland,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,329
+Grady,Blowing Cave,Supreme Court Justice,Melton,,HAROLD D. MELTON,75
+Grady,Cairo 4th District,Supreme Court Justice,Melton,,HAROLD D. MELTON,239
+Grady,Cairo 5th District,Supreme Court Justice,Melton,,HAROLD D. MELTON,290
+Grady,Duncanville,Supreme Court Justice,Melton,,HAROLD D. MELTON,69
+Grady,Higdon,Supreme Court Justice,Melton,,HAROLD D. MELTON,100
+Grady,Limesink,Supreme Court Justice,Melton,,HAROLD D. MELTON,37
+Grady,Midway,Supreme Court Justice,Melton,,HAROLD D. MELTON,125
+Grady,Pine Park,Supreme Court Justice,Melton,,HAROLD D. MELTON,81
+Grady,Ragan,Supreme Court Justice,Melton,,HAROLD D. MELTON,66
+Grady,Spence,Supreme Court Justice,Melton,,HAROLD D. MELTON,104
+Grady,Spring Hill,Supreme Court Justice,Melton,,HAROLD D. MELTON,81
+Grady,Whigham,Supreme Court Justice,Melton,,HAROLD D. MELTON,108
+Grady,Woodland,Supreme Court Justice,Melton,,HAROLD D. MELTON,331
+Grady,Blowing Cave,Supreme Court Justice,Peterson,,NELS PETERSON,75
+Grady,Cairo 4th District,Supreme Court Justice,Peterson,,NELS PETERSON,244
+Grady,Cairo 5th District,Supreme Court Justice,Peterson,,NELS PETERSON,286
+Grady,Duncanville,Supreme Court Justice,Peterson,,NELS PETERSON,68
+Grady,Higdon,Supreme Court Justice,Peterson,,NELS PETERSON,102
+Grady,Limesink,Supreme Court Justice,Peterson,,NELS PETERSON,37
+Grady,Midway,Supreme Court Justice,Peterson,,NELS PETERSON,120
+Grady,Pine Park,Supreme Court Justice,Peterson,,NELS PETERSON,84
+Grady,Ragan,Supreme Court Justice,Peterson,,NELS PETERSON,63
+Grady,Spence,Supreme Court Justice,Peterson,,NELS PETERSON,102
+Grady,Spring Hill,Supreme Court Justice,Peterson,,NELS PETERSON,80
+Grady,Whigham,Supreme Court Justice,Peterson,,NELS PETERSON,106
+Grady,Woodland,Supreme Court Justice,Peterson,,NELS PETERSON,327
+Grady,Blowing Cave,Appeals Court Judge,Bethel,,CHARLIE BETHEL,74
+Grady,Cairo 4th District,Appeals Court Judge,Bethel,,CHARLIE BETHEL,243
+Grady,Cairo 5th District,Appeals Court Judge,Bethel,,CHARLIE BETHEL,288
+Grady,Duncanville,Appeals Court Judge,Bethel,,CHARLIE BETHEL,69
+Grady,Higdon,Appeals Court Judge,Bethel,,CHARLIE BETHEL,102
+Grady,Limesink,Appeals Court Judge,Bethel,,CHARLIE BETHEL,37
+Grady,Midway,Appeals Court Judge,Bethel,,CHARLIE BETHEL,123
+Grady,Pine Park,Appeals Court Judge,Bethel,,CHARLIE BETHEL,84
+Grady,Ragan,Appeals Court Judge,Bethel,,CHARLIE BETHEL,64
+Grady,Spence,Appeals Court Judge,Bethel,,CHARLIE BETHEL,104
+Grady,Spring Hill,Appeals Court Judge,Bethel,,CHARLIE BETHEL,80
+Grady,Whigham,Appeals Court Judge,Bethel,,CHARLIE BETHEL,107
+Grady,Woodland,Appeals Court Judge,Bethel,,CHARLIE BETHEL,326
+Grady,Blowing Cave,Appeals Court Judge,Dillard,,STEPHEN DILLARD,76
+Grady,Cairo 4th District,Appeals Court Judge,Dillard,,STEPHEN DILLARD,241
+Grady,Cairo 5th District,Appeals Court Judge,Dillard,,STEPHEN DILLARD,288
+Grady,Duncanville,Appeals Court Judge,Dillard,,STEPHEN DILLARD,66
+Grady,Higdon,Appeals Court Judge,Dillard,,STEPHEN DILLARD,102
+Grady,Limesink,Appeals Court Judge,Dillard,,STEPHEN DILLARD,36
+Grady,Midway,Appeals Court Judge,Dillard,,STEPHEN DILLARD,125
+Grady,Pine Park,Appeals Court Judge,Dillard,,STEPHEN DILLARD,82
+Grady,Ragan,Appeals Court Judge,Dillard,,STEPHEN DILLARD,66
+Grady,Spence,Appeals Court Judge,Dillard,,STEPHEN DILLARD,105
+Grady,Spring Hill,Appeals Court Judge,Dillard,,STEPHEN DILLARD,79
+Grady,Whigham,Appeals Court Judge,Dillard,,STEPHEN DILLARD,107
+Grady,Woodland,Appeals Court Judge,Dillard,,STEPHEN DILLARD,330
+Grady,Blowing Cave,Appeals Court Judge,Ellington,,KEN HODGES,68
+Grady,Cairo 4th District,Appeals Court Judge,Ellington,,KEN HODGES,206
+Grady,Cairo 5th District,Appeals Court Judge,Ellington,,KEN HODGES,245
+Grady,Duncanville,Appeals Court Judge,Ellington,,KEN HODGES,50
+Grady,Higdon,Appeals Court Judge,Ellington,,KEN HODGES,78
+Grady,Limesink,Appeals Court Judge,Ellington,,KEN HODGES,36
+Grady,Midway,Appeals Court Judge,Ellington,,KEN HODGES,105
+Grady,Pine Park,Appeals Court Judge,Ellington,,KEN HODGES,73
+Grady,Ragan,Appeals Court Judge,Ellington,,KEN HODGES,59
+Grady,Spence,Appeals Court Judge,Ellington,,KEN HODGES,95
+Grady,Spring Hill,Appeals Court Judge,Ellington,,KEN HODGES,59
+Grady,Whigham,Appeals Court Judge,Ellington,,KEN HODGES,96
+Grady,Woodland,Appeals Court Judge,Ellington,,KEN HODGES,281
+Grady,Blowing Cave,Appeals Court Judge,Ellington,,KEN SHIGLEY,18
+Grady,Cairo 4th District,Appeals Court Judge,Ellington,,KEN SHIGLEY,50
+Grady,Cairo 5th District,Appeals Court Judge,Ellington,,KEN SHIGLEY,62
+Grady,Duncanville,Appeals Court Judge,Ellington,,KEN SHIGLEY,14
+Grady,Higdon,Appeals Court Judge,Ellington,,KEN SHIGLEY,20
+Grady,Limesink,Appeals Court Judge,Ellington,,KEN SHIGLEY,2
+Grady,Midway,Appeals Court Judge,Ellington,,KEN SHIGLEY,25
+Grady,Pine Park,Appeals Court Judge,Ellington,,KEN SHIGLEY,15
+Grady,Ragan,Appeals Court Judge,Ellington,,KEN SHIGLEY,10
+Grady,Spence,Appeals Court Judge,Ellington,,KEN SHIGLEY,19
+Grady,Spring Hill,Appeals Court Judge,Ellington,,KEN SHIGLEY,22
+Grady,Whigham,Appeals Court Judge,Ellington,,KEN SHIGLEY,20
+Grady,Woodland,Appeals Court Judge,Ellington,,KEN SHIGLEY,61
+Grady,Blowing Cave,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,76
+Grady,Cairo 4th District,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,246
+Grady,Cairo 5th District,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,289
+Grady,Duncanville,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,68
+Grady,Higdon,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,98
+Grady,Limesink,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,36
+Grady,Midway,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,126
+Grady,Pine Park,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,83
+Grady,Ragan,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,68
+Grady,Spence,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,103
+Grady,Spring Hill,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,80
+Grady,Whigham,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,104
+Grady,Woodland,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,329
+Grady,Blowing Cave,Appeals Court Judge,Miller,,M. YVETTE MILLER,76
+Grady,Cairo 4th District,Appeals Court Judge,Miller,,M. YVETTE MILLER,248
+Grady,Cairo 5th District,Appeals Court Judge,Miller,,M. YVETTE MILLER,290
+Grady,Duncanville,Appeals Court Judge,Miller,,M. YVETTE MILLER,68
+Grady,Higdon,Appeals Court Judge,Miller,,M. YVETTE MILLER,101
+Grady,Limesink,Appeals Court Judge,Miller,,M. YVETTE MILLER,37
+Grady,Midway,Appeals Court Judge,Miller,,M. YVETTE MILLER,129
+Grady,Pine Park,Appeals Court Judge,Miller,,M. YVETTE MILLER,85
+Grady,Ragan,Appeals Court Judge,Miller,,M. YVETTE MILLER,64
+Grady,Spence,Appeals Court Judge,Miller,,M. YVETTE MILLER,102
+Grady,Spring Hill,Appeals Court Judge,Miller,,M. YVETTE MILLER,81
+Grady,Whigham,Appeals Court Judge,Miller,,M. YVETTE MILLER,102
+Grady,Woodland,Appeals Court Judge,Miller,,M. YVETTE MILLER,326
+Grady,Blowing Cave,Appeals Court Judge,Reese,,CLYDE L. REESE III,78
+Grady,Cairo 4th District,Appeals Court Judge,Reese,,CLYDE L. REESE III,239
+Grady,Cairo 5th District,Appeals Court Judge,Reese,,CLYDE L. REESE III,287
+Grady,Duncanville,Appeals Court Judge,Reese,,CLYDE L. REESE III,68
+Grady,Higdon,Appeals Court Judge,Reese,,CLYDE L. REESE III,102
+Grady,Limesink,Appeals Court Judge,Reese,,CLYDE L. REESE III,37
+Grady,Midway,Appeals Court Judge,Reese,,CLYDE L. REESE III,127
+Grady,Pine Park,Appeals Court Judge,Reese,,CLYDE L. REESE III,85
+Grady,Ragan,Appeals Court Judge,Reese,,CLYDE L. REESE III,67
+Grady,Spence,Appeals Court Judge,Reese,,CLYDE L. REESE III,104
+Grady,Spring Hill,Appeals Court Judge,Reese,,CLYDE L. REESE III,80
+Grady,Whigham,Appeals Court Judge,Reese,,CLYDE L. REESE III,106
+Grady,Woodland,Appeals Court Judge,Reese,,CLYDE L. REESE III,324
+Grady,Blowing Cave,Appeals Court Judge,Rickman,,BRIAN RICKMAN,77
+Grady,Cairo 4th District,Appeals Court Judge,Rickman,,BRIAN RICKMAN,242
+Grady,Cairo 5th District,Appeals Court Judge,Rickman,,BRIAN RICKMAN,283
+Grady,Duncanville,Appeals Court Judge,Rickman,,BRIAN RICKMAN,69
+Grady,Higdon,Appeals Court Judge,Rickman,,BRIAN RICKMAN,103
+Grady,Limesink,Appeals Court Judge,Rickman,,BRIAN RICKMAN,37
+Grady,Midway,Appeals Court Judge,Rickman,,BRIAN RICKMAN,124
+Grady,Pine Park,Appeals Court Judge,Rickman,,BRIAN RICKMAN,86
+Grady,Ragan,Appeals Court Judge,Rickman,,BRIAN RICKMAN,68
+Grady,Spence,Appeals Court Judge,Rickman,,BRIAN RICKMAN,101
+Grady,Spring Hill,Appeals Court Judge,Rickman,,BRIAN RICKMAN,81
+Grady,Whigham,Appeals Court Judge,Rickman,,BRIAN RICKMAN,105
+Grady,Woodland,Appeals Court Judge,Rickman,,BRIAN RICKMAN,328
+Grady,Blowing Cave,JUDGE,STATE COURT,,J. BELL,82
+Grady,Cairo 4th District,JUDGE,STATE COURT,,J. BELL,270
+Grady,Cairo 5th District,JUDGE,STATE COURT,,J. BELL,299
+Grady,Duncanville,JUDGE,STATE COURT,,J. BELL,68
+Grady,Higdon,JUDGE,STATE COURT,,J. BELL,107
+Grady,Limesink,JUDGE,STATE COURT,,J. BELL,35
+Grady,Midway,JUDGE,STATE COURT,,J. BELL,133
+Grady,Pine Park,JUDGE,STATE COURT,,J. BELL,84
+Grady,Ragan,JUDGE,STATE COURT,,J. BELL,71
+Grady,Spence,JUDGE,STATE COURT,,J. BELL,109
+Grady,Spring Hill,JUDGE,STATE COURT,,J. BELL,86
+Grady,Whigham,JUDGE,STATE COURT,,J. BELL,119
+Grady,Woodland,JUDGE,STATE COURT,,J. BELL,350
+Grady,Pine Park,BOE,D2,,R. CHAPLIN,43
+Grady,Spence,BOE,D2,,R. CHAPLIN,50
+Grady,Woodland,BOE,D2,,R. CHAPLIN,100
+Grady,Pine Park,BOE,D2,,D. MAJORS,50
+Grady,Spence,BOE,D2,,D. MAJORS,83
+Grady,Woodland,BOE,D2,,D. MAJORS,208
+Grady,Cairo 5th District,BOE,D5,,J. WHITE,303
+Grady,Midway,BOE,D5,,J. WHITE,1

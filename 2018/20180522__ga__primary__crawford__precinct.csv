@@ -287,12 +287,12 @@ Crawford,2,"State Representative, District 140",140,REP,ROBERT DICKEY (I) (REP),
 Crawford,3,"State Representative, District 140",140,REP,ROBERT DICKEY (I) (REP),170
 Crawford,4,"State Representative, District 140",140,REP,ROBERT DICKEY (I) (REP),217
 Crawford,5,"State Representative, District 140",140,REP,ROBERT DICKEY (I) (REP),209
-Crawford,1A,"CC, D1", D1 - R,REP,F. HOLMES,44
-Crawford,1B,"CC, D1", D1 - R,REP,F. HOLMES,57
-Crawford,1A,"CC, D1", D1 - D,DEM,S. BRASWELL (I),33
-Crawford,1B,"CC, D1", D1 - D,DEM,S. BRASWELL (I),86
-Crawford,5,"CC, D5", D5 - R,REP,P. CHAPMAN (I),147
-Crawford,5,"CC, D5", D5 - R,REP,"P.S. KELLY, IV",80
+Crawford,1A,"CC, D1",D1 - R,REP,F. HOLMES,44
+Crawford,1B,"CC, D1",D1 - R,REP,F. HOLMES,57
+Crawford,1A,"CC, D1",D1 - D,DEM,S. BRASWELL (I),33
+Crawford,1B,"CC, D1",D1 - D,DEM,S. BRASWELL (I),86
+Crawford,5,"CC, D5",D5 - R,REP,P. CHAPMAN (I),147
+Crawford,5,"CC, D5",D5 - R,REP,"P.S. KELLY, IV",80
 Crawford,1A,Democratic Party Question 1,,DEM,YES,25
 Crawford,1B,Democratic Party Question 1,,DEM,YES,58
 Crawford,2,Democratic Party Question 1,,DEM,YES,103
@@ -317,129 +317,129 @@ Crawford,2,Democratic Party Question 2,,DEM,NO,26
 Crawford,3,Democratic Party Question 2,,DEM,NO,5
 Crawford,4,Democratic Party Question 2,,DEM,NO,4
 Crawford,5,Democratic Party Question 2,,DEM,NO,2
-Crawford,1A,Democratic Party Question 3, non-partisan commission?,DEM,YES,24
-Crawford,1B,Democratic Party Question 3, non-partisan commission?,DEM,YES,53
-Crawford,2,Democratic Party Question 3, non-partisan commission?,DEM,YES,120
-Crawford,3,Democratic Party Question 3, non-partisan commission?,DEM,YES,37
-Crawford,4,Democratic Party Question 3, non-partisan commission?,DEM,YES,23
-Crawford,5,Democratic Party Question 3, non-partisan commission?,DEM,YES,27
-Crawford,1A,Democratic Party Question 3, non-partisan commission?,DEM,NO,16
-Crawford,1B,Democratic Party Question 3, non-partisan commission?,DEM,NO,47
-Crawford,2,Democratic Party Question 3, non-partisan commission?,DEM,NO,46
-Crawford,3,Democratic Party Question 3, non-partisan commission?,DEM,NO,12
-Crawford,4,Democratic Party Question 3, non-partisan commission?,DEM,NO,15
-Crawford,5,Democratic Party Question 3, non-partisan commission?,DEM,NO,7
-Crawford,1A,Democratic Party Question 4, reduce carbon emissions,DEM,YES,31
-Crawford,1B,Democratic Party Question 4, reduce carbon emissions,DEM,YES,63
-Crawford,2,Democratic Party Question 4, reduce carbon emissions,DEM,YES,109
-Crawford,3,Democratic Party Question 4, reduce carbon emissions,DEM,YES,33
-Crawford,4,Democratic Party Question 4, reduce carbon emissions,DEM,YES,25
-Crawford,5,Democratic Party Question 4, reduce carbon emissions,DEM,YES,27
-Crawford,1A,Democratic Party Question 4, reduce carbon emissions,DEM,NO,9
-Crawford,1B,Democratic Party Question 4, reduce carbon emissions,DEM,NO,40
-Crawford,2,Democratic Party Question 4, reduce carbon emissions,DEM,NO,57
-Crawford,3,Democratic Party Question 4, reduce carbon emissions,DEM,NO,16
-Crawford,4,Democratic Party Question 4, reduce carbon emissions,DEM,NO,14
-Crawford,5,Democratic Party Question 4, reduce carbon emissions,DEM,NO,7
-Crawford,1A,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,80
-Crawford,1B,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,140
-Crawford,2,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,319
-Crawford,3,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,204
-Crawford,4,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,227
-Crawford,5,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,226
-Crawford,1A,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,78
-Crawford,1B,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,141
-Crawford,2,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,320
-Crawford,3,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,199
-Crawford,4,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,224
-Crawford,5,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,229
-Crawford,1A,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,77
-Crawford,1B,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,138
-Crawford,2,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,319
-Crawford,3,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,200
-Crawford,4,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,224
-Crawford,5,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,227
-Crawford,1A,Supreme Court Justice, Melton,,HAROLD D. MELTON ,79
-Crawford,1B,Supreme Court Justice, Melton,,HAROLD D. MELTON ,140
-Crawford,2,Supreme Court Justice, Melton,,HAROLD D. MELTON ,318
-Crawford,3,Supreme Court Justice, Melton,,HAROLD D. MELTON ,198
-Crawford,4,Supreme Court Justice, Melton,,HAROLD D. MELTON ,224
-Crawford,5,Supreme Court Justice, Melton,,HAROLD D. MELTON ,223
-Crawford,1A,Supreme Court Justice, Peterson,,NELS PETERSON ,78
-Crawford,1B,Supreme Court Justice, Peterson,,NELS PETERSON ,134
-Crawford,2,Supreme Court Justice, Peterson,,NELS PETERSON ,312
-Crawford,3,Supreme Court Justice, Peterson,,NELS PETERSON ,202
-Crawford,4,Supreme Court Justice, Peterson,,NELS PETERSON ,222
-Crawford,5,Supreme Court Justice, Peterson,,NELS PETERSON ,222
-Crawford,1A,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,81
-Crawford,1B,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,135
-Crawford,2,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,314
-Crawford,3,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,200
-Crawford,4,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,223
-Crawford,5,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,221
-Crawford,1A,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,78
-Crawford,1B,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,133
-Crawford,2,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,318
-Crawford,3,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,199
-Crawford,4,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,219
-Crawford,5,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,224
-Crawford,1A,Appeals Court Judge, Ellington,,KEN HODGES  ,61
-Crawford,1B,Appeals Court Judge, Ellington,,KEN HODGES  ,116
-Crawford,2,Appeals Court Judge, Ellington,,KEN HODGES  ,258
-Crawford,3,Appeals Court Judge, Ellington,,KEN HODGES  ,174
-Crawford,4,Appeals Court Judge, Ellington,,KEN HODGES  ,187
-Crawford,5,Appeals Court Judge, Ellington,,KEN HODGES  ,195
-Crawford,1A,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,20
-Crawford,1B,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,30
-Crawford,2,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,61
-Crawford,3,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,42
-Crawford,4,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,55
-Crawford,5,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,42
-Crawford,1A,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,80
-Crawford,1B,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,131
-Crawford,2,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,316
-Crawford,3,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,199
-Crawford,4,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,228
-Crawford,5,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,223
-Crawford,1A,Appeals Court Judge, Miller,,M. YVETTE MILLER ,76
-Crawford,1B,Appeals Court Judge, Miller,,M. YVETTE MILLER ,135
-Crawford,2,Appeals Court Judge, Miller,,M. YVETTE MILLER ,315
-Crawford,3,Appeals Court Judge, Miller,,M. YVETTE MILLER ,194
-Crawford,4,Appeals Court Judge, Miller,,M. YVETTE MILLER ,215
-Crawford,5,Appeals Court Judge, Miller,,M. YVETTE MILLER ,223
-Crawford,1A,Appeals Court Judge, Reese,,CLYDE L. REESE III ,78
-Crawford,1B,Appeals Court Judge, Reese,,CLYDE L. REESE III ,132
-Crawford,2,Appeals Court Judge, Reese,,CLYDE L. REESE III ,310
-Crawford,3,Appeals Court Judge, Reese,,CLYDE L. REESE III ,195
-Crawford,4,Appeals Court Judge, Reese,,CLYDE L. REESE III ,217
-Crawford,5,Appeals Court Judge, Reese,,CLYDE L. REESE III ,225
-Crawford,1A,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,78
-Crawford,1B,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,130
-Crawford,2,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,312
-Crawford,3,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,196
-Crawford,4,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,216
-Crawford,5,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,221
-Crawford,1A,Superior Court Judge, Macon Circuit (Raymond),,PHILIP T. RAYMOND III ,77
-Crawford,1B,Superior Court Judge, Macon Circuit (Raymond),,PHILIP T. RAYMOND III ,129
-Crawford,2,Superior Court Judge, Macon Circuit (Raymond),,PHILIP T. RAYMOND III ,314
-Crawford,3,Superior Court Judge, Macon Circuit (Raymond),,PHILIP T. RAYMOND III ,197
-Crawford,4,Superior Court Judge, Macon Circuit (Raymond),,PHILIP T. RAYMOND III ,216
-Crawford,5,Superior Court Judge, Macon Circuit (Raymond),,PHILIP T. RAYMOND III ,222
-Crawford,1A,Superior Court Judge, Macon Circuit (Mincey),,DAVID L. MINCEY III ,81
-Crawford,1B,Superior Court Judge, Macon Circuit (Mincey),,DAVID L. MINCEY III ,142
-Crawford,2,Superior Court Judge, Macon Circuit (Mincey),,DAVID L. MINCEY III ,340
-Crawford,3,Superior Court Judge, Macon Circuit (Mincey),,DAVID L. MINCEY III ,209
-Crawford,4,Superior Court Judge, Macon Circuit (Mincey),,DAVID L. MINCEY III ,233
-Crawford,5,Superior Court Judge, Macon Circuit (Mincey),,DAVID L. MINCEY III ,231
-Crawford,1A,Superior Court Judge, Macon Circuit (Simms),,HOWARD Z. SIMMS ,76
-Crawford,1B,Superior Court Judge, Macon Circuit (Simms),,HOWARD Z. SIMMS ,133
-Crawford,2,Superior Court Judge, Macon Circuit (Simms),,HOWARD Z. SIMMS ,319
-Crawford,3,Superior Court Judge, Macon Circuit (Simms),,HOWARD Z. SIMMS ,199
-Crawford,4,Superior Court Judge, Macon Circuit (Simms),,HOWARD Z. SIMMS ,224
-Crawford,5,Superior Court Judge, Macon Circuit (Simms),,HOWARD Z. SIMMS ,230
-Crawford,1A,BOE, D1,,R. DICKEY ,82
-Crawford,1B,BOE, D1,,R. DICKEY ,148
-Crawford,5,BOE, D5,,"J. DEFORE, III ",229
+Crawford,1A,Democratic Party Question 3,non-partisan commission?,DEM,YES,24
+Crawford,1B,Democratic Party Question 3,non-partisan commission?,DEM,YES,53
+Crawford,2,Democratic Party Question 3,non-partisan commission?,DEM,YES,120
+Crawford,3,Democratic Party Question 3,non-partisan commission?,DEM,YES,37
+Crawford,4,Democratic Party Question 3,non-partisan commission?,DEM,YES,23
+Crawford,5,Democratic Party Question 3,non-partisan commission?,DEM,YES,27
+Crawford,1A,Democratic Party Question 3,non-partisan commission?,DEM,NO,16
+Crawford,1B,Democratic Party Question 3,non-partisan commission?,DEM,NO,47
+Crawford,2,Democratic Party Question 3,non-partisan commission?,DEM,NO,46
+Crawford,3,Democratic Party Question 3,non-partisan commission?,DEM,NO,12
+Crawford,4,Democratic Party Question 3,non-partisan commission?,DEM,NO,15
+Crawford,5,Democratic Party Question 3,non-partisan commission?,DEM,NO,7
+Crawford,1A,Democratic Party Question 4,reduce carbon emissions,DEM,YES,31
+Crawford,1B,Democratic Party Question 4,reduce carbon emissions,DEM,YES,63
+Crawford,2,Democratic Party Question 4,reduce carbon emissions,DEM,YES,109
+Crawford,3,Democratic Party Question 4,reduce carbon emissions,DEM,YES,33
+Crawford,4,Democratic Party Question 4,reduce carbon emissions,DEM,YES,25
+Crawford,5,Democratic Party Question 4,reduce carbon emissions,DEM,YES,27
+Crawford,1A,Democratic Party Question 4,reduce carbon emissions,DEM,NO,9
+Crawford,1B,Democratic Party Question 4,reduce carbon emissions,DEM,NO,40
+Crawford,2,Democratic Party Question 4,reduce carbon emissions,DEM,NO,57
+Crawford,3,Democratic Party Question 4,reduce carbon emissions,DEM,NO,16
+Crawford,4,Democratic Party Question 4,reduce carbon emissions,DEM,NO,14
+Crawford,5,Democratic Party Question 4,reduce carbon emissions,DEM,NO,7
+Crawford,1A,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,80
+Crawford,1B,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,140
+Crawford,2,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,319
+Crawford,3,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,204
+Crawford,4,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,227
+Crawford,5,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,226
+Crawford,1A,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,78
+Crawford,1B,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,141
+Crawford,2,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,320
+Crawford,3,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,199
+Crawford,4,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,224
+Crawford,5,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,229
+Crawford,1A,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,77
+Crawford,1B,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,138
+Crawford,2,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,319
+Crawford,3,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,200
+Crawford,4,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,224
+Crawford,5,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,227
+Crawford,1A,Supreme Court Justice,Melton,,HAROLD D. MELTON,79
+Crawford,1B,Supreme Court Justice,Melton,,HAROLD D. MELTON,140
+Crawford,2,Supreme Court Justice,Melton,,HAROLD D. MELTON,318
+Crawford,3,Supreme Court Justice,Melton,,HAROLD D. MELTON,198
+Crawford,4,Supreme Court Justice,Melton,,HAROLD D. MELTON,224
+Crawford,5,Supreme Court Justice,Melton,,HAROLD D. MELTON,223
+Crawford,1A,Supreme Court Justice,Peterson,,NELS PETERSON,78
+Crawford,1B,Supreme Court Justice,Peterson,,NELS PETERSON,134
+Crawford,2,Supreme Court Justice,Peterson,,NELS PETERSON,312
+Crawford,3,Supreme Court Justice,Peterson,,NELS PETERSON,202
+Crawford,4,Supreme Court Justice,Peterson,,NELS PETERSON,222
+Crawford,5,Supreme Court Justice,Peterson,,NELS PETERSON,222
+Crawford,1A,Appeals Court Judge,Bethel,,CHARLIE BETHEL,81
+Crawford,1B,Appeals Court Judge,Bethel,,CHARLIE BETHEL,135
+Crawford,2,Appeals Court Judge,Bethel,,CHARLIE BETHEL,314
+Crawford,3,Appeals Court Judge,Bethel,,CHARLIE BETHEL,200
+Crawford,4,Appeals Court Judge,Bethel,,CHARLIE BETHEL,223
+Crawford,5,Appeals Court Judge,Bethel,,CHARLIE BETHEL,221
+Crawford,1A,Appeals Court Judge,Dillard,,STEPHEN DILLARD,78
+Crawford,1B,Appeals Court Judge,Dillard,,STEPHEN DILLARD,133
+Crawford,2,Appeals Court Judge,Dillard,,STEPHEN DILLARD,318
+Crawford,3,Appeals Court Judge,Dillard,,STEPHEN DILLARD,199
+Crawford,4,Appeals Court Judge,Dillard,,STEPHEN DILLARD,219
+Crawford,5,Appeals Court Judge,Dillard,,STEPHEN DILLARD,224
+Crawford,1A,Appeals Court Judge,Ellington,,KEN HODGES,61
+Crawford,1B,Appeals Court Judge,Ellington,,KEN HODGES,116
+Crawford,2,Appeals Court Judge,Ellington,,KEN HODGES,258
+Crawford,3,Appeals Court Judge,Ellington,,KEN HODGES,174
+Crawford,4,Appeals Court Judge,Ellington,,KEN HODGES,187
+Crawford,5,Appeals Court Judge,Ellington,,KEN HODGES,195
+Crawford,1A,Appeals Court Judge,Ellington,,KEN SHIGLEY,20
+Crawford,1B,Appeals Court Judge,Ellington,,KEN SHIGLEY,30
+Crawford,2,Appeals Court Judge,Ellington,,KEN SHIGLEY,61
+Crawford,3,Appeals Court Judge,Ellington,,KEN SHIGLEY,42
+Crawford,4,Appeals Court Judge,Ellington,,KEN SHIGLEY,55
+Crawford,5,Appeals Court Judge,Ellington,,KEN SHIGLEY,42
+Crawford,1A,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,80
+Crawford,1B,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,131
+Crawford,2,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,316
+Crawford,3,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,199
+Crawford,4,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,228
+Crawford,5,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,223
+Crawford,1A,Appeals Court Judge,Miller,,M. YVETTE MILLER,76
+Crawford,1B,Appeals Court Judge,Miller,,M. YVETTE MILLER,135
+Crawford,2,Appeals Court Judge,Miller,,M. YVETTE MILLER,315
+Crawford,3,Appeals Court Judge,Miller,,M. YVETTE MILLER,194
+Crawford,4,Appeals Court Judge,Miller,,M. YVETTE MILLER,215
+Crawford,5,Appeals Court Judge,Miller,,M. YVETTE MILLER,223
+Crawford,1A,Appeals Court Judge,Reese,,CLYDE L. REESE III,78
+Crawford,1B,Appeals Court Judge,Reese,,CLYDE L. REESE III,132
+Crawford,2,Appeals Court Judge,Reese,,CLYDE L. REESE III,310
+Crawford,3,Appeals Court Judge,Reese,,CLYDE L. REESE III,195
+Crawford,4,Appeals Court Judge,Reese,,CLYDE L. REESE III,217
+Crawford,5,Appeals Court Judge,Reese,,CLYDE L. REESE III,225
+Crawford,1A,Appeals Court Judge,Rickman,,BRIAN RICKMAN,78
+Crawford,1B,Appeals Court Judge,Rickman,,BRIAN RICKMAN,130
+Crawford,2,Appeals Court Judge,Rickman,,BRIAN RICKMAN,312
+Crawford,3,Appeals Court Judge,Rickman,,BRIAN RICKMAN,196
+Crawford,4,Appeals Court Judge,Rickman,,BRIAN RICKMAN,216
+Crawford,5,Appeals Court Judge,Rickman,,BRIAN RICKMAN,221
+Crawford,1A,Superior Court Judge,Macon Circuit (Raymond),,PHILIP T. RAYMOND III,77
+Crawford,1B,Superior Court Judge,Macon Circuit (Raymond),,PHILIP T. RAYMOND III,129
+Crawford,2,Superior Court Judge,Macon Circuit (Raymond),,PHILIP T. RAYMOND III,314
+Crawford,3,Superior Court Judge,Macon Circuit (Raymond),,PHILIP T. RAYMOND III,197
+Crawford,4,Superior Court Judge,Macon Circuit (Raymond),,PHILIP T. RAYMOND III,216
+Crawford,5,Superior Court Judge,Macon Circuit (Raymond),,PHILIP T. RAYMOND III,222
+Crawford,1A,Superior Court Judge,Macon Circuit (Mincey),,DAVID L. MINCEY III,81
+Crawford,1B,Superior Court Judge,Macon Circuit (Mincey),,DAVID L. MINCEY III,142
+Crawford,2,Superior Court Judge,Macon Circuit (Mincey),,DAVID L. MINCEY III,340
+Crawford,3,Superior Court Judge,Macon Circuit (Mincey),,DAVID L. MINCEY III,209
+Crawford,4,Superior Court Judge,Macon Circuit (Mincey),,DAVID L. MINCEY III,233
+Crawford,5,Superior Court Judge,Macon Circuit (Mincey),,DAVID L. MINCEY III,231
+Crawford,1A,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS,76
+Crawford,1B,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS,133
+Crawford,2,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS,319
+Crawford,3,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS,199
+Crawford,4,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS,224
+Crawford,5,Superior Court Judge,Macon Circuit (Simms),,HOWARD Z. SIMMS,230
+Crawford,1A,BOE,D1,,R. DICKEY,82
+Crawford,1B,BOE,D1,,R. DICKEY,148
+Crawford,5,BOE,D5,,"J. DEFORE, III",229
 Crawford,1A,T-SPLOST,,,YES,57
 Crawford,1B,T-SPLOST,,,YES,102
 Crawford,2,T-SPLOST,,,YES,231

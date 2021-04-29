@@ -155,10 +155,10 @@ Jasper,MARTIN & BURNEY,"State Senator, District 25",25,REP,BURT JONES (I) (REP),
 Jasper,WYATT,"State Representative, District 129",129,REP,SUSAN HOLMES (I) (REP),182
 Jasper,MONTICELLO,"State Representative, District 129",129,REP,SUSAN HOLMES (I) (REP),541
 Jasper,MARTIN & BURNEY,"State Representative, District 129",129,REP,SUSAN HOLMES (I) (REP),421
-Jasper,WYATT,"CC, D2", D2 - R,REP,B. HENRY (I),77
-Jasper,MONTICELLO,"CC, D2", D2 - R,REP,B. HENRY (I),91
-Jasper,MONTICELLO,"CC, D4", D4 - R,REP,D. C. SALMON (I),100
-Jasper,MARTIN & BURNEY,"CC, D4", D4 - R,REP,D. C. SALMON (I),154
+Jasper,WYATT,"CC, D2",D2 - R,REP,B. HENRY (I),77
+Jasper,MONTICELLO,"CC, D2",D2 - R,REP,B. HENRY (I),91
+Jasper,MONTICELLO,"CC, D4",D4 - R,REP,D. C. SALMON (I),100
+Jasper,MARTIN & BURNEY,"CC, D4",D4 - R,REP,D. C. SALMON (I),154
 Jasper,WYATT,Democratic Party Question 1,,DEM,YES,41
 Jasper,MONTICELLO,Democratic Party Question 1,,DEM,YES,191
 Jasper,MARTIN & BURNEY,Democratic Party Question 1,,DEM,YES,65
@@ -171,69 +171,69 @@ Jasper,MARTIN & BURNEY,Democratic Party Question 2,,DEM,YES,70
 Jasper,WYATT,Democratic Party Question 2,,DEM,NO,1
 Jasper,MONTICELLO,Democratic Party Question 2,,DEM,NO,30
 Jasper,MARTIN & BURNEY,Democratic Party Question 2,,DEM,NO,3
-Jasper,WYATT,Democratic Party Question 3, non-partisan commission?,DEM,YES,35
-Jasper,MONTICELLO,Democratic Party Question 3, non-partisan commission?,DEM,YES,194
-Jasper,MARTIN & BURNEY,Democratic Party Question 3, non-partisan commission?,DEM,YES,58
-Jasper,WYATT,Democratic Party Question 3, non-partisan commission?,DEM,NO,16
-Jasper,MONTICELLO,Democratic Party Question 3, non-partisan commission?,DEM,NO,101
-Jasper,MARTIN & BURNEY,Democratic Party Question 3, non-partisan commission?,DEM,NO,15
-Jasper,WYATT,Democratic Party Question 4, reduce carbon emissions,DEM,YES,38
-Jasper,MONTICELLO,Democratic Party Question 4, reduce carbon emissions,DEM,YES,231
-Jasper,MARTIN & BURNEY,Democratic Party Question 4, reduce carbon emissions,DEM,YES,54
-Jasper,WYATT,Democratic Party Question 4, reduce carbon emissions,DEM,NO,13
-Jasper,MONTICELLO,Democratic Party Question 4, reduce carbon emissions,DEM,NO,68
-Jasper,MARTIN & BURNEY,Democratic Party Question 4, reduce carbon emissions,DEM,NO,19
-Jasper,WYATT,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,218
-Jasper,MONTICELLO,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,758
-Jasper,MARTIN & BURNEY,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,472
-Jasper,WYATT,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,216
-Jasper,MONTICELLO,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,762
-Jasper,MARTIN & BURNEY,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,470
-Jasper,WYATT,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,221
-Jasper,MONTICELLO,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,751
-Jasper,MARTIN & BURNEY,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,466
-Jasper,WYATT,Supreme Court Justice, Melton,,HAROLD D. MELTON ,219
-Jasper,MONTICELLO,Supreme Court Justice, Melton,,HAROLD D. MELTON ,755
-Jasper,MARTIN & BURNEY,Supreme Court Justice, Melton,,HAROLD D. MELTON ,468
-Jasper,WYATT,Supreme Court Justice, Peterson,,NELS PETERSON ,219
-Jasper,MONTICELLO,Supreme Court Justice, Peterson,,NELS PETERSON ,748
-Jasper,MARTIN & BURNEY,Supreme Court Justice, Peterson,,NELS PETERSON ,469
-Jasper,WYATT,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,218
-Jasper,MONTICELLO,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,751
-Jasper,MARTIN & BURNEY,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,467
-Jasper,WYATT,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,217
-Jasper,MONTICELLO,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,742
-Jasper,MARTIN & BURNEY,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,462
-Jasper,WYATT,Appeals Court Judge, Ellington,,KEN HODGES  ,180
-Jasper,MONTICELLO,Appeals Court Judge, Ellington,,KEN HODGES  ,565
-Jasper,MARTIN & BURNEY,Appeals Court Judge, Ellington,,KEN HODGES  ,331
-Jasper,WYATT,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,72
-Jasper,MONTICELLO,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,250
-Jasper,MARTIN & BURNEY,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,167
-Jasper,WYATT,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,217
-Jasper,MONTICELLO,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,747
-Jasper,MARTIN & BURNEY,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,462
-Jasper,WYATT,Appeals Court Judge, Miller,,M. YVETTE MILLER ,215
-Jasper,MONTICELLO,Appeals Court Judge, Miller,,M. YVETTE MILLER ,740
-Jasper,MARTIN & BURNEY,Appeals Court Judge, Miller,,M. YVETTE MILLER ,462
-Jasper,WYATT,Appeals Court Judge, Reese,,CLYDE L. REESE III ,218
-Jasper,MONTICELLO,Appeals Court Judge, Reese,,CLYDE L. REESE III ,739
-Jasper,MARTIN & BURNEY,Appeals Court Judge, Reese,,CLYDE L. REESE III ,459
-Jasper,WYATT,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,213
-Jasper,MONTICELLO,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,734
-Jasper,MARTIN & BURNEY,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,461
-Jasper,WYATT,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,218
-Jasper,MONTICELLO,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,764
-Jasper,MARTIN & BURNEY,Superior Court Judge, Ocmulgee Circuit (Brown),,TRENTON BROWN III ,459
-Jasper,MONTICELLO,BOE, DIST 1,,T. DENNIS,296
-Jasper,MONTICELLO,BOE, DIST 3,,S. BARTON ,221
-Jasper,MARTIN & BURNEY,BOE, DIST 3,,S. BARTON ,178
-Jasper,WYATT,BOE, DIST 5,,M. E. LEDFORD,54
-Jasper,MONTICELLO,BOE, DIST 5,,M. E. LEDFORD,9
-Jasper,MARTIN & BURNEY,BOE, DIST 5,,M. E. LEDFORD,71
-Jasper,WYATT,BOE, DIST 5,,L. RICE ,65
-Jasper,MONTICELLO,BOE, DIST 5,,L. RICE ,18
-Jasper,MARTIN & BURNEY,BOE, DIST 5,,L. RICE ,67
+Jasper,WYATT,Democratic Party Question 3,non-partisan commission?,DEM,YES,35
+Jasper,MONTICELLO,Democratic Party Question 3,non-partisan commission?,DEM,YES,194
+Jasper,MARTIN & BURNEY,Democratic Party Question 3,non-partisan commission?,DEM,YES,58
+Jasper,WYATT,Democratic Party Question 3,non-partisan commission?,DEM,NO,16
+Jasper,MONTICELLO,Democratic Party Question 3,non-partisan commission?,DEM,NO,101
+Jasper,MARTIN & BURNEY,Democratic Party Question 3,non-partisan commission?,DEM,NO,15
+Jasper,WYATT,Democratic Party Question 4,reduce carbon emissions,DEM,YES,38
+Jasper,MONTICELLO,Democratic Party Question 4,reduce carbon emissions,DEM,YES,231
+Jasper,MARTIN & BURNEY,Democratic Party Question 4,reduce carbon emissions,DEM,YES,54
+Jasper,WYATT,Democratic Party Question 4,reduce carbon emissions,DEM,NO,13
+Jasper,MONTICELLO,Democratic Party Question 4,reduce carbon emissions,DEM,NO,68
+Jasper,MARTIN & BURNEY,Democratic Party Question 4,reduce carbon emissions,DEM,NO,19
+Jasper,WYATT,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,218
+Jasper,MONTICELLO,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,758
+Jasper,MARTIN & BURNEY,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,472
+Jasper,WYATT,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,216
+Jasper,MONTICELLO,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,762
+Jasper,MARTIN & BURNEY,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,470
+Jasper,WYATT,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,221
+Jasper,MONTICELLO,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,751
+Jasper,MARTIN & BURNEY,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,466
+Jasper,WYATT,Supreme Court Justice,Melton,,HAROLD D. MELTON,219
+Jasper,MONTICELLO,Supreme Court Justice,Melton,,HAROLD D. MELTON,755
+Jasper,MARTIN & BURNEY,Supreme Court Justice,Melton,,HAROLD D. MELTON,468
+Jasper,WYATT,Supreme Court Justice,Peterson,,NELS PETERSON,219
+Jasper,MONTICELLO,Supreme Court Justice,Peterson,,NELS PETERSON,748
+Jasper,MARTIN & BURNEY,Supreme Court Justice,Peterson,,NELS PETERSON,469
+Jasper,WYATT,Appeals Court Judge,Bethel,,CHARLIE BETHEL,218
+Jasper,MONTICELLO,Appeals Court Judge,Bethel,,CHARLIE BETHEL,751
+Jasper,MARTIN & BURNEY,Appeals Court Judge,Bethel,,CHARLIE BETHEL,467
+Jasper,WYATT,Appeals Court Judge,Dillard,,STEPHEN DILLARD,217
+Jasper,MONTICELLO,Appeals Court Judge,Dillard,,STEPHEN DILLARD,742
+Jasper,MARTIN & BURNEY,Appeals Court Judge,Dillard,,STEPHEN DILLARD,462
+Jasper,WYATT,Appeals Court Judge,Ellington,,KEN HODGES,180
+Jasper,MONTICELLO,Appeals Court Judge,Ellington,,KEN HODGES,565
+Jasper,MARTIN & BURNEY,Appeals Court Judge,Ellington,,KEN HODGES,331
+Jasper,WYATT,Appeals Court Judge,Ellington,,KEN SHIGLEY,72
+Jasper,MONTICELLO,Appeals Court Judge,Ellington,,KEN SHIGLEY,250
+Jasper,MARTIN & BURNEY,Appeals Court Judge,Ellington,,KEN SHIGLEY,167
+Jasper,WYATT,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,217
+Jasper,MONTICELLO,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,747
+Jasper,MARTIN & BURNEY,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,462
+Jasper,WYATT,Appeals Court Judge,Miller,,M. YVETTE MILLER,215
+Jasper,MONTICELLO,Appeals Court Judge,Miller,,M. YVETTE MILLER,740
+Jasper,MARTIN & BURNEY,Appeals Court Judge,Miller,,M. YVETTE MILLER,462
+Jasper,WYATT,Appeals Court Judge,Reese,,CLYDE L. REESE III,218
+Jasper,MONTICELLO,Appeals Court Judge,Reese,,CLYDE L. REESE III,739
+Jasper,MARTIN & BURNEY,Appeals Court Judge,Reese,,CLYDE L. REESE III,459
+Jasper,WYATT,Appeals Court Judge,Rickman,,BRIAN RICKMAN,213
+Jasper,MONTICELLO,Appeals Court Judge,Rickman,,BRIAN RICKMAN,734
+Jasper,MARTIN & BURNEY,Appeals Court Judge,Rickman,,BRIAN RICKMAN,461
+Jasper,WYATT,Superior Court Judge,Ocmulgee Circuit (Brown),,TRENTON BROWN III,218
+Jasper,MONTICELLO,Superior Court Judge,Ocmulgee Circuit (Brown),,TRENTON BROWN III,764
+Jasper,MARTIN & BURNEY,Superior Court Judge,Ocmulgee Circuit (Brown),,TRENTON BROWN III,459
+Jasper,MONTICELLO,BOE,DIST 1,,T. DENNIS,296
+Jasper,MONTICELLO,BOE,DIST 3,,S. BARTON,221
+Jasper,MARTIN & BURNEY,BOE,DIST 3,,S. BARTON,178
+Jasper,WYATT,BOE,DIST 5,,M. E. LEDFORD,54
+Jasper,MONTICELLO,BOE,DIST 5,,M. E. LEDFORD,9
+Jasper,MARTIN & BURNEY,BOE,DIST 5,,M. E. LEDFORD,71
+Jasper,WYATT,BOE,DIST 5,,L. RICE,65
+Jasper,MONTICELLO,BOE,DIST 5,,L. RICE,18
+Jasper,MARTIN & BURNEY,BOE,DIST 5,,L. RICE,67
 Jasper,WYATT,ESPLOST,,,YES,147
 Jasper,MONTICELLO,ESPLOST,,,YES,650
 Jasper,MARTIN & BURNEY,ESPLOST,,,YES,331

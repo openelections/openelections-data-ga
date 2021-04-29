@@ -244,15 +244,15 @@ Clinch,Argyle,"State Representative, District 174",174,REP,JOHN CORBETT (I) (REP
 Clinch,Dupont,"State Representative, District 174",174,REP,JOHN CORBETT (I) (REP),14
 Clinch,Fargo,"State Representative, District 174",174,REP,JOHN CORBETT (I) (REP),20
 Clinch,Homerville,"State Representative, District 174",174,REP,JOHN CORBETT (I) (REP),197
-Clinch,Argyle,"CC, P1", P1 - D,DEM,C. BARBER ,21
-Clinch,Homerville,"CC, P1", P1 - D,DEM,C. BARBER ,95
-Clinch,Argyle,"CC, P1", P1 - D,DEM,K. MCLAINE (I),26
-Clinch,Homerville,"CC, P1", P1 - D,DEM,K. MCLAINE (I),167
-Clinch,Homerville,"CC, P4", P4 - D,DEM,D. THOMAS (I),145
-Clinch,Argyle,"BOE, P1", P1 - R,REP,S. THRIFT (I),11
-Clinch,Homerville,"BOE, P1", P1 - R,REP,S. THRIFT (I),55
-Clinch,Homerville,"BOE, P4", P4 - D,DEM,C. CROSS (I),121
-Clinch,Homerville,"BOE, P4", P4 - D,DEM,D. JOHNSON,109
+Clinch,Argyle,"CC, P1",P1 - D,DEM,C. BARBER,21
+Clinch,Homerville,"CC, P1",P1 - D,DEM,C. BARBER,95
+Clinch,Argyle,"CC, P1",P1 - D,DEM,K. MCLAINE (I),26
+Clinch,Homerville,"CC, P1",P1 - D,DEM,K. MCLAINE (I),167
+Clinch,Homerville,"CC, P4",P4 - D,DEM,D. THOMAS (I),145
+Clinch,Argyle,"BOE, P1",P1 - R,REP,S. THRIFT (I),11
+Clinch,Homerville,"BOE, P1",P1 - R,REP,S. THRIFT (I),55
+Clinch,Homerville,"BOE, P4",P4 - D,DEM,C. CROSS (I),121
+Clinch,Homerville,"BOE, P4",P4 - D,DEM,D. JOHNSON,109
 Clinch,Arabia,Democratic Party Question 1,,DEM,YES,1
 Clinch,Argyle,Democratic Party Question 1,,DEM,YES,27
 Clinch,Dupont,Democratic Party Question 1,,DEM,YES,11
@@ -273,96 +273,96 @@ Clinch,Argyle,Democratic Party Question 2,,DEM,NO,20
 Clinch,Dupont,Democratic Party Question 2,,DEM,NO,0
 Clinch,Fargo,Democratic Party Question 2,,DEM,NO,1
 Clinch,Homerville,Democratic Party Question 2,,DEM,NO,73
-Clinch,Arabia,Democratic Party Question 3, non-partisan commission?,DEM,YES,1
-Clinch,Argyle,Democratic Party Question 3, non-partisan commission?,DEM,YES,22
-Clinch,Dupont,Democratic Party Question 3, non-partisan commission?,DEM,YES,9
-Clinch,Fargo,Democratic Party Question 3, non-partisan commission?,DEM,YES,3
-Clinch,Homerville,Democratic Party Question 3, non-partisan commission?,DEM,YES,288
-Clinch,Arabia,Democratic Party Question 3, non-partisan commission?,DEM,NO,1
-Clinch,Argyle,Democratic Party Question 3, non-partisan commission?,DEM,NO,31
-Clinch,Dupont,Democratic Party Question 3, non-partisan commission?,DEM,NO,1
-Clinch,Fargo,Democratic Party Question 3, non-partisan commission?,DEM,NO,1
-Clinch,Homerville,Democratic Party Question 3, non-partisan commission?,DEM,NO,137
-Clinch,Arabia,Democratic Party Question 4, reduce carbon emissions,DEM,YES,2
-Clinch,Argyle,Democratic Party Question 4, reduce carbon emissions,DEM,YES,21
-Clinch,Dupont,Democratic Party Question 4, reduce carbon emissions,DEM,YES,10
-Clinch,Fargo,Democratic Party Question 4, reduce carbon emissions,DEM,YES,2
-Clinch,Homerville,Democratic Party Question 4, reduce carbon emissions,DEM,YES,250
-Clinch,Arabia,Democratic Party Question 4, reduce carbon emissions,DEM,NO,0
-Clinch,Argyle,Democratic Party Question 4, reduce carbon emissions,DEM,NO,30
-Clinch,Dupont,Democratic Party Question 4, reduce carbon emissions,DEM,NO,2
-Clinch,Fargo,Democratic Party Question 4, reduce carbon emissions,DEM,NO,2
-Clinch,Homerville,Democratic Party Question 4, reduce carbon emissions,DEM,NO,175
-Clinch,Arabia,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,19
-Clinch,Argyle,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,56
-Clinch,Dupont,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,24
-Clinch,Fargo,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,22
-Clinch,Homerville,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,528
-Clinch,Arabia,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,18
-Clinch,Argyle,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,49
-Clinch,Dupont,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,23
-Clinch,Fargo,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,21
-Clinch,Homerville,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,512
-Clinch,Arabia,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,19
-Clinch,Argyle,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,49
-Clinch,Dupont,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,25
-Clinch,Fargo,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,22
-Clinch,Homerville,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,514
-Clinch,Arabia,Supreme Court Justice, Melton,,HAROLD D. MELTON ,17
-Clinch,Argyle,Supreme Court Justice, Melton,,HAROLD D. MELTON ,51
-Clinch,Dupont,Supreme Court Justice, Melton,,HAROLD D. MELTON ,22
-Clinch,Fargo,Supreme Court Justice, Melton,,HAROLD D. MELTON ,21
-Clinch,Homerville,Supreme Court Justice, Melton,,HAROLD D. MELTON ,514
-Clinch,Arabia,Supreme Court Justice, Peterson,,NELS PETERSON ,19
-Clinch,Argyle,Supreme Court Justice, Peterson,,NELS PETERSON ,51
-Clinch,Dupont,Supreme Court Justice, Peterson,,NELS PETERSON ,22
-Clinch,Fargo,Supreme Court Justice, Peterson,,NELS PETERSON ,22
-Clinch,Homerville,Supreme Court Justice, Peterson,,NELS PETERSON ,511
-Clinch,Arabia,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,18
-Clinch,Argyle,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,50
-Clinch,Dupont,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,22
-Clinch,Fargo,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,22
-Clinch,Homerville,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,517
-Clinch,Arabia,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,16
-Clinch,Argyle,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,52
-Clinch,Dupont,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,23
-Clinch,Fargo,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,21
-Clinch,Homerville,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,507
-Clinch,Arabia,Appeals Court Judge, Ellington,,KEN HODGES  ,12
-Clinch,Argyle,Appeals Court Judge, Ellington,,KEN HODGES  ,43
-Clinch,Dupont,Appeals Court Judge, Ellington,,KEN HODGES  ,18
-Clinch,Fargo,Appeals Court Judge, Ellington,,KEN HODGES  ,18
-Clinch,Homerville,Appeals Court Judge, Ellington,,KEN HODGES  ,413
-Clinch,Arabia,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,9
-Clinch,Argyle,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,12
-Clinch,Dupont,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,8
-Clinch,Fargo,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,14
-Clinch,Homerville,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,141
-Clinch,Arabia,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,17
-Clinch,Argyle,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,52
-Clinch,Dupont,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,23
-Clinch,Fargo,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,21
-Clinch,Homerville,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,504
-Clinch,Arabia,Appeals Court Judge, Miller,,M. YVETTE MILLER ,17
-Clinch,Argyle,Appeals Court Judge, Miller,,M. YVETTE MILLER ,51
-Clinch,Dupont,Appeals Court Judge, Miller,,M. YVETTE MILLER ,24
-Clinch,Fargo,Appeals Court Judge, Miller,,M. YVETTE MILLER ,21
-Clinch,Homerville,Appeals Court Judge, Miller,,M. YVETTE MILLER ,510
-Clinch,Arabia,Appeals Court Judge, Reese,,CLYDE L. REESE III ,18
-Clinch,Argyle,Appeals Court Judge, Reese,,CLYDE L. REESE III ,51
-Clinch,Dupont,Appeals Court Judge, Reese,,CLYDE L. REESE III ,22
-Clinch,Fargo,Appeals Court Judge, Reese,,CLYDE L. REESE III ,22
-Clinch,Homerville,Appeals Court Judge, Reese,,CLYDE L. REESE III ,502
-Clinch,Arabia,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,18
-Clinch,Argyle,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,51
-Clinch,Dupont,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,22
-Clinch,Fargo,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,22
-Clinch,Homerville,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,506
-Clinch,Arabia,Superior Court Judge, Alapaha Circuit (McClain),,HOWARD MCCLAIN ,20
-Clinch,Argyle,Superior Court Judge, Alapaha Circuit (McClain),,HOWARD MCCLAIN ,57
-Clinch,Dupont,Superior Court Judge, Alapaha Circuit (McClain),,HOWARD MCCLAIN ,23
-Clinch,Fargo,Superior Court Judge, Alapaha Circuit (McClain),,HOWARD MCCLAIN ,23
-Clinch,Homerville,Superior Court Judge, Alapaha Circuit (McClain),,HOWARD MCCLAIN ,567
+Clinch,Arabia,Democratic Party Question 3,non-partisan commission?,DEM,YES,1
+Clinch,Argyle,Democratic Party Question 3,non-partisan commission?,DEM,YES,22
+Clinch,Dupont,Democratic Party Question 3,non-partisan commission?,DEM,YES,9
+Clinch,Fargo,Democratic Party Question 3,non-partisan commission?,DEM,YES,3
+Clinch,Homerville,Democratic Party Question 3,non-partisan commission?,DEM,YES,288
+Clinch,Arabia,Democratic Party Question 3,non-partisan commission?,DEM,NO,1
+Clinch,Argyle,Democratic Party Question 3,non-partisan commission?,DEM,NO,31
+Clinch,Dupont,Democratic Party Question 3,non-partisan commission?,DEM,NO,1
+Clinch,Fargo,Democratic Party Question 3,non-partisan commission?,DEM,NO,1
+Clinch,Homerville,Democratic Party Question 3,non-partisan commission?,DEM,NO,137
+Clinch,Arabia,Democratic Party Question 4,reduce carbon emissions,DEM,YES,2
+Clinch,Argyle,Democratic Party Question 4,reduce carbon emissions,DEM,YES,21
+Clinch,Dupont,Democratic Party Question 4,reduce carbon emissions,DEM,YES,10
+Clinch,Fargo,Democratic Party Question 4,reduce carbon emissions,DEM,YES,2
+Clinch,Homerville,Democratic Party Question 4,reduce carbon emissions,DEM,YES,250
+Clinch,Arabia,Democratic Party Question 4,reduce carbon emissions,DEM,NO,0
+Clinch,Argyle,Democratic Party Question 4,reduce carbon emissions,DEM,NO,30
+Clinch,Dupont,Democratic Party Question 4,reduce carbon emissions,DEM,NO,2
+Clinch,Fargo,Democratic Party Question 4,reduce carbon emissions,DEM,NO,2
+Clinch,Homerville,Democratic Party Question 4,reduce carbon emissions,DEM,NO,175
+Clinch,Arabia,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,19
+Clinch,Argyle,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,56
+Clinch,Dupont,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,24
+Clinch,Fargo,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,22
+Clinch,Homerville,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,528
+Clinch,Arabia,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,18
+Clinch,Argyle,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,49
+Clinch,Dupont,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,23
+Clinch,Fargo,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,21
+Clinch,Homerville,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,512
+Clinch,Arabia,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,19
+Clinch,Argyle,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,49
+Clinch,Dupont,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,25
+Clinch,Fargo,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,22
+Clinch,Homerville,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,514
+Clinch,Arabia,Supreme Court Justice,Melton,,HAROLD D. MELTON,17
+Clinch,Argyle,Supreme Court Justice,Melton,,HAROLD D. MELTON,51
+Clinch,Dupont,Supreme Court Justice,Melton,,HAROLD D. MELTON,22
+Clinch,Fargo,Supreme Court Justice,Melton,,HAROLD D. MELTON,21
+Clinch,Homerville,Supreme Court Justice,Melton,,HAROLD D. MELTON,514
+Clinch,Arabia,Supreme Court Justice,Peterson,,NELS PETERSON,19
+Clinch,Argyle,Supreme Court Justice,Peterson,,NELS PETERSON,51
+Clinch,Dupont,Supreme Court Justice,Peterson,,NELS PETERSON,22
+Clinch,Fargo,Supreme Court Justice,Peterson,,NELS PETERSON,22
+Clinch,Homerville,Supreme Court Justice,Peterson,,NELS PETERSON,511
+Clinch,Arabia,Appeals Court Judge,Bethel,,CHARLIE BETHEL,18
+Clinch,Argyle,Appeals Court Judge,Bethel,,CHARLIE BETHEL,50
+Clinch,Dupont,Appeals Court Judge,Bethel,,CHARLIE BETHEL,22
+Clinch,Fargo,Appeals Court Judge,Bethel,,CHARLIE BETHEL,22
+Clinch,Homerville,Appeals Court Judge,Bethel,,CHARLIE BETHEL,517
+Clinch,Arabia,Appeals Court Judge,Dillard,,STEPHEN DILLARD,16
+Clinch,Argyle,Appeals Court Judge,Dillard,,STEPHEN DILLARD,52
+Clinch,Dupont,Appeals Court Judge,Dillard,,STEPHEN DILLARD,23
+Clinch,Fargo,Appeals Court Judge,Dillard,,STEPHEN DILLARD,21
+Clinch,Homerville,Appeals Court Judge,Dillard,,STEPHEN DILLARD,507
+Clinch,Arabia,Appeals Court Judge,Ellington,,KEN HODGES,12
+Clinch,Argyle,Appeals Court Judge,Ellington,,KEN HODGES,43
+Clinch,Dupont,Appeals Court Judge,Ellington,,KEN HODGES,18
+Clinch,Fargo,Appeals Court Judge,Ellington,,KEN HODGES,18
+Clinch,Homerville,Appeals Court Judge,Ellington,,KEN HODGES,413
+Clinch,Arabia,Appeals Court Judge,Ellington,,KEN SHIGLEY,9
+Clinch,Argyle,Appeals Court Judge,Ellington,,KEN SHIGLEY,12
+Clinch,Dupont,Appeals Court Judge,Ellington,,KEN SHIGLEY,8
+Clinch,Fargo,Appeals Court Judge,Ellington,,KEN SHIGLEY,14
+Clinch,Homerville,Appeals Court Judge,Ellington,,KEN SHIGLEY,141
+Clinch,Arabia,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,17
+Clinch,Argyle,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,52
+Clinch,Dupont,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,23
+Clinch,Fargo,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,21
+Clinch,Homerville,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,504
+Clinch,Arabia,Appeals Court Judge,Miller,,M. YVETTE MILLER,17
+Clinch,Argyle,Appeals Court Judge,Miller,,M. YVETTE MILLER,51
+Clinch,Dupont,Appeals Court Judge,Miller,,M. YVETTE MILLER,24
+Clinch,Fargo,Appeals Court Judge,Miller,,M. YVETTE MILLER,21
+Clinch,Homerville,Appeals Court Judge,Miller,,M. YVETTE MILLER,510
+Clinch,Arabia,Appeals Court Judge,Reese,,CLYDE L. REESE III,18
+Clinch,Argyle,Appeals Court Judge,Reese,,CLYDE L. REESE III,51
+Clinch,Dupont,Appeals Court Judge,Reese,,CLYDE L. REESE III,22
+Clinch,Fargo,Appeals Court Judge,Reese,,CLYDE L. REESE III,22
+Clinch,Homerville,Appeals Court Judge,Reese,,CLYDE L. REESE III,502
+Clinch,Arabia,Appeals Court Judge,Rickman,,BRIAN RICKMAN,18
+Clinch,Argyle,Appeals Court Judge,Rickman,,BRIAN RICKMAN,51
+Clinch,Dupont,Appeals Court Judge,Rickman,,BRIAN RICKMAN,22
+Clinch,Fargo,Appeals Court Judge,Rickman,,BRIAN RICKMAN,22
+Clinch,Homerville,Appeals Court Judge,Rickman,,BRIAN RICKMAN,506
+Clinch,Arabia,Superior Court Judge,Alapaha Circuit (McClain),,HOWARD MCCLAIN,20
+Clinch,Argyle,Superior Court Judge,Alapaha Circuit (McClain),,HOWARD MCCLAIN,57
+Clinch,Dupont,Superior Court Judge,Alapaha Circuit (McClain),,HOWARD MCCLAIN,23
+Clinch,Fargo,Superior Court Judge,Alapaha Circuit (McClain),,HOWARD MCCLAIN,23
+Clinch,Homerville,Superior Court Judge,Alapaha Circuit (McClain),,HOWARD MCCLAIN,567
 Clinch,Arabia,T-SPLOST,,,YES,17
 Clinch,Argyle,T-SPLOST,,,YES,42
 Clinch,Dupont,T-SPLOST,,,YES,25

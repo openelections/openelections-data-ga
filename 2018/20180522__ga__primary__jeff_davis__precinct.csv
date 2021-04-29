@@ -470,14 +470,14 @@ Jeff Davis,Whitehead 1,STATE COURT SOLICITOR,,REP,WM. TURNER (I),102
 Jeff Davis,Whitehead 2,STATE COURT SOLICITOR,,REP,WM. TURNER (I),84
 Jeff Davis,Ocmulgee 1,STATE COURT SOLICITOR,,REP,WM. TURNER (I),167
 Jeff Davis,Ocmulgee 2,STATE COURT SOLICITOR,,REP,WM. TURNER (I),86
-Jeff Davis,Whitehead 1,"CC, D4", D4 - R,REP,B. CREWS (I),118
-Jeff Davis,Whitehead 2,"CC, D4", D4 - R,REP,B. CREWS (I),76
-Jeff Davis,Whitehead 1,"CC, D4", D4 - D,DEM,J. TOLER,20
-Jeff Davis,Whitehead 2,"CC, D4", D4 - D,DEM,J. TOLER,16
-Jeff Davis,Ocmulgee 1,"CC, D5", D5 - R,REP,J. WOOTEN (I),86
-Jeff Davis,Ocmulgee 2,"CC, D5", D5 - R,REP,J. WOOTEN (I),76
-Jeff Davis,Ocmulgee 1,"CC, D5", D5 - R,REP,V. WOOTEN,137
-Jeff Davis,Ocmulgee 2,"CC, D5", D5 - R,REP,V. WOOTEN,48
+Jeff Davis,Whitehead 1,"CC, D4",D4 - R,REP,B. CREWS (I),118
+Jeff Davis,Whitehead 2,"CC, D4",D4 - R,REP,B. CREWS (I),76
+Jeff Davis,Whitehead 1,"CC, D4",D4 - D,DEM,J. TOLER,20
+Jeff Davis,Whitehead 2,"CC, D4",D4 - D,DEM,J. TOLER,16
+Jeff Davis,Ocmulgee 1,"CC, D5",D5 - R,REP,J. WOOTEN (I),86
+Jeff Davis,Ocmulgee 2,"CC, D5",D5 - R,REP,J. WOOTEN (I),76
+Jeff Davis,Ocmulgee 1,"CC, D5",D5 - R,REP,V. WOOTEN,137
+Jeff Davis,Ocmulgee 2,"CC, D5",D5 - R,REP,V. WOOTEN,48
 Jeff Davis,Hazlehurst,BOE LRG,,REP,R. OGILVIE (I),41
 Jeff Davis,Altamaha 1,BOE LRG,,REP,R. OGILVIE (I),77
 Jeff Davis,Altamaha 2,BOE LRG,,REP,R. OGILVIE (I),129
@@ -487,12 +487,12 @@ Jeff Davis,Whitehead 1,BOE LRG,,REP,R. OGILVIE (I),115
 Jeff Davis,Whitehead 2,BOE LRG,,REP,R. OGILVIE (I),87
 Jeff Davis,Ocmulgee 1,BOE LRG,,REP,R. OGILVIE (I),181
 Jeff Davis,Ocmulgee 2,BOE LRG,,REP,R. OGILVIE (I),93
-Jeff Davis,Whitehead 1,"BOE, D4", D4 - R,REP,J. GIRTMAN (I),113
-Jeff Davis,Whitehead 2,"BOE, D4", D4 - R,REP,J. GIRTMAN (I),92
-Jeff Davis,Ocmulgee 1,"BOE, D5", D5 - R,REP,STEVEN REVELL,68
-Jeff Davis,Ocmulgee 2,"BOE, D5", D5 - R,REP,STEVEN REVELL,25
-Jeff Davis,Ocmulgee 1,"BOE, D5", D5 - R,REP,R. SMITH (I),149
-Jeff Davis,Ocmulgee 2,"BOE, D5", D5 - R,REP,R. SMITH (I),88
+Jeff Davis,Whitehead 1,"BOE, D4",D4 - R,REP,J. GIRTMAN (I),113
+Jeff Davis,Whitehead 2,"BOE, D4",D4 - R,REP,J. GIRTMAN (I),92
+Jeff Davis,Ocmulgee 1,"BOE, D5",D5 - R,REP,STEVEN REVELL,68
+Jeff Davis,Ocmulgee 2,"BOE, D5",D5 - R,REP,STEVEN REVELL,25
+Jeff Davis,Ocmulgee 1,"BOE, D5",D5 - R,REP,R. SMITH (I),149
+Jeff Davis,Ocmulgee 2,"BOE, D5",D5 - R,REP,R. SMITH (I),88
 Jeff Davis,Hazlehurst,Democratic Party Question 1,,DEM,YES,62
 Jeff Davis,Altamaha 1,Democratic Party Question 1,,DEM,YES,6
 Jeff Davis,Altamaha 2,Democratic Party Question 1,,DEM,YES,10
@@ -529,174 +529,174 @@ Jeff Davis,Whitehead 1,Democratic Party Question 2,,DEM,NO,5
 Jeff Davis,Whitehead 2,Democratic Party Question 2,,DEM,NO,6
 Jeff Davis,Ocmulgee 1,Democratic Party Question 2,,DEM,NO,4
 Jeff Davis,Ocmulgee 2,Democratic Party Question 2,,DEM,NO,1
-Jeff Davis,Hazlehurst,Democratic Party Question 3, non-partisan commission?,DEM,YES,65
-Jeff Davis,Altamaha 1,Democratic Party Question 3, non-partisan commission?,DEM,YES,8
-Jeff Davis,Altamaha 2,Democratic Party Question 3, non-partisan commission?,DEM,YES,9
-Jeff Davis,Blackburn 1,Democratic Party Question 3, non-partisan commission?,DEM,YES,13
-Jeff Davis,Blackburn 2,Democratic Party Question 3, non-partisan commission?,DEM,YES,6
-Jeff Davis,Whitehead 1,Democratic Party Question 3, non-partisan commission?,DEM,YES,18
-Jeff Davis,Whitehead 2,Democratic Party Question 3, non-partisan commission?,DEM,YES,11
-Jeff Davis,Ocmulgee 1,Democratic Party Question 3, non-partisan commission?,DEM,YES,18
-Jeff Davis,Ocmulgee 2,Democratic Party Question 3, non-partisan commission?,DEM,YES,8
-Jeff Davis,Hazlehurst,Democratic Party Question 3, non-partisan commission?,DEM,NO,30
-Jeff Davis,Altamaha 1,Democratic Party Question 3, non-partisan commission?,DEM,NO,3
-Jeff Davis,Altamaha 2,Democratic Party Question 3, non-partisan commission?,DEM,NO,2
-Jeff Davis,Blackburn 1,Democratic Party Question 3, non-partisan commission?,DEM,NO,4
-Jeff Davis,Blackburn 2,Democratic Party Question 3, non-partisan commission?,DEM,NO,1
-Jeff Davis,Whitehead 1,Democratic Party Question 3, non-partisan commission?,DEM,NO,9
-Jeff Davis,Whitehead 2,Democratic Party Question 3, non-partisan commission?,DEM,NO,7
-Jeff Davis,Ocmulgee 1,Democratic Party Question 3, non-partisan commission?,DEM,NO,9
-Jeff Davis,Ocmulgee 2,Democratic Party Question 3, non-partisan commission?,DEM,NO,6
-Jeff Davis,Hazlehurst,Democratic Party Question 4, reduce carbon emissions,DEM,YES,66
-Jeff Davis,Altamaha 1,Democratic Party Question 4, reduce carbon emissions,DEM,YES,9
-Jeff Davis,Altamaha 2,Democratic Party Question 4, reduce carbon emissions,DEM,YES,8
-Jeff Davis,Blackburn 1,Democratic Party Question 4, reduce carbon emissions,DEM,YES,12
-Jeff Davis,Blackburn 2,Democratic Party Question 4, reduce carbon emissions,DEM,YES,3
-Jeff Davis,Whitehead 1,Democratic Party Question 4, reduce carbon emissions,DEM,YES,15
-Jeff Davis,Whitehead 2,Democratic Party Question 4, reduce carbon emissions,DEM,YES,10
-Jeff Davis,Ocmulgee 1,Democratic Party Question 4, reduce carbon emissions,DEM,YES,18
-Jeff Davis,Ocmulgee 2,Democratic Party Question 4, reduce carbon emissions,DEM,YES,8
-Jeff Davis,Hazlehurst,Democratic Party Question 4, reduce carbon emissions,DEM,NO,27
-Jeff Davis,Altamaha 1,Democratic Party Question 4, reduce carbon emissions,DEM,NO,4
-Jeff Davis,Altamaha 2,Democratic Party Question 4, reduce carbon emissions,DEM,NO,3
-Jeff Davis,Blackburn 1,Democratic Party Question 4, reduce carbon emissions,DEM,NO,5
-Jeff Davis,Blackburn 2,Democratic Party Question 4, reduce carbon emissions,DEM,NO,4
-Jeff Davis,Whitehead 1,Democratic Party Question 4, reduce carbon emissions,DEM,NO,11
-Jeff Davis,Whitehead 2,Democratic Party Question 4, reduce carbon emissions,DEM,NO,8
-Jeff Davis,Ocmulgee 1,Democratic Party Question 4, reduce carbon emissions,DEM,NO,9
-Jeff Davis,Ocmulgee 2,Democratic Party Question 4, reduce carbon emissions,DEM,NO,7
-Jeff Davis,Hazlehurst,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,114
-Jeff Davis,Altamaha 1,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,82
-Jeff Davis,Altamaha 2,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,127
-Jeff Davis,Blackburn 1,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,58
-Jeff Davis,Blackburn 2,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,91
-Jeff Davis,Whitehead 1,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,122
-Jeff Davis,Whitehead 2,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,101
-Jeff Davis,Ocmulgee 1,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,186
-Jeff Davis,Ocmulgee 2,Supreme Court Justice, Boggs,,MICHAEL P. BOGGS ,94
-Jeff Davis,Hazlehurst,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,114
-Jeff Davis,Altamaha 1,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,85
-Jeff Davis,Altamaha 2,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,128
-Jeff Davis,Blackburn 1,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,57
-Jeff Davis,Blackburn 2,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,92
-Jeff Davis,Whitehead 1,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,124
-Jeff Davis,Whitehead 2,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,98
-Jeff Davis,Ocmulgee 1,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,179
-Jeff Davis,Ocmulgee 2,Supreme Court Justice, Grant,,BRITT CAGLE GRANT ,92
-Jeff Davis,Hazlehurst,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,113
-Jeff Davis,Altamaha 1,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,81
-Jeff Davis,Altamaha 2,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,125
-Jeff Davis,Blackburn 1,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,56
-Jeff Davis,Blackburn 2,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,87
-Jeff Davis,Whitehead 1,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,121
-Jeff Davis,Whitehead 2,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,98
-Jeff Davis,Ocmulgee 1,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,176
-Jeff Davis,Ocmulgee 2,Supreme Court Justice, Hunstein,,JOHN ELLINGTON  ,90
-Jeff Davis,Hazlehurst,Supreme Court Justice, Melton,,HAROLD D. MELTON ,117
-Jeff Davis,Altamaha 1,Supreme Court Justice, Melton,,HAROLD D. MELTON ,83
-Jeff Davis,Altamaha 2,Supreme Court Justice, Melton,,HAROLD D. MELTON ,122
-Jeff Davis,Blackburn 1,Supreme Court Justice, Melton,,HAROLD D. MELTON ,57
-Jeff Davis,Blackburn 2,Supreme Court Justice, Melton,,HAROLD D. MELTON ,90
-Jeff Davis,Whitehead 1,Supreme Court Justice, Melton,,HAROLD D. MELTON ,122
-Jeff Davis,Whitehead 2,Supreme Court Justice, Melton,,HAROLD D. MELTON ,98
-Jeff Davis,Ocmulgee 1,Supreme Court Justice, Melton,,HAROLD D. MELTON ,180
-Jeff Davis,Ocmulgee 2,Supreme Court Justice, Melton,,HAROLD D. MELTON ,95
-Jeff Davis,Hazlehurst,Supreme Court Justice, Peterson,,NELS PETERSON ,112
-Jeff Davis,Altamaha 1,Supreme Court Justice, Peterson,,NELS PETERSON ,84
-Jeff Davis,Altamaha 2,Supreme Court Justice, Peterson,,NELS PETERSON ,125
-Jeff Davis,Blackburn 1,Supreme Court Justice, Peterson,,NELS PETERSON ,55
-Jeff Davis,Blackburn 2,Supreme Court Justice, Peterson,,NELS PETERSON ,88
-Jeff Davis,Whitehead 1,Supreme Court Justice, Peterson,,NELS PETERSON ,119
-Jeff Davis,Whitehead 2,Supreme Court Justice, Peterson,,NELS PETERSON ,97
-Jeff Davis,Ocmulgee 1,Supreme Court Justice, Peterson,,NELS PETERSON ,177
-Jeff Davis,Ocmulgee 2,Supreme Court Justice, Peterson,,NELS PETERSON ,91
-Jeff Davis,Hazlehurst,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,109
-Jeff Davis,Altamaha 1,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,85
-Jeff Davis,Altamaha 2,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,125
-Jeff Davis,Blackburn 1,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,55
-Jeff Davis,Blackburn 2,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,91
-Jeff Davis,Whitehead 1,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,120
-Jeff Davis,Whitehead 2,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,97
-Jeff Davis,Ocmulgee 1,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,179
-Jeff Davis,Ocmulgee 2,Appeals Court Judge, Bethel,,CHARLIE BETHEL ,93
-Jeff Davis,Hazlehurst,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,112
-Jeff Davis,Altamaha 1,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,84
-Jeff Davis,Altamaha 2,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,122
-Jeff Davis,Blackburn 1,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,58
-Jeff Davis,Blackburn 2,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,91
-Jeff Davis,Whitehead 1,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,117
-Jeff Davis,Whitehead 2,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,92
-Jeff Davis,Ocmulgee 1,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,176
-Jeff Davis,Ocmulgee 2,Appeals Court Judge, Dillard,,STEPHEN DILLARD ,90
-Jeff Davis,Hazlehurst,Appeals Court Judge, Ellington,,KEN HODGES  ,95
-Jeff Davis,Altamaha 1,Appeals Court Judge, Ellington,,KEN HODGES  ,61
-Jeff Davis,Altamaha 2,Appeals Court Judge, Ellington,,KEN HODGES  ,103
-Jeff Davis,Blackburn 1,Appeals Court Judge, Ellington,,KEN HODGES  ,44
-Jeff Davis,Blackburn 2,Appeals Court Judge, Ellington,,KEN HODGES  ,85
-Jeff Davis,Whitehead 1,Appeals Court Judge, Ellington,,KEN HODGES  ,91
-Jeff Davis,Whitehead 2,Appeals Court Judge, Ellington,,KEN HODGES  ,90
-Jeff Davis,Ocmulgee 1,Appeals Court Judge, Ellington,,KEN HODGES  ,142
-Jeff Davis,Ocmulgee 2,Appeals Court Judge, Ellington,,KEN HODGES  ,80
-Jeff Davis,Hazlehurst,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,29
-Jeff Davis,Altamaha 1,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,23
-Jeff Davis,Altamaha 2,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,27
-Jeff Davis,Blackburn 1,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,15
-Jeff Davis,Blackburn 2,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,15
-Jeff Davis,Whitehead 1,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,39
-Jeff Davis,Whitehead 2,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,17
-Jeff Davis,Ocmulgee 1,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,45
-Jeff Davis,Ocmulgee 2,Appeals Court Judge, Ellington,,KEN SHIGLEY  ,16
-Jeff Davis,Hazlehurst,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,107
-Jeff Davis,Altamaha 1,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,84
-Jeff Davis,Altamaha 2,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,120
-Jeff Davis,Blackburn 1,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,61
-Jeff Davis,Blackburn 2,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,87
-Jeff Davis,Whitehead 1,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,119
-Jeff Davis,Whitehead 2,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,97
-Jeff Davis,Ocmulgee 1,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,179
-Jeff Davis,Ocmulgee 2,Appeals Court Judge, Mercier,,AMANDA H. MERCIER ,92
-Jeff Davis,Hazlehurst,Appeals Court Judge, Miller,,M. YVETTE MILLER ,109
-Jeff Davis,Altamaha 1,Appeals Court Judge, Miller,,M. YVETTE MILLER ,81
-Jeff Davis,Altamaha 2,Appeals Court Judge, Miller,,M. YVETTE MILLER ,119
-Jeff Davis,Blackburn 1,Appeals Court Judge, Miller,,M. YVETTE MILLER ,59
-Jeff Davis,Blackburn 2,Appeals Court Judge, Miller,,M. YVETTE MILLER ,88
-Jeff Davis,Whitehead 1,Appeals Court Judge, Miller,,M. YVETTE MILLER ,120
-Jeff Davis,Whitehead 2,Appeals Court Judge, Miller,,M. YVETTE MILLER ,94
-Jeff Davis,Ocmulgee 1,Appeals Court Judge, Miller,,M. YVETTE MILLER ,174
-Jeff Davis,Ocmulgee 2,Appeals Court Judge, Miller,,M. YVETTE MILLER ,93
-Jeff Davis,Hazlehurst,Appeals Court Judge, Reese,,CLYDE L. REESE III ,109
-Jeff Davis,Altamaha 1,Appeals Court Judge, Reese,,CLYDE L. REESE III ,82
-Jeff Davis,Altamaha 2,Appeals Court Judge, Reese,,CLYDE L. REESE III ,120
-Jeff Davis,Blackburn 1,Appeals Court Judge, Reese,,CLYDE L. REESE III ,58
-Jeff Davis,Blackburn 2,Appeals Court Judge, Reese,,CLYDE L. REESE III ,90
-Jeff Davis,Whitehead 1,Appeals Court Judge, Reese,,CLYDE L. REESE III ,118
-Jeff Davis,Whitehead 2,Appeals Court Judge, Reese,,CLYDE L. REESE III ,92
-Jeff Davis,Ocmulgee 1,Appeals Court Judge, Reese,,CLYDE L. REESE III ,176
-Jeff Davis,Ocmulgee 2,Appeals Court Judge, Reese,,CLYDE L. REESE III ,94
-Jeff Davis,Hazlehurst,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,106
-Jeff Davis,Altamaha 1,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,81
-Jeff Davis,Altamaha 2,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,121
-Jeff Davis,Blackburn 1,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,59
-Jeff Davis,Blackburn 2,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,90
-Jeff Davis,Whitehead 1,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,118
-Jeff Davis,Whitehead 2,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,96
-Jeff Davis,Ocmulgee 1,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,178
-Jeff Davis,Ocmulgee 2,Appeals Court Judge, Rickman,,BRIAN RICKMAN ,93
-Jeff Davis,Hazlehurst,Superior Court Judge, Brunswick Circuit (Lane),,ROGER LANE ,112
-Jeff Davis,Altamaha 1,Superior Court Judge, Brunswick Circuit (Lane),,ROGER LANE ,83
-Jeff Davis,Altamaha 2,Superior Court Judge, Brunswick Circuit (Lane),,ROGER LANE ,123
-Jeff Davis,Blackburn 1,Superior Court Judge, Brunswick Circuit (Lane),,ROGER LANE ,59
-Jeff Davis,Blackburn 2,Superior Court Judge, Brunswick Circuit (Lane),,ROGER LANE ,91
-Jeff Davis,Whitehead 1,Superior Court Judge, Brunswick Circuit (Lane),,ROGER LANE ,127
-Jeff Davis,Whitehead 2,Superior Court Judge, Brunswick Circuit (Lane),,ROGER LANE ,97
-Jeff Davis,Ocmulgee 1,Superior Court Judge, Brunswick Circuit (Lane),,ROGER LANE ,186
-Jeff Davis,Ocmulgee 2,Superior Court Judge, Brunswick Circuit (Lane),,ROGER LANE ,96
-Jeff Davis,Hazlehurst,JUDGE, STATE COURT,,S. ROWLAND ,122
-Jeff Davis,Altamaha 1,JUDGE, STATE COURT,,S. ROWLAND ,88
-Jeff Davis,Altamaha 2,JUDGE, STATE COURT,,S. ROWLAND ,144
-Jeff Davis,Blackburn 1,JUDGE, STATE COURT,,S. ROWLAND ,62
-Jeff Davis,Blackburn 2,JUDGE, STATE COURT,,S. ROWLAND ,100
-Jeff Davis,Whitehead 1,JUDGE, STATE COURT,,S. ROWLAND ,141
-Jeff Davis,Whitehead 2,JUDGE, STATE COURT,,S. ROWLAND ,107
-Jeff Davis,Ocmulgee 1,JUDGE, STATE COURT,,S. ROWLAND ,218
-Jeff Davis,Ocmulgee 2,JUDGE, STATE COURT,,S. ROWLAND ,115
+Jeff Davis,Hazlehurst,Democratic Party Question 3,non-partisan commission?,DEM,YES,65
+Jeff Davis,Altamaha 1,Democratic Party Question 3,non-partisan commission?,DEM,YES,8
+Jeff Davis,Altamaha 2,Democratic Party Question 3,non-partisan commission?,DEM,YES,9
+Jeff Davis,Blackburn 1,Democratic Party Question 3,non-partisan commission?,DEM,YES,13
+Jeff Davis,Blackburn 2,Democratic Party Question 3,non-partisan commission?,DEM,YES,6
+Jeff Davis,Whitehead 1,Democratic Party Question 3,non-partisan commission?,DEM,YES,18
+Jeff Davis,Whitehead 2,Democratic Party Question 3,non-partisan commission?,DEM,YES,11
+Jeff Davis,Ocmulgee 1,Democratic Party Question 3,non-partisan commission?,DEM,YES,18
+Jeff Davis,Ocmulgee 2,Democratic Party Question 3,non-partisan commission?,DEM,YES,8
+Jeff Davis,Hazlehurst,Democratic Party Question 3,non-partisan commission?,DEM,NO,30
+Jeff Davis,Altamaha 1,Democratic Party Question 3,non-partisan commission?,DEM,NO,3
+Jeff Davis,Altamaha 2,Democratic Party Question 3,non-partisan commission?,DEM,NO,2
+Jeff Davis,Blackburn 1,Democratic Party Question 3,non-partisan commission?,DEM,NO,4
+Jeff Davis,Blackburn 2,Democratic Party Question 3,non-partisan commission?,DEM,NO,1
+Jeff Davis,Whitehead 1,Democratic Party Question 3,non-partisan commission?,DEM,NO,9
+Jeff Davis,Whitehead 2,Democratic Party Question 3,non-partisan commission?,DEM,NO,7
+Jeff Davis,Ocmulgee 1,Democratic Party Question 3,non-partisan commission?,DEM,NO,9
+Jeff Davis,Ocmulgee 2,Democratic Party Question 3,non-partisan commission?,DEM,NO,6
+Jeff Davis,Hazlehurst,Democratic Party Question 4,reduce carbon emissions,DEM,YES,66
+Jeff Davis,Altamaha 1,Democratic Party Question 4,reduce carbon emissions,DEM,YES,9
+Jeff Davis,Altamaha 2,Democratic Party Question 4,reduce carbon emissions,DEM,YES,8
+Jeff Davis,Blackburn 1,Democratic Party Question 4,reduce carbon emissions,DEM,YES,12
+Jeff Davis,Blackburn 2,Democratic Party Question 4,reduce carbon emissions,DEM,YES,3
+Jeff Davis,Whitehead 1,Democratic Party Question 4,reduce carbon emissions,DEM,YES,15
+Jeff Davis,Whitehead 2,Democratic Party Question 4,reduce carbon emissions,DEM,YES,10
+Jeff Davis,Ocmulgee 1,Democratic Party Question 4,reduce carbon emissions,DEM,YES,18
+Jeff Davis,Ocmulgee 2,Democratic Party Question 4,reduce carbon emissions,DEM,YES,8
+Jeff Davis,Hazlehurst,Democratic Party Question 4,reduce carbon emissions,DEM,NO,27
+Jeff Davis,Altamaha 1,Democratic Party Question 4,reduce carbon emissions,DEM,NO,4
+Jeff Davis,Altamaha 2,Democratic Party Question 4,reduce carbon emissions,DEM,NO,3
+Jeff Davis,Blackburn 1,Democratic Party Question 4,reduce carbon emissions,DEM,NO,5
+Jeff Davis,Blackburn 2,Democratic Party Question 4,reduce carbon emissions,DEM,NO,4
+Jeff Davis,Whitehead 1,Democratic Party Question 4,reduce carbon emissions,DEM,NO,11
+Jeff Davis,Whitehead 2,Democratic Party Question 4,reduce carbon emissions,DEM,NO,8
+Jeff Davis,Ocmulgee 1,Democratic Party Question 4,reduce carbon emissions,DEM,NO,9
+Jeff Davis,Ocmulgee 2,Democratic Party Question 4,reduce carbon emissions,DEM,NO,7
+Jeff Davis,Hazlehurst,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,114
+Jeff Davis,Altamaha 1,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,82
+Jeff Davis,Altamaha 2,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,127
+Jeff Davis,Blackburn 1,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,58
+Jeff Davis,Blackburn 2,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,91
+Jeff Davis,Whitehead 1,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,122
+Jeff Davis,Whitehead 2,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,101
+Jeff Davis,Ocmulgee 1,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,186
+Jeff Davis,Ocmulgee 2,Supreme Court Justice,Boggs,,MICHAEL P. BOGGS,94
+Jeff Davis,Hazlehurst,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,114
+Jeff Davis,Altamaha 1,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,85
+Jeff Davis,Altamaha 2,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,128
+Jeff Davis,Blackburn 1,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,57
+Jeff Davis,Blackburn 2,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,92
+Jeff Davis,Whitehead 1,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,124
+Jeff Davis,Whitehead 2,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,98
+Jeff Davis,Ocmulgee 1,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,179
+Jeff Davis,Ocmulgee 2,Supreme Court Justice,Grant,,BRITT CAGLE GRANT,92
+Jeff Davis,Hazlehurst,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,113
+Jeff Davis,Altamaha 1,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,81
+Jeff Davis,Altamaha 2,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,125
+Jeff Davis,Blackburn 1,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,56
+Jeff Davis,Blackburn 2,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,87
+Jeff Davis,Whitehead 1,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,121
+Jeff Davis,Whitehead 2,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,98
+Jeff Davis,Ocmulgee 1,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,176
+Jeff Davis,Ocmulgee 2,Supreme Court Justice,Hunstein,,JOHN ELLINGTON,90
+Jeff Davis,Hazlehurst,Supreme Court Justice,Melton,,HAROLD D. MELTON,117
+Jeff Davis,Altamaha 1,Supreme Court Justice,Melton,,HAROLD D. MELTON,83
+Jeff Davis,Altamaha 2,Supreme Court Justice,Melton,,HAROLD D. MELTON,122
+Jeff Davis,Blackburn 1,Supreme Court Justice,Melton,,HAROLD D. MELTON,57
+Jeff Davis,Blackburn 2,Supreme Court Justice,Melton,,HAROLD D. MELTON,90
+Jeff Davis,Whitehead 1,Supreme Court Justice,Melton,,HAROLD D. MELTON,122
+Jeff Davis,Whitehead 2,Supreme Court Justice,Melton,,HAROLD D. MELTON,98
+Jeff Davis,Ocmulgee 1,Supreme Court Justice,Melton,,HAROLD D. MELTON,180
+Jeff Davis,Ocmulgee 2,Supreme Court Justice,Melton,,HAROLD D. MELTON,95
+Jeff Davis,Hazlehurst,Supreme Court Justice,Peterson,,NELS PETERSON,112
+Jeff Davis,Altamaha 1,Supreme Court Justice,Peterson,,NELS PETERSON,84
+Jeff Davis,Altamaha 2,Supreme Court Justice,Peterson,,NELS PETERSON,125
+Jeff Davis,Blackburn 1,Supreme Court Justice,Peterson,,NELS PETERSON,55
+Jeff Davis,Blackburn 2,Supreme Court Justice,Peterson,,NELS PETERSON,88
+Jeff Davis,Whitehead 1,Supreme Court Justice,Peterson,,NELS PETERSON,119
+Jeff Davis,Whitehead 2,Supreme Court Justice,Peterson,,NELS PETERSON,97
+Jeff Davis,Ocmulgee 1,Supreme Court Justice,Peterson,,NELS PETERSON,177
+Jeff Davis,Ocmulgee 2,Supreme Court Justice,Peterson,,NELS PETERSON,91
+Jeff Davis,Hazlehurst,Appeals Court Judge,Bethel,,CHARLIE BETHEL,109
+Jeff Davis,Altamaha 1,Appeals Court Judge,Bethel,,CHARLIE BETHEL,85
+Jeff Davis,Altamaha 2,Appeals Court Judge,Bethel,,CHARLIE BETHEL,125
+Jeff Davis,Blackburn 1,Appeals Court Judge,Bethel,,CHARLIE BETHEL,55
+Jeff Davis,Blackburn 2,Appeals Court Judge,Bethel,,CHARLIE BETHEL,91
+Jeff Davis,Whitehead 1,Appeals Court Judge,Bethel,,CHARLIE BETHEL,120
+Jeff Davis,Whitehead 2,Appeals Court Judge,Bethel,,CHARLIE BETHEL,97
+Jeff Davis,Ocmulgee 1,Appeals Court Judge,Bethel,,CHARLIE BETHEL,179
+Jeff Davis,Ocmulgee 2,Appeals Court Judge,Bethel,,CHARLIE BETHEL,93
+Jeff Davis,Hazlehurst,Appeals Court Judge,Dillard,,STEPHEN DILLARD,112
+Jeff Davis,Altamaha 1,Appeals Court Judge,Dillard,,STEPHEN DILLARD,84
+Jeff Davis,Altamaha 2,Appeals Court Judge,Dillard,,STEPHEN DILLARD,122
+Jeff Davis,Blackburn 1,Appeals Court Judge,Dillard,,STEPHEN DILLARD,58
+Jeff Davis,Blackburn 2,Appeals Court Judge,Dillard,,STEPHEN DILLARD,91
+Jeff Davis,Whitehead 1,Appeals Court Judge,Dillard,,STEPHEN DILLARD,117
+Jeff Davis,Whitehead 2,Appeals Court Judge,Dillard,,STEPHEN DILLARD,92
+Jeff Davis,Ocmulgee 1,Appeals Court Judge,Dillard,,STEPHEN DILLARD,176
+Jeff Davis,Ocmulgee 2,Appeals Court Judge,Dillard,,STEPHEN DILLARD,90
+Jeff Davis,Hazlehurst,Appeals Court Judge,Ellington,,KEN HODGES,95
+Jeff Davis,Altamaha 1,Appeals Court Judge,Ellington,,KEN HODGES,61
+Jeff Davis,Altamaha 2,Appeals Court Judge,Ellington,,KEN HODGES,103
+Jeff Davis,Blackburn 1,Appeals Court Judge,Ellington,,KEN HODGES,44
+Jeff Davis,Blackburn 2,Appeals Court Judge,Ellington,,KEN HODGES,85
+Jeff Davis,Whitehead 1,Appeals Court Judge,Ellington,,KEN HODGES,91
+Jeff Davis,Whitehead 2,Appeals Court Judge,Ellington,,KEN HODGES,90
+Jeff Davis,Ocmulgee 1,Appeals Court Judge,Ellington,,KEN HODGES,142
+Jeff Davis,Ocmulgee 2,Appeals Court Judge,Ellington,,KEN HODGES,80
+Jeff Davis,Hazlehurst,Appeals Court Judge,Ellington,,KEN SHIGLEY,29
+Jeff Davis,Altamaha 1,Appeals Court Judge,Ellington,,KEN SHIGLEY,23
+Jeff Davis,Altamaha 2,Appeals Court Judge,Ellington,,KEN SHIGLEY,27
+Jeff Davis,Blackburn 1,Appeals Court Judge,Ellington,,KEN SHIGLEY,15
+Jeff Davis,Blackburn 2,Appeals Court Judge,Ellington,,KEN SHIGLEY,15
+Jeff Davis,Whitehead 1,Appeals Court Judge,Ellington,,KEN SHIGLEY,39
+Jeff Davis,Whitehead 2,Appeals Court Judge,Ellington,,KEN SHIGLEY,17
+Jeff Davis,Ocmulgee 1,Appeals Court Judge,Ellington,,KEN SHIGLEY,45
+Jeff Davis,Ocmulgee 2,Appeals Court Judge,Ellington,,KEN SHIGLEY,16
+Jeff Davis,Hazlehurst,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,107
+Jeff Davis,Altamaha 1,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,84
+Jeff Davis,Altamaha 2,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,120
+Jeff Davis,Blackburn 1,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,61
+Jeff Davis,Blackburn 2,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,87
+Jeff Davis,Whitehead 1,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,119
+Jeff Davis,Whitehead 2,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,97
+Jeff Davis,Ocmulgee 1,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,179
+Jeff Davis,Ocmulgee 2,Appeals Court Judge,Mercier,,AMANDA H. MERCIER,92
+Jeff Davis,Hazlehurst,Appeals Court Judge,Miller,,M. YVETTE MILLER,109
+Jeff Davis,Altamaha 1,Appeals Court Judge,Miller,,M. YVETTE MILLER,81
+Jeff Davis,Altamaha 2,Appeals Court Judge,Miller,,M. YVETTE MILLER,119
+Jeff Davis,Blackburn 1,Appeals Court Judge,Miller,,M. YVETTE MILLER,59
+Jeff Davis,Blackburn 2,Appeals Court Judge,Miller,,M. YVETTE MILLER,88
+Jeff Davis,Whitehead 1,Appeals Court Judge,Miller,,M. YVETTE MILLER,120
+Jeff Davis,Whitehead 2,Appeals Court Judge,Miller,,M. YVETTE MILLER,94
+Jeff Davis,Ocmulgee 1,Appeals Court Judge,Miller,,M. YVETTE MILLER,174
+Jeff Davis,Ocmulgee 2,Appeals Court Judge,Miller,,M. YVETTE MILLER,93
+Jeff Davis,Hazlehurst,Appeals Court Judge,Reese,,CLYDE L. REESE III,109
+Jeff Davis,Altamaha 1,Appeals Court Judge,Reese,,CLYDE L. REESE III,82
+Jeff Davis,Altamaha 2,Appeals Court Judge,Reese,,CLYDE L. REESE III,120
+Jeff Davis,Blackburn 1,Appeals Court Judge,Reese,,CLYDE L. REESE III,58
+Jeff Davis,Blackburn 2,Appeals Court Judge,Reese,,CLYDE L. REESE III,90
+Jeff Davis,Whitehead 1,Appeals Court Judge,Reese,,CLYDE L. REESE III,118
+Jeff Davis,Whitehead 2,Appeals Court Judge,Reese,,CLYDE L. REESE III,92
+Jeff Davis,Ocmulgee 1,Appeals Court Judge,Reese,,CLYDE L. REESE III,176
+Jeff Davis,Ocmulgee 2,Appeals Court Judge,Reese,,CLYDE L. REESE III,94
+Jeff Davis,Hazlehurst,Appeals Court Judge,Rickman,,BRIAN RICKMAN,106
+Jeff Davis,Altamaha 1,Appeals Court Judge,Rickman,,BRIAN RICKMAN,81
+Jeff Davis,Altamaha 2,Appeals Court Judge,Rickman,,BRIAN RICKMAN,121
+Jeff Davis,Blackburn 1,Appeals Court Judge,Rickman,,BRIAN RICKMAN,59
+Jeff Davis,Blackburn 2,Appeals Court Judge,Rickman,,BRIAN RICKMAN,90
+Jeff Davis,Whitehead 1,Appeals Court Judge,Rickman,,BRIAN RICKMAN,118
+Jeff Davis,Whitehead 2,Appeals Court Judge,Rickman,,BRIAN RICKMAN,96
+Jeff Davis,Ocmulgee 1,Appeals Court Judge,Rickman,,BRIAN RICKMAN,178
+Jeff Davis,Ocmulgee 2,Appeals Court Judge,Rickman,,BRIAN RICKMAN,93
+Jeff Davis,Hazlehurst,Superior Court Judge,Brunswick Circuit (Lane),,ROGER LANE,112
+Jeff Davis,Altamaha 1,Superior Court Judge,Brunswick Circuit (Lane),,ROGER LANE,83
+Jeff Davis,Altamaha 2,Superior Court Judge,Brunswick Circuit (Lane),,ROGER LANE,123
+Jeff Davis,Blackburn 1,Superior Court Judge,Brunswick Circuit (Lane),,ROGER LANE,59
+Jeff Davis,Blackburn 2,Superior Court Judge,Brunswick Circuit (Lane),,ROGER LANE,91
+Jeff Davis,Whitehead 1,Superior Court Judge,Brunswick Circuit (Lane),,ROGER LANE,127
+Jeff Davis,Whitehead 2,Superior Court Judge,Brunswick Circuit (Lane),,ROGER LANE,97
+Jeff Davis,Ocmulgee 1,Superior Court Judge,Brunswick Circuit (Lane),,ROGER LANE,186
+Jeff Davis,Ocmulgee 2,Superior Court Judge,Brunswick Circuit (Lane),,ROGER LANE,96
+Jeff Davis,Hazlehurst,JUDGE,STATE COURT,,S. ROWLAND,122
+Jeff Davis,Altamaha 1,JUDGE,STATE COURT,,S. ROWLAND,88
+Jeff Davis,Altamaha 2,JUDGE,STATE COURT,,S. ROWLAND,144
+Jeff Davis,Blackburn 1,JUDGE,STATE COURT,,S. ROWLAND,62
+Jeff Davis,Blackburn 2,JUDGE,STATE COURT,,S. ROWLAND,100
+Jeff Davis,Whitehead 1,JUDGE,STATE COURT,,S. ROWLAND,141
+Jeff Davis,Whitehead 2,JUDGE,STATE COURT,,S. ROWLAND,107
+Jeff Davis,Ocmulgee 1,JUDGE,STATE COURT,,S. ROWLAND,218
+Jeff Davis,Ocmulgee 2,JUDGE,STATE COURT,,S. ROWLAND,115
