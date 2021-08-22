@@ -1,0 +1,211 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/21/2018 4:56:18 PM EST</Timestamp>
+    <ElectionName>December 18, 2018 HD 14 Special Republican Primary</ElectionName>
+    <ElectionDate>12/18/2018</ElectionDate>
+    <Region>Bartow</Region>
+    <VoterTurnout totalVoters="24781" ballotsCast="2713" voterTurnout="10.95">
+        <Precincts>
+            <Precinct name="ADAIRSVILLE" totalVoters="5881" ballotsCast="767" voterTurnout="13.04" percentReporting="4" />
+            <Precinct name="CARTERSVILLE EAST" totalVoters="89" ballotsCast="5" voterTurnout="5.62" percentReporting="4" />
+            <Precinct name="CASSVILLE" totalVoters="10056" ballotsCast="706" voterTurnout="7.02" percentReporting="4" />
+            <Precinct name="CENTER" totalVoters="884" ballotsCast="39" voterTurnout="4.41" percentReporting="4" />
+            <Precinct name="FOLSOM" totalVoters="1231" ballotsCast="198" voterTurnout="16.08" percentReporting="4" />
+            <Precinct name="KINGSTON" totalVoters="2377" ballotsCast="291" voterTurnout="12.24" percentReporting="4" />
+            <Precinct name="PINE LOG" totalVoters="1853" ballotsCast="399" voterTurnout="21.53" percentReporting="4" />
+            <Precinct name="WHITE" totalVoters="2410" ballotsCast="308" voterTurnout="12.78" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="10" text="State Representative, District 14 - REP" isQuestion="false" precinctsReporting="8" precinctsReported="8">
+        <VoteType name="Number of Precincts for Race" votes="8">
+            <Precinct name="ADAIRSVILLE" votes="1" />
+            <Precinct name="CARTERSVILLE EAST" votes="1" />
+            <Precinct name="CASSVILLE" votes="1" />
+            <Precinct name="CENTER" votes="1" />
+            <Precinct name="FOLSOM" votes="1" />
+            <Precinct name="KINGSTON" votes="1" />
+            <Precinct name="PINE LOG" votes="1" />
+            <Precinct name="WHITE" votes="1" />
+        </VoteType>
+        <VoteType name="Number of Precincts Reporting" votes="8">
+            <Precinct name="ADAIRSVILLE" votes="1" />
+            <Precinct name="CARTERSVILLE EAST" votes="1" />
+            <Precinct name="CASSVILLE" votes="1" />
+            <Precinct name="CENTER" votes="1" />
+            <Precinct name="FOLSOM" votes="1" />
+            <Precinct name="KINGSTON" votes="1" />
+            <Precinct name="PINE LOG" votes="1" />
+            <Precinct name="WHITE" votes="1" />
+        </VoteType>
+        <Choice key="10" text="KEN COOMER" party="REP" totalVotes="631">
+            <VoteType name="Election Day" votes="491">
+                <Precinct name="ADAIRSVILLE" votes="120" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="161" />
+                <Precinct name="CENTER" votes="6" />
+                <Precinct name="FOLSOM" votes="42" />
+                <Precinct name="KINGSTON" votes="88" />
+                <Precinct name="PINE LOG" votes="41" />
+                <Precinct name="WHITE" votes="33" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="4">
+                <Precinct name="ADAIRSVILLE" votes="1" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="2" />
+                <Precinct name="CENTER" votes="0" />
+                <Precinct name="FOLSOM" votes="0" />
+                <Precinct name="KINGSTON" votes="0" />
+                <Precinct name="PINE LOG" votes="1" />
+                <Precinct name="WHITE" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="136">
+                <Precinct name="ADAIRSVILLE" votes="53" />
+                <Precinct name="CARTERSVILLE EAST" votes="1" />
+                <Precinct name="CASSVILLE" votes="58" />
+                <Precinct name="CENTER" votes="1" />
+                <Precinct name="FOLSOM" votes="5" />
+                <Precinct name="KINGSTON" votes="12" />
+                <Precinct name="PINE LOG" votes="1" />
+                <Precinct name="WHITE" votes="5" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="ADAIRSVILLE" votes="0" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="0" />
+                <Precinct name="CENTER" votes="0" />
+                <Precinct name="FOLSOM" votes="0" />
+                <Precinct name="KINGSTON" votes="0" />
+                <Precinct name="PINE LOG" votes="0" />
+                <Precinct name="WHITE" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="NICKIE LEIGHLY" party="REP" totalVotes="109">
+            <VoteType name="Election Day" votes="81">
+                <Precinct name="ADAIRSVILLE" votes="31" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="31" />
+                <Precinct name="CENTER" votes="5" />
+                <Precinct name="FOLSOM" votes="3" />
+                <Precinct name="KINGSTON" votes="3" />
+                <Precinct name="PINE LOG" votes="4" />
+                <Precinct name="WHITE" votes="4" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="0">
+                <Precinct name="ADAIRSVILLE" votes="0" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="0" />
+                <Precinct name="CENTER" votes="0" />
+                <Precinct name="FOLSOM" votes="0" />
+                <Precinct name="KINGSTON" votes="0" />
+                <Precinct name="PINE LOG" votes="0" />
+                <Precinct name="WHITE" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="28">
+                <Precinct name="ADAIRSVILLE" votes="16" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="10" />
+                <Precinct name="CENTER" votes="0" />
+                <Precinct name="FOLSOM" votes="0" />
+                <Precinct name="KINGSTON" votes="0" />
+                <Precinct name="PINE LOG" votes="1" />
+                <Precinct name="WHITE" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="ADAIRSVILLE" votes="0" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="0" />
+                <Precinct name="CENTER" votes="0" />
+                <Precinct name="FOLSOM" votes="0" />
+                <Precinct name="KINGSTON" votes="0" />
+                <Precinct name="PINE LOG" votes="0" />
+                <Precinct name="WHITE" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="MITCHELL SCOGGINS" party="REP" totalVotes="1911">
+            <VoteType name="Election Day" votes="1487">
+                <Precinct name="ADAIRSVILLE" votes="359" />
+                <Precinct name="CARTERSVILLE EAST" votes="4" />
+                <Precinct name="CASSVILLE" votes="298" />
+                <Precinct name="CENTER" votes="21" />
+                <Precinct name="FOLSOM" votes="121" />
+                <Precinct name="KINGSTON" votes="163" />
+                <Precinct name="PINE LOG" votes="305" />
+                <Precinct name="WHITE" votes="216" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="6">
+                <Precinct name="ADAIRSVILLE" votes="0" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="4" />
+                <Precinct name="CENTER" votes="0" />
+                <Precinct name="FOLSOM" votes="0" />
+                <Precinct name="KINGSTON" votes="0" />
+                <Precinct name="PINE LOG" votes="2" />
+                <Precinct name="WHITE" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="417">
+                <Precinct name="ADAIRSVILLE" votes="179" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="124" />
+                <Precinct name="CENTER" votes="5" />
+                <Precinct name="FOLSOM" votes="19" />
+                <Precinct name="KINGSTON" votes="17" />
+                <Precinct name="PINE LOG" votes="40" />
+                <Precinct name="WHITE" votes="33" />
+            </VoteType>
+            <VoteType name="Provisional" votes="1">
+                <Precinct name="ADAIRSVILLE" votes="0" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="0" />
+                <Precinct name="CENTER" votes="0" />
+                <Precinct name="FOLSOM" votes="0" />
+                <Precinct name="KINGSTON" votes="0" />
+                <Precinct name="PINE LOG" votes="1" />
+                <Precinct name="WHITE" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="NATHAN WILSON" party="REP" totalVotes="59">
+            <VoteType name="Election Day" votes="47">
+                <Precinct name="ADAIRSVILLE" votes="3" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="11" />
+                <Precinct name="CENTER" votes="1" />
+                <Precinct name="FOLSOM" votes="7" />
+                <Precinct name="KINGSTON" votes="7" />
+                <Precinct name="PINE LOG" votes="3" />
+                <Precinct name="WHITE" votes="15" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="1">
+                <Precinct name="ADAIRSVILLE" votes="0" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="0" />
+                <Precinct name="CENTER" votes="0" />
+                <Precinct name="FOLSOM" votes="0" />
+                <Precinct name="KINGSTON" votes="0" />
+                <Precinct name="PINE LOG" votes="0" />
+                <Precinct name="WHITE" votes="1" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="11">
+                <Precinct name="ADAIRSVILLE" votes="3" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="7" />
+                <Precinct name="CENTER" votes="0" />
+                <Precinct name="FOLSOM" votes="0" />
+                <Precinct name="KINGSTON" votes="1" />
+                <Precinct name="PINE LOG" votes="0" />
+                <Precinct name="WHITE" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="ADAIRSVILLE" votes="0" />
+                <Precinct name="CARTERSVILLE EAST" votes="0" />
+                <Precinct name="CASSVILLE" votes="0" />
+                <Precinct name="CENTER" votes="0" />
+                <Precinct name="FOLSOM" votes="0" />
+                <Precinct name="KINGSTON" votes="0" />
+                <Precinct name="PINE LOG" votes="0" />
+                <Precinct name="WHITE" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

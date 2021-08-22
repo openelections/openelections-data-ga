@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>12/19/2018 12:33:43 PM EST</Timestamp>
+    <ElectionName>December 18, 2018 HD 14 Special Republican Primary</ElectionName>
+    <ElectionDate>12/18/2018</ElectionDate>
+    <Region>Floyd</Region>
+    <VoterTurnout totalVoters="8979" ballotsCast="467" voterTurnout="5.20">
+        <Precincts>
+            <Precinct name="BARKERS" totalVoters="2013" ballotsCast="72" voterTurnout="3.58" percentReporting="4" />
+            <Precinct name="CHULIO" totalVoters="1046" ballotsCast="69" voterTurnout="6.60" percentReporting="4" />
+            <Precinct name="ETOWAH" totalVoters="4411" ballotsCast="231" voterTurnout="5.24" percentReporting="4" />
+            <Precinct name="HOWELL" totalVoters="1302" ballotsCast="79" voterTurnout="6.07" percentReporting="4" />
+            <Precinct name="NORTH ROME" totalVoters="207" ballotsCast="16" voterTurnout="7.73" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="10" text="State Representative, District 14 - REP" isQuestion="false" precinctsReporting="5" precinctsReported="5">
+        <VoteType name="Number of Precincts for Race" votes="5">
+            <Precinct name="BARKERS" votes="1" />
+            <Precinct name="CHULIO" votes="1" />
+            <Precinct name="ETOWAH" votes="1" />
+            <Precinct name="HOWELL" votes="1" />
+            <Precinct name="NORTH ROME" votes="1" />
+        </VoteType>
+        <VoteType name="Number of Precincts Reporting" votes="5">
+            <Precinct name="BARKERS" votes="1" />
+            <Precinct name="CHULIO" votes="1" />
+            <Precinct name="ETOWAH" votes="1" />
+            <Precinct name="HOWELL" votes="1" />
+            <Precinct name="NORTH ROME" votes="1" />
+        </VoteType>
+        <Choice key="10" text="KEN COOMER" party="REP" totalVotes="262">
+            <VoteType name="Election Day" votes="223">
+                <Precinct name="BARKERS" votes="33" />
+                <Precinct name="CHULIO" votes="30" />
+                <Precinct name="ETOWAH" votes="125" />
+                <Precinct name="HOWELL" votes="33" />
+                <Precinct name="NORTH ROME" votes="2" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="4">
+                <Precinct name="BARKERS" votes="0" />
+                <Precinct name="CHULIO" votes="0" />
+                <Precinct name="ETOWAH" votes="4" />
+                <Precinct name="HOWELL" votes="0" />
+                <Precinct name="NORTH ROME" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="35">
+                <Precinct name="BARKERS" votes="9" />
+                <Precinct name="CHULIO" votes="4" />
+                <Precinct name="ETOWAH" votes="18" />
+                <Precinct name="HOWELL" votes="0" />
+                <Precinct name="NORTH ROME" votes="4" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="BARKERS" votes="0" />
+                <Precinct name="CHULIO" votes="0" />
+                <Precinct name="ETOWAH" votes="0" />
+                <Precinct name="HOWELL" votes="0" />
+                <Precinct name="NORTH ROME" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="20" text="NICKIE LEIGHLY" party="REP" totalVotes="46">
+            <VoteType name="Election Day" votes="36">
+                <Precinct name="BARKERS" votes="6" />
+                <Precinct name="CHULIO" votes="4" />
+                <Precinct name="ETOWAH" votes="10" />
+                <Precinct name="HOWELL" votes="13" />
+                <Precinct name="NORTH ROME" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="0">
+                <Precinct name="BARKERS" votes="0" />
+                <Precinct name="CHULIO" votes="0" />
+                <Precinct name="ETOWAH" votes="0" />
+                <Precinct name="HOWELL" votes="0" />
+                <Precinct name="NORTH ROME" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="10">
+                <Precinct name="BARKERS" votes="2" />
+                <Precinct name="CHULIO" votes="1" />
+                <Precinct name="ETOWAH" votes="6" />
+                <Precinct name="HOWELL" votes="0" />
+                <Precinct name="NORTH ROME" votes="1" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="BARKERS" votes="0" />
+                <Precinct name="CHULIO" votes="0" />
+                <Precinct name="ETOWAH" votes="0" />
+                <Precinct name="HOWELL" votes="0" />
+                <Precinct name="NORTH ROME" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="30" text="MITCHELL SCOGGINS" party="REP" totalVotes="138">
+            <VoteType name="Election Day" votes="106">
+                <Precinct name="BARKERS" votes="6" />
+                <Precinct name="CHULIO" votes="24" />
+                <Precinct name="ETOWAH" votes="47" />
+                <Precinct name="HOWELL" votes="26" />
+                <Precinct name="NORTH ROME" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="0">
+                <Precinct name="BARKERS" votes="0" />
+                <Precinct name="CHULIO" votes="0" />
+                <Precinct name="ETOWAH" votes="0" />
+                <Precinct name="HOWELL" votes="0" />
+                <Precinct name="NORTH ROME" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="32">
+                <Precinct name="BARKERS" votes="11" />
+                <Precinct name="CHULIO" votes="3" />
+                <Precinct name="ETOWAH" votes="16" />
+                <Precinct name="HOWELL" votes="2" />
+                <Precinct name="NORTH ROME" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="BARKERS" votes="0" />
+                <Precinct name="CHULIO" votes="0" />
+                <Precinct name="ETOWAH" votes="0" />
+                <Precinct name="HOWELL" votes="0" />
+                <Precinct name="NORTH ROME" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="40" text="NATHAN WILSON" party="REP" totalVotes="18">
+            <VoteType name="Election Day" votes="14">
+                <Precinct name="BARKERS" votes="5" />
+                <Precinct name="CHULIO" votes="2" />
+                <Precinct name="ETOWAH" votes="1" />
+                <Precinct name="HOWELL" votes="3" />
+                <Precinct name="NORTH ROME" votes="3" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="0">
+                <Precinct name="BARKERS" votes="0" />
+                <Precinct name="CHULIO" votes="0" />
+                <Precinct name="ETOWAH" votes="0" />
+                <Precinct name="HOWELL" votes="0" />
+                <Precinct name="NORTH ROME" votes="0" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="4">
+                <Precinct name="BARKERS" votes="0" />
+                <Precinct name="CHULIO" votes="0" />
+                <Precinct name="ETOWAH" votes="3" />
+                <Precinct name="HOWELL" votes="1" />
+                <Precinct name="NORTH ROME" votes="0" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="BARKERS" votes="0" />
+                <Precinct name="CHULIO" votes="0" />
+                <Precinct name="ETOWAH" votes="0" />
+                <Precinct name="HOWELL" votes="0" />
+                <Precinct name="NORTH ROME" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>
