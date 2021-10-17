@@ -9,7 +9,7 @@ import psycopg2
 import helpers
 
 
-TABLE_NAME = 'stage.ga_runoff_20210105'
+TABLE_NAME = 'stage.ga_special_20210209'
 
 INSERT_SQL = f"""
     INSERT INTO {TABLE_NAME}
