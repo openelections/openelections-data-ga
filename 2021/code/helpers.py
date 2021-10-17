@@ -38,7 +38,7 @@ def get_county_detail_xml_urls(url, sleep_seconds, logger):
 
 
 def get_georgia_counties(logger):
-    with open('georgia_counties_20210209.json') as f:
+    with open('georgia_counties_20210713.json') as f:
         ga_counties = json.load(f)
     counties = []
     for c in ga_counties:
