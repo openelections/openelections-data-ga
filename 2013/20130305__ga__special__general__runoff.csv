@@ -1,7 +1,27 @@
-county,office,district,party,candidate,votes,election_day,absentee,early_voting,provisional
-,State Representative,71,R,THOMAS G. CRYMES,885,715,62,108,0
-Coweta,State Representative,71,R,THOMAS G. CRYMES,854,686,62,106,0
-Fayette,State Representative,71,R,THOMAS G. CRYMES,31,29,0,2,0
-,State Representative,71,R,DAVID J. STOVER,1356,1208,55,93,0
-Coweta,State Representative,71,R,DAVID J. STOVER,1340,1193,55,92,0
-Fayette,State Representative,71,R,DAVID J. STOVER,16,15,0,1,0
+county,precinct,office,district,party,candidate,election_day_votes,advanced_votes,absentee_by_mail_votes,provisional_votes
+Coweta,MORELAND,State House,71,Republican,THOMAS G. CRYMES,69,7,7,0
+Coweta,SHARPSBURG,State House,71,Republican,THOMAS G. CRYMES,71,9,7,0
+Coweta,FISCHER ROAD,State House,71,Republican,THOMAS G. CRYMES,104,18,5,0
+Coweta,RAYMOND,State House,71,Republican,THOMAS G. CRYMES,53,3,7,0
+Coweta,TURIN,State House,71,Republican,THOMAS G. CRYMES,38,6,5,0
+Coweta,ARTS CENTRE,State House,71,Republican,THOMAS G. CRYMES,44,15,3,0
+Coweta,WHITE OAK,State House,71,Republican,THOMAS G. CRYMES,76,10,9,0
+Coweta,MADRAS,State House,71,Republican,THOMAS G. CRYMES,50,20,5,0
+Coweta,CANNONGATE,State House,71,Republican,THOMAS G. CRYMES,70,10,8,0
+Coweta,THOMAS CROSSROADS,State House,71,Republican,THOMAS G. CRYMES,80,7,6,0
+Coweta,EBENEZER CHURCH ROAD,State House,71,Republican,THOMAS G. CRYMES,31,1,0,0
+Coweta,MORELAND,State House,71,Republican,DAVID J. STOVER,95,2,0,0
+Coweta,SHARPSBURG,State House,71,Republican,DAVID J. STOVER,121,12,2,0
+Coweta,FISCHER ROAD,State House,71,Republican,DAVID J. STOVER,143,2,0,0
+Coweta,RAYMOND,State House,71,Republican,DAVID J. STOVER,67,5,6,0
+Coweta,TURIN,State House,71,Republican,DAVID J. STOVER,43,0,3,0
+Coweta,ARTS CENTRE,State House,71,Republican,DAVID J. STOVER,61,7,6,0
+Coweta,WHITE OAK,State House,71,Republican,DAVID J. STOVER,105,7,5,0
+Coweta,MADRAS,State House,71,Republican,DAVID J. STOVER,108,26,10,0
+Coweta,CANNONGATE,State House,71,Republican,DAVID J. STOVER,143,8,8,0
+Coweta,THOMAS CROSSROADS,State House,71,Republican,DAVID J. STOVER,221,18,7,0
+Coweta,EBENEZER CHURCH ROAD,State House,71,Republican,DAVID J. STOVER,86,5,8,0
+Fayette,KEDRON,State House,71,Republican,THOMAS G. CRYMES,9,0,0,0
+Fayette,FIELDING RIDGE,State House,71,Republican,THOMAS G. CRYMES,20,2,0,0
+Fayette,KEDRON,State House,71,Republican,DAVID J. STOVER,9,1,0,0
+Fayette,FIELDING RIDGE,State House,71,Republican,DAVID J. STOVER,6,0,0,0

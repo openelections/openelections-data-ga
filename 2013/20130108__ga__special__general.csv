@@ -1,77 +1,691 @@
-county,office,district,party,candidate,votes,election_day,absentee,early_voting,provisional
-,State Senator,11,R,MARSHALL BERMAN,132,102,1,29,0
-Colquitt,State Senator,11,R,MARSHALL BERMAN,21,19,0,2,0
-Decatur,State Senator,11,R,MARSHALL BERMAN,9,7,0,2,0
-Early,State Senator,11,R,MARSHALL BERMAN,7,6,0,1,0
-Grady,State Senator,11,R,MARSHALL BERMAN,11,9,0,2,0
-Miller,State Senator,11,R,MARSHALL BERMAN,1,1,0,0,0
-Mitchell,State Senator,11,R,MARSHALL BERMAN,10,6,0,4,0
-Seminole,State Senator,11,R,MARSHALL BERMAN,6,6,0,0,0
-Thomas,State Senator,11,R,MARSHALL BERMAN,67,48,1,18,0
-,State Senator,11,L,JEFFREY G. BIVINS,804,655,5,143,1
-Colquitt,State Senator,11,L,JEFFREY G. BIVINS,77,67,0,10,0
-Decatur,State Senator,11,L,JEFFREY G. BIVINS,97,90,0,7,0
-Early,State Senator,11,L,JEFFREY G. BIVINS,100,86,0,14,0
-Grady,State Senator,11,L,JEFFREY G. BIVINS,228,166,2,60,0
-Miller,State Senator,11,L,JEFFREY G. BIVINS,26,19,0,7,0
-Mitchell,State Senator,11,L,JEFFREY G. BIVINS,41,29,0,12,0
-Seminole,State Senator,11,L,JEFFREY G. BIVINS,75,61,1,13,0
-Thomas,State Senator,11,L,JEFFREY G. BIVINS,160,137,2,20,1
-,State Senator,11,R,DEAN BURKE,5286,4248,40,995,3
-Colquitt,State Senator,11,R,DEAN BURKE,899,797,1,101,0
-Decatur,State Senator,11,R,DEAN BURKE,2006,1513,29,463,1
-Early,State Senator,11,R,DEAN BURKE,245,193,0,52,0
-Grady,State Senator,11,R,DEAN BURKE,475,352,1,122,0
-Miller,State Senator,11,R,DEAN BURKE,264,216,3,45,0
-Mitchell,State Senator,11,R,DEAN BURKE,178,161,0,17,0
-Seminole,State Senator,11,R,DEAN BURKE,693,565,6,120,2
-Thomas,State Senator,11,R,DEAN BURKE,526,451,0,75,0
-,State Senator,11,R,BRAD HUGHES,969,763,3,203,0
-Colquitt,State Senator,11,R,BRAD HUGHES,174,150,0,24,0
-Decatur,State Senator,11,R,BRAD HUGHES,45,34,0,11,0
-Early,State Senator,11,R,BRAD HUGHES,450,333,3,114,0
-Grady,State Senator,11,R,BRAD HUGHES,38,24,0,14,0
-Miller,State Senator,11,R,BRAD HUGHES,46,35,0,11,0
-Mitchell,State Senator,11,R,BRAD HUGHES,69,60,0,9,0
-Seminole,State Senator,11,R,BRAD HUGHES,68,63,0,5,0
-Thomas,State Senator,11,R,BRAD HUGHES,79,64,0,15,0
-,State Senator,11,R,MIKE KEOWN,4636,3472,30,1133,1
-Colquitt,State Senator,11,R,MIKE KEOWN,499,400,1,98,0
-Decatur,State Senator,11,R,MIKE KEOWN,333,235,3,95,0
-Early,State Senator,11,R,MIKE KEOWN,319,250,2,67,0
-Grady,State Senator,11,R,MIKE KEOWN,1119,780,16,323,0
-Miller,State Senator,11,R,MIKE KEOWN,120,82,2,36,0
-Mitchell,State Senator,11,R,MIKE KEOWN,278,242,1,35,0
-Seminole,State Senator,11,R,MIKE KEOWN,210,174,3,32,1
-Thomas,State Senator,11,R,MIKE KEOWN,1758,1309,2,447,0
-,State Senator,11,R,EUGENE MCNEASE,584,457,6,119,2
-Colquitt,State Senator,11,R,EUGENE MCNEASE,14,14,0,0,0
-Decatur,State Senator,11,R,EUGENE MCNEASE,65,53,3,9,0
-Early,State Senator,11,R,EUGENE MCNEASE,13,12,0,1,0
-Grady,State Senator,11,R,EUGENE MCNEASE,41,32,0,9,0
-Miller,State Senator,11,R,EUGENE MCNEASE,110,78,0,30,2
-Mitchell,State Senator,11,R,EUGENE MCNEASE,9,6,0,3,0
-Seminole,State Senator,11,R,EUGENE MCNEASE,36,35,0,1,0
-Thomas,State Senator,11,R,EUGENE MCNEASE,296,227,3,66,0
-,State Senator,21,R,BRANDON BEACH,5471,3916,257,1297,1
-Cherokee,State Senator,21,R,BRANDON BEACH,3925,3063,237,625,0
-Fulton,State Senator,21,R,BRANDON BEACH,1546,853,20,672,1
-,State Senator,21,R,SEAN JERGUSON,4032,3274,267,490,1
-Cherokee,State Senator,21,R,SEAN JERGUSON,3661,3028,257,375,1
-Fulton,State Senator,21,R,SEAN JERGUSON,371,246,10,115,0
-,State Senator,30,R,MIKE DUGAN,3299,2693,101,505,0
-Carroll,State Senator,30,R,MIKE DUGAN,2620,2153,15,452,0
-Douglas,State Senator,30,R,MIKE DUGAN,446,404,1,41,0
-Paulding,State Senator,30,R,MIKE DUGAN,233,136,85,12,0
-,State Senator,30,L,JAMES M. CAMP,467,369,18,80,0
-Carroll,State Senator,30,L,JAMES M. CAMP,308,255,2,51,0
-Douglas,State Senator,30,L,JAMES M. CAMP,102,82,3,17,0
-Paulding,State Senator,30,L,JAMES M. CAMP,57,32,13,12,0
-,State Representative,21,D,NATALIE BERGERON,691,564,20,107,0
-Cherokee,State Representative,21,D,NATALIE BERGERON,691,564,20,107,0
-,State Representative,21,R,BRIAN LAURENS,971,779,61,131,0
-Cherokee,State Representative,21,R,BRIAN LAURENS,971,779,61,131,0
-,State Representative,21,R,KENNETH A. MIMBS,67,48,7,12,0
-Cherokee,State Representative,21,R,KENNETH A. MIMBS,67,48,7,12,0
-,State Representative,21,R,SCOT TURNER,1496,1189,69,238,0
-Cherokee,State Representative,21,R,SCOT TURNER,1496,1189,69,238,0
+county,precinct,office,district,party,candidate,election_day_votes,advanced_votes,absentee_by_mail_votes,provisional_votes
+Grady,Blowing Cave,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Grady,Cairo 4th District,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Grady,Cairo 5th District,State Senate,11,Republican,MARSHALL BERMAN,3,0,0,0
+Grady,Duncanville,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Grady,Higdon,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Grady,Limesink,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Grady,Midway,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Grady,Pine Park,State Senate,11,Republican,MARSHALL BERMAN,0,1,0,0
+Grady,Ragan,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Grady,Spence,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Grady,Spring Hill,State Senate,11,Republican,MARSHALL BERMAN,2,0,0,0
+Grady,Whigham,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Grady,Woodland,State Senate,11,Republican,MARSHALL BERMAN,0,1,0,0
+Grady,Blowing Cave,State Senate,11,Libertarian,JEFFREY G. BIVINS,3,4,0,0
+Grady,Cairo 4th District,State Senate,11,Libertarian,JEFFREY G. BIVINS,25,14,0,0
+Grady,Cairo 5th District,State Senate,11,Libertarian,JEFFREY G. BIVINS,21,4,2,0
+Grady,Duncanville,State Senate,11,Libertarian,JEFFREY G. BIVINS,10,0,0,0
+Grady,Higdon,State Senate,11,Libertarian,JEFFREY G. BIVINS,9,3,0,0
+Grady,Limesink,State Senate,11,Libertarian,JEFFREY G. BIVINS,0,1,0,0
+Grady,Midway,State Senate,11,Libertarian,JEFFREY G. BIVINS,15,10,0,0
+Grady,Pine Park,State Senate,11,Libertarian,JEFFREY G. BIVINS,4,0,0,0
+Grady,Ragan,State Senate,11,Libertarian,JEFFREY G. BIVINS,11,1,0,0
+Grady,Spence,State Senate,11,Libertarian,JEFFREY G. BIVINS,7,2,0,0
+Grady,Spring Hill,State Senate,11,Libertarian,JEFFREY G. BIVINS,15,4,0,0
+Grady,Whigham,State Senate,11,Libertarian,JEFFREY G. BIVINS,21,6,0,0
+Grady,Woodland,State Senate,11,Libertarian,JEFFREY G. BIVINS,25,11,0,0
+Grady,Blowing Cave,State Senate,11,Republican,DEAN BURKE,35,3,0,0
+Grady,Cairo 4th District,State Senate,11,Republican,DEAN BURKE,7,6,1,0
+Grady,Cairo 5th District,State Senate,11,Republican,DEAN BURKE,30,25,0,0
+Grady,Duncanville,State Senate,11,Republican,DEAN BURKE,10,0,0,0
+Grady,Higdon,State Senate,11,Republican,DEAN BURKE,19,6,0,0
+Grady,Limesink,State Senate,11,Republican,DEAN BURKE,9,2,0,0
+Grady,Midway,State Senate,11,Republican,DEAN BURKE,25,17,0,0
+Grady,Pine Park,State Senate,11,Republican,DEAN BURKE,14,3,0,0
+Grady,Ragan,State Senate,11,Republican,DEAN BURKE,22,3,0,0
+Grady,Spence,State Senate,11,Republican,DEAN BURKE,19,4,0,0
+Grady,Spring Hill,State Senate,11,Republican,DEAN BURKE,53,4,0,0
+Grady,Whigham,State Senate,11,Republican,DEAN BURKE,52,10,0,0
+Grady,Woodland,State Senate,11,Republican,DEAN BURKE,57,39,0,0
+Grady,Blowing Cave,State Senate,11,Republican,BRAD HUGHES,1,1,0,0
+Grady,Cairo 4th District,State Senate,11,Republican,BRAD HUGHES,1,4,0,0
+Grady,Cairo 5th District,State Senate,11,Republican,BRAD HUGHES,3,1,0,0
+Grady,Duncanville,State Senate,11,Republican,BRAD HUGHES,1,0,0,0
+Grady,Higdon,State Senate,11,Republican,BRAD HUGHES,0,0,0,0
+Grady,Limesink,State Senate,11,Republican,BRAD HUGHES,1,0,0,0
+Grady,Midway,State Senate,11,Republican,BRAD HUGHES,2,2,0,0
+Grady,Pine Park,State Senate,11,Republican,BRAD HUGHES,2,0,0,0
+Grady,Ragan,State Senate,11,Republican,BRAD HUGHES,1,0,0,0
+Grady,Spence,State Senate,11,Republican,BRAD HUGHES,3,3,0,0
+Grady,Spring Hill,State Senate,11,Republican,BRAD HUGHES,0,2,0,0
+Grady,Whigham,State Senate,11,Republican,BRAD HUGHES,5,0,0,0
+Grady,Woodland,State Senate,11,Republican,BRAD HUGHES,4,1,0,0
+Grady,Blowing Cave,State Senate,11,Republican,MIKE KEOWN,42,7,0,0
+Grady,Cairo 4th District,State Senate,11,Republican,MIKE KEOWN,27,29,3,0
+Grady,Cairo 5th District,State Senate,11,Republican,MIKE KEOWN,131,77,3,0
+Grady,Duncanville,State Senate,11,Republican,MIKE KEOWN,25,1,0,0
+Grady,Higdon,State Senate,11,Republican,MIKE KEOWN,72,27,0,0
+Grady,Limesink,State Senate,11,Republican,MIKE KEOWN,14,10,0,0
+Grady,Midway,State Senate,11,Republican,MIKE KEOWN,101,26,5,0
+Grady,Pine Park,State Senate,11,Republican,MIKE KEOWN,43,14,0,0
+Grady,Ragan,State Senate,11,Republican,MIKE KEOWN,28,11,1,0
+Grady,Spence,State Senate,11,Republican,MIKE KEOWN,73,15,0,0
+Grady,Spring Hill,State Senate,11,Republican,MIKE KEOWN,28,4,0,0
+Grady,Whigham,State Senate,11,Republican,MIKE KEOWN,41,15,0,0
+Grady,Woodland,State Senate,11,Republican,MIKE KEOWN,155,87,4,0
+Grady,Blowing Cave,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Grady,Cairo 4th District,State Senate,11,Republican,EUGENE MCNEASE,1,1,0,0
+Grady,Cairo 5th District,State Senate,11,Republican,EUGENE MCNEASE,2,3,0,0
+Grady,Duncanville,State Senate,11,Republican,EUGENE MCNEASE,4,0,0,0
+Grady,Higdon,State Senate,11,Republican,EUGENE MCNEASE,2,0,0,0
+Grady,Limesink,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Grady,Midway,State Senate,11,Republican,EUGENE MCNEASE,3,2,0,0
+Grady,Pine Park,State Senate,11,Republican,EUGENE MCNEASE,3,0,0,0
+Grady,Ragan,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Grady,Spence,State Senate,11,Republican,EUGENE MCNEASE,1,0,0,0
+Grady,Spring Hill,State Senate,11,Republican,EUGENE MCNEASE,0,2,0,0
+Grady,Whigham,State Senate,11,Republican,EUGENE MCNEASE,1,0,0,0
+Grady,Woodland,State Senate,11,Republican,EUGENE MCNEASE,15,1,0,0
+Paulding,TAYLOR FARM PARK,State Senate,30,Republican,MIKE DUGAN,45,3,35,0
+Paulding,AUSTIN MIDDLE SCHOOL,State Senate,30,Republican,MIKE DUGAN,18,4,23,0
+Paulding,NEBO ELEMENTARY SCH,State Senate,30,Republican,MIKE DUGAN,25,0,15,0
+Paulding,CARL SCOGGINS MID SC,State Senate,30,Republican,MIKE DUGAN,48,5,12,0
+Paulding,TAYLOR FARM PARK,State Senate,30,Libertarian,JAMES M. CAMP,18,1,3,0
+Paulding,AUSTIN MIDDLE SCHOOL,State Senate,30,Libertarian,JAMES M. CAMP,7,7,8,0
+Paulding,NEBO ELEMENTARY SCH,State Senate,30,Libertarian,JAMES M. CAMP,6,0,0,0
+Paulding,CARL SCOGGINS MID SC,State Senate,30,Libertarian,JAMES M. CAMP,1,4,2,0
+Cherokee,AIR ACRES,State Senate,21,Republican,BRANDON BEACH,52,9,6,0
+Cherokee,ARNOLD MILL,State Senate,21,Republican,BRANDON BEACH,146,23,15,0
+Cherokee,AVERY,State Senate,21,Republican,BRANDON BEACH,120,33,13,0
+Cherokee,BALL GROUND,State Senate,21,Republican,BRANDON BEACH,99,18,2,0
+Cherokee,BASCOMB,State Senate,21,Republican,BRANDON BEACH,98,17,9,0
+Cherokee,BOOTH,State Senate,21,Republican,BRANDON BEACH,134,29,17,0
+Cherokee,BRADSHAW,State Senate,21,Republican,BRANDON BEACH,252,22,12,0
+Cherokee,WOODSTOCK,State Senate,21,Republican,BRANDON BEACH,74,8,9,0
+Cherokee,CONNS CREEK,State Senate,21,Republican,BRANDON BEACH,46,5,5,0
+Cherokee,DEER RUN,State Senate,21,Republican,BRANDON BEACH,71,7,5,0
+Cherokee,FREEHOME,State Senate,21,Republican,BRANDON BEACH,165,28,13,0
+Cherokee,HICKORY FLAT,State Senate,21,Republican,BRANDON BEACH,148,47,11,0
+Cherokee,HIGHTOWER,State Senate,21,Republican,BRANDON BEACH,99,20,12,0
+Cherokee,HILLSIDE,State Senate,21,Republican,BRANDON BEACH,145,19,14,0
+Cherokee,HOLLY SPRINGS,State Senate,21,Republican,BRANDON BEACH,69,30,3,0
+Cherokee,LITTLE RIVER,State Senate,21,Republican,BRANDON BEACH,10,0,2,0
+Cherokee,MACEDONIA,State Senate,21,Republican,BRANDON BEACH,137,45,3,0
+Cherokee,MOUNTAIN ROAD,State Senate,21,Republican,BRANDON BEACH,118,22,9,0
+Cherokee,NEESE,State Senate,21,Republican,BRANDON BEACH,142,10,26,0
+Cherokee,ROSECREEK,State Senate,21,Republican,BRANDON BEACH,227,20,10,0
+Cherokee,SIXES,State Senate,21,Republican,BRANDON BEACH,111,27,8,0
+Cherokee,TOONIGH,State Senate,21,Republican,BRANDON BEACH,210,20,7,0
+Cherokee,UNION HILL,State Senate,21,Republican,BRANDON BEACH,143,16,9,0
+Cherokee,UNIVETER,State Senate,21,Republican,BRANDON BEACH,117,121,2,0
+Cherokee,WILDCAT,State Senate,21,Republican,BRANDON BEACH,74,25,6,0
+Cherokee,WOODLANDS,State Senate,21,Republican,BRANDON BEACH,56,4,9,0
+Cherokee,AIR ACRES,State Senate,21,Republican,SEAN JERGUSON,86,15,6,0
+Cherokee,ARNOLD MILL,State Senate,21,Republican,SEAN JERGUSON,252,33,29,0
+Cherokee,AVERY,State Senate,21,Republican,SEAN JERGUSON,96,11,3,0
+Cherokee,BALL GROUND,State Senate,21,Republican,SEAN JERGUSON,39,4,1,0
+Cherokee,BASCOMB,State Senate,21,Republican,SEAN JERGUSON,69,7,0,1
+Cherokee,BOOTH,State Senate,21,Republican,SEAN JERGUSON,193,18,27,0
+Cherokee,BRADSHAW,State Senate,21,Republican,SEAN JERGUSON,215,25,13,0
+Cherokee,WOODSTOCK,State Senate,21,Republican,SEAN JERGUSON,43,7,16,0
+Cherokee,CONNS CREEK,State Senate,21,Republican,SEAN JERGUSON,7,0,3,0
+Cherokee,DEER RUN,State Senate,21,Republican,SEAN JERGUSON,99,2,8,0
+Cherokee,FREEHOME,State Senate,21,Republican,SEAN JERGUSON,104,7,6,0
+Cherokee,HICKORY FLAT,State Senate,21,Republican,SEAN JERGUSON,159,33,15,0
+Cherokee,HIGHTOWER,State Senate,21,Republican,SEAN JERGUSON,46,19,0,0
+Cherokee,HILLSIDE,State Senate,21,Republican,SEAN JERGUSON,186,10,13,0
+Cherokee,HOLLY SPRINGS,State Senate,21,Republican,SEAN JERGUSON,74,12,2,0
+Cherokee,LITTLE RIVER,State Senate,21,Republican,SEAN JERGUSON,10,0,0,0
+Cherokee,MACEDONIA,State Senate,21,Republican,SEAN JERGUSON,84,28,4,0
+Cherokee,MOUNTAIN ROAD,State Senate,21,Republican,SEAN JERGUSON,139,14,15,0
+Cherokee,NEESE,State Senate,21,Republican,SEAN JERGUSON,154,11,18,0
+Cherokee,ROSECREEK,State Senate,21,Republican,SEAN JERGUSON,147,7,2,0
+Cherokee,SIXES,State Senate,21,Republican,SEAN JERGUSON,134,9,15,0
+Cherokee,TOONIGH,State Senate,21,Republican,SEAN JERGUSON,264,30,26,0
+Cherokee,UNION HILL,State Senate,21,Republican,SEAN JERGUSON,106,12,7,0
+Cherokee,UNIVETER,State Senate,21,Republican,SEAN JERGUSON,79,36,5,0
+Cherokee,WILDCAT,State Senate,21,Republican,SEAN JERGUSON,156,20,9,0
+Cherokee,WOODLANDS,State Senate,21,Republican,SEAN JERGUSON,87,5,14,0
+Cherokee,AIR ACRES,State House,21,Democrat,NATALIE BERGERON,33,4,2,0
+Cherokee,ARNOLD MILL,State House,21,Democrat,NATALIE BERGERON,81,7,2,0
+Cherokee,AVERY,State House,21,Democrat,NATALIE BERGERON,9,4,1,0
+Cherokee,BRIDGEMILL,State House,21,Democrat,NATALIE BERGERON,54,15,0,0
+Cherokee,HICKORY FLAT,State House,21,Democrat,NATALIE BERGERON,54,13,2,0
+Cherokee,HOLLY SPRINGS,State House,21,Democrat,NATALIE BERGERON,27,10,1,0
+Cherokee,LIBERTY,State House,21,Democrat,NATALIE BERGERON,75,16,0,0
+Cherokee,MOUNTAIN ROAD,State House,21,Democrat,NATALIE BERGERON,63,8,7,0
+Cherokee,TEASLEY,State House,21,Democrat,NATALIE BERGERON,33,13,1,0
+Cherokee,TOONIGH,State House,21,Democrat,NATALIE BERGERON,84,9,2,0
+Cherokee,WILDCAT,State House,21,Democrat,NATALIE BERGERON,51,8,2,0
+Cherokee,AIR ACRES,State House,21,Republican,BRIAN LAURENS,24,3,2,0
+Cherokee,ARNOLD MILL,State House,21,Republican,BRIAN LAURENS,110,17,12,0
+Cherokee,AVERY,State House,21,Republican,BRIAN LAURENS,20,4,2,0
+Cherokee,BRIDGEMILL,State House,21,Republican,BRIAN LAURENS,52,10,4,0
+Cherokee,HICKORY FLAT,State House,21,Republican,BRIAN LAURENS,126,30,10,0
+Cherokee,HOLLY SPRINGS,State House,21,Republican,BRIAN LAURENS,44,9,2,0
+Cherokee,LIBERTY,State House,21,Republican,BRIAN LAURENS,63,15,2,0
+Cherokee,MOUNTAIN ROAD,State House,21,Republican,BRIAN LAURENS,92,7,6,0
+Cherokee,TEASLEY,State House,21,Republican,BRIAN LAURENS,26,7,3,0
+Cherokee,TOONIGH,State House,21,Republican,BRIAN LAURENS,149,13,13,0
+Cherokee,WILDCAT,State House,21,Republican,BRIAN LAURENS,73,16,5,0
+Cherokee,AIR ACRES,State House,21,Republican,KENNETH A. MIMBS,2,0,1,0
+Cherokee,ARNOLD MILL,State House,21,Republican,KENNETH A. MIMBS,12,0,2,0
+Cherokee,AVERY,State House,21,Republican,KENNETH A. MIMBS,1,0,0,0
+Cherokee,BRIDGEMILL,State House,21,Republican,KENNETH A. MIMBS,3,1,0,0
+Cherokee,HICKORY FLAT,State House,21,Republican,KENNETH A. MIMBS,4,3,0,0
+Cherokee,HOLLY SPRINGS,State House,21,Republican,KENNETH A. MIMBS,0,0,0,0
+Cherokee,LIBERTY,State House,21,Republican,KENNETH A. MIMBS,10,3,0,0
+Cherokee,MOUNTAIN ROAD,State House,21,Republican,KENNETH A. MIMBS,4,3,4,0
+Cherokee,TEASLEY,State House,21,Republican,KENNETH A. MIMBS,0,1,0,0
+Cherokee,TOONIGH,State House,21,Republican,KENNETH A. MIMBS,6,1,0,0
+Cherokee,WILDCAT,State House,21,Republican,KENNETH A. MIMBS,6,0,0,0
+Cherokee,AIR ACRES,State House,21,Republican,SCOT TURNER,51,8,0,0
+Cherokee,ARNOLD MILL,State House,21,Republican,SCOT TURNER,210,31,27,0
+Cherokee,AVERY,State House,21,Republican,SCOT TURNER,12,8,1,0
+Cherokee,BRIDGEMILL,State House,21,Republican,SCOT TURNER,98,15,0,0
+Cherokee,HICKORY FLAT,State House,21,Republican,SCOT TURNER,87,28,11,0
+Cherokee,HOLLY SPRINGS,State House,21,Republican,SCOT TURNER,76,25,2,0
+Cherokee,LIBERTY,State House,21,Republican,SCOT TURNER,115,37,1,0
+Cherokee,MOUNTAIN ROAD,State House,21,Republican,SCOT TURNER,114,18,5,0
+Cherokee,TEASLEY,State House,21,Republican,SCOT TURNER,64,24,0,0
+Cherokee,TOONIGH,State House,21,Republican,SCOT TURNER,253,24,15,0
+Cherokee,WILDCAT,State House,21,Republican,SCOT TURNER,109,20,7,0
+Douglas,MIRROR LAKE ELEMENTA,State Senate,30,Republican,MIKE DUGAN,61,0,0,0
+Douglas,FAIRPLAY M S,State Senate,30,Republican,MIKE DUGAN,84,6,1,0
+Douglas,EPHESUS BAPTIST CHUR,State Senate,30,Republican,MIKE DUGAN,123,18,0,0
+Douglas,BILL ARP,State Senate,30,Republican,MIKE DUGAN,70,9,0,0
+Douglas,BRIGHT STAR,State Senate,30,Republican,MIKE DUGAN,39,3,0,0
+Douglas,DORSETT SHOALS,State Senate,30,Republican,MIKE DUGAN,27,5,0,0
+Douglas,MIRROR LAKE ELEMENTA,State Senate,30,Libertarian,JAMES M. CAMP,16,1,0,0
+Douglas,FAIRPLAY M S,State Senate,30,Libertarian,JAMES M. CAMP,18,2,0,0
+Douglas,EPHESUS BAPTIST CHUR,State Senate,30,Libertarian,JAMES M. CAMP,19,4,3,0
+Douglas,BILL ARP,State Senate,30,Libertarian,JAMES M. CAMP,12,5,0,0
+Douglas,BRIGHT STAR,State Senate,30,Libertarian,JAMES M. CAMP,9,0,0,0
+Douglas,DORSETT SHOALS,State Senate,30,Libertarian,JAMES M. CAMP,8,5,0,0
+Mitchell,Branchville,State Senate,11,Republican,MARSHALL BERMAN,3,1,0,0
+Mitchell,Cotton,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Mitchell,Hopeful,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Mitchell,Hinsonton,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Mitchell,Lester,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Mitchell,Pebble City,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Mitchell,Pelham,State Senate,11,Republican,MARSHALL BERMAN,0,3,0,0
+Mitchell,Sale City,State Senate,11,Republican,MARSHALL BERMAN,3,0,0,0
+Mitchell,Branchville,State Senate,11,Libertarian,JEFFREY G. BIVINS,4,2,0,0
+Mitchell,Cotton,State Senate,11,Libertarian,JEFFREY G. BIVINS,5,0,0,0
+Mitchell,Hopeful,State Senate,11,Libertarian,JEFFREY G. BIVINS,2,0,0,0
+Mitchell,Hinsonton,State Senate,11,Libertarian,JEFFREY G. BIVINS,1,0,0,0
+Mitchell,Lester,State Senate,11,Libertarian,JEFFREY G. BIVINS,3,5,0,0
+Mitchell,Pebble City,State Senate,11,Libertarian,JEFFREY G. BIVINS,1,0,0,0
+Mitchell,Pelham,State Senate,11,Libertarian,JEFFREY G. BIVINS,8,5,0,0
+Mitchell,Sale City,State Senate,11,Libertarian,JEFFREY G. BIVINS,5,0,0,0
+Mitchell,Branchville,State Senate,11,Republican,DEAN BURKE,24,4,0,0
+Mitchell,Cotton,State Senate,11,Republican,DEAN BURKE,10,3,0,0
+Mitchell,Hopeful,State Senate,11,Republican,DEAN BURKE,28,1,0,0
+Mitchell,Hinsonton,State Senate,11,Republican,DEAN BURKE,15,0,0,0
+Mitchell,Lester,State Senate,11,Republican,DEAN BURKE,21,0,0,0
+Mitchell,Pebble City,State Senate,11,Republican,DEAN BURKE,10,5,0,0
+Mitchell,Pelham,State Senate,11,Republican,DEAN BURKE,38,4,0,0
+Mitchell,Sale City,State Senate,11,Republican,DEAN BURKE,15,0,0,0
+Mitchell,Branchville,State Senate,11,Republican,BRAD HUGHES,5,5,0,0
+Mitchell,Cotton,State Senate,11,Republican,BRAD HUGHES,5,0,0,0
+Mitchell,Hopeful,State Senate,11,Republican,BRAD HUGHES,1,0,0,0
+Mitchell,Hinsonton,State Senate,11,Republican,BRAD HUGHES,1,0,0,0
+Mitchell,Lester,State Senate,11,Republican,BRAD HUGHES,20,1,0,0
+Mitchell,Pebble City,State Senate,11,Republican,BRAD HUGHES,1,0,0,0
+Mitchell,Pelham,State Senate,11,Republican,BRAD HUGHES,16,2,0,0
+Mitchell,Sale City,State Senate,11,Republican,BRAD HUGHES,11,1,0,0
+Mitchell,Branchville,State Senate,11,Republican,MIKE KEOWN,35,7,0,0
+Mitchell,Cotton,State Senate,11,Republican,MIKE KEOWN,36,0,1,0
+Mitchell,Hopeful,State Senate,11,Republican,MIKE KEOWN,13,1,0,0
+Mitchell,Hinsonton,State Senate,11,Republican,MIKE KEOWN,23,0,0,0
+Mitchell,Lester,State Senate,11,Republican,MIKE KEOWN,21,6,0,0
+Mitchell,Pebble City,State Senate,11,Republican,MIKE KEOWN,9,0,0,0
+Mitchell,Pelham,State Senate,11,Republican,MIKE KEOWN,89,20,0,0
+Mitchell,Sale City,State Senate,11,Republican,MIKE KEOWN,16,1,0,0
+Mitchell,Branchville,State Senate,11,Republican,EUGENE MCNEASE,0,2,0,0
+Mitchell,Cotton,State Senate,11,Republican,EUGENE MCNEASE,1,0,0,0
+Mitchell,Hopeful,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Mitchell,Hinsonton,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Mitchell,Lester,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Mitchell,Pebble City,State Senate,11,Republican,EUGENE MCNEASE,1,0,0,0
+Mitchell,Pelham,State Senate,11,Republican,EUGENE MCNEASE,3,1,0,0
+Mitchell,Sale City,State Senate,11,Republican,EUGENE MCNEASE,1,0,0,0
+Fulton,AP05,State Senate,21,Republican,BRANDON BEACH,173,94,11,0
+Fulton,AP06,State Senate,21,Republican,BRANDON BEACH,53,89,2,0
+Fulton,AP07A,State Senate,21,Republican,BRANDON BEACH,53,41,1,0
+Fulton,AP07B,State Senate,21,Republican,BRANDON BEACH,30,40,0,0
+Fulton,AP09A,State Senate,21,Republican,BRANDON BEACH,80,86,0,0
+Fulton,AP10,State Senate,21,Republican,BRANDON BEACH,30,17,0,0
+Fulton,AP12A,State Senate,21,Republican,BRANDON BEACH,19,32,1,0
+Fulton,ML02A,State Senate,21,Republican,BRANDON BEACH,29,11,0,0
+Fulton,ML02B,State Senate,21,Republican,BRANDON BEACH,28,26,0,0
+Fulton,ML03,State Senate,21,Republican,BRANDON BEACH,90,53,0,1
+Fulton,ML04,State Senate,21,Republican,BRANDON BEACH,87,56,0,0
+Fulton,ML05,State Senate,21,Republican,BRANDON BEACH,92,95,3,0
+Fulton,ML06,State Senate,21,Republican,BRANDON BEACH,38,17,0,0
+Fulton,ML07A,State Senate,21,Republican,BRANDON BEACH,19,5,2,0
+Fulton,ML07B,State Senate,21,Republican,BRANDON BEACH,32,10,0,0
+Fulton,AP05,State Senate,21,Republican,SEAN JERGUSON,27,13,2,0
+Fulton,AP06,State Senate,21,Republican,SEAN JERGUSON,20,7,0,0
+Fulton,AP07A,State Senate,21,Republican,SEAN JERGUSON,21,13,0,0
+Fulton,AP07B,State Senate,21,Republican,SEAN JERGUSON,10,9,0,0
+Fulton,AP09A,State Senate,21,Republican,SEAN JERGUSON,11,8,1,0
+Fulton,AP10,State Senate,21,Republican,SEAN JERGUSON,10,4,0,0
+Fulton,AP12A,State Senate,21,Republican,SEAN JERGUSON,10,5,0,0
+Fulton,ML02A,State Senate,21,Republican,SEAN JERGUSON,17,11,0,0
+Fulton,ML02B,State Senate,21,Republican,SEAN JERGUSON,9,13,0,0
+Fulton,ML03,State Senate,21,Republican,SEAN JERGUSON,28,8,1,0
+Fulton,ML04,State Senate,21,Republican,SEAN JERGUSON,25,6,0,0
+Fulton,ML05,State Senate,21,Republican,SEAN JERGUSON,24,6,6,0
+Fulton,ML06,State Senate,21,Republican,SEAN JERGUSON,7,7,0,0
+Fulton,ML07A,State Senate,21,Republican,SEAN JERGUSON,8,3,0,0
+Fulton,ML07B,State Senate,21,Republican,SEAN JERGUSON,19,2,0,0
+Decatur,Mt Pleasant,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Decatur,Recovery,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Decatur,Kendrick,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Decatur,Climax,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Decatur,Brinson,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Decatur,West Bainbridge,State Senate,11,Republican,MARSHALL BERMAN,3,0,0,0
+Decatur,Bainbridge-Coliseum,State Senate,11,Republican,MARSHALL BERMAN,2,2,0,0
+Decatur,Bridge-Fairgrounds,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Decatur,Attapulgus,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Decatur,Mt Pleasant,State Senate,11,Libertarian,JEFFREY G. BIVINS,3,1,0,0
+Decatur,Recovery,State Senate,11,Libertarian,JEFFREY G. BIVINS,1,0,0,0
+Decatur,Kendrick,State Senate,11,Libertarian,JEFFREY G. BIVINS,2,0,0,0
+Decatur,Climax,State Senate,11,Libertarian,JEFFREY G. BIVINS,8,0,0,0
+Decatur,Brinson,State Senate,11,Libertarian,JEFFREY G. BIVINS,2,0,0,0
+Decatur,West Bainbridge,State Senate,11,Libertarian,JEFFREY G. BIVINS,22,1,0,0
+Decatur,Bainbridge-Coliseum,State Senate,11,Libertarian,JEFFREY G. BIVINS,18,1,0,0
+Decatur,Bridge-Fairgrounds,State Senate,11,Libertarian,JEFFREY G. BIVINS,31,1,0,0
+Decatur,Attapulgus,State Senate,11,Libertarian,JEFFREY G. BIVINS,3,3,0,0
+Decatur,Mt Pleasant,State Senate,11,Republican,DEAN BURKE,102,25,1,0
+Decatur,Recovery,State Senate,11,Republican,DEAN BURKE,78,15,0,0
+Decatur,Kendrick,State Senate,11,Republican,DEAN BURKE,65,9,0,0
+Decatur,Climax,State Senate,11,Republican,DEAN BURKE,117,23,0,0
+Decatur,Brinson,State Senate,11,Republican,DEAN BURKE,84,15,3,0
+Decatur,West Bainbridge,State Senate,11,Republican,DEAN BURKE,114,35,1,0
+Decatur,Bainbridge-Coliseum,State Senate,11,Republican,DEAN BURKE,662,246,19,1
+Decatur,Bridge-Fairgrounds,State Senate,11,Republican,DEAN BURKE,200,81,1,0
+Decatur,Attapulgus,State Senate,11,Republican,DEAN BURKE,91,14,4,0
+Decatur,Mt Pleasant,State Senate,11,Republican,BRAD HUGHES,3,0,0,0
+Decatur,Recovery,State Senate,11,Republican,BRAD HUGHES,1,0,0,0
+Decatur,Kendrick,State Senate,11,Republican,BRAD HUGHES,0,0,0,0
+Decatur,Climax,State Senate,11,Republican,BRAD HUGHES,1,0,0,0
+Decatur,Brinson,State Senate,11,Republican,BRAD HUGHES,0,0,0,0
+Decatur,West Bainbridge,State Senate,11,Republican,BRAD HUGHES,3,1,0,0
+Decatur,Bainbridge-Coliseum,State Senate,11,Republican,BRAD HUGHES,18,3,0,0
+Decatur,Bridge-Fairgrounds,State Senate,11,Republican,BRAD HUGHES,3,4,0,0
+Decatur,Attapulgus,State Senate,11,Republican,BRAD HUGHES,5,3,0,0
+Decatur,Mt Pleasant,State Senate,11,Republican,MIKE KEOWN,19,2,0,0
+Decatur,Recovery,State Senate,11,Republican,MIKE KEOWN,11,7,1,0
+Decatur,Kendrick,State Senate,11,Republican,MIKE KEOWN,19,3,1,0
+Decatur,Climax,State Senate,11,Republican,MIKE KEOWN,27,0,0,0
+Decatur,Brinson,State Senate,11,Republican,MIKE KEOWN,19,3,0,0
+Decatur,West Bainbridge,State Senate,11,Republican,MIKE KEOWN,17,9,0,0
+Decatur,Bainbridge-Coliseum,State Senate,11,Republican,MIKE KEOWN,88,37,0,0
+Decatur,Bridge-Fairgrounds,State Senate,11,Republican,MIKE KEOWN,29,30,0,0
+Decatur,Attapulgus,State Senate,11,Republican,MIKE KEOWN,6,4,1,0
+Decatur,Mt Pleasant,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Decatur,Recovery,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Decatur,Kendrick,State Senate,11,Republican,EUGENE MCNEASE,1,0,0,0
+Decatur,Climax,State Senate,11,Republican,EUGENE MCNEASE,2,0,0,0
+Decatur,Brinson,State Senate,11,Republican,EUGENE MCNEASE,5,0,0,0
+Decatur,West Bainbridge,State Senate,11,Republican,EUGENE MCNEASE,6,0,0,0
+Decatur,Bainbridge-Coliseum,State Senate,11,Republican,EUGENE MCNEASE,31,8,0,0
+Decatur,Bridge-Fairgrounds,State Senate,11,Republican,EUGENE MCNEASE,5,1,0,0
+Decatur,Attapulgus,State Senate,11,Republican,EUGENE MCNEASE,3,0,3,0
+Thomas,Central,State Senate,11,Republican,MARSHALL BERMAN,7,1,0,0
+Thomas,Coolidge,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Thomas,Douglass,State Senate,11,Republican,MARSHALL BERMAN,1,1,0,0
+Thomas,Ellabelle,State Senate,11,Republican,MARSHALL BERMAN,3,0,0,0
+Thomas,Fire Station 2,State Senate,11,Republican,MARSHALL BERMAN,5,4,0,0
+Thomas,Harper,State Senate,11,Republican,MARSHALL BERMAN,6,1,0,0
+Thomas,Jerger,State Senate,11,Republican,MARSHALL BERMAN,4,2,0,0
+Thomas,Meigs,State Senate,11,Republican,MARSHALL BERMAN,2,0,0,0
+Thomas,Merrillville,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Thomas,Metcalfe,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Thomas,New Covenant,State Senate,11,Republican,MARSHALL BERMAN,2,1,1,0
+Thomas,Ochlocknee,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Thomas,Patten,State Senate,11,Republican,MARSHALL BERMAN,0,1,0,0
+Thomas,Remington ESC,State Senate,11,Republican,MARSHALL BERMAN,3,2,0,0
+Thomas,Resource Center,State Senate,11,Republican,MARSHALL BERMAN,5,1,0,0
+Thomas,Scott,State Senate,11,Republican,MARSHALL BERMAN,6,4,0,0
+Thomas,Central,State Senate,11,Libertarian,JEFFREY G. BIVINS,15,2,0,0
+Thomas,Coolidge,State Senate,11,Libertarian,JEFFREY G. BIVINS,4,0,0,0
+Thomas,Douglass,State Senate,11,Libertarian,JEFFREY G. BIVINS,20,1,0,0
+Thomas,Ellabelle,State Senate,11,Libertarian,JEFFREY G. BIVINS,2,2,0,0
+Thomas,Fire Station 2,State Senate,11,Libertarian,JEFFREY G. BIVINS,4,0,0,0
+Thomas,Harper,State Senate,11,Libertarian,JEFFREY G. BIVINS,12,2,0,1
+Thomas,Jerger,State Senate,11,Libertarian,JEFFREY G. BIVINS,9,3,0,0
+Thomas,Meigs,State Senate,11,Libertarian,JEFFREY G. BIVINS,8,2,0,0
+Thomas,Merrillville,State Senate,11,Libertarian,JEFFREY G. BIVINS,10,0,0,0
+Thomas,Metcalfe,State Senate,11,Libertarian,JEFFREY G. BIVINS,2,0,0,0
+Thomas,New Covenant,State Senate,11,Libertarian,JEFFREY G. BIVINS,7,0,0,0
+Thomas,Ochlocknee,State Senate,11,Libertarian,JEFFREY G. BIVINS,4,0,0,0
+Thomas,Patten,State Senate,11,Libertarian,JEFFREY G. BIVINS,0,0,0,0
+Thomas,Remington ESC,State Senate,11,Libertarian,JEFFREY G. BIVINS,8,3,0,0
+Thomas,Resource Center,State Senate,11,Libertarian,JEFFREY G. BIVINS,20,3,2,0
+Thomas,Scott,State Senate,11,Libertarian,JEFFREY G. BIVINS,12,2,0,0
+Thomas,Central,State Senate,11,Republican,DEAN BURKE,40,11,0,0
+Thomas,Coolidge,State Senate,11,Republican,DEAN BURKE,20,1,0,0
+Thomas,Douglass,State Senate,11,Republican,DEAN BURKE,4,0,0,0
+Thomas,Ellabelle,State Senate,11,Republican,DEAN BURKE,30,7,0,0
+Thomas,Fire Station 2,State Senate,11,Republican,DEAN BURKE,56,1,0,0
+Thomas,Harper,State Senate,11,Republican,DEAN BURKE,12,5,0,0
+Thomas,Jerger,State Senate,11,Republican,DEAN BURKE,74,10,0,0
+Thomas,Meigs,State Senate,11,Republican,DEAN BURKE,25,2,0,0
+Thomas,Merrillville,State Senate,11,Republican,DEAN BURKE,13,3,0,0
+Thomas,Metcalfe,State Senate,11,Republican,DEAN BURKE,6,1,0,0
+Thomas,New Covenant,State Senate,11,Republican,DEAN BURKE,52,8,0,0
+Thomas,Ochlocknee,State Senate,11,Republican,DEAN BURKE,32,5,0,0
+Thomas,Patten,State Senate,11,Republican,DEAN BURKE,6,0,0,0
+Thomas,Remington ESC,State Senate,11,Republican,DEAN BURKE,30,9,0,0
+Thomas,Resource Center,State Senate,11,Republican,DEAN BURKE,6,2,0,0
+Thomas,Scott,State Senate,11,Republican,DEAN BURKE,45,10,0,0
+Thomas,Central,State Senate,11,Republican,BRAD HUGHES,8,2,0,0
+Thomas,Coolidge,State Senate,11,Republican,BRAD HUGHES,6,1,0,0
+Thomas,Douglass,State Senate,11,Republican,BRAD HUGHES,2,0,0,0
+Thomas,Ellabelle,State Senate,11,Republican,BRAD HUGHES,5,0,0,0
+Thomas,Fire Station 2,State Senate,11,Republican,BRAD HUGHES,1,0,0,0
+Thomas,Harper,State Senate,11,Republican,BRAD HUGHES,3,0,0,0
+Thomas,Jerger,State Senate,11,Republican,BRAD HUGHES,3,3,0,0
+Thomas,Meigs,State Senate,11,Republican,BRAD HUGHES,1,0,0,0
+Thomas,Merrillville,State Senate,11,Republican,BRAD HUGHES,3,0,0,0
+Thomas,Metcalfe,State Senate,11,Republican,BRAD HUGHES,1,0,0,0
+Thomas,New Covenant,State Senate,11,Republican,BRAD HUGHES,6,2,0,0
+Thomas,Ochlocknee,State Senate,11,Republican,BRAD HUGHES,12,0,0,0
+Thomas,Patten,State Senate,11,Republican,BRAD HUGHES,0,0,0,0
+Thomas,Remington ESC,State Senate,11,Republican,BRAD HUGHES,2,4,0,0
+Thomas,Resource Center,State Senate,11,Republican,BRAD HUGHES,1,0,0,0
+Thomas,Scott,State Senate,11,Republican,BRAD HUGHES,10,3,0,0
+Thomas,Central,State Senate,11,Republican,MIKE KEOWN,148,67,0,0
+Thomas,Coolidge,State Senate,11,Republican,MIKE KEOWN,118,30,0,0
+Thomas,Douglass,State Senate,11,Republican,MIKE KEOWN,22,10,0,0
+Thomas,Ellabelle,State Senate,11,Republican,MIKE KEOWN,95,22,0,0
+Thomas,Fire Station 2,State Senate,11,Republican,MIKE KEOWN,109,39,0,0
+Thomas,Harper,State Senate,11,Republican,MIKE KEOWN,36,13,0,0
+Thomas,Jerger,State Senate,11,Republican,MIKE KEOWN,96,38,0,0
+Thomas,Meigs,State Senate,11,Republican,MIKE KEOWN,45,7,0,0
+Thomas,Merrillville,State Senate,11,Republican,MIKE KEOWN,58,7,0,0
+Thomas,Metcalfe,State Senate,11,Republican,MIKE KEOWN,14,3,0,0
+Thomas,New Covenant,State Senate,11,Republican,MIKE KEOWN,177,48,1,0
+Thomas,Ochlocknee,State Senate,11,Republican,MIKE KEOWN,83,16,0,0
+Thomas,Patten,State Senate,11,Republican,MIKE KEOWN,28,3,0,0
+Thomas,Remington ESC,State Senate,11,Republican,MIKE KEOWN,117,56,1,0
+Thomas,Resource Center,State Senate,11,Republican,MIKE KEOWN,6,4,0,0
+Thomas,Scott,State Senate,11,Republican,MIKE KEOWN,157,84,0,0
+Thomas,Central,State Senate,11,Republican,EUGENE MCNEASE,15,2,2,0
+Thomas,Coolidge,State Senate,11,Republican,EUGENE MCNEASE,2,1,0,0
+Thomas,Douglass,State Senate,11,Republican,EUGENE MCNEASE,7,3,0,0
+Thomas,Ellabelle,State Senate,11,Republican,EUGENE MCNEASE,2,1,0,0
+Thomas,Fire Station 2,State Senate,11,Republican,EUGENE MCNEASE,27,4,0,0
+Thomas,Harper,State Senate,11,Republican,EUGENE MCNEASE,20,7,0,0
+Thomas,Jerger,State Senate,11,Republican,EUGENE MCNEASE,53,13,0,0
+Thomas,Meigs,State Senate,11,Republican,EUGENE MCNEASE,5,0,0,0
+Thomas,Merrillville,State Senate,11,Republican,EUGENE MCNEASE,4,3,0,0
+Thomas,Metcalfe,State Senate,11,Republican,EUGENE MCNEASE,2,0,0,0
+Thomas,New Covenant,State Senate,11,Republican,EUGENE MCNEASE,12,3,0,0
+Thomas,Ochlocknee,State Senate,11,Republican,EUGENE MCNEASE,15,0,0,0
+Thomas,Patten,State Senate,11,Republican,EUGENE MCNEASE,2,0,0,0
+Thomas,Remington ESC,State Senate,11,Republican,EUGENE MCNEASE,22,7,1,0
+Thomas,Resource Center,State Senate,11,Republican,EUGENE MCNEASE,8,3,0,0
+Thomas,Scott,State Senate,11,Republican,EUGENE MCNEASE,31,19,0,0
+Miller,Colquitt-Miller,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Miller,Colquitt-Miller,State Senate,11,Libertarian,JEFFREY G. BIVINS,19,7,0,0
+Miller,Colquitt-Miller,State Senate,11,Republican,DEAN BURKE,216,45,3,0
+Miller,Colquitt-Miller,State Senate,11,Republican,BRAD HUGHES,35,11,0,0
+Miller,Colquitt-Miller,State Senate,11,Republican,MIKE KEOWN,82,36,2,0
+Miller,Colquitt-Miller,State Senate,11,Republican,EUGENE MCNEASE,78,30,0,2
+Seminole,Precinct 1,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Seminole,Precinct 2,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Seminole,Precinct 3,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Seminole,Precinct 4,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Seminole,Precinct 5,State Senate,11,Republican,MARSHALL BERMAN,3,0,0,0
+Seminole,Precinct 1,State Senate,11,Libertarian,JEFFREY G. BIVINS,14,6,0,0
+Seminole,Precinct 2,State Senate,11,Libertarian,JEFFREY G. BIVINS,10,1,1,0
+Seminole,Precinct 3,State Senate,11,Libertarian,JEFFREY G. BIVINS,11,3,0,0
+Seminole,Precinct 4,State Senate,11,Libertarian,JEFFREY G. BIVINS,18,1,0,0
+Seminole,Precinct 5,State Senate,11,Libertarian,JEFFREY G. BIVINS,8,2,0,0
+Seminole,Precinct 1,State Senate,11,Republican,DEAN BURKE,165,52,4,2
+Seminole,Precinct 2,State Senate,11,Republican,DEAN BURKE,132,35,2,0
+Seminole,Precinct 3,State Senate,11,Republican,DEAN BURKE,17,8,0,0
+Seminole,Precinct 4,State Senate,11,Republican,DEAN BURKE,121,15,0,0
+Seminole,Precinct 5,State Senate,11,Republican,DEAN BURKE,130,10,0,0
+Seminole,Precinct 1,State Senate,11,Republican,BRAD HUGHES,16,0,0,0
+Seminole,Precinct 2,State Senate,11,Republican,BRAD HUGHES,15,2,0,0
+Seminole,Precinct 3,State Senate,11,Republican,BRAD HUGHES,0,0,0,0
+Seminole,Precinct 4,State Senate,11,Republican,BRAD HUGHES,11,0,0,0
+Seminole,Precinct 5,State Senate,11,Republican,BRAD HUGHES,21,3,0,0
+Seminole,Precinct 1,State Senate,11,Republican,MIKE KEOWN,29,10,0,1
+Seminole,Precinct 2,State Senate,11,Republican,MIKE KEOWN,30,7,0,0
+Seminole,Precinct 3,State Senate,11,Republican,MIKE KEOWN,1,2,2,0
+Seminole,Precinct 4,State Senate,11,Republican,MIKE KEOWN,29,8,0,0
+Seminole,Precinct 5,State Senate,11,Republican,MIKE KEOWN,85,5,1,0
+Seminole,Precinct 1,State Senate,11,Republican,EUGENE MCNEASE,6,0,0,0
+Seminole,Precinct 2,State Senate,11,Republican,EUGENE MCNEASE,10,0,0,0
+Seminole,Precinct 3,State Senate,11,Republican,EUGENE MCNEASE,3,0,0,0
+Seminole,Precinct 4,State Senate,11,Republican,EUGENE MCNEASE,10,1,0,0
+Seminole,Precinct 5,State Senate,11,Republican,EUGENE MCNEASE,6,0,0,0
+Colquitt,Shaw,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Colquitt,Moultrie,State Senate,11,Republican,MARSHALL BERMAN,3,2,0,0
+Colquitt,Autreyville,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Colquitt,Bridgecreek,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Colquitt,Crosland,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Colquitt,Doerun,State Senate,11,Republican,MARSHALL BERMAN,2,0,0,0
+Colquitt,Funston,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Colquitt,Hamilton,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Colquitt,Hartsfield,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Colquitt,Hopewell,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Colquitt,Lee,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Colquitt,Millcreek,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Colquitt,Monk,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Colquitt,Murphy,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Colquitt,Norman Park,State Senate,11,Republican,MARSHALL BERMAN,2,0,0,0
+Colquitt,Robinson,State Senate,11,Republican,MARSHALL BERMAN,2,0,0,0
+Colquitt,Thigpen,State Senate,11,Republican,MARSHALL BERMAN,2,0,0,0
+Colquitt,Tyty,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Colquitt,Warrior,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Colquitt,Shaw,State Senate,11,Libertarian,JEFFREY G. BIVINS,7,3,0,0
+Colquitt,Moultrie,State Senate,11,Libertarian,JEFFREY G. BIVINS,11,3,0,0
+Colquitt,Autreyville,State Senate,11,Libertarian,JEFFREY G. BIVINS,1,0,0,0
+Colquitt,Bridgecreek,State Senate,11,Libertarian,JEFFREY G. BIVINS,3,0,0,0
+Colquitt,Crosland,State Senate,11,Libertarian,JEFFREY G. BIVINS,1,0,0,0
+Colquitt,Doerun,State Senate,11,Libertarian,JEFFREY G. BIVINS,9,0,0,0
+Colquitt,Funston,State Senate,11,Libertarian,JEFFREY G. BIVINS,2,0,0,0
+Colquitt,Hamilton,State Senate,11,Libertarian,JEFFREY G. BIVINS,5,0,0,0
+Colquitt,Hartsfield,State Senate,11,Libertarian,JEFFREY G. BIVINS,1,0,0,0
+Colquitt,Hopewell,State Senate,11,Libertarian,JEFFREY G. BIVINS,5,2,0,0
+Colquitt,Lee,State Senate,11,Libertarian,JEFFREY G. BIVINS,2,1,0,0
+Colquitt,Millcreek,State Senate,11,Libertarian,JEFFREY G. BIVINS,4,0,0,0
+Colquitt,Monk,State Senate,11,Libertarian,JEFFREY G. BIVINS,6,0,0,0
+Colquitt,Murphy,State Senate,11,Libertarian,JEFFREY G. BIVINS,1,1,0,0
+Colquitt,Norman Park,State Senate,11,Libertarian,JEFFREY G. BIVINS,5,0,0,0
+Colquitt,Robinson,State Senate,11,Libertarian,JEFFREY G. BIVINS,1,0,0,0
+Colquitt,Thigpen,State Senate,11,Libertarian,JEFFREY G. BIVINS,0,0,0,0
+Colquitt,Tyty,State Senate,11,Libertarian,JEFFREY G. BIVINS,2,0,0,0
+Colquitt,Warrior,State Senate,11,Libertarian,JEFFREY G. BIVINS,1,0,0,0
+Colquitt,Shaw,State Senate,11,Republican,DEAN BURKE,15,11,0,0
+Colquitt,Moultrie,State Senate,11,Republican,DEAN BURKE,203,36,0,0
+Colquitt,Autreyville,State Senate,11,Republican,DEAN BURKE,36,7,0,0
+Colquitt,Bridgecreek,State Senate,11,Republican,DEAN BURKE,47,7,0,0
+Colquitt,Crosland,State Senate,11,Republican,DEAN BURKE,5,0,0,0
+Colquitt,Doerun,State Senate,11,Republican,DEAN BURKE,28,2,1,0
+Colquitt,Funston,State Senate,11,Republican,DEAN BURKE,59,1,0,0
+Colquitt,Hamilton,State Senate,11,Republican,DEAN BURKE,18,0,0,0
+Colquitt,Hartsfield,State Senate,11,Republican,DEAN BURKE,25,0,0,0
+Colquitt,Hopewell,State Senate,11,Republican,DEAN BURKE,56,12,0,0
+Colquitt,Lee,State Senate,11,Republican,DEAN BURKE,32,1,0,0
+Colquitt,Millcreek,State Senate,11,Republican,DEAN BURKE,18,2,0,0
+Colquitt,Monk,State Senate,11,Republican,DEAN BURKE,33,4,0,0
+Colquitt,Murphy,State Senate,11,Republican,DEAN BURKE,54,7,0,0
+Colquitt,Norman Park,State Senate,11,Republican,DEAN BURKE,60,6,0,0
+Colquitt,Robinson,State Senate,11,Republican,DEAN BURKE,34,4,0,0
+Colquitt,Thigpen,State Senate,11,Republican,DEAN BURKE,26,1,0,0
+Colquitt,Tyty,State Senate,11,Republican,DEAN BURKE,17,0,0,0
+Colquitt,Warrior,State Senate,11,Republican,DEAN BURKE,31,0,0,0
+Colquitt,Shaw,State Senate,11,Republican,BRAD HUGHES,2,1,0,0
+Colquitt,Moultrie,State Senate,11,Republican,BRAD HUGHES,26,5,0,0
+Colquitt,Autreyville,State Senate,11,Republican,BRAD HUGHES,8,4,0,0
+Colquitt,Bridgecreek,State Senate,11,Republican,BRAD HUGHES,15,1,0,0
+Colquitt,Crosland,State Senate,11,Republican,BRAD HUGHES,2,0,0,0
+Colquitt,Doerun,State Senate,11,Republican,BRAD HUGHES,7,1,0,0
+Colquitt,Funston,State Senate,11,Republican,BRAD HUGHES,15,0,0,0
+Colquitt,Hamilton,State Senate,11,Republican,BRAD HUGHES,4,0,0,0
+Colquitt,Hartsfield,State Senate,11,Republican,BRAD HUGHES,3,0,0,0
+Colquitt,Hopewell,State Senate,11,Republican,BRAD HUGHES,10,3,0,0
+Colquitt,Lee,State Senate,11,Republican,BRAD HUGHES,16,0,0,0
+Colquitt,Millcreek,State Senate,11,Republican,BRAD HUGHES,5,0,0,0
+Colquitt,Monk,State Senate,11,Republican,BRAD HUGHES,6,2,0,0
+Colquitt,Murphy,State Senate,11,Republican,BRAD HUGHES,10,3,0,0
+Colquitt,Norman Park,State Senate,11,Republican,BRAD HUGHES,12,2,0,0
+Colquitt,Robinson,State Senate,11,Republican,BRAD HUGHES,1,2,0,0
+Colquitt,Thigpen,State Senate,11,Republican,BRAD HUGHES,3,0,0,0
+Colquitt,Tyty,State Senate,11,Republican,BRAD HUGHES,3,0,0,0
+Colquitt,Warrior,State Senate,11,Republican,BRAD HUGHES,2,0,0,0
+Colquitt,Shaw,State Senate,11,Republican,MIKE KEOWN,13,10,0,0
+Colquitt,Moultrie,State Senate,11,Republican,MIKE KEOWN,52,25,0,0
+Colquitt,Autreyville,State Senate,11,Republican,MIKE KEOWN,23,2,0,0
+Colquitt,Bridgecreek,State Senate,11,Republican,MIKE KEOWN,29,4,0,0
+Colquitt,Crosland,State Senate,11,Republican,MIKE KEOWN,10,1,0,0
+Colquitt,Doerun,State Senate,11,Republican,MIKE KEOWN,10,0,0,0
+Colquitt,Funston,State Senate,11,Republican,MIKE KEOWN,36,1,0,0
+Colquitt,Hamilton,State Senate,11,Republican,MIKE KEOWN,35,5,0,0
+Colquitt,Hartsfield,State Senate,11,Republican,MIKE KEOWN,21,11,0,0
+Colquitt,Hopewell,State Senate,11,Republican,MIKE KEOWN,29,8,0,0
+Colquitt,Lee,State Senate,11,Republican,MIKE KEOWN,24,5,0,0
+Colquitt,Millcreek,State Senate,11,Republican,MIKE KEOWN,10,0,0,0
+Colquitt,Monk,State Senate,11,Republican,MIKE KEOWN,19,8,1,0
+Colquitt,Murphy,State Senate,11,Republican,MIKE KEOWN,26,9,0,0
+Colquitt,Norman Park,State Senate,11,Republican,MIKE KEOWN,23,7,0,0
+Colquitt,Robinson,State Senate,11,Republican,MIKE KEOWN,14,0,0,0
+Colquitt,Thigpen,State Senate,11,Republican,MIKE KEOWN,5,0,0,0
+Colquitt,Tyty,State Senate,11,Republican,MIKE KEOWN,5,0,0,0
+Colquitt,Warrior,State Senate,11,Republican,MIKE KEOWN,16,2,0,0
+Colquitt,Shaw,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Colquitt,Moultrie,State Senate,11,Republican,EUGENE MCNEASE,3,0,0,0
+Colquitt,Autreyville,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Colquitt,Bridgecreek,State Senate,11,Republican,EUGENE MCNEASE,2,0,0,0
+Colquitt,Crosland,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Colquitt,Doerun,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Colquitt,Funston,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Colquitt,Hamilton,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Colquitt,Hartsfield,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Colquitt,Hopewell,State Senate,11,Republican,EUGENE MCNEASE,1,0,0,0
+Colquitt,Lee,State Senate,11,Republican,EUGENE MCNEASE,2,0,0,0
+Colquitt,Millcreek,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Colquitt,Monk,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Colquitt,Murphy,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Colquitt,Norman Park,State Senate,11,Republican,EUGENE MCNEASE,4,0,0,0
+Colquitt,Robinson,State Senate,11,Republican,EUGENE MCNEASE,1,0,0,0
+Colquitt,Thigpen,State Senate,11,Republican,EUGENE MCNEASE,1,0,0,0
+Colquitt,Tyty,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Colquitt,Warrior,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Early,Arlington,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Early,Blakely,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Early,Colomokee,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Early,Cedar Springs,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Early,Cuba,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Early,Damascus,State Senate,11,Republican,MARSHALL BERMAN,2,0,0,0
+Early,Freeman,State Senate,11,Republican,MARSHALL BERMAN,1,0,0,0
+Early,Hilton,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Early,Jakin,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Early,Lucile,State Senate,11,Republican,MARSHALL BERMAN,0,0,0,0
+Early,Urquhart,State Senate,11,Republican,MARSHALL BERMAN,1,1,0,0
+Early,Arlington,State Senate,11,Libertarian,JEFFREY G. BIVINS,1,0,0,0
+Early,Blakely,State Senate,11,Libertarian,JEFFREY G. BIVINS,16,8,0,0
+Early,Colomokee,State Senate,11,Libertarian,JEFFREY G. BIVINS,4,0,0,0
+Early,Cedar Springs,State Senate,11,Libertarian,JEFFREY G. BIVINS,9,0,0,0
+Early,Cuba,State Senate,11,Libertarian,JEFFREY G. BIVINS,1,3,0,0
+Early,Damascus,State Senate,11,Libertarian,JEFFREY G. BIVINS,17,1,0,0
+Early,Freeman,State Senate,11,Libertarian,JEFFREY G. BIVINS,2,0,0,0
+Early,Hilton,State Senate,11,Libertarian,JEFFREY G. BIVINS,1,0,0,0
+Early,Jakin,State Senate,11,Libertarian,JEFFREY G. BIVINS,21,0,0,0
+Early,Lucile,State Senate,11,Libertarian,JEFFREY G. BIVINS,10,1,0,0
+Early,Urquhart,State Senate,11,Libertarian,JEFFREY G. BIVINS,4,1,0,0
+Early,Arlington,State Senate,11,Republican,DEAN BURKE,19,1,0,0
+Early,Blakely,State Senate,11,Republican,DEAN BURKE,41,27,0,0
+Early,Colomokee,State Senate,11,Republican,DEAN BURKE,13,0,0,0
+Early,Cedar Springs,State Senate,11,Republican,DEAN BURKE,10,0,0,0
+Early,Cuba,State Senate,11,Republican,DEAN BURKE,9,11,0,0
+Early,Damascus,State Senate,11,Republican,DEAN BURKE,26,2,0,0
+Early,Freeman,State Senate,11,Republican,DEAN BURKE,13,4,0,0
+Early,Hilton,State Senate,11,Republican,DEAN BURKE,8,1,0,0
+Early,Jakin,State Senate,11,Republican,DEAN BURKE,34,0,0,0
+Early,Lucile,State Senate,11,Republican,DEAN BURKE,11,5,0,0
+Early,Urquhart,State Senate,11,Republican,DEAN BURKE,9,1,0,0
+Early,Arlington,State Senate,11,Republican,BRAD HUGHES,20,0,0,0
+Early,Blakely,State Senate,11,Republican,BRAD HUGHES,115,73,3,0
+Early,Colomokee,State Senate,11,Republican,BRAD HUGHES,9,6,0,0
+Early,Cedar Springs,State Senate,11,Republican,BRAD HUGHES,19,0,0,0
+Early,Cuba,State Senate,11,Republican,BRAD HUGHES,33,14,0,0
+Early,Damascus,State Senate,11,Republican,BRAD HUGHES,16,0,0,0
+Early,Freeman,State Senate,11,Republican,BRAD HUGHES,29,9,0,0
+Early,Hilton,State Senate,11,Republican,BRAD HUGHES,35,7,0,0
+Early,Jakin,State Senate,11,Republican,BRAD HUGHES,18,0,0,0
+Early,Lucile,State Senate,11,Republican,BRAD HUGHES,28,3,0,0
+Early,Urquhart,State Senate,11,Republican,BRAD HUGHES,11,2,0,0
+Early,Arlington,State Senate,11,Republican,MIKE KEOWN,5,1,0,0
+Early,Blakely,State Senate,11,Republican,MIKE KEOWN,69,40,1,0
+Early,Colomokee,State Senate,11,Republican,MIKE KEOWN,17,4,1,0
+Early,Cedar Springs,State Senate,11,Republican,MIKE KEOWN,25,1,0,0
+Early,Cuba,State Senate,11,Republican,MIKE KEOWN,26,7,0,0
+Early,Damascus,State Senate,11,Republican,MIKE KEOWN,21,6,0,0
+Early,Freeman,State Senate,11,Republican,MIKE KEOWN,25,0,0,0
+Early,Hilton,State Senate,11,Republican,MIKE KEOWN,12,0,0,0
+Early,Jakin,State Senate,11,Republican,MIKE KEOWN,13,2,0,0
+Early,Lucile,State Senate,11,Republican,MIKE KEOWN,14,4,0,0
+Early,Urquhart,State Senate,11,Republican,MIKE KEOWN,23,2,0,0
+Early,Arlington,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Early,Blakely,State Senate,11,Republican,EUGENE MCNEASE,4,1,0,0
+Early,Colomokee,State Senate,11,Republican,EUGENE MCNEASE,1,0,0,0
+Early,Cedar Springs,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Early,Cuba,State Senate,11,Republican,EUGENE MCNEASE,1,0,0,0
+Early,Damascus,State Senate,11,Republican,EUGENE MCNEASE,2,0,0,0
+Early,Freeman,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Early,Hilton,State Senate,11,Republican,EUGENE MCNEASE,1,0,0,0
+Early,Jakin,State Senate,11,Republican,EUGENE MCNEASE,3,0,0,0
+Early,Lucile,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Early,Urquhart,State Senate,11,Republican,EUGENE MCNEASE,0,0,0,0
+Carroll,KANSAS (1006),State Senate,30,Republican,MIKE DUGAN,52,4,1,0
+Carroll,BOWDON (1111),State Senate,30,Republican,MIKE DUGAN,151,16,0,0
+Carroll,SANDHILL (1122),State Senate,30,Republican,MIKE DUGAN,108,28,3,0
+Carroll,CENTER POINT (1152),State Senate,30,Republican,MIKE DUGAN,101,9,0,0
+Carroll,MT ZION (1240),State Senate,30,Republican,MIKE DUGAN,61,8,0,0
+Carroll,BURWELL (1371),State Senate,30,Republican,MIKE DUGAN,81,9,0,0
+Carroll,CLEM (1483),State Senate,30,Republican,MIKE DUGAN,148,44,1,0
+Carroll,BOWDON JUNCTION (1496),State Senate,30,Republican,MIKE DUGAN,60,6,0,0
+Carroll,TYUS (1533),State Senate,30,Republican,MIKE DUGAN,78,13,0,0
+Carroll,BETHANY (501),State Senate,30,Republican,MIKE DUGAN,76,21,0,0
+Carroll,V R COUNTY SOUTH (640),State Senate,30,Republican,MIKE DUGAN,63,2,1,0
+Carroll,V R COUNTY NORTH (641),State Senate,30,Republican,MIKE DUGAN,61,2,0,0
+Carroll,VILLA RICA CITY (642),State Senate,30,Republican,MIKE DUGAN,41,2,2,0
+Carroll,TEMPLE COUNTY (649),State Senate,30,Republican,MIKE DUGAN,53,1,0,0
+Carroll,TEMPLE CITY (650),State Senate,30,Republican,MIKE DUGAN,46,2,0,0
+Carroll,ROOPVILLE (713),State Senate,30,Republican,MIKE DUGAN,98,4,0,0
+Carroll,WEST CARROLLTON (714A1),State Senate,30,Republican,MIKE DUGAN,10,12,0,0
+Carroll,EAST CARROLLTON REC (714A2),State Senate,30,Republican,MIKE DUGAN,58,19,1,0
+Carroll,BONNER (714A3),State Senate,30,Republican,MIKE DUGAN,166,62,0,0
+Carroll,UNIVERSITY OF W. GA (714A4),State Senate,30,Republican,MIKE DUGAN,150,58,0,0
+Carroll,COUNTY ADMIN BLDG (714A5),State Senate,30,Republican,MIKE DUGAN,86,36,0,0
+Carroll,TABERNACLE CHURCH (714A6),State Senate,30,Republican,MIKE DUGAN,89,40,2,0
+Carroll,EMC (714BN),State Senate,30,Republican,MIKE DUGAN,70,16,0,0
+Carroll,OLD CAMP CHURCH (714BW),State Senate,30,Republican,MIKE DUGAN,114,25,4,0
+Carroll,OAK GROVE (715),State Senate,30,Republican,MIKE DUGAN,99,6,0,0
+Carroll,NEW HOPE (716),State Senate,30,Republican,MIKE DUGAN,33,7,0,0
+Carroll,KANSAS (1006),State Senate,30,Libertarian,JAMES M. CAMP,4,0,1,0
+Carroll,BOWDON (1111),State Senate,30,Libertarian,JAMES M. CAMP,9,2,0,0
+Carroll,SANDHILL (1122),State Senate,30,Libertarian,JAMES M. CAMP,13,1,0,0
+Carroll,CENTER POINT (1152),State Senate,30,Libertarian,JAMES M. CAMP,15,6,0,0
+Carroll,MT ZION (1240),State Senate,30,Libertarian,JAMES M. CAMP,10,1,0,0
+Carroll,BURWELL (1371),State Senate,30,Libertarian,JAMES M. CAMP,5,0,0,0
+Carroll,CLEM (1483),State Senate,30,Libertarian,JAMES M. CAMP,22,4,0,0
+Carroll,BOWDON JUNCTION (1496),State Senate,30,Libertarian,JAMES M. CAMP,2,1,0,0
+Carroll,TYUS (1533),State Senate,30,Libertarian,JAMES M. CAMP,13,0,0,0
+Carroll,BETHANY (501),State Senate,30,Libertarian,JAMES M. CAMP,12,5,0,0
+Carroll,V R COUNTY SOUTH (640),State Senate,30,Libertarian,JAMES M. CAMP,12,0,0,0
+Carroll,V R COUNTY NORTH (641),State Senate,30,Libertarian,JAMES M. CAMP,5,0,0,0
+Carroll,VILLA RICA CITY (642),State Senate,30,Libertarian,JAMES M. CAMP,6,0,1,0
+Carroll,TEMPLE COUNTY (649),State Senate,30,Libertarian,JAMES M. CAMP,24,3,0,0
+Carroll,TEMPLE CITY (650),State Senate,30,Libertarian,JAMES M. CAMP,9,0,0,0
+Carroll,ROOPVILLE (713),State Senate,30,Libertarian,JAMES M. CAMP,7,0,0,0
+Carroll,WEST CARROLLTON (714A1),State Senate,30,Libertarian,JAMES M. CAMP,3,3,0,0
+Carroll,EAST CARROLLTON REC (714A2),State Senate,30,Libertarian,JAMES M. CAMP,7,6,0,0
+Carroll,BONNER (714A3),State Senate,30,Libertarian,JAMES M. CAMP,8,2,0,0
+Carroll,UNIVERSITY OF W. GA (714A4),State Senate,30,Libertarian,JAMES M. CAMP,10,2,0,0
+Carroll,COUNTY ADMIN BLDG (714A5),State Senate,30,Libertarian,JAMES M. CAMP,9,5,0,0
+Carroll,TABERNACLE CHURCH (714A6),State Senate,30,Libertarian,JAMES M. CAMP,11,0,0,0
+Carroll,EMC (714BN),State Senate,30,Libertarian,JAMES M. CAMP,5,1,0,0
+Carroll,OLD CAMP CHURCH (714BW),State Senate,30,Libertarian,JAMES M. CAMP,17,3,0,0
+Carroll,OAK GROVE (715),State Senate,30,Libertarian,JAMES M. CAMP,13,5,0,0
+Carroll,NEW HOPE (716),State Senate,30,Libertarian,JAMES M. CAMP,4,1,0,0

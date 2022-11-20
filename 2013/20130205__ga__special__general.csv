@@ -1,19 +1,187 @@
-county,office,district,party,candidate,votes,election_day,absentee,early_voting,provisional
-,State Representative,71,D,CYNTHIA C BENNETT,457,380,22,55,0
-Coweta,State Representative,71,D,CYNTHIA C BENNETT,440,363,22,55,0
-Fayette,State Representative,71,D,CYNTHIA C BENNETT,17,17,0,0,0
-,State Representative,71,R,THOMAS G. CRYMES,545,447,33,65,0
-Coweta,State Representative,71,R,THOMAS G. CRYMES,528,430,33,65,0
-Fayette,State Representative,71,R,THOMAS G. CRYMES,17,17,0,0,0
-,State Representative,71,R,MICHAEL FARBO JR,70,57,2,11,0
-Coweta,State Representative,71,R,MICHAEL FARBO JR,69,57,2,10,0
-Fayette,State Representative,71,R,MICHAEL FARBO JR,1,0,0,1,0
-,State Representative,71,R,DARRYL MARMON,459,373,27,59,0
-Coweta,State Representative,71,R,DARRYL MARMON,451,366,27,58,0
-Fayette,State Representative,71,R,DARRYL MARMON,8,7,0,1,0
-,State Representative,71,R,DAVID J. STOVER,1166,1044,43,79,0
-Coweta,State Representative,71,R,DAVID J. STOVER,1149,1032,43,74,0
-Fayette,State Representative,71,R,DAVID J. STOVER,17,12,0,5,0
-,State Representative,71,R,RICHARD WEISSER,35,29,2,4,0
-Coweta,State Representative,71,R,RICHARD WEISSER,33,27,2,4,0
-Fayette,State Representative,71,R,RICHARD WEISSER,2,2,0,0,0
+county,precinct,office,district,party,candidate,election_day_votes,advanced_votes,absentee_by_mail_votes,provisional_votes
+Miller,Colquitt-Miller,State Senate,11,Republican,DEAN BURKE,258,117,4,0
+Miller,Colquitt-Miller,State Senate,11,Republican,MIKE KEOWN,89,42,3,0
+Mitchell,Branchville,State Senate,11,Republican,DEAN BURKE,49,10,0,0
+Mitchell,Cotton,State Senate,11,Republican,DEAN BURKE,35,4,0,0
+Mitchell,Hopeful,State Senate,11,Republican,DEAN BURKE,28,6,0,0
+Mitchell,Hinsonton,State Senate,11,Republican,DEAN BURKE,19,2,0,0
+Mitchell,Lester,State Senate,11,Republican,DEAN BURKE,29,6,1,0
+Mitchell,Pebble City,State Senate,11,Republican,DEAN BURKE,22,5,0,0
+Mitchell,Pelham,State Senate,11,Republican,DEAN BURKE,76,26,1,0
+Mitchell,Sale City,State Senate,11,Republican,DEAN BURKE,29,0,0,0
+Mitchell,Branchville,State Senate,11,Republican,MIKE KEOWN,21,4,0,0
+Mitchell,Cotton,State Senate,11,Republican,MIKE KEOWN,34,0,0,0
+Mitchell,Hopeful,State Senate,11,Republican,MIKE KEOWN,13,2,0,0
+Mitchell,Hinsonton,State Senate,11,Republican,MIKE KEOWN,22,0,0,0
+Mitchell,Lester,State Senate,11,Republican,MIKE KEOWN,26,5,0,0
+Mitchell,Pebble City,State Senate,11,Republican,MIKE KEOWN,5,0,0,0
+Mitchell,Pelham,State Senate,11,Republican,MIKE KEOWN,67,21,2,0
+Mitchell,Sale City,State Senate,11,Republican,MIKE KEOWN,13,0,0,0
+Thomas,Central,State Senate,11,Republican,DEAN BURKE,107,51,0,0
+Thomas,Coolidge,State Senate,11,Republican,DEAN BURKE,45,6,0,0
+Thomas,Douglass,State Senate,11,Republican,DEAN BURKE,56,11,1,0
+Thomas,Ellabelle,State Senate,11,Republican,DEAN BURKE,38,9,0,0
+Thomas,Fire Station 2,State Senate,11,Republican,DEAN BURKE,79,18,0,0
+Thomas,Harper,State Senate,11,Republican,DEAN BURKE,57,33,0,0
+Thomas,Jerger,State Senate,11,Republican,DEAN BURKE,117,45,3,0
+Thomas,Meigs,State Senate,11,Republican,DEAN BURKE,35,7,0,0
+Thomas,Merrillville,State Senate,11,Republican,DEAN BURKE,48,4,0,0
+Thomas,Metcalfe,State Senate,11,Republican,DEAN BURKE,19,2,0,0
+Thomas,New Covenant,State Senate,11,Republican,DEAN BURKE,81,25,2,0
+Thomas,Ochlocknee,State Senate,11,Republican,DEAN BURKE,53,11,0,0
+Thomas,Patten,State Senate,11,Republican,DEAN BURKE,24,1,0,0
+Thomas,Remington ESC,State Senate,11,Republican,DEAN BURKE,48,36,0,0
+Thomas,Resource Center,State Senate,11,Republican,DEAN BURKE,72,33,0,0
+Thomas,Scott,State Senate,11,Republican,DEAN BURKE,92,58,1,0
+Thomas,Central,State Senate,11,Republican,MIKE KEOWN,168,102,3,0
+Thomas,Coolidge,State Senate,11,Republican,MIKE KEOWN,142,31,1,0
+Thomas,Douglass,State Senate,11,Republican,MIKE KEOWN,28,17,0,0
+Thomas,Ellabelle,State Senate,11,Republican,MIKE KEOWN,105,28,0,0
+Thomas,Fire Station 2,State Senate,11,Republican,MIKE KEOWN,136,39,0,0
+Thomas,Harper,State Senate,11,Republican,MIKE KEOWN,55,24,0,0
+Thomas,Jerger,State Senate,11,Republican,MIKE KEOWN,104,65,1,0
+Thomas,Meigs,State Senate,11,Republican,MIKE KEOWN,44,13,0,0
+Thomas,Merrillville,State Senate,11,Republican,MIKE KEOWN,61,14,0,0
+Thomas,Metcalfe,State Senate,11,Republican,MIKE KEOWN,20,3,0,0
+Thomas,New Covenant,State Senate,11,Republican,MIKE KEOWN,190,60,1,0
+Thomas,Ochlocknee,State Senate,11,Republican,MIKE KEOWN,93,21,1,0
+Thomas,Patten,State Senate,11,Republican,MIKE KEOWN,34,2,0,0
+Thomas,Remington ESC,State Senate,11,Republican,MIKE KEOWN,134,63,1,0
+Thomas,Resource Center,State Senate,11,Republican,MIKE KEOWN,15,9,0,0
+Thomas,Scott,State Senate,11,Republican,MIKE KEOWN,199,98,2,0
+Grady,Blowing Cave,State Senate,11,Republican,DEAN BURKE,39,5,0,0
+Grady,Cairo 4th District,State Senate,11,Republican,DEAN BURKE,61,15,1,0
+Grady,Cairo 5th District,State Senate,11,Republican,DEAN BURKE,51,52,1,0
+Grady,Duncanville,State Senate,11,Republican,DEAN BURKE,32,0,0,0
+Grady,Higdon,State Senate,11,Republican,DEAN BURKE,43,8,0,0
+Grady,Limesink,State Senate,11,Republican,DEAN BURKE,12,8,0,0
+Grady,Midway,State Senate,11,Republican,DEAN BURKE,41,26,1,0
+Grady,Pine Park,State Senate,11,Republican,DEAN BURKE,19,7,0,0
+Grady,Ragan,State Senate,11,Republican,DEAN BURKE,33,5,0,0
+Grady,Spence,State Senate,11,Republican,DEAN BURKE,32,6,3,0
+Grady,Spring Hill,State Senate,11,Republican,DEAN BURKE,66,9,0,0
+Grady,Whigham,State Senate,11,Republican,DEAN BURKE,65,9,0,0
+Grady,Woodland,State Senate,11,Republican,DEAN BURKE,87,73,1,0
+Grady,Blowing Cave,State Senate,11,Republican,MIKE KEOWN,44,12,0,0
+Grady,Cairo 4th District,State Senate,11,Republican,MIKE KEOWN,28,39,3,0
+Grady,Cairo 5th District,State Senate,11,Republican,MIKE KEOWN,113,99,3,0
+Grady,Duncanville,State Senate,11,Republican,MIKE KEOWN,37,1,0,0
+Grady,Higdon,State Senate,11,Republican,MIKE KEOWN,66,12,1,0
+Grady,Limesink,State Senate,11,Republican,MIKE KEOWN,15,9,0,0
+Grady,Midway,State Senate,11,Republican,MIKE KEOWN,86,38,2,0
+Grady,Pine Park,State Senate,11,Republican,MIKE KEOWN,48,15,0,0
+Grady,Ragan,State Senate,11,Republican,MIKE KEOWN,25,11,1,0
+Grady,Spence,State Senate,11,Republican,MIKE KEOWN,70,13,1,0
+Grady,Spring Hill,State Senate,11,Republican,MIKE KEOWN,30,9,0,0
+Grady,Whigham,State Senate,11,Republican,MIKE KEOWN,69,19,1,0
+Grady,Woodland,State Senate,11,Republican,MIKE KEOWN,149,93,3,0
+Cherokee,AIR ACRES,State House,21,Republican,BRIAN LAURENS,30,1,0,0
+Cherokee,ARNOLD MILL,State House,21,Republican,BRIAN LAURENS,71,5,0,0
+Cherokee,AVERY,State House,21,Republican,BRIAN LAURENS,10,0,0,0
+Cherokee,BRIDGEMILL,State House,21,Republican,BRIAN LAURENS,28,8,2,0
+Cherokee,HICKORY FLAT,State House,21,Republican,BRIAN LAURENS,94,22,32,0
+Cherokee,HOLLY SPRINGS,State House,21,Republican,BRIAN LAURENS,15,6,2,0
+Cherokee,LIBERTY,State House,21,Republican,BRIAN LAURENS,24,5,1,0
+Cherokee,MOUNTAIN ROAD,State House,21,Republican,BRIAN LAURENS,49,1,2,0
+Cherokee,TEASLEY,State House,21,Republican,BRIAN LAURENS,19,9,3,0
+Cherokee,TOONIGH,State House,21,Republican,BRIAN LAURENS,84,6,26,0
+Cherokee,WILDCAT,State House,21,Republican,BRIAN LAURENS,40,4,0,0
+Cherokee,AIR ACRES,State House,21,Republican,SCOT TURNER,34,0,0,0
+Cherokee,ARNOLD MILL,State House,21,Republican,SCOT TURNER,131,13,5,0
+Cherokee,AVERY,State House,21,Republican,SCOT TURNER,7,0,0,0
+Cherokee,BRIDGEMILL,State House,21,Republican,SCOT TURNER,74,19,1,0
+Cherokee,HICKORY FLAT,State House,21,Republican,SCOT TURNER,62,12,0,0
+Cherokee,HOLLY SPRINGS,State House,21,Republican,SCOT TURNER,41,14,0,0
+Cherokee,LIBERTY,State House,21,Republican,SCOT TURNER,89,39,0,0
+Cherokee,MOUNTAIN ROAD,State House,21,Republican,SCOT TURNER,76,12,3,0
+Cherokee,TEASLEY,State House,21,Republican,SCOT TURNER,37,17,0,0
+Cherokee,TOONIGH,State House,21,Republican,SCOT TURNER,123,9,1,0
+Cherokee,WILDCAT,State House,21,Republican,SCOT TURNER,68,14,2,0
+Colquitt,Shaw,State Senate,11,Republican,DEAN BURKE,17,16,0,0
+Colquitt,Moultrie,State Senate,11,Republican,DEAN BURKE,211,89,0,0
+Colquitt,Autreyville,State Senate,11,Republican,DEAN BURKE,50,20,0,0
+Colquitt,Bridgecreek,State Senate,11,Republican,DEAN BURKE,57,23,0,0
+Colquitt,Crosland,State Senate,11,Republican,DEAN BURKE,3,2,1,0
+Colquitt,Doerun,State Senate,11,Republican,DEAN BURKE,34,4,0,0
+Colquitt,Funston,State Senate,11,Republican,DEAN BURKE,61,8,1,0
+Colquitt,Hamilton,State Senate,11,Republican,DEAN BURKE,29,4,0,0
+Colquitt,Hartsfield,State Senate,11,Republican,DEAN BURKE,36,0,0,0
+Colquitt,Hopewell,State Senate,11,Republican,DEAN BURKE,51,29,0,0
+Colquitt,Lee,State Senate,11,Republican,DEAN BURKE,33,11,0,0
+Colquitt,Millcreek,State Senate,11,Republican,DEAN BURKE,12,7,0,0
+Colquitt,Monk,State Senate,11,Republican,DEAN BURKE,31,14,0,0
+Colquitt,Murphy,State Senate,11,Republican,DEAN BURKE,58,17,0,0
+Colquitt,Norman Park,State Senate,11,Republican,DEAN BURKE,70,27,0,0
+Colquitt,Robinson,State Senate,11,Republican,DEAN BURKE,28,10,0,0
+Colquitt,Thigpen,State Senate,11,Republican,DEAN BURKE,27,3,0,0
+Colquitt,Tyty,State Senate,11,Republican,DEAN BURKE,15,0,0,0
+Colquitt,Warrior,State Senate,11,Republican,DEAN BURKE,32,3,0,0
+Colquitt,Shaw,State Senate,11,Republican,MIKE KEOWN,20,16,1,0
+Colquitt,Moultrie,State Senate,11,Republican,MIKE KEOWN,67,39,0,0
+Colquitt,Autreyville,State Senate,11,Republican,MIKE KEOWN,20,11,0,0
+Colquitt,Bridgecreek,State Senate,11,Republican,MIKE KEOWN,38,10,0,0
+Colquitt,Crosland,State Senate,11,Republican,MIKE KEOWN,12,0,0,0
+Colquitt,Doerun,State Senate,11,Republican,MIKE KEOWN,20,2,1,0
+Colquitt,Funston,State Senate,11,Republican,MIKE KEOWN,44,4,0,0
+Colquitt,Hamilton,State Senate,11,Republican,MIKE KEOWN,48,4,0,0
+Colquitt,Hartsfield,State Senate,11,Republican,MIKE KEOWN,23,6,0,0
+Colquitt,Hopewell,State Senate,11,Republican,MIKE KEOWN,47,13,0,0
+Colquitt,Lee,State Senate,11,Republican,MIKE KEOWN,29,14,1,0
+Colquitt,Millcreek,State Senate,11,Republican,MIKE KEOWN,17,2,0,0
+Colquitt,Monk,State Senate,11,Republican,MIKE KEOWN,19,13,1,0
+Colquitt,Murphy,State Senate,11,Republican,MIKE KEOWN,41,20,0,0
+Colquitt,Norman Park,State Senate,11,Republican,MIKE KEOWN,44,10,0,0
+Colquitt,Robinson,State Senate,11,Republican,MIKE KEOWN,30,6,0,0
+Colquitt,Thigpen,State Senate,11,Republican,MIKE KEOWN,7,0,0,0
+Colquitt,Tyty,State Senate,11,Republican,MIKE KEOWN,14,0,0,0
+Colquitt,Warrior,State Senate,11,Republican,MIKE KEOWN,26,4,0,0
+Decatur,Mt Pleasant,State Senate,11,Republican,DEAN BURKE,78,44,6,0
+Decatur,Recovery,State Senate,11,Republican,DEAN BURKE,103,17,2,0
+Decatur,Kendrick,State Senate,11,Republican,DEAN BURKE,59,11,0,0
+Decatur,Climax,State Senate,11,Republican,DEAN BURKE,102,43,4,0
+Decatur,Brinson,State Senate,11,Republican,DEAN BURKE,90,28,4,0
+Decatur,West Bainbridge,State Senate,11,Republican,DEAN BURKE,121,65,1,0
+Decatur,Bainbridge-Coliseum,State Senate,11,Republican,DEAN BURKE,659,406,38,1
+Decatur,Bridge-Fairgrounds,State Senate,11,Republican,DEAN BURKE,209,128,7,0
+Decatur,Attapulgus,State Senate,11,Republican,DEAN BURKE,103,36,6,0
+Decatur,Mt Pleasant,State Senate,11,Republican,MIKE KEOWN,20,5,0,0
+Decatur,Recovery,State Senate,11,Republican,MIKE KEOWN,17,7,0,0
+Decatur,Kendrick,State Senate,11,Republican,MIKE KEOWN,21,7,1,0
+Decatur,Climax,State Senate,11,Republican,MIKE KEOWN,44,5,0,0
+Decatur,Brinson,State Senate,11,Republican,MIKE KEOWN,24,7,0,0
+Decatur,West Bainbridge,State Senate,11,Republican,MIKE KEOWN,28,10,2,0
+Decatur,Bainbridge-Coliseum,State Senate,11,Republican,MIKE KEOWN,124,58,3,0
+Decatur,Bridge-Fairgrounds,State Senate,11,Republican,MIKE KEOWN,38,47,0,0
+Decatur,Attapulgus,State Senate,11,Republican,MIKE KEOWN,15,13,1,0
+Early,Arlington,State Senate,11,Republican,DEAN BURKE,33,5,0,0
+Early,Blakely,State Senate,11,Republican,DEAN BURKE,100,41,1,0
+Early,Colomokee,State Senate,11,Republican,DEAN BURKE,19,0,0,0
+Early,Cedar Springs,State Senate,11,Republican,DEAN BURKE,21,2,0,0
+Early,Cuba,State Senate,11,Republican,DEAN BURKE,19,13,0,0
+Early,Damascus,State Senate,11,Republican,DEAN BURKE,38,5,0,0
+Early,Freeman,State Senate,11,Republican,DEAN BURKE,25,6,0,0
+Early,Hilton,State Senate,11,Republican,DEAN BURKE,14,2,0,0
+Early,Jakin,State Senate,11,Republican,DEAN BURKE,48,2,1,0
+Early,Lucile,State Senate,11,Republican,DEAN BURKE,26,7,0,0
+Early,Urquhart,State Senate,11,Republican,DEAN BURKE,13,1,0,0
+Early,Arlington,State Senate,11,Republican,MIKE KEOWN,24,1,1,0
+Early,Blakely,State Senate,11,Republican,MIKE KEOWN,61,31,4,0
+Early,Colomokee,State Senate,11,Republican,MIKE KEOWN,13,3,1,0
+Early,Cedar Springs,State Senate,11,Republican,MIKE KEOWN,23,0,0,0
+Early,Cuba,State Senate,11,Republican,MIKE KEOWN,25,1,0,0
+Early,Damascus,State Senate,11,Republican,MIKE KEOWN,25,6,2,0
+Early,Freeman,State Senate,11,Republican,MIKE KEOWN,14,4,0,0
+Early,Hilton,State Senate,11,Republican,MIKE KEOWN,9,2,0,0
+Early,Jakin,State Senate,11,Republican,MIKE KEOWN,29,1,0,0
+Early,Lucile,State Senate,11,Republican,MIKE KEOWN,14,4,0,0
+Early,Urquhart,State Senate,11,Republican,MIKE KEOWN,19,3,0,0
+Seminole,Precinct 1,State Senate,11,Republican,DEAN BURKE,195,76,9,0
+Seminole,Precinct 2,State Senate,11,Republican,DEAN BURKE,131,49,7,0
+Seminole,Precinct 3,State Senate,11,Republican,DEAN BURKE,44,7,0,0
+Seminole,Precinct 4,State Senate,11,Republican,DEAN BURKE,174,38,1,0
+Seminole,Precinct 5,State Senate,11,Republican,DEAN BURKE,171,14,0,0
+Seminole,Precinct 1,State Senate,11,Republican,MIKE KEOWN,39,12,1,0
+Seminole,Precinct 2,State Senate,11,Republican,MIKE KEOWN,49,11,2,0
+Seminole,Precinct 3,State Senate,11,Republican,MIKE KEOWN,15,1,1,0
+Seminole,Precinct 4,State Senate,11,Republican,MIKE KEOWN,44,9,0,0
+Seminole,Precinct 5,State Senate,11,Republican,MIKE KEOWN,80,20,1,0
