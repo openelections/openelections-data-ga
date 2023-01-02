@@ -1,17 +1,55 @@
-county,office,district,party,candidate,votes,election_day,absentee,early_voting,provisional
-,State Representative,2,R,NEAL FLORENCE,1649,1189,100,360,0
-Catoosa,State Representative,2,R,NEAL FLORENCE,166,148,2,16,0
-Walker,State Representative,2,R,NEAL FLORENCE,1397,968,95,334,0
-Whitfield,State Representative,2,R,NEAL FLORENCE,86,73,3,10,0
-,State Representative,2,R,STEVE TARVIN,1925,1574,180,171,0
-Catoosa,State Representative,2,R,STEVE TARVIN,355,311,5,39,0
-Walker,State Representative,2,R,STEVE TARVIN,1262,985,159,118,0
-Whitfield,State Representative,2,R,STEVE TARVIN,308,278,16,14,0
-,State Representative,22,R,MEAGAN BIELLO,1113,950,50,112,1
-Cherokee,State Representative,22,R,MEAGAN BIELLO,1026,872,50,103,1
-Forsyth,State Representative,22,R,MEAGAN BIELLO,73,67,0,6,0
-Fulton,State Representative,22,R,MEAGAN BIELLO,14,11,0,3,0
-,State Representative,22,R,SAM MOORE,1520,1335,21,163,1
-Cherokee,State Representative,22,R,SAM MOORE,1285,1150,17,118,0
-Forsyth,State Representative,22,R,SAM MOORE,209,162,4,43,0
-Fulton,State Representative,22,R,SAM MOORE,26,23,0,2,1
+county,precinct,office,district,party,candidate,election_day_votes,advanced_votes,absentee_by_mail_votes,provisional_votes
+Cherokee,AVERY,State House,22,Republican,MEAGAN BIELLO,61,5,3,0
+Cherokee,BALL GROUND,State House,22,Republican,MEAGAN BIELLO,105,10,4,0
+Cherokee,BRADSHAW,State House,22,Republican,MEAGAN BIELLO,151,6,6,0
+Cherokee,CONNS CREEK,State House,22,Republican,MEAGAN BIELLO,21,0,6,0
+Cherokee,FREEHOME,State House,22,Republican,MEAGAN BIELLO,120,6,11,0
+Cherokee,HICKORY FLAT,State House,22,Republican,MEAGAN BIELLO,13,1,0,0
+Cherokee,HIGHTOWER,State House,22,Republican,MEAGAN BIELLO,99,18,8,0
+Cherokee,MACEDONIA,State House,22,Republican,MEAGAN BIELLO,164,27,2,1
+Cherokee,UNION HILL,State House,22,Republican,MEAGAN BIELLO,105,7,6,0
+Cherokee,UNIVETER,State House,22,Republican,MEAGAN BIELLO,33,23,4,0
+Cherokee,AVERY,State House,22,Republican,SAM MOORE,93,8,3,0
+Cherokee,BALL GROUND,State House,22,Republican,SAM MOORE,88,7,0,0
+Cherokee,BRADSHAW,State House,22,Republican,SAM MOORE,112,13,3,0
+Cherokee,CONNS CREEK,State House,22,Republican,SAM MOORE,42,2,0,0
+Cherokee,FREEHOME,State House,22,Republican,SAM MOORE,220,8,3,0
+Cherokee,HICKORY FLAT,State House,22,Republican,SAM MOORE,21,2,0,0
+Cherokee,HIGHTOWER,State House,22,Republican,SAM MOORE,185,33,0,0
+Cherokee,MACEDONIA,State House,22,Republican,SAM MOORE,148,26,3,0
+Cherokee,UNION HILL,State House,22,Republican,SAM MOORE,189,9,2,0
+Cherokee,UNIVETER,State House,22,Republican,SAM MOORE,52,10,3,0
+Forsyth,02 Brandywine,State House,22,Republican,MEAGAN BIELLO,14,0,0,0
+Forsyth,10 Midway,State House,22,Republican,MEAGAN BIELLO,21,1,0,0
+Forsyth,29 Polo,State House,22,Republican,MEAGAN BIELLO,32,5,0,0
+Forsyth,02 Brandywine,State House,22,Republican,SAM MOORE,53,3,0,0
+Forsyth,10 Midway,State House,22,Republican,SAM MOORE,39,19,3,0
+Forsyth,29 Polo,State House,22,Republican,SAM MOORE,70,21,1,0
+Fulton,ML021,State House,22,Republican,MEAGAN BIELLO,6,0,0,0
+Fulton,ML022,State House,22,Republican,MEAGAN BIELLO,3,1,0,0
+Fulton,ML07A,State House,22,Republican,MEAGAN BIELLO,2,2,0,0
+Fulton,ML021,State House,22,Republican,SAM MOORE,0,0,0,1
+Fulton,ML022,State House,22,Republican,SAM MOORE,11,2,0,0
+Fulton,ML07A,State House,22,Republican,SAM MOORE,12,0,0,0
+Catoosa,BLACKSTOCK,State House,2,Republican,NEAL FLORENCE,10,0,0,0
+Catoosa,CHAMBERS,State House,2,Republican,NEAL FLORENCE,83,10,2,0
+Catoosa,WOODSTATION,State House,2,Republican,NEAL FLORENCE,55,6,0,0
+Catoosa,BLACKSTOCK,State House,2,Republican,STEVE TARVIN,48,5,0,0
+Catoosa,CHAMBERS,State House,2,Republican,STEVE TARVIN,156,18,3,0
+Catoosa,WOODSTATION,State House,2,Republican,STEVE TARVIN,107,16,2,0
+Whitfield,TUNNEL HILL,State House,2,Republican,NEAL FLORENCE,41,8,2,0
+Whitfield,TRICHUM,State House,2,Republican,NEAL FLORENCE,12,0,0,0
+Whitfield,WESTSIDE,State House,2,Republican,NEAL FLORENCE,20,2,1,0
+Whitfield,TUNNEL HILL,State House,2,Republican,STEVE TARVIN,107,3,6,0
+Whitfield,TRICHUM,State House,2,Republican,STEVE TARVIN,75,4,4,0
+Whitfield,WESTSIDE,State House,2,Republican,STEVE TARVIN,96,7,6,0
+Walker,LAFAYETTE,State House,2,Republican,NEAL FLORENCE,367,205,65,0
+Walker,CENTER POST,State House,2,Republican,NEAL FLORENCE,38,49,6,0
+Walker,ROCK SPRING,State House,2,Republican,NEAL FLORENCE,315,66,15,0
+Walker,ARMUCHEE VALLEY,State House,2,Republican,NEAL FLORENCE,82,7,7,0
+Walker,CHICKAMAUGA,State House,2,Republican,NEAL FLORENCE,166,7,2,0
+Walker,LAFAYETTE,State House,2,Republican,STEVE TARVIN,155,71,21,0
+Walker,CENTER POST,State House,2,Republican,STEVE TARVIN,30,12,12,0
+Walker,ROCK SPRING,State House,2,Republican,STEVE TARVIN,302,31,26,0
+Walker,ARMUCHEE VALLEY,State House,2,Republican,STEVE TARVIN,72,0,3,0
+Walker,CHICKAMAUGA,State House,2,Republican,STEVE TARVIN,426,4,97,0
