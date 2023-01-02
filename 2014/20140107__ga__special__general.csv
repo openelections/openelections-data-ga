@@ -1,29 +1,98 @@
-county,office,district,party,candidate,votes,election_day,absentee,early_voting,provisional
-,State Representative,2,R,NEAL FLORENCE,964,644,51,269,0
-Catoosa,State Representative,2,R,NEAL FLORENCE,55,45,0,10,0
-Walker,State Representative,2,R,NEAL FLORENCE,851,552,50,249,0
-Whitfield,State Representative,2,R,NEAL FLORENCE,58,47,1,10,0
-,State Representative,2,R,STEVE TARVIN,1073,873,77,122,1
-Catoosa,State Representative,2,R,STEVE TARVIN,180,148,6,26,0
-Walker,State Representative,2,R,STEVE TARVIN,659,524,64,70,1
-Whitfield,State Representative,2,R,STEVE TARVIN,234,201,7,26,0
-,State Representative,2,R,DOUG WOODRUFF,774,630,13,131,0
-Catoosa,State Representative,2,R,DOUG WOODRUFF,191,142,3,46,0
-Walker,State Representative,2,R,DOUG WOODRUFF,559,469,9,81,0
-Whitfield,State Representative,2,R,DOUG WOODRUFF,24,19,1,4,0
-,State Representative,22,R,MEAGAN BIELLO,576,427,3,146,0
-Cherokee,State Representative,22,R,MEAGAN BIELLO,545,404,3,138,0
-Forsyth,State Representative,22,R,MEAGAN BIELLO,25,17,0,8,0
-Fulton,State Representative,22,R,MEAGAN BIELLO,6,6,0,0,0
-,State Representative,22,R,NATE COCHRAN,359,320,0,39,0
-Cherokee,State Representative,22,R,NATE COCHRAN,299,270,0,29,0
-Forsyth,State Representative,22,R,NATE COCHRAN,54,44,0,10,0
-Fulton,State Representative,22,R,NATE COCHRAN,6,6,0,0,0
-,State Representative,22,R,JEFF DUNCAN,574,481,10,83,0
-Cherokee,State Representative,22,R,JEFF DUNCAN,510,429,8,73,0
-Forsyth,State Representative,22,R,JEFF DUNCAN,51,41,2,8,0
-Fulton,State Representative,22,R,JEFF DUNCAN,13,11,0,2,0
-,State Representative,22,R,SAM MOORE,924,749,9,165,1
-Cherokee,State Representative,22,R,SAM MOORE,744,615,9,119,1
-Forsyth,State Representative,22,R,SAM MOORE,148,110,0,38,0
-Fulton,State Representative,22,R,SAM MOORE,32,24,0,8,0
+county,precinct,office,district,party,candidate,election_day_votes,advanced_votes,absentee_by_mail_votes,provisional_votes
+Fulton,ML021,State House,22,Republican,MEAGAN BIELLO,1,0,0,0
+Fulton,ML022,State House,22,Republican,MEAGAN BIELLO,1,0,0,0
+Fulton,ML07A,State House,22,Republican,MEAGAN BIELLO,4,0,0,0
+Fulton,ML021,State House,22,Republican,NATE COCHRAN,4,0,0,0
+Fulton,ML022,State House,22,Republican,NATE COCHRAN,2,0,0,0
+Fulton,ML07A,State House,22,Republican,NATE COCHRAN,0,0,0,0
+Fulton,ML021,State House,22,Republican,JEFF DUNCAN,2,1,0,0
+Fulton,ML022,State House,22,Republican,JEFF DUNCAN,7,1,0,0
+Fulton,ML07A,State House,22,Republican,JEFF DUNCAN,2,0,0,0
+Fulton,ML021,State House,22,Republican,SAM MOORE,0,0,0,0
+Fulton,ML022,State House,22,Republican,SAM MOORE,16,7,0,0
+Fulton,ML07A,State House,22,Republican,SAM MOORE,8,1,0,0
+Catoosa,BLACKSTOCK,State House,2,Republican,NEAL FLORENCE,3,1,0,0
+Catoosa,CHAMBERS,State House,2,Republican,NEAL FLORENCE,30,3,0,0
+Catoosa,WOODSTATION,State House,2,Republican,NEAL FLORENCE,12,6,0,0
+Catoosa,BLACKSTOCK,State House,2,Republican,STEVE TARVIN,19,4,0,0
+Catoosa,CHAMBERS,State House,2,Republican,STEVE TARVIN,83,8,4,0
+Catoosa,WOODSTATION,State House,2,Republican,STEVE TARVIN,46,14,2,0
+Catoosa,BLACKSTOCK,State House,2,Republican,DOUG WOODRUFF,11,2,0,0
+Catoosa,CHAMBERS,State House,2,Republican,DOUG WOODRUFF,84,30,3,0
+Catoosa,WOODSTATION,State House,2,Republican,DOUG WOODRUFF,47,14,0,0
+Walker,LAFAYETTE,State House,2,Republican,NEAL FLORENCE,247,152,34,0
+Walker,CENTER POST,State House,2,Republican,NEAL FLORENCE,29,39,5,0
+Walker,ROCK SPRING,State House,2,Republican,NEAL FLORENCE,135,49,5,0
+Walker,ARMUCHEE VALLEY,State House,2,Republican,NEAL FLORENCE,64,6,6,0
+Walker,CHICKAMAUGA,State House,2,Republican,NEAL FLORENCE,77,3,0,0
+Walker,LAFAYETTE,State House,2,Republican,STEVE TARVIN,78,36,11,0
+Walker,CENTER POST,State House,2,Republican,STEVE TARVIN,13,9,0,0
+Walker,ROCK SPRING,State House,2,Republican,STEVE TARVIN,158,18,9,0
+Walker,ARMUCHEE VALLEY,State House,2,Republican,STEVE TARVIN,46,3,5,1
+Walker,CHICKAMAUGA,State House,2,Republican,STEVE TARVIN,229,4,39,0
+Walker,LAFAYETTE,State House,2,Republican,DOUG WOODRUFF,87,44,6,0
+Walker,CENTER POST,State House,2,Republican,DOUG WOODRUFF,27,3,0,0
+Walker,ROCK SPRING,State House,2,Republican,DOUG WOODRUFF,197,29,2,0
+Walker,ARMUCHEE VALLEY,State House,2,Republican,DOUG WOODRUFF,18,2,0,0
+Walker,CHICKAMAUGA,State House,2,Republican,DOUG WOODRUFF,140,3,1,0
+Whitfield,TUNNEL HILL,State House,2,Republican,NEAL FLORENCE,27,5,1,0
+Whitfield,TRICHUM,State House,2,Republican,NEAL FLORENCE,6,1,0,0
+Whitfield,WESTSIDE,State House,2,Republican,NEAL FLORENCE,14,4,0,0
+Whitfield,TUNNEL HILL,State House,2,Republican,STEVE TARVIN,87,5,2,0
+Whitfield,TRICHUM,State House,2,Republican,STEVE TARVIN,56,1,0,0
+Whitfield,WESTSIDE,State House,2,Republican,STEVE TARVIN,58,20,5,0
+Whitfield,TUNNEL HILL,State House,2,Republican,DOUG WOODRUFF,10,1,0,0
+Whitfield,TRICHUM,State House,2,Republican,DOUG WOODRUFF,7,1,0,0
+Whitfield,WESTSIDE,State House,2,Republican,DOUG WOODRUFF,2,2,1,0
+Forsyth,02 Brandywine,State House,22,Republican,MEAGAN BIELLO,4,1,0,0
+Forsyth,10 Midway,State House,22,Republican,MEAGAN BIELLO,3,5,0,0
+Forsyth,29 Polo,State House,22,Republican,MEAGAN BIELLO,10,2,0,0
+Forsyth,02 Brandywine,State House,22,Republican,NATE COCHRAN,5,0,0,0
+Forsyth,10 Midway,State House,22,Republican,NATE COCHRAN,18,6,0,0
+Forsyth,29 Polo,State House,22,Republican,NATE COCHRAN,21,4,0,0
+Forsyth,02 Brandywine,State House,22,Republican,JEFF DUNCAN,7,2,0,0
+Forsyth,10 Midway,State House,22,Republican,JEFF DUNCAN,10,2,0,0
+Forsyth,29 Polo,State House,22,Republican,JEFF DUNCAN,24,4,2,0
+Forsyth,02 Brandywine,State House,22,Republican,SAM MOORE,25,8,0,0
+Forsyth,10 Midway,State House,22,Republican,SAM MOORE,36,14,0,0
+Forsyth,29 Polo,State House,22,Republican,SAM MOORE,49,16,0,0
+Cherokee,AVERY,State House,22,Republican,MEAGAN BIELLO,37,3,0,0
+Cherokee,BALL GROUND,State House,22,Republican,MEAGAN BIELLO,48,13,0,0
+Cherokee,BRADSHAW,State House,22,Republican,MEAGAN BIELLO,60,9,0,0
+Cherokee,CONNS CREEK,State House,22,Republican,MEAGAN BIELLO,6,5,0,0
+Cherokee,FREEHOME,State House,22,Republican,MEAGAN BIELLO,63,12,0,0
+Cherokee,HICKORY FLAT,State House,22,Republican,MEAGAN BIELLO,6,1,0,0
+Cherokee,HIGHTOWER,State House,22,Republican,MEAGAN BIELLO,35,27,3,0
+Cherokee,MACEDONIA,State House,22,Republican,MEAGAN BIELLO,73,31,0,0
+Cherokee,UNION HILL,State House,22,Republican,MEAGAN BIELLO,54,16,0,0
+Cherokee,UNIVETER,State House,22,Republican,MEAGAN BIELLO,22,21,0,0
+Cherokee,AVERY,State House,22,Republican,NATE COCHRAN,23,0,0,0
+Cherokee,BALL GROUND,State House,22,Republican,NATE COCHRAN,20,0,0,0
+Cherokee,BRADSHAW,State House,22,Republican,NATE COCHRAN,26,3,0,0
+Cherokee,CONNS CREEK,State House,22,Republican,NATE COCHRAN,11,0,0,0
+Cherokee,FREEHOME,State House,22,Republican,NATE COCHRAN,96,5,0,0
+Cherokee,HICKORY FLAT,State House,22,Republican,NATE COCHRAN,3,0,0,0
+Cherokee,HIGHTOWER,State House,22,Republican,NATE COCHRAN,24,12,0,0
+Cherokee,MACEDONIA,State House,22,Republican,NATE COCHRAN,26,4,0,0
+Cherokee,UNION HILL,State House,22,Republican,NATE COCHRAN,30,3,0,0
+Cherokee,UNIVETER,State House,22,Republican,NATE COCHRAN,11,2,0,0
+Cherokee,AVERY,State House,22,Republican,JEFF DUNCAN,26,0,0,0
+Cherokee,BALL GROUND,State House,22,Republican,JEFF DUNCAN,60,9,1,0
+Cherokee,BRADSHAW,State House,22,Republican,JEFF DUNCAN,94,16,0,0
+Cherokee,CONNS CREEK,State House,22,Republican,JEFF DUNCAN,13,2,3,0
+Cherokee,FREEHOME,State House,22,Republican,JEFF DUNCAN,58,7,0,0
+Cherokee,HICKORY FLAT,State House,22,Republican,JEFF DUNCAN,11,0,0,0
+Cherokee,HIGHTOWER,State House,22,Republican,JEFF DUNCAN,28,7,4,0
+Cherokee,MACEDONIA,State House,22,Republican,JEFF DUNCAN,44,16,0,0
+Cherokee,UNION HILL,State House,22,Republican,JEFF DUNCAN,81,6,0,0
+Cherokee,UNIVETER,State House,22,Republican,JEFF DUNCAN,14,10,0,0
+Cherokee,AVERY,State House,22,Republican,SAM MOORE,30,18,2,0
+Cherokee,BALL GROUND,State House,22,Republican,SAM MOORE,62,8,0,0
+Cherokee,BRADSHAW,State House,22,Republican,SAM MOORE,76,12,1,0
+Cherokee,CONNS CREEK,State House,22,Republican,SAM MOORE,11,0,0,0
+Cherokee,FREEHOME,State House,22,Republican,SAM MOORE,111,7,1,0
+Cherokee,HICKORY FLAT,State House,22,Republican,SAM MOORE,16,2,0,0
+Cherokee,HIGHTOWER,State House,22,Republican,SAM MOORE,107,36,2,0
+Cherokee,MACEDONIA,State House,22,Republican,SAM MOORE,73,14,1,1
+Cherokee,UNION HILL,State House,22,Republican,SAM MOORE,95,7,0,0
+Cherokee,UNIVETER,State House,22,Republican,SAM MOORE,34,15,2,0
