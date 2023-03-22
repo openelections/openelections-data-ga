@@ -2,8 +2,8 @@ import os
 import glob
 import csv
 
-year = '2016'
-election = '20161108'
+year = '2022'
+election = '20221108'
 path = election+'*precinct.csv'
 output_file = election+'__ga__general__precinct.csv'
 
@@ -40,16 +40,15 @@ def generate_offices(year, path):
 def generate_consolidated_file(year, path, output_file):
     results = []
     os.chdir(year)
-#    os.chdir('counties')
+    os.chdir('counties')
     for fname in glob.glob(path):
         with open(fname, "r") as csvfile:
             print(fname)
             reader = csv.DictReader(csvfile)
             for row in reader:
-                print(row)
-                if row['office'].strip().title() in ['Straight Party', 'President', 'Governor', 'Secretary of State', 'State Mine Inspector', 'Corporation Commissioner', 'State Auditor', 'State Treasurer', 'Commissioner of Agriculture & Commerce', 'Commissioner of Insurance', 'Attorney General', 'U.S. House', 'State Senate', 'U.S. Senate', 'State Representative', 'Registered Voters', 'Ballots Cast']:
-                    if all(k in set(row) for k in ['absentee_by_mail','election_day','advance_in_person','provisional']):
-                        results.append([row['county'], row['precinct'], row['office'], row['district'], row['candidate'], row['party'], row['votes'], row['absentee_by_mail'], row['election_day'], row['advance_in_person'], row['provisional']])
+                if row['office'].strip() in ['US House of Representatives', 'Straight Party', 'President', 'Governor', 'Secretary of State', 'State Mine Inspector', 'Corporation Commissioner', 'State Auditor', 'State Treasurer', 'Commissioner of Agriculture & Commerce', 'Commissioner of Insurance', 'Commissioner of Labor', 'Attorney General', 'U.S. House', 'State Senate', 'U.S. Senate', 'State Representative', 'Registered Voters', 'Ballots Cast', 'US Senate', 'Lieutenant Governor', 'Commissioner of Agriculture', 'State House']:
+                    if all(k in set(row) for k in ['absentee_by_mail_votes','election_day_votes','advance_voting_votes','provisional_votes']):
+                        results.append([row['county'], row['precinct'], row['office'], row['district'], row['candidate'], row['party'], row['votes'], row['absentee_by_mail_votes'], row['election_day_votes'], row['advance_voting_votes'], row['provisional_votes']])
                     else:
                         results.append([row['county'], row['precinct'], row['office'], row['district'], row['candidate'], row['party'], row['votes'], None, None, None, None])
     os.chdir('..')

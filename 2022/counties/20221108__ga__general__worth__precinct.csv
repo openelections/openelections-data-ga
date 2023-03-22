@@ -1,0 +1,473 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Worth,Sylvester ,U.S. Senate,,Rep,Herschel Junior Walker,513,288,12,1,212
+Worth,Scooterville ,U.S. Senate,,Rep,Herschel Junior Walker,355,86,2,0,267
+Worth,Minton,U.S. Senate,,Rep,Herschel Junior Walker,609,245,13,1,350
+Worth,Bridgeboro,U.S. Senate,,Rep,Herschel Junior Walker,381,146,8,0,227
+Worth,County Line,U.S. Senate,,Rep,Herschel Junior Walker,316,114,5,0,197
+Worth,Isabella ,U.S. Senate,,Rep,Herschel Junior Walker,503,230,13,0,260
+Worth,Sylvester East,U.S. Senate,,Rep,Herschel Junior Walker,820,409,19,2,390
+Worth,Poulan ,U.S. Senate,,Rep,Herschel Junior Walker,446,167,5,0,274
+Worth,Sumner,U.S. Senate,,Rep,Herschel Junior Walker,446,156,6,1,283
+Worth,Red Rock,U.S. Senate,,Rep,Herschel Junior Walker,457,134,8,0,315
+Worth,Doles,U.S. Senate,,Rep,Herschel Junior Walker,214,69,4,1,140
+Worth,Warwick,U.S. Senate,,Rep,Herschel Junior Walker,356,77,7,0,272
+Worth,Sylvester ,U.S. Senate,,Dem,Raphael Warnock ,918,530,85,0,303
+Worth,Scooterville ,U.S. Senate,,Dem,Raphael Warnock ,26,12,5,0,9
+Worth,Minton,U.S. Senate,,Dem,Raphael Warnock ,62,33,8,0,21
+Worth,Bridgeboro,U.S. Senate,,Dem,Raphael Warnock ,98,49,4,1,44
+Worth,County Line,U.S. Senate,,Dem,Raphael Warnock ,65,31,10,0,24
+Worth,Isabella ,U.S. Senate,,Dem,Raphael Warnock ,62,39,3,0,20
+Worth,Sylvester East,U.S. Senate,,Dem,Raphael Warnock ,162,100,12,0,50
+Worth,Poulan ,U.S. Senate,,Dem,Raphael Warnock ,85,47,9,0,29
+Worth,Sumner,U.S. Senate,,Dem,Raphael Warnock ,90,37,9,1,43
+Worth,Red Rock,U.S. Senate,,Dem,Raphael Warnock ,129,72,8,0,49
+Worth,Doles,U.S. Senate,,Dem,Raphael Warnock ,20,9,2,0,9
+Worth,Warwick,U.S. Senate,,Dem,Raphael Warnock ,125,20,26,0,79
+Worth,Sylvester ,U.S. Senate,,L,Chase Oliver,23,11,1,0,11
+Worth,Scooterville ,U.S. Senate,,L,Chase Oliver,3,1,1,0,1
+Worth,Minton,U.S. Senate,,L,Chase Oliver,10,7,0,0,3
+Worth,Bridgeboro,U.S. Senate,,L,Chase Oliver,10,3,0,0,7
+Worth,County Line,U.S. Senate,,L,Chase Oliver,6,3,0,0,3
+Worth,Isabella ,U.S. Senate,,L,Chase Oliver,12,7,0,0,5
+Worth,Sylvester East,U.S. Senate,,L,Chase Oliver,10,3,0,0,7
+Worth,Poulan ,U.S. Senate,,L,Chase Oliver,4,2,0,0,2
+Worth,Sumner,U.S. Senate,,L,Chase Oliver,2,0,0,0,2
+Worth,Red Rock,U.S. Senate,,L,Chase Oliver,13,4,1,0,8
+Worth,Doles,U.S. Senate,,L,Chase Oliver,2,1,0,0,1
+Worth,Warwick,U.S. Senate,,L,Chase Oliver,5,3,0,0,2
+Worth,Sylvester ,Governor,,Rep,Brian Kemp ,548,312,16,1,219
+Worth,Scooterville ,Governor,,Rep,Brian Kemp ,365,88,3,0,274
+Worth,Minton,Governor,,Rep,Brian Kemp ,628,259,16,1,352
+Worth,Bridgeboro,Governor,,Rep,Brian Kemp ,411,156,8,0,247
+Worth,County Line,Governor,,Rep,Brian Kemp ,331,120,7,0,204
+Worth,Isabella ,Governor,,Rep,Brian Kemp ,524,243,13,0,268
+Worth,Sylvester East,Governor,,Rep,Brian Kemp ,845,418,20,2,405
+Worth,Poulan ,Governor,,Rep,Brian Kemp ,461,177,6,0,278
+Worth,Sumner,Governor,,Rep,Brian Kemp ,461,160,8,1,292
+Worth,Red Rock,Governor,,Rep,Brian Kemp ,479,144,10,0,325
+Worth,Doles,Governor,,Rep,Brian Kemp ,222,72,4,1,145
+Worth,Warwick,Governor,,Rep,Brian Kemp ,374,83,8,0,283
+Worth,Sylvester ,Governor,,Dem,Stacey Abrams,901,518,83,0,300
+Worth,Scooterville ,Governor,,Dem,Stacey Abrams,21,11,5,0,5
+Worth,Minton,Governor,,Dem,Stacey Abrams,49,27,5,0,17
+Worth,Bridgeboro,Governor,,Dem,Stacey Abrams,80,42,4,1,33
+Worth,County Line,Governor,,Dem,Stacey Abrams,57,30,8,0,19
+Worth,Isabella ,Governor,,Dem,Stacey Abrams,54,34,3,0,17
+Worth,Sylvester East,Governor,,Dem,Stacey Abrams,149,96,11,0,42
+Worth,Poulan ,Governor,,Dem,Stacey Abrams,75,40,7,0,28
+Worth,Sumner,Governor,,Dem,Stacey Abrams,79,32,7,1,39
+Worth,Red Rock,Governor,,Dem,Stacey Abrams,121,68,7,0,46
+Worth,Doles,Governor,,Dem,Stacey Abrams,17,8,2,0,7
+Worth,Warwick,Governor,,Dem,Stacey Abrams,113,18,25,0,70
+Worth,Sylvester ,Governor,,L,Shane Hazel,8,3,0,0,5
+Worth,Scooterville ,Governor,,L,Shane Hazel,0,0,0,0,0
+Worth,Minton,Governor,,L,Shane Hazel,5,1,0,0,4
+Worth,Bridgeboro,Governor,,L,Shane Hazel,1,0,0,0,1
+Worth,County Line,Governor,,L,Shane Hazel,1,1,0,0,0
+Worth,Isabella ,Governor,,L,Shane Hazel,5,3,0,0,2
+Worth,Sylvester East,Governor,,L,Shane Hazel,2,1,0,0,1
+Worth,Poulan ,Governor,,L,Shane Hazel,2,1,0,0,1
+Worth,Sumner,Governor,,L,Shane Hazel,2,1,0,0,1
+Worth,Red Rock,Governor,,L,Shane Hazel,3,1,0,0,2
+Worth,Doles,Governor,,L,Shane Hazel,0,0,0,0,0
+Worth,Warwick,Governor,,L,Shane Hazel,1,0,0,0,1
+Worth,Sylvester ,Lieutenant Governor,,Rep,Burt Jones,544,300,15,1,228
+Worth,Scooterville ,Lieutenant Governor,,Rep,Burt Jones,359,89,3,0,267
+Worth,Minton,Lieutenant Governor,,Rep,Burt Jones,619,250,16,1,352
+Worth,Bridgeboro,Lieutenant Governor,,Rep,Burt Jones,392,145,8,0,239
+Worth,County Line,Lieutenant Governor,,Rep,Burt Jones,323,121,5,0,197
+Worth,Isabella ,Lieutenant Governor,,Rep,Burt Jones,512,236,13,0,263
+Worth,Sylvester East,Lieutenant Governor,,Rep,Burt Jones,834,415,19,2,398
+Worth,Poulan ,Lieutenant Governor,,Rep,Burt Jones,447,174,6,0,267
+Worth,Sumner,Lieutenant Governor,,Rep,Burt Jones,452,157,7,1,287
+Worth,Red Rock,Lieutenant Governor,,Rep,Burt Jones,469,143,9,0,317
+Worth,Doles,Lieutenant Governor,,Rep,Burt Jones,218,71,4,1,142
+Worth,Warwick,Lieutenant Governor,,Rep,Burt Jones,362,78,7,0,277
+Worth,Sylvester ,Lieutenant Governor,,Dem,Charlie Bailey,838,485,82,0,271
+Worth,Scooterville ,Lieutenant Governor,,Dem,Charlie Bailey,18,10,4,0,4
+Worth,Minton,Lieutenant Governor,,Dem,Charlie Bailey,48,28,5,0,15
+Worth,Bridgeboro,Lieutenant Governor,,Dem,Charlie Bailey,85,45,4,1,35
+Worth,County Line,Lieutenant Governor,,Dem,Charlie Bailey,58,28,10,0,20
+Worth,Isabella ,Lieutenant Governor,,Dem,Charlie Bailey,56,35,3,0,18
+Worth,Sylvester East,Lieutenant Governor,,Dem,Charlie Bailey,142,92,12,0,38
+Worth,Poulan ,Lieutenant Governor,,Dem,Charlie Bailey,73,38,7,0,28
+Worth,Sumner,Lieutenant Governor,,Dem,Charlie Bailey,79,33,8,1,37
+Worth,Red Rock,Lieutenant Governor,,Dem,Charlie Bailey,114,62,7,0,45
+Worth,Doles,Lieutenant Governor,,Dem,Charlie Bailey,18,8,2,0,8
+Worth,Warwick,Lieutenant Governor,,Dem,Charlie Bailey,116,19,25,0,72
+Worth,Sylvester ,Lieutenant Governor,,L,Ryan Graham,17,10,0,0,7
+Worth,Scooterville ,Lieutenant Governor,,L,Ryan Graham,3,0,0,0,3
+Worth,Minton,Lieutenant Governor,,L,Ryan Graham,4,3,0,0,1
+Worth,Bridgeboro,Lieutenant Governor,,L,Ryan Graham,6,3,0,0,3
+Worth,County Line,Lieutenant Governor,,L,Ryan Graham,3,0,0,0,3
+Worth,Isabella ,Lieutenant Governor,,L,Ryan Graham,9,5,0,0,4
+Worth,Sylvester East,Lieutenant Governor,,L,Ryan Graham,12,4,0,0,8
+Worth,Poulan ,Lieutenant Governor,,L,Ryan Graham,5,3,0,0,2
+Worth,Sumner,Lieutenant Governor,,L,Ryan Graham,4,1,0,0,3
+Worth,Red Rock,Lieutenant Governor,,L,Ryan Graham,10,3,0,0,7
+Worth,Doles,Lieutenant Governor,,L,Ryan Graham,2,0,0,0,2
+Worth,Warwick,Lieutenant Governor,,L,Ryan Graham,7,3,1,0,3
+Worth,Sylvester ,Secretary of State,,Rep,Brad Raffensperger ,560,315,17,1,227
+Worth,Scooterville ,Secretary of State,,Rep,Brad Raffensperger ,342,83,3,0,256
+Worth,Minton,Secretary of State,,Rep,Brad Raffensperger ,603,246,15,1,341
+Worth,Bridgeboro,Secretary of State,,Rep,Brad Raffensperger ,398,149,8,0,241
+Worth,County Line,Secretary of State,,Rep,Brad Raffensperger ,317,116,5,0,196
+Worth,Isabella ,Secretary of State,,Rep,Brad Raffensperger ,510,238,13,0,259
+Worth,Sylvester East,Secretary of State,,Rep,Brad Raffensperger ,829,411,19,2,397
+Worth,Poulan ,Secretary of State,,Rep,Brad Raffensperger ,447,176,6,0,265
+Worth,Sumner,Secretary of State,,Rep,Brad Raffensperger ,440,152,7,1,280
+Worth,Red Rock,Secretary of State,,Rep,Brad Raffensperger ,472,143,12,0,317
+Worth,Doles,Secretary of State,,Rep,Brad Raffensperger ,205,65,4,0,136
+Worth,Warwick,Secretary of State,,Rep,Brad Raffensperger ,363,81,8,0,274
+Worth,Sylvester ,Secretary of State,,Dem,Bee Nguyen,824,471,81,0,272
+Worth,Scooterville ,Secretary of State,,Dem,Bee Nguyen,25,12,4,0,9
+Worth,Minton,Secretary of State,,Dem,Bee Nguyen,51,28,5,0,18
+Worth,Bridgeboro,Secretary of State,,Dem,Bee Nguyen,76,40,4,1,31
+Worth,County Line,Secretary of State,,Dem,Bee Nguyen,58,30,10,0,18
+Worth,Isabella ,Secretary of State,,Dem,Bee Nguyen,52,31,3,0,18
+Worth,Sylvester East,Secretary of State,,Dem,Bee Nguyen,131,87,9,0,35
+Worth,Poulan ,Secretary of State,,Dem,Bee Nguyen,72,33,8,0,31
+Worth,Sumner,Secretary of State,,Dem,Bee Nguyen,75,30,8,1,36
+Worth,Red Rock,Secretary of State,,Dem,Bee Nguyen,114,64,5,0,45
+Worth,Doles,Secretary of State,,Dem,Bee Nguyen,20,8,2,0,10
+Worth,Warwick,Secretary of State,,Dem,Bee Nguyen,104,14,25,0,65
+Worth,Sylvester ,Secretary of State,,L,Ted Metz,23,12,0,0,11
+Worth,Scooterville ,Secretary of State,,L,Ted Metz,10,2,0,0,8
+Worth,Minton,Secretary of State,,L,Ted Metz,15,3,1,0,11
+Worth,Bridgeboro,Secretary of State,,L,Ted Metz,10,4,0,0,6
+Worth,County Line,Secretary of State,,L,Ted Metz,11,3,0,0,8
+Worth,Isabella ,Secretary of State,,L,Ted Metz,16,8,0,0,8
+Worth,Sylvester East,Secretary of State,,L,Ted Metz,19,9,0,0,10
+Worth,Poulan ,Secretary of State,,L,Ted Metz,8,4,0,0,4
+Worth,Sumner,Secretary of State,,L,Ted Metz,15,5,0,0,10
+Worth,Red Rock,Secretary of State,,L,Ted Metz,11,4,0,0,7
+Worth,Doles,Secretary of State,,L,Ted Metz,13,6,0,1,6
+Worth,Warwick,Secretary of State,,L,Ted Metz,15,3,0,0,12
+Worth,Sylvester ,Attorney General,,Rep,Chris Carr ,545,307,14,1,223
+Worth,Scooterville ,Attorney General,,Rep,Chris Carr ,353,87,3,0,263
+Worth,Minton,Attorney General,,Rep,Chris Carr ,618,249,16,1,352
+Worth,Bridgeboro,Attorney General,,Rep,Chris Carr ,393,148,8,0,237
+Worth,County Line,Attorney General,,Rep,Chris Carr ,320,116,5,0,199
+Worth,Isabella ,Attorney General,,Rep,Chris Carr ,512,239,13,0,260
+Worth,Sylvester East,Attorney General,,Rep,Chris Carr ,831,414,17,2,398
+Worth,Poulan ,Attorney General,,Rep,Chris Carr ,455,174,6,0,275
+Worth,Sumner,Attorney General,,Rep,Chris Carr ,455,159,7,1,288
+Worth,Red Rock,Attorney General,,Rep,Chris Carr ,469,140,9,0,320
+Worth,Doles,Attorney General,,Rep,Chris Carr ,216,72,4,0,140
+Worth,Warwick,Attorney General,,Rep,Chris Carr ,363,80,7,0,276
+Worth,Sylvester ,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",874,502,83,0,289
+Worth,Scooterville ,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",23,11,4,0,8
+Worth,Minton,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",53,31,5,0,17
+Worth,Bridgeboro,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",88,47,4,1,36
+Worth,County Line,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",61,30,10,0,21
+Worth,Isabella ,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",58,36,3,0,19
+Worth,Sylvester East,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",149,96,12,0,41
+Worth,Poulan ,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",76,42,8,0,26
+Worth,Sumner,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",80,35,8,1,36
+Worth,Red Rock,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",119,67,7,0,45
+Worth,Doles,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",17,7,2,0,8
+Worth,Warwick,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",115,19,24,0,72
+Worth,Sylvester ,Attorney General,,L,Martin Cowen,11,5,1,0,5
+Worth,Scooterville ,Attorney General,,L,Martin Cowen,3,1,0,0,2
+Worth,Minton,Attorney General,,L,Martin Cowen,4,4,0,0,0
+Worth,Bridgeboro,Attorney General,,L,Martin Cowen,4,1,0,0,3
+Worth,County Line,Attorney General,,L,Martin Cowen,3,2,0,0,1
+Worth,Isabella ,Attorney General,,L,Martin Cowen,6,4,0,0,2
+Worth,Sylvester East,Attorney General,,L,Martin Cowen,8,3,0,0,5
+Worth,Poulan ,Attorney General,,L,Martin Cowen,4,1,0,0,3
+Worth,Sumner,Attorney General,,L,Martin Cowen,2,0,0,0,2
+Worth,Red Rock,Attorney General,,L,Martin Cowen,10,5,0,0,5
+Worth,Doles,Attorney General,,L,Martin Cowen,4,0,0,1,3
+Worth,Warwick,Attorney General,,L,Martin Cowen,6,1,1,0,4
+Worth,Sylvester ,Commissioner of Agriculture,,Rep,Tyler Harper,553,313,15,1,224
+Worth,Scooterville ,Commissioner of Agriculture,,Rep,Tyler Harper,357,89,3,0,265
+Worth,Minton,Commissioner of Agriculture,,Rep,Tyler Harper,628,257,16,1,354
+Worth,Bridgeboro,Commissioner of Agriculture,,Rep,Tyler Harper,403,155,8,0,240
+Worth,County Line,Commissioner of Agriculture,,Rep,Tyler Harper,322,120,5,0,197
+Worth,Isabella ,Commissioner of Agriculture,,Rep,Tyler Harper,514,237,13,0,264
+Worth,Sylvester East,Commissioner of Agriculture,,Rep,Tyler Harper,838,417,19,2,400
+Worth,Poulan ,Commissioner of Agriculture,,Rep,Tyler Harper,460,178,6,0,276
+Worth,Sumner,Commissioner of Agriculture,,Rep,Tyler Harper,459,159,7,1,292
+Worth,Red Rock,Commissioner of Agriculture,,Rep,Tyler Harper,472,145,10,0,317
+Worth,Doles,Commissioner of Agriculture,,Rep,Tyler Harper,217,71,4,1,141
+Worth,Warwick,Commissioner of Agriculture,,Rep,Tyler Harper,366,81,7,0,278
+Worth,Sylvester ,Commissioner of Agriculture,,Dem,Nakita Hemingway,856,494,82,0,280
+Worth,Scooterville ,Commissioner of Agriculture,,Dem,Nakita Hemingway,19,10,4,0,5
+Worth,Minton,Commissioner of Agriculture,,Dem,Nakita Hemingway,46,26,5,0,15
+Worth,Bridgeboro,Commissioner of Agriculture,,Dem,Nakita Hemingway,76,40,4,1,31
+Worth,County Line,Commissioner of Agriculture,,Dem,Nakita Hemingway,59,29,10,0,20
+Worth,Isabella ,Commissioner of Agriculture,,Dem,Nakita Hemingway,55,35,3,0,17
+Worth,Sylvester East,Commissioner of Agriculture,,Dem,Nakita Hemingway,137,90,11,0,36
+Worth,Poulan ,Commissioner of Agriculture,,Dem,Nakita Hemingway,69,36,7,0,26
+Worth,Sumner,Commissioner of Agriculture,,Dem,Nakita Hemingway,73,30,8,1,34
+Worth,Red Rock,Commissioner of Agriculture,,Dem,Nakita Hemingway,116,64,7,0,45
+Worth,Doles,Commissioner of Agriculture,,Dem,Nakita Hemingway,18,8,2,0,8
+Worth,Warwick,Commissioner of Agriculture,,Dem,Nakita Hemingway,111,18,25,0,68
+Worth,Sylvester ,Commissioner of Agriculture,,L,David Raudabaugh,17,10,0,0,7
+Worth,Scooterville ,Commissioner of Agriculture,,L,David Raudabaugh,3,0,0,0,3
+Worth,Minton,Commissioner of Agriculture,,L,David Raudabaugh,3,2,0,0,1
+Worth,Bridgeboro,Commissioner of Agriculture,,L,David Raudabaugh,6,2,0,0,4
+Worth,County Line,Commissioner of Agriculture,,L,David Raudabaugh,7,2,0,0,5
+Worth,Isabella ,Commissioner of Agriculture,,L,David Raudabaugh,7,5,0,0,2
+Worth,Sylvester East,Commissioner of Agriculture,,L,David Raudabaugh,12,4,0,0,8
+Worth,Poulan ,Commissioner of Agriculture,,L,David Raudabaugh,4,2,0,0,2
+Worth,Sumner,Commissioner of Agriculture,,L,David Raudabaugh,6,4,0,0,2
+Worth,Red Rock,Commissioner of Agriculture,,L,David Raudabaugh,8,3,0,0,5
+Worth,Doles,Commissioner of Agriculture,,L,David Raudabaugh,2,0,0,0,2
+Worth,Warwick,Commissioner of Agriculture,,L,David Raudabaugh,8,1,1,0,6
+Worth,Sylvester ,Commissioner of Insurance,,Rep,John King ,561,313,16,1,231
+Worth,Scooterville ,Commissioner of Insurance,,Rep,John King ,358,88,3,0,267
+Worth,Minton,Commissioner of Insurance,,Rep,John King ,624,254,16,1,353
+Worth,Bridgeboro,Commissioner of Insurance,,Rep,John King ,398,150,8,0,240
+Worth,County Line,Commissioner of Insurance,,Rep,John King ,326,121,5,0,200
+Worth,Isabella ,Commissioner of Insurance,,Rep,John King ,515,240,13,0,262
+Worth,Sylvester East,Commissioner of Insurance,,Rep,John King ,842,417,19,2,404
+Worth,Poulan ,Commissioner of Insurance,,Rep,John King ,459,178,6,0,275
+Worth,Sumner,Commissioner of Insurance,,Rep,John King ,457,161,7,1,288
+Worth,Red Rock,Commissioner of Insurance,,Rep,John King ,474,145,10,0,319
+Worth,Doles,Commissioner of Insurance,,Rep,John King ,218,71,4,1,142
+Worth,Warwick,Commissioner of Insurance,,Rep,John King ,371,82,8,0,281
+Worth,Sylvester ,Commissioner of Insurance,,Dem,Janice Laws Robinson,857,494,82,0,281
+Worth,Scooterville ,Commissioner of Insurance,,Dem,Janice Laws Robinson,22,11,4,0,7
+Worth,Minton,Commissioner of Insurance,,Dem,Janice Laws Robinson,47,27,5,0,15
+Worth,Bridgeboro,Commissioner of Insurance,,Dem,Janice Laws Robinson,85,45,4,1,35
+Worth,County Line,Commissioner of Insurance,,Dem,Janice Laws Robinson,59,28,10,0,21
+Worth,Isabella ,Commissioner of Insurance,,Dem,Janice Laws Robinson,58,34,3,0,21
+Worth,Sylvester East,Commissioner of Insurance,,Dem,Janice Laws Robinson,142,92,11,0,39
+Worth,Poulan ,Commissioner of Insurance,,Dem,Janice Laws Robinson,72,39,8,0,25
+Worth,Sumner,Commissioner of Insurance,,Dem,Janice Laws Robinson,78,31,8,1,38
+Worth,Red Rock,Commissioner of Insurance,,Dem,Janice Laws Robinson,119,66,7,0,46
+Worth,Doles,Commissioner of Insurance,,Dem,Janice Laws Robinson,18,8,2,0,8
+Worth,Warwick,Commissioner of Insurance,,Dem,Janice Laws Robinson,113,18,25,0,70
+Worth,Sylvester ,State School Superintendent,,Rep,Richard Woods ,555,314,15,1,225
+Worth,Scooterville ,State School Superintendent,,Rep,Richard Woods ,359,89,3,0,267
+Worth,Minton,State School Superintendent,,Rep,Richard Woods ,627,255,16,1,355
+Worth,Bridgeboro,State School Superintendent,,Rep,Richard Woods ,398,150,8,0,240
+Worth,County Line,State School Superintendent,,Rep,Richard Woods ,328,123,5,0,200
+Worth,Isabella ,State School Superintendent,,Rep,Richard Woods ,518,242,13,0,263
+Worth,Sylvester East,State School Superintendent,,Rep,Richard Woods ,848,422,21,2,403
+Worth,Poulan ,State School Superintendent,,Rep,Richard Woods ,459,176,6,0,277
+Worth,Sumner,State School Superintendent,,Rep,Richard Woods ,455,158,7,1,289
+Worth,Red Rock,State School Superintendent,,Rep,Richard Woods ,475,145,9,0,321
+Worth,Doles,State School Superintendent,,Rep,Richard Woods ,217,71,4,1,141
+Worth,Warwick,State School Superintendent,,Rep,Richard Woods ,373,83,8,0,282
+Worth,Sylvester ,State School Superintendent,,Dem,Alisha Thomas Searcy,864,495,83,0,286
+Worth,Scooterville ,State School Superintendent,,Dem,Alisha Thomas Searcy,19,10,4,0,5
+Worth,Minton,State School Superintendent,,Dem,Alisha Thomas Searcy,46,26,5,0,15
+Worth,Bridgeboro,State School Superintendent,,Dem,Alisha Thomas Searcy,86,45,4,1,36
+Worth,County Line,State School Superintendent,,Dem,Alisha Thomas Searcy,59,28,10,0,21
+Worth,Isabella ,State School Superintendent,,Dem,Alisha Thomas Searcy,56,34,3,0,19
+Worth,Sylvester East,State School Superintendent,,Dem,Alisha Thomas Searcy,140,88,9,0,43
+Worth,Poulan ,State School Superintendent,,Dem,Alisha Thomas Searcy,75,40,8,0,27
+Worth,Sumner,State School Superintendent,,Dem,Alisha Thomas Searcy,81,34,8,1,38
+Worth,Red Rock,State School Superintendent,,Dem,Alisha Thomas Searcy,120,67,7,0,46
+Worth,Doles,State School Superintendent,,Dem,Alisha Thomas Searcy,17,8,2,0,7
+Worth,Warwick,State School Superintendent,,Dem,Alisha Thomas Searcy,113,17,25,0,71
+Worth,Sylvester ,Commissioner of Labor,,Rep,Bruce Thompson,551,314,14,1,222
+Worth,Scooterville ,Commissioner of Labor,,Rep,Bruce Thompson,354,88,3,0,263
+Worth,Minton,Commissioner of Labor,,Rep,Bruce Thompson,624,255,16,1,352
+Worth,Bridgeboro,Commissioner of Labor,,Rep,Bruce Thompson,393,149,8,0,236
+Worth,County Line,Commissioner of Labor,,Rep,Bruce Thompson,321,119,5,0,197
+Worth,Isabella ,Commissioner of Labor,,Rep,Bruce Thompson,511,235,13,0,263
+Worth,Sylvester East,Commissioner of Labor,,Rep,Bruce Thompson,837,417,19,2,399
+Worth,Poulan ,Commissioner of Labor,,Rep,Bruce Thompson,453,173,6,0,274
+Worth,Sumner,Commissioner of Labor,,Rep,Bruce Thompson,454,157,7,1,289
+Worth,Red Rock,Commissioner of Labor,,Rep,Bruce Thompson,470,143,9,0,318
+Worth,Doles,Commissioner of Labor,,Rep,Bruce Thompson,217,71,4,1,141
+Worth,Warwick,Commissioner of Labor,,Rep,Bruce Thompson,362,79,7,0,276
+Worth,Sylvester ,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",856,493,84,0,279
+Worth,Scooterville ,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",22,11,4,0,7
+Worth,Minton,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",46,25,5,0,16
+Worth,Bridgeboro,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",81,45,4,1,31
+Worth,County Line,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",62,29,10,0,23
+Worth,Isabella ,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",55,35,3,0,17
+Worth,Sylvester East,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",139,90,11,0,38
+Worth,Poulan ,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",73,39,7,0,27
+Worth,Sumner,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",78,34,8,1,35
+Worth,Red Rock,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",117,65,8,0,44
+Worth,Doles,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",17,8,2,0,7
+Worth,Warwick,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",109,16,25,0,68
+Worth,Sylvester ,Commissioner of Labor,,L,Emily Anderson,25,10,0,0,15
+Worth,Scooterville ,Commissioner of Labor,,L,Emily Anderson,2,0,0,0,2
+Worth,Minton,Commissioner of Labor,,L,Emily Anderson,3,3,0,0,0
+Worth,Bridgeboro,Commissioner of Labor,,L,Emily Anderson,10,3,0,0,7
+Worth,County Line,Commissioner of Labor,,L,Emily Anderson,4,2,0,0,2
+Worth,Isabella ,Commissioner of Labor,,L,Emily Anderson,7,5,0,0,2
+Worth,Sylvester East,Commissioner of Labor,,L,Emily Anderson,13,5,0,0,8
+Worth,Poulan ,Commissioner of Labor,,L,Emily Anderson,7,4,1,0,2
+Worth,Sumner,Commissioner of Labor,,L,Emily Anderson,7,3,0,0,4
+Worth,Red Rock,Commissioner of Labor,,L,Emily Anderson,8,3,0,0,5
+Worth,Doles,Commissioner of Labor,,L,Emily Anderson,2,0,0,0,2
+Worth,Warwick,Commissioner of Labor,,L,Emily Anderson,13,5,1,0,7
+Worth,Sylvester ,U.S. House,,Rep,Austin Scott ,579,330,17,1,231
+Worth,Scooterville ,U.S. House,,Rep,Austin Scott ,359,89,3,0,267
+Worth,Minton,U.S. House,,Rep,Austin Scott ,628,257,15,1,355
+Worth,Bridgeboro,U.S. House,,Rep,Austin Scott ,407,152,8,0,247
+Worth,County Line,U.S. House,,Rep,Austin Scott ,327,123,5,0,199
+Worth,Isabella ,U.S. House,,Rep,Austin Scott ,523,242,13,0,268
+Worth,Sylvester East,U.S. House,,Rep,Austin Scott ,846,421,19,2,404
+Worth,Poulan ,U.S. House,,Rep,Austin Scott ,463,179,6,0,278
+Worth,Sumner,U.S. House,,Rep,Austin Scott ,460,161,7,1,291
+Worth,Red Rock,U.S. House,,Rep,Austin Scott ,484,147,9,0,328
+Worth,Doles,U.S. House,,Rep,Austin Scott ,218,69,4,1,144
+Worth,Warwick,U.S. House,,Rep,Austin Scott ,373,83,8,0,282
+Worth,Sylvester ,U.S. House,,Dem,Darrius Butler,849,485,80,0,284
+Worth,Scooterville ,U.S. House,,Dem,Darrius Butler,21,10,4,0,7
+Worth,Minton,U.S. House,,Dem,Darrius Butler,47,26,5,0,16
+Worth,Bridgeboro,U.S. House,,Dem,Darrius Butler,81,45,4,1,31
+Worth,County Line,U.S. House,,Dem,Darrius Butler,60,28,10,0,22
+Worth,Isabella ,U.S. House,,Dem,Darrius Butler,52,33,3,0,16
+Worth,Sylvester East,U.S. House,,Dem,Darrius Butler,144,91,12,0,41
+Worth,Poulan ,U.S. House,,Dem,Darrius Butler,69,38,6,0,25
+Worth,Sumner,U.S. House,,Dem,Darrius Butler,81,33,8,1,39
+Worth,Red Rock,U.S. House,,Dem,Darrius Butler,114,64,8,0,42
+Worth,Doles,U.S. House,,Dem,Darrius Butler,18,8,2,0,8
+Worth,Warwick,U.S. House,,Dem,Darrius Butler,113,16,25,0,72
+Worth,Sylvester ,State Senate,,Rep,Carden H. Summers ,915,511,42,1,361
+Worth,Scooterville ,State Senate,,Rep,Carden H. Summers ,367,93,3,0,271
+Worth,Minton,State Senate,,Rep,Carden H. Summers ,641,265,15,1,360
+Worth,Bridgeboro,State Senate,,Rep,Carden H. Summers ,439,172,10,1,256
+Worth,County Line,State Senate,,Rep,Carden H. Summers ,360,135,12,0,213
+Worth,Isabella ,State Senate,,Rep,Carden H. Summers ,542,253,13,0,276
+Worth,Sylvester East,State Senate,,Rep,Carden H. Summers ,899,447,27,2,423
+Worth,Poulan ,State Senate,,Rep,Carden H. Summers ,492,198,9,0,285
+Worth,Sumner,State Senate,,Rep,Carden H. Summers ,495,178,9,2,306
+Worth,Red Rock,State Senate,,Rep,Carden H. Summers ,528,178,10,0,340
+Worth,Doles,State Senate,,Rep,Carden H. Summers ,221,73,4,1,143
+Worth,Warwick,State Senate,,Rep,Carden H. Summers ,427,86,28,0,313
+Worth,Sylvester ,State House,,Rep,Bill Yearta ,994,556,51,1,386
+Worth,Scooterville ,State House,,Rep,Bill Yearta ,365,92,4,0,269
+Worth,Minton,State House,,Rep,Bill Yearta ,635,262,15,1,357
+Worth,Bridgeboro,State House,,Rep,Bill Yearta ,441,172,9,1,259
+Worth,County Line,State House,,Rep,Bill Yearta ,360,134,12,0,214
+Worth,Isabella ,State House,,Rep,Bill Yearta ,544,256,14,0,274
+Worth,Sylvester East,State House,,Rep,Bill Yearta ,909,452,28,2,427
+Worth,Poulan ,State House,,Rep,Bill Yearta ,491,197,9,0,285
+Worth,Sumner,State House,,Rep,Bill Yearta ,498,178,9,2,309
+Worth,Red Rock,State House,,Rep,Bill Yearta ,527,178,11,0,338
+Worth,Doles,State House,,Rep,Bill Yearta ,219,73,4,1,141
+Worth,Warwick,State House,,Rep,Bill Yearta ,429,86,28,0,315
+Worth,Sylvester ,BoE, Chair,Rep,Hubert Souter ,956,536,47,1,372
+Worth,Scooterville ,BoE, Chair,Rep,Hubert Souter ,368,93,3,0,272
+Worth,Minton,BoE, Chair,Rep,Hubert Souter ,642,267,15,1,359
+Worth,Bridgeboro,BoE, Chair,Rep,Hubert Souter ,442,170,9,1,262
+Worth,County Line,BoE, Chair,Rep,Hubert Souter ,360,136,12,0,212
+Worth,Isabella ,BoE, Chair,Rep,Hubert Souter ,540,253,13,0,274
+Worth,Sylvester East,BoE, Chair,Rep,Hubert Souter ,905,452,27,2,424
+Worth,Poulan ,BoE, Chair,Rep,Hubert Souter ,495,200,10,0,285
+Worth,Sumner,BoE, Chair,Rep,Hubert Souter ,494,180,9,2,303
+Worth,Red Rock,BoE, Chair,Rep,Hubert Souter ,527,176,11,0,340
+Worth,Doles,BoE, Chair,Rep,Hubert Souter ,220,73,4,1,142
+Worth,Warwick,BoE, Chair,Rep,Hubert Souter ,423,87,27,0,309
+Worth,Sylvester East,County Commissioner D2,,Rep,Ken Hall ,897,444,27,2,424
+Worth,Poulan ,County Commissioner D2,,Rep,Ken Hall ,481,190,10,0,281
+Worth,Sumner,County Commissioner D2,,Rep,Ken Hall ,483,176,9,2,296
+Worth,Isabella ,County Commissioner D3,,Rep,E. Dice Roberts ,532,250,13,0,269
+Worth,Red Rock,County Commissioner D3,,Rep,E. Dice Roberts ,526,178,11,0,337
+Worth,Doles,County Commissioner D3,,Rep,E. Dice Roberts ,217,71,4,0,142
+Worth,Warwick,County Commissioner D3,,Rep,E. Dice Roberts ,420,84,28,0,308
+Worth,Scooterville ,County Commissioner D4,,Rep,Kemp S. Willis ,362,91,3,0,268
+Worth,Minton,County Commissioner D4,,Rep,Kemp S. Willis ,649,270,14,1,364
+Worth,Bridgeboro,County Commissioner D4,,Rep,Kemp S. Willis ,438,170,10,1,257
+Worth,County Line,County Commissioner D4,,Rep,Kemp S. Willis ,363,136,12,0,215
+Worth,Sylvester ,BOE D1,,Dem,Justin M. Lucas,1137,636,84,0,417
+Worth,Scooterville ,BOE D4,,Rep,Marc Haralson,365,93,3,0,269
+Worth,Minton,BOE D4,,Rep,Marc Haralson,646,267,13,1,365
+Worth,Bridgeboro,BOE D4,,Rep,Marc Haralson,442,172,10,1,259
+Worth,County Line,BOE D4,,Rep,Marc Haralson,360,135,12,0,213
+Worth,Sylvester ,Constitutional Amendment #1,,,Yes,1163,651,88,0,424
+Worth,Scooterville ,Constitutional Amendment #1,,,Yes,314,89,3,0,222
+Worth,Minton,Constitutional Amendment #1,,,Yes,581,242,19,1,319
+Worth,Bridgeboro,Constitutional Amendment #1,,,Yes,414,174,9,0,231
+Worth,County Line,Constitutional Amendment #1,,,Yes,327,128,12,0,187
+Worth,Isabella ,Constitutional Amendment #1,,,Yes,497,238,12,0,247
+Worth,Sylvester East,Constitutional Amendment #1,,,Yes,874,446,28,1,399
+Worth,Poulan ,Constitutional Amendment #1,,,Yes,448,183,12,0,253
+Worth,Sumner,Constitutional Amendment #1,,,Yes,454,165,13,2,274
+Worth,Red Rock,Constitutional Amendment #1,,,Yes,512,186,14,0,312
+Worth,Doles,Constitutional Amendment #1,,,Yes,204,71,4,1,128
+Worth,Warwick,Constitutional Amendment #1,,,Yes,416,85,29,0,302
+Worth,Sylvester ,Constitutional Amendment #1,,,No,197,119,6,1,71
+Worth,Scooterville ,Constitutional Amendment #1,,,No,56,9,2,0,45
+Worth,Minton,Constitutional Amendment #1,,,No,82,37,1,0,44
+Worth,Bridgeboro,Constitutional Amendment #1,,,No,61,17,3,1,40
+Worth,County Line,Constitutional Amendment #1,,,No,50,16,2,0,32
+Worth,Isabella ,Constitutional Amendment #1,,,No,63,32,4,0,27
+Worth,Sylvester East,Constitutional Amendment #1,,,No,97,52,2,1,42
+Worth,Poulan ,Constitutional Amendment #1,,,No,65,27,0,0,38
+Worth,Sumner,Constitutional Amendment #1,,,No,69,24,1,0,44
+Worth,Red Rock,Constitutional Amendment #1,,,No,69,22,2,0,45
+Worth,Doles,Constitutional Amendment #1,,,No,26,8,2,0,16
+Worth,Warwick,Constitutional Amendment #1,,,No,49,8,0,0,41
+Worth,Sylvester ,Constitutional Amendment #2,,,Yes,1240,693,88,0,459
+Worth,Scooterville ,Constitutional Amendment #2,,,Yes,309,87,5,0,217
+Worth,Minton,Constitutional Amendment #2,,,Yes,587,245,18,1,323
+Worth,Bridgeboro,Constitutional Amendment #2,,,Yes,431,167,12,1,251
+Worth,County Line,Constitutional Amendment #2,,,Yes,350,132,13,0,205
+Worth,Isabella ,Constitutional Amendment #2,,,Yes,507,243,12,0,252
+Worth,Sylvester East,Constitutional Amendment #2,,,Yes,876,446,29,1,400
+Worth,Poulan ,Constitutional Amendment #2,,,Yes,460,188,13,0,259
+Worth,Sumner,Constitutional Amendment #2,,,Yes,471,170,14,2,285
+Worth,Red Rock,Constitutional Amendment #2,,,Yes,530,186,10,0,334
+Worth,Doles,Constitutional Amendment #2,,,Yes,219,74,6,1,138
+Worth,Warwick,Constitutional Amendment #2,,,Yes,423,90,29,0,304
+Worth,Sylvester ,Constitutional Amendment #2,,,No,147,94,7,1,45
+Worth,Scooterville ,Constitutional Amendment #2,,,No,62,10,1,0,51
+Worth,Minton,Constitutional Amendment #2,,,No,78,33,1,0,44
+Worth,Bridgeboro,Constitutional Amendment #2,,,No,53,27,0,0,26
+Worth,County Line,Constitutional Amendment #2,,,No,29,12,2,0,15
+Worth,Isabella ,Constitutional Amendment #2,,,No,59,29,4,0,26
+Worth,Sylvester East,Constitutional Amendment #2,,,No,102,59,1,1,41
+Worth,Poulan ,Constitutional Amendment #2,,,No,63,26,0,0,37
+Worth,Sumner,Constitutional Amendment #2,,,No,56,19,0,0,37
+Worth,Red Rock,Constitutional Amendment #2,,,No,58,22,6,0,30
+Worth,Doles,Constitutional Amendment #2,,,No,12,5,0,0,7
+Worth,Warwick,Constitutional Amendment #2,,,No,48,6,1,0,41
+Worth,Sylvester ,Statewide Referendum A,,,Yes,905,500,46,0,359
+Worth,Scooterville ,Statewide Referendum A,,,Yes,238,59,4,0,175
+Worth,Minton,Statewide Referendum A,,,Yes,433,180,6,1,246
+Worth,Bridgeboro,Statewide Referendum A,,,Yes,300,107,5,0,188
+Worth,County Line,Statewide Referendum A,,,Yes,259,95,5,0,159
+Worth,Isabella ,Statewide Referendum A,,,Yes,359,171,9,0,179
+Worth,Sylvester East,Statewide Referendum A,,,Yes,608,287,15,1,305
+Worth,Poulan ,Statewide Referendum A,,,Yes,317,130,10,0,177
+Worth,Sumner,Statewide Referendum A,,,Yes,349,124,3,2,220
+Worth,Red Rock,Statewide Referendum A,,,Yes,378,118,8,0,252
+Worth,Doles,Statewide Referendum A,,,Yes,158,55,5,0,98
+Worth,Warwick,Statewide Referendum A,,,Yes,299,64,5,0,230
+Worth,Sylvester ,Statewide Referendum A,,,No,464,280,49,1,134
+Worth,Scooterville ,Statewide Referendum A,,,No,128,38,1,0,89
+Worth,Minton,Statewide Referendum A,,,No,218,96,8,0,114
+Worth,Bridgeboro,Statewide Referendum A,,,No,174,84,5,1,84
+Worth,County Line,Statewide Referendum A,,,No,117,48,9,0,60
+Worth,Isabella ,Statewide Referendum A,,,No,200,100,7,0,93
+Worth,Sylvester East,Statewide Referendum A,,,No,360,208,15,1,136
+Worth,Poulan ,Statewide Referendum A,,,No,198,81,1,0,116
+Worth,Sumner,Statewide Referendum A,,,No,180,68,9,0,103
+Worth,Red Rock,Statewide Referendum A,,,No,200,87,8,0,105
+Worth,Doles,Statewide Referendum A,,,No,68,24,1,1,42
+Worth,Warwick,Statewide Referendum A,,,No,168,31,23,0,114
+Worth,Sylvester ,Statewide Referendum B,,,Yes,993,552,51,0,390
+Worth,Scooterville ,Statewide Referendum B,,,Yes,275,72,2,0,201
+Worth,Minton,Statewide Referendum B,,,Yes,489,202,9,1,277
+Worth,Bridgeboro,Statewide Referendum B,,,Yes,371,149,7,0,215
+Worth,County Line,Statewide Referendum B,,,Yes,300,118,5,0,177
+Worth,Isabella ,Statewide Referendum B,,,Yes,416,196,9,0,211
+Worth,Sylvester East,Statewide Referendum B,,,Yes,684,334,15,1,334
+Worth,Poulan ,Statewide Referendum B,,,Yes,377,151,11,0,215
+Worth,Sumner,Statewide Referendum B,,,Yes,410,148,11,2,249
+Worth,Red Rock,Statewide Referendum B,,,Yes,427,138,9,0,280
+Worth,Doles,Statewide Referendum B,,,Yes,186,66,4,0,116
+Worth,Warwick,Statewide Referendum B,,,Yes,333,69,10,0,254
+Worth,Sylvester ,Statewide Referendum B,,,No,375,227,43,1,104
+Worth,Scooterville ,Statewide Referendum B,,,No,96,26,2,0,68
+Worth,Minton,Statewide Referendum B,,,No,161,74,5,0,82
+Worth,Bridgeboro,Statewide Referendum B,,,No,105,44,3,1,57
+Worth,County Line,Statewide Referendum B,,,No,75,26,9,0,40
+Worth,Isabella ,Statewide Referendum B,,,No,143,75,7,0,61
+Worth,Sylvester East,Statewide Referendum B,,,No,280,163,14,1,102
+Worth,Poulan ,Statewide Referendum B,,,No,141,60,0,0,81
+Worth,Sumner,Statewide Referendum B,,,No,121,43,3,0,75
+Worth,Red Rock,Statewide Referendum B,,,No,156,68,7,0,81
+Worth,Doles,Statewide Referendum B,,,No,41,13,2,1,25
+Worth,Warwick,Statewide Referendum B,,,No,135,26,20,0,89

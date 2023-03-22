@@ -1,0 +1,193 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Macon,Ideal,U.S. Senate,,Rep,Herschel Junior Walker,445,247,9,0,189
+Macon,Oglethorpe,U.S. Senate,,Rep,Herschel Junior Walker,291,196,8,0,87
+Macon,Marshallville,U.S. Senate,,Rep,Herschel Junior Walker,310,161,7,0,142
+Macon,Montezuma #4,U.S. Senate,,Rep,Herschel Junior Walker,268,192,8,0,68
+Macon,Montezuma #5,U.S. Senate,,Rep,Herschel Junior Walker,146,103,5,0,38
+Macon,Ideal,U.S. Senate,,Dem,Raphael Warnock ,336,217,27,0,92
+Macon,Oglethorpe,U.S. Senate,,Dem,Raphael Warnock ,408,287,34,0,87
+Macon,Marshallville,U.S. Senate,,Dem,Raphael Warnock ,451,158,35,0,258
+Macon,Montezuma #4,U.S. Senate,,Dem,Raphael Warnock ,549,322,47,0,180
+Macon,Montezuma #5,U.S. Senate,,Dem,Raphael Warnock ,525,289,54,0,182
+Macon,Ideal,U.S. Senate,,Lib,Chase Oliver,6,1,0,0,5
+Macon,Oglethorpe,U.S. Senate,,Lib,Chase Oliver,11,5,0,0,6
+Macon,Marshallville,U.S. Senate,,Lib,Chase Oliver,8,2,0,0,6
+Macon,Montezuma #4,U.S. Senate,,Lib,Chase Oliver,3,1,1,0,1
+Macon,Montezuma #5,U.S. Senate,,Lib,Chase Oliver,4,4,0,0,0
+Macon,Ideal,Governor,,Rep,Brian Kemp ,461,258,9,0,194
+Macon,Oglethorpe,Governor,,Rep,Brian Kemp ,309,206,8,0,95
+Macon,Marshallville,Governor,,Rep,Brian Kemp ,334,173,8,0,153
+Macon,Montezuma #4,Governor,,Rep,Brian Kemp ,291,206,9,0,76
+Macon,Montezuma #5,Governor,,Rep,Brian Kemp ,156,112,5,0,39
+Macon,Ideal,Governor,,Dem,Stacey Abrams,327,206,27,0,94
+Macon,Oglethorpe,Governor,,Dem,Stacey Abrams,395,278,34,0,83
+Macon,Marshallville,Governor,,Dem,Stacey Abrams,436,148,34,0,254
+Macon,Montezuma #4,Governor,,Dem,Stacey Abrams,526,306,45,0,175
+Macon,Montezuma #5,Governor,,Dem,Stacey Abrams,525,289,55,0,181
+Macon,Ideal,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Macon,Oglethorpe,Governor,,Lib,Shane Hazel,6,4,0,0,2
+Macon,Marshallville,Governor,,Lib,Shane Hazel,4,0,0,0,4
+Macon,Montezuma #4,Governor,,Lib,Shane Hazel,5,3,1,0,1
+Macon,Montezuma #5,Governor,,Lib,Shane Hazel,1,1,0,0,0
+Macon,Ideal,Lieutenant Governor,,Rep,Burt Jones,456,252,9,0,195
+Macon,Oglethorpe,Lieutenant Governor,,Rep,Burt Jones,307,208,8,0,91
+Macon,Marshallville,Lieutenant Governor,,Rep,Burt Jones,325,167,8,0,150
+Macon,Montezuma #4,Lieutenant Governor,,Rep,Burt Jones,280,201,9,0,70
+Macon,Montezuma #5,Lieutenant Governor,,Rep,Burt Jones,149,108,5,0,36
+Macon,Ideal,Lieutenant Governor,,Dem,Charlie Bailey,310,200,27,0,83
+Macon,Oglethorpe,Lieutenant Governor,,Dem,Charlie Bailey,387,266,35,0,86
+Macon,Marshallville,Lieutenant Governor,,Dem,Charlie Bailey,425,145,34,0,246
+Macon,Montezuma #4,Lieutenant Governor,,Dem,Charlie Bailey,512,296,44,0,172
+Macon,Montezuma #5,Lieutenant Governor,,Dem,Charlie Bailey,497,270,54,0,173
+Macon,Ideal,Lieutenant Governor,,Lib,Ryan Graham,2,1,0,0,1
+Macon,Oglethorpe,Lieutenant Governor,,Lib,Ryan Graham,6,4,0,0,2
+Macon,Marshallville,Lieutenant Governor,,Lib,Ryan Graham,5,1,0,0,4
+Macon,Montezuma #4,Lieutenant Governor,,Lib,Ryan Graham,7,2,1,0,4
+Macon,Montezuma #5,Lieutenant Governor,,Lib,Ryan Graham,3,1,0,0,2
+Macon,Ideal,Secretary of State,,Rep,Brad Raffensperger ,451,249,10,0,192
+Macon,Oglethorpe,Secretary of State,,Rep,Brad Raffensperger ,316,210,8,0,98
+Macon,Marshallville,Secretary of State,,Rep,Brad Raffensperger ,331,168,7,0,156
+Macon,Montezuma #4,Secretary of State,,Rep,Brad Raffensperger ,292,209,7,0,76
+Macon,Montezuma #5,Secretary of State,,Rep,Brad Raffensperger ,149,105,6,0,38
+Macon,Ideal,Secretary of State,,Dem,Bee Nguyen,311,204,26,0,81
+Macon,Oglethorpe,Secretary of State,,Dem,Bee Nguyen,364,255,34,0,75
+Macon,Marshallville,Secretary of State,,Dem,Bee Nguyen,403,133,34,0,236
+Macon,Montezuma #4,Secretary of State,,Dem,Bee Nguyen,497,283,45,0,169
+Macon,Montezuma #5,Secretary of State,,Dem,Bee Nguyen,489,271,53,0,165
+Macon,Ideal,Secretary of State,,Lib,Ted Metz,9,3,0,0,6
+Macon,Oglethorpe,Secretary of State,,Lib,Ted Metz,13,8,0,0,5
+Macon,Marshallville,Secretary of State,,Lib,Ted Metz,20,12,0,0,8
+Macon,Montezuma #4,Secretary of State,,Lib,Ted Metz,13,8,2,0,3
+Macon,Montezuma #5,Secretary of State,,Lib,Ted Metz,10,5,0,0,5
+Macon,Ideal,Attorney General,,Rep,Chris Carr ,461,256,10,0,195
+Macon,Oglethorpe,Attorney General,,Rep,Chris Carr ,300,202,8,0,90
+Macon,Marshallville,Attorney General,,Rep,Chris Carr ,324,172,7,0,145
+Macon,Montezuma #4,Attorney General,,Rep,Chris Carr ,278,201,8,0,69
+Macon,Montezuma #5,Attorney General,,Rep,Chris Carr ,153,107,6,0,40
+Macon,Ideal,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",307,203,25,0,79
+Macon,Oglethorpe,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",387,272,35,0,80
+Macon,Marshallville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",427,141,34,0,252
+Macon,Montezuma #4,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",517,301,45,0,171
+Macon,Montezuma #5,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",496,273,53,0,170
+Macon,Ideal,Attorney General,,Lib,Martin Cowen,4,1,0,0,3
+Macon,Oglethorpe,Attorney General,,Lib,Martin Cowen,10,4,0,0,6
+Macon,Marshallville,Attorney General,,Lib,Martin Cowen,8,4,0,0,4
+Macon,Montezuma #4,Attorney General,,Lib,Martin Cowen,9,4,1,0,4
+Macon,Montezuma #5,Attorney General,,Lib,Martin Cowen,4,4,0,0,0
+Macon,Ideal,Commissioner Of Agriculture,,Rep,Tyler Harper,458,256,9,0,193
+Macon,Oglethorpe,Commissioner Of Agriculture,,Rep,Tyler Harper,307,209,8,0,90
+Macon,Marshallville,Commissioner Of Agriculture,,Rep,Tyler Harper,330,172,7,0,151
+Macon,Montezuma #4,Commissioner Of Agriculture,,Rep,Tyler Harper,288,206,10,0,72
+Macon,Montezuma #5,Commissioner Of Agriculture,,Rep,Tyler Harper,160,114,5,0,41
+Macon,Ideal,Commissioner Of Agriculture,,Dem,Nakita Hemingway,304,197,26,0,81
+Macon,Oglethorpe,Commissioner Of Agriculture,,Dem,Nakita Hemingway,379,265,34,0,80
+Macon,Marshallville,Commissioner Of Agriculture,,Dem,Nakita Hemingway,416,139,34,0,243
+Macon,Montezuma #4,Commissioner Of Agriculture,,Dem,Nakita Hemingway,508,294,43,0,171
+Macon,Montezuma #5,Commissioner Of Agriculture,,Dem,Nakita Hemingway,494,272,53,0,169
+Macon,Ideal,Commissioner Of Agriculture,,Lib,David Raudabaugh,10,6,0,0,4
+Macon,Oglethorpe,Commissioner Of Agriculture,,Lib,David Raudabaugh,12,5,0,0,7
+Macon,Marshallville,Commissioner Of Agriculture,,Lib,David Raudabaugh,11,4,0,0,7
+Macon,Montezuma #4,Commissioner Of Agriculture,,Lib,David Raudabaugh,8,5,1,0,2
+Macon,Montezuma #5,Commissioner Of Agriculture,,Lib,David Raudabaugh,6,4,0,0,2
+Macon,Ideal,Commissioner Of Insurance,,Rep,John King ,460,253,10,0,197
+Macon,Oglethorpe,Commissioner Of Insurance,,Rep,John King ,306,204,8,0,94
+Macon,Marshallville,Commissioner Of Insurance,,Rep,John King ,324,168,7,0,149
+Macon,Montezuma #4,Commissioner Of Insurance,,Rep,John King ,287,207,10,0,70
+Macon,Montezuma #5,Commissioner Of Insurance,,Rep,John King ,150,105,5,0,40
+Macon,Ideal,Commissioner Of Insurance,,Dem,Janice Laws Robinson,309,203,25,0,81
+Macon,Oglethorpe,Commissioner Of Insurance,,Dem,Janice Laws Robinson,392,274,35,0,83
+Macon,Marshallville,Commissioner Of Insurance,,Dem,Janice Laws Robinson,428,143,35,0,250
+Macon,Montezuma #4,Commissioner Of Insurance,,Dem,Janice Laws Robinson,515,299,43,0,173
+Macon,Montezuma #5,Commissioner Of Insurance,,Dem,Janice Laws Robinson,505,280,53,0,172
+Macon,Ideal,State School Superintendent,,Rep,Richard Woods ,460,257,10,0,193
+Macon,Oglethorpe,State School Superintendent,,Rep,Richard Woods ,314,212,8,0,94
+Macon,Marshallville,State School Superintendent,,Rep,Richard Woods ,326,169,7,0,150
+Macon,Montezuma #4,State School Superintendent,,Rep,Richard Woods ,288,204,10,0,74
+Macon,Montezuma #5,State School Superintendent,,Rep,Richard Woods ,159,113,5,0,41
+Macon,Ideal,State School Superintendent,,Dem,Alisha Thomas Searcy,309,200,25,0,84
+Macon,Oglethorpe,State School Superintendent,,Dem,Alisha Thomas Searcy,389,271,35,0,83
+Macon,Marshallville,State School Superintendent,,Dem,Alisha Thomas Searcy,427,144,35,0,248
+Macon,Montezuma #4,State School Superintendent,,Dem,Alisha Thomas Searcy,522,305,44,0,173
+Macon,Montezuma #5,State School Superintendent,,Dem,Alisha Thomas Searcy,502,276,54,0,172
+Macon,Ideal,Commissioner Of Labor,,Rep,Bruce Thompson,455,253,9,0,193
+Macon,Oglethorpe,Commissioner Of Labor,,Rep,Bruce Thompson,302,202,8,0,92
+Macon,Marshallville,Commissioner Of Labor,,Rep,Bruce Thompson,325,166,7,0,152
+Macon,Montezuma #4,Commissioner Of Labor,,Rep,Bruce Thompson,281,200,10,0,71
+Macon,Montezuma #5,Commissioner Of Labor,,Rep,Bruce Thompson,151,105,6,0,40
+Macon,Ideal,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",309,202,26,0,81
+Macon,Oglethorpe,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",376,264,33,0,79
+Macon,Marshallville,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",419,141,35,0,243
+Macon,Montezuma #4,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",513,299,44,0,170
+Macon,Montezuma #5,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",501,278,53,0,170
+Macon,Ideal,Commissioner Of Labor,,Lib,Emily Anderson,7,3,0,0,4
+Macon,Oglethorpe,Commissioner Of Labor,,Lib,Emily Anderson,13,7,1,0,5
+Macon,Marshallville,Commissioner Of Labor,,Lib,Emily Anderson,12,4,0,0,8
+Macon,Montezuma #4,Commissioner Of Labor,,Lib,Emily Anderson,7,4,0,0,3
+Macon,Montezuma #5,Commissioner Of Labor,,Lib,Emily Anderson,5,4,0,0,1
+Macon,Ideal,U.S. House,2,Rep,Chris West,425,235,6,0,184
+Macon,Oglethorpe,U.S. House,2,Rep,Chris West,288,191,8,0,89
+Macon,Marshallville,U.S. House,2,Rep,Chris West,314,161,7,0,146
+Macon,Montezuma #4,U.S. House,2,Rep,Chris West,268,192,8,0,68
+Macon,Montezuma #5,U.S. House,2,Rep,Chris West,145,103,4,0,38
+Macon,Ideal,U.S. House,2,Dem,Sanford Bishop ,358,230,30,0,98
+Macon,Oglethorpe,U.S. House,2,Dem,Sanford Bishop ,414,293,35,0,86
+Macon,Marshallville,U.S. House,2,Dem,Sanford Bishop ,449,155,34,0,260
+Macon,Montezuma #4,U.S. House,2,Dem,Sanford Bishop ,549,321,48,0,180
+Macon,Montezuma #5,U.S. House,2,Dem,Sanford Bishop ,524,294,56,0,174
+Macon,Ideal,State Senate,15,Dem,Ed Harbison ,512,308,32,0,172
+Macon,Oglethorpe,State Senate,15,Dem,Ed Harbison ,527,361,38,0,128
+Macon,Marshallville,State Senate,15,Dem,Ed Harbison ,523,194,34,0,295
+Macon,Montezuma #4,State Senate,15,Dem,Ed Harbison ,636,389,49,0,198
+Macon,Montezuma #5,State Senate,15,Dem,Ed Harbison ,527,299,47,0,181
+Macon,Ideal,State House,150,Dem,Patty Bentley ,536,320,34,0,182
+Macon,Oglethorpe,State House,150,Dem,Patty Bentley ,539,372,39,0,128
+Macon,Marshallville,State House,150,Dem,Patty Bentley ,545,210,30,0,305
+Macon,Montezuma #4,State House,150,Dem,Patty Bentley ,645,395,49,0,201
+Macon,Montezuma #5,State House,150,Dem,Patty Bentley ,561,325,52,0,184
+Macon,Ideal,County Commissioner Dist 1,,Rep,Michael Cox,358,197,7,0,154
+Macon,Ideal,County Commissioner Dist 1,,Dem,Carl Oliver ,414,254,28,0,132
+Macon,Marshallville,County Commissioner Dist 3,,Dem,Ambrose Richmond Felton ,574,224,31,0,319
+Macon,Montezuma #5,County Commissioner Dist 5,,Dem,Bob Melvin ,567,328,54,0,185
+Macon,Ideal,County Board of Education Dist 1,,Dem,Wayne Fowler ,568,343,32,0,193
+Macon,Oglethorpe,County Board of Education Dist 2,,Dem,Cussetta Journey,516,353,37,0,126
+Macon,Montezuma #4,County Board of Education Dist 4,,Dem,Gail E. Spikes ,640,383,50,0,207
+Macon,Ideal,Constitutional Amendment #1,,,Yes,633,368,34,0,231
+Macon,Oglethorpe,Constitutional Amendment #1,,,Yes,574,395,38,0,141
+Macon,Marshallville,Constitutional Amendment #1,,,Yes,634,261,35,0,338
+Macon,Montezuma #4,Constitutional Amendment #1,,,Yes,647,404,44,0,199
+Macon,Montezuma #5,Constitutional Amendment #1,,,Yes,512,306,46,0,160
+Macon,Ideal,Constitutional Amendment #1,,,No,101,65,1,0,35
+Macon,Oglethorpe,Constitutional Amendment #1,,,No,97,72,1,0,24
+Macon,Marshallville,Constitutional Amendment #1,,,No,97,41,5,0,51
+Macon,Montezuma #4,Constitutional Amendment #1,,,No,130,77,10,0,43
+Macon,Montezuma #5,Constitutional Amendment #1,,,No,115,60,8,0,47
+Macon,Ideal,Constitutional Amendment #2,,,Yes,663,389,33,0,241
+Macon,Oglethorpe,Constitutional Amendment #2,,,Yes,609,418,34,0,157
+Macon,Marshallville,Constitutional Amendment #2,,,Yes,665,276,36,0,353
+Macon,Montezuma #4,Constitutional Amendment #2,,,Yes,692,430,51,0,211
+Macon,Montezuma #5,Constitutional Amendment #2,,,Yes,574,332,54,0,188
+Macon,Ideal,Constitutional Amendment #2,,,No,85,50,2,0,33
+Macon,Oglethorpe,Constitutional Amendment #2,,,No,68,52,5,0,11
+Macon,Marshallville,Constitutional Amendment #2,,,No,67,30,3,0,34
+Macon,Montezuma #4,Constitutional Amendment #2,,,No,89,56,2,0,31
+Macon,Montezuma #5,Constitutional Amendment #2,,,No,59,39,1,0,19
+Macon,Ideal,Statewide Referendum A,,,Yes,515,288,21,0,206
+Macon,Oglethorpe,Statewide Referendum A,,,Yes,470,320,26,0,124
+Macon,Marshallville,Statewide Referendum A,,,Yes,484,204,18,0,262
+Macon,Montezuma #4,Statewide Referendum A,,,Yes,521,320,30,0,171
+Macon,Montezuma #5,Statewide Referendum A,,,Yes,462,275,33,0,154
+Macon,Ideal,Statewide Referendum A,,,No,222,142,14,0,66
+Macon,Oglethorpe,Statewide Referendum A,,,No,200,142,14,0,44
+Macon,Marshallville,Statewide Referendum A,,,No,238,98,20,0,120
+Macon,Montezuma #4,Statewide Referendum A,,,No,256,169,21,0,66
+Macon,Montezuma #5,Statewide Referendum A,,,No,163,97,18,0,48
+Macon,Ideal,Statewide Referendum B,,,Yes,581,330,25,0,226
+Macon,Oglethorpe,Statewide Referendum B,,,Yes,522,353,30,0,139
+Macon,Marshallville,Statewide Referendum B,,,Yes,564,226,20,0,318
+Macon,Montezuma #4,Statewide Referendum B,,,Yes,578,352,35,0,191
+Macon,Montezuma #5,Statewide Referendum B,,,Yes,485,286,34,0,165
+Macon,Ideal,Statewide Referendum B,,,No,157,101,10,0,46
+Macon,Oglethorpe,Statewide Referendum B,,,No,148,110,9,0,29
+Macon,Marshallville,Statewide Referendum B,,,No,166,76,20,0,70
+Macon,Montezuma #4,Statewide Referendum B,,,No,197,131,18,0,48
+Macon,Montezuma #5,Statewide Referendum B,,,No,139,82,18,0,39

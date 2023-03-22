@@ -1,0 +1,118 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Taylor,Precinct 1,U.S. Senate,,Rep,Herschel Junior Walker,100,58,4,0,38
+Taylor,Precinct 5,U.S. Senate,,Rep,Herschel Junior Walker,1150,766,39,6,339
+Taylor,Precinct 6,U.S. Senate,,Rep,Herschel Junior Walker,770,461,27,0,282
+Taylor,Precinct 1,U.S. Senate,,Dem,Raphael Warnock ,459,243,48,7,161
+Taylor,Precinct 5,U.S. Senate,,Dem,Raphael Warnock ,214,142,23,0,49
+Taylor,Precinct 6,U.S. Senate,,Dem,Raphael Warnock ,472,203,94,1,174
+Taylor,Precinct 1,U.S. Senate,,Lib,Chase Oliver,2,0,0,0,2
+Taylor,Precinct 5,U.S. Senate,,Lib,Chase Oliver,17,13,0,0,4
+Taylor,Precinct 6,U.S. Senate,,Lib,Chase Oliver,16,9,0,0,7
+Taylor,Precinct 1,Governor,,Rep,Brian Kemp ,115,63,5,1,46
+Taylor,Precinct 5,Governor,,Rep,Brian Kemp ,1201,808,42,6,345
+Taylor,Precinct 6,Governor,,Rep,Brian Kemp ,821,489,29,0,303
+Taylor,Precinct 1,Governor,,Dem,Stacey Abrams,448,240,46,6,156
+Taylor,Precinct 5,Governor,,Dem,Stacey Abrams,177,112,19,0,46
+Taylor,Precinct 6,Governor,,Dem,Stacey Abrams,444,186,93,1,164
+Taylor,Precinct 1,Governor,,Lib,Shane Hazel,1,1,0,0,0
+Taylor,Precinct 5,Governor,,Lib,Shane Hazel,7,4,2,0,1
+Taylor,Precinct 6,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Taylor,Precinct 1,Lieutenant Governor,,Rep,Burt Jones,110,64,4,1,41
+Taylor,Precinct 5,Lieutenant Governor,,Rep,Burt Jones,1161,775,39,6,341
+Taylor,Precinct 6,Lieutenant Governor,,Rep,Burt Jones,800,475,30,0,295
+Taylor,Precinct 1,Lieutenant Governor,,Dem,Charlie Bailey,429,230,47,5,147
+Taylor,Precinct 5,Lieutenant Governor,,Dem,Charlie Bailey,185,120,20,0,45
+Taylor,Precinct 6,Lieutenant Governor,,Dem,Charlie Bailey,435,188,91,1,155
+Taylor,Precinct 1,Lieutenant Governor,,Lib,Ryan Graham,9,2,0,0,7
+Taylor,Precinct 5,Lieutenant Governor,,Lib,Ryan Graham,20,15,3,0,2
+Taylor,Precinct 6,Lieutenant Governor,,Lib,Ryan Graham,15,7,0,0,8
+Taylor,Precinct 1,Secretary of State,,Rep,Brad Raffensperger ,131,75,6,0,50
+Taylor,Precinct 5,Secretary of State,,Rep,Brad Raffensperger ,1138,748,46,6,338
+Taylor,Precinct 6,Secretary of State,,Rep,Brad Raffensperger ,783,468,27,0,288
+Taylor,Precinct 1,Secretary of State,,Dem,Bee Nguyen,406,219,46,5,136
+Taylor,Precinct 5,Secretary of State,,Dem,Bee Nguyen,178,122,16,0,40
+Taylor,Precinct 6,Secretary of State,,Dem,Bee Nguyen,429,181,91,1,156
+Taylor,Precinct 1,Secretary of State,,Lib,Ted Metz,12,3,0,1,8
+Taylor,Precinct 5,Secretary of State,,Lib,Ted Metz,40,30,2,0,8
+Taylor,Precinct 6,Secretary of State,,Lib,Ted Metz,32,15,3,0,14
+Taylor,Precinct 1,Attorney General,,Rep,Chris Carr ,109,61,4,1,43
+Taylor,Precinct 5,Attorney General,,Rep,Chris Carr ,1169,779,40,6,344
+Taylor,Precinct 6,Attorney General,,Rep,Chris Carr ,802,476,28,0,298
+Taylor,Precinct 1,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",440,238,48,5,149
+Taylor,Precinct 5,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",191,125,22,0,44
+Taylor,Precinct 6,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",446,194,93,1,158
+Taylor,Precinct 1,Attorney General,,Lib,Martin Cowen,6,1,0,0,5
+Taylor,Precinct 5,Attorney General,,Lib,Martin Cowen,16,12,1,0,3
+Taylor,Precinct 6,Attorney General,,Lib,Martin Cowen,9,3,0,0,6
+Taylor,Precinct 1,Commissioner Of Agriculture,,Rep,Tyler Harper,114,60,6,1,47
+Taylor,Precinct 5,Commissioner Of Agriculture,,Rep,Tyler Harper,1174,783,43,6,342
+Taylor,Precinct 6,Commissioner Of Agriculture,,Rep,Tyler Harper,806,481,29,0,296
+Taylor,Precinct 1,Commissioner Of Agriculture,,Dem,Nakita Hemingway,423,231,46,5,141
+Taylor,Precinct 5,Commissioner Of Agriculture,,Dem,Nakita Hemingway,178,119,16,0,43
+Taylor,Precinct 6,Commissioner Of Agriculture,,Dem,Nakita Hemingway,432,185,91,1,155
+Taylor,Precinct 1,Commissioner Of Agriculture,,Lib,David Raudabaugh,15,8,0,0,7
+Taylor,Precinct 5,Commissioner Of Agriculture,,Lib,David Raudabaugh,19,12,2,0,5
+Taylor,Precinct 6,Commissioner Of Agriculture,,Lib,David Raudabaugh,17,8,0,0,9
+Taylor,Precinct 1,Commissioner Of Insurance,,Rep,John King ,118,64,5,1,48
+Taylor,Precinct 5,Commissioner Of Insurance,,Rep,John King ,1181,789,41,6,345
+Taylor,Precinct 6,Commissioner Of Insurance,,Rep,John King ,806,476,28,0,302
+Taylor,Precinct 1,Commissioner Of Insurance,,Dem,Janice Laws Robinson,431,231,47,5,148
+Taylor,Precinct 5,Commissioner Of Insurance,,Dem,Janice Laws Robinson,189,121,22,0,46
+Taylor,Precinct 6,Commissioner Of Insurance,,Dem,Janice Laws Robinson,444,192,92,1,159
+Taylor,Precinct 1,State School Superintendent,,Rep,Richard Woods ,114,64,5,1,44
+Taylor,Precinct 5,State School Superintendent,,Rep,Richard Woods ,1178,783,43,6,346
+Taylor,Precinct 6,State School Superintendent,,Rep,Richard Woods ,815,484,28,0,303
+Taylor,Precinct 1,State School Superintendent,,Dem,Alisha Thomas Searcy,437,234,46,5,152
+Taylor,Precinct 5,State School Superintendent,,Dem,Alisha Thomas Searcy,191,128,18,0,45
+Taylor,Precinct 6,State School Superintendent,,Dem,Alisha Thomas Searcy,442,189,93,1,159
+Taylor,Precinct 1,Commissioner Of Labor,,Rep,Bruce Thompson,108,61,3,0,44
+Taylor,Precinct 5,Commissioner Of Labor,,Rep,Bruce Thompson,1168,781,38,6,343
+Taylor,Precinct 6,Commissioner Of Labor,,Rep,Bruce Thompson,799,474,29,0,296
+Taylor,Precinct 1,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",428,231,48,5,144
+Taylor,Precinct 5,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",183,115,24,0,44
+Taylor,Precinct 6,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",437,191,90,1,155
+Taylor,Precinct 1,Commissioner Of Labor,,Lib,Emily Anderson,10,3,0,1,6
+Taylor,Precinct 5,Commissioner Of Labor,,Lib,Emily Anderson,17,15,0,0,2
+Taylor,Precinct 6,Commissioner Of Labor,,Lib,Emily Anderson,16,7,2,0,7
+Taylor,Precinct 1,U.S. House,2,Rep,Chris West,96,53,4,1,38
+Taylor,Precinct 5,U.S. House,2,Rep,Chris West,1133,755,36,5,337
+Taylor,Precinct 6,U.S. House,2,Rep,Chris West,780,462,27,0,291
+Taylor,Precinct 1,U.S. House,2,Dem,Sanford Bishop ,460,246,48,4,162
+Taylor,Precinct 5,U.S. House,2,Dem,Sanford Bishop ,241,162,25,1,53
+Taylor,Precinct 6,U.S. House,2,Dem,Sanford Bishop ,480,214,93,1,172
+Taylor,Precinct 1,State Senate,15,Dem,Ed Harbison ,482,258,49,2,173
+Taylor,Precinct 5,State Senate,15,Dem,Ed Harbison ,737,482,36,4,215
+Taylor,Precinct 6,State Senate,15,Dem,Ed Harbison ,799,410,95,1,293
+Taylor,Precinct 1,State House,150,Dem,Patty Bentley ,515,284,47,4,180
+Taylor,Precinct 5,State House,150,Dem,Patty Bentley ,783,510,33,4,236
+Taylor,Precinct 6,State House,150,Dem,Patty Bentley ,851,439,108,1,303
+Taylor,Precinct 1,Constitutional Amendment #1,,,Yes,467,252,44,3,168
+Taylor,Precinct 5,Constitutional Amendment #1,,,Yes,1169,787,57,5,320
+Taylor,Precinct 6,Constitutional Amendment #1,,,Yes,1048,572,98,1,377
+Taylor,Precinct 1,Constitutional Amendment #1,,,No,76,43,6,2,25
+Taylor,Precinct 5,Constitutional Amendment #1,,,No,161,99,3,0,59
+Taylor,Precinct 6,Constitutional Amendment #1,,,No,179,85,19,0,75
+Taylor,Precinct 1,Constitutional Amendment #2,,,Yes,497,279,43,4,171
+Taylor,Precinct 5,Constitutional Amendment #2,,,Yes,1214,807,57,6,344
+Taylor,Precinct 6,Constitutional Amendment #2,,,Yes,1109,591,107,1,410
+Taylor,Precinct 1,Constitutional Amendment #2,,,No,50,19,7,0,24
+Taylor,Precinct 5,Constitutional Amendment #2,,,No,129,87,4,0,38
+Taylor,Precinct 6,Constitutional Amendment #2,,,No,119,66,9,0,44
+Taylor,Precinct 1,Statewide Referendum A,,,Yes,398,211,37,3,147
+Taylor,Precinct 5,Statewide Referendum A,,,Yes,890,581,42,4,263
+Taylor,Precinct 6,Statewide Referendum A,,,Yes,820,425,84,1,310
+Taylor,Precinct 1,Statewide Referendum A,,,No,143,82,13,2,46
+Taylor,Precinct 5,Statewide Referendum A,,,No,427,295,18,2,112
+Taylor,Precinct 6,Statewide Referendum A,,,No,396,223,33,0,140
+Taylor,Precinct 1,Statewide Referendum B,,,Yes,448,248,39,4,157
+Taylor,Precinct 5,Statewide Referendum B,,,Yes,1094,731,46,4,313
+Taylor,Precinct 6,Statewide Referendum B,,,Yes,977,523,88,1,365
+Taylor,Precinct 1,Statewide Referendum B,,,No,95,49,10,0,36
+Taylor,Precinct 5,Statewide Referendum B,,,No,223,147,13,2,61
+Taylor,Precinct 6,Statewide Referendum B,,,No,247,130,29,0,88
+Taylor,Precinct 1,Taylor County Homestead Exemption,,,Yes,466,260,40,3,163
+Taylor,Precinct 5,Taylor County Homestead Exemption,,,Yes,1172,792,55,5,320
+Taylor,Precinct 6,Taylor County Homestead Exemption,,,Yes,1071,579,107,1,384
+Taylor,Precinct 1,Taylor County Homestead Exemption,,,No,80,38,9,2,31
+Taylor,Precinct 5,Taylor County Homestead Exemption,,,No,161,102,7,1,51
+Taylor,Precinct 6,Taylor County Homestead Exemption,,,No,160,83,13,0,64

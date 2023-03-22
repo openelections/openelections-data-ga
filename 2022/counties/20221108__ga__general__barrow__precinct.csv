@@ -1,0 +1,376 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Barrow,01,U.S. Senate,,Rep,Herschel Junior Walker,1323,591,34,0,698
+Barrow,02,U.S. Senate,,Rep,Herschel Junior Walker,3248,1714,129,1,1404
+Barrow,03,U.S. Senate,,Rep,Herschel Junior Walker,2239,936,76,0,1227
+Barrow,04,U.S. Senate,,Rep,Herschel Junior Walker,1326,655,32,0,639
+Barrow,05,U.S. Senate,,Rep,Herschel Junior Walker,3349,1764,113,1,1471
+Barrow,08,U.S. Senate,,Rep,Herschel Junior Walker,3053,1880,98,0,1075
+Barrow,13,U.S. Senate,,Rep,Herschel Junior Walker,3006,1729,115,1,1161
+Barrow,16,U.S. Senate,,Rep,Herschel Junior Walker,2592,1262,71,0,1259
+Barrow,01,U.S. Senate,,Dem,Raphael Warnock ,450,219,37,0,194
+Barrow,02,U.S. Senate,,Dem,Raphael Warnock ,811,450,82,0,279
+Barrow,03,U.S. Senate,,Dem,Raphael Warnock ,770,355,58,2,355
+Barrow,04,U.S. Senate,,Dem,Raphael Warnock ,413,230,36,0,147
+Barrow,05,U.S. Senate,,Dem,Raphael Warnock ,1476,794,134,0,548
+Barrow,08,U.S. Senate,,Dem,Raphael Warnock ,946,575,81,1,289
+Barrow,13,U.S. Senate,,Dem,Raphael Warnock ,1909,1118,161,0,630
+Barrow,16,U.S. Senate,,Dem,Raphael Warnock ,1469,793,110,1,565
+Barrow,01,U.S. Senate,,Lib,Chase Oliver,63,25,2,0,36
+Barrow,02,U.S. Senate,,Lib,Chase Oliver,116,48,5,0,63
+Barrow,03,U.S. Senate,,Lib,Chase Oliver,106,36,5,0,65
+Barrow,04,U.S. Senate,,Lib,Chase Oliver,69,35,2,0,32
+Barrow,05,U.S. Senate,,Lib,Chase Oliver,129,55,9,0,65
+Barrow,08,U.S. Senate,,Lib,Chase Oliver,120,60,7,0,53
+Barrow,13,U.S. Senate,,Lib,Chase Oliver,136,70,7,0,59
+Barrow,16,U.S. Senate,,Lib,Chase Oliver,154,71,6,0,77
+Barrow,01,Governor,,Rep,Brian Kemp ,1435,634,42,0,759
+Barrow,02,Governor,,Rep,Brian Kemp ,3469,1825,145,1,1498
+Barrow,03,Governor,,Rep,Brian Kemp ,2400,996,87,0,1317
+Barrow,04,Governor,,Rep,Brian Kemp ,1430,704,37,0,689
+Barrow,05,Governor,,Rep,Brian Kemp ,3665,1907,134,1,1623
+Barrow,08,Governor,,Rep,Brian Kemp ,3313,2035,122,0,1156
+Barrow,13,Governor,,Rep,Brian Kemp ,3285,1877,140,1,1267
+Barrow,16,Governor,,Rep,Brian Kemp ,2836,1391,81,0,1364
+Barrow,01,Governor,,Dem,Stacey Abrams,393,205,30,0,158
+Barrow,02,Governor,,Dem,Stacey Abrams,683,380,69,0,234
+Barrow,03,Governor,,Dem,Stacey Abrams,697,326,55,2,314
+Barrow,04,Governor,,Dem,Stacey Abrams,371,212,34,0,125
+Barrow,05,Governor,,Dem,Stacey Abrams,1292,711,125,0,456
+Barrow,08,Governor,,Dem,Stacey Abrams,799,485,64,1,249
+Barrow,13,Governor,,Dem,Stacey Abrams,1732,1028,143,0,561
+Barrow,16,Governor,,Dem,Stacey Abrams,1342,731,99,1,511
+Barrow,01,Governor,,Lib,Shane Hazel,18,0,2,0,16
+Barrow,02,Governor,,Lib,Shane Hazel,38,10,2,0,26
+Barrow,03,Governor,,Lib,Shane Hazel,35,11,2,0,22
+Barrow,04,Governor,,Lib,Shane Hazel,17,9,0,0,8
+Barrow,05,Governor,,Lib,Shane Hazel,32,12,1,0,19
+Barrow,08,Governor,,Lib,Shane Hazel,40,16,1,0,23
+Barrow,13,Governor,,Lib,Shane Hazel,55,22,2,0,31
+Barrow,16,Governor,,Lib,Shane Hazel,53,16,5,0,32
+Barrow,01,Lieutenant Governor,,Rep,Burt Jones,1366,604,39,0,723
+Barrow,02,Lieutenant Governor,,Rep,Burt Jones,3354,1773,135,1,1445
+Barrow,03,Lieutenant Governor,,Rep,Burt Jones,2299,960,84,0,1255
+Barrow,04,Lieutenant Governor,,Rep,Burt Jones,1385,678,34,0,673
+Barrow,05,Lieutenant Governor,,Rep,Burt Jones,3516,1830,127,1,1558
+Barrow,08,Lieutenant Governor,,Rep,Burt Jones,3167,1947,112,0,1108
+Barrow,13,Lieutenant Governor,,Rep,Burt Jones,3142,1806,130,1,1205
+Barrow,16,Lieutenant Governor,,Rep,Burt Jones,2730,1338,81,0,1311
+Barrow,01,Lieutenant Governor,,Dem,Charlie Bailey,417,209,35,0,173
+Barrow,02,Lieutenant Governor,,Dem,Charlie Bailey,727,412,73,0,242
+Barrow,03,Lieutenant Governor,,Dem,Charlie Bailey,704,324,54,2,324
+Barrow,04,Lieutenant Governor,,Dem,Charlie Bailey,361,212,35,0,114
+Barrow,05,Lieutenant Governor,,Dem,Charlie Bailey,1314,725,124,0,465
+Barrow,08,Lieutenant Governor,,Dem,Charlie Bailey,839,516,66,1,256
+Barrow,13,Lieutenant Governor,,Dem,Charlie Bailey,1741,1012,145,0,584
+Barrow,16,Lieutenant Governor,,Dem,Charlie Bailey,1331,726,98,1,506
+Barrow,01,Lieutenant Governor,,Lib,Ryan Graham,54,25,0,0,29
+Barrow,02,Lieutenant Governor,,Lib,Ryan Graham,88,26,3,0,59
+Barrow,03,Lieutenant Governor,,Lib,Ryan Graham,102,37,4,0,61
+Barrow,04,Lieutenant Governor,,Lib,Ryan Graham,54,24,2,0,28
+Barrow,05,Lieutenant Governor,,Lib,Ryan Graham,128,60,5,0,63
+Barrow,08,Lieutenant Governor,,Lib,Ryan Graham,119,57,5,0,57
+Barrow,13,Lieutenant Governor,,Lib,Ryan Graham,143,76,7,0,60
+Barrow,16,Lieutenant Governor,,Lib,Ryan Graham,140,51,5,0,84
+Barrow,01,Secretary of State,,Rep,Brad Raffensperger ,1338,603,41,0,694
+Barrow,02,Secretary of State,,Rep,Brad Raffensperger ,3301,1757,137,1,1406
+Barrow,03,Secretary of State,,Rep,Brad Raffensperger ,2276,959,84,0,1233
+Barrow,04,Secretary of State,,Rep,Brad Raffensperger ,1371,680,38,0,653
+Barrow,05,Secretary of State,,Rep,Brad Raffensperger ,3518,1838,128,1,1551
+Barrow,08,Secretary of State,,Rep,Brad Raffensperger ,3139,1943,121,0,1075
+Barrow,13,Secretary of State,,Rep,Brad Raffensperger ,3151,1827,134,1,1189
+Barrow,16,Secretary of State,,Rep,Brad Raffensperger ,2719,1331,82,0,1306
+Barrow,01,Secretary of State,,Dem,Bee Nguyen,399,194,30,0,175
+Barrow,02,Secretary of State,,Dem,Bee Nguyen,660,365,65,0,230
+Barrow,03,Secretary of State,,Dem,Bee Nguyen,679,310,50,2,317
+Barrow,04,Secretary of State,,Dem,Bee Nguyen,352,201,33,0,118
+Barrow,05,Secretary of State,,Dem,Bee Nguyen,1241,681,120,0,440
+Barrow,08,Secretary of State,,Dem,Bee Nguyen,800,478,58,1,263
+Barrow,13,Secretary of State,,Dem,Bee Nguyen,1678,982,142,0,554
+Barrow,16,Secretary of State,,Dem,Bee Nguyen,1300,701,98,1,500
+Barrow,01,Secretary of State,,Lib,Ted Metz,86,31,3,0,52
+Barrow,02,Secretary of State,,Lib,Ted Metz,191,75,10,0,106
+Barrow,03,Secretary of State,,Lib,Ted Metz,147,53,8,0,86
+Barrow,04,Secretary of State,,Lib,Ted Metz,81,38,0,0,43
+Barrow,05,Secretary of State,,Lib,Ted Metz,176,83,11,0,82
+Barrow,08,Secretary of State,,Lib,Ted Metz,170,92,4,0,74
+Barrow,13,Secretary of State,,Lib,Ted Metz,200,93,8,0,99
+Barrow,16,Secretary of State,,Lib,Ted Metz,176,80,4,0,92
+Barrow,01,Attorney General,,Rep,Chris Carr ,1370,604,42,0,724
+Barrow,02,Attorney General,,Rep,Chris Carr ,3374,1785,133,1,1455
+Barrow,03,Attorney General,,Rep,Chris Carr ,2316,967,84,0,1265
+Barrow,04,Attorney General,,Rep,Chris Carr ,1390,687,37,0,666
+Barrow,05,Attorney General,,Rep,Chris Carr ,3544,1852,125,1,1566
+Barrow,08,Attorney General,,Rep,Chris Carr ,3190,1961,118,0,1111
+Barrow,13,Attorney General,,Rep,Chris Carr ,3168,1827,130,1,1210
+Barrow,16,Attorney General,,Rep,Chris Carr ,2748,1348,78,0,1322
+Barrow,01,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",423,215,31,0,177
+Barrow,02,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",734,406,79,0,249
+Barrow,03,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",723,330,57,2,334
+Barrow,04,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",385,221,34,0,130
+Barrow,05,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1328,727,127,0,474
+Barrow,08,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",855,517,66,1,271
+Barrow,13,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1768,1038,146,0,584
+Barrow,16,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1369,742,103,1,523
+Barrow,01,Attorney General,,Lib,Martin Cowen,43,18,1,0,24
+Barrow,02,Attorney General,,Lib,Martin Cowen,72,24,2,0,46
+Barrow,03,Attorney General,,Lib,Martin Cowen,80,31,1,0,48
+Barrow,04,Attorney General,,Lib,Martin Cowen,38,16,0,0,22
+Barrow,05,Attorney General,,Lib,Martin Cowen,91,39,5,0,47
+Barrow,08,Attorney General,,Lib,Martin Cowen,83,40,2,0,41
+Barrow,13,Attorney General,,Lib,Martin Cowen,94,39,3,0,52
+Barrow,16,Attorney General,,Lib,Martin Cowen,94,36,1,0,57
+Barrow,01,Commissioner of Agriculture,,Rep,Tyler Harper,1402,628,41,0,733
+Barrow,02,Commissioner of Agriculture,,Rep,Tyler Harper,3414,1813,143,1,1457
+Barrow,03,Commissioner of Agriculture,,Rep,Tyler Harper,2351,975,88,0,1288
+Barrow,04,Commissioner of Agriculture,,Rep,Tyler Harper,1412,702,37,0,673
+Barrow,05,Commissioner of Agriculture,,Rep,Tyler Harper,3591,1872,132,1,1586
+Barrow,08,Commissioner of Agriculture,,Rep,Tyler Harper,3226,1983,123,0,1120
+Barrow,13,Commissioner of Agriculture,,Rep,Tyler Harper,3229,1864,134,1,1230
+Barrow,16,Commissioner of Agriculture,,Rep,Tyler Harper,2772,1360,82,0,1330
+Barrow,01,Commissioner of Agriculture,,Dem,Nakita Hemingway,382,188,29,0,165
+Barrow,02,Commissioner of Agriculture,,Dem,Nakita Hemingway,651,363,64,0,224
+Barrow,03,Commissioner of Agriculture,,Dem,Nakita Hemingway,649,311,50,2,286
+Barrow,04,Commissioner of Agriculture,,Dem,Nakita Hemingway,343,198,32,0,113
+Barrow,05,Commissioner of Agriculture,,Dem,Nakita Hemingway,1235,679,120,0,436
+Barrow,08,Commissioner of Agriculture,,Dem,Nakita Hemingway,775,470,59,1,245
+Barrow,13,Commissioner of Agriculture,,Dem,Nakita Hemingway,1658,984,142,0,532
+Barrow,16,Commissioner of Agriculture,,Dem,Nakita Hemingway,1293,706,94,1,492
+Barrow,01,Commissioner of Agriculture,,Lib,David Raudabaugh,47,20,2,0,25
+Barrow,02,Commissioner of Agriculture,,Lib,David Raudabaugh,102,36,4,0,62
+Barrow,03,Commissioner of Agriculture,,Lib,David Raudabaugh,106,38,4,0,64
+Barrow,04,Commissioner of Agriculture,,Lib,David Raudabaugh,55,20,2,0,33
+Barrow,05,Commissioner of Agriculture,,Lib,David Raudabaugh,128,58,7,0,63
+Barrow,08,Commissioner of Agriculture,,Lib,David Raudabaugh,110,57,2,0,51
+Barrow,13,Commissioner of Agriculture,,Lib,David Raudabaugh,140,54,5,0,81
+Barrow,16,Commissioner of Agriculture,,Lib,David Raudabaugh,133,55,3,0,75
+Barrow,01,Commissioner of Insurance,,Rep,John King ,1440,635,44,0,761
+Barrow,02,Commissioner of Insurance,,Rep,John King ,3460,1823,144,1,1492
+Barrow,03,Commissioner of Insurance,,Rep,John King ,2379,993,87,0,1299
+Barrow,04,Commissioner of Insurance,,Rep,John King ,1436,708,36,0,692
+Barrow,05,Commissioner of Insurance,,Rep,John King ,3632,1885,127,1,1619
+Barrow,08,Commissioner of Insurance,,Rep,John King ,3269,2001,117,0,1151
+Barrow,13,Commissioner of Insurance,,Rep,John King ,3268,1870,136,1,1261
+Barrow,16,Commissioner of Insurance,,Rep,John King ,2839,1391,80,0,1368
+Barrow,01,Commissioner of Insurance,,Dem,Janice Laws Robinson,393,201,28,0,164
+Barrow,02,Commissioner of Insurance,,Dem,Janice Laws Robinson,692,383,67,0,242
+Barrow,03,Commissioner of Insurance,,Dem,Janice Laws Robinson,712,328,54,2,328
+Barrow,04,Commissioner of Insurance,,Dem,Janice Laws Robinson,370,211,34,0,125
+Barrow,05,Commissioner of Insurance,,Dem,Janice Laws Robinson,1313,722,133,0,458
+Barrow,08,Commissioner of Insurance,,Dem,Janice Laws Robinson,834,502,67,1,264
+Barrow,13,Commissioner of Insurance,,Dem,Janice Laws Robinson,1736,1015,142,0,579
+Barrow,16,Commissioner of Insurance,,Dem,Janice Laws Robinson,1353,728,99,1,525
+Barrow,01,State School Superintendent,,Rep,Richard Woods ,1435,636,43,0,756
+Barrow,02,State School Superintendent,,Rep,Richard Woods ,3482,1833,143,1,1505
+Barrow,03,State School Superintendent,,Rep,Richard Woods ,2394,996,84,0,1314
+Barrow,04,State School Superintendent,,Rep,Richard Woods ,1435,705,38,0,692
+Barrow,05,State School Superintendent,,Rep,Richard Woods ,3661,1917,126,1,1617
+Barrow,08,State School Superintendent,,Rep,Richard Woods ,3292,2017,124,0,1151
+Barrow,13,State School Superintendent,,Rep,Richard Woods ,3287,1877,131,1,1278
+Barrow,16,State School Superintendent,,Rep,Richard Woods ,2849,1384,86,0,1379
+Barrow,01,State School Superintendent,,Dem,Alisha Thomas Searcy,398,197,30,0,171
+Barrow,02,State School Superintendent,,Dem,Alisha Thomas Searcy,680,377,69,0,234
+Barrow,03,State School Superintendent,,Dem,Alisha Thomas Searcy,709,328,57,2,322
+Barrow,04,State School Superintendent,,Dem,Alisha Thomas Searcy,368,209,33,0,126
+Barrow,05,State School Superintendent,,Dem,Alisha Thomas Searcy,1287,693,131,0,463
+Barrow,08,State School Superintendent,,Dem,Alisha Thomas Searcy,816,488,60,1,267
+Barrow,13,State School Superintendent,,Dem,Alisha Thomas Searcy,1735,1020,151,0,564
+Barrow,16,State School Superintendent,,Dem,Alisha Thomas Searcy,1336,731,94,1,510
+Barrow,01,Commissioner of Labor,,Rep,Bruce Thompson,1385,608,38,0,739
+Barrow,02,Commissioner of Labor,,Rep,Bruce Thompson,3370,1786,137,1,1446
+Barrow,03,Commissioner of Labor,,Rep,Bruce Thompson,2316,961,81,0,1274
+Barrow,04,Commissioner of Labor,,Rep,Bruce Thompson,1399,690,37,0,672
+Barrow,05,Commissioner of Labor,,Rep,Bruce Thompson,3534,1856,126,1,1551
+Barrow,08,Commissioner of Labor,,Rep,Bruce Thompson,3189,1961,114,0,1114
+Barrow,13,Commissioner of Labor,,Rep,Bruce Thompson,3163,1824,128,1,1210
+Barrow,16,Commissioner of Labor,,Rep,Bruce Thompson,2725,1329,80,0,1316
+Barrow,01,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",395,203,32,0,160
+Barrow,02,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",682,380,69,0,233
+Barrow,03,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",676,318,59,2,297
+Barrow,04,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",354,206,32,0,116
+Barrow,05,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1255,696,123,0,436
+Barrow,08,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",784,477,65,1,241
+Barrow,13,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1666,980,143,0,543
+Barrow,16,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1305,718,91,1,495
+Barrow,01,Commissioner of Labor,,Lib,Emily Anderson,51,25,1,0,25
+Barrow,02,Commissioner of Labor,,Lib,Emily Anderson,105,37,5,0,63
+Barrow,03,Commissioner of Labor,,Lib,Emily Anderson,115,46,1,0,68
+Barrow,04,Commissioner of Labor,,Lib,Emily Anderson,53,24,1,0,28
+Barrow,05,Commissioner of Labor,,Lib,Emily Anderson,152,54,8,0,90
+Barrow,08,Commissioner of Labor,,Lib,Emily Anderson,135,67,5,0,63
+Barrow,13,Commissioner of Labor,,Lib,Emily Anderson,184,88,10,0,86
+Barrow,16,Commissioner of Labor,,Lib,Emily Anderson,159,71,7,0,81
+Barrow,01,U.S. House,,Rep,Mike Collins,1423,628,40,0,755
+Barrow,02,U.S. House,,Rep,Mike Collins,3428,1804,136,1,1487
+Barrow,03,U.S. House,,Rep,Mike Collins,2382,992,84,0,1306
+Barrow,04,U.S. House,,Rep,Mike Collins,1444,710,37,0,697
+Barrow,05,U.S. House,,Rep,Mike Collins,3614,1881,126,1,1606
+Barrow,08,U.S. House,,Rep,Mike Collins,3260,2004,114,0,1142
+Barrow,13,U.S. House,,Rep,Mike Collins,3254,1863,135,1,1255
+Barrow,16,U.S. House,,Rep,Mike Collins,2816,1375,82,0,1359
+Barrow,01,U.S. House,,Dem,Tabitha Johnson-Green,414,206,34,0,174
+Barrow,02,U.S. House,,Dem,Tabitha Johnson-Green,737,404,76,0,257
+Barrow,03,U.S. House,,Dem,Tabitha Johnson-Green,723,333,58,2,330
+Barrow,04,U.S. House,,Dem,Tabitha Johnson-Green,368,212,34,0,122
+Barrow,05,U.S. House,,Dem,Tabitha Johnson-Green,1329,731,129,0,469
+Barrow,08,U.S. House,,Dem,Tabitha Johnson-Green,852,509,69,1,273
+Barrow,13,U.S. House,,Dem,Tabitha Johnson-Green,1772,1040,145,0,587
+Barrow,16,U.S. House,,Dem,Tabitha Johnson-Green,1376,746,100,1,529
+Barrow,02,State Senate,,Rep,Clint Dixon ,3443,1810,140,1,1492
+Barrow,03,State Senate,,Rep,Clint Dixon ,2384,990,86,0,1308
+Barrow,04,State Senate,,Rep,Clint Dixon ,1446,710,38,0,698
+Barrow,13,State Senate,,Rep,Clint Dixon ,2726,1535,101,1,1089
+Barrow,02,State Senate,,Dem,Matielyn Jones,717,394,71,0,252
+Barrow,03,State Senate,,Dem,Matielyn Jones,715,333,56,2,324
+Barrow,04,State Senate,,Dem,Matielyn Jones,362,208,33,0,121
+Barrow,13,State Senate,,Dem,Matielyn Jones,1433,847,115,0,471
+Barrow,01,State Senate,,Rep,Bill Cowsert ,34,27,1,0,6
+Barrow,13,State Senate,,Rep,Bill Cowsert ,524,318,33,0,173
+Barrow,16,State Senate,,Rep,Bill Cowsert ,2802,1367,80,0,1355
+Barrow,01,State Senate,,Dem,Andrew Ferguson,10,5,0,0,5
+Barrow,13,State Senate,,Dem,Andrew Ferguson,331,194,32,0,105
+Barrow,16,State Senate,,Dem,Andrew Ferguson,1382,748,101,0,533
+Barrow,01,State Senate,,Rep,Frank Ginn ,1392,602,42,0,748
+Barrow,05,State Senate,,Rep,Frank Ginn ,3641,1892,127,0,1622
+Barrow,08,State Senate,,Rep,Frank Ginn ,3283,2017,119,0,1147
+Barrow,01,State Senate,,Dem,"Conolus Scott, Jr.",390,196,30,0,164
+Barrow,05,State Senate,,Dem,"Conolus Scott, Jr.",1292,717,126,0,449
+Barrow,08,State Senate,,Dem,"Conolus Scott, Jr.",822,492,65,0,265
+Barrow,01,State House,,Rep,Chuck Efstration ,3,3,0,0,0
+Barrow,03,State House,,Rep,Chuck Efstration ,2378,988,86,0,1304
+Barrow,04,State House,,Rep,Chuck Efstration ,1439,710,37,0,692
+Barrow,16,State House,,Rep,Chuck Efstration ,1743,890,59,0,794
+Barrow,01,State House,,Dem,Patrick J. Reinert,1,0,0,0,1
+Barrow,03,State House,,Dem,Patrick J. Reinert,713,332,56,0,325
+Barrow,04,State House,,Dem,Patrick J. Reinert,369,208,34,0,127
+Barrow,16,State House,,Dem,Patrick J. Reinert,864,440,57,0,367
+Barrow,01,State House,,Rep,Danny Rampey,1614,713,60,0,841
+Barrow,02,State House,,Rep,Danny Rampey,3733,1968,158,1,1606
+Barrow,05,State House,,Rep,Danny Rampey,2730,1464,107,1,1158
+Barrow,08,State House,,Rep,Danny Rampey,3653,2228,138,0,1287
+Barrow,13,State House,,Rep,Danny Rampey,4029,2281,187,1,1560
+Barrow,16,State House,,Rep,Danny Rampey,1303,616,38,0,649
+Barrow,05,State House,,Rep,Houston Gaines ,1274,630,36,0,608
+Barrow,05,State House,,Dem,Mokah Jasmine Johnson,551,306,51,0,194
+Barrow,01,Solicitor General of the State Court of Barrow County,,Rep,Kyle W. Sharry ,1610,712,58,0,840
+Barrow,02,Solicitor General of the State Court of Barrow County,,Rep,Kyle W. Sharry ,3767,1989,161,1,1616
+Barrow,03,Solicitor General of the State Court of Barrow County,,Rep,Kyle W. Sharry ,2754,1147,98,0,1509
+Barrow,04,Solicitor General of the State Court of Barrow County,,Rep,Kyle W. Sharry ,1622,803,50,0,769
+Barrow,05,Solicitor General of the State Court of Barrow County,,Rep,Kyle W. Sharry ,4265,2219,161,1,1884
+Barrow,08,Solicitor General of the State Court of Barrow County,,Rep,Kyle W. Sharry ,3657,2232,134,1,1290
+Barrow,13,Solicitor General of the State Court of Barrow County,,Rep,Kyle W. Sharry ,4060,2294,187,1,1578
+Barrow,16,Solicitor General of the State Court of Barrow County,,Rep,Kyle W. Sharry ,3523,1734,120,0,1669
+Barrow,03,County Commission,,Rep,Alex Ward ,269,123,15,0,131
+Barrow,04,County Commission,,Rep,Alex Ward ,1245,609,39,0,597
+Barrow,16,County Commission,,Rep,Alex Ward ,1337,638,46,0,653
+Barrow,03,County Commission,,Dem,Judy Bevers,63,34,7,0,22
+Barrow,04,County Commission,,Dem,Judy Bevers,309,175,30,0,104
+Barrow,16,County Commission,,Dem,Judy Bevers,685,341,42,0,302
+Barrow,02,County Commission,,Rep,Tim Walker,2540,1324,104,0,1112
+Barrow,03,County Commission,,Rep,Tim Walker,2441,1004,80,0,1357
+Barrow,02,County Commission,,Rep,Deborah Lynn,1213,658,54,0,501
+Barrow,04,County Commission,,Rep,Deborah Lynn,226,118,2,0,106
+Barrow,13,County Commission,,Rep,Deborah Lynn,2623,1444,107,1,1071
+Barrow,01,County BOE,,Rep,"Kirsten """"Kiki"""" Bradford",155,88,6,0,61
+Barrow,05,County BOE,,Rep,"Kirsten """"Kiki"""" Bradford",3446,1773,117,0,1556
+Barrow,08,County BOE,,Rep,"Kirsten """"Kiki"""" Bradford",410,235,9,0,166
+Barrow,01,County BOE,,(Ind,Kenny Lumpkin ,51,33,3,0,15
+Barrow,05,County BOE,,(Ind,Kenny Lumpkin ,1249,693,112,0,444
+Barrow,08,County BOE,,(Ind,Kenny Lumpkin ,120,71,3,0,46
+Barrow,01,County BOE,,Rep,Lisa Maloof ,0,0,0,0,0
+Barrow,13,County BOE,,Rep,Lisa Maloof ,1271,730,77,0,464
+Barrow,16,County BOE,,Rep,Lisa Maloof ,1806,924,61,0,821
+Barrow,03,County BOE,,Rep,Beverly A. Kelley ,302,139,18,0,145
+Barrow,04,County BOE,,Rep,Beverly A. Kelley ,1382,680,40,0,662
+Barrow,16,County BOE,,Rep,Beverly A. Kelley ,1693,801,58,0,834
+Barrow,01,County BOE,,Rep,Bill Ritter ,1608,710,58,0,840
+Barrow,02,County BOE,,Rep,Bill Ritter ,3749,1982,159,1,1607
+Barrow,03,County BOE,,Rep,Bill Ritter ,2736,1138,95,0,1503
+Barrow,04,County BOE,,Rep,Bill Ritter ,1605,794,44,0,767
+Barrow,05,County BOE,,Rep,Bill Ritter ,4266,2218,161,1,1886
+Barrow,08,County BOE,,Rep,Bill Ritter ,3637,2222,132,1,1282
+Barrow,13,County BOE,,Rep,Bill Ritter ,4056,2293,191,1,1571
+Barrow,16,County BOE,,Rep,Bill Ritter ,3499,1718,119,0,1662
+Barrow,01,County BOE,,Rep,Stephanie G. Bramlett ,1602,713,60,0,829
+Barrow,02,County BOE,,Rep,Stephanie G. Bramlett ,3751,1983,159,1,1608
+Barrow,03,County BOE,,Rep,Stephanie G. Bramlett ,2735,1138,96,0,1501
+Barrow,04,County BOE,,Rep,Stephanie G. Bramlett ,1597,788,47,0,762
+Barrow,05,County BOE,,Rep,Stephanie G. Bramlett ,4243,2209,159,1,1874
+Barrow,08,County BOE,,Rep,Stephanie G. Bramlett ,3605,2204,133,1,1267
+Barrow,13,County BOE,,Rep,Stephanie G. Bramlett ,4036,2290,189,1,1556
+Barrow,16,County BOE,,Rep,Stephanie G. Bramlett ,3498,1726,120,0,1652
+Barrow,01,Soil and Water Conservation District Supervisor,,,John Robert McLocklin,1594,713,62,0,819
+Barrow,02,Soil and Water Conservation District Supervisor,,,John Robert McLocklin,3569,1907,142,1,1519
+Barrow,03,Soil and Water Conservation District Supervisor,,,John Robert McLocklin,2657,1132,93,0,1432
+Barrow,04,Soil and Water Conservation District Supervisor,,,John Robert McLocklin,1517,748,44,0,725
+Barrow,05,Soil and Water Conservation District Supervisor,,,John Robert McLocklin,4191,2221,153,0,1817
+Barrow,08,Soil and Water Conservation District Supervisor,,,John Robert McLocklin,3554,2168,142,0,1244
+Barrow,13,Soil and Water Conservation District Supervisor,,,John Robert McLocklin,4077,2347,171,1,1558
+Barrow,16,Soil and Water Conservation District Supervisor,,,John Robert McLocklin,3491,1728,123,0,1640
+Barrow,01,Special Town Council Post 3,,,Eric E. Dailey,85,30,4,0,51
+Barrow,01,Special Town Council Post 3,,,Sharon L. Johnson,76,32,6,0,38
+Barrow,01,Special Town Council Post 3,,,Mary Koestel,11,1,2,0,8
+Barrow,01,Special Town Council Post 3,,,Susanne Morgan,54,24,4,0,26
+Barrow,01,Proposed Constitutional Amendment 1,,,Yes,1597,714,60,0,823
+Barrow,02,Proposed Constitutional Amendment 1,,,Yes,3611,1917,183,0,1511
+Barrow,03,Proposed Constitutional Amendment 1,,,Yes,2723,1178,130,2,1413
+Barrow,04,Proposed Constitutional Amendment 1,,,Yes,1556,793,62,0,701
+Barrow,05,Proposed Constitutional Amendment 1,,,Yes,4315,2285,222,0,1808
+Barrow,08,Proposed Constitutional Amendment 1,,,Yes,3591,2191,167,0,1233
+Barrow,13,Proposed Constitutional Amendment 1,,,Yes,4347,2518,234,1,1594
+Barrow,16,Proposed Constitutional Amendment 1,,,Yes,3647,1850,155,0,1642
+Barrow,01,Proposed Constitutional Amendment 1,,,No,191,92,14,0,85
+Barrow,02,Proposed Constitutional Amendment 1,,,No,461,248,20,1,192
+Barrow,03,Proposed Constitutional Amendment 1,,,No,333,128,9,0,196
+Barrow,04,Proposed Constitutional Amendment 1,,,No,204,100,5,0,99
+Barrow,05,Proposed Constitutional Amendment 1,,,No,539,271,22,1,245
+Barrow,08,Proposed Constitutional Amendment 1,,,No,407,262,13,0,132
+Barrow,13,Proposed Constitutional Amendment 1,,,No,603,344,37,0,222
+Barrow,16,Proposed Constitutional Amendment 1,,,No,467,225,19,1,222
+Barrow,01,Proposed Constitutional Amendment 2,,,Yes,1651,739,67,0,845
+Barrow,02,Proposed Constitutional Amendment 2,,,Yes,3740,1990,187,1,1562
+Barrow,03,Proposed Constitutional Amendment 2,,,Yes,2839,1212,134,2,1491
+Barrow,04,Proposed Constitutional Amendment 2,,,Yes,1621,824,61,0,736
+Barrow,05,Proposed Constitutional Amendment 2,,,Yes,4442,2340,229,0,1873
+Barrow,08,Proposed Constitutional Amendment 2,,,Yes,3736,2277,172,0,1287
+Barrow,13,Proposed Constitutional Amendment 2,,,Yes,4575,2643,260,1,1671
+Barrow,16,Proposed Constitutional Amendment 2,,,Yes,3791,1924,170,0,1697
+Barrow,01,Proposed Constitutional Amendment 2,,,No,163,82,7,0,74
+Barrow,02,Proposed Constitutional Amendment 2,,,No,350,183,18,0,149
+Barrow,03,Proposed Constitutional Amendment 2,,,No,238,104,7,0,127
+Barrow,04,Proposed Constitutional Amendment 2,,,No,147,74,6,0,67
+Barrow,05,Proposed Constitutional Amendment 2,,,No,428,227,14,1,186
+Barrow,08,Proposed Constitutional Amendment 2,,,No,321,204,10,0,107
+Barrow,13,Proposed Constitutional Amendment 2,,,No,393,232,19,0,142
+Barrow,16,Proposed Constitutional Amendment 2,,,No,350,165,9,1,175
+Barrow,01,Statewide Referendum Question 1,,,Yes,1142,495,42,0,605
+Barrow,02,Statewide Referendum Question 1,,,Yes,2422,1249,96,0,1077
+Barrow,03,Statewide Referendum Question 1,,,Yes,1904,798,67,0,1039
+Barrow,04,Statewide Referendum Question 1,,,Yes,1139,563,31,0,545
+Barrow,05,Statewide Referendum Question 1,,,Yes,2974,1546,112,0,1316
+Barrow,08,Statewide Referendum Question 1,,,Yes,2531,1521,87,0,923
+Barrow,13,Statewide Referendum Question 1,,,Yes,2947,1678,128,1,1140
+Barrow,16,Statewide Referendum Question 1,,,Yes,2557,1242,90,0,1225
+Barrow,01,Statewide Referendum Question 1,,,No,644,311,30,0,303
+Barrow,02,Statewide Referendum Question 1,,,No,1592,886,102,1,603
+Barrow,03,Statewide Referendum Question 1,,,No,1117,494,67,2,554
+Barrow,04,Statewide Referendum Question 1,,,No,616,327,35,0,254
+Barrow,05,Statewide Referendum Question 1,,,No,1801,975,124,1,701
+Barrow,08,Statewide Referendum Question 1,,,No,1459,924,91,0,444
+Barrow,13,Statewide Referendum Question 1,,,No,1934,1148,136,0,650
+Barrow,16,Statewide Referendum Question 1,,,No,1521,808,79,1,633
+Barrow,01,Statewide Referendum Question 2,,,Yes,1470,657,53,0,760
+Barrow,02,Statewide Referendum Question 2,,,Yes,3260,1730,127,0,1403
+Barrow,03,Statewide Referendum Question 2,,,Yes,2513,1059,101,2,1351
+Barrow,04,Statewide Referendum Question 2,,,Yes,1485,742,46,0,697
+Barrow,05,Statewide Referendum Question 2,,,Yes,3871,2028,151,0,1692
+Barrow,08,Statewide Referendum Question 2,,,Yes,3335,2020,127,0,1188
+Barrow,13,Statewide Referendum Question 2,,,Yes,3826,2198,186,1,1441
+Barrow,16,Statewide Referendum Question 2,,,Yes,3301,1624,132,0,1545
+Barrow,01,Statewide Referendum Question 2,,,No,325,155,20,0,150
+Barrow,02,Statewide Referendum Question 2,,,No,767,414,68,1,284
+Barrow,03,Statewide Referendum Question 2,,,No,513,235,32,0,246
+Barrow,04,Statewide Referendum Question 2,,,No,270,151,17,0,102
+Barrow,05,Statewide Referendum Question 2,,,No,938,511,85,1,341
+Barrow,08,Statewide Referendum Question 2,,,No,676,435,52,0,189
+Barrow,13,Statewide Referendum Question 2,,,No,1066,634,76,0,356
+Barrow,16,Statewide Referendum Question 2,,,No,792,434,39,1,318

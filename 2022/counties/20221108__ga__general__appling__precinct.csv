@@ -1,0 +1,386 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Appling,1B,U.S. Senate,,Rep,Herschel Junior Walker,721,327,40,0,354
+Appling,1C,U.S. Senate,,Rep,Herschel Junior Walker,571,300,19,0,252
+Appling,2,U.S. Senate,,Rep,Herschel Junior Walker,393,181,23,0,189
+Appling,3A1,U.S. Senate,,Rep,Herschel Junior Walker,493,198,16,0,279
+Appling,3C,U.S. Senate,,Rep,Herschel Junior Walker,726,411,35,0,280
+Appling,4B,U.S. Senate,,Rep,Herschel Junior Walker,592,209,17,1,365
+Appling,4D,U.S. Senate,,Rep,Herschel Junior Walker,795,420,43,0,332
+Appling,5A,U.S. Senate,,Rep,Herschel Junior Walker,543,269,21,0,253
+Appling,5B,U.S. Senate,,Rep,Herschel Junior Walker,510,235,10,0,265
+Appling,1B,U.S. Senate,,Dem,Raphael Warnock ,86,42,17,0,27
+Appling,1C,U.S. Senate,,Dem,Raphael Warnock ,51,29,2,0,20
+Appling,2,U.S. Senate,,Dem,Raphael Warnock ,641,363,79,0,199
+Appling,3A1,U.S. Senate,,Dem,Raphael Warnock ,23,10,3,0,10
+Appling,3C,U.S. Senate,,Dem,Raphael Warnock ,213,127,34,0,52
+Appling,4B,U.S. Senate,,Dem,Raphael Warnock ,23,8,1,0,14
+Appling,4D,U.S. Senate,,Dem,Raphael Warnock ,92,47,11,0,34
+Appling,5A,U.S. Senate,,Dem,Raphael Warnock ,76,48,4,0,24
+Appling,5B,U.S. Senate,,Dem,Raphael Warnock ,55,20,4,0,31
+Appling,1B,U.S. Senate,,Lib,Chase Oliver,15,7,1,0,7
+Appling,1C,U.S. Senate,,Lib,Chase Oliver,6,2,1,0,3
+Appling,2,U.S. Senate,,Lib,Chase Oliver,11,8,0,0,3
+Appling,3A1,U.S. Senate,,Lib,Chase Oliver,8,6,1,0,1
+Appling,3C,U.S. Senate,,Lib,Chase Oliver,5,3,1,0,1
+Appling,4B,U.S. Senate,,Lib,Chase Oliver,2,0,0,0,2
+Appling,4D,U.S. Senate,,Lib,Chase Oliver,6,3,0,0,3
+Appling,5A,U.S. Senate,,Lib,Chase Oliver,8,4,0,0,4
+Appling,5B,U.S. Senate,,Lib,Chase Oliver,4,0,0,0,4
+Appling,1B,Governor,,Rep,Brian Kemp ,748,344,43,0,361
+Appling,1C,Governor,,Rep,Brian Kemp ,579,304,22,0,253
+Appling,2,Governor,,Rep,Brian Kemp ,420,197,25,0,198
+Appling,3A1,Governor,,Rep,Brian Kemp ,511,205,19,0,287
+Appling,3C,Governor,,Rep,Brian Kemp ,750,428,42,0,280
+Appling,4B,Governor,,Rep,Brian Kemp ,611,215,17,1,378
+Appling,4D,Governor,,Rep,Brian Kemp ,830,435,47,0,348
+Appling,5A,Governor,,Rep,Brian Kemp ,568,283,23,0,262
+Appling,5B,Governor,,Rep,Brian Kemp ,535,243,12,0,280
+Appling,1B,Governor,,Dem,Stacey Abrams,72,33,15,0,24
+Appling,1C,Governor,,Dem,Stacey Abrams,47,28,2,0,17
+Appling,2,Governor,,Dem,Stacey Abrams,636,361,77,0,198
+Appling,3A1,Governor,,Dem,Stacey Abrams,17,8,2,0,7
+Appling,3C,Governor,,Dem,Stacey Abrams,189,110,28,0,51
+Appling,4B,Governor,,Dem,Stacey Abrams,9,2,1,0,6
+Appling,4D,Governor,,Dem,Stacey Abrams,67,38,7,0,22
+Appling,5A,Governor,,Dem,Stacey Abrams,58,38,1,0,19
+Appling,5B,Governor,,Dem,Stacey Abrams,36,15,2,0,19
+Appling,1B,Governor,,Lib,Shane Hazel,4,0,1,0,3
+Appling,1C,Governor,,Lib,Shane Hazel,6,2,0,0,4
+Appling,2,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Appling,3A1,Governor,,Lib,Shane Hazel,1,1,0,0,0
+Appling,3C,Governor,,Lib,Shane Hazel,4,3,1,0,0
+Appling,4B,Governor,,Lib,Shane Hazel,0,0,0,0,0
+Appling,4D,Governor,,Lib,Shane Hazel,0,0,0,0,0
+Appling,5A,Governor,,Lib,Shane Hazel,2,0,0,0,2
+Appling,5B,Governor,,Lib,Shane Hazel,1,0,0,0,1
+Appling,1B,Lieutenant Governor,,Rep,Burt Jones,722,331,41,0,350
+Appling,1C,Lieutenant Governor,,Rep,Burt Jones,574,300,22,0,252
+Appling,2,Lieutenant Governor,,Rep,Burt Jones,399,183,22,0,194
+Appling,3A1,Lieutenant Governor,,Rep,Burt Jones,505,203,18,0,284
+Appling,3C,Lieutenant Governor,,Rep,Burt Jones,731,414,40,0,277
+Appling,4B,Lieutenant Governor,,Rep,Burt Jones,589,208,17,1,363
+Appling,4D,Lieutenant Governor,,Rep,Burt Jones,802,421,43,0,338
+Appling,5A,Lieutenant Governor,,Rep,Burt Jones,563,278,22,0,263
+Appling,5B,Lieutenant Governor,,Rep,Burt Jones,510,236,12,0,262
+Appling,1B,Lieutenant Governor,,Dem,Charlie Bailey,82,39,17,0,26
+Appling,1C,Lieutenant Governor,,Dem,Charlie Bailey,47,28,2,0,17
+Appling,2,Lieutenant Governor,,Dem,Charlie Bailey,594,337,79,0,178
+Appling,3A1,Lieutenant Governor,,Dem,Charlie Bailey,17,7,3,0,7
+Appling,3C,Lieutenant Governor,,Dem,Charlie Bailey,190,108,30,0,52
+Appling,4B,Lieutenant Governor,,Dem,Charlie Bailey,16,4,1,0,11
+Appling,4D,Lieutenant Governor,,Dem,Charlie Bailey,73,39,9,0,25
+Appling,5A,Lieutenant Governor,,Dem,Charlie Bailey,54,35,2,0,17
+Appling,5B,Lieutenant Governor,,Dem,Charlie Bailey,44,18,2,0,24
+Appling,1B,Lieutenant Governor,,Lib,Ryan Graham,12,2,1,0,9
+Appling,1C,Lieutenant Governor,,Lib,Ryan Graham,2,1,0,0,1
+Appling,2,Lieutenant Governor,,Lib,Ryan Graham,12,6,0,0,6
+Appling,3A1,Lieutenant Governor,,Lib,Ryan Graham,2,0,0,0,2
+Appling,3C,Lieutenant Governor,,Lib,Ryan Graham,6,4,0,0,2
+Appling,4B,Lieutenant Governor,,Lib,Ryan Graham,1,0,0,0,1
+Appling,4D,Lieutenant Governor,,Lib,Ryan Graham,4,4,0,0,0
+Appling,5A,Lieutenant Governor,,Lib,Ryan Graham,5,3,0,0,2
+Appling,5B,Lieutenant Governor,,Lib,Ryan Graham,7,2,0,0,5
+Appling,1B,Secretary of State,,Rep,Brad Raffensperger ,721,330,44,0,347
+Appling,1C,Secretary of State,,Rep,Brad Raffensperger ,555,291,21,0,243
+Appling,2,Secretary of State,,Rep,Brad Raffensperger ,426,201,26,0,199
+Appling,3A1,Secretary of State,,Rep,Brad Raffensperger ,493,196,18,0,279
+Appling,3C,Secretary of State,,Rep,Brad Raffensperger ,718,411,43,0,264
+Appling,4B,Secretary of State,,Rep,Brad Raffensperger ,572,200,17,1,354
+Appling,4D,Secretary of State,,Rep,Brad Raffensperger ,803,416,45,0,342
+Appling,5A,Secretary of State,,Rep,Brad Raffensperger ,559,274,24,0,261
+Appling,5B,Secretary of State,,Rep,Brad Raffensperger ,511,239,12,0,260
+Appling,1B,Secretary of State,,Dem,Bee Nguyen,71,31,14,0,26
+Appling,1C,Secretary of State,,Dem,Bee Nguyen,45,28,2,0,15
+Appling,2,Secretary of State,,Dem,Bee Nguyen,564,314,75,0,175
+Appling,3A1,Secretary of State,,Dem,Bee Nguyen,18,9,3,0,6
+Appling,3C,Secretary of State,,Dem,Bee Nguyen,178,103,26,0,49
+Appling,4B,Secretary of State,,Dem,Bee Nguyen,11,4,0,0,7
+Appling,4D,Secretary of State,,Dem,Bee Nguyen,59,35,7,0,17
+Appling,5A,Secretary of State,,Dem,Bee Nguyen,52,33,1,0,18
+Appling,5B,Secretary of State,,Dem,Bee Nguyen,36,15,1,0,20
+Appling,1B,Secretary of State,,Lib,Ted Metz,20,9,1,0,10
+Appling,1C,Secretary of State,,Lib,Ted Metz,20,9,1,0,10
+Appling,2,Secretary of State,,Lib,Ted Metz,26,17,1,0,8
+Appling,3A1,Secretary of State,,Lib,Ted Metz,8,5,0,0,3
+Appling,3C,Secretary of State,,Lib,Ted Metz,33,13,2,0,18
+Appling,4B,Secretary of State,,Lib,Ted Metz,19,4,1,0,14
+Appling,4D,Secretary of State,,Lib,Ted Metz,19,13,0,0,6
+Appling,5A,Secretary of State,,Lib,Ted Metz,12,10,0,0,2
+Appling,5B,Secretary of State,,Lib,Ted Metz,13,3,1,0,9
+Appling,1B,Attorney General,,Rep,Chris Carr ,728,334,40,0,354
+Appling,1C,Attorney General,,Rep,Chris Carr ,573,301,22,0,250
+Appling,2,Attorney General,,Rep,Chris Carr ,403,190,24,0,189
+Appling,3A1,Attorney General,,Rep,Chris Carr ,507,203,18,0,286
+Appling,3C,Attorney General,,Rep,Chris Carr ,724,412,39,0,273
+Appling,4B,Attorney General,,Rep,Chris Carr ,591,207,17,1,366
+Appling,4D,Attorney General,,Rep,Chris Carr ,809,424,42,0,343
+Appling,5A,Attorney General,,Rep,Chris Carr ,551,272,20,0,259
+Appling,5B,Attorney General,,Rep,Chris Carr ,511,237,12,0,262
+Appling,1B,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",82,37,17,0,28
+Appling,1C,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",49,30,2,0,17
+Appling,2,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",607,346,77,0,184
+Appling,3A1,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",17,9,3,0,5
+Appling,3C,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",198,115,30,0,53
+Appling,4B,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",14,5,1,0,8
+Appling,4D,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",77,43,11,0,23
+Appling,5A,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",69,44,4,0,21
+Appling,5B,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",45,15,2,0,28
+Appling,1B,Attorney General,,Lib,Martin Cowen,4,0,1,0,3
+Appling,1C,Attorney General,,Lib,Martin Cowen,5,1,0,0,4
+Appling,2,Attorney General,,Lib,Martin Cowen,11,4,0,0,7
+Appling,3A1,Attorney General,,Lib,Martin Cowen,0,0,0,0,0
+Appling,3C,Attorney General,,Lib,Martin Cowen,9,3,2,0,4
+Appling,4B,Attorney General,,Lib,Martin Cowen,5,2,0,0,3
+Appling,4D,Attorney General,,Lib,Martin Cowen,2,2,0,0,0
+Appling,5A,Attorney General,,Lib,Martin Cowen,1,1,0,0,0
+Appling,5B,Attorney General,,Lib,Martin Cowen,5,1,0,0,4
+Appling,1B,Commissioner of Agriculture,,Rep,Tyler Harper,731,334,42,0,355
+Appling,1C,Commissioner of Agriculture,,Rep,Tyler Harper,576,300,21,0,255
+Appling,2,Commissioner of Agriculture,,Rep,Tyler Harper,398,188,25,0,185
+Appling,3A1,Commissioner of Agriculture,,Rep,Tyler Harper,503,201,18,0,284
+Appling,3C,Commissioner of Agriculture,,Rep,Tyler Harper,739,417,43,0,279
+Appling,4B,Commissioner of Agriculture,,Rep,Tyler Harper,596,208,17,1,370
+Appling,4D,Commissioner of Agriculture,,Rep,Tyler Harper,819,431,43,0,345
+Appling,5A,Commissioner of Agriculture,,Rep,Tyler Harper,564,280,20,0,264
+Appling,5B,Commissioner of Agriculture,,Rep,Tyler Harper,521,240,11,0,270
+Appling,1B,Commissioner of Agriculture,,Dem,Nakita Hemingway,77,35,17,0,25
+Appling,1C,Commissioner of Agriculture,,Dem,Nakita Hemingway,43,26,2,0,15
+Appling,2,Commissioner of Agriculture,,Dem,Nakita Hemingway,608,343,77,0,188
+Appling,3A1,Commissioner of Agriculture,,Dem,Nakita Hemingway,17,7,3,0,7
+Appling,3C,Commissioner of Agriculture,,Dem,Nakita Hemingway,180,106,26,0,48
+Appling,4B,Commissioner of Agriculture,,Dem,Nakita Hemingway,12,4,1,0,7
+Appling,4D,Commissioner of Agriculture,,Dem,Nakita Hemingway,65,37,11,0,17
+Appling,5A,Commissioner of Agriculture,,Dem,Nakita Hemingway,57,36,4,0,17
+Appling,5B,Commissioner of Agriculture,,Dem,Nakita Hemingway,38,13,3,0,22
+Appling,1B,Commissioner of Agriculture,,Lib,David Raudabaugh,8,2,0,0,6
+Appling,1C,Commissioner of Agriculture,,Lib,David Raudabaugh,5,2,1,0,2
+Appling,2,Commissioner of Agriculture,,Lib,David Raudabaugh,19,11,0,0,8
+Appling,3A1,Commissioner of Agriculture,,Lib,David Raudabaugh,2,1,0,0,1
+Appling,3C,Commissioner of Agriculture,,Lib,David Raudabaugh,10,6,1,0,3
+Appling,4B,Commissioner of Agriculture,,Lib,David Raudabaugh,2,1,0,0,1
+Appling,4D,Commissioner of Agriculture,,Lib,David Raudabaugh,5,2,0,0,3
+Appling,5A,Commissioner of Agriculture,,Lib,David Raudabaugh,6,5,0,0,1
+Appling,5B,Commissioner of Agriculture,,Lib,David Raudabaugh,5,1,0,0,4
+Appling,1B,Commissioner of Insurance,,Rep,John King ,736,337,42,0,357
+Appling,1C,Commissioner of Insurance,,Rep,John King ,574,297,22,0,255
+Appling,2,Commissioner of Insurance,,Rep,John King ,402,190,22,0,190
+Appling,3A1,Commissioner of Insurance,,Rep,John King ,507,204,18,0,285
+Appling,3C,Commissioner of Insurance,,Rep,John King ,739,419,43,0,277
+Appling,4B,Commissioner of Insurance,,Rep,John King ,594,207,17,1,369
+Appling,4D,Commissioner of Insurance,,Rep,John King ,812,426,42,0,344
+Appling,5A,Commissioner of Insurance,,Rep,John King ,562,279,22,0,261
+Appling,5B,Commissioner of Insurance,,Rep,John King ,520,240,12,0,268
+Appling,1B,Commissioner of Insurance,,Dem,Janice Laws Robinson,76,34,17,0,25
+Appling,1C,Commissioner of Insurance,,Dem,Janice Laws Robinson,48,30,2,0,16
+Appling,2,Commissioner of Insurance,,Dem,Janice Laws Robinson,616,347,80,0,189
+Appling,3A1,Commissioner of Insurance,,Dem,Janice Laws Robinson,17,9,3,0,5
+Appling,3C,Commissioner of Insurance,,Dem,Janice Laws Robinson,191,111,27,0,53
+Appling,4B,Commissioner of Insurance,,Dem,Janice Laws Robinson,12,5,1,0,6
+Appling,4D,Commissioner of Insurance,,Dem,Janice Laws Robinson,72,41,10,0,21
+Appling,5A,Commissioner of Insurance,,Dem,Janice Laws Robinson,64,41,3,0,20
+Appling,5B,Commissioner of Insurance,,Dem,Janice Laws Robinson,39,13,2,0,24
+Appling,1B,State School Superintendent,,Rep,Richard Woods ,739,338,44,0,357
+Appling,1C,State School Superintendent,,Rep,Richard Woods ,579,302,22,0,255
+Appling,2,State School Superintendent,,Rep,Richard Woods ,402,191,22,0,189
+Appling,3A1,State School Superintendent,,Rep,Richard Woods ,504,204,18,0,282
+Appling,3C,State School Superintendent,,Rep,Richard Woods ,745,422,44,0,279
+Appling,4B,State School Superintendent,,Rep,Richard Woods ,591,207,17,1,366
+Appling,4D,State School Superintendent,,Rep,Richard Woods ,815,428,42,0,345
+Appling,5A,State School Superintendent,,Rep,Richard Woods ,566,279,25,0,262
+Appling,5B,State School Superintendent,,Rep,Richard Woods ,518,239,10,0,269
+Appling,1B,State School Superintendent,,Dem,Alisha Thomas Searcy,74,33,15,0,26
+Appling,1C,State School Superintendent,,Dem,Alisha Thomas Searcy,46,26,2,0,18
+Appling,2,State School Superintendent,,Dem,Alisha Thomas Searcy,620,348,80,0,192
+Appling,3A1,State School Superintendent,,Dem,Alisha Thomas Searcy,20,9,3,0,8
+Appling,3C,State School Superintendent,,Dem,Alisha Thomas Searcy,187,109,26,0,52
+Appling,4B,State School Superintendent,,Dem,Alisha Thomas Searcy,13,3,1,0,9
+Appling,4D,State School Superintendent,,Dem,Alisha Thomas Searcy,74,42,11,0,21
+Appling,5A,State School Superintendent,,Dem,Alisha Thomas Searcy,60,41,0,0,19
+Appling,5B,State School Superintendent,,Dem,Alisha Thomas Searcy,43,14,4,0,25
+Appling,1B,Commissioner of Labor,,Rep,Bruce Thompson,724,331,41,0,352
+Appling,1C,Commissioner of Labor,,Rep,Bruce Thompson,572,296,22,0,254
+Appling,2,Commissioner of Labor,,Rep,Bruce Thompson,392,188,22,0,182
+Appling,3A1,Commissioner of Labor,,Rep,Bruce Thompson,501,201,18,0,282
+Appling,3C,Commissioner of Labor,,Rep,Bruce Thompson,729,416,40,0,273
+Appling,4B,Commissioner of Labor,,Rep,Bruce Thompson,593,208,17,1,367
+Appling,4D,Commissioner of Labor,,Rep,Bruce Thompson,813,428,42,0,343
+Appling,5A,Commissioner of Labor,,Rep,Bruce Thompson,559,278,21,0,260
+Appling,5B,Commissioner of Labor,,Rep,Bruce Thompson,519,239,10,0,270
+Appling,1B,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",78,34,17,0,27
+Appling,1C,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",46,29,2,0,15
+Appling,2,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",614,346,79,0,189
+Appling,3A1,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",20,9,3,0,8
+Appling,3C,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",191,110,29,0,52
+Appling,4B,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",14,4,1,0,9
+Appling,4D,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",69,38,11,0,20
+Appling,5A,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",63,40,4,0,19
+Appling,5B,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",38,13,3,0,22
+Appling,1B,Commissioner of Labor,,Lib,Emily Anderson,11,5,1,0,5
+Appling,1C,Commissioner of Labor,,Lib,Emily Anderson,5,2,0,0,3
+Appling,2,Commissioner of Labor,,Lib,Emily Anderson,18,9,1,0,8
+Appling,3A1,Commissioner of Labor,,Lib,Emily Anderson,2,1,0,0,1
+Appling,3C,Commissioner of Labor,,Lib,Emily Anderson,9,3,0,0,6
+Appling,4B,Commissioner of Labor,,Lib,Emily Anderson,1,1,0,0,0
+Appling,4D,Commissioner of Labor,,Lib,Emily Anderson,6,4,0,0,2
+Appling,5A,Commissioner of Labor,,Lib,Emily Anderson,2,2,0,0,0
+Appling,5B,Commissioner of Labor,,Lib,Emily Anderson,5,1,1,0,3
+Appling,1B,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",734,334,40,0,360
+Appling,1C,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",580,302,22,0,256
+Appling,2,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",407,191,24,0,192
+Appling,3A1,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",507,203,18,0,286
+Appling,3C,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",738,422,39,0,277
+Appling,4B,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",599,209,17,1,372
+Appling,4D,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",808,424,41,0,343
+Appling,5A,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",555,275,20,0,260
+Appling,5B,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",519,238,10,0,271
+Appling,1B,U.S. House,,Dem,Wade Herring,86,40,19,0,27
+Appling,1C,U.S. House,,Dem,Wade Herring,47,29,2,0,16
+Appling,2,U.S. House,,Dem,Wade Herring,625,357,78,0,190
+Appling,3A1,U.S. House,,Dem,Wade Herring,20,10,3,0,7
+Appling,3C,U.S. House,,Dem,Wade Herring,195,112,31,0,52
+Appling,4B,U.S. House,,Dem,Wade Herring,15,6,1,0,8
+Appling,4D,U.S. House,,Dem,Wade Herring,78,44,11,0,23
+Appling,5A,U.S. House,,Dem,Wade Herring,71,46,4,0,21
+Appling,5B,U.S. House,,Dem,Wade Herring,48,18,4,0,26
+Appling,1B,State Senate,,Rep,Blake Tillery ,738,336,43,0,359
+Appling,1C,State Senate,,Rep,Blake Tillery ,575,301,22,0,252
+Appling,2,State Senate,,Rep,Blake Tillery ,415,200,26,0,189
+Appling,3A1,State Senate,,Rep,Blake Tillery ,510,206,18,0,286
+Appling,3C,State Senate,,Rep,Blake Tillery ,752,425,44,0,283
+Appling,4B,State Senate,,Rep,Blake Tillery ,598,210,17,1,370
+Appling,4D,State Senate,,Rep,Blake Tillery ,822,429,46,0,347
+Appling,5A,State Senate,,Rep,Blake Tillery ,563,279,23,0,261
+Appling,5B,State Senate,,Rep,Blake Tillery ,523,241,11,0,271
+Appling,1B,State Senate,,Dem,"Michael """"Buckle"""" Moore",78,36,15,0,27
+Appling,1C,State Senate,,Dem,"Michael """"Buckle"""" Moore",47,29,2,0,16
+Appling,2,State Senate,,Dem,"Michael """"Buckle"""" Moore",606,343,73,0,190
+Appling,3A1,State Senate,,Dem,"Michael """"Buckle"""" Moore",17,8,3,0,6
+Appling,3C,State Senate,,Dem,"Michael """"Buckle"""" Moore",181,107,26,0,48
+Appling,4B,State Senate,,Dem,"Michael """"Buckle"""" Moore",10,3,1,0,6
+Appling,4D,State Senate,,Dem,"Michael """"Buckle"""" Moore",70,41,8,0,21
+Appling,5A,State Senate,,Dem,"Michael """"Buckle"""" Moore",63,41,2,0,20
+Appling,5B,State Senate,,Dem,"Michael """"Buckle"""" Moore",39,13,3,0,23
+Appling,1B,State House,,Rep,"William """"Bill"""" Werkheiser ",766,354,46,0,366
+Appling,1C,State House,,Rep,"William """"Bill"""" Werkheiser ",495,249,19,0,227
+Appling,2,State House,,Rep,"William """"Bill"""" Werkheiser ",633,322,43,0,268
+Appling,3A1,State House,,Rep,"William """"Bill"""" Werkheiser ",511,204,18,0,289
+Appling,3C,State House,,Rep,"William """"Bill"""" Werkheiser ",748,423,43,0,282
+Appling,5A,State House,,Rep,"William """"Bill"""" Werkheiser ",581,289,22,0,270
+Appling,5B,State House,,Rep,"William """"Bill"""" Werkheiser ",9,5,0,0,4
+Appling,1C,State House,,Rep,Steven Meeks ,96,62,3,0,31
+Appling,3C,State House,,Rep,Steven Meeks ,58,31,5,0,22
+Appling,4B,State House,,Rep,Steven Meeks ,605,211,17,0,377
+Appling,4D,State House,,Rep,Steven Meeks ,837,443,44,0,350
+Appling,5B,State House,,Rep,Steven Meeks ,530,237,11,0,282
+Appling,1B,Special,,,Gretchen Bailey ,522,242,40,0,240
+Appling,1C,Special,,,Gretchen Bailey ,399,211,16,0,172
+Appling,2,Special,,,Gretchen Bailey ,504,264,65,0,175
+Appling,3A1,Special,,,Gretchen Bailey ,355,148,11,0,196
+Appling,3C,Special,,,Gretchen Bailey ,542,321,40,0,181
+Appling,4B,Special,,,Gretchen Bailey ,436,163,16,0,257
+Appling,4D,Special,,,Gretchen Bailey ,499,262,38,0,199
+Appling,5A,Special,,,Gretchen Bailey ,372,185,18,0,169
+Appling,5B,Special,,,Gretchen Bailey ,354,152,11,0,191
+Appling,1B,Special,,,Emily Hardwick,266,117,16,0,133
+Appling,1C,Special,,,Emily Hardwick,203,103,7,0,93
+Appling,2,Special,,,Emily Hardwick,430,221,28,0,181
+Appling,3A1,Special,,,Emily Hardwick,152,56,9,0,87
+Appling,3C,Special,,,Emily Hardwick,340,187,22,0,131
+Appling,4B,Special,,,Emily Hardwick,164,47,1,1,115
+Appling,4D,Special,,,Emily Hardwick,360,191,16,0,153
+Appling,5A,Special,,,Emily Hardwick,224,120,6,0,98
+Appling,5B,Special,,,Emily Hardwick,184,94,3,0,87
+Appling,1B,County Commisisoner,,Rep,Leslie Burch,760,347,47,0,366
+Appling,1C,County Commisisoner,,Rep,Leslie Burch,593,309,23,0,261
+Appling,2,County Commisisoner,,Rep,Leslie Burch,667,339,50,0,278
+Appling,3A1,County Commisisoner,,Rep,Leslie Burch,503,199,18,0,286
+Appling,3C,County Commisisoner,,Rep,Leslie Burch,798,449,47,0,302
+Appling,4B,County Commisisoner,,Rep,Leslie Burch,593,206,18,1,368
+Appling,4D,County Commisisoner,,Rep,Leslie Burch,834,440,46,0,348
+Appling,5A,County Commisisoner,,Rep,Leslie Burch,575,284,25,0,266
+Appling,5B,County Commisisoner,,Rep,Leslie Burch,529,238,11,0,280
+Appling,1B,County Commissioner,,Rep,Randy Sellers,753,349,45,0,359
+Appling,1C,County Commissioner,,Rep,Randy Sellers,584,308,20,0,256
+Appling,3A1,County Commissioner,,Rep,Daryl L. Edwards ,495,194,17,0,284
+Appling,3C,County Commissioner,,Rep,Daryl L. Edwards ,776,438,45,0,293
+Appling,1B,Soil and Water,,,Robert E. Mathews ,727,337,44,0,346
+Appling,1C,Soil and Water,,,Robert E. Mathews ,562,295,21,0,246
+Appling,2,Soil and Water,,,Robert E. Mathews ,691,349,57,0,285
+Appling,3A1,Soil and Water,,,Robert E. Mathews ,488,194,17,0,277
+Appling,3C,Soil and Water,,,Robert E. Mathews ,788,451,49,0,288
+Appling,4B,Soil and Water,,,Robert E. Mathews ,543,190,16,1,336
+Appling,4D,Soil and Water,,,Robert E. Mathews ,770,407,48,0,315
+Appling,5A,Soil and Water,,,Robert E. Mathews ,535,267,25,0,243
+Appling,5B,Soil and Water,,,Robert E. Mathews ,480,218,11,0,251
+Appling,1B,Proposed Constitutional Amendment 1,,,Yes,690,317,48,0,325
+Appling,1C,Proposed Constitutional Amendment 1,,,Yes,532,281,21,0,230
+Appling,2,Proposed Constitutional Amendment 1,,,Yes,782,413,74,0,295
+Appling,3A1,Proposed Constitutional Amendment 1,,,Yes,434,169,18,0,247
+Appling,3C,Proposed Constitutional Amendment 1,,,Yes,778,452,53,0,273
+Appling,4B,Proposed Constitutional Amendment 1,,,Yes,520,179,17,1,323
+Appling,4D,Proposed Constitutional Amendment 1,,,Yes,769,407,42,0,320
+Appling,5A,Proposed Constitutional Amendment 1,,,Yes,535,269,19,0,247
+Appling,5B,Proposed Constitutional Amendment 1,,,Yes,461,206,11,0,244
+Appling,1B,Proposed Constitutional Amendment 1,,,No,83,36,5,0,42
+Appling,1C,Proposed Constitutional Amendment 1,,,No,64,34,2,0,28
+Appling,2,Proposed Constitutional Amendment 1,,,No,163,91,15,0,57
+Appling,3A1,Proposed Constitutional Amendment 1,,,No,77,37,3,0,37
+Appling,3C,Proposed Constitutional Amendment 1,,,No,110,55,10,0,45
+Appling,4B,Proposed Constitutional Amendment 1,,,No,67,25,1,0,41
+Appling,4D,Proposed Constitutional Amendment 1,,,No,85,45,11,0,29
+Appling,5A,Proposed Constitutional Amendment 1,,,No,62,37,4,0,21
+Appling,5B,Proposed Constitutional Amendment 1,,,No,77,38,2,0,37
+Appling,1B,Proposed Constitutional Amendment 2,,,Yes,694,318,47,0,329
+Appling,1C,Proposed Constitutional Amendment 2,,,Yes,548,289,21,0,238
+Appling,2,Proposed Constitutional Amendment 2,,,Yes,859,451,82,0,326
+Appling,3A1,Proposed Constitutional Amendment 2,,,Yes,454,175,19,0,260
+Appling,3C,Proposed Constitutional Amendment 2,,,Yes,811,454,61,0,296
+Appling,4B,Proposed Constitutional Amendment 2,,,Yes,534,191,17,1,325
+Appling,4D,Proposed Constitutional Amendment 2,,,Yes,799,420,49,0,330
+Appling,5A,Proposed Constitutional Amendment 2,,,Yes,553,277,21,0,255
+Appling,5B,Proposed Constitutional Amendment 2,,,Yes,501,225,12,0,264
+Appling,1B,Proposed Constitutional Amendment 2,,,No,84,40,5,0,39
+Appling,1C,Proposed Constitutional Amendment 2,,,No,55,28,2,0,25
+Appling,2,Proposed Constitutional Amendment 2,,,No,111,69,8,0,34
+Appling,3A1,Proposed Constitutional Amendment 2,,,No,62,32,2,0,28
+Appling,3C,Proposed Constitutional Amendment 2,,,No,88,59,4,0,25
+Appling,4B,Proposed Constitutional Amendment 2,,,No,57,19,0,0,38
+Appling,4D,Proposed Constitutional Amendment 2,,,No,70,42,4,0,24
+Appling,5A,Proposed Constitutional Amendment 2,,,No,52,32,3,0,17
+Appling,5B,Proposed Constitutional Amendment 2,,,No,50,24,1,0,25
+Appling,1B,Statewide Referendum Question A,,,Yes,440,202,22,0,216
+Appling,1C,Statewide Referendum Question A,,,Yes,413,209,16,0,188
+Appling,2,Statewide Referendum Question A,,,Yes,553,279,41,0,233
+Appling,3A1,Statewide Referendum Question A,,,Yes,336,132,15,0,189
+Appling,3C,Statewide Referendum Question A,,,Yes,502,266,35,0,201
+Appling,4B,Statewide Referendum Question A,,,Yes,376,133,10,1,232
+Appling,4D,Statewide Referendum Question A,,,Yes,534,284,25,0,225
+Appling,5A,Statewide Referendum Question A,,,Yes,372,164,11,0,197
+Appling,5B,Statewide Referendum Question A,,,Yes,336,149,6,0,181
+Appling,1B,Statewide Referendum Question A,,,No,329,150,32,0,147
+Appling,1C,Statewide Referendum Question A,,,No,184,102,8,0,74
+Appling,2,Statewide Referendum Question A,,,No,393,224,48,0,121
+Appling,3A1,Statewide Referendum Question A,,,No,174,74,6,0,94
+Appling,3C,Statewide Referendum Question A,,,No,369,230,27,0,112
+Appling,4B,Statewide Referendum Question A,,,No,209,72,6,0,131
+Appling,4D,Statewide Referendum Question A,,,No,319,166,27,0,126
+Appling,5A,Statewide Referendum Question A,,,No,226,142,11,0,73
+Appling,5B,Statewide Referendum Question A,,,No,207,94,7,0,106
+Appling,1B,Statewide Referendum Question B,,,Yes,548,253,33,0,262
+Appling,1C,Statewide Referendum Question B,,,Yes,462,233,14,0,215
+Appling,2,Statewide Referendum Question B,,,Yes,623,318,44,0,261
+Appling,3A1,Statewide Referendum Question B,,,Yes,389,147,15,0,227
+Appling,3C,Statewide Referendum Question B,,,Yes,581,316,36,0,229
+Appling,4B,Statewide Referendum Question B,,,Yes,439,152,10,0,277
+Appling,4D,Statewide Referendum Question B,,,Yes,647,335,39,0,273
+Appling,5A,Statewide Referendum Question B,,,Yes,432,206,13,0,213
+Appling,5B,Statewide Referendum Question B,,,Yes,391,169,7,0,215
+Appling,1B,Statewide Referendum Question B,,,No,217,99,20,0,98
+Appling,1C,Statewide Referendum Question B,,,No,131,78,8,0,45
+Appling,2,Statewide Referendum Question B,,,No,322,192,39,0,91
+Appling,3A1,Statewide Referendum Question B,,,No,123,59,5,0,59
+Appling,3C,Statewide Referendum Question B,,,No,292,181,26,0,85
+Appling,4B,Statewide Referendum Question B,,,No,152,54,5,1,92
+Appling,4D,Statewide Referendum Question B,,,No,211,119,13,0,79
+Appling,5A,Statewide Referendum Question B,,,No,164,100,10,0,54
+Appling,5B,Statewide Referendum Question B,,,No,149,72,5,0,72

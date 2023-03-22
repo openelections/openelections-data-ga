@@ -1,0 +1,456 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Sumter,Agri-Center,U.S. Senate,,Rep,Herschel Junior Walker,680,451,24,0,205
+Sumter,Airport,U.S. Senate,,Rep,Herschel Junior Walker,593,364,21,2,206
+Sumter,Andersonville,U.S. Senate,,Rep,Herschel Junior Walker,206,39,5,0,162
+Sumter,Browns Mill,U.S. Senate,,Rep,Herschel Junior Walker,417,185,9,0,223
+Sumter,Concord,U.S. Senate,,Rep,Herschel Junior Walker,223,67,3,0,153
+Sumter,JROTC,U.S. Senate,,Rep,Herschel Junior Walker,822,519,44,0,259
+Sumter,Leslie,U.S. Senate,,Rep,Herschel Junior Walker,681,307,14,0,360
+Sumter,Plains,U.S. Senate,,Rep,Herschel Junior Walker,329,120,13,1,195
+Sumter,Rec Dept,U.S. Senate,,Rep,Herschel Junior Walker,224,141,16,0,67
+Sumter,Rees Park,U.S. Senate,,Rep,Herschel Junior Walker,232,156,16,1,59
+Sumter,Thompson,U.S. Senate,,Rep,Herschel Junior Walker,183,71,15,0,97
+Sumter,Agri-Center,U.S. Senate,,Dem,Raphael Warnock ,470,306,81,1,82
+Sumter,Airport,U.S. Senate,,Dem,Raphael Warnock ,494,317,46,1,130
+Sumter,Andersonville,U.S. Senate,,Dem,Raphael Warnock ,61,28,10,0,23
+Sumter,Browns Mill,U.S. Senate,,Dem,Raphael Warnock ,205,125,22,0,58
+Sumter,Concord,U.S. Senate,,Dem,Raphael Warnock ,31,21,3,0,7
+Sumter,JROTC,U.S. Senate,,Dem,Raphael Warnock ,740,461,69,0,210
+Sumter,Leslie,U.S. Senate,,Dem,Raphael Warnock ,371,183,66,0,122
+Sumter,Plains,U.S. Senate,,Dem,Raphael Warnock ,295,122,30,0,143
+Sumter,Rec Dept,U.S. Senate,,Dem,Raphael Warnock ,1092,687,159,1,245
+Sumter,Rees Park,U.S. Senate,,Dem,Raphael Warnock ,979,578,143,0,258
+Sumter,Thompson,U.S. Senate,,Dem,Raphael Warnock ,156,80,18,0,58
+Sumter,Agri-Center,U.S. Senate,,Lib,Chase Oliver,12,7,0,0,5
+Sumter,Airport,U.S. Senate,,Lib,Chase Oliver,11,5,1,0,5
+Sumter,Andersonville,U.S. Senate,,Lib,Chase Oliver,2,0,0,0,2
+Sumter,Browns Mill,U.S. Senate,,Lib,Chase Oliver,4,1,0,0,3
+Sumter,Concord,U.S. Senate,,Lib,Chase Oliver,1,1,0,0,0
+Sumter,JROTC,U.S. Senate,,Lib,Chase Oliver,21,13,0,0,8
+Sumter,Leslie,U.S. Senate,,Lib,Chase Oliver,15,5,0,0,10
+Sumter,Plains,U.S. Senate,,Lib,Chase Oliver,10,5,0,0,5
+Sumter,Rec Dept,U.S. Senate,,Lib,Chase Oliver,9,6,0,0,3
+Sumter,Rees Park,U.S. Senate,,Lib,Chase Oliver,7,4,1,0,2
+Sumter,Thompson,U.S. Senate,,Lib,Chase Oliver,4,1,0,0,3
+Sumter,Agri-Center,Governor,,Rep,Brian Kemp ,720,478,25,0,217
+Sumter,Airport,Governor,,Rep,Brian Kemp ,636,386,24,2,224
+Sumter,Andersonville,Governor,,Rep,Brian Kemp ,209,40,5,0,164
+Sumter,Browns Mill,Governor,,Rep,Brian Kemp ,428,189,10,0,229
+Sumter,Concord,Governor,,Rep,Brian Kemp ,234,70,4,0,160
+Sumter,JROTC,Governor,,Rep,Brian Kemp ,922,575,50,0,297
+Sumter,Leslie,Governor,,Rep,Brian Kemp ,718,318,16,0,384
+Sumter,Plains,Governor,,Rep,Brian Kemp ,352,128,15,1,208
+Sumter,Rec Dept,Governor,,Rep,Brian Kemp ,255,159,22,0,74
+Sumter,Rees Park,Governor,,Rep,Brian Kemp ,254,172,17,1,64
+Sumter,Thompson,Governor,,Rep,Brian Kemp ,193,76,16,0,101
+Sumter,Agri-Center,Governor,,Dem,Stacey Abrams,444,287,80,1,76
+Sumter,Airport,Governor,,Dem,Stacey Abrams,460,299,45,1,115
+Sumter,Andersonville,Governor,,Dem,Stacey Abrams,59,27,10,0,22
+Sumter,Browns Mill,Governor,,Dem,Stacey Abrams,199,122,21,0,56
+Sumter,Concord,Governor,,Dem,Stacey Abrams,22,19,3,0,0
+Sumter,JROTC,Governor,,Dem,Stacey Abrams,664,420,65,0,179
+Sumter,Leslie,Governor,,Dem,Stacey Abrams,345,176,64,0,105
+Sumter,Plains,Governor,,Dem,Stacey Abrams,280,117,28,0,135
+Sumter,Rec Dept,Governor,,Dem,Stacey Abrams,1067,671,153,1,242
+Sumter,Rees Park,Governor,,Dem,Stacey Abrams,960,565,142,0,253
+Sumter,Thompson,Governor,,Dem,Stacey Abrams,150,76,17,0,57
+Sumter,Agri-Center,Governor,,Lib,Shane Hazel,3,2,0,0,1
+Sumter,Airport,Governor,,Lib,Shane Hazel,4,2,0,0,2
+Sumter,Andersonville,Governor,,Lib,Shane Hazel,1,0,0,0,1
+Sumter,Browns Mill,Governor,,Lib,Shane Hazel,1,0,0,0,1
+Sumter,Concord,Governor,,Lib,Shane Hazel,1,0,0,0,1
+Sumter,JROTC,Governor,,Lib,Shane Hazel,5,2,0,0,3
+Sumter,Leslie,Governor,,Lib,Shane Hazel,7,2,0,0,5
+Sumter,Plains,Governor,,Lib,Shane Hazel,2,2,0,0,0
+Sumter,Rec Dept,Governor,,Lib,Shane Hazel,4,3,0,0,1
+Sumter,Rees Park,Governor,,Lib,Shane Hazel,6,3,1,0,2
+Sumter,Thompson,Governor,,Lib,Shane Hazel,0,0,0,0,0
+Sumter,Agri-Center,Lieutenant Governor,,Rep,Burt Jones,697,464,24,0,209
+Sumter,Airport,Lieutenant Governor,,Rep,Burt Jones,620,377,24,2,217
+Sumter,Andersonville,Lieutenant Governor,,Rep,Burt Jones,204,39,5,0,160
+Sumter,Browns Mill,Lieutenant Governor,,Rep,Burt Jones,421,188,9,0,224
+Sumter,Concord,Lieutenant Governor,,Rep,Burt Jones,229,68,4,0,157
+Sumter,JROTC,Lieutenant Governor,,Rep,Burt Jones,884,550,45,0,289
+Sumter,Leslie,Lieutenant Governor,,Rep,Burt Jones,699,309,14,0,376
+Sumter,Plains,Lieutenant Governor,,Rep,Burt Jones,329,125,12,1,191
+Sumter,Rec Dept,Lieutenant Governor,,Rep,Burt Jones,248,156,19,0,73
+Sumter,Rees Park,Lieutenant Governor,,Rep,Burt Jones,245,163,18,1,63
+Sumter,Thompson,Lieutenant Governor,,Rep,Burt Jones,184,72,15,0,97
+Sumter,Agri-Center,Lieutenant Governor,,Dem,Charlie Bailey,446,287,81,1,77
+Sumter,Airport,Lieutenant Governor,,Dem,Charlie Bailey,459,294,46,1,118
+Sumter,Andersonville,Lieutenant Governor,,Dem,Charlie Bailey,62,28,10,0,24
+Sumter,Browns Mill,Lieutenant Governor,,Dem,Charlie Bailey,191,115,22,0,54
+Sumter,Concord,Lieutenant Governor,,Dem,Charlie Bailey,24,20,2,0,2
+Sumter,JROTC,Lieutenant Governor,,Dem,Charlie Bailey,672,431,66,0,175
+Sumter,Leslie,Lieutenant Governor,,Dem,Charlie Bailey,343,175,64,0,104
+Sumter,Plains,Lieutenant Governor,,Dem,Charlie Bailey,282,118,29,0,135
+Sumter,Rec Dept,Lieutenant Governor,,Dem,Charlie Bailey,1045,654,154,1,236
+Sumter,Rees Park,Lieutenant Governor,,Dem,Charlie Bailey,935,553,140,0,242
+Sumter,Thompson,Lieutenant Governor,,Dem,Charlie Bailey,149,75,18,0,56
+Sumter,Agri-Center,Lieutenant Governor,,Lib,Ryan Graham,9,4,0,0,5
+Sumter,Airport,Lieutenant Governor,,Lib,Ryan Graham,9,6,0,0,3
+Sumter,Andersonville,Lieutenant Governor,,Lib,Ryan Graham,2,0,0,0,2
+Sumter,Browns Mill,Lieutenant Governor,,Lib,Ryan Graham,6,3,0,0,3
+Sumter,Concord,Lieutenant Governor,,Lib,Ryan Graham,2,1,1,0,0
+Sumter,JROTC,Lieutenant Governor,,Lib,Ryan Graham,15,6,0,0,9
+Sumter,Leslie,Lieutenant Governor,,Lib,Ryan Graham,11,4,1,0,6
+Sumter,Plains,Lieutenant Governor,,Lib,Ryan Graham,6,1,0,0,5
+Sumter,Rec Dept,Lieutenant Governor,,Lib,Ryan Graham,12,7,1,0,4
+Sumter,Rees Park,Lieutenant Governor,,Lib,Ryan Graham,13,6,0,0,7
+Sumter,Thompson,Lieutenant Governor,,Lib,Ryan Graham,3,2,0,0,1
+Sumter,Agri-Center,Secretary of State,,Rep,Brad Raffensperger ,689,458,22,1,208
+Sumter,Airport,Secretary of State,,Rep,Brad Raffensperger ,631,384,25,3,219
+Sumter,Andersonville,Secretary of State,,Rep,Brad Raffensperger ,206,41,5,0,160
+Sumter,Browns Mill,Secretary of State,,Rep,Brad Raffensperger ,423,188,10,0,225
+Sumter,Concord,Secretary of State,,Rep,Brad Raffensperger ,225,66,4,0,155
+Sumter,JROTC,Secretary of State,,Rep,Brad Raffensperger ,913,566,54,0,293
+Sumter,Leslie,Secretary of State,,Rep,Brad Raffensperger ,697,312,15,0,370
+Sumter,Plains,Secretary of State,,Rep,Brad Raffensperger ,344,124,15,1,204
+Sumter,Rec Dept,Secretary of State,,Rep,Brad Raffensperger ,281,182,26,0,73
+Sumter,Rees Park,Secretary of State,,Rep,Brad Raffensperger ,281,186,19,1,75
+Sumter,Thompson,Secretary of State,,Rep,Brad Raffensperger ,185,75,14,0,96
+Sumter,Agri-Center,Secretary of State,,Dem,Bee Nguyen,438,280,81,0,77
+Sumter,Airport,Secretary of State,,Dem,Bee Nguyen,433,278,44,0,111
+Sumter,Andersonville,Secretary of State,,Dem,Bee Nguyen,60,26,10,0,24
+Sumter,Browns Mill,Secretary of State,,Dem,Bee Nguyen,187,114,21,0,52
+Sumter,Concord,Secretary of State,,Dem,Bee Nguyen,23,19,3,0,1
+Sumter,JROTC,Secretary of State,,Dem,Bee Nguyen,627,397,60,0,170
+Sumter,Leslie,Secretary of State,,Dem,Bee Nguyen,338,167,65,0,106
+Sumter,Plains,Secretary of State,,Dem,Bee Nguyen,269,116,28,0,125
+Sumter,Rec Dept,Secretary of State,,Dem,Bee Nguyen,996,626,143,1,226
+Sumter,Rees Park,Secretary of State,,Dem,Bee Nguyen,897,523,139,0,235
+Sumter,Thompson,Secretary of State,,Dem,Bee Nguyen,140,69,18,0,53
+Sumter,Agri-Center,Secretary of State,,Lib,Ted Metz,20,14,0,0,6
+Sumter,Airport,Secretary of State,,Lib,Ted Metz,23,16,0,0,7
+Sumter,Andersonville,Secretary of State,,Lib,Ted Metz,2,0,0,0,2
+Sumter,Browns Mill,Secretary of State,,Lib,Ted Metz,9,4,0,0,5
+Sumter,Concord,Secretary of State,,Lib,Ted Metz,7,4,0,0,3
+Sumter,JROTC,Secretary of State,,Lib,Ted Metz,31,17,1,0,13
+Sumter,Leslie,Secretary of State,,Lib,Ted Metz,19,8,0,0,11
+Sumter,Plains,Secretary of State,,Lib,Ted Metz,7,2,0,0,5
+Sumter,Rec Dept,Secretary of State,,Lib,Ted Metz,22,9,4,0,9
+Sumter,Rees Park,Secretary of State,,Lib,Ted Metz,21,17,1,0,3
+Sumter,Thompson,Secretary of State,,Lib,Ted Metz,7,3,0,0,4
+Sumter,Agri-Center,Attorney General,,Rep,Chris Carr ,698,463,23,0,212
+Sumter,Airport,Attorney General,,Rep,Chris Carr ,617,371,25,2,219
+Sumter,Andersonville,Attorney General,,Rep,Chris Carr ,207,39,5,0,163
+Sumter,Browns Mill,Attorney General,,Rep,Chris Carr ,421,187,12,0,222
+Sumter,Concord,Attorney General,,Rep,Chris Carr ,233,69,4,0,160
+Sumter,JROTC,Attorney General,,Rep,Chris Carr ,888,550,46,0,292
+Sumter,Leslie,Attorney General,,Rep,Chris Carr ,707,314,16,0,377
+Sumter,Plains,Attorney General,,Rep,Chris Carr ,340,128,14,1,197
+Sumter,Rec Dept,Attorney General,,Rep,Chris Carr ,243,155,20,0,68
+Sumter,Rees Park,Attorney General,,Rep,Chris Carr ,256,167,18,1,70
+Sumter,Thompson,Attorney General,,Rep,Chris Carr ,185,73,15,0,97
+Sumter,Agri-Center,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",449,289,81,1,78
+Sumter,Airport,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",468,303,45,1,119
+Sumter,Andersonville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",59,28,10,0,21
+Sumter,Browns Mill,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",193,117,19,0,57
+Sumter,Concord,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",22,19,2,0,1
+Sumter,JROTC,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",671,426,66,0,179
+Sumter,Leslie,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",347,174,62,0,111
+Sumter,Plains,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",278,117,28,0,133
+Sumter,Rec Dept,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1052,660,153,1,238
+Sumter,Rees Park,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",934,555,139,0,240
+Sumter,Thompson,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",149,76,18,0,55
+Sumter,Agri-Center,Attorney General,,Lib,Martin Cowen,10,7,0,0,3
+Sumter,Airport,Attorney General,,Lib,Martin Cowen,4,3,0,0,1
+Sumter,Andersonville,Attorney General,,Lib,Martin Cowen,3,0,0,0,3
+Sumter,Browns Mill,Attorney General,,Lib,Martin Cowen,3,0,0,0,3
+Sumter,Concord,Attorney General,,Lib,Martin Cowen,2,1,1,0,0
+Sumter,JROTC,Attorney General,,Lib,Martin Cowen,15,9,0,0,6
+Sumter,Leslie,Attorney General,,Lib,Martin Cowen,5,3,0,0,2
+Sumter,Plains,Attorney General,,Lib,Martin Cowen,2,0,1,0,1
+Sumter,Rec Dept,Attorney General,,Lib,Martin Cowen,14,7,0,0,7
+Sumter,Rees Park,Attorney General,,Lib,Martin Cowen,10,6,0,0,4
+Sumter,Thompson,Attorney General,,Lib,Martin Cowen,1,0,0,0,1
+Sumter,Agri-Center,Commissioner Of Agriculture,,Rep,Tyler Harper,706,469,22,0,215
+Sumter,Airport,Commissioner Of Agriculture,,Rep,Tyler Harper,630,382,23,2,223
+Sumter,Andersonville,Commissioner Of Agriculture,,Rep,Tyler Harper,210,40,5,0,165
+Sumter,Browns Mill,Commissioner Of Agriculture,,Rep,Tyler Harper,424,190,10,0,224
+Sumter,Concord,Commissioner Of Agriculture,,Rep,Tyler Harper,232,68,4,0,160
+Sumter,JROTC,Commissioner Of Agriculture,,Rep,Tyler Harper,914,563,50,0,301
+Sumter,Leslie,Commissioner Of Agriculture,,Rep,Tyler Harper,715,317,15,0,383
+Sumter,Plains,Commissioner Of Agriculture,,Rep,Tyler Harper,345,129,14,1,201
+Sumter,Rec Dept,Commissioner Of Agriculture,,Rep,Tyler Harper,267,169,21,0,77
+Sumter,Rees Park,Commissioner Of Agriculture,,Rep,Tyler Harper,256,170,19,1,66
+Sumter,Thompson,Commissioner Of Agriculture,,Rep,Tyler Harper,188,73,15,0,100
+Sumter,Agri-Center,Commissioner Of Agriculture,,Dem,Nakita Hemingway,438,285,80,1,72
+Sumter,Airport,Commissioner Of Agriculture,,Dem,Nakita Hemingway,447,287,47,1,112
+Sumter,Andersonville,Commissioner Of Agriculture,,Dem,Nakita Hemingway,58,27,10,0,21
+Sumter,Browns Mill,Commissioner Of Agriculture,,Dem,Nakita Hemingway,192,117,21,0,54
+Sumter,Concord,Commissioner Of Agriculture,,Dem,Nakita Hemingway,23,20,3,0,0
+Sumter,JROTC,Commissioner Of Agriculture,,Dem,Nakita Hemingway,633,406,62,0,165
+Sumter,Leslie,Commissioner Of Agriculture,,Dem,Nakita Hemingway,333,169,62,0,102
+Sumter,Plains,Commissioner Of Agriculture,,Dem,Nakita Hemingway,270,115,28,0,127
+Sumter,Rec Dept,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1020,641,152,1,226
+Sumter,Rees Park,Commissioner Of Agriculture,,Dem,Nakita Hemingway,934,555,139,0,240
+Sumter,Thompson,Commissioner Of Agriculture,,Dem,Nakita Hemingway,141,71,18,0,52
+Sumter,Agri-Center,Commissioner Of Agriculture,,Lib,David Raudabaugh,13,7,1,0,5
+Sumter,Airport,Commissioner Of Agriculture,,Lib,David Raudabaugh,14,10,0,0,4
+Sumter,Andersonville,Commissioner Of Agriculture,,Lib,David Raudabaugh,2,0,0,0,2
+Sumter,Browns Mill,Commissioner Of Agriculture,,Lib,David Raudabaugh,4,1,0,0,3
+Sumter,Concord,Commissioner Of Agriculture,,Lib,David Raudabaugh,1,0,0,0,1
+Sumter,JROTC,Commissioner Of Agriculture,,Lib,David Raudabaugh,26,16,0,0,10
+Sumter,Leslie,Commissioner Of Agriculture,,Lib,David Raudabaugh,9,4,0,0,5
+Sumter,Plains,Commissioner Of Agriculture,,Lib,David Raudabaugh,4,1,0,0,3
+Sumter,Rec Dept,Commissioner Of Agriculture,,Lib,David Raudabaugh,17,12,0,0,5
+Sumter,Rees Park,Commissioner Of Agriculture,,Lib,David Raudabaugh,11,3,2,0,6
+Sumter,Thompson,Commissioner Of Agriculture,,Lib,David Raudabaugh,7,5,0,0,2
+Sumter,Agri-Center,Commissioner Of Insurance,,Rep,John King ,707,473,22,0,212
+Sumter,Airport,Commissioner Of Insurance,,Rep,John King ,629,384,24,2,219
+Sumter,Andersonville,Commissioner Of Insurance,,Rep,John King ,208,39,5,0,164
+Sumter,Browns Mill,Commissioner Of Insurance,,Rep,John King ,430,194,11,0,225
+Sumter,Concord,Commissioner Of Insurance,,Rep,John King ,231,69,4,0,158
+Sumter,JROTC,Commissioner Of Insurance,,Rep,John King ,913,567,48,0,298
+Sumter,Leslie,Commissioner Of Insurance,,Rep,John King ,715,315,17,0,383
+Sumter,Plains,Commissioner Of Insurance,,Rep,John King ,342,127,14,1,200
+Sumter,Rec Dept,Commissioner Of Insurance,,Rep,John King ,265,166,20,0,79
+Sumter,Rees Park,Commissioner Of Insurance,,Rep,John King ,260,171,19,1,69
+Sumter,Thompson,Commissioner Of Insurance,,Rep,John King ,188,74,15,0,99
+Sumter,Agri-Center,Commissioner Of Insurance,,Dem,Janice Laws Robinson,444,285,81,1,77
+Sumter,Airport,Commissioner Of Insurance,,Dem,Janice Laws Robinson,458,290,47,1,120
+Sumter,Andersonville,Commissioner Of Insurance,,Dem,Janice Laws Robinson,61,28,10,0,23
+Sumter,Browns Mill,Commissioner Of Insurance,,Dem,Janice Laws Robinson,188,112,20,0,56
+Sumter,Concord,Commissioner Of Insurance,,Dem,Janice Laws Robinson,25,20,3,0,2
+Sumter,JROTC,Commissioner Of Insurance,,Dem,Janice Laws Robinson,652,416,63,0,173
+Sumter,Leslie,Commissioner Of Insurance,,Dem,Janice Laws Robinson,345,175,62,0,108
+Sumter,Plains,Commissioner Of Insurance,,Dem,Janice Laws Robinson,277,115,29,0,133
+Sumter,Rec Dept,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1035,647,154,1,233
+Sumter,Rees Park,Commissioner Of Insurance,,Dem,Janice Laws Robinson,939,556,141,0,242
+Sumter,Thompson,Commissioner Of Insurance,,Dem,Janice Laws Robinson,147,75,18,0,54
+Sumter,Agri-Center,State School Superintendent,,Rep,Richard Woods ,719,480,23,0,216
+Sumter,Airport,State School Superintendent,,Rep,Richard Woods ,637,390,24,2,221
+Sumter,Andersonville,State School Superintendent,,Rep,Richard Woods ,214,42,5,0,167
+Sumter,Browns Mill,State School Superintendent,,Rep,Richard Woods ,430,192,11,0,227
+Sumter,Concord,State School Superintendent,,Rep,Richard Woods ,233,70,4,0,159
+Sumter,JROTC,State School Superintendent,,Rep,Richard Woods ,932,579,52,0,301
+Sumter,Leslie,State School Superintendent,,Rep,Richard Woods ,716,316,17,0,383
+Sumter,Plains,State School Superintendent,,Rep,Richard Woods ,345,129,16,1,199
+Sumter,Rec Dept,State School Superintendent,,Rep,Richard Woods ,258,163,17,0,78
+Sumter,Rees Park,State School Superintendent,,Rep,Richard Woods ,266,183,20,1,62
+Sumter,Thompson,State School Superintendent,,Rep,Richard Woods ,189,73,16,0,100
+Sumter,Agri-Center,State School Superintendent,,Dem,Alisha Thomas Searcy,437,280,81,1,75
+Sumter,Airport,State School Superintendent,,Dem,Alisha Thomas Searcy,456,289,47,1,119
+Sumter,Andersonville,State School Superintendent,,Dem,Alisha Thomas Searcy,55,25,10,0,20
+Sumter,Browns Mill,State School Superintendent,,Dem,Alisha Thomas Searcy,194,118,20,0,56
+Sumter,Concord,State School Superintendent,,Dem,Alisha Thomas Searcy,22,19,3,0,0
+Sumter,JROTC,State School Superintendent,,Dem,Alisha Thomas Searcy,640,407,61,0,172
+Sumter,Leslie,State School Superintendent,,Dem,Alisha Thomas Searcy,341,172,62,0,107
+Sumter,Plains,State School Superintendent,,Dem,Alisha Thomas Searcy,275,113,27,0,135
+Sumter,Rec Dept,State School Superintendent,,Dem,Alisha Thomas Searcy,1043,654,155,1,233
+Sumter,Rees Park,State School Superintendent,,Dem,Alisha Thomas Searcy,934,545,140,0,249
+Sumter,Thompson,State School Superintendent,,Dem,Alisha Thomas Searcy,147,77,17,0,53
+Sumter,Agri-Center,Commissioner Of Labor,,Rep,Bruce Thompson,697,462,23,0,212
+Sumter,Airport,Commissioner Of Labor,,Rep,Bruce Thompson,613,373,23,2,215
+Sumter,Andersonville,Commissioner Of Labor,,Rep,Bruce Thompson,207,40,5,0,162
+Sumter,Browns Mill,Commissioner Of Labor,,Rep,Bruce Thompson,424,191,9,0,224
+Sumter,Concord,Commissioner Of Labor,,Rep,Bruce Thompson,229,67,4,0,158
+Sumter,JROTC,Commissioner Of Labor,,Rep,Bruce Thompson,874,549,46,0,279
+Sumter,Leslie,Commissioner Of Labor,,Rep,Bruce Thompson,703,311,15,0,377
+Sumter,Plains,Commissioner Of Labor,,Rep,Bruce Thompson,332,123,14,1,194
+Sumter,Rec Dept,Commissioner Of Labor,,Rep,Bruce Thompson,248,159,18,0,71
+Sumter,Rees Park,Commissioner Of Labor,,Rep,Bruce Thompson,251,169,18,1,63
+Sumter,Thompson,Commissioner Of Labor,,Rep,Bruce Thompson,180,71,15,0,94
+Sumter,Agri-Center,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",454,292,81,1,80
+Sumter,Airport,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",464,298,47,1,118
+Sumter,Andersonville,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",60,27,10,0,23
+Sumter,Browns Mill,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",191,115,22,0,54
+Sumter,Concord,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",24,20,2,0,2
+Sumter,JROTC,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",658,413,62,0,183
+Sumter,Leslie,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",340,173,64,0,103
+Sumter,Plains,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",274,114,28,0,132
+Sumter,Rec Dept,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1032,648,154,1,229
+Sumter,Rees Park,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",929,552,140,0,237
+Sumter,Thompson,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",149,76,18,0,55
+Sumter,Agri-Center,Commissioner Of Labor,,Lib,Emily Anderson,8,8,0,0,0
+Sumter,Airport,Commissioner Of Labor,,Lib,Emily Anderson,13,6,1,0,6
+Sumter,Andersonville,Commissioner Of Labor,,Lib,Emily Anderson,3,0,0,0,3
+Sumter,Browns Mill,Commissioner Of Labor,,Lib,Emily Anderson,5,1,0,0,4
+Sumter,Concord,Commissioner Of Labor,,Lib,Emily Anderson,2,2,0,0,0
+Sumter,JROTC,Commissioner Of Labor,,Lib,Emily Anderson,29,17,1,0,11
+Sumter,Leslie,Commissioner Of Labor,,Lib,Emily Anderson,12,4,0,0,8
+Sumter,Plains,Commissioner Of Labor,,Lib,Emily Anderson,10,5,0,0,5
+Sumter,Rec Dept,Commissioner Of Labor,,Lib,Emily Anderson,26,16,0,0,10
+Sumter,Rees Park,Commissioner Of Labor,,Lib,Emily Anderson,19,6,2,0,11
+Sumter,Thompson,Commissioner Of Labor,,Lib,Emily Anderson,6,2,0,0,4
+Sumter,Agri-Center,U.S. House,2,Rep,Chris West,675,442,23,0,210
+Sumter,Airport,U.S. House,2,Rep,Chris West,583,355,22,2,204
+Sumter,Andersonville,U.S. House,2,Rep,Chris West,198,39,5,0,154
+Sumter,Browns Mill,U.S. House,2,Rep,Chris West,414,183,8,0,223
+Sumter,Concord,U.S. House,2,Rep,Chris West,225,68,2,0,155
+Sumter,JROTC,U.S. House,2,Rep,Chris West,824,518,41,0,265
+Sumter,Leslie,U.S. House,2,Rep,Chris West,675,303,14,0,358
+Sumter,Plains,U.S. House,2,Rep,Chris West,319,118,13,1,187
+Sumter,Rec Dept,U.S. House,2,Rep,Chris West,223,139,17,0,67
+Sumter,Rees Park,U.S. House,2,Rep,Chris West,226,154,17,1,54
+Sumter,Thompson,U.S. House,2,Rep,Chris West,182,73,11,0,98
+Sumter,Agri-Center,U.S. House,2,Dem,Sanford Bishop ,490,323,82,1,84
+Sumter,Airport,U.S. House,2,Dem,Sanford Bishop ,517,330,48,1,138
+Sumter,Andersonville,U.S. House,2,Dem,Sanford Bishop ,70,28,10,0,32
+Sumter,Browns Mill,U.S. House,2,Dem,Sanford Bishop ,216,129,23,0,64
+Sumter,Concord,U.S. House,2,Dem,Sanford Bishop ,31,21,5,0,5
+Sumter,JROTC,U.S. House,2,Dem,Sanford Bishop ,764,479,74,0,211
+Sumter,Leslie,U.S. House,2,Dem,Sanford Bishop ,389,192,65,0,132
+Sumter,Plains,U.S. House,2,Dem,Sanford Bishop ,310,128,30,0,152
+Sumter,Rec Dept,U.S. House,2,Dem,Sanford Bishop ,1099,693,158,1,247
+Sumter,Rees Park,U.S. House,2,Dem,Sanford Bishop ,989,583,143,0,263
+Sumter,Thompson,U.S. House,2,Dem,Sanford Bishop ,159,78,22,0,59
+Sumter,Agri-Center,State Senate,12,Dem,Freddie Powell Sims ,751,496,87,1,167
+Sumter,Airport,State Senate,12,Dem,Freddie Powell Sims ,751,478,52,1,220
+Sumter,Andersonville,State Senate,12,Dem,Freddie Powell Sims ,136,40,8,0,88
+Sumter,Browns Mill,State Senate,12,Dem,Freddie Powell Sims ,361,198,27,0,136
+Sumter,Concord,State Senate,12,Dem,Freddie Powell Sims ,118,53,2,0,63
+Sumter,JROTC,State Senate,12,Dem,Freddie Powell Sims ,1080,679,79,0,322
+Sumter,Leslie,State Senate,12,Dem,Freddie Powell Sims ,608,283,64,0,261
+Sumter,Plains,State Senate,12,Dem,Freddie Powell Sims ,420,171,31,0,218
+Sumter,Rec Dept,State Senate,12,Dem,Freddie Powell Sims ,1136,723,147,1,265
+Sumter,Rees Park,State Senate,12,Dem,Freddie Powell Sims ,1047,625,141,0,281
+Sumter,Thompson,State Senate,12,Dem,Freddie Powell Sims ,236,116,24,0,96
+Sumter,Airport,State House,150,Dem,Patty Bentley ,736,470,51,1,214
+Sumter,Andersonville,State House,150,Dem,Patty Bentley ,136,39,11,0,86
+Sumter,Browns Mill,State House,150,Dem,Patty Bentley ,353,200,25,0,128
+Sumter,JROTC,State House,150,Dem,Patty Bentley ,731,477,46,0,208
+Sumter,Rec Dept,State House,150,Dem,Patty Bentley ,9,7,0,0,2
+Sumter,Rees Park,State House,150,Dem,Patty Bentley ,951,563,130,0,258
+Sumter,Thompson,State House,150,Dem,Patty Bentley ,1,0,0,0,1
+Sumter,Agri-Center,State House,151,Rep,Mike Cheokas ,702,469,24,0,209
+Sumter,Airport,State House,151,Rep,Mike Cheokas ,0,0,0,0,0
+Sumter,Concord,State House,151,Rep,Mike Cheokas ,231,69,4,0,158
+Sumter,JROTC,State House,151,Rep,Mike Cheokas ,218,125,13,0,80
+Sumter,Leslie,State House,151,Rep,Mike Cheokas ,719,321,17,0,381
+Sumter,Plains,State House,151,Rep,Mike Cheokas ,343,128,14,1,200
+Sumter,Rec Dept,State House,151,Rep,Mike Cheokas ,259,162,18,0,79
+Sumter,Rees Park,State House,151,Rep,Mike Cheokas ,3,0,0,0,3
+Sumter,Thompson,State House,151,Rep,Mike Cheokas ,189,75,15,0,99
+Sumter,Agri-Center,State House,151,Dem,Joyce Barlow,456,293,80,1,82
+Sumter,Airport,State House,151,Dem,Joyce Barlow,1,1,0,0,0
+Sumter,Concord,State House,151,Dem,Joyce Barlow,22,19,2,0,1
+Sumter,JROTC,State House,151,Dem,Joyce Barlow,245,141,28,0,76
+Sumter,Leslie,State House,151,Dem,Joyce Barlow,341,169,62,0,110
+Sumter,Plains,State House,151,Dem,Joyce Barlow,282,119,28,0,135
+Sumter,Rec Dept,State House,151,Dem,Joyce Barlow,1049,660,157,1,231
+Sumter,Rees Park,State House,151,Dem,Joyce Barlow,99,64,9,0,26
+Sumter,Thompson,State House,151,Dem,Joyce Barlow,146,75,18,0,53
+Sumter,Airport,County Commissioner Dist 2,,Rep,Mark Waddell ,521,312,25,2,182
+Sumter,JROTC,County Commissioner Dist 2,,Rep,Mark Waddell ,778,510,27,0,241
+Sumter,Rec Dept,County Commissioner Dist 2,,Rep,Mark Waddell ,93,58,3,0,32
+Sumter,Rees Park,County Commissioner Dist 2,,Rep,Mark Waddell ,317,210,16,0,91
+Sumter,Airport,County Commissioner Dist 4,,Rep,David Baldwin,65,46,3,0,16
+Sumter,JROTC,County Commissioner Dist 4,,Rep,David Baldwin,137,79,4,0,54
+Sumter,Leslie,County Commissioner Dist 4,,Rep,David Baldwin,678,305,15,0,358
+Sumter,Rees Park,County Commissioner Dist 4,,Rep,David Baldwin,10,7,2,0,1
+Sumter,Airport,County Commissioner Dist 4,,Dem,Mathis Wright,78,47,8,0,23
+Sumter,JROTC,County Commissioner Dist 4,,Dem,Mathis Wright,103,64,7,0,32
+Sumter,Leslie,County Commissioner Dist 4,,Dem,Mathis Wright,318,159,59,0,100
+Sumter,Rees Park,County Commissioner Dist 4,,Dem,Mathis Wright,121,62,18,0,41
+Sumter,Airport,Board of Education D1,,,Abbis Yvette Bivins ,317,191,24,2,100
+Sumter,Rees Park,Board of Education D1,,,Abbis Yvette Bivins ,509,303,76,1,129
+Sumter,Airport,Board of Education D1,,,Aisha Wilcher Evans,162,93,10,0,59
+Sumter,Rees Park,Board of Education D1,,,Aisha Wilcher Evans,257,168,26,0,63
+Sumter,Agri-Center,Board of Education D3,,,"Edward F. Jackson, Jr. ",181,105,15,1,60
+Sumter,Airport,Board of Education D3,,,"Edward F. Jackson, Jr. ",1,1,0,0,0
+Sumter,Concord,Board of Education D3,,,"Edward F. Jackson, Jr. ",145,58,2,0,85
+Sumter,Leslie,Board of Education D3,,,"Edward F. Jackson, Jr. ",110,59,7,0,44
+Sumter,Plains,Board of Education D3,,,"Edward F. Jackson, Jr. ",482,194,34,1,253
+Sumter,Thompson,Board of Education D3,,,"Edward F. Jackson, Jr. ",252,120,26,0,106
+Sumter,Agri-Center,Board of Education D5,,,Matt Berry,292,209,11,0,72
+Sumter,Concord,Board of Education D5,,,Matt Berry,14,6,1,0,7
+Sumter,Rec Dept,Board of Education D5,,,Matt Berry,147,94,10,0,43
+Sumter,Rees Park,Board of Education D5,,,Matt Berry,2,2,0,0,0
+Sumter,Agri-Center,Board of Education D5,,,Carolyn C. Hamilton ,235,174,29,0,32
+Sumter,Concord,Board of Education D5,,,Carolyn C. Hamilton ,11,5,0,0,6
+Sumter,Rec Dept,Board of Education D5,,,Carolyn C. Hamilton ,632,384,94,1,153
+Sumter,Rees Park,Board of Education D5,,,Carolyn C. Hamilton ,34,23,5,0,6
+Sumter,Agri-Center,Board of Education D7,,,Sylvia Roland ,38,22,2,0,14
+Sumter,Airport,Board of Education D7,,,Sylvia Roland ,307,202,14,0,91
+Sumter,JROTC,Board of Education D7,,,Sylvia Roland ,625,419,43,0,163
+Sumter,Thompson,Board of Education D7,,,Sylvia Roland ,1,0,0,0,1
+Sumter,Agri-Center,Constitutional Amendment #1,,,Yes,998,665,80,1,252
+Sumter,Airport,Constitutional Amendment #1,,,Yes,933,587,58,3,285
+Sumter,Andersonville,Constitutional Amendment #1,,,Yes,223,58,10,0,155
+Sumter,Browns Mill,Constitutional Amendment #1,,,Yes,538,269,31,0,238
+Sumter,Concord,Constitutional Amendment #1,,,Yes,220,72,5,0,143
+Sumter,JROTC,Constitutional Amendment #1,,,Yes,1346,860,94,0,392
+Sumter,Leslie,Constitutional Amendment #1,,,Yes,874,406,65,0,403
+Sumter,Plains,Constitutional Amendment #1,,,Yes,509,208,33,1,267
+Sumter,Rec Dept,Constitutional Amendment #1,,,Yes,1062,666,145,0,251
+Sumter,Rees Park,Constitutional Amendment #1,,,Yes,974,604,119,1,250
+Sumter,Thompson,Constitutional Amendment #1,,,Yes,262,117,28,0,117
+Sumter,Agri-Center,Constitutional Amendment #1,,,No,122,78,16,0,28
+Sumter,Airport,Constitutional Amendment #1,,,No,126,73,7,0,46
+Sumter,Andersonville,Constitutional Amendment #1,,,No,31,8,5,0,18
+Sumter,Browns Mill,Constitutional Amendment #1,,,No,69,36,0,0,33
+Sumter,Concord,Constitutional Amendment #1,,,No,28,14,2,0,12
+Sumter,JROTC,Constitutional Amendment #1,,,No,180,110,13,0,57
+Sumter,Leslie,Constitutional Amendment #1,,,No,155,73,12,0,70
+Sumter,Plains,Constitutional Amendment #1,,,No,83,26,6,0,51
+Sumter,Rec Dept,Constitutional Amendment #1,,,No,206,128,26,1,51
+Sumter,Rees Park,Constitutional Amendment #1,,,No,202,107,37,0,58
+Sumter,Thompson,Constitutional Amendment #1,,,No,59,24,5,0,30
+Sumter,Agri-Center,Constitutional Amendment #2,,,Yes,1032,681,95,1,255
+Sumter,Airport,Constitutional Amendment #2,,,Yes,955,594,62,3,296
+Sumter,Andersonville,Constitutional Amendment #2,,,Yes,224,59,15,0,150
+Sumter,Browns Mill,Constitutional Amendment #2,,,Yes,545,275,28,0,242
+Sumter,Concord,Constitutional Amendment #2,,,Yes,214,79,5,0,130
+Sumter,JROTC,Constitutional Amendment #2,,,Yes,1399,885,95,0,419
+Sumter,Leslie,Constitutional Amendment #2,,,Yes,925,426,69,0,430
+Sumter,Plains,Constitutional Amendment #2,,,Yes,537,220,34,1,282
+Sumter,Rec Dept,Constitutional Amendment #2,,,Yes,1157,726,148,0,283
+Sumter,Rees Park,Constitutional Amendment #2,,,Yes,1077,653,135,1,288
+Sumter,Thompson,Constitutional Amendment #2,,,Yes,290,127,30,0,133
+Sumter,Agri-Center,Constitutional Amendment #2,,,No,107,70,9,0,28
+Sumter,Airport,Constitutional Amendment #2,,,No,116,71,6,0,39
+Sumter,Andersonville,Constitutional Amendment #2,,,No,32,7,0,0,25
+Sumter,Browns Mill,Constitutional Amendment #2,,,No,66,31,3,0,32
+Sumter,Concord,Constitutional Amendment #2,,,No,36,8,2,0,26
+Sumter,JROTC,Constitutional Amendment #2,,,No,139,90,12,0,37
+Sumter,Leslie,Constitutional Amendment #2,,,No,116,58,9,0,49
+Sumter,Plains,Constitutional Amendment #2,,,No,63,19,6,0,38
+Sumter,Rec Dept,Constitutional Amendment #2,,,No,127,80,22,1,24
+Sumter,Rees Park,Constitutional Amendment #2,,,No,114,65,23,0,26
+Sumter,Thompson,Constitutional Amendment #2,,,No,33,16,2,0,15
+Sumter,Agri-Center,Statewide Referendum A,,,Yes,662,438,40,1,183
+Sumter,Airport,Statewide Referendum A,,,Yes,684,411,34,3,236
+Sumter,Andersonville,Statewide Referendum A,,,Yes,179,40,9,0,130
+Sumter,Browns Mill,Statewide Referendum A,,,Yes,426,204,23,0,199
+Sumter,Concord,Statewide Referendum A,,,Yes,175,63,1,0,111
+Sumter,JROTC,Statewide Referendum A,,,Yes,885,544,44,0,297
+Sumter,Leslie,Statewide Referendum A,,,Yes,579,266,22,0,291
+Sumter,Plains,Statewide Referendum A,,,Yes,353,146,14,0,193
+Sumter,Rec Dept,Statewide Referendum A,,,Yes,776,487,83,1,205
+Sumter,Rees Park,Statewide Referendum A,,,Yes,735,447,76,1,211
+Sumter,Thompson,Statewide Referendum A,,,Yes,214,95,20,0,99
+Sumter,Agri-Center,Statewide Referendum A,,,No,454,298,57,0,99
+Sumter,Airport,Statewide Referendum A,,,No,373,245,32,0,96
+Sumter,Andersonville,Statewide Referendum A,,,No,77,25,6,0,46
+Sumter,Browns Mill,Statewide Referendum A,,,No,175,97,7,0,71
+Sumter,Concord,Statewide Referendum A,,,No,68,23,5,0,40
+Sumter,JROTC,Statewide Referendum A,,,No,622,409,58,0,155
+Sumter,Leslie,Statewide Referendum A,,,No,435,205,54,0,176
+Sumter,Plains,Statewide Referendum A,,,No,241,90,22,1,128
+Sumter,Rec Dept,Statewide Referendum A,,,No,485,305,84,0,96
+Sumter,Rees Park,Statewide Referendum A,,,No,439,261,80,0,98
+Sumter,Thompson,Statewide Referendum A,,,No,111,47,12,0,52
+Sumter,Agri-Center,Statewide Referendum B,,,Yes,790,517,55,1,217
+Sumter,Airport,Statewide Referendum B,,,Yes,749,457,41,3,248
+Sumter,Andersonville,Statewide Referendum B,,,Yes,213,51,14,0,148
+Sumter,Browns Mill,Statewide Referendum B,,,Yes,457,218,21,0,218
+Sumter,Concord,Statewide Referendum B,,,Yes,211,73,2,0,136
+Sumter,JROTC,Statewide Referendum B,,,Yes,1050,640,63,0,347
+Sumter,Leslie,Statewide Referendum B,,,Yes,687,321,30,0,336
+Sumter,Plains,Statewide Referendum B,,,Yes,436,186,19,0,231
+Sumter,Rec Dept,Statewide Referendum B,,,Yes,876,559,94,0,223
+Sumter,Rees Park,Statewide Referendum B,,,Yes,842,505,98,1,238
+Sumter,Thompson,Statewide Referendum B,,,Yes,254,111,23,0,120
+Sumter,Agri-Center,Statewide Referendum B,,,No,330,224,42,0,64
+Sumter,Airport,Statewide Referendum B,,,No,304,195,25,0,84
+Sumter,Andersonville,Statewide Referendum B,,,No,42,14,1,0,27
+Sumter,Browns Mill,Statewide Referendum B,,,No,139,77,9,0,53
+Sumter,Concord,Statewide Referendum B,,,No,35,13,5,0,17
+Sumter,JROTC,Statewide Referendum B,,,No,459,315,40,0,104
+Sumter,Leslie,Statewide Referendum B,,,No,337,152,47,0,138
+Sumter,Plains,Statewide Referendum B,,,No,160,51,18,1,90
+Sumter,Rec Dept,Statewide Referendum B,,,No,382,231,73,1,77
+Sumter,Rees Park,Statewide Referendum B,,,No,332,203,58,0,71
+Sumter,Thompson,Statewide Referendum B,,,No,72,33,6,0,33

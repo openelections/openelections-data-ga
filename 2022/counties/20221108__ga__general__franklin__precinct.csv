@@ -1,0 +1,337 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Franklin,Carnesville,U.S. Senate,,Rep,Herschel Junior Walker,1308,727,37,0,544
+Franklin,West Franklin,U.S. Senate,,Rep,Herschel Junior Walker,882,437,25,0,420
+Franklin,Northeast Franklin,U.S. Senate,,Rep,Herschel Junior Walker,1428,619,76,0,733
+Franklin,Lavonia,U.S. Senate,,Rep,Herschel Junior Walker,964,459,28,0,477
+Franklin,Canon,U.S. Senate,,Rep,Herschel Junior Walker,633,263,14,0,356
+Franklin,Royston,U.S. Senate,,Rep,Herschel Junior Walker,859,389,44,0,426
+Franklin,Southwest Franklin,U.S. Senate,,Rep,Herschel Junior Walker,1300,607,40,0,653
+Franklin,Carnesville,U.S. Senate,,Dem,Raphael Warnock ,142,88,7,0,47
+Franklin,West Franklin,U.S. Senate,,Dem,Raphael Warnock ,100,50,7,0,43
+Franklin,Northeast Franklin,U.S. Senate,,Dem,Raphael Warnock ,243,124,25,0,94
+Franklin,Lavonia,U.S. Senate,,Dem,Raphael Warnock ,260,108,34,0,118
+Franklin,Canon,U.S. Senate,,Dem,Raphael Warnock ,82,39,10,0,33
+Franklin,Royston,U.S. Senate,,Dem,Raphael Warnock ,202,89,21,0,92
+Franklin,Southwest Franklin,U.S. Senate,,Dem,Raphael Warnock ,137,81,17,0,39
+Franklin,Carnesville,U.S. Senate,,Lib,Chase Oliver,23,15,0,0,8
+Franklin,West Franklin,U.S. Senate,,Lib,Chase Oliver,18,9,1,0,8
+Franklin,Northeast Franklin,U.S. Senate,,Lib,Chase Oliver,36,11,3,0,22
+Franklin,Lavonia,U.S. Senate,,Lib,Chase Oliver,27,7,1,0,19
+Franklin,Canon,U.S. Senate,,Lib,Chase Oliver,13,2,2,0,9
+Franklin,Royston,U.S. Senate,,Lib,Chase Oliver,19,10,1,0,8
+Franklin,Southwest Franklin,U.S. Senate,,Lib,Chase Oliver,28,15,1,0,12
+Franklin,Carnesville,Governor,,Rep,Brian Kemp ,1350,755,39,0,556
+Franklin,West Franklin,Governor,,Rep,Brian Kemp ,922,457,27,0,438
+Franklin,Northeast Franklin,Governor,,Rep,Brian Kemp ,1504,650,84,0,770
+Franklin,Lavonia,Governor,,Rep,Brian Kemp ,1033,486,33,0,514
+Franklin,Canon,Governor,,Rep,Brian Kemp ,654,272,16,0,366
+Franklin,Royston,Governor,,Rep,Brian Kemp ,914,420,47,0,447
+Franklin,Southwest Franklin,Governor,,Rep,Brian Kemp ,1357,635,45,0,677
+Franklin,Carnesville,Governor,,Dem,Stacey Abrams,116,70,6,0,40
+Franklin,West Franklin,Governor,,Dem,Stacey Abrams,71,34,6,0,31
+Franklin,Northeast Franklin,Governor,,Dem,Stacey Abrams,198,105,20,0,73
+Franklin,Lavonia,Governor,,Dem,Stacey Abrams,218,92,29,0,97
+Franklin,Canon,Governor,,Dem,Stacey Abrams,70,31,10,0,29
+Franklin,Royston,Governor,,Dem,Stacey Abrams,173,73,20,0,80
+Franklin,Southwest Franklin,Governor,,Dem,Stacey Abrams,102,63,13,0,26
+Franklin,Carnesville,Governor,,Lib,Shane Hazel,8,5,0,0,3
+Franklin,West Franklin,Governor,,Lib,Shane Hazel,8,6,0,0,2
+Franklin,Northeast Franklin,Governor,,Lib,Shane Hazel,9,2,0,0,7
+Franklin,Lavonia,Governor,,Lib,Shane Hazel,11,2,0,0,9
+Franklin,Canon,Governor,,Lib,Shane Hazel,4,1,1,0,2
+Franklin,Royston,Governor,,Lib,Shane Hazel,5,1,0,0,4
+Franklin,Southwest Franklin,Governor,,Lib,Shane Hazel,12,5,0,0,7
+Franklin,Carnesville,Lieutenant Governor,,Rep,Burt Jones,1317,738,37,0,542
+Franklin,West Franklin,Lieutenant Governor,,Rep,Burt Jones,895,446,25,0,424
+Franklin,Northeast Franklin,Lieutenant Governor,,Rep,Burt Jones,1463,630,80,0,753
+Franklin,Lavonia,Lieutenant Governor,,Rep,Burt Jones,1003,474,32,0,497
+Franklin,Canon,Lieutenant Governor,,Rep,Burt Jones,640,264,16,0,360
+Franklin,Royston,Lieutenant Governor,,Rep,Burt Jones,883,400,45,0,438
+Franklin,Southwest Franklin,Lieutenant Governor,,Rep,Burt Jones,1313,615,42,0,656
+Franklin,Carnesville,Lieutenant Governor,,Dem,Charlie Bailey,128,79,8,0,41
+Franklin,West Franklin,Lieutenant Governor,,Dem,Charlie Bailey,85,39,8,0,38
+Franklin,Northeast Franklin,Lieutenant Governor,,Dem,Charlie Bailey,210,111,22,0,77
+Franklin,Lavonia,Lieutenant Governor,,Dem,Charlie Bailey,222,94,29,0,99
+Franklin,Canon,Lieutenant Governor,,Dem,Charlie Bailey,72,33,9,0,30
+Franklin,Royston,Lieutenant Governor,,Dem,Charlie Bailey,184,84,22,0,78
+Franklin,Southwest Franklin,Lieutenant Governor,,Dem,Charlie Bailey,117,73,14,0,30
+Franklin,Carnesville,Lieutenant Governor,,Lib,Ryan Graham,22,12,0,0,10
+Franklin,West Franklin,Lieutenant Governor,,Lib,Ryan Graham,16,8,0,0,8
+Franklin,Northeast Franklin,Lieutenant Governor,,Lib,Ryan Graham,27,10,2,0,15
+Franklin,Lavonia,Lieutenant Governor,,Lib,Ryan Graham,20,6,0,0,14
+Franklin,Canon,Lieutenant Governor,,Lib,Ryan Graham,6,1,1,0,4
+Franklin,Royston,Lieutenant Governor,,Lib,Ryan Graham,16,5,0,0,11
+Franklin,Southwest Franklin,Lieutenant Governor,,Lib,Ryan Graham,32,13,0,0,19
+Franklin,Carnesville,Secretary of State,,Rep,Brad Raffensperger ,1295,732,34,0,529
+Franklin,West Franklin,Secretary of State,,Rep,Brad Raffensperger ,868,432,23,0,413
+Franklin,Northeast Franklin,Secretary of State,,Rep,Brad Raffensperger ,1460,633,85,0,742
+Franklin,Lavonia,Secretary of State,,Rep,Brad Raffensperger ,1011,478,40,0,493
+Franklin,Canon,Secretary of State,,Rep,Brad Raffensperger ,631,255,17,0,359
+Franklin,Royston,Secretary of State,,Rep,Brad Raffensperger ,881,410,46,0,425
+Franklin,Southwest Franklin,Secretary of State,,Rep,Brad Raffensperger ,1285,609,41,0,635
+Franklin,Carnesville,Secretary of State,,Dem,Bee Nguyen,111,64,8,0,39
+Franklin,West Franklin,Secretary of State,,Dem,Bee Nguyen,67,30,6,0,31
+Franklin,Northeast Franklin,Secretary of State,,Dem,Bee Nguyen,172,86,17,0,69
+Franklin,Lavonia,Secretary of State,,Dem,Bee Nguyen,208,88,22,0,98
+Franklin,Canon,Secretary of State,,Dem,Bee Nguyen,65,31,8,0,26
+Franklin,Royston,Secretary of State,,Dem,Bee Nguyen,154,66,19,0,69
+Franklin,Southwest Franklin,Secretary of State,,Dem,Bee Nguyen,100,59,15,0,26
+Franklin,Carnesville,Secretary of State,,Lib,Ted Metz,59,30,3,0,26
+Franklin,West Franklin,Secretary of State,,Lib,Ted Metz,51,30,3,0,18
+Franklin,Northeast Franklin,Secretary of State,,Lib,Ted Metz,59,31,0,0,28
+Franklin,Lavonia,Secretary of State,,Lib,Ted Metz,31,9,0,0,22
+Franklin,Canon,Secretary of State,,Lib,Ted Metz,18,9,0,0,9
+Franklin,Royston,Secretary of State,,Lib,Ted Metz,38,12,2,0,24
+Franklin,Southwest Franklin,Secretary of State,,Lib,Ted Metz,68,28,1,0,39
+Franklin,Carnesville,Attorney General,,Rep,Chris Carr ,1312,732,38,0,542
+Franklin,West Franklin,Attorney General,,Rep,Chris Carr ,888,441,26,0,421
+Franklin,Northeast Franklin,Attorney General,,Rep,Chris Carr ,1468,634,80,0,754
+Franklin,Lavonia,Attorney General,,Rep,Chris Carr ,1011,479,33,0,499
+Franklin,Canon,Attorney General,,Rep,Chris Carr ,639,264,15,0,360
+Franklin,Royston,Attorney General,,Rep,Chris Carr ,890,407,44,0,439
+Franklin,Southwest Franklin,Attorney General,,Rep,Chris Carr ,1326,616,42,0,668
+Franklin,Carnesville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",137,88,7,0,42
+Franklin,West Franklin,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",84,38,6,0,40
+Franklin,Northeast Franklin,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",208,107,23,0,78
+Franklin,Lavonia,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",227,94,29,0,104
+Franklin,Canon,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",76,36,9,0,31
+Franklin,Royston,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",177,79,21,0,77
+Franklin,Southwest Franklin,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",123,75,16,0,32
+Franklin,Carnesville,Attorney General,,Lib,Martin Cowen,20,9,0,0,11
+Franklin,West Franklin,Attorney General,,Lib,Martin Cowen,21,13,0,0,8
+Franklin,Northeast Franklin,Attorney General,,Lib,Martin Cowen,25,13,1,0,11
+Franklin,Lavonia,Attorney General,,Lib,Martin Cowen,13,3,0,0,10
+Franklin,Canon,Attorney General,,Lib,Martin Cowen,8,1,1,0,6
+Franklin,Royston,Attorney General,,Lib,Martin Cowen,13,4,0,0,9
+Franklin,Southwest Franklin,Attorney General,,Lib,Martin Cowen,21,12,0,0,9
+Franklin,Carnesville,Commissioner of Agriculture,,Rep,Tyler Harper,1329,740,38,0,551
+Franklin,West Franklin,Commissioner of Agriculture,,Rep,Tyler Harper,893,446,26,0,421
+Franklin,Northeast Franklin,Commissioner of Agriculture,,Rep,Tyler Harper,1471,635,82,0,754
+Franklin,Lavonia,Commissioner of Agriculture,,Rep,Tyler Harper,1009,481,32,0,496
+Franklin,Canon,Commissioner of Agriculture,,Rep,Tyler Harper,651,268,19,0,364
+Franklin,Royston,Commissioner of Agriculture,,Rep,Tyler Harper,895,413,44,0,438
+Franklin,Southwest Franklin,Commissioner of Agriculture,,Rep,Tyler Harper,1326,617,42,0,667
+Franklin,Carnesville,Commissioner of Agriculture,,Dem,Nakita Hemingway,110,71,7,0,32
+Franklin,West Franklin,Commissioner of Agriculture,,Dem,Nakita Hemingway,73,33,7,0,33
+Franklin,Northeast Franklin,Commissioner of Agriculture,,Dem,Nakita Hemingway,186,95,20,0,71
+Franklin,Lavonia,Commissioner of Agriculture,,Dem,Nakita Hemingway,216,87,29,0,100
+Franklin,Canon,Commissioner of Agriculture,,Dem,Nakita Hemingway,64,32,7,0,25
+Franklin,Royston,Commissioner of Agriculture,,Dem,Nakita Hemingway,163,70,22,0,71
+Franklin,Southwest Franklin,Commissioner of Agriculture,,Dem,Nakita Hemingway,113,68,16,0,29
+Franklin,Carnesville,Commissioner of Agriculture,,Lib,David Raudabaugh,28,15,0,0,13
+Franklin,West Franklin,Commissioner of Agriculture,,Lib,David Raudabaugh,31,15,0,0,16
+Franklin,Northeast Franklin,Commissioner of Agriculture,,Lib,David Raudabaugh,37,19,1,0,17
+Franklin,Lavonia,Commissioner of Agriculture,,Lib,David Raudabaugh,25,10,0,0,15
+Franklin,Canon,Commissioner of Agriculture,,Lib,David Raudabaugh,7,0,0,0,7
+Franklin,Royston,Commissioner of Agriculture,,Lib,David Raudabaugh,22,7,0,0,15
+Franklin,Southwest Franklin,Commissioner of Agriculture,,Lib,David Raudabaugh,27,15,0,0,12
+Franklin,Carnesville,Commissioner of Insurance,,Rep,John King ,1339,748,38,0,553
+Franklin,West Franklin,Commissioner of Insurance,,Rep,John King ,915,455,26,0,434
+Franklin,Northeast Franklin,Commissioner of Insurance,,Rep,John King ,1484,646,77,0,761
+Franklin,Lavonia,Commissioner of Insurance,,Rep,John King ,1019,480,33,0,506
+Franklin,Canon,Commissioner of Insurance,,Rep,John King ,650,269,16,0,365
+Franklin,Royston,Commissioner of Insurance,,Rep,John King ,896,410,42,0,444
+Franklin,Southwest Franklin,Commissioner of Insurance,,Rep,John King ,1341,624,42,0,675
+Franklin,Carnesville,Commissioner of Insurance,,Dem,Janice Laws Robinson,129,81,7,0,41
+Franklin,West Franklin,Commissioner of Insurance,,Dem,Janice Laws Robinson,80,37,7,0,36
+Franklin,Northeast Franklin,Commissioner of Insurance,,Dem,Janice Laws Robinson,207,105,24,0,78
+Franklin,Lavonia,Commissioner of Insurance,,Dem,Janice Laws Robinson,227,93,28,0,106
+Franklin,Canon,Commissioner of Insurance,,Dem,Janice Laws Robinson,71,32,9,0,30
+Franklin,Royston,Commissioner of Insurance,,Dem,Janice Laws Robinson,181,79,24,0,78
+Franklin,Southwest Franklin,Commissioner of Insurance,,Dem,Janice Laws Robinson,117,75,15,0,27
+Franklin,Carnesville,State School Superintendent,,Rep,Richard Woods ,1339,747,38,0,554
+Franklin,West Franklin,State School Superintendent,,Rep,Richard Woods ,917,459,26,0,432
+Franklin,Northeast Franklin,State School Superintendent,,Rep,Richard Woods ,1496,648,80,0,768
+Franklin,Lavonia,State School Superintendent,,Rep,Richard Woods ,1029,486,33,0,510
+Franklin,Canon,State School Superintendent,,Rep,Richard Woods ,651,269,17,0,365
+Franklin,Royston,State School Superintendent,,Rep,Richard Woods ,904,414,47,0,443
+Franklin,Southwest Franklin,State School Superintendent,,Rep,Richard Woods ,1346,631,43,0,672
+Franklin,Carnesville,State School Superintendent,,Dem,Alisha Thomas Searcy,130,82,7,0,41
+Franklin,West Franklin,State School Superintendent,,Dem,Alisha Thomas Searcy,80,36,7,0,37
+Franklin,Northeast Franklin,State School Superintendent,,Dem,Alisha Thomas Searcy,200,104,21,0,75
+Franklin,Lavonia,State School Superintendent,,Dem,Alisha Thomas Searcy,219,91,28,0,100
+Franklin,Canon,State School Superintendent,,Dem,Alisha Thomas Searcy,71,32,9,0,30
+Franklin,Royston,State School Superintendent,,Dem,Alisha Thomas Searcy,176,77,19,0,80
+Franklin,Southwest Franklin,State School Superintendent,,Dem,Alisha Thomas Searcy,113,69,14,0,30
+Franklin,Carnesville,Commissioner of Labor,,Rep,Bruce Thompson,1316,737,37,0,542
+Franklin,West Franklin,Commissioner of Labor,,Rep,Bruce Thompson,898,449,25,0,424
+Franklin,Northeast Franklin,Commissioner of Labor,,Rep,Bruce Thompson,1464,633,80,0,751
+Franklin,Lavonia,Commissioner of Labor,,Rep,Bruce Thompson,1007,477,31,0,499
+Franklin,Canon,Commissioner of Labor,,Rep,Bruce Thompson,645,267,19,0,359
+Franklin,Royston,Commissioner of Labor,,Rep,Bruce Thompson,885,404,45,0,436
+Franklin,Southwest Franklin,Commissioner of Labor,,Rep,Bruce Thompson,1324,614,42,0,668
+Franklin,Carnesville,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",121,74,8,0,39
+Franklin,West Franklin,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",77,32,8,0,37
+Franklin,Northeast Franklin,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",205,106,22,0,77
+Franklin,Lavonia,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",222,94,30,0,98
+Franklin,Canon,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",66,32,7,0,27
+Franklin,Royston,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",174,81,19,0,74
+Franklin,Southwest Franklin,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",116,70,15,0,31
+Franklin,Carnesville,Commissioner of Labor,,Lib,Emily Anderson,26,13,0,0,13
+Franklin,West Franklin,Commissioner of Labor,,Lib,Emily Anderson,24,14,0,0,10
+Franklin,Northeast Franklin,Commissioner of Labor,,Lib,Emily Anderson,31,16,1,0,14
+Franklin,Lavonia,Commissioner of Labor,,Lib,Emily Anderson,18,5,0,0,13
+Franklin,Canon,Commissioner of Labor,,Lib,Emily Anderson,12,1,0,0,11
+Franklin,Royston,Commissioner of Labor,,Lib,Emily Anderson,20,6,2,0,12
+Franklin,Southwest Franklin,Commissioner of Labor,,Lib,Emily Anderson,25,15,0,0,10
+Franklin,Carnesville,U.S. House,,Rep,Andrew Clyde ,1333,744,38,0,551
+Franklin,West Franklin,U.S. House,,Rep,Andrew Clyde ,905,452,25,0,428
+Franklin,Northeast Franklin,U.S. House,,Rep,Andrew Clyde ,1472,641,76,0,755
+Franklin,Lavonia,U.S. House,,Rep,Andrew Clyde ,1007,475,31,0,501
+Franklin,Canon,U.S. House,,Rep,Andrew Clyde ,653,269,17,0,367
+Franklin,Royston,U.S. House,,Rep,Andrew Clyde ,883,401,44,0,438
+Franklin,Southwest Franklin,U.S. House,,Rep,Andrew Clyde ,1341,626,40,0,675
+Franklin,Carnesville,U.S. House,,Dem,"Michael """"Mike"""" Ford",137,84,7,0,46
+Franklin,West Franklin,U.S. House,,Dem,"Michael """"Mike"""" Ford",89,40,7,0,42
+Franklin,Northeast Franklin,U.S. House,,Dem,"Michael """"Mike"""" Ford",228,117,26,0,85
+Franklin,Lavonia,U.S. House,,Dem,"Michael """"Mike"""" Ford",242,100,31,0,111
+Franklin,Canon,U.S. House,,Dem,"Michael """"Mike"""" Ford",71,32,9,0,30
+Franklin,Royston,U.S. House,,Dem,"Michael """"Mike"""" Ford",192,86,21,0,85
+Franklin,Southwest Franklin,U.S. House,,Dem,"Michael """"Mike"""" Ford",125,75,17,0,33
+Franklin,Carnesville,State Senate,,Rep,Bo Hatchett ,1336,747,38,0,551
+Franklin,West Franklin,State Senate,,Rep,Bo Hatchett ,914,457,26,0,431
+Franklin,Northeast Franklin,State Senate,,Rep,Bo Hatchett ,1482,645,80,0,757
+Franklin,Lavonia,State Senate,,Rep,Bo Hatchett ,1013,478,31,0,504
+Franklin,Canon,State Senate,,Rep,Bo Hatchett ,647,268,17,0,362
+Franklin,Royston,State Senate,,Rep,Bo Hatchett ,894,408,45,0,441
+Franklin,Southwest Franklin,State Senate,,Rep,Bo Hatchett ,1340,624,41,0,675
+Franklin,Carnesville,State Senate,,Dem,Paulette Williams,129,79,7,0,43
+Franklin,West Franklin,State Senate,,Dem,Paulette Williams,80,34,7,0,39
+Franklin,Northeast Franklin,State Senate,,Dem,Paulette Williams,215,110,23,0,82
+Franklin,Lavonia,State Senate,,Dem,Paulette Williams,238,100,31,0,107
+Franklin,Canon,State Senate,,Dem,Paulette Williams,72,32,9,0,31
+Franklin,Royston,State Senate,,Dem,Paulette Williams,180,80,20,0,80
+Franklin,Southwest Franklin,State Senate,,Dem,Paulette Williams,120,75,14,0,31
+Franklin,Carnesville,State House,,Rep,Alan Powell ,1400,790,39,0,571
+Franklin,West Franklin,State House,,Rep,Alan Powell ,956,472,28,0,456
+Franklin,Northeast Franklin,State House,,Rep,Alan Powell ,1582,689,88,0,805
+Franklin,Lavonia,State House,,Rep,Alan Powell ,1144,523,46,0,575
+Franklin,Canon,State House,,Rep,Alan Powell ,679,274,23,0,382
+Franklin,Royston,State House,,Rep,Alan Powell ,1003,456,60,0,487
+Franklin,Southwest Franklin,State House,,Rep,Alan Powell ,1392,658,51,0,683
+Franklin,Carnesville,Special County Commission Chairman,,Rep,Jeff Jacques,799,443,20,0,336
+Franklin,West Franklin,Special County Commission Chairman,,Rep,Jeff Jacques,469,239,18,0,212
+Franklin,Northeast Franklin,Special County Commission Chairman,,Rep,Jeff Jacques,798,339,40,0,419
+Franklin,Lavonia,Special County Commission Chairman,,Rep,Jeff Jacques,481,209,8,0,264
+Franklin,Canon,Special County Commission Chairman,,Rep,Jeff Jacques,386,167,6,0,213
+Franklin,Royston,Special County Commission Chairman,,Rep,Jeff Jacques,594,267,28,0,299
+Franklin,Southwest Franklin,Special County Commission Chairman,,Rep,Jeff Jacques,814,390,21,0,403
+Franklin,Carnesville,Special County Commission Chairman,,Rep,Douglas Kidd,247,140,13,0,94
+Franklin,West Franklin,Special County Commission Chairman,,Rep,Douglas Kidd,171,85,6,0,80
+Franklin,Northeast Franklin,Special County Commission Chairman,,Rep,Douglas Kidd,475,219,38,0,218
+Franklin,Lavonia,Special County Commission Chairman,,Rep,Douglas Kidd,450,206,32,0,212
+Franklin,Canon,Special County Commission Chairman,,Rep,Douglas Kidd,168,61,14,0,93
+Franklin,Royston,Special County Commission Chairman,,Rep,Douglas Kidd,251,117,20,0,114
+Franklin,Southwest Franklin,Special County Commission Chairman,,Rep,Douglas Kidd,245,117,10,0,118
+Franklin,Carnesville,Special County Commission Chairman,,Rep,Courtney Long,375,222,4,0,149
+Franklin,West Franklin,Special County Commission Chairman,,Rep,Courtney Long,331,156,7,0,168
+Franklin,Northeast Franklin,Special County Commission Chairman,,Rep,Courtney Long,342,155,16,0,171
+Franklin,Lavonia,Special County Commission Chairman,,Rep,Courtney Long,266,134,13,0,119
+Franklin,Canon,Special County Commission Chairman,,Rep,Courtney Long,138,57,1,0,80
+Franklin,Royston,Special County Commission Chairman,,Rep,Courtney Long,178,79,10,0,89
+Franklin,Southwest Franklin,Special County Commission Chairman,,Rep,Courtney Long,356,172,19,0,165
+Franklin,Carnesville,County Commission,,Rep,Elizabeth Martin Busby,1384,777,40,0,567
+Franklin,West Franklin,County Commission,,Rep,Elizabeth Martin Busby,951,473,28,0,450
+Franklin,Northeast Franklin,County Commission,,Rep,Elizabeth Martin Busby,1573,692,83,0,798
+Franklin,Lavonia,County Commission,,Rep,Elizabeth Martin Busby,1139,518,48,0,573
+Franklin,Canon,County Commission,,Rep,Elizabeth Martin Busby,675,275,21,0,379
+Franklin,Royston,County Commission,,Rep,Elizabeth Martin Busby,990,446,59,0,485
+Franklin,Southwest Franklin,County Commission,,Rep,Elizabeth Martin Busby,1366,645,49,0,672
+Franklin,Carnesville,County Commission,,Rep,Cole Roper,1371,770,38,0,563
+Franklin,West Franklin,County Commission,,Rep,Cole Roper,937,462,27,0,448
+Franklin,Northeast Franklin,County Commission,,Rep,Cole Roper,1576,692,83,0,801
+Franklin,Lavonia,County Commission,,Rep,Cole Roper,1131,513,48,0,570
+Franklin,Canon,County Commission,,Rep,Cole Roper,669,273,20,0,376
+Franklin,Royston,County Commission,,Rep,Cole Roper,975,443,53,0,479
+Franklin,Southwest Franklin,County Commission,,Rep,Cole Roper,1359,644,47,0,668
+Franklin,Carnesville,County BOE,,Rep,Randall Gailey ,1364,767,37,0,560
+Franklin,West Franklin,County BOE,,Rep,Randall Gailey ,944,466,26,0,452
+Franklin,Northeast Franklin,County BOE,,Rep,Randall Gailey ,1555,682,81,0,792
+Franklin,Lavonia,County BOE,,Rep,Randall Gailey ,1139,515,48,0,576
+Franklin,Canon,County BOE,,Rep,Randall Gailey ,675,276,22,0,377
+Franklin,Royston,County BOE,,Rep,Randall Gailey ,986,443,56,0,487
+Franklin,Southwest Franklin,County BOE,,Rep,Randall Gailey ,1363,641,48,0,674
+Franklin,Carnesville,County BOE,,Rep,Alan Mitchell ,1369,766,38,0,565
+Franklin,West Franklin,County BOE,,Rep,Alan Mitchell ,947,467,27,0,453
+Franklin,Northeast Franklin,County BOE,,Rep,Alan Mitchell ,1563,681,85,0,797
+Franklin,Lavonia,County BOE,,Rep,Alan Mitchell ,1121,505,48,0,568
+Franklin,Canon,County BOE,,Rep,Alan Mitchell ,657,268,18,0,371
+Franklin,Royston,County BOE,,Rep,Alan Mitchell ,951,439,56,0,456
+Franklin,Southwest Franklin,County BOE,,Rep,Alan Mitchell ,1359,646,46,0,667
+Franklin,Carnesville,County BOE,,Rep,Robin Cato ,1345,758,36,0,551
+Franklin,West Franklin,County BOE,,Rep,Robin Cato ,923,458,24,0,441
+Franklin,Northeast Franklin,County BOE,,Rep,Robin Cato ,1538,673,80,0,785
+Franklin,Lavonia,County BOE,,Rep,Robin Cato ,1121,509,47,0,565
+Franklin,Canon,County BOE,,Rep,Robin Cato ,658,263,19,0,376
+Franklin,Royston,County BOE,,Rep,Robin Cato ,973,441,54,0,478
+Franklin,Southwest Franklin,County BOE,,Rep,Robin Cato ,1343,638,47,0,658
+Franklin,Carnesville,Proposed Constitutional Amendment 1,,,Yes,1248,693,42,0,513
+Franklin,West Franklin,Proposed Constitutional Amendment 1,,,Yes,846,422,30,0,394
+Franklin,Northeast Franklin,Proposed Constitutional Amendment 1,,,Yes,1475,658,89,0,728
+Franklin,Lavonia,Proposed Constitutional Amendment 1,,,Yes,1084,487,53,0,544
+Franklin,Canon,Proposed Constitutional Amendment 1,,,Yes,611,263,22,0,326
+Franklin,Royston,Proposed Constitutional Amendment 1,,,Yes,947,431,57,0,459
+Franklin,Southwest Franklin,Proposed Constitutional Amendment 1,,,Yes,1242,586,55,0,601
+Franklin,Carnesville,Proposed Constitutional Amendment 1,,,No,171,104,2,0,65
+Franklin,West Franklin,Proposed Constitutional Amendment 1,,,No,123,58,3,0,62
+Franklin,Northeast Franklin,Proposed Constitutional Amendment 1,,,No,199,78,13,0,108
+Franklin,Lavonia,Proposed Constitutional Amendment 1,,,No,135,68,6,0,61
+Franklin,Canon,Proposed Constitutional Amendment 1,,,No,86,32,2,0,52
+Franklin,Royston,Proposed Constitutional Amendment 1,,,No,110,45,6,0,59
+Franklin,Southwest Franklin,Proposed Constitutional Amendment 1,,,No,177,96,3,0,78
+Franklin,Carnesville,Proposed Constitutional Amendment 2,,,Yes,1288,735,35,0,518
+Franklin,West Franklin,Proposed Constitutional Amendment 2,,,Yes,867,422,30,0,415
+Franklin,Northeast Franklin,Proposed Constitutional Amendment 2,,,Yes,1511,665,90,0,756
+Franklin,Lavonia,Proposed Constitutional Amendment 2,,,Yes,1101,499,57,0,545
+Franklin,Canon,Proposed Constitutional Amendment 2,,,Yes,634,278,18,0,338
+Franklin,Royston,Proposed Constitutional Amendment 2,,,Yes,970,432,55,0,483
+Franklin,Southwest Franklin,Proposed Constitutional Amendment 2,,,Yes,1282,621,55,0,606
+Franklin,Carnesville,Proposed Constitutional Amendment 2,,,No,144,73,8,0,63
+Franklin,West Franklin,Proposed Constitutional Amendment 2,,,No,102,58,3,0,41
+Franklin,Northeast Franklin,Proposed Constitutional Amendment 2,,,No,173,73,13,0,87
+Franklin,Lavonia,Proposed Constitutional Amendment 2,,,No,126,61,2,0,63
+Franklin,Canon,Proposed Constitutional Amendment 2,,,No,73,22,6,0,45
+Franklin,Royston,Proposed Constitutional Amendment 2,,,No,93,47,8,0,38
+Franklin,Southwest Franklin,Proposed Constitutional Amendment 2,,,No,147,69,3,0,75
+Franklin,Carnesville,Statewide Referendum Question 1,,,Yes,886,486,14,0,386
+Franklin,West Franklin,Statewide Referendum Question 1,,,Yes,594,292,9,0,293
+Franklin,Northeast Franklin,Statewide Referendum Question 1,,,Yes,975,396,40,0,539
+Franklin,Lavonia,Statewide Referendum Question 1,,,Yes,767,344,34,0,389
+Franklin,Canon,Statewide Referendum Question 1,,,Yes,433,189,6,0,238
+Franklin,Royston,Statewide Referendum Question 1,,,Yes,588,258,25,0,305
+Franklin,Southwest Franklin,Statewide Referendum Question 1,,,Yes,917,413,28,0,476
+Franklin,Carnesville,Statewide Referendum Question 1,,,No,525,312,30,0,183
+Franklin,West Franklin,Statewide Referendum Question 1,,,No,372,185,24,0,163
+Franklin,Northeast Franklin,Statewide Referendum Question 1,,,No,680,335,58,0,287
+Franklin,Lavonia,Statewide Referendum Question 1,,,No,448,213,27,0,208
+Franklin,Canon,Statewide Referendum Question 1,,,No,262,104,18,0,140
+Franklin,Royston,Statewide Referendum Question 1,,,No,466,219,37,0,210
+Franklin,Southwest Franklin,Statewide Referendum Question 1,,,No,497,272,27,0,198
+Franklin,Carnesville,Statewide Referendum Question 2,,,Yes,1110,618,24,0,468
+Franklin,West Franklin,Statewide Referendum Question 2,,,Yes,750,362,16,0,372
+Franklin,Northeast Franklin,Statewide Referendum Question 2,,,Yes,1260,524,61,0,675
+Franklin,Lavonia,Statewide Referendum Question 2,,,Yes,929,405,43,0,481
+Franklin,Canon,Statewide Referendum Question 2,,,Yes,545,235,16,0,294
+Franklin,Royston,Statewide Referendum Question 2,,,Yes,756,349,36,0,371
+Franklin,Southwest Franklin,Statewide Referendum Question 2,,,Yes,1144,536,39,0,569
+Franklin,Carnesville,Statewide Referendum Question 2,,,No,307,185,19,0,103
+Franklin,West Franklin,Statewide Referendum Question 2,,,No,222,121,15,0,86
+Franklin,Northeast Franklin,Statewide Referendum Question 2,,,No,404,208,39,0,157
+Franklin,Lavonia,Statewide Referendum Question 2,,,No,288,151,18,0,119
+Franklin,Canon,Statewide Referendum Question 2,,,No,153,61,8,0,84
+Franklin,Royston,Statewide Referendum Question 2,,,No,302,131,28,0,143
+Franklin,Southwest Franklin,Statewide Referendum Question 2,,,No,280,151,18,0,111
+Franklin,Carnesville,1% Special Sales Tax,,,Yes,869,503,29,0,337
+Franklin,West Franklin,1% Special Sales Tax,,,Yes,531,269,21,0,241
+Franklin,Northeast Franklin,1% Special Sales Tax,,,Yes,1008,477,61,0,470
+Franklin,Lavonia,1% Special Sales Tax,,,Yes,794,362,37,0,395
+Franklin,Canon,1% Special Sales Tax,,,Yes,440,199,16,0,225
+Franklin,Royston,1% Special Sales Tax,,,Yes,636,301,48,0,287
+Franklin,Southwest Franklin,1% Special Sales Tax,,,Yes,862,415,46,0,401
+Franklin,Carnesville,1% Special Sales Tax,,,No,571,312,16,0,243
+Franklin,West Franklin,1% Special Sales Tax,,,No,449,216,12,0,221
+Franklin,Northeast Franklin,1% Special Sales Tax,,,No,687,269,42,0,376
+Franklin,Lavonia,1% Special Sales Tax,,,No,446,208,22,0,216
+Franklin,Canon,1% Special Sales Tax,,,No,265,99,7,0,159
+Franklin,Royston,1% Special Sales Tax,,,No,432,183,17,0,232
+Franklin,Southwest Franklin,1% Special Sales Tax,,,No,576,276,12,0,288

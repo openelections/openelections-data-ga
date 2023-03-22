@@ -1,0 +1,448 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Catoosa,Blackstock,U.S. Senate,,Rep,Herschel Junior Walker,848,338,17,0,493
+Catoosa,Boynton,U.S. Senate,,Rep,Herschel Junior Walker,2605,1523,71,2,1009
+Catoosa,Catoosa Keith,U.S. Senate,,Rep,Herschel Junior Walker,1187,559,23,0,605
+Catoosa,Chambers,U.S. Senate,,Rep,Herschel Junior Walker,1398,781,19,0,598
+Catoosa,Ft Oglethorpe,U.S. Senate,,Rep,Herschel Junior Walker,1384,796,37,2,549
+Catoosa,Graysville,U.S. Senate,,Rep,Herschel Junior Walker,1740,906,38,3,793
+Catoosa,Lakeview,U.S. Senate,,Rep,Herschel Junior Walker,1067,623,24,0,420
+Catoosa,Poplar Springs,U.S. Senate,,Rep,Herschel Junior Walker,1830,1088,43,3,696
+Catoosa,Ringgold,U.S. Senate,,Rep,Herschel Junior Walker,2997,1950,72,1,974
+Catoosa,Westside,U.S. Senate,,Rep,Herschel Junior Walker,2082,1400,55,2,625
+Catoosa,Woodstation,U.S. Senate,,Rep,Herschel Junior Walker,1424,659,17,1,747
+Catoosa,Blackstock,U.S. Senate,,Dem,Raphael Warnock ,148,83,10,0,55
+Catoosa,Boynton,U.S. Senate,,Dem,Raphael Warnock ,768,470,45,0,253
+Catoosa,Catoosa Keith,U.S. Senate,,Dem,Raphael Warnock ,268,140,25,1,102
+Catoosa,Chambers,U.S. Senate,,Dem,Raphael Warnock ,292,171,25,0,96
+Catoosa,Ft Oglethorpe,U.S. Senate,,Dem,Raphael Warnock ,492,283,33,0,176
+Catoosa,Graysville,U.S. Senate,,Dem,Raphael Warnock ,523,241,63,0,219
+Catoosa,Lakeview,U.S. Senate,,Dem,Raphael Warnock ,336,184,27,0,125
+Catoosa,Poplar Springs,U.S. Senate,,Dem,Raphael Warnock ,432,251,36,0,145
+Catoosa,Ringgold,U.S. Senate,,Dem,Raphael Warnock ,1016,679,89,0,248
+Catoosa,Westside,U.S. Senate,,Dem,Raphael Warnock ,689,451,55,0,183
+Catoosa,Woodstation,U.S. Senate,,Dem,Raphael Warnock ,318,164,22,1,131
+Catoosa,Blackstock,U.S. Senate,,Lib,Chase Oliver,19,8,0,0,11
+Catoosa,Boynton,U.S. Senate,,Lib,Chase Oliver,71,30,5,0,36
+Catoosa,Catoosa Keith,U.S. Senate,,Lib,Chase Oliver,43,17,1,0,25
+Catoosa,Chambers,U.S. Senate,,Lib,Chase Oliver,31,10,1,0,20
+Catoosa,Ft Oglethorpe,U.S. Senate,,Lib,Chase Oliver,56,26,0,0,30
+Catoosa,Graysville,U.S. Senate,,Lib,Chase Oliver,57,17,2,0,38
+Catoosa,Lakeview,U.S. Senate,,Lib,Chase Oliver,35,24,1,0,10
+Catoosa,Poplar Springs,U.S. Senate,,Lib,Chase Oliver,54,21,1,0,32
+Catoosa,Ringgold,U.S. Senate,,Lib,Chase Oliver,86,40,2,0,44
+Catoosa,Westside,U.S. Senate,,Lib,Chase Oliver,73,37,0,0,36
+Catoosa,Woodstation,U.S. Senate,,Lib,Chase Oliver,33,5,1,0,27
+Catoosa,Blackstock,Governor,,Rep,Brian Kemp ,891,361,17,0,513
+Catoosa,Boynton,Governor,,Rep,Brian Kemp ,2817,1644,82,2,1089
+Catoosa,Catoosa Keith,Governor,,Rep,Brian Kemp ,1263,595,25,0,643
+Catoosa,Chambers,Governor,,Rep,Brian Kemp ,1484,819,31,0,634
+Catoosa,Ft Oglethorpe,Governor,,Rep,Brian Kemp ,1525,875,44,2,604
+Catoosa,Graysville,Governor,,Rep,Brian Kemp ,1868,965,47,3,853
+Catoosa,Lakeview,Governor,,Rep,Brian Kemp ,1149,681,25,0,443
+Catoosa,Poplar Springs,Governor,,Rep,Brian Kemp ,1943,1139,51,3,750
+Catoosa,Ringgold,Governor,,Rep,Brian Kemp ,3279,2116,94,1,1068
+Catoosa,Westside,Governor,,Rep,Brian Kemp ,2277,1532,64,2,679
+Catoosa,Woodstation,Governor,,Rep,Brian Kemp ,1513,688,19,1,805
+Catoosa,Blackstock,Governor,,Dem,Stacey Abrams,110,63,9,0,38
+Catoosa,Boynton,Governor,,Dem,Stacey Abrams,619,379,39,0,201
+Catoosa,Catoosa Keith,Governor,,Dem,Stacey Abrams,221,120,21,0,80
+Catoosa,Chambers,Governor,,Dem,Stacey Abrams,230,142,14,0,74
+Catoosa,Ft Oglethorpe,Governor,,Dem,Stacey Abrams,394,229,25,0,140
+Catoosa,Graysville,Governor,,Dem,Stacey Abrams,431,191,56,0,184
+Catoosa,Lakeview,Governor,,Dem,Stacey Abrams,282,151,23,0,108
+Catoosa,Poplar Springs,Governor,,Dem,Stacey Abrams,355,214,30,0,111
+Catoosa,Ringgold,Governor,,Dem,Stacey Abrams,806,543,70,0,193
+Catoosa,Westside,Governor,,Dem,Stacey Abrams,556,361,47,0,148
+Catoosa,Woodstation,Governor,,Dem,Stacey Abrams,251,140,18,1,92
+Catoosa,Blackstock,Governor,,Lib,Shane Hazel,15,6,1,0,8
+Catoosa,Boynton,Governor,,Lib,Shane Hazel,27,13,1,0,13
+Catoosa,Catoosa Keith,Governor,,Lib,Shane Hazel,19,3,2,1,13
+Catoosa,Chambers,Governor,,Lib,Shane Hazel,9,3,0,0,6
+Catoosa,Ft Oglethorpe,Governor,,Lib,Shane Hazel,25,10,1,0,14
+Catoosa,Graysville,Governor,,Lib,Shane Hazel,24,9,2,0,13
+Catoosa,Lakeview,Governor,,Lib,Shane Hazel,12,4,2,0,6
+Catoosa,Poplar Springs,Governor,,Lib,Shane Hazel,23,11,1,0,11
+Catoosa,Ringgold,Governor,,Lib,Shane Hazel,38,22,2,0,14
+Catoosa,Westside,Governor,,Lib,Shane Hazel,33,19,0,0,14
+Catoosa,Woodstation,Governor,,Lib,Shane Hazel,14,4,2,0,8
+Catoosa,Blackstock,Lieutenant Governor,,Rep,Burt Jones,862,351,15,0,496
+Catoosa,Boynton,Lieutenant Governor,,Rep,Burt Jones,2718,1590,76,1,1051
+Catoosa,Catoosa Keith,Lieutenant Governor,,Rep,Burt Jones,1220,571,23,0,626
+Catoosa,Chambers,Lieutenant Governor,,Rep,Burt Jones,1449,808,26,0,615
+Catoosa,Ft Oglethorpe,Lieutenant Governor,,Rep,Burt Jones,1463,840,39,2,582
+Catoosa,Graysville,Lieutenant Governor,,Rep,Burt Jones,1807,942,41,3,821
+Catoosa,Lakeview,Lieutenant Governor,,Rep,Burt Jones,1098,651,25,0,422
+Catoosa,Poplar Springs,Lieutenant Governor,,Rep,Burt Jones,1888,1117,45,3,723
+Catoosa,Ringgold,Lieutenant Governor,,Rep,Burt Jones,3120,2026,87,1,1006
+Catoosa,Westside,Lieutenant Governor,,Rep,Burt Jones,2175,1463,58,2,652
+Catoosa,Woodstation,Lieutenant Governor,,Rep,Burt Jones,1478,676,17,1,784
+Catoosa,Blackstock,Lieutenant Governor,,Dem,Charlie Bailey,117,63,9,0,45
+Catoosa,Boynton,Lieutenant Governor,,Dem,Charlie Bailey,659,406,41,0,212
+Catoosa,Catoosa Keith,Lieutenant Governor,,Dem,Charlie Bailey,237,128,22,0,87
+Catoosa,Chambers,Lieutenant Governor,,Dem,Charlie Bailey,241,145,15,0,81
+Catoosa,Ft Oglethorpe,Lieutenant Governor,,Dem,Charlie Bailey,437,255,31,0,151
+Catoosa,Graysville,Lieutenant Governor,,Dem,Charlie Bailey,456,205,59,0,192
+Catoosa,Lakeview,Lieutenant Governor,,Dem,Charlie Bailey,302,161,25,0,116
+Catoosa,Poplar Springs,Lieutenant Governor,,Dem,Charlie Bailey,375,227,33,0,115
+Catoosa,Ringgold,Lieutenant Governor,,Dem,Charlie Bailey,870,584,76,0,210
+Catoosa,Westside,Lieutenant Governor,,Dem,Charlie Bailey,616,404,51,0,161
+Catoosa,Woodstation,Lieutenant Governor,,Dem,Charlie Bailey,273,148,20,1,104
+Catoosa,Blackstock,Lieutenant Governor,,Lib,Ryan Graham,27,10,3,0,14
+Catoosa,Boynton,Lieutenant Governor,,Lib,Ryan Graham,69,31,3,0,35
+Catoosa,Catoosa Keith,Lieutenant Governor,,Lib,Ryan Graham,37,13,3,1,20
+Catoosa,Chambers,Lieutenant Governor,,Lib,Ryan Graham,22,5,2,0,15
+Catoosa,Ft Oglethorpe,Lieutenant Governor,,Lib,Ryan Graham,34,12,0,0,22
+Catoosa,Graysville,Lieutenant Governor,,Lib,Ryan Graham,52,13,3,0,36
+Catoosa,Lakeview,Lieutenant Governor,,Lib,Ryan Graham,31,19,1,0,11
+Catoosa,Poplar Springs,Lieutenant Governor,,Lib,Ryan Graham,48,15,3,0,30
+Catoosa,Ringgold,Lieutenant Governor,,Lib,Ryan Graham,96,51,1,0,44
+Catoosa,Westside,Lieutenant Governor,,Lib,Ryan Graham,53,25,1,0,27
+Catoosa,Woodstation,Lieutenant Governor,,Lib,Ryan Graham,27,6,3,0,18
+Catoosa,Blackstock,Secretary of State,,Rep,Brad Raffensperger ,849,346,16,0,487
+Catoosa,Boynton,Secretary of State,,Rep,Brad Raffensperger ,2767,1622,86,1,1058
+Catoosa,Catoosa Keith,Secretary of State,,Rep,Brad Raffensperger ,1228,575,31,0,622
+Catoosa,Chambers,Secretary of State,,Rep,Brad Raffensperger ,1457,816,29,0,612
+Catoosa,Ft Oglethorpe,Secretary of State,,Rep,Brad Raffensperger ,1485,847,47,2,589
+Catoosa,Graysville,Secretary of State,,Rep,Brad Raffensperger ,1818,947,56,3,812
+Catoosa,Lakeview,Secretary of State,,Rep,Brad Raffensperger ,1117,658,29,0,430
+Catoosa,Poplar Springs,Secretary of State,,Rep,Brad Raffensperger ,1899,1129,56,3,711
+Catoosa,Ringgold,Secretary of State,,Rep,Brad Raffensperger ,3214,2091,103,1,1019
+Catoosa,Westside,Secretary of State,,Rep,Brad Raffensperger ,2203,1494,65,2,642
+Catoosa,Woodstation,Secretary of State,,Rep,Brad Raffensperger ,1485,684,21,1,779
+Catoosa,Blackstock,Secretary of State,,Dem,Bee Nguyen,109,60,9,0,40
+Catoosa,Boynton,Secretary of State,,Dem,Bee Nguyen,544,331,30,0,183
+Catoosa,Catoosa Keith,Secretary of State,,Dem,Bee Nguyen,191,102,15,0,74
+Catoosa,Chambers,Secretary of State,,Dem,Bee Nguyen,204,118,13,0,73
+Catoosa,Ft Oglethorpe,Secretary of State,,Dem,Bee Nguyen,374,215,24,0,135
+Catoosa,Graysville,Secretary of State,,Dem,Bee Nguyen,406,180,47,0,179
+Catoosa,Lakeview,Secretary of State,,Dem,Bee Nguyen,265,143,18,0,104
+Catoosa,Poplar Springs,Secretary of State,,Dem,Bee Nguyen,324,194,24,0,106
+Catoosa,Ringgold,Secretary of State,,Dem,Bee Nguyen,730,482,61,0,187
+Catoosa,Westside,Secretary of State,,Dem,Bee Nguyen,532,340,45,0,147
+Catoosa,Woodstation,Secretary of State,,Dem,Bee Nguyen,225,121,18,1,85
+Catoosa,Blackstock,Secretary of State,,Lib,Ted Metz,42,17,2,0,23
+Catoosa,Boynton,Secretary of State,,Lib,Ted Metz,118,65,5,0,48
+Catoosa,Catoosa Keith,Secretary of State,,Lib,Ted Metz,58,28,3,1,26
+Catoosa,Chambers,Secretary of State,,Lib,Ted Metz,52,24,1,0,27
+Catoosa,Ft Oglethorpe,Secretary of State,,Lib,Ted Metz,63,33,0,0,30
+Catoosa,Graysville,Secretary of State,,Lib,Ted Metz,83,30,2,0,51
+Catoosa,Lakeview,Secretary of State,,Lib,Ted Metz,43,26,2,0,15
+Catoosa,Poplar Springs,Secretary of State,,Lib,Ted Metz,76,31,1,0,44
+Catoosa,Ringgold,Secretary of State,,Lib,Ted Metz,135,76,2,0,57
+Catoosa,Westside,Secretary of State,,Lib,Ted Metz,91,49,1,0,41
+Catoosa,Woodstation,Secretary of State,,Lib,Ted Metz,61,24,1,0,36
+Catoosa,Blackstock,Attorney General,,Rep,Chris Carr ,856,350,15,0,491
+Catoosa,Boynton,Attorney General,,Rep,Chris Carr ,2716,1595,76,1,1044
+Catoosa,Catoosa Keith,Attorney General,,Rep,Chris Carr ,1213,565,23,0,625
+Catoosa,Chambers,Attorney General,,Rep,Chris Carr ,1439,799,26,0,614
+Catoosa,Ft Oglethorpe,Attorney General,,Rep,Chris Carr ,1458,837,40,2,579
+Catoosa,Graysville,Attorney General,,Rep,Chris Carr ,1815,935,43,3,834
+Catoosa,Lakeview,Attorney General,,Rep,Chris Carr ,1086,645,24,0,417
+Catoosa,Poplar Springs,Attorney General,,Rep,Chris Carr ,1884,1105,48,3,728
+Catoosa,Ringgold,Attorney General,,Rep,Chris Carr ,3143,2038,86,1,1018
+Catoosa,Westside,Attorney General,,Rep,Chris Carr ,2181,1464,58,2,657
+Catoosa,Woodstation,Attorney General,,Rep,Chris Carr ,1464,673,17,1,773
+Catoosa,Blackstock,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",120,62,10,0,48
+Catoosa,Boynton,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",683,415,44,0,224
+Catoosa,Catoosa Keith,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",247,135,23,1,88
+Catoosa,Chambers,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",259,153,16,0,90
+Catoosa,Ft Oglethorpe,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",453,260,30,0,163
+Catoosa,Graysville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",463,215,59,0,189
+Catoosa,Lakeview,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",314,171,23,0,120
+Catoosa,Poplar Springs,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",396,240,33,0,123
+Catoosa,Ringgold,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",879,584,78,0,217
+Catoosa,Westside,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",623,417,50,0,156
+Catoosa,Woodstation,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",279,147,20,1,111
+Catoosa,Blackstock,Attorney General,,Lib,Martin Cowen,29,11,2,0,16
+Catoosa,Boynton,Attorney General,,Lib,Martin Cowen,51,20,1,0,30
+Catoosa,Catoosa Keith,Attorney General,,Lib,Martin Cowen,28,10,2,0,16
+Catoosa,Chambers,Attorney General,,Lib,Martin Cowen,18,5,1,0,12
+Catoosa,Ft Oglethorpe,Attorney General,,Lib,Martin Cowen,23,7,0,0,16
+Catoosa,Graysville,Attorney General,,Lib,Martin Cowen,40,11,1,0,28
+Catoosa,Lakeview,Attorney General,,Lib,Martin Cowen,28,12,3,0,13
+Catoosa,Poplar Springs,Attorney General,,Lib,Martin Cowen,34,15,0,0,19
+Catoosa,Ringgold,Attorney General,,Lib,Martin Cowen,69,40,1,0,28
+Catoosa,Westside,Attorney General,,Lib,Martin Cowen,46,18,2,0,26
+Catoosa,Woodstation,Attorney General,,Lib,Martin Cowen,31,9,3,0,19
+Catoosa,Blackstock,Commissioner Of Agriculture,,Rep,Tyler Harper,868,355,16,0,497
+Catoosa,Boynton,Commissioner Of Agriculture,,Rep,Tyler Harper,2739,1602,76,1,1060
+Catoosa,Catoosa Keith,Commissioner Of Agriculture,,Rep,Tyler Harper,1228,576,26,0,626
+Catoosa,Chambers,Commissioner Of Agriculture,,Rep,Tyler Harper,1460,807,27,0,626
+Catoosa,Ft Oglethorpe,Commissioner Of Agriculture,,Rep,Tyler Harper,1470,836,39,2,593
+Catoosa,Graysville,Commissioner Of Agriculture,,Rep,Tyler Harper,1820,943,43,3,831
+Catoosa,Lakeview,Commissioner Of Agriculture,,Rep,Tyler Harper,1099,651,24,0,424
+Catoosa,Poplar Springs,Commissioner Of Agriculture,,Rep,Tyler Harper,1890,1126,47,3,714
+Catoosa,Ringgold,Commissioner Of Agriculture,,Rep,Tyler Harper,3147,2041,89,1,1016
+Catoosa,Westside,Commissioner Of Agriculture,,Rep,Tyler Harper,2188,1471,57,2,658
+Catoosa,Woodstation,Commissioner Of Agriculture,,Rep,Tyler Harper,1476,675,18,1,782
+Catoosa,Blackstock,Commissioner Of Agriculture,,Dem,Nakita Hemingway,110,62,8,0,40
+Catoosa,Boynton,Commissioner Of Agriculture,,Dem,Nakita Hemingway,630,388,41,0,201
+Catoosa,Catoosa Keith,Commissioner Of Agriculture,,Dem,Nakita Hemingway,226,121,20,1,84
+Catoosa,Chambers,Commissioner Of Agriculture,,Dem,Nakita Hemingway,219,135,15,0,69
+Catoosa,Ft Oglethorpe,Commissioner Of Agriculture,,Dem,Nakita Hemingway,419,243,31,0,145
+Catoosa,Graysville,Commissioner Of Agriculture,,Dem,Nakita Hemingway,431,192,57,0,182
+Catoosa,Lakeview,Commissioner Of Agriculture,,Dem,Nakita Hemingway,292,159,25,0,108
+Catoosa,Poplar Springs,Commissioner Of Agriculture,,Dem,Nakita Hemingway,363,215,32,0,116
+Catoosa,Ringgold,Commissioner Of Agriculture,,Dem,Nakita Hemingway,820,553,67,0,200
+Catoosa,Westside,Commissioner Of Agriculture,,Dem,Nakita Hemingway,585,387,49,0,149
+Catoosa,Woodstation,Commissioner Of Agriculture,,Dem,Nakita Hemingway,254,141,20,1,92
+Catoosa,Blackstock,Commissioner Of Agriculture,,Lib,David Raudabaugh,29,8,3,0,18
+Catoosa,Boynton,Commissioner Of Agriculture,,Lib,David Raudabaugh,66,30,1,0,35
+Catoosa,Catoosa Keith,Commissioner Of Agriculture,,Lib,David Raudabaugh,39,15,3,0,21
+Catoosa,Chambers,Commissioner Of Agriculture,,Lib,David Raudabaugh,28,13,1,0,14
+Catoosa,Ft Oglethorpe,Commissioner Of Agriculture,,Lib,David Raudabaugh,41,19,0,0,22
+Catoosa,Graysville,Commissioner Of Agriculture,,Lib,David Raudabaugh,55,20,2,0,33
+Catoosa,Lakeview,Commissioner Of Agriculture,,Lib,David Raudabaugh,33,17,1,0,15
+Catoosa,Poplar Springs,Commissioner Of Agriculture,,Lib,David Raudabaugh,57,17,3,0,37
+Catoosa,Ringgold,Commissioner Of Agriculture,,Lib,David Raudabaugh,98,52,5,0,41
+Catoosa,Westside,Commissioner Of Agriculture,,Lib,David Raudabaugh,60,29,1,0,30
+Catoosa,Woodstation,Commissioner Of Agriculture,,Lib,David Raudabaugh,42,13,2,0,27
+Catoosa,Blackstock,Commissioner Of Insurance,,Rep,John King ,879,357,17,0,505
+Catoosa,Boynton,Commissioner Of Insurance,,Rep,John King ,2791,1624,79,1,1087
+Catoosa,Catoosa Keith,Commissioner Of Insurance,,Rep,John King ,1259,585,27,0,647
+Catoosa,Chambers,Commissioner Of Insurance,,Rep,John King ,1467,810,28,0,629
+Catoosa,Ft Oglethorpe,Commissioner Of Insurance,,Rep,John King ,1503,855,41,2,605
+Catoosa,Graysville,Commissioner Of Insurance,,Rep,John King ,1860,956,44,3,857
+Catoosa,Lakeview,Commissioner Of Insurance,,Rep,John King ,1131,671,27,0,433
+Catoosa,Poplar Springs,Commissioner Of Insurance,,Rep,John King ,1922,1124,47,3,748
+Catoosa,Ringgold,Commissioner Of Insurance,,Rep,John King ,3231,2090,89,1,1051
+Catoosa,Westside,Commissioner Of Insurance,,Rep,John King ,2245,1504,61,2,678
+Catoosa,Woodstation,Commissioner Of Insurance,,Rep,John King ,1509,686,20,1,802
+Catoosa,Blackstock,Commissioner Of Insurance,,Dem,Janice Laws Robinson,125,67,10,0,48
+Catoosa,Boynton,Commissioner Of Insurance,,Dem,Janice Laws Robinson,642,398,41,0,203
+Catoosa,Catoosa Keith,Commissioner Of Insurance,,Dem,Janice Laws Robinson,230,124,22,1,83
+Catoosa,Chambers,Commissioner Of Insurance,,Dem,Janice Laws Robinson,237,140,15,0,82
+Catoosa,Ft Oglethorpe,Commissioner Of Insurance,,Dem,Janice Laws Robinson,425,248,29,0,148
+Catoosa,Graysville,Commissioner Of Insurance,,Dem,Janice Laws Robinson,443,198,59,0,186
+Catoosa,Lakeview,Commissioner Of Insurance,,Dem,Janice Laws Robinson,299,160,23,0,116
+Catoosa,Poplar Springs,Commissioner Of Insurance,,Dem,Janice Laws Robinson,381,229,35,0,117
+Catoosa,Ringgold,Commissioner Of Insurance,,Dem,Janice Laws Robinson,837,563,73,0,201
+Catoosa,Westside,Commissioner Of Insurance,,Dem,Janice Laws Robinson,598,390,47,0,161
+Catoosa,Woodstation,Commissioner Of Insurance,,Dem,Janice Laws Robinson,262,144,20,1,97
+Catoosa,Blackstock,State School Superintendent,,Rep,Richard Woods ,891,365,17,0,509
+Catoosa,Boynton,State School Superintendent,,Rep,Richard Woods ,2787,1624,77,1,1085
+Catoosa,Catoosa Keith,State School Superintendent,,Rep,Richard Woods ,1259,588,27,0,644
+Catoosa,Chambers,State School Superintendent,,Rep,Richard Woods ,1478,816,28,0,634
+Catoosa,Ft Oglethorpe,State School Superintendent,,Rep,Richard Woods ,1503,858,41,2,602
+Catoosa,Graysville,State School Superintendent,,Rep,Richard Woods ,1863,954,44,3,862
+Catoosa,Lakeview,State School Superintendent,,Rep,Richard Woods ,1129,668,28,0,433
+Catoosa,Poplar Springs,State School Superintendent,,Rep,Richard Woods ,1935,1134,47,3,751
+Catoosa,Ringgold,State School Superintendent,,Rep,Richard Woods ,3239,2089,93,1,1056
+Catoosa,Westside,State School Superintendent,,Rep,Richard Woods ,2240,1510,60,2,668
+Catoosa,Woodstation,State School Superintendent,,Rep,Richard Woods ,1502,681,20,1,800
+Catoosa,Blackstock,State School Superintendent,,Dem,Alisha Thomas Searcy,121,61,10,0,50
+Catoosa,Boynton,State School Superintendent,,Dem,Alisha Thomas Searcy,652,398,42,0,212
+Catoosa,Catoosa Keith,State School Superintendent,,Dem,Alisha Thomas Searcy,230,123,22,1,84
+Catoosa,Chambers,State School Superintendent,,Dem,Alisha Thomas Searcy,228,133,14,0,81
+Catoosa,Ft Oglethorpe,State School Superintendent,,Dem,Alisha Thomas Searcy,426,245,29,0,152
+Catoosa,Graysville,State School Superintendent,,Dem,Alisha Thomas Searcy,448,201,59,0,188
+Catoosa,Lakeview,State School Superintendent,,Dem,Alisha Thomas Searcy,301,163,22,0,116
+Catoosa,Poplar Springs,State School Superintendent,,Dem,Alisha Thomas Searcy,373,224,34,0,115
+Catoosa,Ringgold,State School Superintendent,,Dem,Alisha Thomas Searcy,842,567,69,0,206
+Catoosa,Westside,State School Superintendent,,Dem,Alisha Thomas Searcy,604,387,49,0,168
+Catoosa,Woodstation,State School Superintendent,,Dem,Alisha Thomas Searcy,269,148,20,1,100
+Catoosa,Blackstock,Commissioner Of Labor,,Rep,Bruce Thompson,857,349,15,0,493
+Catoosa,Boynton,Commissioner Of Labor,,Rep,Bruce Thompson,2721,1591,76,1,1053
+Catoosa,Catoosa Keith,Commissioner Of Labor,,Rep,Bruce Thompson,1206,565,22,0,619
+Catoosa,Chambers,Commissioner Of Labor,,Rep,Bruce Thompson,1433,790,28,0,615
+Catoosa,Ft Oglethorpe,Commissioner Of Labor,,Rep,Bruce Thompson,1454,833,38,2,581
+Catoosa,Graysville,Commissioner Of Labor,,Rep,Bruce Thompson,1795,930,43,3,819
+Catoosa,Lakeview,Commissioner Of Labor,,Rep,Bruce Thompson,1093,647,24,0,422
+Catoosa,Poplar Springs,Commissioner Of Labor,,Rep,Bruce Thompson,1871,1109,45,3,714
+Catoosa,Ringgold,Commissioner Of Labor,,Rep,Bruce Thompson,3129,2035,86,1,1007
+Catoosa,Westside,Commissioner Of Labor,,Rep,Bruce Thompson,2171,1459,57,2,653
+Catoosa,Woodstation,Commissioner Of Labor,,Rep,Bruce Thompson,1464,673,19,1,771
+Catoosa,Blackstock,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",114,63,11,0,40
+Catoosa,Boynton,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",635,393,38,0,204
+Catoosa,Catoosa Keith,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",230,125,21,1,83
+Catoosa,Chambers,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",239,148,13,0,78
+Catoosa,Ft Oglethorpe,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",438,257,32,0,149
+Catoosa,Graysville,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",440,202,58,0,180
+Catoosa,Lakeview,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",289,154,23,0,112
+Catoosa,Poplar Springs,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",380,227,34,0,119
+Catoosa,Ringgold,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",845,567,72,0,206
+Catoosa,Westside,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",603,395,50,0,158
+Catoosa,Woodstation,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",261,142,19,1,99
+Catoosa,Blackstock,Commissioner Of Labor,,Lib,Emily Anderson,32,9,1,0,22
+Catoosa,Boynton,Commissioner Of Labor,,Lib,Emily Anderson,77,36,5,0,36
+Catoosa,Catoosa Keith,Commissioner Of Labor,,Lib,Emily Anderson,54,23,6,0,25
+Catoosa,Chambers,Commissioner Of Labor,,Lib,Emily Anderson,28,10,1,0,17
+Catoosa,Ft Oglethorpe,Commissioner Of Labor,,Lib,Emily Anderson,38,14,0,0,24
+Catoosa,Graysville,Commissioner Of Labor,,Lib,Emily Anderson,64,17,2,0,45
+Catoosa,Lakeview,Commissioner Of Labor,,Lib,Emily Anderson,44,28,3,0,13
+Catoosa,Poplar Springs,Commissioner Of Labor,,Lib,Emily Anderson,54,17,2,0,35
+Catoosa,Ringgold,Commissioner Of Labor,,Lib,Emily Anderson,97,51,5,0,41
+Catoosa,Westside,Commissioner Of Labor,,Lib,Emily Anderson,64,37,1,0,26
+Catoosa,Woodstation,Commissioner Of Labor,,Lib,Emily Anderson,43,11,1,0,31
+Catoosa,Blackstock,U.S. House,14,Rep,Marjorie Taylor Greene ,826,326,16,0,484
+Catoosa,Boynton,U.S. House,14,Rep,Marjorie Taylor Greene ,2494,1456,69,2,967
+Catoosa,Catoosa Keith,U.S. House,14,Rep,Marjorie Taylor Greene ,1163,554,21,0,588
+Catoosa,Chambers,U.S. House,14,Rep,Marjorie Taylor Greene ,1333,740,22,0,571
+Catoosa,Ft Oglethorpe,U.S. House,14,Rep,Marjorie Taylor Greene ,1363,774,35,1,553
+Catoosa,Graysville,U.S. House,14,Rep,Marjorie Taylor Greene ,1676,864,38,3,771
+Catoosa,Lakeview,U.S. House,14,Rep,Marjorie Taylor Greene ,1056,623,25,0,408
+Catoosa,Poplar Springs,U.S. House,14,Rep,Marjorie Taylor Greene ,1773,1058,41,3,671
+Catoosa,Ringgold,U.S. House,14,Rep,Marjorie Taylor Greene ,2914,1891,66,1,956
+Catoosa,Westside,U.S. House,14,Rep,Marjorie Taylor Greene ,2054,1375,48,2,629
+Catoosa,Woodstation,U.S. House,14,Rep,Marjorie Taylor Greene ,1390,634,15,1,740
+Catoosa,Blackstock,U.S. House,14,Dem,Marcus Flowers,183,97,11,0,75
+Catoosa,Boynton,U.S. House,14,Dem,Marcus Flowers,913,548,52,0,313
+Catoosa,Catoosa Keith,U.S. House,14,Dem,Marcus Flowers,322,155,28,1,138
+Catoosa,Chambers,U.S. House,14,Dem,Marcus Flowers,351,202,22,0,127
+Catoosa,Ft Oglethorpe,U.S. House,14,Dem,Marcus Flowers,560,324,34,1,201
+Catoosa,Graysville,U.S. House,14,Dem,Marcus Flowers,612,278,68,0,266
+Catoosa,Lakeview,U.S. House,14,Dem,Marcus Flowers,374,207,26,0,141
+Catoosa,Poplar Springs,U.S. House,14,Dem,Marcus Flowers,512,286,40,0,186
+Catoosa,Ringgold,U.S. House,14,Dem,Marcus Flowers,1151,759,96,0,296
+Catoosa,Westside,U.S. House,14,Dem,Marcus Flowers,777,509,58,0,210
+Catoosa,Woodstation,U.S. House,14,Dem,Marcus Flowers,362,184,23,1,154
+Catoosa,Blackstock,State Senate,53,Rep,Colton Moore,921,372,21,0,528
+Catoosa,Boynton,State Senate,53,Rep,Colton Moore,2993,1740,81,1,1171
+Catoosa,Catoosa Keith,State Senate,53,Rep,Colton Moore,1332,620,24,0,688
+Catoosa,Chambers,State Senate,53,Rep,Colton Moore,1519,828,30,0,661
+Catoosa,Ft Oglethorpe,State Senate,53,Rep,Colton Moore,1673,944,50,2,677
+Catoosa,Graysville,State Senate,53,Rep,Colton Moore,2011,1015,54,3,939
+Catoosa,Lakeview,State Senate,53,Rep,Colton Moore,1242,718,32,0,492
+Catoosa,Poplar Springs,State Senate,53,Rep,Colton Moore,2047,1199,55,3,790
+Catoosa,Ringgold,State Senate,53,Rep,Colton Moore,3547,2288,104,1,1154
+Catoosa,Westside,State Senate,53,Rep,Colton Moore,2474,1653,63,2,756
+Catoosa,Woodstation,State Senate,53,Rep,Colton Moore,1602,726,27,2,847
+Catoosa,Chambers,State House,2,Rep,Steve Tarvin ,1514,826,33,0,655
+Catoosa,Woodstation,State House,2,Rep,Steve Tarvin ,1588,728,27,0,833
+Catoosa,Blackstock,State House,3,Rep,Mitchell Horner,913,370,21,0,522
+Catoosa,Boynton,State House,3,Rep,Mitchell Horner,2975,1729,82,1,1163
+Catoosa,Catoosa Keith,State House,3,Rep,Mitchell Horner,1316,609,26,0,681
+Catoosa,Ft Oglethorpe,State House,3,Rep,Mitchell Horner,1670,938,49,2,681
+Catoosa,Graysville,State House,3,Rep,Mitchell Horner,1983,995,54,3,931
+Catoosa,Lakeview,State House,3,Rep,Mitchell Horner,1234,714,30,0,490
+Catoosa,Poplar Springs,State House,3,Rep,Mitchell Horner,2021,1179,56,3,783
+Catoosa,Ringgold,State House,3,Rep,Mitchell Horner,3533,2283,108,1,1141
+Catoosa,Westside,State House,3,Rep,Mitchell Horner,2443,1623,65,2,753
+Catoosa,Blackstock,State Court Solicitor,,Rep,Doug Woodruff ,928,376,21,0,531
+Catoosa,Boynton,State Court Solicitor,,Rep,Doug Woodruff ,3031,1764,84,1,1182
+Catoosa,Catoosa Keith,State Court Solicitor,,Rep,Doug Woodruff ,1325,617,29,0,679
+Catoosa,Chambers,State Court Solicitor,,Rep,Doug Woodruff ,1551,843,36,0,672
+Catoosa,Ft Oglethorpe,State Court Solicitor,,Rep,Doug Woodruff ,1712,969,51,2,690
+Catoosa,Graysville,State Court Solicitor,,Rep,Doug Woodruff ,2019,1025,55,2,937
+Catoosa,Lakeview,State Court Solicitor,,Rep,Doug Woodruff ,1249,722,33,0,494
+Catoosa,Poplar Springs,State Court Solicitor,,Rep,Doug Woodruff ,2064,1209,56,3,796
+Catoosa,Ringgold,State Court Solicitor,,Rep,Doug Woodruff ,3582,2317,110,1,1154
+Catoosa,Westside,State Court Solicitor,,Rep,Doug Woodruff ,2477,1656,64,2,755
+Catoosa,Woodstation,State Court Solicitor,,Rep,Doug Woodruff ,1613,735,27,2,849
+Catoosa,Boynton,County Commissioner Dist 2,,Rep,Chuck Harris ,2997,1743,83,0,1171
+Catoosa,Westside,County Commissioner Dist 2,,Rep,Chuck Harris ,2217,1495,59,2,661
+Catoosa,Blackstock,County Commissioner Dist 4,,Rep,Charlie Stephens ,908,368,22,0,518
+Catoosa,Catoosa Keith,County Commissioner Dist 4,,Rep,Charlie Stephens ,1318,614,27,0,677
+Catoosa,Poplar Springs,County Commissioner Dist 4,,Rep,Charlie Stephens ,2035,1191,54,0,790
+Catoosa,Ringgold,County Commissioner Dist 4,,Rep,Charlie Stephens ,95,62,3,0,30
+Catoosa,Woodstation,County Commissioner Dist 4,,Rep,Charlie Stephens ,1436,666,18,0,752
+Catoosa,Blackstock,Catoosa Soil and Water,,,Keith Bonnell ,850,350,24,0,476
+Catoosa,Boynton,Catoosa Soil and Water,,,Keith Bonnell ,2952,1722,87,1,1142
+Catoosa,Catoosa Keith,Catoosa Soil and Water,,,Keith Bonnell ,1260,600,28,0,632
+Catoosa,Chambers,Catoosa Soil and Water,,,Keith Bonnell ,1430,783,33,0,614
+Catoosa,Ft Oglethorpe,Catoosa Soil and Water,,,Keith Bonnell ,1617,898,54,2,663
+Catoosa,Graysville,Catoosa Soil and Water,,,Keith Bonnell ,1903,953,62,3,885
+Catoosa,Lakeview,Catoosa Soil and Water,,,Keith Bonnell ,1145,663,34,0,448
+Catoosa,Poplar Springs,Catoosa Soil and Water,,,Keith Bonnell ,1973,1153,53,2,765
+Catoosa,Ringgold,Catoosa Soil and Water,,,Keith Bonnell ,3389,2200,109,1,1079
+Catoosa,Westside,Catoosa Soil and Water,,,Keith Bonnell ,2394,1608,77,2,707
+Catoosa,Woodstation,Catoosa Soil and Water,,,Keith Bonnell ,1529,716,28,1,784
+Catoosa,Blackstock,Catoosa Soil and Water,,,Charles J. Lancaster ,733,297,25,0,411
+Catoosa,Boynton,Catoosa Soil and Water,,,Charles J. Lancaster ,2623,1536,87,1,999
+Catoosa,Catoosa Keith,Catoosa Soil and Water,,,Charles J. Lancaster ,1106,520,28,0,558
+Catoosa,Chambers,Catoosa Soil and Water,,,Charles J. Lancaster ,1251,689,32,0,530
+Catoosa,Ft Oglethorpe,Catoosa Soil and Water,,,Charles J. Lancaster ,1395,753,51,2,589
+Catoosa,Graysville,Catoosa Soil and Water,,,Charles J. Lancaster ,1693,823,60,3,807
+Catoosa,Lakeview,Catoosa Soil and Water,,,Charles J. Lancaster ,977,552,33,0,392
+Catoosa,Poplar Springs,Catoosa Soil and Water,,,Charles J. Lancaster ,1743,1007,56,2,678
+Catoosa,Ringgold,Catoosa Soil and Water,,,Charles J. Lancaster ,3016,1947,106,1,962
+Catoosa,Westside,Catoosa Soil and Water,,,Charles J. Lancaster ,2086,1380,78,1,627
+Catoosa,Woodstation,Catoosa Soil and Water,,,Charles J. Lancaster ,1334,625,25,2,682
+Catoosa,Blackstock,Constitutional Amendment #1,,,Yes,863,373,26,0,464
+Catoosa,Boynton,Constitutional Amendment #1,,,Yes,3040,1781,102,1,1156
+Catoosa,Catoosa Keith,Constitutional Amendment #1,,,Yes,1291,617,46,1,627
+Catoosa,Chambers,Constitutional Amendment #1,,,Yes,1479,827,39,0,613
+Catoosa,Ft Oglethorpe,Constitutional Amendment #1,,,Yes,1692,961,61,1,669
+Catoosa,Graysville,Constitutional Amendment #1,,,Yes,2028,1002,91,3,932
+Catoosa,Lakeview,Constitutional Amendment #1,,,Yes,1271,729,45,0,497
+Catoosa,Poplar Springs,Constitutional Amendment #1,,,Yes,1993,1157,75,2,759
+Catoosa,Ringgold,Constitutional Amendment #1,,,Yes,3547,2300,146,1,1100
+Catoosa,Westside,Constitutional Amendment #1,,,Yes,2488,1637,96,2,753
+Catoosa,Woodstation,Constitutional Amendment #1,,,Yes,1537,731,36,2,768
+Catoosa,Blackstock,Constitutional Amendment #1,,,No,111,41,1,0,69
+Catoosa,Boynton,Constitutional Amendment #1,,,No,308,190,13,0,105
+Catoosa,Catoosa Keith,Constitutional Amendment #1,,,No,164,79,3,0,82
+Catoosa,Chambers,Constitutional Amendment #1,,,No,187,103,5,0,79
+Catoosa,Ft Oglethorpe,Constitutional Amendment #1,,,No,198,119,6,0,73
+Catoosa,Graysville,Constitutional Amendment #1,,,No,231,127,11,0,93
+Catoosa,Lakeview,Constitutional Amendment #1,,,No,135,84,6,0,45
+Catoosa,Poplar Springs,Constitutional Amendment #1,,,No,243,147,4,0,92
+Catoosa,Ringgold,Constitutional Amendment #1,,,No,427,291,7,0,129
+Catoosa,Westside,Constitutional Amendment #1,,,No,278,197,11,0,70
+Catoosa,Woodstation,Constitutional Amendment #1,,,No,187,76,2,0,109
+Catoosa,Blackstock,Constitutional Amendment #2,,,Yes,922,402,25,0,495
+Catoosa,Boynton,Constitutional Amendment #2,,,Yes,3184,1871,109,1,1203
+Catoosa,Catoosa Keith,Constitutional Amendment #2,,,Yes,1370,659,48,1,662
+Catoosa,Chambers,Constitutional Amendment #2,,,Yes,1551,865,40,0,646
+Catoosa,Ft Oglethorpe,Constitutional Amendment #2,,,Yes,1799,1025,64,1,709
+Catoosa,Graysville,Constitutional Amendment #2,,,Yes,2116,1047,96,3,970
+Catoosa,Lakeview,Constitutional Amendment #2,,,Yes,1347,773,49,0,525
+Catoosa,Poplar Springs,Constitutional Amendment #2,,,Yes,2115,1243,75,2,795
+Catoosa,Ringgold,Constitutional Amendment #2,,,Yes,3797,2465,148,1,1183
+Catoosa,Westside,Constitutional Amendment #2,,,Yes,2649,1754,106,2,787
+Catoosa,Woodstation,Constitutional Amendment #2,,,Yes,1633,766,36,2,829
+Catoosa,Blackstock,Constitutional Amendment #2,,,No,61,15,2,0,44
+Catoosa,Boynton,Constitutional Amendment #2,,,No,190,116,5,0,69
+Catoosa,Catoosa Keith,Constitutional Amendment #2,,,No,99,41,0,0,58
+Catoosa,Chambers,Constitutional Amendment #2,,,No,115,68,4,0,43
+Catoosa,Ft Oglethorpe,Constitutional Amendment #2,,,No,97,60,4,0,33
+Catoosa,Graysville,Constitutional Amendment #2,,,No,157,88,4,0,65
+Catoosa,Lakeview,Constitutional Amendment #2,,,No,68,46,2,0,20
+Catoosa,Poplar Springs,Constitutional Amendment #2,,,No,146,84,4,0,58
+Catoosa,Ringgold,Constitutional Amendment #2,,,No,225,159,4,0,62
+Catoosa,Westside,Constitutional Amendment #2,,,No,141,97,3,0,41
+Catoosa,Woodstation,Constitutional Amendment #2,,,No,112,50,1,0,61
+Catoosa,Blackstock,Statewide Referendum A,,,Yes,624,268,11,0,345
+Catoosa,Boynton,Statewide Referendum A,,,Yes,2022,1177,47,1,797
+Catoosa,Catoosa Keith,Statewide Referendum A,,,Yes,832,368,17,1,446
+Catoosa,Chambers,Statewide Referendum A,,,Yes,1007,546,21,0,440
+Catoosa,Ft Oglethorpe,Statewide Referendum A,,,Yes,1146,628,31,1,486
+Catoosa,Graysville,Statewide Referendum A,,,Yes,1357,668,42,2,645
+Catoosa,Lakeview,Statewide Referendum A,,,Yes,929,535,30,0,364
+Catoosa,Poplar Springs,Statewide Referendum A,,,Yes,1340,765,27,2,546
+Catoosa,Ringgold,Statewide Referendum A,,,Yes,2317,1480,65,1,771
+Catoosa,Westside,Statewide Referendum A,,,Yes,1724,1139,53,1,531
+Catoosa,Woodstation,Statewide Referendum A,,,Yes,1042,453,18,2,569
+Catoosa,Blackstock,Statewide Referendum A,,,No,353,146,16,0,191
+Catoosa,Boynton,Statewide Referendum A,,,No,1274,766,63,0,445
+Catoosa,Catoosa Keith,Statewide Referendum A,,,No,601,309,29,0,263
+Catoosa,Chambers,Statewide Referendum A,,,No,626,369,22,0,235
+Catoosa,Ft Oglethorpe,Statewide Referendum A,,,No,713,428,36,0,249
+Catoosa,Graysville,Statewide Referendum A,,,No,868,445,56,0,367
+Catoosa,Lakeview,Statewide Referendum A,,,No,449,263,18,0,168
+Catoosa,Poplar Springs,Statewide Referendum A,,,No,868,524,49,0,295
+Catoosa,Ringgold,Statewide Referendum A,,,No,1590,1072,86,0,432
+Catoosa,Westside,Statewide Referendum A,,,No,1012,674,51,1,286
+Catoosa,Woodstation,Statewide Referendum A,,,No,672,351,18,0,303
+Catoosa,Blackstock,Statewide Referendum B,,,Yes,807,351,17,0,439
+Catoosa,Boynton,Statewide Referendum B,,,Yes,2741,1620,75,1,1045
+Catoosa,Catoosa Keith,Statewide Referendum B,,,Yes,1221,577,34,1,609
+Catoosa,Chambers,Statewide Referendum B,,,Yes,1356,744,36,0,576
+Catoosa,Ft Oglethorpe,Statewide Referendum B,,,Yes,1504,852,39,1,612
+Catoosa,Graysville,Statewide Referendum B,,,Yes,1822,890,68,2,862
+Catoosa,Lakeview,Statewide Referendum B,,,Yes,1179,677,41,0,461
+Catoosa,Poplar Springs,Statewide Referendum B,,,Yes,1803,1037,40,2,724
+Catoosa,Ringgold,Statewide Referendum B,,,Yes,3138,2031,104,1,1002
+Catoosa,Westside,Statewide Referendum B,,,Yes,2296,1519,80,1,696
+Catoosa,Woodstation,Statewide Referendum B,,,Yes,1437,654,25,2,756
+Catoosa,Blackstock,Statewide Referendum B,,,No,169,65,9,0,95
+Catoosa,Boynton,Statewide Referendum B,,,No,588,346,36,0,206
+Catoosa,Catoosa Keith,Statewide Referendum B,,,No,236,114,13,0,109
+Catoosa,Chambers,Statewide Referendum B,,,No,285,174,8,0,103
+Catoosa,Ft Oglethorpe,Statewide Referendum B,,,No,369,218,26,0,125
+Catoosa,Graysville,Statewide Referendum B,,,No,420,230,31,0,159
+Catoosa,Lakeview,Statewide Referendum B,,,No,206,127,7,0,72
+Catoosa,Poplar Springs,Statewide Referendum B,,,No,431,271,37,0,123
+Catoosa,Ringgold,Statewide Referendum B,,,No,787,526,49,0,212
+Catoosa,Westside,Statewide Referendum B,,,No,465,317,24,1,123
+Catoosa,Woodstation,Statewide Referendum B,,,No,294,154,11,0,129

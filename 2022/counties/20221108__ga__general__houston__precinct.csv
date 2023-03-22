@@ -1,0 +1,674 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Houston,ANNX,U.S. Senate,,Rep,Herschel Junior Walker,1749,1153,98,0,498
+Houston,BMS,U.S. Senate,,Rep,Herschel Junior Walker,3909,2431,164,2,1312
+Houston,CENT,U.S. Senate,,Rep,Herschel Junior Walker,2260,1256,112,0,892
+Houston,CGTC,U.S. Senate,,Rep,Herschel Junior Walker,1833,1311,71,1,450
+Houston,FMMS,U.S. Senate,,Rep,Herschel Junior Walker,2583,1514,84,1,984
+Houston,HAFS,U.S. Senate,,Rep,Herschel Junior Walker,1007,386,17,0,604
+Houston,HCTC,U.S. Senate,,Rep,Herschel Junior Walker,1246,783,70,0,393
+Houston,HEFS,U.S. Senate,,Rep,Herschel Junior Walker,665,284,25,0,356
+Houston,HHPC,U.S. Senate,,Rep,Herschel Junior Walker,1915,1303,88,1,523
+Houston,MCMS,U.S. Senate,,Rep,Herschel Junior Walker,3314,2090,65,3,1156
+Houston,NHSC,U.S. Senate,,Rep,Herschel Junior Walker,850,517,41,0,292
+Houston,ROZR,U.S. Senate,,Rep,Herschel Junior Walker,5240,3553,224,0,1463
+Houston,TMS,U.S. Senate,,Rep,Herschel Junior Walker,1024,598,55,0,371
+Houston,TWPK,U.S. Senate,,Rep,Herschel Junior Walker,1392,783,60,0,549
+Houston,VHS,U.S. Senate,,Rep,Herschel Junior Walker,2620,1592,59,3,966
+Houston,WELL,U.S. Senate,,Rep,Herschel Junior Walker,632,364,49,0,219
+Houston,ANNX,U.S. Senate,,Dem,Raphael Warnock ,1035,656,135,1,243
+Houston,BMS,U.S. Senate,,Dem,Raphael Warnock ,2351,1507,259,2,583
+Houston,CENT,U.S. Senate,,Dem,Raphael Warnock ,1927,1234,146,0,547
+Houston,CGTC,U.S. Senate,,Dem,Raphael Warnock ,1122,811,97,0,214
+Houston,FMMS,U.S. Senate,,Dem,Raphael Warnock ,2444,1565,158,1,720
+Houston,HAFS,U.S. Senate,,Dem,Raphael Warnock ,241,114,31,0,96
+Houston,HCTC,U.S. Senate,,Dem,Raphael Warnock ,1391,874,126,0,391
+Houston,HEFS,U.S. Senate,,Dem,Raphael Warnock ,292,123,31,2,136
+Houston,HHPC,U.S. Senate,,Dem,Raphael Warnock ,2310,1542,192,1,575
+Houston,MCMS,U.S. Senate,,Dem,Raphael Warnock ,2258,1595,167,2,494
+Houston,NHSC,U.S. Senate,,Dem,Raphael Warnock ,559,397,52,0,110
+Houston,ROZR,U.S. Senate,,Dem,Raphael Warnock ,2832,1704,383,3,742
+Houston,TMS,U.S. Senate,,Dem,Raphael Warnock ,1548,999,128,0,421
+Houston,TWPK,U.S. Senate,,Dem,Raphael Warnock ,1110,646,104,0,360
+Houston,VHS,U.S. Senate,,Dem,Raphael Warnock ,1502,1004,120,1,377
+Houston,WELL,U.S. Senate,,Dem,Raphael Warnock ,2735,1667,276,2,790
+Houston,ANNX,U.S. Senate,,Lib,Chase Oliver,92,55,7,0,30
+Houston,BMS,U.S. Senate,,Lib,Chase Oliver,104,52,10,0,42
+Houston,CENT,U.S. Senate,,Lib,Chase Oliver,63,31,0,0,32
+Houston,CGTC,U.S. Senate,,Lib,Chase Oliver,51,35,3,0,13
+Houston,FMMS,U.S. Senate,,Lib,Chase Oliver,96,43,5,0,48
+Houston,HAFS,U.S. Senate,,Lib,Chase Oliver,19,6,2,0,11
+Houston,HCTC,U.S. Senate,,Lib,Chase Oliver,68,36,3,0,29
+Houston,HEFS,U.S. Senate,,Lib,Chase Oliver,13,4,0,0,9
+Houston,HHPC,U.S. Senate,,Lib,Chase Oliver,97,56,5,0,36
+Houston,MCMS,U.S. Senate,,Lib,Chase Oliver,99,44,7,0,48
+Houston,NHSC,U.S. Senate,,Lib,Chase Oliver,25,14,1,0,10
+Houston,ROZR,U.S. Senate,,Lib,Chase Oliver,142,66,16,0,60
+Houston,TMS,U.S. Senate,,Lib,Chase Oliver,41,19,3,0,19
+Houston,TWPK,U.S. Senate,,Lib,Chase Oliver,62,30,3,0,29
+Houston,VHS,U.S. Senate,,Lib,Chase Oliver,86,47,4,0,35
+Houston,WELL,U.S. Senate,,Lib,Chase Oliver,37,15,3,0,19
+Houston,ANNX,Governor,,Rep,Brian Kemp ,1906,1257,112,0,537
+Houston,BMS,Governor,,Rep,Brian Kemp ,4235,2600,206,2,1427
+Houston,CENT,Governor,,Rep,Brian Kemp ,2448,1365,130,0,953
+Houston,CGTC,Governor,,Rep,Brian Kemp ,1959,1387,81,1,490
+Houston,FMMS,Governor,,Rep,Brian Kemp ,2818,1632,92,1,1093
+Houston,HAFS,Governor,,Rep,Brian Kemp ,1043,395,20,0,628
+Houston,HCTC,Governor,,Rep,Brian Kemp ,1366,850,79,0,437
+Houston,HEFS,Governor,,Rep,Brian Kemp ,691,294,27,0,370
+Houston,HHPC,Governor,,Rep,Brian Kemp ,2113,1415,104,1,593
+Houston,MCMS,Governor,,Rep,Brian Kemp ,3583,2228,85,3,1267
+Houston,NHSC,Governor,,Rep,Brian Kemp ,892,539,46,0,307
+Houston,ROZR,Governor,,Rep,Brian Kemp ,5619,3774,277,1,1567
+Houston,TMS,Governor,,Rep,Brian Kemp ,1117,647,61,0,409
+Houston,TWPK,Governor,,Rep,Brian Kemp ,1529,854,74,0,601
+Houston,VHS,Governor,,Rep,Brian Kemp ,2801,1697,75,3,1026
+Houston,WELL,Governor,,Rep,Brian Kemp ,722,411,60,0,251
+Houston,ANNX,Governor,,Dem,Stacey Abrams,935,592,124,1,218
+Houston,BMS,Governor,,Dem,Stacey Abrams,2100,1377,226,2,495
+Houston,CENT,Governor,,Dem,Stacey Abrams,1786,1152,125,0,509
+Houston,CGTC,Governor,,Dem,Stacey Abrams,1043,766,90,0,187
+Houston,FMMS,Governor,,Dem,Stacey Abrams,2302,1491,154,1,656
+Houston,HAFS,Governor,,Dem,Stacey Abrams,220,108,30,0,82
+Houston,HCTC,Governor,,Dem,Stacey Abrams,1315,835,118,0,362
+Houston,HEFS,Governor,,Dem,Stacey Abrams,273,115,30,2,126
+Houston,HHPC,Governor,,Dem,Stacey Abrams,2190,1467,182,1,540
+Houston,MCMS,Governor,,Dem,Stacey Abrams,2069,1493,152,2,422
+Houston,NHSC,Governor,,Dem,Stacey Abrams,535,386,48,0,101
+Houston,ROZR,Governor,,Dem,Stacey Abrams,2583,1555,340,2,686
+Houston,TMS,Governor,,Dem,Stacey Abrams,1486,961,124,0,401
+Houston,TWPK,Governor,,Dem,Stacey Abrams,1020,602,92,0,326
+Houston,VHS,Governor,,Dem,Stacey Abrams,1388,939,110,1,338
+Houston,WELL,Governor,,Dem,Stacey Abrams,2683,1640,264,2,777
+Houston,ANNX,Governor,,Lib,Shane Hazel,38,18,4,0,16
+Houston,BMS,Governor,,Lib,Shane Hazel,43,22,4,0,17
+Houston,CENT,Governor,,Lib,Shane Hazel,35,16,3,0,16
+Houston,CGTC,Governor,,Lib,Shane Hazel,15,11,0,0,4
+Houston,FMMS,Governor,,Lib,Shane Hazel,32,16,2,0,14
+Houston,HAFS,Governor,,Lib,Shane Hazel,7,4,0,0,3
+Houston,HCTC,Governor,,Lib,Shane Hazel,36,19,2,0,15
+Houston,HEFS,Governor,,Lib,Shane Hazel,5,1,0,0,4
+Houston,HHPC,Governor,,Lib,Shane Hazel,32,20,1,0,11
+Houston,MCMS,Governor,,Lib,Shane Hazel,46,25,3,0,18
+Houston,NHSC,Governor,,Lib,Shane Hazel,9,4,1,0,4
+Houston,ROZR,Governor,,Lib,Shane Hazel,52,23,5,0,24
+Houston,TMS,Governor,,Lib,Shane Hazel,12,7,1,0,4
+Houston,TWPK,Governor,,Lib,Shane Hazel,21,7,3,0,11
+Houston,VHS,Governor,,Lib,Shane Hazel,40,17,1,0,22
+Houston,WELL,Governor,,Lib,Shane Hazel,17,11,3,0,3
+Houston,ANNX,Lieutenant Governor,,Rep,Burt Jones,1850,1226,107,0,517
+Houston,BMS,Lieutenant Governor,,Rep,Burt Jones,4088,2534,180,1,1373
+Houston,CENT,Lieutenant Governor,,Rep,Burt Jones,2354,1320,124,0,910
+Houston,CGTC,Lieutenant Governor,,Rep,Burt Jones,1890,1344,75,1,470
+Houston,FMMS,Lieutenant Governor,,Rep,Burt Jones,2727,1592,89,1,1045
+Houston,HAFS,Lieutenant Governor,,Rep,Burt Jones,1018,386,19,0,613
+Houston,HCTC,Lieutenant Governor,,Rep,Burt Jones,1320,829,77,0,414
+Houston,HEFS,Lieutenant Governor,,Rep,Burt Jones,685,292,25,0,368
+Houston,HHPC,Lieutenant Governor,,Rep,Burt Jones,2048,1383,101,2,562
+Houston,MCMS,Lieutenant Governor,,Rep,Burt Jones,3472,2176,78,3,1215
+Houston,NHSC,Lieutenant Governor,,Rep,Burt Jones,868,526,43,0,299
+Houston,ROZR,Lieutenant Governor,,Rep,Burt Jones,5473,3699,260,1,1513
+Houston,TMS,Lieutenant Governor,,Rep,Burt Jones,1095,640,64,0,391
+Houston,TWPK,Lieutenant Governor,,Rep,Burt Jones,1473,830,70,0,573
+Houston,VHS,Lieutenant Governor,,Rep,Burt Jones,2736,1653,74,3,1006
+Houston,WELL,Lieutenant Governor,,Rep,Burt Jones,679,389,55,0,235
+Houston,ANNX,Lieutenant Governor,,Dem,Charlie Bailey,951,600,128,1,222
+Houston,BMS,Lieutenant Governor,,Dem,Charlie Bailey,2122,1378,237,2,505
+Houston,CENT,Lieutenant Governor,,Dem,Charlie Bailey,1782,1156,128,0,498
+Houston,CGTC,Lieutenant Governor,,Dem,Charlie Bailey,1047,763,94,0,190
+Houston,FMMS,Lieutenant Governor,,Dem,Charlie Bailey,2296,1479,155,0,662
+Houston,HAFS,Lieutenant Governor,,Dem,Charlie Bailey,217,105,26,0,86
+Houston,HCTC,Lieutenant Governor,,Dem,Charlie Bailey,1299,823,118,0,358
+Houston,HEFS,Lieutenant Governor,,Dem,Charlie Bailey,266,113,31,2,120
+Houston,HHPC,Lieutenant Governor,,Dem,Charlie Bailey,2130,1431,181,0,518
+Houston,MCMS,Lieutenant Governor,,Dem,Charlie Bailey,2073,1488,156,1,428
+Houston,NHSC,Lieutenant Governor,,Dem,Charlie Bailey,530,382,48,0,100
+Houston,ROZR,Lieutenant Governor,,Dem,Charlie Bailey,2569,1525,355,2,687
+Houston,TMS,Lieutenant Governor,,Dem,Charlie Bailey,1459,952,120,0,387
+Houston,TWPK,Lieutenant Governor,,Dem,Charlie Bailey,1022,602,90,0,330
+Houston,VHS,Lieutenant Governor,,Dem,Charlie Bailey,1373,938,107,1,327
+Houston,WELL,Lieutenant Governor,,Dem,Charlie Bailey,2598,1581,262,2,753
+Houston,ANNX,Lieutenant Governor,,Lib,Ryan Graham,65,29,5,0,31
+Houston,BMS,Lieutenant Governor,,Lib,Ryan Graham,124,69,10,0,45
+Houston,CENT,Lieutenant Governor,,Lib,Ryan Graham,92,30,5,0,57
+Houston,CGTC,Lieutenant Governor,,Lib,Ryan Graham,56,41,2,0,13
+Houston,FMMS,Lieutenant Governor,,Lib,Ryan Graham,91,44,2,0,45
+Houston,HAFS,Lieutenant Governor,,Lib,Ryan Graham,17,7,3,0,7
+Houston,HCTC,Lieutenant Governor,,Lib,Ryan Graham,69,34,2,0,33
+Houston,HEFS,Lieutenant Governor,,Lib,Ryan Graham,5,3,0,0,2
+Houston,HHPC,Lieutenant Governor,,Lib,Ryan Graham,106,56,4,0,46
+Houston,MCMS,Lieutenant Governor,,Lib,Ryan Graham,116,59,4,0,53
+Houston,NHSC,Lieutenant Governor,,Lib,Ryan Graham,26,12,4,0,10
+Houston,ROZR,Lieutenant Governor,,Lib,Ryan Graham,141,81,2,0,58
+Houston,TMS,Lieutenant Governor,,Lib,Ryan Graham,32,11,1,0,20
+Houston,TWPK,Lieutenant Governor,,Lib,Ryan Graham,53,20,3,0,30
+Houston,VHS,Lieutenant Governor,,Lib,Ryan Graham,88,43,3,0,42
+Houston,WELL,Lieutenant Governor,,Lib,Ryan Graham,68,41,4,0,23
+Houston,ANNX,Secretary of State,,Rep,Brad Raffensperger ,1848,1214,116,0,518
+Houston,BMS,Secretary of State,,Rep,Brad Raffensperger ,4084,2511,199,0,1374
+Houston,CENT,Secretary of State,,Rep,Brad Raffensperger ,2378,1345,129,0,904
+Houston,CGTC,Secretary of State,,Rep,Brad Raffensperger ,1893,1349,82,1,461
+Houston,FMMS,Secretary of State,,Rep,Brad Raffensperger ,2723,1579,92,1,1051
+Houston,HAFS,Secretary of State,,Rep,Brad Raffensperger ,994,375,21,0,598
+Houston,HCTC,Secretary of State,,Rep,Brad Raffensperger ,1329,836,79,0,414
+Houston,HEFS,Secretary of State,,Rep,Brad Raffensperger ,677,287,25,0,365
+Houston,HHPC,Secretary of State,,Rep,Brad Raffensperger ,2025,1365,101,1,558
+Houston,MCMS,Secretary of State,,Rep,Brad Raffensperger ,3506,2209,88,3,1206
+Houston,NHSC,Secretary of State,,Rep,Brad Raffensperger ,852,519,45,0,288
+Houston,ROZR,Secretary of State,,Rep,Brad Raffensperger ,5481,3675,278,0,1528
+Houston,TMS,Secretary of State,,Rep,Brad Raffensperger ,1103,645,63,0,395
+Houston,TWPK,Secretary of State,,Rep,Brad Raffensperger ,1481,824,76,0,581
+Houston,VHS,Secretary of State,,Rep,Brad Raffensperger ,2714,1634,79,3,998
+Houston,WELL,Secretary of State,,Rep,Brad Raffensperger ,715,409,68,1,237
+Houston,ANNX,Secretary of State,,Dem,Bee Nguyen,905,566,117,1,221
+Houston,BMS,Secretary of State,,Dem,Bee Nguyen,2041,1346,218,2,475
+Houston,CENT,Secretary of State,,Dem,Bee Nguyen,1733,1117,120,0,496
+Houston,CGTC,Secretary of State,,Dem,Bee Nguyen,999,727,83,0,189
+Houston,FMMS,Secretary of State,,Dem,Bee Nguyen,2246,1446,149,1,650
+Houston,HAFS,Secretary of State,,Dem,Bee Nguyen,206,102,27,0,77
+Houston,HCTC,Secretary of State,,Dem,Bee Nguyen,1272,798,111,0,363
+Houston,HEFS,Secretary of State,,Dem,Bee Nguyen,256,107,30,2,117
+Houston,HHPC,Secretary of State,,Dem,Bee Nguyen,2107,1414,179,1,513
+Houston,MCMS,Secretary of State,,Dem,Bee Nguyen,1963,1412,148,1,402
+Houston,NHSC,Secretary of State,,Dem,Bee Nguyen,515,371,47,0,97
+Houston,ROZR,Secretary of State,,Dem,Bee Nguyen,2443,1460,328,2,653
+Houston,TMS,Secretary of State,,Dem,Bee Nguyen,1428,933,117,0,378
+Houston,TWPK,Secretary of State,,Dem,Bee Nguyen,986,585,86,0,315
+Houston,VHS,Secretary of State,,Dem,Bee Nguyen,1327,912,105,1,309
+Houston,WELL,Secretary of State,,Dem,Bee Nguyen,2573,1571,253,1,748
+Houston,ANNX,Secretary of State,,Lib,Ted Metz,106,71,6,0,29
+Houston,BMS,Secretary of State,,Lib,Ted Metz,201,111,13,1,76
+Houston,CENT,Secretary of State,,Lib,Ted Metz,116,44,7,0,65
+Houston,CGTC,Secretary of State,,Lib,Ted Metz,98,66,6,0,26
+Houston,FMMS,Secretary of State,,Lib,Ted Metz,134,83,2,0,49
+Houston,HAFS,Secretary of State,,Lib,Ted Metz,48,19,1,0,28
+Houston,HCTC,Secretary of State,,Lib,Ted Metz,86,50,5,0,31
+Houston,HEFS,Secretary of State,,Lib,Ted Metz,20,11,0,0,9
+Houston,HHPC,Secretary of State,,Lib,Ted Metz,149,92,7,0,50
+Houston,MCMS,Secretary of State,,Lib,Ted Metz,181,100,3,0,78
+Houston,NHSC,Secretary of State,,Lib,Ted Metz,53,27,2,0,24
+Houston,ROZR,Secretary of State,,Lib,Ted Metz,247,158,15,0,74
+Houston,TMS,Secretary of State,,Lib,Ted Metz,58,28,4,0,26
+Houston,TWPK,Secretary of State,,Lib,Ted Metz,89,45,5,0,39
+Houston,VHS,Secretary of State,,Lib,Ted Metz,152,85,2,0,65
+Houston,WELL,Secretary of State,,Lib,Ted Metz,68,43,1,0,24
+Houston,ANNX,Attorney General,,Rep,Chris Carr ,1861,1228,107,0,526
+Houston,BMS,Attorney General,,Rep,Chris Carr ,4097,2518,188,1,1390
+Houston,CENT,Attorney General,,Rep,Chris Carr ,2351,1321,113,0,917
+Houston,CGTC,Attorney General,,Rep,Chris Carr ,1879,1341,78,1,459
+Houston,FMMS,Attorney General,,Rep,Chris Carr ,2714,1578,89,1,1046
+Houston,HAFS,Attorney General,,Rep,Chris Carr ,1020,384,19,0,617
+Houston,HCTC,Attorney General,,Rep,Chris Carr ,1324,828,77,0,419
+Houston,HEFS,Attorney General,,Rep,Chris Carr ,683,292,24,1,366
+Houston,HHPC,Attorney General,,Rep,Chris Carr ,2032,1371,98,2,561
+Houston,MCMS,Attorney General,,Rep,Chris Carr ,3473,2173,76,3,1221
+Houston,NHSC,Attorney General,,Rep,Chris Carr ,862,525,41,0,296
+Houston,ROZR,Attorney General,,Rep,Chris Carr ,5469,3700,254,1,1514
+Houston,TMS,Attorney General,,Rep,Chris Carr ,1084,635,61,0,388
+Houston,TWPK,Attorney General,,Rep,Chris Carr ,1468,829,63,0,576
+Houston,VHS,Attorney General,,Rep,Chris Carr ,2735,1652,74,3,1006
+Houston,WELL,Attorney General,,Rep,Chris Carr ,693,399,60,0,234
+Houston,ANNX,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",964,608,130,1,225
+Houston,BMS,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",2158,1410,235,2,511
+Houston,CENT,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1830,1179,137,0,514
+Houston,CGTC,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1079,787,92,0,200
+Houston,FMMS,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",2318,1491,155,0,672
+Houston,HAFS,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",224,110,29,0,85
+Houston,HCTC,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1325,839,119,0,367
+Houston,HEFS,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",272,116,29,1,126
+Houston,HHPC,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",2203,1484,185,0,534
+Houston,MCMS,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",2091,1493,158,1,439
+Houston,NHSC,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",549,389,54,0,106
+Houston,ROZR,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",2617,1559,360,1,697
+Houston,TMS,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1471,957,122,0,392
+Houston,TWPK,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1041,610,95,0,336
+Houston,VHS,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1387,942,107,1,337
+Houston,WELL,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",2626,1602,262,2,760
+Houston,ANNX,Attorney General,,Lib,Martin Cowen,39,20,1,0,18
+Houston,BMS,Attorney General,,Lib,Martin Cowen,83,51,7,0,25
+Houston,CENT,Attorney General,,Lib,Martin Cowen,61,19,4,0,38
+Houston,CGTC,Attorney General,,Lib,Martin Cowen,38,22,0,0,16
+Houston,FMMS,Attorney General,,Lib,Martin Cowen,79,43,2,0,34
+Houston,HAFS,Attorney General,,Lib,Martin Cowen,12,7,0,0,5
+Houston,HCTC,Attorney General,,Lib,Martin Cowen,44,19,1,0,24
+Houston,HEFS,Attorney General,,Lib,Martin Cowen,4,2,1,0,1
+Houston,HHPC,Attorney General,,Lib,Martin Cowen,70,33,1,0,36
+Houston,MCMS,Attorney General,,Lib,Martin Cowen,98,59,3,0,36
+Houston,NHSC,Attorney General,,Lib,Martin Cowen,17,8,0,0,9
+Houston,ROZR,Attorney General,,Lib,Martin Cowen,105,54,2,0,49
+Houston,TMS,Attorney General,,Lib,Martin Cowen,35,11,1,0,23
+Houston,TWPK,Attorney General,,Lib,Martin Cowen,40,15,3,0,22
+Houston,VHS,Attorney General,,Lib,Martin Cowen,73,38,1,0,34
+Houston,WELL,Attorney General,,Lib,Martin Cowen,53,27,0,0,26
+Houston,ANNX,Commissioner of Agriculture,,Rep,Tyler Harper,1867,1225,114,0,528
+Houston,BMS,Commissioner of Agriculture,,Rep,Tyler Harper,4153,2565,203,1,1384
+Houston,CENT,Commissioner of Agriculture,,Rep,Tyler Harper,2375,1336,120,0,919
+Houston,CGTC,Commissioner of Agriculture,,Rep,Tyler Harper,1910,1351,83,1,475
+Houston,FMMS,Commissioner of Agriculture,,Rep,Tyler Harper,2758,1600,90,1,1067
+Houston,HAFS,Commissioner of Agriculture,,Rep,Tyler Harper,1026,390,21,0,615
+Houston,HCTC,Commissioner of Agriculture,,Rep,Tyler Harper,1331,827,78,0,426
+Houston,HEFS,Commissioner of Agriculture,,Rep,Tyler Harper,684,289,25,1,369
+Houston,HHPC,Commissioner of Agriculture,,Rep,Tyler Harper,2056,1390,102,2,562
+Houston,MCMS,Commissioner of Agriculture,,Rep,Tyler Harper,3539,2207,85,3,1244
+Houston,NHSC,Commissioner of Agriculture,,Rep,Tyler Harper,863,527,42,0,294
+Houston,ROZR,Commissioner of Agriculture,,Rep,Tyler Harper,5543,3735,273,1,1534
+Houston,TMS,Commissioner of Agriculture,,Rep,Tyler Harper,1099,641,64,0,394
+Houston,TWPK,Commissioner of Agriculture,,Rep,Tyler Harper,1504,845,69,0,590
+Houston,VHS,Commissioner of Agriculture,,Rep,Tyler Harper,2747,1664,73,3,1007
+Houston,WELL,Commissioner of Agriculture,,Rep,Tyler Harper,685,400,56,0,229
+Houston,ANNX,Commissioner of Agriculture,,Dem,Nakita Hemingway,929,593,119,1,216
+Houston,BMS,Commissioner of Agriculture,,Dem,Nakita Hemingway,2049,1353,220,2,474
+Houston,CENT,Commissioner of Agriculture,,Dem,Nakita Hemingway,1768,1147,129,0,492
+Houston,CGTC,Commissioner of Agriculture,,Dem,Nakita Hemingway,1017,749,86,0,182
+Houston,FMMS,Commissioner of Agriculture,,Dem,Nakita Hemingway,2253,1460,144,0,649
+Houston,HAFS,Commissioner of Agriculture,,Dem,Nakita Hemingway,209,102,25,0,82
+Houston,HCTC,Commissioner of Agriculture,,Dem,Nakita Hemingway,1283,819,113,0,351
+Houston,HEFS,Commissioner of Agriculture,,Dem,Nakita Hemingway,270,117,30,1,122
+Houston,HHPC,Commissioner of Agriculture,,Dem,Nakita Hemingway,2117,1421,177,0,519
+Houston,MCMS,Commissioner of Agriculture,,Dem,Nakita Hemingway,2006,1452,148,1,405
+Houston,NHSC,Commissioner of Agriculture,,Dem,Nakita Hemingway,530,378,48,0,104
+Houston,ROZR,Commissioner of Agriculture,,Dem,Nakita Hemingway,2484,1488,333,1,662
+Houston,TMS,Commissioner of Agriculture,,Dem,Nakita Hemingway,1450,949,117,0,384
+Houston,TWPK,Commissioner of Agriculture,,Dem,Nakita Hemingway,989,583,87,0,319
+Houston,VHS,Commissioner of Agriculture,,Dem,Nakita Hemingway,1339,906,109,1,323
+Houston,WELL,Commissioner of Agriculture,,Dem,Nakita Hemingway,2603,1585,262,2,754
+Houston,ANNX,Commissioner of Agriculture,,Lib,David Raudabaugh,64,39,3,0,22
+Houston,BMS,Commissioner of Agriculture,,Lib,David Raudabaugh,125,63,4,0,58
+Houston,CENT,Commissioner of Agriculture,,Lib,David Raudabaugh,90,30,6,0,54
+Houston,CGTC,Commissioner of Agriculture,,Lib,David Raudabaugh,55,40,0,0,15
+Houston,FMMS,Commissioner of Agriculture,,Lib,David Raudabaugh,89,50,6,0,33
+Houston,HAFS,Commissioner of Agriculture,,Lib,David Raudabaugh,22,9,3,0,10
+Houston,HCTC,Commissioner of Agriculture,,Lib,David Raudabaugh,68,38,2,0,28
+Houston,HEFS,Commissioner of Agriculture,,Lib,David Raudabaugh,6,4,0,0,2
+Houston,HHPC,Commissioner of Agriculture,,Lib,David Raudabaugh,113,63,5,0,45
+Houston,MCMS,Commissioner of Agriculture,,Lib,David Raudabaugh,102,58,2,0,42
+Houston,NHSC,Commissioner of Agriculture,,Lib,David Raudabaugh,30,15,4,0,11
+Houston,ROZR,Commissioner of Agriculture,,Lib,David Raudabaugh,158,85,8,0,65
+Houston,TMS,Commissioner of Agriculture,,Lib,David Raudabaugh,42,12,2,0,28
+Houston,TWPK,Commissioner of Agriculture,,Lib,David Raudabaugh,60,27,7,0,26
+Houston,VHS,Commissioner of Agriculture,,Lib,David Raudabaugh,94,50,2,0,42
+Houston,WELL,Commissioner of Agriculture,,Lib,David Raudabaugh,72,35,3,0,34
+Houston,ANNX,Commissioner of Insurance,,Rep,John King ,1895,1252,112,0,531
+Houston,BMS,Commissioner of Insurance,,Rep,John King ,4214,2590,200,1,1423
+Houston,CENT,Commissioner of Insurance,,Rep,John King ,2436,1358,122,0,956
+Houston,CGTC,Commissioner of Insurance,,Rep,John King ,1944,1381,79,1,483
+Houston,FMMS,Commissioner of Insurance,,Rep,John King ,2801,1625,89,1,1086
+Houston,HAFS,Commissioner of Insurance,,Rep,John King ,1036,393,20,0,623
+Houston,HCTC,Commissioner of Insurance,,Rep,John King ,1372,855,74,0,443
+Houston,HEFS,Commissioner of Insurance,,Rep,John King ,686,293,24,1,368
+Houston,HHPC,Commissioner of Insurance,,Rep,John King ,2092,1414,104,2,572
+Houston,MCMS,Commissioner of Insurance,,Rep,John King ,3605,2251,90,3,1261
+Houston,NHSC,Commissioner of Insurance,,Rep,John King ,882,537,43,0,302
+Houston,ROZR,Commissioner of Insurance,,Rep,John King ,5596,3767,272,1,1556
+Houston,TMS,Commissioner of Insurance,,Rep,John King ,1111,653,64,0,394
+Houston,TWPK,Commissioner of Insurance,,Rep,John King ,1521,850,70,0,601
+Houston,VHS,Commissioner of Insurance,,Rep,John King ,2807,1695,72,3,1037
+Houston,WELL,Commissioner of Insurance,,Rep,John King ,708,408,58,0,242
+Houston,ANNX,Commissioner of Insurance,,Dem,Janice Laws Robinson,963,604,125,1,233
+Houston,BMS,Commissioner of Insurance,,Dem,Janice Laws Robinson,2105,1384,225,2,494
+Houston,CENT,Commissioner of Insurance,,Dem,Janice Laws Robinson,1786,1147,131,0,508
+Houston,CGTC,Commissioner of Insurance,,Dem,Janice Laws Robinson,1042,760,91,0,191
+Houston,FMMS,Commissioner of Insurance,,Dem,Janice Laws Robinson,2278,1477,151,0,650
+Houston,HAFS,Commissioner of Insurance,,Dem,Janice Laws Robinson,215,107,27,0,81
+Houston,HCTC,Commissioner of Insurance,,Dem,Janice Laws Robinson,1307,823,121,0,363
+Houston,HEFS,Commissioner of Insurance,,Dem,Janice Laws Robinson,269,116,30,1,122
+Houston,HHPC,Commissioner of Insurance,,Dem,Janice Laws Robinson,2188,1459,179,0,550
+Houston,MCMS,Commissioner of Insurance,,Dem,Janice Laws Robinson,2033,1458,146,1,428
+Houston,NHSC,Commissioner of Insurance,,Dem,Janice Laws Robinson,541,382,52,0,107
+Houston,ROZR,Commissioner of Insurance,,Dem,Janice Laws Robinson,2568,1528,345,1,694
+Houston,TMS,Commissioner of Insurance,,Dem,Janice Laws Robinson,1472,946,121,0,405
+Houston,TWPK,Commissioner of Insurance,,Dem,Janice Laws Robinson,1029,605,93,0,331
+Houston,VHS,Commissioner of Insurance,,Dem,Janice Laws Robinson,1371,926,111,1,333
+Houston,WELL,Commissioner of Insurance,,Dem,Janice Laws Robinson,2646,1608,266,2,770
+Houston,ANNX,State School Superintendent,,Rep,Richard Woods ,1920,1262,117,0,541
+Houston,BMS,State School Superintendent,,Rep,Richard Woods ,4247,2607,211,2,1427
+Houston,CENT,State School Superintendent,,Rep,Richard Woods ,2438,1362,124,0,952
+Houston,CGTC,State School Superintendent,,Rep,Richard Woods ,1956,1386,82,1,487
+Houston,FMMS,State School Superintendent,,Rep,Richard Woods ,2824,1646,91,1,1086
+Houston,HAFS,State School Superintendent,,Rep,Richard Woods ,1048,397,22,0,629
+Houston,HCTC,State School Superintendent,,Rep,Richard Woods ,1370,856,77,0,437
+Houston,HEFS,State School Superintendent,,Rep,Richard Woods ,690,294,25,1,370
+Houston,HHPC,State School Superintendent,,Rep,Richard Woods ,2104,1417,107,1,579
+Houston,MCMS,State School Superintendent,,Rep,Richard Woods ,3609,2254,91,3,1261
+Houston,NHSC,State School Superintendent,,Rep,Richard Woods ,894,544,47,0,303
+Houston,ROZR,State School Superintendent,,Rep,Richard Woods ,5629,3790,277,0,1562
+Houston,TMS,State School Superintendent,,Rep,Richard Woods ,1120,658,62,0,400
+Houston,TWPK,State School Superintendent,,Rep,Richard Woods ,1517,853,71,0,593
+Houston,VHS,State School Superintendent,,Rep,Richard Woods ,2816,1702,75,2,1037
+Houston,WELL,State School Superintendent,,Rep,Richard Woods ,721,421,56,0,244
+Houston,ANNX,State School Superintendent,,Dem,Alisha Thomas Searcy,943,593,121,1,228
+Houston,BMS,State School Superintendent,,Dem,Alisha Thomas Searcy,2078,1367,218,2,491
+Houston,CENT,State School Superintendent,,Dem,Alisha Thomas Searcy,1787,1148,128,0,511
+Houston,CGTC,State School Superintendent,,Dem,Alisha Thomas Searcy,1034,760,87,0,187
+Houston,FMMS,State School Superintendent,,Dem,Alisha Thomas Searcy,2281,1464,151,0,666
+Houston,HAFS,State School Superintendent,,Dem,Alisha Thomas Searcy,210,106,26,0,78
+Houston,HCTC,State School Superintendent,,Dem,Alisha Thomas Searcy,1321,830,118,0,373
+Houston,HEFS,State School Superintendent,,Dem,Alisha Thomas Searcy,268,115,30,1,122
+Houston,HHPC,State School Superintendent,,Dem,Alisha Thomas Searcy,2187,1458,178,1,550
+Houston,MCMS,State School Superintendent,,Dem,Alisha Thomas Searcy,2040,1464,145,1,430
+Houston,NHSC,State School Superintendent,,Dem,Alisha Thomas Searcy,529,373,48,0,108
+Houston,ROZR,State School Superintendent,,Dem,Alisha Thomas Searcy,2547,1515,340,2,690
+Houston,TMS,State School Superintendent,,Dem,Alisha Thomas Searcy,1472,948,122,0,402
+Houston,TWPK,State School Superintendent,,Dem,Alisha Thomas Searcy,1035,602,92,0,341
+Houston,VHS,State School Superintendent,,Dem,Alisha Thomas Searcy,1365,921,110,1,333
+Houston,WELL,State School Superintendent,,Dem,Alisha Thomas Searcy,2648,1605,268,2,773
+Houston,ANNX,Commissioner of Labor,,Rep,Bruce Thompson,1837,1213,105,0,519
+Houston,BMS,Commissioner of Labor,,Rep,Bruce Thompson,4101,2530,190,1,1380
+Houston,CENT,Commissioner of Labor,,Rep,Bruce Thompson,2329,1308,119,0,902
+Houston,CGTC,Commissioner of Labor,,Rep,Bruce Thompson,1899,1346,78,1,474
+Houston,FMMS,Commissioner of Labor,,Rep,Bruce Thompson,2708,1577,91,1,1039
+Houston,HAFS,Commissioner of Labor,,Rep,Bruce Thompson,1027,385,21,0,621
+Houston,HCTC,Commissioner of Labor,,Rep,Bruce Thompson,1320,828,75,0,417
+Houston,HEFS,Commissioner of Labor,,Rep,Bruce Thompson,683,291,25,0,367
+Houston,HHPC,Commissioner of Labor,,Rep,Bruce Thompson,2015,1373,97,1,544
+Houston,MCMS,Commissioner of Labor,,Rep,Bruce Thompson,3475,2165,81,3,1226
+Houston,NHSC,Commissioner of Labor,,Rep,Bruce Thompson,862,522,42,0,298
+Houston,ROZR,Commissioner of Labor,,Rep,Bruce Thompson,5468,3698,260,0,1510
+Houston,TMS,Commissioner of Labor,,Rep,Bruce Thompson,1088,635,63,0,390
+Houston,TWPK,Commissioner of Labor,,Rep,Bruce Thompson,1467,826,67,0,574
+Houston,VHS,Commissioner of Labor,,Rep,Bruce Thompson,2729,1653,73,3,1000
+Houston,WELL,Commissioner of Labor,,Rep,Bruce Thompson,676,394,58,0,224
+Houston,ANNX,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",936,596,125,1,214
+Houston,BMS,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",2081,1360,225,2,494
+Houston,CENT,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1792,1164,131,0,497
+Houston,CGTC,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1026,756,89,0,181
+Houston,FMMS,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",2256,1455,146,0,655
+Houston,HAFS,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",210,106,25,0,79
+Houston,HCTC,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1288,811,117,0,360
+Houston,HEFS,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",267,116,30,2,119
+Houston,HHPC,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",2131,1429,181,1,520
+Houston,MCMS,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",2019,1459,151,1,408
+Houston,NHSC,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",526,381,47,0,98
+Houston,ROZR,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",2528,1521,343,1,663
+Houston,TMS,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1441,946,116,0,379
+Houston,TWPK,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1009,601,86,0,322
+Houston,VHS,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1321,899,106,1,315
+Houston,WELL,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",2600,1577,258,2,763
+Houston,ANNX,Commissioner of Labor,,Lib,Emily Anderson,82,43,6,0,33
+Houston,BMS,Commissioner of Labor,,Lib,Emily Anderson,140,84,12,0,44
+Houston,CENT,Commissioner of Labor,,Lib,Emily Anderson,111,40,5,0,66
+Houston,CGTC,Commissioner of Labor,,Lib,Emily Anderson,55,37,2,0,16
+Houston,FMMS,Commissioner of Labor,,Lib,Emily Anderson,127,71,3,0,53
+Houston,HAFS,Commissioner of Labor,,Lib,Emily Anderson,16,8,2,0,6
+Houston,HCTC,Commissioner of Labor,,Lib,Emily Anderson,76,44,2,0,30
+Houston,HEFS,Commissioner of Labor,,Lib,Emily Anderson,5,1,0,0,4
+Houston,HHPC,Commissioner of Labor,,Lib,Emily Anderson,136,71,5,0,60
+Houston,MCMS,Commissioner of Labor,,Lib,Emily Anderson,146,91,3,0,52
+Houston,NHSC,Commissioner of Labor,,Lib,Emily Anderson,34,16,6,0,12
+Houston,ROZR,Commissioner of Labor,,Lib,Emily Anderson,168,82,10,1,75
+Houston,TMS,Commissioner of Labor,,Lib,Emily Anderson,55,19,4,0,32
+Houston,TWPK,Commissioner of Labor,,Lib,Emily Anderson,69,24,10,0,35
+Houston,VHS,Commissioner of Labor,,Lib,Emily Anderson,120,65,4,0,51
+Houston,WELL,Commissioner of Labor,,Lib,Emily Anderson,86,50,4,0,32
+Houston,CENT,U.S. House,,Rep,Chris West,2296,1276,111,0,909
+Houston,HHPC,U.S. House,,Rep,Chris West,1989,1334,97,0,558
+Houston,NHSC,U.S. House,,Rep,Chris West,847,511,40,0,296
+Houston,WELL,U.S. House,,Rep,Chris West,645,376,45,0,224
+Houston,CENT,U.S. House,,Dem,Sanford Bishop ,1941,1239,144,0,558
+Houston,HHPC,U.S. House,,Dem,Sanford Bishop ,2287,1527,191,0,569
+Houston,NHSC,U.S. House,,Dem,Sanford Bishop ,576,407,55,0,114
+Houston,WELL,U.S. House,,Dem,Sanford Bishop ,2719,1644,280,1,794
+Houston,ANNX,U.S. House,,Rep,Austin Scott ,1924,1262,114,0,548
+Houston,BMS,U.S. House,,Rep,Austin Scott ,4249,2621,201,0,1427
+Houston,CGTC,U.S. House,,Rep,Austin Scott ,1958,1391,80,1,486
+Houston,FMMS,U.S. House,,Rep,Austin Scott ,2835,1647,92,1,1095
+Houston,HAFS,U.S. House,,Rep,Austin Scott ,1040,395,21,0,624
+Houston,HCTC,U.S. House,,Rep,Austin Scott ,1387,863,79,0,445
+Houston,HEFS,U.S. House,,Rep,Austin Scott ,692,294,26,2,370
+Houston,MCMS,U.S. House,,Rep,Austin Scott ,3615,2246,88,3,1278
+Houston,ROZR,U.S. House,,Rep,Austin Scott ,5643,3789,282,1,1571
+Houston,TMS,U.S. House,,Rep,Austin Scott ,1134,662,66,0,406
+Houston,TWPK,U.S. House,,Rep,Austin Scott ,1539,863,72,0,604
+Houston,VHS,U.S. House,,Rep,Austin Scott ,2809,1697,74,3,1035
+Houston,ANNX,U.S. House,,Dem,Darrius Butler,934,590,125,1,218
+Houston,BMS,U.S. House,,Dem,Darrius Butler,2081,1358,229,2,492
+Houston,CGTC,U.S. House,,Dem,Darrius Butler,1037,761,90,0,186
+Houston,FMMS,U.S. House,,Dem,Darrius Butler,2277,1464,155,0,658
+Houston,HAFS,U.S. House,,Dem,Darrius Butler,214,106,28,0,80
+Houston,HCTC,U.S. House,,Dem,Darrius Butler,1302,822,117,0,363
+Houston,HEFS,U.S. House,,Dem,Darrius Butler,265,114,30,0,121
+Houston,MCMS,U.S. House,,Dem,Darrius Butler,2044,1479,150,1,414
+Houston,ROZR,U.S. House,,Dem,Darrius Butler,2538,1521,336,1,680
+Houston,TMS,U.S. House,,Dem,Darrius Butler,1448,936,117,0,395
+Houston,TWPK,U.S. House,,Dem,Darrius Butler,1016,594,92,0,330
+Houston,VHS,U.S. House,,Dem,Darrius Butler,1377,935,109,1,332
+Houston,ANNX,State Senate,,Rep,John F. Kennedy ,1906,1256,109,0,541
+Houston,CENT,State Senate,,Rep,John F. Kennedy ,2438,1358,123,0,957
+Houston,FMMS,State Senate,,Rep,John F. Kennedy ,1381,859,54,0,468
+Houston,MCMS,State Senate,,Rep,John F. Kennedy ,712,460,20,2,230
+Houston,NHSC,State Senate,,Rep,John F. Kennedy ,0,0,0,0,0
+Houston,TMS,State Senate,,Rep,John F. Kennedy ,1129,661,65,0,403
+Houston,TWPK,State Senate,,Rep,John F. Kennedy ,1530,855,70,0,605
+Houston,ANNX,State Senate,,Dem,Chris Benton,950,600,127,0,223
+Houston,CENT,State Senate,,Dem,Chris Benton,1790,1155,128,0,507
+Houston,FMMS,State Senate,,Dem,Chris Benton,960,634,64,0,262
+Houston,MCMS,State Senate,,Dem,Chris Benton,626,451,41,1,133
+Houston,NHSC,State Senate,,Dem,Chris Benton,2,2,0,0,0
+Houston,TMS,State Senate,,Dem,Chris Benton,1458,942,118,0,398
+Houston,TWPK,State Senate,,Dem,Chris Benton,1020,601,92,0,327
+Houston,BMS,State Senate,,Rep,Larry Walker ,5158,3204,263,1,1690
+Houston,CGTC,State Senate,,Rep,Larry Walker ,2381,1703,102,0,576
+Houston,FMMS,State Senate,,Rep,Larry Walker ,2010,1129,56,1,824
+Houston,HAFS,State Senate,,Rep,Larry Walker ,1125,430,31,0,664
+Houston,HCTC,State Senate,,Rep,Larry Walker ,5,4,0,0,1
+Houston,HEFS,State Senate,,Rep,Larry Walker ,808,345,32,1,430
+Houston,MCMS,State Senate,,Rep,Larry Walker ,3518,2226,104,0,1188
+Houston,ROZR,State Senate,,Rep,Larry Walker ,6790,4479,381,2,1928
+Houston,VHS,State Senate,,Rep,Larry Walker ,3435,2091,112,3,1229
+Houston,HCTC,State Senate,,Dem,"David E. Lucas, Sr. ",1952,1209,136,0,607
+Houston,HHPC,State Senate,,Dem,"David E. Lucas, Sr. ",3116,2095,210,0,811
+Houston,NHSC,State Senate,,Dem,"David E. Lucas, Sr. ",911,592,57,0,262
+Houston,WELL,State Senate,,Dem,"David E. Lucas, Sr. ",2908,1758,276,1,873
+Houston,CENT,State House,,Rep,Robert Dickey ,16,9,0,0,7
+Houston,HHPC,State House,,Rep,Robert Dickey ,1535,1010,82,0,443
+Houston,NHSC,State House,,Rep,Robert Dickey ,1107,688,54,0,365
+Houston,WELL,State House,,Rep,Robert Dickey ,1565,903,128,0,534
+Houston,BMS,State House,,Rep,Shaw Blackmon ,4263,2627,202,1,1433
+Houston,CGTC,State House,,Rep,Shaw Blackmon ,1968,1391,81,1,495
+Houston,FMMS,State House,,Rep,Shaw Blackmon ,1739,928,49,0,762
+Houston,MCMS,State House,,Rep,Shaw Blackmon ,1301,805,30,0,466
+Houston,ROZR,State House,,Rep,Shaw Blackmon ,3337,2222,177,1,937
+Houston,TWPK,State House,,Rep,Shaw Blackmon ,1529,849,71,0,609
+Houston,VHS,State House,,Rep,Shaw Blackmon ,1819,1126,48,0,645
+Houston,BMS,State House,,Dem,Courtney L. Driver,2048,1340,223,0,485
+Houston,CGTC,State House,,Dem,Courtney L. Driver,1029,760,88,0,181
+Houston,FMMS,State House,,Dem,Courtney L. Driver,1576,980,105,0,491
+Houston,MCMS,State House,,Dem,Courtney L. Driver,644,449,60,0,135
+Houston,ROZR,State House,,Dem,Courtney L. Driver,1799,1063,249,0,487
+Houston,TWPK,State House,,Dem,Courtney L. Driver,1019,604,91,0,324
+Houston,VHS,State House,,Dem,Courtney L. Driver,822,560,69,1,192
+Houston,ANNX,State House,,Rep,Bethany Ballard,1882,1240,110,0,532
+Houston,CENT,State House,,Rep,Bethany Ballard,2386,1332,120,0,934
+Houston,FMMS,State House,,Rep,Bethany Ballard,1074,703,38,0,333
+Houston,HCTC,State House,,Rep,Bethany Ballard,1336,836,76,0,424
+Houston,HHPC,State House,,Rep,Bethany Ballard,1065,733,48,0,284
+Houston,MCMS,State House,,Rep,Bethany Ballard,2272,1420,59,2,791
+Houston,TMS,State House,,Rep,Bethany Ballard,1099,641,64,0,394
+Houston,WELL,State House,,Rep,Bethany Ballard,61,32,2,0,27
+Houston,ANNX,State House,,Dem,Ariel Phillips,968,610,125,0,233
+Houston,CENT,State House,,Dem,Ariel Phillips,1814,1161,135,0,518
+Houston,FMMS,State House,,Dem,Ariel Phillips,702,492,47,0,163
+Houston,HCTC,State House,,Dem,Ariel Phillips,1342,845,119,0,378
+Houston,HHPC,State House,,Dem,Ariel Phillips,920,593,83,1,243
+Houston,MCMS,State House,,Dem,Ariel Phillips,1418,1034,88,1,295
+Houston,TMS,State House,,Dem,Ariel Phillips,1484,960,119,0,405
+Houston,WELL,State House,,Dem,Ariel Phillips,200,117,11,0,72
+Houston,HAFS,State House,,Rep,"Noel Williams, Jr. ",1097,424,26,0,647
+Houston,HEFS,State House,,Rep,"Noel Williams, Jr. ",784,332,30,0,422
+Houston,ROZR,State House,,Rep,"Noel Williams, Jr. ",2636,1771,128,0,737
+Houston,VHS,State House,,Rep,"Noel Williams, Jr. ",1241,717,40,0,484
+Houston,ANNX,County Comm Chair,,Rep,Dan Perdue,2300,1490,148,1,661
+Houston,BMS,County Comm Chair,,Rep,Dan Perdue,5113,3178,257,2,1676
+Houston,CENT,County Comm Chair,,Rep,Dan Perdue,3213,1810,161,0,1242
+Houston,CGTC,County Comm Chair,,Rep,Dan Perdue,2364,1683,103,1,577
+Houston,FMMS,County Comm Chair,,Rep,Dan Perdue,3779,2222,135,1,1421
+Houston,HAFS,County Comm Chair,,Rep,Dan Perdue,1111,422,29,0,660
+Houston,HCTC,County Comm Chair,,Rep,Dan Perdue,1935,1200,104,0,631
+Houston,HEFS,County Comm Chair,,Rep,Dan Perdue,785,333,29,1,422
+Houston,HHPC,County Comm Chair,,Rep,Dan Perdue,3010,1997,155,2,856
+Houston,MCMS,County Comm Chair,,Rep,Dan Perdue,4454,2824,135,3,1492
+Houston,NHSC,County Comm Chair,,Rep,Dan Perdue,1100,683,53,0,364
+Houston,ROZR,County Comm Chair,,Rep,Dan Perdue,6690,4401,374,2,1913
+Houston,TMS,County Comm Chair,,Rep,Dan Perdue,1740,1043,86,0,611
+Houston,TWPK,County Comm Chair,,Rep,Dan Perdue,1951,1087,89,0,775
+Houston,VHS,County Comm Chair,,Rep,Dan Perdue,3390,2070,106,4,1210
+Houston,WELL,County Comm Chair,,Rep,Dan Perdue,1708,967,136,0,605
+Houston,ANNX,County Comm,,Rep,Shane Gottwals,1909,1265,116,0,528
+Houston,BMS,County Comm,,Rep,Shane Gottwals,4253,2617,209,1,1426
+Houston,CENT,County Comm,,Rep,Shane Gottwals,2447,1371,125,0,951
+Houston,CGTC,County Comm,,Rep,Shane Gottwals,1953,1385,80,1,487
+Houston,FMMS,County Comm,,Rep,Shane Gottwals,2825,1649,91,1,1084
+Houston,HAFS,County Comm,,Rep,Shane Gottwals,1042,396,23,0,623
+Houston,HCTC,County Comm,,Rep,Shane Gottwals,1392,873,81,0,438
+Houston,HEFS,County Comm,,Rep,Shane Gottwals,681,288,25,1,367
+Houston,HHPC,County Comm,,Rep,Shane Gottwals,2120,1420,108,2,590
+Houston,MCMS,County Comm,,Rep,Shane Gottwals,3607,2250,85,3,1269
+Houston,NHSC,County Comm,,Rep,Shane Gottwals,888,535,51,0,302
+Houston,ROZR,County Comm,,Rep,Shane Gottwals,5626,3778,267,1,1580
+Houston,TMS,County Comm,,Rep,Shane Gottwals,1143,664,69,0,410
+Houston,TWPK,County Comm,,Rep,Shane Gottwals,1536,852,78,0,606
+Houston,VHS,County Comm,,Rep,Shane Gottwals,2792,1689,73,3,1027
+Houston,WELL,County Comm,,Rep,Shane Gottwals,720,422,56,0,242
+Houston,ANNX,County Comm,,Dem,Tim Riley,935,586,120,1,228
+Houston,BMS,County Comm,,Dem,Tim Riley,2062,1352,217,2,491
+Houston,CENT,County Comm,,Dem,Tim Riley,1783,1139,132,0,512
+Houston,CGTC,County Comm,,Dem,Tim Riley,1024,752,89,0,183
+Houston,FMMS,County Comm,,Dem,Tim Riley,2259,1458,147,0,654
+Houston,HAFS,County Comm,,Dem,Tim Riley,210,103,25,0,82
+Houston,HCTC,County Comm,,Dem,Tim Riley,1289,813,114,0,362
+Houston,HEFS,County Comm,,Dem,Tim Riley,269,118,27,1,123
+Houston,HHPC,County Comm,,Dem,Tim Riley,2152,1446,177,0,529
+Houston,MCMS,County Comm,,Dem,Tim Riley,2018,1457,151,1,409
+Houston,NHSC,County Comm,,Dem,Tim Riley,532,385,43,0,104
+Houston,ROZR,County Comm,,Dem,Tim Riley,2541,1520,343,1,677
+Houston,TMS,County Comm,,Dem,Tim Riley,1428,929,112,0,387
+Houston,TWPK,County Comm,,Dem,Tim Riley,1011,602,85,0,324
+Houston,VHS,County Comm,,Dem,Tim Riley,1367,927,107,1,332
+Houston,WELL,County Comm,,Dem,Tim Riley,2634,1597,260,2,775
+Houston,ANNX,Proposed Constitutional Amendment 1,,,Yes,2477,1612,208,0,657
+Houston,BMS,Proposed Constitutional Amendment 1,,,Yes,5630,3520,396,4,1710
+Houston,CENT,Proposed Constitutional Amendment 1,,,Yes,3702,2213,221,0,1268
+Houston,CGTC,Proposed Constitutional Amendment 1,,,Yes,2603,1874,151,1,577
+Houston,FMMS,Proposed Constitutional Amendment 1,,,Yes,4456,2716,206,1,1533
+Houston,HAFS,Proposed Constitutional Amendment 1,,,Yes,1067,412,40,0,615
+Houston,HCTC,Proposed Constitutional Amendment 1,,,Yes,2364,1493,170,0,701
+Houston,HEFS,Proposed Constitutional Amendment 1,,,Yes,798,339,48,1,410
+Houston,HHPC,Proposed Constitutional Amendment 1,,,Yes,3658,2439,263,1,955
+Houston,MCMS,Proposed Constitutional Amendment 1,,,Yes,4981,3270,214,5,1492
+Houston,NHSC,Proposed Constitutional Amendment 1,,,Yes,1237,809,79,0,349
+Houston,ROZR,Proposed Constitutional Amendment 1,,,Yes,6981,4563,522,2,1894
+Houston,TMS,Proposed Constitutional Amendment 1,,,Yes,2204,1352,159,0,693
+Houston,TWPK,Proposed Constitutional Amendment 1,,,Yes,2232,1291,144,0,797
+Houston,VHS,Proposed Constitutional Amendment 1,,,Yes,3705,2309,168,4,1224
+Houston,WELL,Proposed Constitutional Amendment 1,,,Yes,2723,1640,268,2,813
+Houston,ANNX,Proposed Constitutional Amendment 1,,,No,347,220,28,1,98
+Houston,BMS,Proposed Constitutional Amendment 1,,,No,644,407,31,0,206
+Houston,CENT,Proposed Constitutional Amendment 1,,,No,475,261,27,0,187
+Houston,CGTC,Proposed Constitutional Amendment 1,,,No,328,237,13,0,78
+Houston,FMMS,Proposed Constitutional Amendment 1,,,No,586,357,33,0,196
+Houston,HAFS,Proposed Constitutional Amendment 1,,,No,152,70,3,0,79
+Houston,HCTC,Proposed Constitutional Amendment 1,,,No,291,174,18,0,99
+Houston,HEFS,Proposed Constitutional Amendment 1,,,No,135,61,6,0,68
+Houston,HHPC,Proposed Constitutional Amendment 1,,,No,542,368,20,1,153
+Houston,MCMS,Proposed Constitutional Amendment 1,,,No,579,388,24,0,167
+Houston,NHSC,Proposed Constitutional Amendment 1,,,No,162,100,8,0,54
+Houston,ROZR,Proposed Constitutional Amendment 1,,,No,1017,635,75,0,307
+Houston,TMS,Proposed Constitutional Amendment 1,,,No,332,209,22,0,101
+Houston,TWPK,Proposed Constitutional Amendment 1,,,No,288,147,17,0,124
+Houston,VHS,Proposed Constitutional Amendment 1,,,No,425,279,17,0,129
+Houston,WELL,Proposed Constitutional Amendment 1,,,No,517,307,43,0,167
+Houston,ANNX,Proposed Constitutional Amendment 2,,,Yes,2606,1691,221,1,693
+Houston,BMS,Proposed Constitutional Amendment 2,,,Yes,5853,3650,407,4,1792
+Houston,CENT,Proposed Constitutional Amendment 2,,,Yes,3923,2331,239,0,1353
+Houston,CGTC,Proposed Constitutional Amendment 2,,,Yes,2708,1946,159,1,602
+Houston,FMMS,Proposed Constitutional Amendment 2,,,Yes,4729,2887,223,1,1618
+Houston,HAFS,Proposed Constitutional Amendment 2,,,Yes,1120,448,41,0,631
+Houston,HCTC,Proposed Constitutional Amendment 2,,,Yes,2469,1550,179,0,740
+Houston,HEFS,Proposed Constitutional Amendment 2,,,Yes,846,368,50,2,426
+Houston,HHPC,Proposed Constitutional Amendment 2,,,Yes,3953,2653,271,2,1027
+Houston,MCMS,Proposed Constitutional Amendment 2,,,Yes,5241,3448,220,5,1568
+Houston,NHSC,Proposed Constitutional Amendment 2,,,Yes,1304,837,89,0,378
+Houston,ROZR,Proposed Constitutional Amendment 2,,,Yes,7368,4805,537,2,2024
+Houston,TMS,Proposed Constitutional Amendment 2,,,Yes,2384,1468,169,0,747
+Houston,TWPK,Proposed Constitutional Amendment 2,,,Yes,2356,1331,155,0,870
+Houston,VHS,Proposed Constitutional Amendment 2,,,Yes,3861,2404,179,4,1274
+Houston,WELL,Proposed Constitutional Amendment 2,,,Yes,3006,1808,294,1,903
+Houston,ANNX,Proposed Constitutional Amendment 2,,,No,231,147,15,0,69
+Houston,BMS,Proposed Constitutional Amendment 2,,,No,452,302,22,0,128
+Houston,CENT,Proposed Constitutional Amendment 2,,,No,277,159,11,0,107
+Houston,CGTC,Proposed Constitutional Amendment 2,,,No,242,179,6,0,57
+Houston,FMMS,Proposed Constitutional Amendment 2,,,No,332,206,16,0,110
+Houston,HAFS,Proposed Constitutional Amendment 2,,,No,111,42,2,0,67
+Houston,HCTC,Proposed Constitutional Amendment 2,,,No,204,127,10,0,67
+Houston,HEFS,Proposed Constitutional Amendment 2,,,No,94,32,5,0,57
+Houston,HHPC,Proposed Constitutional Amendment 2,,,No,287,188,13,0,86
+Houston,MCMS,Proposed Constitutional Amendment 2,,,No,354,234,18,0,102
+Houston,NHSC,Proposed Constitutional Amendment 2,,,No,103,78,0,0,25
+Houston,ROZR,Proposed Constitutional Amendment 2,,,No,694,442,63,0,189
+Houston,TMS,Proposed Constitutional Amendment 2,,,No,181,114,13,0,54
+Houston,TWPK,Proposed Constitutional Amendment 2,,,No,173,108,9,0,56
+Houston,VHS,Proposed Constitutional Amendment 2,,,No,292,197,6,0,89
+Houston,WELL,Proposed Constitutional Amendment 2,,,No,263,159,16,1,87
+Houston,ANNX,Statewide Referendum Question A,,,Yes,1625,1045,114,1,465
+Houston,BMS,Statewide Referendum Question A,,,Yes,3655,2242,205,1,1207
+Houston,CENT,Statewide Referendum Question A,,,Yes,2597,1502,119,0,976
+Houston,CGTC,Statewide Referendum Question A,,,Yes,1811,1295,74,1,441
+Houston,FMMS,Statewide Referendum Question A,,,Yes,3092,1859,114,1,1118
+Houston,HAFS,Statewide Referendum Question A,,,Yes,808,310,22,0,476
+Houston,HCTC,Statewide Referendum Question A,,,Yes,1636,1010,88,0,538
+Houston,HEFS,Statewide Referendum Question A,,,Yes,613,247,31,1,334
+Houston,HHPC,Statewide Referendum Question A,,,Yes,2598,1720,156,1,721
+Houston,MCMS,Statewide Referendum Question A,,,Yes,3418,2192,109,1,1116
+Houston,NHSC,Statewide Referendum Question A,,,Yes,782,503,43,0,236
+Houston,ROZR,Statewide Referendum Question A,,,Yes,5032,3269,268,1,1494
+Houston,TMS,Statewide Referendum Question A,,,Yes,1611,961,88,0,562
+Houston,TWPK,Statewide Referendum Question A,,,Yes,1561,844,91,0,626
+Houston,VHS,Statewide Referendum Question A,,,Yes,2540,1544,84,3,909
+Houston,WELL,Statewide Referendum Question A,,,Yes,1996,1171,147,2,676
+Houston,ANNX,Statewide Referendum Question A,,,No,1176,775,121,0,280
+Houston,BMS,Statewide Referendum Question A,,,No,2557,1648,213,2,694
+Houston,CENT,Statewide Referendum Question A,,,No,1541,949,125,0,467
+Houston,CGTC,Statewide Referendum Question A,,,No,1092,805,83,0,204
+Houston,FMMS,Statewide Referendum Question A,,,No,1892,1191,118,0,583
+Houston,HAFS,Statewide Referendum Question A,,,No,417,178,21,0,218
+Houston,HCTC,Statewide Referendum Question A,,,No,1000,646,97,0,257
+Houston,HEFS,Statewide Referendum Question A,,,No,319,152,22,1,144
+Houston,HHPC,Statewide Referendum Question A,,,No,1568,1069,119,1,379
+Houston,MCMS,Statewide Referendum Question A,,,No,2099,1439,125,3,532
+Houston,NHSC,Statewide Referendum Question A,,,No,612,405,44,0,163
+Houston,ROZR,Statewide Referendum Question A,,,No,2907,1905,311,1,690
+Houston,TMS,Statewide Referendum Question A,,,No,907,590,87,0,230
+Houston,TWPK,Statewide Referendum Question A,,,No,930,575,66,0,289
+Houston,VHS,Statewide Referendum Question A,,,No,1553,1009,100,1,443
+Houston,WELL,Statewide Referendum Question A,,,No,1231,761,155,0,315
+Houston,ANNX,Statewide Referendum Question B,,,Yes,2161,1375,170,1,615
+Houston,BMS,Statewide Referendum Question B,,,Yes,4785,2959,278,2,1546
+Houston,CENT,Statewide Referendum Question B,,,Yes,3257,1913,164,0,1180
+Houston,CGTC,Statewide Referendum Question B,,,Yes,2249,1621,104,1,523
+Houston,FMMS,Statewide Referendum Question B,,,Yes,3933,2377,153,1,1402
+Houston,HAFS,Statewide Referendum Question B,,,Yes,997,390,29,0,578
+Houston,HCTC,Statewide Referendum Question B,,,Yes,2063,1281,115,0,667
+Houston,HEFS,Statewide Referendum Question B,,,Yes,762,320,40,2,400
+Houston,HHPC,Statewide Referendum Question B,,,Yes,3254,2174,192,1,887
+Houston,MCMS,Statewide Referendum Question B,,,Yes,4289,2766,152,3,1368
+Houston,NHSC,Statewide Referendum Question B,,,Yes,1057,671,59,0,327
+Houston,ROZR,Statewide Referendum Question B,,,Yes,6211,4040,377,2,1792
+Houston,TMS,Statewide Referendum Question B,,,Yes,1907,1153,116,0,638
+Houston,TWPK,Statewide Referendum Question B,,,Yes,1946,1086,107,0,753
+Houston,VHS,Statewide Referendum Question B,,,Yes,3225,1972,120,3,1130
+Houston,WELL,Statewide Referendum Question B,,,Yes,2358,1387,194,2,775
+Houston,ANNX,Statewide Referendum Question B,,,No,643,448,63,0,132
+Houston,BMS,Statewide Referendum Question B,,,No,1459,950,143,1,365
+Houston,CENT,Statewide Referendum Question B,,,No,903,556,80,0,267
+Houston,CGTC,Statewide Referendum Question B,,,No,658,480,53,0,125
+Houston,FMMS,Statewide Referendum Question B,,,No,1065,680,81,0,304
+Houston,HAFS,Statewide Referendum Question B,,,No,229,98,14,0,117
+Houston,HCTC,Statewide Referendum Question B,,,No,576,380,71,0,125
+Houston,HEFS,Statewide Referendum Question B,,,No,169,78,13,0,78
+Houston,HHPC,Statewide Referendum Question B,,,No,931,625,84,1,221
+Houston,MCMS,Statewide Referendum Question B,,,No,1254,882,83,1,288
+Houston,NHSC,Statewide Referendum Question B,,,No,341,240,30,0,71
+Houston,ROZR,Statewide Referendum Question B,,,No,1749,1148,205,0,396
+Houston,TMS,Statewide Referendum Question B,,,No,617,403,60,0,154
+Houston,TWPK,Statewide Referendum Question B,,,No,561,347,52,0,162
+Houston,VHS,Statewide Referendum Question B,,,No,884,593,64,1,226
+Houston,WELL,Statewide Referendum Question B,,,No,864,541,110,0,213

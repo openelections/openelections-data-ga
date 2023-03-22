@@ -1,0 +1,782 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Bulloch,Lockhart,U.S. Senate,,Rep,Herschel Junior Walker,334,81,4,1,248
+Bulloch,Emit,U.S. Senate,,Rep,Herschel Junior Walker,1315,615,35,0,665
+Bulloch,Statesboro,U.S. Senate,,Rep,Herschel Junior Walker,1594,934,86,0,574
+Bulloch,Portal,U.S. Senate,,Rep,Herschel Junior Walker,689,219,13,1,456
+Bulloch,Fair,U.S. Senate,,Rep,Herschel Junior Walker,2043,1254,93,5,691
+Bulloch,Church,U.S. Senate,,Rep,Herschel Junior Walker,1380,803,65,3,509
+Bulloch,Pittman Park,U.S. Senate,,Rep,Herschel Junior Walker,577,296,30,2,249
+Bulloch,Leefield,U.S. Senate,,Rep,Herschel Junior Walker,510,114,10,1,385
+Bulloch,Blitch,U.S. Senate,,Rep,Herschel Junior Walker,964,400,19,0,545
+Bulloch,Hagin,U.S. Senate,,Rep,Herschel Junior Walker,903,336,24,0,543
+Bulloch,Brooklet,U.S. Senate,,Rep,Herschel Junior Walker,1573,666,35,2,870
+Bulloch,Stilson,U.S. Senate,,Rep,Herschel Junior Walker,989,275,14,0,700
+Bulloch,Bay,U.S. Senate,,Rep,Herschel Junior Walker,809,211,19,1,578
+Bulloch,Nevils,U.S. Senate,,Rep,Herschel Junior Walker,624,208,18,0,398
+Bulloch,Sinkhole,U.S. Senate,,Rep,Herschel Junior Walker,244,52,7,0,185
+Bulloch,Register,U.S. Senate,,Rep,Herschel Junior Walker,310,116,9,1,184
+Bulloch,Lockhart,U.S. Senate,,Dem,Raphael Warnock ,104,42,10,0,52
+Bulloch,Emit,U.S. Senate,,Dem,Raphael Warnock ,598,322,69,0,207
+Bulloch,Statesboro,U.S. Senate,,Dem,Raphael Warnock ,1512,903,126,0,483
+Bulloch,Portal,U.S. Senate,,Dem,Raphael Warnock ,237,93,20,0,124
+Bulloch,Fair,U.S. Senate,,Dem,Raphael Warnock ,1231,794,111,2,324
+Bulloch,Church,U.S. Senate,,Dem,Raphael Warnock ,1505,893,155,2,455
+Bulloch,Pittman Park,U.S. Senate,,Dem,Raphael Warnock ,923,466,50,1,406
+Bulloch,Leefield,U.S. Senate,,Dem,Raphael Warnock ,97,27,16,0,54
+Bulloch,Blitch,U.S. Senate,,Dem,Raphael Warnock ,373,226,42,0,105
+Bulloch,Hagin,U.S. Senate,,Dem,Raphael Warnock ,459,230,54,2,173
+Bulloch,Brooklet,U.S. Senate,,Dem,Raphael Warnock ,476,251,39,0,186
+Bulloch,Stilson,U.S. Senate,,Dem,Raphael Warnock ,183,70,20,0,93
+Bulloch,Bay,U.S. Senate,,Dem,Raphael Warnock ,147,52,15,1,79
+Bulloch,Nevils,U.S. Senate,,Dem,Raphael Warnock ,129,54,12,0,63
+Bulloch,Sinkhole,U.S. Senate,,Dem,Raphael Warnock ,46,18,7,1,20
+Bulloch,Register,U.S. Senate,,Dem,Raphael Warnock ,175,85,17,0,73
+Bulloch,Lockhart,U.S. Senate,,Lib,Chase Oliver,1,0,0,0,1
+Bulloch,Emit,U.S. Senate,,Lib,Chase Oliver,42,12,4,0,26
+Bulloch,Statesboro,U.S. Senate,,Lib,Chase Oliver,44,19,1,0,24
+Bulloch,Portal,U.S. Senate,,Lib,Chase Oliver,12,2,1,0,9
+Bulloch,Fair,U.S. Senate,,Lib,Chase Oliver,55,27,2,0,26
+Bulloch,Church,U.S. Senate,,Lib,Chase Oliver,44,20,3,0,21
+Bulloch,Pittman Park,U.S. Senate,,Lib,Chase Oliver,40,17,0,0,23
+Bulloch,Leefield,U.S. Senate,,Lib,Chase Oliver,16,3,2,0,11
+Bulloch,Blitch,U.S. Senate,,Lib,Chase Oliver,24,10,2,0,12
+Bulloch,Hagin,U.S. Senate,,Lib,Chase Oliver,23,9,2,0,12
+Bulloch,Brooklet,U.S. Senate,,Lib,Chase Oliver,53,20,1,0,32
+Bulloch,Stilson,U.S. Senate,,Lib,Chase Oliver,29,6,0,0,23
+Bulloch,Bay,U.S. Senate,,Lib,Chase Oliver,17,3,2,0,12
+Bulloch,Nevils,U.S. Senate,,Lib,Chase Oliver,4,0,0,0,4
+Bulloch,Sinkhole,U.S. Senate,,Lib,Chase Oliver,5,2,0,0,3
+Bulloch,Register,U.S. Senate,,Lib,Chase Oliver,7,1,0,0,6
+Bulloch,Lockhart,Governor,,Rep,Brian Kemp ,342,82,5,1,254
+Bulloch,Emit,Governor,,Rep,Brian Kemp ,1428,670,47,0,711
+Bulloch,Statesboro,Governor,,Rep,Brian Kemp ,1733,1003,93,0,637
+Bulloch,Portal,Governor,,Rep,Brian Kemp ,719,225,14,1,479
+Bulloch,Fair,Governor,,Rep,Brian Kemp ,2249,1366,118,5,760
+Bulloch,Church,Governor,,Rep,Brian Kemp ,1557,908,77,3,569
+Bulloch,Pittman Park,Governor,,Rep,Brian Kemp ,655,331,31,2,291
+Bulloch,Leefield,Governor,,Rep,Brian Kemp ,540,124,15,1,400
+Bulloch,Blitch,Governor,,Rep,Brian Kemp ,1037,438,25,0,574
+Bulloch,Hagin,Governor,,Rep,Brian Kemp ,955,354,27,0,574
+Bulloch,Brooklet,Governor,,Rep,Brian Kemp ,1712,724,51,2,935
+Bulloch,Stilson,Governor,,Rep,Brian Kemp ,1052,293,18,0,741
+Bulloch,Bay,Governor,,Rep,Brian Kemp ,855,223,23,1,608
+Bulloch,Nevils,Governor,,Rep,Brian Kemp ,644,214,19,0,411
+Bulloch,Sinkhole,Governor,,Rep,Brian Kemp ,253,57,7,0,189
+Bulloch,Register,Governor,,Rep,Brian Kemp ,336,127,10,1,198
+Bulloch,Lockhart,Governor,,Dem,Stacey Abrams,97,41,9,0,47
+Bulloch,Emit,Governor,,Dem,Stacey Abrams,521,281,62,0,178
+Bulloch,Statesboro,Governor,,Dem,Stacey Abrams,1418,853,120,0,445
+Bulloch,Portal,Governor,,Dem,Stacey Abrams,215,89,20,0,106
+Bulloch,Fair,Governor,,Dem,Stacey Abrams,1085,717,90,2,276
+Bulloch,Church,Governor,,Dem,Stacey Abrams,1370,812,149,2,407
+Bulloch,Pittman Park,Governor,,Dem,Stacey Abrams,868,444,50,1,373
+Bulloch,Leefield,Governor,,Dem,Stacey Abrams,76,18,12,0,46
+Bulloch,Blitch,Governor,,Dem,Stacey Abrams,319,198,36,0,85
+Bulloch,Hagin,Governor,,Dem,Stacey Abrams,427,218,54,2,153
+Bulloch,Brooklet,Governor,,Dem,Stacey Abrams,382,211,25,0,146
+Bulloch,Stilson,Governor,,Dem,Stacey Abrams,149,57,16,0,76
+Bulloch,Bay,Governor,,Dem,Stacey Abrams,119,45,13,1,60
+Bulloch,Nevils,Governor,,Dem,Stacey Abrams,107,47,11,0,49
+Bulloch,Sinkhole,Governor,,Dem,Stacey Abrams,40,15,7,1,17
+Bulloch,Register,Governor,,Dem,Stacey Abrams,159,76,16,0,67
+Bulloch,Lockhart,Governor,,Lib,Shane Hazel,0,0,0,0,0
+Bulloch,Emit,Governor,,Lib,Shane Hazel,13,6,0,0,7
+Bulloch,Statesboro,Governor,,Lib,Shane Hazel,23,13,1,0,9
+Bulloch,Portal,Governor,,Lib,Shane Hazel,7,1,0,0,6
+Bulloch,Fair,Governor,,Lib,Shane Hazel,18,5,2,0,11
+Bulloch,Church,Governor,,Lib,Shane Hazel,21,6,2,0,13
+Bulloch,Pittman Park,Governor,,Lib,Shane Hazel,22,9,0,0,13
+Bulloch,Leefield,Governor,,Lib,Shane Hazel,9,2,0,0,7
+Bulloch,Blitch,Governor,,Lib,Shane Hazel,9,6,0,0,3
+Bulloch,Hagin,Governor,,Lib,Shane Hazel,6,4,0,0,2
+Bulloch,Brooklet,Governor,,Lib,Shane Hazel,21,7,1,0,13
+Bulloch,Stilson,Governor,,Lib,Shane Hazel,8,2,0,0,6
+Bulloch,Bay,Governor,,Lib,Shane Hazel,7,1,0,0,6
+Bulloch,Nevils,Governor,,Lib,Shane Hazel,4,1,0,0,3
+Bulloch,Sinkhole,Governor,,Lib,Shane Hazel,2,0,0,0,2
+Bulloch,Register,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Bulloch,Lockhart,Lieutenant Governor,,Rep,Burt Jones,335,81,4,1,249
+Bulloch,Emit,Lieutenant Governor,,Rep,Burt Jones,1373,643,40,0,690
+Bulloch,Statesboro,Lieutenant Governor,,Rep,Burt Jones,1677,972,96,0,609
+Bulloch,Portal,Lieutenant Governor,,Rep,Burt Jones,707,223,15,1,468
+Bulloch,Fair,Lieutenant Governor,,Rep,Burt Jones,2147,1306,111,5,725
+Bulloch,Church,Lieutenant Governor,,Rep,Burt Jones,1480,873,74,3,530
+Bulloch,Pittman Park,Lieutenant Governor,,Rep,Burt Jones,620,316,29,2,273
+Bulloch,Leefield,Lieutenant Governor,,Rep,Burt Jones,523,119,11,1,392
+Bulloch,Blitch,Lieutenant Governor,,Rep,Burt Jones,1008,427,23,0,558
+Bulloch,Hagin,Lieutenant Governor,,Rep,Burt Jones,931,353,26,0,552
+Bulloch,Brooklet,Lieutenant Governor,,Rep,Burt Jones,1645,700,44,2,899
+Bulloch,Stilson,Lieutenant Governor,,Rep,Burt Jones,1016,286,16,0,714
+Bulloch,Bay,Lieutenant Governor,,Rep,Burt Jones,822,216,21,1,584
+Bulloch,Nevils,Lieutenant Governor,,Rep,Burt Jones,634,210,19,0,405
+Bulloch,Sinkhole,Lieutenant Governor,,Rep,Burt Jones,247,53,7,0,187
+Bulloch,Register,Lieutenant Governor,,Rep,Burt Jones,322,122,10,1,189
+Bulloch,Lockhart,Lieutenant Governor,,Dem,Charlie Bailey,93,40,10,0,43
+Bulloch,Emit,Lieutenant Governor,,Dem,Charlie Bailey,536,290,69,0,177
+Bulloch,Statesboro,Lieutenant Governor,,Dem,Charlie Bailey,1377,825,115,0,437
+Bulloch,Portal,Lieutenant Governor,,Dem,Charlie Bailey,200,83,19,0,98
+Bulloch,Fair,Lieutenant Governor,,Dem,Charlie Bailey,1098,720,94,2,282
+Bulloch,Church,Lieutenant Governor,,Dem,Charlie Bailey,1361,806,146,2,407
+Bulloch,Pittman Park,Lieutenant Governor,,Dem,Charlie Bailey,849,427,48,1,373
+Bulloch,Leefield,Lieutenant Governor,,Dem,Charlie Bailey,84,23,13,0,48
+Bulloch,Blitch,Lieutenant Governor,,Dem,Charlie Bailey,324,198,37,0,89
+Bulloch,Hagin,Lieutenant Governor,,Dem,Charlie Bailey,403,199,52,2,150
+Bulloch,Brooklet,Lieutenant Governor,,Dem,Charlie Bailey,401,220,31,0,150
+Bulloch,Stilson,Lieutenant Governor,,Dem,Charlie Bailey,158,60,18,0,80
+Bulloch,Bay,Lieutenant Governor,,Dem,Charlie Bailey,123,47,14,0,62
+Bulloch,Nevils,Lieutenant Governor,,Dem,Charlie Bailey,103,42,11,0,50
+Bulloch,Sinkhole,Lieutenant Governor,,Dem,Charlie Bailey,40,17,6,0,17
+Bulloch,Register,Lieutenant Governor,,Dem,Charlie Bailey,161,81,16,0,64
+Bulloch,Lockhart,Lieutenant Governor,,Lib,Ryan Graham,4,1,0,0,3
+Bulloch,Emit,Lieutenant Governor,,Lib,Ryan Graham,37,16,0,0,21
+Bulloch,Statesboro,Lieutenant Governor,,Lib,Ryan Graham,59,34,1,0,24
+Bulloch,Portal,Lieutenant Governor,,Lib,Ryan Graham,16,2,0,0,14
+Bulloch,Fair,Lieutenant Governor,,Lib,Ryan Graham,60,28,1,0,31
+Bulloch,Church,Lieutenant Governor,,Lib,Ryan Graham,69,27,3,0,39
+Bulloch,Pittman Park,Lieutenant Governor,,Lib,Ryan Graham,56,28,1,0,27
+Bulloch,Leefield,Lieutenant Governor,,Lib,Ryan Graham,11,0,2,0,9
+Bulloch,Blitch,Lieutenant Governor,,Lib,Ryan Graham,22,9,0,0,13
+Bulloch,Hagin,Lieutenant Governor,,Lib,Ryan Graham,26,12,0,0,14
+Bulloch,Brooklet,Lieutenant Governor,,Lib,Ryan Graham,45,15,1,0,29
+Bulloch,Stilson,Lieutenant Governor,,Lib,Ryan Graham,20,4,0,0,16
+Bulloch,Bay,Lieutenant Governor,,Lib,Ryan Graham,24,3,1,0,20
+Bulloch,Nevils,Lieutenant Governor,,Lib,Ryan Graham,13,4,0,0,9
+Bulloch,Sinkhole,Lieutenant Governor,,Lib,Ryan Graham,2,0,0,0,2
+Bulloch,Register,Lieutenant Governor,,Lib,Ryan Graham,9,1,0,0,8
+Bulloch,Lockhart,Secretary of State,,Rep,Brad Raffensperger ,334,82,6,1,245
+Bulloch,Emit,Secretary of State,,Rep,Brad Raffensperger ,1386,640,47,0,699
+Bulloch,Statesboro,Secretary of State,,Rep,Brad Raffensperger ,1751,1018,106,0,627
+Bulloch,Portal,Secretary of State,,Rep,Brad Raffensperger ,698,221,13,1,463
+Bulloch,Fair,Secretary of State,,Rep,Brad Raffensperger ,2208,1363,113,5,727
+Bulloch,Church,Secretary of State,,Rep,Brad Raffensperger ,1579,931,82,3,563
+Bulloch,Pittman Park,Secretary of State,,Rep,Brad Raffensperger ,676,347,36,2,291
+Bulloch,Leefield,Secretary of State,,Rep,Brad Raffensperger ,526,122,13,1,390
+Bulloch,Blitch,Secretary of State,,Rep,Brad Raffensperger ,1013,443,26,0,544
+Bulloch,Hagin,Secretary of State,,Rep,Brad Raffensperger ,908,344,25,0,539
+Bulloch,Brooklet,Secretary of State,,Rep,Brad Raffensperger ,1679,711,50,1,917
+Bulloch,Stilson,Secretary of State,,Rep,Brad Raffensperger ,1012,285,20,0,707
+Bulloch,Bay,Secretary of State,,Rep,Brad Raffensperger ,809,214,24,1,570
+Bulloch,Nevils,Secretary of State,,Rep,Brad Raffensperger ,615,206,19,0,390
+Bulloch,Sinkhole,Secretary of State,,Rep,Brad Raffensperger ,243,52,7,0,184
+Bulloch,Register,Secretary of State,,Rep,Brad Raffensperger ,332,128,11,1,192
+Bulloch,Lockhart,Secretary of State,,Dem,Bee Nguyen,93,39,8,0,46
+Bulloch,Emit,Secretary of State,,Dem,Bee Nguyen,493,266,61,0,166
+Bulloch,Statesboro,Secretary of State,,Dem,Bee Nguyen,1296,777,104,0,415
+Bulloch,Portal,Secretary of State,,Dem,Bee Nguyen,195,81,20,0,94
+Bulloch,Fair,Secretary of State,,Dem,Bee Nguyen,1009,651,88,2,268
+Bulloch,Church,Secretary of State,,Dem,Bee Nguyen,1250,727,142,1,380
+Bulloch,Pittman Park,Secretary of State,,Dem,Bee Nguyen,798,396,42,1,359
+Bulloch,Leefield,Secretary of State,,Dem,Bee Nguyen,77,17,13,0,47
+Bulloch,Blitch,Secretary of State,,Dem,Bee Nguyen,295,178,35,0,82
+Bulloch,Hagin,Secretary of State,,Dem,Bee Nguyen,396,199,51,2,144
+Bulloch,Brooklet,Secretary of State,,Dem,Bee Nguyen,350,199,24,0,127
+Bulloch,Stilson,Secretary of State,,Dem,Bee Nguyen,150,56,13,0,81
+Bulloch,Bay,Secretary of State,,Dem,Bee Nguyen,116,45,12,0,59
+Bulloch,Nevils,Secretary of State,,Dem,Bee Nguyen,98,42,9,0,47
+Bulloch,Sinkhole,Secretary of State,,Dem,Bee Nguyen,35,14,6,1,14
+Bulloch,Register,Secretary of State,,Dem,Bee Nguyen,146,72,14,0,60
+Bulloch,Lockhart,Secretary of State,,Lib,Ted Metz,5,0,0,0,5
+Bulloch,Emit,Secretary of State,,Lib,Ted Metz,64,40,1,0,23
+Bulloch,Statesboro,Secretary of State,,Lib,Ted Metz,67,42,0,0,25
+Bulloch,Portal,Secretary of State,,Lib,Ted Metz,29,7,1,0,21
+Bulloch,Fair,Secretary of State,,Lib,Ted Metz,90,45,4,0,41
+Bulloch,Church,Secretary of State,,Lib,Ted Metz,78,44,0,0,34
+Bulloch,Pittman Park,Secretary of State,,Lib,Ted Metz,55,27,2,0,26
+Bulloch,Leefield,Secretary of State,,Lib,Ted Metz,19,4,2,0,13
+Bulloch,Blitch,Secretary of State,,Lib,Ted Metz,38,12,0,0,26
+Bulloch,Hagin,Secretary of State,,Lib,Ted Metz,57,21,2,0,34
+Bulloch,Brooklet,Secretary of State,,Lib,Ted Metz,58,18,3,1,36
+Bulloch,Stilson,Secretary of State,,Lib,Ted Metz,37,10,0,0,27
+Bulloch,Bay,Secretary of State,,Lib,Ted Metz,45,8,0,0,37
+Bulloch,Nevils,Secretary of State,,Lib,Ted Metz,27,7,0,0,20
+Bulloch,Sinkhole,Secretary of State,,Lib,Ted Metz,10,2,0,0,8
+Bulloch,Register,Secretary of State,,Lib,Ted Metz,12,4,0,0,8
+Bulloch,Lockhart,Attorney General,,Rep,Chris Carr ,334,80,4,1,249
+Bulloch,Emit,Attorney General,,Rep,Chris Carr ,1393,653,42,0,698
+Bulloch,Statesboro,Attorney General,,Rep,Chris Carr ,1677,975,91,0,611
+Bulloch,Portal,Attorney General,,Rep,Chris Carr ,703,221,13,1,468
+Bulloch,Fair,Attorney General,,Rep,Chris Carr ,2142,1301,110,5,726
+Bulloch,Church,Attorney General,,Rep,Chris Carr ,1486,872,69,3,542
+Bulloch,Pittman Park,Attorney General,,Rep,Chris Carr ,637,322,31,2,282
+Bulloch,Leefield,Attorney General,,Rep,Chris Carr ,520,117,12,1,390
+Bulloch,Blitch,Attorney General,,Rep,Chris Carr ,1014,429,22,0,563
+Bulloch,Hagin,Attorney General,,Rep,Chris Carr ,935,354,28,0,553
+Bulloch,Brooklet,Attorney General,,Rep,Chris Carr ,1671,705,45,2,919
+Bulloch,Stilson,Attorney General,,Rep,Chris Carr ,1021,287,15,0,719
+Bulloch,Bay,Attorney General,,Rep,Chris Carr ,830,216,23,1,590
+Bulloch,Nevils,Attorney General,,Rep,Chris Carr ,635,214,17,0,404
+Bulloch,Sinkhole,Attorney General,,Rep,Chris Carr ,245,53,7,0,185
+Bulloch,Register,Attorney General,,Rep,Chris Carr ,326,124,10,1,191
+Bulloch,Lockhart,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",98,41,9,0,48
+Bulloch,Emit,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",536,290,68,0,178
+Bulloch,Statesboro,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1399,838,117,0,444
+Bulloch,Portal,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",212,87,20,0,105
+Bulloch,Fair,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1139,746,99,2,292
+Bulloch,Church,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1361,810,150,2,399
+Bulloch,Pittman Park,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",849,429,48,1,371
+Bulloch,Leefield,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",89,25,14,0,50
+Bulloch,Blitch,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",329,201,38,0,90
+Bulloch,Hagin,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",412,202,51,2,157
+Bulloch,Brooklet,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",395,222,29,0,144
+Bulloch,Stilson,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",165,63,18,0,84
+Bulloch,Bay,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",130,50,13,0,67
+Bulloch,Nevils,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",108,44,11,0,53
+Bulloch,Sinkhole,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",42,17,6,1,18
+Bulloch,Register,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",159,78,16,0,65
+Bulloch,Lockhart,Attorney General,,Lib,Martin Cowen,1,1,0,0,0
+Bulloch,Emit,Attorney General,,Lib,Martin Cowen,15,4,0,0,11
+Bulloch,Statesboro,Attorney General,,Lib,Martin Cowen,43,24,0,0,19
+Bulloch,Portal,Attorney General,,Lib,Martin Cowen,14,3,0,0,11
+Bulloch,Fair,Attorney General,,Lib,Martin Cowen,44,23,1,0,20
+Bulloch,Church,Attorney General,,Lib,Martin Cowen,64,22,5,0,37
+Bulloch,Pittman Park,Attorney General,,Lib,Martin Cowen,41,21,0,0,20
+Bulloch,Leefield,Attorney General,,Lib,Martin Cowen,11,1,1,0,9
+Bulloch,Blitch,Attorney General,,Lib,Martin Cowen,12,2,0,0,10
+Bulloch,Hagin,Attorney General,,Lib,Martin Cowen,20,11,0,0,9
+Bulloch,Brooklet,Attorney General,,Lib,Martin Cowen,29,7,1,0,21
+Bulloch,Stilson,Attorney General,,Lib,Martin Cowen,15,2,0,0,13
+Bulloch,Bay,Attorney General,,Lib,Martin Cowen,16,3,0,0,13
+Bulloch,Nevils,Attorney General,,Lib,Martin Cowen,6,1,0,0,5
+Bulloch,Sinkhole,Attorney General,,Lib,Martin Cowen,2,0,0,0,2
+Bulloch,Register,Attorney General,,Lib,Martin Cowen,6,1,0,0,5
+Bulloch,Lockhart,Commissioner of Agriculture,,Rep,Tyler Harper,334,79,4,1,250
+Bulloch,Emit,Commissioner of Agriculture,,Rep,Tyler Harper,1410,666,45,0,699
+Bulloch,Statesboro,Commissioner of Agriculture,,Rep,Tyler Harper,1702,981,98,0,623
+Bulloch,Portal,Commissioner of Agriculture,,Rep,Tyler Harper,718,227,13,1,477
+Bulloch,Fair,Commissioner of Agriculture,,Rep,Tyler Harper,2229,1354,115,5,755
+Bulloch,Church,Commissioner of Agriculture,,Rep,Tyler Harper,1519,886,74,3,556
+Bulloch,Pittman Park,Commissioner of Agriculture,,Rep,Tyler Harper,654,330,29,2,293
+Bulloch,Leefield,Commissioner of Agriculture,,Rep,Tyler Harper,535,122,14,1,398
+Bulloch,Blitch,Commissioner of Agriculture,,Rep,Tyler Harper,1029,438,25,0,566
+Bulloch,Hagin,Commissioner of Agriculture,,Rep,Tyler Harper,936,353,27,0,556
+Bulloch,Brooklet,Commissioner of Agriculture,,Rep,Tyler Harper,1681,712,48,2,919
+Bulloch,Stilson,Commissioner of Agriculture,,Rep,Tyler Harper,1031,289,18,0,724
+Bulloch,Bay,Commissioner of Agriculture,,Rep,Tyler Harper,830,216,23,1,590
+Bulloch,Nevils,Commissioner of Agriculture,,Rep,Tyler Harper,636,210,19,0,407
+Bulloch,Sinkhole,Commissioner of Agriculture,,Rep,Tyler Harper,248,54,8,0,186
+Bulloch,Register,Commissioner of Agriculture,,Rep,Tyler Harper,333,126,10,1,196
+Bulloch,Lockhart,Commissioner of Agriculture,,Dem,Nakita Hemingway,94,39,10,0,45
+Bulloch,Emit,Commissioner of Agriculture,,Dem,Nakita Hemingway,496,272,60,0,164
+Bulloch,Statesboro,Commissioner of Agriculture,,Dem,Nakita Hemingway,1342,813,106,0,423
+Bulloch,Portal,Commissioner of Agriculture,,Dem,Nakita Hemingway,197,81,19,0,97
+Bulloch,Fair,Commissioner of Agriculture,,Dem,Nakita Hemingway,1029,687,87,2,253
+Bulloch,Church,Commissioner of Agriculture,,Dem,Nakita Hemingway,1316,778,141,2,395
+Bulloch,Pittman Park,Commissioner of Agriculture,,Dem,Nakita Hemingway,816,412,49,1,354
+Bulloch,Leefield,Commissioner of Agriculture,,Dem,Nakita Hemingway,75,21,12,0,42
+Bulloch,Blitch,Commissioner of Agriculture,,Dem,Nakita Hemingway,305,190,35,0,80
+Bulloch,Hagin,Commissioner of Agriculture,,Dem,Nakita Hemingway,400,204,50,2,144
+Bulloch,Brooklet,Commissioner of Agriculture,,Dem,Nakita Hemingway,373,212,25,0,136
+Bulloch,Stilson,Commissioner of Agriculture,,Dem,Nakita Hemingway,143,58,16,0,69
+Bulloch,Bay,Commissioner of Agriculture,,Dem,Nakita Hemingway,118,45,10,0,63
+Bulloch,Nevils,Commissioner of Agriculture,,Dem,Nakita Hemingway,100,45,11,0,44
+Bulloch,Sinkhole,Commissioner of Agriculture,,Dem,Nakita Hemingway,40,16,5,1,18
+Bulloch,Register,Commissioner of Agriculture,,Dem,Nakita Hemingway,151,74,15,0,62
+Bulloch,Lockhart,Commissioner of Agriculture,,Lib,David Raudabaugh,3,1,0,0,2
+Bulloch,Emit,Commissioner of Agriculture,,Lib,David Raudabaugh,36,12,2,0,22
+Bulloch,Statesboro,Commissioner of Agriculture,,Lib,David Raudabaugh,57,29,3,0,25
+Bulloch,Portal,Commissioner of Agriculture,,Lib,David Raudabaugh,13,2,1,0,10
+Bulloch,Fair,Commissioner of Agriculture,,Lib,David Raudabaugh,53,23,2,0,28
+Bulloch,Church,Commissioner of Agriculture,,Lib,David Raudabaugh,64,33,5,0,26
+Bulloch,Pittman Park,Commissioner of Agriculture,,Lib,David Raudabaugh,51,26,0,0,25
+Bulloch,Leefield,Commissioner of Agriculture,,Lib,David Raudabaugh,10,0,1,0,9
+Bulloch,Blitch,Commissioner of Agriculture,,Lib,David Raudabaugh,22,7,0,0,15
+Bulloch,Hagin,Commissioner of Agriculture,,Lib,David Raudabaugh,31,12,2,0,17
+Bulloch,Brooklet,Commissioner of Agriculture,,Lib,David Raudabaugh,37,10,2,0,25
+Bulloch,Stilson,Commissioner of Agriculture,,Lib,David Raudabaugh,27,5,0,0,22
+Bulloch,Bay,Commissioner of Agriculture,,Lib,David Raudabaugh,23,4,3,0,16
+Bulloch,Nevils,Commissioner of Agriculture,,Lib,David Raudabaugh,17,5,0,0,12
+Bulloch,Sinkhole,Commissioner of Agriculture,,Lib,David Raudabaugh,3,0,0,0,3
+Bulloch,Register,Commissioner of Agriculture,,Lib,David Raudabaugh,9,2,1,0,6
+Bulloch,Lockhart,Commissioner of Insurance,,Rep,John King ,335,81,4,1,249
+Bulloch,Emit,Commissioner of Insurance,,Rep,John King ,1417,662,40,0,715
+Bulloch,Statesboro,Commissioner of Insurance,,Rep,John King ,1721,990,97,0,634
+Bulloch,Portal,Commissioner of Insurance,,Rep,John King ,714,225,13,1,475
+Bulloch,Fair,Commissioner of Insurance,,Rep,John King ,2234,1352,111,5,766
+Bulloch,Church,Commissioner of Insurance,,Rep,John King ,1556,908,74,3,571
+Bulloch,Pittman Park,Commissioner of Insurance,,Rep,John King ,664,332,30,2,300
+Bulloch,Leefield,Commissioner of Insurance,,Rep,John King ,535,121,12,1,401
+Bulloch,Blitch,Commissioner of Insurance,,Rep,John King ,1032,438,23,0,571
+Bulloch,Hagin,Commissioner of Insurance,,Rep,John King ,953,363,26,0,564
+Bulloch,Brooklet,Commissioner of Insurance,,Rep,John King ,1696,715,49,2,930
+Bulloch,Stilson,Commissioner of Insurance,,Rep,John King ,1037,289,18,0,730
+Bulloch,Bay,Commissioner of Insurance,,Rep,John King ,840,220,25,1,594
+Bulloch,Nevils,Commissioner of Insurance,,Rep,John King ,647,215,19,0,413
+Bulloch,Sinkhole,Commissioner of Insurance,,Rep,John King ,250,55,8,0,187
+Bulloch,Register,Commissioner of Insurance,,Rep,John King ,330,126,10,1,193
+Bulloch,Lockhart,Commissioner of Insurance,,Dem,Janice Laws Robinson,96,38,10,0,48
+Bulloch,Emit,Commissioner of Insurance,,Dem,Janice Laws Robinson,516,285,65,0,166
+Bulloch,Statesboro,Commissioner of Insurance,,Dem,Janice Laws Robinson,1375,831,109,0,435
+Bulloch,Portal,Commissioner of Insurance,,Dem,Janice Laws Robinson,207,84,19,0,104
+Bulloch,Fair,Commissioner of Insurance,,Dem,Janice Laws Robinson,1065,705,92,2,266
+Bulloch,Church,Commissioner of Insurance,,Dem,Janice Laws Robinson,1345,789,147,1,408
+Bulloch,Pittman Park,Commissioner of Insurance,,Dem,Janice Laws Robinson,854,437,47,1,369
+Bulloch,Leefield,Commissioner of Insurance,,Dem,Janice Laws Robinson,82,21,12,0,49
+Bulloch,Blitch,Commissioner of Insurance,,Dem,Janice Laws Robinson,320,195,36,0,89
+Bulloch,Hagin,Commissioner of Insurance,,Dem,Janice Laws Robinson,415,205,53,2,155
+Bulloch,Brooklet,Commissioner of Insurance,,Dem,Janice Laws Robinson,392,218,27,0,147
+Bulloch,Stilson,Commissioner of Insurance,,Dem,Janice Laws Robinson,163,62,16,0,85
+Bulloch,Bay,Commissioner of Insurance,,Dem,Janice Laws Robinson,128,49,11,0,68
+Bulloch,Nevils,Commissioner of Insurance,,Dem,Janice Laws Robinson,103,43,11,0,49
+Bulloch,Sinkhole,Commissioner of Insurance,,Dem,Janice Laws Robinson,38,15,4,1,18
+Bulloch,Register,Commissioner of Insurance,,Dem,Janice Laws Robinson,161,77,15,0,69
+Bulloch,Lockhart,State School Superintendent,,Rep,Richard Woods ,334,78,4,1,251
+Bulloch,Emit,State School Superintendent,,Rep,Richard Woods ,1421,667,47,0,707
+Bulloch,Statesboro,State School Superintendent,,Rep,Richard Woods ,1721,992,96,0,633
+Bulloch,Portal,State School Superintendent,,Rep,Richard Woods ,722,229,14,1,478
+Bulloch,Fair,State School Superintendent,,Rep,Richard Woods ,2243,1359,113,5,766
+Bulloch,Church,State School Superintendent,,Rep,Richard Woods ,1544,903,75,3,563
+Bulloch,Pittman Park,State School Superintendent,,Rep,Richard Woods ,675,340,31,2,302
+Bulloch,Leefield,State School Superintendent,,Rep,Richard Woods ,540,125,13,1,401
+Bulloch,Blitch,State School Superintendent,,Rep,Richard Woods ,1039,445,24,0,570
+Bulloch,Hagin,State School Superintendent,,Rep,Richard Woods ,953,361,28,0,564
+Bulloch,Brooklet,State School Superintendent,,Rep,Richard Woods ,1698,713,48,2,935
+Bulloch,Stilson,State School Superintendent,,Rep,Richard Woods ,1048,296,17,0,735
+Bulloch,Bay,State School Superintendent,,Rep,Richard Woods ,846,222,24,1,599
+Bulloch,Nevils,State School Superintendent,,Rep,Richard Woods ,649,216,19,0,414
+Bulloch,Sinkhole,State School Superintendent,,Rep,Richard Woods ,249,54,8,0,187
+Bulloch,Register,State School Superintendent,,Rep,Richard Woods ,328,121,10,1,196
+Bulloch,Lockhart,State School Superintendent,,Dem,Alisha Thomas Searcy,99,42,10,0,47
+Bulloch,Emit,State School Superintendent,,Dem,Alisha Thomas Searcy,523,285,60,0,178
+Bulloch,Statesboro,State School Superintendent,,Dem,Alisha Thomas Searcy,1384,831,115,0,438
+Bulloch,Portal,State School Superintendent,,Dem,Alisha Thomas Searcy,204,82,19,0,103
+Bulloch,Fair,State School Superintendent,,Dem,Alisha Thomas Searcy,1066,702,92,2,270
+Bulloch,Church,State School Superintendent,,Dem,Alisha Thomas Searcy,1358,797,144,2,415
+Bulloch,Pittman Park,State School Superintendent,,Dem,Alisha Thomas Searcy,842,425,46,1,370
+Bulloch,Leefield,State School Superintendent,,Dem,Alisha Thomas Searcy,79,17,13,0,49
+Bulloch,Blitch,State School Superintendent,,Dem,Alisha Thomas Searcy,312,190,36,0,86
+Bulloch,Hagin,State School Superintendent,,Dem,Alisha Thomas Searcy,417,208,51,2,156
+Bulloch,Brooklet,State School Superintendent,,Dem,Alisha Thomas Searcy,393,220,27,0,146
+Bulloch,Stilson,State School Superintendent,,Dem,Alisha Thomas Searcy,155,55,17,0,83
+Bulloch,Bay,State School Superintendent,,Dem,Alisha Thomas Searcy,125,46,11,0,68
+Bulloch,Nevils,State School Superintendent,,Dem,Alisha Thomas Searcy,102,43,11,0,48
+Bulloch,Sinkhole,State School Superintendent,,Dem,Alisha Thomas Searcy,40,16,5,1,18
+Bulloch,Register,State School Superintendent,,Dem,Alisha Thomas Searcy,164,81,16,0,67
+Bulloch,Lockhart,Commissioner of Labor,,Rep,Bruce Thompson,334,78,4,1,251
+Bulloch,Emit,Commissioner of Labor,,Rep,Bruce Thompson,1397,659,44,0,694
+Bulloch,Statesboro,Commissioner of Labor,,Rep,Bruce Thompson,1676,971,94,0,611
+Bulloch,Portal,Commissioner of Labor,,Rep,Bruce Thompson,702,219,14,1,468
+Bulloch,Fair,Commissioner of Labor,,Rep,Bruce Thompson,2180,1324,111,5,740
+Bulloch,Church,Commissioner of Labor,,Rep,Bruce Thompson,1485,864,72,3,546
+Bulloch,Pittman Park,Commissioner of Labor,,Rep,Bruce Thompson,621,316,30,2,273
+Bulloch,Leefield,Commissioner of Labor,,Rep,Bruce Thompson,522,121,12,1,388
+Bulloch,Blitch,Commissioner of Labor,,Rep,Bruce Thompson,1011,426,22,0,563
+Bulloch,Hagin,Commissioner of Labor,,Rep,Bruce Thompson,921,351,26,0,544
+Bulloch,Brooklet,Commissioner of Labor,,Rep,Bruce Thompson,1651,701,45,2,903
+Bulloch,Stilson,Commissioner of Labor,,Rep,Bruce Thompson,1017,285,18,0,714
+Bulloch,Bay,Commissioner of Labor,,Rep,Bruce Thompson,820,216,19,1,584
+Bulloch,Nevils,Commissioner of Labor,,Rep,Bruce Thompson,636,212,18,0,406
+Bulloch,Sinkhole,Commissioner of Labor,,Rep,Bruce Thompson,245,53,7,0,185
+Bulloch,Register,Commissioner of Labor,,Rep,Bruce Thompson,326,122,10,1,193
+Bulloch,Lockhart,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",92,39,9,0,44
+Bulloch,Emit,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",515,281,62,0,172
+Bulloch,Statesboro,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1359,817,114,0,428
+Bulloch,Portal,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",211,91,19,0,101
+Bulloch,Fair,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1053,706,89,2,256
+Bulloch,Church,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1327,789,142,2,394
+Bulloch,Pittman Park,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",835,421,46,1,367
+Bulloch,Leefield,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",84,21,13,0,50
+Bulloch,Blitch,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",311,192,35,0,84
+Bulloch,Hagin,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",409,203,50,2,154
+Bulloch,Brooklet,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",390,220,28,0,142
+Bulloch,Stilson,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",151,58,16,0,77
+Bulloch,Bay,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",128,49,15,0,64
+Bulloch,Nevils,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",104,45,12,0,47
+Bulloch,Sinkhole,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",40,17,5,1,17
+Bulloch,Register,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",152,77,14,0,61
+Bulloch,Lockhart,Commissioner of Labor,,Lib,Emily Anderson,4,2,0,0,2
+Bulloch,Emit,Commissioner of Labor,,Lib,Emily Anderson,32,10,1,0,21
+Bulloch,Statesboro,Commissioner of Labor,,Lib,Emily Anderson,67,35,1,0,31
+Bulloch,Portal,Commissioner of Labor,,Lib,Emily Anderson,14,2,0,0,12
+Bulloch,Fair,Commissioner of Labor,,Lib,Emily Anderson,73,33,3,0,37
+Bulloch,Church,Commissioner of Labor,,Lib,Emily Anderson,85,44,6,0,35
+Bulloch,Pittman Park,Commissioner of Labor,,Lib,Emily Anderson,62,30,1,0,31
+Bulloch,Leefield,Commissioner of Labor,,Lib,Emily Anderson,14,1,1,0,12
+Bulloch,Blitch,Commissioner of Labor,,Lib,Emily Anderson,26,12,1,0,13
+Bulloch,Hagin,Commissioner of Labor,,Lib,Emily Anderson,32,13,2,0,17
+Bulloch,Brooklet,Commissioner of Labor,,Lib,Emily Anderson,49,14,2,0,33
+Bulloch,Stilson,Commissioner of Labor,,Lib,Emily Anderson,34,9,0,0,25
+Bulloch,Bay,Commissioner of Labor,,Lib,Emily Anderson,22,3,1,0,18
+Bulloch,Nevils,Commissioner of Labor,,Lib,Emily Anderson,12,3,0,0,9
+Bulloch,Sinkhole,Commissioner of Labor,,Lib,Emily Anderson,5,0,0,0,5
+Bulloch,Register,Commissioner of Labor,,Lib,Emily Anderson,10,4,0,0,6
+Bulloch,Lockhart,U.S. House,,Rep,Rick W. Allen ,339,80,4,1,254
+Bulloch,Emit,U.S. House,,Rep,Rick W. Allen ,1403,654,42,0,707
+Bulloch,Statesboro,U.S. House,,Rep,Rick W. Allen ,1733,1000,96,0,637
+Bulloch,Portal,U.S. House,,Rep,Rick W. Allen ,721,226,15,1,479
+Bulloch,Fair,U.S. House,,Rep,Rick W. Allen ,2198,1329,108,5,756
+Bulloch,Church,U.S. House,,Rep,Rick W. Allen ,1523,884,77,3,559
+Bulloch,Pittman Park,U.S. House,,Rep,Rick W. Allen ,656,334,32,2,288
+Bulloch,Leefield,U.S. House,,Rep,Rick W. Allen ,531,120,12,1,398
+Bulloch,Blitch,U.S. House,,Rep,Rick W. Allen ,1025,431,23,0,571
+Bulloch,Hagin,U.S. House,,Rep,Rick W. Allen ,944,360,28,0,556
+Bulloch,Brooklet,U.S. House,,Rep,Rick W. Allen ,1688,711,46,2,929
+Bulloch,Stilson,U.S. House,,Rep,Rick W. Allen ,1040,287,18,0,735
+Bulloch,Bay,U.S. House,,Rep,Rick W. Allen ,838,217,23,1,597
+Bulloch,Nevils,U.S. House,,Rep,Rick W. Allen ,647,216,19,0,412
+Bulloch,Sinkhole,U.S. House,,Rep,Rick W. Allen ,251,55,7,0,189
+Bulloch,Register,U.S. House,,Rep,Rick W. Allen ,333,127,10,1,195
+Bulloch,Lockhart,U.S. House,,Dem,Elizabeth 'Liz' Johnson,97,41,10,0,46
+Bulloch,Emit,U.S. House,,Dem,Elizabeth 'Liz' Johnson,541,292,65,0,184
+Bulloch,Statesboro,U.S. House,,Dem,Elizabeth 'Liz' Johnson,1399,842,114,0,443
+Bulloch,Portal,U.S. House,,Dem,Elizabeth 'Liz' Johnson,210,88,18,0,104
+Bulloch,Fair,U.S. House,,Dem,Elizabeth 'Liz' Johnson,1124,742,99,2,281
+Bulloch,Church,U.S. House,,Dem,Elizabeth 'Liz' Johnson,1397,824,147,2,424
+Bulloch,Pittman Park,U.S. House,,Dem,Elizabeth 'Liz' Johnson,873,440,48,1,384
+Bulloch,Leefield,U.S. House,,Dem,Elizabeth 'Liz' Johnson,91,22,15,0,54
+Bulloch,Blitch,U.S. House,,Dem,Elizabeth 'Liz' Johnson,333,206,38,0,89
+Bulloch,Hagin,U.S. House,,Dem,Elizabeth 'Liz' Johnson,426,209,51,2,164
+Bulloch,Brooklet,U.S. House,,Dem,Elizabeth 'Liz' Johnson,412,228,30,0,154
+Bulloch,Stilson,U.S. House,,Dem,Elizabeth 'Liz' Johnson,164,63,16,0,85
+Bulloch,Bay,U.S. House,,Dem,Elizabeth 'Liz' Johnson,134,50,13,0,71
+Bulloch,Nevils,U.S. House,,Dem,Elizabeth 'Liz' Johnson,107,44,11,0,52
+Bulloch,Sinkhole,U.S. House,,Dem,Elizabeth 'Liz' Johnson,39,15,6,1,17
+Bulloch,Register,U.S. House,,Dem,Elizabeth 'Liz' Johnson,161,77,16,0,68
+Bulloch,Lockhart,State Senate,,Rep,Billy Hickman ,377,102,6,1,268
+Bulloch,Emit,State Senate,,Rep,Billy Hickman ,1650,797,57,0,796
+Bulloch,Statesboro,State Senate,,Rep,Billy Hickman ,2389,1367,146,0,876
+Bulloch,Portal,State Senate,,Rep,Billy Hickman ,822,271,21,1,529
+Bulloch,Fair,State Senate,,Rep,Billy Hickman ,2686,1644,135,6,901
+Bulloch,Church,State Senate,,Rep,Billy Hickman ,2174,1263,117,3,791
+Bulloch,Pittman Park,State Senate,,Rep,Billy Hickman ,1114,550,43,3,518
+Bulloch,Leefield,State Senate,,Rep,Billy Hickman ,577,136,11,1,429
+Bulloch,Blitch,State Senate,,Rep,Billy Hickman ,1166,519,32,0,615
+Bulloch,Hagin,State Senate,,Rep,Billy Hickman ,1131,438,40,1,652
+Bulloch,Brooklet,State Senate,,Rep,Billy Hickman ,1853,800,51,1,1001
+Bulloch,Stilson,State Senate,,Rep,Billy Hickman ,1111,315,25,0,771
+Bulloch,Bay,State Senate,,Rep,Billy Hickman ,907,242,27,1,637
+Bulloch,Nevils,State Senate,,Rep,Billy Hickman ,690,231,19,0,440
+Bulloch,Sinkhole,State Senate,,Rep,Billy Hickman ,268,64,10,0,194
+Bulloch,Register,State Senate,,Rep,Billy Hickman ,394,149,13,1,231
+Bulloch,Statesboro,State House,,Rep,Butch Parrish ,1738,1010,96,0,632
+Bulloch,Portal,State House,,Rep,Butch Parrish ,710,226,13,1,470
+Bulloch,Church,State House,,Rep,Butch Parrish ,916,553,42,0,321
+Bulloch,Sinkhole,State House,,Rep,Butch Parrish ,249,54,7,0,188
+Bulloch,Register,State House,,Rep,Butch Parrish ,332,125,10,1,196
+Bulloch,Statesboro,State House,,Dem,Madeline Ryan Smith,1371,821,114,0,436
+Bulloch,Portal,State House,,Dem,Madeline Ryan Smith,213,86,20,0,107
+Bulloch,Church,State House,,Dem,Madeline Ryan Smith,478,302,48,0,128
+Bulloch,Sinkhole,State House,,Dem,Madeline Ryan Smith,39,16,6,1,16
+Bulloch,Register,State House,,Dem,Madeline Ryan Smith,160,78,16,0,66
+Bulloch,Lockhart,State House,,Rep,Jon G. Burns ,367,96,8,0,263
+Bulloch,Church,State House,,Rep,Jon G. Burns ,1038,571,59,0,408
+Bulloch,Blitch,State House,,Rep,Jon G. Burns ,1171,523,31,0,617
+Bulloch,Hagin,State House,,Rep,Jon G. Burns ,1113,434,39,0,640
+Bulloch,Emit,State House,,Rep,Lehman Franklin,1650,796,55,0,799
+Bulloch,Statesboro,State House,,Rep,Lehman Franklin,0,0,0,0,0
+Bulloch,Fair,State House,,Rep,Lehman Franklin,2693,1646,140,2,905
+Bulloch,Pittman Park,State House,,Rep,Lehman Franklin,1109,546,40,1,522
+Bulloch,Leefield,State House,,Rep,Lehman Franklin,580,136,12,1,431
+Bulloch,Hagin,State House,,Rep,Lehman Franklin,17,7,2,0,8
+Bulloch,Brooklet,State House,,Rep,Lehman Franklin,1850,794,50,0,1006
+Bulloch,Stilson,State House,,Rep,Lehman Franklin,1106,317,25,0,764
+Bulloch,Bay,State House,,Rep,Lehman Franklin,910,244,28,1,637
+Bulloch,Nevils,State House,,Rep,Lehman Franklin,689,230,19,0,440
+Bulloch,Register,State House,,Rep,Lehman Franklin,0,0,0,0,0
+Bulloch,Lockhart,County Commissioner,,Rep,Preston Tutt,84,16,3,0,65
+Bulloch,Statesboro,County Commissioner,,Rep,Preston Tutt,571,307,35,0,229
+Bulloch,Portal,County Commissioner,,Rep,Preston Tutt,594,185,9,0,400
+Bulloch,Fair,County Commissioner,,Rep,Preston Tutt,7,4,0,1,2
+Bulloch,Church,County Commissioner,,Rep,Preston Tutt,391,207,31,0,153
+Bulloch,Pittman Park,County Commissioner,,Rep,Preston Tutt,60,22,0,1,37
+Bulloch,Blitch,County Commissioner,,Rep,Preston Tutt,2,1,0,0,1
+Bulloch,Hagin,County Commissioner,,Rep,Preston Tutt,89,36,3,0,50
+Bulloch,Sinkhole,County Commissioner,,Rep,Preston Tutt,0,0,0,0,0
+Bulloch,Register,County Commissioner,,Rep,Preston Tutt,136,50,6,0,80
+Bulloch,Lockhart,County Commissioner,,Dem,Anthony D. Simmons ,65,31,5,0,29
+Bulloch,Statesboro,County Commissioner,,Dem,Anthony D. Simmons ,1087,632,91,0,364
+Bulloch,Portal,County Commissioner,,Dem,Anthony D. Simmons ,212,86,21,1,104
+Bulloch,Fair,County Commissioner,,Dem,Anthony D. Simmons ,56,31,2,0,23
+Bulloch,Church,County Commissioner,,Dem,Anthony D. Simmons ,811,454,81,0,276
+Bulloch,Pittman Park,County Commissioner,,Dem,Anthony D. Simmons ,235,102,11,0,122
+Bulloch,Blitch,County Commissioner,,Dem,Anthony D. Simmons ,0,0,0,0,0
+Bulloch,Hagin,County Commissioner,,Dem,Anthony D. Simmons ,118,61,13,1,43
+Bulloch,Sinkhole,County Commissioner,,Dem,Anthony D. Simmons ,8,2,2,0,4
+Bulloch,Register,County Commissioner,,Dem,Anthony D. Simmons ,99,43,8,0,48
+Bulloch,Lockhart,County Commissioner,,Rep,Toby Conner,247,62,1,0,184
+Bulloch,Emit,County Commissioner,,Rep,Toby Conner,1390,649,41,0,700
+Bulloch,Statesboro,County Commissioner,,Rep,Toby Conner,1114,667,52,0,395
+Bulloch,Portal,County Commissioner,,Rep,Toby Conner,110,35,3,0,72
+Bulloch,Fair,County Commissioner,,Rep,Toby Conner,2160,1304,111,3,742
+Bulloch,Church,County Commissioner,,Rep,Toby Conner,1101,665,43,1,392
+Bulloch,Pittman Park,County Commissioner,,Rep,Toby Conner,585,302,28,1,254
+Bulloch,Leefield,County Commissioner,,Rep,Toby Conner,545,121,14,1,409
+Bulloch,Blitch,County Commissioner,,Rep,Toby Conner,1031,430,23,0,578
+Bulloch,Hagin,County Commissioner,,Rep,Toby Conner,861,325,24,0,512
+Bulloch,Brooklet,County Commissioner,,Rep,Toby Conner,1682,707,51,2,922
+Bulloch,Stilson,County Commissioner,,Rep,Toby Conner,1067,299,20,0,748
+Bulloch,Bay,County Commissioner,,Rep,Toby Conner,839,218,21,1,599
+Bulloch,Nevils,County Commissioner,,Rep,Toby Conner,637,211,18,0,408
+Bulloch,Sinkhole,County Commissioner,,Rep,Toby Conner,247,54,7,0,186
+Bulloch,Register,County Commissioner,,Rep,Toby Conner,186,71,4,0,111
+Bulloch,Lockhart,County Commissioner,,Dem,Jake Hallman,27,9,1,0,17
+Bulloch,Emit,County Commissioner,,Dem,Jake Hallman,546,295,67,0,184
+Bulloch,Statesboro,County Commissioner,,Dem,Jake Hallman,325,220,29,0,76
+Bulloch,Portal,County Commissioner,,Dem,Jake Hallman,10,5,0,0,5
+Bulloch,Fair,County Commissioner,,Dem,Jake Hallman,1054,711,87,0,256
+Bulloch,Church,County Commissioner,,Dem,Jake Hallman,579,361,64,1,153
+Bulloch,Pittman Park,County Commissioner,,Dem,Jake Hallman,632,340,35,0,257
+Bulloch,Leefield,County Commissioner,,Dem,Jake Hallman,81,22,13,0,46
+Bulloch,Blitch,County Commissioner,,Dem,Jake Hallman,317,200,37,0,80
+Bulloch,Hagin,County Commissioner,,Dem,Jake Hallman,294,142,37,1,114
+Bulloch,Brooklet,County Commissioner,,Dem,Jake Hallman,406,223,25,0,158
+Bulloch,Stilson,County Commissioner,,Dem,Jake Hallman,135,53,15,0,67
+Bulloch,Bay,County Commissioner,,Dem,Jake Hallman,130,48,14,0,68
+Bulloch,Nevils,County Commissioner,,Dem,Jake Hallman,111,49,10,0,52
+Bulloch,Sinkhole,County Commissioner,,Dem,Jake Hallman,35,15,4,1,15
+Bulloch,Register,County Commissioner,,Dem,Jake Hallman,63,34,8,0,21
+Bulloch,Lockhart,County Commissioner,,Rep,Timmy Rushing ,260,67,1,1,191
+Bulloch,Emit,County Commissioner,,Rep,Timmy Rushing ,1657,798,57,0,802
+Bulloch,Statesboro,County Commissioner,,Rep,Timmy Rushing ,1282,777,68,0,437
+Bulloch,Portal,County Commissioner,,Rep,Timmy Rushing ,116,39,3,0,74
+Bulloch,Fair,County Commissioner,,Rep,Timmy Rushing ,2683,1636,140,3,904
+Bulloch,Church,County Commissioner,,Rep,Timmy Rushing ,1393,849,60,1,483
+Bulloch,Pittman Park,County Commissioner,,Rep,Timmy Rushing ,912,455,38,2,417
+Bulloch,Leefield,County Commissioner,,Rep,Timmy Rushing ,573,132,12,1,428
+Bulloch,Blitch,County Commissioner,,Rep,Timmy Rushing ,1173,525,32,0,616
+Bulloch,Hagin,County Commissioner,,Rep,Timmy Rushing ,979,374,30,1,574
+Bulloch,Brooklet,County Commissioner,,Rep,Timmy Rushing ,1860,798,52,1,1009
+Bulloch,Stilson,County Commissioner,,Rep,Timmy Rushing ,1103,315,23,0,765
+Bulloch,Bay,County Commissioner,,Rep,Timmy Rushing ,905,242,28,1,634
+Bulloch,Nevils,County Commissioner,,Rep,Timmy Rushing ,688,234,18,0,436
+Bulloch,Sinkhole,County Commissioner,,Rep,Timmy Rushing ,260,63,7,1,189
+Bulloch,Register,County Commissioner,,Rep,Timmy Rushing ,214,85,6,0,123
+Bulloch,Lockhart,Soil and Water,,,"Emmett Renfroe, Jr.",365,91,8,0,266
+Bulloch,Emit,Soil and Water,,,"Emmett Renfroe, Jr.",1679,816,65,0,798
+Bulloch,Statesboro,Soil and Water,,,"Emmett Renfroe, Jr.",2572,1471,167,0,934
+Bulloch,Portal,Soil and Water,,,"Emmett Renfroe, Jr.",808,283,25,0,500
+Bulloch,Fair,Soil and Water,,,"Emmett Renfroe, Jr.",2772,1705,151,5,911
+Bulloch,Church,Soil and Water,,,"Emmett Renfroe, Jr.",2359,1371,142,3,843
+Bulloch,Pittman Park,Soil and Water,,,"Emmett Renfroe, Jr.",1272,625,50,3,594
+Bulloch,Leefield,Soil and Water,,,"Emmett Renfroe, Jr.",545,125,13,1,406
+Bulloch,Blitch,Soil and Water,,,"Emmett Renfroe, Jr.",1169,541,38,0,590
+Bulloch,Hagin,Soil and Water,,,"Emmett Renfroe, Jr.",1149,465,47,2,635
+Bulloch,Brooklet,Soil and Water,,,"Emmett Renfroe, Jr.",1819,802,56,1,960
+Bulloch,Stilson,Soil and Water,,,"Emmett Renfroe, Jr.",1062,301,26,0,735
+Bulloch,Bay,Soil and Water,,,"Emmett Renfroe, Jr.",862,231,29,0,602
+Bulloch,Nevils,Soil and Water,,,"Emmett Renfroe, Jr.",647,222,17,0,408
+Bulloch,Sinkhole,Soil and Water,,,"Emmett Renfroe, Jr.",256,61,10,0,185
+Bulloch,Register,Soil and Water,,,"Emmett Renfroe, Jr.",414,167,17,1,229
+Bulloch,Lockhart,Proposed Constitutional Amendment 1,,,Yes,372,104,10,1,257
+Bulloch,Emit,Proposed Constitutional Amendment 1,,,Yes,1682,820,98,0,764
+Bulloch,Statesboro,Proposed Constitutional Amendment 1,,,Yes,2664,1572,170,0,922
+Bulloch,Portal,Proposed Constitutional Amendment 1,,,Yes,806,285,26,1,494
+Bulloch,Fair,Proposed Constitutional Amendment 1,,,Yes,2906,1815,178,5,908
+Bulloch,Church,Proposed Constitutional Amendment 1,,,Yes,2459,1456,162,3,838
+Bulloch,Pittman Park,Proposed Constitutional Amendment 1,,,Yes,1353,680,71,3,599
+Bulloch,Leefield,Proposed Constitutional Amendment 1,,,Yes,564,128,26,1,409
+Bulloch,Blitch,Proposed Constitutional Amendment 1,,,Yes,1181,568,51,0,562
+Bulloch,Hagin,Proposed Constitutional Amendment 1,,,Yes,1167,487,56,2,622
+Bulloch,Brooklet,Proposed Constitutional Amendment 1,,,Yes,1839,828,64,2,945
+Bulloch,Stilson,Proposed Constitutional Amendment 1,,,Yes,1035,301,30,0,704
+Bulloch,Bay,Proposed Constitutional Amendment 1,,,Yes,851,232,34,0,585
+Bulloch,Nevils,Proposed Constitutional Amendment 1,,,Yes,632,224,24,0,384
+Bulloch,Sinkhole,Proposed Constitutional Amendment 1,,,Yes,251,58,12,1,180
+Bulloch,Register,Proposed Constitutional Amendment 1,,,Yes,421,176,22,1,222
+Bulloch,Lockhart,Proposed Constitutional Amendment 1,,,No,40,11,0,0,29
+Bulloch,Emit,Proposed Constitutional Amendment 1,,,No,216,104,9,0,103
+Bulloch,Statesboro,Proposed Constitutional Amendment 1,,,No,373,220,27,0,126
+Bulloch,Portal,Proposed Constitutional Amendment 1,,,No,99,23,4,0,72
+Bulloch,Fair,Proposed Constitutional Amendment 1,,,No,344,213,27,1,103
+Bulloch,Church,Proposed Constitutional Amendment 1,,,No,368,207,42,2,117
+Bulloch,Pittman Park,Proposed Constitutional Amendment 1,,,No,157,81,6,0,70
+Bulloch,Leefield,Proposed Constitutional Amendment 1,,,No,50,13,1,0,36
+Bulloch,Blitch,Proposed Constitutional Amendment 1,,,No,141,58,5,0,78
+Bulloch,Hagin,Proposed Constitutional Amendment 1,,,No,169,71,20,0,78
+Bulloch,Brooklet,Proposed Constitutional Amendment 1,,,No,226,90,12,0,124
+Bulloch,Stilson,Proposed Constitutional Amendment 1,,,No,140,39,5,0,96
+Bulloch,Bay,Proposed Constitutional Amendment 1,,,No,109,33,1,0,75
+Bulloch,Nevils,Proposed Constitutional Amendment 1,,,No,94,28,4,0,62
+Bulloch,Sinkhole,Proposed Constitutional Amendment 1,,,No,35,12,1,0,22
+Bulloch,Register,Proposed Constitutional Amendment 1,,,No,67,28,4,0,35
+Bulloch,Lockhart,Proposed Constitutional Amendment 2,,,Yes,379,104,10,1,264
+Bulloch,Emit,Proposed Constitutional Amendment 2,,,Yes,1753,852,98,0,803
+Bulloch,Statesboro,Proposed Constitutional Amendment 2,,,Yes,2815,1663,187,0,965
+Bulloch,Portal,Proposed Constitutional Amendment 2,,,Yes,843,284,29,1,529
+Bulloch,Fair,Proposed Constitutional Amendment 2,,,Yes,2980,1848,183,5,944
+Bulloch,Church,Proposed Constitutional Amendment 2,,,Yes,2633,1532,207,3,891
+Bulloch,Pittman Park,Proposed Constitutional Amendment 2,,,Yes,1418,708,69,3,638
+Bulloch,Leefield,Proposed Constitutional Amendment 2,,,Yes,575,134,24,1,416
+Bulloch,Blitch,Proposed Constitutional Amendment 2,,,Yes,1213,573,56,0,584
+Bulloch,Hagin,Proposed Constitutional Amendment 2,,,Yes,1197,501,65,1,630
+Bulloch,Brooklet,Proposed Constitutional Amendment 2,,,Yes,1883,843,73,1,966
+Bulloch,Stilson,Proposed Constitutional Amendment 2,,,Yes,1097,318,33,0,746
+Bulloch,Bay,Proposed Constitutional Amendment 2,,,Yes,905,249,36,1,619
+Bulloch,Nevils,Proposed Constitutional Amendment 2,,,Yes,678,232,27,0,419
+Bulloch,Sinkhole,Proposed Constitutional Amendment 2,,,Yes,256,61,11,1,183
+Bulloch,Register,Proposed Constitutional Amendment 2,,,Yes,444,185,24,1,234
+Bulloch,Lockhart,Proposed Constitutional Amendment 2,,,No,39,12,0,0,27
+Bulloch,Emit,Proposed Constitutional Amendment 2,,,No,173,86,8,0,79
+Bulloch,Statesboro,Proposed Constitutional Amendment 2,,,No,265,155,15,0,95
+Bulloch,Portal,Proposed Constitutional Amendment 2,,,No,74,24,2,0,48
+Bulloch,Fair,Proposed Constitutional Amendment 2,,,No,286,190,20,1,75
+Bulloch,Church,Proposed Constitutional Amendment 2,,,No,237,149,10,0,78
+Bulloch,Pittman Park,Proposed Constitutional Amendment 2,,,No,101,62,6,0,33
+Bulloch,Leefield,Proposed Constitutional Amendment 2,,,No,44,9,3,0,32
+Bulloch,Blitch,Proposed Constitutional Amendment 2,,,No,133,63,2,0,68
+Bulloch,Hagin,Proposed Constitutional Amendment 2,,,No,153,63,13,0,77
+Bulloch,Brooklet,Proposed Constitutional Amendment 2,,,No,189,84,2,0,103
+Bulloch,Stilson,Proposed Constitutional Amendment 2,,,No,93,27,2,0,64
+Bulloch,Bay,Proposed Constitutional Amendment 2,,,No,65,18,0,0,47
+Bulloch,Nevils,Proposed Constitutional Amendment 2,,,No,60,23,1,0,36
+Bulloch,Sinkhole,Proposed Constitutional Amendment 2,,,No,32,10,2,0,20
+Bulloch,Register,Proposed Constitutional Amendment 2,,,No,47,18,2,0,27
+Bulloch,Lockhart,Statewide Referendum Question A,,,Yes,281,71,9,1,200
+Bulloch,Emit,Statewide Referendum Question A,,,Yes,1166,551,49,0,566
+Bulloch,Statesboro,Statewide Referendum Question A,,,Yes,1837,1046,99,0,692
+Bulloch,Portal,Statewide Referendum Question A,,,Yes,617,186,14,1,416
+Bulloch,Fair,Statewide Referendum Question A,,,Yes,1851,1115,88,3,645
+Bulloch,Church,Statewide Referendum Question A,,,Yes,1622,935,95,4,588
+Bulloch,Pittman Park,Statewide Referendum Question A,,,Yes,859,414,34,3,408
+Bulloch,Leefield,Statewide Referendum Question A,,,Yes,394,89,11,1,293
+Bulloch,Blitch,Statewide Referendum Question A,,,Yes,768,367,21,0,380
+Bulloch,Hagin,Statewide Referendum Question A,,,Yes,846,326,28,1,491
+Bulloch,Brooklet,Statewide Referendum Question A,,,Yes,1262,551,39,0,672
+Bulloch,Stilson,Statewide Referendum Question A,,,Yes,741,207,16,0,518
+Bulloch,Bay,Statewide Referendum Question A,,,Yes,575,157,17,1,400
+Bulloch,Nevils,Statewide Referendum Question A,,,Yes,481,156,13,0,312
+Bulloch,Sinkhole,Statewide Referendum Question A,,,Yes,182,42,7,0,133
+Bulloch,Register,Statewide Referendum Question A,,,Yes,301,114,17,1,169
+Bulloch,Lockhart,Statewide Referendum Question A,,,No,132,44,1,0,87
+Bulloch,Emit,Statewide Referendum Question A,,,No,721,368,54,0,299
+Bulloch,Statesboro,Statewide Referendum Question A,,,No,1164,724,96,0,344
+Bulloch,Portal,Statewide Referendum Question A,,,No,279,116,15,0,148
+Bulloch,Fair,Statewide Referendum Question A,,,No,1352,884,111,3,354
+Bulloch,Church,Statewide Referendum Question A,,,No,1186,710,108,1,367
+Bulloch,Pittman Park,Statewide Referendum Question A,,,No,626,335,38,0,253
+Bulloch,Leefield,Statewide Referendum Question A,,,No,215,53,15,0,147
+Bulloch,Blitch,Statewide Referendum Question A,,,No,548,248,34,0,266
+Bulloch,Hagin,Statewide Referendum Question A,,,No,485,230,44,0,211
+Bulloch,Brooklet,Statewide Referendum Question A,,,No,773,361,32,0,380
+Bulloch,Stilson,Statewide Referendum Question A,,,No,434,136,19,0,279
+Bulloch,Bay,Statewide Referendum Question A,,,No,389,105,18,0,266
+Bulloch,Nevils,Statewide Referendum Question A,,,No,242,94,14,0,134
+Bulloch,Sinkhole,Statewide Referendum Question A,,,No,103,28,6,1,68
+Bulloch,Register,Statewide Referendum Question A,,,No,185,87,9,0,89
+Bulloch,Lockhart,Statewide Referendum Question B,,,Yes,347,98,9,1,239
+Bulloch,Emit,Statewide Referendum Question B,,,Yes,1438,691,65,0,682
+Bulloch,Statesboro,Statewide Referendum Question B,,,Yes,2249,1313,119,0,817
+Bulloch,Portal,Statewide Referendum Question B,,,Yes,713,232,17,1,463
+Bulloch,Fair,Statewide Referendum Question B,,,Yes,2381,1447,118,5,811
+Bulloch,Church,Statewide Referendum Question B,,,Yes,2017,1158,133,4,722
+Bulloch,Pittman Park,Statewide Referendum Question B,,,Yes,1123,549,51,3,520
+Bulloch,Leefield,Statewide Referendum Question B,,,Yes,521,118,23,1,379
+Bulloch,Blitch,Statewide Referendum Question B,,,Yes,996,451,38,0,507
+Bulloch,Hagin,Statewide Referendum Question B,,,Yes,1046,417,38,1,590
+Bulloch,Brooklet,Statewide Referendum Question B,,,Yes,1614,714,56,1,843
+Bulloch,Stilson,Statewide Referendum Question B,,,Yes,947,266,25,0,656
+Bulloch,Bay,Statewide Referendum Question B,,,Yes,753,205,21,1,526
+Bulloch,Nevils,Statewide Referendum Question B,,,Yes,578,199,14,0,365
+Bulloch,Sinkhole,Statewide Referendum Question B,,,Yes,221,51,10,0,160
+Bulloch,Register,Statewide Referendum Question B,,,Yes,346,143,20,1,182
+Bulloch,Lockhart,Statewide Referendum Question B,,,No,72,18,1,0,53
+Bulloch,Emit,Statewide Referendum Question B,,,No,450,227,39,0,184
+Bulloch,Statesboro,Statewide Referendum Question B,,,No,750,458,74,0,218
+Bulloch,Portal,Statewide Referendum Question B,,,No,192,76,10,0,106
+Bulloch,Fair,Statewide Referendum Question B,,,No,811,544,80,1,186
+Bulloch,Church,Statewide Referendum Question B,,,No,781,484,72,1,224
+Bulloch,Pittman Park,Statewide Referendum Question B,,,No,364,202,24,0,138
+Bulloch,Leefield,Statewide Referendum Question B,,,No,90,23,3,0,64
+Bulloch,Blitch,Statewide Referendum Question B,,,No,325,172,14,0,139
+Bulloch,Hagin,Statewide Referendum Question B,,,No,278,136,35,0,107
+Bulloch,Brooklet,Statewide Referendum Question B,,,No,427,194,19,0,214
+Bulloch,Stilson,Statewide Referendum Question B,,,No,225,75,9,0,141
+Bulloch,Bay,Statewide Referendum Question B,,,No,206,57,14,0,135
+Bulloch,Nevils,Statewide Referendum Question B,,,No,149,54,13,0,82
+Bulloch,Sinkhole,Statewide Referendum Question B,,,No,64,19,2,1,42
+Bulloch,Register,Statewide Referendum Question B,,,No,141,58,5,0,78
+Bulloch,Lockhart,Package Sales,,,Yes,312,83,9,1,219
+Bulloch,Emit,Package Sales,,,Yes,1405,665,67,0,673
+Bulloch,Statesboro,Package Sales,,,Yes,2242,1279,131,0,832
+Bulloch,Portal,Package Sales,,,Yes,654,195,19,1,439
+Bulloch,Fair,Package Sales,,,Yes,2430,1500,137,5,788
+Bulloch,Church,Package Sales,,,Yes,2087,1220,150,4,713
+Bulloch,Pittman Park,Package Sales,,,Yes,1199,600,55,3,541
+Bulloch,Leefield,Package Sales,,,Yes,478,102,24,1,351
+Bulloch,Blitch,Package Sales,,,Yes,1006,473,48,0,485
+Bulloch,Hagin,Package Sales,,,Yes,985,393,53,1,538
+Bulloch,Brooklet,Package Sales,,,Yes,1480,665,43,0,772
+Bulloch,Stilson,Package Sales,,,Yes,855,233,20,0,602
+Bulloch,Bay,Package Sales,,,Yes,669,168,22,1,478
+Bulloch,Nevils,Package Sales,,,Yes,521,186,9,0,326
+Bulloch,Sinkhole,Package Sales,,,Yes,183,43,8,0,132
+Bulloch,Register,Package Sales,,,Yes,340,137,21,1,181
+Bulloch,Lockhart,Package Sales,,,No,102,33,1,0,68
+Bulloch,Emit,Package Sales,,,No,481,255,36,0,190
+Bulloch,Statesboro,Package Sales,,,No,780,497,67,0,216
+Bulloch,Portal,Package Sales,,,No,256,108,14,0,134
+Bulloch,Fair,Package Sales,,,No,809,524,65,1,219
+Bulloch,Church,Package Sales,,,No,758,449,60,1,248
+Bulloch,Pittman Park,Package Sales,,,No,296,155,19,0,122
+Bulloch,Leefield,Package Sales,,,No,132,39,3,0,90
+Bulloch,Blitch,Package Sales,,,No,328,157,9,0,162
+Bulloch,Hagin,Package Sales,,,No,347,161,23,0,163
+Bulloch,Brooklet,Package Sales,,,No,560,246,32,0,282
+Bulloch,Stilson,Package Sales,,,No,320,109,11,0,200
+Bulloch,Bay,Package Sales,,,No,288,97,12,0,179
+Bulloch,Nevils,Package Sales,,,No,205,67,18,0,120
+Bulloch,Sinkhole,Package Sales,,,No,102,27,4,0,71
+Bulloch,Register,Package Sales,,,No,148,63,5,0,80
+Bulloch,Lockhart,TSPLOST,,,Yes,220,60,4,0,156
+Bulloch,Emit,TSPLOST,,,Yes,1072,515,61,0,496
+Bulloch,Statesboro,TSPLOST,,,Yes,1780,1063,103,0,614
+Bulloch,Portal,TSPLOST,,,Yes,492,165,8,1,318
+Bulloch,Fair,TSPLOST,,,Yes,1876,1211,92,1,572
+Bulloch,Church,TSPLOST,,,Yes,1675,1027,113,2,533
+Bulloch,Pittman Park,TSPLOST,,,Yes,956,494,49,3,410
+Bulloch,Leefield,TSPLOST,,,Yes,353,81,19,1,252
+Bulloch,Blitch,TSPLOST,,,Yes,771,377,35,0,359
+Bulloch,Hagin,TSPLOST,,,Yes,752,339,32,1,380
+Bulloch,Brooklet,TSPLOST,,,Yes,1171,526,41,0,604
+Bulloch,Stilson,TSPLOST,,,Yes,614,186,23,0,405
+Bulloch,Bay,TSPLOST,,,Yes,516,137,16,1,362
+Bulloch,Nevils,TSPLOST,,,Yes,386,141,9,0,236
+Bulloch,Sinkhole,TSPLOST,,,Yes,140,39,3,0,98
+Bulloch,Register,TSPLOST,,,Yes,295,112,16,1,166
+Bulloch,Lockhart,TSPLOST,,,No,194,55,5,1,133
+Bulloch,Emit,TSPLOST,,,No,823,404,45,0,374
+Bulloch,Statesboro,TSPLOST,,,No,1231,720,83,0,428
+Bulloch,Portal,TSPLOST,,,No,405,136,17,0,252
+Bulloch,Fair,TSPLOST,,,No,1357,809,109,5,434
+Bulloch,Church,TSPLOST,,,No,1155,638,90,3,424
+Bulloch,Pittman Park,TSPLOST,,,No,540,262,28,0,250
+Bulloch,Leefield,TSPLOST,,,No,249,59,7,0,183
+Bulloch,Blitch,TSPLOST,,,No,557,249,21,0,287
+Bulloch,Hagin,TSPLOST,,,No,579,219,39,0,321
+Bulloch,Brooklet,TSPLOST,,,No,872,388,33,1,450
+Bulloch,Stilson,TSPLOST,,,No,562,159,11,0,392
+Bulloch,Bay,TSPLOST,,,No,438,126,18,0,294
+Bulloch,Nevils,TSPLOST,,,No,342,111,19,0,212
+Bulloch,Sinkhole,TSPLOST,,,No,147,31,9,0,107
+Bulloch,Register,TSPLOST,,,No,190,87,9,0,94
+Bulloch,Lockhart,ESPLOST,,,Yes,308,82,7,0,219
+Bulloch,Emit,ESPLOST,,,Yes,1388,671,71,0,646
+Bulloch,Statesboro,ESPLOST,,,Yes,2240,1316,133,0,791
+Bulloch,Portal,ESPLOST,,,Yes,661,226,21,1,413
+Bulloch,Fair,ESPLOST,,,Yes,2301,1420,132,2,747
+Bulloch,Church,ESPLOST,,,Yes,2104,1235,149,3,717
+Bulloch,Pittman Park,ESPLOST,,,Yes,1158,585,59,3,511
+Bulloch,Leefield,ESPLOST,,,Yes,455,109,21,1,324
+Bulloch,Blitch,ESPLOST,,,Yes,909,452,35,0,422
+Bulloch,Hagin,ESPLOST,,,Yes,935,411,41,1,482
+Bulloch,Brooklet,ESPLOST,,,Yes,1529,690,55,0,784
+Bulloch,Stilson,ESPLOST,,,Yes,800,230,27,0,543
+Bulloch,Bay,ESPLOST,,,Yes,630,173,21,1,435
+Bulloch,Nevils,ESPLOST,,,Yes,502,170,13,0,319
+Bulloch,Sinkhole,ESPLOST,,,Yes,195,50,6,1,138
+Bulloch,Register,ESPLOST,,,Yes,358,143,19,1,195
+Bulloch,Lockhart,ESPLOST,,,No,115,37,3,1,74
+Bulloch,Emit,ESPLOST,,,No,523,260,34,0,229
+Bulloch,Statesboro,ESPLOST,,,No,824,495,63,0,266
+Bulloch,Portal,ESPLOST,,,No,256,81,11,0,164
+Bulloch,Fair,ESPLOST,,,No,959,617,75,3,264
+Bulloch,Church,ESPLOST,,,No,752,438,62,2,250
+Bulloch,Pittman Park,ESPLOST,,,No,352,180,16,0,156
+Bulloch,Leefield,ESPLOST,,,No,156,34,6,0,116
+Bulloch,Blitch,ESPLOST,,,No,427,177,20,0,230
+Bulloch,Hagin,ESPLOST,,,No,404,149,30,0,225
+Bulloch,Brooklet,ESPLOST,,,No,538,232,20,1,285
+Bulloch,Stilson,ESPLOST,,,No,384,117,8,0,259
+Bulloch,Bay,ESPLOST,,,No,328,89,14,0,225
+Bulloch,Nevils,ESPLOST,,,No,234,86,16,0,132
+Bulloch,Sinkhole,ESPLOST,,,No,94,20,7,0,67
+Bulloch,Register,ESPLOST,,,No,131,58,6,0,67

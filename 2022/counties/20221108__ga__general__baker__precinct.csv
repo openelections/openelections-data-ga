@@ -1,0 +1,201 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Baker,Anna,U.S. Senate,,Rep,Herschel Junior Walker,140,45,5,0,90
+Baker,Elmodel,U.S. Senate,,Rep,Herschel Junior Walker,137,74,11,0,52
+Baker,Hoggards Mill,U.S. Senate,,Rep,Herschel Junior Walker,104,40,3,1,60
+Baker,Milford,U.S. Senate,,Rep,Herschel Junior Walker,198,83,12,0,103
+Baker,Newton,U.S. Senate,,Rep,Herschel Junior Walker,132,80,4,1,47
+Baker,Anna,U.S. Senate,,Dem,Raphael Warnock ,141,80,25,0,36
+Baker,Elmodel,U.S. Senate,,Dem,Raphael Warnock ,56,34,7,0,15
+Baker,Hoggards Mill,U.S. Senate,,Dem,Raphael Warnock ,151,83,20,1,47
+Baker,Milford,U.S. Senate,,Dem,Raphael Warnock ,76,32,18,0,26
+Baker,Newton,U.S. Senate,,Dem,Raphael Warnock ,102,43,17,3,39
+Baker,Anna,U.S. Senate,,L,Chase Oliver,2,2,0,0,0
+Baker,Elmodel,U.S. Senate,,L,Chase Oliver,0,0,0,0,0
+Baker,Hoggards Mill,U.S. Senate,,L,Chase Oliver,6,2,0,0,4
+Baker,Milford,U.S. Senate,,L,Chase Oliver,3,0,0,0,3
+Baker,Newton,U.S. Senate,,L,Chase Oliver,1,0,0,1,0
+Baker,Anna,Governor,,Rep,Brian Kemp ,146,45,7,0,94
+Baker,Elmodel,Governor,,Rep,Brian Kemp ,148,80,12,0,56
+Baker,Hoggards Mill,Governor,,Rep,Brian Kemp ,107,38,3,1,65
+Baker,Milford,Governor,,Rep,Brian Kemp ,205,84,13,0,108
+Baker,Newton,Governor,,Rep,Brian Kemp ,149,87,8,2,52
+Baker,Anna,Governor,,Dem,Stacey Abrams,139,83,23,0,33
+Baker,Elmodel,Governor,,Dem,Stacey Abrams,47,28,7,0,12
+Baker,Hoggards Mill,Governor,,Dem,Stacey Abrams,147,83,20,1,43
+Baker,Milford,Governor,,Dem,Stacey Abrams,75,31,17,0,27
+Baker,Newton,Governor,,Dem,Stacey Abrams,92,40,15,3,34
+Baker,Anna,Governor,,L,Shane Hazel,0,0,0,0,0
+Baker,Elmodel,Governor,,L,Shane Hazel,0,0,0,0,0
+Baker,Hoggards Mill,Governor,,L,Shane Hazel,3,2,0,0,1
+Baker,Milford,Governor,,L,Shane Hazel,0,0,0,0,0
+Baker,Newton,Governor,,L,Shane Hazel,0,0,0,0,0
+Baker,Anna,Lieutenant Governor,,Rep,Burt Jones,145,46,8,0,91
+Baker,Elmodel,Lieutenant Governor,,Rep,Burt Jones,141,76,12,0,53
+Baker,Hoggards Mill,Lieutenant Governor,,Rep,Burt Jones,103,40,4,1,58
+Baker,Milford,Lieutenant Governor,,Rep,Burt Jones,201,84,13,0,104
+Baker,Newton,Lieutenant Governor,,Rep,Burt Jones,150,88,9,2,51
+Baker,Anna,Lieutenant Governor,,Dem,Charlie Bailey,130,78,21,0,31
+Baker,Elmodel,Lieutenant Governor,,Dem,Charlie Bailey,48,29,7,0,12
+Baker,Hoggards Mill,Lieutenant Governor,,Dem,Charlie Bailey,144,81,18,1,44
+Baker,Milford,Lieutenant Governor,,Dem,Charlie Bailey,72,27,17,0,28
+Baker,Newton,Lieutenant Governor,,Dem,Charlie Bailey,84,35,14,3,32
+Baker,Anna,Lieutenant Governor,,L,Ryan Graham,3,2,0,0,1
+Baker,Elmodel,Lieutenant Governor,,L,Ryan Graham,0,0,0,0,0
+Baker,Hoggards Mill,Lieutenant Governor,,L,Ryan Graham,2,0,0,0,2
+Baker,Milford,Lieutenant Governor,,L,Ryan Graham,2,1,0,0,1
+Baker,Newton,Lieutenant Governor,,L,Ryan Graham,2,2,0,0,0
+Baker,Anna,Secretary of State,,Rep,Brad Raffensperger ,145,47,9,0,89
+Baker,Elmodel,Secretary of State,,Rep,Brad Raffensperger ,136,75,10,0,51
+Baker,Hoggards Mill,Secretary of State,,Rep,Brad Raffensperger ,113,40,8,1,64
+Baker,Milford,Secretary of State,,Rep,Brad Raffensperger ,198,82,14,0,102
+Baker,Newton,Secretary of State,,Rep,Brad Raffensperger ,146,82,10,2,52
+Baker,Anna,Secretary of State,,Dem,Bee Nguyen,125,76,21,0,28
+Baker,Elmodel,Secretary of State,,Dem,Bee Nguyen,51,29,9,0,13
+Baker,Hoggards Mill,Secretary of State,,Dem,Bee Nguyen,137,81,14,1,41
+Baker,Milford,Secretary of State,,Dem,Bee Nguyen,72,28,17,0,27
+Baker,Newton,Secretary of State,,Dem,Bee Nguyen,85,38,13,3,31
+Baker,Anna,Secretary of State,,L,Ted Metz,6,1,0,0,5
+Baker,Elmodel,Secretary of State,,L,Ted Metz,3,2,0,0,1
+Baker,Hoggards Mill,Secretary of State,,L,Ted Metz,2,1,0,0,1
+Baker,Milford,Secretary of State,,L,Ted Metz,6,2,0,0,4
+Baker,Newton,Secretary of State,,L,Ted Metz,6,5,0,0,1
+Baker,Anna,Attorney General,,Rep,Chris Carr ,148,47,8,0,93
+Baker,Elmodel,Attorney General,,Rep,Chris Carr ,143,75,12,0,56
+Baker,Hoggards Mill,Attorney General,,Rep,Chris Carr ,106,41,4,1,60
+Baker,Milford,Attorney General,,Rep,Chris Carr ,202,83,13,0,106
+Baker,Newton,Attorney General,,Rep,Chris Carr ,154,91,10,2,51
+Baker,Anna,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",125,75,21,0,29
+Baker,Elmodel,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",51,32,7,0,12
+Baker,Hoggards Mill,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",145,82,18,1,44
+Baker,Milford,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",71,27,17,0,27
+Baker,Newton,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",81,34,13,3,31
+Baker,Anna,Attorney General,,L,Martin Cowen,4,3,0,0,1
+Baker,Elmodel,Attorney General,,L,Martin Cowen,1,1,0,0,0
+Baker,Hoggards Mill,Attorney General,,L,Martin Cowen,3,0,0,0,3
+Baker,Milford,Attorney General,,L,Martin Cowen,2,1,0,0,1
+Baker,Newton,Attorney General,,L,Martin Cowen,2,0,0,0,2
+Baker,Anna,Commissioner of Agriculture,,Rep,Tyler Harper,148,50,6,0,92
+Baker,Elmodel,Commissioner of Agriculture,,Rep,Tyler Harper,144,76,12,0,56
+Baker,Hoggards Mill,Commissioner of Agriculture,,Rep,Tyler Harper,105,40,3,1,61
+Baker,Milford,Commissioner of Agriculture,,Rep,Tyler Harper,203,83,13,0,107
+Baker,Newton,Commissioner of Agriculture,,Rep,Tyler Harper,151,88,9,2,52
+Baker,Anna,Commissioner of Agriculture,,Dem,Nakita Hemingway,123,73,23,0,27
+Baker,Elmodel,Commissioner of Agriculture,,Dem,Nakita Hemingway,46,28,7,0,11
+Baker,Hoggards Mill,Commissioner of Agriculture,,Dem,Nakita Hemingway,145,81,20,1,43
+Baker,Milford,Commissioner of Agriculture,,Dem,Nakita Hemingway,69,27,17,0,25
+Baker,Newton,Commissioner of Agriculture,,Dem,Nakita Hemingway,83,35,13,3,32
+Baker,Anna,Commissioner of Agriculture,,L,David Raudabaugh,5,2,0,0,3
+Baker,Elmodel,Commissioner of Agriculture,,L,David Raudabaugh,4,3,0,0,1
+Baker,Hoggards Mill,Commissioner of Agriculture,,L,David Raudabaugh,3,1,0,0,2
+Baker,Milford,Commissioner of Agriculture,,L,David Raudabaugh,1,1,0,0,0
+Baker,Newton,Commissioner of Agriculture,,L,David Raudabaugh,4,3,1,0,0
+Baker,Anna,Commissioner of Insurance,,Rep,John King ,144,47,8,0,89
+Baker,Elmodel,Commissioner of Insurance,,Rep,John King ,143,76,12,0,55
+Baker,Hoggards Mill,Commissioner of Insurance,,Rep,John King ,107,40,4,1,62
+Baker,Milford,Commissioner of Insurance,,Rep,John King ,201,82,12,0,107
+Baker,Newton,Commissioner of Insurance,,Rep,John King ,154,89,9,2,54
+Baker,Anna,Commissioner of Insurance,,Dem,Janice Laws Robinson,128,78,21,0,29
+Baker,Elmodel,Commissioner of Insurance,,Dem,Janice Laws Robinson,50,30,7,0,13
+Baker,Hoggards Mill,Commissioner of Insurance,,Dem,Janice Laws Robinson,143,82,18,1,42
+Baker,Milford,Commissioner of Insurance,,Dem,Janice Laws Robinson,70,29,17,0,24
+Baker,Newton,Commissioner of Insurance,,Dem,Janice Laws Robinson,80,33,14,3,30
+Baker,Anna,State School Superintendent,,Rep,Richard Woods ,145,46,7,0,92
+Baker,Elmodel,State School Superintendent,,Rep,Richard Woods ,143,76,12,0,55
+Baker,Hoggards Mill,State School Superintendent,,Rep,Richard Woods ,108,42,3,1,62
+Baker,Milford,State School Superintendent,,Rep,Richard Woods ,203,82,13,0,108
+Baker,Newton,State School Superintendent,,Rep,Richard Woods ,151,88,9,2,52
+Baker,Anna,State School Superintendent,,Dem,Alisha Thomas Searcy,128,78,22,0,28
+Baker,Elmodel,State School Superintendent,,Dem,Alisha Thomas Searcy,49,30,7,0,12
+Baker,Hoggards Mill,State School Superintendent,,Dem,Alisha Thomas Searcy,143,80,19,1,43
+Baker,Milford,State School Superintendent,,Dem,Alisha Thomas Searcy,70,28,17,0,25
+Baker,Newton,State School Superintendent,,Dem,Alisha Thomas Searcy,86,37,14,3,32
+Baker,Anna,Commissioner of Labor,,Rep,Bruce Thompson,141,45,7,0,89
+Baker,Elmodel,Commissioner of Labor,,Rep,Bruce Thompson,143,75,12,0,56
+Baker,Hoggards Mill,Commissioner of Labor,,Rep,Bruce Thompson,106,39,4,1,62
+Baker,Milford,Commissioner of Labor,,Rep,Bruce Thompson,201,82,12,0,107
+Baker,Newton,Commissioner of Labor,,Rep,Bruce Thompson,148,85,9,2,52
+Baker,Anna,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",128,78,22,0,28
+Baker,Elmodel,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",51,32,7,0,12
+Baker,Hoggards Mill,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",142,80,19,1,42
+Baker,Milford,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",72,29,17,0,26
+Baker,Newton,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",83,37,13,3,30
+Baker,Anna,Commissioner of Labor,,L,Emily Anderson,5,3,0,0,2
+Baker,Elmodel,Commissioner of Labor,,L,Emily Anderson,1,1,0,0,0
+Baker,Hoggards Mill,Commissioner of Labor,,L,Emily Anderson,3,2,0,0,1
+Baker,Milford,Commissioner of Labor,,L,Emily Anderson,0,0,0,0,0
+Baker,Newton,Commissioner of Labor,,L,Emily Anderson,6,3,1,0,2
+Baker,Anna,U.S. House,,Rep,Chris West,133,43,6,0,84
+Baker,Elmodel,U.S. House,,Rep,Chris West,132,72,10,0,50
+Baker,Hoggards Mill,U.S. House,,Rep,Chris West,100,40,3,1,56
+Baker,Milford,U.S. House,,Rep,Chris West,192,82,11,0,99
+Baker,Newton,U.S. House,,Rep,Chris West,125,73,6,2,44
+Baker,Anna,U.S. House,,Dem,Sanford Bishop ,151,84,23,0,44
+Baker,Elmodel,U.S. House,,Dem,Sanford Bishop ,62,36,9,0,17
+Baker,Hoggards Mill,U.S. House,,Dem,Sanford Bishop ,157,83,20,1,53
+Baker,Milford,U.S. House,,Dem,Sanford Bishop ,87,33,20,0,34
+Baker,Newton,U.S. House,,Dem,Sanford Bishop ,116,54,17,3,42
+Baker,Anna,State Senate,,Dem,Freddie Powell Sims ,198,101,23,0,74
+Baker,Elmodel,State Senate,,Dem,Freddie Powell Sims ,126,80,9,0,37
+Baker,Hoggards Mill,State Senate,,Dem,Freddie Powell Sims ,192,97,20,1,74
+Baker,Milford,State Senate,,Dem,Freddie Powell Sims ,178,69,22,0,87
+Baker,Newton,State Senate,,Dem,Freddie Powell Sims ,158,76,20,5,57
+Baker,Anna,State House,,Rep,Gerald E. Greene ,156,49,7,0,100
+Baker,Elmodel,State House,,Rep,Gerald E. Greene ,147,80,12,0,55
+Baker,Hoggards Mill,State House,,Rep,Gerald E. Greene ,113,45,5,1,62
+Baker,Milford,State House,,Rep,Gerald E. Greene ,204,84,13,0,107
+Baker,Newton,State House,,Rep,Gerald E. Greene ,151,88,10,2,51
+Baker,Anna,State House,,Dem,John Hayes,124,77,21,0,26
+Baker,Elmodel,State House,,Dem,John Hayes,48,28,7,0,13
+Baker,Hoggards Mill,State House,,Dem,John Hayes,141,77,18,1,45
+Baker,Milford,State House,,Dem,John Hayes,72,28,17,0,27
+Baker,Newton,State House,,Dem,John Hayes,83,36,12,3,32
+Baker,Anna,Soil and Water Conservation Commission,,,Shane Kelley ,220,93,22,0,105
+Baker,Elmodel,Soil and Water Conservation Commission,,,Shane Kelley ,165,93,17,0,55
+Baker,Hoggards Mill,Soil and Water Conservation Commission,,,Shane Kelley ,215,104,19,0,92
+Baker,Milford,Soil and Water Conservation Commission,,,Shane Kelley ,230,96,21,0,113
+Baker,Newton,Soil and Water Conservation Commission,,,Shane Kelley ,187,100,19,4,64
+Baker,Anna,Soil and Water Conservation Commission,,,Kier Klepzig,27,16,2,0,9
+Baker,Elmodel,Soil and Water Conservation Commission,,,Kier Klepzig,15,9,1,0,5
+Baker,Hoggards Mill,Soil and Water Conservation Commission,,,Kier Klepzig,19,9,1,1,8
+Baker,Milford,Soil and Water Conservation Commission,,,Kier Klepzig,18,7,4,0,7
+Baker,Newton,Soil and Water Conservation Commission,,,Kier Klepzig,19,8,1,1,9
+Baker,Anna,Constitutional Amendment #1,,,Yes,214,93,18,0,103
+Baker,Elmodel,Constitutional Amendment #1,,,Yes,149,83,12,0,54
+Baker,Hoggards Mill,Constitutional Amendment #1,,,Yes,197,91,15,2,89
+Baker,Milford,Constitutional Amendment #1,,,Yes,230,100,21,0,109
+Baker,Newton,Constitutional Amendment #1,,,Yes,190,99,15,3,73
+Baker,Anna,Constitutional Amendment #1,,,No,52,29,10,0,13
+Baker,Elmodel,Constitutional Amendment #1,,,No,32,19,5,0,8
+Baker,Hoggards Mill,Constitutional Amendment #1,,,No,48,25,8,0,15
+Baker,Milford,Constitutional Amendment #1,,,No,35,8,6,0,21
+Baker,Newton,Constitutional Amendment #1,,,No,36,19,7,2,8
+Baker,Anna,Constitutional Amendment #2,,,Yes,216,92,19,0,105
+Baker,Elmodel,Constitutional Amendment #2,,,Yes,167,95,16,0,56
+Baker,Hoggards Mill,Constitutional Amendment #2,,,Yes,209,94,16,2,97
+Baker,Milford,Constitutional Amendment #2,,,Yes,236,105,21,0,110
+Baker,Newton,Constitutional Amendment #2,,,Yes,203,104,17,5,77
+Baker,Anna,Constitutional Amendment #2,,,No,52,29,9,0,14
+Baker,Elmodel,Constitutional Amendment #2,,,No,15,9,1,0,5
+Baker,Hoggards Mill,Constitutional Amendment #2,,,No,39,24,7,0,8
+Baker,Milford,Constitutional Amendment #2,,,No,30,4,6,0,20
+Baker,Newton,Constitutional Amendment #2,,,No,25,16,5,0,4
+Baker,Anna,Statewide Referendum A,,,Yes,158,64,10,0,84
+Baker,Elmodel,Statewide Referendum A,,,Yes,124,67,11,0,46
+Baker,Hoggards Mill,Statewide Referendum A,,,Yes,165,78,8,1,78
+Baker,Milford,Statewide Referendum A,,,Yes,176,76,11,0,89
+Baker,Newton,Statewide Referendum A,,,Yes,141,76,13,2,50
+Baker,Anna,Statewide Referendum A,,,No,107,57,18,0,32
+Baker,Elmodel,Statewide Referendum A,,,No,61,39,6,0,16
+Baker,Hoggards Mill,Statewide Referendum A,,,No,83,40,15,1,27
+Baker,Milford,Statewide Referendum A,,,No,79,24,15,0,40
+Baker,Newton,Statewide Referendum A,,,No,82,42,10,3,27
+Baker,Anna,Statewide Referendum B,,,Yes,183,77,12,0,94
+Baker,Elmodel,Statewide Referendum B,,,Yes,134,73,13,0,48
+Baker,Hoggards Mill,Statewide Referendum B,,,Yes,177,86,8,1,82
+Baker,Milford,Statewide Referendum B,,,Yes,201,85,17,0,99
+Baker,Newton,Statewide Referendum B,,,Yes,158,85,14,2,57
+Baker,Anna,Statewide Referendum B,,,No,81,44,15,0,22
+Baker,Elmodel,Statewide Referendum B,,,No,49,31,4,0,14
+Baker,Hoggards Mill,Statewide Referendum B,,,No,69,33,15,1,20
+Baker,Milford,Statewide Referendum B,,,No,57,16,10,0,31
+Baker,Newton,Statewide Referendum B,,,No,65,31,8,3,23

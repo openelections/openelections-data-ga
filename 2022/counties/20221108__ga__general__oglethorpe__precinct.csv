@@ -1,0 +1,134 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Oglethorpe,Beaverdam,U.S. Senate,,Rep,Herschel Junior Walker,1490,737,58,0,695
+Oglethorpe,Crawford,U.S. Senate,,Rep,Herschel Junior Walker,1226,724,59,0,443
+Oglethorpe,Lexington,U.S. Senate,,Rep,Herschel Junior Walker,1922,1257,111,0,554
+Oglethorpe,Beaverdam,U.S. Senate,,Dem,Raphael Warnock ,662,349,53,0,260
+Oglethorpe,Crawford,U.S. Senate,,Dem,Raphael Warnock ,565,320,76,0,169
+Oglethorpe,Lexington,U.S. Senate,,Dem,Raphael Warnock ,769,484,94,1,190
+Oglethorpe,Beaverdam,U.S. Senate,,Lib,Chase Oliver,52,27,6,0,19
+Oglethorpe,Crawford,U.S. Senate,,Lib,Chase Oliver,39,20,2,0,17
+Oglethorpe,Lexington,U.S. Senate,,Lib,Chase Oliver,61,27,12,0,22
+Oglethorpe,Beaverdam,Governor,,Rep,Brian Kemp ,1632,811,67,0,754
+Oglethorpe,Crawford,Governor,,Rep,Brian Kemp ,1320,771,71,0,478
+Oglethorpe,Lexington,Governor,,Rep,Brian Kemp ,2046,1333,124,0,589
+Oglethorpe,Beaverdam,Governor,,Dem,Stacey Abrams,572,303,50,0,219
+Oglethorpe,Crawford,Governor,,Dem,Stacey Abrams,502,292,66,0,144
+Oglethorpe,Lexington,Governor,,Dem,Stacey Abrams,692,430,93,1,168
+Oglethorpe,Beaverdam,Governor,,Lib,Shane Hazel,14,7,0,0,7
+Oglethorpe,Crawford,Governor,,Lib,Shane Hazel,12,4,0,0,8
+Oglethorpe,Lexington,Governor,,Lib,Shane Hazel,21,7,0,0,14
+Oglethorpe,Beaverdam,Lieutenant Governor,,Rep,Burt Jones,1532,763,63,0,706
+Oglethorpe,Crawford,Lieutenant Governor,,Rep,Burt Jones,1254,735,63,0,456
+Oglethorpe,Lexington,Lieutenant Governor,,Rep,Burt Jones,1940,1259,121,1,559
+Oglethorpe,Beaverdam,Lieutenant Governor,,Dem,Charlie Bailey,614,322,53,0,239
+Oglethorpe,Crawford,Lieutenant Governor,,Dem,Charlie Bailey,520,301,73,0,146
+Oglethorpe,Lexington,Lieutenant Governor,,Dem,Charlie Bailey,703,451,88,0,164
+Oglethorpe,Beaverdam,Lieutenant Governor,,Lib,Ryan Graham,50,24,2,0,24
+Oglethorpe,Crawford,Lieutenant Governor,,Lib,Ryan Graham,41,22,0,0,19
+Oglethorpe,Lexington,Lieutenant Governor,,Lib,Ryan Graham,70,32,5,0,33
+Oglethorpe,Beaverdam,Secretary of State,,Rep,Brad Raffensperger ,1550,775,63,0,712
+Oglethorpe,Crawford,Secretary of State,,Rep,Brad Raffensperger ,1261,732,70,0,459
+Oglethorpe,Lexington,Secretary of State,,Rep,Brad Raffensperger ,1926,1255,119,0,552
+Oglethorpe,Beaverdam,Secretary of State,,Dem,Bee Nguyen,566,298,50,0,218
+Oglethorpe,Crawford,Secretary of State,,Dem,Bee Nguyen,479,278,61,0,140
+Oglethorpe,Lexington,Secretary of State,,Dem,Bee Nguyen,663,416,89,1,157
+Oglethorpe,Beaverdam,Secretary of State,,Lib,Ted Metz,81,38,3,0,40
+Oglethorpe,Crawford,Secretary of State,,Lib,Ted Metz,70,44,5,0,21
+Oglethorpe,Lexington,Secretary of State,,Lib,Ted Metz,118,65,6,0,47
+Oglethorpe,Beaverdam,Attorney General,,Rep,Chris Carr ,1555,777,66,0,712
+Oglethorpe,Crawford,Attorney General,,Rep,Chris Carr ,1268,739,67,0,462
+Oglethorpe,Lexington,Attorney General,,Rep,Chris Carr ,1971,1284,121,0,566
+Oglethorpe,Beaverdam,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",603,322,50,0,231
+Oglethorpe,Crawford,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",526,306,68,0,152
+Oglethorpe,Lexington,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",706,443,92,1,170
+Oglethorpe,Beaverdam,Attorney General,,Lib,Martin Cowen,37,10,1,0,26
+Oglethorpe,Crawford,Attorney General,,Lib,Martin Cowen,26,16,1,0,9
+Oglethorpe,Lexington,Attorney General,,Lib,Martin Cowen,51,22,3,0,26
+Oglethorpe,Beaverdam,Commissioner of Agriculture,,Rep,Tyler Harper,1570,785,67,0,718
+Oglethorpe,Crawford,Commissioner of Agriculture,,Rep,Tyler Harper,1278,746,69,0,463
+Oglethorpe,Lexington,Commissioner of Agriculture,,Rep,Tyler Harper,1977,1282,126,0,569
+Oglethorpe,Beaverdam,Commissioner of Agriculture,,Dem,Nakita Hemingway,573,306,49,0,218
+Oglethorpe,Crawford,Commissioner of Agriculture,,Dem,Nakita Hemingway,494,285,66,0,143
+Oglethorpe,Lexington,Commissioner of Agriculture,,Dem,Nakita Hemingway,672,424,85,0,163
+Oglethorpe,Beaverdam,Commissioner of Agriculture,,Lib,David Raudabaugh,53,18,2,0,33
+Oglethorpe,Crawford,Commissioner of Agriculture,,Lib,David Raudabaugh,42,26,2,0,14
+Oglethorpe,Lexington,Commissioner of Agriculture,,Lib,David Raudabaugh,73,40,2,1,30
+Oglethorpe,Beaverdam,Commissioner of Insurance,,Rep,John King ,1597,793,65,0,739
+Oglethorpe,Crawford,Commissioner of Insurance,,Rep,John King ,1306,762,68,0,476
+Oglethorpe,Lexington,Commissioner of Insurance,,Rep,John King ,2022,1311,126,0,585
+Oglethorpe,Beaverdam,Commissioner of Insurance,,Dem,Janice Laws Robinson,583,310,52,0,221
+Oglethorpe,Crawford,Commissioner of Insurance,,Dem,Janice Laws Robinson,503,291,69,0,143
+Oglethorpe,Lexington,Commissioner of Insurance,,Dem,Janice Laws Robinson,688,429,87,1,171
+Oglethorpe,Beaverdam,State School Superintendent,,Rep,Richard Woods ,1606,797,68,0,741
+Oglethorpe,Crawford,State School Superintendent,,Rep,Richard Woods ,1315,770,71,0,474
+Oglethorpe,Lexington,State School Superintendent,,Rep,Richard Woods ,2033,1318,126,0,589
+Oglethorpe,Beaverdam,State School Superintendent,,Dem,Alisha Thomas Searcy,585,311,49,0,225
+Oglethorpe,Crawford,State School Superintendent,,Dem,Alisha Thomas Searcy,497,283,64,0,150
+Oglethorpe,Lexington,State School Superintendent,,Dem,Alisha Thomas Searcy,688,427,90,1,170
+Oglethorpe,Beaverdam,Commissioner of Labor,,Rep,Bruce Thompson,1551,774,64,0,713
+Oglethorpe,Crawford,Commissioner of Labor,,Rep,Bruce Thompson,1261,743,66,0,452
+Oglethorpe,Lexington,Commissioner of Labor,,Rep,Bruce Thompson,1972,1292,124,0,556
+Oglethorpe,Beaverdam,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",573,300,52,0,221
+Oglethorpe,Crawford,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",504,286,71,0,147
+Oglethorpe,Lexington,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",676,421,86,1,168
+Oglethorpe,Beaverdam,Commissioner of Labor,,Lib,Emily Anderson,56,28,1,0,27
+Oglethorpe,Crawford,Commissioner of Labor,,Lib,Emily Anderson,46,27,0,0,19
+Oglethorpe,Lexington,Commissioner of Labor,,Lib,Emily Anderson,68,31,4,0,33
+Oglethorpe,Beaverdam,U.S. House,,Rep,Mike Collins,1584,788,66,0,730
+Oglethorpe,Crawford,U.S. House,,Rep,Mike Collins,1303,762,66,0,475
+Oglethorpe,Lexington,U.S. House,,Rep,Mike Collins,2009,1305,122,0,582
+Oglethorpe,Beaverdam,U.S. House,,Dem,Tabitha Johnson-Green,607,321,50,0,236
+Oglethorpe,Crawford,U.S. House,,Dem,Tabitha Johnson-Green,512,295,71,0,146
+Oglethorpe,Lexington,U.S. House,,Dem,Tabitha Johnson-Green,712,444,91,1,176
+Oglethorpe,Beaverdam,State Senate,,Rep,Lee Anderson ,1812,899,81,0,832
+Oglethorpe,Crawford,State Senate,,Rep,Lee Anderson ,1494,870,85,0,539
+Oglethorpe,Lexington,State Senate,,Rep,Lee Anderson ,2248,1466,130,1,651
+Oglethorpe,Beaverdam,State House,,Rep,Trey Rhodes ,1566,774,66,0,726
+Oglethorpe,Crawford,State House,,Rep,Trey Rhodes ,1276,743,66,0,467
+Oglethorpe,Lexington,State House,,Rep,Trey Rhodes ,1999,1301,121,1,576
+Oglethorpe,Beaverdam,State House,,Dem,Kat Howkins,622,335,50,0,237
+Oglethorpe,Crawford,State House,,Dem,Kat Howkins,531,308,70,0,153
+Oglethorpe,Lexington,State House,,Dem,Kat Howkins,709,446,87,0,176
+Oglethorpe,Crawford,County Commission,,Rep,Howard Sanders,163,64,17,0,82
+Oglethorpe,Lexington,County Commission,,Rep,Howard Sanders,835,560,34,0,241
+Oglethorpe,Beaverdam,County Commission,,Rep,David R. Clark ,1128,523,55,0,550
+Oglethorpe,Beaverdam,County Commission,,Rep,Tracy Alan Norman ,680,374,29,0,277
+Oglethorpe,Crawford,County Commission,,Rep,Tracy Alan Norman ,218,140,8,0,70
+Oglethorpe,Lexington,County Commission,,Rep,Tracy Alan Norman ,303,196,23,0,84
+Oglethorpe,Beaverdam,County BOE,,Rep,Susan H. Robinson,1133,525,52,0,556
+Oglethorpe,Beaverdam,County BOE,,Rep,"Rebecca """"Becky"""" Soto ",689,382,29,0,278
+Oglethorpe,Crawford,County BOE,,Rep,"Rebecca """"Becky"""" Soto ",209,133,6,0,70
+Oglethorpe,Lexington,County BOE,,Rep,"Rebecca """"Becky"""" Soto ",303,194,24,0,85
+Oglethorpe,Beaverdam,Soil and Water Conservation District Supervisor,,,Ted Hughes ,1823,909,88,0,826
+Oglethorpe,Crawford,Soil and Water Conservation District Supervisor,,,Ted Hughes ,1544,904,103,0,537
+Oglethorpe,Lexington,Soil and Water Conservation District Supervisor,,,Ted Hughes ,2263,1450,162,1,650
+Oglethorpe,Beaverdam,Proposed Constitutional Amendment 1,,,Yes,1922,976,109,0,837
+Oglethorpe,Crawford,Proposed Constitutional Amendment 1,,,Yes,1560,917,121,0,522
+Oglethorpe,Lexington,Proposed Constitutional Amendment 1,,,Yes,2321,1491,183,1,646
+Oglethorpe,Beaverdam,Proposed Constitutional Amendment 1,,,No,232,114,6,0,112
+Oglethorpe,Crawford,Proposed Constitutional Amendment 1,,,No,222,120,10,0,92
+Oglethorpe,Lexington,Proposed Constitutional Amendment 1,,,No,309,193,24,0,92
+Oglethorpe,Beaverdam,Proposed Constitutional Amendment 2,,,Yes,1986,984,108,0,894
+Oglethorpe,Crawford,Proposed Constitutional Amendment 2,,,Yes,1623,941,124,0,558
+Oglethorpe,Lexington,Proposed Constitutional Amendment 2,,,Yes,2377,1521,190,1,665
+Oglethorpe,Beaverdam,Proposed Constitutional Amendment 2,,,No,190,114,8,0,68
+Oglethorpe,Crawford,Proposed Constitutional Amendment 2,,,No,165,101,6,0,58
+Oglethorpe,Lexington,Proposed Constitutional Amendment 2,,,No,265,170,16,0,79
+Oglethorpe,Beaverdam,Statewide Referendum Question 1,,,Yes,1209,573,55,0,581
+Oglethorpe,Crawford,Statewide Referendum Question 1,,,Yes,982,540,55,0,387
+Oglethorpe,Lexington,Statewide Referendum Question 1,,,Yes,1448,921,85,1,441
+Oglethorpe,Beaverdam,Statewide Referendum Question 1,,,No,926,503,59,0,364
+Oglethorpe,Crawford,Statewide Referendum Question 1,,,No,778,489,71,0,218
+Oglethorpe,Lexington,Statewide Referendum Question 1,,,No,1145,740,119,0,286
+Oglethorpe,Beaverdam,Statewide Referendum Question 2,,,Yes,1648,810,79,0,759
+Oglethorpe,Crawford,Statewide Referendum Question 2,,,Yes,1332,767,82,0,483
+Oglethorpe,Lexington,Statewide Referendum Question 2,,,Yes,1937,1221,120,0,596
+Oglethorpe,Beaverdam,Statewide Referendum Question 2,,,No,485,265,32,0,188
+Oglethorpe,Crawford,Statewide Referendum Question 2,,,No,422,258,42,0,122
+Oglethorpe,Lexington,Statewide Referendum Question 2,,,No,664,442,83,1,138
+Oglethorpe,Beaverdam,T-SPLOST,,,Yes,1240,643,71,0,526
+Oglethorpe,Crawford,T-SPLOST,,,Yes,1043,624,75,0,344
+Oglethorpe,Lexington,T-SPLOST,,,Yes,1431,953,102,0,376
+Oglethorpe,Beaverdam,T-SPLOST,,,No,922,454,45,0,423
+Oglethorpe,Crawford,T-SPLOST,,,No,733,411,54,0,268
+Oglethorpe,Lexington,T-SPLOST,,,No,1190,728,103,1,358

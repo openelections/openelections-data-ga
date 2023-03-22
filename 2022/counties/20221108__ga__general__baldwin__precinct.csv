@@ -1,0 +1,551 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Baldwin,Scottboro,U.S. Senate,,Rep,Herschel Junior Walker,332,145,16,0,171
+Baldwin,North Baldwin,U.S. Senate,,Rep,Herschel Junior Walker,1680,1075,65,0,540
+Baldwin,West Baldwin,U.S. Senate,,Rep,Herschel Junior Walker,648,367,15,0,266
+Baldwin,East Hardwick,U.S. Senate,,Rep,Herschel Junior Walker,82,37,3,0,42
+Baldwin,West Hardwick,U.S. Senate,,Rep,Herschel Junior Walker,301,184,15,0,102
+Baldwin,Coopers,U.S. Senate,,Rep,Herschel Junior Walker,654,274,11,0,369
+Baldwin,South Milledgeville,U.S. Senate,,Rep,Herschel Junior Walker,105,63,5,0,37
+Baldwin,City Hall Annex,U.S. Senate,,Rep,Herschel Junior Walker,77,38,7,0,32
+Baldwin,Boddie,U.S. Senate,,Rep,Herschel Junior Walker,94,62,1,0,31
+Baldwin,Courthouse,U.S. Senate,,Rep,Herschel Junior Walker,74,45,5,0,24
+Baldwin,West Thomas,U.S. Senate,,Rep,Herschel Junior Walker,142,89,9,0,44
+Baldwin,North Milledgeville,U.S. Senate,,Rep,Herschel Junior Walker,647,434,26,0,187
+Baldwin,Meriwether,U.S. Senate,,Rep,Herschel Junior Walker,1209,746,56,0,407
+Baldwin,East Baldwin,U.S. Senate,,Rep,Herschel Junior Walker,1371,844,62,0,465
+Baldwin,Scottboro,U.S. Senate,,Dem,Raphael Warnock ,203,100,14,0,89
+Baldwin,North Baldwin,U.S. Senate,,Dem,Raphael Warnock ,701,473,59,0,169
+Baldwin,West Baldwin,U.S. Senate,,Dem,Raphael Warnock ,516,294,69,1,152
+Baldwin,East Hardwick,U.S. Senate,,Dem,Raphael Warnock ,376,198,34,0,144
+Baldwin,West Hardwick,U.S. Senate,,Dem,Raphael Warnock ,1130,632,148,0,350
+Baldwin,Coopers,U.S. Senate,,Dem,Raphael Warnock ,265,151,23,0,91
+Baldwin,South Milledgeville,U.S. Senate,,Dem,Raphael Warnock ,449,272,63,0,114
+Baldwin,City Hall Annex,U.S. Senate,,Dem,Raphael Warnock ,214,115,21,1,77
+Baldwin,Boddie,U.S. Senate,,Dem,Raphael Warnock ,378,199,51,0,128
+Baldwin,Courthouse,U.S. Senate,,Dem,Raphael Warnock ,108,66,14,0,28
+Baldwin,West Thomas,U.S. Senate,,Dem,Raphael Warnock ,589,344,102,0,143
+Baldwin,North Milledgeville,U.S. Senate,,Dem,Raphael Warnock ,695,454,65,0,176
+Baldwin,Meriwether,U.S. Senate,,Dem,Raphael Warnock ,717,474,61,0,182
+Baldwin,East Baldwin,U.S. Senate,,Dem,Raphael Warnock ,986,571,95,0,320
+Baldwin,Scottboro,U.S. Senate,,Lib,Chase Oliver,10,4,1,0,5
+Baldwin,North Baldwin,U.S. Senate,,Lib,Chase Oliver,33,16,4,0,13
+Baldwin,West Baldwin,U.S. Senate,,Lib,Chase Oliver,21,7,1,0,13
+Baldwin,East Hardwick,U.S. Senate,,Lib,Chase Oliver,12,4,1,0,7
+Baldwin,West Hardwick,U.S. Senate,,Lib,Chase Oliver,23,9,5,0,9
+Baldwin,Coopers,U.S. Senate,,Lib,Chase Oliver,19,5,0,0,14
+Baldwin,South Milledgeville,U.S. Senate,,Lib,Chase Oliver,3,1,1,0,1
+Baldwin,City Hall Annex,U.S. Senate,,Lib,Chase Oliver,4,0,1,0,3
+Baldwin,Boddie,U.S. Senate,,Lib,Chase Oliver,8,3,0,0,5
+Baldwin,Courthouse,U.S. Senate,,Lib,Chase Oliver,5,3,1,0,1
+Baldwin,West Thomas,U.S. Senate,,Lib,Chase Oliver,3,1,2,0,0
+Baldwin,North Milledgeville,U.S. Senate,,Lib,Chase Oliver,17,7,1,0,9
+Baldwin,Meriwether,U.S. Senate,,Lib,Chase Oliver,29,17,2,0,10
+Baldwin,East Baldwin,U.S. Senate,,Lib,Chase Oliver,27,10,0,0,17
+Baldwin,Scottboro,Governor,,Rep,Brian Kemp ,349,152,17,0,180
+Baldwin,North Baldwin,Governor,,Rep,Brian Kemp ,1831,1160,75,0,596
+Baldwin,West Baldwin,Governor,,Rep,Brian Kemp ,683,382,17,0,284
+Baldwin,East Hardwick,Governor,,Rep,Brian Kemp ,90,40,3,0,47
+Baldwin,West Hardwick,Governor,,Rep,Brian Kemp ,334,199,18,0,117
+Baldwin,Coopers,Governor,,Rep,Brian Kemp ,696,296,11,0,389
+Baldwin,South Milledgeville,Governor,,Rep,Brian Kemp ,115,65,6,0,44
+Baldwin,City Hall Annex,Governor,,Rep,Brian Kemp ,92,45,8,0,39
+Baldwin,Boddie,Governor,,Rep,Brian Kemp ,105,72,1,0,32
+Baldwin,Courthouse,Governor,,Rep,Brian Kemp ,87,53,5,0,29
+Baldwin,West Thomas,Governor,,Rep,Brian Kemp ,150,92,12,0,46
+Baldwin,North Milledgeville,Governor,,Rep,Brian Kemp ,701,465,28,0,208
+Baldwin,Meriwether,Governor,,Rep,Brian Kemp ,1302,801,61,0,440
+Baldwin,East Baldwin,Governor,,Rep,Brian Kemp ,1452,888,69,0,495
+Baldwin,Scottboro,Governor,,Dem,Stacey Abrams,191,96,14,0,81
+Baldwin,North Baldwin,Governor,,Dem,Stacey Abrams,589,407,53,0,129
+Baldwin,West Baldwin,Governor,,Dem,Stacey Abrams,492,284,67,1,140
+Baldwin,East Hardwick,Governor,,Dem,Stacey Abrams,384,201,35,0,148
+Baldwin,West Hardwick,Governor,,Dem,Stacey Abrams,1099,616,145,0,338
+Baldwin,Coopers,Governor,,Dem,Stacey Abrams,238,134,23,0,81
+Baldwin,South Milledgeville,Governor,,Dem,Stacey Abrams,443,275,62,0,106
+Baldwin,City Hall Annex,Governor,,Dem,Stacey Abrams,198,108,19,1,70
+Baldwin,Boddie,Governor,,Dem,Stacey Abrams,376,193,51,0,132
+Baldwin,Courthouse,Governor,,Dem,Stacey Abrams,99,63,14,0,22
+Baldwin,West Thomas,Governor,,Dem,Stacey Abrams,585,343,101,0,141
+Baldwin,North Milledgeville,Governor,,Dem,Stacey Abrams,649,427,64,0,158
+Baldwin,Meriwether,Governor,,Dem,Stacey Abrams,646,433,58,0,155
+Baldwin,East Baldwin,Governor,,Dem,Stacey Abrams,924,537,86,0,301
+Baldwin,Scottboro,Governor,,Lib,Shane Hazel,9,4,0,0,5
+Baldwin,North Baldwin,Governor,,Lib,Shane Hazel,8,4,1,0,3
+Baldwin,West Baldwin,Governor,,Lib,Shane Hazel,11,2,1,0,8
+Baldwin,East Hardwick,Governor,,Lib,Shane Hazel,2,0,1,0,1
+Baldwin,West Hardwick,Governor,,Lib,Shane Hazel,17,6,4,0,7
+Baldwin,Coopers,Governor,,Lib,Shane Hazel,5,1,0,0,4
+Baldwin,South Milledgeville,Governor,,Lib,Shane Hazel,4,0,1,0,3
+Baldwin,City Hall Annex,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Baldwin,Boddie,Governor,,Lib,Shane Hazel,3,0,0,0,3
+Baldwin,Courthouse,Governor,,Lib,Shane Hazel,4,2,1,0,1
+Baldwin,West Thomas,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Baldwin,North Milledgeville,Governor,,Lib,Shane Hazel,13,6,0,0,7
+Baldwin,Meriwether,Governor,,Lib,Shane Hazel,11,5,0,0,6
+Baldwin,East Baldwin,Governor,,Lib,Shane Hazel,11,4,0,0,7
+Baldwin,Scottboro,Lieutenant Governor,,Rep,Burt Jones,340,150,17,0,173
+Baldwin,North Baldwin,Lieutenant Governor,,Rep,Burt Jones,1775,1128,73,0,574
+Baldwin,West Baldwin,Lieutenant Governor,,Rep,Burt Jones,674,382,17,0,275
+Baldwin,East Hardwick,Lieutenant Governor,,Rep,Burt Jones,98,45,5,0,48
+Baldwin,West Hardwick,Lieutenant Governor,,Rep,Burt Jones,325,200,17,0,108
+Baldwin,Coopers,Lieutenant Governor,,Rep,Burt Jones,681,289,13,0,379
+Baldwin,South Milledgeville,Lieutenant Governor,,Rep,Burt Jones,119,67,7,0,45
+Baldwin,City Hall Annex,Lieutenant Governor,,Rep,Burt Jones,89,44,8,0,37
+Baldwin,Boddie,Lieutenant Governor,,Rep,Burt Jones,107,68,2,0,37
+Baldwin,Courthouse,Lieutenant Governor,,Rep,Burt Jones,79,48,6,0,25
+Baldwin,West Thomas,Lieutenant Governor,,Rep,Burt Jones,147,93,9,0,45
+Baldwin,North Milledgeville,Lieutenant Governor,,Rep,Burt Jones,687,457,28,0,202
+Baldwin,Meriwether,Lieutenant Governor,,Rep,Burt Jones,1255,772,60,0,423
+Baldwin,East Baldwin,Lieutenant Governor,,Rep,Burt Jones,1409,871,62,0,476
+Baldwin,Scottboro,Lieutenant Governor,,Dem,Charlie Bailey,188,93,13,0,82
+Baldwin,North Baldwin,Lieutenant Governor,,Dem,Charlie Bailey,593,405,55,0,133
+Baldwin,West Baldwin,Lieutenant Governor,,Dem,Charlie Bailey,479,276,64,1,138
+Baldwin,East Hardwick,Lieutenant Governor,,Dem,Charlie Bailey,348,182,34,0,132
+Baldwin,West Hardwick,Lieutenant Governor,,Dem,Charlie Bailey,1061,583,145,0,333
+Baldwin,Coopers,Lieutenant Governor,,Dem,Charlie Bailey,234,134,20,0,80
+Baldwin,South Milledgeville,Lieutenant Governor,,Dem,Charlie Bailey,425,262,61,0,102
+Baldwin,City Hall Annex,Lieutenant Governor,,Dem,Charlie Bailey,196,103,21,1,71
+Baldwin,Boddie,Lieutenant Governor,,Dem,Charlie Bailey,351,185,48,0,118
+Baldwin,Courthouse,Lieutenant Governor,,Dem,Charlie Bailey,102,64,14,0,24
+Baldwin,West Thomas,Lieutenant Governor,,Dem,Charlie Bailey,558,321,102,0,135
+Baldwin,North Milledgeville,Lieutenant Governor,,Dem,Charlie Bailey,642,422,63,0,157
+Baldwin,Meriwether,Lieutenant Governor,,Dem,Charlie Bailey,662,446,57,0,159
+Baldwin,East Baldwin,Lieutenant Governor,,Dem,Charlie Bailey,905,524,88,0,293
+Baldwin,Scottboro,Lieutenant Governor,,Lib,Ryan Graham,14,6,1,0,7
+Baldwin,North Baldwin,Lieutenant Governor,,Lib,Ryan Graham,35,18,0,0,17
+Baldwin,West Baldwin,Lieutenant Governor,,Lib,Ryan Graham,16,2,3,0,11
+Baldwin,East Hardwick,Lieutenant Governor,,Lib,Ryan Graham,13,5,0,0,8
+Baldwin,West Hardwick,Lieutenant Governor,,Lib,Ryan Graham,24,13,3,0,8
+Baldwin,Coopers,Lieutenant Governor,,Lib,Ryan Graham,16,4,1,0,11
+Baldwin,South Milledgeville,Lieutenant Governor,,Lib,Ryan Graham,7,2,1,0,4
+Baldwin,City Hall Annex,Lieutenant Governor,,Lib,Ryan Graham,6,4,0,0,2
+Baldwin,Boddie,Lieutenant Governor,,Lib,Ryan Graham,8,1,1,0,6
+Baldwin,Courthouse,Lieutenant Governor,,Lib,Ryan Graham,6,3,0,0,3
+Baldwin,West Thomas,Lieutenant Governor,,Lib,Ryan Graham,9,4,0,0,5
+Baldwin,North Milledgeville,Lieutenant Governor,,Lib,Ryan Graham,20,11,0,0,9
+Baldwin,Meriwether,Lieutenant Governor,,Lib,Ryan Graham,29,13,2,0,14
+Baldwin,East Baldwin,Lieutenant Governor,,Lib,Ryan Graham,39,17,3,0,19
+Baldwin,Scottboro,Secretary of State,,Rep,Brad Raffensperger ,331,146,17,0,168
+Baldwin,North Baldwin,Secretary of State,,Rep,Brad Raffensperger ,1784,1137,67,0,580
+Baldwin,West Baldwin,Secretary of State,,Rep,Brad Raffensperger ,653,360,20,0,273
+Baldwin,East Hardwick,Secretary of State,,Rep,Brad Raffensperger ,92,42,6,0,44
+Baldwin,West Hardwick,Secretary of State,,Rep,Brad Raffensperger ,348,211,23,0,114
+Baldwin,Coopers,Secretary of State,,Rep,Brad Raffensperger ,661,279,14,0,368
+Baldwin,South Milledgeville,Secretary of State,,Rep,Brad Raffensperger ,129,78,10,0,41
+Baldwin,City Hall Annex,Secretary of State,,Rep,Brad Raffensperger ,92,44,8,0,40
+Baldwin,Boddie,Secretary of State,,Rep,Brad Raffensperger ,115,75,4,0,36
+Baldwin,Courthouse,Secretary of State,,Rep,Brad Raffensperger ,80,49,7,0,24
+Baldwin,West Thomas,Secretary of State,,Rep,Brad Raffensperger ,169,105,12,0,52
+Baldwin,North Milledgeville,Secretary of State,,Rep,Brad Raffensperger ,713,476,29,0,208
+Baldwin,Meriwether,Secretary of State,,Rep,Brad Raffensperger ,1247,773,53,0,421
+Baldwin,East Baldwin,Secretary of State,,Rep,Brad Raffensperger ,1412,870,69,0,473
+Baldwin,Scottboro,Secretary of State,,Dem,Bee Nguyen,182,87,13,0,82
+Baldwin,North Baldwin,Secretary of State,,Dem,Bee Nguyen,561,379,56,0,126
+Baldwin,West Baldwin,Secretary of State,,Dem,Bee Nguyen,471,270,63,1,137
+Baldwin,East Hardwick,Secretary of State,,Dem,Bee Nguyen,346,177,32,0,137
+Baldwin,West Hardwick,Secretary of State,,Dem,Bee Nguyen,1024,562,140,0,322
+Baldwin,Coopers,Secretary of State,,Dem,Bee Nguyen,230,132,20,0,78
+Baldwin,South Milledgeville,Secretary of State,,Dem,Bee Nguyen,410,250,57,0,103
+Baldwin,City Hall Annex,Secretary of State,,Dem,Bee Nguyen,192,103,21,1,67
+Baldwin,Boddie,Secretary of State,,Dem,Bee Nguyen,343,174,48,0,121
+Baldwin,Courthouse,Secretary of State,,Dem,Bee Nguyen,99,62,13,0,24
+Baldwin,West Thomas,Secretary of State,,Dem,Bee Nguyen,529,303,99,0,127
+Baldwin,North Milledgeville,Secretary of State,,Dem,Bee Nguyen,610,401,63,0,146
+Baldwin,Meriwether,Secretary of State,,Dem,Bee Nguyen,615,411,59,0,145
+Baldwin,East Baldwin,Secretary of State,,Dem,Bee Nguyen,851,488,87,0,276
+Baldwin,Scottboro,Secretary of State,,Lib,Ted Metz,19,10,1,0,8
+Baldwin,North Baldwin,Secretary of State,,Lib,Ted Metz,39,21,1,0,17
+Baldwin,West Baldwin,Secretary of State,,Lib,Ted Metz,40,23,2,0,15
+Baldwin,East Hardwick,Secretary of State,,Lib,Ted Metz,15,9,0,0,6
+Baldwin,West Hardwick,Secretary of State,,Lib,Ted Metz,37,21,3,0,13
+Baldwin,Coopers,Secretary of State,,Lib,Ted Metz,35,13,0,0,22
+Baldwin,South Milledgeville,Secretary of State,,Lib,Ted Metz,10,5,1,0,4
+Baldwin,City Hall Annex,Secretary of State,,Lib,Ted Metz,7,4,0,0,3
+Baldwin,Boddie,Secretary of State,,Lib,Ted Metz,9,4,0,0,5
+Baldwin,Courthouse,Secretary of State,,Lib,Ted Metz,7,3,0,0,4
+Baldwin,West Thomas,Secretary of State,,Lib,Ted Metz,10,7,0,0,3
+Baldwin,North Milledgeville,Secretary of State,,Lib,Ted Metz,28,13,0,0,15
+Baldwin,Meriwether,Secretary of State,,Lib,Ted Metz,66,36,4,0,26
+Baldwin,East Baldwin,Secretary of State,,Lib,Ted Metz,82,47,0,0,35
+Baldwin,Scottboro,Attorney General,,Rep,Chris Carr ,336,149,16,0,171
+Baldwin,North Baldwin,Attorney General,,Rep,Chris Carr ,1754,1116,72,0,566
+Baldwin,West Baldwin,Attorney General,,Rep,Chris Carr ,662,375,14,0,273
+Baldwin,East Hardwick,Attorney General,,Rep,Chris Carr ,88,40,3,0,45
+Baldwin,West Hardwick,Attorney General,,Rep,Chris Carr ,325,195,19,0,111
+Baldwin,Coopers,Attorney General,,Rep,Chris Carr ,670,279,12,0,379
+Baldwin,South Milledgeville,Attorney General,,Rep,Chris Carr ,122,70,7,0,45
+Baldwin,City Hall Annex,Attorney General,,Rep,Chris Carr ,82,37,8,0,37
+Baldwin,Boddie,Attorney General,,Rep,Chris Carr ,104,68,2,0,34
+Baldwin,Courthouse,Attorney General,,Rep,Chris Carr ,79,49,6,0,24
+Baldwin,West Thomas,Attorney General,,Rep,Chris Carr ,145,89,9,0,47
+Baldwin,North Milledgeville,Attorney General,,Rep,Chris Carr ,692,458,29,0,205
+Baldwin,Meriwether,Attorney General,,Rep,Chris Carr ,1251,762,60,0,429
+Baldwin,East Baldwin,Attorney General,,Rep,Chris Carr ,1398,854,65,0,479
+Baldwin,Scottboro,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",195,95,15,0,85
+Baldwin,North Baldwin,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",635,433,54,0,148
+Baldwin,West Baldwin,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",496,281,68,1,146
+Baldwin,East Hardwick,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",360,185,36,0,139
+Baldwin,West Hardwick,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1082,603,143,0,336
+Baldwin,Coopers,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",248,142,22,0,84
+Baldwin,South Milledgeville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",425,264,60,0,101
+Baldwin,City Hall Annex,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",203,109,21,1,72
+Baldwin,Boddie,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",359,182,50,0,127
+Baldwin,Courthouse,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",103,62,14,0,27
+Baldwin,West Thomas,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",559,323,101,0,135
+Baldwin,North Milledgeville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",646,430,61,0,155
+Baldwin,Meriwether,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",667,453,55,0,159
+Baldwin,East Baldwin,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",943,546,91,0,306
+Baldwin,Scottboro,Attorney General,,Lib,Martin Cowen,9,5,0,0,4
+Baldwin,North Baldwin,Attorney General,,Lib,Martin Cowen,18,9,0,0,9
+Baldwin,West Baldwin,Attorney General,,Lib,Martin Cowen,13,3,2,0,8
+Baldwin,East Hardwick,Attorney General,,Lib,Martin Cowen,9,5,0,0,4
+Baldwin,West Hardwick,Attorney General,,Lib,Martin Cowen,18,7,3,0,8
+Baldwin,Coopers,Attorney General,,Lib,Martin Cowen,9,2,0,0,7
+Baldwin,South Milledgeville,Attorney General,,Lib,Martin Cowen,7,1,1,0,5
+Baldwin,City Hall Annex,Attorney General,,Lib,Martin Cowen,6,3,0,0,3
+Baldwin,Boddie,Attorney General,,Lib,Martin Cowen,7,5,0,0,2
+Baldwin,Courthouse,Attorney General,,Lib,Martin Cowen,6,4,0,0,2
+Baldwin,West Thomas,Attorney General,,Lib,Martin Cowen,9,4,1,0,4
+Baldwin,North Milledgeville,Attorney General,,Lib,Martin Cowen,17,6,2,0,9
+Baldwin,Meriwether,Attorney General,,Lib,Martin Cowen,24,15,2,0,7
+Baldwin,East Baldwin,Attorney General,,Lib,Martin Cowen,24,11,0,0,13
+Baldwin,Scottboro,Commissioner of Agriculture,,Rep,Tyler Harper,345,149,18,0,178
+Baldwin,North Baldwin,Commissioner of Agriculture,,Rep,Tyler Harper,1798,1145,73,0,580
+Baldwin,West Baldwin,Commissioner of Agriculture,,Rep,Tyler Harper,670,378,15,0,277
+Baldwin,East Hardwick,Commissioner of Agriculture,,Rep,Tyler Harper,85,39,4,0,42
+Baldwin,West Hardwick,Commissioner of Agriculture,,Rep,Tyler Harper,332,196,16,0,120
+Baldwin,Coopers,Commissioner of Agriculture,,Rep,Tyler Harper,688,291,13,0,384
+Baldwin,South Milledgeville,Commissioner of Agriculture,,Rep,Tyler Harper,117,68,7,0,42
+Baldwin,City Hall Annex,Commissioner of Agriculture,,Rep,Tyler Harper,82,38,8,0,36
+Baldwin,Boddie,Commissioner of Agriculture,,Rep,Tyler Harper,109,75,2,0,32
+Baldwin,Courthouse,Commissioner of Agriculture,,Rep,Tyler Harper,82,51,6,0,25
+Baldwin,West Thomas,Commissioner of Agriculture,,Rep,Tyler Harper,150,91,10,0,49
+Baldwin,North Milledgeville,Commissioner of Agriculture,,Rep,Tyler Harper,693,457,28,0,208
+Baldwin,Meriwether,Commissioner of Agriculture,,Rep,Tyler Harper,1281,784,64,0,433
+Baldwin,East Baldwin,Commissioner of Agriculture,,Rep,Tyler Harper,1421,866,65,0,490
+Baldwin,Scottboro,Commissioner of Agriculture,,Dem,Nakita Hemingway,185,91,13,0,81
+Baldwin,North Baldwin,Commissioner of Agriculture,,Dem,Nakita Hemingway,560,384,52,0,124
+Baldwin,West Baldwin,Commissioner of Agriculture,,Dem,Nakita Hemingway,478,274,65,1,138
+Baldwin,East Hardwick,Commissioner of Agriculture,,Dem,Nakita Hemingway,357,187,34,0,136
+Baldwin,West Hardwick,Commissioner of Agriculture,,Dem,Nakita Hemingway,1075,603,143,0,329
+Baldwin,Coopers,Commissioner of Agriculture,,Dem,Nakita Hemingway,233,132,20,0,81
+Baldwin,South Milledgeville,Commissioner of Agriculture,,Dem,Nakita Hemingway,424,261,61,0,102
+Baldwin,City Hall Annex,Commissioner of Agriculture,,Dem,Nakita Hemingway,201,106,21,1,73
+Baldwin,Boddie,Commissioner of Agriculture,,Dem,Nakita Hemingway,354,182,49,0,123
+Baldwin,Courthouse,Commissioner of Agriculture,,Dem,Nakita Hemingway,97,59,14,0,24
+Baldwin,West Thomas,Commissioner of Agriculture,,Dem,Nakita Hemingway,558,323,101,0,134
+Baldwin,North Milledgeville,Commissioner of Agriculture,,Dem,Nakita Hemingway,632,424,61,0,147
+Baldwin,Meriwether,Commissioner of Agriculture,,Dem,Nakita Hemingway,635,429,53,0,153
+Baldwin,East Baldwin,Commissioner of Agriculture,,Dem,Nakita Hemingway,895,524,84,0,287
+Baldwin,Scottboro,Commissioner of Agriculture,,Lib,David Raudabaugh,11,8,0,0,3
+Baldwin,North Baldwin,Commissioner of Agriculture,,Lib,David Raudabaugh,39,25,0,0,14
+Baldwin,West Baldwin,Commissioner of Agriculture,,Lib,David Raudabaugh,22,7,2,0,13
+Baldwin,East Hardwick,Commissioner of Agriculture,,Lib,David Raudabaugh,15,6,1,0,8
+Baldwin,West Hardwick,Commissioner of Agriculture,,Lib,David Raudabaugh,19,10,4,0,5
+Baldwin,Coopers,Commissioner of Agriculture,,Lib,David Raudabaugh,10,4,1,0,5
+Baldwin,South Milledgeville,Commissioner of Agriculture,,Lib,David Raudabaugh,11,4,1,0,6
+Baldwin,City Hall Annex,Commissioner of Agriculture,,Lib,David Raudabaugh,7,5,0,0,2
+Baldwin,Boddie,Commissioner of Agriculture,,Lib,David Raudabaugh,8,2,0,0,6
+Baldwin,Courthouse,Commissioner of Agriculture,,Lib,David Raudabaugh,8,4,0,0,4
+Baldwin,West Thomas,Commissioner of Agriculture,,Lib,David Raudabaugh,10,6,0,0,4
+Baldwin,North Milledgeville,Commissioner of Agriculture,,Lib,David Raudabaugh,27,11,2,0,14
+Baldwin,Meriwether,Commissioner of Agriculture,,Lib,David Raudabaugh,29,17,2,0,10
+Baldwin,East Baldwin,Commissioner of Agriculture,,Lib,David Raudabaugh,35,19,3,0,13
+Baldwin,Scottboro,Commissioner of Insurance,,Rep,John King ,349,154,18,0,177
+Baldwin,North Baldwin,Commissioner of Insurance,,Rep,John King ,1794,1141,70,0,583
+Baldwin,West Baldwin,Commissioner of Insurance,,Rep,John King ,680,381,16,0,283
+Baldwin,East Hardwick,Commissioner of Insurance,,Rep,John King ,90,41,5,0,44
+Baldwin,West Hardwick,Commissioner of Insurance,,Rep,John King ,344,203,23,0,118
+Baldwin,Coopers,Commissioner of Insurance,,Rep,John King ,685,287,12,0,386
+Baldwin,South Milledgeville,Commissioner of Insurance,,Rep,John King ,123,68,8,0,47
+Baldwin,City Hall Annex,Commissioner of Insurance,,Rep,John King ,82,37,7,0,38
+Baldwin,Boddie,Commissioner of Insurance,,Rep,John King ,106,68,4,0,34
+Baldwin,Courthouse,Commissioner of Insurance,,Rep,John King ,88,54,6,0,28
+Baldwin,West Thomas,Commissioner of Insurance,,Rep,John King ,151,94,9,0,48
+Baldwin,North Milledgeville,Commissioner of Insurance,,Rep,John King ,704,465,28,0,211
+Baldwin,Meriwether,Commissioner of Insurance,,Rep,John King ,1291,787,63,0,441
+Baldwin,East Baldwin,Commissioner of Insurance,,Rep,John King ,1431,876,67,0,488
+Baldwin,Scottboro,Commissioner of Insurance,,Dem,Janice Laws Robinson,190,95,13,0,82
+Baldwin,North Baldwin,Commissioner of Insurance,,Dem,Janice Laws Robinson,594,406,56,0,132
+Baldwin,West Baldwin,Commissioner of Insurance,,Dem,Janice Laws Robinson,484,272,68,1,143
+Baldwin,East Hardwick,Commissioner of Insurance,,Dem,Janice Laws Robinson,365,190,33,0,142
+Baldwin,West Hardwick,Commissioner of Insurance,,Dem,Janice Laws Robinson,1075,599,142,0,334
+Baldwin,Coopers,Commissioner of Insurance,,Dem,Janice Laws Robinson,242,138,22,0,82
+Baldwin,South Milledgeville,Commissioner of Insurance,,Dem,Janice Laws Robinson,425,264,60,0,101
+Baldwin,City Hall Annex,Commissioner of Insurance,,Dem,Janice Laws Robinson,205,109,22,1,73
+Baldwin,Boddie,Commissioner of Insurance,,Dem,Janice Laws Robinson,363,188,48,0,127
+Baldwin,Courthouse,Commissioner of Insurance,,Dem,Janice Laws Robinson,95,57,14,0,24
+Baldwin,West Thomas,Commissioner of Insurance,,Dem,Janice Laws Robinson,563,322,102,0,139
+Baldwin,North Milledgeville,Commissioner of Insurance,,Dem,Janice Laws Robinson,645,425,64,0,156
+Baldwin,Meriwether,Commissioner of Insurance,,Dem,Janice Laws Robinson,645,436,55,0,154
+Baldwin,East Baldwin,Commissioner of Insurance,,Dem,Janice Laws Robinson,909,523,87,0,299
+Baldwin,Scottboro,State School Superintendent,,Rep,Richard Woods ,349,154,18,0,177
+Baldwin,North Baldwin,State School Superintendent,,Rep,Richard Woods ,1811,1152,76,0,583
+Baldwin,West Baldwin,State School Superintendent,,Rep,Richard Woods ,683,382,18,0,283
+Baldwin,East Hardwick,State School Superintendent,,Rep,Richard Woods ,95,45,5,0,45
+Baldwin,West Hardwick,State School Superintendent,,Rep,Richard Woods ,338,201,22,0,115
+Baldwin,Coopers,State School Superintendent,,Rep,Richard Woods ,687,290,13,0,384
+Baldwin,South Milledgeville,State School Superintendent,,Rep,Richard Woods ,125,70,6,0,49
+Baldwin,City Hall Annex,State School Superintendent,,Rep,Richard Woods ,92,45,8,0,39
+Baldwin,Boddie,State School Superintendent,,Rep,Richard Woods ,112,74,3,0,35
+Baldwin,Courthouse,State School Superintendent,,Rep,Richard Woods ,87,52,6,0,29
+Baldwin,West Thomas,State School Superintendent,,Rep,Richard Woods ,161,99,11,0,51
+Baldwin,North Milledgeville,State School Superintendent,,Rep,Richard Woods ,715,469,30,0,216
+Baldwin,Meriwether,State School Superintendent,,Rep,Richard Woods ,1289,787,61,0,441
+Baldwin,East Baldwin,State School Superintendent,,Rep,Richard Woods ,1443,884,70,0,489
+Baldwin,Scottboro,State School Superintendent,,Dem,Alisha Thomas Searcy,191,95,13,0,83
+Baldwin,North Baldwin,State School Superintendent,,Dem,Alisha Thomas Searcy,581,397,51,0,133
+Baldwin,West Baldwin,State School Superintendent,,Dem,Alisha Thomas Searcy,486,275,65,1,145
+Baldwin,East Hardwick,State School Superintendent,,Dem,Alisha Thomas Searcy,363,189,32,0,142
+Baldwin,West Hardwick,State School Superintendent,,Dem,Alisha Thomas Searcy,1091,609,143,0,339
+Baldwin,Coopers,State School Superintendent,,Dem,Alisha Thomas Searcy,245,138,21,0,86
+Baldwin,South Milledgeville,State School Superintendent,,Dem,Alisha Thomas Searcy,426,263,61,0,102
+Baldwin,City Hall Annex,State School Superintendent,,Dem,Alisha Thomas Searcy,198,104,21,1,72
+Baldwin,Boddie,State School Superintendent,,Dem,Alisha Thomas Searcy,357,181,48,0,128
+Baldwin,Courthouse,State School Superintendent,,Dem,Alisha Thomas Searcy,95,59,14,0,22
+Baldwin,West Thomas,State School Superintendent,,Dem,Alisha Thomas Searcy,551,318,99,0,134
+Baldwin,North Milledgeville,State School Superintendent,,Dem,Alisha Thomas Searcy,635,420,62,0,153
+Baldwin,Meriwether,State School Superintendent,,Dem,Alisha Thomas Searcy,650,438,56,0,156
+Baldwin,East Baldwin,State School Superintendent,,Dem,Alisha Thomas Searcy,905,523,82,0,300
+Baldwin,Scottboro,Commissioner of Labor,,Rep,Bruce Thompson,338,151,17,0,170
+Baldwin,North Baldwin,Commissioner of Labor,,Rep,Bruce Thompson,1768,1132,73,0,563
+Baldwin,West Baldwin,Commissioner of Labor,,Rep,Bruce Thompson,660,369,15,0,276
+Baldwin,East Hardwick,Commissioner of Labor,,Rep,Bruce Thompson,87,43,4,0,40
+Baldwin,West Hardwick,Commissioner of Labor,,Rep,Bruce Thompson,314,185,15,0,114
+Baldwin,Coopers,Commissioner of Labor,,Rep,Bruce Thompson,676,284,12,0,380
+Baldwin,South Milledgeville,Commissioner of Labor,,Rep,Bruce Thompson,109,65,5,0,39
+Baldwin,City Hall Annex,Commissioner of Labor,,Rep,Bruce Thompson,79,37,8,0,34
+Baldwin,Boddie,Commissioner of Labor,,Rep,Bruce Thompson,101,66,3,0,32
+Baldwin,Courthouse,Commissioner of Labor,,Rep,Bruce Thompson,80,51,6,0,23
+Baldwin,West Thomas,Commissioner of Labor,,Rep,Bruce Thompson,140,84,11,0,45
+Baldwin,North Milledgeville,Commissioner of Labor,,Rep,Bruce Thompson,681,450,30,0,201
+Baldwin,Meriwether,Commissioner of Labor,,Rep,Bruce Thompson,1257,771,59,0,427
+Baldwin,East Baldwin,Commissioner of Labor,,Rep,Bruce Thompson,1404,863,65,0,476
+Baldwin,Scottboro,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",189,94,14,0,81
+Baldwin,North Baldwin,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",588,402,54,0,132
+Baldwin,West Baldwin,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",490,282,67,1,140
+Baldwin,East Hardwick,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",362,187,35,0,140
+Baldwin,West Hardwick,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1093,614,146,0,333
+Baldwin,Coopers,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",241,136,22,0,83
+Baldwin,South Milledgeville,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",433,266,62,0,105
+Baldwin,City Hall Annex,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",206,110,21,1,74
+Baldwin,Boddie,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",360,189,49,0,122
+Baldwin,Courthouse,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",101,62,13,0,26
+Baldwin,West Thomas,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",560,326,98,0,136
+Baldwin,North Milledgeville,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",635,423,58,0,154
+Baldwin,Meriwether,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",650,436,58,0,156
+Baldwin,East Baldwin,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",902,525,85,0,292
+Baldwin,Scottboro,Commissioner of Labor,,Lib,Emily Anderson,10,5,0,0,5
+Baldwin,North Baldwin,Commissioner of Labor,,Lib,Emily Anderson,34,19,0,0,15
+Baldwin,West Baldwin,Commissioner of Labor,,Lib,Emily Anderson,17,4,1,0,12
+Baldwin,East Hardwick,Commissioner of Labor,,Lib,Emily Anderson,8,2,0,0,6
+Baldwin,West Hardwick,Commissioner of Labor,,Lib,Emily Anderson,22,10,3,0,9
+Baldwin,Coopers,Commissioner of Labor,,Lib,Emily Anderson,14,6,0,0,8
+Baldwin,South Milledgeville,Commissioner of Labor,,Lib,Emily Anderson,13,5,1,0,7
+Baldwin,City Hall Annex,Commissioner of Labor,,Lib,Emily Anderson,9,4,0,0,5
+Baldwin,Boddie,Commissioner of Labor,,Lib,Emily Anderson,10,3,0,0,7
+Baldwin,Courthouse,Commissioner of Labor,,Lib,Emily Anderson,6,1,1,0,4
+Baldwin,West Thomas,Commissioner of Labor,,Lib,Emily Anderson,12,6,2,0,4
+Baldwin,North Milledgeville,Commissioner of Labor,,Lib,Emily Anderson,32,18,3,0,11
+Baldwin,Meriwether,Commissioner of Labor,,Lib,Emily Anderson,35,20,1,0,14
+Baldwin,East Baldwin,Commissioner of Labor,,Lib,Emily Anderson,47,25,2,0,20
+Baldwin,Scottboro,U.S. House,,Rep,Austin Scott ,349,154,17,0,178
+Baldwin,North Baldwin,U.S. House,,Rep,Austin Scott ,1806,1148,75,0,583
+Baldwin,West Baldwin,U.S. House,,Rep,Austin Scott ,682,382,16,0,284
+Baldwin,East Hardwick,U.S. House,,Rep,Austin Scott ,97,46,4,0,47
+Baldwin,West Hardwick,U.S. House,,Rep,Austin Scott ,335,201,20,0,114
+Baldwin,Coopers,U.S. House,,Rep,Austin Scott ,682,287,12,0,383
+Baldwin,South Milledgeville,U.S. House,,Rep,Austin Scott ,126,69,7,0,50
+Baldwin,City Hall Annex,U.S. House,,Rep,Austin Scott ,89,42,8,0,39
+Baldwin,Boddie,U.S. House,,Rep,Austin Scott ,109,72,1,0,36
+Baldwin,Courthouse,U.S. House,,Rep,Austin Scott ,83,51,6,0,26
+Baldwin,West Thomas,U.S. House,,Rep,Austin Scott ,149,91,10,0,48
+Baldwin,North Milledgeville,U.S. House,,Rep,Austin Scott ,701,465,28,0,208
+Baldwin,Meriwether,U.S. House,,Rep,Austin Scott ,1272,778,60,0,434
+Baldwin,East Baldwin,U.S. House,,Rep,Austin Scott ,1438,879,67,0,492
+Baldwin,Scottboro,U.S. House,,Dem,Darrius Butler,187,92,13,0,82
+Baldwin,North Baldwin,U.S. House,,Dem,Darrius Butler,593,408,53,0,132
+Baldwin,West Baldwin,U.S. House,,Dem,Darrius Butler,490,276,67,1,146
+Baldwin,East Hardwick,U.S. House,,Dem,Darrius Butler,359,187,34,0,138
+Baldwin,West Hardwick,U.S. House,,Dem,Darrius Butler,1096,605,147,0,344
+Baldwin,Coopers,U.S. House,,Dem,Darrius Butler,250,142,22,0,86
+Baldwin,South Milledgeville,U.S. House,,Dem,Darrius Butler,430,267,61,0,102
+Baldwin,City Hall Annex,U.S. House,,Dem,Darrius Butler,202,107,21,1,73
+Baldwin,Boddie,U.S. House,,Dem,Darrius Butler,363,187,50,0,126
+Baldwin,Courthouse,U.S. House,,Dem,Darrius Butler,99,59,14,0,26
+Baldwin,West Thomas,U.S. House,,Dem,Darrius Butler,560,322,100,0,138
+Baldwin,North Milledgeville,U.S. House,,Dem,Darrius Butler,646,426,63,0,157
+Baldwin,Meriwether,U.S. House,,Dem,Darrius Butler,663,444,58,0,161
+Baldwin,East Baldwin,U.S. House,,Dem,Darrius Butler,913,531,86,0,296
+Baldwin,Scottboro,State Senate,,Rep,"Ricky """"Rick"""" Williams",359,157,20,0,182
+Baldwin,North Baldwin,State Senate,,Rep,"Ricky """"Rick"""" Williams",1834,1158,78,0,598
+Baldwin,West Baldwin,State Senate,,Rep,"Ricky """"Rick"""" Williams",685,382,19,0,284
+Baldwin,East Hardwick,State Senate,,Rep,"Ricky """"Rick"""" Williams",101,45,7,0,49
+Baldwin,West Hardwick,State Senate,,Rep,"Ricky """"Rick"""" Williams",353,211,26,0,116
+Baldwin,Coopers,State Senate,,Rep,"Ricky """"Rick"""" Williams",696,291,13,0,392
+Baldwin,South Milledgeville,State Senate,,Rep,"Ricky """"Rick"""" Williams",128,70,10,0,48
+Baldwin,City Hall Annex,State Senate,,Rep,"Ricky """"Rick"""" Williams",92,43,9,0,40
+Baldwin,Boddie,State Senate,,Rep,"Ricky """"Rick"""" Williams",111,74,1,0,36
+Baldwin,Courthouse,State Senate,,Rep,"Ricky """"Rick"""" Williams",81,52,5,0,24
+Baldwin,West Thomas,State Senate,,Rep,"Ricky """"Rick"""" Williams",169,106,15,0,48
+Baldwin,North Milledgeville,State Senate,,Rep,"Ricky """"Rick"""" Williams",731,475,32,0,224
+Baldwin,Meriwether,State Senate,,Rep,"Ricky """"Rick"""" Williams",1317,804,63,0,450
+Baldwin,East Baldwin,State Senate,,Rep,"Ricky """"Rick"""" Williams",1466,895,74,0,497
+Baldwin,Scottboro,State Senate,,Dem,Valerie Rodgers,183,90,11,0,82
+Baldwin,North Baldwin,State Senate,,Dem,Valerie Rodgers,577,402,51,0,124
+Baldwin,West Baldwin,State Senate,,Dem,Valerie Rodgers,490,279,64,1,146
+Baldwin,East Hardwick,State Senate,,Dem,Valerie Rodgers,359,189,32,0,138
+Baldwin,West Hardwick,State Senate,,Dem,Valerie Rodgers,1075,595,139,0,341
+Baldwin,Coopers,State Senate,,Dem,Valerie Rodgers,237,138,21,0,78
+Baldwin,South Milledgeville,State Senate,,Dem,Valerie Rodgers,427,266,58,0,103
+Baldwin,City Hall Annex,State Senate,,Dem,Valerie Rodgers,201,107,20,1,73
+Baldwin,Boddie,State Senate,,Dem,Valerie Rodgers,361,186,50,0,125
+Baldwin,Courthouse,State Senate,,Dem,Valerie Rodgers,101,60,14,0,27
+Baldwin,West Thomas,State Senate,,Dem,Valerie Rodgers,542,310,95,0,137
+Baldwin,North Milledgeville,State Senate,,Dem,Valerie Rodgers,621,417,60,0,144
+Baldwin,Meriwether,State Senate,,Dem,Valerie Rodgers,628,424,55,0,149
+Baldwin,East Baldwin,State Senate,,Dem,Valerie Rodgers,902,527,83,0,292
+Baldwin,East Baldwin,State House,,Dem,Mack Jackson ,1599,946,113,0,540
+Baldwin,Scottboro,State House,,Rep,Kenneth Vance,345,153,19,0,173
+Baldwin,North Baldwin,State House,,Rep,Kenneth Vance,1777,1125,70,0,582
+Baldwin,West Baldwin,State House,,Rep,Kenneth Vance,674,378,19,0,277
+Baldwin,East Hardwick,State House,,Rep,Kenneth Vance,90,38,4,0,48
+Baldwin,West Hardwick,State House,,Rep,Kenneth Vance,336,199,26,0,111
+Baldwin,Coopers,State House,,Rep,Kenneth Vance,685,289,12,0,384
+Baldwin,South Milledgeville,State House,,Rep,Kenneth Vance,119,67,5,0,47
+Baldwin,City Hall Annex,State House,,Rep,Kenneth Vance,87,43,8,0,36
+Baldwin,Boddie,State House,,Rep,Kenneth Vance,111,75,2,0,34
+Baldwin,Courthouse,State House,,Rep,Kenneth Vance,85,50,6,0,29
+Baldwin,West Thomas,State House,,Rep,Kenneth Vance,154,90,13,0,51
+Baldwin,North Milledgeville,State House,,Rep,Kenneth Vance,702,466,27,0,209
+Baldwin,Meriwether,State House,,Rep,Kenneth Vance,1291,790,62,0,439
+Baldwin,Scottboro,State House,,Dem,Hoganne Harrison Walton,190,94,12,0,84
+Baldwin,North Baldwin,State House,,Dem,Hoganne Harrison Walton,619,424,53,0,142
+Baldwin,West Baldwin,State House,,Dem,Hoganne Harrison Walton,494,279,64,0,151
+Baldwin,East Hardwick,State House,,Dem,Hoganne Harrison Walton,373,195,34,0,144
+Baldwin,West Hardwick,State House,,Dem,Hoganne Harrison Walton,1087,599,141,0,347
+Baldwin,Coopers,State House,,Dem,Hoganne Harrison Walton,247,138,22,0,87
+Baldwin,South Milledgeville,State House,,Dem,Hoganne Harrison Walton,430,268,59,0,103
+Baldwin,City Hall Annex,State House,,Dem,Hoganne Harrison Walton,204,108,20,1,75
+Baldwin,Boddie,State House,,Dem,Hoganne Harrison Walton,364,185,50,0,129
+Baldwin,Courthouse,State House,,Dem,Hoganne Harrison Walton,99,63,14,0,22
+Baldwin,West Thomas,State House,,Dem,Hoganne Harrison Walton,560,327,97,0,136
+Baldwin,North Milledgeville,State House,,Dem,Hoganne Harrison Walton,657,429,65,0,163
+Baldwin,Meriwether,State House,,Dem,Hoganne Harrison Walton,649,437,55,0,157
+Baldwin,West Thomas,Milledgeville CC 5,,,Nicholas Bolston,91,54,10,0,27
+Baldwin,West Thomas,Milledgeville CC 5,,,"Oscar Davis, Jr.",193,112,30,0,51
+Baldwin,West Thomas,Milledgeville CC 5,,,Benjamin Lewis,66,39,17,0,10
+Baldwin,West Thomas,Milledgeville CC 5,,,Shonya Mapp,265,160,41,0,64
+Baldwin,West Thomas,Milledgeville CC 5,,,"Jessica """"Jess"""" McQuain",86,55,9,0,22
+Baldwin,Scottboro,Proposed Constitutional Amendment 1,,,Yes,452,208,26,0,218
+Baldwin,North Baldwin,Proposed Constitutional Amendment 1,,,Yes,2113,1366,116,0,631
+Baldwin,West Baldwin,Proposed Constitutional Amendment 1,,,Yes,990,560,70,1,359
+Baldwin,East Hardwick,Proposed Constitutional Amendment 1,,,Yes,369,177,30,0,162
+Baldwin,West Hardwick,Proposed Constitutional Amendment 1,,,Yes,1175,665,149,0,361
+Baldwin,Coopers,Proposed Constitutional Amendment 1,,,Yes,789,373,25,0,391
+Baldwin,South Milledgeville,Proposed Constitutional Amendment 1,,,Yes,471,289,60,0,122
+Baldwin,City Hall Annex,Proposed Constitutional Amendment 1,,,Yes,255,124,28,1,102
+Baldwin,Boddie,Proposed Constitutional Amendment 1,,,Yes,395,215,43,0,137
+Baldwin,Courthouse,Proposed Constitutional Amendment 1,,,Yes,155,97,14,0,44
+Baldwin,West Thomas,Proposed Constitutional Amendment 1,,,Yes,618,356,94,0,168
+Baldwin,North Milledgeville,Proposed Constitutional Amendment 1,,,Yes,1161,755,87,0,319
+Baldwin,Meriwether,Proposed Constitutional Amendment 1,,,Yes,1698,1079,101,0,518
+Baldwin,East Baldwin,Proposed Constitutional Amendment 1,,,Yes,2019,1214,138,0,667
+Baldwin,Scottboro,Proposed Constitutional Amendment 1,,,No,66,29,4,0,33
+Baldwin,North Baldwin,Proposed Constitutional Amendment 1,,,No,248,162,11,0,75
+Baldwin,West Baldwin,Proposed Constitutional Amendment 1,,,No,157,84,13,0,60
+Baldwin,East Hardwick,Proposed Constitutional Amendment 1,,,No,85,51,7,0,27
+Baldwin,West Hardwick,Proposed Constitutional Amendment 1,,,No,226,130,14,0,82
+Baldwin,Coopers,Proposed Constitutional Amendment 1,,,No,129,53,8,0,68
+Baldwin,South Milledgeville,Proposed Constitutional Amendment 1,,,No,64,33,4,0,27
+Baldwin,City Hall Annex,Proposed Constitutional Amendment 1,,,No,30,19,0,0,11
+Baldwin,Boddie,Proposed Constitutional Amendment 1,,,No,78,45,6,0,27
+Baldwin,Courthouse,Proposed Constitutional Amendment 1,,,No,31,17,6,0,8
+Baldwin,West Thomas,Proposed Constitutional Amendment 1,,,No,92,60,13,0,19
+Baldwin,North Milledgeville,Proposed Constitutional Amendment 1,,,No,167,115,4,0,48
+Baldwin,Meriwether,Proposed Constitutional Amendment 1,,,No,222,135,13,0,74
+Baldwin,East Baldwin,Proposed Constitutional Amendment 1,,,No,294,172,14,0,108
+Baldwin,Scottboro,Proposed Constitutional Amendment 2,,,Yes,476,217,28,0,231
+Baldwin,North Baldwin,Proposed Constitutional Amendment 2,,,Yes,2173,1409,119,0,645
+Baldwin,West Baldwin,Proposed Constitutional Amendment 2,,,Yes,1037,581,72,1,383
+Baldwin,East Hardwick,Proposed Constitutional Amendment 2,,,Yes,402,195,31,0,176
+Baldwin,West Hardwick,Proposed Constitutional Amendment 2,,,Yes,1249,702,148,0,399
+Baldwin,Coopers,Proposed Constitutional Amendment 2,,,Yes,805,375,30,0,400
+Baldwin,South Milledgeville,Proposed Constitutional Amendment 2,,,Yes,502,303,63,0,136
+Baldwin,City Hall Annex,Proposed Constitutional Amendment 2,,,Yes,251,120,27,1,103
+Baldwin,Boddie,Proposed Constitutional Amendment 2,,,Yes,421,225,46,0,150
+Baldwin,Courthouse,Proposed Constitutional Amendment 2,,,Yes,174,109,18,0,47
+Baldwin,West Thomas,Proposed Constitutional Amendment 2,,,Yes,644,373,102,0,169
+Baldwin,North Milledgeville,Proposed Constitutional Amendment 2,,,Yes,1192,784,83,0,325
+Baldwin,Meriwether,Proposed Constitutional Amendment 2,,,Yes,1742,1098,107,0,537
+Baldwin,East Baldwin,Proposed Constitutional Amendment 2,,,Yes,2097,1263,140,0,694
+Baldwin,Scottboro,Proposed Constitutional Amendment 2,,,No,52,23,3,0,26
+Baldwin,North Baldwin,Proposed Constitutional Amendment 2,,,No,202,127,10,0,65
+Baldwin,West Baldwin,Proposed Constitutional Amendment 2,,,No,117,69,10,0,38
+Baldwin,East Hardwick,Proposed Constitutional Amendment 2,,,No,53,35,4,0,14
+Baldwin,West Hardwick,Proposed Constitutional Amendment 2,,,No,155,91,14,0,50
+Baldwin,Coopers,Proposed Constitutional Amendment 2,,,No,114,47,3,0,64
+Baldwin,South Milledgeville,Proposed Constitutional Amendment 2,,,No,42,23,4,0,15
+Baldwin,City Hall Annex,Proposed Constitutional Amendment 2,,,No,35,24,1,0,10
+Baldwin,Boddie,Proposed Constitutional Amendment 2,,,No,52,35,2,0,15
+Baldwin,Courthouse,Proposed Constitutional Amendment 2,,,No,15,8,2,0,5
+Baldwin,West Thomas,Proposed Constitutional Amendment 2,,,No,66,41,6,0,19
+Baldwin,North Milledgeville,Proposed Constitutional Amendment 2,,,No,149,95,8,0,46
+Baldwin,Meriwether,Proposed Constitutional Amendment 2,,,No,183,119,4,0,60
+Baldwin,East Baldwin,Proposed Constitutional Amendment 2,,,No,228,133,9,0,86
+Baldwin,Scottboro,Statewide Referendum Question A,,,Yes,349,149,17,0,183
+Baldwin,North Baldwin,Statewide Referendum Question A,,,Yes,1488,932,75,0,481
+Baldwin,West Baldwin,Statewide Referendum Question A,,,Yes,700,380,37,1,282
+Baldwin,East Hardwick,Statewide Referendum Question A,,,Yes,287,136,20,0,131
+Baldwin,West Hardwick,Statewide Referendum Question A,,,Yes,831,479,74,0,278
+Baldwin,Coopers,Statewide Referendum Question A,,,Yes,576,254,19,0,303
+Baldwin,South Milledgeville,Statewide Referendum Question A,,,Yes,285,162,16,0,107
+Baldwin,City Hall Annex,Statewide Referendum Question A,,,Yes,163,77,10,1,75
+Baldwin,Boddie,Statewide Referendum Question A,,,Yes,253,134,24,0,95
+Baldwin,Courthouse,Statewide Referendum Question A,,,Yes,111,71,10,0,30
+Baldwin,West Thomas,Statewide Referendum Question A,,,Yes,357,202,41,0,114
+Baldwin,North Milledgeville,Statewide Referendum Question A,,,Yes,747,493,34,0,220
+Baldwin,Meriwether,Statewide Referendum Question A,,,Yes,1150,716,50,0,384
+Baldwin,East Baldwin,Statewide Referendum Question A,,,Yes,1472,857,73,0,542
+Baldwin,Scottboro,Statewide Referendum Question A,,,No,168,85,13,0,70
+Baldwin,North Baldwin,Statewide Referendum Question A,,,No,849,582,48,0,219
+Baldwin,West Baldwin,Statewide Referendum Question A,,,No,443,257,45,0,141
+Baldwin,East Hardwick,Statewide Referendum Question A,,,No,173,96,18,0,59
+Baldwin,West Hardwick,Statewide Referendum Question A,,,No,557,305,89,0,163
+Baldwin,Coopers,Statewide Referendum Question A,,,No,334,166,14,0,154
+Baldwin,South Milledgeville,Statewide Referendum Question A,,,No,245,156,46,0,43
+Baldwin,City Hall Annex,Statewide Referendum Question A,,,No,118,63,18,0,37
+Baldwin,Boddie,Statewide Referendum Question A,,,No,215,121,25,0,69
+Baldwin,Courthouse,Statewide Referendum Question A,,,No,76,45,10,0,21
+Baldwin,West Thomas,Statewide Referendum Question A,,,No,345,210,66,0,69
+Baldwin,North Milledgeville,Statewide Referendum Question A,,,No,576,374,54,0,148
+Baldwin,Meriwether,Statewide Referendum Question A,,,No,754,487,60,0,207
+Baldwin,East Baldwin,Statewide Referendum Question A,,,No,836,519,73,0,244
+Baldwin,Scottboro,Statewide Referendum Question B,,,Yes,407,181,21,0,205
+Baldwin,North Baldwin,Statewide Referendum Question B,,,Yes,1835,1166,94,0,575
+Baldwin,West Baldwin,Statewide Referendum Question B,,,Yes,850,464,48,1,337
+Baldwin,East Hardwick,Statewide Referendum Question B,,,Yes,314,149,24,0,141
+Baldwin,West Hardwick,Statewide Referendum Question B,,,Yes,915,524,92,0,299
+Baldwin,Coopers,Statewide Referendum Question B,,,Yes,702,323,20,0,359
+Baldwin,South Milledgeville,Statewide Referendum Question B,,,Yes,343,200,21,0,122
+Baldwin,City Hall Annex,Statewide Referendum Question B,,,Yes,202,95,13,1,93
+Baldwin,Boddie,Statewide Referendum Question B,,,Yes,313,174,27,0,112
+Baldwin,Courthouse,Statewide Referendum Question B,,,Yes,142,84,16,0,42
+Baldwin,West Thomas,Statewide Referendum Question B,,,Yes,427,245,45,0,137
+Baldwin,North Milledgeville,Statewide Referendum Question B,,,Yes,962,637,50,0,275
+Baldwin,Meriwether,Statewide Referendum Question B,,,Yes,1454,897,85,0,472
+Baldwin,East Baldwin,Statewide Referendum Question B,,,Yes,1764,1054,92,0,618
+Baldwin,Scottboro,Statewide Referendum Question B,,,No,113,55,9,0,49
+Baldwin,North Baldwin,Statewide Referendum Question B,,,No,510,352,30,0,128
+Baldwin,West Baldwin,Statewide Referendum Question B,,,No,298,177,35,0,86
+Baldwin,East Hardwick,Statewide Referendum Question B,,,No,145,82,13,0,50
+Baldwin,West Hardwick,Statewide Referendum Question B,,,No,474,260,72,0,142
+Baldwin,Coopers,Statewide Referendum Question B,,,No,209,101,13,0,95
+Baldwin,South Milledgeville,Statewide Referendum Question B,,,No,190,120,42,0,28
+Baldwin,City Hall Annex,Statewide Referendum Question B,,,No,79,46,13,0,20
+Baldwin,Boddie,Statewide Referendum Question B,,,No,153,81,22,0,50
+Baldwin,Courthouse,Statewide Referendum Question B,,,No,46,33,4,0,9
+Baldwin,West Thomas,Statewide Referendum Question B,,,No,278,168,63,0,47
+Baldwin,North Milledgeville,Statewide Referendum Question B,,,No,368,235,38,0,95
+Baldwin,Meriwether,Statewide Referendum Question B,,,No,458,306,31,0,121
+Baldwin,East Baldwin,Statewide Referendum Question B,,,No,541,323,54,0,164

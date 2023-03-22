@@ -1,0 +1,216 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Twiggs,Dry Branch,U.S. Senate,,Rep,Herschel Junior Walker,563,179,13,0,371
+Twiggs,Golden Isles,U.S. Senate,,Rep,Herschel Junior Walker,378,152,10,0,216
+Twiggs,Higgsville,U.S. Senate,,Rep,Herschel Junior Walker,343,133,11,0,199
+Twiggs,Jeffersonville-Ware,U.S. Senate,,Rep,Herschel Junior Walker,332,175,10,0,147
+Twiggs,Shady Grove-Tarvers,U.S. Senate,,Rep,Herschel Junior Walker,270,127,7,0,136
+Twiggs,Dry Branch,U.S. Senate,,Dem,Raphael Warnock ,140,62,13,0,65
+Twiggs,Golden Isles,U.S. Senate,,Dem,Raphael Warnock ,574,209,106,5,254
+Twiggs,Higgsville,U.S. Senate,,Dem,Raphael Warnock ,119,59,6,0,54
+Twiggs,Jeffersonville-Ware,U.S. Senate,,Dem,Raphael Warnock ,534,263,99,0,172
+Twiggs,Shady Grove-Tarvers,U.S. Senate,,Dem,Raphael Warnock ,234,101,53,0,80
+Twiggs,Dry Branch,U.S. Senate,,Lib,Chase Oliver,19,5,0,0,14
+Twiggs,Golden Isles,U.S. Senate,,Lib,Chase Oliver,9,1,1,0,7
+Twiggs,Higgsville,U.S. Senate,,Lib,Chase Oliver,3,3,0,0,0
+Twiggs,Jeffersonville-Ware,U.S. Senate,,Lib,Chase Oliver,7,1,3,0,3
+Twiggs,Shady Grove-Tarvers,U.S. Senate,,Lib,Chase Oliver,7,1,2,0,4
+Twiggs,Dry Branch,Governor,,Rep,Brian Kemp ,594,187,16,0,391
+Twiggs,Golden Isles,Governor,,Rep,Brian Kemp ,402,155,13,0,234
+Twiggs,Higgsville,Governor,,Rep,Brian Kemp ,360,140,12,0,208
+Twiggs,Jeffersonville-Ware,Governor,,Rep,Brian Kemp ,343,179,10,0,154
+Twiggs,Shady Grove-Tarvers,Governor,,Rep,Brian Kemp ,281,135,7,0,139
+Twiggs,Dry Branch,Governor,,Dem,Stacey Abrams,125,57,10,0,58
+Twiggs,Golden Isles,Governor,,Dem,Stacey Abrams,553,208,103,5,237
+Twiggs,Higgsville,Governor,,Dem,Stacey Abrams,107,55,5,0,47
+Twiggs,Jeffersonville-Ware,Governor,,Dem,Stacey Abrams,528,256,103,0,169
+Twiggs,Shady Grove-Tarvers,Governor,,Dem,Stacey Abrams,229,95,55,0,79
+Twiggs,Dry Branch,Governor,,Lib,Shane Hazel,7,2,0,0,5
+Twiggs,Golden Isles,Governor,,Lib,Shane Hazel,5,0,1,0,4
+Twiggs,Higgsville,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Twiggs,Jeffersonville-Ware,Governor,,Lib,Shane Hazel,2,2,0,0,0
+Twiggs,Shady Grove-Tarvers,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Twiggs,Dry Branch,Lieutenant Governor,,Rep,Burt Jones,582,185,16,0,381
+Twiggs,Golden Isles,Lieutenant Governor,,Rep,Burt Jones,393,155,13,0,225
+Twiggs,Higgsville,Lieutenant Governor,,Rep,Burt Jones,349,138,11,0,200
+Twiggs,Jeffersonville-Ware,Lieutenant Governor,,Rep,Burt Jones,330,172,10,0,148
+Twiggs,Shady Grove-Tarvers,Lieutenant Governor,,Rep,Burt Jones,269,127,8,0,134
+Twiggs,Dry Branch,Lieutenant Governor,,Dem,Charlie Bailey,122,58,10,0,54
+Twiggs,Golden Isles,Lieutenant Governor,,Dem,Charlie Bailey,536,196,103,5,232
+Twiggs,Higgsville,Lieutenant Governor,,Dem,Charlie Bailey,100,54,6,0,40
+Twiggs,Jeffersonville-Ware,Lieutenant Governor,,Dem,Charlie Bailey,519,252,102,0,165
+Twiggs,Shady Grove-Tarvers,Lieutenant Governor,,Dem,Charlie Bailey,216,93,53,0,70
+Twiggs,Dry Branch,Lieutenant Governor,,Lib,Ryan Graham,12,2,0,0,10
+Twiggs,Golden Isles,Lieutenant Governor,,Lib,Ryan Graham,13,4,0,0,9
+Twiggs,Higgsville,Lieutenant Governor,,Lib,Ryan Graham,7,3,0,0,4
+Twiggs,Jeffersonville-Ware,Lieutenant Governor,,Lib,Ryan Graham,7,4,0,0,3
+Twiggs,Shady Grove-Tarvers,Lieutenant Governor,,Lib,Ryan Graham,10,5,0,0,5
+Twiggs,Dry Branch,Secretary of State,,Rep,Brad Raffensperger ,557,178,14,0,365
+Twiggs,Golden Isles,Secretary of State,,Rep,Brad Raffensperger ,391,150,13,0,228
+Twiggs,Higgsville,Secretary of State,,Rep,Brad Raffensperger ,339,136,10,0,193
+Twiggs,Jeffersonville-Ware,Secretary of State,,Rep,Brad Raffensperger ,333,177,13,0,143
+Twiggs,Shady Grove-Tarvers,Secretary of State,,Rep,Brad Raffensperger ,252,121,8,0,123
+Twiggs,Dry Branch,Secretary of State,,Dem,Bee Nguyen,120,58,10,0,52
+Twiggs,Golden Isles,Secretary of State,,Dem,Bee Nguyen,530,199,102,5,224
+Twiggs,Higgsville,Secretary of State,,Dem,Bee Nguyen,104,55,5,0,44
+Twiggs,Jeffersonville-Ware,Secretary of State,,Dem,Bee Nguyen,509,245,97,0,167
+Twiggs,Shady Grove-Tarvers,Secretary of State,,Dem,Bee Nguyen,220,93,53,0,74
+Twiggs,Dry Branch,Secretary of State,,Lib,Ted Metz,35,8,2,0,25
+Twiggs,Golden Isles,Secretary of State,,Lib,Ted Metz,17,3,1,0,13
+Twiggs,Higgsville,Secretary of State,,Lib,Ted Metz,13,3,2,0,8
+Twiggs,Jeffersonville-Ware,Secretary of State,,Lib,Ted Metz,17,7,1,0,9
+Twiggs,Shady Grove-Tarvers,Secretary of State,,Lib,Ted Metz,20,9,1,0,10
+Twiggs,Dry Branch,Attorney General,,Rep,Chris Carr ,575,184,14,0,377
+Twiggs,Golden Isles,Attorney General,,Rep,Chris Carr ,389,151,11,0,227
+Twiggs,Higgsville,Attorney General,,Rep,Chris Carr ,343,139,11,0,193
+Twiggs,Jeffersonville-Ware,Attorney General,,Rep,Chris Carr ,327,176,10,0,141
+Twiggs,Shady Grove-Tarvers,Attorney General,,Rep,Chris Carr ,264,124,9,0,131
+Twiggs,Dry Branch,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",136,59,11,0,66
+Twiggs,Golden Isles,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",552,204,105,5,238
+Twiggs,Higgsville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",108,56,6,0,46
+Twiggs,Jeffersonville-Ware,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",520,247,101,0,172
+Twiggs,Shady Grove-Tarvers,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",225,94,53,0,78
+Twiggs,Dry Branch,Attorney General,,Lib,Martin Cowen,8,4,0,0,4
+Twiggs,Golden Isles,Attorney General,,Lib,Martin Cowen,9,3,0,0,6
+Twiggs,Higgsville,Attorney General,,Lib,Martin Cowen,4,1,0,0,3
+Twiggs,Jeffersonville-Ware,Attorney General,,Lib,Martin Cowen,11,4,0,0,7
+Twiggs,Shady Grove-Tarvers,Attorney General,,Lib,Martin Cowen,10,7,0,0,3
+Twiggs,Dry Branch,Commissioner of Agriculture,,Rep,Tyler Harper,590,189,16,0,385
+Twiggs,Golden Isles,Commissioner of Agriculture,,Rep,Tyler Harper,394,153,11,0,230
+Twiggs,Higgsville,Commissioner of Agriculture,,Rep,Tyler Harper,348,138,11,0,199
+Twiggs,Jeffersonville-Ware,Commissioner of Agriculture,,Rep,Tyler Harper,333,176,10,0,147
+Twiggs,Shady Grove-Tarvers,Commissioner of Agriculture,,Rep,Tyler Harper,271,130,7,0,134
+Twiggs,Dry Branch,Commissioner of Agriculture,,Dem,Nakita Hemingway,120,55,10,0,55
+Twiggs,Golden Isles,Commissioner of Agriculture,,Dem,Nakita Hemingway,542,202,106,5,229
+Twiggs,Higgsville,Commissioner of Agriculture,,Dem,Nakita Hemingway,100,53,6,0,41
+Twiggs,Jeffersonville-Ware,Commissioner of Agriculture,,Dem,Nakita Hemingway,511,246,101,0,164
+Twiggs,Shady Grove-Tarvers,Commissioner of Agriculture,,Dem,Nakita Hemingway,213,88,55,0,70
+Twiggs,Dry Branch,Commissioner of Agriculture,,Lib,David Raudabaugh,9,2,0,0,7
+Twiggs,Golden Isles,Commissioner of Agriculture,,Lib,David Raudabaugh,10,1,0,0,9
+Twiggs,Higgsville,Commissioner of Agriculture,,Lib,David Raudabaugh,8,4,0,0,4
+Twiggs,Jeffersonville-Ware,Commissioner of Agriculture,,Lib,David Raudabaugh,14,6,0,0,8
+Twiggs,Shady Grove-Tarvers,Commissioner of Agriculture,,Lib,David Raudabaugh,15,8,0,0,7
+Twiggs,Dry Branch,Commissioner of Insurance,,Rep,John King ,586,187,16,0,383
+Twiggs,Golden Isles,Commissioner of Insurance,,Rep,John King ,396,151,8,0,237
+Twiggs,Higgsville,Commissioner of Insurance,,Rep,John King ,350,140,11,0,199
+Twiggs,Jeffersonville-Ware,Commissioner of Insurance,,Rep,John King ,338,177,10,0,151
+Twiggs,Shady Grove-Tarvers,Commissioner of Insurance,,Rep,John King ,275,129,9,0,137
+Twiggs,Dry Branch,Commissioner of Insurance,,Dem,Janice Laws Robinson,131,57,10,0,64
+Twiggs,Golden Isles,Commissioner of Insurance,,Dem,Janice Laws Robinson,554,205,109,5,235
+Twiggs,Higgsville,Commissioner of Insurance,,Dem,Janice Laws Robinson,102,53,6,0,43
+Twiggs,Jeffersonville-Ware,Commissioner of Insurance,,Dem,Janice Laws Robinson,521,251,102,0,168
+Twiggs,Shady Grove-Tarvers,Commissioner of Insurance,,Dem,Janice Laws Robinson,218,91,53,0,74
+Twiggs,Dry Branch,State School Superintendent,,Rep,Richard Woods ,586,189,15,0,382
+Twiggs,Golden Isles,State School Superintendent,,Rep,Richard Woods ,408,155,13,0,240
+Twiggs,Higgsville,State School Superintendent,,Rep,Richard Woods ,351,141,12,0,198
+Twiggs,Jeffersonville-Ware,State School Superintendent,,Rep,Richard Woods ,336,174,10,0,152
+Twiggs,Shady Grove-Tarvers,State School Superintendent,,Rep,Richard Woods ,279,128,12,0,139
+Twiggs,Dry Branch,State School Superintendent,,Dem,Alisha Thomas Searcy,128,57,11,0,60
+Twiggs,Golden Isles,State School Superintendent,,Dem,Alisha Thomas Searcy,543,203,104,5,231
+Twiggs,Higgsville,State School Superintendent,,Dem,Alisha Thomas Searcy,98,52,5,0,41
+Twiggs,Jeffersonville-Ware,State School Superintendent,,Dem,Alisha Thomas Searcy,521,252,102,0,167
+Twiggs,Shady Grove-Tarvers,State School Superintendent,,Dem,Alisha Thomas Searcy,218,93,49,0,76
+Twiggs,Dry Branch,Commissioner of Labor,,Rep,Bruce Thompson,585,187,15,0,383
+Twiggs,Golden Isles,Commissioner of Labor,,Rep,Bruce Thompson,386,152,9,0,225
+Twiggs,Higgsville,Commissioner of Labor,,Rep,Bruce Thompson,344,139,11,0,194
+Twiggs,Jeffersonville-Ware,Commissioner of Labor,,Rep,Bruce Thompson,328,174,10,0,144
+Twiggs,Shady Grove-Tarvers,Commissioner of Labor,,Rep,Bruce Thompson,269,126,7,0,136
+Twiggs,Dry Branch,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",121,56,10,0,55
+Twiggs,Golden Isles,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",544,203,107,5,229
+Twiggs,Higgsville,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",104,55,6,0,43
+Twiggs,Jeffersonville-Ware,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",520,248,102,0,170
+Twiggs,Shady Grove-Tarvers,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",218,89,54,0,75
+Twiggs,Dry Branch,Commissioner of Labor,,Lib,Emily Anderson,11,3,0,0,8
+Twiggs,Golden Isles,Commissioner of Labor,,Lib,Emily Anderson,18,3,1,0,14
+Twiggs,Higgsville,Commissioner of Labor,,Lib,Emily Anderson,4,2,0,0,2
+Twiggs,Jeffersonville-Ware,Commissioner of Labor,,Lib,Emily Anderson,11,6,0,0,5
+Twiggs,Shady Grove-Tarvers,Commissioner of Labor,,Lib,Emily Anderson,10,6,0,0,4
+Twiggs,Dry Branch,U.S. House,,Rep,Austin Scott ,593,188,15,0,390
+Twiggs,Golden Isles,U.S. House,,Rep,Austin Scott ,394,155,11,0,228
+Twiggs,Higgsville,U.S. House,,Rep,Austin Scott ,351,140,11,0,200
+Twiggs,Jeffersonville-Ware,U.S. House,,Rep,Austin Scott ,338,180,10,0,148
+Twiggs,Shady Grove-Tarvers,U.S. House,,Rep,Austin Scott ,279,132,11,0,136
+Twiggs,Dry Branch,U.S. House,,Dem,Darrius Butler,128,59,11,0,58
+Twiggs,Golden Isles,U.S. House,,Dem,Darrius Butler,547,201,104,5,237
+Twiggs,Higgsville,U.S. House,,Dem,Darrius Butler,101,54,5,0,42
+Twiggs,Jeffersonville-Ware,U.S. House,,Dem,Darrius Butler,515,246,99,0,170
+Twiggs,Shady Grove-Tarvers,U.S. House,,Dem,Darrius Butler,220,93,50,0,77
+Twiggs,Dry Branch,State Senate,,Dem,"David E. Lucas, Sr. ",402,144,14,0,244
+Twiggs,Golden Isles,State Senate,,Dem,"David E. Lucas, Sr. ",717,264,108,5,340
+Twiggs,Higgsville,State Senate,,Dem,"David E. Lucas, Sr. ",274,126,8,0,140
+Twiggs,Jeffersonville-Ware,State Senate,,Dem,"David E. Lucas, Sr. ",663,323,98,0,242
+Twiggs,Shady Grove-Tarvers,State Senate,,Dem,"David E. Lucas, Sr. ",362,156,59,0,147
+Twiggs,Dry Branch,State House,,Rep,Danny Mathis ,637,212,17,0,408
+Twiggs,Golden Isles,State House,,Rep,Danny Mathis ,638,230,41,4,363
+Twiggs,Higgsville,State House,,Rep,Danny Mathis ,388,156,14,0,218
+Twiggs,Jeffersonville-Ware,State House,,Rep,Danny Mathis ,544,286,38,0,220
+Twiggs,Shady Grove-Tarvers,State House,,Rep,Danny Mathis ,376,183,28,0,165
+Twiggs,Dry Branch,Board of Education,,Rep,Thomas Carstarphen,590,190,16,0,384
+Twiggs,Golden Isles,Board of Education,,Rep,Thomas Carstarphen,397,153,13,0,231
+Twiggs,Higgsville,Board of Education,,Rep,Thomas Carstarphen,366,144,11,0,211
+Twiggs,Jeffersonville-Ware,Board of Education,,Rep,Thomas Carstarphen,361,193,14,0,154
+Twiggs,Shady Grove-Tarvers,Board of Education,,Rep,Thomas Carstarphen,285,128,9,0,148
+Twiggs,Dry Branch,Board of Education,,Dem,"Jacquez """"Rell"""" Harris ",122,55,10,0,57
+Twiggs,Golden Isles,Board of Education,,Dem,"Jacquez """"Rell"""" Harris ",539,197,103,5,234
+Twiggs,Higgsville,Board of Education,,Dem,"Jacquez """"Rell"""" Harris ",90,50,6,0,34
+Twiggs,Jeffersonville-Ware,Board of Education,,Dem,"Jacquez """"Rell"""" Harris ",499,236,98,0,165
+Twiggs,Shady Grove-Tarvers,Board of Education,,Dem,"Jacquez """"Rell"""" Harris ",206,88,52,0,66
+Twiggs,Dry Branch,Board of Education,,Dem,"Isiah """"Mike"""" Rouse, Jr. ",26,8,0,0,18
+Twiggs,Higgsville,Board of Education,,Dem,"Isiah """"Mike"""" Rouse, Jr. ",0,0,0,0,0
+Twiggs,Jeffersonville-Ware,Board of Education,,Dem,"Isiah """"Mike"""" Rouse, Jr. ",678,335,99,0,244
+Twiggs,Golden Isles,Board of Education,,Dem,Rhonda Marie King ,710,257,107,5,341
+Twiggs,Shady Grove-Tarvers,Board of Education,,Dem,Rhonda Marie King ,97,34,29,0,34
+Twiggs,Dry Branch,Soil and Water,,,Alan Sanders,587,203,18,0,366
+Twiggs,Golden Isles,Soil and Water,,,Alan Sanders,724,266,83,4,371
+Twiggs,Higgsville,Soil and Water,,,Alan Sanders,364,157,15,0,192
+Twiggs,Jeffersonville-Ware,Soil and Water,,,Alan Sanders,603,302,66,0,235
+Twiggs,Shady Grove-Tarvers,Soil and Water,,,Alan Sanders,357,164,35,0,158
+Twiggs,Dry Branch,Proposed Constitutional Amendment 1,,,Yes,588,195,20,0,373
+Twiggs,Golden Isles,Proposed Constitutional Amendment 1,,,Yes,753,275,100,5,373
+Twiggs,Higgsville,Proposed Constitutional Amendment 1,,,Yes,368,159,13,0,196
+Twiggs,Jeffersonville-Ware,Proposed Constitutional Amendment 1,,,Yes,678,353,75,0,250
+Twiggs,Shady Grove-Tarvers,Proposed Constitutional Amendment 1,,,Yes,394,179,45,0,170
+Twiggs,Dry Branch,Proposed Constitutional Amendment 1,,,No,114,42,6,0,66
+Twiggs,Golden Isles,Proposed Constitutional Amendment 1,,,No,156,63,13,0,80
+Twiggs,Higgsville,Proposed Constitutional Amendment 1,,,No,75,32,4,0,39
+Twiggs,Jeffersonville-Ware,Proposed Constitutional Amendment 1,,,No,142,63,25,0,54
+Twiggs,Shady Grove-Tarvers,Proposed Constitutional Amendment 1,,,No,67,33,10,0,24
+Twiggs,Dry Branch,Proposed Constitutional Amendment 2,,,Yes,620,209,23,0,388
+Twiggs,Golden Isles,Proposed Constitutional Amendment 2,,,Yes,837,310,106,5,416
+Twiggs,Higgsville,Proposed Constitutional Amendment 2,,,Yes,380,168,13,0,199
+Twiggs,Jeffersonville-Ware,Proposed Constitutional Amendment 2,,,Yes,746,378,94,0,274
+Twiggs,Shady Grove-Tarvers,Proposed Constitutional Amendment 2,,,Yes,434,192,53,0,189
+Twiggs,Dry Branch,Proposed Constitutional Amendment 2,,,No,91,32,3,0,56
+Twiggs,Golden Isles,Proposed Constitutional Amendment 2,,,No,88,33,7,0,48
+Twiggs,Higgsville,Proposed Constitutional Amendment 2,,,No,65,26,4,0,35
+Twiggs,Jeffersonville-Ware,Proposed Constitutional Amendment 2,,,No,87,42,11,0,34
+Twiggs,Shady Grove-Tarvers,Proposed Constitutional Amendment 2,,,No,38,19,4,0,15
+Twiggs,Dry Branch,Statewide Referendum Question A,,,Yes,469,161,12,0,296
+Twiggs,Golden Isles,Statewide Referendum Question A,,,Yes,569,215,50,4,300
+Twiggs,Higgsville,Statewide Referendum Question A,,,Yes,311,135,4,0,172
+Twiggs,Jeffersonville-Ware,Statewide Referendum Question A,,,Yes,509,245,53,0,211
+Twiggs,Shady Grove-Tarvers,Statewide Referendum Question A,,,Yes,287,133,25,0,129
+Twiggs,Dry Branch,Statewide Referendum Question A,,,No,232,77,12,0,143
+Twiggs,Golden Isles,Statewide Referendum Question A,,,No,342,123,61,1,157
+Twiggs,Higgsville,Statewide Referendum Question A,,,No,133,58,13,0,62
+Twiggs,Jeffersonville-Ware,Statewide Referendum Question A,,,No,316,166,53,0,97
+Twiggs,Shady Grove-Tarvers,Statewide Referendum Question A,,,No,170,75,28,0,67
+Twiggs,Dry Branch,Statewide Referendum Question B,,,Yes,582,194,15,0,373
+Twiggs,Golden Isles,Statewide Referendum Question B,,,Yes,674,253,69,4,348
+Twiggs,Higgsville,Statewide Referendum Question B,,,Yes,351,144,9,0,198
+Twiggs,Jeffersonville-Ware,Statewide Referendum Question B,,,Yes,593,294,58,0,241
+Twiggs,Shady Grove-Tarvers,Statewide Referendum Question B,,,Yes,345,163,30,0,152
+Twiggs,Dry Branch,Statewide Referendum Question B,,,No,117,45,9,0,63
+Twiggs,Golden Isles,Statewide Referendum Question B,,,No,237,85,43,1,108
+Twiggs,Higgsville,Statewide Referendum Question B,,,No,96,48,8,0,40
+Twiggs,Jeffersonville-Ware,Statewide Referendum Question B,,,No,235,120,45,0,70
+Twiggs,Shady Grove-Tarvers,Statewide Referendum Question B,,,No,118,46,26,0,46
+Twiggs,Dry Branch,TSPLOST,,,Yes,339,117,14,0,208
+Twiggs,Golden Isles,TSPLOST,,,Yes,561,219,77,3,262
+Twiggs,Higgsville,TSPLOST,,,Yes,242,107,8,0,127
+Twiggs,Jeffersonville-Ware,TSPLOST,,,Yes,491,246,63,0,182
+Twiggs,Shady Grove-Tarvers,TSPLOST,,,Yes,292,127,44,0,121
+Twiggs,Dry Branch,TSPLOST,,,No,368,124,12,0,232
+Twiggs,Golden Isles,TSPLOST,,,No,355,122,36,2,195
+Twiggs,Higgsville,TSPLOST,,,No,208,86,9,0,113
+Twiggs,Jeffersonville-Ware,TSPLOST,,,No,344,173,43,0,128
+Twiggs,Shady Grove-Tarvers,TSPLOST,,,No,178,85,16,0,77

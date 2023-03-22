@@ -1,0 +1,335 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Cook,Cecil,U.S. Senate,,Rep,Herschel Junior Walker,542,318,11,0,213
+Cook,Delle Beamguard,U.S. Senate,,Rep,Herschel Junior Walker,999,621,37,0,341
+Cook,Elm Pine,U.S. Senate,,Rep,Herschel Junior Walker,15,5,2,0,8
+Cook,Lenox,U.S. Senate,,Rep,Herschel Junior Walker,575,217,13,0,345
+Cook,Massee,U.S. Senate,,Rep,Herschel Junior Walker,435,280,8,0,147
+Cook,New Life Baptist Church,U.S. Senate,,Rep,Herschel Junior Walker,612,304,16,0,292
+Cook,Riverbend,U.S. Senate,,Rep,Herschel Junior Walker,621,381,33,0,207
+Cook,Sparks,U.S. Senate,,Rep,Herschel Junior Walker,145,68,4,0,73
+Cook,Cecil,U.S. Senate,,Dem,Raphael Warnock ,357,218,33,0,106
+Cook,Delle Beamguard,U.S. Senate,,Dem,Raphael Warnock ,297,167,33,0,97
+Cook,Elm Pine,U.S. Senate,,Dem,Raphael Warnock ,207,89,26,0,92
+Cook,Lenox,U.S. Senate,,Dem,Raphael Warnock ,132,44,16,0,72
+Cook,Massee,U.S. Senate,,Dem,Raphael Warnock ,91,57,9,0,25
+Cook,New Life Baptist Church,U.S. Senate,,Dem,Raphael Warnock ,89,51,8,0,30
+Cook,Riverbend,U.S. Senate,,Dem,Raphael Warnock ,85,62,9,0,14
+Cook,Sparks,U.S. Senate,,Dem,Raphael Warnock ,239,101,20,0,118
+Cook,Cecil,U.S. Senate,,L,Chase Oliver,16,8,3,0,5
+Cook,Delle Beamguard,U.S. Senate,,L,Chase Oliver,16,8,1,0,7
+Cook,Elm Pine,U.S. Senate,,L,Chase Oliver,0,0,0,0,0
+Cook,Lenox,U.S. Senate,,L,Chase Oliver,14,5,2,0,7
+Cook,Massee,U.S. Senate,,L,Chase Oliver,13,8,0,0,5
+Cook,New Life Baptist Church,U.S. Senate,,L,Chase Oliver,13,2,3,0,8
+Cook,Riverbend,U.S. Senate,,L,Chase Oliver,16,5,1,0,10
+Cook,Sparks,U.S. Senate,,L,Chase Oliver,8,3,0,0,5
+Cook,Cecil,Governor,,Rep,Brian Kemp ,568,330,16,0,222
+Cook,Delle Beamguard,Governor,,Rep,Brian Kemp ,1055,644,45,0,366
+Cook,Elm Pine,Governor,,Rep,Brian Kemp ,16,5,1,0,10
+Cook,Lenox,Governor,,Rep,Brian Kemp ,601,228,19,0,354
+Cook,Massee,Governor,,Rep,Brian Kemp ,455,293,9,0,153
+Cook,New Life Baptist Church,Governor,,Rep,Brian Kemp ,636,311,21,0,304
+Cook,Riverbend,Governor,,Rep,Brian Kemp ,648,397,36,0,215
+Cook,Sparks,Governor,,Rep,Brian Kemp ,159,74,4,0,81
+Cook,Cecil,Governor,,Dem,Stacey Abrams,343,213,29,0,101
+Cook,Delle Beamguard,Governor,,Dem,Stacey Abrams,259,150,27,0,82
+Cook,Elm Pine,Governor,,Dem,Stacey Abrams,205,88,27,0,90
+Cook,Lenox,Governor,,Dem,Stacey Abrams,118,38,12,0,68
+Cook,Massee,Governor,,Dem,Stacey Abrams,87,55,8,0,24
+Cook,New Life Baptist Church,Governor,,Dem,Stacey Abrams,74,45,6,0,23
+Cook,Riverbend,Governor,,Dem,Stacey Abrams,67,50,7,0,10
+Cook,Sparks,Governor,,Dem,Stacey Abrams,234,99,20,0,115
+Cook,Cecil,Governor,,L,Shane Hazel,3,0,2,0,1
+Cook,Delle Beamguard,Governor,,L,Shane Hazel,6,3,0,0,3
+Cook,Elm Pine,Governor,,L,Shane Hazel,2,0,0,0,2
+Cook,Lenox,Governor,,L,Shane Hazel,5,1,0,0,4
+Cook,Massee,Governor,,L,Shane Hazel,2,2,0,0,0
+Cook,New Life Baptist Church,Governor,,L,Shane Hazel,6,2,0,0,4
+Cook,Riverbend,Governor,,L,Shane Hazel,8,1,0,0,7
+Cook,Sparks,Governor,,L,Shane Hazel,0,0,0,0,0
+Cook,Cecil,Lieutenant Governor,,Rep,Burt Jones,551,316,15,0,220
+Cook,Delle Beamguard,Lieutenant Governor,,Rep,Burt Jones,1030,638,41,0,351
+Cook,Elm Pine,Lieutenant Governor,,Rep,Burt Jones,17,5,1,0,11
+Cook,Lenox,Lieutenant Governor,,Rep,Burt Jones,579,219,16,0,344
+Cook,Massee,Lieutenant Governor,,Rep,Burt Jones,444,283,9,0,152
+Cook,New Life Baptist Church,Lieutenant Governor,,Rep,Burt Jones,617,305,17,0,295
+Cook,Riverbend,Lieutenant Governor,,Rep,Burt Jones,638,390,35,0,213
+Cook,Sparks,Lieutenant Governor,,Rep,Burt Jones,148,70,3,0,75
+Cook,Cecil,Lieutenant Governor,,Dem,Charlie Bailey,328,202,31,0,95
+Cook,Delle Beamguard,Lieutenant Governor,,Dem,Charlie Bailey,266,150,31,0,85
+Cook,Elm Pine,Lieutenant Governor,,Dem,Charlie Bailey,192,82,27,0,83
+Cook,Lenox,Lieutenant Governor,,Dem,Charlie Bailey,125,44,15,0,66
+Cook,Massee,Lieutenant Governor,,Dem,Charlie Bailey,87,57,8,0,22
+Cook,New Life Baptist Church,Lieutenant Governor,,Dem,Charlie Bailey,82,45,9,0,28
+Cook,Riverbend,Lieutenant Governor,,Dem,Charlie Bailey,70,53,7,0,10
+Cook,Sparks,Lieutenant Governor,,Dem,Charlie Bailey,224,93,21,0,110
+Cook,Cecil,Lieutenant Governor,,L,Ryan Graham,17,13,1,0,3
+Cook,Delle Beamguard,Lieutenant Governor,,L,Ryan Graham,17,5,0,0,12
+Cook,Elm Pine,Lieutenant Governor,,L,Ryan Graham,0,0,0,0,0
+Cook,Lenox,Lieutenant Governor,,L,Ryan Graham,10,3,0,0,7
+Cook,Massee,Lieutenant Governor,,L,Ryan Graham,9,6,0,0,3
+Cook,New Life Baptist Church,Lieutenant Governor,,L,Ryan Graham,15,6,1,0,8
+Cook,Riverbend,Lieutenant Governor,,L,Ryan Graham,10,2,0,0,8
+Cook,Sparks,Lieutenant Governor,,L,Ryan Graham,10,4,0,0,6
+Cook,Cecil,Secretary of State,,Rep,Brad Raffensperger ,548,319,14,0,215
+Cook,Delle Beamguard,Secretary of State,,Rep,Brad Raffensperger ,1023,633,38,0,352
+Cook,Elm Pine,Secretary of State,,Rep,Brad Raffensperger ,21,9,2,0,10
+Cook,Lenox,Secretary of State,,Rep,Brad Raffensperger ,573,213,17,0,343
+Cook,Massee,Secretary of State,,Rep,Brad Raffensperger ,445,288,9,0,148
+Cook,New Life Baptist Church,Secretary of State,,Rep,Brad Raffensperger ,611,304,19,0,288
+Cook,Riverbend,Secretary of State,,Rep,Brad Raffensperger ,619,378,36,0,205
+Cook,Sparks,Secretary of State,,Rep,Brad Raffensperger ,154,78,4,0,72
+Cook,Cecil,Secretary of State,,Dem,Bee Nguyen,320,197,30,0,93
+Cook,Delle Beamguard,Secretary of State,,Dem,Bee Nguyen,260,142,33,0,85
+Cook,Elm Pine,Secretary of State,,Dem,Bee Nguyen,187,78,25,0,84
+Cook,Lenox,Secretary of State,,Dem,Bee Nguyen,119,44,14,0,61
+Cook,Massee,Secretary of State,,Dem,Bee Nguyen,84,52,8,0,24
+Cook,New Life Baptist Church,Secretary of State,,Dem,Bee Nguyen,78,40,8,0,30
+Cook,Riverbend,Secretary of State,,Dem,Bee Nguyen,65,48,7,0,10
+Cook,Sparks,Secretary of State,,Dem,Bee Nguyen,210,85,18,0,107
+Cook,Cecil,Secretary of State,,L,Ted Metz,26,15,2,0,9
+Cook,Delle Beamguard,Secretary of State,,L,Ted Metz,28,16,0,0,12
+Cook,Elm Pine,Secretary of State,,L,Ted Metz,3,1,0,0,2
+Cook,Lenox,Secretary of State,,L,Ted Metz,18,7,0,0,11
+Cook,Massee,Secretary of State,,L,Ted Metz,13,8,0,0,5
+Cook,New Life Baptist Church,Secretary of State,,L,Ted Metz,22,12,0,0,10
+Cook,Riverbend,Secretary of State,,L,Ted Metz,32,19,0,0,13
+Cook,Sparks,Secretary of State,,L,Ted Metz,20,6,1,0,13
+Cook,Cecil,Attorney General,,Rep,Chris Carr ,556,322,13,0,221
+Cook,Delle Beamguard,Attorney General,,Rep,Chris Carr ,1029,635,39,0,355
+Cook,Elm Pine,Attorney General,,Rep,Chris Carr ,16,5,2,0,9
+Cook,Lenox,Attorney General,,Rep,Chris Carr ,578,216,16,0,346
+Cook,Massee,Attorney General,,Rep,Chris Carr ,447,291,9,0,147
+Cook,New Life Baptist Church,Attorney General,,Rep,Chris Carr ,627,310,18,0,299
+Cook,Riverbend,Attorney General,,Rep,Chris Carr ,629,389,35,0,205
+Cook,Sparks,Attorney General,,Rep,Chris Carr ,153,73,4,0,76
+Cook,Cecil,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",337,209,33,0,95
+Cook,Delle Beamguard,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",268,155,31,0,82
+Cook,Elm Pine,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",199,87,26,0,86
+Cook,Lenox,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",128,48,15,0,65
+Cook,Massee,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",89,56,8,0,25
+Cook,New Life Baptist Church,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",81,45,9,0,27
+Cook,Riverbend,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",76,55,8,0,13
+Cook,Sparks,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",227,94,20,0,113
+Cook,Cecil,Attorney General,,L,Martin Cowen,12,5,2,0,5
+Cook,Delle Beamguard,Attorney General,,L,Martin Cowen,18,5,1,0,12
+Cook,Elm Pine,Attorney General,,L,Martin Cowen,1,0,0,0,1
+Cook,Lenox,Attorney General,,L,Martin Cowen,9,3,0,0,6
+Cook,Massee,Attorney General,,L,Martin Cowen,6,2,0,0,4
+Cook,New Life Baptist Church,Attorney General,,L,Martin Cowen,6,3,0,0,3
+Cook,Riverbend,Attorney General,,L,Martin Cowen,13,1,0,0,12
+Cook,Sparks,Attorney General,,L,Martin Cowen,6,2,0,0,4
+Cook,Cecil,Commissioner of Agriculture,,Rep,Tyler Harper,551,322,13,0,216
+Cook,Delle Beamguard,Commissioner of Agriculture,,Rep,Tyler Harper,1038,639,39,0,360
+Cook,Elm Pine,Commissioner of Agriculture,,Rep,Tyler Harper,14,5,1,0,8
+Cook,Lenox,Commissioner of Agriculture,,Rep,Tyler Harper,593,222,16,0,355
+Cook,Massee,Commissioner of Agriculture,,Rep,Tyler Harper,456,295,10,0,151
+Cook,New Life Baptist Church,Commissioner of Agriculture,,Rep,Tyler Harper,628,306,19,0,303
+Cook,Riverbend,Commissioner of Agriculture,,Rep,Tyler Harper,638,389,37,0,212
+Cook,Sparks,Commissioner of Agriculture,,Rep,Tyler Harper,150,72,3,0,75
+Cook,Cecil,Commissioner of Agriculture,,Dem,Nakita Hemingway,332,204,32,0,96
+Cook,Delle Beamguard,Commissioner of Agriculture,,Dem,Nakita Hemingway,257,146,31,0,80
+Cook,Elm Pine,Commissioner of Agriculture,,Dem,Nakita Hemingway,202,88,27,0,87
+Cook,Lenox,Commissioner of Agriculture,,Dem,Nakita Hemingway,119,43,15,0,61
+Cook,Massee,Commissioner of Agriculture,,Dem,Nakita Hemingway,80,50,7,0,23
+Cook,New Life Baptist Church,Commissioner of Agriculture,,Dem,Nakita Hemingway,76,44,8,0,24
+Cook,Riverbend,Commissioner of Agriculture,,Dem,Nakita Hemingway,68,49,6,0,13
+Cook,Sparks,Commissioner of Agriculture,,Dem,Nakita Hemingway,226,95,20,0,111
+Cook,Cecil,Commissioner of Agriculture,,L,David Raudabaugh,20,9,3,0,8
+Cook,Delle Beamguard,Commissioner of Agriculture,,L,David Raudabaugh,22,9,2,0,11
+Cook,Elm Pine,Commissioner of Agriculture,,L,David Raudabaugh,3,0,0,0,3
+Cook,Lenox,Commissioner of Agriculture,,L,David Raudabaugh,5,1,0,0,4
+Cook,Massee,Commissioner of Agriculture,,L,David Raudabaugh,5,3,0,0,2
+Cook,New Life Baptist Church,Commissioner of Agriculture,,L,David Raudabaugh,11,7,0,0,4
+Cook,Riverbend,Commissioner of Agriculture,,L,David Raudabaugh,14,7,0,0,7
+Cook,Sparks,Commissioner of Agriculture,,L,David Raudabaugh,10,5,1,0,4
+Cook,Cecil,Commissioner of Insurance,,Rep,John King ,554,321,15,0,218
+Cook,Delle Beamguard,Commissioner of Insurance,,Rep,John King ,1038,639,41,0,358
+Cook,Elm Pine,Commissioner of Insurance,,Rep,John King ,15,4,1,0,10
+Cook,Lenox,Commissioner of Insurance,,Rep,John King ,593,223,17,0,353
+Cook,Massee,Commissioner of Insurance,,Rep,John King ,452,291,9,0,152
+Cook,New Life Baptist Church,Commissioner of Insurance,,Rep,John King ,634,311,18,0,305
+Cook,Riverbend,Commissioner of Insurance,,Rep,John King ,646,392,36,0,218
+Cook,Sparks,Commissioner of Insurance,,Rep,John King ,155,73,4,0,78
+Cook,Cecil,Commissioner of Insurance,,Dem,Janice Laws Robinson,345,211,32,0,102
+Cook,Delle Beamguard,Commissioner of Insurance,,Dem,Janice Laws Robinson,275,153,31,0,91
+Cook,Elm Pine,Commissioner of Insurance,,Dem,Janice Laws Robinson,200,88,26,0,86
+Cook,Lenox,Commissioner of Insurance,,Dem,Janice Laws Robinson,120,42,14,0,64
+Cook,Massee,Commissioner of Insurance,,Dem,Janice Laws Robinson,89,57,8,0,24
+Cook,New Life Baptist Church,Commissioner of Insurance,,Dem,Janice Laws Robinson,79,46,9,0,24
+Cook,Riverbend,Commissioner of Insurance,,Dem,Janice Laws Robinson,70,52,7,0,11
+Cook,Sparks,Commissioner of Insurance,,Dem,Janice Laws Robinson,227,96,19,0,112
+Cook,Cecil,State School Superintendent,,Rep,Richard Woods ,562,325,15,0,222
+Cook,Delle Beamguard,State School Superintendent,,Rep,Richard Woods ,1055,648,44,0,363
+Cook,Elm Pine,State School Superintendent,,Rep,Richard Woods ,15,4,2,0,9
+Cook,Lenox,State School Superintendent,,Rep,Richard Woods ,594,224,16,0,354
+Cook,Massee,State School Superintendent,,Rep,Richard Woods ,450,292,9,0,149
+Cook,New Life Baptist Church,State School Superintendent,,Rep,Richard Woods ,636,311,18,0,307
+Cook,Riverbend,State School Superintendent,,Rep,Richard Woods ,646,392,36,0,218
+Cook,Sparks,State School Superintendent,,Rep,Richard Woods ,158,74,5,0,79
+Cook,Cecil,State School Superintendent,,Dem,Alisha Thomas Searcy,335,205,32,0,98
+Cook,Delle Beamguard,State School Superintendent,,Dem,Alisha Thomas Searcy,261,146,28,0,87
+Cook,Elm Pine,State School Superintendent,,Dem,Alisha Thomas Searcy,204,90,26,0,88
+Cook,Lenox,State School Superintendent,,Dem,Alisha Thomas Searcy,123,40,15,0,68
+Cook,Massee,State School Superintendent,,Dem,Alisha Thomas Searcy,91,56,8,0,27
+Cook,New Life Baptist Church,State School Superintendent,,Dem,Alisha Thomas Searcy,79,47,8,0,24
+Cook,Riverbend,State School Superintendent,,Dem,Alisha Thomas Searcy,72,53,7,0,12
+Cook,Sparks,State School Superintendent,,Dem,Alisha Thomas Searcy,229,97,19,0,113
+Cook,Cecil,Commissioner of Labor,,Rep,Bruce Thompson,551,318,15,0,218
+Cook,Delle Beamguard,Commissioner of Labor,,Rep,Bruce Thompson,1027,634,39,0,354
+Cook,Elm Pine,Commissioner of Labor,,Rep,Bruce Thompson,16,4,1,0,11
+Cook,Lenox,Commissioner of Labor,,Rep,Bruce Thompson,584,219,16,0,349
+Cook,Massee,Commissioner of Labor,,Rep,Bruce Thompson,449,289,9,0,151
+Cook,New Life Baptist Church,Commissioner of Labor,,Rep,Bruce Thompson,631,308,18,0,305
+Cook,Riverbend,Commissioner of Labor,,Rep,Bruce Thompson,637,390,35,0,212
+Cook,Sparks,Commissioner of Labor,,Rep,Bruce Thompson,152,74,3,0,75
+Cook,Cecil,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",335,208,30,0,97
+Cook,Delle Beamguard,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",266,150,30,0,86
+Cook,Elm Pine,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",201,88,27,0,86
+Cook,Lenox,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",126,46,15,0,65
+Cook,Massee,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",82,53,8,0,21
+Cook,New Life Baptist Church,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",77,46,8,0,23
+Cook,Riverbend,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",72,55,8,0,9
+Cook,Sparks,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",223,94,20,0,109
+Cook,Cecil,Commissioner of Labor,,L,Emily Anderson,16,10,2,0,4
+Cook,Delle Beamguard,Commissioner of Labor,,L,Emily Anderson,19,8,2,0,9
+Cook,Elm Pine,Commissioner of Labor,,L,Emily Anderson,1,1,0,0,0
+Cook,Lenox,Commissioner of Labor,,L,Emily Anderson,5,1,0,0,4
+Cook,Massee,Commissioner of Labor,,L,Emily Anderson,8,4,0,0,4
+Cook,New Life Baptist Church,Commissioner of Labor,,L,Emily Anderson,9,5,1,0,3
+Cook,Riverbend,Commissioner of Labor,,L,Emily Anderson,12,4,0,0,8
+Cook,Sparks,Commissioner of Labor,,L,Emily Anderson,11,4,1,0,6
+Cook,Cecil,U.S. House,,Rep,Austin Scott ,567,329,17,0,221
+Cook,Delle Beamguard,U.S. House,,Rep,Austin Scott ,1051,646,40,0,365
+Cook,Elm Pine,U.S. House,,Rep,Austin Scott ,22,6,3,0,13
+Cook,Lenox,U.S. House,,Rep,Austin Scott ,598,224,17,0,357
+Cook,Massee,U.S. House,,Rep,Austin Scott ,458,296,9,0,153
+Cook,New Life Baptist Church,U.S. House,,Rep,Austin Scott ,636,310,20,0,306
+Cook,Riverbend,U.S. House,,Rep,Austin Scott ,651,398,37,0,216
+Cook,Sparks,U.S. House,,Rep,Austin Scott ,164,76,6,0,82
+Cook,Cecil,U.S. House,,Dem,Darrius Butler,331,205,30,0,96
+Cook,Delle Beamguard,U.S. House,,Dem,Darrius Butler,268,151,32,0,85
+Cook,Elm Pine,U.S. House,,Dem,Darrius Butler,197,87,25,0,85
+Cook,Lenox,U.S. House,,Dem,Darrius Butler,118,42,14,0,62
+Cook,Massee,U.S. House,,Dem,Darrius Butler,82,51,8,0,23
+Cook,New Life Baptist Church,U.S. House,,Dem,Darrius Butler,78,46,7,0,25
+Cook,Riverbend,U.S. House,,Dem,Darrius Butler,68,50,6,0,12
+Cook,Sparks,U.S. House,,Dem,Darrius Butler,222,95,18,0,109
+Cook,Cecil,State Senate,,Rep,Dean Burke ,710,417,24,0,269
+Cook,Delle Beamguard,State Senate,,Rep,Dean Burke ,1150,701,47,0,402
+Cook,Elm Pine,State Senate,,Rep,Dean Burke ,102,49,10,0,43
+Cook,Lenox,State Senate,,Rep,Dean Burke ,649,247,18,0,384
+Cook,Massee,State Senate,,Rep,Dean Burke ,501,319,12,0,170
+Cook,New Life Baptist Church,State Senate,,Rep,Dean Burke ,673,334,23,0,316
+Cook,Riverbend,State Senate,,Rep,Dean Burke ,684,418,42,0,224
+Cook,Sparks,State Senate,,Rep,Dean Burke ,278,119,11,0,148
+Cook,Delle Beamguard,State House,,Rep,Penny Houston ,1144,691,49,0,404
+Cook,Lenox,State House,,Rep,Penny Houston ,648,240,20,0,388
+Cook,Massee,State House,,Rep,Penny Houston ,501,316,13,0,172
+Cook,Cecil,State House,,Rep,Sam Watson ,707,420,22,0,265
+Cook,Elm Pine,State House,,Rep,Sam Watson ,100,50,9,0,41
+Cook,New Life Baptist Church,State House,,Rep,Sam Watson ,666,329,23,0,314
+Cook,Riverbend,State House,,Rep,Sam Watson ,682,418,40,0,224
+Cook,Sparks,State House,,Rep,Sam Watson ,269,114,12,0,143
+Cook,Cecil,District Attorney,,Rep,Chase Studstill ,716,426,23,0,267
+Cook,Delle Beamguard,District Attorney,,Rep,Chase Studstill ,1156,702,47,0,407
+Cook,Elm Pine,District Attorney,,Rep,Chase Studstill ,108,50,13,0,45
+Cook,Lenox,District Attorney,,Rep,Chase Studstill ,649,243,19,0,387
+Cook,Massee,District Attorney,,Rep,Chase Studstill ,501,319,12,0,170
+Cook,New Life Baptist Church,District Attorney,,Rep,Chase Studstill ,662,329,22,0,311
+Cook,Riverbend,District Attorney,,Rep,Chase Studstill ,670,410,38,0,222
+Cook,Sparks,District Attorney,,Rep,Chase Studstill ,281,121,13,0,147
+Cook,Elm Pine,County Commissioner D1,,Dem,Debra Robinson ,202,90,26,0,86
+Cook,Riverbend,County Commissioner D1,,Dem,Debra Robinson ,55,40,3,0,12
+Cook,Sparks,County Commissioner D1,,Dem,Debra Robinson ,247,100,21,0,126
+Cook,Elm Pine,County Commissioner D1,,Ind,Brian Harrell,18,4,0,0,14
+Cook,Riverbend,County Commissioner D1,,Ind,Brian Harrell,154,91,11,0,52
+Cook,Sparks,County Commissioner D1,,Ind,Brian Harrell,134,67,3,0,64
+Cook,Lenox,County Commissioner D5,,Rep,Guy A. Daughtrey,640,238,22,0,380
+Cook,Massee,County Commissioner D5,,Rep,Guy A. Daughtrey,505,319,14,0,172
+Cook,Riverbend,County Commissioner D5,,Rep,Guy A. Daughtrey,84,46,7,0,31
+Cook,Cecil,County BOE D3,,Rep,Corkey Taylor ,672,400,24,0,248
+Cook,Delle Beamguard,County BOE D3,,Rep,Corkey Taylor ,114,61,4,0,49
+Cook,Lenox,County BOE D5,,Rep,Chad Sumner ,654,240,20,0,394
+Cook,Massee,County BOE D5,,Rep,Chad Sumner ,502,313,15,0,174
+Cook,Riverbend,County BOE D5,,Rep,Chad Sumner ,86,47,7,0,32
+Cook,Cecil,Constitutional Amendment #1,,,Yes,766,453,43,0,270
+Cook,Delle Beamguard,Constitutional Amendment #1,,,Yes,1157,711,63,0,383
+Cook,Elm Pine,Constitutional Amendment #1,,,Yes,176,75,22,0,79
+Cook,Lenox,Constitutional Amendment #1,,,Yes,615,231,25,0,359
+Cook,Massee,Constitutional Amendment #1,,,Yes,473,299,16,0,158
+Cook,New Life Baptist Church,Constitutional Amendment #1,,,Yes,632,313,20,0,299
+Cook,Riverbend,Constitutional Amendment #1,,,Yes,627,386,41,0,200
+Cook,Sparks,Constitutional Amendment #1,,,Yes,312,140,18,0,154
+Cook,Cecil,Constitutional Amendment #1,,,No,117,71,5,0,41
+Cook,Delle Beamguard,Constitutional Amendment #1,,,No,130,71,3,0,56
+Cook,Elm Pine,Constitutional Amendment #1,,,No,38,16,6,0,16
+Cook,Lenox,Constitutional Amendment #1,,,No,76,29,2,0,45
+Cook,Massee,Constitutional Amendment #1,,,No,53,36,1,0,16
+Cook,New Life Baptist Church,Constitutional Amendment #1,,,No,68,34,4,0,30
+Cook,Riverbend,Constitutional Amendment #1,,,No,83,51,3,0,29
+Cook,Sparks,Constitutional Amendment #1,,,No,62,27,5,0,30
+Cook,Cecil,Constitutional Amendment #2,,,Yes,796,469,41,0,286
+Cook,Delle Beamguard,Constitutional Amendment #2,,,Yes,1183,717,65,0,401
+Cook,Elm Pine,Constitutional Amendment #2,,,Yes,196,85,25,0,86
+Cook,Lenox,Constitutional Amendment #2,,,Yes,639,238,25,0,376
+Cook,Massee,Constitutional Amendment #2,,,Yes,488,314,16,0,158
+Cook,New Life Baptist Church,Constitutional Amendment #2,,,Yes,647,320,26,0,301
+Cook,Riverbend,Constitutional Amendment #2,,,Yes,648,394,40,0,214
+Cook,Sparks,Constitutional Amendment #2,,,Yes,339,147,21,0,171
+Cook,Cecil,Constitutional Amendment #2,,,No,94,56,7,0,31
+Cook,Delle Beamguard,Constitutional Amendment #2,,,No,113,69,3,0,41
+Cook,Elm Pine,Constitutional Amendment #2,,,No,18,5,3,0,10
+Cook,Lenox,Constitutional Amendment #2,,,No,61,25,2,0,34
+Cook,Massee,Constitutional Amendment #2,,,No,44,27,1,0,16
+Cook,New Life Baptist Church,Constitutional Amendment #2,,,No,60,30,1,0,29
+Cook,Riverbend,Constitutional Amendment #2,,,No,57,41,3,0,13
+Cook,Sparks,Constitutional Amendment #2,,,No,42,22,3,0,17
+Cook,Cecil,Statewide Referendum A,,,Yes,543,320,19,0,204
+Cook,Delle Beamguard,Statewide Referendum A,,,Yes,788,469,30,0,289
+Cook,Elm Pine,Statewide Referendum A,,,Yes,136,54,15,0,67
+Cook,Lenox,Statewide Referendum A,,,Yes,450,160,13,0,277
+Cook,Massee,Statewide Referendum A,,,Yes,307,198,5,0,104
+Cook,New Life Baptist Church,Statewide Referendum A,,,Yes,450,224,14,0,212
+Cook,Riverbend,Statewide Referendum A,,,Yes,468,285,24,0,159
+Cook,Sparks,Statewide Referendum A,,,Yes,236,98,18,0,120
+Cook,Cecil,Statewide Referendum A,,,No,337,199,27,0,111
+Cook,Delle Beamguard,Statewide Referendum A,,,No,490,311,33,0,146
+Cook,Elm Pine,Statewide Referendum A,,,No,72,35,12,0,25
+Cook,Lenox,Statewide Referendum A,,,No,240,102,14,0,124
+Cook,Massee,Statewide Referendum A,,,No,215,135,12,0,68
+Cook,New Life Baptist Church,Statewide Referendum A,,,No,248,123,12,0,113
+Cook,Riverbend,Statewide Referendum A,,,No,234,147,19,0,68
+Cook,Sparks,Statewide Referendum A,,,No,142,72,5,0,65
+Cook,Cecil,Statewide Referendum B,,,Yes,623,356,25,0,242
+Cook,Delle Beamguard,Statewide Referendum B,,,Yes,936,570,32,0,334
+Cook,Elm Pine,Statewide Referendum B,,,Yes,148,62,16,0,70
+Cook,Lenox,Statewide Referendum B,,,Yes,524,192,16,0,316
+Cook,Massee,Statewide Referendum B,,,Yes,374,241,7,0,126
+Cook,New Life Baptist Church,Statewide Referendum B,,,Yes,548,275,15,0,258
+Cook,Riverbend,Statewide Referendum B,,,Yes,553,330,31,0,192
+Cook,Sparks,Statewide Referendum B,,,Yes,284,126,17,0,141
+Cook,Cecil,Statewide Referendum B,,,No,255,161,21,0,73
+Cook,Delle Beamguard,Statewide Referendum B,,,No,340,211,30,0,99
+Cook,Elm Pine,Statewide Referendum B,,,No,66,27,12,0,27
+Cook,Lenox,Statewide Referendum B,,,No,167,67,11,0,89
+Cook,Massee,Statewide Referendum B,,,No,147,91,10,0,46
+Cook,New Life Baptist Church,Statewide Referendum B,,,No,150,72,10,0,68
+Cook,Riverbend,Statewide Referendum B,,,No,147,99,13,0,35
+Cook,Sparks,Statewide Referendum B,,,No,95,41,6,0,48
+Cook,Cecil,Cook County SPLOST,,,Yes,554,341,26,0,187
+Cook,Delle Beamguard,Cook County SPLOST,,,Yes,873,528,47,0,298
+Cook,Elm Pine,Cook County SPLOST,,,Yes,153,64,19,0,70
+Cook,Lenox,Cook County SPLOST,,,Yes,454,171,18,0,265
+Cook,Massee,Cook County SPLOST,,,Yes,340,215,11,0,114
+Cook,New Life Baptist Church,Cook County SPLOST,,,Yes,467,239,18,0,210
+Cook,Riverbend,Cook County SPLOST,,,Yes,501,307,35,0,159
+Cook,Sparks,Cook County SPLOST,,,Yes,252,106,17,0,129
+Cook,Cecil,Cook County SPLOST,,,No,342,191,22,0,129
+Cook,Delle Beamguard,Cook County SPLOST,,,No,425,260,19,0,146
+Cook,Elm Pine,Cook County SPLOST,,,No,60,26,9,0,25
+Cook,Lenox,Cook County SPLOST,,,No,242,89,9,0,144
+Cook,Massee,Cook County SPLOST,,,No,184,120,6,0,58
+Cook,New Life Baptist Church,Cook County SPLOST,,,No,240,111,7,0,122
+Cook,Riverbend,Cook County SPLOST,,,No,209,131,9,0,69
+Cook,Sparks,Cook County SPLOST,,,No,128,63,5,0,60

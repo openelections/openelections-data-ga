@@ -1,0 +1,506 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Pickens,Yellow Creek,U.S. Senate,,Rep,Herschel Junior Walker,1842,1082,64,0,696
+Pickens,Sharptop,U.S. Senate,,Rep,Herschel Junior Walker,1448,836,56,1,555
+Pickens,Appalachian,U.S. Senate,,Rep,Herschel Junior Walker,928,590,27,0,311
+Pickens,Refuge,U.S. Senate,,Rep,Herschel Junior Walker,1184,737,34,0,413
+Pickens,Hill City,U.S. Senate,,Rep,Herschel Junior Walker,1075,596,29,0,450
+Pickens,Hinton,U.S. Senate,,Rep,Herschel Junior Walker,468,133,10,0,325
+Pickens,Jerusalem,U.S. Senate,,Rep,Herschel Junior Walker,644,162,7,0,475
+Pickens,Ludville,U.S. Senate,,Rep,Herschel Junior Walker,363,101,3,0,259
+Pickens,Nelson,U.S. Senate,,Rep,Herschel Junior Walker,692,298,10,0,384
+Pickens,Talking Rock,U.S. Senate,,Rep,Herschel Junior Walker,957,503,12,1,441
+Pickens,Jasper,U.S. Senate,,Rep,Herschel Junior Walker,1106,702,36,0,368
+Pickens,Tate,U.S. Senate,,Rep,Herschel Junior Walker,1343,715,42,0,586
+Pickens,Yellow Creek,U.S. Senate,,Dem,Raphael Warnock ,550,343,67,0,140
+Pickens,Sharptop,U.S. Senate,,Dem,Raphael Warnock ,450,267,73,0,110
+Pickens,Appalachian,U.S. Senate,,Dem,Raphael Warnock ,211,130,25,0,56
+Pickens,Refuge,U.S. Senate,,Dem,Raphael Warnock ,212,127,25,0,60
+Pickens,Hill City,U.S. Senate,,Dem,Raphael Warnock ,217,132,16,0,69
+Pickens,Hinton,U.S. Senate,,Dem,Raphael Warnock ,56,16,9,0,31
+Pickens,Jerusalem,U.S. Senate,,Dem,Raphael Warnock ,84,28,9,0,47
+Pickens,Ludville,U.S. Senate,,Dem,Raphael Warnock ,38,13,3,0,22
+Pickens,Nelson,U.S. Senate,,Dem,Raphael Warnock ,133,61,7,0,65
+Pickens,Talking Rock,U.S. Senate,,Dem,Raphael Warnock ,120,67,18,0,35
+Pickens,Jasper,U.S. Senate,,Dem,Raphael Warnock ,324,203,29,0,92
+Pickens,Tate,U.S. Senate,,Dem,Raphael Warnock ,194,111,22,0,61
+Pickens,Yellow Creek,U.S. Senate,,Lib,Chase Oliver,58,39,1,0,18
+Pickens,Sharptop,U.S. Senate,,Lib,Chase Oliver,41,20,2,0,19
+Pickens,Appalachian,U.S. Senate,,Lib,Chase Oliver,30,13,1,0,16
+Pickens,Refuge,U.S. Senate,,Lib,Chase Oliver,33,16,3,0,14
+Pickens,Hill City,U.S. Senate,,Lib,Chase Oliver,39,15,3,0,21
+Pickens,Hinton,U.S. Senate,,Lib,Chase Oliver,8,4,0,0,4
+Pickens,Jerusalem,U.S. Senate,,Lib,Chase Oliver,15,2,0,0,13
+Pickens,Ludville,U.S. Senate,,Lib,Chase Oliver,15,1,0,0,14
+Pickens,Nelson,U.S. Senate,,Lib,Chase Oliver,27,9,1,0,17
+Pickens,Talking Rock,U.S. Senate,,Lib,Chase Oliver,25,17,1,0,7
+Pickens,Jasper,U.S. Senate,,Lib,Chase Oliver,42,24,3,0,15
+Pickens,Tate,U.S. Senate,,Lib,Chase Oliver,31,11,2,0,18
+Pickens,Yellow Creek,Governor,,Rep,Brian Kemp ,2026,1196,76,0,754
+Pickens,Sharptop,Governor,,Rep,Brian Kemp ,1565,896,73,1,595
+Pickens,Appalachian,Governor,,Rep,Brian Kemp ,1000,631,30,0,339
+Pickens,Refuge,Governor,,Rep,Brian Kemp ,1269,785,43,0,441
+Pickens,Hill City,Governor,,Rep,Brian Kemp ,1169,643,34,0,492
+Pickens,Hinton,Governor,,Rep,Brian Kemp ,490,138,13,0,339
+Pickens,Jerusalem,Governor,,Rep,Brian Kemp ,680,170,9,0,501
+Pickens,Ludville,Governor,,Rep,Brian Kemp ,382,104,4,0,274
+Pickens,Nelson,Governor,,Rep,Brian Kemp ,736,310,12,0,414
+Pickens,Talking Rock,Governor,,Rep,Brian Kemp ,1006,528,16,1,461
+Pickens,Jasper,Governor,,Rep,Brian Kemp ,1210,763,45,0,402
+Pickens,Tate,Governor,,Rep,Brian Kemp ,1404,746,45,0,613
+Pickens,Yellow Creek,Governor,,Dem,Stacey Abrams,425,273,56,0,96
+Pickens,Sharptop,Governor,,Dem,Stacey Abrams,372,230,60,0,82
+Pickens,Appalachian,Governor,,Dem,Stacey Abrams,165,100,23,0,42
+Pickens,Refuge,Governor,,Dem,Stacey Abrams,162,102,17,0,43
+Pickens,Hill City,Governor,,Dem,Stacey Abrams,161,99,14,0,48
+Pickens,Hinton,Governor,,Dem,Stacey Abrams,41,13,5,0,23
+Pickens,Jerusalem,Governor,,Dem,Stacey Abrams,62,23,9,0,30
+Pickens,Ludville,Governor,,Dem,Stacey Abrams,29,10,2,0,17
+Pickens,Nelson,Governor,,Dem,Stacey Abrams,111,58,7,0,46
+Pickens,Talking Rock,Governor,,Dem,Stacey Abrams,95,56,15,0,24
+Pickens,Jasper,Governor,,Dem,Stacey Abrams,263,163,26,0,74
+Pickens,Tate,Governor,,Dem,Stacey Abrams,155,86,21,0,48
+Pickens,Yellow Creek,Governor,,Lib,Shane Hazel,15,3,0,0,12
+Pickens,Sharptop,Governor,,Lib,Shane Hazel,16,4,0,0,12
+Pickens,Appalachian,Governor,,Lib,Shane Hazel,10,4,0,0,6
+Pickens,Refuge,Governor,,Lib,Shane Hazel,11,4,0,0,7
+Pickens,Hill City,Governor,,Lib,Shane Hazel,9,4,0,0,5
+Pickens,Hinton,Governor,,Lib,Shane Hazel,5,2,1,0,2
+Pickens,Jerusalem,Governor,,Lib,Shane Hazel,5,0,0,0,5
+Pickens,Ludville,Governor,,Lib,Shane Hazel,5,1,0,0,4
+Pickens,Nelson,Governor,,Lib,Shane Hazel,8,1,0,0,7
+Pickens,Talking Rock,Governor,,Lib,Shane Hazel,5,1,0,0,4
+Pickens,Jasper,Governor,,Lib,Shane Hazel,8,7,0,0,1
+Pickens,Tate,Governor,,Lib,Shane Hazel,11,6,0,0,5
+Pickens,Yellow Creek,Lieutenant Governor,,Rep,Burt Jones,1920,1131,66,0,723
+Pickens,Sharptop,Lieutenant Governor,,Rep,Burt Jones,1504,862,64,1,577
+Pickens,Appalachian,Lieutenant Governor,,Rep,Burt Jones,952,602,26,0,324
+Pickens,Refuge,Lieutenant Governor,,Rep,Burt Jones,1217,761,37,0,419
+Pickens,Hill City,Lieutenant Governor,,Rep,Burt Jones,1129,625,34,0,470
+Pickens,Hinton,Lieutenant Governor,,Rep,Burt Jones,475,137,12,0,326
+Pickens,Jerusalem,Lieutenant Governor,,Rep,Burt Jones,655,166,9,0,480
+Pickens,Ludville,Lieutenant Governor,,Rep,Burt Jones,372,100,3,0,269
+Pickens,Nelson,Lieutenant Governor,,Rep,Burt Jones,705,298,10,0,397
+Pickens,Talking Rock,Lieutenant Governor,,Rep,Burt Jones,967,513,14,1,439
+Pickens,Jasper,Lieutenant Governor,,Rep,Burt Jones,1169,740,42,0,387
+Pickens,Tate,Lieutenant Governor,,Rep,Burt Jones,1368,723,44,0,601
+Pickens,Yellow Creek,Lieutenant Governor,,Dem,Charlie Bailey,492,313,60,0,119
+Pickens,Sharptop,Lieutenant Governor,,Dem,Charlie Bailey,396,242,68,0,86
+Pickens,Appalachian,Lieutenant Governor,,Dem,Charlie Bailey,185,117,25,0,43
+Pickens,Refuge,Lieutenant Governor,,Dem,Charlie Bailey,188,118,21,0,49
+Pickens,Hill City,Lieutenant Governor,,Dem,Charlie Bailey,169,109,13,0,47
+Pickens,Hinton,Lieutenant Governor,,Dem,Charlie Bailey,48,15,7,0,26
+Pickens,Jerusalem,Lieutenant Governor,,Dem,Charlie Bailey,74,26,9,0,39
+Pickens,Ludville,Lieutenant Governor,,Dem,Charlie Bailey,28,11,2,0,15
+Pickens,Nelson,Lieutenant Governor,,Dem,Charlie Bailey,114,58,7,0,49
+Pickens,Talking Rock,Lieutenant Governor,,Dem,Charlie Bailey,104,61,16,0,27
+Pickens,Jasper,Lieutenant Governor,,Dem,Charlie Bailey,267,171,28,0,68
+Pickens,Tate,Lieutenant Governor,,Dem,Charlie Bailey,160,92,21,0,47
+Pickens,Yellow Creek,Lieutenant Governor,,Lib,Ryan Graham,38,21,4,0,13
+Pickens,Sharptop,Lieutenant Governor,,Lib,Ryan Graham,41,16,3,0,22
+Pickens,Appalachian,Lieutenant Governor,,Lib,Ryan Graham,26,10,1,0,15
+Pickens,Refuge,Lieutenant Governor,,Lib,Ryan Graham,23,5,2,0,16
+Pickens,Hill City,Lieutenant Governor,,Lib,Ryan Graham,35,12,1,0,22
+Pickens,Hinton,Lieutenant Governor,,Lib,Ryan Graham,10,2,0,0,8
+Pickens,Jerusalem,Lieutenant Governor,,Lib,Ryan Graham,13,0,0,0,13
+Pickens,Ludville,Lieutenant Governor,,Lib,Ryan Graham,11,3,1,0,7
+Pickens,Nelson,Lieutenant Governor,,Lib,Ryan Graham,25,9,1,0,15
+Pickens,Talking Rock,Lieutenant Governor,,Lib,Ryan Graham,27,11,0,0,16
+Pickens,Jasper,Lieutenant Governor,,Lib,Ryan Graham,31,20,0,0,11
+Pickens,Tate,Lieutenant Governor,,Lib,Ryan Graham,25,14,0,0,11
+Pickens,Yellow Creek,Secretary of State,,Rep,Brad Raffensperger ,1951,1158,80,0,713
+Pickens,Sharptop,Secretary of State,,Rep,Brad Raffensperger ,1499,862,74,1,562
+Pickens,Appalachian,Secretary of State,,Rep,Brad Raffensperger ,951,596,29,0,326
+Pickens,Refuge,Secretary of State,,Rep,Brad Raffensperger ,1206,749,40,0,417
+Pickens,Hill City,Secretary of State,,Rep,Brad Raffensperger ,1102,608,36,0,458
+Pickens,Hinton,Secretary of State,,Rep,Brad Raffensperger ,461,131,13,0,317
+Pickens,Jerusalem,Secretary of State,,Rep,Brad Raffensperger ,645,167,9,0,469
+Pickens,Ludville,Secretary of State,,Rep,Brad Raffensperger ,362,100,3,0,259
+Pickens,Nelson,Secretary of State,,Rep,Brad Raffensperger ,703,300,12,0,391
+Pickens,Talking Rock,Secretary of State,,Rep,Brad Raffensperger ,944,504,16,1,423
+Pickens,Jasper,Secretary of State,,Rep,Brad Raffensperger ,1160,727,45,0,388
+Pickens,Tate,Secretary of State,,Rep,Brad Raffensperger ,1332,711,45,0,576
+Pickens,Yellow Creek,Secretary of State,,Dem,Bee Nguyen,390,248,47,0,95
+Pickens,Sharptop,Secretary of State,,Dem,Bee Nguyen,352,213,59,0,80
+Pickens,Appalachian,Secretary of State,,Dem,Bee Nguyen,158,99,22,0,37
+Pickens,Refuge,Secretary of State,,Dem,Bee Nguyen,161,99,20,0,42
+Pickens,Hill City,Secretary of State,,Dem,Bee Nguyen,150,97,11,0,42
+Pickens,Hinton,Secretary of State,,Dem,Bee Nguyen,42,11,6,0,25
+Pickens,Jerusalem,Secretary of State,,Dem,Bee Nguyen,63,23,7,0,33
+Pickens,Ludville,Secretary of State,,Dem,Bee Nguyen,24,8,2,0,14
+Pickens,Nelson,Secretary of State,,Dem,Bee Nguyen,108,57,7,0,44
+Pickens,Talking Rock,Secretary of State,,Dem,Bee Nguyen,94,52,15,0,27
+Pickens,Jasper,Secretary of State,,Dem,Bee Nguyen,243,155,22,0,66
+Pickens,Tate,Secretary of State,,Dem,Bee Nguyen,151,83,21,0,47
+Pickens,Yellow Creek,Secretary of State,,Lib,Ted Metz,107,57,4,0,46
+Pickens,Sharptop,Secretary of State,,Lib,Ted Metz,83,39,2,0,42
+Pickens,Appalachian,Secretary of State,,Lib,Ted Metz,49,30,0,0,19
+Pickens,Refuge,Secretary of State,,Lib,Ted Metz,54,31,0,0,23
+Pickens,Hill City,Secretary of State,,Lib,Ted Metz,70,38,0,0,32
+Pickens,Hinton,Secretary of State,,Lib,Ted Metz,23,8,0,0,15
+Pickens,Jerusalem,Secretary of State,,Lib,Ted Metz,28,3,0,0,25
+Pickens,Ludville,Secretary of State,,Lib,Ted Metz,25,6,1,0,18
+Pickens,Nelson,Secretary of State,,Lib,Ted Metz,37,10,0,0,27
+Pickens,Talking Rock,Secretary of State,,Lib,Ted Metz,50,23,0,0,27
+Pickens,Jasper,Secretary of State,,Lib,Ted Metz,57,42,2,0,13
+Pickens,Tate,Secretary of State,,Lib,Ted Metz,65,36,0,0,29
+Pickens,Yellow Creek,Attorney General,,Rep,Chris Carr ,1929,1140,69,0,720
+Pickens,Sharptop,Attorney General,,Rep,Chris Carr ,1510,874,65,1,570
+Pickens,Appalachian,Attorney General,,Rep,Chris Carr ,962,610,28,0,324
+Pickens,Refuge,Attorney General,,Rep,Chris Carr ,1221,760,40,0,421
+Pickens,Hill City,Attorney General,,Rep,Chris Carr ,1124,622,34,0,468
+Pickens,Hinton,Attorney General,,Rep,Chris Carr ,480,136,12,0,332
+Pickens,Jerusalem,Attorney General,,Rep,Chris Carr ,654,164,8,0,482
+Pickens,Ludville,Attorney General,,Rep,Chris Carr ,374,101,4,0,269
+Pickens,Nelson,Attorney General,,Rep,Chris Carr ,713,299,10,0,404
+Pickens,Talking Rock,Attorney General,,Rep,Chris Carr ,961,513,16,1,431
+Pickens,Jasper,Attorney General,,Rep,Chris Carr ,1166,740,41,0,385
+Pickens,Tate,Attorney General,,Rep,Chris Carr ,1363,724,43,0,596
+Pickens,Yellow Creek,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",482,303,60,0,119
+Pickens,Sharptop,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",410,245,67,0,98
+Pickens,Appalachian,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",181,111,23,0,47
+Pickens,Refuge,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",181,113,17,0,51
+Pickens,Hill City,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",182,115,14,0,53
+Pickens,Hinton,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",47,14,7,0,26
+Pickens,Jerusalem,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",80,29,9,0,42
+Pickens,Ludville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",31,12,2,0,17
+Pickens,Nelson,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",116,62,7,0,47
+Pickens,Talking Rock,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",111,61,15,0,35
+Pickens,Jasper,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",282,175,28,0,79
+Pickens,Tate,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",175,96,23,0,56
+Pickens,Yellow Creek,Attorney General,,Lib,Martin Cowen,36,20,1,0,15
+Pickens,Sharptop,Attorney General,,Lib,Martin Cowen,26,6,3,0,17
+Pickens,Appalachian,Attorney General,,Lib,Martin Cowen,24,10,0,0,14
+Pickens,Refuge,Attorney General,,Lib,Martin Cowen,21,10,0,0,11
+Pickens,Hill City,Attorney General,,Lib,Martin Cowen,22,7,0,0,15
+Pickens,Hinton,Attorney General,,Lib,Martin Cowen,9,4,0,0,5
+Pickens,Jerusalem,Attorney General,,Lib,Martin Cowen,8,0,0,0,8
+Pickens,Ludville,Attorney General,,Lib,Martin Cowen,8,1,0,0,7
+Pickens,Nelson,Attorney General,,Lib,Martin Cowen,16,3,1,0,12
+Pickens,Talking Rock,Attorney General,,Lib,Martin Cowen,26,10,0,0,16
+Pickens,Jasper,Attorney General,,Lib,Martin Cowen,18,14,1,0,3
+Pickens,Tate,Attorney General,,Lib,Martin Cowen,18,10,0,0,8
+Pickens,Yellow Creek,Commissioner Of Agriculture,,Rep,Tyler Harper,1991,1175,72,0,744
+Pickens,Sharptop,Commissioner Of Agriculture,,Rep,Tyler Harper,1545,896,74,1,574
+Pickens,Appalachian,Commissioner Of Agriculture,,Rep,Tyler Harper,974,618,30,0,326
+Pickens,Refuge,Commissioner Of Agriculture,,Rep,Tyler Harper,1230,762,42,0,426
+Pickens,Hill City,Commissioner Of Agriculture,,Rep,Tyler Harper,1128,626,33,0,469
+Pickens,Hinton,Commissioner Of Agriculture,,Rep,Tyler Harper,485,140,14,0,331
+Pickens,Jerusalem,Commissioner Of Agriculture,,Rep,Tyler Harper,666,169,8,0,489
+Pickens,Ludville,Commissioner Of Agriculture,,Rep,Tyler Harper,374,103,3,0,268
+Pickens,Nelson,Commissioner Of Agriculture,,Rep,Tyler Harper,718,304,10,0,404
+Pickens,Talking Rock,Commissioner Of Agriculture,,Rep,Tyler Harper,978,518,19,1,440
+Pickens,Jasper,Commissioner Of Agriculture,,Rep,Tyler Harper,1174,744,42,0,388
+Pickens,Tate,Commissioner Of Agriculture,,Rep,Tyler Harper,1376,730,46,0,600
+Pickens,Yellow Creek,Commissioner Of Agriculture,,Dem,Nakita Hemingway,403,261,52,0,90
+Pickens,Sharptop,Commissioner Of Agriculture,,Dem,Nakita Hemingway,353,216,59,0,78
+Pickens,Appalachian,Commissioner Of Agriculture,,Dem,Nakita Hemingway,154,95,20,0,39
+Pickens,Refuge,Commissioner Of Agriculture,,Dem,Nakita Hemingway,155,97,16,0,42
+Pickens,Hill City,Commissioner Of Agriculture,,Dem,Nakita Hemingway,163,102,14,0,47
+Pickens,Hinton,Commissioner Of Agriculture,,Dem,Nakita Hemingway,40,12,5,0,23
+Pickens,Jerusalem,Commissioner Of Agriculture,,Dem,Nakita Hemingway,59,22,9,0,28
+Pickens,Ludville,Commissioner Of Agriculture,,Dem,Nakita Hemingway,28,9,2,0,17
+Pickens,Nelson,Commissioner Of Agriculture,,Dem,Nakita Hemingway,104,55,7,0,42
+Pickens,Talking Rock,Commissioner Of Agriculture,,Dem,Nakita Hemingway,87,53,12,0,22
+Pickens,Jasper,Commissioner Of Agriculture,,Dem,Nakita Hemingway,240,151,26,0,63
+Pickens,Tate,Commissioner Of Agriculture,,Dem,Nakita Hemingway,146,84,18,0,44
+Pickens,Yellow Creek,Commissioner Of Agriculture,,Lib,David Raudabaugh,45,24,3,0,18
+Pickens,Sharptop,Commissioner Of Agriculture,,Lib,David Raudabaugh,42,10,2,0,30
+Pickens,Appalachian,Commissioner Of Agriculture,,Lib,David Raudabaugh,34,16,0,0,18
+Pickens,Refuge,Commissioner Of Agriculture,,Lib,David Raudabaugh,33,21,0,0,12
+Pickens,Hill City,Commissioner Of Agriculture,,Lib,David Raudabaugh,39,15,1,0,23
+Pickens,Hinton,Commissioner Of Agriculture,,Lib,David Raudabaugh,10,2,0,0,8
+Pickens,Jerusalem,Commissioner Of Agriculture,,Lib,David Raudabaugh,18,1,0,0,17
+Pickens,Ludville,Commissioner Of Agriculture,,Lib,David Raudabaugh,11,2,1,0,8
+Pickens,Nelson,Commissioner Of Agriculture,,Lib,David Raudabaugh,19,5,0,0,14
+Pickens,Talking Rock,Commissioner Of Agriculture,,Lib,David Raudabaugh,32,13,0,0,19
+Pickens,Jasper,Commissioner Of Agriculture,,Lib,David Raudabaugh,46,30,1,0,15
+Pickens,Tate,Commissioner Of Agriculture,,Lib,David Raudabaugh,30,15,0,0,15
+Pickens,Yellow Creek,Commissioner Of Insurance,,Rep,John King ,2010,1185,73,0,752
+Pickens,Sharptop,Commissioner Of Insurance,,Rep,John King ,1558,890,75,1,592
+Pickens,Appalachian,Commissioner Of Insurance,,Rep,John King ,980,620,30,0,330
+Pickens,Refuge,Commissioner Of Insurance,,Rep,John King ,1248,774,41,0,433
+Pickens,Hill City,Commissioner Of Insurance,,Rep,John King ,1146,626,34,0,486
+Pickens,Hinton,Commissioner Of Insurance,,Rep,John King ,484,138,13,0,333
+Pickens,Jerusalem,Commissioner Of Insurance,,Rep,John King ,669,167,8,0,494
+Pickens,Ludville,Commissioner Of Insurance,,Rep,John King ,374,102,3,0,269
+Pickens,Nelson,Commissioner Of Insurance,,Rep,John King ,726,303,10,0,413
+Pickens,Talking Rock,Commissioner Of Insurance,,Rep,John King ,984,522,14,1,447
+Pickens,Jasper,Commissioner Of Insurance,,Rep,John King ,1193,756,43,0,394
+Pickens,Tate,Commissioner Of Insurance,,Rep,John King ,1385,742,45,0,598
+Pickens,Yellow Creek,Commissioner Of Insurance,,Dem,Janice Laws Robinson,418,271,52,0,95
+Pickens,Sharptop,Commissioner Of Insurance,,Dem,Janice Laws Robinson,378,230,60,0,88
+Pickens,Appalachian,Commissioner Of Insurance,,Dem,Janice Laws Robinson,179,108,20,0,51
+Pickens,Refuge,Commissioner Of Insurance,,Dem,Janice Laws Robinson,165,106,15,0,44
+Pickens,Hill City,Commissioner Of Insurance,,Dem,Janice Laws Robinson,184,117,14,0,53
+Pickens,Hinton,Commissioner Of Insurance,,Dem,Janice Laws Robinson,45,13,6,0,26
+Pickens,Jerusalem,Commissioner Of Insurance,,Dem,Janice Laws Robinson,71,25,9,0,37
+Pickens,Ludville,Commissioner Of Insurance,,Dem,Janice Laws Robinson,37,12,2,0,23
+Pickens,Nelson,Commissioner Of Insurance,,Dem,Janice Laws Robinson,115,60,7,0,48
+Pickens,Talking Rock,Commissioner Of Insurance,,Dem,Janice Laws Robinson,106,57,17,0,32
+Pickens,Jasper,Commissioner Of Insurance,,Dem,Janice Laws Robinson,266,167,26,0,73
+Pickens,Tate,Commissioner Of Insurance,,Dem,Janice Laws Robinson,165,89,19,0,57
+Pickens,Yellow Creek,State School Superintendent,,Rep,Richard Woods ,1999,1178,70,0,751
+Pickens,Sharptop,State School Superintendent,,Rep,Richard Woods ,1562,896,70,1,595
+Pickens,Appalachian,State School Superintendent,,Rep,Richard Woods ,991,623,30,0,338
+Pickens,Refuge,State School Superintendent,,Rep,Richard Woods ,1246,774,41,0,431
+Pickens,Hill City,State School Superintendent,,Rep,Richard Woods ,1157,634,34,0,489
+Pickens,Hinton,State School Superintendent,,Rep,Richard Woods ,488,140,12,0,336
+Pickens,Jerusalem,State School Superintendent,,Rep,Richard Woods ,678,171,8,0,499
+Pickens,Ludville,State School Superintendent,,Rep,Richard Woods ,380,103,3,0,274
+Pickens,Nelson,State School Superintendent,,Rep,Richard Woods ,729,307,10,0,412
+Pickens,Talking Rock,State School Superintendent,,Rep,Richard Woods ,996,527,16,1,452
+Pickens,Jasper,State School Superintendent,,Rep,Richard Woods ,1204,763,44,0,397
+Pickens,Tate,State School Superintendent,,Rep,Richard Woods ,1387,741,45,0,601
+Pickens,Yellow Creek,State School Superintendent,,Dem,Alisha Thomas Searcy,435,278,57,0,100
+Pickens,Sharptop,State School Superintendent,,Dem,Alisha Thomas Searcy,377,225,65,0,87
+Pickens,Appalachian,State School Superintendent,,Dem,Alisha Thomas Searcy,168,104,21,0,43
+Pickens,Refuge,State School Superintendent,,Dem,Alisha Thomas Searcy,176,109,16,0,51
+Pickens,Hill City,State School Superintendent,,Dem,Alisha Thomas Searcy,175,110,14,0,51
+Pickens,Hinton,State School Superintendent,,Dem,Alisha Thomas Searcy,44,13,7,0,24
+Pickens,Jerusalem,State School Superintendent,,Dem,Alisha Thomas Searcy,64,22,9,0,33
+Pickens,Ludville,State School Superintendent,,Dem,Alisha Thomas Searcy,33,12,2,0,19
+Pickens,Nelson,State School Superintendent,,Dem,Alisha Thomas Searcy,111,55,7,0,49
+Pickens,Talking Rock,State School Superintendent,,Dem,Alisha Thomas Searcy,97,55,15,0,27
+Pickens,Jasper,State School Superintendent,,Dem,Alisha Thomas Searcy,255,161,25,0,69
+Pickens,Tate,State School Superintendent,,Dem,Alisha Thomas Searcy,160,87,19,0,54
+Pickens,Yellow Creek,Commissioner Of Labor,,Rep,Bruce Thompson,1956,1152,70,0,734
+Pickens,Sharptop,Commissioner Of Labor,,Rep,Bruce Thompson,1516,871,70,1,574
+Pickens,Appalachian,Commissioner Of Labor,,Rep,Bruce Thompson,969,617,27,0,325
+Pickens,Refuge,Commissioner Of Labor,,Rep,Bruce Thompson,1217,758,38,0,421
+Pickens,Hill City,Commissioner Of Labor,,Rep,Bruce Thompson,1126,618,34,0,474
+Pickens,Hinton,Commissioner Of Labor,,Rep,Bruce Thompson,481,138,12,0,331
+Pickens,Jerusalem,Commissioner Of Labor,,Rep,Bruce Thompson,666,168,8,0,490
+Pickens,Ludville,Commissioner Of Labor,,Rep,Bruce Thompson,377,103,4,0,270
+Pickens,Nelson,Commissioner Of Labor,,Rep,Bruce Thompson,714,301,10,0,403
+Pickens,Talking Rock,Commissioner Of Labor,,Rep,Bruce Thompson,968,514,16,1,437
+Pickens,Jasper,Commissioner Of Labor,,Rep,Bruce Thompson,1158,740,41,0,377
+Pickens,Tate,Commissioner Of Labor,,Rep,Bruce Thompson,1365,725,44,0,596
+Pickens,Yellow Creek,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",429,280,52,0,97
+Pickens,Sharptop,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",376,228,64,0,84
+Pickens,Appalachian,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",160,96,22,0,42
+Pickens,Refuge,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",165,105,17,0,43
+Pickens,Hill City,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",166,108,11,0,47
+Pickens,Hinton,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",43,12,7,0,24
+Pickens,Jerusalem,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",68,23,9,0,36
+Pickens,Ludville,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",24,10,1,0,13
+Pickens,Nelson,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",102,54,7,0,41
+Pickens,Talking Rock,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",96,57,15,0,24
+Pickens,Jasper,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",250,160,26,0,64
+Pickens,Tate,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",150,86,18,0,46
+Pickens,Yellow Creek,Commissioner Of Labor,,Lib,Emily Anderson,49,25,5,0,19
+Pickens,Sharptop,Commissioner Of Labor,,Lib,Emily Anderson,45,18,1,0,26
+Pickens,Appalachian,Commissioner Of Labor,,Lib,Emily Anderson,34,15,2,0,17
+Pickens,Refuge,Commissioner Of Labor,,Lib,Emily Anderson,31,16,1,0,14
+Pickens,Hill City,Commissioner Of Labor,,Lib,Emily Anderson,36,15,2,0,19
+Pickens,Hinton,Commissioner Of Labor,,Lib,Emily Anderson,13,4,0,0,9
+Pickens,Jerusalem,Commissioner Of Labor,,Lib,Emily Anderson,8,1,0,0,7
+Pickens,Ludville,Commissioner Of Labor,,Lib,Emily Anderson,12,1,0,0,11
+Pickens,Nelson,Commissioner Of Labor,,Lib,Emily Anderson,24,8,0,0,16
+Pickens,Talking Rock,Commissioner Of Labor,,Lib,Emily Anderson,32,13,0,0,19
+Pickens,Jasper,Commissioner Of Labor,,Lib,Emily Anderson,46,22,2,0,22
+Pickens,Tate,Commissioner Of Labor,,Lib,Emily Anderson,32,16,1,0,15
+Pickens,Yellow Creek,U.S. House,11,Rep,Barry Loudermilk ,1996,1176,71,0,749
+Pickens,Sharptop,U.S. House,11,Rep,Barry Loudermilk ,1552,885,71,1,595
+Pickens,Appalachian,U.S. House,11,Rep,Barry Loudermilk ,990,625,27,0,338
+Pickens,Refuge,U.S. House,11,Rep,Barry Loudermilk ,1249,776,41,0,432
+Pickens,Hill City,U.S. House,11,Rep,Barry Loudermilk ,1161,638,35,0,488
+Pickens,Hinton,U.S. House,11,Rep,Barry Loudermilk ,488,140,12,0,336
+Pickens,Jerusalem,U.S. House,11,Rep,Barry Loudermilk ,677,170,8,0,499
+Pickens,Ludville,U.S. House,11,Rep,Barry Loudermilk ,381,102,4,0,275
+Pickens,Nelson,U.S. House,11,Rep,Barry Loudermilk ,735,307,10,0,418
+Pickens,Talking Rock,U.S. House,11,Rep,Barry Loudermilk ,994,525,16,1,452
+Pickens,Jasper,U.S. House,11,Rep,Barry Loudermilk ,1195,760,43,0,392
+Pickens,Tate,U.S. House,11,Rep,Barry Loudermilk ,1395,743,44,0,608
+Pickens,Yellow Creek,U.S. House,11,Dem,Antonio Daza,443,285,56,0,102
+Pickens,Sharptop,U.S. House,11,Dem,Antonio Daza,388,235,61,0,92
+Pickens,Appalachian,U.S. House,11,Dem,Antonio Daza,173,105,24,0,44
+Pickens,Refuge,U.S. House,11,Dem,Antonio Daza,171,105,18,0,48
+Pickens,Hill City,U.S. House,11,Dem,Antonio Daza,170,106,13,0,51
+Pickens,Hinton,U.S. House,11,Dem,Antonio Daza,45,13,7,0,25
+Pickens,Jerusalem,U.S. House,11,Dem,Antonio Daza,62,22,9,0,31
+Pickens,Ludville,U.S. House,11,Dem,Antonio Daza,33,13,2,0,18
+Pickens,Nelson,U.S. House,11,Dem,Antonio Daza,106,56,7,0,43
+Pickens,Talking Rock,U.S. House,11,Dem,Antonio Daza,99,57,15,0,27
+Pickens,Jasper,U.S. House,11,Dem,Antonio Daza,260,161,26,0,73
+Pickens,Tate,U.S. House,11,Dem,Antonio Daza,159,88,22,0,49
+Pickens,Yellow Creek,State Senate,51,Rep,Steve Gooch ,2132,1267,78,0,787
+Pickens,Sharptop,State Senate,51,Rep,Steve Gooch ,1680,960,91,1,628
+Pickens,Appalachian,State Senate,51,Rep,Steve Gooch ,1038,649,33,0,356
+Pickens,Refuge,State Senate,51,Rep,Steve Gooch ,1300,808,44,0,448
+Pickens,Hill City,State Senate,51,Rep,Steve Gooch ,1210,664,38,0,508
+Pickens,Hinton,State Senate,51,Rep,Steve Gooch ,507,141,15,0,351
+Pickens,Jerusalem,State Senate,51,Rep,Steve Gooch ,705,184,12,0,509
+Pickens,Ludville,State Senate,51,Rep,Steve Gooch ,396,107,4,0,285
+Pickens,Nelson,State Senate,51,Rep,Steve Gooch ,776,328,13,0,435
+Pickens,Talking Rock,State Senate,51,Rep,Steve Gooch ,1029,544,18,1,466
+Pickens,Jasper,State Senate,51,Rep,Steve Gooch ,1292,816,52,0,424
+Pickens,Tate,State Senate,51,Rep,Steve Gooch ,1456,771,52,0,633
+Pickens,Yellow Creek,State House,11,Rep,Rick Jasperse ,1995,1180,76,0,739
+Pickens,Sharptop,State House,11,Rep,Rick Jasperse ,1557,890,77,1,589
+Pickens,Appalachian,State House,11,Rep,Rick Jasperse ,991,626,31,0,334
+Pickens,Refuge,State House,11,Rep,Rick Jasperse ,1251,778,40,0,433
+Pickens,Hill City,State House,11,Rep,Rick Jasperse ,1165,638,33,0,494
+Pickens,Hinton,State House,11,Rep,Rick Jasperse ,489,143,14,0,332
+Pickens,Jerusalem,State House,11,Rep,Rick Jasperse ,674,171,8,0,495
+Pickens,Ludville,State House,11,Rep,Rick Jasperse ,379,104,4,0,271
+Pickens,Nelson,State House,11,Rep,Rick Jasperse ,737,314,11,0,412
+Pickens,Talking Rock,State House,11,Rep,Rick Jasperse ,981,520,15,1,445
+Pickens,Jasper,State House,11,Rep,Rick Jasperse ,1200,759,42,0,399
+Pickens,Tate,State House,11,Rep,Rick Jasperse ,1386,736,45,0,605
+Pickens,Yellow Creek,State House,11,Dem,Kayla L. Hollifield,440,275,55,0,110
+Pickens,Sharptop,State House,11,Dem,Kayla L. Hollifield,383,230,57,0,96
+Pickens,Appalachian,State House,11,Dem,Kayla L. Hollifield,169,100,22,0,47
+Pickens,Refuge,State House,11,Dem,Kayla L. Hollifield,160,99,17,0,44
+Pickens,Hill City,State House,11,Dem,Kayla L. Hollifield,166,102,14,0,50
+Pickens,Hinton,State House,11,Dem,Kayla L. Hollifield,44,12,5,0,27
+Pickens,Jerusalem,State House,11,Dem,Kayla L. Hollifield,66,22,9,0,35
+Pickens,Ludville,State House,11,Dem,Kayla L. Hollifield,32,10,2,0,20
+Pickens,Nelson,State House,11,Dem,Kayla L. Hollifield,110,53,6,0,51
+Pickens,Talking Rock,State House,11,Dem,Kayla L. Hollifield,106,59,16,0,31
+Pickens,Jasper,State House,11,Dem,Kayla L. Hollifield,252,160,24,0,68
+Pickens,Tate,State House,11,Dem,Kayla L. Hollifield,165,91,20,0,54
+Pickens,Appalachian,County Commissioner Dist 1,,Rep,Josh Tippens,143,93,3,0,47
+Pickens,Refuge,County Commissioner Dist 1,,Rep,Josh Tippens,1124,705,42,0,377
+Pickens,Hill City,County Commissioner Dist 1,,Rep,Josh Tippens,1223,680,37,0,506
+Pickens,Hinton,County Commissioner Dist 1,,Rep,Josh Tippens,509,144,15,0,350
+Pickens,Jerusalem,County Commissioner Dist 1,,Rep,Josh Tippens,703,183,12,0,508
+Pickens,Ludville,County Commissioner Dist 1,,Rep,Josh Tippens,395,107,4,0,284
+Pickens,Nelson,County Commissioner Dist 1,,Rep,Josh Tippens,535,265,9,0,261
+Pickens,Talking Rock,County Commissioner Dist 1,,Rep,Josh Tippens,393,193,6,0,194
+Pickens,Jasper,County Commissioner Dist 1,,Rep,Josh Tippens,265,193,12,0,60
+Pickens,Tate,County Commissioner Dist 1,,Rep,Josh Tippens,1303,710,50,0,543
+Pickens,Yellow Creek,County Board of Education Post 2,,Rep,Steve Lowe,2129,1271,75,0,783
+Pickens,Sharptop,County Board of Education Post 2,,Rep,Steve Lowe,1653,942,92,1,618
+Pickens,Appalachian,County Board of Education Post 2,,Rep,Steve Lowe,997,626,29,0,342
+Pickens,Refuge,County Board of Education Post 2,,Rep,Steve Lowe,1231,768,39,0,424
+Pickens,Hill City,County Board of Education Post 2,,Rep,Steve Lowe,1193,664,37,0,492
+Pickens,Hinton,County Board of Education Post 2,,Rep,Steve Lowe,486,137,14,0,335
+Pickens,Jerusalem,County Board of Education Post 2,,Rep,Steve Lowe,691,180,12,0,499
+Pickens,Ludville,County Board of Education Post 2,,Rep,Steve Lowe,387,104,4,0,279
+Pickens,Nelson,County Board of Education Post 2,,Rep,Steve Lowe,757,325,13,0,419
+Pickens,Talking Rock,County Board of Education Post 2,,Rep,Steve Lowe,994,529,16,1,448
+Pickens,Jasper,County Board of Education Post 2,,Rep,Steve Lowe,1245,789,51,0,405
+Pickens,Tate,County Board of Education Post 2,,Rep,Steve Lowe,1441,769,52,0,620
+Pickens,Yellow Creek,County Board of Education Post 3,,Rep,Amy L. Gibson,2123,1267,74,0,782
+Pickens,Sharptop,County Board of Education Post 3,,Rep,Amy L. Gibson,1660,946,95,1,618
+Pickens,Appalachian,County Board of Education Post 3,,Rep,Amy L. Gibson,1015,632,34,0,349
+Pickens,Refuge,County Board of Education Post 3,,Rep,Amy L. Gibson,1244,779,41,0,424
+Pickens,Hill City,County Board of Education Post 3,,Rep,Amy L. Gibson,1196,663,36,0,497
+Pickens,Hinton,County Board of Education Post 3,,Rep,Amy L. Gibson,497,139,15,0,343
+Pickens,Jerusalem,County Board of Education Post 3,,Rep,Amy L. Gibson,698,179,12,0,507
+Pickens,Ludville,County Board of Education Post 3,,Rep,Amy L. Gibson,387,105,4,0,278
+Pickens,Nelson,County Board of Education Post 3,,Rep,Amy L. Gibson,748,316,13,0,419
+Pickens,Talking Rock,County Board of Education Post 3,,Rep,Amy L. Gibson,997,529,17,1,450
+Pickens,Jasper,County Board of Education Post 3,,Rep,Amy L. Gibson,1251,799,48,0,404
+Pickens,Tate,County Board of Education Post 3,,Rep,Amy L. Gibson,1440,771,52,0,617
+Pickens,Yellow Creek,County Board of Education Post 5,,Rep,Joe Wigington,2130,1271,76,0,783
+Pickens,Sharptop,County Board of Education Post 5,,Rep,Joe Wigington,1665,952,92,1,620
+Pickens,Appalachian,County Board of Education Post 5,,Rep,Joe Wigington,1022,637,32,0,353
+Pickens,Refuge,County Board of Education Post 5,,Rep,Joe Wigington,1285,802,45,0,438
+Pickens,Hill City,County Board of Education Post 5,,Rep,Joe Wigington,1208,669,38,0,501
+Pickens,Hinton,County Board of Education Post 5,,Rep,Joe Wigington,503,143,14,0,346
+Pickens,Jerusalem,County Board of Education Post 5,,Rep,Joe Wigington,698,182,12,0,504
+Pickens,Ludville,County Board of Education Post 5,,Rep,Joe Wigington,390,104,4,0,282
+Pickens,Nelson,County Board of Education Post 5,,Rep,Joe Wigington,771,326,13,0,432
+Pickens,Talking Rock,County Board of Education Post 5,,Rep,Joe Wigington,1020,542,17,1,460
+Pickens,Jasper,County Board of Education Post 5,,Rep,Joe Wigington,1280,812,52,0,416
+Pickens,Tate,County Board of Education Post 5,,Rep,Joe Wigington,1451,773,53,0,625
+Pickens,Nelson,Nelson,,,Ellen Ahlberg,23,11,0,0,12
+Pickens,Nelson,Nelson,,,Michael Haviland,74,16,0,0,58
+Pickens,Nelson,Nelson,,,Kristeen MacNeill,116,13,3,0,100
+Pickens,Yellow Creek,Constitutional Amendment #1,,,Yes,2178,1319,122,0,737
+Pickens,Sharptop,Constitutional Amendment #1,,,Yes,1699,995,119,1,584
+Pickens,Appalachian,Constitutional Amendment #1,,,Yes,1013,639,44,0,330
+Pickens,Refuge,Constitutional Amendment #1,,,Yes,1206,757,48,0,401
+Pickens,Hill City,Constitutional Amendment #1,,,Yes,1156,654,42,0,460
+Pickens,Hinton,Constitutional Amendment #1,,,Yes,452,129,19,0,304
+Pickens,Jerusalem,Constitutional Amendment #1,,,Yes,631,165,15,0,451
+Pickens,Ludville,Constitutional Amendment #1,,,Yes,353,100,6,0,247
+Pickens,Nelson,Constitutional Amendment #1,,,Yes,742,319,18,0,405
+Pickens,Talking Rock,Constitutional Amendment #1,,,Yes,945,507,29,0,409
+Pickens,Jasper,Constitutional Amendment #1,,,Yes,1261,791,60,0,410
+Pickens,Tate,Constitutional Amendment #1,,,Yes,1342,731,56,0,555
+Pickens,Yellow Creek,Constitutional Amendment #1,,,No,222,123,6,0,93
+Pickens,Sharptop,Constitutional Amendment #1,,,No,185,93,9,0,83
+Pickens,Appalachian,Constitutional Amendment #1,,,No,123,75,7,0,41
+Pickens,Refuge,Constitutional Amendment #1,,,No,167,103,5,0,59
+Pickens,Hill City,Constitutional Amendment #1,,,No,141,72,5,0,64
+Pickens,Hinton,Constitutional Amendment #1,,,No,57,18,0,0,39
+Pickens,Jerusalem,Constitutional Amendment #1,,,No,86,18,2,0,66
+Pickens,Ludville,Constitutional Amendment #1,,,No,49,14,0,0,35
+Pickens,Nelson,Constitutional Amendment #1,,,No,91,37,1,0,53
+Pickens,Talking Rock,Constitutional Amendment #1,,,No,122,62,1,0,59
+Pickens,Jasper,Constitutional Amendment #1,,,No,153,101,6,0,46
+Pickens,Tate,Constitutional Amendment #1,,,No,173,77,10,0,86
+Pickens,Yellow Creek,Constitutional Amendment #2,,,Yes,2269,1370,122,0,777
+Pickens,Sharptop,Constitutional Amendment #2,,,Yes,1769,1023,123,1,622
+Pickens,Appalachian,Constitutional Amendment #2,,,Yes,1043,660,41,0,342
+Pickens,Refuge,Constitutional Amendment #2,,,Yes,1299,810,52,0,437
+Pickens,Hill City,Constitutional Amendment #2,,,Yes,1207,684,42,0,481
+Pickens,Hinton,Constitutional Amendment #2,,,Yes,471,137,19,0,315
+Pickens,Jerusalem,Constitutional Amendment #2,,,Yes,666,179,15,0,472
+Pickens,Ludville,Constitutional Amendment #2,,,Yes,369,99,6,0,264
+Pickens,Nelson,Constitutional Amendment #2,,,Yes,757,324,19,0,414
+Pickens,Talking Rock,Constitutional Amendment #2,,,Yes,991,532,27,0,432
+Pickens,Jasper,Constitutional Amendment #2,,,Yes,1314,836,62,0,416
+Pickens,Tate,Constitutional Amendment #2,,,Yes,1420,772,65,0,583
+Pickens,Yellow Creek,Constitutional Amendment #2,,,No,144,77,6,0,61
+Pickens,Sharptop,Constitutional Amendment #2,,,No,137,78,6,0,53
+Pickens,Appalachian,Constitutional Amendment #2,,,No,97,57,9,0,31
+Pickens,Refuge,Constitutional Amendment #2,,,No,97,60,2,0,35
+Pickens,Hill City,Constitutional Amendment #2,,,No,104,48,5,0,51
+Pickens,Hinton,Constitutional Amendment #2,,,No,42,11,0,0,31
+Pickens,Jerusalem,Constitutional Amendment #2,,,No,61,7,2,0,52
+Pickens,Ludville,Constitutional Amendment #2,,,No,43,15,0,0,28
+Pickens,Nelson,Constitutional Amendment #2,,,No,81,35,0,0,46
+Pickens,Talking Rock,Constitutional Amendment #2,,,No,88,45,3,0,40
+Pickens,Jasper,Constitutional Amendment #2,,,No,114,66,4,0,44
+Pickens,Tate,Constitutional Amendment #2,,,No,112,48,1,0,63
+Pickens,Yellow Creek,Statewide Referendum A,,,Yes,1327,751,49,0,527
+Pickens,Sharptop,Statewide Referendum A,,,Yes,1030,583,53,1,393
+Pickens,Appalachian,Statewide Referendum A,,,Yes,642,398,21,0,223
+Pickens,Refuge,Statewide Referendum A,,,Yes,839,526,21,0,292
+Pickens,Hill City,Statewide Referendum A,,,Yes,715,402,18,0,295
+Pickens,Hinton,Statewide Referendum A,,,Yes,307,91,4,0,212
+Pickens,Jerusalem,Statewide Referendum A,,,Yes,463,119,2,0,342
+Pickens,Ludville,Statewide Referendum A,,,Yes,247,62,4,0,181
+Pickens,Nelson,Statewide Referendum A,,,Yes,507,214,5,0,288
+Pickens,Talking Rock,Statewide Referendum A,,,Yes,646,341,7,0,298
+Pickens,Jasper,Statewide Referendum A,,,Yes,861,543,25,0,293
+Pickens,Tate,Statewide Referendum A,,,Yes,924,484,31,0,409
+Pickens,Yellow Creek,Statewide Referendum A,,,No,1038,669,71,0,298
+Pickens,Sharptop,Statewide Referendum A,,,No,848,501,73,0,274
+Pickens,Appalachian,Statewide Referendum A,,,No,475,307,24,0,144
+Pickens,Refuge,Statewide Referendum A,,,No,538,333,33,0,172
+Pickens,Hill City,Statewide Referendum A,,,No,564,313,29,0,222
+Pickens,Hinton,Statewide Referendum A,,,No,201,56,15,0,130
+Pickens,Jerusalem,Statewide Referendum A,,,No,254,63,14,0,177
+Pickens,Ludville,Statewide Referendum A,,,No,157,52,1,0,104
+Pickens,Nelson,Statewide Referendum A,,,No,318,142,12,0,164
+Pickens,Talking Rock,Statewide Referendum A,,,No,414,224,22,0,168
+Pickens,Jasper,Statewide Referendum A,,,No,523,337,38,0,148
+Pickens,Tate,Statewide Referendum A,,,No,587,321,31,0,235
+Pickens,Yellow Creek,Statewide Referendum B,,,Yes,1835,1070,71,0,694
+Pickens,Sharptop,Statewide Referendum B,,,Yes,1480,837,79,1,563
+Pickens,Appalachian,Statewide Referendum B,,,Yes,894,546,34,0,314
+Pickens,Refuge,Statewide Referendum B,,,Yes,1114,681,36,0,397
+Pickens,Hill City,Statewide Referendum B,,,Yes,1027,568,28,0,431
+Pickens,Hinton,Statewide Referendum B,,,Yes,432,126,12,0,294
+Pickens,Jerusalem,Statewide Referendum B,,,Yes,601,151,5,0,445
+Pickens,Ludville,Statewide Referendum B,,,Yes,327,89,5,0,233
+Pickens,Nelson,Statewide Referendum B,,,Yes,667,286,12,0,369
+Pickens,Talking Rock,Statewide Referendum B,,,Yes,875,470,18,0,387
+Pickens,Jasper,Statewide Referendum B,,,Yes,1146,732,39,0,375
+Pickens,Tate,Statewide Referendum B,,,Yes,1216,652,41,0,523
+Pickens,Yellow Creek,Statewide Referendum B,,,No,550,358,48,0,144
+Pickens,Sharptop,Statewide Referendum B,,,No,403,248,48,0,107
+Pickens,Appalachian,Statewide Referendum B,,,No,228,159,15,0,54
+Pickens,Refuge,Statewide Referendum B,,,No,273,185,15,0,73
+Pickens,Hill City,Statewide Referendum B,,,No,256,147,19,0,90
+Pickens,Hinton,Statewide Referendum B,,,No,79,22,7,0,50
+Pickens,Jerusalem,Statewide Referendum B,,,No,120,32,11,0,77
+Pickens,Ludville,Statewide Referendum B,,,No,80,23,1,0,56
+Pickens,Nelson,Statewide Referendum B,,,No,161,70,6,0,85
+Pickens,Talking Rock,Statewide Referendum B,,,No,196,102,11,0,83
+Pickens,Jasper,Statewide Referendum B,,,No,258,159,25,0,74
+Pickens,Tate,Statewide Referendum B,,,No,303,161,21,0,121

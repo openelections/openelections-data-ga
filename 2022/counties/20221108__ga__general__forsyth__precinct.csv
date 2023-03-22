@@ -1,0 +1,1300 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Forsyth,01 Big Creek,U.S. Senate,,Rep,Herschel Junior Walker,2985,1923,117,0,945
+Forsyth,02 Brandywine,U.S. Senate,,Rep,Herschel Junior Walker,1037,388,38,0,611
+Forsyth,04 Chestatee,U.S. Senate,,Rep,Herschel Junior Walker,2071,1289,66,3,713
+Forsyth,05 Coal Mountain,U.S. Senate,,Rep,Herschel Junior Walker,3070,1936,82,1,1051
+Forsyth,06 Crossroads,U.S. Senate,,Rep,Herschel Junior Walker,3170,2118,72,0,980
+Forsyth,07 Cumming,U.S. Senate,,Rep,Herschel Junior Walker,2730,1886,131,5,708
+Forsyth,08 Mashburn,U.S. Senate,,Rep,Herschel Junior Walker,2600,1670,144,1,785
+Forsyth,10 Midway,U.S. Senate,,Rep,Herschel Junior Walker,4316,3075,144,1,1096
+Forsyth,15 Heardsville,U.S. Senate,,Rep,Herschel Junior Walker,2806,1736,101,3,966
+Forsyth,16 Otwell,U.S. Senate,,Rep,Herschel Junior Walker,3613,2518,138,4,953
+Forsyth,19 Old Atlanta,U.S. Senate,,Rep,Herschel Junior Walker,1341,626,51,2,662
+Forsyth,21 South Forsyth,U.S. Senate,,Rep,Herschel Junior Walker,948,647,29,0,272
+Forsyth,25 Windermere,U.S. Senate,,Rep,Herschel Junior Walker,2594,1403,98,1,1092
+Forsyth,27 Concord,U.S. Senate,,Rep,Herschel Junior Walker,5129,3333,124,3,1669
+Forsyth,34 Fowler,U.S. Senate,,Rep,Herschel Junior Walker,2412,1580,100,0,732
+Forsyth,35 Johns Creek,U.S. Senate,,Rep,Herschel Junior Walker,2086,1319,105,1,661
+Forsyth,36 Nichols,U.S. Senate,,Rep,Herschel Junior Walker,2392,1568,71,0,753
+Forsyth,38 Daves Creek,U.S. Senate,,Rep,Herschel Junior Walker,2768,1883,117,2,766
+Forsyth,39 Mathis,U.S. Senate,,Rep,Herschel Junior Walker,1783,1223,83,0,477
+Forsyth,40 West Forsyth,U.S. Senate,,Rep,Herschel Junior Walker,2970,1973,80,8,909
+Forsyth,41 Grassland,U.S. Senate,,Rep,Herschel Junior Walker,1180,768,28,3,381
+Forsyth,42 Keith Bridge,U.S. Senate,,Rep,Herschel Junior Walker,1922,1177,59,2,684
+Forsyth,43 Lakeland,U.S. Senate,,Rep,Herschel Junior Walker,1698,1026,100,0,572
+Forsyth,44 Lanier,U.S. Senate,,Rep,Herschel Junior Walker,2041,1253,85,3,700
+Forsyth,45 Mountainside,U.S. Senate,,Rep,Herschel Junior Walker,2392,1592,71,1,728
+Forsyth,46 Sawmill Branch,U.S. Senate,,Rep,Herschel Junior Walker,1613,1045,43,0,525
+Forsyth,47 Riverclub,U.S. Senate,,Rep,Herschel Junior Walker,1089,485,23,1,580
+Forsyth,49 Cheatam Creek,U.S. Senate,,Rep,Herschel Junior Walker,1257,858,50,1,348
+Forsyth,01 Big Creek,U.S. Senate,,Dem,Raphael Warnock ,2278,1417,201,2,658
+Forsyth,02 Brandywine,U.S. Senate,,Dem,Raphael Warnock ,1277,627,94,1,555
+Forsyth,04 Chestatee,U.S. Senate,,Dem,Raphael Warnock ,444,285,43,0,116
+Forsyth,05 Coal Mountain,U.S. Senate,,Dem,Raphael Warnock ,1055,600,79,1,375
+Forsyth,06 Crossroads,U.S. Senate,,Dem,Raphael Warnock ,944,630,65,1,248
+Forsyth,07 Cumming,U.S. Senate,,Dem,Raphael Warnock ,1122,705,106,2,309
+Forsyth,08 Mashburn,U.S. Senate,,Dem,Raphael Warnock ,1171,731,139,0,301
+Forsyth,10 Midway,U.S. Senate,,Dem,Raphael Warnock ,2073,1387,187,0,499
+Forsyth,15 Heardsville,U.S. Senate,,Dem,Raphael Warnock ,932,536,90,0,306
+Forsyth,16 Otwell,U.S. Senate,,Dem,Raphael Warnock ,1356,850,139,3,364
+Forsyth,19 Old Atlanta,U.S. Senate,,Dem,Raphael Warnock ,843,358,85,1,399
+Forsyth,21 South Forsyth,U.S. Senate,,Dem,Raphael Warnock ,724,437,52,0,235
+Forsyth,25 Windermere,U.S. Senate,,Dem,Raphael Warnock ,1962,1098,133,0,731
+Forsyth,27 Concord,U.S. Senate,,Dem,Raphael Warnock ,1569,989,123,0,457
+Forsyth,34 Fowler,U.S. Senate,,Dem,Raphael Warnock ,1280,794,121,0,365
+Forsyth,35 Johns Creek,U.S. Senate,,Dem,Raphael Warnock ,1831,1083,223,2,523
+Forsyth,36 Nichols,U.S. Senate,,Dem,Raphael Warnock ,1785,1114,133,0,538
+Forsyth,38 Daves Creek,U.S. Senate,,Dem,Raphael Warnock ,1815,1179,171,1,464
+Forsyth,39 Mathis,U.S. Senate,,Dem,Raphael Warnock ,869,536,85,2,246
+Forsyth,40 West Forsyth,U.S. Senate,,Dem,Raphael Warnock ,1434,978,101,1,354
+Forsyth,41 Grassland,U.S. Senate,,Dem,Raphael Warnock ,836,518,73,2,243
+Forsyth,42 Keith Bridge,U.S. Senate,,Dem,Raphael Warnock ,453,258,48,2,145
+Forsyth,43 Lakeland,U.S. Senate,,Dem,Raphael Warnock ,1425,854,179,1,391
+Forsyth,44 Lanier,U.S. Senate,,Dem,Raphael Warnock ,523,341,60,0,122
+Forsyth,45 Mountainside,U.S. Senate,,Dem,Raphael Warnock ,759,509,67,1,182
+Forsyth,46 Sawmill Branch,U.S. Senate,,Dem,Raphael Warnock ,903,570,77,3,253
+Forsyth,47 Riverclub,U.S. Senate,,Dem,Raphael Warnock ,485,232,39,0,214
+Forsyth,49 Cheatam Creek,U.S. Senate,,Dem,Raphael Warnock ,704,462,68,0,174
+Forsyth,01 Big Creek,U.S. Senate,,Lib,Chase Oliver,146,72,5,1,68
+Forsyth,02 Brandywine,U.S. Senate,,Lib,Chase Oliver,71,16,2,0,53
+Forsyth,04 Chestatee,U.S. Senate,,Lib,Chase Oliver,88,43,2,1,42
+Forsyth,05 Coal Mountain,U.S. Senate,,Lib,Chase Oliver,127,55,5,0,67
+Forsyth,06 Crossroads,U.S. Senate,,Lib,Chase Oliver,121,73,7,0,41
+Forsyth,07 Cumming,U.S. Senate,,Lib,Chase Oliver,133,77,10,0,46
+Forsyth,08 Mashburn,U.S. Senate,,Lib,Chase Oliver,102,43,7,1,51
+Forsyth,10 Midway,U.S. Senate,,Lib,Chase Oliver,228,138,5,0,85
+Forsyth,15 Heardsville,U.S. Senate,,Lib,Chase Oliver,119,65,6,0,48
+Forsyth,16 Otwell,U.S. Senate,,Lib,Chase Oliver,149,95,5,1,48
+Forsyth,19 Old Atlanta,U.S. Senate,,Lib,Chase Oliver,61,18,3,0,40
+Forsyth,21 South Forsyth,U.S. Senate,,Lib,Chase Oliver,53,32,7,0,14
+Forsyth,25 Windermere,U.S. Senate,,Lib,Chase Oliver,113,44,6,1,62
+Forsyth,27 Concord,U.S. Senate,,Lib,Chase Oliver,227,132,3,0,92
+Forsyth,34 Fowler,U.S. Senate,,Lib,Chase Oliver,108,63,7,0,38
+Forsyth,35 Johns Creek,U.S. Senate,,Lib,Chase Oliver,113,62,5,0,46
+Forsyth,36 Nichols,U.S. Senate,,Lib,Chase Oliver,138,61,5,0,72
+Forsyth,38 Daves Creek,U.S. Senate,,Lib,Chase Oliver,127,73,8,0,46
+Forsyth,39 Mathis,U.S. Senate,,Lib,Chase Oliver,77,39,8,1,29
+Forsyth,40 West Forsyth,U.S. Senate,,Lib,Chase Oliver,134,76,3,0,55
+Forsyth,41 Grassland,U.S. Senate,,Lib,Chase Oliver,55,29,3,0,23
+Forsyth,42 Keith Bridge,U.S. Senate,,Lib,Chase Oliver,56,30,2,0,24
+Forsyth,43 Lakeland,U.S. Senate,,Lib,Chase Oliver,103,54,11,0,38
+Forsyth,44 Lanier,U.S. Senate,,Lib,Chase Oliver,67,35,6,0,26
+Forsyth,45 Mountainside,U.S. Senate,,Lib,Chase Oliver,91,45,2,0,44
+Forsyth,46 Sawmill Branch,U.S. Senate,,Lib,Chase Oliver,68,27,4,1,36
+Forsyth,47 Riverclub,U.S. Senate,,Lib,Chase Oliver,50,13,0,0,37
+Forsyth,49 Cheatam Creek,U.S. Senate,,Lib,Chase Oliver,63,32,2,1,28
+Forsyth,01 Big Creek,Governor,,Rep,Brian Kemp ,3444,2183,148,1,1112
+Forsyth,02 Brandywine,Governor,,Rep,Brian Kemp ,1239,452,47,0,740
+Forsyth,04 Chestatee,Governor,,Rep,Brian Kemp ,2275,1403,81,4,787
+Forsyth,05 Coal Mountain,Governor,,Rep,Brian Kemp ,3380,2096,102,1,1181
+Forsyth,06 Crossroads,Governor,,Rep,Brian Kemp ,3439,2288,87,0,1064
+Forsyth,07 Cumming,Governor,,Rep,Brian Kemp ,2997,2066,159,5,767
+Forsyth,08 Mashburn,Governor,,Rep,Brian Kemp ,2909,1852,171,1,885
+Forsyth,10 Midway,Governor,,Rep,Brian Kemp ,4905,3456,176,1,1272
+Forsyth,15 Heardsville,Governor,,Rep,Brian Kemp ,3046,1877,115,3,1051
+Forsyth,16 Otwell,Governor,,Rep,Brian Kemp ,3973,2745,170,4,1054
+Forsyth,19 Old Atlanta,Governor,,Rep,Brian Kemp ,1571,701,66,2,802
+Forsyth,21 South Forsyth,Governor,,Rep,Brian Kemp ,1110,746,41,0,323
+Forsyth,25 Windermere,Governor,,Rep,Brian Kemp ,3016,1613,114,2,1287
+Forsyth,27 Concord,Governor,,Rep,Brian Kemp ,5616,3644,149,3,1820
+Forsyth,34 Fowler,Governor,,Rep,Brian Kemp ,2708,1769,114,0,825
+Forsyth,35 Johns Creek,Governor,,Rep,Brian Kemp ,2476,1527,137,3,809
+Forsyth,36 Nichols,Governor,,Rep,Brian Kemp ,2825,1800,86,0,939
+Forsyth,38 Daves Creek,Governor,,Rep,Brian Kemp ,3197,2155,146,3,893
+Forsyth,39 Mathis,Governor,,Rep,Brian Kemp ,2019,1362,103,2,552
+Forsyth,40 West Forsyth,Governor,,Rep,Brian Kemp ,3314,2181,96,8,1029
+Forsyth,41 Grassland,Governor,,Rep,Brian Kemp ,1329,850,42,4,433
+Forsyth,42 Keith Bridge,Governor,,Rep,Brian Kemp ,2084,1264,70,2,748
+Forsyth,43 Lakeland,Governor,,Rep,Brian Kemp ,1996,1180,140,0,676
+Forsyth,44 Lanier,Governor,,Rep,Brian Kemp ,2213,1366,101,2,744
+Forsyth,45 Mountainside,Governor,,Rep,Brian Kemp ,2596,1715,79,1,801
+Forsyth,46 Sawmill Branch,Governor,,Rep,Brian Kemp ,1795,1132,54,0,609
+Forsyth,47 Riverclub,Governor,,Rep,Brian Kemp ,1226,534,28,1,663
+Forsyth,49 Cheatam Creek,Governor,,Rep,Brian Kemp ,1418,958,62,1,397
+Forsyth,01 Big Creek,Governor,,Dem,Stacey Abrams,1973,1238,178,2,555
+Forsyth,02 Brandywine,Governor,,Dem,Stacey Abrams,1136,575,87,1,473
+Forsyth,04 Chestatee,Governor,,Dem,Stacey Abrams,320,209,30,0,81
+Forsyth,05 Coal Mountain,Governor,,Dem,Stacey Abrams,878,500,67,1,310
+Forsyth,06 Crossroads,Governor,,Dem,Stacey Abrams,780,525,57,1,197
+Forsyth,07 Cumming,Governor,,Dem,Stacey Abrams,959,595,86,2,276
+Forsyth,08 Mashburn,Governor,,Dem,Stacey Abrams,936,588,117,0,231
+Forsyth,10 Midway,Governor,,Dem,Stacey Abrams,1692,1136,160,0,396
+Forsyth,15 Heardsville,Governor,,Dem,Stacey Abrams,775,436,81,0,258
+Forsyth,16 Otwell,Governor,,Dem,Stacey Abrams,1118,707,111,4,296
+Forsyth,19 Old Atlanta,Governor,,Dem,Stacey Abrams,678,305,75,1,297
+Forsyth,21 South Forsyth,Governor,,Dem,Stacey Abrams,616,372,47,0,197
+Forsyth,25 Windermere,Governor,,Dem,Stacey Abrams,1630,925,124,0,581
+Forsyth,27 Concord,Governor,,Dem,Stacey Abrams,1290,813,106,0,371
+Forsyth,34 Fowler,Governor,,Dem,Stacey Abrams,1082,670,113,0,299
+Forsyth,35 Johns Creek,Governor,,Dem,Stacey Abrams,1560,949,198,0,413
+Forsyth,36 Nichols,Governor,,Dem,Stacey Abrams,1488,949,125,0,414
+Forsyth,38 Daves Creek,Governor,,Dem,Stacey Abrams,1524,999,147,0,378
+Forsyth,39 Mathis,Governor,,Dem,Stacey Abrams,705,433,74,1,197
+Forsyth,40 West Forsyth,Governor,,Dem,Stacey Abrams,1201,837,90,1,273
+Forsyth,41 Grassland,Governor,,Dem,Stacey Abrams,738,462,63,2,211
+Forsyth,42 Keith Bridge,Governor,,Dem,Stacey Abrams,349,199,39,2,109
+Forsyth,43 Lakeland,Governor,,Dem,Stacey Abrams,1220,753,150,1,316
+Forsyth,44 Lanier,Governor,,Dem,Stacey Abrams,408,267,47,0,94
+Forsyth,45 Mountainside,Governor,,Dem,Stacey Abrams,624,424,60,1,139
+Forsyth,46 Sawmill Branch,Governor,,Dem,Stacey Abrams,767,507,68,3,189
+Forsyth,47 Riverclub,Governor,,Dem,Stacey Abrams,388,198,33,0,157
+Forsyth,49 Cheatam Creek,Governor,,Dem,Stacey Abrams,599,393,60,0,146
+Forsyth,01 Big Creek,Governor,,Lib,Shane Hazel,28,13,0,0,15
+Forsyth,02 Brandywine,Governor,,Lib,Shane Hazel,22,6,0,0,16
+Forsyth,04 Chestatee,Governor,,Lib,Shane Hazel,24,13,2,0,9
+Forsyth,05 Coal Mountain,Governor,,Lib,Shane Hazel,25,12,2,0,11
+Forsyth,06 Crossroads,Governor,,Lib,Shane Hazel,40,26,0,0,14
+Forsyth,07 Cumming,Governor,,Lib,Shane Hazel,47,18,4,0,25
+Forsyth,08 Mashburn,Governor,,Lib,Shane Hazel,44,14,5,1,24
+Forsyth,10 Midway,Governor,,Lib,Shane Hazel,53,31,3,0,19
+Forsyth,15 Heardsville,Governor,,Lib,Shane Hazel,38,23,1,0,14
+Forsyth,16 Otwell,Governor,,Lib,Shane Hazel,48,27,0,0,21
+Forsyth,19 Old Atlanta,Governor,,Lib,Shane Hazel,14,0,0,0,14
+Forsyth,21 South Forsyth,Governor,,Lib,Shane Hazel,9,4,0,0,5
+Forsyth,25 Windermere,Governor,,Lib,Shane Hazel,41,13,1,0,27
+Forsyth,27 Concord,Governor,,Lib,Shane Hazel,61,24,1,0,36
+Forsyth,34 Fowler,Governor,,Lib,Shane Hazel,34,16,2,0,16
+Forsyth,35 Johns Creek,Governor,,Lib,Shane Hazel,28,7,4,0,17
+Forsyth,36 Nichols,Governor,,Lib,Shane Hazel,35,14,0,0,21
+Forsyth,38 Daves Creek,Governor,,Lib,Shane Hazel,35,14,3,0,18
+Forsyth,39 Mathis,Governor,,Lib,Shane Hazel,16,5,1,0,10
+Forsyth,40 West Forsyth,Governor,,Lib,Shane Hazel,47,22,1,0,24
+Forsyth,41 Grassland,Governor,,Lib,Shane Hazel,20,10,3,0,7
+Forsyth,42 Keith Bridge,Governor,,Lib,Shane Hazel,16,9,2,0,5
+Forsyth,43 Lakeland,Governor,,Lib,Shane Hazel,36,18,3,0,15
+Forsyth,44 Lanier,Governor,,Lib,Shane Hazel,27,8,3,1,15
+Forsyth,45 Mountainside,Governor,,Lib,Shane Hazel,34,18,1,0,15
+Forsyth,46 Sawmill Branch,Governor,,Lib,Shane Hazel,36,17,1,1,17
+Forsyth,47 Riverclub,Governor,,Lib,Shane Hazel,17,1,1,0,15
+Forsyth,49 Cheatam Creek,Governor,,Lib,Shane Hazel,21,11,0,1,9
+Forsyth,01 Big Creek,Lieutenant Governor,,Rep,Burt Jones,3240,2061,127,0,1052
+Forsyth,02 Brandywine,Lieutenant Governor,,Rep,Burt Jones,1149,428,43,0,678
+Forsyth,04 Chestatee,Lieutenant Governor,,Rep,Burt Jones,2174,1341,79,3,751
+Forsyth,05 Coal Mountain,Lieutenant Governor,,Rep,Burt Jones,3248,2028,90,1,1129
+Forsyth,06 Crossroads,Lieutenant Governor,,Rep,Burt Jones,3293,2191,80,0,1022
+Forsyth,07 Cumming,Lieutenant Governor,,Rep,Burt Jones,2877,1989,143,5,740
+Forsyth,08 Mashburn,Lieutenant Governor,,Rep,Burt Jones,2748,1746,162,1,839
+Forsyth,10 Midway,Lieutenant Governor,,Rep,Burt Jones,4639,3276,157,1,1205
+Forsyth,15 Heardsville,Lieutenant Governor,,Rep,Burt Jones,2944,1811,104,3,1026
+Forsyth,16 Otwell,Lieutenant Governor,,Rep,Burt Jones,3789,2634,146,6,1003
+Forsyth,19 Old Atlanta,Lieutenant Governor,,Rep,Burt Jones,1441,665,55,2,719
+Forsyth,21 South Forsyth,Lieutenant Governor,,Rep,Burt Jones,1046,695,37,0,314
+Forsyth,25 Windermere,Lieutenant Governor,,Rep,Burt Jones,2835,1503,109,2,1221
+Forsyth,27 Concord,Lieutenant Governor,,Rep,Burt Jones,5392,3509,142,3,1738
+Forsyth,34 Fowler,Lieutenant Governor,,Rep,Burt Jones,2590,1693,107,0,790
+Forsyth,35 Johns Creek,Lieutenant Governor,,Rep,Burt Jones,2319,1440,125,3,751
+Forsyth,36 Nichols,Lieutenant Governor,,Rep,Burt Jones,2657,1697,76,0,884
+Forsyth,38 Daves Creek,Lieutenant Governor,,Rep,Burt Jones,3038,2063,128,2,845
+Forsyth,39 Mathis,Lieutenant Governor,,Rep,Burt Jones,1932,1297,98,1,536
+Forsyth,40 West Forsyth,Lieutenant Governor,,Rep,Burt Jones,3191,2104,89,8,990
+Forsyth,41 Grassland,Lieutenant Governor,,Rep,Burt Jones,1247,811,35,5,396
+Forsyth,42 Keith Bridge,Lieutenant Governor,,Rep,Burt Jones,2002,1209,66,2,725
+Forsyth,43 Lakeland,Lieutenant Governor,,Rep,Burt Jones,1863,1113,129,0,621
+Forsyth,44 Lanier,Lieutenant Governor,,Rep,Burt Jones,2120,1308,91,3,718
+Forsyth,45 Mountainside,Lieutenant Governor,,Rep,Burt Jones,2479,1637,76,1,765
+Forsyth,46 Sawmill Branch,Lieutenant Governor,,Rep,Burt Jones,1723,1094,50,0,579
+Forsyth,47 Riverclub,Lieutenant Governor,,Rep,Burt Jones,1148,510,24,1,613
+Forsyth,49 Cheatam Creek,Lieutenant Governor,,Rep,Burt Jones,1344,911,62,1,370
+Forsyth,01 Big Creek,Lieutenant Governor,,Dem,Charlie Bailey,2059,1306,188,2,563
+Forsyth,02 Brandywine,Lieutenant Governor,,Dem,Charlie Bailey,1169,584,85,1,499
+Forsyth,04 Chestatee,Lieutenant Governor,,Dem,Charlie Bailey,359,246,31,0,82
+Forsyth,05 Coal Mountain,Lieutenant Governor,,Dem,Charlie Bailey,907,523,71,1,312
+Forsyth,06 Crossroads,Lieutenant Governor,,Dem,Charlie Bailey,834,570,58,1,205
+Forsyth,07 Cumming,Lieutenant Governor,,Dem,Charlie Bailey,979,617,88,2,272
+Forsyth,08 Mashburn,Lieutenant Governor,,Dem,Charlie Bailey,1033,653,123,1,256
+Forsyth,10 Midway,Lieutenant Governor,,Dem,Charlie Bailey,1799,1215,169,0,415
+Forsyth,15 Heardsville,Lieutenant Governor,,Dem,Charlie Bailey,813,465,90,0,258
+Forsyth,16 Otwell,Lieutenant Governor,,Dem,Charlie Bailey,1195,756,132,2,305
+Forsyth,19 Old Atlanta,Lieutenant Governor,,Dem,Charlie Bailey,746,326,83,1,336
+Forsyth,21 South Forsyth,Lieutenant Governor,,Dem,Charlie Bailey,642,394,47,0,201
+Forsyth,25 Windermere,Lieutenant Governor,,Dem,Charlie Bailey,1726,988,128,0,610
+Forsyth,27 Concord,Lieutenant Governor,,Dem,Charlie Bailey,1362,861,110,0,391
+Forsyth,34 Fowler,Lieutenant Governor,,Dem,Charlie Bailey,1134,715,116,0,303
+Forsyth,35 Johns Creek,Lieutenant Governor,,Dem,Charlie Bailey,1620,977,205,0,438
+Forsyth,36 Nichols,Lieutenant Governor,,Dem,Charlie Bailey,1576,1006,132,0,438
+Forsyth,38 Daves Creek,Lieutenant Governor,,Dem,Charlie Bailey,1607,1052,159,1,395
+Forsyth,39 Mathis,Lieutenant Governor,,Dem,Charlie Bailey,746,475,75,0,196
+Forsyth,40 West Forsyth,Lieutenant Governor,,Dem,Charlie Bailey,1262,872,95,1,294
+Forsyth,41 Grassland,Lieutenant Governor,,Dem,Charlie Bailey,770,476,68,1,225
+Forsyth,42 Keith Bridge,Lieutenant Governor,,Dem,Charlie Bailey,385,229,42,1,113
+Forsyth,43 Lakeland,Lieutenant Governor,,Dem,Charlie Bailey,1275,781,157,1,336
+Forsyth,44 Lanier,Lieutenant Governor,,Dem,Charlie Bailey,440,289,54,0,97
+Forsyth,45 Mountainside,Lieutenant Governor,,Dem,Charlie Bailey,679,466,60,1,152
+Forsyth,46 Sawmill Branch,Lieutenant Governor,,Dem,Charlie Bailey,795,519,74,2,200
+Forsyth,47 Riverclub,Lieutenant Governor,,Dem,Charlie Bailey,428,210,37,0,181
+Forsyth,49 Cheatam Creek,Lieutenant Governor,,Dem,Charlie Bailey,638,428,57,0,153
+Forsyth,01 Big Creek,Lieutenant Governor,,Lib,Ryan Graham,101,47,5,1,48
+Forsyth,02 Brandywine,Lieutenant Governor,,Lib,Ryan Graham,59,16,2,0,41
+Forsyth,04 Chestatee,Lieutenant Governor,,Lib,Ryan Graham,74,33,2,1,38
+Forsyth,05 Coal Mountain,Lieutenant Governor,,Lib,Ryan Graham,96,43,5,0,48
+Forsyth,06 Crossroads,Lieutenant Governor,,Lib,Ryan Graham,110,66,2,0,42
+Forsyth,07 Cumming,Lieutenant Governor,,Lib,Ryan Graham,122,61,13,0,48
+Forsyth,08 Mashburn,Lieutenant Governor,,Lib,Ryan Graham,83,40,5,0,38
+Forsyth,10 Midway,Lieutenant Governor,,Lib,Ryan Graham,187,118,11,0,58
+Forsyth,15 Heardsville,Lieutenant Governor,,Lib,Ryan Graham,88,51,3,0,34
+Forsyth,16 Otwell,Lieutenant Governor,,Lib,Ryan Graham,129,75,2,0,52
+Forsyth,19 Old Atlanta,Lieutenant Governor,,Lib,Ryan Graham,57,7,3,0,47
+Forsyth,21 South Forsyth,Lieutenant Governor,,Lib,Ryan Graham,31,21,2,0,8
+Forsyth,25 Windermere,Lieutenant Governor,,Lib,Ryan Graham,95,47,3,0,45
+Forsyth,27 Concord,Lieutenant Governor,,Lib,Ryan Graham,170,84,2,0,84
+Forsyth,34 Fowler,Lieutenant Governor,,Lib,Ryan Graham,74,33,3,0,38
+Forsyth,35 Johns Creek,Lieutenant Governor,,Lib,Ryan Graham,104,53,7,0,44
+Forsyth,36 Nichols,Lieutenant Governor,,Lib,Ryan Graham,88,45,3,0,40
+Forsyth,38 Daves Creek,Lieutenant Governor,,Lib,Ryan Graham,83,42,2,0,39
+Forsyth,39 Mathis,Lieutenant Governor,,Lib,Ryan Graham,49,23,2,0,24
+Forsyth,40 West Forsyth,Lieutenant Governor,,Lib,Ryan Graham,82,43,0,0,39
+Forsyth,41 Grassland,Lieutenant Governor,,Lib,Ryan Graham,52,28,2,0,22
+Forsyth,42 Keith Bridge,Lieutenant Governor,,Lib,Ryan Graham,52,26,2,1,23
+Forsyth,43 Lakeland,Lieutenant Governor,,Lib,Ryan Graham,88,45,5,0,38
+Forsyth,44 Lanier,Lieutenant Governor,,Lib,Ryan Graham,72,33,6,0,33
+Forsyth,45 Mountainside,Lieutenant Governor,,Lib,Ryan Graham,77,43,1,0,33
+Forsyth,46 Sawmill Branch,Lieutenant Governor,,Lib,Ryan Graham,69,34,1,2,32
+Forsyth,47 Riverclub,Lieutenant Governor,,Lib,Ryan Graham,42,9,1,0,32
+Forsyth,49 Cheatam Creek,Lieutenant Governor,,Lib,Ryan Graham,50,21,3,1,25
+Forsyth,01 Big Creek,Secretary of State,,Rep,Brad Raffensperger ,3423,2193,149,1,1080
+Forsyth,02 Brandywine,Secretary of State,,Rep,Brad Raffensperger ,1208,465,54,0,689
+Forsyth,04 Chestatee,Secretary of State,,Rep,Brad Raffensperger ,2166,1349,77,3,737
+Forsyth,05 Coal Mountain,Secretary of State,,Rep,Brad Raffensperger ,3225,2019,98,1,1107
+Forsyth,06 Crossroads,Secretary of State,,Rep,Brad Raffensperger ,3276,2170,90,1,1015
+Forsyth,07 Cumming,Secretary of State,,Rep,Brad Raffensperger ,2868,1987,155,5,721
+Forsyth,08 Mashburn,Secretary of State,,Rep,Brad Raffensperger ,2827,1807,179,1,840
+Forsyth,10 Midway,Secretary of State,,Rep,Brad Raffensperger ,4799,3384,187,1,1227
+Forsyth,15 Heardsville,Secretary of State,,Rep,Brad Raffensperger ,2948,1830,118,3,997
+Forsyth,16 Otwell,Secretary of State,,Rep,Brad Raffensperger ,3826,2649,178,4,995
+Forsyth,19 Old Atlanta,Secretary of State,,Rep,Brad Raffensperger ,1529,688,76,2,763
+Forsyth,21 South Forsyth,Secretary of State,,Rep,Brad Raffensperger ,1125,747,46,0,332
+Forsyth,25 Windermere,Secretary of State,,Rep,Brad Raffensperger ,3029,1632,132,2,1263
+Forsyth,27 Concord,Secretary of State,,Rep,Brad Raffensperger ,5356,3479,155,3,1719
+Forsyth,34 Fowler,Secretary of State,,Rep,Brad Raffensperger ,2632,1735,124,0,773
+Forsyth,35 Johns Creek,Secretary of State,,Rep,Brad Raffensperger ,2521,1564,152,3,802
+Forsyth,36 Nichols,Secretary of State,,Rep,Brad Raffensperger ,2823,1813,89,0,921
+Forsyth,38 Daves Creek,Secretary of State,,Rep,Brad Raffensperger ,3172,2133,160,2,877
+Forsyth,39 Mathis,Secretary of State,,Rep,Brad Raffensperger ,1989,1348,102,2,537
+Forsyth,40 West Forsyth,Secretary of State,,Rep,Brad Raffensperger ,3200,2127,95,8,970
+Forsyth,41 Grassland,Secretary of State,,Rep,Brad Raffensperger ,1342,880,45,4,413
+Forsyth,42 Keith Bridge,Secretary of State,,Rep,Brad Raffensperger ,1948,1178,69,2,699
+Forsyth,43 Lakeland,Secretary of State,,Rep,Brad Raffensperger ,1987,1201,141,0,645
+Forsyth,44 Lanier,Secretary of State,,Rep,Brad Raffensperger ,2127,1321,102,2,702
+Forsyth,45 Mountainside,Secretary of State,,Rep,Brad Raffensperger ,2482,1653,85,1,743
+Forsyth,46 Sawmill Branch,Secretary of State,,Rep,Brad Raffensperger ,1793,1130,64,0,599
+Forsyth,47 Riverclub,Secretary of State,,Rep,Brad Raffensperger ,1196,524,34,1,637
+Forsyth,49 Cheatam Creek,Secretary of State,,Rep,Brad Raffensperger ,1402,952,66,1,383
+Forsyth,01 Big Creek,Secretary of State,,Dem,Bee Nguyen,1833,1145,162,2,524
+Forsyth,02 Brandywine,Secretary of State,,Dem,Bee Nguyen,1075,529,77,1,468
+Forsyth,04 Chestatee,Secretary of State,,Dem,Bee Nguyen,325,209,29,0,87
+Forsyth,05 Coal Mountain,Secretary of State,,Dem,Bee Nguyen,833,469,63,1,300
+Forsyth,06 Crossroads,Secretary of State,,Dem,Bee Nguyen,736,509,50,0,177
+Forsyth,07 Cumming,Secretary of State,,Dem,Bee Nguyen,914,560,83,2,269
+Forsyth,08 Mashburn,Secretary of State,,Dem,Bee Nguyen,869,541,101,0,227
+Forsyth,10 Midway,Secretary of State,,Dem,Bee Nguyen,1571,1060,142,0,369
+Forsyth,15 Heardsville,Secretary of State,,Dem,Bee Nguyen,724,408,75,0,241
+Forsyth,16 Otwell,Secretary of State,,Dem,Bee Nguyen,1081,683,104,4,290
+Forsyth,19 Old Atlanta,Secretary of State,,Dem,Bee Nguyen,639,287,65,1,286
+Forsyth,21 South Forsyth,Secretary of State,,Dem,Bee Nguyen,540,321,39,0,180
+Forsyth,25 Windermere,Secretary of State,,Dem,Bee Nguyen,1484,831,106,0,547
+Forsyth,27 Concord,Secretary of State,,Dem,Bee Nguyen,1239,784,96,0,359
+Forsyth,34 Fowler,Secretary of State,,Dem,Bee Nguyen,1005,612,101,0,292
+Forsyth,35 Johns Creek,Secretary of State,,Dem,Bee Nguyen,1407,848,178,0,381
+Forsyth,36 Nichols,Secretary of State,,Dem,Bee Nguyen,1353,859,116,0,378
+Forsyth,38 Daves Creek,Secretary of State,,Dem,Bee Nguyen,1412,931,126,1,354
+Forsyth,39 Mathis,Secretary of State,,Dem,Bee Nguyen,656,393,69,1,193
+Forsyth,40 West Forsyth,Secretary of State,,Dem,Bee Nguyen,1142,771,88,1,282
+Forsyth,41 Grassland,Secretary of State,,Dem,Bee Nguyen,679,421,60,2,196
+Forsyth,42 Keith Bridge,Secretary of State,,Dem,Bee Nguyen,355,210,38,1,106
+Forsyth,43 Lakeland,Secretary of State,,Dem,Bee Nguyen,1149,693,147,1,308
+Forsyth,44 Lanier,Secretary of State,,Dem,Bee Nguyen,376,239,45,0,92
+Forsyth,45 Mountainside,Secretary of State,,Dem,Bee Nguyen,573,385,50,1,137
+Forsyth,46 Sawmill Branch,Secretary of State,,Dem,Bee Nguyen,695,460,58,2,175
+Forsyth,47 Riverclub,Secretary of State,,Dem,Bee Nguyen,362,178,28,0,156
+Forsyth,49 Cheatam Creek,Secretary of State,,Dem,Bee Nguyen,559,361,55,0,143
+Forsyth,01 Big Creek,Secretary of State,,Lib,Ted Metz,157,82,11,0,64
+Forsyth,02 Brandywine,Secretary of State,,Lib,Ted Metz,96,34,2,0,60
+Forsyth,04 Chestatee,Secretary of State,,Lib,Ted Metz,106,56,5,0,45
+Forsyth,05 Coal Mountain,Secretary of State,,Lib,Ted Metz,173,87,8,0,78
+Forsyth,06 Crossroads,Secretary of State,,Lib,Ted Metz,206,135,1,0,70
+Forsyth,07 Cumming,Secretary of State,,Lib,Ted Metz,178,104,9,0,65
+Forsyth,08 Mashburn,Secretary of State,,Lib,Ted Metz,155,87,10,1,57
+Forsyth,10 Midway,Secretary of State,,Lib,Ted Metz,255,159,11,0,85
+Forsyth,15 Heardsville,Secretary of State,,Lib,Ted Metz,152,85,2,0,65
+Forsyth,16 Otwell,Secretary of State,,Lib,Ted Metz,196,114,1,0,81
+Forsyth,19 Old Atlanta,Secretary of State,,Lib,Ted Metz,75,23,1,0,51
+Forsyth,21 South Forsyth,Secretary of State,,Lib,Ted Metz,62,50,1,0,11
+Forsyth,25 Windermere,Secretary of State,,Lib,Ted Metz,144,74,2,0,68
+Forsyth,27 Concord,Secretary of State,,Lib,Ted Metz,318,179,4,0,135
+Forsyth,34 Fowler,Secretary of State,,Lib,Ted Metz,151,86,3,0,62
+Forsyth,35 Johns Creek,Secretary of State,,Lib,Ted Metz,123,66,7,0,50
+Forsyth,36 Nichols,Secretary of State,,Lib,Ted Metz,143,79,6,0,58
+Forsyth,38 Daves Creek,Secretary of State,,Lib,Ted Metz,152,99,7,0,46
+Forsyth,39 Mathis,Secretary of State,,Lib,Ted Metz,78,47,5,0,26
+Forsyth,40 West Forsyth,Secretary of State,,Lib,Ted Metz,183,113,3,0,67
+Forsyth,41 Grassland,Secretary of State,,Lib,Ted Metz,56,23,1,0,32
+Forsyth,42 Keith Bridge,Secretary of State,,Lib,Ted Metz,118,63,4,1,50
+Forsyth,43 Lakeland,Secretary of State,,Lib,Ted Metz,87,40,4,0,43
+Forsyth,44 Lanier,Secretary of State,,Lib,Ted Metz,117,65,4,1,47
+Forsyth,45 Mountainside,Secretary of State,,Lib,Ted Metz,163,90,3,0,70
+Forsyth,46 Sawmill Branch,Secretary of State,,Lib,Ted Metz,99,58,2,2,37
+Forsyth,47 Riverclub,Secretary of State,,Lib,Ted Metz,57,22,0,0,35
+Forsyth,49 Cheatam Creek,Secretary of State,,Lib,Ted Metz,65,44,0,1,20
+Forsyth,01 Big Creek,Attorney General,,Rep,Chris Carr ,3288,2107,132,0,1049
+Forsyth,02 Brandywine,Attorney General,,Rep,Chris Carr ,1155,438,41,0,676
+Forsyth,04 Chestatee,Attorney General,,Rep,Chris Carr ,2178,1349,77,3,749
+Forsyth,05 Coal Mountain,Attorney General,,Rep,Chris Carr ,3267,2040,94,1,1132
+Forsyth,06 Crossroads,Attorney General,,Rep,Chris Carr ,3318,2213,79,0,1026
+Forsyth,07 Cumming,Attorney General,,Rep,Chris Carr ,2876,1987,146,5,738
+Forsyth,08 Mashburn,Attorney General,,Rep,Chris Carr ,2782,1783,169,1,829
+Forsyth,10 Midway,Attorney General,,Rep,Chris Carr ,4734,3345,169,1,1219
+Forsyth,15 Heardsville,Attorney General,,Rep,Chris Carr ,2935,1812,107,3,1013
+Forsyth,16 Otwell,Attorney General,,Rep,Chris Carr ,3807,2652,153,5,997
+Forsyth,19 Old Atlanta,Attorney General,,Rep,Chris Carr ,1459,664,63,2,730
+Forsyth,21 South Forsyth,Attorney General,,Rep,Chris Carr ,1067,722,37,0,308
+Forsyth,25 Windermere,Attorney General,,Rep,Chris Carr ,2899,1564,114,2,1219
+Forsyth,27 Concord,Attorney General,,Rep,Chris Carr ,5434,3526,147,3,1758
+Forsyth,34 Fowler,Attorney General,,Rep,Chris Carr ,2584,1692,107,0,785
+Forsyth,35 Johns Creek,Attorney General,,Rep,Chris Carr ,2370,1478,128,2,762
+Forsyth,36 Nichols,Attorney General,,Rep,Chris Carr ,2702,1730,79,0,893
+Forsyth,38 Daves Creek,Attorney General,,Rep,Chris Carr ,3062,2075,138,3,846
+Forsyth,39 Mathis,Attorney General,,Rep,Chris Carr ,1925,1314,100,1,510
+Forsyth,40 West Forsyth,Attorney General,,Rep,Chris Carr ,3200,2113,92,8,987
+Forsyth,41 Grassland,Attorney General,,Rep,Chris Carr ,1275,830,35,4,406
+Forsyth,42 Keith Bridge,Attorney General,,Rep,Chris Carr ,2023,1229,66,2,726
+Forsyth,43 Lakeland,Attorney General,,Rep,Chris Carr ,1883,1127,131,0,625
+Forsyth,44 Lanier,Attorney General,,Rep,Chris Carr ,2148,1333,97,2,716
+Forsyth,45 Mountainside,Attorney General,,Rep,Chris Carr ,2491,1645,76,1,769
+Forsyth,46 Sawmill Branch,Attorney General,,Rep,Chris Carr ,1736,1099,50,0,587
+Forsyth,47 Riverclub,Attorney General,,Rep,Chris Carr ,1175,515,25,1,634
+Forsyth,49 Cheatam Creek,Attorney General,,Rep,Chris Carr ,1369,931,61,1,376
+Forsyth,01 Big Creek,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",2053,1285,186,3,579
+Forsyth,02 Brandywine,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1184,579,87,1,517
+Forsyth,04 Chestatee,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",372,239,32,0,101
+Forsyth,05 Coal Mountain,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",920,521,71,1,327
+Forsyth,06 Crossroads,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",837,565,60,0,212
+Forsyth,07 Cumming,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1011,627,94,2,288
+Forsyth,08 Mashburn,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1006,626,118,1,261
+Forsyth,10 Midway,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1786,1197,165,0,424
+Forsyth,15 Heardsville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",820,471,87,0,262
+Forsyth,16 Otwell,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1193,749,123,2,319
+Forsyth,19 Old Atlanta,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",750,328,77,1,344
+Forsyth,21 South Forsyth,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",635,381,49,0,205
+Forsyth,25 Windermere,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1696,957,123,0,616
+Forsyth,27 Concord,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1384,883,106,0,395
+Forsyth,34 Fowler,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1140,712,114,0,314
+Forsyth,35 Johns Creek,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1618,966,205,1,446
+Forsyth,36 Nichols,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1556,990,130,0,436
+Forsyth,38 Daves Creek,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1591,1045,151,0,395
+Forsyth,39 Mathis,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",765,468,73,2,222
+Forsyth,40 West Forsyth,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1250,857,93,1,299
+Forsyth,41 Grassland,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",750,468,68,1,213
+Forsyth,42 Keith Bridge,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",380,223,40,2,115
+Forsyth,43 Lakeland,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1281,782,157,1,341
+Forsyth,44 Lanier,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",434,277,49,1,107
+Forsyth,45 Mountainside,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",682,462,63,1,156
+Forsyth,46 Sawmill Branch,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",802,518,74,2,208
+Forsyth,47 Riverclub,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",418,205,36,0,177
+Forsyth,49 Cheatam Creek,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",628,410,60,0,158
+Forsyth,01 Big Creek,Attorney General,,Lib,Martin Cowen,71,28,3,0,40
+Forsyth,02 Brandywine,Attorney General,,Lib,Martin Cowen,38,10,1,0,27
+Forsyth,04 Chestatee,Attorney General,,Lib,Martin Cowen,53,29,2,0,22
+Forsyth,05 Coal Mountain,Attorney General,,Lib,Martin Cowen,63,29,3,0,31
+Forsyth,06 Crossroads,Attorney General,,Lib,Martin Cowen,83,51,3,1,28
+Forsyth,07 Cumming,Attorney General,,Lib,Martin Cowen,87,48,5,0,34
+Forsyth,08 Mashburn,Attorney General,,Lib,Martin Cowen,69,28,4,0,37
+Forsyth,10 Midway,Attorney General,,Lib,Martin Cowen,112,70,5,0,37
+Forsyth,15 Heardsville,Attorney General,,Lib,Martin Cowen,82,43,0,0,39
+Forsyth,16 Otwell,Attorney General,,Lib,Martin Cowen,115,62,2,1,50
+Forsyth,19 Old Atlanta,Attorney General,,Lib,Martin Cowen,43,9,1,0,33
+Forsyth,21 South Forsyth,Attorney General,,Lib,Martin Cowen,21,14,1,0,6
+Forsyth,25 Windermere,Attorney General,,Lib,Martin Cowen,64,26,2,0,36
+Forsyth,27 Concord,Attorney General,,Lib,Martin Cowen,111,50,1,0,60
+Forsyth,34 Fowler,Attorney General,,Lib,Martin Cowen,76,41,5,0,30
+Forsyth,35 Johns Creek,Attorney General,,Lib,Martin Cowen,60,28,6,0,26
+Forsyth,36 Nichols,Attorney General,,Lib,Martin Cowen,67,30,1,0,36
+Forsyth,38 Daves Creek,Attorney General,,Lib,Martin Cowen,71,35,5,0,31
+Forsyth,39 Mathis,Attorney General,,Lib,Martin Cowen,39,17,2,0,20
+Forsyth,40 West Forsyth,Attorney General,,Lib,Martin Cowen,87,51,0,0,36
+Forsyth,41 Grassland,Attorney General,,Lib,Martin Cowen,45,17,1,0,27
+Forsyth,42 Keith Bridge,Attorney General,,Lib,Martin Cowen,33,12,4,0,17
+Forsyth,43 Lakeland,Attorney General,,Lib,Martin Cowen,63,33,3,0,27
+Forsyth,44 Lanier,Attorney General,,Lib,Martin Cowen,49,21,5,0,23
+Forsyth,45 Mountainside,Attorney General,,Lib,Martin Cowen,55,32,0,0,23
+Forsyth,46 Sawmill Branch,Attorney General,,Lib,Martin Cowen,51,28,1,2,20
+Forsyth,47 Riverclub,Attorney General,,Lib,Martin Cowen,23,5,0,0,18
+Forsyth,49 Cheatam Creek,Attorney General,,Lib,Martin Cowen,33,19,0,1,13
+Forsyth,01 Big Creek,Commissioner Of Agriculture,,Rep,Tyler Harper,3363,2141,146,1,1075
+Forsyth,02 Brandywine,Commissioner Of Agriculture,,Rep,Tyler Harper,1190,449,44,0,697
+Forsyth,04 Chestatee,Commissioner Of Agriculture,,Rep,Tyler Harper,2213,1371,76,3,763
+Forsyth,05 Coal Mountain,Commissioner Of Agriculture,,Rep,Tyler Harper,3288,2050,94,1,1143
+Forsyth,06 Crossroads,Commissioner Of Agriculture,,Rep,Tyler Harper,3344,2223,85,0,1036
+Forsyth,07 Cumming,Commissioner Of Agriculture,,Rep,Tyler Harper,2963,2043,161,5,754
+Forsyth,08 Mashburn,Commissioner Of Agriculture,,Rep,Tyler Harper,2845,1828,177,1,839
+Forsyth,10 Midway,Commissioner Of Agriculture,,Rep,Tyler Harper,4835,3411,176,1,1247
+Forsyth,15 Heardsville,Commissioner Of Agriculture,,Rep,Tyler Harper,2975,1829,114,3,1029
+Forsyth,16 Otwell,Commissioner Of Agriculture,,Rep,Tyler Harper,3885,2700,161,5,1019
+Forsyth,19 Old Atlanta,Commissioner Of Agriculture,,Rep,Tyler Harper,1500,687,61,2,750
+Forsyth,21 South Forsyth,Commissioner Of Agriculture,,Rep,Tyler Harper,1098,736,40,0,322
+Forsyth,25 Windermere,Commissioner Of Agriculture,,Rep,Tyler Harper,2947,1579,122,2,1244
+Forsyth,27 Concord,Commissioner Of Agriculture,,Rep,Tyler Harper,5458,3533,152,2,1771
+Forsyth,34 Fowler,Commissioner Of Agriculture,,Rep,Tyler Harper,2620,1711,113,0,796
+Forsyth,35 Johns Creek,Commissioner Of Agriculture,,Rep,Tyler Harper,2414,1493,138,3,780
+Forsyth,36 Nichols,Commissioner Of Agriculture,,Rep,Tyler Harper,2744,1753,82,0,909
+Forsyth,38 Daves Creek,Commissioner Of Agriculture,,Rep,Tyler Harper,3125,2133,139,3,850
+Forsyth,39 Mathis,Commissioner Of Agriculture,,Rep,Tyler Harper,1978,1334,102,2,540
+Forsyth,40 West Forsyth,Commissioner Of Agriculture,,Rep,Tyler Harper,3222,2136,92,8,986
+Forsyth,41 Grassland,Commissioner Of Agriculture,,Rep,Tyler Harper,1300,836,39,5,420
+Forsyth,42 Keith Bridge,Commissioner Of Agriculture,,Rep,Tyler Harper,2035,1228,72,2,733
+Forsyth,43 Lakeland,Commissioner Of Agriculture,,Rep,Tyler Harper,1947,1170,143,0,634
+Forsyth,44 Lanier,Commissioner Of Agriculture,,Rep,Tyler Harper,2178,1347,95,3,733
+Forsyth,45 Mountainside,Commissioner Of Agriculture,,Rep,Tyler Harper,2521,1666,81,1,773
+Forsyth,46 Sawmill Branch,Commissioner Of Agriculture,,Rep,Tyler Harper,1779,1119,58,1,601
+Forsyth,47 Riverclub,Commissioner Of Agriculture,,Rep,Tyler Harper,1202,523,29,1,649
+Forsyth,49 Cheatam Creek,Commissioner Of Agriculture,,Rep,Tyler Harper,1398,949,63,1,385
+Forsyth,01 Big Creek,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1901,1211,164,2,524
+Forsyth,02 Brandywine,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1118,559,83,1,475
+Forsyth,04 Chestatee,Commissioner Of Agriculture,,Dem,Nakita Hemingway,314,205,30,0,79
+Forsyth,05 Coal Mountain,Commissioner Of Agriculture,,Dem,Nakita Hemingway,850,490,65,1,294
+Forsyth,06 Crossroads,Commissioner Of Agriculture,,Dem,Nakita Hemingway,756,522,50,1,183
+Forsyth,07 Cumming,Commissioner Of Agriculture,,Dem,Nakita Hemingway,887,553,81,2,251
+Forsyth,08 Mashburn,Commissioner Of Agriculture,,Dem,Nakita Hemingway,895,556,107,0,232
+Forsyth,10 Midway,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1612,1084,154,0,374
+Forsyth,15 Heardsville,Commissioner Of Agriculture,,Dem,Nakita Hemingway,734,423,81,0,230
+Forsyth,16 Otwell,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1093,691,114,2,286
+Forsyth,19 Old Atlanta,Commissioner Of Agriculture,,Dem,Nakita Hemingway,680,301,77,1,301
+Forsyth,21 South Forsyth,Commissioner Of Agriculture,,Dem,Nakita Hemingway,583,350,45,0,188
+Forsyth,25 Windermere,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1598,918,106,0,574
+Forsyth,27 Concord,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1264,812,94,0,358
+Forsyth,34 Fowler,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1061,660,105,0,296
+Forsyth,35 Johns Creek,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1505,909,192,0,404
+Forsyth,36 Nichols,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1455,936,125,0,394
+Forsyth,38 Daves Creek,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1492,966,147,0,379
+Forsyth,39 Mathis,Commissioner Of Agriculture,,Dem,Nakita Hemingway,676,422,67,1,186
+Forsyth,40 West Forsyth,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1157,796,89,1,271
+Forsyth,41 Grassland,Commissioner Of Agriculture,,Dem,Nakita Hemingway,707,442,61,1,203
+Forsyth,42 Keith Bridge,Commissioner Of Agriculture,,Dem,Nakita Hemingway,346,206,35,1,104
+Forsyth,43 Lakeland,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1173,721,142,1,309
+Forsyth,44 Lanier,Commissioner Of Agriculture,,Dem,Nakita Hemingway,370,244,48,0,78
+Forsyth,45 Mountainside,Commissioner Of Agriculture,,Dem,Nakita Hemingway,620,424,54,1,141
+Forsyth,46 Sawmill Branch,Commissioner Of Agriculture,,Dem,Nakita Hemingway,731,483,64,1,183
+Forsyth,47 Riverclub,Commissioner Of Agriculture,,Dem,Nakita Hemingway,367,188,31,0,148
+Forsyth,49 Cheatam Creek,Commissioner Of Agriculture,,Dem,Nakita Hemingway,577,382,56,0,139
+Forsyth,01 Big Creek,Commissioner Of Agriculture,,Lib,David Raudabaugh,119,59,5,0,55
+Forsyth,02 Brandywine,Commissioner Of Agriculture,,Lib,David Raudabaugh,62,17,0,0,45
+Forsyth,04 Chestatee,Commissioner Of Agriculture,,Lib,David Raudabaugh,67,38,2,0,27
+Forsyth,05 Coal Mountain,Commissioner Of Agriculture,,Lib,David Raudabaugh,100,47,5,0,48
+Forsyth,06 Crossroads,Commissioner Of Agriculture,,Lib,David Raudabaugh,122,78,1,0,43
+Forsyth,07 Cumming,Commissioner Of Agriculture,,Lib,David Raudabaugh,115,63,6,0,46
+Forsyth,08 Mashburn,Commissioner Of Agriculture,,Lib,David Raudabaugh,111,49,4,1,57
+Forsyth,10 Midway,Commissioner Of Agriculture,,Lib,David Raudabaugh,156,100,7,0,49
+Forsyth,15 Heardsville,Commissioner Of Agriculture,,Lib,David Raudabaugh,113,60,2,0,51
+Forsyth,16 Otwell,Commissioner Of Agriculture,,Lib,David Raudabaugh,131,68,3,1,59
+Forsyth,19 Old Atlanta,Commissioner Of Agriculture,,Lib,David Raudabaugh,56,13,2,0,41
+Forsyth,21 South Forsyth,Commissioner Of Agriculture,,Lib,David Raudabaugh,31,22,1,0,8
+Forsyth,25 Windermere,Commissioner Of Agriculture,,Lib,David Raudabaugh,86,33,6,0,47
+Forsyth,27 Concord,Commissioner Of Agriculture,,Lib,David Raudabaugh,193,108,2,0,83
+Forsyth,34 Fowler,Commissioner Of Agriculture,,Lib,David Raudabaugh,99,58,5,0,36
+Forsyth,35 Johns Creek,Commissioner Of Agriculture,,Lib,David Raudabaugh,97,51,4,0,42
+Forsyth,36 Nichols,Commissioner Of Agriculture,,Lib,David Raudabaugh,102,48,2,0,52
+Forsyth,38 Daves Creek,Commissioner Of Agriculture,,Lib,David Raudabaugh,94,48,6,0,40
+Forsyth,39 Mathis,Commissioner Of Agriculture,,Lib,David Raudabaugh,46,23,3,0,20
+Forsyth,40 West Forsyth,Commissioner Of Agriculture,,Lib,David Raudabaugh,137,76,2,0,59
+Forsyth,41 Grassland,Commissioner Of Agriculture,,Lib,David Raudabaugh,55,31,2,0,22
+Forsyth,42 Keith Bridge,Commissioner Of Agriculture,,Lib,David Raudabaugh,49,25,4,1,19
+Forsyth,43 Lakeland,Commissioner Of Agriculture,,Lib,David Raudabaugh,92,45,2,0,45
+Forsyth,44 Lanier,Commissioner Of Agriculture,,Lib,David Raudabaugh,71,34,7,0,30
+Forsyth,45 Mountainside,Commissioner Of Agriculture,,Lib,David Raudabaugh,84,50,2,0,32
+Forsyth,46 Sawmill Branch,Commissioner Of Agriculture,,Lib,David Raudabaugh,66,34,3,2,27
+Forsyth,47 Riverclub,Commissioner Of Agriculture,,Lib,David Raudabaugh,41,11,0,0,30
+Forsyth,49 Cheatam Creek,Commissioner Of Agriculture,,Lib,David Raudabaugh,49,23,1,1,24
+Forsyth,01 Big Creek,Commissioner Of Insurance,,Rep,John King ,3440,2178,150,1,1111
+Forsyth,02 Brandywine,Commissioner Of Insurance,,Rep,John King ,1226,466,44,0,716
+Forsyth,04 Chestatee,Commissioner Of Insurance,,Rep,John King ,2250,1388,76,3,783
+Forsyth,05 Coal Mountain,Commissioner Of Insurance,,Rep,John King ,3347,2071,100,1,1175
+Forsyth,06 Crossroads,Commissioner Of Insurance,,Rep,John King ,3404,2268,81,0,1055
+Forsyth,07 Cumming,Commissioner Of Insurance,,Rep,John King ,2996,2057,157,5,777
+Forsyth,08 Mashburn,Commissioner Of Insurance,,Rep,John King ,2914,1848,181,2,883
+Forsyth,10 Midway,Commissioner Of Insurance,,Rep,John King ,4931,3466,179,1,1285
+Forsyth,15 Heardsville,Commissioner Of Insurance,,Rep,John King ,3035,1867,110,3,1055
+Forsyth,16 Otwell,Commissioner Of Insurance,,Rep,John King ,3944,2726,161,5,1052
+Forsyth,19 Old Atlanta,Commissioner Of Insurance,,Rep,John King ,1558,695,71,2,790
+Forsyth,21 South Forsyth,Commissioner Of Insurance,,Rep,John King ,1116,752,40,0,324
+Forsyth,25 Windermere,Commissioner Of Insurance,,Rep,John King ,3045,1630,121,2,1292
+Forsyth,27 Concord,Commissioner Of Insurance,,Rep,John King ,5596,3616,150,3,1827
+Forsyth,34 Fowler,Commissioner Of Insurance,,Rep,John King ,2693,1756,113,0,824
+Forsyth,35 Johns Creek,Commissioner Of Insurance,,Rep,John King ,2490,1527,135,3,825
+Forsyth,36 Nichols,Commissioner Of Insurance,,Rep,John King ,2848,1806,88,0,954
+Forsyth,38 Daves Creek,Commissioner Of Insurance,,Rep,John King ,3179,2141,144,3,891
+Forsyth,39 Mathis,Commissioner Of Insurance,,Rep,John King ,2029,1360,106,2,561
+Forsyth,40 West Forsyth,Commissioner Of Insurance,,Rep,John King ,3309,2179,94,8,1028
+Forsyth,41 Grassland,Commissioner Of Insurance,,Rep,John King ,1356,867,45,5,439
+Forsyth,42 Keith Bridge,Commissioner Of Insurance,,Rep,John King ,2047,1235,71,2,739
+Forsyth,43 Lakeland,Commissioner Of Insurance,,Rep,John King ,1979,1177,138,0,664
+Forsyth,44 Lanier,Commissioner Of Insurance,,Rep,John King ,2214,1369,97,3,745
+Forsyth,45 Mountainside,Commissioner Of Insurance,,Rep,John King ,2569,1694,82,1,792
+Forsyth,46 Sawmill Branch,Commissioner Of Insurance,,Rep,John King ,1843,1152,61,0,630
+Forsyth,47 Riverclub,Commissioner Of Insurance,,Rep,John King ,1220,530,28,1,661
+Forsyth,49 Cheatam Creek,Commissioner Of Insurance,,Rep,John King ,1428,967,64,2,395
+Forsyth,01 Big Creek,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1935,1232,165,2,536
+Forsyth,02 Brandywine,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1141,557,85,1,498
+Forsyth,04 Chestatee,Commissioner Of Insurance,,Dem,Janice Laws Robinson,337,223,31,0,83
+Forsyth,05 Coal Mountain,Commissioner Of Insurance,,Dem,Janice Laws Robinson,884,506,67,1,310
+Forsyth,06 Crossroads,Commissioner Of Insurance,,Dem,Janice Laws Robinson,808,551,54,1,202
+Forsyth,07 Cumming,Commissioner Of Insurance,,Dem,Janice Laws Robinson,954,594,88,2,270
+Forsyth,08 Mashburn,Commissioner Of Insurance,,Dem,Janice Laws Robinson,922,576,108,0,238
+Forsyth,10 Midway,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1656,1119,158,0,379
+Forsyth,15 Heardsville,Commissioner Of Insurance,,Dem,Janice Laws Robinson,781,446,85,0,250
+Forsyth,16 Otwell,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1145,722,116,3,304
+Forsyth,19 Old Atlanta,Commissioner Of Insurance,,Dem,Janice Laws Robinson,676,305,70,1,300
+Forsyth,21 South Forsyth,Commissioner Of Insurance,,Dem,Janice Laws Robinson,593,354,46,0,193
+Forsyth,25 Windermere,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1580,902,109,0,569
+Forsyth,27 Concord,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1296,822,98,0,376
+Forsyth,34 Fowler,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1075,673,107,0,295
+Forsyth,35 Johns Creek,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1521,925,198,0,398
+Forsyth,36 Nichols,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1447,931,118,0,398
+Forsyth,38 Daves Creek,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1516,998,144,0,374
+Forsyth,39 Mathis,Commissioner Of Insurance,,Dem,Janice Laws Robinson,681,426,66,1,188
+Forsyth,40 West Forsyth,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1200,828,90,1,281
+Forsyth,41 Grassland,Commissioner Of Insurance,,Dem,Janice Laws Robinson,704,441,59,1,203
+Forsyth,42 Keith Bridge,Commissioner Of Insurance,,Dem,Janice Laws Robinson,375,219,39,2,115
+Forsyth,43 Lakeland,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1216,749,148,1,318
+Forsyth,44 Lanier,Commissioner Of Insurance,,Dem,Janice Laws Robinson,399,255,47,0,97
+Forsyth,45 Mountainside,Commissioner Of Insurance,,Dem,Janice Laws Robinson,643,435,54,1,153
+Forsyth,46 Sawmill Branch,Commissioner Of Insurance,,Dem,Janice Laws Robinson,730,479,64,4,183
+Forsyth,47 Riverclub,Commissioner Of Insurance,,Dem,Janice Laws Robinson,387,191,31,0,165
+Forsyth,49 Cheatam Creek,Commissioner Of Insurance,,Dem,Janice Laws Robinson,591,386,55,0,150
+Forsyth,01 Big Creek,State School Superintendent,,Rep,Richard Woods ,3457,2197,145,1,1114
+Forsyth,02 Brandywine,State School Superintendent,,Rep,Richard Woods ,1235,463,46,0,726
+Forsyth,04 Chestatee,State School Superintendent,,Rep,Richard Woods ,2264,1397,77,4,786
+Forsyth,05 Coal Mountain,State School Superintendent,,Rep,Richard Woods ,3372,2090,100,1,1181
+Forsyth,06 Crossroads,State School Superintendent,,Rep,Richard Woods ,3446,2292,83,0,1071
+Forsyth,07 Cumming,State School Superintendent,,Rep,Richard Woods ,3021,2071,155,5,790
+Forsyth,08 Mashburn,State School Superintendent,,Rep,Richard Woods ,2904,1847,174,1,882
+Forsyth,10 Midway,State School Superintendent,,Rep,Richard Woods ,4943,3489,180,1,1273
+Forsyth,15 Heardsville,State School Superintendent,,Rep,Richard Woods ,3049,1879,113,3,1054
+Forsyth,16 Otwell,State School Superintendent,,Rep,Richard Woods ,3967,2748,164,3,1052
+Forsyth,19 Old Atlanta,State School Superintendent,,Rep,Richard Woods ,1553,695,69,2,787
+Forsyth,21 South Forsyth,State School Superintendent,,Rep,Richard Woods ,1123,757,39,0,327
+Forsyth,25 Windermere,State School Superintendent,,Rep,Richard Woods ,3032,1606,125,2,1299
+Forsyth,27 Concord,State School Superintendent,,Rep,Richard Woods ,5624,3637,153,3,1831
+Forsyth,34 Fowler,State School Superintendent,,Rep,Richard Woods ,2705,1765,118,0,822
+Forsyth,35 Johns Creek,State School Superintendent,,Rep,Richard Woods ,2495,1519,146,2,828
+Forsyth,36 Nichols,State School Superintendent,,Rep,Richard Woods ,2877,1827,92,0,958
+Forsyth,38 Daves Creek,State School Superintendent,,Rep,Richard Woods ,3182,2149,144,2,887
+Forsyth,39 Mathis,State School Superintendent,,Rep,Richard Woods ,2015,1357,99,2,557
+Forsyth,40 West Forsyth,State School Superintendent,,Rep,Richard Woods ,3348,2194,95,8,1051
+Forsyth,41 Grassland,State School Superintendent,,Rep,Richard Woods ,1352,867,40,5,440
+Forsyth,42 Keith Bridge,State School Superintendent,,Rep,Richard Woods ,2059,1243,71,2,743
+Forsyth,43 Lakeland,State School Superintendent,,Rep,Richard Woods ,2023,1216,144,0,663
+Forsyth,44 Lanier,State School Superintendent,,Rep,Richard Woods ,2220,1380,90,2,748
+Forsyth,45 Mountainside,State School Superintendent,,Rep,Richard Woods ,2584,1708,82,1,793
+Forsyth,46 Sawmill Branch,State School Superintendent,,Rep,Richard Woods ,1832,1144,59,1,628
+Forsyth,47 Riverclub,State School Superintendent,,Rep,Richard Woods ,1234,536,26,1,671
+Forsyth,49 Cheatam Creek,State School Superintendent,,Rep,Richard Woods ,1440,971,62,2,405
+Forsyth,01 Big Creek,State School Superintendent,,Dem,Alisha Thomas Searcy,1942,1222,174,2,544
+Forsyth,02 Brandywine,State School Superintendent,,Dem,Alisha Thomas Searcy,1145,565,83,1,496
+Forsyth,04 Chestatee,State School Superintendent,,Dem,Alisha Thomas Searcy,330,216,30,0,84
+Forsyth,05 Coal Mountain,State School Superintendent,,Dem,Alisha Thomas Searcy,876,497,66,1,312
+Forsyth,06 Crossroads,State School Superintendent,,Dem,Alisha Thomas Searcy,780,532,54,1,193
+Forsyth,07 Cumming,State School Superintendent,,Dem,Alisha Thomas Searcy,941,588,90,2,261
+Forsyth,08 Mashburn,State School Superintendent,,Dem,Alisha Thomas Searcy,937,581,112,1,243
+Forsyth,10 Midway,State School Superintendent,,Dem,Alisha Thomas Searcy,1665,1112,156,0,397
+Forsyth,15 Heardsville,State School Superintendent,,Dem,Alisha Thomas Searcy,775,438,81,0,256
+Forsyth,16 Otwell,State School Superintendent,,Dem,Alisha Thomas Searcy,1132,706,115,4,307
+Forsyth,19 Old Atlanta,State School Superintendent,,Dem,Alisha Thomas Searcy,689,306,72,1,310
+Forsyth,21 South Forsyth,State School Superintendent,,Dem,Alisha Thomas Searcy,594,350,48,0,196
+Forsyth,25 Windermere,State School Superintendent,,Dem,Alisha Thomas Searcy,1615,930,113,0,572
+Forsyth,27 Concord,State School Superintendent,,Dem,Alisha Thomas Searcy,1285,808,98,0,379
+Forsyth,34 Fowler,State School Superintendent,,Dem,Alisha Thomas Searcy,1077,669,104,0,304
+Forsyth,35 Johns Creek,State School Superintendent,,Dem,Alisha Thomas Searcy,1523,931,190,1,401
+Forsyth,36 Nichols,State School Superintendent,,Dem,Alisha Thomas Searcy,1436,916,116,0,404
+Forsyth,38 Daves Creek,State School Superintendent,,Dem,Alisha Thomas Searcy,1523,993,143,1,386
+Forsyth,39 Mathis,State School Superintendent,,Dem,Alisha Thomas Searcy,699,432,73,1,193
+Forsyth,40 West Forsyth,State School Superintendent,,Dem,Alisha Thomas Searcy,1171,816,85,1,269
+Forsyth,41 Grassland,State School Superintendent,,Dem,Alisha Thomas Searcy,714,446,63,1,204
+Forsyth,42 Keith Bridge,State School Superintendent,,Dem,Alisha Thomas Searcy,367,214,38,2,113
+Forsyth,43 Lakeland,State School Superintendent,,Dem,Alisha Thomas Searcy,1189,721,140,1,327
+Forsyth,44 Lanier,State School Superintendent,,Dem,Alisha Thomas Searcy,392,245,51,1,95
+Forsyth,45 Mountainside,State School Superintendent,,Dem,Alisha Thomas Searcy,640,433,55,1,151
+Forsyth,46 Sawmill Branch,State School Superintendent,,Dem,Alisha Thomas Searcy,744,489,66,3,186
+Forsyth,47 Riverclub,State School Superintendent,,Dem,Alisha Thomas Searcy,381,188,34,0,159
+Forsyth,49 Cheatam Creek,State School Superintendent,,Dem,Alisha Thomas Searcy,584,383,57,0,144
+Forsyth,01 Big Creek,Commissioner Of Labor,,Rep,Bruce Thompson,3343,2126,137,0,1080
+Forsyth,02 Brandywine,Commissioner Of Labor,,Rep,Bruce Thompson,1162,440,41,0,681
+Forsyth,04 Chestatee,Commissioner Of Labor,,Rep,Bruce Thompson,2186,1346,75,3,762
+Forsyth,05 Coal Mountain,Commissioner Of Labor,,Rep,Bruce Thompson,3259,2031,93,1,1134
+Forsyth,06 Crossroads,Commissioner Of Labor,,Rep,Bruce Thompson,3285,2195,79,0,1011
+Forsyth,07 Cumming,Commissioner Of Labor,,Rep,Bruce Thompson,2898,2002,149,5,742
+Forsyth,08 Mashburn,Commissioner Of Labor,,Rep,Bruce Thompson,2810,1794,173,2,841
+Forsyth,10 Midway,Commissioner Of Labor,,Rep,Bruce Thompson,4745,3356,166,1,1222
+Forsyth,15 Heardsville,Commissioner Of Labor,,Rep,Bruce Thompson,2940,1814,107,3,1016
+Forsyth,16 Otwell,Commissioner Of Labor,,Rep,Bruce Thompson,3813,2649,157,4,1003
+Forsyth,19 Old Atlanta,Commissioner Of Labor,,Rep,Bruce Thompson,1489,677,63,2,747
+Forsyth,21 South Forsyth,Commissioner Of Labor,,Rep,Bruce Thompson,1089,725,38,0,326
+Forsyth,25 Windermere,Commissioner Of Labor,,Rep,Bruce Thompson,2909,1549,116,2,1242
+Forsyth,27 Concord,Commissioner Of Labor,,Rep,Bruce Thompson,5393,3499,149,3,1742
+Forsyth,34 Fowler,Commissioner Of Labor,,Rep,Bruce Thompson,2597,1700,106,0,791
+Forsyth,35 Johns Creek,Commissioner Of Labor,,Rep,Bruce Thompson,2366,1457,131,2,776
+Forsyth,36 Nichols,Commissioner Of Labor,,Rep,Bruce Thompson,2718,1748,76,0,894
+Forsyth,38 Daves Creek,Commissioner Of Labor,,Rep,Bruce Thompson,3102,2106,137,2,857
+Forsyth,39 Mathis,Commissioner Of Labor,,Rep,Bruce Thompson,1972,1329,101,2,540
+Forsyth,40 West Forsyth,Commissioner Of Labor,,Rep,Bruce Thompson,3191,2107,87,8,989
+Forsyth,41 Grassland,Commissioner Of Labor,,Rep,Bruce Thompson,1296,839,39,4,414
+Forsyth,42 Keith Bridge,Commissioner Of Labor,,Rep,Bruce Thompson,2017,1223,71,2,721
+Forsyth,43 Lakeland,Commissioner Of Labor,,Rep,Bruce Thompson,1894,1137,131,0,626
+Forsyth,44 Lanier,Commissioner Of Labor,,Rep,Bruce Thompson,2156,1335,91,2,728
+Forsyth,45 Mountainside,Commissioner Of Labor,,Rep,Bruce Thompson,2506,1661,75,1,769
+Forsyth,46 Sawmill Branch,Commissioner Of Labor,,Rep,Bruce Thompson,1749,1101,53,0,595
+Forsyth,47 Riverclub,Commissioner Of Labor,,Rep,Bruce Thompson,1185,519,28,1,637
+Forsyth,49 Cheatam Creek,Commissioner Of Labor,,Rep,Bruce Thompson,1375,936,63,1,375
+Forsyth,01 Big Creek,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1903,1220,169,2,512
+Forsyth,02 Brandywine,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1123,556,80,1,486
+Forsyth,04 Chestatee,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",331,224,30,0,77
+Forsyth,05 Coal Mountain,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",864,496,63,1,304
+Forsyth,06 Crossroads,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",771,529,52,1,189
+Forsyth,07 Cumming,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",920,582,89,2,247
+Forsyth,08 Mashburn,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",928,587,110,0,231
+Forsyth,10 Midway,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1653,1118,157,0,378
+Forsyth,15 Heardsville,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",767,437,87,0,243
+Forsyth,16 Otwell,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1115,713,112,2,288
+Forsyth,19 Old Atlanta,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",684,310,70,1,303
+Forsyth,21 South Forsyth,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",574,351,45,0,178
+Forsyth,25 Windermere,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1610,931,116,0,563
+Forsyth,27 Concord,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1270,816,100,0,354
+Forsyth,34 Fowler,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1046,653,107,0,286
+Forsyth,35 Johns Creek,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1527,932,196,1,398
+Forsyth,36 Nichols,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1436,921,124,0,391
+Forsyth,38 Daves Creek,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1481,977,143,0,361
+Forsyth,39 Mathis,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",681,431,68,0,182
+Forsyth,40 West Forsyth,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1179,812,93,1,273
+Forsyth,41 Grassland,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",714,444,61,1,208
+Forsyth,42 Keith Bridge,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",350,205,35,2,108
+Forsyth,43 Lakeland,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1214,752,145,1,316
+Forsyth,44 Lanier,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",382,253,50,0,79
+Forsyth,45 Mountainside,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",632,427,56,1,148
+Forsyth,46 Sawmill Branch,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",739,490,67,2,180
+Forsyth,47 Riverclub,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",373,193,31,0,149
+Forsyth,49 Cheatam Creek,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",596,393,57,0,146
+Forsyth,01 Big Creek,Commissioner Of Labor,,Lib,Emily Anderson,129,61,6,1,61
+Forsyth,02 Brandywine,Commissioner Of Labor,,Lib,Emily Anderson,81,27,5,0,49
+Forsyth,04 Chestatee,Commissioner Of Labor,,Lib,Emily Anderson,69,37,3,0,29
+Forsyth,05 Coal Mountain,Commissioner Of Labor,,Lib,Emily Anderson,112,53,10,0,49
+Forsyth,06 Crossroads,Commissioner Of Labor,,Lib,Emily Anderson,153,89,5,0,59
+Forsyth,07 Cumming,Commissioner Of Labor,,Lib,Emily Anderson,137,70,6,0,61
+Forsyth,08 Mashburn,Commissioner Of Labor,,Lib,Emily Anderson,106,45,4,0,57
+Forsyth,10 Midway,Commissioner Of Labor,,Lib,Emily Anderson,178,103,8,0,67
+Forsyth,15 Heardsville,Commissioner Of Labor,,Lib,Emily Anderson,116,65,2,0,49
+Forsyth,16 Otwell,Commissioner Of Labor,,Lib,Emily Anderson,168,90,8,2,68
+Forsyth,19 Old Atlanta,Commissioner Of Labor,,Lib,Emily Anderson,61,13,6,0,42
+Forsyth,21 South Forsyth,Commissioner Of Labor,,Lib,Emily Anderson,41,27,2,0,12
+Forsyth,25 Windermere,Commissioner Of Labor,,Lib,Emily Anderson,107,49,4,0,54
+Forsyth,27 Concord,Commissioner Of Labor,,Lib,Emily Anderson,236,123,3,0,110
+Forsyth,34 Fowler,Commissioner Of Labor,,Lib,Emily Anderson,116,66,7,0,43
+Forsyth,35 Johns Creek,Commissioner Of Labor,,Lib,Emily Anderson,111,55,5,0,51
+Forsyth,36 Nichols,Commissioner Of Labor,,Lib,Emily Anderson,132,65,6,0,61
+Forsyth,38 Daves Creek,Commissioner Of Labor,,Lib,Emily Anderson,115,60,5,1,49
+Forsyth,39 Mathis,Commissioner Of Labor,,Lib,Emily Anderson,55,28,2,1,24
+Forsyth,40 West Forsyth,Commissioner Of Labor,,Lib,Emily Anderson,129,79,1,0,49
+Forsyth,41 Grassland,Commissioner Of Labor,,Lib,Emily Anderson,52,29,1,0,22
+Forsyth,42 Keith Bridge,Commissioner Of Labor,,Lib,Emily Anderson,58,29,5,0,24
+Forsyth,43 Lakeland,Commissioner Of Labor,,Lib,Emily Anderson,94,44,8,0,42
+Forsyth,44 Lanier,Commissioner Of Labor,,Lib,Emily Anderson,77,35,7,1,34
+Forsyth,45 Mountainside,Commissioner Of Labor,,Lib,Emily Anderson,78,48,2,0,28
+Forsyth,46 Sawmill Branch,Commissioner Of Labor,,Lib,Emily Anderson,84,44,3,2,35
+Forsyth,47 Riverclub,Commissioner Of Labor,,Lib,Emily Anderson,48,10,1,0,37
+Forsyth,49 Cheatam Creek,Commissioner Of Labor,,Lib,Emily Anderson,44,19,0,1,24
+Forsyth,01 Big Creek,U.S. House,6,Rep,Rich McCormick,3346,2125,136,1,1084
+Forsyth,02 Brandywine,U.S. House,6,Rep,Rich McCormick,1179,432,42,0,705
+Forsyth,04 Chestatee,U.S. House,6,Rep,Rich McCormick,2228,1372,77,3,776
+Forsyth,05 Coal Mountain,U.S. House,6,Rep,Rich McCormick,3311,2063,96,1,1151
+Forsyth,06 Crossroads,U.S. House,6,Rep,Rich McCormick,3384,2241,80,1,1062
+Forsyth,07 Cumming,U.S. House,6,Rep,Rich McCormick,2964,2036,152,5,771
+Forsyth,08 Mashburn,U.S. House,6,Rep,Rich McCormick,2846,1814,166,1,865
+Forsyth,10 Midway,U.S. House,6,Rep,Rich McCormick,4813,3388,166,1,1258
+Forsyth,15 Heardsville,U.S. House,6,Rep,Rich McCormick,3003,1847,109,3,1044
+Forsyth,16 Otwell,U.S. House,6,Rep,Rich McCormick,3881,2686,152,5,1038
+Forsyth,19 Old Atlanta,U.S. House,6,Rep,Rich McCormick,1496,674,60,2,760
+Forsyth,21 South Forsyth,U.S. House,6,Rep,Rich McCormick,1100,733,38,0,329
+Forsyth,25 Windermere,U.S. House,6,Rep,Rich McCormick,2930,1565,110,2,1253
+Forsyth,27 Concord,U.S. House,6,Rep,Rich McCormick,5517,3575,146,3,1793
+Forsyth,34 Fowler,U.S. House,6,Rep,Rich McCormick,2638,1719,110,0,809
+Forsyth,35 Johns Creek,U.S. House,6,Rep,Rich McCormick,2405,1479,127,3,796
+Forsyth,36 Nichols,U.S. House,6,Rep,Rich McCormick,2753,1734,82,0,937
+Forsyth,38 Daves Creek,U.S. House,6,Rep,Rich McCormick,3125,2106,143,2,874
+Forsyth,39 Mathis,U.S. House,6,Rep,Rich McCormick,1976,1332,97,1,546
+Forsyth,40 West Forsyth,U.S. House,6,Rep,Rich McCormick,3244,2130,90,8,1016
+Forsyth,41 Grassland,U.S. House,6,Rep,Rich McCormick,1299,841,32,5,421
+Forsyth,42 Keith Bridge,U.S. House,6,Rep,Rich McCormick,2033,1223,68,2,740
+Forsyth,43 Lakeland,U.S. House,6,Rep,Rich McCormick,1927,1149,134,0,644
+Forsyth,44 Lanier,U.S. House,6,Rep,Rich McCormick,2177,1340,96,3,738
+Forsyth,45 Mountainside,U.S. House,6,Rep,Rich McCormick,2561,1692,75,1,793
+Forsyth,46 Sawmill Branch,U.S. House,6,Rep,Rich McCormick,1766,1119,49,1,597
+Forsyth,47 Riverclub,U.S. House,6,Rep,Rich McCormick,1184,520,25,1,638
+Forsyth,49 Cheatam Creek,U.S. House,6,Rep,Rich McCormick,1396,941,60,2,393
+Forsyth,01 Big Creek,U.S. House,6,Dem,Bob Christian,2058,1290,184,2,582
+Forsyth,02 Brandywine,U.S. House,6,Dem,Bob Christian,1196,594,87,1,514
+Forsyth,04 Chestatee,U.S. House,6,Dem,Bob Christian,370,244,32,0,94
+Forsyth,05 Coal Mountain,U.S. House,6,Dem,Bob Christian,937,530,72,1,334
+Forsyth,06 Crossroads,U.S. House,6,Dem,Bob Christian,853,589,59,0,205
+Forsyth,07 Cumming,U.S. House,6,Dem,Bob Christian,1008,631,94,2,281
+Forsyth,08 Mashburn,U.S. House,6,Dem,Bob Christian,1013,631,121,0,261
+Forsyth,10 Midway,U.S. House,6,Dem,Bob Christian,1791,1206,172,0,413
+Forsyth,15 Heardsville,U.S. House,6,Dem,Bob Christian,834,479,86,0,269
+Forsyth,16 Otwell,U.S. House,6,Dem,Bob Christian,1230,773,130,3,324
+Forsyth,19 Old Atlanta,U.S. House,6,Dem,Bob Christian,752,326,80,1,345
+Forsyth,21 South Forsyth,U.S. House,6,Dem,Bob Christian,621,383,50,0,188
+Forsyth,25 Windermere,U.S. House,6,Dem,Bob Christian,1723,974,128,0,621
+Forsyth,27 Concord,U.S. House,6,Dem,Bob Christian,1405,883,108,0,414
+Forsyth,34 Fowler,U.S. House,6,Dem,Bob Christian,1151,719,114,0,318
+Forsyth,35 Johns Creek,U.S. House,6,Dem,Bob Christian,1631,986,208,0,437
+Forsyth,36 Nichols,U.S. House,6,Dem,Bob Christian,1571,1015,127,0,429
+Forsyth,38 Daves Creek,U.S. House,6,Dem,Bob Christian,1599,1042,153,1,403
+Forsyth,39 Mathis,U.S. House,6,Dem,Bob Christian,755,468,78,1,208
+Forsyth,40 West Forsyth,U.S. House,6,Dem,Bob Christian,1288,895,95,1,297
+Forsyth,41 Grassland,U.S. House,6,Dem,Bob Christian,769,479,69,1,220
+Forsyth,42 Keith Bridge,U.S. House,6,Dem,Bob Christian,398,234,43,2,119
+Forsyth,43 Lakeland,U.S. House,6,Dem,Bob Christian,1301,790,160,1,350
+Forsyth,44 Lanier,U.S. House,6,Dem,Bob Christian,444,289,52,0,103
+Forsyth,45 Mountainside,U.S. House,6,Dem,Bob Christian,673,451,64,1,157
+Forsyth,46 Sawmill Branch,U.S. House,6,Dem,Bob Christian,819,527,76,3,213
+Forsyth,47 Riverclub,U.S. House,6,Dem,Bob Christian,426,205,35,0,186
+Forsyth,49 Cheatam Creek,U.S. House,6,Dem,Bob Christian,634,416,62,0,156
+Forsyth,01 Big Creek,State Senate,27,Rep,Greg Dolezal ,3387,2153,138,1,1095
+Forsyth,02 Brandywine,State Senate,27,Rep,Greg Dolezal ,1192,446,43,0,703
+Forsyth,04 Chestatee,State Senate,27,Rep,Greg Dolezal ,2244,1380,76,3,785
+Forsyth,05 Coal Mountain,State Senate,27,Rep,Greg Dolezal ,3334,2068,101,1,1164
+Forsyth,06 Crossroads,State Senate,27,Rep,Greg Dolezal ,3381,2247,84,0,1050
+Forsyth,07 Cumming,State Senate,27,Rep,Greg Dolezal ,2966,2025,156,5,780
+Forsyth,08 Mashburn,State Senate,27,Rep,Greg Dolezal ,2860,1820,167,1,872
+Forsyth,10 Midway,State Senate,27,Rep,Greg Dolezal ,4861,3421,170,1,1269
+Forsyth,15 Heardsville,State Senate,27,Rep,Greg Dolezal ,3025,1860,108,3,1054
+Forsyth,16 Otwell,State Senate,27,Rep,Greg Dolezal ,3906,2697,157,5,1047
+Forsyth,27 Concord,State Senate,27,Rep,Greg Dolezal ,5538,3577,145,3,1813
+Forsyth,34 Fowler,State Senate,27,Rep,Greg Dolezal ,2661,1735,112,0,814
+Forsyth,38 Daves Creek,State Senate,27,Rep,Greg Dolezal ,1019,699,59,1,260
+Forsyth,40 West Forsyth,State Senate,27,Rep,Greg Dolezal ,3278,2158,88,7,1025
+Forsyth,41 Grassland,State Senate,27,Rep,Greg Dolezal ,1331,853,40,5,433
+Forsyth,42 Keith Bridge,State Senate,27,Rep,Greg Dolezal ,2039,1228,70,2,739
+Forsyth,43 Lakeland,State Senate,27,Rep,Greg Dolezal ,1961,1167,137,0,657
+Forsyth,44 Lanier,State Senate,27,Rep,Greg Dolezal ,2180,1340,94,3,743
+Forsyth,45 Mountainside,State Senate,27,Rep,Greg Dolezal ,2538,1670,78,1,789
+Forsyth,46 Sawmill Branch,State Senate,27,Rep,Greg Dolezal ,1791,1121,54,0,616
+Forsyth,47 Riverclub,State Senate,27,Rep,Greg Dolezal ,1200,527,23,0,650
+Forsyth,49 Cheatam Creek,State Senate,27,Rep,Greg Dolezal ,1404,950,60,2,392
+Forsyth,01 Big Creek,State Senate,27,Dem,Brent Binion,2001,1256,183,1,561
+Forsyth,02 Brandywine,State Senate,27,Dem,Brent Binion,1173,576,86,1,510
+Forsyth,04 Chestatee,State Senate,27,Dem,Brent Binion,344,229,31,0,84
+Forsyth,05 Coal Mountain,State Senate,27,Dem,Brent Binion,905,515,68,1,321
+Forsyth,06 Crossroads,State Senate,27,Dem,Brent Binion,838,574,55,1,208
+Forsyth,07 Cumming,State Senate,27,Dem,Brent Binion,977,617,89,2,269
+Forsyth,08 Mashburn,State Senate,27,Dem,Brent Binion,977,605,119,1,252
+Forsyth,10 Midway,State Senate,27,Dem,Brent Binion,1726,1163,166,0,397
+Forsyth,15 Heardsville,State Senate,27,Dem,Brent Binion,804,458,87,0,259
+Forsyth,16 Otwell,State Senate,27,Dem,Brent Binion,1191,754,123,3,311
+Forsyth,27 Concord,State Senate,27,Dem,Brent Binion,1363,867,105,0,391
+Forsyth,34 Fowler,State Senate,27,Dem,Brent Binion,1106,693,111,0,302
+Forsyth,38 Daves Creek,State Senate,27,Dem,Brent Binion,617,413,59,1,144
+Forsyth,40 West Forsyth,State Senate,27,Dem,Brent Binion,1236,853,94,2,287
+Forsyth,41 Grassland,State Senate,27,Dem,Brent Binion,735,462,62,1,210
+Forsyth,42 Keith Bridge,State Senate,27,Dem,Brent Binion,384,227,39,2,116
+Forsyth,43 Lakeland,State Senate,27,Dem,Brent Binion,1251,766,154,1,330
+Forsyth,44 Lanier,State Senate,27,Dem,Brent Binion,431,282,51,0,98
+Forsyth,45 Mountainside,State Senate,27,Dem,Brent Binion,678,461,59,1,157
+Forsyth,46 Sawmill Branch,State Senate,27,Dem,Brent Binion,781,517,71,3,190
+Forsyth,47 Riverclub,State Senate,27,Dem,Brent Binion,410,199,35,0,176
+Forsyth,49 Cheatam Creek,State Senate,27,Dem,Brent Binion,623,407,62,0,154
+Forsyth,07 Cumming,State Senate,48,Rep,Shawn Still,3,1,0,0,2
+Forsyth,19 Old Atlanta,State Senate,48,Rep,Shawn Still,1502,677,59,2,764
+Forsyth,21 South Forsyth,State Senate,48,Rep,Shawn Still,1070,711,39,0,320
+Forsyth,25 Windermere,State Senate,48,Rep,Shawn Still,2904,1549,116,2,1237
+Forsyth,35 Johns Creek,State Senate,48,Rep,Shawn Still,2396,1470,127,3,796
+Forsyth,36 Nichols,State Senate,48,Rep,Shawn Still,2715,1733,80,0,902
+Forsyth,38 Daves Creek,State Senate,48,Rep,Shawn Still,2085,1409,81,0,595
+Forsyth,39 Mathis,State Senate,48,Rep,Shawn Still,1957,1319,94,1,543
+Forsyth,07 Cumming,State Senate,48,Dem,Josh Uddin,0,0,0,0,0
+Forsyth,19 Old Atlanta,State Senate,48,Dem,Josh Uddin,735,320,81,1,333
+Forsyth,21 South Forsyth,State Senate,48,Dem,Josh Uddin,641,394,48,0,199
+Forsyth,25 Windermere,State Senate,48,Dem,Josh Uddin,1736,982,121,0,633
+Forsyth,35 Johns Creek,State Senate,48,Dem,Josh Uddin,1618,981,209,0,428
+Forsyth,36 Nichols,State Senate,48,Dem,Josh Uddin,1595,1011,128,0,456
+Forsyth,38 Daves Creek,State Senate,48,Dem,Josh Uddin,982,620,91,0,271
+Forsyth,39 Mathis,State Senate,48,Dem,Josh Uddin,762,475,79,0,208
+Forsyth,15 Heardsville,State House,11,Rep,Rick Jasperse ,3004,1851,108,0,1045
+Forsyth,27 Concord,State House,11,Rep,Rick Jasperse ,3455,2124,102,0,1229
+Forsyth,40 West Forsyth,State House,11,Rep,Rick Jasperse ,695,405,25,0,265
+Forsyth,15 Heardsville,State House,11,Dem,Kayla L. Hollifield,818,465,87,0,266
+Forsyth,27 Concord,State House,11,Dem,Kayla L. Hollifield,802,468,71,0,263
+Forsyth,40 West Forsyth,State House,11,Dem,Kayla L. Hollifield,196,137,15,0,44
+Forsyth,01 Big Creek,State House,24,Rep,Carter Barrett,686,407,37,0,242
+Forsyth,02 Brandywine,State House,24,Rep,Carter Barrett,1177,436,43,0,698
+Forsyth,10 Midway,State House,24,Rep,Carter Barrett,4809,3390,167,1,1251
+Forsyth,34 Fowler,State House,24,Rep,Carter Barrett,500,284,18,0,198
+Forsyth,40 West Forsyth,State House,24,Rep,Carter Barrett,2547,1727,65,7,748
+Forsyth,41 Grassland,State House,24,Rep,Carter Barrett,1304,841,37,3,423
+Forsyth,45 Mountainside,State House,24,Rep,Carter Barrett,1402,939,40,1,422
+Forsyth,46 Sawmill Branch,State House,24,Rep,Carter Barrett,1775,1122,51,0,602
+Forsyth,49 Cheatam Creek,State House,24,Rep,Carter Barrett,1393,944,59,2,388
+Forsyth,01 Big Creek,State House,24,Dem,Sydney Walker,503,302,49,1,151
+Forsyth,02 Brandywine,State House,24,Dem,Sydney Walker,1195,591,86,0,518
+Forsyth,10 Midway,State House,24,Dem,Sydney Walker,1792,1205,171,0,416
+Forsyth,34 Fowler,State House,24,Dem,Sydney Walker,352,202,39,0,111
+Forsyth,40 West Forsyth,State House,24,Dem,Sydney Walker,1076,742,78,1,255
+Forsyth,41 Grassland,State House,24,Dem,Sydney Walker,762,476,65,1,220
+Forsyth,45 Mountainside,State House,24,Dem,Sydney Walker,486,336,41,1,108
+Forsyth,46 Sawmill Branch,State House,24,Dem,Sydney Walker,804,520,74,3,207
+Forsyth,49 Cheatam Creek,State House,24,Dem,Sydney Walker,634,413,61,0,160
+Forsyth,01 Big Creek,State House,25,Rep,Todd Jones ,2703,1750,101,1,851
+Forsyth,19 Old Atlanta,State House,25,Rep,Todd Jones ,1521,685,64,2,770
+Forsyth,21 South Forsyth,State House,25,Rep,Todd Jones ,1115,741,40,0,334
+Forsyth,35 Johns Creek,State House,25,Rep,Todd Jones ,2439,1495,136,3,805
+Forsyth,38 Daves Creek,State House,25,Rep,Todd Jones ,2184,1559,113,2,510
+Forsyth,39 Mathis,State House,25,Rep,Todd Jones ,1996,1338,102,1,555
+Forsyth,01 Big Creek,State House,25,Dem,Craig J. Meyer,1496,948,133,1,414
+Forsyth,19 Old Atlanta,State House,25,Dem,Craig J. Meyer,721,313,78,1,329
+Forsyth,21 South Forsyth,State House,25,Dem,Craig J. Meyer,602,372,47,0,183
+Forsyth,35 Johns Creek,State House,25,Dem,Craig J. Meyer,1585,965,198,0,422
+Forsyth,38 Daves Creek,State House,25,Dem,Craig J. Meyer,1093,738,112,0,243
+Forsyth,39 Mathis,State House,25,Dem,Craig J. Meyer,729,459,73,0,197
+Forsyth,07 Cumming,State House,26,Rep,Lauren W. McDonald III ,1906,1259,97,3,547
+Forsyth,08 Mashburn,State House,26,Rep,Lauren W. McDonald III ,2875,1822,175,1,877
+Forsyth,16 Otwell,State House,26,Rep,Lauren W. McDonald III ,1427,971,59,1,396
+Forsyth,25 Windermere,State House,26,Rep,Lauren W. McDonald III ,2011,1040,75,0,896
+Forsyth,34 Fowler,State House,26,Rep,Lauren W. McDonald III ,2160,1446,99,0,615
+Forsyth,38 Daves Creek,State House,26,Rep,Lauren W. McDonald III ,971,578,28,1,364
+Forsyth,42 Keith Bridge,State House,26,Rep,Lauren W. McDonald III ,399,259,13,0,127
+Forsyth,43 Lakeland,State House,26,Rep,Lauren W. McDonald III ,1967,1176,141,0,650
+Forsyth,44 Lanier,State House,26,Rep,Lauren W. McDonald III ,2198,1352,98,1,747
+Forsyth,47 Riverclub,State House,26,Rep,Lauren W. McDonald III ,1210,526,25,0,659
+Forsyth,07 Cumming,State House,26,Dem,Matthew J. Helms,689,414,70,1,204
+Forsyth,08 Mashburn,State House,26,Dem,Matthew J. Helms,964,607,113,0,244
+Forsyth,16 Otwell,State House,26,Dem,Matthew J. Helms,446,255,58,0,133
+Forsyth,25 Windermere,State House,26,Dem,Matthew J. Helms,1032,581,73,0,378
+Forsyth,34 Fowler,State House,26,Dem,Matthew J. Helms,765,500,67,0,198
+Forsyth,38 Daves Creek,State House,26,Dem,Matthew J. Helms,463,270,39,0,154
+Forsyth,42 Keith Bridge,State House,26,Dem,Matthew J. Helms,90,49,6,0,35
+Forsyth,43 Lakeland,State House,26,Dem,Matthew J. Helms,1249,757,150,0,342
+Forsyth,44 Lanier,State House,26,Dem,Matthew J. Helms,417,276,48,0,93
+Forsyth,47 Riverclub,State House,26,Dem,Matthew J. Helms,400,200,33,0,167
+Forsyth,04 Chestatee,State House,28,Rep,Brent Cox,2231,1372,75,2,782
+Forsyth,05 Coal Mountain,State House,28,Rep,Brent Cox,3310,2058,97,1,1154
+Forsyth,06 Crossroads,State House,28,Rep,Brent Cox,3381,2245,82,0,1054
+Forsyth,07 Cumming,State House,28,Rep,Brent Cox,1057,771,59,0,227
+Forsyth,16 Otwell,State House,28,Rep,Brent Cox,2452,1719,100,2,631
+Forsyth,27 Concord,State House,28,Rep,Brent Cox,2078,1463,44,0,571
+Forsyth,42 Keith Bridge,State House,28,Rep,Brent Cox,1637,971,58,1,607
+Forsyth,45 Mountainside,State House,28,Rep,Brent Cox,1135,733,37,0,365
+Forsyth,04 Chestatee,State House,28,Dem,Claudia Wood,358,239,32,0,87
+Forsyth,05 Coal Mountain,State House,28,Dem,Claudia Wood,931,528,70,1,332
+Forsyth,06 Crossroads,State House,28,Dem,Claudia Wood,843,578,56,1,208
+Forsyth,07 Cumming,State House,28,Dem,Claudia Wood,301,207,19,1,74
+Forsyth,16 Otwell,State House,28,Dem,Claudia Wood,774,511,63,2,198
+Forsyth,27 Concord,State House,28,Dem,Claudia Wood,566,388,33,0,145
+Forsyth,42 Keith Bridge,State House,28,Dem,Claudia Wood,295,174,32,2,87
+Forsyth,45 Mountainside,State House,28,Dem,Claudia Wood,201,128,20,0,53
+Forsyth,25 Windermere,State House,100,Rep,David Clark ,927,518,49,1,359
+Forsyth,36 Nichols,State House,100,Rep,David Clark ,2776,1750,79,0,947
+Forsyth,25 Windermere,State House,100,Dem,Louisa Shell Jackson,667,392,38,0,237
+Forsyth,36 Nichols,State House,100,Dem,Louisa Shell Jackson,1540,999,128,0,413
+Forsyth,01 Big Creek,Solicitor General,,Rep,Bill Finch ,4452,2779,222,2,1449
+Forsyth,02 Brandywine,Solicitor General,,Rep,Bill Finch ,1848,739,77,0,1032
+Forsyth,04 Chestatee,Solicitor General,,Rep,Bill Finch ,2412,1494,85,3,830
+Forsyth,05 Coal Mountain,Solicitor General,,Rep,Bill Finch ,3841,2362,125,1,1353
+Forsyth,06 Crossroads,Solicitor General,,Rep,Bill Finch ,3855,2571,101,1,1182
+Forsyth,07 Cumming,Solicitor General,,Rep,Bill Finch ,3474,2345,177,6,946
+Forsyth,08 Mashburn,Solicitor General,,Rep,Bill Finch ,3362,2131,210,2,1019
+Forsyth,10 Midway,Solicitor General,,Rep,Bill Finch ,5780,4011,234,1,1534
+Forsyth,15 Heardsville,Solicitor General,,Rep,Bill Finch ,3399,2060,135,3,1201
+Forsyth,16 Otwell,Solicitor General,,Rep,Bill Finch ,4558,3102,205,7,1244
+Forsyth,19 Old Atlanta,Solicitor General,,Rep,Bill Finch ,1937,860,104,3,970
+Forsyth,21 South Forsyth,Solicitor General,,Rep,Bill Finch ,1464,950,61,0,453
+Forsyth,25 Windermere,Solicitor General,,Rep,Bill Finch ,3987,2161,149,2,1675
+Forsyth,27 Concord,Solicitor General,,Rep,Bill Finch ,6265,4030,180,2,2053
+Forsyth,34 Fowler,Solicitor General,,Rep,Bill Finch ,3276,2096,155,0,1025
+Forsyth,35 Johns Creek,Solicitor General,,Rep,Bill Finch ,3308,2010,208,3,1087
+Forsyth,36 Nichols,Solicitor General,,Rep,Bill Finch ,3723,2366,137,0,1220
+Forsyth,38 Daves Creek,Solicitor General,,Rep,Bill Finch ,4051,2713,189,3,1146
+Forsyth,39 Mathis,Solicitor General,,Rep,Bill Finch ,2390,1590,130,2,668
+Forsyth,40 West Forsyth,Solicitor General,,Rep,Bill Finch ,3917,2594,116,9,1198
+Forsyth,41 Grassland,Solicitor General,,Rep,Bill Finch ,1694,1075,62,6,551
+Forsyth,42 Keith Bridge,Solicitor General,,Rep,Bill Finch ,2242,1350,84,4,804
+Forsyth,43 Lakeland,Solicitor General,,Rep,Bill Finch ,2640,1596,178,0,866
+Forsyth,44 Lanier,Solicitor General,,Rep,Bill Finch ,2393,1475,106,3,809
+Forsyth,45 Mountainside,Solicitor General,,Rep,Bill Finch ,2885,1892,100,1,892
+Forsyth,46 Sawmill Branch,Solicitor General,,Rep,Bill Finch ,2191,1365,80,3,743
+Forsyth,47 Riverclub,Solicitor General,,Rep,Bill Finch ,1423,626,40,1,756
+Forsyth,49 Cheatam Creek,Solicitor General,,Rep,Bill Finch ,1724,1153,81,1,489
+Forsyth,05 Coal Mountain,County Commissioner Dist 1,,Rep,Kerry Hill,2021,1264,54,0,703
+Forsyth,07 Cumming,County Commissioner Dist 1,,Rep,Kerry Hill,1669,1178,103,0,388
+Forsyth,15 Heardsville,County Commissioner Dist 1,,Rep,Kerry Hill,3387,2058,131,2,1196
+Forsyth,16 Otwell,County Commissioner Dist 1,,Rep,Kerry Hill,1744,1234,92,1,417
+Forsyth,27 Concord,County Commissioner Dist 1,,Rep,Kerry Hill,2650,1619,97,1,933
+Forsyth,40 West Forsyth,County Commissioner Dist 1,,Rep,Kerry Hill,3903,2581,115,1,1206
+Forsyth,45 Mountainside,County Commissioner Dist 1,,Rep,Kerry Hill,2873,1891,96,0,886
+Forsyth,49 Cheatam Creek,County Commissioner Dist 1,,Rep,Kerry Hill,1707,1142,79,0,486
+Forsyth,02 Brandywine,County Commissioner Dist 3,,Rep,Todd Levent ,1840,737,76,0,1027
+Forsyth,07 Cumming,County Commissioner Dist 3,,Rep,Todd Levent ,394,248,10,3,133
+Forsyth,10 Midway,County Commissioner Dist 3,,Rep,Todd Levent ,5685,3940,233,1,1511
+Forsyth,34 Fowler,County Commissioner Dist 3,,Rep,Todd Levent ,3031,1941,136,0,954
+Forsyth,41 Grassland,County Commissioner Dist 3,,Rep,Todd Levent ,1620,1014,63,4,539
+Forsyth,43 Lakeland,County Commissioner Dist 3,,Rep,Todd Levent ,1191,768,76,0,347
+Forsyth,46 Sawmill Branch,County Commissioner Dist 3,,Rep,Todd Levent ,2167,1351,75,3,738
+Forsyth,05 Coal Mountain,County Board of Education Dist 1,,Rep,Wes McCall ,1848,1154,55,0,639
+Forsyth,07 Cumming,County Board of Education Dist 1,,Rep,Wes McCall ,1484,1063,95,0,326
+Forsyth,15 Heardsville,County Board of Education Dist 1,,Rep,Wes McCall ,3018,1848,120,1,1049
+Forsyth,16 Otwell,County Board of Education Dist 1,,Rep,Wes McCall ,1507,1071,85,1,350
+Forsyth,27 Concord,County Board of Education Dist 1,,Rep,Wes McCall ,2409,1475,96,1,837
+Forsyth,40 West Forsyth,County Board of Education Dist 1,,Rep,Wes McCall ,3329,2193,101,1,1034
+Forsyth,45 Mountainside,County Board of Education Dist 1,,Rep,Wes McCall ,2562,1682,88,1,791
+Forsyth,49 Cheatam Creek,County Board of Education Dist 1,,Rep,Wes McCall ,1434,959,74,0,401
+Forsyth,01 Big Creek,County Board of Education Dist 5,,Rep,Mike Valdes,3306,2094,134,1,1077
+Forsyth,07 Cumming,County Board of Education Dist 5,,Rep,Mike Valdes,128,81,9,0,38
+Forsyth,21 South Forsyth,County Board of Education Dist 5,,Rep,Mike Valdes,1056,717,36,0,303
+Forsyth,25 Windermere,County Board of Education Dist 5,,Rep,Mike Valdes,333,218,6,1,108
+Forsyth,34 Fowler,County Board of Education Dist 5,,Rep,Mike Valdes,107,65,10,0,32
+Forsyth,35 Johns Creek,County Board of Education Dist 5,,Rep,Mike Valdes,1355,864,91,0,400
+Forsyth,36 Nichols,County Board of Education Dist 5,,Rep,Mike Valdes,797,498,28,0,271
+Forsyth,38 Daves Creek,County Board of Education Dist 5,,Rep,Mike Valdes,2210,1572,111,2,525
+Forsyth,39 Mathis,County Board of Education Dist 5,,Rep,Mike Valdes,1486,1061,82,1,342
+Forsyth,43 Lakeland,County Board of Education Dist 5,,Rep,Mike Valdes,1040,591,79,0,370
+Forsyth,01 Big Creek,County Board of Education Dist 5,,Dem,Elaine Padgett,2075,1310,181,2,582
+Forsyth,07 Cumming,County Board of Education Dist 5,,Dem,Elaine Padgett,89,47,19,0,23
+Forsyth,21 South Forsyth,County Board of Education Dist 5,,Dem,Elaine Padgett,657,391,50,0,216
+Forsyth,25 Windermere,County Board of Education Dist 5,,Dem,Elaine Padgett,296,163,21,0,112
+Forsyth,34 Fowler,County Board of Education Dist 5,,Dem,Elaine Padgett,121,71,15,0,35
+Forsyth,35 Johns Creek,County Board of Education Dist 5,,Dem,Elaine Padgett,856,563,121,0,172
+Forsyth,36 Nichols,County Board of Education Dist 5,,Dem,Elaine Padgett,365,237,24,0,104
+Forsyth,38 Daves Creek,County Board of Education Dist 5,,Dem,Elaine Padgett,1268,842,126,0,300
+Forsyth,39 Mathis,County Board of Education Dist 5,,Dem,Elaine Padgett,461,283,52,1,125
+Forsyth,43 Lakeland,County Board of Education Dist 5,,Dem,Elaine Padgett,686,392,87,0,207
+Forsyth,01 Big Creek,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1793,1098,80,1,614
+Forsyth,02 Brandywine,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",829,346,39,0,444
+Forsyth,04 Chestatee,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",794,442,31,2,319
+Forsyth,05 Coal Mountain,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1383,783,43,0,557
+Forsyth,06 Crossroads,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1467,934,29,0,504
+Forsyth,07 Cumming,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1331,872,62,4,393
+Forsyth,08 Mashburn,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1170,708,70,2,390
+Forsyth,10 Midway,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",2011,1362,75,0,574
+Forsyth,15 Heardsville,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1220,707,41,0,472
+Forsyth,16 Otwell,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1631,1060,66,1,504
+Forsyth,19 Old Atlanta,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",678,289,29,1,359
+Forsyth,21 South Forsyth,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",590,373,18,0,199
+Forsyth,25 Windermere,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1534,781,61,2,690
+Forsyth,27 Concord,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",2215,1352,55,0,808
+Forsyth,34 Fowler,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1125,697,46,0,382
+Forsyth,35 Johns Creek,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1250,761,62,2,425
+Forsyth,36 Nichols,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1358,810,50,0,498
+Forsyth,38 Daves Creek,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1508,996,55,1,456
+Forsyth,39 Mathis,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",809,520,30,0,259
+Forsyth,40 West Forsyth,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1417,906,41,3,467
+Forsyth,41 Grassland,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",699,451,28,3,217
+Forsyth,42 Keith Bridge,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",766,435,25,2,304
+Forsyth,43 Lakeland,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1080,644,69,0,367
+Forsyth,44 Lanier,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",805,486,29,3,287
+Forsyth,45 Mountainside,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",1019,649,33,1,336
+Forsyth,46 Sawmill Branch,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",848,494,37,3,314
+Forsyth,47 Riverclub,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",467,191,6,0,270
+Forsyth,49 Cheatam Creek,Upper Chattahoochee River Soil and Water,,,"John """"JJ"""" Jorgensen",588,379,27,0,182
+Forsyth,01 Big Creek,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2784,1786,173,1,824
+Forsyth,02 Brandywine,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,1106,471,49,0,586
+Forsyth,04 Chestatee,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,1511,981,62,1,467
+Forsyth,05 Coal Mountain,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2325,1466,94,1,764
+Forsyth,06 Crossroads,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2268,1570,65,1,632
+Forsyth,07 Cumming,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2112,1457,142,2,511
+Forsyth,08 Mashburn,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2140,1404,156,0,580
+Forsyth,10 Midway,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,3569,2528,187,1,853
+Forsyth,15 Heardsville,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2089,1300,114,2,673
+Forsyth,16 Otwell,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2852,1996,149,7,700
+Forsyth,19 Old Atlanta,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,1231,573,79,2,577
+Forsyth,21 South Forsyth,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,885,582,50,0,253
+Forsyth,25 Windermere,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2445,1386,121,0,938
+Forsyth,27 Concord,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,3882,2566,146,2,1168
+Forsyth,34 Fowler,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2041,1349,123,0,569
+Forsyth,35 Johns Creek,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2145,1327,197,0,621
+Forsyth,36 Nichols,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2373,1553,115,0,705
+Forsyth,38 Daves Creek,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2514,1705,172,1,636
+Forsyth,39 Mathis,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,1517,1029,108,2,378
+Forsyth,40 West Forsyth,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,2358,1588,94,4,672
+Forsyth,41 Grassland,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,1019,642,53,1,323
+Forsyth,42 Keith Bridge,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,1414,889,72,2,451
+Forsyth,43 Lakeland,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,1678,1029,150,0,499
+Forsyth,44 Lanier,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,1466,915,91,0,460
+Forsyth,45 Mountainside,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,1782,1202,83,1,496
+Forsyth,46 Sawmill Branch,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,1357,882,60,1,414
+Forsyth,47 Riverclub,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,910,424,44,0,442
+Forsyth,49 Cheatam Creek,Upper Chattahoochee River Soil and Water,,,Leonard W. Ridings ,1083,734,66,1,282
+Forsyth,01 Big Creek,Constitutional Amendment #1,,,Yes,4756,3020,287,3,1446
+Forsyth,02 Brandywine,Constitutional Amendment #1,,,Yes,2110,916,114,0,1080
+Forsyth,04 Chestatee,Constitutional Amendment #1,,,Yes,2277,1422,98,3,754
+Forsyth,05 Coal Mountain,Constitutional Amendment #1,,,Yes,3718,2274,150,2,1292
+Forsyth,06 Crossroads,Constitutional Amendment #1,,,Yes,3730,2504,122,0,1104
+Forsyth,07 Cumming,Constitutional Amendment #1,,,Yes,3503,2349,224,6,924
+Forsyth,08 Mashburn,Constitutional Amendment #1,,,Yes,3404,2149,254,2,999
+Forsyth,10 Midway,Constitutional Amendment #1,,,Yes,5880,4089,298,1,1492
+Forsyth,15 Heardsville,Constitutional Amendment #1,,,Yes,3338,2009,181,2,1146
+Forsyth,16 Otwell,Constitutional Amendment #1,,,Yes,4489,3044,240,6,1199
+Forsyth,19 Old Atlanta,Constitutional Amendment #1,,,Yes,2001,898,128,2,973
+Forsyth,21 South Forsyth,Constitutional Amendment #1,,,Yes,1532,989,82,0,461
+Forsyth,25 Windermere,Constitutional Amendment #1,,,Yes,4112,2247,210,2,1653
+Forsyth,27 Concord,Constitutional Amendment #1,,,Yes,6148,3975,230,3,1940
+Forsyth,34 Fowler,Constitutional Amendment #1,,,Yes,3372,2186,207,0,979
+Forsyth,35 Johns Creek,Constitutional Amendment #1,,,Yes,3576,2205,288,3,1080
+Forsyth,36 Nichols,Constitutional Amendment #1,,,Yes,3838,2464,177,0,1197
+Forsyth,38 Daves Creek,Constitutional Amendment #1,,,Yes,4138,2777,270,2,1089
+Forsyth,39 Mathis,Constitutional Amendment #1,,,Yes,2407,1591,151,2,663
+Forsyth,40 West Forsyth,Constitutional Amendment #1,,,Yes,4002,2659,169,8,1166
+Forsyth,41 Grassland,Constitutional Amendment #1,,,Yes,1823,1171,95,5,552
+Forsyth,42 Keith Bridge,Constitutional Amendment #1,,,Yes,2138,1292,97,3,746
+Forsyth,43 Lakeland,Constitutional Amendment #1,,,Yes,2865,1725,263,0,877
+Forsyth,44 Lanier,Constitutional Amendment #1,,,Yes,2298,1439,135,2,722
+Forsyth,45 Mountainside,Constitutional Amendment #1,,,Yes,2825,1863,129,2,831
+Forsyth,46 Sawmill Branch,Constitutional Amendment #1,,,Yes,2245,1422,113,4,706
+Forsyth,47 Riverclub,Constitutional Amendment #1,,,Yes,1439,644,57,1,737
+Forsyth,49 Cheatam Creek,Constitutional Amendment #1,,,Yes,1783,1195,109,2,477
+Forsyth,01 Big Creek,Constitutional Amendment #1,,,No,546,342,26,0,178
+Forsyth,02 Brandywine,Constitutional Amendment #1,,,No,225,91,10,0,124
+Forsyth,04 Chestatee,Constitutional Amendment #1,,,No,279,174,11,0,94
+Forsyth,05 Coal Mountain,Constitutional Amendment #1,,,No,453,268,14,0,171
+Forsyth,06 Crossroads,Constitutional Amendment #1,,,No,428,268,15,1,144
+Forsyth,07 Cumming,Constitutional Amendment #1,,,No,410,277,16,1,116
+Forsyth,08 Mashburn,Constitutional Amendment #1,,,No,385,255,25,0,105
+Forsyth,10 Midway,Constitutional Amendment #1,,,No,600,415,31,0,154
+Forsyth,15 Heardsville,Constitutional Amendment #1,,,No,419,270,14,0,135
+Forsyth,16 Otwell,Constitutional Amendment #1,,,No,546,376,32,2,136
+Forsyth,19 Old Atlanta,Constitutional Amendment #1,,,No,209,86,11,0,112
+Forsyth,21 South Forsyth,Constitutional Amendment #1,,,No,146,97,3,0,46
+Forsyth,25 Windermere,Constitutional Amendment #1,,,No,453,247,19,0,187
+Forsyth,27 Concord,Constitutional Amendment #1,,,No,661,409,22,0,230
+Forsyth,34 Fowler,Constitutional Amendment #1,,,No,325,197,15,0,113
+Forsyth,35 Johns Creek,Constitutional Amendment #1,,,No,376,218,34,0,124
+Forsyth,36 Nichols,Constitutional Amendment #1,,,No,407,244,18,0,145
+Forsyth,38 Daves Creek,Constitutional Amendment #1,,,No,486,321,19,0,146
+Forsyth,39 Mathis,Constitutional Amendment #1,,,No,255,168,17,1,69
+Forsyth,40 West Forsyth,Constitutional Amendment #1,,,No,420,288,16,0,116
+Forsyth,41 Grassland,Constitutional Amendment #1,,,No,206,125,10,0,71
+Forsyth,42 Keith Bridge,Constitutional Amendment #1,,,No,251,152,11,1,87
+Forsyth,43 Lakeland,Constitutional Amendment #1,,,No,290,181,18,0,91
+Forsyth,44 Lanier,Constitutional Amendment #1,,,No,273,158,11,0,104
+Forsyth,45 Mountainside,Constitutional Amendment #1,,,No,332,229,9,0,94
+Forsyth,46 Sawmill Branch,Constitutional Amendment #1,,,No,272,175,8,0,89
+Forsyth,47 Riverclub,Constitutional Amendment #1,,,No,139,67,2,0,70
+Forsyth,49 Cheatam Creek,Constitutional Amendment #1,,,No,212,138,12,0,62
+Forsyth,01 Big Creek,Constitutional Amendment #2,,,Yes,4958,3151,290,3,1514
+Forsyth,02 Brandywine,Constitutional Amendment #2,,,Yes,2217,961,122,0,1134
+Forsyth,04 Chestatee,Constitutional Amendment #2,,,Yes,2319,1442,104,3,770
+Forsyth,05 Coal Mountain,Constitutional Amendment #2,,,Yes,3844,2349,154,2,1339
+Forsyth,06 Crossroads,Constitutional Amendment #2,,,Yes,3861,2571,124,1,1165
+Forsyth,07 Cumming,Constitutional Amendment #2,,,Yes,3588,2395,226,5,962
+Forsyth,08 Mashburn,Constitutional Amendment #2,,,Yes,3491,2205,253,2,1031
+Forsyth,10 Midway,Constitutional Amendment #2,,,Yes,6039,4185,313,1,1540
+Forsyth,15 Heardsville,Constitutional Amendment #2,,,Yes,3481,2111,187,2,1181
+Forsyth,16 Otwell,Constitutional Amendment #2,,,Yes,4657,3156,262,8,1231
+Forsyth,19 Old Atlanta,Constitutional Amendment #2,,,Yes,2031,907,133,2,989
+Forsyth,21 South Forsyth,Constitutional Amendment #2,,,Yes,1571,1016,81,0,474
+Forsyth,25 Windermere,Constitutional Amendment #2,,,Yes,4269,2331,217,2,1719
+Forsyth,27 Concord,Constitutional Amendment #2,,,Yes,6244,4012,240,3,1989
+Forsyth,34 Fowler,Constitutional Amendment #2,,,Yes,3449,2210,206,0,1033
+Forsyth,35 Johns Creek,Constitutional Amendment #2,,,Yes,3638,2250,301,3,1084
+Forsyth,36 Nichols,Constitutional Amendment #2,,,Yes,3951,2518,182,0,1251
+Forsyth,38 Daves Creek,Constitutional Amendment #2,,,Yes,4272,2854,260,2,1156
+Forsyth,39 Mathis,Constitutional Amendment #2,,,Yes,2470,1626,160,3,681
+Forsyth,40 West Forsyth,Constitutional Amendment #2,,,Yes,4108,2752,170,8,1178
+Forsyth,41 Grassland,Constitutional Amendment #2,,,Yes,1860,1181,94,5,580
+Forsyth,42 Keith Bridge,Constitutional Amendment #2,,,Yes,2171,1314,98,4,755
+Forsyth,43 Lakeland,Constitutional Amendment #2,,,Yes,2956,1775,260,0,921
+Forsyth,44 Lanier,Constitutional Amendment #2,,,Yes,2342,1465,136,1,740
+Forsyth,45 Mountainside,Constitutional Amendment #2,,,Yes,2933,1938,126,2,867
+Forsyth,46 Sawmill Branch,Constitutional Amendment #2,,,Yes,2342,1486,114,4,738
+Forsyth,47 Riverclub,Constitutional Amendment #2,,,Yes,1455,653,56,1,745
+Forsyth,49 Cheatam Creek,Constitutional Amendment #2,,,Yes,1871,1252,110,2,507
+Forsyth,01 Big Creek,Constitutional Amendment #2,,,No,401,248,22,0,131
+Forsyth,02 Brandywine,Constitutional Amendment #2,,,No,149,57,7,0,85
+Forsyth,04 Chestatee,Constitutional Amendment #2,,,No,240,153,6,0,81
+Forsyth,05 Coal Mountain,Constitutional Amendment #2,,,No,353,210,9,0,134
+Forsyth,06 Crossroads,Constitutional Amendment #2,,,No,320,221,14,0,85
+Forsyth,07 Cumming,Constitutional Amendment #2,,,No,333,234,15,2,82
+Forsyth,08 Mashburn,Constitutional Amendment #2,,,No,321,210,28,0,83
+Forsyth,10 Midway,Constitutional Amendment #2,,,No,484,350,16,0,118
+Forsyth,15 Heardsville,Constitutional Amendment #2,,,No,307,187,5,0,115
+Forsyth,16 Otwell,Constitutional Amendment #2,,,No,420,286,15,0,119
+Forsyth,19 Old Atlanta,Constitutional Amendment #2,,,No,188,80,7,0,101
+Forsyth,21 South Forsyth,Constitutional Amendment #2,,,No,126,83,5,0,38
+Forsyth,25 Windermere,Constitutional Amendment #2,,,No,335,181,14,0,140
+Forsyth,27 Concord,Constitutional Amendment #2,,,No,591,397,9,0,185
+Forsyth,34 Fowler,Constitutional Amendment #2,,,No,299,202,19,0,78
+Forsyth,35 Johns Creek,Constitutional Amendment #2,,,No,342,194,21,0,127
+Forsyth,36 Nichols,Constitutional Amendment #2,,,No,316,202,12,0,102
+Forsyth,38 Daves Creek,Constitutional Amendment #2,,,No,397,271,27,0,99
+Forsyth,39 Mathis,Constitutional Amendment #2,,,No,201,139,9,0,53
+Forsyth,40 West Forsyth,Constitutional Amendment #2,,,No,377,238,16,0,123
+Forsyth,41 Grassland,Constitutional Amendment #2,,,No,185,125,11,0,49
+Forsyth,42 Keith Bridge,Constitutional Amendment #2,,,No,230,132,10,0,88
+Forsyth,43 Lakeland,Constitutional Amendment #2,,,No,224,141,20,0,63
+Forsyth,44 Lanier,Constitutional Amendment #2,,,No,243,142,10,1,90
+Forsyth,45 Mountainside,Constitutional Amendment #2,,,No,262,176,13,0,73
+Forsyth,46 Sawmill Branch,Constitutional Amendment #2,,,No,206,132,7,0,67
+Forsyth,47 Riverclub,Constitutional Amendment #2,,,No,139,64,5,0,70
+Forsyth,49 Cheatam Creek,Constitutional Amendment #2,,,No,145,96,12,0,37
+Forsyth,01 Big Creek,Statewide Referendum A,,,Yes,2858,1771,131,0,956
+Forsyth,02 Brandywine,Statewide Referendum A,,,Yes,1270,521,54,0,695
+Forsyth,04 Chestatee,Statewide Referendum A,,,Yes,1449,885,55,2,507
+Forsyth,05 Coal Mountain,Statewide Referendum A,,,Yes,2326,1387,74,2,863
+Forsyth,06 Crossroads,Statewide Referendum A,,,Yes,2365,1531,60,1,773
+Forsyth,07 Cumming,Statewide Referendum A,,,Yes,2166,1459,108,5,594
+Forsyth,08 Mashburn,Statewide Referendum A,,,Yes,1933,1212,118,0,603
+Forsyth,10 Midway,Statewide Referendum A,,,Yes,3532,2440,140,0,952
+Forsyth,15 Heardsville,Statewide Referendum A,,,Yes,2100,1267,80,2,751
+Forsyth,16 Otwell,Statewide Referendum A,,,Yes,2744,1859,98,6,781
+Forsyth,19 Old Atlanta,Statewide Referendum A,,,Yes,1155,518,49,0,588
+Forsyth,21 South Forsyth,Statewide Referendum A,,,Yes,930,609,44,0,277
+Forsyth,25 Windermere,Statewide Referendum A,,,Yes,2497,1299,92,2,1104
+Forsyth,27 Concord,Statewide Referendum A,,,Yes,3782,2373,111,2,1296
+Forsyth,34 Fowler,Statewide Referendum A,,,Yes,2060,1314,77,0,669
+Forsyth,35 Johns Creek,Statewide Referendum A,,,Yes,2035,1241,125,2,667
+Forsyth,36 Nichols,Statewide Referendum A,,,Yes,2189,1386,70,0,733
+Forsyth,38 Daves Creek,Statewide Referendum A,,,Yes,2506,1665,123,1,717
+Forsyth,39 Mathis,Statewide Referendum A,,,Yes,1498,968,72,1,457
+Forsyth,40 West Forsyth,Statewide Referendum A,,,Yes,2508,1652,85,8,763
+Forsyth,41 Grassland,Statewide Referendum A,,,Yes,1045,655,35,0,355
+Forsyth,42 Keith Bridge,Statewide Referendum A,,,Yes,1323,766,61,2,494
+Forsyth,43 Lakeland,Statewide Referendum A,,,Yes,1691,1008,108,0,575
+Forsyth,44 Lanier,Statewide Referendum A,,,Yes,1300,811,58,0,431
+Forsyth,45 Mountainside,Statewide Referendum A,,,Yes,1771,1128,62,0,581
+Forsyth,46 Sawmill Branch,Statewide Referendum A,,,Yes,1393,865,41,3,484
+Forsyth,47 Riverclub,Statewide Referendum A,,,Yes,818,350,33,0,435
+Forsyth,49 Cheatam Creek,Statewide Referendum A,,,Yes,1109,736,49,0,324
+Forsyth,01 Big Creek,Statewide Referendum A,,,No,2359,1541,175,3,640
+Forsyth,02 Brandywine,Statewide Referendum A,,,No,1034,472,63,0,499
+Forsyth,04 Chestatee,Statewide Referendum A,,,No,1057,677,54,0,326
+Forsyth,05 Coal Mountain,Statewide Referendum A,,,No,1770,1109,81,0,580
+Forsyth,06 Crossroads,Statewide Referendum A,,,No,1715,1185,71,0,459
+Forsyth,07 Cumming,Statewide Referendum A,,,No,1680,1125,122,2,431
+Forsyth,08 Mashburn,Statewide Referendum A,,,No,1785,1148,151,2,484
+Forsyth,10 Midway,Statewide Referendum A,,,No,2831,1996,174,1,660
+Forsyth,15 Heardsville,Statewide Referendum A,,,No,1608,990,108,0,510
+Forsyth,16 Otwell,Statewide Referendum A,,,No,2234,1514,165,2,553
+Forsyth,19 Old Atlanta,Statewide Referendum A,,,No,1017,457,87,2,471
+Forsyth,21 South Forsyth,Statewide Referendum A,,,No,720,465,39,0,216
+Forsyth,25 Windermere,Statewide Referendum A,,,No,1982,1147,119,0,716
+Forsyth,27 Concord,Statewide Referendum A,,,No,2911,1936,132,0,843
+Forsyth,34 Fowler,Statewide Referendum A,,,No,1591,1041,136,0,414
+Forsyth,35 Johns Creek,Statewide Referendum A,,,No,1829,1135,182,1,511
+Forsyth,36 Nichols,Statewide Referendum A,,,No,1983,1274,120,0,589
+Forsyth,38 Daves Creek,Statewide Referendum A,,,No,2061,1394,157,1,509
+Forsyth,39 Mathis,Statewide Referendum A,,,No,1096,751,89,1,255
+Forsyth,40 West Forsyth,Statewide Referendum A,,,No,1856,1273,85,0,498
+Forsyth,41 Grassland,Statewide Referendum A,,,No,959,625,65,5,264
+Forsyth,42 Keith Bridge,Statewide Referendum A,,,No,1037,657,44,2,334
+Forsyth,43 Lakeland,Statewide Referendum A,,,No,1398,867,147,0,384
+Forsyth,44 Lanier,Statewide Referendum A,,,No,1220,760,79,2,379
+Forsyth,45 Mountainside,Statewide Referendum A,,,No,1347,933,74,2,338
+Forsyth,46 Sawmill Branch,Statewide Referendum A,,,No,1086,705,76,1,304
+Forsyth,47 Riverclub,Statewide Referendum A,,,No,736,354,28,1,353
+Forsyth,49 Cheatam Creek,Statewide Referendum A,,,No,876,590,68,2,216
+Forsyth,01 Big Creek,Statewide Referendum B,,,Yes,3857,2399,196,2,1260
+Forsyth,02 Brandywine,Statewide Referendum B,,,Yes,1733,729,67,0,937
+Forsyth,04 Chestatee,Statewide Referendum B,,,Yes,2052,1275,86,2,689
+Forsyth,05 Coal Mountain,Statewide Referendum B,,,Yes,3229,1941,118,2,1168
+Forsyth,06 Crossroads,Statewide Referendum B,,,Yes,3251,2140,91,1,1019
+Forsyth,07 Cumming,Statewide Referendum B,,,Yes,3041,2031,168,5,837
+Forsyth,08 Mashburn,Statewide Referendum B,,,Yes,2808,1759,185,2,862
+Forsyth,10 Midway,Statewide Referendum B,,,Yes,4937,3416,214,0,1307
+Forsyth,15 Heardsville,Statewide Referendum B,,,Yes,2938,1764,132,2,1040
+Forsyth,16 Otwell,Statewide Referendum B,,,Yes,3882,2639,167,7,1069
+Forsyth,19 Old Atlanta,Statewide Referendum B,,,Yes,1571,703,84,1,783
+Forsyth,21 South Forsyth,Statewide Referendum B,,,Yes,1238,802,55,0,381
+Forsyth,25 Windermere,Statewide Referendum B,,,Yes,3352,1814,139,2,1397
+Forsyth,27 Concord,Statewide Referendum B,,,Yes,5407,3421,188,2,1796
+Forsyth,34 Fowler,Statewide Referendum B,,,Yes,2795,1794,135,0,866
+Forsyth,35 Johns Creek,Statewide Referendum B,,,Yes,2709,1673,177,2,857
+Forsyth,36 Nichols,Statewide Referendum B,,,Yes,3107,1956,125,0,1026
+Forsyth,38 Daves Creek,Statewide Referendum B,,,Yes,3421,2291,184,1,945
+Forsyth,39 Mathis,Statewide Referendum B,,,Yes,1960,1298,105,2,555
+Forsyth,40 West Forsyth,Statewide Referendum B,,,Yes,3410,2265,105,8,1032
+Forsyth,41 Grassland,Statewide Referendum B,,,Yes,1504,954,65,3,482
+Forsyth,42 Keith Bridge,Statewide Referendum B,,,Yes,1859,1104,75,3,677
+Forsyth,43 Lakeland,Statewide Referendum B,,,Yes,2414,1447,179,0,788
+Forsyth,44 Lanier,Statewide Referendum B,,,Yes,1914,1181,98,1,634
+Forsyth,45 Mountainside,Statewide Referendum B,,,Yes,2501,1611,100,2,788
+Forsyth,46 Sawmill Branch,Statewide Referendum B,,,Yes,1926,1202,73,3,648
+Forsyth,47 Riverclub,Statewide Referendum B,,,Yes,1162,517,42,1,602
+Forsyth,49 Cheatam Creek,Statewide Referendum B,,,Yes,1515,1015,61,2,437
+Forsyth,01 Big Creek,Statewide Referendum B,,,No,1384,930,108,1,345
+Forsyth,02 Brandywine,Statewide Referendum B,,,No,573,266,50,0,257
+Forsyth,04 Chestatee,Statewide Referendum B,,,No,477,299,23,0,155
+Forsyth,05 Coal Mountain,Statewide Referendum B,,,No,873,560,38,0,275
+Forsyth,06 Crossroads,Statewide Referendum B,,,No,850,592,44,0,214
+Forsyth,07 Cumming,Statewide Referendum B,,,No,818,560,66,2,190
+Forsyth,08 Mashburn,Statewide Referendum B,,,No,926,609,86,0,231
+Forsyth,10 Midway,Statewide Referendum B,,,No,1436,1029,96,1,310
+Forsyth,15 Heardsville,Statewide Referendum B,,,No,774,492,57,0,225
+Forsyth,16 Otwell,Statewide Referendum B,,,No,1113,754,93,1,265
+Forsyth,19 Old Atlanta,Statewide Referendum B,,,No,599,266,54,1,278
+Forsyth,21 South Forsyth,Statewide Referendum B,,,No,418,272,25,0,121
+Forsyth,25 Windermere,Statewide Referendum B,,,No,1126,635,70,0,421
+Forsyth,27 Concord,Statewide Referendum B,,,No,1340,933,55,0,352
+Forsyth,34 Fowler,Statewide Referendum B,,,No,856,562,79,0,215
+Forsyth,35 Johns Creek,Statewide Referendum B,,,No,1165,712,126,1,326
+Forsyth,36 Nichols,Statewide Referendum B,,,No,1080,714,66,0,300
+Forsyth,38 Daves Creek,Statewide Referendum B,,,No,1153,773,92,1,287
+Forsyth,39 Mathis,Statewide Referendum B,,,No,647,433,57,0,157
+Forsyth,40 West Forsyth,Statewide Referendum B,,,No,965,663,64,0,238
+Forsyth,41 Grassland,Statewide Referendum B,,,No,505,330,36,2,137
+Forsyth,42 Keith Bridge,Statewide Referendum B,,,No,512,329,27,1,155
+Forsyth,43 Lakeland,Statewide Referendum B,,,No,690,435,76,0,179
+Forsyth,44 Lanier,Statewide Referendum B,,,No,623,403,40,1,179
+Forsyth,45 Mountainside,Statewide Referendum B,,,No,640,469,39,0,132
+Forsyth,46 Sawmill Branch,Statewide Referendum B,,,No,567,378,43,1,145
+Forsyth,47 Riverclub,Statewide Referendum B,,,No,398,190,18,0,190
+Forsyth,49 Cheatam Creek,Statewide Referendum B,,,No,460,308,55,0,97
+Forsyth,01 Big Creek,Forsyth County TSPLOST,,,Yes,2764,1784,166,3,811
+Forsyth,02 Brandywine,Forsyth County TSPLOST,,,Yes,1333,601,65,0,667
+Forsyth,04 Chestatee,Forsyth County TSPLOST,,,Yes,1188,769,41,1,377
+Forsyth,05 Coal Mountain,Forsyth County TSPLOST,,,Yes,2069,1281,79,0,709
+Forsyth,06 Crossroads,Forsyth County TSPLOST,,,Yes,1968,1351,61,1,555
+Forsyth,07 Cumming,Forsyth County TSPLOST,,,Yes,1917,1288,133,3,493
+Forsyth,08 Mashburn,Forsyth County TSPLOST,,,Yes,1830,1175,137,1,517
+Forsyth,10 Midway,Forsyth County TSPLOST,,,Yes,3443,2418,164,1,860
+Forsyth,15 Heardsville,Forsyth County TSPLOST,,,Yes,1690,1037,90,0,563
+Forsyth,16 Otwell,Forsyth County TSPLOST,,,Yes,2520,1752,125,4,639
+Forsyth,19 Old Atlanta,Forsyth County TSPLOST,,,Yes,1077,481,61,1,534
+Forsyth,21 South Forsyth,Forsyth County TSPLOST,,,Yes,846,548,48,0,250
+Forsyth,25 Windermere,Forsyth County TSPLOST,,,Yes,2246,1229,122,1,894
+Forsyth,27 Concord,Forsyth County TSPLOST,,,Yes,3307,2146,137,0,1024
+Forsyth,34 Fowler,Forsyth County TSPLOST,,,Yes,1954,1291,98,0,565
+Forsyth,35 Johns Creek,Forsyth County TSPLOST,,,Yes,2014,1294,156,2,562
+Forsyth,36 Nichols,Forsyth County TSPLOST,,,Yes,2152,1430,108,0,614
+Forsyth,38 Daves Creek,Forsyth County TSPLOST,,,Yes,2376,1619,140,1,616
+Forsyth,39 Mathis,Forsyth County TSPLOST,,,Yes,1353,893,84,1,375
+Forsyth,40 West Forsyth,Forsyth County TSPLOST,,,Yes,2244,1549,93,3,599
+Forsyth,41 Grassland,Forsyth County TSPLOST,,,Yes,1042,689,47,2,304
+Forsyth,42 Keith Bridge,Forsyth County TSPLOST,,,Yes,1075,678,53,0,344
+Forsyth,43 Lakeland,Forsyth County TSPLOST,,,Yes,1672,1016,151,0,505
+Forsyth,44 Lanier,Forsyth County TSPLOST,,,Yes,1095,679,72,1,343
+Forsyth,45 Mountainside,Forsyth County TSPLOST,,,Yes,1470,991,67,1,411
+Forsyth,46 Sawmill Branch,Forsyth County TSPLOST,,,Yes,1306,848,62,1,395
+Forsyth,47 Riverclub,Forsyth County TSPLOST,,,Yes,793,361,30,0,402
+Forsyth,49 Cheatam Creek,Forsyth County TSPLOST,,,Yes,975,659,55,0,261
+Forsyth,01 Big Creek,Forsyth County TSPLOST,,,No,2543,1570,145,0,828
+Forsyth,02 Brandywine,Forsyth County TSPLOST,,,No,1005,405,59,0,541
+Forsyth,04 Chestatee,Forsyth County TSPLOST,,,No,1357,814,68,2,473
+Forsyth,05 Coal Mountain,Forsyth County TSPLOST,,,No,2099,1264,84,2,749
+Forsyth,06 Crossroads,Forsyth County TSPLOST,,,No,2195,1431,73,0,691
+Forsyth,07 Cumming,Forsyth County TSPLOST,,,No,1990,1334,104,4,548
+Forsyth,08 Mashburn,Forsyth County TSPLOST,,,No,1964,1222,146,1,595
+Forsyth,10 Midway,Forsyth County TSPLOST,,,No,3042,2099,156,0,787
+Forsyth,15 Heardsville,Forsyth County TSPLOST,,,No,2070,1248,103,2,717
+Forsyth,16 Otwell,Forsyth County TSPLOST,,,No,2511,1665,141,4,701
+Forsyth,19 Old Atlanta,Forsyth County TSPLOST,,,No,1128,502,76,1,549
+Forsyth,21 South Forsyth,Forsyth County TSPLOST,,,No,842,542,38,0,262
+Forsyth,25 Windermere,Forsyth County TSPLOST,,,No,2318,1255,102,1,960
+Forsyth,27 Concord,Forsyth County TSPLOST,,,No,3495,2242,111,2,1140
+Forsyth,34 Fowler,Forsyth County TSPLOST,,,No,1759,1099,124,0,536
+Forsyth,35 Johns Creek,Forsyth County TSPLOST,,,No,1931,1135,155,1,640
+Forsyth,36 Nichols,Forsyth County TSPLOST,,,No,2096,1276,87,0,733
+Forsyth,38 Daves Creek,Forsyth County TSPLOST,,,No,2274,1493,147,1,633
+Forsyth,39 Mathis,Forsyth County TSPLOST,,,No,1294,853,84,2,355
+Forsyth,40 West Forsyth,Forsyth County TSPLOST,,,No,2206,1423,86,5,692
+Forsyth,41 Grassland,Forsyth County TSPLOST,,,No,994,611,57,3,323
+Forsyth,42 Keith Bridge,Forsyth County TSPLOST,,,No,1315,765,52,4,494
+Forsyth,43 Lakeland,Forsyth County TSPLOST,,,No,1481,892,117,0,472
+Forsyth,44 Lanier,Forsyth County TSPLOST,,,No,1468,916,70,1,481
+Forsyth,45 Mountainside,Forsyth County TSPLOST,,,No,1701,1107,71,1,522
+Forsyth,46 Sawmill Branch,Forsyth County TSPLOST,,,No,1228,759,58,3,408
+Forsyth,47 Riverclub,Forsyth County TSPLOST,,,No,796,359,30,1,406
+Forsyth,49 Cheatam Creek,Forsyth County TSPLOST,,,No,1022,676,65,2,279

@@ -1,0 +1,476 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Emanuel,Adrian,U.S. Senate,,Rep,Herschel Junior Walker,370,119,12,1,238
+Emanuel,Blundale,U.S. Senate,,Rep,Herschel Junior Walker,487,173,7,1,306
+Emanuel,Canoochee,U.S. Senate,,Rep,Herschel Junior Walker,356,115,5,0,236
+Emanuel,Cross-Green,U.S. Senate,,Rep,Herschel Junior Walker,53,5,3,0,45
+Emanuel,Garfiled,U.S. Senate,,Rep,Herschel Junior Walker,255,49,3,0,203
+Emanuel,Nunez,U.S. Senate,,Rep,Herschel Junior Walker,186,60,3,0,123
+Emanuel,Oak Park,U.S. Senate,,Rep,Herschel Junior Walker,353,69,6,0,278
+Emanuel,Stillmore,U.S. Senate,,Rep,Herschel Junior Walker,221,64,2,0,155
+Emanuel,Summerton,U.S. Senate,,Rep,Herschel Junior Walker,215,53,1,0,161
+Emanuel,Swainsboro,U.S. Senate,,Rep,Herschel Junior Walker,2209,1255,105,4,845
+Emanuel,Twin City,U.S. Senate,,Rep,Herschel Junior Walker,624,208,22,1,393
+Emanuel,Adrian,U.S. Senate,,Dem,Raphael Warnock ,65,17,7,0,41
+Emanuel,Blundale,U.S. Senate,,Dem,Raphael Warnock ,25,12,0,0,13
+Emanuel,Canoochee,U.S. Senate,,Dem,Raphael Warnock ,74,33,7,0,34
+Emanuel,Cross-Green,U.S. Senate,,Dem,Raphael Warnock ,96,19,5,0,72
+Emanuel,Garfiled,U.S. Senate,,Dem,Raphael Warnock ,61,24,7,0,30
+Emanuel,Nunez,U.S. Senate,,Dem,Raphael Warnock ,42,17,4,0,21
+Emanuel,Oak Park,U.S. Senate,,Dem,Raphael Warnock ,32,11,2,0,19
+Emanuel,Stillmore,U.S. Senate,,Dem,Raphael Warnock ,102,32,4,0,66
+Emanuel,Summerton,U.S. Senate,,Dem,Raphael Warnock ,81,26,15,0,40
+Emanuel,Swainsboro,U.S. Senate,,Dem,Raphael Warnock ,1287,751,117,0,419
+Emanuel,Twin City,U.S. Senate,,Dem,Raphael Warnock ,292,120,31,0,141
+Emanuel,Adrian,U.S. Senate,,Lib,Chase Oliver,3,1,0,0,2
+Emanuel,Blundale,U.S. Senate,,Lib,Chase Oliver,5,2,0,0,3
+Emanuel,Canoochee,U.S. Senate,,Lib,Chase Oliver,1,1,0,0,0
+Emanuel,Cross-Green,U.S. Senate,,Lib,Chase Oliver,2,0,0,0,2
+Emanuel,Garfiled,U.S. Senate,,Lib,Chase Oliver,2,0,0,0,2
+Emanuel,Nunez,U.S. Senate,,Lib,Chase Oliver,1,0,0,0,1
+Emanuel,Oak Park,U.S. Senate,,Lib,Chase Oliver,2,0,0,0,2
+Emanuel,Stillmore,U.S. Senate,,Lib,Chase Oliver,2,0,0,0,2
+Emanuel,Summerton,U.S. Senate,,Lib,Chase Oliver,1,1,0,0,0
+Emanuel,Swainsboro,U.S. Senate,,Lib,Chase Oliver,31,17,3,0,11
+Emanuel,Twin City,U.S. Senate,,Lib,Chase Oliver,8,3,0,0,5
+Emanuel,Adrian,Governor,,Rep,Brian Kemp ,377,119,12,1,245
+Emanuel,Blundale,Governor,,Rep,Brian Kemp ,492,176,7,1,308
+Emanuel,Canoochee,Governor,,Rep,Brian Kemp ,367,121,6,0,240
+Emanuel,Cross-Green,Governor,,Rep,Brian Kemp ,57,8,3,0,46
+Emanuel,Garfiled,Governor,,Rep,Brian Kemp ,268,53,3,0,212
+Emanuel,Nunez,Governor,,Rep,Brian Kemp ,196,63,4,0,129
+Emanuel,Oak Park,Governor,,Rep,Brian Kemp ,362,70,6,0,286
+Emanuel,Stillmore,Governor,,Rep,Brian Kemp ,225,64,2,0,159
+Emanuel,Summerton,Governor,,Rep,Brian Kemp ,223,55,1,0,167
+Emanuel,Swainsboro,Governor,,Rep,Brian Kemp ,2296,1306,109,4,877
+Emanuel,Twin City,Governor,,Rep,Brian Kemp ,642,217,23,1,401
+Emanuel,Adrian,Governor,,Dem,Stacey Abrams,58,17,7,0,34
+Emanuel,Blundale,Governor,,Dem,Stacey Abrams,19,10,0,0,9
+Emanuel,Canoochee,Governor,,Dem,Stacey Abrams,61,28,6,0,27
+Emanuel,Cross-Green,Governor,,Dem,Stacey Abrams,92,16,5,0,71
+Emanuel,Garfiled,Governor,,Dem,Stacey Abrams,53,21,7,0,25
+Emanuel,Nunez,Governor,,Dem,Stacey Abrams,32,15,3,0,14
+Emanuel,Oak Park,Governor,,Dem,Stacey Abrams,25,9,2,0,14
+Emanuel,Stillmore,Governor,,Dem,Stacey Abrams,98,32,4,0,62
+Emanuel,Summerton,Governor,,Dem,Stacey Abrams,74,25,15,0,34
+Emanuel,Swainsboro,Governor,,Dem,Stacey Abrams,1230,713,115,0,402
+Emanuel,Twin City,Governor,,Dem,Stacey Abrams,282,115,30,0,137
+Emanuel,Adrian,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Emanuel,Blundale,Governor,,Lib,Shane Hazel,4,1,0,0,3
+Emanuel,Canoochee,Governor,,Lib,Shane Hazel,1,0,0,0,1
+Emanuel,Cross-Green,Governor,,Lib,Shane Hazel,2,0,0,0,2
+Emanuel,Garfiled,Governor,,Lib,Shane Hazel,2,0,0,0,2
+Emanuel,Nunez,Governor,,Lib,Shane Hazel,1,0,0,0,1
+Emanuel,Oak Park,Governor,,Lib,Shane Hazel,3,1,0,0,2
+Emanuel,Stillmore,Governor,,Lib,Shane Hazel,3,0,0,0,3
+Emanuel,Summerton,Governor,,Lib,Shane Hazel,0,0,0,0,0
+Emanuel,Swainsboro,Governor,,Lib,Shane Hazel,12,5,2,0,5
+Emanuel,Twin City,Governor,,Lib,Shane Hazel,3,1,0,0,2
+Emanuel,Adrian,Lieutenant Governor,,Rep,Burt Jones,369,119,12,1,237
+Emanuel,Blundale,Lieutenant Governor,,Rep,Burt Jones,482,171,7,1,303
+Emanuel,Canoochee,Lieutenant Governor,,Rep,Burt Jones,350,113,6,0,231
+Emanuel,Cross-Green,Lieutenant Governor,,Rep,Burt Jones,53,6,3,0,44
+Emanuel,Garfiled,Lieutenant Governor,,Rep,Burt Jones,259,48,3,0,208
+Emanuel,Nunez,Lieutenant Governor,,Rep,Burt Jones,187,61,3,0,123
+Emanuel,Oak Park,Lieutenant Governor,,Rep,Burt Jones,355,70,6,0,279
+Emanuel,Stillmore,Lieutenant Governor,,Rep,Burt Jones,222,64,2,0,156
+Emanuel,Summerton,Lieutenant Governor,,Rep,Burt Jones,216,53,1,0,162
+Emanuel,Swainsboro,Lieutenant Governor,,Rep,Burt Jones,2211,1261,105,4,841
+Emanuel,Twin City,Lieutenant Governor,,Rep,Burt Jones,627,211,22,1,393
+Emanuel,Adrian,Lieutenant Governor,,Dem,Charlie Bailey,56,16,7,0,33
+Emanuel,Blundale,Lieutenant Governor,,Dem,Charlie Bailey,23,12,0,0,11
+Emanuel,Canoochee,Lieutenant Governor,,Dem,Charlie Bailey,61,29,6,0,26
+Emanuel,Cross-Green,Lieutenant Governor,,Dem,Charlie Bailey,95,17,5,0,73
+Emanuel,Garfiled,Lieutenant Governor,,Dem,Charlie Bailey,52,21,6,0,25
+Emanuel,Nunez,Lieutenant Governor,,Dem,Charlie Bailey,36,15,3,0,18
+Emanuel,Oak Park,Lieutenant Governor,,Dem,Charlie Bailey,26,8,2,0,16
+Emanuel,Stillmore,Lieutenant Governor,,Dem,Charlie Bailey,92,31,4,0,57
+Emanuel,Summerton,Lieutenant Governor,,Dem,Charlie Bailey,77,26,15,0,36
+Emanuel,Swainsboro,Lieutenant Governor,,Dem,Charlie Bailey,1181,688,115,0,378
+Emanuel,Twin City,Lieutenant Governor,,Dem,Charlie Bailey,270,111,31,0,128
+Emanuel,Adrian,Lieutenant Governor,,Lib,Ryan Graham,3,1,0,0,2
+Emanuel,Blundale,Lieutenant Governor,,Lib,Ryan Graham,4,3,0,0,1
+Emanuel,Canoochee,Lieutenant Governor,,Lib,Ryan Graham,7,4,0,0,3
+Emanuel,Cross-Green,Lieutenant Governor,,Lib,Ryan Graham,1,0,0,0,1
+Emanuel,Garfiled,Lieutenant Governor,,Lib,Ryan Graham,5,2,1,0,2
+Emanuel,Nunez,Lieutenant Governor,,Lib,Ryan Graham,2,1,0,0,1
+Emanuel,Oak Park,Lieutenant Governor,,Lib,Ryan Graham,5,1,0,0,4
+Emanuel,Stillmore,Lieutenant Governor,,Lib,Ryan Graham,6,0,0,0,6
+Emanuel,Summerton,Lieutenant Governor,,Lib,Ryan Graham,0,0,0,0,0
+Emanuel,Swainsboro,Lieutenant Governor,,Lib,Ryan Graham,60,33,2,0,25
+Emanuel,Twin City,Lieutenant Governor,,Lib,Ryan Graham,9,5,0,0,4
+Emanuel,Adrian,Secretary of State,,Rep,Brad Raffensperger ,361,115,12,1,233
+Emanuel,Blundale,Secretary of State,,Rep,Brad Raffensperger ,463,170,6,1,286
+Emanuel,Canoochee,Secretary of State,,Rep,Brad Raffensperger ,347,116,5,0,226
+Emanuel,Cross-Green,Secretary of State,,Rep,Brad Raffensperger ,57,6,3,0,48
+Emanuel,Garfiled,Secretary of State,,Rep,Brad Raffensperger ,265,52,3,0,210
+Emanuel,Nunez,Secretary of State,,Rep,Brad Raffensperger ,188,63,4,0,121
+Emanuel,Oak Park,Secretary of State,,Rep,Brad Raffensperger ,352,70,7,0,275
+Emanuel,Stillmore,Secretary of State,,Rep,Brad Raffensperger ,218,62,2,0,154
+Emanuel,Summerton,Secretary of State,,Rep,Brad Raffensperger ,214,54,1,0,159
+Emanuel,Swainsboro,Secretary of State,,Rep,Brad Raffensperger ,2239,1272,104,4,859
+Emanuel,Twin City,Secretary of State,,Rep,Brad Raffensperger ,626,215,22,1,388
+Emanuel,Adrian,Secretary of State,,Dem,Bee Nguyen,55,17,6,0,32
+Emanuel,Blundale,Secretary of State,,Dem,Bee Nguyen,25,11,1,0,13
+Emanuel,Canoochee,Secretary of State,,Dem,Bee Nguyen,60,28,6,0,26
+Emanuel,Cross-Green,Secretary of State,,Dem,Bee Nguyen,88,16,5,0,67
+Emanuel,Garfiled,Secretary of State,,Dem,Bee Nguyen,43,17,7,0,19
+Emanuel,Nunez,Secretary of State,,Dem,Bee Nguyen,33,14,3,0,16
+Emanuel,Oak Park,Secretary of State,,Dem,Bee Nguyen,24,6,1,0,17
+Emanuel,Stillmore,Secretary of State,,Dem,Bee Nguyen,92,31,4,0,57
+Emanuel,Summerton,Secretary of State,,Dem,Bee Nguyen,75,24,15,0,36
+Emanuel,Swainsboro,Secretary of State,,Dem,Bee Nguyen,1133,651,112,0,370
+Emanuel,Twin City,Secretary of State,,Dem,Bee Nguyen,267,109,30,0,128
+Emanuel,Adrian,Secretary of State,,Lib,Ted Metz,11,4,1,0,6
+Emanuel,Blundale,Secretary of State,,Lib,Ted Metz,12,4,0,0,8
+Emanuel,Canoochee,Secretary of State,,Lib,Ted Metz,13,4,0,0,9
+Emanuel,Cross-Green,Secretary of State,,Lib,Ted Metz,3,1,0,0,2
+Emanuel,Garfiled,Secretary of State,,Lib,Ted Metz,7,1,0,0,6
+Emanuel,Nunez,Secretary of State,,Lib,Ted Metz,6,0,0,0,6
+Emanuel,Oak Park,Secretary of State,,Lib,Ted Metz,9,2,0,0,7
+Emanuel,Stillmore,Secretary of State,,Lib,Ted Metz,9,2,0,0,7
+Emanuel,Summerton,Secretary of State,,Lib,Ted Metz,5,1,0,0,4
+Emanuel,Swainsboro,Secretary of State,,Lib,Ted Metz,79,49,5,0,25
+Emanuel,Twin City,Secretary of State,,Lib,Ted Metz,17,5,0,0,12
+Emanuel,Adrian,Attorney General,,Rep,Chris Carr ,366,117,12,1,236
+Emanuel,Blundale,Attorney General,,Rep,Chris Carr ,482,173,7,1,301
+Emanuel,Canoochee,Attorney General,,Rep,Chris Carr ,355,113,5,0,237
+Emanuel,Cross-Green,Attorney General,,Rep,Chris Carr ,53,5,3,0,45
+Emanuel,Garfiled,Attorney General,,Rep,Chris Carr ,262,50,3,0,209
+Emanuel,Nunez,Attorney General,,Rep,Chris Carr ,190,63,3,0,124
+Emanuel,Oak Park,Attorney General,,Rep,Chris Carr ,358,71,6,0,281
+Emanuel,Stillmore,Attorney General,,Rep,Chris Carr ,219,61,2,0,156
+Emanuel,Summerton,Attorney General,,Rep,Chris Carr ,217,54,1,0,162
+Emanuel,Swainsboro,Attorney General,,Rep,Chris Carr ,2225,1273,100,4,848
+Emanuel,Twin City,Attorney General,,Rep,Chris Carr ,627,210,22,1,394
+Emanuel,Adrian,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",58,16,6,0,36
+Emanuel,Blundale,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",27,13,0,0,14
+Emanuel,Canoochee,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",68,33,6,0,29
+Emanuel,Cross-Green,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",94,18,5,0,71
+Emanuel,Garfiled,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",53,23,5,0,25
+Emanuel,Nunez,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",36,15,3,0,18
+Emanuel,Oak Park,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",26,8,2,0,16
+Emanuel,Stillmore,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",95,33,4,0,58
+Emanuel,Summerton,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",78,26,15,0,37
+Emanuel,Swainsboro,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1236,710,119,0,407
+Emanuel,Twin City,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",286,119,31,0,136
+Emanuel,Adrian,Attorney General,,Lib,Martin Cowen,6,2,0,0,4
+Emanuel,Blundale,Attorney General,,Lib,Martin Cowen,1,0,0,0,1
+Emanuel,Canoochee,Attorney General,,Lib,Martin Cowen,3,2,0,0,1
+Emanuel,Cross-Green,Attorney General,,Lib,Martin Cowen,1,1,0,0,0
+Emanuel,Garfiled,Attorney General,,Lib,Martin Cowen,2,1,1,0,0
+Emanuel,Nunez,Attorney General,,Lib,Martin Cowen,1,0,0,0,1
+Emanuel,Oak Park,Attorney General,,Lib,Martin Cowen,3,1,0,0,2
+Emanuel,Stillmore,Attorney General,,Lib,Martin Cowen,5,1,0,0,4
+Emanuel,Summerton,Attorney General,,Lib,Martin Cowen,1,0,0,0,1
+Emanuel,Swainsboro,Attorney General,,Lib,Martin Cowen,22,12,1,0,9
+Emanuel,Twin City,Attorney General,,Lib,Martin Cowen,4,2,0,0,2
+Emanuel,Adrian,Commissioner of Agriculture,,Rep,Tyler Harper,367,119,12,1,235
+Emanuel,Blundale,Commissioner of Agriculture,,Rep,Tyler Harper,484,175,7,1,301
+Emanuel,Canoochee,Commissioner of Agriculture,,Rep,Tyler Harper,360,119,5,0,236
+Emanuel,Cross-Green,Commissioner of Agriculture,,Rep,Tyler Harper,56,8,3,0,45
+Emanuel,Garfiled,Commissioner of Agriculture,,Rep,Tyler Harper,266,52,3,0,211
+Emanuel,Nunez,Commissioner of Agriculture,,Rep,Tyler Harper,188,62,3,0,123
+Emanuel,Oak Park,Commissioner of Agriculture,,Rep,Tyler Harper,352,69,6,0,277
+Emanuel,Stillmore,Commissioner of Agriculture,,Rep,Tyler Harper,224,63,2,0,159
+Emanuel,Summerton,Commissioner of Agriculture,,Rep,Tyler Harper,218,55,1,0,162
+Emanuel,Swainsboro,Commissioner of Agriculture,,Rep,Tyler Harper,2250,1283,106,4,857
+Emanuel,Twin City,Commissioner of Agriculture,,Rep,Tyler Harper,630,212,22,1,395
+Emanuel,Adrian,Commissioner of Agriculture,,Dem,Nakita Hemingway,55,15,7,0,33
+Emanuel,Blundale,Commissioner of Agriculture,,Dem,Nakita Hemingway,21,11,0,0,10
+Emanuel,Canoochee,Commissioner of Agriculture,,Dem,Nakita Hemingway,60,28,6,0,26
+Emanuel,Cross-Green,Commissioner of Agriculture,,Dem,Nakita Hemingway,90,15,5,0,70
+Emanuel,Garfiled,Commissioner of Agriculture,,Dem,Nakita Hemingway,50,21,7,0,22
+Emanuel,Nunez,Commissioner of Agriculture,,Dem,Nakita Hemingway,37,15,3,0,19
+Emanuel,Oak Park,Commissioner of Agriculture,,Dem,Nakita Hemingway,22,8,0,0,14
+Emanuel,Stillmore,Commissioner of Agriculture,,Dem,Nakita Hemingway,91,32,4,0,55
+Emanuel,Summerton,Commissioner of Agriculture,,Dem,Nakita Hemingway,75,24,14,0,37
+Emanuel,Swainsboro,Commissioner of Agriculture,,Dem,Nakita Hemingway,1179,678,117,0,384
+Emanuel,Twin City,Commissioner of Agriculture,,Dem,Nakita Hemingway,277,114,30,0,133
+Emanuel,Adrian,Commissioner of Agriculture,,Lib,David Raudabaugh,5,1,0,0,4
+Emanuel,Blundale,Commissioner of Agriculture,,Lib,David Raudabaugh,2,0,0,0,2
+Emanuel,Canoochee,Commissioner of Agriculture,,Lib,David Raudabaugh,3,1,0,0,2
+Emanuel,Cross-Green,Commissioner of Agriculture,,Lib,David Raudabaugh,2,0,0,0,2
+Emanuel,Garfiled,Commissioner of Agriculture,,Lib,David Raudabaugh,1,0,0,0,1
+Emanuel,Nunez,Commissioner of Agriculture,,Lib,David Raudabaugh,1,0,0,0,1
+Emanuel,Oak Park,Commissioner of Agriculture,,Lib,David Raudabaugh,7,2,0,0,5
+Emanuel,Stillmore,Commissioner of Agriculture,,Lib,David Raudabaugh,5,1,0,0,4
+Emanuel,Summerton,Commissioner of Agriculture,,Lib,David Raudabaugh,1,0,0,0,1
+Emanuel,Swainsboro,Commissioner of Agriculture,,Lib,David Raudabaugh,45,27,0,0,18
+Emanuel,Twin City,Commissioner of Agriculture,,Lib,David Raudabaugh,12,7,1,0,4
+Emanuel,Adrian,Commissioner of Insurance,,Rep,John King ,368,118,14,1,235
+Emanuel,Blundale,Commissioner of Insurance,,Rep,John King ,482,174,7,1,300
+Emanuel,Canoochee,Commissioner of Insurance,,Rep,John King ,361,115,5,0,241
+Emanuel,Cross-Green,Commissioner of Insurance,,Rep,John King ,53,5,3,0,45
+Emanuel,Garfiled,Commissioner of Insurance,,Rep,John King ,267,53,3,0,211
+Emanuel,Nunez,Commissioner of Insurance,,Rep,John King ,187,63,3,0,121
+Emanuel,Oak Park,Commissioner of Insurance,,Rep,John King ,356,70,6,0,280
+Emanuel,Stillmore,Commissioner of Insurance,,Rep,John King ,220,64,2,0,154
+Emanuel,Summerton,Commissioner of Insurance,,Rep,John King ,218,55,1,0,162
+Emanuel,Swainsboro,Commissioner of Insurance,,Rep,John King ,2258,1288,104,4,862
+Emanuel,Twin City,Commissioner of Insurance,,Rep,John King ,623,209,22,1,391
+Emanuel,Adrian,Commissioner of Insurance,,Dem,Janice Laws Robinson,55,16,5,0,34
+Emanuel,Blundale,Commissioner of Insurance,,Dem,Janice Laws Robinson,21,10,0,0,11
+Emanuel,Canoochee,Commissioner of Insurance,,Dem,Janice Laws Robinson,59,30,6,0,23
+Emanuel,Cross-Green,Commissioner of Insurance,,Dem,Janice Laws Robinson,94,18,5,0,71
+Emanuel,Garfiled,Commissioner of Insurance,,Dem,Janice Laws Robinson,51,20,7,0,24
+Emanuel,Nunez,Commissioner of Insurance,,Dem,Janice Laws Robinson,37,15,3,0,19
+Emanuel,Oak Park,Commissioner of Insurance,,Dem,Janice Laws Robinson,27,9,2,0,16
+Emanuel,Stillmore,Commissioner of Insurance,,Dem,Janice Laws Robinson,97,32,4,0,61
+Emanuel,Summerton,Commissioner of Insurance,,Dem,Janice Laws Robinson,76,25,14,0,37
+Emanuel,Swainsboro,Commissioner of Insurance,,Dem,Janice Laws Robinson,1210,697,116,0,397
+Emanuel,Twin City,Commissioner of Insurance,,Dem,Janice Laws Robinson,280,115,31,0,134
+Emanuel,Adrian,State School Superintendent,,Rep,Richard Woods ,368,118,12,1,237
+Emanuel,Blundale,State School Superintendent,,Rep,Richard Woods ,487,176,7,1,303
+Emanuel,Canoochee,State School Superintendent,,Rep,Richard Woods ,362,118,5,0,239
+Emanuel,Cross-Green,State School Superintendent,,Rep,Richard Woods ,58,6,3,0,49
+Emanuel,Garfiled,State School Superintendent,,Rep,Richard Woods ,268,53,3,0,212
+Emanuel,Nunez,State School Superintendent,,Rep,Richard Woods ,188,62,3,0,123
+Emanuel,Oak Park,State School Superintendent,,Rep,Richard Woods ,359,69,8,0,282
+Emanuel,Stillmore,State School Superintendent,,Rep,Richard Woods ,229,66,2,0,161
+Emanuel,Summerton,State School Superintendent,,Rep,Richard Woods ,219,55,1,0,163
+Emanuel,Swainsboro,State School Superintendent,,Rep,Richard Woods ,2268,1292,104,4,868
+Emanuel,Twin City,State School Superintendent,,Rep,Richard Woods ,623,211,22,1,389
+Emanuel,Adrian,State School Superintendent,,Dem,Alisha Thomas Searcy,56,16,7,0,33
+Emanuel,Blundale,State School Superintendent,,Dem,Alisha Thomas Searcy,19,9,0,0,10
+Emanuel,Canoochee,State School Superintendent,,Dem,Alisha Thomas Searcy,59,29,6,0,24
+Emanuel,Cross-Green,State School Superintendent,,Dem,Alisha Thomas Searcy,91,18,5,0,68
+Emanuel,Garfiled,State School Superintendent,,Dem,Alisha Thomas Searcy,50,20,7,0,23
+Emanuel,Nunez,State School Superintendent,,Dem,Alisha Thomas Searcy,37,16,3,0,18
+Emanuel,Oak Park,State School Superintendent,,Dem,Alisha Thomas Searcy,24,9,0,0,15
+Emanuel,Stillmore,State School Superintendent,,Dem,Alisha Thomas Searcy,92,30,4,0,58
+Emanuel,Summerton,State School Superintendent,,Dem,Alisha Thomas Searcy,74,25,14,0,35
+Emanuel,Swainsboro,State School Superintendent,,Dem,Alisha Thomas Searcy,1208,697,116,0,395
+Emanuel,Twin City,State School Superintendent,,Dem,Alisha Thomas Searcy,282,119,31,0,132
+Emanuel,Adrian,Commissioner of Labor,,Rep,Bruce Thompson,369,118,12,1,238
+Emanuel,Blundale,Commissioner of Labor,,Rep,Bruce Thompson,481,174,6,1,300
+Emanuel,Canoochee,Commissioner of Labor,,Rep,Bruce Thompson,355,115,6,0,234
+Emanuel,Cross-Green,Commissioner of Labor,,Rep,Bruce Thompson,57,6,3,0,48
+Emanuel,Garfiled,Commissioner of Labor,,Rep,Bruce Thompson,260,51,3,0,206
+Emanuel,Nunez,Commissioner of Labor,,Rep,Bruce Thompson,187,62,3,0,122
+Emanuel,Oak Park,Commissioner of Labor,,Rep,Bruce Thompson,353,70,6,0,277
+Emanuel,Stillmore,Commissioner of Labor,,Rep,Bruce Thompson,218,64,2,0,152
+Emanuel,Summerton,Commissioner of Labor,,Rep,Bruce Thompson,219,56,1,0,162
+Emanuel,Swainsboro,Commissioner of Labor,,Rep,Bruce Thompson,2225,1266,102,4,853
+Emanuel,Twin City,Commissioner of Labor,,Rep,Bruce Thompson,624,210,23,1,390
+Emanuel,Adrian,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",59,16,7,0,36
+Emanuel,Blundale,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",20,11,0,0,9
+Emanuel,Canoochee,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",62,31,6,0,25
+Emanuel,Cross-Green,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",89,16,4,0,69
+Emanuel,Garfiled,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",50,20,5,0,25
+Emanuel,Nunez,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",36,15,3,0,18
+Emanuel,Oak Park,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",26,9,2,0,15
+Emanuel,Stillmore,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",94,31,3,0,60
+Emanuel,Summerton,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",73,23,15,0,35
+Emanuel,Swainsboro,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1189,696,114,0,379
+Emanuel,Twin City,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",276,114,28,0,134
+Emanuel,Adrian,Commissioner of Labor,,Lib,Emily Anderson,2,1,0,0,1
+Emanuel,Blundale,Commissioner of Labor,,Lib,Emily Anderson,4,2,0,0,2
+Emanuel,Canoochee,Commissioner of Labor,,Lib,Emily Anderson,5,1,0,0,4
+Emanuel,Cross-Green,Commissioner of Labor,,Lib,Emily Anderson,1,1,0,0,0
+Emanuel,Garfiled,Commissioner of Labor,,Lib,Emily Anderson,8,2,2,0,4
+Emanuel,Nunez,Commissioner of Labor,,Lib,Emily Anderson,1,0,0,0,1
+Emanuel,Oak Park,Commissioner of Labor,,Lib,Emily Anderson,6,0,0,0,6
+Emanuel,Stillmore,Commissioner of Labor,,Lib,Emily Anderson,7,0,1,0,6
+Emanuel,Summerton,Commissioner of Labor,,Lib,Emily Anderson,2,1,0,0,1
+Emanuel,Swainsboro,Commissioner of Labor,,Lib,Emily Anderson,49,19,4,0,26
+Emanuel,Twin City,Commissioner of Labor,,Lib,Emily Anderson,12,5,2,0,5
+Emanuel,Adrian,U.S. House,,Rep,Rick W. Allen ,373,119,13,1,240
+Emanuel,Blundale,U.S. House,,Rep,Rick W. Allen ,487,175,7,1,304
+Emanuel,Canoochee,U.S. House,,Rep,Rick W. Allen ,362,118,6,0,238
+Emanuel,Cross-Green,U.S. House,,Rep,Rick W. Allen ,56,6,3,0,47
+Emanuel,Garfiled,U.S. House,,Rep,Rick W. Allen ,263,52,3,0,208
+Emanuel,Nunez,U.S. House,,Rep,Rick W. Allen ,193,63,3,0,127
+Emanuel,Oak Park,U.S. House,,Rep,Rick W. Allen ,364,72,6,0,286
+Emanuel,Stillmore,U.S. House,,Rep,Rick W. Allen ,226,63,2,0,161
+Emanuel,Summerton,U.S. House,,Rep,Rick W. Allen ,219,53,1,0,165
+Emanuel,Swainsboro,U.S. House,,Rep,Rick W. Allen ,2278,1296,105,4,873
+Emanuel,Twin City,U.S. House,,Rep,Rick W. Allen ,635,214,23,1,397
+Emanuel,Adrian,U.S. House,,Dem,Elizabeth 'Liz' Johnson,58,16,6,0,36
+Emanuel,Blundale,U.S. House,,Dem,Elizabeth 'Liz' Johnson,24,12,0,0,12
+Emanuel,Canoochee,U.S. House,,Dem,Elizabeth 'Liz' Johnson,62,30,6,0,26
+Emanuel,Cross-Green,U.S. House,,Dem,Elizabeth 'Liz' Johnson,93,18,5,0,70
+Emanuel,Garfiled,U.S. House,,Dem,Elizabeth 'Liz' Johnson,56,22,7,0,27
+Emanuel,Nunez,U.S. House,,Dem,Elizabeth 'Liz' Johnson,34,15,3,0,16
+Emanuel,Oak Park,U.S. House,,Dem,Elizabeth 'Liz' Johnson,25,8,2,0,15
+Emanuel,Stillmore,U.S. House,,Dem,Elizabeth 'Liz' Johnson,93,32,4,0,57
+Emanuel,Summerton,U.S. House,,Dem,Elizabeth 'Liz' Johnson,75,25,15,0,35
+Emanuel,Swainsboro,U.S. House,,Dem,Elizabeth 'Liz' Johnson,1216,702,117,0,397
+Emanuel,Twin City,U.S. House,,Dem,Elizabeth 'Liz' Johnson,285,118,30,0,137
+Emanuel,Adrian,State Senate,,Rep,Max Burns ,394,122,17,1,254
+Emanuel,Blundale,State Senate,,Rep,Max Burns ,491,176,7,1,307
+Emanuel,Canoochee,State Senate,,Rep,Max Burns ,381,129,8,0,244
+Emanuel,Cross-Green,State Senate,,Rep,Max Burns ,85,15,4,0,66
+Emanuel,Garfiled,State Senate,,Rep,Max Burns ,295,61,9,0,225
+Emanuel,Nunez,State Senate,,Rep,Max Burns ,203,66,7,0,130
+Emanuel,Oak Park,State Senate,,Rep,Max Burns ,369,74,5,0,290
+Emanuel,Stillmore,State Senate,,Rep,Max Burns ,259,75,2,0,182
+Emanuel,Summerton,State Senate,,Rep,Max Burns ,239,62,1,0,176
+Emanuel,Swainsboro,State Senate,,Rep,Max Burns ,2732,1534,141,3,1054
+Emanuel,Twin City,State Senate,,Rep,Max Burns ,734,257,31,0,446
+Emanuel,Adrian,State House,,Rep,Butch Parrish ,372,119,15,1,237
+Emanuel,Blundale,State House,,Rep,Butch Parrish ,485,176,7,1,301
+Emanuel,Canoochee,State House,,Rep,Butch Parrish ,364,121,5,0,238
+Emanuel,Cross-Green,State House,,Rep,Butch Parrish ,64,7,3,0,54
+Emanuel,Garfiled,State House,,Rep,Butch Parrish ,269,52,3,0,214
+Emanuel,Nunez,State House,,Rep,Butch Parrish ,192,61,4,0,127
+Emanuel,Oak Park,State House,,Rep,Butch Parrish ,364,71,7,0,286
+Emanuel,Stillmore,State House,,Rep,Butch Parrish ,237,67,2,0,168
+Emanuel,Summerton,State House,,Rep,Butch Parrish ,226,57,1,0,168
+Emanuel,Swainsboro,State House,,Rep,Butch Parrish ,2342,1345,112,4,881
+Emanuel,Twin City,State House,,Rep,Butch Parrish ,647,219,24,1,403
+Emanuel,Adrian,State House,,Dem,Madeline Ryan Smith,55,15,4,0,36
+Emanuel,Blundale,State House,,Dem,Madeline Ryan Smith,24,12,0,0,12
+Emanuel,Canoochee,State House,,Dem,Madeline Ryan Smith,60,27,6,0,27
+Emanuel,Cross-Green,State House,,Dem,Madeline Ryan Smith,84,16,5,0,63
+Emanuel,Garfiled,State House,,Dem,Madeline Ryan Smith,49,21,7,0,21
+Emanuel,Nunez,State House,,Dem,Madeline Ryan Smith,34,16,3,0,15
+Emanuel,Oak Park,State House,,Dem,Madeline Ryan Smith,24,8,1,0,15
+Emanuel,Stillmore,State House,,Dem,Madeline Ryan Smith,84,27,4,0,53
+Emanuel,Summerton,State House,,Dem,Madeline Ryan Smith,69,23,14,0,32
+Emanuel,Swainsboro,State House,,Dem,Madeline Ryan Smith,1116,637,106,0,373
+Emanuel,Twin City,State House,,Dem,Madeline Ryan Smith,260,107,28,0,125
+Emanuel,Adrian,Solicitor General,,Rep,Connie P. Terwilliger,391,121,17,1,252
+Emanuel,Blundale,Solicitor General,,Rep,Connie P. Terwilliger,494,179,7,1,307
+Emanuel,Canoochee,Solicitor General,,Rep,Connie P. Terwilliger,377,127,8,0,242
+Emanuel,Cross-Green,Solicitor General,,Rep,Connie P. Terwilliger,88,17,5,0,66
+Emanuel,Garfiled,Solicitor General,,Rep,Connie P. Terwilliger,288,59,9,0,220
+Emanuel,Nunez,Solicitor General,,Rep,Connie P. Terwilliger,204,63,7,0,134
+Emanuel,Oak Park,Solicitor General,,Rep,Connie P. Terwilliger,370,76,5,0,289
+Emanuel,Stillmore,Solicitor General,,Rep,Connie P. Terwilliger,264,76,2,0,186
+Emanuel,Summerton,Solicitor General,,Rep,Connie P. Terwilliger,237,62,1,0,174
+Emanuel,Swainsboro,Solicitor General,,Rep,Connie P. Terwilliger,2750,1555,144,4,1047
+Emanuel,Twin City,Solicitor General,,Rep,Connie P. Terwilliger,726,257,30,1,438
+Emanuel,Stillmore,County Commissioner,,Rep,Keith Thompson ,0,0,0,0,0
+Emanuel,Swainsboro,County Commissioner,,Rep,Keith Thompson ,1103,617,64,1,421
+Emanuel,Blundale,County Commissioner,,Rep,"James A. """"Jim"""" Sherrod ",260,97,4,0,159
+Emanuel,Canoochee,County Commissioner,,Rep,"James A. """"Jim"""" Sherrod ",383,129,8,0,246
+Emanuel,Cross-Green,County Commissioner,,Rep,"James A. """"Jim"""" Sherrod ",88,18,5,0,65
+Emanuel,Garfiled,County Commissioner,,Rep,"James A. """"Jim"""" Sherrod ",295,61,9,0,225
+Emanuel,Summerton,County Commissioner,,Rep,"James A. """"Jim"""" Sherrod ",237,59,1,0,177
+Emanuel,Swainsboro,County Commissioner,,Rep,"James A. """"Jim"""" Sherrod ",162,93,5,3,61
+Emanuel,Twin City,County Commissioner,,Rep,"James A. """"Jim"""" Sherrod ",161,55,8,1,97
+Emanuel,Oak Park,County Commissioner,,Rep,Timothy Oliver,352,72,5,0,275
+Emanuel,Stillmore,County Commissioner,,Rep,Timothy Oliver,262,75,1,0,186
+Emanuel,Swainsboro,County Commissioner,,Rep,Timothy Oliver,61,36,3,0,22
+Emanuel,Twin City,County Commissioner,,Rep,Timothy Oliver,590,209,24,0,357
+Emanuel,Adrian,Soil and Water,,,Sidney Lanier,364,115,17,1,231
+Emanuel,Blundale,Soil and Water,,,Sidney Lanier,449,163,7,1,278
+Emanuel,Canoochee,Soil and Water,,,Sidney Lanier,365,129,8,0,228
+Emanuel,Cross-Green,Soil and Water,,,Sidney Lanier,89,17,7,0,65
+Emanuel,Garfiled,Soil and Water,,,Sidney Lanier,281,58,9,0,214
+Emanuel,Nunez,Soil and Water,,,Sidney Lanier,184,59,7,0,118
+Emanuel,Oak Park,Soil and Water,,,Sidney Lanier,341,70,7,0,264
+Emanuel,Stillmore,Soil and Water,,,Sidney Lanier,254,70,4,0,180
+Emanuel,Summerton,Soil and Water,,,Sidney Lanier,228,59,5,0,164
+Emanuel,Swainsboro,Soil and Water,,,Sidney Lanier,2673,1498,151,3,1021
+Emanuel,Twin City,Soil and Water,,,Sidney Lanier,745,261,35,1,448
+Emanuel,Adrian,Proposed Constitutional Amendment 1,,,Yes,351,114,15,1,221
+Emanuel,Blundale,Proposed Constitutional Amendment 1,,,Yes,443,165,7,0,271
+Emanuel,Canoochee,Proposed Constitutional Amendment 1,,,Yes,347,127,8,0,212
+Emanuel,Cross-Green,Proposed Constitutional Amendment 1,,,Yes,125,19,6,0,100
+Emanuel,Garfiled,Proposed Constitutional Amendment 1,,,Yes,275,61,9,0,205
+Emanuel,Nunez,Proposed Constitutional Amendment 1,,,Yes,184,67,7,0,110
+Emanuel,Oak Park,Proposed Constitutional Amendment 1,,,Yes,323,71,8,0,244
+Emanuel,Stillmore,Proposed Constitutional Amendment 1,,,Yes,264,83,5,0,176
+Emanuel,Summerton,Proposed Constitutional Amendment 1,,,Yes,235,66,13,0,156
+Emanuel,Swainsboro,Proposed Constitutional Amendment 1,,,Yes,2842,1630,189,2,1021
+Emanuel,Twin City,Proposed Constitutional Amendment 1,,,Yes,750,276,41,1,432
+Emanuel,Adrian,Proposed Constitutional Amendment 1,,,No,48,13,4,0,31
+Emanuel,Blundale,Proposed Constitutional Amendment 1,,,No,47,14,0,1,32
+Emanuel,Canoochee,Proposed Constitutional Amendment 1,,,No,55,18,3,0,34
+Emanuel,Cross-Green,Proposed Constitutional Amendment 1,,,No,21,3,2,0,16
+Emanuel,Garfiled,Proposed Constitutional Amendment 1,,,No,28,6,1,0,21
+Emanuel,Nunez,Proposed Constitutional Amendment 1,,,No,28,8,0,0,20
+Emanuel,Oak Park,Proposed Constitutional Amendment 1,,,No,46,6,0,0,40
+Emanuel,Stillmore,Proposed Constitutional Amendment 1,,,No,41,6,1,0,34
+Emanuel,Summerton,Proposed Constitutional Amendment 1,,,No,41,9,1,0,31
+Emanuel,Swainsboro,Proposed Constitutional Amendment 1,,,No,458,267,23,1,167
+Emanuel,Twin City,Proposed Constitutional Amendment 1,,,No,113,40,5,0,68
+Emanuel,Adrian,Proposed Constitutional Amendment 2,,,Yes,371,120,19,1,231
+Emanuel,Blundale,Proposed Constitutional Amendment 2,,,Yes,436,158,7,1,270
+Emanuel,Canoochee,Proposed Constitutional Amendment 2,,,Yes,362,132,11,0,219
+Emanuel,Cross-Green,Proposed Constitutional Amendment 2,,,Yes,140,21,7,0,112
+Emanuel,Garfiled,Proposed Constitutional Amendment 2,,,Yes,283,64,10,0,209
+Emanuel,Nunez,Proposed Constitutional Amendment 2,,,Yes,195,65,6,0,124
+Emanuel,Oak Park,Proposed Constitutional Amendment 2,,,Yes,332,72,8,0,252
+Emanuel,Stillmore,Proposed Constitutional Amendment 2,,,Yes,271,81,6,0,184
+Emanuel,Summerton,Proposed Constitutional Amendment 2,,,Yes,246,67,14,0,165
+Emanuel,Swainsboro,Proposed Constitutional Amendment 2,,,Yes,2988,1714,192,3,1079
+Emanuel,Twin City,Proposed Constitutional Amendment 2,,,Yes,787,274,42,1,470
+Emanuel,Adrian,Proposed Constitutional Amendment 2,,,No,39,12,0,0,27
+Emanuel,Blundale,Proposed Constitutional Amendment 2,,,No,58,21,0,0,37
+Emanuel,Canoochee,Proposed Constitutional Amendment 2,,,No,47,15,0,0,32
+Emanuel,Cross-Green,Proposed Constitutional Amendment 2,,,No,9,3,0,0,6
+Emanuel,Garfiled,Proposed Constitutional Amendment 2,,,No,25,6,0,0,19
+Emanuel,Nunez,Proposed Constitutional Amendment 2,,,No,20,10,1,0,9
+Emanuel,Oak Park,Proposed Constitutional Amendment 2,,,No,42,5,0,0,37
+Emanuel,Stillmore,Proposed Constitutional Amendment 2,,,No,41,11,0,0,30
+Emanuel,Summerton,Proposed Constitutional Amendment 2,,,No,39,9,0,0,30
+Emanuel,Swainsboro,Proposed Constitutional Amendment 2,,,No,345,204,23,0,118
+Emanuel,Twin City,Proposed Constitutional Amendment 2,,,No,94,44,5,0,45
+Emanuel,Adrian,Statewide Referendum Question A,,,Yes,298,103,8,1,186
+Emanuel,Blundale,Statewide Referendum Question A,,,Yes,358,121,5,1,231
+Emanuel,Canoochee,Statewide Referendum Question A,,,Yes,285,99,10,0,176
+Emanuel,Cross-Green,Statewide Referendum Question A,,,Yes,115,18,3,0,94
+Emanuel,Garfiled,Statewide Referendum Question A,,,Yes,209,42,4,0,163
+Emanuel,Nunez,Statewide Referendum Question A,,,Yes,172,50,5,0,117
+Emanuel,Oak Park,Statewide Referendum Question A,,,Yes,247,44,2,0,201
+Emanuel,Stillmore,Statewide Referendum Question A,,,Yes,190,46,4,0,140
+Emanuel,Summerton,Statewide Referendum Question A,,,Yes,175,44,6,0,125
+Emanuel,Swainsboro,Statewide Referendum Question A,,,Yes,2077,1212,86,0,779
+Emanuel,Twin City,Statewide Referendum Question A,,,Yes,566,192,22,1,351
+Emanuel,Adrian,Statewide Referendum Question A,,,No,112,27,11,0,74
+Emanuel,Blundale,Statewide Referendum Question A,,,No,133,60,2,0,71
+Emanuel,Canoochee,Statewide Referendum Question A,,,No,117,46,2,0,69
+Emanuel,Cross-Green,Statewide Referendum Question A,,,No,33,5,5,0,23
+Emanuel,Garfiled,Statewide Referendum Question A,,,No,97,27,6,0,64
+Emanuel,Nunez,Statewide Referendum Question A,,,No,46,26,2,0,18
+Emanuel,Oak Park,Statewide Referendum Question A,,,No,126,31,6,0,89
+Emanuel,Stillmore,Statewide Referendum Question A,,,No,113,41,2,0,70
+Emanuel,Summerton,Statewide Referendum Question A,,,No,105,31,8,0,66
+Emanuel,Swainsboro,Statewide Referendum Question A,,,No,1182,671,117,2,392
+Emanuel,Twin City,Statewide Referendum Question A,,,No,290,121,23,0,146
+Emanuel,Adrian,Statewide Referendum Question B,,,Yes,345,107,18,1,219
+Emanuel,Blundale,Statewide Referendum Question B,,,Yes,413,151,7,0,255
+Emanuel,Canoochee,Statewide Referendum Question B,,,Yes,336,116,8,0,212
+Emanuel,Cross-Green,Statewide Referendum Question B,,,Yes,123,18,4,0,101
+Emanuel,Garfiled,Statewide Referendum Question B,,,Yes,255,53,9,0,193
+Emanuel,Nunez,Statewide Referendum Question B,,,Yes,178,54,6,0,118
+Emanuel,Oak Park,Statewide Referendum Question B,,,Yes,298,60,5,0,233
+Emanuel,Stillmore,Statewide Referendum Question B,,,Yes,241,65,5,0,171
+Emanuel,Summerton,Statewide Referendum Question B,,,Yes,214,59,4,0,151
+Emanuel,Swainsboro,Statewide Referendum Question B,,,Yes,2400,1390,109,2,899
+Emanuel,Twin City,Statewide Referendum Question B,,,Yes,656,215,30,1,410
+Emanuel,Adrian,Statewide Referendum Question B,,,No,62,21,1,0,40
+Emanuel,Blundale,Statewide Referendum Question B,,,No,77,29,0,1,47
+Emanuel,Canoochee,Statewide Referendum Question B,,,No,67,30,2,0,35
+Emanuel,Cross-Green,Statewide Referendum Question B,,,No,24,4,4,0,16
+Emanuel,Garfiled,Statewide Referendum Question B,,,No,53,17,1,0,35
+Emanuel,Nunez,Statewide Referendum Question B,,,No,38,22,1,0,15
+Emanuel,Oak Park,Statewide Referendum Question B,,,No,74,16,3,0,55
+Emanuel,Stillmore,Statewide Referendum Question B,,,No,65,25,1,0,39
+Emanuel,Summerton,Statewide Referendum Question B,,,No,64,18,9,0,37
+Emanuel,Swainsboro,Statewide Referendum Question B,,,No,869,504,92,0,273
+Emanuel,Twin City,Statewide Referendum Question B,,,No,203,98,14,0,91
+Emanuel,Adrian,Sales and Use Tax,,,Yes,257,81,11,1,164
+Emanuel,Blundale,Sales and Use Tax,,,Yes,311,120,6,1,184
+Emanuel,Canoochee,Sales and Use Tax,,,Yes,265,94,11,0,160
+Emanuel,Cross-Green,Sales and Use Tax,,,Yes,110,17,4,0,89
+Emanuel,Garfiled,Sales and Use Tax,,,Yes,200,46,8,0,146
+Emanuel,Nunez,Sales and Use Tax,,,Yes,143,44,5,0,94
+Emanuel,Oak Park,Sales and Use Tax,,,Yes,223,48,6,0,169
+Emanuel,Stillmore,Sales and Use Tax,,,Yes,200,61,5,0,134
+Emanuel,Summerton,Sales and Use Tax,,,Yes,193,52,13,0,128
+Emanuel,Swainsboro,Sales and Use Tax,,,Yes,2221,1298,128,1,794
+Emanuel,Twin City,Sales and Use Tax,,,Yes,635,222,36,1,376
+Emanuel,Adrian,Sales and Use Tax,,,No,154,48,7,0,99
+Emanuel,Blundale,Sales and Use Tax,,,No,177,61,0,0,116
+Emanuel,Canoochee,Sales and Use Tax,,,No,143,51,1,0,91
+Emanuel,Cross-Green,Sales and Use Tax,,,No,37,4,3,0,30
+Emanuel,Garfiled,Sales and Use Tax,,,No,107,24,2,0,81
+Emanuel,Nunez,Sales and Use Tax,,,No,74,33,2,0,39
+Emanuel,Oak Park,Sales and Use Tax,,,No,156,30,2,0,124
+Emanuel,Stillmore,Sales and Use Tax,,,No,108,30,1,0,77
+Emanuel,Summerton,Sales and Use Tax,,,No,89,23,1,0,65
+Emanuel,Swainsboro,Sales and Use Tax,,,No,1124,636,82,1,405
+Emanuel,Twin City,Sales and Use Tax,,,No,247,91,14,0,142

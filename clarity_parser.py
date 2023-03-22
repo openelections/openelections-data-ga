@@ -56,7 +56,7 @@ def download_county_files(url, filename):
     subs = j.get_subjurisdictions()
     for sub in subs:
         try:
-            r = requests.get(sub.report_url('xml'), stream=True)
+            r = requests.get(sub.report_url('xml'), stream=True, headers={"User-Agent": "Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefoxversion"})
             z = zipfile.ZipFile(BytesIO(r.content))
             z.extractall()
             precinct_results(sub.name.replace(' ','_').lower(),filename)
@@ -103,10 +103,10 @@ def precinct_results(county_name, filename):
             results.append({ 'county': county, 'precinct': precinct, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
     vote_types = list(set(vote_types))
-    if 'overVotes' in vote_types:
-        vote_types.remove('overVotes')
-    if 'underVotes' in vote_types:
-        vote_types.remove('underVotes')
+    if 'Overvotes' in vote_types:
+        vote_types.remove('Overvotes')
+    if 'Undervotes' in vote_types:
+        vote_types.remove('Undervotes')
     with open(f, "wt") as csvfile:
         w = csv.writer(csvfile)
         headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] + [x.replace(' ','_').lower() for x in vote_types]

@@ -1,0 +1,146 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Turner,Ashburn,U.S. Senate,,Rep,Herschel Junior Walker,389,257,10,0,122
+Turner,Sycamore,U.S. Senate,,Rep,Herschel Junior Walker,935,631,15,2,287
+Turner,Rebecca,U.S. Senate,,Rep,Herschel Junior Walker,568,343,5,1,219
+Turner,Ashburn,U.S. Senate,,Dem,Raphael Warnock ,893,564,52,1,276
+Turner,Sycamore,U.S. Senate,,Dem,Raphael Warnock ,192,125,4,0,63
+Turner,Rebecca,U.S. Senate,,Dem,Raphael Warnock ,67,38,4,0,25
+Turner,Ashburn,U.S. Senate,,L,Chase Oliver,15,9,1,0,5
+Turner,Sycamore,U.S. Senate,,L,Chase Oliver,16,14,1,0,1
+Turner,Rebecca,U.S. Senate,,L,Chase Oliver,11,4,0,0,7
+Turner,Ashburn,Governor,,Rep,Brian Kemp ,430,283,12,0,135
+Turner,Sycamore,Governor,,Rep,Brian Kemp ,972,665,16,1,290
+Turner,Rebecca,Governor,,Rep,Brian Kemp ,592,356,5,1,230
+Turner,Ashburn,Governor,,Dem,Stacey Abrams,865,548,50,1,266
+Turner,Sycamore,Governor,,Dem,Stacey Abrams,168,105,4,1,58
+Turner,Rebecca,Governor,,Dem,Stacey Abrams,50,27,4,0,19
+Turner,Ashburn,Governor,,L,Shane Hazel,11,7,1,0,3
+Turner,Sycamore,Governor,,L,Shane Hazel,7,3,0,0,4
+Turner,Rebecca,Governor,,L,Shane Hazel,4,2,0,0,2
+Turner,Ashburn,Lieutenant Governor,,Rep,Burt Jones,416,274,12,0,130
+Turner,Sycamore,Lieutenant Governor,,Rep,Burt Jones,963,655,16,2,290
+Turner,Rebecca,Lieutenant Governor,,Rep,Burt Jones,575,351,5,1,218
+Turner,Ashburn,Lieutenant Governor,,Dem,Charlie Bailey,793,498,50,1,244
+Turner,Sycamore,Lieutenant Governor,,Dem,Charlie Bailey,165,106,4,0,55
+Turner,Rebecca,Lieutenant Governor,,Dem,Charlie Bailey,59,29,3,0,27
+Turner,Ashburn,Lieutenant Governor,,L,Ryan Graham,32,18,1,0,13
+Turner,Sycamore,Lieutenant Governor,,L,Ryan Graham,12,8,0,0,4
+Turner,Rebecca,Lieutenant Governor,,L,Ryan Graham,9,4,1,0,4
+Turner,Ashburn,Secretary of State,,Rep,Brad Raffensperger ,437,292,14,0,131
+Turner,Sycamore,Secretary of State,,Rep,Brad Raffensperger ,956,653,16,1,286
+Turner,Rebecca,Secretary of State,,Rep,Brad Raffensperger ,554,330,5,1,218
+Turner,Ashburn,Secretary of State,,Dem,Bee Nguyen,772,476,47,1,248
+Turner,Sycamore,Secretary of State,,Dem,Bee Nguyen,149,93,4,0,52
+Turner,Rebecca,Secretary of State,,Dem,Bee Nguyen,57,29,4,0,24
+Turner,Ashburn,Secretary of State,,L,Ted Metz,39,27,1,0,11
+Turner,Sycamore,Secretary of State,,L,Ted Metz,30,18,0,1,11
+Turner,Rebecca,Secretary of State,,L,Ted Metz,25,19,0,0,6
+Turner,Ashburn,Attorney General,,Rep,Chris Carr ,419,275,13,0,131
+Turner,Sycamore,Attorney General,,Rep,Chris Carr ,958,654,16,1,287
+Turner,Rebecca,Attorney General,,Rep,Chris Carr ,575,347,5,1,222
+Turner,Ashburn,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",808,508,49,1,250
+Turner,Sycamore,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",175,111,4,1,59
+Turner,Rebecca,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",61,31,4,0,26
+Turner,Ashburn,Attorney General,,L,Martin Cowen,19,10,1,0,8
+Turner,Sycamore,Attorney General,,L,Martin Cowen,8,3,0,0,5
+Turner,Rebecca,Attorney General,,L,Martin Cowen,6,4,0,0,2
+Turner,Ashburn,Commissioner of Agriculture,,Rep,Tyler Harper,433,285,13,0,135
+Turner,Sycamore,Commissioner of Agriculture,,Rep,Tyler Harper,973,668,16,1,288
+Turner,Rebecca,Commissioner of Agriculture,,Rep,Tyler Harper,581,352,5,1,223
+Turner,Ashburn,Commissioner of Agriculture,,Dem,Nakita Hemingway,791,498,48,1,244
+Turner,Sycamore,Commissioner of Agriculture,,Dem,Nakita Hemingway,156,96,4,0,56
+Turner,Rebecca,Commissioner of Agriculture,,Dem,Nakita Hemingway,53,26,4,0,23
+Turner,Ashburn,Commissioner of Agriculture,,L,David Raudabaugh,26,13,2,0,11
+Turner,Sycamore,Commissioner of Agriculture,,L,David Raudabaugh,12,6,0,1,5
+Turner,Rebecca,Commissioner of Agriculture,,L,David Raudabaugh,6,3,0,0,3
+Turner,Ashburn,Commissioner of Insurance,,Rep,John King ,427,286,12,0,129
+Turner,Sycamore,Commissioner of Insurance,,Rep,John King ,972,666,16,2,288
+Turner,Rebecca,Commissioner of Insurance,,Rep,John King ,586,354,5,1,226
+Turner,Ashburn,Commissioner of Insurance,,Dem,Janice Laws Robinson,810,501,49,1,259
+Turner,Sycamore,Commissioner of Insurance,,Dem,Janice Laws Robinson,165,103,4,0,58
+Turner,Rebecca,Commissioner of Insurance,,Dem,Janice Laws Robinson,55,27,4,0,24
+Turner,Ashburn,State School Superintendent,,Rep,Richard Woods ,444,297,13,0,134
+Turner,Sycamore,State School Superintendent,,Rep,Richard Woods ,981,668,16,1,296
+Turner,Rebecca,State School Superintendent,,Rep,Richard Woods ,591,358,5,1,227
+Turner,Ashburn,State School Superintendent,,Dem,Alisha Thomas Searcy,799,493,50,1,255
+Turner,Sycamore,State School Superintendent,,Dem,Alisha Thomas Searcy,157,98,4,1,54
+Turner,Rebecca,State School Superintendent,,Dem,Alisha Thomas Searcy,48,22,4,0,22
+Turner,Ashburn,Commissioner of Labor,,Rep,Bruce Thompson,414,269,13,1,131
+Turner,Sycamore,Commissioner of Labor,,Rep,Bruce Thompson,966,660,16,1,289
+Turner,Rebecca,Commissioner of Labor,,Rep,Bruce Thompson,576,348,5,1,222
+Turner,Ashburn,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",797,502,49,0,246
+Turner,Sycamore,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",162,102,4,0,56
+Turner,Rebecca,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",55,29,3,0,23
+Turner,Ashburn,Commissioner of Labor,,L,Emily Anderson,28,20,1,0,7
+Turner,Sycamore,Commissioner of Labor,,L,Emily Anderson,12,6,0,1,5
+Turner,Rebecca,Commissioner of Labor,,L,Emily Anderson,9,4,1,0,4
+Turner,Ashburn,U.S. House,,Rep,Austin Scott ,493,325,20,0,148
+Turner,Sycamore,U.S. House,,Rep,Austin Scott ,992,678,16,2,296
+Turner,Rebecca,U.S. House,,Rep,Austin Scott ,586,354,5,1,226
+Turner,Ashburn,U.S. House,,Dem,Darrius Butler,763,478,42,1,242
+Turner,Sycamore,U.S. House,,Dem,Darrius Butler,151,93,4,0,54
+Turner,Rebecca,U.S. House,,Dem,Darrius Butler,56,29,4,0,23
+Turner,Ashburn,State Senate,,Rep,Carden H. Summers ,814,522,33,1,258
+Turner,Sycamore,State Senate,,Rep,Carden H. Summers ,1043,705,20,2,316
+Turner,Rebecca,State Senate,,Rep,Carden H. Summers ,611,365,7,1,238
+Turner,Ashburn,State House,,Rep,Clay Pirkle ,487,325,17,0,145
+Turner,Sycamore,State House,,Rep,Clay Pirkle ,990,674,17,2,297
+Turner,Rebecca,State House,,Rep,Clay Pirkle ,592,358,5,1,228
+Turner,Ashburn,State House,,Dem,Mickey Brockington,759,471,45,1,242
+Turner,Sycamore,State House,,Dem,Mickey Brockington,148,92,3,0,53
+Turner,Rebecca,State House,,Dem,Mickey Brockington,49,24,4,0,21
+Turner,Ashburn,County Commissioner,,Dem,Joe England Burgess ,272,180,14,0,78
+Turner,Sycamore,County Commissioner,,Dem,Joe England Burgess ,44,26,1,0,17
+Turner,Ashburn,County Commissioner,,Ind,Roderick Hudson,123,84,5,0,34
+Turner,Sycamore,County Commissioner,,Ind,Roderick Hudson,23,14,1,0,8
+Turner,Sycamore,County Commissioner,,Rep,Nick Denham ,640,439,12,0,189
+Turner,Ashburn,Bd of Education,,Dem,Cornelius Ball ,378,252,20,0,106
+Turner,Sycamore,Bd of Education,,Dem,Cornelius Ball ,58,34,2,0,22
+Turner,Ashburn,Bd of Education,,Rep,Sandra Blue ,289,193,8,0,88
+Turner,Sycamore,Bd of Education,,Rep,Sandra Blue ,287,186,3,0,98
+Turner,Rebecca,Bd of Education,,Rep,Sandra Blue ,85,72,1,0,12
+Turner,Ashburn,Mayor,,,Howard Jordan,383,233,17,0,133
+Turner,Ashburn,Mayor,,,Sandra J. Lumpkin ,464,337,28,0,99
+Turner,Ashburn,Mayor,,,Rhonda Walker,424,248,17,1,158
+Turner,Ashburn,Ashburn City Council,,,Johnny Burgess,460,252,13,1,194
+Turner,Ashburn,Ashburn City Council,,,James A. Burks ,196,130,8,0,58
+Turner,Ashburn,Ashburn City Council,,,Richard Chatfield,344,201,22,0,121
+Turner,Ashburn,Ashburn City Council,,,Lanier Gipson,35,20,2,0,13
+Turner,Ashburn,Ashburn City Council,,,Betty Gradic,69,37,3,0,29
+Turner,Ashburn,Ashburn City Council,,,Kenny R. Guy,287,200,11,0,76
+Turner,Ashburn,Ashburn City Council,,,Jonathan Paul Perry,392,292,13,0,87
+Turner,Ashburn,Ashburn City Council,,,Andrea Pierce ,393,262,28,0,103
+Turner,Ashburn,Ashburn City Council,,,Anthony Pierce,141,79,13,1,48
+Turner,Ashburn,Middle South Georgia Soil and Water Conservation District Supervisor,,,Ross Kendrick ,936,596,38,1,301
+Turner,Sycamore,Middle South Georgia Soil and Water Conservation District Supervisor,,,Ross Kendrick ,1056,714,18,2,322
+Turner,Rebecca,Middle South Georgia Soil and Water Conservation District Supervisor,,,Ross Kendrick ,598,357,7,1,233
+Turner,Ashburn,Constitutional Amendment #1,,,Yes,982,633,51,0,298
+Turner,Sycamore,Constitutional Amendment #1,,,Yes,972,653,19,2,298
+Turner,Rebecca,Constitutional Amendment #1,,,Yes,552,329,8,1,214
+Turner,Ashburn,Constitutional Amendment #1,,,No,195,124,10,1,60
+Turner,Sycamore,Constitutional Amendment #1,,,No,136,95,1,0,40
+Turner,Rebecca,Constitutional Amendment #1,,,No,76,49,1,0,26
+Turner,Ashburn,Constitutional Amendment #2,,,Yes,1092,707,56,1,328
+Turner,Sycamore,Constitutional Amendment #2,,,Yes,1005,678,18,2,307
+Turner,Rebecca,Constitutional Amendment #2,,,Yes,564,340,8,1,215
+Turner,Ashburn,Constitutional Amendment #2,,,No,118,78,5,0,35
+Turner,Sycamore,Constitutional Amendment #2,,,No,110,73,1,0,36
+Turner,Rebecca,Constitutional Amendment #2,,,No,68,40,1,0,27
+Turner,Ashburn,Statewide Referendum A,,,Yes,770,508,34,0,228
+Turner,Sycamore,Statewide Referendum A,,,Yes,747,489,13,2,243
+Turner,Rebecca,Statewide Referendum A,,,Yes,429,248,5,1,175
+Turner,Ashburn,Statewide Referendum A,,,No,427,266,27,1,133
+Turner,Sycamore,Statewide Referendum A,,,No,364,261,7,0,96
+Turner,Rebecca,Statewide Referendum A,,,No,191,124,4,0,63
+Turner,Ashburn,Statewide Referendum B,,,Yes,819,532,32,0,255
+Turner,Sycamore,Statewide Referendum B,,,Yes,859,573,14,2,270
+Turner,Rebecca,Statewide Referendum B,,,Yes,497,289,7,1,200
+Turner,Ashburn,Statewide Referendum B,,,No,357,223,30,1,103
+Turner,Sycamore,Statewide Referendum B,,,No,252,179,6,0,67
+Turner,Rebecca,Statewide Referendum B,,,No,122,85,2,0,35
+Turner,Ashburn,Alcohol Referendum,,,Yes,887,563,29,1,294
+Turner,Sycamore,Alcohol Referendum,,,Yes,673,416,11,2,244
+Turner,Rebecca,Alcohol Referendum,,,Yes,372,194,7,1,170
+Turner,Ashburn,Alcohol Referendum,,,No,348,231,34,0,83
+Turner,Sycamore,Alcohol Referendum,,,No,454,349,9,0,96
+Turner,Rebecca,Alcohol Referendum,,,No,260,187,2,0,71

@@ -1,0 +1,955 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Whitfield,1A,U.S. Senate,,Rep,Herschel Junior Walker,395,196,34,0,165
+Whitfield,2A,U.S. Senate,,Rep,Herschel Junior Walker,1128,602,32,1,493
+Whitfield,3A,U.S. Senate,,Rep,Herschel Junior Walker,773,363,20,0,390
+Whitfield,4A,U.S. Senate,,Rep,Herschel Junior Walker,911,464,21,1,425
+Whitfield,5A,U.S. Senate,,Rep,Herschel Junior Walker,184,48,3,0,133
+Whitfield,6A,U.S. Senate,,Rep,Herschel Junior Walker,144,63,5,0,76
+Whitfield,AN,U.S. Senate,,Rep,Herschel Junior Walker,408,143,11,0,254
+Whitfield,CA,U.S. Senate,,Rep,Herschel Junior Walker,720,187,17,1,515
+Whitfield,CO,U.S. Senate,,Rep,Herschel Junior Walker,669,148,9,2,510
+Whitfield,DG,U.S. Senate,,Rep,Herschel Junior Walker,1185,431,44,1,709
+Whitfield,ES,U.S. Senate,,Rep,Herschel Junior Walker,460,166,11,0,283
+Whitfield,FI,U.S. Senate,,Rep,Herschel Junior Walker,712,210,25,0,477
+Whitfield,GL,U.S. Senate,,Rep,Herschel Junior Walker,827,332,26,1,468
+Whitfield,LT,U.S. Senate,,Rep,Herschel Junior Walker,634,228,21,1,384
+Whitfield,MC,U.S. Senate,,Rep,Herschel Junior Walker,847,249,13,1,584
+Whitfield,NI,U.S. Senate,,Rep,Herschel Junior Walker,1102,320,18,1,763
+Whitfield,PG,U.S. Senate,,Rep,Herschel Junior Walker,1742,747,71,0,924
+Whitfield,TH,U.S. Senate,,Rep,Herschel Junior Walker,1551,532,39,2,978
+Whitfield,TI,U.S. Senate,,Rep,Herschel Junior Walker,291,54,1,1,235
+Whitfield,TR,U.S. Senate,,Rep,Herschel Junior Walker,765,250,22,0,493
+Whitfield,UT,U.S. Senate,,Rep,Herschel Junior Walker,528,128,7,0,393
+Whitfield,VA,U.S. Senate,,Rep,Herschel Junior Walker,2215,801,58,4,1352
+Whitfield,WS,U.S. Senate,,Rep,Herschel Junior Walker,1196,478,36,1,681
+Whitfield,1A,U.S. Senate,,Dem,Raphael Warnock ,426,189,40,0,197
+Whitfield,2A,U.S. Senate,,Dem,Raphael Warnock ,483,249,29,0,205
+Whitfield,3A,U.S. Senate,,Dem,Raphael Warnock ,417,213,29,0,175
+Whitfield,4A,U.S. Senate,,Dem,Raphael Warnock ,473,264,26,1,182
+Whitfield,5A,U.S. Senate,,Dem,Raphael Warnock ,400,159,23,0,218
+Whitfield,6A,U.S. Senate,,Dem,Raphael Warnock ,306,98,17,0,191
+Whitfield,AN,U.S. Senate,,Dem,Raphael Warnock ,323,155,9,0,159
+Whitfield,CA,U.S. Senate,,Dem,Raphael Warnock ,145,49,8,0,88
+Whitfield,CO,U.S. Senate,,Dem,Raphael Warnock ,135,40,14,1,80
+Whitfield,DG,U.S. Senate,,Dem,Raphael Warnock ,477,182,32,0,263
+Whitfield,ES,U.S. Senate,,Dem,Raphael Warnock ,200,80,17,0,103
+Whitfield,FI,U.S. Senate,,Dem,Raphael Warnock ,246,107,11,1,127
+Whitfield,GL,U.S. Senate,,Dem,Raphael Warnock ,334,131,24,1,178
+Whitfield,LT,U.S. Senate,,Dem,Raphael Warnock ,75,30,7,0,38
+Whitfield,MC,U.S. Senate,,Dem,Raphael Warnock ,136,66,4,0,66
+Whitfield,NI,U.S. Senate,,Dem,Raphael Warnock ,191,69,22,0,100
+Whitfield,PG,U.S. Senate,,Dem,Raphael Warnock ,575,291,38,1,245
+Whitfield,TH,U.S. Senate,,Dem,Raphael Warnock ,377,155,46,1,175
+Whitfield,TI,U.S. Senate,,Dem,Raphael Warnock ,46,14,3,0,29
+Whitfield,TR,U.S. Senate,,Dem,Raphael Warnock ,110,35,9,0,66
+Whitfield,UT,U.S. Senate,,Dem,Raphael Warnock ,85,24,4,0,57
+Whitfield,VA,U.S. Senate,,Dem,Raphael Warnock ,621,270,49,3,299
+Whitfield,WS,U.S. Senate,,Dem,Raphael Warnock ,323,180,21,0,122
+Whitfield,1A,U.S. Senate,,Lib,Chase Oliver,23,6,2,0,15
+Whitfield,2A,U.S. Senate,,Lib,Chase Oliver,32,15,2,0,15
+Whitfield,3A,U.S. Senate,,Lib,Chase Oliver,29,11,3,0,15
+Whitfield,4A,U.S. Senate,,Lib,Chase Oliver,42,19,2,0,21
+Whitfield,5A,U.S. Senate,,Lib,Chase Oliver,19,7,0,0,12
+Whitfield,6A,U.S. Senate,,Lib,Chase Oliver,8,5,0,0,3
+Whitfield,AN,U.S. Senate,,Lib,Chase Oliver,10,3,0,0,7
+Whitfield,CA,U.S. Senate,,Lib,Chase Oliver,23,5,1,0,17
+Whitfield,CO,U.S. Senate,,Lib,Chase Oliver,24,5,0,0,19
+Whitfield,DG,U.S. Senate,,Lib,Chase Oliver,36,8,2,0,26
+Whitfield,ES,U.S. Senate,,Lib,Chase Oliver,8,0,0,0,8
+Whitfield,FI,U.S. Senate,,Lib,Chase Oliver,12,3,1,0,8
+Whitfield,GL,U.S. Senate,,Lib,Chase Oliver,19,4,0,0,15
+Whitfield,LT,U.S. Senate,,Lib,Chase Oliver,9,4,0,0,5
+Whitfield,MC,U.S. Senate,,Lib,Chase Oliver,16,2,0,0,14
+Whitfield,NI,U.S. Senate,,Lib,Chase Oliver,28,11,1,0,16
+Whitfield,PG,U.S. Senate,,Lib,Chase Oliver,49,25,0,0,24
+Whitfield,TH,U.S. Senate,,Lib,Chase Oliver,49,18,4,0,27
+Whitfield,TI,U.S. Senate,,Lib,Chase Oliver,13,3,0,0,10
+Whitfield,TR,U.S. Senate,,Lib,Chase Oliver,18,6,0,0,12
+Whitfield,UT,U.S. Senate,,Lib,Chase Oliver,16,2,0,0,14
+Whitfield,VA,U.S. Senate,,Lib,Chase Oliver,74,29,1,0,44
+Whitfield,WS,U.S. Senate,,Lib,Chase Oliver,40,16,2,0,22
+Whitfield,1A,Governor,,Rep,Brian Kemp ,453,213,40,0,200
+Whitfield,2A,Governor,,Rep,Brian Kemp ,1239,661,36,1,541
+Whitfield,3A,Governor,,Rep,Brian Kemp ,893,420,31,0,442
+Whitfield,4A,Governor,,Rep,Brian Kemp ,1038,530,25,1,482
+Whitfield,5A,Governor,,Rep,Brian Kemp ,216,60,6,0,150
+Whitfield,6A,Governor,,Rep,Brian Kemp ,157,69,6,0,82
+Whitfield,AN,Governor,,Rep,Brian Kemp ,436,154,11,0,271
+Whitfield,CA,Governor,,Rep,Brian Kemp ,755,194,18,1,542
+Whitfield,CO,Governor,,Rep,Brian Kemp ,705,159,9,2,535
+Whitfield,DG,Governor,,Rep,Brian Kemp ,1310,462,50,1,797
+Whitfield,ES,Governor,,Rep,Brian Kemp ,488,173,13,0,302
+Whitfield,FI,Governor,,Rep,Brian Kemp ,749,224,28,0,497
+Whitfield,GL,Governor,,Rep,Brian Kemp ,902,363,30,1,508
+Whitfield,LT,Governor,,Rep,Brian Kemp ,660,237,23,1,399
+Whitfield,MC,Governor,,Rep,Brian Kemp ,881,261,13,1,606
+Whitfield,NI,Governor,,Rep,Brian Kemp ,1159,339,22,1,797
+Whitfield,PG,Governor,,Rep,Brian Kemp ,1883,810,84,0,989
+Whitfield,TH,Governor,,Rep,Brian Kemp ,1650,565,45,2,1038
+Whitfield,TI,Governor,,Rep,Brian Kemp ,307,56,1,1,249
+Whitfield,TR,Governor,,Rep,Brian Kemp ,806,264,22,0,520
+Whitfield,UT,Governor,,Rep,Brian Kemp ,557,135,7,0,415
+Whitfield,VA,Governor,,Rep,Brian Kemp ,2376,861,63,6,1446
+Whitfield,WS,Governor,,Rep,Brian Kemp ,1299,527,41,1,730
+Whitfield,1A,Governor,,Dem,Stacey Abrams,393,180,35,0,178
+Whitfield,2A,Governor,,Dem,Stacey Abrams,391,203,23,0,165
+Whitfield,3A,Governor,,Dem,Stacey Abrams,333,173,18,0,142
+Whitfield,4A,Governor,,Dem,Stacey Abrams,391,223,24,1,143
+Whitfield,5A,Governor,,Dem,Stacey Abrams,383,151,20,0,212
+Whitfield,6A,Governor,,Dem,Stacey Abrams,296,95,18,0,183
+Whitfield,AN,Governor,,Dem,Stacey Abrams,299,146,8,0,145
+Whitfield,CA,Governor,,Dem,Stacey Abrams,126,45,7,0,74
+Whitfield,CO,Governor,,Dem,Stacey Abrams,117,31,15,1,70
+Whitfield,DG,Governor,,Dem,Stacey Abrams,385,159,28,0,198
+Whitfield,ES,Governor,,Dem,Stacey Abrams,174,70,15,0,89
+Whitfield,FI,Governor,,Dem,Stacey Abrams,213,98,6,1,108
+Whitfield,GL,Governor,,Dem,Stacey Abrams,284,109,20,1,154
+Whitfield,LT,Governor,,Dem,Stacey Abrams,61,25,5,0,31
+Whitfield,MC,Governor,,Dem,Stacey Abrams,113,54,4,0,55
+Whitfield,NI,Governor,,Dem,Stacey Abrams,153,57,19,0,77
+Whitfield,PG,Governor,,Dem,Stacey Abrams,481,253,24,1,203
+Whitfield,TH,Governor,,Dem,Stacey Abrams,327,146,42,1,138
+Whitfield,TI,Governor,,Dem,Stacey Abrams,41,15,3,0,23
+Whitfield,TR,Governor,,Dem,Stacey Abrams,77,27,7,0,43
+Whitfield,UT,Governor,,Dem,Stacey Abrams,69,21,4,0,44
+Whitfield,VA,Governor,,Dem,Stacey Abrams,520,239,45,1,235
+Whitfield,WS,Governor,,Dem,Stacey Abrams,247,146,17,0,84
+Whitfield,1A,Governor,,Lib,Shane Hazel,6,3,1,0,2
+Whitfield,2A,Governor,,Lib,Shane Hazel,19,7,2,0,10
+Whitfield,3A,Governor,,Lib,Shane Hazel,7,1,1,0,5
+Whitfield,4A,Governor,,Lib,Shane Hazel,7,2,0,0,5
+Whitfield,5A,Governor,,Lib,Shane Hazel,11,4,0,0,7
+Whitfield,6A,Governor,,Lib,Shane Hazel,4,1,0,0,3
+Whitfield,AN,Governor,,Lib,Shane Hazel,8,2,1,0,5
+Whitfield,CA,Governor,,Lib,Shane Hazel,8,2,1,0,5
+Whitfield,CO,Governor,,Lib,Shane Hazel,11,3,0,0,8
+Whitfield,DG,Governor,,Lib,Shane Hazel,11,2,0,0,9
+Whitfield,ES,Governor,,Lib,Shane Hazel,6,2,0,0,4
+Whitfield,FI,Governor,,Lib,Shane Hazel,10,1,1,0,8
+Whitfield,GL,Governor,,Lib,Shane Hazel,5,0,0,0,5
+Whitfield,LT,Governor,,Lib,Shane Hazel,1,0,0,0,1
+Whitfield,MC,Governor,,Lib,Shane Hazel,6,1,0,0,5
+Whitfield,NI,Governor,,Lib,Shane Hazel,13,4,0,0,9
+Whitfield,PG,Governor,,Lib,Shane Hazel,15,7,2,0,6
+Whitfield,TH,Governor,,Lib,Shane Hazel,11,2,0,0,9
+Whitfield,TI,Governor,,Lib,Shane Hazel,3,0,1,0,2
+Whitfield,TR,Governor,,Lib,Shane Hazel,11,2,0,0,9
+Whitfield,UT,Governor,,Lib,Shane Hazel,8,1,0,0,7
+Whitfield,VA,Governor,,Lib,Shane Hazel,24,5,0,0,19
+Whitfield,WS,Governor,,Lib,Shane Hazel,16,3,0,0,13
+Whitfield,1A,Lieutenant Governor,,Rep,Burt Jones,425,208,35,0,182
+Whitfield,2A,Lieutenant Governor,,Rep,Burt Jones,1174,623,32,1,518
+Whitfield,3A,Lieutenant Governor,,Rep,Burt Jones,823,388,21,0,414
+Whitfield,4A,Lieutenant Governor,,Rep,Burt Jones,963,491,22,1,449
+Whitfield,5A,Lieutenant Governor,,Rep,Burt Jones,196,55,3,0,138
+Whitfield,6A,Lieutenant Governor,,Rep,Burt Jones,149,66,5,0,78
+Whitfield,AN,Lieutenant Governor,,Rep,Burt Jones,422,145,11,0,266
+Whitfield,CA,Lieutenant Governor,,Rep,Burt Jones,732,189,18,1,524
+Whitfield,CO,Lieutenant Governor,,Rep,Burt Jones,682,151,10,2,519
+Whitfield,DG,Lieutenant Governor,,Rep,Burt Jones,1232,437,47,1,747
+Whitfield,ES,Lieutenant Governor,,Rep,Burt Jones,466,165,12,0,289
+Whitfield,FI,Lieutenant Governor,,Rep,Burt Jones,709,212,24,0,473
+Whitfield,GL,Lieutenant Governor,,Rep,Burt Jones,863,351,28,1,483
+Whitfield,LT,Lieutenant Governor,,Rep,Burt Jones,645,232,21,1,391
+Whitfield,MC,Lieutenant Governor,,Rep,Burt Jones,853,249,13,0,591
+Whitfield,NI,Lieutenant Governor,,Rep,Burt Jones,1128,334,20,1,773
+Whitfield,PG,Lieutenant Governor,,Rep,Burt Jones,1802,777,77,0,948
+Whitfield,TH,Lieutenant Governor,,Rep,Burt Jones,1594,551,41,2,1000
+Whitfield,TI,Lieutenant Governor,,Rep,Burt Jones,295,57,2,1,235
+Whitfield,TR,Lieutenant Governor,,Rep,Burt Jones,783,259,22,0,502
+Whitfield,UT,Lieutenant Governor,,Rep,Burt Jones,534,129,7,0,398
+Whitfield,VA,Lieutenant Governor,,Rep,Burt Jones,2279,824,62,3,1390
+Whitfield,WS,Lieutenant Governor,,Rep,Burt Jones,1234,500,40,1,693
+Whitfield,1A,Lieutenant Governor,,Dem,Charlie Bailey,395,178,41,0,176
+Whitfield,2A,Lieutenant Governor,,Dem,Charlie Bailey,421,225,25,0,171
+Whitfield,3A,Lieutenant Governor,,Dem,Charlie Bailey,361,185,24,0,152
+Whitfield,4A,Lieutenant Governor,,Dem,Charlie Bailey,433,243,25,1,164
+Whitfield,5A,Lieutenant Governor,,Dem,Charlie Bailey,360,147,19,0,194
+Whitfield,6A,Lieutenant Governor,,Dem,Charlie Bailey,282,93,16,0,173
+Whitfield,AN,Lieutenant Governor,,Dem,Charlie Bailey,299,144,8,0,147
+Whitfield,CA,Lieutenant Governor,,Dem,Charlie Bailey,132,46,8,0,78
+Whitfield,CO,Lieutenant Governor,,Dem,Charlie Bailey,119,35,14,1,69
+Whitfield,DG,Lieutenant Governor,,Dem,Charlie Bailey,415,164,28,0,223
+Whitfield,ES,Lieutenant Governor,,Dem,Charlie Bailey,174,66,16,0,92
+Whitfield,FI,Lieutenant Governor,,Dem,Charlie Bailey,221,99,11,0,111
+Whitfield,GL,Lieutenant Governor,,Dem,Charlie Bailey,288,108,22,1,157
+Whitfield,LT,Lieutenant Governor,,Dem,Charlie Bailey,66,28,7,0,31
+Whitfield,MC,Lieutenant Governor,,Dem,Charlie Bailey,126,62,4,0,60
+Whitfield,NI,Lieutenant Governor,,Dem,Charlie Bailey,167,61,21,0,85
+Whitfield,PG,Lieutenant Governor,,Dem,Charlie Bailey,513,270,30,1,212
+Whitfield,TH,Lieutenant Governor,,Dem,Charlie Bailey,336,148,42,0,146
+Whitfield,TI,Lieutenant Governor,,Dem,Charlie Bailey,46,14,3,0,29
+Whitfield,TR,Lieutenant Governor,,Dem,Charlie Bailey,82,30,8,0,44
+Whitfield,UT,Lieutenant Governor,,Dem,Charlie Bailey,74,22,4,0,48
+Whitfield,VA,Lieutenant Governor,,Dem,Charlie Bailey,547,254,43,3,247
+Whitfield,WS,Lieutenant Governor,,Dem,Charlie Bailey,273,160,15,0,98
+Whitfield,1A,Lieutenant Governor,,Lib,Ryan Graham,17,3,0,0,14
+Whitfield,2A,Lieutenant Governor,,Lib,Ryan Graham,35,16,2,0,17
+Whitfield,3A,Lieutenant Governor,,Lib,Ryan Graham,26,8,3,0,15
+Whitfield,4A,Lieutenant Governor,,Lib,Ryan Graham,28,14,2,0,12
+Whitfield,5A,Lieutenant Governor,,Lib,Ryan Graham,27,9,1,0,17
+Whitfield,6A,Lieutenant Governor,,Lib,Ryan Graham,14,5,0,0,9
+Whitfield,AN,Lieutenant Governor,,Lib,Ryan Graham,13,6,1,0,6
+Whitfield,CA,Lieutenant Governor,,Lib,Ryan Graham,18,3,0,0,15
+Whitfield,CO,Lieutenant Governor,,Lib,Ryan Graham,17,3,0,0,14
+Whitfield,DG,Lieutenant Governor,,Lib,Ryan Graham,40,15,2,0,23
+Whitfield,ES,Lieutenant Governor,,Lib,Ryan Graham,15,6,0,0,9
+Whitfield,FI,Lieutenant Governor,,Lib,Ryan Graham,23,4,1,1,17
+Whitfield,GL,Lieutenant Governor,,Lib,Ryan Graham,17,7,0,0,10
+Whitfield,LT,Lieutenant Governor,,Lib,Ryan Graham,3,0,0,0,3
+Whitfield,MC,Lieutenant Governor,,Lib,Ryan Graham,14,4,0,1,9
+Whitfield,NI,Lieutenant Governor,,Lib,Ryan Graham,16,4,0,0,12
+Whitfield,PG,Lieutenant Governor,,Lib,Ryan Graham,45,16,1,0,28
+Whitfield,TH,Lieutenant Governor,,Lib,Ryan Graham,32,9,2,1,20
+Whitfield,TI,Lieutenant Governor,,Lib,Ryan Graham,7,0,0,0,7
+Whitfield,TR,Lieutenant Governor,,Lib,Ryan Graham,17,4,0,0,13
+Whitfield,UT,Lieutenant Governor,,Lib,Ryan Graham,17,1,0,0,16
+Whitfield,VA,Lieutenant Governor,,Lib,Ryan Graham,56,14,1,1,40
+Whitfield,WS,Lieutenant Governor,,Lib,Ryan Graham,35,11,1,0,23
+Whitfield,1A,Secretary of State,,Rep,Brad Raffensperger ,438,215,38,0,185
+Whitfield,2A,Secretary of State,,Rep,Brad Raffensperger ,1240,668,38,1,533
+Whitfield,3A,Secretary of State,,Rep,Brad Raffensperger ,879,421,30,0,428
+Whitfield,4A,Secretary of State,,Rep,Brad Raffensperger ,1024,537,24,1,462
+Whitfield,5A,Secretary of State,,Rep,Brad Raffensperger ,203,57,6,0,140
+Whitfield,6A,Secretary of State,,Rep,Brad Raffensperger ,156,71,5,0,80
+Whitfield,AN,Secretary of State,,Rep,Brad Raffensperger ,419,146,8,0,265
+Whitfield,CA,Secretary of State,,Rep,Brad Raffensperger ,727,186,19,1,521
+Whitfield,CO,Secretary of State,,Rep,Brad Raffensperger ,678,156,12,2,508
+Whitfield,DG,Secretary of State,,Rep,Brad Raffensperger ,1257,453,52,1,751
+Whitfield,ES,Secretary of State,,Rep,Brad Raffensperger ,470,172,11,0,287
+Whitfield,FI,Secretary of State,,Rep,Brad Raffensperger ,733,221,28,0,484
+Whitfield,GL,Secretary of State,,Rep,Brad Raffensperger ,879,350,28,1,500
+Whitfield,LT,Secretary of State,,Rep,Brad Raffensperger ,656,233,23,1,399
+Whitfield,MC,Secretary of State,,Rep,Brad Raffensperger ,858,258,10,1,589
+Whitfield,NI,Secretary of State,,Rep,Brad Raffensperger ,1097,327,19,1,750
+Whitfield,PG,Secretary of State,,Rep,Brad Raffensperger ,1829,800,81,0,948
+Whitfield,TH,Secretary of State,,Rep,Brad Raffensperger ,1600,554,51,2,993
+Whitfield,TI,Secretary of State,,Rep,Brad Raffensperger ,289,57,2,1,229
+Whitfield,TR,Secretary of State,,Rep,Brad Raffensperger ,784,259,21,0,504
+Whitfield,UT,Secretary of State,,Rep,Brad Raffensperger ,535,129,7,0,399
+Whitfield,VA,Secretary of State,,Rep,Brad Raffensperger ,2291,834,70,4,1383
+Whitfield,WS,Secretary of State,,Rep,Brad Raffensperger ,1259,523,41,1,694
+Whitfield,1A,Secretary of State,,Dem,Bee Nguyen,372,162,36,0,174
+Whitfield,2A,Secretary of State,,Dem,Bee Nguyen,342,174,19,0,149
+Whitfield,3A,Secretary of State,,Dem,Bee Nguyen,301,147,16,0,138
+Whitfield,4A,Secretary of State,,Dem,Bee Nguyen,354,191,24,1,138
+Whitfield,5A,Secretary of State,,Dem,Bee Nguyen,358,145,19,0,194
+Whitfield,6A,Secretary of State,,Dem,Bee Nguyen,280,89,17,0,174
+Whitfield,AN,Secretary of State,,Dem,Bee Nguyen,294,145,9,0,140
+Whitfield,CA,Secretary of State,,Dem,Bee Nguyen,121,41,7,0,73
+Whitfield,CO,Secretary of State,,Dem,Bee Nguyen,108,29,11,1,67
+Whitfield,DG,Secretary of State,,Dem,Bee Nguyen,384,152,24,0,208
+Whitfield,ES,Secretary of State,,Dem,Bee Nguyen,167,58,16,0,93
+Whitfield,FI,Secretary of State,,Dem,Bee Nguyen,195,88,9,0,98
+Whitfield,GL,Secretary of State,,Dem,Bee Nguyen,260,97,21,1,141
+Whitfield,LT,Secretary of State,,Dem,Bee Nguyen,53,21,5,0,27
+Whitfield,MC,Secretary of State,,Dem,Bee Nguyen,99,47,4,0,48
+Whitfield,NI,Secretary of State,,Dem,Bee Nguyen,150,55,19,0,76
+Whitfield,PG,Secretary of State,,Dem,Bee Nguyen,450,227,25,1,197
+Whitfield,TH,Secretary of State,,Dem,Bee Nguyen,298,135,35,1,127
+Whitfield,TI,Secretary of State,,Dem,Bee Nguyen,41,14,3,0,24
+Whitfield,TR,Secretary of State,,Dem,Bee Nguyen,69,25,8,0,36
+Whitfield,UT,Secretary of State,,Dem,Bee Nguyen,64,18,4,0,42
+Whitfield,VA,Secretary of State,,Dem,Bee Nguyen,476,223,32,3,218
+Whitfield,WS,Secretary of State,,Dem,Bee Nguyen,222,131,13,0,78
+Whitfield,1A,Secretary of State,,Lib,Ted Metz,27,14,0,0,13
+Whitfield,2A,Secretary of State,,Lib,Ted Metz,51,22,3,0,26
+Whitfield,3A,Secretary of State,,Lib,Ted Metz,36,18,3,0,15
+Whitfield,4A,Secretary of State,,Lib,Ted Metz,43,21,0,0,22
+Whitfield,5A,Secretary of State,,Lib,Ted Metz,27,9,1,0,17
+Whitfield,6A,Secretary of State,,Lib,Ted Metz,10,2,0,0,8
+Whitfield,AN,Secretary of State,,Lib,Ted Metz,24,8,3,0,13
+Whitfield,CA,Secretary of State,,Lib,Ted Metz,24,6,0,0,18
+Whitfield,CO,Secretary of State,,Lib,Ted Metz,30,6,1,0,23
+Whitfield,DG,Secretary of State,,Lib,Ted Metz,48,12,1,0,35
+Whitfield,ES,Secretary of State,,Lib,Ted Metz,15,7,1,0,7
+Whitfield,FI,Secretary of State,,Lib,Ted Metz,28,6,0,1,21
+Whitfield,GL,Secretary of State,,Lib,Ted Metz,30,15,1,0,14
+Whitfield,LT,Secretary of State,,Lib,Ted Metz,7,5,0,0,2
+Whitfield,MC,Secretary of State,,Lib,Ted Metz,29,8,0,0,21
+Whitfield,NI,Secretary of State,,Lib,Ted Metz,42,15,0,0,27
+Whitfield,PG,Secretary of State,,Lib,Ted Metz,67,32,2,0,33
+Whitfield,TH,Secretary of State,,Lib,Ted Metz,66,19,0,0,47
+Whitfield,TI,Secretary of State,,Lib,Ted Metz,18,0,0,0,18
+Whitfield,TR,Secretary of State,,Lib,Ted Metz,26,7,0,0,19
+Whitfield,UT,Secretary of State,,Lib,Ted Metz,24,4,0,0,20
+Whitfield,VA,Secretary of State,,Lib,Ted Metz,104,33,2,0,69
+Whitfield,WS,Secretary of State,,Lib,Ted Metz,56,15,3,0,38
+Whitfield,1A,Attorney General,,Rep,Chris Carr ,429,208,35,0,186
+Whitfield,2A,Attorney General,,Rep,Chris Carr ,1196,634,36,1,525
+Whitfield,3A,Attorney General,,Rep,Chris Carr ,839,396,19,0,424
+Whitfield,4A,Attorney General,,Rep,Chris Carr ,984,512,22,1,449
+Whitfield,5A,Attorney General,,Rep,Chris Carr ,199,58,3,0,138
+Whitfield,6A,Attorney General,,Rep,Chris Carr ,156,66,5,0,85
+Whitfield,AN,Attorney General,,Rep,Chris Carr ,425,148,11,0,266
+Whitfield,CA,Attorney General,,Rep,Chris Carr ,733,188,18,1,526
+Whitfield,CO,Attorney General,,Rep,Chris Carr ,678,150,9,2,517
+Whitfield,DG,Attorney General,,Rep,Chris Carr ,1250,447,45,1,757
+Whitfield,ES,Attorney General,,Rep,Chris Carr ,470,170,10,0,290
+Whitfield,FI,Attorney General,,Rep,Chris Carr ,716,214,24,1,477
+Whitfield,GL,Attorney General,,Rep,Chris Carr ,875,352,29,1,493
+Whitfield,LT,Attorney General,,Rep,Chris Carr ,650,232,21,1,396
+Whitfield,MC,Attorney General,,Rep,Chris Carr ,865,251,11,1,602
+Whitfield,NI,Attorney General,,Rep,Chris Carr ,1120,328,19,1,772
+Whitfield,PG,Attorney General,,Rep,Chris Carr ,1808,781,76,0,951
+Whitfield,TH,Attorney General,,Rep,Chris Carr ,1591,553,39,2,997
+Whitfield,TI,Attorney General,,Rep,Chris Carr ,302,58,1,1,242
+Whitfield,TR,Attorney General,,Rep,Chris Carr ,779,259,22,0,498
+Whitfield,UT,Attorney General,,Rep,Chris Carr ,545,133,7,0,405
+Whitfield,VA,Attorney General,,Rep,Chris Carr ,2299,838,63,4,1394
+Whitfield,WS,Attorney General,,Rep,Chris Carr ,1250,513,37,1,699
+Whitfield,1A,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",383,170,41,0,172
+Whitfield,2A,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",407,215,22,0,170
+Whitfield,3A,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",354,179,24,0,151
+Whitfield,4A,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",421,232,24,1,164
+Whitfield,5A,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",377,153,22,0,202
+Whitfield,6A,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",285,94,17,0,174
+Whitfield,AN,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",293,138,8,0,147
+Whitfield,CA,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",140,45,8,0,87
+Whitfield,CO,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",128,37,15,1,75
+Whitfield,DG,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",416,163,29,0,224
+Whitfield,ES,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",178,68,18,0,92
+Whitfield,FI,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",235,105,13,0,117
+Whitfield,GL,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",294,115,21,1,157
+Whitfield,LT,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",65,27,7,0,31
+Whitfield,MC,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",118,58,6,0,54
+Whitfield,NI,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",170,62,22,0,86
+Whitfield,PG,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",514,263,31,1,219
+Whitfield,TH,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",335,146,43,1,145
+Whitfield,TI,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",44,14,4,0,26
+Whitfield,TR,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",93,32,8,0,53
+Whitfield,UT,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",71,19,4,0,48
+Whitfield,VA,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",547,247,43,3,254
+Whitfield,WS,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",271,153,20,0,98
+Whitfield,1A,Attorney General,,Lib,Martin Cowen,23,11,0,0,12
+Whitfield,2A,Attorney General,,Lib,Martin Cowen,28,14,2,0,12
+Whitfield,3A,Attorney General,,Lib,Martin Cowen,23,11,2,0,10
+Whitfield,4A,Attorney General,,Lib,Martin Cowen,19,8,2,0,9
+Whitfield,5A,Attorney General,,Lib,Martin Cowen,17,4,0,0,13
+Whitfield,6A,Attorney General,,Lib,Martin Cowen,5,1,0,0,4
+Whitfield,AN,Attorney General,,Lib,Martin Cowen,11,6,1,0,4
+Whitfield,CA,Attorney General,,Lib,Martin Cowen,6,1,0,0,5
+Whitfield,CO,Attorney General,,Lib,Martin Cowen,17,3,0,0,14
+Whitfield,DG,Attorney General,,Lib,Martin Cowen,24,7,2,0,15
+Whitfield,ES,Attorney General,,Lib,Martin Cowen,10,3,0,0,7
+Whitfield,FI,Attorney General,,Lib,Martin Cowen,11,2,0,0,9
+Whitfield,GL,Attorney General,,Lib,Martin Cowen,10,3,0,0,7
+Whitfield,LT,Attorney General,,Lib,Martin Cowen,1,0,0,0,1
+Whitfield,MC,Attorney General,,Lib,Martin Cowen,10,3,0,0,7
+Whitfield,NI,Attorney General,,Lib,Martin Cowen,16,5,0,0,11
+Whitfield,PG,Attorney General,,Lib,Martin Cowen,38,16,1,0,21
+Whitfield,TH,Attorney General,,Lib,Martin Cowen,32,8,2,0,22
+Whitfield,TI,Attorney General,,Lib,Martin Cowen,5,0,0,0,5
+Whitfield,TR,Attorney General,,Lib,Martin Cowen,11,1,0,0,10
+Whitfield,UT,Attorney General,,Lib,Martin Cowen,9,2,0,0,7
+Whitfield,VA,Attorney General,,Lib,Martin Cowen,43,9,1,0,33
+Whitfield,WS,Attorney General,,Lib,Martin Cowen,23,5,0,0,18
+Whitfield,1A,Commissioner Of Agriculture,,Rep,Tyler Harper,428,209,32,0,187
+Whitfield,2A,Commissioner Of Agriculture,,Rep,Tyler Harper,1204,640,33,1,530
+Whitfield,3A,Commissioner Of Agriculture,,Rep,Tyler Harper,855,403,26,0,426
+Whitfield,4A,Commissioner Of Agriculture,,Rep,Tyler Harper,994,512,25,1,456
+Whitfield,5A,Commissioner Of Agriculture,,Rep,Tyler Harper,201,59,3,0,139
+Whitfield,6A,Commissioner Of Agriculture,,Rep,Tyler Harper,155,67,6,0,82
+Whitfield,AN,Commissioner Of Agriculture,,Rep,Tyler Harper,430,147,12,0,271
+Whitfield,CA,Commissioner Of Agriculture,,Rep,Tyler Harper,724,188,18,1,517
+Whitfield,CO,Commissioner Of Agriculture,,Rep,Tyler Harper,681,151,9,2,519
+Whitfield,DG,Commissioner Of Agriculture,,Rep,Tyler Harper,1268,457,46,1,764
+Whitfield,ES,Commissioner Of Agriculture,,Rep,Tyler Harper,486,176,12,0,298
+Whitfield,FI,Commissioner Of Agriculture,,Rep,Tyler Harper,728,219,25,1,483
+Whitfield,GL,Commissioner Of Agriculture,,Rep,Tyler Harper,884,352,30,1,501
+Whitfield,LT,Commissioner Of Agriculture,,Rep,Tyler Harper,648,230,21,1,396
+Whitfield,MC,Commissioner Of Agriculture,,Rep,Tyler Harper,863,250,12,0,601
+Whitfield,NI,Commissioner Of Agriculture,,Rep,Tyler Harper,1128,332,20,1,775
+Whitfield,PG,Commissioner Of Agriculture,,Rep,Tyler Harper,1831,784,79,0,968
+Whitfield,TH,Commissioner Of Agriculture,,Rep,Tyler Harper,1601,553,40,2,1006
+Whitfield,TI,Commissioner Of Agriculture,,Rep,Tyler Harper,302,59,1,1,241
+Whitfield,TR,Commissioner Of Agriculture,,Rep,Tyler Harper,791,262,22,0,507
+Whitfield,UT,Commissioner Of Agriculture,,Rep,Tyler Harper,541,131,7,0,403
+Whitfield,VA,Commissioner Of Agriculture,,Rep,Tyler Harper,2310,839,62,4,1405
+Whitfield,WS,Commissioner Of Agriculture,,Rep,Tyler Harper,1260,510,40,1,709
+Whitfield,1A,Commissioner Of Agriculture,,Dem,Nakita Hemingway,379,165,41,0,173
+Whitfield,2A,Commissioner Of Agriculture,,Dem,Nakita Hemingway,386,202,26,0,158
+Whitfield,3A,Commissioner Of Agriculture,,Dem,Nakita Hemingway,333,172,19,0,142
+Whitfield,4A,Commissioner Of Agriculture,,Dem,Nakita Hemingway,397,225,22,1,149
+Whitfield,5A,Commissioner Of Agriculture,,Dem,Nakita Hemingway,363,146,18,0,199
+Whitfield,6A,Commissioner Of Agriculture,,Dem,Nakita Hemingway,288,93,15,0,180
+Whitfield,AN,Commissioner Of Agriculture,,Dem,Nakita Hemingway,287,138,8,0,141
+Whitfield,CA,Commissioner Of Agriculture,,Dem,Nakita Hemingway,136,44,8,0,84
+Whitfield,CO,Commissioner Of Agriculture,,Dem,Nakita Hemingway,116,32,15,1,68
+Whitfield,DG,Commissioner Of Agriculture,,Dem,Nakita Hemingway,383,148,27,0,208
+Whitfield,ES,Commissioner Of Agriculture,,Dem,Nakita Hemingway,159,60,16,0,83
+Whitfield,FI,Commissioner Of Agriculture,,Dem,Nakita Hemingway,213,98,11,0,104
+Whitfield,GL,Commissioner Of Agriculture,,Dem,Nakita Hemingway,274,110,19,1,144
+Whitfield,LT,Commissioner Of Agriculture,,Dem,Nakita Hemingway,63,27,7,0,29
+Whitfield,MC,Commissioner Of Agriculture,,Dem,Nakita Hemingway,113,55,5,0,53
+Whitfield,NI,Commissioner Of Agriculture,,Dem,Nakita Hemingway,160,60,21,0,79
+Whitfield,PG,Commissioner Of Agriculture,,Dem,Nakita Hemingway,482,256,26,1,199
+Whitfield,TH,Commissioner Of Agriculture,,Dem,Nakita Hemingway,321,143,41,1,136
+Whitfield,TI,Commissioner Of Agriculture,,Dem,Nakita Hemingway,38,13,2,0,23
+Whitfield,TR,Commissioner Of Agriculture,,Dem,Nakita Hemingway,75,26,8,0,41
+Whitfield,UT,Commissioner Of Agriculture,,Dem,Nakita Hemingway,66,19,4,0,43
+Whitfield,VA,Commissioner Of Agriculture,,Dem,Nakita Hemingway,508,229,40,3,236
+Whitfield,WS,Commissioner Of Agriculture,,Dem,Nakita Hemingway,253,148,17,0,88
+Whitfield,1A,Commissioner Of Agriculture,,Lib,David Raudabaugh,19,7,0,0,12
+Whitfield,2A,Commissioner Of Agriculture,,Lib,David Raudabaugh,30,14,1,0,15
+Whitfield,3A,Commissioner Of Agriculture,,Lib,David Raudabaugh,22,7,1,0,14
+Whitfield,4A,Commissioner Of Agriculture,,Lib,David Raudabaugh,28,13,2,0,13
+Whitfield,5A,Commissioner Of Agriculture,,Lib,David Raudabaugh,25,8,1,0,16
+Whitfield,6A,Commissioner Of Agriculture,,Lib,David Raudabaugh,8,3,0,0,5
+Whitfield,AN,Commissioner Of Agriculture,,Lib,David Raudabaugh,14,7,0,0,7
+Whitfield,CA,Commissioner Of Agriculture,,Lib,David Raudabaugh,17,2,0,0,15
+Whitfield,CO,Commissioner Of Agriculture,,Lib,David Raudabaugh,24,7,0,0,17
+Whitfield,DG,Commissioner Of Agriculture,,Lib,David Raudabaugh,37,12,4,0,21
+Whitfield,ES,Commissioner Of Agriculture,,Lib,David Raudabaugh,13,4,0,0,9
+Whitfield,FI,Commissioner Of Agriculture,,Lib,David Raudabaugh,22,4,1,0,17
+Whitfield,GL,Commissioner Of Agriculture,,Lib,David Raudabaugh,16,4,0,0,12
+Whitfield,LT,Commissioner Of Agriculture,,Lib,David Raudabaugh,3,1,0,0,2
+Whitfield,MC,Commissioner Of Agriculture,,Lib,David Raudabaugh,16,6,0,1,9
+Whitfield,NI,Commissioner Of Agriculture,,Lib,David Raudabaugh,18,3,0,0,15
+Whitfield,PG,Commissioner Of Agriculture,,Lib,David Raudabaugh,44,18,3,0,23
+Whitfield,TH,Commissioner Of Agriculture,,Lib,David Raudabaugh,34,10,4,0,20
+Whitfield,TI,Commissioner Of Agriculture,,Lib,David Raudabaugh,9,0,2,0,7
+Whitfield,TR,Commissioner Of Agriculture,,Lib,David Raudabaugh,16,4,0,0,12
+Whitfield,UT,Commissioner Of Agriculture,,Lib,David Raudabaugh,17,3,0,0,14
+Whitfield,VA,Commissioner Of Agriculture,,Lib,David Raudabaugh,54,19,1,0,34
+Whitfield,WS,Commissioner Of Agriculture,,Lib,David Raudabaugh,28,11,0,0,17
+Whitfield,1A,Commissioner Of Insurance,,Rep,John King ,444,212,37,0,195
+Whitfield,2A,Commissioner Of Insurance,,Rep,John King ,1236,658,36,1,541
+Whitfield,3A,Commissioner Of Insurance,,Rep,John King ,877,415,29,0,433
+Whitfield,4A,Commissioner Of Insurance,,Rep,John King ,1020,527,24,1,468
+Whitfield,5A,Commissioner Of Insurance,,Rep,John King ,212,62,4,0,146
+Whitfield,6A,Commissioner Of Insurance,,Rep,John King ,161,69,5,0,87
+Whitfield,AN,Commissioner Of Insurance,,Rep,John King ,432,149,11,0,272
+Whitfield,CA,Commissioner Of Insurance,,Rep,John King ,732,189,18,1,524
+Whitfield,CO,Commissioner Of Insurance,,Rep,John King ,696,153,9,2,532
+Whitfield,DG,Commissioner Of Insurance,,Rep,John King ,1274,447,50,1,776
+Whitfield,ES,Commissioner Of Insurance,,Rep,John King ,483,174,13,0,296
+Whitfield,FI,Commissioner Of Insurance,,Rep,John King ,733,218,26,1,488
+Whitfield,GL,Commissioner Of Insurance,,Rep,John King ,885,357,27,1,500
+Whitfield,LT,Commissioner Of Insurance,,Rep,John King ,652,232,20,1,399
+Whitfield,MC,Commissioner Of Insurance,,Rep,John King ,868,252,12,1,603
+Whitfield,NI,Commissioner Of Insurance,,Rep,John King ,1146,339,20,1,786
+Whitfield,PG,Commissioner Of Insurance,,Rep,John King ,1851,794,79,0,978
+Whitfield,TH,Commissioner Of Insurance,,Rep,John King ,1621,558,44,2,1017
+Whitfield,TI,Commissioner Of Insurance,,Rep,John King ,305,58,2,1,244
+Whitfield,TR,Commissioner Of Insurance,,Rep,John King ,796,262,21,0,513
+Whitfield,UT,Commissioner Of Insurance,,Rep,John King ,548,132,7,0,409
+Whitfield,VA,Commissioner Of Insurance,,Rep,John King ,2350,851,64,4,1431
+Whitfield,WS,Commissioner Of Insurance,,Rep,John King ,1274,521,38,1,714
+Whitfield,1A,Commissioner Of Insurance,,Dem,Janice Laws Robinson,387,174,38,0,175
+Whitfield,2A,Commissioner Of Insurance,,Dem,Janice Laws Robinson,390,202,24,0,164
+Whitfield,3A,Commissioner Of Insurance,,Dem,Janice Laws Robinson,334,170,18,0,146
+Whitfield,4A,Commissioner Of Insurance,,Dem,Janice Laws Robinson,394,219,25,1,149
+Whitfield,5A,Commissioner Of Insurance,,Dem,Janice Laws Robinson,372,150,18,0,204
+Whitfield,6A,Commissioner Of Insurance,,Dem,Janice Laws Robinson,285,93,17,0,175
+Whitfield,AN,Commissioner Of Insurance,,Dem,Janice Laws Robinson,297,144,9,0,144
+Whitfield,CA,Commissioner Of Insurance,,Dem,Janice Laws Robinson,140,44,8,0,88
+Whitfield,CO,Commissioner Of Insurance,,Dem,Janice Laws Robinson,127,37,15,1,74
+Whitfield,DG,Commissioner Of Insurance,,Dem,Janice Laws Robinson,410,165,28,0,217
+Whitfield,ES,Commissioner Of Insurance,,Dem,Janice Laws Robinson,174,65,15,0,94
+Whitfield,FI,Commissioner Of Insurance,,Dem,Janice Laws Robinson,227,103,11,0,113
+Whitfield,GL,Commissioner Of Insurance,,Dem,Janice Laws Robinson,284,110,21,1,152
+Whitfield,LT,Commissioner Of Insurance,,Dem,Janice Laws Robinson,62,27,7,0,28
+Whitfield,MC,Commissioner Of Insurance,,Dem,Janice Laws Robinson,119,58,5,0,56
+Whitfield,NI,Commissioner Of Insurance,,Dem,Janice Laws Robinson,159,57,21,0,81
+Whitfield,PG,Commissioner Of Insurance,,Dem,Janice Laws Robinson,502,263,29,1,209
+Whitfield,TH,Commissioner Of Insurance,,Dem,Janice Laws Robinson,325,144,41,1,139
+Whitfield,TI,Commissioner Of Insurance,,Dem,Janice Laws Robinson,44,14,3,0,27
+Whitfield,TR,Commissioner Of Insurance,,Dem,Janice Laws Robinson,82,28,9,0,45
+Whitfield,UT,Commissioner Of Insurance,,Dem,Janice Laws Robinson,74,21,4,0,49
+Whitfield,VA,Commissioner Of Insurance,,Dem,Janice Laws Robinson,514,233,39,3,239
+Whitfield,WS,Commissioner Of Insurance,,Dem,Janice Laws Robinson,263,147,19,0,97
+Whitfield,1A,State School Superintendent,,Rep,Richard Woods ,441,211,38,0,192
+Whitfield,2A,State School Superintendent,,Rep,Richard Woods ,1237,661,36,1,539
+Whitfield,3A,State School Superintendent,,Rep,Richard Woods ,876,404,31,0,441
+Whitfield,4A,State School Superintendent,,Rep,Richard Woods ,1016,527,26,1,462
+Whitfield,5A,State School Superintendent,,Rep,Richard Woods ,206,61,3,0,142
+Whitfield,6A,State School Superintendent,,Rep,Richard Woods ,156,67,6,0,83
+Whitfield,AN,State School Superintendent,,Rep,Richard Woods ,429,148,11,0,270
+Whitfield,CA,State School Superintendent,,Rep,Richard Woods ,741,188,18,1,534
+Whitfield,CO,State School Superintendent,,Rep,Richard Woods ,699,155,8,2,534
+Whitfield,DG,State School Superintendent,,Rep,Richard Woods ,1276,456,48,1,771
+Whitfield,ES,State School Superintendent,,Rep,Richard Woods ,477,171,13,0,293
+Whitfield,FI,State School Superintendent,,Rep,Richard Woods ,736,221,25,1,489
+Whitfield,GL,State School Superintendent,,Rep,Richard Woods ,893,357,27,1,508
+Whitfield,LT,State School Superintendent,,Rep,Richard Woods ,656,234,21,1,400
+Whitfield,MC,State School Superintendent,,Rep,Richard Woods ,878,262,12,1,603
+Whitfield,NI,State School Superintendent,,Rep,Richard Woods ,1148,338,21,1,788
+Whitfield,PG,State School Superintendent,,Rep,Richard Woods ,1864,798,80,0,986
+Whitfield,TH,State School Superintendent,,Rep,Richard Woods ,1624,557,45,3,1019
+Whitfield,TI,State School Superintendent,,Rep,Richard Woods ,303,59,1,1,242
+Whitfield,TR,State School Superintendent,,Rep,Richard Woods ,792,257,22,0,513
+Whitfield,UT,State School Superintendent,,Rep,Richard Woods ,548,132,7,0,409
+Whitfield,VA,State School Superintendent,,Rep,Richard Woods ,2347,854,65,4,1424
+Whitfield,WS,State School Superintendent,,Rep,Richard Woods ,1297,527,40,0,730
+Whitfield,1A,State School Superintendent,,Dem,Alisha Thomas Searcy,390,173,37,0,180
+Whitfield,2A,State School Superintendent,,Dem,Alisha Thomas Searcy,387,196,22,0,169
+Whitfield,3A,State School Superintendent,,Dem,Alisha Thomas Searcy,337,178,17,0,142
+Whitfield,4A,State School Superintendent,,Dem,Alisha Thomas Searcy,402,218,23,1,160
+Whitfield,5A,State School Superintendent,,Dem,Alisha Thomas Searcy,384,152,21,0,211
+Whitfield,6A,State School Superintendent,,Dem,Alisha Thomas Searcy,291,96,14,0,181
+Whitfield,AN,State School Superintendent,,Dem,Alisha Thomas Searcy,300,144,9,0,147
+Whitfield,CA,State School Superintendent,,Dem,Alisha Thomas Searcy,138,46,8,0,84
+Whitfield,CO,State School Superintendent,,Dem,Alisha Thomas Searcy,123,36,14,1,72
+Whitfield,DG,State School Superintendent,,Dem,Alisha Thomas Searcy,410,159,28,0,223
+Whitfield,ES,State School Superintendent,,Dem,Alisha Thomas Searcy,177,66,14,0,97
+Whitfield,FI,State School Superintendent,,Dem,Alisha Thomas Searcy,224,101,11,0,112
+Whitfield,GL,State School Superintendent,,Dem,Alisha Thomas Searcy,279,110,22,1,146
+Whitfield,LT,State School Superintendent,,Dem,Alisha Thomas Searcy,62,26,7,0,29
+Whitfield,MC,State School Superintendent,,Dem,Alisha Thomas Searcy,113,51,5,0,57
+Whitfield,NI,State School Superintendent,,Dem,Alisha Thomas Searcy,158,58,20,0,80
+Whitfield,PG,State School Superintendent,,Dem,Alisha Thomas Searcy,493,258,27,1,207
+Whitfield,TH,State School Superintendent,,Dem,Alisha Thomas Searcy,332,147,40,0,145
+Whitfield,TI,State School Superintendent,,Dem,Alisha Thomas Searcy,43,13,3,0,27
+Whitfield,TR,State School Superintendent,,Dem,Alisha Thomas Searcy,86,31,8,0,47
+Whitfield,UT,State School Superintendent,,Dem,Alisha Thomas Searcy,77,21,4,0,52
+Whitfield,VA,State School Superintendent,,Dem,Alisha Thomas Searcy,527,234,39,3,251
+Whitfield,WS,State School Superintendent,,Dem,Alisha Thomas Searcy,246,142,17,1,86
+Whitfield,1A,Commissioner Of Labor,,Rep,Bruce Thompson,420,207,35,0,178
+Whitfield,2A,Commissioner Of Labor,,Rep,Bruce Thompson,1196,633,32,1,530
+Whitfield,3A,Commissioner Of Labor,,Rep,Bruce Thompson,849,398,27,0,424
+Whitfield,4A,Commissioner Of Labor,,Rep,Bruce Thompson,981,501,25,1,454
+Whitfield,5A,Commissioner Of Labor,,Rep,Bruce Thompson,199,60,3,0,136
+Whitfield,6A,Commissioner Of Labor,,Rep,Bruce Thompson,152,66,5,0,81
+Whitfield,AN,Commissioner Of Labor,,Rep,Bruce Thompson,429,145,11,0,273
+Whitfield,CA,Commissioner Of Labor,,Rep,Bruce Thompson,730,186,18,1,525
+Whitfield,CO,Commissioner Of Labor,,Rep,Bruce Thompson,684,151,9,2,522
+Whitfield,DG,Commissioner Of Labor,,Rep,Bruce Thompson,1241,444,49,1,747
+Whitfield,ES,Commissioner Of Labor,,Rep,Bruce Thompson,466,163,12,0,291
+Whitfield,FI,Commissioner Of Labor,,Rep,Bruce Thompson,728,220,25,1,482
+Whitfield,GL,Commissioner Of Labor,,Rep,Bruce Thompson,874,352,27,1,494
+Whitfield,LT,Commissioner Of Labor,,Rep,Bruce Thompson,647,230,21,1,395
+Whitfield,MC,Commissioner Of Labor,,Rep,Bruce Thompson,854,249,13,0,592
+Whitfield,NI,Commissioner Of Labor,,Rep,Bruce Thompson,1124,331,21,1,771
+Whitfield,PG,Commissioner Of Labor,,Rep,Bruce Thompson,1816,783,77,0,956
+Whitfield,TH,Commissioner Of Labor,,Rep,Bruce Thompson,1589,548,43,2,996
+Whitfield,TI,Commissioner Of Labor,,Rep,Bruce Thompson,300,59,2,1,238
+Whitfield,TR,Commissioner Of Labor,,Rep,Bruce Thompson,779,258,21,0,500
+Whitfield,UT,Commissioner Of Labor,,Rep,Bruce Thompson,542,132,7,0,403
+Whitfield,VA,Commissioner Of Labor,,Rep,Bruce Thompson,2288,832,57,4,1395
+Whitfield,WS,Commissioner Of Labor,,Rep,Bruce Thompson,1240,507,38,1,694
+Whitfield,1A,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",379,165,38,0,176
+Whitfield,2A,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",389,206,24,0,159
+Whitfield,3A,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",329,173,19,0,137
+Whitfield,4A,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",409,235,22,1,151
+Whitfield,5A,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",366,150,17,0,199
+Whitfield,6A,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",281,91,15,0,175
+Whitfield,AN,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",279,138,9,0,132
+Whitfield,CA,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",132,44,8,0,80
+Whitfield,CO,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",124,36,15,1,72
+Whitfield,DG,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",391,154,26,0,211
+Whitfield,ES,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",172,69,16,0,87
+Whitfield,FI,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",222,99,11,0,112
+Whitfield,GL,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",280,112,21,1,146
+Whitfield,LT,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",63,26,7,0,30
+Whitfield,MC,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",116,56,4,0,56
+Whitfield,NI,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",164,62,19,0,83
+Whitfield,PG,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",494,252,28,1,213
+Whitfield,TH,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",334,149,42,1,142
+Whitfield,TI,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",42,13,2,0,27
+Whitfield,TR,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",84,30,9,0,45
+Whitfield,UT,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",69,21,4,0,44
+Whitfield,VA,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",515,237,43,3,232
+Whitfield,WS,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",257,149,17,0,91
+Whitfield,1A,Commissioner Of Labor,,Lib,Emily Anderson,29,8,1,0,20
+Whitfield,2A,Commissioner Of Labor,,Lib,Emily Anderson,36,18,3,0,15
+Whitfield,3A,Commissioner Of Labor,,Lib,Emily Anderson,28,10,1,0,17
+Whitfield,4A,Commissioner Of Labor,,Lib,Emily Anderson,27,11,2,0,14
+Whitfield,5A,Commissioner Of Labor,,Lib,Emily Anderson,24,5,2,0,17
+Whitfield,6A,Commissioner Of Labor,,Lib,Emily Anderson,13,4,0,0,9
+Whitfield,AN,Commissioner Of Labor,,Lib,Emily Anderson,20,7,0,0,13
+Whitfield,CA,Commissioner Of Labor,,Lib,Emily Anderson,17,5,0,0,12
+Whitfield,CO,Commissioner Of Labor,,Lib,Emily Anderson,15,3,0,0,12
+Whitfield,DG,Commissioner Of Labor,,Lib,Emily Anderson,49,17,2,0,30
+Whitfield,ES,Commissioner Of Labor,,Lib,Emily Anderson,15,4,0,0,11
+Whitfield,FI,Commissioner Of Labor,,Lib,Emily Anderson,15,3,1,0,11
+Whitfield,GL,Commissioner Of Labor,,Lib,Emily Anderson,18,4,2,0,12
+Whitfield,LT,Commissioner Of Labor,,Lib,Emily Anderson,3,1,0,0,2
+Whitfield,MC,Commissioner Of Labor,,Lib,Emily Anderson,17,5,0,1,11
+Whitfield,NI,Commissioner Of Labor,,Lib,Emily Anderson,21,4,1,0,16
+Whitfield,PG,Commissioner Of Labor,,Lib,Emily Anderson,40,19,1,0,20
+Whitfield,TH,Commissioner Of Labor,,Lib,Emily Anderson,32,8,0,0,24
+Whitfield,TI,Commissioner Of Labor,,Lib,Emily Anderson,8,0,1,0,7
+Whitfield,TR,Commissioner Of Labor,,Lib,Emily Anderson,16,3,0,0,13
+Whitfield,UT,Commissioner Of Labor,,Lib,Emily Anderson,13,1,0,0,12
+Whitfield,VA,Commissioner Of Labor,,Lib,Emily Anderson,59,19,1,0,39
+Whitfield,WS,Commissioner Of Labor,,Lib,Emily Anderson,37,12,2,0,23
+Whitfield,1A,U.S. House,14,Rep,Marjorie Taylor Greene ,379,182,31,0,166
+Whitfield,2A,U.S. House,14,Rep,Marjorie Taylor Greene ,1014,549,30,1,434
+Whitfield,3A,U.S. House,14,Rep,Marjorie Taylor Greene ,689,328,19,0,342
+Whitfield,4A,U.S. House,14,Rep,Marjorie Taylor Greene ,800,407,14,1,378
+Whitfield,5A,U.S. House,14,Rep,Marjorie Taylor Greene ,182,53,3,0,126
+Whitfield,6A,U.S. House,14,Rep,Marjorie Taylor Greene ,145,65,6,0,74
+Whitfield,AN,U.S. House,14,Rep,Marjorie Taylor Greene ,399,141,10,0,248
+Whitfield,CA,U.S. House,14,Rep,Marjorie Taylor Greene ,715,185,18,1,511
+Whitfield,CO,U.S. House,14,Rep,Marjorie Taylor Greene ,653,141,9,2,501
+Whitfield,DG,U.S. House,14,Rep,Marjorie Taylor Greene ,1112,394,43,1,674
+Whitfield,ES,U.S. House,14,Rep,Marjorie Taylor Greene ,446,158,9,0,279
+Whitfield,FI,U.S. House,14,Rep,Marjorie Taylor Greene ,671,204,20,0,447
+Whitfield,GL,U.S. House,14,Rep,Marjorie Taylor Greene ,809,318,22,1,468
+Whitfield,LT,U.S. House,14,Rep,Marjorie Taylor Greene ,618,220,21,1,376
+Whitfield,MC,U.S. House,14,Rep,Marjorie Taylor Greene ,818,241,10,1,566
+Whitfield,NI,U.S. House,14,Rep,Marjorie Taylor Greene ,1076,317,14,1,744
+Whitfield,PG,U.S. House,14,Rep,Marjorie Taylor Greene ,1649,703,68,0,878
+Whitfield,TH,U.S. House,14,Rep,Marjorie Taylor Greene ,1526,518,42,2,964
+Whitfield,TI,U.S. House,14,Rep,Marjorie Taylor Greene ,288,53,1,1,233
+Whitfield,TR,U.S. House,14,Rep,Marjorie Taylor Greene ,742,239,21,0,482
+Whitfield,UT,U.S. House,14,Rep,Marjorie Taylor Greene ,514,121,7,0,386
+Whitfield,VA,U.S. House,14,Rep,Marjorie Taylor Greene ,2118,766,55,4,1293
+Whitfield,WS,U.S. House,14,Rep,Marjorie Taylor Greene ,1140,454,32,0,654
+Whitfield,1A,U.S. House,14,Dem,Marcus Flowers,451,201,44,0,206
+Whitfield,2A,U.S. House,14,Dem,Marcus Flowers,582,294,32,0,256
+Whitfield,3A,U.S. House,14,Dem,Marcus Flowers,503,244,32,0,227
+Whitfield,4A,U.S. House,14,Dem,Marcus Flowers,580,317,32,1,230
+Whitfield,5A,U.S. House,14,Dem,Marcus Flowers,418,162,23,0,233
+Whitfield,6A,U.S. House,14,Dem,Marcus Flowers,309,99,18,0,192
+Whitfield,AN,U.S. House,14,Dem,Marcus Flowers,333,156,10,0,167
+Whitfield,CA,U.S. House,14,Dem,Marcus Flowers,164,53,8,0,103
+Whitfield,CO,U.S. House,14,Dem,Marcus Flowers,171,50,15,1,105
+Whitfield,DG,U.S. House,14,Dem,Marcus Flowers,549,214,34,0,301
+Whitfield,ES,U.S. House,14,Dem,Marcus Flowers,211,85,19,0,107
+Whitfield,FI,U.S. House,14,Dem,Marcus Flowers,290,115,17,1,157
+Whitfield,GL,U.S. House,14,Dem,Marcus Flowers,362,144,26,1,191
+Whitfield,LT,U.S. House,14,Dem,Marcus Flowers,93,39,7,0,47
+Whitfield,MC,U.S. House,14,Dem,Marcus Flowers,167,74,7,0,86
+Whitfield,NI,U.S. House,14,Dem,Marcus Flowers,228,82,25,0,121
+Whitfield,PG,U.S. House,14,Dem,Marcus Flowers,678,343,39,1,295
+Whitfield,TH,U.S. House,14,Dem,Marcus Flowers,436,182,47,1,206
+Whitfield,TI,U.S. House,14,Dem,Marcus Flowers,63,19,3,0,41
+Whitfield,TR,U.S. House,14,Dem,Marcus Flowers,137,47,10,0,80
+Whitfield,UT,U.S. House,14,Dem,Marcus Flowers,109,32,4,0,73
+Whitfield,VA,U.S. House,14,Dem,Marcus Flowers,734,310,51,3,370
+Whitfield,WS,U.S. House,14,Dem,Marcus Flowers,388,208,25,1,154
+Whitfield,1A,State Senate,54,Rep,Chuck Payne ,628,294,51,0,283
+Whitfield,2A,State Senate,54,Rep,Chuck Payne ,1392,732,42,1,617
+Whitfield,3A,State Senate,54,Rep,Chuck Payne ,1018,479,34,0,505
+Whitfield,4A,State Senate,54,Rep,Chuck Payne ,1202,609,33,1,559
+Whitfield,5A,State Senate,54,Rep,Chuck Payne ,392,124,13,0,255
+Whitfield,6A,State Senate,54,Rep,Chuck Payne ,301,110,7,0,184
+Whitfield,AN,State Senate,54,Rep,Chuck Payne ,588,218,15,0,355
+Whitfield,CA,State Senate,54,Rep,Chuck Payne ,804,211,19,1,573
+Whitfield,CO,State Senate,54,Rep,Chuck Payne ,752,171,14,3,564
+Whitfield,DG,State Senate,54,Rep,Chuck Payne ,1471,524,59,1,887
+Whitfield,ES,State Senate,54,Rep,Chuck Payne ,570,205,19,0,346
+Whitfield,FI,State Senate,54,Rep,Chuck Payne ,838,259,28,1,550
+Whitfield,GL,State Senate,54,Rep,Chuck Payne ,1021,409,34,1,577
+Whitfield,LT,State Senate,54,Rep,Chuck Payne ,680,243,22,1,414
+Whitfield,MC,State Senate,54,Rep,Chuck Payne ,909,272,12,1,624
+Whitfield,NI,State Senate,54,Rep,Chuck Payne ,1216,363,24,1,828
+Whitfield,PG,State Senate,54,Rep,Chuck Payne ,2077,896,85,1,1095
+Whitfield,TH,State Senate,54,Rep,Chuck Payne ,1719,600,54,3,1062
+Whitfield,TI,State Senate,54,Rep,Chuck Payne ,323,65,3,1,254
+Whitfield,TR,State Senate,54,Rep,Chuck Payne ,835,273,25,0,537
+Whitfield,UT,State Senate,54,Rep,Chuck Payne ,576,138,6,0,432
+Whitfield,VA,State Senate,54,Rep,Chuck Payne ,2551,946,69,4,1532
+Whitfield,WS,State Senate,54,Rep,Chuck Payne ,1370,568,40,1,761
+Whitfield,2A,State House,2,Rep,Steve Tarvin ,1081,558,36,1,486
+Whitfield,CA,State House,2,Rep,Steve Tarvin ,805,212,19,1,573
+Whitfield,MC,State House,2,Rep,Steve Tarvin ,906,271,12,1,622
+Whitfield,PG,State House,2,Rep,Steve Tarvin ,1548,708,78,0,762
+Whitfield,TH,State House,2,Rep,Steve Tarvin ,1707,599,54,1,1053
+Whitfield,TR,State House,2,Rep,Steve Tarvin ,825,271,25,0,529
+Whitfield,WS,State House,2,Rep,Steve Tarvin ,1362,563,42,0,757
+Whitfield,1A,State House,4,Rep,Kasey Carpenter ,629,299,51,0,279
+Whitfield,2A,State House,4,Rep,Kasey Carpenter ,301,168,7,0,126
+Whitfield,3A,State House,4,Rep,Kasey Carpenter ,1022,493,33,0,496
+Whitfield,4A,State House,4,Rep,Kasey Carpenter ,1209,611,31,1,566
+Whitfield,5A,State House,4,Rep,Kasey Carpenter ,390,127,11,0,252
+Whitfield,6A,State House,4,Rep,Kasey Carpenter ,302,112,9,0,181
+Whitfield,AN,State House,4,Rep,Kasey Carpenter ,585,218,15,0,352
+Whitfield,DG,State House,4,Rep,Kasey Carpenter ,1445,512,59,1,873
+Whitfield,ES,State House,4,Rep,Kasey Carpenter ,563,196,20,0,347
+Whitfield,FI,State House,4,Rep,Kasey Carpenter ,823,263,28,1,531
+Whitfield,GL,State House,4,Rep,Kasey Carpenter ,997,389,34,0,574
+Whitfield,NI,State House,4,Rep,Kasey Carpenter ,1185,354,24,0,807
+Whitfield,TI,State House,4,Rep,Kasey Carpenter ,311,63,3,1,244
+Whitfield,CO,State House,6,Rep,Jason T. Ridley ,742,173,13,3,553
+Whitfield,LT,State House,6,Rep,Jason T. Ridley ,670,243,21,0,406
+Whitfield,PG,State House,6,Rep,Jason T. Ridley ,523,186,4,0,333
+Whitfield,UT,State House,6,Rep,Jason T. Ridley ,571,136,6,0,429
+Whitfield,VA,State House,6,Rep,Jason T. Ridley ,2532,936,67,2,1527
+Whitfield,6A,County Commissioner Dist 1,,Rep,Barry W. Robbins ,292,106,6,0,180
+Whitfield,AN,County Commissioner Dist 1,,Rep,Barry W. Robbins ,583,214,14,0,355
+Whitfield,CA,County Commissioner Dist 1,,Rep,Barry W. Robbins ,439,133,10,0,296
+Whitfield,DG,County Commissioner Dist 1,,Rep,Barry W. Robbins ,1339,476,49,1,813
+Whitfield,FI,County Commissioner Dist 1,,Rep,Barry W. Robbins ,831,258,28,1,544
+Whitfield,TI,County Commissioner Dist 1,,Rep,Barry W. Robbins ,323,64,2,1,256
+Whitfield,1A,County Commissioner Dist 3,,Rep,John Thomas ,335,155,33,0,147
+Whitfield,2A,County Commissioner Dist 3,,Rep,John Thomas ,662,367,28,0,267
+Whitfield,CO,County Commissioner Dist 3,,Rep,John Thomas ,680,161,11,2,506
+Whitfield,PG,County Commissioner Dist 3,,Rep,John Thomas ,2057,888,85,0,1084
+Whitfield,TH,County Commissioner Dist 3,,Rep,John Thomas ,382,157,14,0,211
+Whitfield,VA,County Commissioner Dist 3,,Rep,John Thomas ,2375,884,60,2,1429
+Whitfield,1A,County Board of Education At Large,,Rep,Bill Worley ,24,16,2,0,6
+Whitfield,2A,County Board of Education At Large,,Rep,Bill Worley ,242,141,12,0,89
+Whitfield,4A,County Board of Education At Large,,Rep,Bill Worley ,61,36,3,1,21
+Whitfield,5A,County Board of Education At Large,,Rep,Bill Worley ,8,3,0,0,5
+Whitfield,6A,County Board of Education At Large,,Rep,Bill Worley ,16,4,1,0,11
+Whitfield,AN,County Board of Education At Large,,Rep,Bill Worley ,512,175,10,0,327
+Whitfield,CA,County Board of Education At Large,,Rep,Bill Worley ,810,212,19,1,578
+Whitfield,CO,County Board of Education At Large,,Rep,Bill Worley ,744,170,12,3,559
+Whitfield,DG,County Board of Education At Large,,Rep,Bill Worley ,1280,450,54,1,775
+Whitfield,ES,County Board of Education At Large,,Rep,Bill Worley ,571,204,19,0,348
+Whitfield,FI,County Board of Education At Large,,Rep,Bill Worley ,835,260,28,1,546
+Whitfield,GL,County Board of Education At Large,,Rep,Bill Worley ,872,347,23,1,501
+Whitfield,LT,County Board of Education At Large,,Rep,Bill Worley ,682,244,21,1,416
+Whitfield,MC,County Board of Education At Large,,Rep,Bill Worley ,912,273,11,1,627
+Whitfield,NI,County Board of Education At Large,,Rep,Bill Worley ,1212,364,25,1,822
+Whitfield,PG,County Board of Education At Large,,Rep,Bill Worley ,1638,654,53,0,931
+Whitfield,TH,County Board of Education At Large,,Rep,Bill Worley ,1725,605,52,3,1065
+Whitfield,TI,County Board of Education At Large,,Rep,Bill Worley ,323,64,3,1,255
+Whitfield,TR,County Board of Education At Large,,Rep,Bill Worley ,841,280,24,0,537
+Whitfield,UT,County Board of Education At Large,,Rep,Bill Worley ,577,137,6,0,434
+Whitfield,VA,County Board of Education At Large,,Rep,Bill Worley ,2559,943,70,5,1541
+Whitfield,WS,County Board of Education At Large,,Rep,Bill Worley ,1372,568,41,1,762
+Whitfield,1A,County Board of Education Dist 2,,Rep,Jamie Johnson ,23,15,2,0,6
+Whitfield,2A,County Board of Education Dist 2,,Rep,Jamie Johnson ,240,138,12,0,90
+Whitfield,4A,County Board of Education Dist 2,,Rep,Jamie Johnson ,60,36,3,0,21
+Whitfield,5A,County Board of Education Dist 2,,Rep,Jamie Johnson ,8,3,0,0,5
+Whitfield,6A,County Board of Education Dist 2,,Rep,Jamie Johnson ,16,4,1,0,11
+Whitfield,AN,County Board of Education Dist 2,,Rep,Jamie Johnson ,510,174,9,0,327
+Whitfield,CA,County Board of Education Dist 2,,Rep,Jamie Johnson ,804,213,19,1,571
+Whitfield,CO,County Board of Education Dist 2,,Rep,Jamie Johnson ,745,171,12,3,559
+Whitfield,DG,County Board of Education Dist 2,,Rep,Jamie Johnson ,1268,444,50,1,773
+Whitfield,ES,County Board of Education Dist 2,,Rep,Jamie Johnson ,576,209,20,0,347
+Whitfield,FI,County Board of Education Dist 2,,Rep,Jamie Johnson ,835,260,27,1,547
+Whitfield,GL,County Board of Education Dist 2,,Rep,Jamie Johnson ,875,346,23,1,505
+Whitfield,LT,County Board of Education Dist 2,,Rep,Jamie Johnson ,681,243,21,1,416
+Whitfield,MC,County Board of Education Dist 2,,Rep,Jamie Johnson ,911,276,12,1,622
+Whitfield,NI,County Board of Education Dist 2,,Rep,Jamie Johnson ,1217,366,26,1,824
+Whitfield,PG,County Board of Education Dist 2,,Rep,Jamie Johnson ,1633,651,54,0,928
+Whitfield,TH,County Board of Education Dist 2,,Rep,Jamie Johnson ,1725,610,54,3,1058
+Whitfield,TI,County Board of Education Dist 2,,Rep,Jamie Johnson ,323,64,3,1,255
+Whitfield,TR,County Board of Education Dist 2,,Rep,Jamie Johnson ,835,278,22,0,535
+Whitfield,UT,County Board of Education Dist 2,,Rep,Jamie Johnson ,576,137,6,0,433
+Whitfield,VA,County Board of Education Dist 2,,Rep,Jamie Johnson ,2553,942,68,5,1538
+Whitfield,WS,County Board of Education Dist 2,,Rep,Jamie Johnson ,1372,566,41,1,764
+Whitfield,1A,County Board of Education Dist 4,,Rep,Joe Barnett,23,15,2,0,6
+Whitfield,2A,County Board of Education Dist 4,,Rep,Joe Barnett,242,141,12,0,89
+Whitfield,4A,County Board of Education Dist 4,,Rep,Joe Barnett,61,36,3,1,21
+Whitfield,5A,County Board of Education Dist 4,,Rep,Joe Barnett,8,3,0,0,5
+Whitfield,6A,County Board of Education Dist 4,,Rep,Joe Barnett,16,4,1,0,11
+Whitfield,AN,County Board of Education Dist 4,,Rep,Joe Barnett,512,172,10,0,330
+Whitfield,CA,County Board of Education Dist 4,,Rep,Joe Barnett,802,211,19,1,571
+Whitfield,CO,County Board of Education Dist 4,,Rep,Joe Barnett,745,172,13,3,557
+Whitfield,DG,County Board of Education Dist 4,,Rep,Joe Barnett,1280,453,50,1,776
+Whitfield,ES,County Board of Education Dist 4,,Rep,Joe Barnett,578,210,19,0,349
+Whitfield,FI,County Board of Education Dist 4,,Rep,Joe Barnett,838,262,28,1,547
+Whitfield,GL,County Board of Education Dist 4,,Rep,Joe Barnett,885,349,24,1,511
+Whitfield,LT,County Board of Education Dist 4,,Rep,Joe Barnett,687,246,24,1,416
+Whitfield,MC,County Board of Education Dist 4,,Rep,Joe Barnett,913,275,12,1,625
+Whitfield,NI,County Board of Education Dist 4,,Rep,Joe Barnett,1219,366,25,1,827
+Whitfield,PG,County Board of Education Dist 4,,Rep,Joe Barnett,1644,655,52,0,937
+Whitfield,TH,County Board of Education Dist 4,,Rep,Joe Barnett,1736,616,54,3,1063
+Whitfield,TI,County Board of Education Dist 4,,Rep,Joe Barnett,323,64,3,1,255
+Whitfield,TR,County Board of Education Dist 4,,Rep,Joe Barnett,834,279,24,0,531
+Whitfield,UT,County Board of Education Dist 4,,Rep,Joe Barnett,584,138,8,0,438
+Whitfield,VA,County Board of Education Dist 4,,Rep,Joe Barnett,2583,953,72,5,1553
+Whitfield,WS,County Board of Education Dist 4,,Rep,Joe Barnett,1372,564,41,1,766
+Whitfield,1A,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",608,272,52,0,284
+Whitfield,2A,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",1297,675,34,1,587
+Whitfield,3A,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",975,471,38,0,466
+Whitfield,4A,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",1139,587,31,1,520
+Whitfield,5A,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",397,134,13,0,250
+Whitfield,6A,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",314,106,14,0,194
+Whitfield,AN,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",556,212,13,0,331
+Whitfield,CA,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",740,195,20,1,524
+Whitfield,CO,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",679,159,14,2,504
+Whitfield,DG,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",1382,486,55,1,840
+Whitfield,ES,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",531,193,19,0,319
+Whitfield,FI,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",757,242,28,1,486
+Whitfield,GL,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",954,378,33,1,542
+Whitfield,LT,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",616,219,25,1,371
+Whitfield,MC,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",853,254,11,1,587
+Whitfield,NI,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",1097,325,27,1,744
+Whitfield,PG,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",1859,790,71,1,997
+Whitfield,TH,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",1632,566,56,1,1009
+Whitfield,TI,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",287,59,2,1,225
+Whitfield,TR,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",753,246,23,0,484
+Whitfield,UT,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",527,123,6,0,398
+Whitfield,VA,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",2366,877,70,5,1414
+Whitfield,WS,Limestone Valley Soil and Water,,,"William """"Trey"""" Hasty III ",1277,545,38,0,694
+Whitfield,1A,Constitutional Amendment #1,,,Yes,723,336,60,0,327
+Whitfield,2A,Constitutional Amendment #1,,,Yes,1417,738,57,1,621
+Whitfield,3A,Constitutional Amendment #1,,,Yes,1086,518,46,0,522
+Whitfield,4A,Constitutional Amendment #1,,,Yes,1253,650,41,2,560
+Whitfield,5A,Constitutional Amendment #1,,,Yes,478,182,21,0,275
+Whitfield,6A,Constitutional Amendment #1,,,Yes,366,137,18,0,211
+Whitfield,AN,Constitutional Amendment #1,,,Yes,585,247,16,0,322
+Whitfield,CA,Constitutional Amendment #1,,,Yes,757,201,25,1,530
+Whitfield,CO,Constitutional Amendment #1,,,Yes,691,169,15,2,505
+Whitfield,DG,Constitutional Amendment #1,,,Yes,1458,535,61,1,861
+Whitfield,ES,Constitutional Amendment #1,,,Yes,538,191,21,0,326
+Whitfield,FI,Constitutional Amendment #1,,,Yes,791,269,34,1,487
+Whitfield,GL,Constitutional Amendment #1,,,Yes,1016,394,48,2,572
+Whitfield,LT,Constitutional Amendment #1,,,Yes,622,234,26,1,361
+Whitfield,MC,Constitutional Amendment #1,,,Yes,857,273,13,0,571
+Whitfield,NI,Constitutional Amendment #1,,,Yes,1099,323,37,1,738
+Whitfield,PG,Constitutional Amendment #1,,,Yes,1976,883,100,1,992
+Whitfield,TH,Constitutional Amendment #1,,,Yes,1704,605,79,2,1018
+Whitfield,TI,Constitutional Amendment #1,,,Yes,292,59,4,1,228
+Whitfield,TR,Constitutional Amendment #1,,,Yes,759,250,28,0,481
+Whitfield,UT,Constitutional Amendment #1,,,Yes,518,128,7,0,383
+Whitfield,VA,Constitutional Amendment #1,,,Yes,2514,967,85,6,1456
+Whitfield,WS,Constitutional Amendment #1,,,Yes,1337,589,52,0,696
+Whitfield,1A,Constitutional Amendment #1,,,No,89,35,11,0,43
+Whitfield,2A,Constitutional Amendment #1,,,No,159,83,3,0,73
+Whitfield,3A,Constitutional Amendment #1,,,No,116,62,2,0,52
+Whitfield,4A,Constitutional Amendment #1,,,No,127,71,5,0,51
+Whitfield,5A,Constitutional Amendment #1,,,No,86,21,3,0,62
+Whitfield,6A,Constitutional Amendment #1,,,No,62,18,2,0,42
+Whitfield,AN,Constitutional Amendment #1,,,No,111,30,1,0,80
+Whitfield,CA,Constitutional Amendment #1,,,No,87,26,0,0,61
+Whitfield,CO,Constitutional Amendment #1,,,No,98,18,9,1,70
+Whitfield,DG,Constitutional Amendment #1,,,No,158,49,12,0,97
+Whitfield,ES,Constitutional Amendment #1,,,No,85,39,3,0,43
+Whitfield,FI,Constitutional Amendment #1,,,No,116,31,3,0,82
+Whitfield,GL,Constitutional Amendment #1,,,No,128,55,2,0,71
+Whitfield,LT,Constitutional Amendment #1,,,No,65,18,1,0,46
+Whitfield,MC,Constitutional Amendment #1,,,No,98,24,3,1,70
+Whitfield,NI,Constitutional Amendment #1,,,No,161,52,4,0,105
+Whitfield,PG,Constitutional Amendment #1,,,No,284,123,8,0,153
+Whitfield,TH,Constitutional Amendment #1,,,No,199,74,7,0,118
+Whitfield,TI,Constitutional Amendment #1,,,No,42,8,0,0,34
+Whitfield,TR,Constitutional Amendment #1,,,No,88,33,2,0,53
+Whitfield,UT,Constitutional Amendment #1,,,No,84,18,3,0,63
+Whitfield,VA,Constitutional Amendment #1,,,No,288,99,17,1,171
+Whitfield,WS,Constitutional Amendment #1,,,No,152,55,3,0,94
+Whitfield,1A,Constitutional Amendment #2,,,Yes,775,355,70,0,350
+Whitfield,2A,Constitutional Amendment #2,,,Yes,1475,777,56,1,641
+Whitfield,3A,Constitutional Amendment #2,,,Yes,1119,535,45,0,539
+Whitfield,4A,Constitutional Amendment #2,,,Yes,1293,671,46,2,574
+Whitfield,5A,Constitutional Amendment #2,,,Yes,532,193,22,0,317
+Whitfield,6A,Constitutional Amendment #2,,,Yes,410,143,20,0,247
+Whitfield,AN,Constitutional Amendment #2,,,Yes,639,262,16,0,361
+Whitfield,CA,Constitutional Amendment #2,,,Yes,785,214,25,1,545
+Whitfield,CO,Constitutional Amendment #2,,,Yes,737,181,19,3,534
+Whitfield,DG,Constitutional Amendment #2,,,Yes,1542,557,69,1,915
+Whitfield,ES,Constitutional Amendment #2,,,Yes,597,217,26,0,354
+Whitfield,FI,Constitutional Amendment #2,,,Yes,871,290,34,1,546
+Whitfield,GL,Constitutional Amendment #2,,,Yes,1081,426,44,2,609
+Whitfield,LT,Constitutional Amendment #2,,,Yes,646,236,22,1,387
+Whitfield,MC,Constitutional Amendment #2,,,Yes,899,295,17,1,586
+Whitfield,NI,Constitutional Amendment #2,,,Yes,1162,351,39,0,772
+Whitfield,PG,Constitutional Amendment #2,,,Yes,2108,946,97,1,1064
+Whitfield,TH,Constitutional Amendment #2,,,Yes,1785,637,75,2,1071
+Whitfield,TI,Constitutional Amendment #2,,,Yes,314,65,4,1,244
+Whitfield,TR,Constitutional Amendment #2,,,Yes,791,261,28,0,502
+Whitfield,UT,Constitutional Amendment #2,,,Yes,549,134,9,0,406
+Whitfield,VA,Constitutional Amendment #2,,,Yes,2631,998,99,7,1527
+Whitfield,WS,Constitutional Amendment #2,,,Yes,1409,616,52,0,741
+Whitfield,1A,Constitutional Amendment #2,,,No,50,24,3,0,23
+Whitfield,2A,Constitutional Amendment #2,,,No,122,64,4,0,54
+Whitfield,3A,Constitutional Amendment #2,,,No,88,44,3,0,41
+Whitfield,4A,Constitutional Amendment #2,,,No,92,54,1,0,37
+Whitfield,5A,Constitutional Amendment #2,,,No,37,12,1,0,24
+Whitfield,6A,Constitutional Amendment #2,,,No,24,13,0,0,11
+Whitfield,AN,Constitutional Amendment #2,,,No,68,19,2,0,47
+Whitfield,CA,Constitutional Amendment #2,,,No,66,18,0,0,48
+Whitfield,CO,Constitutional Amendment #2,,,No,71,12,5,0,54
+Whitfield,DG,Constitutional Amendment #2,,,No,103,39,5,0,59
+Whitfield,ES,Constitutional Amendment #2,,,No,39,14,2,0,23
+Whitfield,FI,Constitutional Amendment #2,,,No,57,18,3,0,36
+Whitfield,GL,Constitutional Amendment #2,,,No,68,28,5,0,35
+Whitfield,LT,Constitutional Amendment #2,,,No,44,16,2,0,26
+Whitfield,MC,Constitutional Amendment #2,,,No,71,16,0,0,55
+Whitfield,NI,Constitutional Amendment #2,,,No,113,32,2,1,78
+Whitfield,PG,Constitutional Amendment #2,,,No,185,78,12,0,95
+Whitfield,TH,Constitutional Amendment #2,,,No,140,56,10,0,74
+Whitfield,TI,Constitutional Amendment #2,,,No,29,3,0,0,26
+Whitfield,TR,Constitutional Amendment #2,,,No,64,26,2,0,36
+Whitfield,UT,Constitutional Amendment #2,,,No,58,17,1,0,40
+Whitfield,VA,Constitutional Amendment #2,,,No,201,78,5,0,118
+Whitfield,WS,Constitutional Amendment #2,,,No,92,35,3,0,54
+Whitfield,1A,Statewide Referendum A,,,Yes,486,221,39,0,226
+Whitfield,2A,Statewide Referendum A,,,Yes,949,492,34,1,422
+Whitfield,3A,Statewide Referendum A,,,Yes,689,312,23,0,354
+Whitfield,4A,Statewide Referendum A,,,Yes,790,394,24,1,371
+Whitfield,5A,Statewide Referendum A,,,Yes,369,136,11,0,222
+Whitfield,6A,Statewide Referendum A,,,Yes,297,113,14,0,170
+Whitfield,AN,Statewide Referendum A,,,Yes,430,163,9,0,258
+Whitfield,CA,Statewide Referendum A,,,Yes,552,142,16,1,393
+Whitfield,CO,Statewide Referendum A,,,Yes,503,131,4,1,367
+Whitfield,DG,Statewide Referendum A,,,Yes,997,354,28,1,614
+Whitfield,ES,Statewide Referendum A,,,Yes,425,150,10,0,265
+Whitfield,FI,Statewide Referendum A,,,Yes,599,196,22,1,380
+Whitfield,GL,Statewide Referendum A,,,Yes,755,287,25,2,441
+Whitfield,LT,Statewide Referendum A,,,Yes,460,162,15,0,283
+Whitfield,MC,Statewide Referendum A,,,Yes,616,184,8,1,423
+Whitfield,NI,Statewide Referendum A,,,Yes,857,254,23,0,580
+Whitfield,PG,Statewide Referendum A,,,Yes,1441,617,67,1,756
+Whitfield,TH,Statewide Referendum A,,,Yes,1157,400,37,1,719
+Whitfield,TI,Statewide Referendum A,,,Yes,196,37,1,1,157
+Whitfield,TR,Statewide Referendum A,,,Yes,574,180,13,0,381
+Whitfield,UT,Statewide Referendum A,,,Yes,362,85,4,0,273
+Whitfield,VA,Statewide Referendum A,,,Yes,1681,609,44,3,1025
+Whitfield,WS,Statewide Referendum A,,,Yes,884,366,32,0,486
+Whitfield,1A,Statewide Referendum A,,,No,315,144,31,0,140
+Whitfield,2A,Statewide Referendum A,,,No,603,318,25,0,260
+Whitfield,3A,Statewide Referendum A,,,No,470,245,23,0,202
+Whitfield,4A,Statewide Referendum A,,,No,539,291,19,1,228
+Whitfield,5A,Statewide Referendum A,,,No,176,65,8,0,103
+Whitfield,6A,Statewide Referendum A,,,No,125,39,6,0,80
+Whitfield,AN,Statewide Referendum A,,,No,264,115,7,0,142
+Whitfield,CA,Statewide Referendum A,,,No,287,82,10,0,195
+Whitfield,CO,Statewide Referendum A,,,No,290,61,17,2,210
+Whitfield,DG,Statewide Referendum A,,,No,610,229,43,0,338
+Whitfield,ES,Statewide Referendum A,,,No,190,75,13,0,102
+Whitfield,FI,Statewide Referendum A,,,No,302,102,14,0,186
+Whitfield,GL,Statewide Referendum A,,,No,368,156,23,0,189
+Whitfield,LT,Statewide Referendum A,,,No,213,81,10,1,121
+Whitfield,MC,Statewide Referendum A,,,No,328,113,8,0,207
+Whitfield,NI,Statewide Referendum A,,,No,386,120,14,1,251
+Whitfield,PG,Statewide Referendum A,,,No,789,380,34,0,375
+Whitfield,TH,Statewide Referendum A,,,No,707,260,47,1,399
+Whitfield,TI,Statewide Referendum A,,,No,136,30,3,0,103
+Whitfield,TR,Statewide Referendum A,,,No,270,103,16,0,151
+Whitfield,UT,Statewide Referendum A,,,No,232,61,5,0,166
+Whitfield,VA,Statewide Referendum A,,,No,1077,434,59,3,581
+Whitfield,WS,Statewide Referendum A,,,No,575,266,21,0,288
+Whitfield,1A,Statewide Referendum B,,,Yes,634,293,50,0,291
+Whitfield,2A,Statewide Referendum B,,,Yes,1193,633,40,1,519
+Whitfield,3A,Statewide Referendum B,,,Yes,884,417,29,0,438
+Whitfield,4A,Statewide Referendum B,,,Yes,1039,527,32,1,479
+Whitfield,5A,Statewide Referendum B,,,Yes,429,150,13,0,266
+Whitfield,6A,Statewide Referendum B,,,Yes,333,123,12,0,198
+Whitfield,AN,Statewide Referendum B,,,Yes,554,222,14,0,318
+Whitfield,CA,Statewide Referendum B,,,Yes,731,193,24,1,513
+Whitfield,CO,Statewide Referendum B,,,Yes,684,170,13,2,499
+Whitfield,DG,Statewide Referendum B,,,Yes,1284,463,40,1,780
+Whitfield,ES,Statewide Referendum B,,,Yes,534,198,19,0,317
+Whitfield,FI,Statewide Referendum B,,,Yes,765,251,27,1,486
+Whitfield,GL,Statewide Referendum B,,,Yes,926,356,36,2,532
+Whitfield,LT,Statewide Referendum B,,,Yes,585,214,17,1,353
+Whitfield,MC,Statewide Referendum B,,,Yes,813,251,11,1,550
+Whitfield,NI,Statewide Referendum B,,,Yes,1063,319,29,0,715
+Whitfield,PG,Statewide Referendum B,,,Yes,1860,822,86,1,951
+Whitfield,TH,Statewide Referendum B,,,Yes,1565,559,57,1,948
+Whitfield,TI,Statewide Referendum B,,,Yes,272,61,3,1,207
+Whitfield,TR,Statewide Referendum B,,,Yes,739,246,23,0,470
+Whitfield,UT,Statewide Referendum B,,,Yes,481,121,7,0,353
+Whitfield,VA,Statewide Referendum B,,,Yes,2270,833,68,4,1365
+Whitfield,WS,Statewide Referendum B,,,Yes,1192,515,44,0,633
+Whitfield,1A,Statewide Referendum B,,,No,177,78,20,0,79
+Whitfield,2A,Statewide Referendum B,,,No,362,182,19,0,161
+Whitfield,3A,Statewide Referendum B,,,No,282,143,16,0,123
+Whitfield,4A,Statewide Referendum B,,,No,301,166,12,1,122
+Whitfield,5A,Statewide Referendum B,,,No,116,49,8,0,59
+Whitfield,6A,Statewide Referendum B,,,No,93,31,8,0,54
+Whitfield,AN,Statewide Referendum B,,,No,142,56,4,0,82
+Whitfield,CA,Statewide Referendum B,,,No,120,35,1,0,84
+Whitfield,CO,Statewide Referendum B,,,No,114,21,10,1,82
+Whitfield,DG,Statewide Referendum B,,,No,333,125,33,0,175
+Whitfield,ES,Statewide Referendum B,,,No,95,34,5,0,56
+Whitfield,FI,Statewide Referendum B,,,No,148,53,9,0,86
+Whitfield,GL,Statewide Referendum B,,,No,205,88,10,0,107
+Whitfield,LT,Statewide Referendum B,,,No,99,38,6,0,55
+Whitfield,MC,Statewide Referendum B,,,No,141,51,6,0,84
+Whitfield,NI,Statewide Referendum B,,,No,188,59,7,1,121
+Whitfield,PG,Statewide Referendum B,,,No,401,189,18,0,194
+Whitfield,TH,Statewide Referendum B,,,No,322,111,23,1,187
+Whitfield,TI,Statewide Referendum B,,,No,65,8,1,0,56
+Whitfield,TR,Statewide Referendum B,,,No,115,40,6,0,69
+Whitfield,UT,Statewide Referendum B,,,No,123,29,2,0,92
+Whitfield,VA,Statewide Referendum B,,,No,525,224,36,2,263
+Whitfield,WS,Statewide Referendum B,,,No,286,127,11,0,148

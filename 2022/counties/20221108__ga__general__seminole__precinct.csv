@@ -1,0 +1,216 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Seminole,Precinct 1,U.S. Senate,,Rep,Herschel Junior Walker,540,225,20,0,295
+Seminole,Precinct 2,U.S. Senate,,Rep,Herschel Junior Walker,387,197,16,0,174
+Seminole,Precinct 3,U.S. Senate,,Rep,Herschel Junior Walker,69,29,0,0,40
+Seminole,Precinct 4,U.S. Senate,,Rep,Herschel Junior Walker,485,174,12,1,298
+Seminole,Precinct 5,U.S. Senate,,Rep,Herschel Junior Walker,671,206,15,0,450
+Seminole,Precinct 1,U.S. Senate,,Dem,Raphael Warnock ,140,67,6,0,67
+Seminole,Precinct 2,U.S. Senate,,Dem,Raphael Warnock ,188,107,12,0,69
+Seminole,Precinct 3,U.S. Senate,,Dem,Raphael Warnock ,321,157,22,0,142
+Seminole,Precinct 4,U.S. Senate,,Dem,Raphael Warnock ,104,46,7,0,51
+Seminole,Precinct 5,U.S. Senate,,Dem,Raphael Warnock ,74,34,7,0,33
+Seminole,Precinct 1,U.S. Senate,,Lib,Chase Oliver,7,1,0,0,6
+Seminole,Precinct 2,U.S. Senate,,Lib,Chase Oliver,16,2,4,0,10
+Seminole,Precinct 3,U.S. Senate,,Lib,Chase Oliver,1,0,0,0,1
+Seminole,Precinct 4,U.S. Senate,,Lib,Chase Oliver,6,0,0,0,6
+Seminole,Precinct 5,U.S. Senate,,Lib,Chase Oliver,14,5,0,0,9
+Seminole,Precinct 1,Governor,,Rep,Brian Kemp ,576,240,21,0,315
+Seminole,Precinct 2,Governor,,Rep,Brian Kemp ,414,210,19,0,185
+Seminole,Precinct 3,Governor,,Rep,Brian Kemp ,71,31,1,0,39
+Seminole,Precinct 4,Governor,,Rep,Brian Kemp ,494,176,12,1,305
+Seminole,Precinct 5,Governor,,Rep,Brian Kemp ,700,216,15,0,469
+Seminole,Precinct 1,Governor,,Dem,Stacey Abrams,116,58,5,0,53
+Seminole,Precinct 2,Governor,,Dem,Stacey Abrams,181,100,11,0,70
+Seminole,Precinct 3,Governor,,Dem,Stacey Abrams,319,153,21,0,145
+Seminole,Precinct 4,Governor,,Dem,Stacey Abrams,96,43,7,0,46
+Seminole,Precinct 5,Governor,,Dem,Stacey Abrams,61,29,7,0,25
+Seminole,Precinct 1,Governor,,Lib,Shane Hazel,4,1,0,0,3
+Seminole,Precinct 2,Governor,,Lib,Shane Hazel,5,1,2,0,2
+Seminole,Precinct 3,Governor,,Lib,Shane Hazel,1,0,0,0,1
+Seminole,Precinct 4,Governor,,Lib,Shane Hazel,3,0,0,0,3
+Seminole,Precinct 5,Governor,,Lib,Shane Hazel,4,2,0,0,2
+Seminole,Precinct 1,Lieutenant Governor,,Rep,Burt Jones,558,232,20,0,306
+Seminole,Precinct 2,Lieutenant Governor,,Rep,Burt Jones,401,206,18,0,177
+Seminole,Precinct 3,Lieutenant Governor,,Rep,Burt Jones,69,29,0,0,40
+Seminole,Precinct 4,Lieutenant Governor,,Rep,Burt Jones,493,177,12,1,303
+Seminole,Precinct 5,Lieutenant Governor,,Rep,Burt Jones,687,209,14,0,464
+Seminole,Precinct 1,Lieutenant Governor,,Dem,Charlie Bailey,127,60,6,0,61
+Seminole,Precinct 2,Lieutenant Governor,,Dem,Charlie Bailey,179,94,13,0,72
+Seminole,Precinct 3,Lieutenant Governor,,Dem,Charlie Bailey,303,146,22,0,135
+Seminole,Precinct 4,Lieutenant Governor,,Dem,Charlie Bailey,88,38,7,0,43
+Seminole,Precinct 5,Lieutenant Governor,,Dem,Charlie Bailey,64,32,8,0,24
+Seminole,Precinct 1,Lieutenant Governor,,Lib,Ryan Graham,6,2,0,0,4
+Seminole,Precinct 2,Lieutenant Governor,,Lib,Ryan Graham,6,1,1,0,4
+Seminole,Precinct 3,Lieutenant Governor,,Lib,Ryan Graham,6,2,0,0,4
+Seminole,Precinct 4,Lieutenant Governor,,Lib,Ryan Graham,7,0,0,0,7
+Seminole,Precinct 5,Lieutenant Governor,,Lib,Ryan Graham,7,3,0,0,4
+Seminole,Precinct 1,Secretary of State,,Rep,Brad Raffensperger ,571,236,21,0,314
+Seminole,Precinct 2,Secretary of State,,Rep,Brad Raffensperger ,397,200,18,0,179
+Seminole,Precinct 3,Secretary of State,,Rep,Brad Raffensperger ,77,28,2,0,47
+Seminole,Precinct 4,Secretary of State,,Rep,Brad Raffensperger ,498,175,15,1,307
+Seminole,Precinct 5,Secretary of State,,Rep,Brad Raffensperger ,667,212,14,0,441
+Seminole,Precinct 1,Secretary of State,,Dem,Bee Nguyen,113,56,5,0,52
+Seminole,Precinct 2,Secretary of State,,Dem,Bee Nguyen,173,93,12,0,68
+Seminole,Precinct 3,Secretary of State,,Dem,Bee Nguyen,291,144,20,0,127
+Seminole,Precinct 4,Secretary of State,,Dem,Bee Nguyen,74,33,4,0,37
+Seminole,Precinct 5,Secretary of State,,Dem,Bee Nguyen,49,22,7,0,20
+Seminole,Precinct 1,Secretary of State,,Lib,Ted Metz,8,2,0,0,6
+Seminole,Precinct 2,Secretary of State,,Lib,Ted Metz,17,7,2,0,8
+Seminole,Precinct 3,Secretary of State,,Lib,Ted Metz,8,4,0,0,4
+Seminole,Precinct 4,Secretary of State,,Lib,Ted Metz,12,4,0,0,8
+Seminole,Precinct 5,Secretary of State,,Lib,Ted Metz,38,8,1,0,29
+Seminole,Precinct 1,Attorney General,,Rep,Chris Carr ,562,233,21,0,308
+Seminole,Precinct 2,Attorney General,,Rep,Chris Carr ,396,199,19,0,178
+Seminole,Precinct 3,Attorney General,,Rep,Chris Carr ,73,31,0,0,42
+Seminole,Precinct 4,Attorney General,,Rep,Chris Carr ,491,176,12,1,302
+Seminole,Precinct 5,Attorney General,,Rep,Chris Carr ,689,210,14,0,465
+Seminole,Precinct 1,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",124,58,5,0,61
+Seminole,Precinct 2,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",188,103,11,0,74
+Seminole,Precinct 3,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",298,148,21,0,129
+Seminole,Precinct 4,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",86,38,6,0,42
+Seminole,Precinct 5,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",57,28,7,0,22
+Seminole,Precinct 1,Attorney General,,Lib,Martin Cowen,3,2,0,0,1
+Seminole,Precinct 2,Attorney General,,Lib,Martin Cowen,8,3,2,0,3
+Seminole,Precinct 3,Attorney General,,Lib,Martin Cowen,6,0,0,0,6
+Seminole,Precinct 4,Attorney General,,Lib,Martin Cowen,6,0,0,0,6
+Seminole,Precinct 5,Attorney General,,Lib,Martin Cowen,9,4,1,0,4
+Seminole,Precinct 1,Commissioner of Agriculture,,Rep,Tyler Harper,571,239,19,0,313
+Seminole,Precinct 2,Commissioner of Agriculture,,Rep,Tyler Harper,404,203,19,0,182
+Seminole,Precinct 3,Commissioner of Agriculture,,Rep,Tyler Harper,76,30,0,0,46
+Seminole,Precinct 4,Commissioner of Agriculture,,Rep,Tyler Harper,492,174,12,1,305
+Seminole,Precinct 5,Commissioner of Agriculture,,Rep,Tyler Harper,696,216,15,0,465
+Seminole,Precinct 1,Commissioner of Agriculture,,Dem,Nakita Hemingway,118,57,6,0,55
+Seminole,Precinct 2,Commissioner of Agriculture,,Dem,Nakita Hemingway,182,101,11,0,70
+Seminole,Precinct 3,Commissioner of Agriculture,,Dem,Nakita Hemingway,295,145,20,0,130
+Seminole,Precinct 4,Commissioner of Agriculture,,Dem,Nakita Hemingway,87,38,7,0,42
+Seminole,Precinct 5,Commissioner of Agriculture,,Dem,Nakita Hemingway,52,26,7,0,19
+Seminole,Precinct 1,Commissioner of Agriculture,,Lib,David Raudabaugh,4,1,0,0,3
+Seminole,Precinct 2,Commissioner of Agriculture,,Lib,David Raudabaugh,5,2,2,0,1
+Seminole,Precinct 3,Commissioner of Agriculture,,Lib,David Raudabaugh,5,2,0,0,3
+Seminole,Precinct 4,Commissioner of Agriculture,,Lib,David Raudabaugh,4,0,0,0,4
+Seminole,Precinct 5,Commissioner of Agriculture,,Lib,David Raudabaugh,9,2,0,0,7
+Seminole,Precinct 1,Commissioner of Insurance,,Rep,John King ,564,235,20,0,309
+Seminole,Precinct 2,Commissioner of Insurance,,Rep,John King ,407,204,19,0,184
+Seminole,Precinct 3,Commissioner of Insurance,,Rep,John King ,75,30,0,0,45
+Seminole,Precinct 4,Commissioner of Insurance,,Rep,John King ,494,175,12,1,306
+Seminole,Precinct 5,Commissioner of Insurance,,Rep,John King ,699,215,15,0,469
+Seminole,Precinct 1,Commissioner of Insurance,,Dem,Janice Laws Robinson,123,58,6,0,59
+Seminole,Precinct 2,Commissioner of Insurance,,Dem,Janice Laws Robinson,179,99,11,0,69
+Seminole,Precinct 3,Commissioner of Insurance,,Dem,Janice Laws Robinson,305,150,20,0,135
+Seminole,Precinct 4,Commissioner of Insurance,,Dem,Janice Laws Robinson,90,39,7,0,44
+Seminole,Precinct 5,Commissioner of Insurance,,Dem,Janice Laws Robinson,56,29,7,0,20
+Seminole,Precinct 1,State School Superintendent,,Rep,Richard Woods ,566,232,19,0,315
+Seminole,Precinct 2,State School Superintendent,,Rep,Richard Woods ,407,206,19,0,182
+Seminole,Precinct 3,State School Superintendent,,Rep,Richard Woods ,77,33,1,0,43
+Seminole,Precinct 4,State School Superintendent,,Rep,Richard Woods ,498,175,12,1,310
+Seminole,Precinct 5,State School Superintendent,,Rep,Richard Woods ,694,214,15,0,465
+Seminole,Precinct 1,State School Superintendent,,Dem,Alisha Thomas Searcy,123,62,6,0,55
+Seminole,Precinct 2,State School Superintendent,,Dem,Alisha Thomas Searcy,183,97,12,0,74
+Seminole,Precinct 3,State School Superintendent,,Dem,Alisha Thomas Searcy,302,147,19,0,136
+Seminole,Precinct 4,State School Superintendent,,Dem,Alisha Thomas Searcy,87,39,7,0,41
+Seminole,Precinct 5,State School Superintendent,,Dem,Alisha Thomas Searcy,57,29,7,0,21
+Seminole,Precinct 1,Commissioner of Labor,,Rep,Bruce Thompson,558,229,19,0,310
+Seminole,Precinct 2,Commissioner of Labor,,Rep,Bruce Thompson,397,199,19,0,179
+Seminole,Precinct 3,Commissioner of Labor,,Rep,Bruce Thompson,72,30,0,0,42
+Seminole,Precinct 4,Commissioner of Labor,,Rep,Bruce Thompson,492,173,13,1,305
+Seminole,Precinct 5,Commissioner of Labor,,Rep,Bruce Thompson,682,211,14,0,457
+Seminole,Precinct 1,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",125,62,6,0,57
+Seminole,Precinct 2,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",183,103,11,0,69
+Seminole,Precinct 3,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",303,149,21,0,133
+Seminole,Precinct 4,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",89,40,6,0,43
+Seminole,Precinct 5,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",61,28,8,0,25
+Seminole,Precinct 1,Commissioner of Labor,,Lib,Emily Anderson,9,5,0,0,4
+Seminole,Precinct 2,Commissioner of Labor,,Lib,Emily Anderson,7,2,1,0,4
+Seminole,Precinct 3,Commissioner of Labor,,Lib,Emily Anderson,3,1,0,0,2
+Seminole,Precinct 4,Commissioner of Labor,,Lib,Emily Anderson,5,1,0,0,4
+Seminole,Precinct 5,Commissioner of Labor,,Lib,Emily Anderson,14,4,0,0,10
+Seminole,Precinct 1,U.S. House,,Rep,Chris West,543,223,19,0,301
+Seminole,Precinct 2,U.S. House,,Rep,Chris West,387,194,16,0,177
+Seminole,Precinct 3,U.S. House,,Rep,Chris West,67,27,0,0,40
+Seminole,Precinct 4,U.S. House,,Rep,Chris West,483,170,12,1,300
+Seminole,Precinct 5,U.S. House,,Rep,Chris West,683,213,14,0,456
+Seminole,Precinct 1,U.S. House,,Dem,Sanford Bishop ,151,73,7,0,71
+Seminole,Precinct 2,U.S. House,,Dem,Sanford Bishop ,211,116,15,0,80
+Seminole,Precinct 3,U.S. House,,Dem,Sanford Bishop ,312,153,23,0,136
+Seminole,Precinct 4,U.S. House,,Dem,Sanford Bishop ,109,48,7,0,54
+Seminole,Precinct 5,U.S. House,,Dem,Sanford Bishop ,76,33,8,0,35
+Seminole,Precinct 1,State Senate,,Rep,Dean Burke ,626,257,24,0,345
+Seminole,Precinct 2,State Senate,,Rep,Dean Burke ,487,247,21,0,219
+Seminole,Precinct 3,State Senate,,Rep,Dean Burke ,214,90,6,0,118
+Seminole,Precinct 4,State Senate,,Rep,Dean Burke ,535,188,15,1,331
+Seminole,Precinct 5,State Senate,,Rep,Dean Burke ,719,228,17,0,474
+Seminole,Precinct 1,State House,,Rep,Gerald E. Greene ,570,236,20,0,314
+Seminole,Precinct 2,State House,,Rep,Gerald E. Greene ,411,206,18,0,187
+Seminole,Precinct 3,State House,,Rep,Gerald E. Greene ,86,37,2,0,47
+Seminole,Precinct 4,State House,,Rep,Gerald E. Greene ,500,177,13,1,309
+Seminole,Precinct 5,State House,,Rep,Gerald E. Greene ,698,214,15,0,469
+Seminole,Precinct 1,State House,,Dem,John Hayes,121,59,6,0,56
+Seminole,Precinct 2,State House,,Dem,John Hayes,175,97,13,0,65
+Seminole,Precinct 3,State House,,Dem,John Hayes,292,144,17,0,131
+Seminole,Precinct 4,State House,,Dem,John Hayes,87,37,6,0,44
+Seminole,Precinct 5,State House,,Dem,John Hayes,61,30,7,0,24
+Seminole,Precinct 1,District Attorney,,Rep,Vic McNease ,619,251,23,0,345
+Seminole,Precinct 2,District Attorney,,Rep,Vic McNease ,490,247,21,0,222
+Seminole,Precinct 3,District Attorney,,Rep,Vic McNease ,209,88,5,0,116
+Seminole,Precinct 4,District Attorney,,Rep,Vic McNease ,529,187,13,0,329
+Seminole,Precinct 5,District Attorney,,Rep,Vic McNease ,720,228,16,0,476
+Seminole,Precinct 2,County Commission,,Rep,Shelia D. Williams ,496,254,20,0,222
+Seminole,Precinct 4,County Commission,,Rep,Jeffrey C. Braswell ,528,188,14,1,325
+Seminole,Precinct 1,County School Board Member,,Rep,Spencer E. Stewart ,626,260,22,0,344
+Seminole,Precinct 3,County School Board Member,,Dem,Trent F. Clark ,348,162,21,0,165
+Seminole,Precinct 5,County School Board Member,,Rep,William Leslie Robinson ,718,228,18,0,472
+Seminole,Precinct 1,Soil and Water Conservation District Supervisor,,,"John S. """"Steve"""" Bailey ",593,246,23,0,324
+Seminole,Precinct 2,Soil and Water Conservation District Supervisor,,,"John S. """"Steve"""" Bailey ",499,254,21,0,224
+Seminole,Precinct 3,Soil and Water Conservation District Supervisor,,,"John S. """"Steve"""" Bailey ",251,114,8,0,129
+Seminole,Precinct 4,Soil and Water Conservation District Supervisor,,,"John S. """"Steve"""" Bailey ",504,179,15,1,309
+Seminole,Precinct 5,Soil and Water Conservation District Supervisor,,,"John S. """"Steve"""" Bailey ",651,201,19,0,431
+Seminole,Precinct 1,Proposed Constitutional Amendment 1,,,Yes,591,251,21,0,319
+Seminole,Precinct 2,Proposed Constitutional Amendment 1,,,Yes,497,258,28,0,211
+Seminole,Precinct 3,Proposed Constitutional Amendment 1,,,Yes,261,132,15,0,114
+Seminole,Precinct 4,Proposed Constitutional Amendment 1,,,Yes,483,171,17,1,294
+Seminole,Precinct 5,Proposed Constitutional Amendment 1,,,Yes,662,224,19,0,419
+Seminole,Precinct 1,Proposed Constitutional Amendment 1,,,No,75,33,5,0,37
+Seminole,Precinct 2,Proposed Constitutional Amendment 1,,,No,66,27,4,0,35
+Seminole,Precinct 3,Proposed Constitutional Amendment 1,,,No,92,36,3,0,53
+Seminole,Precinct 4,Proposed Constitutional Amendment 1,,,No,77,31,0,0,46
+Seminole,Precinct 5,Proposed Constitutional Amendment 1,,,No,70,13,1,0,56
+Seminole,Precinct 1,Proposed Constitutional Amendment 2,,,Yes,618,263,24,0,331
+Seminole,Precinct 2,Proposed Constitutional Amendment 2,,,Yes,521,271,27,0,223
+Seminole,Precinct 3,Proposed Constitutional Amendment 2,,,Yes,321,153,17,0,151
+Seminole,Precinct 4,Proposed Constitutional Amendment 2,,,Yes,512,185,16,1,310
+Seminole,Precinct 5,Proposed Constitutional Amendment 2,,,Yes,661,217,19,0,425
+Seminole,Precinct 1,Proposed Constitutional Amendment 2,,,No,58,26,2,0,30
+Seminole,Precinct 2,Proposed Constitutional Amendment 2,,,No,54,24,5,0,25
+Seminole,Precinct 3,Proposed Constitutional Amendment 2,,,No,46,18,1,0,27
+Seminole,Precinct 4,Proposed Constitutional Amendment 2,,,No,63,25,0,0,38
+Seminole,Precinct 5,Proposed Constitutional Amendment 2,,,No,81,20,1,0,60
+Seminole,Precinct 1,Statewide Referendum Question 1,,,Yes,415,173,14,0,228
+Seminole,Precinct 2,Statewide Referendum Question 1,,,Yes,353,196,10,0,147
+Seminole,Precinct 3,Statewide Referendum Question 1,,,Yes,235,111,7,0,117
+Seminole,Precinct 4,Statewide Referendum Question 1,,,Yes,387,132,10,0,245
+Seminole,Precinct 5,Statewide Referendum Question 1,,,Yes,440,135,13,0,292
+Seminole,Precinct 1,Statewide Referendum Question 1,,,No,250,110,12,0,128
+Seminole,Precinct 2,Statewide Referendum Question 1,,,No,207,89,21,0,97
+Seminole,Precinct 3,Statewide Referendum Question 1,,,No,128,58,11,0,59
+Seminole,Precinct 4,Statewide Referendum Question 1,,,No,180,74,5,1,100
+Seminole,Precinct 5,Statewide Referendum Question 1,,,No,290,101,7,0,182
+Seminole,Precinct 1,Statewide Referendum Question 2,,,Yes,470,191,17,0,262
+Seminole,Precinct 2,Statewide Referendum Question 2,,,Yes,394,222,14,0,158
+Seminole,Precinct 3,Statewide Referendum Question 2,,,Yes,227,106,11,0,110
+Seminole,Precinct 4,Statewide Referendum Question 2,,,Yes,416,146,12,0,258
+Seminole,Precinct 5,Statewide Referendum Question 2,,,Yes,516,177,15,0,324
+Seminole,Precinct 1,Statewide Referendum Question 2,,,No,194,94,8,0,92
+Seminole,Precinct 2,Statewide Referendum Question 2,,,No,174,71,17,0,86
+Seminole,Precinct 3,Statewide Referendum Question 2,,,No,129,59,7,0,63
+Seminole,Precinct 4,Statewide Referendum Question 2,,,No,147,59,3,1,84
+Seminole,Precinct 5,Statewide Referendum Question 2,,,No,210,59,5,0,146
+Seminole,Precinct 1,TSPLOST,,,Yes,392,166,11,0,215
+Seminole,Precinct 2,TSPLOST,,,Yes,341,188,14,0,139
+Seminole,Precinct 3,TSPLOST,,,Yes,196,90,10,0,96
+Seminole,Precinct 4,TSPLOST,,,Yes,348,126,13,0,209
+Seminole,Precinct 5,TSPLOST,,,Yes,364,121,6,0,237
+Seminole,Precinct 1,TSPLOST,,,No,264,113,15,0,136
+Seminole,Precinct 2,TSPLOST,,,No,222,101,18,0,103
+Seminole,Precinct 3,TSPLOST,,,No,168,80,8,0,80
+Seminole,Precinct 4,TSPLOST,,,No,214,76,3,1,134
+Seminole,Precinct 5,TSPLOST,,,No,359,114,13,0,232

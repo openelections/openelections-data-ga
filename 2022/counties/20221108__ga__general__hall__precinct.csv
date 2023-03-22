@@ -1,0 +1,1527 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Hall,Wilson,U.S. Senate,,Rep,Herschel Junior Walker,2357,1489,211,1,656
+Hall,Chicopee,U.S. Senate,,Rep,Herschel Junior Walker,900,504,47,0,349
+Hall,Oakwood I,U.S. Senate,,Rep,Herschel Junior Walker,672,325,27,0,320
+Hall,Oakwood II,U.S. Senate,,Rep,Herschel Junior Walker,1997,1131,101,1,764
+Hall,Flowery Branch I,U.S. Senate,,Rep,Herschel Junior Walker,2063,1227,72,0,764
+Hall,Flowery Branch II,U.S. Senate,,Rep,Herschel Junior Walker,1482,756,50,0,676
+Hall,Roberts,U.S. Senate,,Rep,Herschel Junior Walker,2582,1553,100,0,929
+Hall,Morgan I,U.S. Senate,,Rep,Herschel Junior Walker,1905,1091,50,1,763
+Hall,Morgan II,U.S. Senate,,Rep,Herschel Junior Walker,1875,1169,96,1,609
+Hall,Candler,U.S. Senate,,Rep,Herschel Junior Walker,2111,1209,62,0,840
+Hall,Tadmore,U.S. Senate,,Rep,Herschel Junior Walker,1179,632,49,0,498
+Hall,Glade,U.S. Senate,,Rep,Herschel Junior Walker,1443,843,66,1,533
+Hall,Lula,U.S. Senate,,Rep,Herschel Junior Walker,1662,881,47,0,734
+Hall,Clermont,U.S. Senate,,Rep,Herschel Junior Walker,2052,1253,48,0,751
+Hall,Quillians,U.S. Senate,,Rep,Herschel Junior Walker,1675,1083,38,1,553
+Hall,Bark Camp,U.S. Senate,,Rep,Herschel Junior Walker,2672,1738,104,0,830
+Hall,Chestatee,U.S. Senate,,Rep,Herschel Junior Walker,1788,1031,79,0,678
+Hall,Fork,U.S. Senate,,Rep,Herschel Junior Walker,1667,855,79,0,733
+Hall,Whelchel,U.S. Senate,,Rep,Herschel Junior Walker,1992,1309,81,1,601
+Hall,West Whelchel,U.S. Senate,,Rep,Herschel Junior Walker,2031,1234,178,0,619
+Hall,Gainesville I,U.S. Senate,,Rep,Herschel Junior Walker,1276,756,95,0,425
+Hall,Gainesville II,U.S. Senate,,Rep,Herschel Junior Walker,157,74,27,0,56
+Hall,Gainesville III,U.S. Senate,,Rep,Herschel Junior Walker,711,325,49,0,337
+Hall,Gainesville IV,U.S. Senate,,Rep,Herschel Junior Walker,772,506,37,0,229
+Hall,Gainesville V,U.S. Senate,,Rep,Herschel Junior Walker,435,272,22,0,141
+Hall,Gillsville,U.S. Senate,,Rep,Herschel Junior Walker,597,227,13,0,357
+Hall,Big Hickory,U.S. Senate,,Rep,Herschel Junior Walker,2300,1536,93,0,671
+Hall,Friendship I,U.S. Senate,,Rep,Herschel Junior Walker,4328,2904,264,0,1160
+Hall,Friendship II,U.S. Senate,,Rep,Herschel Junior Walker,1542,872,46,1,623
+Hall,Friendship III,U.S. Senate,,Rep,Herschel Junior Walker,1762,1195,38,0,529
+Hall,Friendship IV,U.S. Senate,,Rep,Herschel Junior Walker,1658,1238,46,0,374
+Hall,Wilson,U.S. Senate,,Dem,Raphael Warnock ,1032,526,243,0,263
+Hall,Chicopee,U.S. Senate,,Dem,Raphael Warnock ,687,361,48,1,277
+Hall,Oakwood I,U.S. Senate,,Dem,Raphael Warnock ,478,235,27,1,215
+Hall,Oakwood II,U.S. Senate,,Dem,Raphael Warnock ,642,366,78,1,197
+Hall,Flowery Branch I,U.S. Senate,,Dem,Raphael Warnock ,750,452,72,1,225
+Hall,Flowery Branch II,U.S. Senate,,Dem,Raphael Warnock ,649,361,60,0,228
+Hall,Roberts,U.S. Senate,,Dem,Raphael Warnock ,801,462,95,0,244
+Hall,Morgan I,U.S. Senate,,Dem,Raphael Warnock ,459,270,43,0,146
+Hall,Morgan II,U.S. Senate,,Dem,Raphael Warnock ,752,396,87,0,269
+Hall,Candler,U.S. Senate,,Dem,Raphael Warnock ,725,378,74,0,273
+Hall,Tadmore,U.S. Senate,,Dem,Raphael Warnock ,934,495,82,0,357
+Hall,Glade,U.S. Senate,,Dem,Raphael Warnock ,432,239,55,0,138
+Hall,Lula,U.S. Senate,,Dem,Raphael Warnock ,265,132,31,0,102
+Hall,Clermont,U.S. Senate,,Dem,Raphael Warnock ,243,160,18,0,65
+Hall,Quillians,U.S. Senate,,Dem,Raphael Warnock ,206,134,20,0,52
+Hall,Bark Camp,U.S. Senate,,Dem,Raphael Warnock ,649,404,87,0,158
+Hall,Chestatee,U.S. Senate,,Dem,Raphael Warnock ,447,234,64,0,149
+Hall,Fork,U.S. Senate,,Dem,Raphael Warnock ,471,223,97,0,151
+Hall,Whelchel,U.S. Senate,,Dem,Raphael Warnock ,570,348,55,0,167
+Hall,West Whelchel,U.S. Senate,,Dem,Raphael Warnock ,709,401,137,0,171
+Hall,Gainesville I,U.S. Senate,,Dem,Raphael Warnock ,705,410,80,3,212
+Hall,Gainesville II,U.S. Senate,,Dem,Raphael Warnock ,1025,538,184,0,303
+Hall,Gainesville III,U.S. Senate,,Dem,Raphael Warnock ,696,334,60,0,302
+Hall,Gainesville IV,U.S. Senate,,Dem,Raphael Warnock ,564,348,71,0,145
+Hall,Gainesville V,U.S. Senate,,Dem,Raphael Warnock ,246,131,30,0,85
+Hall,Gillsville,U.S. Senate,,Dem,Raphael Warnock ,86,34,11,0,41
+Hall,Big Hickory,U.S. Senate,,Dem,Raphael Warnock ,360,234,44,0,82
+Hall,Friendship I,U.S. Senate,,Dem,Raphael Warnock ,1574,943,303,0,328
+Hall,Friendship II,U.S. Senate,,Dem,Raphael Warnock ,607,383,46,0,178
+Hall,Friendship III,U.S. Senate,,Dem,Raphael Warnock ,659,410,72,0,177
+Hall,Friendship IV,U.S. Senate,,Dem,Raphael Warnock ,773,594,56,0,123
+Hall,Wilson,U.S. Senate,,Lib,Chase Oliver,114,59,15,0,40
+Hall,Chicopee,U.S. Senate,,Lib,Chase Oliver,57,22,6,0,29
+Hall,Oakwood I,U.S. Senate,,Lib,Chase Oliver,48,15,1,0,32
+Hall,Oakwood II,U.S. Senate,,Lib,Chase Oliver,80,31,7,0,42
+Hall,Flowery Branch I,U.S. Senate,,Lib,Chase Oliver,97,53,6,0,38
+Hall,Flowery Branch II,U.S. Senate,,Lib,Chase Oliver,65,23,2,0,40
+Hall,Roberts,U.S. Senate,,Lib,Chase Oliver,83,40,6,0,37
+Hall,Morgan I,U.S. Senate,,Lib,Chase Oliver,76,33,3,0,40
+Hall,Morgan II,U.S. Senate,,Lib,Chase Oliver,78,40,3,1,34
+Hall,Candler,U.S. Senate,,Lib,Chase Oliver,79,29,9,0,41
+Hall,Tadmore,U.S. Senate,,Lib,Chase Oliver,47,21,2,0,24
+Hall,Glade,U.S. Senate,,Lib,Chase Oliver,66,32,6,0,28
+Hall,Lula,U.S. Senate,,Lib,Chase Oliver,40,20,2,0,18
+Hall,Clermont,U.S. Senate,,Lib,Chase Oliver,48,20,1,0,27
+Hall,Quillians,U.S. Senate,,Lib,Chase Oliver,63,37,4,0,22
+Hall,Bark Camp,U.S. Senate,,Lib,Chase Oliver,113,66,6,0,41
+Hall,Chestatee,U.S. Senate,,Lib,Chase Oliver,78,43,5,0,30
+Hall,Fork,U.S. Senate,,Lib,Chase Oliver,68,21,5,0,42
+Hall,Whelchel,U.S. Senate,,Lib,Chase Oliver,69,41,2,0,26
+Hall,West Whelchel,U.S. Senate,,Lib,Chase Oliver,75,24,12,0,39
+Hall,Gainesville I,U.S. Senate,,Lib,Chase Oliver,70,36,5,0,29
+Hall,Gainesville II,U.S. Senate,,Lib,Chase Oliver,17,5,6,0,6
+Hall,Gainesville III,U.S. Senate,,Lib,Chase Oliver,45,15,9,0,21
+Hall,Gainesville IV,U.S. Senate,,Lib,Chase Oliver,39,23,3,0,13
+Hall,Gainesville V,U.S. Senate,,Lib,Chase Oliver,21,11,0,0,10
+Hall,Gillsville,U.S. Senate,,Lib,Chase Oliver,15,6,0,0,9
+Hall,Big Hickory,U.S. Senate,,Lib,Chase Oliver,79,49,2,0,28
+Hall,Friendship I,U.S. Senate,,Lib,Chase Oliver,191,109,15,0,67
+Hall,Friendship II,U.S. Senate,,Lib,Chase Oliver,99,51,3,0,45
+Hall,Friendship III,U.S. Senate,,Lib,Chase Oliver,70,34,3,0,33
+Hall,Friendship IV,U.S. Senate,,Lib,Chase Oliver,76,46,1,0,29
+Hall,Wilson,Governor,,Rep,Brian Kemp ,2673,1668,270,1,734
+Hall,Chicopee,Governor,,Rep,Brian Kemp ,995,539,61,0,395
+Hall,Oakwood I,Governor,,Rep,Brian Kemp ,759,355,36,0,368
+Hall,Oakwood II,Governor,,Rep,Brian Kemp ,2183,1222,118,2,841
+Hall,Flowery Branch I,Governor,,Rep,Brian Kemp ,2278,1352,88,0,838
+Hall,Flowery Branch II,Governor,,Rep,Brian Kemp ,1627,820,52,0,755
+Hall,Roberts,Governor,,Rep,Brian Kemp ,2805,1662,124,0,1019
+Hall,Morgan I,Governor,,Rep,Brian Kemp ,2062,1164,64,1,833
+Hall,Morgan II,Governor,,Rep,Brian Kemp ,2061,1260,115,2,684
+Hall,Candler,Governor,,Rep,Brian Kemp ,2262,1283,79,0,900
+Hall,Tadmore,Governor,,Rep,Brian Kemp ,1277,681,53,0,543
+Hall,Glade,Governor,,Rep,Brian Kemp ,1558,893,78,1,586
+Hall,Lula,Governor,,Rep,Brian Kemp ,1752,924,54,0,774
+Hall,Clermont,Governor,,Rep,Brian Kemp ,2152,1307,53,0,792
+Hall,Quillians,Governor,,Rep,Brian Kemp ,1786,1159,44,1,582
+Hall,Bark Camp,Governor,,Rep,Brian Kemp ,2894,1878,120,0,896
+Hall,Chestatee,Governor,,Rep,Brian Kemp ,1937,1108,97,0,732
+Hall,Fork,Governor,,Rep,Brian Kemp ,1808,905,97,0,806
+Hall,Whelchel,Governor,,Rep,Brian Kemp ,2187,1443,90,1,653
+Hall,West Whelchel,Governor,,Rep,Brian Kemp ,2284,1357,226,0,701
+Hall,Gainesville I,Governor,,Rep,Brian Kemp ,1447,854,108,0,485
+Hall,Gainesville II,Governor,,Rep,Brian Kemp ,189,85,37,0,67
+Hall,Gainesville III,Governor,,Rep,Brian Kemp ,789,353,62,0,374
+Hall,Gainesville IV,Governor,,Rep,Brian Kemp ,877,570,50,0,257
+Hall,Gainesville V,Governor,,Rep,Brian Kemp ,495,302,25,0,168
+Hall,Gillsville,Governor,,Rep,Brian Kemp ,622,240,13,0,369
+Hall,Big Hickory,Governor,,Rep,Brian Kemp ,2457,1635,108,0,714
+Hall,Friendship I,Governor,,Rep,Brian Kemp ,4873,3206,361,0,1306
+Hall,Friendship II,Governor,,Rep,Brian Kemp ,1696,953,57,1,685
+Hall,Friendship III,Governor,,Rep,Brian Kemp ,1913,1285,47,0,581
+Hall,Friendship IV,Governor,,Rep,Brian Kemp ,1875,1390,52,0,433
+Hall,Wilson,Governor,,Dem,Stacey Abrams,847,425,200,0,222
+Hall,Chicopee,Governor,,Dem,Stacey Abrams,642,343,39,1,259
+Hall,Oakwood I,Governor,,Dem,Stacey Abrams,432,219,22,1,190
+Hall,Oakwood II,Governor,,Dem,Stacey Abrams,533,307,67,0,159
+Hall,Flowery Branch I,Governor,,Dem,Stacey Abrams,628,377,66,1,184
+Hall,Flowery Branch II,Governor,,Dem,Stacey Abrams,565,317,58,0,190
+Hall,Roberts,Governor,,Dem,Stacey Abrams,662,402,80,0,180
+Hall,Morgan I,Governor,,Dem,Stacey Abrams,367,229,33,0,105
+Hall,Morgan II,Governor,,Dem,Stacey Abrams,645,353,72,0,220
+Hall,Candler,Governor,,Dem,Stacey Abrams,641,335,64,0,242
+Hall,Tadmore,Governor,,Dem,Stacey Abrams,872,461,80,0,331
+Hall,Glade,Governor,,Dem,Stacey Abrams,373,216,47,0,110
+Hall,Lula,Governor,,Dem,Stacey Abrams,215,112,28,0,75
+Hall,Clermont,Governor,,Dem,Stacey Abrams,179,120,13,0,46
+Hall,Quillians,Governor,,Dem,Stacey Abrams,167,109,18,0,40
+Hall,Bark Camp,Governor,,Dem,Stacey Abrams,540,336,77,0,127
+Hall,Chestatee,Governor,,Dem,Stacey Abrams,365,194,53,0,118
+Hall,Fork,Governor,,Dem,Stacey Abrams,386,192,79,0,115
+Hall,Whelchel,Governor,,Dem,Stacey Abrams,446,262,49,0,135
+Hall,West Whelchel,Governor,,Dem,Stacey Abrams,543,305,110,0,128
+Hall,Gainesville I,Governor,,Dem,Stacey Abrams,596,343,73,3,177
+Hall,Gainesville II,Governor,,Dem,Stacey Abrams,1004,531,180,0,293
+Hall,Gainesville III,Governor,,Dem,Stacey Abrams,650,316,56,0,278
+Hall,Gainesville IV,Governor,,Dem,Stacey Abrams,496,311,64,0,121
+Hall,Gainesville V,Governor,,Dem,Stacey Abrams,214,116,26,0,72
+Hall,Gillsville,Governor,,Dem,Stacey Abrams,68,27,11,0,30
+Hall,Big Hickory,Governor,,Dem,Stacey Abrams,271,176,33,0,62
+Hall,Friendship I,Governor,,Dem,Stacey Abrams,1222,757,229,0,236
+Hall,Friendship II,Governor,,Dem,Stacey Abrams,533,348,38,0,147
+Hall,Friendship III,Governor,,Dem,Stacey Abrams,568,354,66,0,148
+Hall,Friendship IV,Governor,,Dem,Stacey Abrams,629,492,51,0,86
+Hall,Wilson,Governor,,Lib,Shane Hazel,24,6,5,0,13
+Hall,Chicopee,Governor,,Lib,Shane Hazel,17,7,2,0,8
+Hall,Oakwood I,Governor,,Lib,Shane Hazel,13,3,0,0,10
+Hall,Oakwood II,Governor,,Lib,Shane Hazel,25,12,3,0,10
+Hall,Flowery Branch I,Governor,,Lib,Shane Hazel,25,10,0,0,15
+Hall,Flowery Branch II,Governor,,Lib,Shane Hazel,16,8,0,0,8
+Hall,Roberts,Governor,,Lib,Shane Hazel,27,12,2,0,13
+Hall,Morgan I,Governor,,Lib,Shane Hazel,22,6,1,0,15
+Hall,Morgan II,Governor,,Lib,Shane Hazel,23,8,0,0,15
+Hall,Candler,Governor,,Lib,Shane Hazel,34,11,3,0,20
+Hall,Tadmore,Governor,,Lib,Shane Hazel,11,5,0,0,6
+Hall,Glade,Governor,,Lib,Shane Hazel,16,10,2,0,4
+Hall,Lula,Governor,,Lib,Shane Hazel,14,4,0,0,10
+Hall,Clermont,Governor,,Lib,Shane Hazel,18,7,1,0,10
+Hall,Quillians,Governor,,Lib,Shane Hazel,16,6,0,0,10
+Hall,Bark Camp,Governor,,Lib,Shane Hazel,27,11,2,0,14
+Hall,Chestatee,Governor,,Lib,Shane Hazel,22,10,1,0,11
+Hall,Fork,Governor,,Lib,Shane Hazel,19,4,3,0,12
+Hall,Whelchel,Governor,,Lib,Shane Hazel,20,10,1,0,9
+Hall,West Whelchel,Governor,,Lib,Shane Hazel,20,9,0,0,11
+Hall,Gainesville I,Governor,,Lib,Shane Hazel,27,11,1,0,15
+Hall,Gainesville II,Governor,,Lib,Shane Hazel,7,1,1,0,5
+Hall,Gainesville III,Governor,,Lib,Shane Hazel,20,11,1,0,8
+Hall,Gainesville IV,Governor,,Lib,Shane Hazel,10,2,1,0,7
+Hall,Gainesville V,Governor,,Lib,Shane Hazel,4,1,1,0,2
+Hall,Gillsville,Governor,,Lib,Shane Hazel,6,1,0,0,5
+Hall,Big Hickory,Governor,,Lib,Shane Hazel,25,15,1,0,9
+Hall,Friendship I,Governor,,Lib,Shane Hazel,55,27,7,0,21
+Hall,Friendship II,Governor,,Lib,Shane Hazel,28,11,0,0,17
+Hall,Friendship III,Governor,,Lib,Shane Hazel,31,17,2,0,12
+Hall,Friendship IV,Governor,,Lib,Shane Hazel,22,12,0,0,10
+Hall,Wilson,Lieutenant Governor,,Rep,Burt Jones,2536,1588,242,1,705
+Hall,Chicopee,Lieutenant Governor,,Rep,Burt Jones,955,532,58,0,365
+Hall,Oakwood I,Lieutenant Governor,,Rep,Burt Jones,717,332,32,0,353
+Hall,Oakwood II,Lieutenant Governor,,Rep,Burt Jones,2082,1172,114,2,794
+Hall,Flowery Branch I,Lieutenant Governor,,Rep,Burt Jones,2154,1282,79,0,793
+Hall,Flowery Branch II,Lieutenant Governor,,Rep,Burt Jones,1547,783,51,0,713
+Hall,Roberts,Lieutenant Governor,,Rep,Burt Jones,2707,1610,111,0,986
+Hall,Morgan I,Lieutenant Governor,,Rep,Burt Jones,1981,1129,58,1,793
+Hall,Morgan II,Lieutenant Governor,,Rep,Burt Jones,1951,1203,101,2,645
+Hall,Candler,Lieutenant Governor,,Rep,Burt Jones,2188,1259,72,0,857
+Hall,Tadmore,Lieutenant Governor,,Rep,Burt Jones,1220,656,48,0,516
+Hall,Glade,Lieutenant Governor,,Rep,Burt Jones,1489,865,70,1,553
+Hall,Lula,Lieutenant Governor,,Rep,Burt Jones,1706,904,51,0,751
+Hall,Clermont,Lieutenant Governor,,Rep,Burt Jones,2097,1273,51,0,773
+Hall,Quillians,Lieutenant Governor,,Rep,Burt Jones,1734,1122,42,1,569
+Hall,Bark Camp,Lieutenant Governor,,Rep,Burt Jones,2803,1824,109,0,870
+Hall,Chestatee,Lieutenant Governor,,Rep,Burt Jones,1881,1083,86,0,712
+Hall,Fork,Lieutenant Governor,,Rep,Burt Jones,1747,883,90,0,774
+Hall,Whelchel,Lieutenant Governor,,Rep,Burt Jones,2093,1380,88,1,624
+Hall,West Whelchel,Lieutenant Governor,,Rep,Burt Jones,2150,1284,210,0,656
+Hall,Gainesville I,Lieutenant Governor,,Rep,Burt Jones,1362,801,102,0,459
+Hall,Gainesville II,Lieutenant Governor,,Rep,Burt Jones,173,82,31,0,60
+Hall,Gainesville III,Lieutenant Governor,,Rep,Burt Jones,750,344,55,0,351
+Hall,Gainesville IV,Lieutenant Governor,,Rep,Burt Jones,832,543,46,0,243
+Hall,Gainesville V,Lieutenant Governor,,Rep,Burt Jones,468,286,24,0,158
+Hall,Gillsville,Lieutenant Governor,,Rep,Burt Jones,613,232,13,0,368
+Hall,Big Hickory,Lieutenant Governor,,Rep,Burt Jones,2386,1589,102,0,695
+Hall,Friendship I,Lieutenant Governor,,Rep,Burt Jones,4610,3063,310,0,1237
+Hall,Friendship II,Lieutenant Governor,,Rep,Burt Jones,1625,915,52,1,657
+Hall,Friendship III,Lieutenant Governor,,Rep,Burt Jones,1850,1246,43,0,561
+Hall,Friendship IV,Lieutenant Governor,,Rep,Burt Jones,1776,1318,49,0,409
+Hall,Wilson,Lieutenant Governor,,Dem,Charlie Bailey,911,463,223,0,225
+Hall,Chicopee,Lieutenant Governor,,Dem,Charlie Bailey,626,329,39,1,257
+Hall,Oakwood I,Lieutenant Governor,,Dem,Charlie Bailey,437,230,24,1,182
+Hall,Oakwood II,Lieutenant Governor,,Dem,Charlie Bailey,580,330,72,0,178
+Hall,Flowery Branch I,Lieutenant Governor,,Dem,Charlie Bailey,667,402,67,1,197
+Hall,Flowery Branch II,Lieutenant Governor,,Dem,Charlie Bailey,583,333,56,0,194
+Hall,Roberts,Lieutenant Governor,,Dem,Charlie Bailey,689,414,88,0,187
+Hall,Morgan I,Lieutenant Governor,,Dem,Charlie Bailey,385,233,35,0,117
+Hall,Morgan II,Lieutenant Governor,,Dem,Charlie Bailey,685,378,80,0,227
+Hall,Candler,Lieutenant Governor,,Dem,Charlie Bailey,645,338,70,0,237
+Hall,Tadmore,Lieutenant Governor,,Dem,Charlie Bailey,876,465,79,0,332
+Hall,Glade,Lieutenant Governor,,Dem,Charlie Bailey,389,217,53,0,119
+Hall,Lula,Lieutenant Governor,,Dem,Charlie Bailey,223,113,29,0,81
+Hall,Clermont,Lieutenant Governor,,Dem,Charlie Bailey,204,139,14,0,51
+Hall,Quillians,Lieutenant Governor,,Dem,Charlie Bailey,183,118,19,0,46
+Hall,Bark Camp,Lieutenant Governor,,Dem,Charlie Bailey,575,357,86,0,132
+Hall,Chestatee,Lieutenant Governor,,Dem,Charlie Bailey,389,205,63,0,121
+Hall,Fork,Lieutenant Governor,,Dem,Charlie Bailey,414,203,87,0,124
+Hall,Whelchel,Lieutenant Governor,,Dem,Charlie Bailey,485,293,50,0,142
+Hall,West Whelchel,Lieutenant Governor,,Dem,Charlie Bailey,590,332,119,0,139
+Hall,Gainesville I,Lieutenant Governor,,Dem,Charlie Bailey,641,373,77,3,188
+Hall,Gainesville II,Lieutenant Governor,,Dem,Charlie Bailey,974,502,184,0,288
+Hall,Gainesville III,Lieutenant Governor,,Dem,Charlie Bailey,645,306,56,0,283
+Hall,Gainesville IV,Lieutenant Governor,,Dem,Charlie Bailey,505,318,67,0,120
+Hall,Gainesville V,Lieutenant Governor,,Dem,Charlie Bailey,215,117,28,0,70
+Hall,Gillsville,Lieutenant Governor,,Dem,Charlie Bailey,75,32,11,0,32
+Hall,Big Hickory,Lieutenant Governor,,Dem,Charlie Bailey,302,199,36,0,67
+Hall,Friendship I,Lieutenant Governor,,Dem,Charlie Bailey,1363,835,267,0,261
+Hall,Friendship II,Lieutenant Governor,,Dem,Charlie Bailey,545,349,40,0,156
+Hall,Friendship III,Lieutenant Governor,,Dem,Charlie Bailey,598,371,68,0,159
+Hall,Friendship IV,Lieutenant Governor,,Dem,Charlie Bailey,689,537,53,0,99
+Hall,Wilson,Lieutenant Governor,,Lib,Ryan Graham,70,29,5,0,36
+Hall,Chicopee,Lieutenant Governor,,Lib,Ryan Graham,60,23,2,0,35
+Hall,Oakwood I,Lieutenant Governor,,Lib,Ryan Graham,42,14,2,0,26
+Hall,Oakwood II,Lieutenant Governor,,Lib,Ryan Graham,65,31,3,0,31
+Hall,Flowery Branch I,Lieutenant Governor,,Lib,Ryan Graham,84,40,2,0,42
+Hall,Flowery Branch II,Lieutenant Governor,,Lib,Ryan Graham,61,24,0,0,37
+Hall,Roberts,Lieutenant Governor,,Lib,Ryan Graham,80,42,4,0,34
+Hall,Morgan I,Lieutenant Governor,,Lib,Ryan Graham,74,35,4,0,35
+Hall,Morgan II,Lieutenant Governor,,Lib,Ryan Graham,69,30,3,0,36
+Hall,Candler,Lieutenant Governor,,Lib,Ryan Graham,74,20,5,0,49
+Hall,Tadmore,Lieutenant Governor,,Lib,Ryan Graham,46,17,4,0,25
+Hall,Glade,Lieutenant Governor,,Lib,Ryan Graham,53,29,2,0,22
+Hall,Lula,Lieutenant Governor,,Lib,Ryan Graham,35,13,1,0,21
+Hall,Clermont,Lieutenant Governor,,Lib,Ryan Graham,43,21,2,0,20
+Hall,Quillians,Lieutenant Governor,,Lib,Ryan Graham,39,26,0,0,13
+Hall,Bark Camp,Lieutenant Governor,,Lib,Ryan Graham,68,35,2,0,31
+Hall,Chestatee,Lieutenant Governor,,Lib,Ryan Graham,40,18,1,0,21
+Hall,Fork,Lieutenant Governor,,Lib,Ryan Graham,47,13,3,0,31
+Hall,Whelchel,Lieutenant Governor,,Lib,Ryan Graham,56,26,3,0,27
+Hall,West Whelchel,Lieutenant Governor,,Lib,Ryan Graham,75,35,4,0,36
+Hall,Gainesville I,Lieutenant Governor,,Lib,Ryan Graham,52,27,4,0,21
+Hall,Gainesville II,Lieutenant Governor,,Lib,Ryan Graham,25,13,1,0,11
+Hall,Gainesville III,Lieutenant Governor,,Lib,Ryan Graham,48,19,8,0,21
+Hall,Gainesville IV,Lieutenant Governor,,Lib,Ryan Graham,32,12,2,0,18
+Hall,Gainesville V,Lieutenant Governor,,Lib,Ryan Graham,20,8,0,0,12
+Hall,Gillsville,Lieutenant Governor,,Lib,Ryan Graham,10,3,0,0,7
+Hall,Big Hickory,Lieutenant Governor,,Lib,Ryan Graham,51,31,2,0,18
+Hall,Friendship I,Lieutenant Governor,,Lib,Ryan Graham,135,71,8,0,56
+Hall,Friendship II,Lieutenant Governor,,Lib,Ryan Graham,69,38,1,0,30
+Hall,Friendship III,Lieutenant Governor,,Lib,Ryan Graham,59,35,4,0,20
+Hall,Friendship IV,Lieutenant Governor,,Lib,Ryan Graham,50,33,0,0,17
+Hall,Wilson,Secretary of State,,Rep,Brad Raffensperger ,2640,1640,295,1,704
+Hall,Chicopee,Secretary of State,,Rep,Brad Raffensperger ,956,534,60,0,362
+Hall,Oakwood I,Secretary of State,,Rep,Brad Raffensperger ,737,347,36,0,354
+Hall,Oakwood II,Secretary of State,,Rep,Brad Raffensperger ,2067,1168,115,2,782
+Hall,Flowery Branch I,Secretary of State,,Rep,Brad Raffensperger ,2192,1301,91,0,800
+Hall,Flowery Branch II,Secretary of State,,Rep,Brad Raffensperger ,1560,792,61,0,707
+Hall,Roberts,Secretary of State,,Rep,Brad Raffensperger ,2681,1615,117,0,949
+Hall,Morgan I,Secretary of State,,Rep,Brad Raffensperger ,1951,1111,62,1,777
+Hall,Morgan II,Secretary of State,,Rep,Brad Raffensperger ,1972,1214,113,2,643
+Hall,Candler,Secretary of State,,Rep,Brad Raffensperger ,2191,1254,82,0,855
+Hall,Tadmore,Secretary of State,,Rep,Brad Raffensperger ,1212,657,48,0,507
+Hall,Glade,Secretary of State,,Rep,Brad Raffensperger ,1458,847,76,1,534
+Hall,Lula,Secretary of State,,Rep,Brad Raffensperger ,1662,864,54,0,744
+Hall,Clermont,Secretary of State,,Rep,Brad Raffensperger ,2058,1259,51,0,748
+Hall,Quillians,Secretary of State,,Rep,Brad Raffensperger ,1693,1092,45,1,555
+Hall,Bark Camp,Secretary of State,,Rep,Brad Raffensperger ,2765,1810,121,0,834
+Hall,Chestatee,Secretary of State,,Rep,Brad Raffensperger ,1865,1072,98,0,695
+Hall,Fork,Secretary of State,,Rep,Brad Raffensperger ,1744,890,105,0,749
+Hall,Whelchel,Secretary of State,,Rep,Brad Raffensperger ,2114,1400,91,1,622
+Hall,West Whelchel,Secretary of State,,Rep,Brad Raffensperger ,2233,1329,230,0,674
+Hall,Gainesville I,Secretary of State,,Rep,Brad Raffensperger ,1411,834,110,0,467
+Hall,Gainesville II,Secretary of State,,Rep,Brad Raffensperger ,205,98,33,0,74
+Hall,Gainesville III,Secretary of State,,Rep,Brad Raffensperger ,753,342,63,0,348
+Hall,Gainesville IV,Secretary of State,,Rep,Brad Raffensperger ,871,570,56,0,245
+Hall,Gainesville V,Secretary of State,,Rep,Brad Raffensperger ,478,297,23,0,158
+Hall,Gillsville,Secretary of State,,Rep,Brad Raffensperger ,593,231,13,0,349
+Hall,Big Hickory,Secretary of State,,Rep,Brad Raffensperger ,2358,1571,110,0,677
+Hall,Friendship I,Secretary of State,,Rep,Brad Raffensperger ,4759,3103,391,0,1265
+Hall,Friendship II,Secretary of State,,Rep,Brad Raffensperger ,1618,912,66,1,639
+Hall,Friendship III,Secretary of State,,Rep,Brad Raffensperger ,1841,1236,49,0,556
+Hall,Friendship IV,Secretary of State,,Rep,Brad Raffensperger ,1826,1366,57,0,403
+Hall,Wilson,Secretary of State,,Dem,Bee Nguyen,779,395,168,0,216
+Hall,Chicopee,Secretary of State,,Dem,Bee Nguyen,616,319,37,1,259
+Hall,Oakwood I,Secretary of State,,Dem,Bee Nguyen,420,214,22,1,183
+Hall,Oakwood II,Secretary of State,,Dem,Bee Nguyen,532,297,67,0,168
+Hall,Flowery Branch I,Secretary of State,,Dem,Bee Nguyen,605,368,60,1,176
+Hall,Flowery Branch II,Secretary of State,,Dem,Bee Nguyen,539,302,49,0,188
+Hall,Roberts,Secretary of State,,Dem,Bee Nguyen,645,371,77,0,197
+Hall,Morgan I,Secretary of State,,Dem,Bee Nguyen,356,219,31,0,106
+Hall,Morgan II,Secretary of State,,Dem,Bee Nguyen,632,344,70,0,218
+Hall,Candler,Secretary of State,,Dem,Bee Nguyen,614,316,62,0,236
+Hall,Tadmore,Secretary of State,,Dem,Bee Nguyen,870,454,79,0,337
+Hall,Glade,Secretary of State,,Dem,Bee Nguyen,377,210,50,0,117
+Hall,Lula,Secretary of State,,Dem,Bee Nguyen,215,110,27,0,78
+Hall,Clermont,Secretary of State,,Dem,Bee Nguyen,177,118,14,0,45
+Hall,Quillians,Secretary of State,,Dem,Bee Nguyen,173,115,17,0,41
+Hall,Bark Camp,Secretary of State,,Dem,Bee Nguyen,524,319,72,0,133
+Hall,Chestatee,Secretary of State,,Dem,Bee Nguyen,340,182,49,0,109
+Hall,Fork,Secretary of State,,Dem,Bee Nguyen,377,184,71,0,122
+Hall,Whelchel,Secretary of State,,Dem,Bee Nguyen,416,249,42,0,125
+Hall,West Whelchel,Secretary of State,,Dem,Bee Nguyen,489,278,91,0,120
+Hall,Gainesville I,Secretary of State,,Dem,Bee Nguyen,559,320,66,3,170
+Hall,Gainesville II,Secretary of State,,Dem,Bee Nguyen,958,497,179,0,282
+Hall,Gainesville III,Secretary of State,,Dem,Bee Nguyen,627,299,51,0,277
+Hall,Gainesville IV,Secretary of State,,Dem,Bee Nguyen,450,281,57,0,112
+Hall,Gainesville V,Secretary of State,,Dem,Bee Nguyen,198,102,26,0,70
+Hall,Gillsville,Secretary of State,,Dem,Bee Nguyen,72,28,11,0,33
+Hall,Big Hickory,Secretary of State,,Dem,Bee Nguyen,271,182,28,0,61
+Hall,Friendship I,Secretary of State,,Dem,Bee Nguyen,1130,709,196,0,225
+Hall,Friendship II,Secretary of State,,Dem,Bee Nguyen,531,345,28,0,158
+Hall,Friendship III,Secretary of State,,Dem,Bee Nguyen,553,342,64,0,147
+Hall,Friendship IV,Secretary of State,,Dem,Bee Nguyen,600,465,45,0,90
+Hall,Wilson,Secretary of State,,Lib,Ted Metz,100,49,7,0,44
+Hall,Chicopee,Secretary of State,,Lib,Ted Metz,67,30,3,0,34
+Hall,Oakwood I,Secretary of State,,Lib,Ted Metz,33,13,0,0,20
+Hall,Oakwood II,Secretary of State,,Lib,Ted Metz,118,62,6,0,50
+Hall,Flowery Branch I,Secretary of State,,Lib,Ted Metz,114,58,3,0,53
+Hall,Flowery Branch II,Secretary of State,,Lib,Ted Metz,98,47,0,0,51
+Hall,Roberts,Secretary of State,,Lib,Ted Metz,144,71,11,0,62
+Hall,Morgan I,Secretary of State,,Lib,Ted Metz,122,58,3,0,61
+Hall,Morgan II,Secretary of State,,Lib,Ted Metz,110,61,2,0,47
+Hall,Candler,Secretary of State,,Lib,Ted Metz,104,47,2,0,55
+Hall,Tadmore,Secretary of State,,Lib,Ted Metz,50,22,5,0,23
+Hall,Glade,Secretary of State,,Lib,Ted Metz,93,49,1,0,43
+Hall,Lula,Secretary of State,,Lib,Ted Metz,75,45,1,0,29
+Hall,Clermont,Secretary of State,,Lib,Ted Metz,91,45,2,0,44
+Hall,Quillians,Secretary of State,,Lib,Ted Metz,80,50,0,0,30
+Hall,Bark Camp,Secretary of State,,Lib,Ted Metz,142,78,3,0,61
+Hall,Chestatee,Secretary of State,,Lib,Ted Metz,96,47,3,0,46
+Hall,Fork,Secretary of State,,Lib,Ted Metz,84,24,4,0,56
+Hall,Whelchel,Secretary of State,,Lib,Ted Metz,99,52,5,0,42
+Hall,West Whelchel,Secretary of State,,Lib,Ted Metz,90,49,6,0,35
+Hall,Gainesville I,Secretary of State,,Lib,Ted Metz,83,46,6,0,31
+Hall,Gainesville II,Secretary of State,,Lib,Ted Metz,16,8,3,0,5
+Hall,Gainesville III,Secretary of State,,Lib,Ted Metz,55,21,6,0,28
+Hall,Gainesville IV,Secretary of State,,Lib,Ted Metz,43,22,3,0,18
+Hall,Gainesville V,Secretary of State,,Lib,Ted Metz,28,14,2,0,12
+Hall,Gillsville,Secretary of State,,Lib,Ted Metz,24,5,0,0,19
+Hall,Big Hickory,Secretary of State,,Lib,Ted Metz,106,59,4,0,43
+Hall,Friendship I,Secretary of State,,Lib,Ted Metz,212,141,5,0,66
+Hall,Friendship II,Secretary of State,,Lib,Ted Metz,88,48,2,0,38
+Hall,Friendship III,Secretary of State,,Lib,Ted Metz,101,62,2,0,37
+Hall,Friendship IV,Secretary of State,,Lib,Ted Metz,78,48,0,0,30
+Hall,Wilson,Attorney General,,Rep,Chris Carr ,2565,1601,252,1,711
+Hall,Chicopee,Attorney General,,Rep,Chris Carr ,955,527,57,0,371
+Hall,Oakwood I,Attorney General,,Rep,Chris Carr ,722,341,33,0,348
+Hall,Oakwood II,Attorney General,,Rep,Chris Carr ,2099,1178,113,2,806
+Hall,Flowery Branch I,Attorney General,,Rep,Chris Carr ,2183,1293,84,0,806
+Hall,Flowery Branch II,Attorney General,,Rep,Chris Carr ,1564,795,52,0,717
+Hall,Roberts,Attorney General,,Rep,Chris Carr ,2735,1628,114,0,993
+Hall,Morgan I,Attorney General,,Rep,Chris Carr ,1987,1134,58,1,794
+Hall,Morgan II,Attorney General,,Rep,Chris Carr ,1978,1218,104,1,655
+Hall,Candler,Attorney General,,Rep,Chris Carr ,2209,1266,75,0,868
+Hall,Tadmore,Attorney General,,Rep,Chris Carr ,1216,658,51,0,507
+Hall,Glade,Attorney General,,Rep,Chris Carr ,1496,866,73,1,556
+Hall,Lula,Attorney General,,Rep,Chris Carr ,1712,909,54,0,749
+Hall,Clermont,Attorney General,,Rep,Chris Carr ,2101,1279,51,0,771
+Hall,Quillians,Attorney General,,Rep,Chris Carr ,1735,1125,43,1,566
+Hall,Bark Camp,Attorney General,,Rep,Chris Carr ,2806,1821,117,0,868
+Hall,Chestatee,Attorney General,,Rep,Chris Carr ,1879,1079,91,0,709
+Hall,Fork,Attorney General,,Rep,Chris Carr ,1752,894,92,0,766
+Hall,Whelchel,Attorney General,,Rep,Chris Carr ,2109,1394,86,1,628
+Hall,West Whelchel,Attorney General,,Rep,Chris Carr ,2204,1320,220,0,664
+Hall,Gainesville I,Attorney General,,Rep,Chris Carr ,1389,815,104,0,470
+Hall,Gainesville II,Attorney General,,Rep,Chris Carr ,176,83,32,0,61
+Hall,Gainesville III,Attorney General,,Rep,Chris Carr ,767,348,55,0,364
+Hall,Gainesville IV,Attorney General,,Rep,Chris Carr ,827,539,45,0,243
+Hall,Gainesville V,Attorney General,,Rep,Chris Carr ,479,292,25,0,162
+Hall,Gillsville,Attorney General,,Rep,Chris Carr ,611,233,13,0,365
+Hall,Big Hickory,Attorney General,,Rep,Chris Carr ,2403,1596,103,0,704
+Hall,Friendship I,Attorney General,,Rep,Chris Carr ,4666,3088,325,0,1253
+Hall,Friendship II,Attorney General,,Rep,Chris Carr ,1644,930,58,1,655
+Hall,Friendship III,Attorney General,,Rep,Chris Carr ,1845,1250,43,0,552
+Hall,Friendship IV,Attorney General,,Rep,Chris Carr ,1810,1350,50,0,410
+Hall,Wilson,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",901,457,210,0,234
+Hall,Chicopee,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",635,335,41,1,258
+Hall,Oakwood I,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",447,223,25,1,198
+Hall,Oakwood II,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",574,332,71,0,171
+Hall,Flowery Branch I,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",669,406,64,1,198
+Hall,Flowery Branch II,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",588,330,56,0,202
+Hall,Roberts,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",685,405,86,0,194
+Hall,Morgan I,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",405,243,36,0,126
+Hall,Morgan II,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",693,375,82,0,236
+Hall,Candler,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",656,335,69,0,252
+Hall,Tadmore,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",892,468,79,0,345
+Hall,Glade,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",400,228,51,0,121
+Hall,Lula,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",231,116,28,0,87
+Hall,Clermont,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",206,136,15,0,55
+Hall,Quillians,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",190,124,19,0,47
+Hall,Bark Camp,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",583,368,77,0,138
+Hall,Chestatee,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",396,207,59,0,130
+Hall,Fork,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",414,198,85,0,131
+Hall,Whelchel,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",479,285,50,0,144
+Hall,West Whelchel,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",570,326,106,0,138
+Hall,Gainesville I,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",632,369,76,3,184
+Hall,Gainesville II,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",987,514,181,0,292
+Hall,Gainesville III,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",658,313,61,0,284
+Hall,Gainesville IV,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",509,321,67,0,121
+Hall,Gainesville V,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",216,117,27,0,72
+Hall,Gillsville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",75,31,11,0,33
+Hall,Big Hickory,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",298,199,34,0,65
+Hall,Friendship I,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1355,834,255,0,266
+Hall,Friendship II,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",549,357,35,0,157
+Hall,Friendship III,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",611,377,68,0,166
+Hall,Friendship IV,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",678,524,52,0,102
+Hall,Wilson,Attorney General,,Lib,Martin Cowen,48,21,6,0,21
+Hall,Chicopee,Attorney General,,Lib,Martin Cowen,47,19,1,0,27
+Hall,Oakwood I,Attorney General,,Lib,Martin Cowen,28,11,0,0,17
+Hall,Oakwood II,Attorney General,,Lib,Martin Cowen,60,26,4,0,30
+Hall,Flowery Branch I,Attorney General,,Lib,Martin Cowen,52,23,1,0,28
+Hall,Flowery Branch II,Attorney General,,Lib,Martin Cowen,39,11,1,0,27
+Hall,Roberts,Attorney General,,Lib,Martin Cowen,60,34,4,0,22
+Hall,Morgan I,Attorney General,,Lib,Martin Cowen,52,22,1,0,29
+Hall,Morgan II,Attorney General,,Lib,Martin Cowen,47,22,1,1,23
+Hall,Candler,Attorney General,,Lib,Martin Cowen,48,17,2,0,29
+Hall,Tadmore,Attorney General,,Lib,Martin Cowen,34,14,2,0,18
+Hall,Glade,Attorney General,,Lib,Martin Cowen,31,14,2,0,15
+Hall,Lula,Attorney General,,Lib,Martin Cowen,23,7,0,0,16
+Hall,Clermont,Attorney General,,Lib,Martin Cowen,35,18,1,0,16
+Hall,Quillians,Attorney General,,Lib,Martin Cowen,33,18,0,0,15
+Hall,Bark Camp,Attorney General,,Lib,Martin Cowen,54,25,3,0,26
+Hall,Chestatee,Attorney General,,Lib,Martin Cowen,38,21,0,0,17
+Hall,Fork,Attorney General,,Lib,Martin Cowen,39,6,3,0,30
+Hall,Whelchel,Attorney General,,Lib,Martin Cowen,47,22,3,0,22
+Hall,West Whelchel,Attorney General,,Lib,Martin Cowen,49,19,3,0,27
+Hall,Gainesville I,Attorney General,,Lib,Martin Cowen,30,14,3,0,13
+Hall,Gainesville II,Attorney General,,Lib,Martin Cowen,18,7,1,0,10
+Hall,Gainesville III,Attorney General,,Lib,Martin Cowen,24,10,3,0,11
+Hall,Gainesville IV,Attorney General,,Lib,Martin Cowen,29,13,2,0,14
+Hall,Gainesville V,Attorney General,,Lib,Martin Cowen,11,6,0,0,5
+Hall,Gillsville,Attorney General,,Lib,Martin Cowen,8,3,0,0,5
+Hall,Big Hickory,Attorney General,,Lib,Martin Cowen,35,22,0,0,13
+Hall,Friendship I,Attorney General,,Lib,Martin Cowen,97,54,6,0,37
+Hall,Friendship II,Attorney General,,Lib,Martin Cowen,49,22,1,0,26
+Hall,Friendship III,Attorney General,,Lib,Martin Cowen,45,25,3,0,17
+Hall,Friendship IV,Attorney General,,Lib,Martin Cowen,27,15,0,0,12
+Hall,Wilson,Commissioner of Agriculture,,Rep,Tyler Harper,2628,1634,269,1,724
+Hall,Chicopee,Commissioner of Agriculture,,Rep,Tyler Harper,979,541,62,0,376
+Hall,Oakwood I,Commissioner of Agriculture,,Rep,Tyler Harper,742,345,36,0,361
+Hall,Oakwood II,Commissioner of Agriculture,,Rep,Tyler Harper,2122,1194,117,2,809
+Hall,Flowery Branch I,Commissioner of Agriculture,,Rep,Tyler Harper,2222,1314,89,0,819
+Hall,Flowery Branch II,Commissioner of Agriculture,,Rep,Tyler Harper,1572,801,55,0,716
+Hall,Roberts,Commissioner of Agriculture,,Rep,Tyler Harper,2760,1649,121,0,990
+Hall,Morgan I,Commissioner of Agriculture,,Rep,Tyler Harper,2030,1159,63,1,807
+Hall,Morgan II,Commissioner of Agriculture,,Rep,Tyler Harper,2000,1225,111,1,663
+Hall,Candler,Commissioner of Agriculture,,Rep,Tyler Harper,2220,1270,79,0,871
+Hall,Tadmore,Commissioner of Agriculture,,Rep,Tyler Harper,1226,661,49,0,516
+Hall,Glade,Commissioner of Agriculture,,Rep,Tyler Harper,1526,888,74,1,563
+Hall,Lula,Commissioner of Agriculture,,Rep,Tyler Harper,1722,913,54,0,755
+Hall,Clermont,Commissioner of Agriculture,,Rep,Tyler Harper,2118,1292,51,0,775
+Hall,Quillians,Commissioner of Agriculture,,Rep,Tyler Harper,1763,1141,46,1,575
+Hall,Bark Camp,Commissioner of Agriculture,,Rep,Tyler Harper,2843,1849,120,0,874
+Hall,Chestatee,Commissioner of Agriculture,,Rep,Tyler Harper,1921,1098,96,0,727
+Hall,Fork,Commissioner of Agriculture,,Rep,Tyler Harper,1777,892,102,0,783
+Hall,Whelchel,Commissioner of Agriculture,,Rep,Tyler Harper,2157,1423,90,1,643
+Hall,West Whelchel,Commissioner of Agriculture,,Rep,Tyler Harper,2254,1356,225,0,673
+Hall,Gainesville I,Commissioner of Agriculture,,Rep,Tyler Harper,1420,840,108,0,472
+Hall,Gainesville II,Commissioner of Agriculture,,Rep,Tyler Harper,183,83,32,0,68
+Hall,Gainesville III,Commissioner of Agriculture,,Rep,Tyler Harper,785,357,64,0,364
+Hall,Gainesville IV,Commissioner of Agriculture,,Rep,Tyler Harper,863,563,51,0,249
+Hall,Gainesville V,Commissioner of Agriculture,,Rep,Tyler Harper,484,293,26,0,165
+Hall,Gillsville,Commissioner of Agriculture,,Rep,Tyler Harper,615,235,13,0,367
+Hall,Big Hickory,Commissioner of Agriculture,,Rep,Tyler Harper,2429,1623,105,0,701
+Hall,Friendship I,Commissioner of Agriculture,,Rep,Tyler Harper,4772,3160,350,0,1262
+Hall,Friendship II,Commissioner of Agriculture,,Rep,Tyler Harper,1668,939,58,1,670
+Hall,Friendship III,Commissioner of Agriculture,,Rep,Tyler Harper,1879,1275,46,0,558
+Hall,Friendship IV,Commissioner of Agriculture,,Rep,Tyler Harper,1844,1379,49,0,416
+Hall,Wilson,Commissioner of Agriculture,,Dem,Nakita Hemingway,797,404,179,0,214
+Hall,Chicopee,Commissioner of Agriculture,,Dem,Nakita Hemingway,597,320,35,1,241
+Hall,Oakwood I,Commissioner of Agriculture,,Dem,Nakita Hemingway,422,214,21,1,186
+Hall,Oakwood II,Commissioner of Agriculture,,Dem,Nakita Hemingway,530,303,66,0,161
+Hall,Flowery Branch I,Commissioner of Agriculture,,Dem,Nakita Hemingway,597,369,56,1,171
+Hall,Flowery Branch II,Commissioner of Agriculture,,Dem,Nakita Hemingway,559,315,48,0,196
+Hall,Roberts,Commissioner of Agriculture,,Dem,Nakita Hemingway,622,365,77,0,180
+Hall,Morgan I,Commissioner of Agriculture,,Dem,Nakita Hemingway,342,210,27,0,105
+Hall,Morgan II,Commissioner of Agriculture,,Dem,Nakita Hemingway,649,359,75,0,215
+Hall,Candler,Commissioner of Agriculture,,Dem,Nakita Hemingway,624,322,65,0,237
+Hall,Tadmore,Commissioner of Agriculture,,Dem,Nakita Hemingway,870,459,81,0,330
+Hall,Glade,Commissioner of Agriculture,,Dem,Nakita Hemingway,352,202,48,0,102
+Hall,Lula,Commissioner of Agriculture,,Dem,Nakita Hemingway,212,103,28,0,81
+Hall,Clermont,Commissioner of Agriculture,,Dem,Nakita Hemingway,169,115,14,0,40
+Hall,Quillians,Commissioner of Agriculture,,Dem,Nakita Hemingway,161,105,16,0,40
+Hall,Bark Camp,Commissioner of Agriculture,,Dem,Nakita Hemingway,515,319,72,0,124
+Hall,Chestatee,Commissioner of Agriculture,,Dem,Nakita Hemingway,348,186,52,0,110
+Hall,Fork,Commissioner of Agriculture,,Dem,Nakita Hemingway,383,191,76,0,116
+Hall,Whelchel,Commissioner of Agriculture,,Dem,Nakita Hemingway,407,238,43,0,126
+Hall,West Whelchel,Commissioner of Agriculture,,Dem,Nakita Hemingway,485,272,97,0,116
+Hall,Gainesville I,Commissioner of Agriculture,,Dem,Nakita Hemingway,573,330,71,3,169
+Hall,Gainesville II,Commissioner of Agriculture,,Dem,Nakita Hemingway,967,504,183,0,280
+Hall,Gainesville III,Commissioner of Agriculture,,Dem,Nakita Hemingway,629,300,54,0,275
+Hall,Gainesville IV,Commissioner of Agriculture,,Dem,Nakita Hemingway,455,286,58,0,111
+Hall,Gainesville V,Commissioner of Agriculture,,Dem,Nakita Hemingway,202,107,25,0,70
+Hall,Gillsville,Commissioner of Agriculture,,Dem,Nakita Hemingway,68,28,10,0,30
+Hall,Big Hickory,Commissioner of Agriculture,,Dem,Nakita Hemingway,241,161,30,0,50
+Hall,Friendship I,Commissioner of Agriculture,,Dem,Nakita Hemingway,1176,724,215,0,237
+Hall,Friendship II,Commissioner of Agriculture,,Dem,Nakita Hemingway,494,330,31,0,133
+Hall,Friendship III,Commissioner of Agriculture,,Dem,Nakita Hemingway,550,337,63,0,150
+Hall,Friendship IV,Commissioner of Agriculture,,Dem,Nakita Hemingway,610,476,49,0,85
+Hall,Wilson,Commissioner of Agriculture,,Lib,David Raudabaugh,71,32,9,0,30
+Hall,Chicopee,Commissioner of Agriculture,,Lib,David Raudabaugh,51,17,3,0,31
+Hall,Oakwood I,Commissioner of Agriculture,,Lib,David Raudabaugh,31,13,1,0,17
+Hall,Oakwood II,Commissioner of Agriculture,,Lib,David Raudabaugh,72,38,3,0,31
+Hall,Flowery Branch I,Commissioner of Agriculture,,Lib,David Raudabaugh,83,42,1,0,40
+Hall,Flowery Branch II,Commissioner of Agriculture,,Lib,David Raudabaugh,52,20,4,0,28
+Hall,Roberts,Commissioner of Agriculture,,Lib,David Raudabaugh,77,42,4,0,31
+Hall,Morgan I,Commissioner of Agriculture,,Lib,David Raudabaugh,63,29,2,0,32
+Hall,Morgan II,Commissioner of Agriculture,,Lib,David Raudabaugh,60,25,1,1,33
+Hall,Candler,Commissioner of Agriculture,,Lib,David Raudabaugh,63,23,2,0,38
+Hall,Tadmore,Commissioner of Agriculture,,Lib,David Raudabaugh,48,20,3,0,25
+Hall,Glade,Commissioner of Agriculture,,Lib,David Raudabaugh,49,20,4,0,25
+Hall,Lula,Commissioner of Agriculture,,Lib,David Raudabaugh,33,16,0,0,17
+Hall,Clermont,Commissioner of Agriculture,,Lib,David Raudabaugh,54,24,1,0,29
+Hall,Quillians,Commissioner of Agriculture,,Lib,David Raudabaugh,34,20,0,0,14
+Hall,Bark Camp,Commissioner of Agriculture,,Lib,David Raudabaugh,78,41,4,0,33
+Hall,Chestatee,Commissioner of Agriculture,,Lib,David Raudabaugh,42,22,1,0,19
+Hall,Fork,Commissioner of Agriculture,,Lib,David Raudabaugh,46,14,2,0,30
+Hall,Whelchel,Commissioner of Agriculture,,Lib,David Raudabaugh,64,36,4,0,24
+Hall,West Whelchel,Commissioner of Agriculture,,Lib,David Raudabaugh,69,30,6,0,33
+Hall,Gainesville I,Commissioner of Agriculture,,Lib,David Raudabaugh,55,29,2,0,24
+Hall,Gainesville II,Commissioner of Agriculture,,Lib,David Raudabaugh,34,19,1,0,14
+Hall,Gainesville III,Commissioner of Agriculture,,Lib,David Raudabaugh,33,13,2,0,18
+Hall,Gainesville IV,Commissioner of Agriculture,,Lib,David Raudabaugh,36,19,2,0,15
+Hall,Gainesville V,Commissioner of Agriculture,,Lib,David Raudabaugh,15,10,0,0,5
+Hall,Gillsville,Commissioner of Agriculture,,Lib,David Raudabaugh,12,4,1,0,7
+Hall,Big Hickory,Commissioner of Agriculture,,Lib,David Raudabaugh,61,31,1,0,29
+Hall,Friendship I,Commissioner of Agriculture,,Lib,David Raudabaugh,135,75,9,0,51
+Hall,Friendship II,Commissioner of Agriculture,,Lib,David Raudabaugh,72,36,3,0,33
+Hall,Friendship III,Commissioner of Agriculture,,Lib,David Raudabaugh,61,34,3,0,24
+Hall,Friendship IV,Commissioner of Agriculture,,Lib,David Raudabaugh,50,26,0,0,24
+Hall,Wilson,Commissioner of Insurance,,Rep,John King ,2646,1645,258,1,742
+Hall,Chicopee,Commissioner of Insurance,,Rep,John King ,1005,550,61,0,394
+Hall,Oakwood I,Commissioner of Insurance,,Rep,John King ,752,348,35,0,369
+Hall,Oakwood II,Commissioner of Insurance,,Rep,John King ,2168,1207,118,1,842
+Hall,Flowery Branch I,Commissioner of Insurance,,Rep,John King ,2263,1347,84,0,832
+Hall,Flowery Branch II,Commissioner of Insurance,,Rep,John King ,1606,814,53,0,739
+Hall,Roberts,Commissioner of Insurance,,Rep,John King ,2798,1662,115,0,1021
+Hall,Morgan I,Commissioner of Insurance,,Rep,John King ,2053,1164,63,1,825
+Hall,Morgan II,Commissioner of Insurance,,Rep,John King ,2034,1240,108,2,684
+Hall,Candler,Commissioner of Insurance,,Rep,John King ,2259,1280,79,0,900
+Hall,Tadmore,Commissioner of Insurance,,Rep,John King ,1251,665,52,0,534
+Hall,Glade,Commissioner of Insurance,,Rep,John King ,1536,887,74,1,574
+Hall,Lula,Commissioner of Insurance,,Rep,John King ,1731,912,53,0,766
+Hall,Clermont,Commissioner of Insurance,,Rep,John King ,2144,1304,51,0,789
+Hall,Quillians,Commissioner of Insurance,,Rep,John King ,1779,1148,46,1,584
+Hall,Bark Camp,Commissioner of Insurance,,Rep,John King ,2867,1853,120,0,894
+Hall,Chestatee,Commissioner of Insurance,,Rep,John King ,1937,1113,93,0,731
+Hall,Fork,Commissioner of Insurance,,Rep,John King ,1795,899,94,0,802
+Hall,Whelchel,Commissioner of Insurance,,Rep,John King ,2173,1430,90,1,652
+Hall,West Whelchel,Commissioner of Insurance,,Rep,John King ,2276,1359,222,0,695
+Hall,Gainesville I,Commissioner of Insurance,,Rep,John King ,1441,840,113,0,488
+Hall,Gainesville II,Commissioner of Insurance,,Rep,John King ,194,91,32,0,71
+Hall,Gainesville III,Commissioner of Insurance,,Rep,John King ,787,359,61,0,367
+Hall,Gainesville IV,Commissioner of Insurance,,Rep,John King ,872,564,50,0,258
+Hall,Gainesville V,Commissioner of Insurance,,Rep,John King ,494,298,27,0,169
+Hall,Gillsville,Commissioner of Insurance,,Rep,John King ,617,237,13,0,367
+Hall,Big Hickory,Commissioner of Insurance,,Rep,John King ,2447,1629,104,0,714
+Hall,Friendship I,Commissioner of Insurance,,Rep,John King ,4816,3171,346,0,1299
+Hall,Friendship II,Commissioner of Insurance,,Rep,John King ,1702,962,57,1,682
+Hall,Friendship III,Commissioner of Insurance,,Rep,John King ,1917,1293,48,0,576
+Hall,Friendship IV,Commissioner of Insurance,,Rep,John King ,1874,1388,53,0,433
+Hall,Wilson,Commissioner of Insurance,,Dem,Janice Laws Robinson,841,424,195,0,222
+Hall,Chicopee,Commissioner of Insurance,,Dem,Janice Laws Robinson,620,327,38,1,254
+Hall,Oakwood I,Commissioner of Insurance,,Dem,Janice Laws Robinson,436,222,23,1,190
+Hall,Oakwood II,Commissioner of Insurance,,Dem,Janice Laws Robinson,556,325,68,1,162
+Hall,Flowery Branch I,Commissioner of Insurance,,Dem,Janice Laws Robinson,631,377,61,1,192
+Hall,Flowery Branch II,Commissioner of Insurance,,Dem,Janice Laws Robinson,570,321,51,0,198
+Hall,Roberts,Commissioner of Insurance,,Dem,Janice Laws Robinson,665,395,86,0,184
+Hall,Morgan I,Commissioner of Insurance,,Dem,Janice Laws Robinson,380,227,31,0,122
+Hall,Morgan II,Commissioner of Insurance,,Dem,Janice Laws Robinson,667,371,74,0,222
+Hall,Candler,Commissioner of Insurance,,Dem,Janice Laws Robinson,647,333,67,0,247
+Hall,Tadmore,Commissioner of Insurance,,Dem,Janice Laws Robinson,887,472,79,0,336
+Hall,Glade,Commissioner of Insurance,,Dem,Janice Laws Robinson,379,214,51,0,114
+Hall,Lula,Commissioner of Insurance,,Dem,Janice Laws Robinson,230,114,29,0,87
+Hall,Clermont,Commissioner of Insurance,,Dem,Janice Laws Robinson,189,125,14,0,50
+Hall,Quillians,Commissioner of Insurance,,Dem,Janice Laws Robinson,171,113,16,0,42
+Hall,Bark Camp,Commissioner of Insurance,,Dem,Janice Laws Robinson,560,348,76,0,136
+Hall,Chestatee,Commissioner of Insurance,,Dem,Janice Laws Robinson,367,191,55,0,121
+Hall,Fork,Commissioner of Insurance,,Dem,Janice Laws Robinson,402,198,82,0,122
+Hall,Whelchel,Commissioner of Insurance,,Dem,Janice Laws Robinson,449,267,45,0,137
+Hall,West Whelchel,Commissioner of Insurance,,Dem,Janice Laws Robinson,520,295,99,0,126
+Hall,Gainesville I,Commissioner of Insurance,,Dem,Janice Laws Robinson,601,353,70,3,175
+Hall,Gainesville II,Commissioner of Insurance,,Dem,Janice Laws Robinson,980,512,182,0,286
+Hall,Gainesville III,Commissioner of Insurance,,Dem,Janice Laws Robinson,658,307,59,0,292
+Hall,Gainesville IV,Commissioner of Insurance,,Dem,Janice Laws Robinson,479,303,61,0,115
+Hall,Gainesville V,Commissioner of Insurance,,Dem,Janice Laws Robinson,207,113,25,0,69
+Hall,Gillsville,Commissioner of Insurance,,Dem,Janice Laws Robinson,75,30,11,0,34
+Hall,Big Hickory,Commissioner of Insurance,,Dem,Janice Laws Robinson,269,177,32,0,60
+Hall,Friendship I,Commissioner of Insurance,,Dem,Janice Laws Robinson,1262,782,231,0,249
+Hall,Friendship II,Commissioner of Insurance,,Dem,Janice Laws Robinson,521,338,34,0,149
+Hall,Friendship III,Commissioner of Insurance,,Dem,Janice Laws Robinson,568,349,64,0,155
+Hall,Friendship IV,Commissioner of Insurance,,Dem,Janice Laws Robinson,629,494,45,0,90
+Hall,Wilson,State School Superintendent,,Rep,Richard Woods ,2657,1650,271,1,735
+Hall,Chicopee,State School Superintendent,,Rep,Richard Woods ,1001,551,58,0,392
+Hall,Oakwood I,State School Superintendent,,Rep,Richard Woods ,748,346,34,0,368
+Hall,Oakwood II,State School Superintendent,,Rep,Richard Woods ,2171,1214,122,1,834
+Hall,Flowery Branch I,State School Superintendent,,Rep,Richard Woods ,2262,1333,90,0,839
+Hall,Flowery Branch II,State School Superintendent,,Rep,Richard Woods ,1605,817,53,0,735
+Hall,Roberts,State School Superintendent,,Rep,Richard Woods ,2819,1676,127,0,1016
+Hall,Morgan I,State School Superintendent,,Rep,Richard Woods ,2046,1160,63,1,822
+Hall,Morgan II,State School Superintendent,,Rep,Richard Woods ,2044,1256,113,2,673
+Hall,Candler,State School Superintendent,,Rep,Richard Woods ,2267,1286,82,0,899
+Hall,Tadmore,State School Superintendent,,Rep,Richard Woods ,1230,658,51,0,521
+Hall,Glade,State School Superintendent,,Rep,Richard Woods ,1540,893,77,1,569
+Hall,Lula,State School Superintendent,,Rep,Richard Woods ,1734,917,53,0,764
+Hall,Clermont,State School Superintendent,,Rep,Richard Woods ,2142,1300,50,0,792
+Hall,Quillians,State School Superintendent,,Rep,Richard Woods ,1784,1150,47,1,586
+Hall,Bark Camp,State School Superintendent,,Rep,Richard Woods ,2875,1859,121,0,895
+Hall,Chestatee,State School Superintendent,,Rep,Richard Woods ,1935,1113,90,0,732
+Hall,Fork,State School Superintendent,,Rep,Richard Woods ,1807,902,98,0,807
+Hall,Whelchel,State School Superintendent,,Rep,Richard Woods ,2173,1436,93,1,643
+Hall,West Whelchel,State School Superintendent,,Rep,Richard Woods ,2283,1367,216,0,700
+Hall,Gainesville I,State School Superintendent,,Rep,Richard Woods ,1453,850,108,0,495
+Hall,Gainesville II,State School Superintendent,,Rep,Richard Woods ,183,83,33,0,67
+Hall,Gainesville III,State School Superintendent,,Rep,Richard Woods ,790,360,60,0,370
+Hall,Gainesville IV,State School Superintendent,,Rep,Richard Woods ,874,564,52,0,258
+Hall,Gainesville V,State School Superintendent,,Rep,Richard Woods ,492,301,25,0,166
+Hall,Gillsville,State School Superintendent,,Rep,Richard Woods ,621,237,13,0,371
+Hall,Big Hickory,State School Superintendent,,Rep,Richard Woods ,2459,1637,107,0,715
+Hall,Friendship I,State School Superintendent,,Rep,Richard Woods ,4841,3189,350,0,1302
+Hall,Friendship II,State School Superintendent,,Rep,Richard Woods ,1710,959,62,1,688
+Hall,Friendship III,State School Superintendent,,Rep,Richard Woods ,1907,1287,45,0,575
+Hall,Friendship IV,State School Superintendent,,Rep,Richard Woods ,1882,1397,52,0,433
+Hall,Wilson,State School Superintendent,,Dem,Alisha Thomas Searcy,844,427,188,0,229
+Hall,Chicopee,State School Superintendent,,Dem,Alisha Thomas Searcy,626,329,39,1,257
+Hall,Oakwood I,State School Superintendent,,Dem,Alisha Thomas Searcy,441,223,24,1,193
+Hall,Oakwood II,State School Superintendent,,Dem,Alisha Thomas Searcy,553,319,66,1,167
+Hall,Flowery Branch I,State School Superintendent,,Dem,Alisha Thomas Searcy,634,389,57,1,187
+Hall,Flowery Branch II,State School Superintendent,,Dem,Alisha Thomas Searcy,577,318,51,0,208
+Hall,Roberts,State School Superintendent,,Dem,Alisha Thomas Searcy,649,379,78,0,192
+Hall,Morgan I,State School Superintendent,,Dem,Alisha Thomas Searcy,388,233,31,0,124
+Hall,Morgan II,State School Superintendent,,Dem,Alisha Thomas Searcy,664,357,71,0,236
+Hall,Candler,State School Superintendent,,Dem,Alisha Thomas Searcy,640,327,64,0,249
+Hall,Tadmore,State School Superintendent,,Dem,Alisha Thomas Searcy,904,477,81,0,346
+Hall,Glade,State School Superintendent,,Dem,Alisha Thomas Searcy,382,214,47,0,121
+Hall,Lula,State School Superintendent,,Dem,Alisha Thomas Searcy,227,112,28,0,87
+Hall,Clermont,State School Superintendent,,Dem,Alisha Thomas Searcy,190,126,15,0,49
+Hall,Quillians,State School Superintendent,,Dem,Alisha Thomas Searcy,170,114,15,0,41
+Hall,Bark Camp,State School Superintendent,,Dem,Alisha Thomas Searcy,553,346,72,0,135
+Hall,Chestatee,State School Superintendent,,Dem,Alisha Thomas Searcy,370,191,57,0,122
+Hall,Fork,State School Superintendent,,Dem,Alisha Thomas Searcy,395,193,81,0,121
+Hall,Whelchel,State School Superintendent,,Dem,Alisha Thomas Searcy,450,261,41,0,148
+Hall,West Whelchel,State School Superintendent,,Dem,Alisha Thomas Searcy,518,285,103,0,130
+Hall,Gainesville I,State School Superintendent,,Dem,Alisha Thomas Searcy,594,346,76,3,169
+Hall,Gainesville II,State School Superintendent,,Dem,Alisha Thomas Searcy,1002,523,183,0,296
+Hall,Gainesville III,State School Superintendent,,Dem,Alisha Thomas Searcy,653,305,60,0,288
+Hall,Gainesville IV,State School Superintendent,,Dem,Alisha Thomas Searcy,478,304,60,0,114
+Hall,Gainesville V,State School Superintendent,,Dem,Alisha Thomas Searcy,209,109,27,0,73
+Hall,Gillsville,State School Superintendent,,Dem,Alisha Thomas Searcy,73,30,11,0,32
+Hall,Big Hickory,State School Superintendent,,Dem,Alisha Thomas Searcy,269,176,30,0,63
+Hall,Friendship I,State School Superintendent,,Dem,Alisha Thomas Searcy,1239,763,227,0,249
+Hall,Friendship II,State School Superintendent,,Dem,Alisha Thomas Searcy,521,343,31,0,147
+Hall,Friendship III,State School Superintendent,,Dem,Alisha Thomas Searcy,585,360,67,0,158
+Hall,Friendship IV,State School Superintendent,,Dem,Alisha Thomas Searcy,621,486,45,0,90
+Hall,Wilson,Commissioner of Labor,,Rep,Bruce Thompson,2579,1615,255,1,708
+Hall,Chicopee,Commissioner of Labor,,Rep,Bruce Thompson,957,534,55,0,368
+Hall,Oakwood I,Commissioner of Labor,,Rep,Bruce Thompson,724,339,33,0,352
+Hall,Oakwood II,Commissioner of Labor,,Rep,Bruce Thompson,2099,1179,118,1,801
+Hall,Flowery Branch I,Commissioner of Labor,,Rep,Bruce Thompson,2191,1303,83,0,805
+Hall,Flowery Branch II,Commissioner of Labor,,Rep,Bruce Thompson,1563,794,50,0,719
+Hall,Roberts,Commissioner of Labor,,Rep,Bruce Thompson,2725,1625,112,0,988
+Hall,Morgan I,Commissioner of Labor,,Rep,Bruce Thompson,1994,1128,62,1,803
+Hall,Morgan II,Commissioner of Labor,,Rep,Bruce Thompson,1991,1226,106,1,658
+Hall,Candler,Commissioner of Labor,,Rep,Bruce Thompson,2205,1265,77,0,863
+Hall,Tadmore,Commissioner of Labor,,Rep,Bruce Thompson,1227,659,52,0,516
+Hall,Glade,Commissioner of Labor,,Rep,Bruce Thompson,1500,867,70,1,562
+Hall,Lula,Commissioner of Labor,,Rep,Bruce Thompson,1709,912,52,0,745
+Hall,Clermont,Commissioner of Labor,,Rep,Bruce Thompson,2106,1281,50,0,775
+Hall,Quillians,Commissioner of Labor,,Rep,Bruce Thompson,1736,1127,40,1,568
+Hall,Bark Camp,Commissioner of Labor,,Rep,Bruce Thompson,2806,1827,113,0,866
+Hall,Chestatee,Commissioner of Labor,,Rep,Bruce Thompson,1895,1088,93,0,714
+Hall,Fork,Commissioner of Labor,,Rep,Bruce Thompson,1754,885,95,0,774
+Hall,Whelchel,Commissioner of Labor,,Rep,Bruce Thompson,2118,1394,90,1,633
+Hall,West Whelchel,Commissioner of Labor,,Rep,Bruce Thompson,2207,1329,216,0,662
+Hall,Gainesville I,Commissioner of Labor,,Rep,Bruce Thompson,1390,821,103,0,466
+Hall,Gainesville II,Commissioner of Labor,,Rep,Bruce Thompson,176,86,28,0,62
+Hall,Gainesville III,Commissioner of Labor,,Rep,Bruce Thompson,760,350,59,0,351
+Hall,Gainesville IV,Commissioner of Labor,,Rep,Bruce Thompson,838,549,47,0,242
+Hall,Gainesville V,Commissioner of Labor,,Rep,Bruce Thompson,470,285,23,0,162
+Hall,Gillsville,Commissioner of Labor,,Rep,Bruce Thompson,614,235,13,0,366
+Hall,Big Hickory,Commissioner of Labor,,Rep,Bruce Thompson,2398,1603,103,0,692
+Hall,Friendship I,Commissioner of Labor,,Rep,Bruce Thompson,4644,3092,319,0,1233
+Hall,Friendship II,Commissioner of Labor,,Rep,Bruce Thompson,1643,928,56,1,658
+Hall,Friendship III,Commissioner of Labor,,Rep,Bruce Thompson,1855,1253,46,0,556
+Hall,Friendship IV,Commissioner of Labor,,Rep,Bruce Thompson,1814,1352,47,0,415
+Hall,Wilson,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",826,417,192,0,217
+Hall,Chicopee,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",599,323,37,1,238
+Hall,Oakwood I,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",423,219,23,1,180
+Hall,Oakwood II,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",550,317,66,1,166
+Hall,Flowery Branch I,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",617,377,60,1,179
+Hall,Flowery Branch II,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",553,316,52,0,185
+Hall,Roberts,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",642,379,86,0,177
+Hall,Morgan I,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",364,225,29,0,110
+Hall,Morgan II,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",647,356,76,0,215
+Hall,Candler,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",618,315,65,0,238
+Hall,Tadmore,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",863,456,78,0,329
+Hall,Glade,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",365,206,49,0,110
+Hall,Lula,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",219,107,27,0,85
+Hall,Clermont,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",185,126,13,0,46
+Hall,Quillians,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",163,103,20,0,40
+Hall,Bark Camp,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",537,333,74,0,130
+Hall,Chestatee,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",366,193,53,0,120
+Hall,Fork,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",388,187,80,0,121
+Hall,Whelchel,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",442,263,46,0,133
+Hall,West Whelchel,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",515,293,98,0,124
+Hall,Gainesville I,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",600,352,76,3,169
+Hall,Gainesville II,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",970,506,180,0,284
+Hall,Gainesville III,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",635,305,53,0,277
+Hall,Gainesville IV,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",476,302,62,0,112
+Hall,Gainesville V,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",216,117,29,0,70
+Hall,Gillsville,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",75,29,11,0,35
+Hall,Big Hickory,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",261,172,31,0,58
+Hall,Friendship I,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1262,778,237,0,247
+Hall,Friendship II,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",509,330,36,0,143
+Hall,Friendship III,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",569,355,61,0,153
+Hall,Friendship IV,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",631,490,51,0,90
+Hall,Wilson,Commissioner of Labor,,Lib,Emily Anderson,86,39,8,0,39
+Hall,Chicopee,Commissioner of Labor,,Lib,Emily Anderson,73,24,5,0,44
+Hall,Oakwood I,Commissioner of Labor,,Lib,Emily Anderson,47,14,2,0,31
+Hall,Oakwood II,Commissioner of Labor,,Lib,Emily Anderson,80,40,4,0,36
+Hall,Flowery Branch I,Commissioner of Labor,,Lib,Emily Anderson,89,43,3,0,43
+Hall,Flowery Branch II,Commissioner of Labor,,Lib,Emily Anderson,66,26,1,0,39
+Hall,Roberts,Commissioner of Labor,,Lib,Emily Anderson,89,48,5,0,36
+Hall,Morgan I,Commissioner of Labor,,Lib,Emily Anderson,75,39,2,0,34
+Hall,Morgan II,Commissioner of Labor,,Lib,Emily Anderson,72,31,1,1,39
+Hall,Candler,Commissioner of Labor,,Lib,Emily Anderson,79,34,3,0,42
+Hall,Tadmore,Commissioner of Labor,,Lib,Emily Anderson,61,28,3,0,30
+Hall,Glade,Commissioner of Labor,,Lib,Emily Anderson,57,34,5,0,18
+Hall,Lula,Commissioner of Labor,,Lib,Emily Anderson,33,12,3,0,18
+Hall,Clermont,Commissioner of Labor,,Lib,Emily Anderson,47,22,3,0,22
+Hall,Quillians,Commissioner of Labor,,Lib,Emily Anderson,46,29,0,0,17
+Hall,Bark Camp,Commissioner of Labor,,Lib,Emily Anderson,86,46,6,0,34
+Hall,Chestatee,Commissioner of Labor,,Lib,Emily Anderson,45,23,2,0,20
+Hall,Fork,Commissioner of Labor,,Lib,Emily Anderson,60,25,4,0,31
+Hall,Whelchel,Commissioner of Labor,,Lib,Emily Anderson,60,35,1,0,24
+Hall,West Whelchel,Commissioner of Labor,,Lib,Emily Anderson,69,29,5,0,35
+Hall,Gainesville I,Commissioner of Labor,,Lib,Emily Anderson,51,24,3,0,24
+Hall,Gainesville II,Commissioner of Labor,,Lib,Emily Anderson,36,13,6,0,17
+Hall,Gainesville III,Commissioner of Labor,,Lib,Emily Anderson,50,17,6,0,27
+Hall,Gainesville IV,Commissioner of Labor,,Lib,Emily Anderson,39,17,3,0,19
+Hall,Gainesville V,Commissioner of Labor,,Lib,Emily Anderson,18,11,0,0,7
+Hall,Gillsville,Commissioner of Labor,,Lib,Emily Anderson,7,3,0,0,4
+Hall,Big Hickory,Commissioner of Labor,,Lib,Emily Anderson,65,34,2,0,29
+Hall,Friendship I,Commissioner of Labor,,Lib,Emily Anderson,163,85,12,0,66
+Hall,Friendship II,Commissioner of Labor,,Lib,Emily Anderson,80,44,1,0,35
+Hall,Friendship III,Commissioner of Labor,,Lib,Emily Anderson,69,37,5,0,27
+Hall,Friendship IV,Commissioner of Labor,,Lib,Emily Anderson,52,35,0,0,17
+Hall,Wilson,U.S. House,,Rep,Andrew Clyde ,2526,1576,238,1,711
+Hall,Chicopee,U.S. House,,Rep,Andrew Clyde ,971,531,57,0,383
+Hall,Oakwood I,U.S. House,,Rep,Andrew Clyde ,745,343,33,0,369
+Hall,Oakwood II,U.S. House,,Rep,Andrew Clyde ,2106,1176,112,2,816
+Hall,Flowery Branch I,U.S. House,,Rep,Andrew Clyde ,2208,1307,78,0,823
+Hall,Flowery Branch II,U.S. House,,Rep,Andrew Clyde ,1583,795,52,0,736
+Hall,Roberts,U.S. House,,Rep,Andrew Clyde ,2754,1636,119,0,999
+Hall,Morgan I,U.S. House,,Rep,Andrew Clyde ,2014,1141,58,1,814
+Hall,Morgan II,U.S. House,,Rep,Andrew Clyde ,1983,1214,106,2,661
+Hall,Candler,U.S. House,,Rep,Andrew Clyde ,2235,1269,73,0,893
+Hall,Tadmore,U.S. House,,Rep,Andrew Clyde ,1238,662,51,0,525
+Hall,Glade,U.S. House,,Rep,Andrew Clyde ,1519,879,71,1,568
+Hall,Lula,U.S. House,,Rep,Andrew Clyde ,1729,912,51,0,766
+Hall,Clermont,U.S. House,,Rep,Andrew Clyde ,2106,1273,51,0,782
+Hall,Quillians,U.S. House,,Rep,Andrew Clyde ,1743,1123,42,1,577
+Hall,Bark Camp,U.S. House,,Rep,Andrew Clyde ,2836,1842,109,0,885
+Hall,Chestatee,U.S. House,,Rep,Andrew Clyde ,1888,1083,89,0,716
+Hall,Fork,U.S. House,,Rep,Andrew Clyde ,1767,883,89,0,795
+Hall,Whelchel,U.S. House,,Rep,Andrew Clyde ,2091,1367,83,1,640
+Hall,West Whelchel,U.S. House,,Rep,Andrew Clyde ,2139,1274,206,0,659
+Hall,Gainesville I,U.S. House,,Rep,Andrew Clyde ,1355,796,101,0,458
+Hall,Gainesville II,U.S. House,,Rep,Andrew Clyde ,176,83,30,0,63
+Hall,Gainesville III,U.S. House,,Rep,Andrew Clyde ,768,352,58,0,358
+Hall,Gainesville IV,U.S. House,,Rep,Andrew Clyde ,821,533,44,0,244
+Hall,Gainesville V,U.S. House,,Rep,Andrew Clyde ,463,282,24,0,157
+Hall,Gillsville,U.S. House,,Rep,Andrew Clyde ,612,232,13,0,367
+Hall,Big Hickory,U.S. House,,Rep,Andrew Clyde ,2392,1593,101,0,698
+Hall,Friendship I,U.S. House,,Rep,Andrew Clyde ,4676,3089,307,0,1280
+Hall,Friendship II,U.S. House,,Rep,Andrew Clyde ,1662,937,50,1,674
+Hall,Friendship III,U.S. House,,Rep,Andrew Clyde ,1877,1260,44,0,573
+Hall,Friendship IV,U.S. House,,Rep,Andrew Clyde ,1803,1341,46,0,416
+Hall,Wilson,U.S. House,,Dem,"Michael """"Mike"""" Ford",970,491,227,0,252
+Hall,Chicopee,U.S. House,,Dem,"Michael """"Mike"""" Ford",657,347,42,1,267
+Hall,Oakwood I,U.S. House,,Dem,"Michael """"Mike"""" Ford",449,231,24,1,193
+Hall,Oakwood II,U.S. House,,Dem,"Michael """"Mike"""" Ford",614,354,75,0,185
+Hall,Flowery Branch I,U.S. House,,Dem,"Michael """"Mike"""" Ford",693,417,67,1,208
+Hall,Flowery Branch II,U.S. House,,Dem,"Michael """"Mike"""" Ford",603,343,53,0,207
+Hall,Roberts,U.S. House,,Dem,"Michael """"Mike"""" Ford",711,422,88,0,201
+Hall,Morgan I,U.S. House,,Dem,"Michael """"Mike"""" Ford",415,248,35,0,132
+Hall,Morgan II,U.S. House,,Dem,"Michael """"Mike"""" Ford",722,391,81,0,250
+Hall,Candler,U.S. House,,Dem,"Michael """"Mike"""" Ford",678,350,72,0,256
+Hall,Tadmore,U.S. House,,Dem,"Michael """"Mike"""" Ford",907,479,82,0,346
+Hall,Glade,U.S. House,,Dem,"Michael """"Mike"""" Ford",409,228,54,0,127
+Hall,Lula,U.S. House,,Dem,"Michael """"Mike"""" Ford",234,118,29,0,87
+Hall,Clermont,U.S. House,,Dem,"Michael """"Mike"""" Ford",228,153,16,0,59
+Hall,Quillians,U.S. House,,Dem,"Michael """"Mike"""" Ford",205,135,20,0,50
+Hall,Bark Camp,U.S. House,,Dem,"Michael """"Mike"""" Ford",601,368,88,0,145
+Hall,Chestatee,U.S. House,,Dem,"Michael """"Mike"""" Ford",419,221,61,0,137
+Hall,Fork,U.S. House,,Dem,"Michael """"Mike"""" Ford",441,216,89,0,136
+Hall,Whelchel,U.S. House,,Dem,"Michael """"Mike"""" Ford",529,326,54,0,149
+Hall,West Whelchel,U.S. House,,Dem,"Michael """"Mike"""" Ford",648,368,119,0,161
+Hall,Gainesville I,U.S. House,,Dem,"Michael """"Mike"""" Ford",682,399,82,3,198
+Hall,Gainesville II,U.S. House,,Dem,"Michael """"Mike"""" Ford",1004,523,184,0,297
+Hall,Gainesville III,U.S. House,,Dem,"Michael """"Mike"""" Ford",672,317,59,0,296
+Hall,Gainesville IV,U.S. House,,Dem,"Michael """"Mike"""" Ford",541,340,69,0,132
+Hall,Gainesville V,U.S. House,,Dem,"Michael """"Mike"""" Ford",234,129,26,0,79
+Hall,Gillsville,U.S. House,,Dem,"Michael """"Mike"""" Ford",83,34,11,0,38
+Hall,Big Hickory,U.S. House,,Dem,"Michael """"Mike"""" Ford",331,216,39,0,76
+Hall,Friendship I,U.S. House,,Dem,"Michael """"Mike"""" Ford",1418,868,277,0,273
+Hall,Friendship II,U.S. House,,Dem,"Michael """"Mike"""" Ford",573,365,43,0,165
+Hall,Friendship III,U.S. House,,Dem,"Michael """"Mike"""" Ford",617,387,69,0,161
+Hall,Friendship IV,U.S. House,,Dem,"Michael """"Mike"""" Ford",700,540,56,0,104
+Hall,Wilson,State Senate,,Rep,Shelly Echols,2585,1607,251,1,726
+Hall,Chicopee,State Senate,,Rep,Shelly Echols,982,533,60,0,389
+Hall,Oakwood I,State Senate,,Rep,Shelly Echols,750,348,33,0,369
+Hall,Oakwood II,State Senate,,Rep,Shelly Echols,2129,1192,113,1,823
+Hall,Flowery Branch I,State Senate,,Rep,Shelly Echols,2236,1316,82,0,838
+Hall,Flowery Branch II,State Senate,,Rep,Shelly Echols,1586,801,48,0,737
+Hall,Roberts,State Senate,,Rep,Shelly Echols,2771,1651,121,0,999
+Hall,Morgan I,State Senate,,Rep,Shelly Echols,2030,1144,61,1,824
+Hall,Morgan II,State Senate,,Rep,Shelly Echols,2004,1230,103,2,669
+Hall,Candler,State Senate,,Rep,Shelly Echols,2260,1292,77,0,891
+Hall,Tadmore,State Senate,,Rep,Shelly Echols,274,145,18,0,111
+Hall,Glade,State Senate,,Rep,Shelly Echols,1036,590,55,1,390
+Hall,Lula,State Senate,,Rep,Shelly Echols,1730,911,51,0,768
+Hall,Clermont,State Senate,,Rep,Shelly Echols,2110,1281,53,0,776
+Hall,Quillians,State Senate,,Rep,Shelly Echols,1744,1121,45,1,577
+Hall,Bark Camp,State Senate,,Rep,Shelly Echols,2849,1847,114,0,888
+Hall,Chestatee,State Senate,,Rep,Shelly Echols,1904,1090,88,0,726
+Hall,Fork,State Senate,,Rep,Shelly Echols,1771,884,88,0,799
+Hall,Whelchel,State Senate,,Rep,Shelly Echols,2142,1405,89,1,647
+Hall,West Whelchel,State Senate,,Rep,Shelly Echols,2093,1232,210,0,651
+Hall,Gainesville I,State Senate,,Rep,Shelly Echols,1343,792,103,0,448
+Hall,Gainesville II,State Senate,,Rep,Shelly Echols,198,96,36,0,66
+Hall,Gainesville III,State Senate,,Rep,Shelly Echols,778,351,59,0,368
+Hall,Gainesville IV,State Senate,,Rep,Shelly Echols,799,523,47,0,229
+Hall,Gainesville V,State Senate,,Rep,Shelly Echols,457,277,23,0,157
+Hall,Big Hickory,State Senate,,Rep,Shelly Echols,2382,1584,101,0,697
+Hall,Friendship I,State Senate,,Rep,Shelly Echols,4744,3137,321,0,1286
+Hall,Friendship II,State Senate,,Rep,Shelly Echols,1687,945,57,1,684
+Hall,Friendship III,State Senate,,Rep,Shelly Echols,1883,1265,46,0,572
+Hall,Friendship IV,State Senate,,Rep,Shelly Echols,1849,1374,47,0,428
+Hall,Wilson,State Senate,,Dem,Jody Cooley,926,472,214,0,240
+Hall,Chicopee,State Senate,,Dem,Jody Cooley,650,348,38,1,263
+Hall,Oakwood I,State Senate,,Dem,Jody Cooley,445,226,24,1,194
+Hall,Oakwood II,State Senate,,Dem,Jody Cooley,595,342,76,1,176
+Hall,Flowery Branch I,State Senate,,Dem,Jody Cooley,666,409,63,1,193
+Hall,Flowery Branch II,State Senate,,Dem,Jody Cooley,595,334,59,0,202
+Hall,Roberts,State Senate,,Dem,Jody Cooley,689,406,82,0,201
+Hall,Morgan I,State Senate,,Dem,Jody Cooley,403,245,35,0,123
+Hall,Morgan II,State Senate,,Dem,Jody Cooley,707,382,82,0,243
+Hall,Candler,State Senate,,Dem,Jody Cooley,649,326,69,0,254
+Hall,Tadmore,State Senate,,Dem,Jody Cooley,338,212,41,0,85
+Hall,Glade,State Senate,,Dem,Jody Cooley,326,186,41,0,99
+Hall,Lula,State Senate,,Dem,Jody Cooley,223,111,29,0,83
+Hall,Clermont,State Senate,,Dem,Jody Cooley,222,146,14,0,62
+Hall,Quillians,State Senate,,Dem,Jody Cooley,204,138,17,0,49
+Hall,Bark Camp,State Senate,,Dem,Jody Cooley,584,363,81,0,140
+Hall,Chestatee,State Senate,,Dem,Jody Cooley,405,216,62,0,127
+Hall,Fork,State Senate,,Dem,Jody Cooley,428,211,88,0,129
+Hall,Whelchel,State Senate,,Dem,Jody Cooley,493,297,49,0,147
+Hall,West Whelchel,State Senate,,Dem,Jody Cooley,720,424,114,0,182
+Hall,Gainesville I,State Senate,,Dem,Jody Cooley,704,404,80,3,217
+Hall,Gainesville II,State Senate,,Dem,Jody Cooley,984,508,178,0,298
+Hall,Gainesville III,State Senate,,Dem,Jody Cooley,667,320,61,0,286
+Hall,Gainesville IV,State Senate,,Dem,Jody Cooley,567,352,67,0,148
+Hall,Gainesville V,State Senate,,Dem,Jody Cooley,244,136,27,0,81
+Hall,Big Hickory,State Senate,,Dem,Jody Cooley,335,223,34,0,78
+Hall,Friendship I,State Senate,,Dem,Jody Cooley,1340,822,254,0,264
+Hall,Friendship II,State Senate,,Dem,Jody Cooley,545,356,36,0,153
+Hall,Friendship III,State Senate,,Dem,Jody Cooley,610,381,67,0,162
+Hall,Friendship IV,State Senate,,Dem,Jody Cooley,655,507,54,0,94
+Hall,Tadmore,State Senate,,Rep,Bo Hatchett ,965,521,32,0,412
+Hall,Glade,State Senate,,Rep,Bo Hatchett ,491,295,17,0,179
+Hall,Gillsville,State Senate,,Rep,Bo Hatchett ,620,237,13,0,370
+Hall,Tadmore,State Senate,,Dem,Paulette Williams,568,261,42,0,265
+Hall,Glade,State Senate,,Dem,Paulette Williams,65,36,10,0,19
+Hall,Gillsville,State Senate,,Dem,Paulette Williams,76,30,11,0,35
+Hall,Glade,State House,,Rep,Lee Hawkins ,1707,980,84,1,642
+Hall,Lula,State House,,Rep,Lee Hawkins ,1861,970,65,0,826
+Hall,Clermont,State House,,Rep,Lee Hawkins ,2240,1365,56,0,819
+Hall,Quillians,State House,,Rep,Lee Hawkins ,1865,1209,50,1,605
+Hall,Bark Camp,State House,,Rep,Lee Hawkins ,3141,2025,144,0,972
+Hall,Chestatee,State House,,Rep,Lee Hawkins ,2109,1198,103,0,808
+Hall,Whelchel,State House,,Rep,Lee Hawkins ,2396,1557,106,0,733
+Hall,West Whelchel,State House,,Rep,Lee Hawkins ,2536,1512,246,0,778
+Hall,Gainesville V,State House,,Rep,Lee Hawkins ,597,360,29,0,208
+Hall,Gillsville,State House,,Rep,Lee Hawkins ,664,256,18,0,390
+Hall,Big Hickory,State House,,Rep,Lee Hawkins ,2575,1705,122,0,748
+Hall,Wilson,State House,,Rep,Brent Cox,1413,861,121,0,431
+Hall,Fork,State House,,Rep,Brent Cox,1780,894,90,0,796
+Hall,Wilson,State House,,Dem,Claudia Wood,431,239,94,0,98
+Hall,Fork,State House,,Dem,Claudia Wood,418,202,86,0,130
+Hall,Wilson,State House,,Rep,Matt Dubnik ,1182,758,132,0,292
+Hall,Chicopee,State House,,Rep,Matt Dubnik ,990,543,60,0,387
+Hall,Oakwood I,State House,,Rep,Matt Dubnik ,749,347,32,0,370
+Hall,Oakwood II,State House,,Rep,Matt Dubnik ,2163,1209,116,1,837
+Hall,Glade,State House,,Rep,Matt Dubnik ,0,0,0,0,0
+Hall,Gainesville I,State House,,Rep,Matt Dubnik ,1461,855,112,0,494
+Hall,Gainesville II,State House,,Rep,Matt Dubnik ,198,93,33,0,72
+Hall,Gainesville III,State House,,Rep,Matt Dubnik ,790,361,61,0,368
+Hall,Gainesville IV,State House,,Rep,Matt Dubnik ,880,571,50,0,259
+Hall,Wilson,State House,,Dem,Devin Pandy,474,215,116,0,143
+Hall,Chicopee,State House,,Dem,Devin Pandy,637,336,37,0,264
+Hall,Oakwood I,State House,,Dem,Devin Pandy,443,226,25,1,191
+Hall,Oakwood II,State House,,Dem,Devin Pandy,560,325,69,0,166
+Hall,Glade,State House,,Dem,Devin Pandy,0,0,0,0,0
+Hall,Gainesville I,State House,,Dem,Devin Pandy,590,345,72,2,171
+Hall,Gainesville II,State House,,Dem,Devin Pandy,980,509,182,0,289
+Hall,Gainesville III,State House,,Dem,Devin Pandy,656,309,59,0,288
+Hall,Gainesville IV,State House,,Dem,Devin Pandy,479,301,63,0,115
+Hall,Flowery Branch I,State House,,Rep,Derrick McCollum,2233,1318,81,0,834
+Hall,Flowery Branch II,State House,,Rep,Derrick McCollum,1586,804,53,0,729
+Hall,Morgan I,State House,,Rep,Derrick McCollum,2041,1155,60,0,826
+Hall,Morgan II,State House,,Rep,Derrick McCollum,2008,1234,103,0,671
+Hall,Candler,State House,,Rep,Derrick McCollum,2247,1280,77,0,890
+Hall,Friendship I,State House,,Rep,Derrick McCollum,4717,3118,319,0,1280
+Hall,Friendship III,State House,,Rep,Derrick McCollum,1893,1265,46,0,582
+Hall,Flowery Branch I,State House,,Dem,Kim Floria,665,405,64,0,196
+Hall,Flowery Branch II,State House,,Dem,Kim Floria,598,333,55,0,210
+Hall,Morgan I,State House,,Dem,Kim Floria,393,237,34,0,122
+Hall,Morgan II,State House,,Dem,Kim Floria,696,375,81,0,240
+Hall,Candler,State House,,Dem,Kim Floria,661,336,68,0,257
+Hall,Friendship I,State House,,Dem,Kim Floria,1358,833,256,0,269
+Hall,Friendship III,State House,,Dem,Kim Floria,598,378,65,0,155
+Hall,Tadmore,State House,,Rep,"Emory Dunahoo, Jr. ",1677,876,75,0,726
+Hall,Roberts,State House,,Rep,David Clark ,2787,1657,121,0,1009
+Hall,Roberts,State House,,Dem,Louisa Shell Jackson,681,405,84,0,192
+Hall,Friendship I,State House,,Rep,Soo Hong,6,3,1,0,2
+Hall,Friendship II,State House,,Rep,Soo Hong,1678,941,55,0,682
+Hall,Friendship III,State House,,Rep,Soo Hong,2,2,0,0,0
+Hall,Friendship IV,State House,,Rep,Soo Hong,1851,1378,48,0,425
+Hall,Friendship I,State House,,Dem,Ernie Anaya,2,0,1,0,1
+Hall,Friendship II,State House,,Dem,Ernie Anaya,542,358,37,0,147
+Hall,Friendship III,State House,,Dem,Ernie Anaya,2,0,2,0,0
+Hall,Friendship IV,State House,,Dem,Ernie Anaya,645,499,51,0,95
+Hall,Wilson,District Attorney,,Rep,Lee Darragh ,3028,1833,320,1,874
+Hall,Chicopee,District Attorney,,Rep,Lee Darragh ,1350,720,71,1,558
+Hall,Oakwood I,District Attorney,,Rep,Lee Darragh ,979,465,39,0,475
+Hall,Oakwood II,District Attorney,,Rep,Lee Darragh ,2445,1365,148,2,930
+Hall,Flowery Branch I,District Attorney,,Rep,Lee Darragh ,2546,1498,103,1,944
+Hall,Flowery Branch II,District Attorney,,Rep,Lee Darragh ,1907,984,63,0,860
+Hall,Roberts,District Attorney,,Rep,Lee Darragh ,3111,1847,155,0,1109
+Hall,Morgan I,District Attorney,,Rep,Lee Darragh ,2240,1269,66,1,904
+Hall,Morgan II,District Attorney,,Rep,Lee Darragh ,2379,1399,142,2,836
+Hall,Candler,District Attorney,,Rep,Lee Darragh ,2597,1441,102,0,1054
+Hall,Tadmore,District Attorney,,Rep,Lee Darragh ,1675,883,74,0,718
+Hall,Glade,District Attorney,,Rep,Lee Darragh ,1708,983,85,1,639
+Hall,Lula,District Attorney,,Rep,Lee Darragh ,1853,971,61,0,821
+Hall,Clermont,District Attorney,,Rep,Lee Darragh ,2230,1356,55,0,819
+Hall,Quillians,District Attorney,,Rep,Lee Darragh ,1847,1195,50,1,601
+Hall,Bark Camp,District Attorney,,Rep,Lee Darragh ,3136,2021,146,0,969
+Hall,Chestatee,District Attorney,,Rep,Lee Darragh ,2097,1200,95,0,802
+Hall,Fork,District Attorney,,Rep,Lee Darragh ,1974,985,124,0,865
+Hall,Whelchel,District Attorney,,Rep,Lee Darragh ,2371,1545,102,1,723
+Hall,West Whelchel,District Attorney,,Rep,Lee Darragh ,2493,1500,228,0,765
+Hall,Gainesville I,District Attorney,,Rep,Lee Darragh ,1766,1035,138,1,592
+Hall,Gainesville II,District Attorney,,Rep,Lee Darragh ,658,330,97,0,231
+Hall,Gainesville III,District Attorney,,Rep,Lee Darragh ,1167,535,86,0,546
+Hall,Gainesville IV,District Attorney,,Rep,Lee Darragh ,1133,730,82,0,321
+Hall,Gainesville V,District Attorney,,Rep,Lee Darragh ,598,358,29,0,211
+Hall,Gillsville,District Attorney,,Rep,Lee Darragh ,660,253,18,0,389
+Hall,Big Hickory,District Attorney,,Rep,Lee Darragh ,2570,1705,116,0,749
+Hall,Friendship I,District Attorney,,Rep,Lee Darragh ,5382,3532,416,0,1434
+Hall,Friendship II,District Attorney,,Rep,Lee Darragh ,1934,1106,73,1,754
+Hall,Friendship III,District Attorney,,Rep,Lee Darragh ,2198,1454,67,0,677
+Hall,Friendship IV,District Attorney,,Rep,Lee Darragh ,2170,1620,65,0,485
+Hall,Wilson,Solicitor General,,Rep,Stephanie Woodard ,2988,1823,303,1,861
+Hall,Chicopee,Solicitor General,,Rep,Stephanie Woodard ,1329,714,65,1,549
+Hall,Oakwood I,Solicitor General,,Rep,Stephanie Woodard ,974,466,36,0,472
+Hall,Oakwood II,Solicitor General,,Rep,Stephanie Woodard ,2416,1350,136,2,928
+Hall,Flowery Branch I,Solicitor General,,Rep,Stephanie Woodard ,2524,1486,97,1,940
+Hall,Flowery Branch II,Solicitor General,,Rep,Stephanie Woodard ,1890,980,52,0,858
+Hall,Roberts,Solicitor General,,Rep,Stephanie Woodard ,3088,1842,141,0,1105
+Hall,Morgan I,Solicitor General,,Rep,Stephanie Woodard ,2222,1268,62,1,891
+Hall,Morgan II,Solicitor General,,Rep,Stephanie Woodard ,2369,1409,137,2,821
+Hall,Candler,Solicitor General,,Rep,Stephanie Woodard ,2576,1434,100,0,1042
+Hall,Tadmore,Solicitor General,,Rep,Stephanie Woodard ,1661,874,77,0,710
+Hall,Glade,Solicitor General,,Rep,Stephanie Woodard ,1704,988,84,1,631
+Hall,Lula,Solicitor General,,Rep,Stephanie Woodard ,1822,955,64,0,803
+Hall,Clermont,Solicitor General,,Rep,Stephanie Woodard ,2189,1333,54,0,802
+Hall,Quillians,Solicitor General,,Rep,Stephanie Woodard ,1826,1182,50,1,593
+Hall,Bark Camp,Solicitor General,,Rep,Stephanie Woodard ,3097,2001,138,0,958
+Hall,Chestatee,Solicitor General,,Rep,Stephanie Woodard ,2074,1189,101,0,784
+Hall,Fork,Solicitor General,,Rep,Stephanie Woodard ,1946,982,109,0,855
+Hall,Whelchel,Solicitor General,,Rep,Stephanie Woodard ,2338,1532,98,1,707
+Hall,West Whelchel,Solicitor General,,Rep,Stephanie Woodard ,2439,1471,228,0,740
+Hall,Gainesville I,Solicitor General,,Rep,Stephanie Woodard ,1735,1025,133,1,576
+Hall,Gainesville II,Solicitor General,,Rep,Stephanie Woodard ,659,333,91,0,235
+Hall,Gainesville III,Solicitor General,,Rep,Stephanie Woodard ,1152,530,79,0,543
+Hall,Gainesville IV,Solicitor General,,Rep,Stephanie Woodard ,1100,718,76,0,306
+Hall,Gainesville V,Solicitor General,,Rep,Stephanie Woodard ,589,358,28,0,203
+Hall,Gillsville,Solicitor General,,Rep,Stephanie Woodard ,646,251,18,0,377
+Hall,Big Hickory,Solicitor General,,Rep,Stephanie Woodard ,2518,1671,115,0,732
+Hall,Friendship I,Solicitor General,,Rep,Stephanie Woodard ,5304,3505,377,0,1422
+Hall,Friendship II,Solicitor General,,Rep,Stephanie Woodard ,1925,1103,68,1,753
+Hall,Friendship III,Solicitor General,,Rep,Stephanie Woodard ,2176,1448,60,0,668
+Hall,Friendship IV,Solicitor General,,Rep,Stephanie Woodard ,2157,1621,58,0,478
+Hall,Oakwood I,Hall County Board of Commissioners,,Rep,Kathy L. Cooper ,66,33,3,0,30
+Hall,Flowery Branch I,Hall County Board of Commissioners,,Rep,Kathy L. Cooper ,138,74,3,0,61
+Hall,Flowery Branch II,Hall County Board of Commissioners,,Rep,Kathy L. Cooper ,811,370,21,0,420
+Hall,Roberts,Hall County Board of Commissioners,,Rep,Kathy L. Cooper ,1419,887,48,0,484
+Hall,Morgan I,Hall County Board of Commissioners,,Rep,Kathy L. Cooper ,2014,1133,63,0,818
+Hall,Morgan II,Hall County Board of Commissioners,,Rep,Kathy L. Cooper ,2036,1240,113,0,683
+Hall,Candler,Hall County Board of Commissioners,,Rep,Kathy L. Cooper ,1045,614,44,0,387
+Hall,Friendship I,Hall County Board of Commissioners,,Rep,Kathy L. Cooper ,4825,3184,340,0,1301
+Hall,Friendship II,Hall County Board of Commissioners,,Rep,Kathy L. Cooper ,1697,952,60,0,685
+Hall,Friendship III,Hall County Board of Commissioners,,Rep,Kathy L. Cooper ,1901,1273,49,0,579
+Hall,Friendship IV,Hall County Board of Commissioners,,Rep,Kathy L. Cooper ,1873,1393,47,0,433
+Hall,Oakwood I,Hall County Board of Commissioners,,Dem,Laura Colaninno,58,22,4,0,32
+Hall,Flowery Branch I,Hall County Board of Commissioners,,Dem,Laura Colaninno,65,37,7,0,21
+Hall,Flowery Branch II,Hall County Board of Commissioners,,Dem,Laura Colaninno,369,190,28,0,151
+Hall,Roberts,Hall County Board of Commissioners,,Dem,Laura Colaninno,385,237,40,0,108
+Hall,Morgan I,Hall County Board of Commissioners,,Dem,Laura Colaninno,391,242,31,0,118
+Hall,Morgan II,Hall County Board of Commissioners,,Dem,Laura Colaninno,653,360,70,0,223
+Hall,Candler,Hall County Board of Commissioners,,Dem,Laura Colaninno,216,119,28,0,69
+Hall,Friendship I,Hall County Board of Commissioners,,Dem,Laura Colaninno,1232,762,226,0,244
+Hall,Friendship II,Hall County Board of Commissioners,,Dem,Laura Colaninno,525,344,31,0,150
+Hall,Friendship III,Hall County Board of Commissioners,,Dem,Laura Colaninno,579,361,62,0,156
+Hall,Friendship IV,Hall County Board of Commissioners,,Dem,Laura Colaninno,614,479,50,0,85
+Hall,Candler,Hall County Board of Commissioners,,Rep,Gregg Poole,1189,621,41,0,527
+Hall,Tadmore,Hall County Board of Commissioners,,Rep,Gregg Poole,1440,751,57,0,632
+Hall,Glade,Hall County Board of Commissioners,,Rep,Gregg Poole,1659,951,81,0,627
+Hall,Lula,Hall County Board of Commissioners,,Rep,Gregg Poole,1850,964,65,0,821
+Hall,Clermont,Hall County Board of Commissioners,,Rep,Gregg Poole,2231,1357,55,0,819
+Hall,Quillians,Hall County Board of Commissioners,,Rep,Gregg Poole,1850,1199,50,1,600
+Hall,Whelchel,Hall County Board of Commissioners,,Rep,Gregg Poole,2096,1394,83,0,619
+Hall,Gainesville I,Hall County Board of Commissioners,,Rep,Gregg Poole,200,143,11,0,46
+Hall,Gillsville,Hall County Board of Commissioners,,Rep,Gregg Poole,659,251,18,0,390
+Hall,Big Hickory,Hall County Board of Commissioners,,Rep,Gregg Poole,2558,1696,115,0,747
+Hall,Wilson,County BOE,,Rep,Bill Thompson ,1244,643,90,0,511
+Hall,Chicopee,County BOE,,Rep,Bill Thompson ,306,126,18,0,162
+Hall,Oakwood I,County BOE,,Rep,Bill Thompson ,676,316,26,0,334
+Hall,Oakwood II,County BOE,,Rep,Bill Thompson ,2095,1177,113,2,803
+Hall,Flowery Branch I,County BOE,,Rep,Bill Thompson ,2264,1338,87,0,839
+Hall,Flowery Branch II,County BOE,,Rep,Bill Thompson ,1575,801,50,0,724
+Hall,Roberts,County BOE,,Rep,Bill Thompson ,1853,1084,90,0,679
+Hall,Morgan I,County BOE,,Rep,Bill Thompson ,2055,1161,65,1,828
+Hall,Morgan II,County BOE,,Rep,Bill Thompson ,2059,1264,111,2,682
+Hall,Candler,County BOE,,Rep,Bill Thompson ,2173,1226,82,0,865
+Hall,Tadmore,County BOE,,Rep,Bill Thompson ,1211,645,49,0,517
+Hall,Glade,County BOE,,Rep,Bill Thompson ,1352,785,50,0,517
+Hall,Lula,County BOE,,Rep,Bill Thompson ,1727,911,53,0,763
+Hall,Clermont,County BOE,,Rep,Bill Thompson ,2141,1302,52,0,787
+Hall,Quillians,County BOE,,Rep,Bill Thompson ,1777,1146,46,1,584
+Hall,Bark Camp,County BOE,,Rep,Bill Thompson ,2895,1876,118,0,901
+Hall,Chestatee,County BOE,,Rep,Bill Thompson ,1913,1096,93,0,724
+Hall,Fork,County BOE,,Rep,Bill Thompson ,1780,888,100,0,792
+Hall,Whelchel,County BOE,,Rep,Bill Thompson ,2098,1386,87,1,624
+Hall,West Whelchel,County BOE,,Rep,Bill Thompson ,1546,916,174,0,456
+Hall,Gainesville I,County BOE,,Rep,Bill Thompson ,168,128,6,0,34
+Hall,Gainesville II,County BOE,,Rep,Bill Thompson ,55,27,9,0,19
+Hall,Gainesville III,County BOE,,Rep,Bill Thompson ,239,119,24,0,96
+Hall,Gainesville IV,County BOE,,Rep,Bill Thompson ,46,25,3,0,18
+Hall,Gainesville V,County BOE,,Rep,Bill Thompson ,2,2,0,0,0
+Hall,Gillsville,County BOE,,Rep,Bill Thompson ,615,237,13,0,365
+Hall,Big Hickory,County BOE,,Rep,Bill Thompson ,2442,1624,101,0,717
+Hall,Friendship I,County BOE,,Rep,Bill Thompson ,4805,3165,336,0,1304
+Hall,Friendship II,County BOE,,Rep,Bill Thompson ,1588,899,54,1,634
+Hall,Friendship III,County BOE,,Rep,Bill Thompson ,1927,1294,47,0,586
+Hall,Friendship IV,County BOE,,Rep,Bill Thompson ,1866,1393,47,0,426
+Hall,Wilson,County BOE,,Dem,Pat Calmes,332,138,58,0,136
+Hall,Chicopee,County BOE,,Dem,Pat Calmes,173,77,10,1,85
+Hall,Oakwood I,County BOE,,Dem,Pat Calmes,383,196,24,1,162
+Hall,Oakwood II,County BOE,,Dem,Pat Calmes,499,297,64,0,138
+Hall,Flowery Branch I,County BOE,,Dem,Pat Calmes,624,380,55,1,188
+Hall,Flowery Branch II,County BOE,,Dem,Pat Calmes,541,307,48,0,186
+Hall,Roberts,County BOE,,Dem,Pat Calmes,423,240,58,0,125
+Hall,Morgan I,County BOE,,Dem,Pat Calmes,372,225,31,0,116
+Hall,Morgan II,County BOE,,Dem,Pat Calmes,645,349,74,0,222
+Hall,Candler,County BOE,,Dem,Pat Calmes,518,268,50,0,200
+Hall,Tadmore,County BOE,,Dem,Pat Calmes,778,401,75,0,302
+Hall,Glade,County BOE,,Dem,Pat Calmes,262,158,30,0,74
+Hall,Lula,County BOE,,Dem,Pat Calmes,223,112,29,0,82
+Hall,Clermont,County BOE,,Dem,Pat Calmes,190,124,14,0,52
+Hall,Quillians,County BOE,,Dem,Pat Calmes,167,110,16,0,41
+Hall,Bark Camp,County BOE,,Dem,Pat Calmes,524,323,75,0,126
+Hall,Chestatee,County BOE,,Dem,Pat Calmes,352,184,53,0,115
+Hall,Fork,County BOE,,Dem,Pat Calmes,363,183,65,0,115
+Hall,Whelchel,County BOE,,Dem,Pat Calmes,419,241,44,0,134
+Hall,West Whelchel,County BOE,,Dem,Pat Calmes,391,217,79,0,95
+Hall,Gainesville I,County BOE,,Dem,Pat Calmes,33,19,1,0,13
+Hall,Gainesville II,County BOE,,Dem,Pat Calmes,488,274,90,0,124
+Hall,Gainesville III,County BOE,,Dem,Pat Calmes,136,60,11,0,65
+Hall,Gainesville IV,County BOE,,Dem,Pat Calmes,31,15,5,0,11
+Hall,Gainesville V,County BOE,,Dem,Pat Calmes,1,0,0,0,1
+Hall,Gillsville,County BOE,,Dem,Pat Calmes,78,30,11,0,37
+Hall,Big Hickory,County BOE,,Dem,Pat Calmes,274,179,35,0,60
+Hall,Friendship I,County BOE,,Dem,Pat Calmes,1257,782,233,0,242
+Hall,Friendship II,County BOE,,Dem,Pat Calmes,469,301,33,0,135
+Hall,Friendship III,County BOE,,Dem,Pat Calmes,560,349,64,0,147
+Hall,Friendship IV,County BOE,,Dem,Pat Calmes,624,483,50,0,91
+Hall,Wilson,County BOE,,Rep,Debra Jones Smith,1215,626,88,0,501
+Hall,Chicopee,County BOE,,Rep,Debra Jones Smith,305,125,18,0,162
+Hall,Oakwood I,County BOE,,Rep,Debra Jones Smith,675,315,29,0,331
+Hall,Oakwood II,County BOE,,Rep,Debra Jones Smith,2070,1169,113,2,786
+Hall,Flowery Branch I,County BOE,,Rep,Debra Jones Smith,2231,1319,83,0,829
+Hall,Flowery Branch II,County BOE,,Rep,Debra Jones Smith,1549,786,49,0,714
+Hall,Roberts,County BOE,,Rep,Debra Jones Smith,1843,1077,93,0,673
+Hall,Morgan I,County BOE,,Rep,Debra Jones Smith,2023,1146,63,1,813
+Hall,Morgan II,County BOE,,Rep,Debra Jones Smith,2023,1240,110,2,671
+Hall,Candler,County BOE,,Rep,Debra Jones Smith,2109,1195,75,0,839
+Hall,Tadmore,County BOE,,Rep,Debra Jones Smith,1173,629,45,0,499
+Hall,Glade,County BOE,,Rep,Debra Jones Smith,1347,781,53,0,513
+Hall,Lula,County BOE,,Rep,Debra Jones Smith,1732,915,54,0,763
+Hall,Clermont,County BOE,,Rep,Debra Jones Smith,2132,1294,53,0,785
+Hall,Quillians,County BOE,,Rep,Debra Jones Smith,1773,1141,47,1,584
+Hall,Bark Camp,County BOE,,Rep,Debra Jones Smith,2865,1863,116,0,886
+Hall,Chestatee,County BOE,,Rep,Debra Jones Smith,1893,1084,94,0,715
+Hall,Fork,County BOE,,Rep,Debra Jones Smith,1753,875,98,0,780
+Hall,Whelchel,County BOE,,Rep,Debra Jones Smith,2095,1382,86,1,626
+Hall,West Whelchel,County BOE,,Rep,Debra Jones Smith,1509,888,175,0,446
+Hall,Gainesville I,County BOE,,Rep,Debra Jones Smith,166,126,6,0,34
+Hall,Gainesville II,County BOE,,Rep,Debra Jones Smith,44,23,5,0,16
+Hall,Gainesville III,County BOE,,Rep,Debra Jones Smith,231,118,23,0,90
+Hall,Gainesville IV,County BOE,,Rep,Debra Jones Smith,44,23,2,0,19
+Hall,Gainesville V,County BOE,,Rep,Debra Jones Smith,1,1,0,0,0
+Hall,Gillsville,County BOE,,Rep,Debra Jones Smith,617,233,13,0,371
+Hall,Big Hickory,County BOE,,Rep,Debra Jones Smith,2427,1618,101,0,708
+Hall,Friendship I,County BOE,,Rep,Debra Jones Smith,4735,3128,326,0,1281
+Hall,Friendship II,County BOE,,Rep,Debra Jones Smith,1570,882,52,1,635
+Hall,Friendship III,County BOE,,Rep,Debra Jones Smith,1895,1275,46,0,574
+Hall,Friendship IV,County BOE,,Rep,Debra Jones Smith,1841,1371,47,0,423
+Hall,Wilson,County BOE,,Dem,Angela Thomas Middleton,357,153,59,0,145
+Hall,Chicopee,County BOE,,Dem,Angela Thomas Middleton,174,79,10,1,84
+Hall,Oakwood I,County BOE,,Dem,Angela Thomas Middleton,388,197,23,1,167
+Hall,Oakwood II,County BOE,,Dem,Angela Thomas Middleton,526,306,65,0,155
+Hall,Flowery Branch I,County BOE,,Dem,Angela Thomas Middleton,663,403,62,1,197
+Hall,Flowery Branch II,County BOE,,Dem,Angela Thomas Middleton,565,322,50,0,193
+Hall,Roberts,County BOE,,Dem,Angela Thomas Middleton,433,246,58,0,129
+Hall,Morgan I,County BOE,,Dem,Angela Thomas Middleton,400,239,29,0,132
+Hall,Morgan II,County BOE,,Dem,Angela Thomas Middleton,684,372,74,0,238
+Hall,Candler,County BOE,,Dem,Angela Thomas Middleton,573,291,57,0,225
+Hall,Tadmore,County BOE,,Dem,Angela Thomas Middleton,824,424,79,0,321
+Hall,Glade,County BOE,,Dem,Angela Thomas Middleton,275,166,28,0,81
+Hall,Lula,County BOE,,Dem,Angela Thomas Middleton,227,115,28,0,84
+Hall,Clermont,County BOE,,Dem,Angela Thomas Middleton,199,132,13,0,54
+Hall,Quillians,County BOE,,Dem,Angela Thomas Middleton,179,121,15,0,43
+Hall,Bark Camp,County BOE,,Dem,Angela Thomas Middleton,559,341,76,0,142
+Hall,Chestatee,County BOE,,Dem,Angela Thomas Middleton,370,193,54,0,123
+Hall,Fork,County BOE,,Dem,Angela Thomas Middleton,390,195,67,0,128
+Hall,Whelchel,County BOE,,Dem,Angela Thomas Middleton,434,255,45,0,134
+Hall,West Whelchel,County BOE,,Dem,Angela Thomas Middleton,414,232,76,0,106
+Hall,Gainesville I,County BOE,,Dem,Angela Thomas Middleton,35,22,1,0,12
+Hall,Gainesville II,County BOE,,Dem,Angela Thomas Middleton,514,290,92,0,132
+Hall,Gainesville III,County BOE,,Dem,Angela Thomas Middleton,149,63,14,0,72
+Hall,Gainesville IV,County BOE,,Dem,Angela Thomas Middleton,33,16,6,0,11
+Hall,Gainesville V,County BOE,,Dem,Angela Thomas Middleton,2,1,0,0,1
+Hall,Gillsville,County BOE,,Dem,Angela Thomas Middleton,77,32,11,0,34
+Hall,Big Hickory,County BOE,,Dem,Angela Thomas Middleton,281,182,32,0,67
+Hall,Friendship I,County BOE,,Dem,Angela Thomas Middleton,1312,813,240,0,259
+Hall,Friendship II,County BOE,,Dem,Angela Thomas Middleton,486,316,33,0,137
+Hall,Friendship III,County BOE,,Dem,Angela Thomas Middleton,591,363,67,0,161
+Hall,Friendship IV,County BOE,,Dem,Angela Thomas Middleton,646,500,52,0,94
+Hall,Wilson,County BOE,,Rep,Mark Pettitt ,1214,631,85,0,498
+Hall,Chicopee,County BOE,,Rep,Mark Pettitt ,302,127,18,0,157
+Hall,Oakwood I,County BOE,,Rep,Mark Pettitt ,665,319,27,0,319
+Hall,Oakwood II,County BOE,,Rep,Mark Pettitt ,2066,1162,117,1,786
+Hall,Flowery Branch I,County BOE,,Rep,Mark Pettitt ,2245,1323,88,0,834
+Hall,Flowery Branch II,County BOE,,Rep,Mark Pettitt ,1563,793,53,0,717
+Hall,Roberts,County BOE,,Rep,Mark Pettitt ,1849,1081,91,0,677
+Hall,Morgan I,County BOE,,Rep,Mark Pettitt ,2014,1137,64,0,813
+Hall,Morgan II,County BOE,,Rep,Mark Pettitt ,2010,1230,113,2,665
+Hall,Candler,County BOE,,Rep,Mark Pettitt ,2106,1189,82,0,835
+Hall,Tadmore,County BOE,,Rep,Mark Pettitt ,1179,638,47,0,494
+Hall,Glade,County BOE,,Rep,Mark Pettitt ,1332,780,51,0,501
+Hall,Lula,County BOE,,Rep,Mark Pettitt ,1720,901,51,0,768
+Hall,Clermont,County BOE,,Rep,Mark Pettitt ,2133,1293,51,0,789
+Hall,Quillians,County BOE,,Rep,Mark Pettitt ,1767,1142,46,1,578
+Hall,Bark Camp,County BOE,,Rep,Mark Pettitt ,2854,1844,122,0,888
+Hall,Chestatee,County BOE,,Rep,Mark Pettitt ,1899,1094,96,0,709
+Hall,Fork,County BOE,,Rep,Mark Pettitt ,1762,878,99,0,785
+Hall,Whelchel,County BOE,,Rep,Mark Pettitt ,2091,1386,85,0,620
+Hall,West Whelchel,County BOE,,Rep,Mark Pettitt ,1524,900,170,0,454
+Hall,Gainesville I,County BOE,,Rep,Mark Pettitt ,169,126,6,0,37
+Hall,Gainesville II,County BOE,,Rep,Mark Pettitt ,53,23,9,0,21
+Hall,Gainesville III,County BOE,,Rep,Mark Pettitt ,226,117,24,0,85
+Hall,Gainesville IV,County BOE,,Rep,Mark Pettitt ,45,22,3,0,20
+Hall,Gainesville V,County BOE,,Rep,Mark Pettitt ,2,2,0,0,0
+Hall,Gillsville,County BOE,,Rep,Mark Pettitt ,617,237,13,0,367
+Hall,Big Hickory,County BOE,,Rep,Mark Pettitt ,2423,1614,99,0,710
+Hall,Friendship I,County BOE,,Rep,Mark Pettitt ,4782,3159,342,0,1281
+Hall,Friendship II,County BOE,,Rep,Mark Pettitt ,1571,883,56,1,631
+Hall,Friendship III,County BOE,,Rep,Mark Pettitt ,1898,1278,46,0,574
+Hall,Friendship IV,County BOE,,Rep,Mark Pettitt ,1852,1382,48,0,422
+Hall,Wilson,County BOE,,Dem,Isabel Martinez Flynn,355,149,59,0,147
+Hall,Chicopee,County BOE,,Dem,Isabel Martinez Flynn,178,77,10,1,90
+Hall,Oakwood I,County BOE,,Dem,Isabel Martinez Flynn,393,191,25,1,176
+Hall,Oakwood II,County BOE,,Dem,Isabel Martinez Flynn,526,312,62,1,151
+Hall,Flowery Branch I,County BOE,,Dem,Isabel Martinez Flynn,640,388,59,1,192
+Hall,Flowery Branch II,County BOE,,Dem,Isabel Martinez Flynn,553,314,47,0,192
+Hall,Roberts,County BOE,,Dem,Isabel Martinez Flynn,426,242,57,0,127
+Hall,Morgan I,County BOE,,Dem,Isabel Martinez Flynn,401,245,30,0,126
+Hall,Morgan II,County BOE,,Dem,Isabel Martinez Flynn,685,373,70,0,242
+Hall,Candler,County BOE,,Dem,Isabel Martinez Flynn,569,291,50,0,228
+Hall,Tadmore,County BOE,,Dem,Isabel Martinez Flynn,816,412,77,0,327
+Hall,Glade,County BOE,,Dem,Isabel Martinez Flynn,284,163,30,0,91
+Hall,Lula,County BOE,,Dem,Isabel Martinez Flynn,236,126,30,0,80
+Hall,Clermont,County BOE,,Dem,Isabel Martinez Flynn,194,132,14,0,48
+Hall,Quillians,County BOE,,Dem,Isabel Martinez Flynn,179,118,16,0,45
+Hall,Bark Camp,County BOE,,Dem,Isabel Martinez Flynn,565,355,70,0,140
+Hall,Chestatee,County BOE,,Dem,Isabel Martinez Flynn,362,188,52,0,122
+Hall,Fork,County BOE,,Dem,Isabel Martinez Flynn,375,188,65,0,122
+Hall,Whelchel,County BOE,,Dem,Isabel Martinez Flynn,426,248,45,0,133
+Hall,West Whelchel,County BOE,,Dem,Isabel Martinez Flynn,403,224,80,0,99
+Hall,Gainesville I,County BOE,,Dem,Isabel Martinez Flynn,31,19,1,0,11
+Hall,Gainesville II,County BOE,,Dem,Isabel Martinez Flynn,494,281,91,0,122
+Hall,Gainesville III,County BOE,,Dem,Isabel Martinez Flynn,148,62,12,0,74
+Hall,Gainesville IV,County BOE,,Dem,Isabel Martinez Flynn,34,17,5,0,12
+Hall,Gainesville V,County BOE,,Dem,Isabel Martinez Flynn,1,0,0,0,1
+Hall,Gillsville,County BOE,,Dem,Isabel Martinez Flynn,75,30,11,0,34
+Hall,Big Hickory,County BOE,,Dem,Isabel Martinez Flynn,274,182,32,0,60
+Hall,Friendship I,County BOE,,Dem,Isabel Martinez Flynn,1251,772,223,0,256
+Hall,Friendship II,County BOE,,Dem,Isabel Martinez Flynn,479,310,30,0,139
+Hall,Friendship III,County BOE,,Dem,Isabel Martinez Flynn,581,357,66,0,158
+Hall,Friendship IV,County BOE,,Dem,Isabel Martinez Flynn,633,490,51,0,92
+Hall,Wilson,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,3027,1816,344,1,866
+Hall,Chicopee,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,1397,750,75,1,571
+Hall,Oakwood I,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,1026,491,39,0,496
+Hall,Oakwood II,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,2421,1347,153,2,919
+Hall,Flowery Branch I,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,2488,1475,109,0,904
+Hall,Flowery Branch II,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,1923,997,70,0,856
+Hall,Roberts,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,3052,1825,156,0,1071
+Hall,Morgan I,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,2168,1248,69,0,851
+Hall,Morgan II,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,2359,1391,152,2,814
+Hall,Candler,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,2581,1435,115,0,1031
+Hall,Tadmore,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,1757,938,94,0,725
+Hall,Glade,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,1707,987,99,1,620
+Hall,Lula,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,1824,951,72,0,801
+Hall,Clermont,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,2171,1331,51,0,789
+Hall,Quillians,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,1819,1182,51,1,585
+Hall,Bark Camp,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,3087,1975,154,0,958
+Hall,Chestatee,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,2089,1181,115,0,793
+Hall,Fork,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,1922,971,129,0,822
+Hall,Whelchel,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,2354,1523,103,0,728
+Hall,West Whelchel,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,2496,1488,246,0,762
+Hall,Gainesville I,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,1789,1052,147,0,590
+Hall,Gainesville II,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,791,397,132,0,262
+Hall,Gainesville III,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,1210,547,95,0,568
+Hall,Gainesville IV,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,1159,751,84,0,324
+Hall,Gainesville V,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,609,363,38,0,208
+Hall,Gillsville,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,642,243,18,0,381
+Hall,Big Hickory,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,2538,1678,123,0,737
+Hall,Friendship I,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,5238,3432,434,0,1372
+Hall,Friendship II,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,1945,1129,71,1,744
+Hall,Friendship III,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,2189,1440,80,0,669
+Hall,Friendship IV,Soil and Water Water Conservation District Supervisor,,,Gene Anderson ,2134,1598,70,0,466
+Hall,Lula,Council Member District 1,,,Tony Cornett,425,207,12,0,206
+Hall,Lula (Banks),Council Member District 1,,,Tony Cornett,18,0,0,0,18
+Hall,Lula,Council Member District 1,,,Mike Hinton,310,155,11,0,144
+Hall,Lula (Banks),Council Member District 1,,,Mike Hinton,3,0,1,0,2
+Hall,Lula,Council Member District 5,,,Chip Horst,702,344,22,0,336
+Hall,Lula (Banks),Council Member District 5,,,Chip Horst,20,0,1,0,19
+Hall,Wilson,Proposed Constitutional Amendment 1,,,Yes,3144,1864,426,1,853
+Hall,Chicopee,Proposed Constitutional Amendment 1,,,Yes,1437,786,84,1,566
+Hall,Oakwood I,Proposed Constitutional Amendment 1,,,Yes,1048,514,47,1,486
+Hall,Oakwood II,Proposed Constitutional Amendment 1,,,Yes,2382,1350,163,2,867
+Hall,Flowery Branch I,Proposed Constitutional Amendment 1,,,Yes,2625,1567,134,1,923
+Hall,Flowery Branch II,Proposed Constitutional Amendment 1,,,Yes,1940,1012,97,0,831
+Hall,Roberts,Proposed Constitutional Amendment 1,,,Yes,3070,1820,183,0,1067
+Hall,Morgan I,Proposed Constitutional Amendment 1,,,Yes,2168,1245,86,0,837
+Hall,Morgan II,Proposed Constitutional Amendment 1,,,Yes,2377,1432,161,1,783
+Hall,Candler,Proposed Constitutional Amendment 1,,,Yes,2576,1445,133,0,998
+Hall,Tadmore,Proposed Constitutional Amendment 1,,,Yes,1811,972,112,0,727
+Hall,Glade,Proposed Constitutional Amendment 1,,,Yes,1693,987,97,1,608
+Hall,Lula,Proposed Constitutional Amendment 1,,,Yes,1725,901,72,0,752
+Hall,Clermont,Proposed Constitutional Amendment 1,,,Yes,2062,1273,57,0,732
+Hall,Quillians,Proposed Constitutional Amendment 1,,,Yes,1728,1129,54,1,544
+Hall,Bark Camp,Proposed Constitutional Amendment 1,,,Yes,3058,1974,178,0,906
+Hall,Chestatee,Proposed Constitutional Amendment 1,,,Yes,2048,1161,135,0,752
+Hall,Fork,Proposed Constitutional Amendment 1,,,Yes,1929,964,156,0,809
+Hall,Whelchel,Proposed Constitutional Amendment 1,,,Yes,2365,1547,121,0,697
+Hall,West Whelchel,Proposed Constitutional Amendment 1,,,Yes,2489,1468,290,0,731
+Hall,Gainesville I,Proposed Constitutional Amendment 1,,,Yes,1818,1076,161,3,578
+Hall,Gainesville II,Proposed Constitutional Amendment 1,,,Yes,956,480,187,0,289
+Hall,Gainesville III,Proposed Constitutional Amendment 1,,,Yes,1228,582,106,0,540
+Hall,Gainesville IV,Proposed Constitutional Amendment 1,,,Yes,1221,790,102,0,329
+Hall,Gainesville V,Proposed Constitutional Amendment 1,,,Yes,626,376,44,0,206
+Hall,Gillsville,Proposed Constitutional Amendment 1,,,Yes,616,238,23,0,355
+Hall,Big Hickory,Proposed Constitutional Amendment 1,,,Yes,2409,1594,130,0,685
+Hall,Friendship I,Proposed Constitutional Amendment 1,,,Yes,5473,3544,545,0,1384
+Hall,Friendship II,Proposed Constitutional Amendment 1,,,Yes,1973,1157,88,1,727
+Hall,Friendship III,Proposed Constitutional Amendment 1,,,Yes,2239,1481,106,0,652
+Hall,Friendship IV,Proposed Constitutional Amendment 1,,,Yes,2246,1685,88,0,473
+Hall,Wilson,Proposed Constitutional Amendment 1,,,No,319,189,37,0,93
+Hall,Chicopee,Proposed Constitutional Amendment 1,,,No,166,76,14,0,76
+Hall,Oakwood I,Proposed Constitutional Amendment 1,,,No,116,48,7,0,61
+Hall,Oakwood II,Proposed Constitutional Amendment 1,,,No,317,171,18,0,128
+Hall,Flowery Branch I,Proposed Constitutional Amendment 1,,,No,229,127,17,0,85
+Hall,Flowery Branch II,Proposed Constitutional Amendment 1,,,No,200,101,7,0,92
+Hall,Roberts,Proposed Constitutional Amendment 1,,,No,340,205,17,0,118
+Hall,Morgan I,Proposed Constitutional Amendment 1,,,No,225,127,10,0,88
+Hall,Morgan II,Proposed Constitutional Amendment 1,,,No,276,147,22,1,106
+Hall,Candler,Proposed Constitutional Amendment 1,,,No,287,146,10,0,131
+Hall,Tadmore,Proposed Constitutional Amendment 1,,,No,272,142,18,0,112
+Hall,Glade,Proposed Constitutional Amendment 1,,,No,206,105,26,0,75
+Hall,Lula,Proposed Constitutional Amendment 1,,,No,212,107,10,0,95
+Hall,Clermont,Proposed Constitutional Amendment 1,,,No,245,137,9,0,99
+Hall,Quillians,Proposed Constitutional Amendment 1,,,No,197,123,7,0,67
+Hall,Bark Camp,Proposed Constitutional Amendment 1,,,No,329,199,18,0,112
+Hall,Chestatee,Proposed Constitutional Amendment 1,,,No,228,126,9,0,93
+Hall,Fork,Proposed Constitutional Amendment 1,,,No,222,111,18,0,93
+Hall,Whelchel,Proposed Constitutional Amendment 1,,,No,233,137,12,0,84
+Hall,West Whelchel,Proposed Constitutional Amendment 1,,,No,283,168,31,0,84
+Hall,Gainesville I,Proposed Constitutional Amendment 1,,,No,188,103,14,0,71
+Hall,Gainesville II,Proposed Constitutional Amendment 1,,,No,171,90,25,0,56
+Hall,Gainesville III,Proposed Constitutional Amendment 1,,,No,175,74,8,0,93
+Hall,Gainesville IV,Proposed Constitutional Amendment 1,,,No,116,67,7,0,42
+Hall,Gainesville V,Proposed Constitutional Amendment 1,,,No,62,31,4,0,27
+Hall,Gillsville,Proposed Constitutional Amendment 1,,,No,69,24,0,0,45
+Hall,Big Hickory,Proposed Constitutional Amendment 1,,,No,273,181,8,0,84
+Hall,Friendship I,Proposed Constitutional Amendment 1,,,No,525,351,34,0,140
+Hall,Friendship II,Proposed Constitutional Amendment 1,,,No,218,132,3,0,83
+Hall,Friendship III,Proposed Constitutional Amendment 1,,,No,218,137,8,0,73
+Hall,Friendship IV,Proposed Constitutional Amendment 1,,,No,212,158,13,0,41
+Hall,Wilson,Proposed Constitutional Amendment 2,,,Yes,3181,1897,429,1,854
+Hall,Chicopee,Proposed Constitutional Amendment 2,,,Yes,1523,828,94,1,600
+Hall,Oakwood I,Proposed Constitutional Amendment 2,,,Yes,1101,528,49,1,523
+Hall,Oakwood II,Proposed Constitutional Amendment 2,,,Yes,2486,1387,177,2,920
+Hall,Flowery Branch I,Proposed Constitutional Amendment 2,,,Yes,2629,1557,142,1,929
+Hall,Flowery Branch II,Proposed Constitutional Amendment 2,,,Yes,2000,1040,97,0,863
+Hall,Roberts,Proposed Constitutional Amendment 2,,,Yes,3128,1834,185,0,1109
+Hall,Morgan I,Proposed Constitutional Amendment 2,,,Yes,2215,1276,88,0,851
+Hall,Morgan II,Proposed Constitutional Amendment 2,,,Yes,2465,1469,170,2,824
+Hall,Candler,Proposed Constitutional Amendment 2,,,Yes,2655,1465,133,0,1057
+Hall,Tadmore,Proposed Constitutional Amendment 2,,,Yes,1914,1014,120,0,780
+Hall,Glade,Proposed Constitutional Amendment 2,,,Yes,1739,1008,105,1,625
+Hall,Lula,Proposed Constitutional Amendment 2,,,Yes,1786,929,76,0,781
+Hall,Clermont,Proposed Constitutional Amendment 2,,,Yes,2104,1294,61,0,749
+Hall,Quillians,Proposed Constitutional Amendment 2,,,Yes,1767,1137,61,1,568
+Hall,Bark Camp,Proposed Constitutional Amendment 2,,,Yes,3150,2023,186,0,941
+Hall,Chestatee,Proposed Constitutional Amendment 2,,,Yes,2071,1161,139,0,771
+Hall,Fork,Proposed Constitutional Amendment 2,,,Yes,1959,987,160,0,812
+Hall,Whelchel,Proposed Constitutional Amendment 2,,,Yes,2385,1556,126,0,703
+Hall,West Whelchel,Proposed Constitutional Amendment 2,,,Yes,2557,1507,300,0,750
+Hall,Gainesville I,Proposed Constitutional Amendment 2,,,Yes,1848,1081,164,3,600
+Hall,Gainesville II,Proposed Constitutional Amendment 2,,,Yes,1057,529,204,0,324
+Hall,Gainesville III,Proposed Constitutional Amendment 2,,,Yes,1301,607,106,0,588
+Hall,Gainesville IV,Proposed Constitutional Amendment 2,,,Yes,1233,788,104,0,341
+Hall,Gainesville V,Proposed Constitutional Amendment 2,,,Yes,635,377,43,0,215
+Hall,Gillsville,Proposed Constitutional Amendment 2,,,Yes,628,244,20,0,364
+Hall,Big Hickory,Proposed Constitutional Amendment 2,,,Yes,2450,1615,131,0,704
+Hall,Friendship I,Proposed Constitutional Amendment 2,,,Yes,5573,3608,548,0,1417
+Hall,Friendship II,Proposed Constitutional Amendment 2,,,Yes,2001,1160,88,1,752
+Hall,Friendship III,Proposed Constitutional Amendment 2,,,Yes,2290,1510,108,0,672
+Hall,Friendship IV,Proposed Constitutional Amendment 2,,,Yes,2264,1701,94,0,469
+Hall,Wilson,Proposed Constitutional Amendment 2,,,No,295,161,34,0,100
+Hall,Chicopee,Proposed Constitutional Amendment 2,,,No,93,41,5,0,47
+Hall,Oakwood I,Proposed Constitutional Amendment 2,,,No,74,37,5,0,32
+Hall,Oakwood II,Proposed Constitutional Amendment 2,,,No,217,134,4,0,79
+Hall,Flowery Branch I,Proposed Constitutional Amendment 2,,,No,260,160,9,0,91
+Hall,Flowery Branch II,Proposed Constitutional Amendment 2,,,No,161,80,7,0,74
+Hall,Roberts,Proposed Constitutional Amendment 2,,,No,297,195,19,0,83
+Hall,Morgan I,Proposed Constitutional Amendment 2,,,No,184,97,6,0,81
+Hall,Morgan II,Proposed Constitutional Amendment 2,,,No,205,120,10,0,75
+Hall,Candler,Proposed Constitutional Amendment 2,,,No,223,128,10,0,85
+Hall,Tadmore,Proposed Constitutional Amendment 2,,,No,190,109,9,0,72
+Hall,Glade,Proposed Constitutional Amendment 2,,,No,161,85,17,0,59
+Hall,Lula,Proposed Constitutional Amendment 2,,,No,162,86,6,0,70
+Hall,Clermont,Proposed Constitutional Amendment 2,,,No,208,117,4,0,87
+Hall,Quillians,Proposed Constitutional Amendment 2,,,No,167,113,1,0,53
+Hall,Bark Camp,Proposed Constitutional Amendment 2,,,No,241,152,11,0,78
+Hall,Chestatee,Proposed Constitutional Amendment 2,,,No,209,131,6,0,72
+Hall,Fork,Proposed Constitutional Amendment 2,,,No,212,98,14,0,100
+Hall,Whelchel,Proposed Constitutional Amendment 2,,,No,214,131,8,0,75
+Hall,West Whelchel,Proposed Constitutional Amendment 2,,,No,224,130,25,0,69
+Hall,Gainesville I,Proposed Constitutional Amendment 2,,,No,172,106,11,0,55
+Hall,Gainesville II,Proposed Constitutional Amendment 2,,,No,88,52,7,0,29
+Hall,Gainesville III,Proposed Constitutional Amendment 2,,,No,113,48,8,0,57
+Hall,Gainesville IV,Proposed Constitutional Amendment 2,,,No,107,71,3,0,33
+Hall,Gainesville V,Proposed Constitutional Amendment 2,,,No,55,31,6,0,18
+Hall,Gillsville,Proposed Constitutional Amendment 2,,,No,58,19,3,0,36
+Hall,Big Hickory,Proposed Constitutional Amendment 2,,,No,245,172,9,0,64
+Hall,Friendship I,Proposed Constitutional Amendment 2,,,No,453,307,28,0,118
+Hall,Friendship II,Proposed Constitutional Amendment 2,,,No,213,135,5,0,73
+Hall,Friendship III,Proposed Constitutional Amendment 2,,,No,179,117,5,0,57
+Hall,Friendship IV,Proposed Constitutional Amendment 2,,,No,201,152,7,0,42
+Hall,Wilson,Statewide Referendum Question 1,,,Yes,1924,1144,187,1,592
+Hall,Chicopee,Statewide Referendum Question 1,,,Yes,998,533,44,0,421
+Hall,Oakwood I,Statewide Referendum Question 1,,,Yes,715,334,25,1,355
+Hall,Oakwood II,Statewide Referendum Question 1,,,Yes,1585,866,85,1,633
+Hall,Flowery Branch I,Statewide Referendum Question 1,,,Yes,1629,934,71,1,623
+Hall,Flowery Branch II,Statewide Referendum Question 1,,,Yes,1280,659,41,0,580
+Hall,Roberts,Statewide Referendum Question 1,,,Yes,1992,1152,88,0,752
+Hall,Morgan I,Statewide Referendum Question 1,,,Yes,1486,824,47,0,615
+Hall,Morgan II,Statewide Referendum Question 1,,,Yes,1670,996,94,2,578
+Hall,Candler,Statewide Referendum Question 1,,,Yes,1778,971,58,0,749
+Hall,Tadmore,Statewide Referendum Question 1,,,Yes,1291,665,57,0,569
+Hall,Glade,Statewide Referendum Question 1,,,Yes,1195,690,65,0,440
+Hall,Lula,Statewide Referendum Question 1,,,Yes,1277,659,45,0,573
+Hall,Clermont,Statewide Referendum Question 1,,,Yes,1505,896,37,0,572
+Hall,Quillians,Statewide Referendum Question 1,,,Yes,1235,789,35,1,410
+Hall,Bark Camp,Statewide Referendum Question 1,,,Yes,2116,1349,89,0,678
+Hall,Chestatee,Statewide Referendum Question 1,,,Yes,1360,745,67,0,548
+Hall,Fork,Statewide Referendum Question 1,,,Yes,1198,608,56,0,534
+Hall,Whelchel,Statewide Referendum Question 1,,,Yes,1557,1002,53,0,502
+Hall,West Whelchel,Statewide Referendum Question 1,,,Yes,1594,941,144,0,509
+Hall,Gainesville I,Statewide Referendum Question 1,,,Yes,1161,672,80,2,407
+Hall,Gainesville II,Statewide Referendum Question 1,,,Yes,749,391,119,0,239
+Hall,Gainesville III,Statewide Referendum Question 1,,,Yes,869,389,57,0,423
+Hall,Gainesville IV,Statewide Referendum Question 1,,,Yes,735,452,53,0,230
+Hall,Gainesville V,Statewide Referendum Question 1,,,Yes,425,242,19,0,164
+Hall,Gillsville,Statewide Referendum Question 1,,,Yes,428,160,7,0,261
+Hall,Big Hickory,Statewide Referendum Question 1,,,Yes,1632,1066,70,0,496
+Hall,Friendship I,Statewide Referendum Question 1,,,Yes,3438,2196,258,0,984
+Hall,Friendship II,Statewide Referendum Question 1,,,Yes,1295,716,41,1,537
+Hall,Friendship III,Statewide Referendum Question 1,,,Yes,1458,958,55,0,445
+Hall,Friendship IV,Statewide Referendum Question 1,,,Yes,1386,1030,43,0,313
+Hall,Wilson,Statewide Referendum Question 1,,,No,1480,878,254,0,348
+Hall,Chicopee,Statewide Referendum Question 1,,,No,589,325,53,1,210
+Hall,Oakwood I,Statewide Referendum Question 1,,,No,437,221,27,0,189
+Hall,Oakwood II,Statewide Referendum Question 1,,,No,1071,640,90,1,340
+Hall,Flowery Branch I,Statewide Referendum Question 1,,,No,1188,738,74,0,376
+Hall,Flowery Branch II,Statewide Referendum Question 1,,,No,835,440,56,0,339
+Hall,Roberts,Statewide Referendum Question 1,,,No,1362,836,107,0,419
+Hall,Morgan I,Statewide Referendum Question 1,,,No,866,529,43,0,294
+Hall,Morgan II,Statewide Referendum Question 1,,,No,958,569,82,0,307
+Hall,Candler,Statewide Referendum Question 1,,,No,1048,596,79,0,373
+Hall,Tadmore,Statewide Referendum Question 1,,,No,772,440,66,0,266
+Hall,Glade,Statewide Referendum Question 1,,,No,666,373,57,1,235
+Hall,Lula,Statewide Referendum Question 1,,,No,639,335,36,0,268
+Hall,Clermont,Statewide Referendum Question 1,,,No,781,504,27,0,250
+Hall,Quillians,Statewide Referendum Question 1,,,No,668,442,24,0,202
+Hall,Bark Camp,Statewide Referendum Question 1,,,No,1216,788,101,0,327
+Hall,Chestatee,Statewide Referendum Question 1,,,No,882,524,77,0,281
+Hall,Fork,Statewide Referendum Question 1,,,No,933,464,110,0,359
+Hall,Whelchel,Statewide Referendum Question 1,,,No,1001,660,77,0,264
+Hall,West Whelchel,Statewide Referendum Question 1,,,No,1108,661,159,0,288
+Hall,Gainesville I,Statewide Referendum Question 1,,,No,810,494,89,0,227
+Hall,Gainesville II,Statewide Referendum Question 1,,,No,372,180,89,0,103
+Hall,Gainesville III,Statewide Referendum Question 1,,,No,506,249,52,0,205
+Hall,Gainesville IV,Statewide Referendum Question 1,,,No,571,385,49,0,137
+Hall,Gainesville V,Statewide Referendum Question 1,,,No,248,153,30,0,65
+Hall,Gillsville,Statewide Referendum Question 1,,,No,251,100,17,0,134
+Hall,Big Hickory,Statewide Referendum Question 1,,,No,1013,695,60,0,258
+Hall,Friendship I,Statewide Referendum Question 1,,,No,2433,1622,288,0,523
+Hall,Friendship II,Statewide Referendum Question 1,,,No,875,552,48,0,275
+Hall,Friendship III,Statewide Referendum Question 1,,,No,974,651,57,0,266
+Hall,Friendship IV,Statewide Referendum Question 1,,,No,1013,776,50,0,187
+Hall,Wilson,Statewide Referendum Question 2,,,Yes,2581,1547,277,0,757
+Hall,Chicopee,Statewide Referendum Question 2,,,Yes,1286,707,61,0,518
+Hall,Oakwood I,Statewide Referendum Question 2,,,Yes,920,435,37,1,447
+Hall,Oakwood II,Statewide Referendum Question 2,,,Yes,2088,1165,123,1,799
+Hall,Flowery Branch I,Statewide Referendum Question 2,,,Yes,2253,1329,96,1,827
+Hall,Flowery Branch II,Statewide Referendum Question 2,,,Yes,1674,874,61,0,739
+Hall,Roberts,Statewide Referendum Question 2,,,Yes,2709,1570,139,0,1000
+Hall,Morgan I,Statewide Referendum Question 2,,,Yes,1956,1110,67,0,779
+Hall,Morgan II,Statewide Referendum Question 2,,,Yes,2102,1237,132,1,732
+Hall,Candler,Statewide Referendum Question 2,,,Yes,2332,1284,84,0,964
+Hall,Tadmore,Statewide Referendum Question 2,,,Yes,1646,865,93,0,688
+Hall,Glade,Statewide Referendum Question 2,,,Yes,1550,892,75,1,582
+Hall,Lula,Statewide Referendum Question 2,,,Yes,1576,800,63,0,713
+Hall,Clermont,Statewide Referendum Question 2,,,Yes,1946,1173,47,0,726
+Hall,Quillians,Statewide Referendum Question 2,,,Yes,1585,1011,47,1,526
+Hall,Bark Camp,Statewide Referendum Question 2,,,Yes,2771,1771,134,0,866
+Hall,Chestatee,Statewide Referendum Question 2,,,Yes,1813,1015,94,0,704
+Hall,Fork,Statewide Referendum Question 2,,,Yes,1660,845,99,0,716
+Hall,Whelchel,Statewide Referendum Question 2,,,Yes,2058,1325,81,0,652
+Hall,West Whelchel,Statewide Referendum Question 2,,,Yes,2035,1207,196,0,632
+Hall,Gainesville I,Statewide Referendum Question 2,,,Yes,1489,857,116,2,514
+Hall,Gainesville II,Statewide Referendum Question 2,,,Yes,839,439,139,0,261
+Hall,Gainesville III,Statewide Referendum Question 2,,,Yes,1087,495,79,0,513
+Hall,Gainesville IV,Statewide Referendum Question 2,,,Yes,975,617,69,0,289
+Hall,Gainesville V,Statewide Referendum Question 2,,,Yes,530,304,31,0,195
+Hall,Gillsville,Statewide Referendum Question 2,,,Yes,552,214,10,0,328
+Hall,Big Hickory,Statewide Referendum Question 2,,,Yes,2132,1390,103,0,639
+Hall,Friendship I,Statewide Referendum Question 2,,,Yes,4671,3035,367,0,1269
+Hall,Friendship II,Statewide Referendum Question 2,,,Yes,1719,979,59,1,680
+Hall,Friendship III,Statewide Referendum Question 2,,,Yes,1999,1312,78,0,609
+Hall,Friendship IV,Statewide Referendum Question 2,,,Yes,1891,1411,62,0,418
+Hall,Wilson,Statewide Referendum Question 2,,,No,845,488,165,1,191
+Hall,Chicopee,Statewide Referendum Question 2,,,No,304,154,33,1,116
+Hall,Oakwood I,Statewide Referendum Question 2,,,No,240,127,14,0,99
+Hall,Oakwood II,Statewide Referendum Question 2,,,No,586,349,54,1,182
+Hall,Flowery Branch I,Statewide Referendum Question 2,,,No,581,353,49,0,179
+Hall,Flowery Branch II,Statewide Referendum Question 2,,,No,459,237,34,0,188
+Hall,Roberts,Statewide Referendum Question 2,,,No,668,435,56,0,177
+Hall,Morgan I,Statewide Referendum Question 2,,,No,416,251,24,0,141
+Hall,Morgan II,Statewide Referendum Question 2,,,No,537,333,44,1,159
+Hall,Candler,Statewide Referendum Question 2,,,No,521,296,51,0,174
+Hall,Tadmore,Statewide Referendum Question 2,,,No,437,251,32,0,154
+Hall,Glade,Statewide Referendum Question 2,,,No,337,192,44,0,101
+Hall,Lula,Statewide Referendum Question 2,,,No,353,205,19,0,129
+Hall,Clermont,Statewide Referendum Question 2,,,No,356,235,18,0,103
+Hall,Quillians,Statewide Referendum Question 2,,,No,325,226,12,0,87
+Hall,Bark Camp,Statewide Referendum Question 2,,,No,591,384,60,0,147
+Hall,Chestatee,Statewide Referendum Question 2,,,No,446,261,49,0,136
+Hall,Fork,Statewide Referendum Question 2,,,No,482,227,71,0,184
+Hall,Whelchel,Statewide Referendum Question 2,,,No,516,343,51,0,122
+Hall,West Whelchel,Statewide Referendum Question 2,,,No,698,415,110,0,173
+Hall,Gainesville I,Statewide Referendum Question 2,,,No,492,317,52,0,123
+Hall,Gainesville II,Statewide Referendum Question 2,,,No,290,136,71,0,83
+Hall,Gainesville III,Statewide Referendum Question 2,,,No,298,145,30,0,123
+Hall,Gainesville IV,Statewide Referendum Question 2,,,No,337,226,30,0,81
+Hall,Gainesville V,Statewide Referendum Question 2,,,No,148,95,17,0,36
+Hall,Gillsville,Statewide Referendum Question 2,,,No,129,46,14,0,69
+Hall,Big Hickory,Statewide Referendum Question 2,,,No,524,375,29,0,120
+Hall,Friendship I,Statewide Referendum Question 2,,,No,1238,815,175,0,248
+Hall,Friendship II,Statewide Referendum Question 2,,,No,467,297,28,0,142
+Hall,Friendship III,Statewide Referendum Question 2,,,No,445,299,35,0,111
+Hall,Friendship IV,Statewide Referendum Question 2,,,No,527,406,31,0,90

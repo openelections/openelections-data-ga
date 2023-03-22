@@ -1,0 +1,375 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Jeff Davis,Hazlehurst,U.S. Senate,,Rep,Herschel Junior Walker,303,165,8,0,130
+Jeff Davis,Altamaha 1,U.S. Senate,,Rep,Herschel Junior Walker,355,178,11,0,166
+Jeff Davis,Altamaha 2,U.S. Senate,,Rep,Herschel Junior Walker,770,320,13,0,437
+Jeff Davis,Blackburn 1,U.S. Senate,,Rep,Herschel Junior Walker,238,121,5,0,112
+Jeff Davis,Blackburn 2,U.S. Senate,,Rep,Herschel Junior Walker,410,168,7,0,235
+Jeff Davis,Whitehead 1,U.S. Senate,,Rep,Herschel Junior Walker,411,247,9,0,155
+Jeff Davis,Whitehead 2,U.S. Senate,,Rep,Herschel Junior Walker,354,114,2,1,237
+Jeff Davis,Ocmulgee 1,U.S. Senate,,Rep,Herschel Junior Walker,640,363,16,0,261
+Jeff Davis,Ocmulgee 2,U.S. Senate,,Rep,Herschel Junior Walker,257,116,3,0,138
+Jeff Davis,Hazlehurst,U.S. Senate,,Dem,Raphael Warnock ,311,177,26,0,108
+Jeff Davis,Altamaha 1,U.S. Senate,,Dem,Raphael Warnock ,35,19,1,0,15
+Jeff Davis,Altamaha 2,U.S. Senate,,Dem,Raphael Warnock ,26,11,1,0,14
+Jeff Davis,Blackburn 1,U.S. Senate,,Dem,Raphael Warnock ,68,37,9,0,22
+Jeff Davis,Blackburn 2,U.S. Senate,,Dem,Raphael Warnock ,20,10,0,0,10
+Jeff Davis,Whitehead 1,U.S. Senate,,Dem,Raphael Warnock ,94,52,3,0,39
+Jeff Davis,Whitehead 2,U.S. Senate,,Dem,Raphael Warnock ,25,10,5,0,10
+Jeff Davis,Ocmulgee 1,U.S. Senate,,Dem,Raphael Warnock ,106,56,11,0,39
+Jeff Davis,Ocmulgee 2,U.S. Senate,,Dem,Raphael Warnock ,53,43,2,0,8
+Jeff Davis,Hazlehurst,U.S. Senate,,Lib,Chase Oliver,9,4,0,0,5
+Jeff Davis,Altamaha 1,U.S. Senate,,Lib,Chase Oliver,4,1,0,0,3
+Jeff Davis,Altamaha 2,U.S. Senate,,Lib,Chase Oliver,5,0,0,0,5
+Jeff Davis,Blackburn 1,U.S. Senate,,Lib,Chase Oliver,2,1,0,0,1
+Jeff Davis,Blackburn 2,U.S. Senate,,Lib,Chase Oliver,6,2,0,0,4
+Jeff Davis,Whitehead 1,U.S. Senate,,Lib,Chase Oliver,9,6,1,0,2
+Jeff Davis,Whitehead 2,U.S. Senate,,Lib,Chase Oliver,2,1,0,0,1
+Jeff Davis,Ocmulgee 1,U.S. Senate,,Lib,Chase Oliver,10,6,0,0,4
+Jeff Davis,Ocmulgee 2,U.S. Senate,,Lib,Chase Oliver,5,3,1,0,1
+Jeff Davis,Hazlehurst,Governor,,Rep,Brian Kemp ,320,177,8,0,135
+Jeff Davis,Altamaha 1,Governor,,Rep,Brian Kemp ,366,180,11,0,175
+Jeff Davis,Altamaha 2,Governor,,Rep,Brian Kemp ,779,320,13,0,446
+Jeff Davis,Blackburn 1,Governor,,Rep,Brian Kemp ,253,127,6,0,120
+Jeff Davis,Blackburn 2,Governor,,Rep,Brian Kemp ,424,173,7,0,244
+Jeff Davis,Whitehead 1,Governor,,Rep,Brian Kemp ,426,254,9,0,163
+Jeff Davis,Whitehead 2,Governor,,Rep,Brian Kemp ,363,118,2,1,242
+Jeff Davis,Ocmulgee 1,Governor,,Rep,Brian Kemp ,667,380,20,0,267
+Jeff Davis,Ocmulgee 2,Governor,,Rep,Brian Kemp ,267,119,4,0,144
+Jeff Davis,Hazlehurst,Governor,,Dem,Stacey Abrams,306,171,26,0,109
+Jeff Davis,Altamaha 1,Governor,,Dem,Stacey Abrams,27,17,1,0,9
+Jeff Davis,Altamaha 2,Governor,,Dem,Stacey Abrams,18,10,1,0,7
+Jeff Davis,Blackburn 1,Governor,,Dem,Stacey Abrams,53,31,8,0,14
+Jeff Davis,Blackburn 2,Governor,,Dem,Stacey Abrams,12,7,0,0,5
+Jeff Davis,Whitehead 1,Governor,,Dem,Stacey Abrams,80,46,3,0,31
+Jeff Davis,Whitehead 2,Governor,,Dem,Stacey Abrams,18,6,5,0,7
+Jeff Davis,Ocmulgee 1,Governor,,Dem,Stacey Abrams,86,46,7,0,33
+Jeff Davis,Ocmulgee 2,Governor,,Dem,Stacey Abrams,46,40,1,0,5
+Jeff Davis,Hazlehurst,Governor,,Lib,Shane Hazel,1,1,0,0,0
+Jeff Davis,Altamaha 1,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Jeff Davis,Altamaha 2,Governor,,Lib,Shane Hazel,5,1,0,0,4
+Jeff Davis,Blackburn 1,Governor,,Lib,Shane Hazel,4,1,0,0,3
+Jeff Davis,Blackburn 2,Governor,,Lib,Shane Hazel,1,0,0,0,1
+Jeff Davis,Whitehead 1,Governor,,Lib,Shane Hazel,5,3,1,0,1
+Jeff Davis,Whitehead 2,Governor,,Lib,Shane Hazel,1,1,0,0,0
+Jeff Davis,Ocmulgee 1,Governor,,Lib,Shane Hazel,8,3,0,0,5
+Jeff Davis,Ocmulgee 2,Governor,,Lib,Shane Hazel,5,4,1,0,0
+Jeff Davis,Hazlehurst,Lieutenant Governor,,Rep,Burt Jones,311,172,8,0,131
+Jeff Davis,Altamaha 1,Lieutenant Governor,,Rep,Burt Jones,354,173,10,0,171
+Jeff Davis,Altamaha 2,Lieutenant Governor,,Rep,Burt Jones,762,317,13,0,432
+Jeff Davis,Blackburn 1,Lieutenant Governor,,Rep,Burt Jones,244,124,5,0,115
+Jeff Davis,Blackburn 2,Lieutenant Governor,,Rep,Burt Jones,409,168,7,0,234
+Jeff Davis,Whitehead 1,Lieutenant Governor,,Rep,Burt Jones,418,249,9,0,160
+Jeff Davis,Whitehead 2,Lieutenant Governor,,Rep,Burt Jones,350,114,3,1,232
+Jeff Davis,Ocmulgee 1,Lieutenant Governor,,Rep,Burt Jones,649,369,20,0,260
+Jeff Davis,Ocmulgee 2,Lieutenant Governor,,Rep,Burt Jones,257,118,4,0,135
+Jeff Davis,Hazlehurst,Lieutenant Governor,,Dem,Charlie Bailey,279,161,26,0,92
+Jeff Davis,Altamaha 1,Lieutenant Governor,,Dem,Charlie Bailey,27,18,1,0,8
+Jeff Davis,Altamaha 2,Lieutenant Governor,,Dem,Charlie Bailey,25,10,1,0,14
+Jeff Davis,Blackburn 1,Lieutenant Governor,,Dem,Charlie Bailey,57,32,8,0,17
+Jeff Davis,Blackburn 2,Lieutenant Governor,,Dem,Charlie Bailey,16,8,0,0,8
+Jeff Davis,Whitehead 1,Lieutenant Governor,,Dem,Charlie Bailey,76,45,4,0,27
+Jeff Davis,Whitehead 2,Lieutenant Governor,,Dem,Charlie Bailey,18,7,4,0,7
+Jeff Davis,Ocmulgee 1,Lieutenant Governor,,Dem,Charlie Bailey,83,48,5,0,30
+Jeff Davis,Ocmulgee 2,Lieutenant Governor,,Dem,Charlie Bailey,46,36,1,0,9
+Jeff Davis,Hazlehurst,Lieutenant Governor,,Lib,Ryan Graham,7,2,0,0,5
+Jeff Davis,Altamaha 1,Lieutenant Governor,,Lib,Ryan Graham,8,1,1,0,6
+Jeff Davis,Altamaha 2,Lieutenant Governor,,Lib,Ryan Graham,5,1,0,0,4
+Jeff Davis,Blackburn 1,Lieutenant Governor,,Lib,Ryan Graham,8,3,1,0,4
+Jeff Davis,Blackburn 2,Lieutenant Governor,,Lib,Ryan Graham,6,2,0,0,4
+Jeff Davis,Whitehead 1,Lieutenant Governor,,Lib,Ryan Graham,6,4,0,0,2
+Jeff Davis,Whitehead 2,Lieutenant Governor,,Lib,Ryan Graham,5,2,0,0,3
+Jeff Davis,Ocmulgee 1,Lieutenant Governor,,Lib,Ryan Graham,12,4,0,0,8
+Jeff Davis,Ocmulgee 2,Lieutenant Governor,,Lib,Ryan Graham,5,3,1,0,1
+Jeff Davis,Hazlehurst,Secretary of State,,Rep,Brad Raffensperger ,310,174,8,0,128
+Jeff Davis,Altamaha 1,Secretary of State,,Rep,Brad Raffensperger ,343,166,10,0,167
+Jeff Davis,Altamaha 2,Secretary of State,,Rep,Brad Raffensperger ,738,304,13,0,421
+Jeff Davis,Blackburn 1,Secretary of State,,Rep,Brad Raffensperger ,254,126,6,0,122
+Jeff Davis,Blackburn 2,Secretary of State,,Rep,Brad Raffensperger ,403,171,7,0,225
+Jeff Davis,Whitehead 1,Secretary of State,,Rep,Brad Raffensperger ,403,238,9,0,156
+Jeff Davis,Whitehead 2,Secretary of State,,Rep,Brad Raffensperger ,345,109,3,1,232
+Jeff Davis,Ocmulgee 1,Secretary of State,,Rep,Brad Raffensperger ,641,368,20,0,253
+Jeff Davis,Ocmulgee 2,Secretary of State,,Rep,Brad Raffensperger ,263,118,6,0,139
+Jeff Davis,Hazlehurst,Secretary of State,,Dem,Bee Nguyen,283,158,26,0,99
+Jeff Davis,Altamaha 1,Secretary of State,,Dem,Bee Nguyen,29,18,2,0,9
+Jeff Davis,Altamaha 2,Secretary of State,,Dem,Bee Nguyen,25,9,1,0,15
+Jeff Davis,Blackburn 1,Secretary of State,,Dem,Bee Nguyen,49,30,7,0,12
+Jeff Davis,Blackburn 2,Secretary of State,,Dem,Bee Nguyen,14,5,0,0,9
+Jeff Davis,Whitehead 1,Secretary of State,,Dem,Bee Nguyen,78,47,4,0,27
+Jeff Davis,Whitehead 2,Secretary of State,,Dem,Bee Nguyen,16,8,4,0,4
+Jeff Davis,Ocmulgee 1,Secretary of State,,Dem,Bee Nguyen,77,42,6,0,29
+Jeff Davis,Ocmulgee 2,Secretary of State,,Dem,Bee Nguyen,41,35,0,0,6
+Jeff Davis,Hazlehurst,Secretary of State,,Lib,Ted Metz,7,1,0,0,6
+Jeff Davis,Altamaha 1,Secretary of State,,Lib,Ted Metz,14,8,0,0,6
+Jeff Davis,Altamaha 2,Secretary of State,,Lib,Ted Metz,23,10,0,0,13
+Jeff Davis,Blackburn 1,Secretary of State,,Lib,Ted Metz,5,1,1,0,3
+Jeff Davis,Blackburn 2,Secretary of State,,Lib,Ted Metz,11,1,0,0,10
+Jeff Davis,Whitehead 1,Secretary of State,,Lib,Ted Metz,19,13,0,0,6
+Jeff Davis,Whitehead 2,Secretary of State,,Lib,Ted Metz,8,5,0,0,3
+Jeff Davis,Ocmulgee 1,Secretary of State,,Lib,Ted Metz,22,8,1,0,13
+Jeff Davis,Ocmulgee 2,Secretary of State,,Lib,Ted Metz,8,6,0,0,2
+Jeff Davis,Hazlehurst,Attorney General,,Rep,Chris Carr ,309,170,8,0,131
+Jeff Davis,Altamaha 1,Attorney General,,Rep,Chris Carr ,357,175,11,0,171
+Jeff Davis,Altamaha 2,Attorney General,,Rep,Chris Carr ,760,316,13,0,431
+Jeff Davis,Blackburn 1,Attorney General,,Rep,Chris Carr ,245,121,5,0,119
+Jeff Davis,Blackburn 2,Attorney General,,Rep,Chris Carr ,409,168,7,0,234
+Jeff Davis,Whitehead 1,Attorney General,,Rep,Chris Carr ,420,250,9,0,161
+Jeff Davis,Whitehead 2,Attorney General,,Rep,Chris Carr ,355,117,3,1,234
+Jeff Davis,Ocmulgee 1,Attorney General,,Rep,Chris Carr ,647,369,20,0,258
+Jeff Davis,Ocmulgee 2,Attorney General,,Rep,Chris Carr ,257,114,3,0,140
+Jeff Davis,Hazlehurst,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",293,165,26,0,102
+Jeff Davis,Altamaha 1,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",29,19,1,0,9
+Jeff Davis,Altamaha 2,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",27,10,1,0,16
+Jeff Davis,Blackburn 1,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",59,35,8,0,16
+Jeff Davis,Blackburn 2,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",19,8,0,0,11
+Jeff Davis,Whitehead 1,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",80,47,4,0,29
+Jeff Davis,Whitehead 2,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",18,8,4,0,6
+Jeff Davis,Ocmulgee 1,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",92,52,7,0,33
+Jeff Davis,Ocmulgee 2,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",49,39,2,0,8
+Jeff Davis,Hazlehurst,Attorney General,,Lib,Martin Cowen,4,2,0,0,2
+Jeff Davis,Altamaha 1,Attorney General,,Lib,Martin Cowen,5,2,0,0,3
+Jeff Davis,Altamaha 2,Attorney General,,Lib,Martin Cowen,5,2,0,0,3
+Jeff Davis,Blackburn 1,Attorney General,,Lib,Martin Cowen,4,2,1,0,1
+Jeff Davis,Blackburn 2,Attorney General,,Lib,Martin Cowen,2,1,0,0,1
+Jeff Davis,Whitehead 1,Attorney General,,Lib,Martin Cowen,8,6,0,0,2
+Jeff Davis,Whitehead 2,Attorney General,,Lib,Martin Cowen,1,0,0,0,1
+Jeff Davis,Ocmulgee 1,Attorney General,,Lib,Martin Cowen,11,3,0,0,8
+Jeff Davis,Ocmulgee 2,Attorney General,,Lib,Martin Cowen,2,2,0,0,0
+Jeff Davis,Hazlehurst,Commissioner of Agriculture,,Rep,Tyler Harper,319,178,8,0,133
+Jeff Davis,Altamaha 1,Commissioner of Agriculture,,Rep,Tyler Harper,358,177,11,0,170
+Jeff Davis,Altamaha 2,Commissioner of Agriculture,,Rep,Tyler Harper,768,317,13,0,438
+Jeff Davis,Blackburn 1,Commissioner of Agriculture,,Rep,Tyler Harper,248,124,5,0,119
+Jeff Davis,Blackburn 2,Commissioner of Agriculture,,Rep,Tyler Harper,414,170,7,0,237
+Jeff Davis,Whitehead 1,Commissioner of Agriculture,,Rep,Tyler Harper,417,249,9,0,159
+Jeff Davis,Whitehead 2,Commissioner of Agriculture,,Rep,Tyler Harper,360,116,3,1,240
+Jeff Davis,Ocmulgee 1,Commissioner of Agriculture,,Rep,Tyler Harper,658,375,21,0,262
+Jeff Davis,Ocmulgee 2,Commissioner of Agriculture,,Rep,Tyler Harper,263,122,4,0,137
+Jeff Davis,Hazlehurst,Commissioner of Agriculture,,Dem,Nakita Hemingway,283,160,26,0,97
+Jeff Davis,Altamaha 1,Commissioner of Agriculture,,Dem,Nakita Hemingway,27,18,1,0,8
+Jeff Davis,Altamaha 2,Commissioner of Agriculture,,Dem,Nakita Hemingway,23,11,1,0,11
+Jeff Davis,Blackburn 1,Commissioner of Agriculture,,Dem,Nakita Hemingway,55,31,8,0,16
+Jeff Davis,Blackburn 2,Commissioner of Agriculture,,Dem,Nakita Hemingway,15,7,0,0,8
+Jeff Davis,Whitehead 1,Commissioner of Agriculture,,Dem,Nakita Hemingway,79,44,4,0,31
+Jeff Davis,Whitehead 2,Commissioner of Agriculture,,Dem,Nakita Hemingway,16,8,4,0,4
+Jeff Davis,Ocmulgee 1,Commissioner of Agriculture,,Dem,Nakita Hemingway,82,43,6,0,33
+Jeff Davis,Ocmulgee 2,Commissioner of Agriculture,,Dem,Nakita Hemingway,44,35,2,0,7
+Jeff Davis,Hazlehurst,Commissioner of Agriculture,,Lib,David Raudabaugh,9,4,0,0,5
+Jeff Davis,Altamaha 1,Commissioner of Agriculture,,Lib,David Raudabaugh,5,1,0,0,4
+Jeff Davis,Altamaha 2,Commissioner of Agriculture,,Lib,David Raudabaugh,4,1,0,0,3
+Jeff Davis,Blackburn 1,Commissioner of Agriculture,,Lib,David Raudabaugh,4,3,1,0,0
+Jeff Davis,Blackburn 2,Commissioner of Agriculture,,Lib,David Raudabaugh,1,1,0,0,0
+Jeff Davis,Whitehead 1,Commissioner of Agriculture,,Lib,David Raudabaugh,9,7,0,0,2
+Jeff Davis,Whitehead 2,Commissioner of Agriculture,,Lib,David Raudabaugh,2,1,0,0,1
+Jeff Davis,Ocmulgee 1,Commissioner of Agriculture,,Lib,David Raudabaugh,10,6,0,0,4
+Jeff Davis,Ocmulgee 2,Commissioner of Agriculture,,Lib,David Raudabaugh,3,2,0,0,1
+Jeff Davis,Hazlehurst,Commissioner of Insurance,,Rep,John King ,311,170,9,0,132
+Jeff Davis,Altamaha 1,Commissioner of Insurance,,Rep,John King ,363,177,11,0,175
+Jeff Davis,Altamaha 2,Commissioner of Insurance,,Rep,John King ,769,318,12,0,439
+Jeff Davis,Blackburn 1,Commissioner of Insurance,,Rep,John King ,249,125,5,0,119
+Jeff Davis,Blackburn 2,Commissioner of Insurance,,Rep,John King ,412,168,7,0,237
+Jeff Davis,Whitehead 1,Commissioner of Insurance,,Rep,John King ,420,252,9,0,159
+Jeff Davis,Whitehead 2,Commissioner of Insurance,,Rep,John King ,356,116,3,1,236
+Jeff Davis,Ocmulgee 1,Commissioner of Insurance,,Rep,John King ,650,369,20,0,261
+Jeff Davis,Ocmulgee 2,Commissioner of Insurance,,Rep,John King ,260,120,4,0,136
+Jeff Davis,Hazlehurst,Commissioner of Insurance,,Dem,Janice Laws Robinson,292,168,25,0,99
+Jeff Davis,Altamaha 1,Commissioner of Insurance,,Dem,Janice Laws Robinson,28,19,1,0,8
+Jeff Davis,Altamaha 2,Commissioner of Insurance,,Dem,Janice Laws Robinson,24,10,2,0,12
+Jeff Davis,Blackburn 1,Commissioner of Insurance,,Dem,Janice Laws Robinson,57,31,9,0,17
+Jeff Davis,Blackburn 2,Commissioner of Insurance,,Dem,Janice Laws Robinson,19,10,0,0,9
+Jeff Davis,Whitehead 1,Commissioner of Insurance,,Dem,Janice Laws Robinson,83,48,4,0,31
+Jeff Davis,Whitehead 2,Commissioner of Insurance,,Dem,Janice Laws Robinson,19,8,4,0,7
+Jeff Davis,Ocmulgee 1,Commissioner of Insurance,,Dem,Janice Laws Robinson,95,53,7,0,35
+Jeff Davis,Ocmulgee 2,Commissioner of Insurance,,Dem,Janice Laws Robinson,46,36,2,0,8
+Jeff Davis,Hazlehurst,State School Superintendent,,Rep,Richard Woods ,320,179,8,0,133
+Jeff Davis,Altamaha 1,State School Superintendent,,Rep,Richard Woods ,362,176,11,0,175
+Jeff Davis,Altamaha 2,State School Superintendent,,Rep,Richard Woods ,769,319,13,0,437
+Jeff Davis,Blackburn 1,State School Superintendent,,Rep,Richard Woods ,247,125,5,0,117
+Jeff Davis,Blackburn 2,State School Superintendent,,Rep,Richard Woods ,411,167,7,0,237
+Jeff Davis,Whitehead 1,State School Superintendent,,Rep,Richard Woods ,424,252,9,0,163
+Jeff Davis,Whitehead 2,State School Superintendent,,Rep,Richard Woods ,356,116,3,0,237
+Jeff Davis,Ocmulgee 1,State School Superintendent,,Rep,Richard Woods ,654,369,21,0,264
+Jeff Davis,Ocmulgee 2,State School Superintendent,,Rep,Richard Woods ,263,121,4,0,138
+Jeff Davis,Hazlehurst,State School Superintendent,,Dem,Alisha Thomas Searcy,286,160,26,0,100
+Jeff Davis,Altamaha 1,State School Superintendent,,Dem,Alisha Thomas Searcy,26,18,1,0,7
+Jeff Davis,Altamaha 2,State School Superintendent,,Dem,Alisha Thomas Searcy,24,10,1,0,13
+Jeff Davis,Blackburn 1,State School Superintendent,,Dem,Alisha Thomas Searcy,59,31,9,0,19
+Jeff Davis,Blackburn 2,State School Superintendent,,Dem,Alisha Thomas Searcy,19,10,0,0,9
+Jeff Davis,Whitehead 1,State School Superintendent,,Dem,Alisha Thomas Searcy,81,49,4,0,28
+Jeff Davis,Whitehead 2,State School Superintendent,,Dem,Alisha Thomas Searcy,18,8,4,1,5
+Jeff Davis,Ocmulgee 1,State School Superintendent,,Dem,Alisha Thomas Searcy,91,52,6,0,33
+Jeff Davis,Ocmulgee 2,State School Superintendent,,Dem,Alisha Thomas Searcy,45,36,2,0,7
+Jeff Davis,Hazlehurst,Commissioner of Labor,,Rep,Bruce Thompson,319,176,8,0,135
+Jeff Davis,Altamaha 1,Commissioner of Labor,,Rep,Bruce Thompson,355,176,11,0,168
+Jeff Davis,Altamaha 2,Commissioner of Labor,,Rep,Bruce Thompson,764,317,13,0,434
+Jeff Davis,Blackburn 1,Commissioner of Labor,,Rep,Bruce Thompson,243,122,5,0,116
+Jeff Davis,Blackburn 2,Commissioner of Labor,,Rep,Bruce Thompson,411,170,7,0,234
+Jeff Davis,Whitehead 1,Commissioner of Labor,,Rep,Bruce Thompson,415,248,9,0,158
+Jeff Davis,Whitehead 2,Commissioner of Labor,,Rep,Bruce Thompson,360,116,3,1,240
+Jeff Davis,Ocmulgee 1,Commissioner of Labor,,Rep,Bruce Thompson,655,372,21,0,262
+Jeff Davis,Ocmulgee 2,Commissioner of Labor,,Rep,Bruce Thompson,258,117,3,0,138
+Jeff Davis,Hazlehurst,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",279,157,26,0,96
+Jeff Davis,Altamaha 1,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",27,19,1,0,7
+Jeff Davis,Altamaha 2,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",22,9,1,0,12
+Jeff Davis,Blackburn 1,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",56,32,8,0,16
+Jeff Davis,Blackburn 2,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",18,8,0,0,10
+Jeff Davis,Whitehead 1,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",81,48,4,0,29
+Jeff Davis,Whitehead 2,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",18,9,4,0,5
+Jeff Davis,Ocmulgee 1,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",84,47,5,0,32
+Jeff Davis,Ocmulgee 2,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",49,39,1,0,9
+Jeff Davis,Hazlehurst,Commissioner of Labor,,Lib,Emily Anderson,8,5,0,0,3
+Jeff Davis,Altamaha 1,Commissioner of Labor,,Lib,Emily Anderson,7,1,0,0,6
+Jeff Davis,Altamaha 2,Commissioner of Labor,,Lib,Emily Anderson,6,2,0,0,4
+Jeff Davis,Blackburn 1,Commissioner of Labor,,Lib,Emily Anderson,6,3,1,0,2
+Jeff Davis,Blackburn 2,Commissioner of Labor,,Lib,Emily Anderson,2,1,0,0,1
+Jeff Davis,Whitehead 1,Commissioner of Labor,,Lib,Emily Anderson,6,5,0,0,1
+Jeff Davis,Whitehead 2,Commissioner of Labor,,Lib,Emily Anderson,0,0,0,0,0
+Jeff Davis,Ocmulgee 1,Commissioner of Labor,,Lib,Emily Anderson,8,4,0,0,4
+Jeff Davis,Ocmulgee 2,Commissioner of Labor,,Lib,Emily Anderson,4,2,1,0,1
+Jeff Davis,Hazlehurst,U.S. House,,Rep,Austin Scott ,317,175,8,0,134
+Jeff Davis,Altamaha 1,U.S. House,,Rep,Austin Scott ,360,178,11,0,171
+Jeff Davis,Altamaha 2,U.S. House,,Rep,Austin Scott ,767,319,13,0,435
+Jeff Davis,Blackburn 1,U.S. House,,Rep,Austin Scott ,250,124,5,0,121
+Jeff Davis,Blackburn 2,U.S. House,,Rep,Austin Scott ,414,171,7,0,236
+Jeff Davis,Whitehead 1,U.S. House,,Rep,Austin Scott ,418,251,9,0,158
+Jeff Davis,Whitehead 2,U.S. House,,Rep,Austin Scott ,361,117,3,1,240
+Jeff Davis,Ocmulgee 1,U.S. House,,Rep,Austin Scott ,661,374,21,0,266
+Jeff Davis,Ocmulgee 2,U.S. House,,Rep,Austin Scott ,264,120,3,0,141
+Jeff Davis,Hazlehurst,U.S. House,,Dem,Darrius Butler,291,165,26,0,100
+Jeff Davis,Altamaha 1,U.S. House,,Dem,Darrius Butler,29,18,1,0,10
+Jeff Davis,Altamaha 2,U.S. House,,Dem,Darrius Butler,25,9,1,0,15
+Jeff Davis,Blackburn 1,U.S. House,,Dem,Darrius Butler,55,33,9,0,13
+Jeff Davis,Blackburn 2,U.S. House,,Dem,Darrius Butler,16,8,0,0,8
+Jeff Davis,Whitehead 1,U.S. House,,Dem,Darrius Butler,82,48,4,0,30
+Jeff Davis,Whitehead 2,U.S. House,,Dem,Darrius Butler,16,8,4,0,4
+Jeff Davis,Ocmulgee 1,U.S. House,,Dem,Darrius Butler,88,49,6,0,33
+Jeff Davis,Ocmulgee 2,U.S. House,,Dem,Darrius Butler,47,38,2,0,7
+Jeff Davis,Hazlehurst,State Senate,,Rep,Blake Tillery ,317,175,9,0,133
+Jeff Davis,Altamaha 1,State Senate,,Rep,Blake Tillery ,360,176,11,0,173
+Jeff Davis,Altamaha 2,State Senate,,Rep,Blake Tillery ,773,316,13,0,444
+Jeff Davis,Blackburn 1,State Senate,,Rep,Blake Tillery ,248,124,5,0,119
+Jeff Davis,Blackburn 2,State Senate,,Rep,Blake Tillery ,415,171,7,0,237
+Jeff Davis,Whitehead 1,State Senate,,Rep,Blake Tillery ,422,255,9,0,158
+Jeff Davis,Whitehead 2,State Senate,,Rep,Blake Tillery ,361,117,3,1,240
+Jeff Davis,Ocmulgee 1,State Senate,,Rep,Blake Tillery ,659,372,21,0,266
+Jeff Davis,Ocmulgee 2,State Senate,,Rep,Blake Tillery ,264,120,4,0,140
+Jeff Davis,Hazlehurst,State Senate,,Dem,"Michael """"Buckle"""" Moore",287,163,25,0,99
+Jeff Davis,Altamaha 1,State Senate,,Dem,"Michael """"Buckle"""" Moore",27,18,1,0,8
+Jeff Davis,Altamaha 2,State Senate,,Dem,"Michael """"Buckle"""" Moore",22,12,1,0,9
+Jeff Davis,Blackburn 1,State Senate,,Dem,"Michael """"Buckle"""" Moore",57,32,9,0,16
+Jeff Davis,Blackburn 2,State Senate,,Dem,"Michael """"Buckle"""" Moore",17,8,0,0,9
+Jeff Davis,Whitehead 1,State Senate,,Dem,"Michael """"Buckle"""" Moore",81,46,4,0,31
+Jeff Davis,Whitehead 2,State Senate,,Dem,"Michael """"Buckle"""" Moore",15,8,3,0,4
+Jeff Davis,Ocmulgee 1,State Senate,,Dem,"Michael """"Buckle"""" Moore",90,52,6,0,32
+Jeff Davis,Ocmulgee 2,State Senate,,Dem,"Michael """"Buckle"""" Moore",44,36,1,0,7
+Jeff Davis,Hazlehurst,State House,,Rep,"William """"Bill"""" Werkheiser ",422,244,11,0,167
+Jeff Davis,Altamaha 1,State House,,Rep,"William """"Bill"""" Werkheiser ",374,183,11,0,180
+Jeff Davis,Altamaha 2,State House,,Rep,"William """"Bill"""" Werkheiser ",772,317,13,0,442
+Jeff Davis,Blackburn 1,State House,,Rep,"William """"Bill"""" Werkheiser ",274,136,10,0,128
+Jeff Davis,Blackburn 2,State House,,Rep,"William """"Bill"""" Werkheiser ",421,176,7,0,238
+Jeff Davis,Whitehead 1,State House,,Rep,"William """"Bill"""" Werkheiser ",455,271,11,0,173
+Jeff Davis,Whitehead 2,State House,,Rep,"William """"Bill"""" Werkheiser ",358,118,3,1,236
+Jeff Davis,Ocmulgee 1,State House,,Rep,"William """"Bill"""" Werkheiser ",704,397,23,0,284
+Jeff Davis,Ocmulgee 2,State House,,Rep,"William """"Bill"""" Werkheiser ",275,128,5,0,142
+Jeff Davis,Hazlehurst,State Court Solicitor,,Rep,Graham F. Floyd,418,240,11,0,167
+Jeff Davis,Altamaha 1,State Court Solicitor,,Rep,Graham F. Floyd,370,184,10,0,176
+Jeff Davis,Altamaha 2,State Court Solicitor,,Rep,Graham F. Floyd,771,318,14,0,439
+Jeff Davis,Blackburn 1,State Court Solicitor,,Rep,Graham F. Floyd,269,132,10,0,127
+Jeff Davis,Blackburn 2,State Court Solicitor,,Rep,Graham F. Floyd,411,169,7,0,235
+Jeff Davis,Whitehead 1,State Court Solicitor,,Rep,Graham F. Floyd,453,270,11,0,172
+Jeff Davis,Whitehead 2,State Court Solicitor,,Rep,Graham F. Floyd,357,116,3,1,237
+Jeff Davis,Ocmulgee 1,State Court Solicitor,,Rep,Graham F. Floyd,694,391,22,0,281
+Jeff Davis,Ocmulgee 2,State Court Solicitor,,Rep,Graham F. Floyd,274,127,5,0,142
+Jeff Davis,Whitehead 1,County Commissioner,,Rep,James E. Tate,464,272,11,0,181
+Jeff Davis,Whitehead 2,County Commissioner,,Rep,James E. Tate,357,118,3,1,235
+Jeff Davis,Ocmulgee 1,County Commissioner,,Rep,Vann Wooten ,685,387,23,0,275
+Jeff Davis,Ocmulgee 2,County Commissioner,,Rep,Vann Wooten ,257,127,4,0,126
+Jeff Davis,Hazlehurst,Bd of Education,,Rep,Roger D. Ogilvie ,448,254,14,0,180
+Jeff Davis,Altamaha 1,Bd of Education,,Rep,Roger D. Ogilvie ,366,179,11,0,176
+Jeff Davis,Altamaha 2,Bd of Education,,Rep,Roger D. Ogilvie ,765,315,14,0,436
+Jeff Davis,Blackburn 1,Bd of Education,,Rep,Roger D. Ogilvie ,275,142,11,0,122
+Jeff Davis,Blackburn 2,Bd of Education,,Rep,Roger D. Ogilvie ,421,175,7,0,239
+Jeff Davis,Whitehead 1,Bd of Education,,Rep,Roger D. Ogilvie ,464,273,11,0,180
+Jeff Davis,Whitehead 2,Bd of Education,,Rep,Roger D. Ogilvie ,355,118,4,1,232
+Jeff Davis,Ocmulgee 1,Bd of Education,,Rep,Roger D. Ogilvie ,693,385,23,0,285
+Jeff Davis,Ocmulgee 2,Bd of Education,,Rep,Roger D. Ogilvie ,273,133,5,0,135
+Jeff Davis,Blackburn 1,Bd of Education,,(Ind,Greg C. Brantley ,268,139,12,0,117
+Jeff Davis,Blackburn 2,Bd of Education,,(Ind,Greg C. Brantley ,408,169,7,0,232
+Jeff Davis,Whitehead 1,Bd of Education,,Rep,John Girtman ,458,270,11,0,177
+Jeff Davis,Whitehead 2,Bd of Education,,Rep,John Girtman ,361,118,5,1,237
+Jeff Davis,Ocmulgee 1,Special,,Rep,Gary J. Brown,329,188,14,0,127
+Jeff Davis,Ocmulgee 2,Special,,Rep,Gary J. Brown,133,54,4,0,75
+Jeff Davis,Ocmulgee 1,Special,,Rep,Shannon Jump New,332,192,9,0,131
+Jeff Davis,Ocmulgee 2,Special,,Rep,Shannon Jump New,125,61,2,0,62
+Jeff Davis,Ocmulgee 1,Special,,Rep,Roy L. Smith,82,37,3,0,42
+Jeff Davis,Ocmulgee 2,Special,,Rep,Roy L. Smith,33,28,0,0,5
+Jeff Davis,Hazlehurst,Proposed Constitutional Amendment 1,,,Yes,481,267,25,0,189
+Jeff Davis,Altamaha 1,Proposed Constitutional Amendment 1,,,Yes,329,159,9,0,161
+Jeff Davis,Altamaha 2,Proposed Constitutional Amendment 1,,,Yes,650,280,11,0,359
+Jeff Davis,Blackburn 1,Proposed Constitutional Amendment 1,,,Yes,258,131,12,0,115
+Jeff Davis,Blackburn 2,Proposed Constitutional Amendment 1,,,Yes,368,156,5,0,207
+Jeff Davis,Whitehead 1,Proposed Constitutional Amendment 1,,,Yes,419,253,10,0,156
+Jeff Davis,Whitehead 2,Proposed Constitutional Amendment 1,,,Yes,310,112,7,1,190
+Jeff Davis,Ocmulgee 1,Proposed Constitutional Amendment 1,,,Yes,650,371,21,0,258
+Jeff Davis,Ocmulgee 2,Proposed Constitutional Amendment 1,,,Yes,260,132,4,0,124
+Jeff Davis,Hazlehurst,Proposed Constitutional Amendment 1,,,No,92,51,6,0,35
+Jeff Davis,Altamaha 1,Proposed Constitutional Amendment 1,,,No,45,23,1,0,21
+Jeff Davis,Altamaha 2,Proposed Constitutional Amendment 1,,,No,103,36,0,0,67
+Jeff Davis,Blackburn 1,Proposed Constitutional Amendment 1,,,No,28,16,0,0,12
+Jeff Davis,Blackburn 2,Proposed Constitutional Amendment 1,,,No,47,15,1,0,31
+Jeff Davis,Whitehead 1,Proposed Constitutional Amendment 1,,,No,63,35,2,0,26
+Jeff Davis,Whitehead 2,Proposed Constitutional Amendment 1,,,No,39,10,0,0,29
+Jeff Davis,Ocmulgee 1,Proposed Constitutional Amendment 1,,,No,60,34,3,0,23
+Jeff Davis,Ocmulgee 2,Proposed Constitutional Amendment 1,,,No,30,20,1,0,9
+Jeff Davis,Hazlehurst,Proposed Constitutional Amendment 2,,,Yes,525,291,29,0,205
+Jeff Davis,Altamaha 1,Proposed Constitutional Amendment 2,,,Yes,347,175,7,0,165
+Jeff Davis,Altamaha 2,Proposed Constitutional Amendment 2,,,Yes,684,286,11,0,387
+Jeff Davis,Blackburn 1,Proposed Constitutional Amendment 2,,,Yes,266,134,13,0,119
+Jeff Davis,Blackburn 2,Proposed Constitutional Amendment 2,,,Yes,382,161,7,0,214
+Jeff Davis,Whitehead 1,Proposed Constitutional Amendment 2,,,Yes,449,262,10,0,177
+Jeff Davis,Whitehead 2,Proposed Constitutional Amendment 2,,,Yes,324,113,7,0,204
+Jeff Davis,Ocmulgee 1,Proposed Constitutional Amendment 2,,,Yes,663,368,24,0,271
+Jeff Davis,Ocmulgee 2,Proposed Constitutional Amendment 2,,,Yes,263,132,5,0,126
+Jeff Davis,Hazlehurst,Proposed Constitutional Amendment 2,,,No,61,36,2,0,23
+Jeff Davis,Altamaha 1,Proposed Constitutional Amendment 2,,,No,28,9,3,0,16
+Jeff Davis,Altamaha 2,Proposed Constitutional Amendment 2,,,No,84,35,1,0,48
+Jeff Davis,Blackburn 1,Proposed Constitutional Amendment 2,,,No,26,17,0,0,9
+Jeff Davis,Blackburn 2,Proposed Constitutional Amendment 2,,,No,34,12,0,0,22
+Jeff Davis,Whitehead 1,Proposed Constitutional Amendment 2,,,No,43,29,2,0,12
+Jeff Davis,Whitehead 2,Proposed Constitutional Amendment 2,,,No,34,8,0,0,26
+Jeff Davis,Ocmulgee 1,Proposed Constitutional Amendment 2,,,No,55,38,3,0,14
+Jeff Davis,Ocmulgee 2,Proposed Constitutional Amendment 2,,,No,30,21,0,0,9
+Jeff Davis,Hazlehurst,Statewide Referendum Question A,,,Yes,331,172,17,0,142
+Jeff Davis,Altamaha 1,Statewide Referendum Question A,,,Yes,224,106,5,0,113
+Jeff Davis,Altamaha 2,Statewide Referendum Question A,,,Yes,513,205,5,0,303
+Jeff Davis,Blackburn 1,Statewide Referendum Question A,,,Yes,171,86,6,0,79
+Jeff Davis,Blackburn 2,Statewide Referendum Question A,,,Yes,281,120,7,0,154
+Jeff Davis,Whitehead 1,Statewide Referendum Question A,,,Yes,306,168,3,0,135
+Jeff Davis,Whitehead 2,Statewide Referendum Question A,,,Yes,237,77,3,1,156
+Jeff Davis,Ocmulgee 1,Statewide Referendum Question A,,,Yes,405,219,12,0,174
+Jeff Davis,Ocmulgee 2,Statewide Referendum Question A,,,Yes,211,104,3,0,104
+Jeff Davis,Hazlehurst,Statewide Referendum Question A,,,No,236,147,13,0,76
+Jeff Davis,Altamaha 1,Statewide Referendum Question A,,,No,140,73,5,0,62
+Jeff Davis,Altamaha 2,Statewide Referendum Question A,,,No,241,113,6,0,122
+Jeff Davis,Blackburn 1,Statewide Referendum Question A,,,No,113,64,7,0,42
+Jeff Davis,Blackburn 2,Statewide Referendum Question A,,,No,128,51,0,0,77
+Jeff Davis,Whitehead 1,Statewide Referendum Question A,,,No,176,117,8,0,51
+Jeff Davis,Whitehead 2,Statewide Referendum Question A,,,No,114,41,3,0,70
+Jeff Davis,Ocmulgee 1,Statewide Referendum Question A,,,No,304,184,12,0,108
+Jeff Davis,Ocmulgee 2,Statewide Referendum Question A,,,No,75,44,1,0,30
+Jeff Davis,Hazlehurst,Statewide Referendum Question B,,,Yes,411,233,19,0,159
+Jeff Davis,Altamaha 1,Statewide Referendum Question B,,,Yes,287,146,7,0,134
+Jeff Davis,Altamaha 2,Statewide Referendum Question B,,,Yes,591,252,7,0,332
+Jeff Davis,Blackburn 1,Statewide Referendum Question B,,,Yes,208,105,10,0,93
+Jeff Davis,Blackburn 2,Statewide Referendum Question B,,,Yes,338,139,6,0,193
+Jeff Davis,Whitehead 1,Statewide Referendum Question B,,,Yes,378,213,5,0,160
+Jeff Davis,Whitehead 2,Statewide Referendum Question B,,,Yes,277,90,3,1,183
+Jeff Davis,Ocmulgee 1,Statewide Referendum Question B,,,Yes,538,286,22,0,230
+Jeff Davis,Ocmulgee 2,Statewide Referendum Question B,,,Yes,233,119,3,0,111
+Jeff Davis,Hazlehurst,Statewide Referendum Question B,,,No,149,83,11,0,55
+Jeff Davis,Altamaha 1,Statewide Referendum Question B,,,No,77,32,3,0,42
+Jeff Davis,Altamaha 2,Statewide Referendum Question B,,,No,158,66,4,0,88
+Jeff Davis,Blackburn 1,Statewide Referendum Question B,,,No,74,41,2,0,31
+Jeff Davis,Blackburn 2,Statewide Referendum Question B,,,No,73,33,1,0,39
+Jeff Davis,Whitehead 1,Statewide Referendum Question B,,,No,107,73,7,0,27
+Jeff Davis,Whitehead 2,Statewide Referendum Question B,,,No,79,28,3,0,48
+Jeff Davis,Ocmulgee 1,Statewide Referendum Question B,,,No,173,118,3,0,52
+Jeff Davis,Ocmulgee 2,Statewide Referendum Question B,,,No,53,30,2,0,21

@@ -1,0 +1,220 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Crisp,Arabi,U.S. Senate,,Rep,Herschel Junior Walker,348,146,15,0,187
+Crisp,Coney,U.S. Senate,,Rep,Herschel Junior Walker,573,301,20,0,252
+Crisp,Cordele,U.S. Senate,,Rep,Herschel Junior Walker,1918,1334,124,1,459
+Crisp,Jamestown,U.S. Senate,,Rep,Herschel Junior Walker,757,422,22,0,313
+Crisp,Listonia,U.S. Senate,,Rep,Herschel Junior Walker,462,241,14,0,207
+Crisp,Arabi,U.S. Senate,,Dem,Raphael Warnock ,86,33,7,0,46
+Crisp,Coney,U.S. Senate,,Dem,Raphael Warnock ,87,47,8,0,32
+Crisp,Cordele,U.S. Senate,,Dem,Raphael Warnock ,1873,1111,180,0,582
+Crisp,Jamestown,U.S. Senate,,Dem,Raphael Warnock ,85,58,6,0,21
+Crisp,Listonia,U.S. Senate,,Dem,Raphael Warnock ,33,14,4,0,15
+Crisp,Arabi,U.S. Senate,,Lib,Chase Oliver,7,1,0,0,6
+Crisp,Coney,U.S. Senate,,Lib,Chase Oliver,11,6,1,0,4
+Crisp,Cordele,U.S. Senate,,Lib,Chase Oliver,51,30,2,0,19
+Crisp,Jamestown,U.S. Senate,,Lib,Chase Oliver,9,3,0,0,6
+Crisp,Listonia,U.S. Senate,,Lib,Chase Oliver,6,2,0,0,4
+Crisp,Arabi,Governor,,Rep,Brian Kemp ,370,151,17,0,202
+Crisp,Coney,Governor,,Rep,Brian Kemp ,603,320,22,0,261
+Crisp,Cordele,Governor,,Rep,Brian Kemp ,2061,1414,142,1,504
+Crisp,Jamestown,Governor,,Rep,Brian Kemp ,783,433,23,0,327
+Crisp,Listonia,Governor,,Rep,Brian Kemp ,479,248,16,0,215
+Crisp,Arabi,Governor,,Dem,Stacey Abrams,72,29,5,0,38
+Crisp,Coney,Governor,,Dem,Stacey Abrams,65,34,6,0,25
+Crisp,Cordele,Governor,,Dem,Stacey Abrams,1792,1065,166,0,561
+Crisp,Jamestown,Governor,,Dem,Stacey Abrams,63,44,5,0,14
+Crisp,Listonia,Governor,,Dem,Stacey Abrams,21,9,2,0,10
+Crisp,Arabi,Governor,,Lib,Shane Hazel,1,0,0,0,1
+Crisp,Coney,Governor,,Lib,Shane Hazel,3,0,1,0,2
+Crisp,Cordele,Governor,,Lib,Shane Hazel,7,5,0,0,2
+Crisp,Jamestown,Governor,,Lib,Shane Hazel,2,2,0,0,0
+Crisp,Listonia,Governor,,Lib,Shane Hazel,0,0,0,0,0
+Crisp,Arabi,Lieutenant Governor,,Rep,Burt Jones,364,149,16,0,199
+Crisp,Coney,Lieutenant Governor,,Rep,Burt Jones,581,309,21,0,251
+Crisp,Cordele,Lieutenant Governor,,Rep,Burt Jones,1994,1382,132,1,479
+Crisp,Jamestown,Lieutenant Governor,,Rep,Burt Jones,773,429,23,0,321
+Crisp,Listonia,Lieutenant Governor,,Rep,Burt Jones,470,243,14,0,213
+Crisp,Arabi,Lieutenant Governor,,Dem,Charlie Bailey,70,28,4,0,38
+Crisp,Coney,Lieutenant Governor,,Dem,Charlie Bailey,71,39,7,0,25
+Crisp,Cordele,Lieutenant Governor,,Dem,Charlie Bailey,1719,1010,172,0,537
+Crisp,Jamestown,Lieutenant Governor,,Dem,Charlie Bailey,70,48,5,0,17
+Crisp,Listonia,Lieutenant Governor,,Dem,Charlie Bailey,27,12,3,0,12
+Crisp,Arabi,Lieutenant Governor,,Lib,Ryan Graham,2,0,0,0,2
+Crisp,Coney,Lieutenant Governor,,Lib,Ryan Graham,9,4,0,0,5
+Crisp,Cordele,Lieutenant Governor,,Lib,Ryan Graham,47,22,3,0,22
+Crisp,Jamestown,Lieutenant Governor,,Lib,Ryan Graham,3,1,0,0,2
+Crisp,Listonia,Lieutenant Governor,,Lib,Ryan Graham,0,0,0,0,0
+Crisp,Arabi,Secretary of State,,Rep,Brad Raffensperger ,356,144,15,0,197
+Crisp,Coney,Secretary of State,,Rep,Brad Raffensperger ,587,313,23,0,251
+Crisp,Cordele,Secretary of State,,Rep,Brad Raffensperger ,2042,1405,140,1,496
+Crisp,Jamestown,Secretary of State,,Rep,Brad Raffensperger ,750,412,23,0,315
+Crisp,Listonia,Secretary of State,,Rep,Brad Raffensperger ,463,242,16,0,205
+Crisp,Arabi,Secretary of State,,Dem,Bee Nguyen,66,27,5,0,34
+Crisp,Coney,Secretary of State,,Dem,Bee Nguyen,65,35,6,0,24
+Crisp,Cordele,Secretary of State,,Dem,Bee Nguyen,1633,960,163,0,510
+Crisp,Jamestown,Secretary of State,,Dem,Bee Nguyen,65,46,5,0,14
+Crisp,Listonia,Secretary of State,,Dem,Bee Nguyen,26,11,2,0,13
+Crisp,Arabi,Secretary of State,,Lib,Ted Metz,13,5,1,0,7
+Crisp,Coney,Secretary of State,,Lib,Ted Metz,10,3,0,0,7
+Crisp,Cordele,Secretary of State,,Lib,Ted Metz,84,51,3,0,30
+Crisp,Jamestown,Secretary of State,,Lib,Ted Metz,26,14,0,0,12
+Crisp,Listonia,Secretary of State,,Lib,Ted Metz,7,1,0,0,6
+Crisp,Arabi,Attorney General,,Rep,Chris Carr ,366,151,16,0,199
+Crisp,Coney,Attorney General,,Rep,Chris Carr ,591,312,21,0,258
+Crisp,Cordele,Attorney General,,Rep,Chris Carr ,1995,1380,127,1,487
+Crisp,Jamestown,Attorney General,,Rep,Chris Carr ,777,430,23,0,324
+Crisp,Listonia,Attorney General,,Rep,Chris Carr ,467,240,16,0,211
+Crisp,Arabi,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",74,28,5,0,41
+Crisp,Coney,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",74,41,7,0,26
+Crisp,Cordele,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1755,1040,173,0,542
+Crisp,Jamestown,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",66,46,4,0,16
+Crisp,Listonia,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",28,13,2,0,13
+Crisp,Arabi,Attorney General,,Lib,Martin Cowen,0,0,0,0,0
+Crisp,Coney,Attorney General,,Lib,Martin Cowen,5,1,1,0,3
+Crisp,Cordele,Attorney General,,Lib,Martin Cowen,33,17,3,0,13
+Crisp,Jamestown,Attorney General,,Lib,Martin Cowen,3,2,0,0,1
+Crisp,Listonia,Attorney General,,Lib,Martin Cowen,2,1,0,0,1
+Crisp,Arabi,Commissioner of Agriculture,,Rep,Tyler Harper,366,149,16,0,201
+Crisp,Coney,Commissioner of Agriculture,,Rep,Tyler Harper,606,322,22,0,262
+Crisp,Cordele,Commissioner of Agriculture,,Rep,Tyler Harper,2020,1397,129,1,493
+Crisp,Jamestown,Commissioner of Agriculture,,Rep,Tyler Harper,781,433,23,0,325
+Crisp,Listonia,Commissioner of Agriculture,,Rep,Tyler Harper,472,244,14,0,214
+Crisp,Arabi,Commissioner of Agriculture,,Dem,Nakita Hemingway,70,28,3,0,39
+Crisp,Coney,Commissioner of Agriculture,,Dem,Nakita Hemingway,53,28,5,0,20
+Crisp,Cordele,Commissioner of Agriculture,,Dem,Nakita Hemingway,1694,996,167,0,531
+Crisp,Jamestown,Commissioner of Agriculture,,Dem,Nakita Hemingway,55,39,4,0,12
+Crisp,Listonia,Commissioner of Agriculture,,Dem,Nakita Hemingway,23,9,4,0,10
+Crisp,Arabi,Commissioner of Agriculture,,Lib,David Raudabaugh,0,0,0,0,0
+Crisp,Coney,Commissioner of Agriculture,,Lib,David Raudabaugh,4,1,1,0,2
+Crisp,Cordele,Commissioner of Agriculture,,Lib,David Raudabaugh,55,35,5,0,15
+Crisp,Jamestown,Commissioner of Agriculture,,Lib,David Raudabaugh,8,5,0,0,3
+Crisp,Listonia,Commissioner of Agriculture,,Lib,David Raudabaugh,1,1,0,0,0
+Crisp,Arabi,Commissioner of Insurance,,Rep,John King ,362,149,16,0,197
+Crisp,Coney,Commissioner of Insurance,,Rep,John King ,602,318,21,0,263
+Crisp,Cordele,Commissioner of Insurance,,Rep,John King ,2023,1394,134,1,494
+Crisp,Jamestown,Commissioner of Insurance,,Rep,John King ,784,434,23,0,327
+Crisp,Listonia,Commissioner of Insurance,,Rep,John King ,476,246,16,0,214
+Crisp,Arabi,Commissioner of Insurance,,Dem,Janice Laws Robinson,73,28,4,0,41
+Crisp,Coney,Commissioner of Insurance,,Dem,Janice Laws Robinson,61,32,7,0,22
+Crisp,Cordele,Commissioner of Insurance,,Dem,Janice Laws Robinson,1741,1025,170,0,546
+Crisp,Jamestown,Commissioner of Insurance,,Dem,Janice Laws Robinson,62,43,4,0,15
+Crisp,Listonia,Commissioner of Insurance,,Dem,Janice Laws Robinson,24,10,2,0,12
+Crisp,Arabi,State School Superintendent,,Rep,Richard Woods ,367,149,17,0,201
+Crisp,Coney,State School Superintendent,,Rep,Richard Woods ,607,321,23,0,263
+Crisp,Cordele,State School Superintendent,,Rep,Richard Woods ,2025,1395,135,1,494
+Crisp,Jamestown,State School Superintendent,,Rep,Richard Woods ,785,436,23,0,326
+Crisp,Listonia,State School Superintendent,,Rep,Richard Woods ,472,243,16,0,213
+Crisp,Arabi,State School Superintendent,,Dem,Alisha Thomas Searcy,69,27,4,0,38
+Crisp,Coney,State School Superintendent,,Dem,Alisha Thomas Searcy,61,31,6,0,24
+Crisp,Cordele,State School Superintendent,,Dem,Alisha Thomas Searcy,1747,1025,171,0,551
+Crisp,Jamestown,State School Superintendent,,Dem,Alisha Thomas Searcy,64,45,4,0,15
+Crisp,Listonia,State School Superintendent,,Dem,Alisha Thomas Searcy,25,12,2,0,11
+Crisp,Arabi,Commissioner of Labor,,Rep,Bruce Thompson,360,148,16,0,196
+Crisp,Coney,Commissioner of Labor,,Rep,Bruce Thompson,591,314,21,0,256
+Crisp,Cordele,Commissioner of Labor,,Rep,Bruce Thompson,1994,1378,130,1,485
+Crisp,Jamestown,Commissioner of Labor,,Rep,Bruce Thompson,773,430,23,0,320
+Crisp,Listonia,Commissioner of Labor,,Rep,Bruce Thompson,465,240,16,0,209
+Crisp,Arabi,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",74,28,4,0,42
+Crisp,Coney,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",65,31,8,0,26
+Crisp,Cordele,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",1709,1015,169,0,525
+Crisp,Jamestown,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",66,45,4,0,17
+Crisp,Listonia,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",28,13,2,0,13
+Crisp,Arabi,Commissioner of Labor,,Lib,Emily Anderson,4,2,0,0,2
+Crisp,Coney,Commissioner of Labor,,Lib,Emily Anderson,7,4,0,0,3
+Crisp,Cordele,Commissioner of Labor,,Lib,Emily Anderson,69,35,6,0,28
+Crisp,Jamestown,Commissioner of Labor,,Lib,Emily Anderson,3,1,0,0,2
+Crisp,Listonia,Commissioner of Labor,,Lib,Emily Anderson,2,2,0,0,0
+Crisp,Arabi,U.S. House,,Rep,Austin Scott ,365,149,17,0,199
+Crisp,Coney,U.S. House,,Rep,Austin Scott ,608,322,22,0,264
+Crisp,Cordele,U.S. House,,Rep,Austin Scott ,2042,1412,133,1,496
+Crisp,Jamestown,U.S. House,,Rep,Austin Scott ,782,434,23,0,325
+Crisp,Listonia,U.S. House,,Rep,Austin Scott ,476,246,16,0,214
+Crisp,Arabi,U.S. House,,Dem,Darrius Butler,73,29,4,0,40
+Crisp,Coney,U.S. House,,Dem,Darrius Butler,58,29,7,0,22
+Crisp,Cordele,U.S. House,,Dem,Darrius Butler,1732,1019,169,0,544
+Crisp,Jamestown,U.S. House,,Dem,Darrius Butler,62,43,4,0,15
+Crisp,Listonia,U.S. House,,Dem,Darrius Butler,24,11,2,0,11
+Crisp,Arabi,State Senate,,Rep,Carden H. Summers ,386,153,17,0,216
+Crisp,Coney,State Senate,,Rep,Carden H. Summers ,622,331,25,0,266
+Crisp,Cordele,State Senate,,Rep,Carden H. Summers ,2794,1806,190,1,797
+Crisp,Jamestown,State Senate,,Rep,Carden H. Summers ,802,446,21,0,335
+Crisp,Listonia,State Senate,,Rep,Carden H. Summers ,479,248,16,0,215
+Crisp,Arabi,State House,,Rep,"Noel Williams, Jr. ",388,156,17,0,215
+Crisp,Coney,State House,,Rep,"Noel Williams, Jr. ",621,329,25,0,267
+Crisp,Cordele,State House,,Rep,"Noel Williams, Jr. ",2821,1825,195,1,800
+Crisp,Jamestown,State House,,Rep,"Noel Williams, Jr. ",808,452,23,0,333
+Crisp,Listonia,State House,,Rep,"Noel Williams, Jr. ",486,250,17,0,219
+Crisp,Arabi,District Attorney,,Rep,Bradford L. Rigby ,391,156,17,0,218
+Crisp,Coney,District Attorney,,Rep,Bradford L. Rigby ,621,331,22,0,268
+Crisp,Cordele,District Attorney,,Rep,Bradford L. Rigby ,2835,1830,196,1,808
+Crisp,Jamestown,District Attorney,,Rep,Bradford L. Rigby ,811,453,23,0,335
+Crisp,Listonia,District Attorney,,Rep,Bradford L. Rigby ,483,249,17,0,217
+Crisp,Arabi,County Comm Dist 2,,Rep,"James R. """"Dickie"""" Dowdy ",391,160,16,0,215
+Crisp,Coney,County Comm Dist 2,,Rep,"James R. """"Dickie"""" Dowdy ",625,331,24,0,270
+Crisp,Cordele,County Comm Dist 2,,Rep,"James R. """"Dickie"""" Dowdy ",2132,1456,145,1,530
+Crisp,Jamestown,County Comm Dist 2,,Rep,"James R. """"Dickie"""" Dowdy ",813,458,23,0,332
+Crisp,Listonia,County Comm Dist 2,,Rep,"James R. """"Dickie"""" Dowdy ",485,252,17,0,216
+Crisp,Arabi,County BOE Dist 1,,Rep,Jay L. Brinson,241,100,8,0,133
+Crisp,Cordele,County BOE Dist 1,,Rep,Jay L. Brinson,708,477,33,0,198
+Crisp,Listonia,County BOE Dist 1,,Rep,Jay L. Brinson,369,186,11,0,172
+Crisp,Arabi,County BOE Dist 1,,Dem,Scott Forehand,102,40,11,0,51
+Crisp,Cordele,County BOE Dist 1,,Dem,Scott Forehand,405,293,38,0,74
+Crisp,Listonia,County BOE Dist 1,,Dem,Scott Forehand,129,70,7,0,52
+Crisp,Cordele,County BOE Dist 2,,Rep,Lydia Dent Adkins,361,246,30,0,85
+Crisp,Cordele,County BOE Dist 2,,Dem,Crandall O. Postell,536,302,49,0,185
+Crisp,Cordele,County BOE Dist 3,,Rep,Whitnye Hamilton,591,388,51,0,152
+Crisp,Cordele,County BOE Dist 3,,Dem,Anna Granville,680,403,68,0,209
+Crisp,Arabi,County BOE Dist 4,,Rep,Chris Anderson,75,28,1,0,46
+Crisp,Coney,County BOE Dist 4,,Rep,Chris Anderson,626,330,25,0,271
+Crisp,Cordele,County BOE Dist 4,,Rep,Chris Anderson,319,208,15,1,95
+Crisp,Jamestown,County BOE Dist 4,,Rep,Chris Anderson,812,457,23,0,332
+Crisp,Arabi,County BOE Dist 5 LRG,,Rep,Joe Joe Wright,348,143,16,0,189
+Crisp,Coney,County BOE Dist 5 LRG,,Rep,Joe Joe Wright,595,317,20,0,258
+Crisp,Cordele,County BOE Dist 5 LRG,,Rep,Joe Joe Wright,2027,1381,142,1,503
+Crisp,Jamestown,County BOE Dist 5 LRG,,Rep,Joe Joe Wright,763,422,23,0,318
+Crisp,Listonia,County BOE Dist 5 LRG,,Rep,Joe Joe Wright,468,243,15,0,210
+Crisp,Arabi,County BOE Dist 5 LRG,,Dem,Katrisha Williams,87,34,5,0,48
+Crisp,Coney,County BOE Dist 5 LRG,,Dem,Katrisha Williams,66,34,8,0,24
+Crisp,Cordele,County BOE Dist 5 LRG,,Dem,Katrisha Williams,1783,1072,161,0,550
+Crisp,Jamestown,County BOE Dist 5 LRG,,Dem,Katrisha Williams,79,55,4,0,20
+Crisp,Listonia,County BOE Dist 5 LRG,,Dem,Katrisha Williams,31,13,3,0,15
+Crisp,Arabi,Proposed Constitutional Amendment 1,,,Yes,373,159,19,0,195
+Crisp,Coney,Proposed Constitutional Amendment 1,,,Yes,605,323,26,0,256
+Crisp,Cordele,Proposed Constitutional Amendment 1,,,Yes,3120,2022,264,1,833
+Crisp,Jamestown,Proposed Constitutional Amendment 1,,,Yes,755,436,21,0,298
+Crisp,Listonia,Proposed Constitutional Amendment 1,,,Yes,427,223,12,0,192
+Crisp,Arabi,Proposed Constitutional Amendment 1,,,No,50,16,2,0,32
+Crisp,Coney,Proposed Constitutional Amendment 1,,,No,50,23,3,0,24
+Crisp,Cordele,Proposed Constitutional Amendment 1,,,No,534,325,25,0,184
+Crisp,Jamestown,Proposed Constitutional Amendment 1,,,No,74,38,2,0,34
+Crisp,Listonia,Proposed Constitutional Amendment 1,,,No,55,26,4,0,25
+Crisp,Arabi,Proposed Constitutional Amendment 2,,,Yes,384,156,21,0,207
+Crisp,Coney,Proposed Constitutional Amendment 2,,,Yes,609,324,27,0,258
+Crisp,Cordele,Proposed Constitutional Amendment 2,,,Yes,3293,2117,265,1,910
+Crisp,Jamestown,Proposed Constitutional Amendment 2,,,Yes,759,432,21,0,306
+Crisp,Listonia,Proposed Constitutional Amendment 2,,,Yes,437,229,11,0,197
+Crisp,Arabi,Proposed Constitutional Amendment 2,,,No,36,17,0,0,19
+Crisp,Coney,Proposed Constitutional Amendment 2,,,No,51,26,2,0,23
+Crisp,Cordele,Proposed Constitutional Amendment 2,,,No,410,267,25,0,118
+Crisp,Jamestown,Proposed Constitutional Amendment 2,,,No,74,43,3,0,28
+Crisp,Listonia,Proposed Constitutional Amendment 2,,,No,49,23,5,0,21
+Crisp,Arabi,Statewide Referendum Question A,,,Yes,280,107,11,0,162
+Crisp,Coney,Statewide Referendum Question A,,,Yes,406,221,15,0,170
+Crisp,Cordele,Statewide Referendum Question A,,,Yes,2294,1432,162,1,699
+Crisp,Jamestown,Statewide Referendum Question A,,,Yes,528,282,11,0,235
+Crisp,Listonia,Statewide Referendum Question A,,,Yes,322,160,9,0,153
+Crisp,Arabi,Statewide Referendum Question A,,,No,141,65,9,0,67
+Crisp,Coney,Statewide Referendum Question A,,,No,245,120,14,0,111
+Crisp,Cordele,Statewide Referendum Question A,,,No,1346,907,123,0,316
+Crisp,Jamestown,Statewide Referendum Question A,,,No,288,184,10,0,94
+Crisp,Listonia,Statewide Referendum Question A,,,No,162,91,7,0,64
+Crisp,Arabi,Statewide Referendum Question B,,,Yes,331,129,14,0,188
+Crisp,Coney,Statewide Referendum Question B,,,Yes,488,262,17,0,209
+Crisp,Cordele,Statewide Referendum Question B,,,Yes,2574,1635,178,1,760
+Crisp,Jamestown,Statewide Referendum Question B,,,Yes,609,334,14,0,261
+Crisp,Listonia,Statewide Referendum Question B,,,Yes,372,192,10,0,170
+Crisp,Arabi,Statewide Referendum Question B,,,No,88,42,6,0,40
+Crisp,Coney,Statewide Referendum Question B,,,No,166,81,12,0,73
+Crisp,Cordele,Statewide Referendum Question B,,,No,1081,713,107,0,261
+Crisp,Jamestown,Statewide Referendum Question B,,,No,210,133,8,0,69
+Crisp,Listonia,Statewide Referendum Question B,,,No,112,60,6,0,46

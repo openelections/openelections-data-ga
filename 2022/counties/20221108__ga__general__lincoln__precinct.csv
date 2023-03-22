@@ -1,0 +1,284 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Lincoln,Midway,U.S. Senate,,Rep,Herschel Junior Walker,294,148,4,0,142
+Lincoln,Lincoln Club House,U.S. Senate,,Rep,Herschel Junior Walker,294,162,10,0,122
+Lincoln,Lincoln Center,U.S. Senate,,Rep,Herschel Junior Walker,658,385,17,0,256
+Lincoln,Faith Temple of Lincoln,U.S. Senate,,Rep,Herschel Junior Walker,261,137,7,0,117
+Lincoln,Tabernacle,U.S. Senate,,Rep,Herschel Junior Walker,422,209,12,0,201
+Lincoln,Bethany Church,U.S. Senate,,Rep,Herschel Junior Walker,294,144,18,1,131
+Lincoln,Martins Crossroad,U.S. Senate,,Rep,Herschel Junior Walker,624,293,26,0,305
+Lincoln,Midway,U.S. Senate,,Dem,Raphael Warnock ,105,42,23,0,40
+Lincoln,Lincoln Club House,U.S. Senate,,Dem,Raphael Warnock ,284,133,48,0,103
+Lincoln,Lincoln Center,U.S. Senate,,Dem,Raphael Warnock ,205,103,38,0,64
+Lincoln,Faith Temple of Lincoln,U.S. Senate,,Dem,Raphael Warnock ,98,47,15,0,36
+Lincoln,Tabernacle,U.S. Senate,,Dem,Raphael Warnock ,200,97,33,0,70
+Lincoln,Bethany Church,U.S. Senate,,Dem,Raphael Warnock ,49,29,5,0,15
+Lincoln,Martins Crossroad,U.S. Senate,,Dem,Raphael Warnock ,136,80,16,0,40
+Lincoln,Midway,U.S. Senate,,Lib,Chase Oliver,4,0,0,0,4
+Lincoln,Lincoln Club House,U.S. Senate,,Lib,Chase Oliver,5,2,0,0,3
+Lincoln,Lincoln Center,U.S. Senate,,Lib,Chase Oliver,12,6,1,0,5
+Lincoln,Faith Temple of Lincoln,U.S. Senate,,Lib,Chase Oliver,7,4,0,0,3
+Lincoln,Tabernacle,U.S. Senate,,Lib,Chase Oliver,10,2,3,0,5
+Lincoln,Bethany Church,U.S. Senate,,Lib,Chase Oliver,3,1,0,0,2
+Lincoln,Martins Crossroad,U.S. Senate,,Lib,Chase Oliver,8,5,0,0,3
+Lincoln,Midway,Governor,,Rep,Brian Kemp ,312,159,8,0,145
+Lincoln,Lincoln Club House,Governor,,Rep,Brian Kemp ,306,170,10,0,126
+Lincoln,Lincoln Center,Governor,,Rep,Brian Kemp ,683,400,19,0,264
+Lincoln,Faith Temple of Lincoln,Governor,,Rep,Brian Kemp ,275,147,7,0,121
+Lincoln,Tabernacle,Governor,,Rep,Brian Kemp ,436,213,15,0,208
+Lincoln,Bethany Church,Governor,,Rep,Brian Kemp ,305,149,20,1,135
+Lincoln,Martins Crossroad,Governor,,Rep,Brian Kemp ,649,304,26,0,319
+Lincoln,Midway,Governor,,Dem,Stacey Abrams,90,33,19,0,38
+Lincoln,Lincoln Club House,Governor,,Dem,Stacey Abrams,277,127,48,0,102
+Lincoln,Lincoln Center,Governor,,Dem,Stacey Abrams,187,91,37,0,59
+Lincoln,Faith Temple of Lincoln,Governor,,Dem,Stacey Abrams,90,39,15,0,36
+Lincoln,Tabernacle,Governor,,Dem,Stacey Abrams,194,96,33,0,65
+Lincoln,Bethany Church,Governor,,Dem,Stacey Abrams,40,26,3,0,11
+Lincoln,Martins Crossroad,Governor,,Dem,Stacey Abrams,114,72,16,0,26
+Lincoln,Midway,Governor,,Lib,Shane Hazel,3,0,0,0,3
+Lincoln,Lincoln Club House,Governor,,Lib,Shane Hazel,2,2,0,0,0
+Lincoln,Lincoln Center,Governor,,Lib,Shane Hazel,5,2,0,0,3
+Lincoln,Faith Temple of Lincoln,Governor,,Lib,Shane Hazel,2,2,0,0,0
+Lincoln,Tabernacle,Governor,,Lib,Shane Hazel,4,1,0,0,3
+Lincoln,Bethany Church,Governor,,Lib,Shane Hazel,2,0,0,0,2
+Lincoln,Martins Crossroad,Governor,,Lib,Shane Hazel,6,4,0,0,2
+Lincoln,Midway,Lieutenant Governor,,Rep,Burt Jones,299,152,5,0,142
+Lincoln,Lincoln Club House,Lieutenant Governor,,Rep,Burt Jones,302,167,10,0,125
+Lincoln,Lincoln Center,Lieutenant Governor,,Rep,Burt Jones,671,394,18,0,259
+Lincoln,Faith Temple of Lincoln,Lieutenant Governor,,Rep,Burt Jones,271,145,7,0,119
+Lincoln,Tabernacle,Lieutenant Governor,,Rep,Burt Jones,435,214,13,0,208
+Lincoln,Bethany Church,Lieutenant Governor,,Rep,Burt Jones,294,145,19,1,129
+Lincoln,Martins Crossroad,Lieutenant Governor,,Rep,Burt Jones,625,296,26,0,303
+Lincoln,Midway,Lieutenant Governor,,Dem,Charlie Bailey,90,35,21,0,34
+Lincoln,Lincoln Club House,Lieutenant Governor,,Dem,Charlie Bailey,258,121,45,0,92
+Lincoln,Lincoln Center,Lieutenant Governor,,Dem,Charlie Bailey,180,84,38,0,58
+Lincoln,Faith Temple of Lincoln,Lieutenant Governor,,Dem,Charlie Bailey,89,41,15,0,33
+Lincoln,Tabernacle,Lieutenant Governor,,Dem,Charlie Bailey,178,86,33,0,59
+Lincoln,Bethany Church,Lieutenant Governor,,Dem,Charlie Bailey,41,25,3,0,13
+Lincoln,Martins Crossroad,Lieutenant Governor,,Dem,Charlie Bailey,128,76,16,0,36
+Lincoln,Midway,Lieutenant Governor,,Lib,Ryan Graham,8,2,0,0,6
+Lincoln,Lincoln Club House,Lieutenant Governor,,Lib,Ryan Graham,7,3,2,0,2
+Lincoln,Lincoln Center,Lieutenant Governor,,Lib,Ryan Graham,11,7,0,0,4
+Lincoln,Faith Temple of Lincoln,Lieutenant Governor,,Lib,Ryan Graham,4,2,0,0,2
+Lincoln,Tabernacle,Lieutenant Governor,,Lib,Ryan Graham,10,3,0,0,7
+Lincoln,Bethany Church,Lieutenant Governor,,Lib,Ryan Graham,8,4,1,0,3
+Lincoln,Martins Crossroad,Lieutenant Governor,,Lib,Ryan Graham,10,6,0,0,4
+Lincoln,Midway,Secretary of State,,Rep,Brad Raffensperger ,284,150,3,0,131
+Lincoln,Lincoln Club House,Secretary of State,,Rep,Brad Raffensperger ,301,169,11,0,121
+Lincoln,Lincoln Center,Secretary of State,,Rep,Brad Raffensperger ,643,379,15,0,249
+Lincoln,Faith Temple of Lincoln,Secretary of State,,Rep,Brad Raffensperger ,267,142,7,0,118
+Lincoln,Tabernacle,Secretary of State,,Rep,Brad Raffensperger ,427,212,12,0,203
+Lincoln,Bethany Church,Secretary of State,,Rep,Brad Raffensperger ,284,138,20,1,125
+Lincoln,Martins Crossroad,Secretary of State,,Rep,Brad Raffensperger ,625,303,26,0,296
+Lincoln,Midway,Secretary of State,,Dem,Bee Nguyen,87,32,22,0,33
+Lincoln,Lincoln Club House,Secretary of State,,Dem,Bee Nguyen,262,123,46,0,93
+Lincoln,Lincoln Center,Secretary of State,,Dem,Bee Nguyen,182,87,36,0,59
+Lincoln,Faith Temple of Lincoln,Secretary of State,,Dem,Bee Nguyen,84,36,15,0,33
+Lincoln,Tabernacle,Secretary of State,,Dem,Bee Nguyen,177,84,33,0,60
+Lincoln,Bethany Church,Secretary of State,,Dem,Bee Nguyen,43,26,3,0,14
+Lincoln,Martins Crossroad,Secretary of State,,Dem,Bee Nguyen,119,66,16,0,37
+Lincoln,Midway,Secretary of State,,Lib,Ted Metz,25,7,2,0,16
+Lincoln,Lincoln Club House,Secretary of State,,Lib,Ted Metz,5,1,0,0,4
+Lincoln,Lincoln Center,Secretary of State,,Lib,Ted Metz,25,11,1,0,13
+Lincoln,Faith Temple of Lincoln,Secretary of State,,Lib,Ted Metz,9,6,0,0,3
+Lincoln,Tabernacle,Secretary of State,,Lib,Ted Metz,20,7,1,0,12
+Lincoln,Bethany Church,Secretary of State,,Lib,Ted Metz,14,7,0,0,7
+Lincoln,Martins Crossroad,Secretary of State,,Lib,Ted Metz,19,10,0,0,9
+Lincoln,Midway,Attorney General,,Rep,Chris Carr ,297,150,4,0,143
+Lincoln,Lincoln Club House,Attorney General,,Rep,Chris Carr ,303,166,10,0,127
+Lincoln,Lincoln Center,Attorney General,,Rep,Chris Carr ,666,391,18,0,257
+Lincoln,Faith Temple of Lincoln,Attorney General,,Rep,Chris Carr ,273,146,7,0,120
+Lincoln,Tabernacle,Attorney General,,Rep,Chris Carr ,427,209,14,0,204
+Lincoln,Bethany Church,Attorney General,,Rep,Chris Carr ,293,143,19,1,130
+Lincoln,Martins Crossroad,Attorney General,,Rep,Chris Carr ,627,300,26,0,301
+Lincoln,Midway,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",98,39,22,0,37
+Lincoln,Lincoln Club House,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",267,125,47,0,95
+Lincoln,Lincoln Center,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",190,93,36,0,61
+Lincoln,Faith Temple of Lincoln,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",89,40,15,0,34
+Lincoln,Tabernacle,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",193,94,33,0,66
+Lincoln,Bethany Church,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",47,27,4,0,16
+Lincoln,Martins Crossroad,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",126,73,16,0,37
+Lincoln,Midway,Attorney General,,Lib,Martin Cowen,6,2,1,0,3
+Lincoln,Lincoln Club House,Attorney General,,Lib,Martin Cowen,3,2,0,0,1
+Lincoln,Lincoln Center,Attorney General,,Lib,Martin Cowen,7,4,0,0,3
+Lincoln,Faith Temple of Lincoln,Attorney General,,Lib,Martin Cowen,3,1,0,0,2
+Lincoln,Tabernacle,Attorney General,,Lib,Martin Cowen,8,2,0,0,6
+Lincoln,Bethany Church,Attorney General,,Lib,Martin Cowen,2,1,0,0,1
+Lincoln,Martins Crossroad,Attorney General,,Lib,Martin Cowen,10,5,0,0,5
+Lincoln,Midway,Commissioner of Agriculture,,Rep,Tyler Harper,298,149,5,0,144
+Lincoln,Lincoln Club House,Commissioner of Agriculture,,Rep,Tyler Harper,304,170,10,0,124
+Lincoln,Lincoln Center,Commissioner of Agriculture,,Rep,Tyler Harper,673,396,18,0,259
+Lincoln,Faith Temple of Lincoln,Commissioner of Agriculture,,Rep,Tyler Harper,271,144,7,0,120
+Lincoln,Tabernacle,Commissioner of Agriculture,,Rep,Tyler Harper,429,209,14,0,206
+Lincoln,Bethany Church,Commissioner of Agriculture,,Rep,Tyler Harper,292,143,19,1,129
+Lincoln,Martins Crossroad,Commissioner of Agriculture,,Rep,Tyler Harper,631,302,26,0,303
+Lincoln,Midway,Commissioner of Agriculture,,Dem,Nakita Hemingway,96,39,21,0,36
+Lincoln,Lincoln Club House,Commissioner of Agriculture,,Dem,Nakita Hemingway,260,121,47,0,92
+Lincoln,Lincoln Center,Commissioner of Agriculture,,Dem,Nakita Hemingway,179,84,37,0,58
+Lincoln,Faith Temple of Lincoln,Commissioner of Agriculture,,Dem,Nakita Hemingway,89,40,15,0,34
+Lincoln,Tabernacle,Commissioner of Agriculture,,Dem,Nakita Hemingway,190,94,33,0,63
+Lincoln,Bethany Church,Commissioner of Agriculture,,Dem,Nakita Hemingway,42,25,3,0,14
+Lincoln,Martins Crossroad,Commissioner of Agriculture,,Dem,Nakita Hemingway,120,69,16,0,35
+Lincoln,Midway,Commissioner of Agriculture,,Lib,David Raudabaugh,10,5,1,0,4
+Lincoln,Lincoln Club House,Commissioner of Agriculture,,Lib,David Raudabaugh,6,3,0,0,3
+Lincoln,Lincoln Center,Commissioner of Agriculture,,Lib,David Raudabaugh,11,7,0,0,4
+Lincoln,Faith Temple of Lincoln,Commissioner of Agriculture,,Lib,David Raudabaugh,3,1,0,0,2
+Lincoln,Tabernacle,Commissioner of Agriculture,,Lib,David Raudabaugh,11,4,0,0,7
+Lincoln,Bethany Church,Commissioner of Agriculture,,Lib,David Raudabaugh,9,5,1,0,3
+Lincoln,Martins Crossroad,Commissioner of Agriculture,,Lib,David Raudabaugh,12,7,0,0,5
+Lincoln,Midway,Commissioner of Insurance,,Rep,John King ,304,152,5,0,147
+Lincoln,Lincoln Club House,Commissioner of Insurance,,Rep,John King ,302,169,10,0,123
+Lincoln,Lincoln Center,Commissioner of Insurance,,Rep,John King ,673,393,19,0,261
+Lincoln,Faith Temple of Lincoln,Commissioner of Insurance,,Rep,John King ,272,145,7,0,120
+Lincoln,Tabernacle,Commissioner of Insurance,,Rep,John King ,435,211,14,0,210
+Lincoln,Bethany Church,Commissioner of Insurance,,Rep,John King ,296,144,19,1,132
+Lincoln,Martins Crossroad,Commissioner of Insurance,,Rep,John King ,640,310,26,0,304
+Lincoln,Midway,Commissioner of Insurance,,Dem,Janice Laws Robinson,96,39,21,0,36
+Lincoln,Lincoln Club House,Commissioner of Insurance,,Dem,Janice Laws Robinson,267,124,47,0,96
+Lincoln,Lincoln Center,Commissioner of Insurance,,Dem,Janice Laws Robinson,188,91,37,0,60
+Lincoln,Faith Temple of Lincoln,Commissioner of Insurance,,Dem,Janice Laws Robinson,91,40,15,0,36
+Lincoln,Tabernacle,Commissioner of Insurance,,Dem,Janice Laws Robinson,188,93,33,0,62
+Lincoln,Bethany Church,Commissioner of Insurance,,Dem,Janice Laws Robinson,46,28,4,0,14
+Lincoln,Martins Crossroad,Commissioner of Insurance,,Dem,Janice Laws Robinson,122,68,16,0,38
+Lincoln,Midway,State School Superintendent,,Rep,Richard Woods ,304,153,4,0,147
+Lincoln,Lincoln Club House,State School Superintendent,,Rep,Richard Woods ,304,169,10,0,125
+Lincoln,Lincoln Center,State School Superintendent,,Rep,Richard Woods ,683,401,19,0,263
+Lincoln,Faith Temple of Lincoln,State School Superintendent,,Rep,Richard Woods ,273,147,7,0,119
+Lincoln,Tabernacle,State School Superintendent,,Rep,Richard Woods ,437,212,14,0,211
+Lincoln,Bethany Church,State School Superintendent,,Rep,Richard Woods ,298,146,19,1,132
+Lincoln,Martins Crossroad,State School Superintendent,,Rep,Richard Woods ,637,305,26,0,306
+Lincoln,Midway,State School Superintendent,,Dem,Alisha Thomas Searcy,97,38,22,0,37
+Lincoln,Lincoln Club House,State School Superintendent,,Dem,Alisha Thomas Searcy,267,124,47,0,96
+Lincoln,Lincoln Center,State School Superintendent,,Dem,Alisha Thomas Searcy,185,88,37,0,60
+Lincoln,Faith Temple of Lincoln,State School Superintendent,,Dem,Alisha Thomas Searcy,89,38,15,0,36
+Lincoln,Tabernacle,State School Superintendent,,Dem,Alisha Thomas Searcy,191,94,33,0,64
+Lincoln,Bethany Church,State School Superintendent,,Dem,Alisha Thomas Searcy,44,26,4,0,14
+Lincoln,Martins Crossroad,State School Superintendent,,Dem,Alisha Thomas Searcy,123,73,16,0,34
+Lincoln,Midway,Commissioner of Labor,,Rep,Bruce Thompson,298,150,4,0,144
+Lincoln,Lincoln Club House,Commissioner of Labor,,Rep,Bruce Thompson,298,166,10,0,122
+Lincoln,Lincoln Center,Commissioner of Labor,,Rep,Bruce Thompson,669,395,19,0,255
+Lincoln,Faith Temple of Lincoln,Commissioner of Labor,,Rep,Bruce Thompson,273,146,7,0,120
+Lincoln,Tabernacle,Commissioner of Labor,,Rep,Bruce Thompson,429,211,14,0,204
+Lincoln,Bethany Church,Commissioner of Labor,,Rep,Bruce Thompson,292,141,19,1,131
+Lincoln,Martins Crossroad,Commissioner of Labor,,Rep,Bruce Thompson,626,299,26,0,301
+Lincoln,Midway,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",95,38,21,0,36
+Lincoln,Lincoln Club House,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",264,124,46,0,94
+Lincoln,Lincoln Center,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",185,89,37,0,59
+Lincoln,Faith Temple of Lincoln,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",87,37,15,0,35
+Lincoln,Tabernacle,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",181,88,33,0,60
+Lincoln,Bethany Church,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",42,24,4,0,14
+Lincoln,Martins Crossroad,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",126,74,16,0,36
+Lincoln,Midway,Commissioner of Labor,,Lib,Emily Anderson,8,3,1,0,4
+Lincoln,Lincoln Club House,Commissioner of Labor,,Lib,Emily Anderson,5,2,1,0,2
+Lincoln,Lincoln Center,Commissioner of Labor,,Lib,Emily Anderson,12,5,0,0,7
+Lincoln,Faith Temple of Lincoln,Commissioner of Labor,,Lib,Emily Anderson,4,3,0,0,1
+Lincoln,Tabernacle,Commissioner of Labor,,Lib,Emily Anderson,16,6,0,0,10
+Lincoln,Bethany Church,Commissioner of Labor,,Lib,Emily Anderson,10,7,0,0,3
+Lincoln,Martins Crossroad,Commissioner of Labor,,Lib,Emily Anderson,12,6,0,0,6
+Lincoln,Midway,U.S. House,,Rep,Rick W. Allen ,301,151,5,0,145
+Lincoln,Lincoln Club House,U.S. House,,Rep,Rick W. Allen ,305,169,10,0,126
+Lincoln,Lincoln Center,U.S. House,,Rep,Rick W. Allen ,678,397,18,0,263
+Lincoln,Faith Temple of Lincoln,U.S. House,,Rep,Rick W. Allen ,273,144,7,0,122
+Lincoln,Tabernacle,U.S. House,,Rep,Rick W. Allen ,437,213,14,0,210
+Lincoln,Bethany Church,U.S. House,,Rep,Rick W. Allen ,299,146,19,1,133
+Lincoln,Martins Crossroad,U.S. House,,Rep,Rick W. Allen ,641,302,26,0,313
+Lincoln,Midway,U.S. House,,Dem,"Elizabeth """"Liz"""" Johnson",99,39,22,0,38
+Lincoln,Lincoln Club House,U.S. House,,Dem,"Elizabeth """"Liz"""" Johnson",265,125,47,0,93
+Lincoln,Lincoln Center,U.S. House,,Dem,"Elizabeth """"Liz"""" Johnson",189,90,37,0,62
+Lincoln,Faith Temple of Lincoln,U.S. House,,Dem,"Elizabeth """"Liz"""" Johnson",92,42,15,0,35
+Lincoln,Tabernacle,U.S. House,,Dem,"Elizabeth """"Liz"""" Johnson",191,93,33,0,65
+Lincoln,Bethany Church,U.S. House,,Dem,"Elizabeth """"Liz"""" Johnson",46,27,4,0,15
+Lincoln,Martins Crossroad,U.S. House,,Dem,"Elizabeth """"Liz"""" Johnson",125,75,16,0,34
+Lincoln,Midway,State Senate,,Rep,Lee Anderson ,343,166,13,0,164
+Lincoln,Lincoln Club House,State Senate,,Rep,Lee Anderson ,407,217,22,0,168
+Lincoln,Lincoln Center,State Senate,,Rep,Lee Anderson ,749,422,34,0,293
+Lincoln,Faith Temple of Lincoln,State Senate,,Rep,Lee Anderson ,313,160,15,0,138
+Lincoln,Tabernacle,State Senate,,Rep,Lee Anderson ,499,237,20,0,242
+Lincoln,Bethany Church,State Senate,,Rep,Lee Anderson ,309,150,18,1,140
+Lincoln,Martins Crossroad,State Senate,,Rep,Lee Anderson ,692,332,32,0,328
+Lincoln,Midway,State House,,Rep,Rob Leverett ,342,167,13,0,162
+Lincoln,Lincoln Club House,State House,,Rep,Rob Leverett ,409,216,25,0,168
+Lincoln,Lincoln Center,State House,,Rep,Rob Leverett ,758,432,34,0,292
+Lincoln,Faith Temple of Lincoln,State House,,Rep,Rob Leverett ,318,162,17,0,139
+Lincoln,Tabernacle,State House,,Rep,Rob Leverett ,498,237,18,0,243
+Lincoln,Bethany Church,State House,,Rep,Rob Leverett ,313,152,20,1,140
+Lincoln,Martins Crossroad,State House,,Rep,Rob Leverett ,692,335,30,0,327
+Lincoln,Midway,Board of Commissioners,,Rep,Brian Henderson ,346,167,14,0,165
+Lincoln,Lincoln Club House,Board of Commissioners,,Rep,Brian Henderson ,412,218,26,0,168
+Lincoln,Lincoln Center,Board of Commissioners,,Rep,Larry Collins ,762,435,35,0,292
+Lincoln,Midway,Soil and Water Conservation District Supervisor,,,James L. Dunsmore,223,113,8,0,102
+Lincoln,Lincoln Club House,Soil and Water Conservation District Supervisor,,,James L. Dunsmore,254,134,11,0,109
+Lincoln,Lincoln Center,Soil and Water Conservation District Supervisor,,,James L. Dunsmore,487,261,19,0,207
+Lincoln,Faith Temple of Lincoln,Soil and Water Conservation District Supervisor,,,James L. Dunsmore,220,110,15,0,95
+Lincoln,Tabernacle,Soil and Water Conservation District Supervisor,,,James L. Dunsmore,355,157,15,0,183
+Lincoln,Bethany Church,Soil and Water Conservation District Supervisor,,,James L. Dunsmore,215,102,10,0,103
+Lincoln,Martins Crossroad,Soil and Water Conservation District Supervisor,,,James L. Dunsmore,470,230,25,0,215
+Lincoln,Midway,Soil and Water Conservation District Supervisor,,,Chris Heitmann ,299,145,15,0,139
+Lincoln,Lincoln Club House,Soil and Water Conservation District Supervisor,,,Chris Heitmann ,378,200,22,0,156
+Lincoln,Lincoln Center,Soil and Water Conservation District Supervisor,,,Chris Heitmann ,686,382,38,0,266
+Lincoln,Faith Temple of Lincoln,Soil and Water Conservation District Supervisor,,,Chris Heitmann ,278,141,13,0,124
+Lincoln,Tabernacle,Soil and Water Conservation District Supervisor,,,Chris Heitmann ,435,214,19,0,202
+Lincoln,Bethany Church,Soil and Water Conservation District Supervisor,,,Chris Heitmann ,292,141,19,0,132
+Lincoln,Martins Crossroad,Soil and Water Conservation District Supervisor,,,Chris Heitmann ,587,291,25,0,271
+Lincoln,Midway,Soil and Water Conservation District Supervisor,,,Rebecca M. Tankersley,216,108,11,0,97
+Lincoln,Lincoln Club House,Soil and Water Conservation District Supervisor,,,Rebecca M. Tankersley,296,156,27,0,113
+Lincoln,Lincoln Center,Soil and Water Conservation District Supervisor,,,Rebecca M. Tankersley,496,259,27,0,210
+Lincoln,Faith Temple of Lincoln,Soil and Water Conservation District Supervisor,,,Rebecca M. Tankersley,226,114,11,0,101
+Lincoln,Tabernacle,Soil and Water Conservation District Supervisor,,,Rebecca M. Tankersley,358,163,25,0,170
+Lincoln,Bethany Church,Soil and Water Conservation District Supervisor,,,Rebecca M. Tankersley,207,99,11,0,97
+Lincoln,Martins Crossroad,Soil and Water Conservation District Supervisor,,,Rebecca M. Tankersley,467,230,23,0,214
+Lincoln,Midway,Proposed Constitutional Amendment 1,,,Yes,345,170,18,0,157
+Lincoln,Lincoln Club House,Proposed Constitutional Amendment 1,,,Yes,442,234,44,0,164
+Lincoln,Lincoln Center,Proposed Constitutional Amendment 1,,,Yes,727,416,37,0,274
+Lincoln,Faith Temple of Lincoln,Proposed Constitutional Amendment 1,,,Yes,298,157,16,0,125
+Lincoln,Tabernacle,Proposed Constitutional Amendment 1,,,Yes,528,254,38,0,236
+Lincoln,Bethany Church,Proposed Constitutional Amendment 1,,,Yes,302,153,19,1,129
+Lincoln,Martins Crossroad,Proposed Constitutional Amendment 1,,,Yes,659,330,38,0,291
+Lincoln,Midway,Proposed Constitutional Amendment 1,,,No,52,22,6,0,24
+Lincoln,Lincoln Club House,Proposed Constitutional Amendment 1,,,No,76,32,6,0,38
+Lincoln,Lincoln Center,Proposed Constitutional Amendment 1,,,No,112,53,17,0,42
+Lincoln,Faith Temple of Lincoln,Proposed Constitutional Amendment 1,,,No,59,24,6,0,29
+Lincoln,Tabernacle,Proposed Constitutional Amendment 1,,,No,77,42,5,0,30
+Lincoln,Bethany Church,Proposed Constitutional Amendment 1,,,No,37,17,4,0,16
+Lincoln,Martins Crossroad,Proposed Constitutional Amendment 1,,,No,83,39,2,0,42
+Lincoln,Midway,Proposed Constitutional Amendment 2,,,Yes,354,178,22,0,154
+Lincoln,Lincoln Club House,Proposed Constitutional Amendment 2,,,Yes,482,247,51,0,184
+Lincoln,Lincoln Center,Proposed Constitutional Amendment 2,,,Yes,764,429,48,0,287
+Lincoln,Faith Temple of Lincoln,Proposed Constitutional Amendment 2,,,Yes,319,165,17,0,137
+Lincoln,Tabernacle,Proposed Constitutional Amendment 2,,,Yes,563,277,39,0,247
+Lincoln,Bethany Church,Proposed Constitutional Amendment 2,,,Yes,306,152,22,1,131
+Lincoln,Martins Crossroad,Proposed Constitutional Amendment 2,,,Yes,682,337,40,0,305
+Lincoln,Midway,Proposed Constitutional Amendment 2,,,No,39,11,1,0,27
+Lincoln,Lincoln Club House,Proposed Constitutional Amendment 2,,,No,46,25,0,0,21
+Lincoln,Lincoln Center,Proposed Constitutional Amendment 2,,,No,77,41,7,0,29
+Lincoln,Faith Temple of Lincoln,Proposed Constitutional Amendment 2,,,No,41,18,5,0,18
+Lincoln,Tabernacle,Proposed Constitutional Amendment 2,,,No,47,23,4,0,20
+Lincoln,Bethany Church,Proposed Constitutional Amendment 2,,,No,31,19,1,0,11
+Lincoln,Martins Crossroad,Proposed Constitutional Amendment 2,,,No,63,32,0,0,31
+Lincoln,Midway,Statewide Referendum Question 1,,,Yes,227,111,14,0,102
+Lincoln,Lincoln Club House,Statewide Referendum Question 1,,,Yes,334,167,31,0,136
+Lincoln,Lincoln Center,Statewide Referendum Question 1,,,Yes,525,282,25,0,218
+Lincoln,Faith Temple of Lincoln,Statewide Referendum Question 1,,,Yes,230,109,16,0,105
+Lincoln,Tabernacle,Statewide Referendum Question 1,,,Yes,364,165,22,0,177
+Lincoln,Bethany Church,Statewide Referendum Question 1,,,Yes,198,94,12,1,91
+Lincoln,Martins Crossroad,Statewide Referendum Question 1,,,Yes,454,209,23,0,222
+Lincoln,Midway,Statewide Referendum Question 1,,,No,159,72,9,0,78
+Lincoln,Lincoln Club House,Statewide Referendum Question 1,,,No,182,97,17,0,68
+Lincoln,Lincoln Center,Statewide Referendum Question 1,,,No,304,179,30,0,95
+Lincoln,Faith Temple of Lincoln,Statewide Referendum Question 1,,,No,127,72,6,0,49
+Lincoln,Tabernacle,Statewide Referendum Question 1,,,No,234,127,22,0,85
+Lincoln,Bethany Church,Statewide Referendum Question 1,,,No,135,73,11,0,51
+Lincoln,Martins Crossroad,Statewide Referendum Question 1,,,No,278,155,14,0,109
+Lincoln,Midway,Statewide Referendum Question 2,,,Yes,291,142,16,0,133
+Lincoln,Lincoln Club House,Statewide Referendum Question 2,,,Yes,384,200,31,0,153
+Lincoln,Lincoln Center,Statewide Referendum Question 2,,,Yes,638,355,28,0,255
+Lincoln,Faith Temple of Lincoln,Statewide Referendum Question 2,,,Yes,280,138,15,0,127
+Lincoln,Tabernacle,Statewide Referendum Question 2,,,Yes,452,212,23,0,217
+Lincoln,Bethany Church,Statewide Referendum Question 2,,,Yes,263,133,15,1,114
+Lincoln,Martins Crossroad,Statewide Referendum Question 2,,,Yes,565,274,24,0,267
+Lincoln,Midway,Statewide Referendum Question 2,,,No,100,44,7,0,49
+Lincoln,Lincoln Club House,Statewide Referendum Question 2,,,No,132,67,16,0,49
+Lincoln,Lincoln Center,Statewide Referendum Question 2,,,No,197,111,27,0,59
+Lincoln,Faith Temple of Lincoln,Statewide Referendum Question 2,,,No,80,45,7,0,28
+Lincoln,Tabernacle,Statewide Referendum Question 2,,,No,151,85,21,0,45
+Lincoln,Bethany Church,Statewide Referendum Question 2,,,No,74,37,8,0,29
+Lincoln,Martins Crossroad,Statewide Referendum Question 2,,,No,171,93,12,0,66

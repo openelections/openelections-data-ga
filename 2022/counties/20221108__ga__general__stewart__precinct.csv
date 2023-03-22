@@ -1,0 +1,160 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Stewart,Richland,U.S. Senate,,Rep,Herschel Junior Walker,259,118,14,3,124
+Stewart,Louvale,U.S. Senate,,Rep,Herschel Junior Walker,71,18,2,1,50
+Stewart,Lumpkin,U.S. Senate,,Rep,Herschel Junior Walker,255,175,18,1,61
+Stewart,Omaha,U.S. Senate,,Rep,Herschel Junior Walker,53,9,1,1,42
+Stewart,Richland,U.S. Senate,,Dem,Raphael Warnock ,392,138,80,1,173
+Stewart,Louvale,U.S. Senate,,Dem,Raphael Warnock ,103,27,13,0,63
+Stewart,Lumpkin,U.S. Senate,,Dem,Raphael Warnock ,367,244,41,0,82
+Stewart,Omaha,U.S. Senate,,Dem,Raphael Warnock ,54,7,7,0,40
+Stewart,Richland,U.S. Senate,,Lib,Chase Oliver,4,2,0,0,2
+Stewart,Louvale,U.S. Senate,,Lib,Chase Oliver,1,1,0,0,0
+Stewart,Lumpkin,U.S. Senate,,Lib,Chase Oliver,7,3,0,0,4
+Stewart,Omaha,U.S. Senate,,Lib,Chase Oliver,1,0,0,0,1
+Stewart,Richland,Governor,,Rep,Brian Kemp ,267,124,13,3,127
+Stewart,Louvale,Governor,,Rep,Brian Kemp ,76,19,2,1,54
+Stewart,Lumpkin,Governor,,Rep,Brian Kemp ,273,187,17,1,68
+Stewart,Omaha,Governor,,Rep,Brian Kemp ,57,10,2,1,44
+Stewart,Richland,Governor,,Dem,Stacey Abrams,385,135,79,2,169
+Stewart,Louvale,Governor,,Dem,Stacey Abrams,100,28,13,0,59
+Stewart,Lumpkin,Governor,,Dem,Stacey Abrams,358,236,43,0,79
+Stewart,Omaha,Governor,,Dem,Stacey Abrams,52,7,6,0,39
+Stewart,Richland,Governor,,Lib,Shane Hazel,3,1,0,0,2
+Stewart,Louvale,Governor,,Lib,Shane Hazel,0,0,0,0,0
+Stewart,Lumpkin,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Stewart,Omaha,Governor,,Lib,Shane Hazel,0,0,0,0,0
+Stewart,Richland,Lieutenant Governor,,Rep,Burt Jones,255,119,11,3,122
+Stewart,Louvale,Lieutenant Governor,,Rep,Burt Jones,70,18,2,1,49
+Stewart,Lumpkin,Lieutenant Governor,,Rep,Burt Jones,261,175,19,1,66
+Stewart,Omaha,Lieutenant Governor,,Rep,Burt Jones,56,10,1,1,44
+Stewart,Richland,Lieutenant Governor,,Dem,Charlie Bailey,367,124,81,1,161
+Stewart,Louvale,Lieutenant Governor,,Dem,Charlie Bailey,92,24,13,0,55
+Stewart,Lumpkin,Lieutenant Governor,,Dem,Charlie Bailey,308,205,39,0,64
+Stewart,Omaha,Lieutenant Governor,,Dem,Charlie Bailey,36,5,5,0,26
+Stewart,Richland,Lieutenant Governor,,Lib,Ryan Graham,8,3,1,0,4
+Stewart,Louvale,Lieutenant Governor,,Lib,Ryan Graham,0,0,0,0,0
+Stewart,Lumpkin,Lieutenant Governor,,Lib,Ryan Graham,9,6,0,0,3
+Stewart,Omaha,Lieutenant Governor,,Lib,Ryan Graham,0,0,0,0,0
+Stewart,Richland,Secretary of State,,Rep,Brad Raffensperger ,267,118,13,2,134
+Stewart,Louvale,Secretary of State,,Rep,Brad Raffensperger ,73,17,2,1,53
+Stewart,Lumpkin,Secretary of State,,Rep,Brad Raffensperger ,273,189,15,1,68
+Stewart,Omaha,Secretary of State,,Rep,Brad Raffensperger ,58,10,2,1,45
+Stewart,Richland,Secretary of State,,Dem,Bee Nguyen,351,121,78,2,150
+Stewart,Louvale,Secretary of State,,Dem,Bee Nguyen,89,25,13,0,51
+Stewart,Lumpkin,Secretary of State,,Dem,Bee Nguyen,295,193,42,0,60
+Stewart,Omaha,Secretary of State,,Dem,Bee Nguyen,37,6,5,0,26
+Stewart,Richland,Secretary of State,,Lib,Ted Metz,10,6,0,1,3
+Stewart,Louvale,Secretary of State,,Lib,Ted Metz,1,1,0,0,0
+Stewart,Lumpkin,Secretary of State,,Lib,Ted Metz,14,6,1,0,7
+Stewart,Omaha,Secretary of State,,Lib,Ted Metz,1,0,0,0,1
+Stewart,Richland,Attorney General,,Rep,Chris Carr ,261,121,11,3,126
+Stewart,Louvale,Attorney General,,Rep,Chris Carr ,71,19,2,1,49
+Stewart,Lumpkin,Attorney General,,Rep,Chris Carr ,267,181,17,1,68
+Stewart,Omaha,Attorney General,,Rep,Chris Carr ,56,10,2,1,43
+Stewart,Richland,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",370,127,81,1,161
+Stewart,Louvale,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",98,27,13,0,58
+Stewart,Lumpkin,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",320,211,38,0,71
+Stewart,Omaha,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",41,6,5,0,30
+Stewart,Richland,Attorney General,,Lib,Martin Cowen,8,3,1,0,4
+Stewart,Louvale,Attorney General,,Lib,Martin Cowen,0,0,0,0,0
+Stewart,Lumpkin,Attorney General,,Lib,Martin Cowen,6,4,1,0,1
+Stewart,Omaha,Attorney General,,Lib,Martin Cowen,0,0,0,0,0
+Stewart,Richland,Commissioner Of Agriculture,,Rep,Tyler Harper,261,122,11,3,125
+Stewart,Louvale,Commissioner Of Agriculture,,Rep,Tyler Harper,71,18,2,1,50
+Stewart,Lumpkin,Commissioner Of Agriculture,,Rep,Tyler Harper,264,180,17,1,66
+Stewart,Omaha,Commissioner Of Agriculture,,Rep,Tyler Harper,57,10,1,1,45
+Stewart,Richland,Commissioner Of Agriculture,,Dem,Nakita Hemingway,365,127,80,1,157
+Stewart,Louvale,Commissioner Of Agriculture,,Dem,Nakita Hemingway,95,27,13,0,55
+Stewart,Lumpkin,Commissioner Of Agriculture,,Dem,Nakita Hemingway,314,206,40,0,68
+Stewart,Omaha,Commissioner Of Agriculture,,Dem,Nakita Hemingway,40,6,5,0,29
+Stewart,Richland,Commissioner Of Agriculture,,Lib,David Raudabaugh,12,1,2,0,9
+Stewart,Louvale,Commissioner Of Agriculture,,Lib,David Raudabaugh,3,1,0,0,2
+Stewart,Lumpkin,Commissioner Of Agriculture,,Lib,David Raudabaugh,14,8,2,0,4
+Stewart,Omaha,Commissioner Of Agriculture,,Lib,David Raudabaugh,2,0,1,0,1
+Stewart,Richland,Commissioner Of Insurance,,Rep,John King ,262,118,12,3,129
+Stewart,Louvale,Commissioner Of Insurance,,Rep,John King ,71,19,2,1,49
+Stewart,Lumpkin,Commissioner Of Insurance,,Rep,John King ,265,179,18,1,67
+Stewart,Omaha,Commissioner Of Insurance,,Rep,John King ,56,10,2,1,43
+Stewart,Richland,Commissioner Of Insurance,,Dem,Janice Laws Robinson,375,133,81,1,160
+Stewart,Louvale,Commissioner Of Insurance,,Dem,Janice Laws Robinson,94,26,13,0,55
+Stewart,Lumpkin,Commissioner Of Insurance,,Dem,Janice Laws Robinson,318,209,40,0,69
+Stewart,Omaha,Commissioner Of Insurance,,Dem,Janice Laws Robinson,39,6,5,0,28
+Stewart,Richland,State School Superintendent,,Rep,Richard Woods ,267,120,13,3,131
+Stewart,Louvale,State School Superintendent,,Rep,Richard Woods ,67,18,2,1,46
+Stewart,Lumpkin,State School Superintendent,,Rep,Richard Woods ,268,183,16,1,68
+Stewart,Omaha,State School Superintendent,,Rep,Richard Woods ,59,10,2,1,46
+Stewart,Richland,State School Superintendent,,Dem,Alisha Thomas Searcy,364,128,78,2,156
+Stewart,Louvale,State School Superintendent,,Dem,Alisha Thomas Searcy,98,27,13,0,58
+Stewart,Lumpkin,State School Superintendent,,Dem,Alisha Thomas Searcy,318,209,41,0,68
+Stewart,Omaha,State School Superintendent,,Dem,Alisha Thomas Searcy,38,6,5,0,27
+Stewart,Richland,Commissioner Of Labor,,Rep,Bruce Thompson,258,121,11,3,123
+Stewart,Louvale,Commissioner Of Labor,,Rep,Bruce Thompson,68,18,2,1,47
+Stewart,Lumpkin,Commissioner Of Labor,,Rep,Bruce Thompson,260,177,17,1,65
+Stewart,Omaha,Commissioner Of Labor,,Rep,Bruce Thompson,56,9,1,1,45
+Stewart,Richland,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",367,126,81,1,159
+Stewart,Louvale,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",95,27,12,0,56
+Stewart,Lumpkin,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",329,220,41,0,68
+Stewart,Omaha,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",40,6,6,0,28
+Stewart,Richland,Commissioner Of Labor,,Lib,Emily Anderson,9,3,0,0,6
+Stewart,Louvale,Commissioner Of Labor,,Lib,Emily Anderson,1,1,0,0,0
+Stewart,Lumpkin,Commissioner Of Labor,,Lib,Emily Anderson,8,2,1,0,5
+Stewart,Omaha,Commissioner Of Labor,,Lib,Emily Anderson,1,1,0,0,0
+Stewart,Richland,U.S. House,2,Rep,Chris West,247,114,9,3,121
+Stewart,Louvale,U.S. House,2,Rep,Chris West,68,19,2,1,46
+Stewart,Lumpkin,U.S. House,2,Rep,Chris West,248,168,15,1,64
+Stewart,Omaha,U.S. House,2,Rep,Chris West,47,6,1,0,40
+Stewart,Richland,U.S. House,2,Dem,Sanford Bishop ,408,146,84,2,176
+Stewart,Louvale,U.S. House,2,Dem,Sanford Bishop ,107,28,13,0,66
+Stewart,Lumpkin,U.S. House,2,Dem,Sanford Bishop ,375,250,45,0,80
+Stewart,Omaha,U.S. House,2,Dem,Sanford Bishop ,59,10,7,0,42
+Stewart,Richland,State Senate,12,Dem,Freddie Powell Sims ,457,175,77,1,204
+Stewart,Louvale,State Senate,12,Dem,Freddie Powell Sims ,111,32,15,0,64
+Stewart,Lumpkin,State Senate,12,Dem,Freddie Powell Sims ,411,268,41,0,102
+Stewart,Omaha,State Senate,12,Dem,Freddie Powell Sims ,64,12,7,0,45
+Stewart,Richland,State House,151,Rep,Mike Cheokas ,271,126,12,3,130
+Stewart,Louvale,State House,151,Rep,Mike Cheokas ,74,19,2,1,52
+Stewart,Lumpkin,State House,151,Rep,Mike Cheokas ,261,177,18,1,65
+Stewart,Omaha,State House,151,Rep,Mike Cheokas ,55,10,2,0,43
+Stewart,Richland,State House,151,Dem,Joyce Barlow,377,131,82,1,163
+Stewart,Louvale,State House,151,Dem,Joyce Barlow,96,28,13,0,55
+Stewart,Lumpkin,State House,151,Dem,Joyce Barlow,342,227,41,0,74
+Stewart,Omaha,State House,151,Dem,Joyce Barlow,43,6,5,0,32
+Stewart,Richland,County Commissioner Dist 2,,Dem,Joseph B. Williams ,25,15,0,0,10
+Stewart,Louvale,County Commissioner Dist 2,,Dem,Joseph B. Williams ,124,34,15,0,75
+Stewart,Lumpkin,County Commissioner Dist 2,,Dem,Joseph B. Williams ,88,53,14,0,21
+Stewart,Richland,County Commissioner Dist 2,,Ind,Ernie F. Brown,42,24,3,0,15
+Stewart,Louvale,County Commissioner Dist 2,,Ind,Ernie F. Brown,42,12,0,0,30
+Stewart,Lumpkin,County Commissioner Dist 2,,Ind,Ernie F. Brown,59,33,12,1,13
+Stewart,Richland,County Commissioner Dist 4,,Dem,Joe Lee Williams ,210,71,35,0,104
+Stewart,Richland,Constitutional Amendment #1,,,Yes,486,200,60,4,222
+Stewart,Louvale,Constitutional Amendment #1,,,Yes,137,34,14,0,89
+Stewart,Lumpkin,Constitutional Amendment #1,,,Yes,471,314,48,1,108
+Stewart,Omaha,Constitutional Amendment #1,,,Yes,75,14,5,0,56
+Stewart,Richland,Constitutional Amendment #1,,,No,105,40,16,0,49
+Stewart,Louvale,Constitutional Amendment #1,,,No,32,10,1,1,20
+Stewart,Lumpkin,Constitutional Amendment #1,,,No,90,53,8,0,29
+Stewart,Omaha,Constitutional Amendment #1,,,No,14,1,2,0,11
+Stewart,Richland,Constitutional Amendment #2,,,Yes,547,223,77,3,244
+Stewart,Louvale,Constitutional Amendment #2,,,Yes,147,39,15,1,92
+Stewart,Lumpkin,Constitutional Amendment #2,,,Yes,510,335,50,1,124
+Stewart,Omaha,Constitutional Amendment #2,,,Yes,81,15,5,0,61
+Stewart,Richland,Constitutional Amendment #2,,,No,60,20,6,0,34
+Stewart,Louvale,Constitutional Amendment #2,,,No,17,4,0,0,13
+Stewart,Lumpkin,Constitutional Amendment #2,,,No,56,37,5,0,14
+Stewart,Omaha,Constitutional Amendment #2,,,No,11,2,2,0,7
+Stewart,Richland,Statewide Referendum A,,,Yes,370,145,44,4,177
+Stewart,Louvale,Statewide Referendum A,,,Yes,98,27,7,0,64
+Stewart,Lumpkin,Statewide Referendum A,,,Yes,375,242,33,1,99
+Stewart,Omaha,Statewide Referendum A,,,Yes,58,7,4,0,47
+Stewart,Richland,Statewide Referendum A,,,No,229,94,35,1,99
+Stewart,Louvale,Statewide Referendum A,,,No,61,16,7,1,37
+Stewart,Lumpkin,Statewide Referendum A,,,No,171,115,23,0,33
+Stewart,Omaha,Statewide Referendum A,,,No,32,8,3,0,21
+Stewart,Richland,Statewide Referendum B,,,Yes,442,172,58,4,208
+Stewart,Louvale,Statewide Referendum B,,,Yes,113,28,7,0,78
+Stewart,Lumpkin,Statewide Referendum B,,,Yes,431,286,35,1,109
+Stewart,Omaha,Statewide Referendum B,,,Yes,67,12,4,0,51
+Stewart,Richland,Statewide Referendum B,,,No,155,65,24,1,65
+Stewart,Louvale,Statewide Referendum B,,,No,49,15,8,1,25
+Stewart,Lumpkin,Statewide Referendum B,,,No,120,75,20,0,25
+Stewart,Omaha,Statewide Referendum B,,,No,23,5,3,0,15

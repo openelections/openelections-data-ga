@@ -1,0 +1,27 @@
+```{r}
+library(tidyverse)
+```
+
+```{r}
+ga_general <- read_csv("/Users/dwillis/code/openelections-data-ga/2022/20221108__ga__general__precinct.csv", guess_max =65132)
+```
+
+```{r}
+state_senate_cands <- ga_general %>% 
+  filter(office == 'State Senate') %>% distinct(candidate, district)
+write_csv(state_senate_cands, "state_senate_cands.csv")
+
+house_cands <- ga_general %>% 
+  filter(office == 'U.S. House') %>% distinct(candidate, district)
+write_csv(house_cands, "house_cands.csv")
+
+state_house_cands <- ga_general %>% 
+  filter(office == 'State House') %>% distinct(candidate, district)
+write_csv(state_house_cands, "state_house_cands.csv")
+```
+
+```{r}
+house_cands_with_district <- read_csv("house_cands.csv")
+
+```
+

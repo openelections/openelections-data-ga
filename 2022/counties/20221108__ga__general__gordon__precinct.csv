@@ -1,0 +1,598 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Gordon,Sugar Valley,U.S. Senate,,Rep,Herschel Junior Walker,724,269,11,1,443
+Gordon,Plainville,U.S. Senate,,Rep,Herschel Junior Walker,830,321,12,3,494
+Gordon,Sonoraville,U.S. Senate,,Rep,Herschel Junior Walker,2527,1097,51,0,1379
+Gordon,Pine Chapel,U.S. Senate,,Rep,Herschel Junior Walker,536,183,12,0,341
+Gordon,Oostanaula,U.S. Senate,,Rep,Herschel Junior Walker,317,100,9,0,208
+Gordon,Oakman,U.S. Senate,,Rep,Herschel Junior Walker,626,145,16,1,464
+Gordon,Gordon County,U.S. Senate,,Rep,Herschel Junior Walker,2376,1256,73,2,1045
+Gordon,Calhoun City,U.S. Senate,,Rep,Herschel Junior Walker,3189,1911,129,3,1146
+Gordon,Lily Pond,U.S. Senate,,Rep,Herschel Junior Walker,902,434,18,0,450
+Gordon,Fairmount,U.S. Senate,,Rep,Herschel Junior Walker,993,242,34,0,717
+Gordon,Red Bud,U.S. Senate,,Rep,Herschel Junior Walker,1321,567,21,1,732
+Gordon,Resaca,U.S. Senate,,Rep,Herschel Junior Walker,614,192,17,0,405
+Gordon,Sugar Valley,U.S. Senate,,Dem,Raphael Warnock ,86,41,3,0,42
+Gordon,Plainville,U.S. Senate,,Dem,Raphael Warnock ,161,68,18,2,73
+Gordon,Sonoraville,U.S. Senate,,Dem,Raphael Warnock ,414,186,29,0,199
+Gordon,Pine Chapel,U.S. Senate,,Dem,Raphael Warnock ,70,27,11,0,32
+Gordon,Oostanaula,U.S. Senate,,Dem,Raphael Warnock ,77,35,5,0,37
+Gordon,Oakman,U.S. Senate,,Dem,Raphael Warnock ,90,37,2,0,51
+Gordon,Gordon County,U.S. Senate,,Dem,Raphael Warnock ,547,290,43,1,213
+Gordon,Calhoun City,U.S. Senate,,Dem,Raphael Warnock ,1273,764,93,1,415
+Gordon,Lily Pond,U.S. Senate,,Dem,Raphael Warnock ,160,75,16,0,69
+Gordon,Fairmount,U.S. Senate,,Dem,Raphael Warnock ,126,44,9,0,73
+Gordon,Red Bud,U.S. Senate,,Dem,Raphael Warnock ,263,125,21,0,117
+Gordon,Resaca,U.S. Senate,,Dem,Raphael Warnock ,90,28,8,0,54
+Gordon,Sugar Valley,U.S. Senate,,Lib,Chase Oliver,20,3,1,0,16
+Gordon,Plainville,U.S. Senate,,Lib,Chase Oliver,34,11,2,0,21
+Gordon,Sonoraville,U.S. Senate,,Lib,Chase Oliver,81,28,4,0,49
+Gordon,Pine Chapel,U.S. Senate,,Lib,Chase Oliver,16,6,1,0,9
+Gordon,Oostanaula,U.S. Senate,,Lib,Chase Oliver,7,2,0,0,5
+Gordon,Oakman,U.S. Senate,,Lib,Chase Oliver,24,6,1,0,17
+Gordon,Gordon County,U.S. Senate,,Lib,Chase Oliver,61,29,4,0,28
+Gordon,Calhoun City,U.S. Senate,,Lib,Chase Oliver,124,69,5,0,50
+Gordon,Lily Pond,U.S. Senate,,Lib,Chase Oliver,19,5,3,0,11
+Gordon,Fairmount,U.S. Senate,,Lib,Chase Oliver,24,5,0,0,19
+Gordon,Red Bud,U.S. Senate,,Lib,Chase Oliver,45,14,2,0,29
+Gordon,Resaca,U.S. Senate,,Lib,Chase Oliver,20,5,1,0,14
+Gordon,Sugar Valley,Governor,,Rep,Brian Kemp ,757,280,12,1,464
+Gordon,Plainville,Governor,,Rep,Brian Kemp ,896,348,18,4,526
+Gordon,Sonoraville,Governor,,Rep,Brian Kemp ,2695,1156,68,0,1471
+Gordon,Pine Chapel,Governor,,Rep,Brian Kemp ,569,193,18,0,358
+Gordon,Oostanaula,Governor,,Rep,Brian Kemp ,333,108,9,0,216
+Gordon,Oakman,Governor,,Rep,Brian Kemp ,661,155,17,1,488
+Gordon,Gordon County,Governor,,Rep,Brian Kemp ,2515,1330,84,2,1099
+Gordon,Calhoun City,Governor,,Rep,Brian Kemp ,3496,2106,150,4,1236
+Gordon,Lily Pond,Governor,,Rep,Brian Kemp ,960,456,24,0,480
+Gordon,Fairmount,Governor,,Rep,Brian Kemp ,1042,250,39,0,753
+Gordon,Red Bud,Governor,,Rep,Brian Kemp ,1421,600,24,1,796
+Gordon,Resaca,Governor,,Rep,Brian Kemp ,658,202,18,0,438
+Gordon,Sugar Valley,Governor,,Dem,Stacey Abrams,72,36,3,0,33
+Gordon,Plainville,Governor,,Dem,Stacey Abrams,126,47,16,1,62
+Gordon,Sonoraville,Governor,,Dem,Stacey Abrams,324,157,17,0,150
+Gordon,Pine Chapel,Governor,,Dem,Stacey Abrams,50,22,6,0,22
+Gordon,Oostanaula,Governor,,Dem,Stacey Abrams,64,29,5,0,30
+Gordon,Oakman,Governor,,Dem,Stacey Abrams,74,29,2,0,43
+Gordon,Gordon County,Governor,,Dem,Stacey Abrams,459,239,36,1,183
+Gordon,Calhoun City,Governor,,Dem,Stacey Abrams,1066,644,78,0,344
+Gordon,Lily Pond,Governor,,Dem,Stacey Abrams,128,62,13,0,53
+Gordon,Fairmount,Governor,,Dem,Stacey Abrams,100,39,5,0,56
+Gordon,Red Bud,Governor,,Dem,Stacey Abrams,206,105,18,0,83
+Gordon,Resaca,Governor,,Dem,Stacey Abrams,74,24,8,0,42
+Gordon,Sugar Valley,Governor,,Lib,Shane Hazel,6,1,0,0,5
+Gordon,Plainville,Governor,,Lib,Shane Hazel,5,3,0,0,2
+Gordon,Sonoraville,Governor,,Lib,Shane Hazel,21,9,0,0,12
+Gordon,Pine Chapel,Governor,,Lib,Shane Hazel,3,1,0,0,2
+Gordon,Oostanaula,Governor,,Lib,Shane Hazel,3,0,0,0,3
+Gordon,Oakman,Governor,,Lib,Shane Hazel,7,3,0,0,4
+Gordon,Gordon County,Governor,,Lib,Shane Hazel,23,14,1,0,8
+Gordon,Calhoun City,Governor,,Lib,Shane Hazel,60,21,1,0,38
+Gordon,Lily Pond,Governor,,Lib,Shane Hazel,3,1,0,0,2
+Gordon,Fairmount,Governor,,Lib,Shane Hazel,13,4,0,0,9
+Gordon,Red Bud,Governor,,Lib,Shane Hazel,15,5,1,0,9
+Gordon,Resaca,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Gordon,Sugar Valley,Lieutenant Governor,,Rep,Burt Jones,739,277,12,1,449
+Gordon,Plainville,Lieutenant Governor,,Rep,Burt Jones,861,332,13,3,513
+Gordon,Sonoraville,Lieutenant Governor,,Rep,Burt Jones,2594,1121,56,0,1417
+Gordon,Pine Chapel,Lieutenant Governor,,Rep,Burt Jones,545,186,15,0,344
+Gordon,Oostanaula,Lieutenant Governor,,Rep,Burt Jones,319,99,9,0,211
+Gordon,Oakman,Lieutenant Governor,,Rep,Burt Jones,632,145,15,1,471
+Gordon,Gordon County,Lieutenant Governor,,Rep,Burt Jones,2426,1286,78,2,1060
+Gordon,Calhoun City,Lieutenant Governor,,Rep,Burt Jones,3298,1982,139,3,1174
+Gordon,Lily Pond,Lieutenant Governor,,Rep,Burt Jones,917,440,21,0,456
+Gordon,Fairmount,Lieutenant Governor,,Rep,Burt Jones,1017,247,36,0,734
+Gordon,Red Bud,Lieutenant Governor,,Rep,Burt Jones,1358,578,21,1,758
+Gordon,Resaca,Lieutenant Governor,,Rep,Burt Jones,633,195,18,0,420
+Gordon,Sugar Valley,Lieutenant Governor,,Dem,Charlie Bailey,76,36,3,0,37
+Gordon,Plainville,Lieutenant Governor,,Dem,Charlie Bailey,137,53,17,1,66
+Gordon,Sonoraville,Lieutenant Governor,,Dem,Charlie Bailey,368,168,25,0,175
+Gordon,Pine Chapel,Lieutenant Governor,,Dem,Charlie Bailey,60,26,8,0,26
+Gordon,Oostanaula,Lieutenant Governor,,Dem,Charlie Bailey,64,31,5,0,28
+Gordon,Oakman,Lieutenant Governor,,Dem,Charlie Bailey,86,34,3,0,49
+Gordon,Gordon County,Lieutenant Governor,,Dem,Charlie Bailey,485,256,39,1,189
+Gordon,Calhoun City,Lieutenant Governor,,Dem,Charlie Bailey,1135,683,81,1,370
+Gordon,Lily Pond,Lieutenant Governor,,Dem,Charlie Bailey,138,65,14,0,59
+Gordon,Fairmount,Lieutenant Governor,,Dem,Charlie Bailey,106,40,7,0,59
+Gordon,Red Bud,Lieutenant Governor,,Dem,Charlie Bailey,230,111,18,0,101
+Gordon,Resaca,Lieutenant Governor,,Dem,Charlie Bailey,78,29,8,0,41
+Gordon,Sugar Valley,Lieutenant Governor,,Lib,Ryan Graham,14,1,0,0,13
+Gordon,Plainville,Lieutenant Governor,,Lib,Ryan Graham,23,8,4,1,10
+Gordon,Sonoraville,Lieutenant Governor,,Lib,Ryan Graham,54,17,3,0,34
+Gordon,Pine Chapel,Lieutenant Governor,,Lib,Ryan Graham,10,3,0,0,7
+Gordon,Oostanaula,Lieutenant Governor,,Lib,Ryan Graham,14,5,0,0,9
+Gordon,Oakman,Lieutenant Governor,,Lib,Ryan Graham,15,6,1,0,8
+Gordon,Gordon County,Lieutenant Governor,,Lib,Ryan Graham,59,30,3,0,26
+Gordon,Calhoun City,Lieutenant Governor,,Lib,Ryan Graham,135,66,2,0,67
+Gordon,Lily Pond,Lieutenant Governor,,Lib,Ryan Graham,18,6,1,0,11
+Gordon,Fairmount,Lieutenant Governor,,Lib,Ryan Graham,25,5,1,0,19
+Gordon,Red Bud,Lieutenant Governor,,Lib,Ryan Graham,38,13,3,0,22
+Gordon,Resaca,Lieutenant Governor,,Lib,Ryan Graham,17,3,0,0,14
+Gordon,Sugar Valley,Secretary of State,,Rep,Brad Raffensperger ,725,262,10,1,452
+Gordon,Plainville,Secretary of State,,Rep,Brad Raffensperger ,859,339,17,4,499
+Gordon,Sonoraville,Secretary of State,,Rep,Brad Raffensperger ,2558,1110,64,0,1384
+Gordon,Pine Chapel,Secretary of State,,Rep,Brad Raffensperger ,548,183,15,0,350
+Gordon,Oostanaula,Secretary of State,,Rep,Brad Raffensperger ,315,109,11,0,195
+Gordon,Oakman,Secretary of State,,Rep,Brad Raffensperger ,624,144,17,1,462
+Gordon,Gordon County,Secretary of State,,Rep,Brad Raffensperger ,2399,1279,84,2,1034
+Gordon,Calhoun City,Secretary of State,,Rep,Brad Raffensperger ,3375,2041,148,4,1182
+Gordon,Lily Pond,Secretary of State,,Rep,Brad Raffensperger ,910,434,20,0,456
+Gordon,Fairmount,Secretary of State,,Rep,Brad Raffensperger ,990,237,34,0,719
+Gordon,Red Bud,Secretary of State,,Rep,Brad Raffensperger ,1358,582,24,1,751
+Gordon,Resaca,Secretary of State,,Rep,Brad Raffensperger ,623,194,15,0,414
+Gordon,Sugar Valley,Secretary of State,,Dem,Bee Nguyen,64,31,3,0,30
+Gordon,Plainville,Secretary of State,,Dem,Bee Nguyen,126,44,15,1,66
+Gordon,Sonoraville,Secretary of State,,Dem,Bee Nguyen,345,159,17,0,169
+Gordon,Pine Chapel,Secretary of State,,Dem,Bee Nguyen,52,24,7,0,21
+Gordon,Oostanaula,Secretary of State,,Dem,Bee Nguyen,59,25,3,0,31
+Gordon,Oakman,Secretary of State,,Dem,Bee Nguyen,75,30,1,0,44
+Gordon,Gordon County,Secretary of State,,Dem,Bee Nguyen,452,236,32,1,183
+Gordon,Calhoun City,Secretary of State,,Dem,Bee Nguyen,1021,605,71,0,345
+Gordon,Lily Pond,Secretary of State,,Dem,Bee Nguyen,117,59,14,0,44
+Gordon,Fairmount,Secretary of State,,Dem,Bee Nguyen,108,41,5,0,62
+Gordon,Red Bud,Secretary of State,,Dem,Bee Nguyen,207,102,18,0,87
+Gordon,Resaca,Secretary of State,,Dem,Bee Nguyen,75,26,9,0,40
+Gordon,Sugar Valley,Secretary of State,,Lib,Ted Metz,39,17,2,0,20
+Gordon,Plainville,Secretary of State,,Lib,Ted Metz,35,11,2,0,22
+Gordon,Sonoraville,Secretary of State,,Lib,Ted Metz,94,33,4,0,57
+Gordon,Pine Chapel,Secretary of State,,Lib,Ted Metz,14,5,1,0,8
+Gordon,Oostanaula,Secretary of State,,Lib,Ted Metz,21,2,0,0,19
+Gordon,Oakman,Secretary of State,,Lib,Ted Metz,33,12,1,0,20
+Gordon,Gordon County,Secretary of State,,Lib,Ted Metz,114,55,2,0,57
+Gordon,Calhoun City,Secretary of State,,Lib,Ted Metz,162,77,5,0,80
+Gordon,Lily Pond,Secretary of State,,Lib,Ted Metz,37,13,2,0,22
+Gordon,Fairmount,Secretary of State,,Lib,Ted Metz,42,9,2,0,31
+Gordon,Red Bud,Secretary of State,,Lib,Ted Metz,60,17,0,0,43
+Gordon,Resaca,Secretary of State,,Lib,Ted Metz,23,4,2,0,17
+Gordon,Sugar Valley,Attorney General,,Rep,Chris Carr ,740,277,12,1,450
+Gordon,Plainville,Attorney General,,Rep,Chris Carr ,870,339,15,4,512
+Gordon,Sonoraville,Attorney General,,Rep,Chris Carr ,2604,1126,58,0,1420
+Gordon,Pine Chapel,Attorney General,,Rep,Chris Carr ,543,187,15,0,341
+Gordon,Oostanaula,Attorney General,,Rep,Chris Carr ,325,104,10,0,211
+Gordon,Oakman,Attorney General,,Rep,Chris Carr ,647,152,17,1,477
+Gordon,Gordon County,Attorney General,,Rep,Chris Carr ,2423,1289,79,2,1053
+Gordon,Calhoun City,Attorney General,,Rep,Chris Carr ,3328,2016,136,3,1173
+Gordon,Lily Pond,Attorney General,,Rep,Chris Carr ,927,439,21,0,467
+Gordon,Fairmount,Attorney General,,Rep,Chris Carr ,1014,248,35,0,731
+Gordon,Red Bud,Attorney General,,Rep,Chris Carr ,1373,585,24,1,763
+Gordon,Resaca,Attorney General,,Rep,Chris Carr ,634,195,17,0,422
+Gordon,Sugar Valley,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",80,37,3,0,40
+Gordon,Plainville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",141,53,16,1,71
+Gordon,Sonoraville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",365,165,24,0,176
+Gordon,Pine Chapel,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",65,27,7,0,31
+Gordon,Oostanaula,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",64,30,3,0,31
+Gordon,Oakman,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",86,32,2,0,52
+Gordon,Gordon County,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",504,262,39,1,202
+Gordon,Calhoun City,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",1162,696,86,0,380
+Gordon,Lily Pond,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",130,64,13,0,53
+Gordon,Fairmount,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",114,41,6,0,67
+Gordon,Red Bud,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",233,111,18,0,104
+Gordon,Resaca,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",84,29,9,0,46
+Gordon,Sugar Valley,Attorney General,,Lib,Martin Cowen,11,2,0,0,9
+Gordon,Plainville,Attorney General,,Lib,Martin Cowen,13,4,3,0,6
+Gordon,Sonoraville,Attorney General,,Lib,Martin Cowen,42,15,2,0,25
+Gordon,Pine Chapel,Attorney General,,Lib,Martin Cowen,8,2,1,0,5
+Gordon,Oostanaula,Attorney General,,Lib,Martin Cowen,8,2,1,0,5
+Gordon,Oakman,Attorney General,,Lib,Martin Cowen,9,4,0,0,5
+Gordon,Gordon County,Attorney General,,Lib,Martin Cowen,44,22,1,0,21
+Gordon,Calhoun City,Attorney General,,Lib,Martin Cowen,94,36,0,0,58
+Gordon,Lily Pond,Attorney General,,Lib,Martin Cowen,15,7,1,0,7
+Gordon,Fairmount,Attorney General,,Lib,Martin Cowen,19,3,3,0,13
+Gordon,Red Bud,Attorney General,,Lib,Martin Cowen,24,10,0,0,14
+Gordon,Resaca,Attorney General,,Lib,Martin Cowen,9,4,0,0,5
+Gordon,Sugar Valley,Commissioner Of Agriculture,,Rep,Tyler Harper,750,279,12,1,458
+Gordon,Plainville,Commissioner Of Agriculture,,Rep,Tyler Harper,877,345,14,3,515
+Gordon,Sonoraville,Commissioner Of Agriculture,,Rep,Tyler Harper,2632,1139,64,0,1429
+Gordon,Pine Chapel,Commissioner Of Agriculture,,Rep,Tyler Harper,556,189,15,0,352
+Gordon,Oostanaula,Commissioner Of Agriculture,,Rep,Tyler Harper,326,104,9,0,213
+Gordon,Oakman,Commissioner Of Agriculture,,Rep,Tyler Harper,650,156,14,1,479
+Gordon,Gordon County,Commissioner Of Agriculture,,Rep,Tyler Harper,2456,1302,80,3,1071
+Gordon,Calhoun City,Commissioner Of Agriculture,,Rep,Tyler Harper,3421,2067,141,3,1210
+Gordon,Lily Pond,Commissioner Of Agriculture,,Rep,Tyler Harper,934,443,22,0,469
+Gordon,Fairmount,Commissioner Of Agriculture,,Rep,Tyler Harper,1019,246,36,0,737
+Gordon,Red Bud,Commissioner Of Agriculture,,Rep,Tyler Harper,1395,594,26,1,774
+Gordon,Resaca,Commissioner Of Agriculture,,Rep,Tyler Harper,650,203,19,0,428
+Gordon,Sugar Valley,Commissioner Of Agriculture,,Dem,Nakita Hemingway,64,33,3,0,28
+Gordon,Plainville,Commissioner Of Agriculture,,Dem,Nakita Hemingway,123,42,16,1,64
+Gordon,Sonoraville,Commissioner Of Agriculture,,Dem,Nakita Hemingway,317,148,18,0,151
+Gordon,Pine Chapel,Commissioner Of Agriculture,,Dem,Nakita Hemingway,50,22,8,0,20
+Gordon,Oostanaula,Commissioner Of Agriculture,,Dem,Nakita Hemingway,58,27,5,0,26
+Gordon,Oakman,Commissioner Of Agriculture,,Dem,Nakita Hemingway,76,29,2,0,45
+Gordon,Gordon County,Commissioner Of Agriculture,,Dem,Nakita Hemingway,445,230,35,0,180
+Gordon,Calhoun City,Commissioner Of Agriculture,,Dem,Nakita Hemingway,1025,613,75,0,337
+Gordon,Lily Pond,Commissioner Of Agriculture,,Dem,Nakita Hemingway,120,60,13,0,47
+Gordon,Fairmount,Commissioner Of Agriculture,,Dem,Nakita Hemingway,96,38,4,0,54
+Gordon,Red Bud,Commissioner Of Agriculture,,Dem,Nakita Hemingway,209,102,16,0,91
+Gordon,Resaca,Commissioner Of Agriculture,,Dem,Nakita Hemingway,66,24,7,0,35
+Gordon,Sugar Valley,Commissioner Of Agriculture,,Lib,David Raudabaugh,17,4,0,0,13
+Gordon,Plainville,Commissioner Of Agriculture,,Lib,David Raudabaugh,17,5,4,1,7
+Gordon,Sonoraville,Commissioner Of Agriculture,,Lib,David Raudabaugh,59,19,1,0,39
+Gordon,Pine Chapel,Commissioner Of Agriculture,,Lib,David Raudabaugh,9,3,0,0,6
+Gordon,Oostanaula,Commissioner Of Agriculture,,Lib,David Raudabaugh,9,4,0,0,5
+Gordon,Oakman,Commissioner Of Agriculture,,Lib,David Raudabaugh,15,2,3,0,10
+Gordon,Gordon County,Commissioner Of Agriculture,,Lib,David Raudabaugh,60,32,5,0,23
+Gordon,Calhoun City,Commissioner Of Agriculture,,Lib,David Raudabaugh,118,53,2,0,63
+Gordon,Lily Pond,Commissioner Of Agriculture,,Lib,David Raudabaugh,18,7,1,0,10
+Gordon,Fairmount,Commissioner Of Agriculture,,Lib,David Raudabaugh,31,9,4,0,18
+Gordon,Red Bud,Commissioner Of Agriculture,,Lib,David Raudabaugh,27,10,0,0,17
+Gordon,Resaca,Commissioner Of Agriculture,,Lib,David Raudabaugh,9,1,0,0,8
+Gordon,Sugar Valley,Commissioner Of Insurance,,Rep,John King ,759,283,13,1,462
+Gordon,Plainville,Commissioner Of Insurance,,Rep,John King ,884,344,17,4,519
+Gordon,Sonoraville,Commissioner Of Insurance,,Rep,John King ,2662,1147,63,0,1452
+Gordon,Pine Chapel,Commissioner Of Insurance,,Rep,John King ,557,191,16,0,350
+Gordon,Oostanaula,Commissioner Of Insurance,,Rep,John King ,340,108,10,0,222
+Gordon,Oakman,Commissioner Of Insurance,,Rep,John King ,655,155,17,1,482
+Gordon,Gordon County,Commissioner Of Insurance,,Rep,John King ,2494,1316,82,2,1094
+Gordon,Calhoun City,Commissioner Of Insurance,,Rep,John King ,3475,2078,145,4,1248
+Gordon,Lily Pond,Commissioner Of Insurance,,Rep,John King ,944,452,22,0,470
+Gordon,Fairmount,Commissioner Of Insurance,,Rep,John King ,1033,254,36,0,743
+Gordon,Red Bud,Commissioner Of Insurance,,Rep,John King ,1406,597,25,1,783
+Gordon,Resaca,Commissioner Of Insurance,,Rep,John King ,649,200,18,0,431
+Gordon,Sugar Valley,Commissioner Of Insurance,,Dem,Janice Laws Robinson,69,33,2,0,34
+Gordon,Plainville,Commissioner Of Insurance,,Dem,Janice Laws Robinson,129,45,17,1,66
+Gordon,Sonoraville,Commissioner Of Insurance,,Dem,Janice Laws Robinson,336,155,21,0,160
+Gordon,Pine Chapel,Commissioner Of Insurance,,Dem,Janice Laws Robinson,59,24,7,0,28
+Gordon,Oostanaula,Commissioner Of Insurance,,Dem,Janice Laws Robinson,56,28,4,0,24
+Gordon,Oakman,Commissioner Of Insurance,,Dem,Janice Laws Robinson,82,30,2,0,50
+Gordon,Gordon County,Commissioner Of Insurance,,Dem,Janice Laws Robinson,471,250,38,1,182
+Gordon,Calhoun City,Commissioner Of Insurance,,Dem,Janice Laws Robinson,1083,651,76,0,356
+Gordon,Lily Pond,Commissioner Of Insurance,,Dem,Janice Laws Robinson,124,58,13,0,53
+Gordon,Fairmount,Commissioner Of Insurance,,Dem,Janice Laws Robinson,110,39,7,0,64
+Gordon,Red Bud,Commissioner Of Insurance,,Dem,Janice Laws Robinson,216,105,17,0,94
+Gordon,Resaca,Commissioner Of Insurance,,Dem,Janice Laws Robinson,76,27,8,0,41
+Gordon,Sugar Valley,State School Superintendent,,Rep,Richard Woods ,760,281,12,1,466
+Gordon,Plainville,State School Superintendent,,Rep,Richard Woods ,876,340,17,3,516
+Gordon,Sonoraville,State School Superintendent,,Rep,Richard Woods ,2663,1149,67,0,1447
+Gordon,Pine Chapel,State School Superintendent,,Rep,Richard Woods ,554,190,14,0,350
+Gordon,Oostanaula,State School Superintendent,,Rep,Richard Woods ,337,109,11,0,217
+Gordon,Oakman,State School Superintendent,,Rep,Richard Woods ,655,154,16,1,484
+Gordon,Gordon County,State School Superintendent,,Rep,Richard Woods ,2496,1319,82,2,1093
+Gordon,Calhoun City,State School Superintendent,,Rep,Richard Woods ,3477,2096,142,3,1236
+Gordon,Lily Pond,State School Superintendent,,Rep,Richard Woods ,944,450,22,0,472
+Gordon,Fairmount,State School Superintendent,,Rep,Richard Woods ,1038,253,36,0,749
+Gordon,Red Bud,State School Superintendent,,Rep,Richard Woods ,1398,596,22,1,779
+Gordon,Resaca,State School Superintendent,,Rep,Richard Woods ,644,196,18,0,430
+Gordon,Sugar Valley,State School Superintendent,,Dem,Alisha Thomas Searcy,71,35,3,0,33
+Gordon,Plainville,State School Superintendent,,Dem,Alisha Thomas Searcy,138,52,17,1,68
+Gordon,Sonoraville,State School Superintendent,,Dem,Alisha Thomas Searcy,341,156,18,0,167
+Gordon,Pine Chapel,State School Superintendent,,Dem,Alisha Thomas Searcy,61,24,8,0,29
+Gordon,Oostanaula,State School Superintendent,,Dem,Alisha Thomas Searcy,57,27,3,0,27
+Gordon,Oakman,State School Superintendent,,Dem,Alisha Thomas Searcy,82,31,3,0,48
+Gordon,Gordon County,State School Superintendent,,Dem,Alisha Thomas Searcy,466,244,37,1,184
+Gordon,Calhoun City,State School Superintendent,,Dem,Alisha Thomas Searcy,1081,635,78,0,368
+Gordon,Lily Pond,State School Superintendent,,Dem,Alisha Thomas Searcy,128,63,11,0,54
+Gordon,Fairmount,State School Superintendent,,Dem,Alisha Thomas Searcy,103,39,7,0,57
+Gordon,Red Bud,State School Superintendent,,Dem,Alisha Thomas Searcy,226,106,20,0,100
+Gordon,Resaca,State School Superintendent,,Dem,Alisha Thomas Searcy,79,31,8,0,40
+Gordon,Sugar Valley,Commissioner Of Labor,,Rep,Bruce Thompson,748,280,12,1,455
+Gordon,Plainville,Commissioner Of Labor,,Rep,Bruce Thompson,857,335,13,3,506
+Gordon,Sonoraville,Commissioner Of Labor,,Rep,Bruce Thompson,2605,1127,62,0,1416
+Gordon,Pine Chapel,Commissioner Of Labor,,Rep,Bruce Thompson,551,187,15,0,349
+Gordon,Oostanaula,Commissioner Of Labor,,Rep,Bruce Thompson,321,102,10,0,209
+Gordon,Oakman,Commissioner Of Labor,,Rep,Bruce Thompson,644,148,16,1,479
+Gordon,Gordon County,Commissioner Of Labor,,Rep,Bruce Thompson,2436,1284,80,2,1070
+Gordon,Calhoun City,Commissioner Of Labor,,Rep,Bruce Thompson,3367,2030,139,2,1196
+Gordon,Lily Pond,Commissioner Of Labor,,Rep,Bruce Thompson,928,439,21,0,468
+Gordon,Fairmount,Commissioner Of Labor,,Rep,Bruce Thompson,1016,248,37,0,731
+Gordon,Red Bud,Commissioner Of Labor,,Rep,Bruce Thompson,1378,589,22,1,766
+Gordon,Resaca,Commissioner Of Labor,,Rep,Bruce Thompson,646,199,18,0,429
+Gordon,Sugar Valley,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",71,35,3,0,33
+Gordon,Plainville,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",129,47,16,1,65
+Gordon,Sonoraville,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",334,150,19,0,165
+Gordon,Pine Chapel,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",53,22,8,0,23
+Gordon,Oostanaula,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",56,30,4,0,22
+Gordon,Oakman,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",75,31,2,0,42
+Gordon,Gordon County,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",455,240,34,1,180
+Gordon,Calhoun City,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",1059,649,76,0,334
+Gordon,Lily Pond,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",125,62,13,0,50
+Gordon,Fairmount,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",96,39,5,0,52
+Gordon,Red Bud,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",217,102,20,0,95
+Gordon,Resaca,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",73,27,8,0,38
+Gordon,Sugar Valley,Commissioner Of Labor,,Lib,Emily Anderson,12,2,0,0,10
+Gordon,Plainville,Commissioner Of Labor,,Lib,Emily Anderson,24,6,5,0,13
+Gordon,Sonoraville,Commissioner Of Labor,,Lib,Emily Anderson,63,27,2,0,34
+Gordon,Pine Chapel,Commissioner Of Labor,,Lib,Emily Anderson,11,4,0,0,7
+Gordon,Oostanaula,Commissioner Of Labor,,Lib,Emily Anderson,11,1,0,0,10
+Gordon,Oakman,Commissioner Of Labor,,Lib,Emily Anderson,17,4,1,0,12
+Gordon,Gordon County,Commissioner Of Labor,,Lib,Emily Anderson,69,38,4,0,27
+Gordon,Calhoun City,Commissioner Of Labor,,Lib,Emily Anderson,125,49,5,0,71
+Gordon,Lily Pond,Commissioner Of Labor,,Lib,Emily Anderson,12,6,1,0,5
+Gordon,Fairmount,Commissioner Of Labor,,Lib,Emily Anderson,28,5,1,0,22
+Gordon,Red Bud,Commissioner Of Labor,,Lib,Emily Anderson,28,10,0,0,18
+Gordon,Resaca,Commissioner Of Labor,,Lib,Emily Anderson,8,2,0,0,6
+Gordon,Sugar Valley,U.S. House,14,Rep,Marjorie Taylor Greene ,714,269,12,1,432
+Gordon,Plainville,U.S. House,14,Rep,Marjorie Taylor Greene ,821,313,15,3,490
+Gordon,Sonoraville,U.S. House,14,Rep,Marjorie Taylor Greene ,2481,1079,46,0,1356
+Gordon,Pine Chapel,U.S. House,14,Rep,Marjorie Taylor Greene ,521,174,10,0,337
+Gordon,Oostanaula,U.S. House,14,Rep,Marjorie Taylor Greene ,308,93,9,0,206
+Gordon,Oakman,U.S. House,14,Rep,Marjorie Taylor Greene ,627,146,16,1,464
+Gordon,Gordon County,U.S. House,14,Rep,Marjorie Taylor Greene ,2299,1216,67,2,1014
+Gordon,Calhoun City,U.S. House,14,Rep,Marjorie Taylor Greene ,3043,1810,123,2,1108
+Gordon,Lily Pond,U.S. House,14,Rep,Marjorie Taylor Greene ,865,420,19,0,426
+Gordon,Fairmount,U.S. House,14,Rep,Marjorie Taylor Greene ,978,241,32,0,705
+Gordon,Red Bud,U.S. House,14,Rep,Marjorie Taylor Greene ,1304,559,19,1,725
+Gordon,Resaca,U.S. House,14,Rep,Marjorie Taylor Greene ,607,191,15,0,401
+Gordon,Sugar Valley,U.S. House,14,Dem,Marcus Flowers,109,45,3,0,61
+Gordon,Plainville,U.S. House,14,Dem,Marcus Flowers,196,81,19,2,94
+Gordon,Sonoraville,U.S. House,14,Dem,Marcus Flowers,497,214,32,0,251
+Gordon,Pine Chapel,U.S. House,14,Dem,Marcus Flowers,86,33,12,0,41
+Gordon,Oostanaula,U.S. House,14,Dem,Marcus Flowers,83,38,5,0,40
+Gordon,Oakman,U.S. House,14,Dem,Marcus Flowers,106,41,3,0,62
+Gordon,Gordon County,U.S. House,14,Dem,Marcus Flowers,637,341,51,1,244
+Gordon,Calhoun City,U.S. House,14,Dem,Marcus Flowers,1461,880,102,1,478
+Gordon,Lily Pond,U.S. House,14,Dem,Marcus Flowers,184,80,15,0,89
+Gordon,Fairmount,U.S. House,14,Dem,Marcus Flowers,154,49,10,0,95
+Gordon,Red Bud,U.S. House,14,Dem,Marcus Flowers,301,134,23,0,144
+Gordon,Resaca,U.S. House,14,Dem,Marcus Flowers,107,32,10,0,65
+Gordon,Sugar Valley,State Senate,52,Rep,Chuck Hufstetler ,775,287,12,1,475
+Gordon,Plainville,State Senate,52,Rep,Chuck Hufstetler ,924,364,21,3,536
+Gordon,Oostanaula,State Senate,52,Rep,Chuck Hufstetler ,357,117,12,0,228
+Gordon,Lily Pond,State Senate,52,Rep,Chuck Hufstetler ,667,309,18,0,340
+Gordon,Sonoraville,State Senate,54,Rep,Chuck Payne ,2788,1207,67,0,1514
+Gordon,Pine Chapel,State Senate,54,Rep,Chuck Payne ,582,198,16,0,368
+Gordon,Oakman,State Senate,54,Rep,Chuck Payne ,676,161,17,1,497
+Gordon,Gordon County,State Senate,54,Rep,Chuck Payne ,2688,1418,92,3,1175
+Gordon,Calhoun City,State Senate,54,Rep,Chuck Payne ,3936,2336,167,2,1431
+Gordon,Lily Pond,State Senate,54,Rep,Chuck Payne ,320,157,6,0,157
+Gordon,Fairmount,State Senate,54,Rep,Chuck Payne ,1060,257,39,0,764
+Gordon,Red Bud,State Senate,54,Rep,Chuck Payne ,1491,642,29,1,819
+Gordon,Resaca,State Senate,54,Rep,Chuck Payne ,683,215,19,0,449
+Gordon,Sugar Valley,State House,5,Rep,Matt Barton ,775,288,11,1,475
+Gordon,Plainville,State House,5,Rep,Matt Barton ,928,365,21,3,539
+Gordon,Sonoraville,State House,5,Rep,Matt Barton ,2793,1213,66,0,1514
+Gordon,Oostanaula,State House,5,Rep,Matt Barton ,354,115,11,0,228
+Gordon,Gordon County,State House,5,Rep,Matt Barton ,2661,1408,93,3,1157
+Gordon,Calhoun City,State House,5,Rep,Matt Barton ,3930,2329,162,3,1436
+Gordon,Lily Pond,State House,5,Rep,Matt Barton ,986,466,26,0,494
+Gordon,Fairmount,State House,5,Rep,Matt Barton ,1051,255,36,0,760
+Gordon,Red Bud,State House,5,Rep,Matt Barton ,1491,642,28,1,820
+Gordon,Resaca,State House,5,Rep,Matt Barton ,682,213,20,0,449
+Gordon,Pine Chapel,State House,6,Rep,Jason T. Ridley ,575,196,15,0,364
+Gordon,Oakman,State House,6,Rep,Jason T. Ridley ,665,160,16,1,488
+Gordon,Sugar Valley,District Attorney,,Rep,Samir J. Patel ,765,284,12,1,468
+Gordon,Plainville,District Attorney,,Rep,Samir J. Patel ,924,363,21,3,537
+Gordon,Sonoraville,District Attorney,,Rep,Samir J. Patel ,2753,1191,66,0,1496
+Gordon,Pine Chapel,District Attorney,,Rep,Samir J. Patel ,578,193,18,0,367
+Gordon,Oostanaula,District Attorney,,Rep,Samir J. Patel ,354,117,11,0,226
+Gordon,Oakman,District Attorney,,Rep,Samir J. Patel ,671,158,14,1,498
+Gordon,Gordon County,District Attorney,,Rep,Samir J. Patel ,2645,1400,86,3,1156
+Gordon,Calhoun City,District Attorney,,Rep,Samir J. Patel ,3892,2309,156,2,1425
+Gordon,Lily Pond,District Attorney,,Rep,Samir J. Patel ,977,466,23,0,488
+Gordon,Fairmount,District Attorney,,Rep,Samir J. Patel ,1043,252,39,0,752
+Gordon,Red Bud,District Attorney,,Rep,Samir J. Patel ,1478,638,27,1,812
+Gordon,Resaca,District Attorney,,Rep,Samir J. Patel ,671,212,18,0,441
+Gordon,Sugar Valley,County Commissioner Dist 2,,Rep,Chad Steward ,763,287,12,1,463
+Gordon,Plainville,County Commissioner Dist 2,,Rep,Chad Steward ,921,363,22,3,533
+Gordon,Sonoraville,County Commissioner Dist 2,,Rep,Chad Steward ,2777,1200,68,0,1509
+Gordon,Pine Chapel,County Commissioner Dist 2,,Rep,Chad Steward ,572,191,18,0,363
+Gordon,Oostanaula,County Commissioner Dist 2,,Rep,Chad Steward ,350,115,9,0,226
+Gordon,Oakman,County Commissioner Dist 2,,Rep,Chad Steward ,671,162,13,1,495
+Gordon,Gordon County,County Commissioner Dist 2,,Rep,Chad Steward ,2661,1402,90,3,1166
+Gordon,Calhoun City,County Commissioner Dist 2,,Rep,Chad Steward ,3901,2314,157,2,1428
+Gordon,Lily Pond,County Commissioner Dist 2,,Rep,Chad Steward ,986,468,24,0,494
+Gordon,Fairmount,County Commissioner Dist 2,,Rep,Chad Steward ,1046,254,36,0,756
+Gordon,Red Bud,County Commissioner Dist 2,,Rep,Chad Steward ,1479,633,29,1,816
+Gordon,Resaca,County Commissioner Dist 2,,Rep,Chad Steward ,676,213,19,0,444
+Gordon,Sugar Valley,County Commissioner Dist 4,,Rep,Kurt Sutherland,734,274,12,1,447
+Gordon,Plainville,County Commissioner Dist 4,,Rep,Kurt Sutherland,858,332,17,3,506
+Gordon,Sonoraville,County Commissioner Dist 4,,Rep,Kurt Sutherland,2601,1122,58,0,1421
+Gordon,Pine Chapel,County Commissioner Dist 4,,Rep,Kurt Sutherland,552,188,14,0,350
+Gordon,Oostanaula,County Commissioner Dist 4,,Rep,Kurt Sutherland,323,100,10,0,213
+Gordon,Oakman,County Commissioner Dist 4,,Rep,Kurt Sutherland,641,147,14,1,479
+Gordon,Gordon County,County Commissioner Dist 4,,Rep,Kurt Sutherland,2435,1290,79,2,1064
+Gordon,Calhoun City,County Commissioner Dist 4,,Rep,Kurt Sutherland,3333,1981,140,2,1210
+Gordon,Lily Pond,County Commissioner Dist 4,,Rep,Kurt Sutherland,932,443,22,0,467
+Gordon,Fairmount,County Commissioner Dist 4,,Rep,Kurt Sutherland,1022,246,38,0,738
+Gordon,Red Bud,County Commissioner Dist 4,,Rep,Kurt Sutherland,1374,583,23,1,767
+Gordon,Resaca,County Commissioner Dist 4,,Rep,Kurt Sutherland,632,198,20,0,414
+Gordon,Sugar Valley,County Commissioner Dist 4,,Dem,Kenneth W. Russell,90,42,2,0,46
+Gordon,Plainville,County Commissioner Dist 4,,Dem,Kenneth W. Russell,151,58,17,2,74
+Gordon,Sonoraville,County Commissioner Dist 4,,Dem,Kenneth W. Russell,382,176,26,0,180
+Gordon,Pine Chapel,County Commissioner Dist 4,,Dem,Kenneth W. Russell,62,26,9,0,27
+Gordon,Oostanaula,County Commissioner Dist 4,,Dem,Kenneth W. Russell,73,35,4,0,34
+Gordon,Oakman,County Commissioner Dist 4,,Dem,Kenneth W. Russell,91,36,5,0,50
+Gordon,Gordon County,County Commissioner Dist 4,,Dem,Kenneth W. Russell,518,267,40,1,210
+Gordon,Calhoun City,County Commissioner Dist 4,,Dem,Kenneth W. Russell,1198,726,74,1,397
+Gordon,Lily Pond,County Commissioner Dist 4,,Dem,Kenneth W. Russell,138,68,13,0,57
+Gordon,Fairmount,County Commissioner Dist 4,,Dem,Kenneth W. Russell,114,41,5,0,68
+Gordon,Red Bud,County Commissioner Dist 4,,Dem,Kenneth W. Russell,241,114,18,0,109
+Gordon,Resaca,County Commissioner Dist 4,,Dem,Kenneth W. Russell,83,27,6,0,50
+Gordon,Sugar Valley,County Board of Education Post 1,,Rep,"Charles """"Charlie"""" Walraven ",769,288,12,1,468
+Gordon,Plainville,County Board of Education Post 1,,Rep,"Charles """"Charlie"""" Walraven ",924,362,22,3,537
+Gordon,Sonoraville,County Board of Education Post 1,,Rep,"Charles """"Charlie"""" Walraven ",2776,1194,67,0,1515
+Gordon,Pine Chapel,County Board of Education Post 1,,Rep,"Charles """"Charlie"""" Walraven ",574,194,18,0,362
+Gordon,Oostanaula,County Board of Education Post 1,,Rep,"Charles """"Charlie"""" Walraven ",357,119,9,0,229
+Gordon,Oakman,County Board of Education Post 1,,Rep,"Charles """"Charlie"""" Walraven ",675,163,14,1,497
+Gordon,Gordon County,County Board of Education Post 1,,Rep,"Charles """"Charlie"""" Walraven ",2667,1408,92,3,1164
+Gordon,Lily Pond,County Board of Education Post 1,,Rep,"Charles """"Charlie"""" Walraven ",989,468,25,0,496
+Gordon,Fairmount,County Board of Education Post 1,,Rep,"Charles """"Charlie"""" Walraven ",1057,252,39,0,766
+Gordon,Red Bud,County Board of Education Post 1,,Rep,"Charles """"Charlie"""" Walraven ",1491,640,29,1,821
+Gordon,Resaca,County Board of Education Post 1,,Rep,"Charles """"Charlie"""" Walraven ",672,211,19,0,442
+Gordon,Sugar Valley,County Board of Education Post 3,,Rep,Dana Michelle Stewart ,767,289,12,1,465
+Gordon,Plainville,County Board of Education Post 3,,Rep,Dana Michelle Stewart ,918,362,21,2,533
+Gordon,Sonoraville,County Board of Education Post 3,,Rep,Dana Michelle Stewart ,2763,1196,62,0,1505
+Gordon,Pine Chapel,County Board of Education Post 3,,Rep,Dana Michelle Stewart ,573,196,17,0,360
+Gordon,Oostanaula,County Board of Education Post 3,,Rep,Dana Michelle Stewart ,357,118,9,0,230
+Gordon,Oakman,County Board of Education Post 3,,Rep,Dana Michelle Stewart ,670,160,13,1,496
+Gordon,Gordon County,County Board of Education Post 3,,Rep,Dana Michelle Stewart ,2654,1403,91,3,1157
+Gordon,Lily Pond,County Board of Education Post 3,,Rep,Dana Michelle Stewart ,982,469,25,0,488
+Gordon,Fairmount,County Board of Education Post 3,,Rep,Dana Michelle Stewart ,1055,254,39,0,762
+Gordon,Red Bud,County Board of Education Post 3,,Rep,Dana Michelle Stewart ,1482,639,26,1,816
+Gordon,Resaca,County Board of Education Post 3,,Rep,Dana Michelle Stewart ,669,211,19,0,439
+Gordon,Sugar Valley,County Board of Education Post 5,,Rep,Kacee Smith ,767,286,12,1,468
+Gordon,Plainville,County Board of Education Post 5,,Rep,Kacee Smith ,918,362,21,2,533
+Gordon,Sonoraville,County Board of Education Post 5,,Rep,Kacee Smith ,2765,1191,63,0,1511
+Gordon,Pine Chapel,County Board of Education Post 5,,Rep,Kacee Smith ,571,193,17,0,361
+Gordon,Oostanaula,County Board of Education Post 5,,Rep,Kacee Smith ,355,118,9,0,228
+Gordon,Oakman,County Board of Education Post 5,,Rep,Kacee Smith ,669,159,14,1,495
+Gordon,Gordon County,County Board of Education Post 5,,Rep,Kacee Smith ,2643,1394,92,3,1154
+Gordon,Lily Pond,County Board of Education Post 5,,Rep,Kacee Smith ,982,467,24,0,491
+Gordon,Fairmount,County Board of Education Post 5,,Rep,Kacee Smith ,1050,254,39,0,757
+Gordon,Red Bud,County Board of Education Post 5,,Rep,Kacee Smith ,1477,635,30,1,811
+Gordon,Resaca,County Board of Education Post 5,,Rep,Kacee Smith ,671,210,19,0,442
+Gordon,Sugar Valley,County Board of Education Post 7,,Rep,Eddie T. Hall ,772,287,12,1,472
+Gordon,Plainville,County Board of Education Post 7,,Rep,Eddie T. Hall ,916,361,21,2,532
+Gordon,Sonoraville,County Board of Education Post 7,,Rep,Eddie T. Hall ,2762,1197,63,0,1502
+Gordon,Pine Chapel,County Board of Education Post 7,,Rep,Eddie T. Hall ,574,192,17,0,365
+Gordon,Oostanaula,County Board of Education Post 7,,Rep,Eddie T. Hall ,348,117,9,0,222
+Gordon,Oakman,County Board of Education Post 7,,Rep,Eddie T. Hall ,665,156,14,1,494
+Gordon,Gordon County,County Board of Education Post 7,,Rep,Eddie T. Hall ,2662,1400,92,3,1167
+Gordon,Lily Pond,County Board of Education Post 7,,Rep,Eddie T. Hall ,975,464,24,0,487
+Gordon,Fairmount,County Board of Education Post 7,,Rep,Eddie T. Hall ,1050,252,37,0,761
+Gordon,Red Bud,County Board of Education Post 7,,Rep,Eddie T. Hall ,1474,634,30,1,809
+Gordon,Resaca,County Board of Education Post 7,,Rep,Eddie T. Hall ,677,212,17,0,448
+Gordon,Sugar Valley,Coosa River Soil and Water,,,Jordon T. Fuquea,708,258,11,1,438
+Gordon,Plainville,Coosa River Soil and Water,,,Jordon T. Fuquea,859,329,19,2,509
+Gordon,Sonoraville,Coosa River Soil and Water,,,Jordon T. Fuquea,2558,1111,61,0,1386
+Gordon,Pine Chapel,Coosa River Soil and Water,,,Jordon T. Fuquea,538,181,18,0,339
+Gordon,Oostanaula,Coosa River Soil and Water,,,Jordon T. Fuquea,320,109,10,0,201
+Gordon,Oakman,Coosa River Soil and Water,,,Jordon T. Fuquea,619,151,11,1,456
+Gordon,Gordon County,Coosa River Soil and Water,,,Jordon T. Fuquea,2478,1314,80,3,1081
+Gordon,Calhoun City,Coosa River Soil and Water,,,Jordon T. Fuquea,3785,2237,168,2,1378
+Gordon,Lily Pond,Coosa River Soil and Water,,,Jordon T. Fuquea,861,417,22,0,422
+Gordon,Fairmount,Coosa River Soil and Water,,,Jordon T. Fuquea,974,241,34,0,699
+Gordon,Red Bud,Coosa River Soil and Water,,,Jordon T. Fuquea,1375,588,32,1,754
+Gordon,Resaca,Coosa River Soil and Water,,,Jordon T. Fuquea,625,185,21,0,419
+Gordon,Sugar Valley,Constitutional Amendment #1,,,Yes,719,278,11,0,430
+Gordon,Plainville,Constitutional Amendment #1,,,Yes,890,343,30,5,512
+Gordon,Sonoraville,Constitutional Amendment #1,,,Yes,2559,1128,64,0,1367
+Gordon,Pine Chapel,Constitutional Amendment #1,,,Yes,537,186,22,0,329
+Gordon,Oostanaula,Constitutional Amendment #1,,,Yes,331,114,12,0,205
+Gordon,Oakman,Constitutional Amendment #1,,,Yes,647,167,12,1,467
+Gordon,Gordon County,Constitutional Amendment #1,,,Yes,2554,1340,101,3,1110
+Gordon,Calhoun City,Constitutional Amendment #1,,,Yes,4008,2427,191,4,1386
+Gordon,Lily Pond,Constitutional Amendment #1,,,Yes,928,450,33,0,445
+Gordon,Fairmount,Constitutional Amendment #1,,,Yes,969,249,35,0,685
+Gordon,Red Bud,Constitutional Amendment #1,,,Yes,1428,637,40,1,750
+Gordon,Resaca,Constitutional Amendment #1,,,Yes,634,201,24,0,409
+Gordon,Sugar Valley,Constitutional Amendment #1,,,No,85,26,1,1,57
+Gordon,Plainville,Constitutional Amendment #1,,,No,110,45,2,0,63
+Gordon,Sonoraville,Constitutional Amendment #1,,,No,362,144,14,0,204
+Gordon,Pine Chapel,Constitutional Amendment #1,,,No,60,24,2,0,34
+Gordon,Oostanaula,Constitutional Amendment #1,,,No,52,18,2,0,32
+Gordon,Oakman,Constitutional Amendment #1,,,No,79,18,6,0,55
+Gordon,Gordon County,Constitutional Amendment #1,,,No,330,187,11,0,132
+Gordon,Calhoun City,Constitutional Amendment #1,,,No,445,247,23,0,175
+Gordon,Lily Pond,Constitutional Amendment #1,,,No,109,53,0,0,56
+Gordon,Fairmount,Constitutional Amendment #1,,,No,143,34,7,0,102
+Gordon,Red Bud,Constitutional Amendment #1,,,No,154,53,2,0,99
+Gordon,Resaca,Constitutional Amendment #1,,,No,70,19,0,0,51
+Gordon,Sugar Valley,Constitutional Amendment #2,,,Yes,756,293,13,1,449
+Gordon,Plainville,Constitutional Amendment #2,,,Yes,935,361,32,5,537
+Gordon,Sonoraville,Constitutional Amendment #2,,,Yes,2743,1201,74,0,1468
+Gordon,Pine Chapel,Constitutional Amendment #2,,,Yes,551,195,22,0,334
+Gordon,Oostanaula,Constitutional Amendment #2,,,Yes,354,117,11,0,226
+Gordon,Oakman,Constitutional Amendment #2,,,Yes,681,163,16,1,501
+Gordon,Gordon County,Constitutional Amendment #2,,,Yes,2739,1433,112,3,1191
+Gordon,Calhoun City,Constitutional Amendment #2,,,Yes,4160,2504,194,3,1459
+Gordon,Lily Pond,Constitutional Amendment #2,,,Yes,976,467,32,0,477
+Gordon,Fairmount,Constitutional Amendment #2,,,Yes,1032,267,37,0,728
+Gordon,Red Bud,Constitutional Amendment #2,,,Yes,1502,661,38,1,802
+Gordon,Resaca,Constitutional Amendment #2,,,Yes,663,205,24,0,434
+Gordon,Sugar Valley,Constitutional Amendment #2,,,No,53,15,0,0,38
+Gordon,Plainville,Constitutional Amendment #2,,,No,67,26,0,0,41
+Gordon,Sonoraville,Constitutional Amendment #2,,,No,205,89,7,0,109
+Gordon,Pine Chapel,Constitutional Amendment #2,,,No,53,18,2,0,33
+Gordon,Oostanaula,Constitutional Amendment #2,,,No,34,16,2,0,16
+Gordon,Oakman,Constitutional Amendment #2,,,No,41,20,1,0,20
+Gordon,Gordon County,Constitutional Amendment #2,,,No,179,110,1,0,68
+Gordon,Calhoun City,Constitutional Amendment #2,,,No,319,191,16,0,112
+Gordon,Lily Pond,Constitutional Amendment #2,,,No,60,26,2,0,32
+Gordon,Fairmount,Constitutional Amendment #2,,,No,84,16,5,0,63
+Gordon,Red Bud,Constitutional Amendment #2,,,No,92,37,3,0,52
+Gordon,Resaca,Constitutional Amendment #2,,,No,46,15,0,0,31
+Gordon,Sugar Valley,Statewide Referendum A,,,Yes,487,186,6,1,294
+Gordon,Plainville,Statewide Referendum A,,,Yes,617,217,14,4,382
+Gordon,Sonoraville,Statewide Referendum A,,,Yes,1752,715,38,0,999
+Gordon,Pine Chapel,Statewide Referendum A,,,Yes,357,121,9,0,227
+Gordon,Oostanaula,Statewide Referendum A,,,Yes,222,68,5,0,149
+Gordon,Oakman,Statewide Referendum A,,,Yes,458,100,10,1,347
+Gordon,Gordon County,Statewide Referendum A,,,Yes,1796,928,52,3,813
+Gordon,Calhoun City,Statewide Referendum A,,,Yes,2616,1502,101,1,1012
+Gordon,Lily Pond,Statewide Referendum A,,,Yes,601,284,10,0,307
+Gordon,Fairmount,Statewide Referendum A,,,Yes,705,165,22,0,518
+Gordon,Red Bud,Statewide Referendum A,,,Yes,980,390,15,1,574
+Gordon,Resaca,Statewide Referendum A,,,Yes,445,139,15,0,291
+Gordon,Sugar Valley,Statewide Referendum A,,,No,291,111,4,0,176
+Gordon,Plainville,Statewide Referendum A,,,No,370,165,18,1,186
+Gordon,Sonoraville,Statewide Referendum A,,,No,1131,543,41,0,547
+Gordon,Pine Chapel,Statewide Referendum A,,,No,231,82,14,0,135
+Gordon,Oostanaula,Statewide Referendum A,,,No,159,61,9,0,89
+Gordon,Oakman,Statewide Referendum A,,,No,255,80,5,0,170
+Gordon,Gordon County,Statewide Referendum A,,,No,1034,575,51,0,408
+Gordon,Calhoun City,Statewide Referendum A,,,No,1738,1108,97,2,531
+Gordon,Lily Pond,Statewide Referendum A,,,No,408,200,22,0,186
+Gordon,Fairmount,Statewide Referendum A,,,No,406,114,21,0,271
+Gordon,Red Bud,Statewide Referendum A,,,No,577,289,24,0,264
+Gordon,Resaca,Statewide Referendum A,,,No,246,77,8,0,161
+Gordon,Sugar Valley,Statewide Referendum B,,,Yes,633,238,8,1,386
+Gordon,Plainville,Statewide Referendum B,,,Yes,819,303,21,5,490
+Gordon,Sonoraville,Statewide Referendum B,,,Yes,2353,998,53,0,1302
+Gordon,Pine Chapel,Statewide Referendum B,,,Yes,460,161,17,0,282
+Gordon,Oostanaula,Statewide Referendum B,,,Yes,298,91,7,0,200
+Gordon,Oakman,Statewide Referendum B,,,Yes,599,140,11,1,447
+Gordon,Gordon County,Statewide Referendum B,,,Yes,2309,1210,76,3,1020
+Gordon,Calhoun City,Statewide Referendum B,,,Yes,3384,1972,149,2,1261
+Gordon,Lily Pond,Statewide Referendum B,,,Yes,812,378,22,0,412
+Gordon,Fairmount,Statewide Referendum B,,,Yes,902,229,32,0,641
+Gordon,Red Bud,Statewide Referendum B,,,Yes,1254,528,27,1,698
+Gordon,Resaca,Statewide Referendum B,,,Yes,565,176,18,0,371
+Gordon,Sugar Valley,Statewide Referendum B,,,No,153,58,3,0,92
+Gordon,Plainville,Statewide Referendum B,,,No,169,79,11,0,79
+Gordon,Sonoraville,Statewide Referendum B,,,No,549,267,28,0,254
+Gordon,Pine Chapel,Statewide Referendum B,,,No,131,45,6,0,80
+Gordon,Oostanaula,Statewide Referendum B,,,No,80,35,5,0,40
+Gordon,Oakman,Statewide Referendum B,,,No,118,40,4,0,74
+Gordon,Gordon County,Statewide Referendum B,,,No,542,304,31,0,207
+Gordon,Calhoun City,Statewide Referendum B,,,No,956,625,47,1,283
+Gordon,Lily Pond,Statewide Referendum B,,,No,197,106,10,0,81
+Gordon,Fairmount,Statewide Referendum B,,,No,205,55,10,0,140
+Gordon,Red Bud,Statewide Referendum B,,,No,302,156,14,0,132
+Gordon,Resaca,Statewide Referendum B,,,No,125,40,5,0,80
+Gordon,Sugar Valley,Sunday Sales by the Drink Referendum,,,Yes,463,168,8,1,286
+Gordon,Plainville,Sunday Sales by the Drink Referendum,,,Yes,568,211,19,2,336
+Gordon,Sonoraville,Sunday Sales by the Drink Referendum,,,Yes,1762,724,44,0,994
+Gordon,Pine Chapel,Sunday Sales by the Drink Referendum,,,Yes,337,110,11,0,216
+Gordon,Oostanaula,Sunday Sales by the Drink Referendum,,,Yes,209,76,9,0,124
+Gordon,Oakman,Sunday Sales by the Drink Referendum,,,Yes,442,107,8,0,327
+Gordon,Gordon County,Sunday Sales by the Drink Referendum,,,Yes,1693,869,56,0,768
+Gordon,Calhoun City,Sunday Sales by the Drink Referendum,,,Yes,2901,1687,126,4,1084
+Gordon,Lily Pond,Sunday Sales by the Drink Referendum,,,Yes,600,288,17,0,295
+Gordon,Fairmount,Sunday Sales by the Drink Referendum,,,Yes,654,162,21,0,471
+Gordon,Red Bud,Sunday Sales by the Drink Referendum,,,Yes,989,432,25,1,531
+Gordon,Resaca,Sunday Sales by the Drink Referendum,,,Yes,379,112,13,0,254
+Gordon,Sugar Valley,Sunday Sales by the Drink Referendum,,,No,347,138,4,0,205
+Gordon,Plainville,Sunday Sales by the Drink Referendum,,,No,433,175,13,3,242
+Gordon,Sonoraville,Sunday Sales by the Drink Referendum,,,No,1185,558,38,0,589
+Gordon,Pine Chapel,Sunday Sales by the Drink Referendum,,,No,267,101,13,0,153
+Gordon,Oostanaula,Sunday Sales by the Drink Referendum,,,No,182,57,5,0,120
+Gordon,Oakman,Sunday Sales by the Drink Referendum,,,No,288,78,9,1,200
+Gordon,Gordon County,Sunday Sales by the Drink Referendum,,,No,1224,674,59,3,488
+Gordon,Calhoun City,Sunday Sales by the Drink Referendum,,,No,1584,1002,92,0,490
+Gordon,Lily Pond,Sunday Sales by the Drink Referendum,,,No,443,216,17,0,210
+Gordon,Fairmount,Sunday Sales by the Drink Referendum,,,No,474,124,21,0,329
+Gordon,Red Bud,Sunday Sales by the Drink Referendum,,,No,608,265,17,0,326
+Gordon,Resaca,Sunday Sales by the Drink Referendum,,,No,340,109,10,0,221
+Gordon,Sugar Valley,Sunday Sales by the Package Referendum,,,Yes,472,174,5,1,292
+Gordon,Plainville,Sunday Sales by the Package Referendum,,,Yes,560,212,17,1,330
+Gordon,Sonoraville,Sunday Sales by the Package Referendum,,,Yes,1765,736,42,0,987
+Gordon,Pine Chapel,Sunday Sales by the Package Referendum,,,Yes,350,113,13,0,224
+Gordon,Oostanaula,Sunday Sales by the Package Referendum,,,Yes,218,82,9,0,127
+Gordon,Oakman,Sunday Sales by the Package Referendum,,,Yes,454,110,10,0,334
+Gordon,Gordon County,Sunday Sales by the Package Referendum,,,Yes,1712,882,57,0,773
+Gordon,Calhoun City,Sunday Sales by the Package Referendum,,,Yes,2891,1686,126,3,1076
+Gordon,Lily Pond,Sunday Sales by the Package Referendum,,,Yes,613,284,16,0,313
+Gordon,Fairmount,Sunday Sales by the Package Referendum,,,Yes,667,165,23,0,479
+Gordon,Red Bud,Sunday Sales by the Package Referendum,,,Yes,973,428,23,1,521
+Gordon,Resaca,Sunday Sales by the Package Referendum,,,Yes,384,113,13,0,258
+Gordon,Sugar Valley,Sunday Sales by the Package Referendum,,,No,338,134,5,0,199
+Gordon,Plainville,Sunday Sales by the Package Referendum,,,No,436,175,11,4,246
+Gordon,Sonoraville,Sunday Sales by the Package Referendum,,,No,1180,549,34,0,597
+Gordon,Pine Chapel,Sunday Sales by the Package Referendum,,,No,261,100,11,0,150
+Gordon,Oostanaula,Sunday Sales by the Package Referendum,,,No,174,51,5,0,118
+Gordon,Oakman,Sunday Sales by the Package Referendum,,,No,279,74,8,1,196
+Gordon,Gordon County,Sunday Sales by the Package Referendum,,,No,1201,665,53,2,481
+Gordon,Calhoun City,Sunday Sales by the Package Referendum,,,No,1597,1007,91,0,499
+Gordon,Lily Pond,Sunday Sales by the Package Referendum,,,No,434,219,17,0,198
+Gordon,Fairmount,Sunday Sales by the Package Referendum,,,No,462,120,17,0,325
+Gordon,Red Bud,Sunday Sales by the Package Referendum,,,No,629,271,18,0,340
+Gordon,Resaca,Sunday Sales by the Package Referendum,,,No,336,110,11,0,215

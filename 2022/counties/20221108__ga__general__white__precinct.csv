@@ -1,0 +1,436 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+White,Blue Creek,U.S. Senate,,Rep,Herschel Junior Walker,1189,631,52,0,506
+White,Blue Ridge,U.S. Senate,,Rep,Herschel Junior Walker,537,284,20,0,233
+White,Robertstown-Helen,U.S. Senate,,Rep,Herschel Junior Walker,444,213,15,0,216
+White,Mossy Creek,U.S. Senate,,Rep,Herschel Junior Walker,1668,821,56,1,790
+White,Mt Yonah,U.S. Senate,,Rep,Herschel Junior Walker,2106,1298,93,1,714
+White,Nacoochee,U.S. Senate,,Rep,Herschel Junior Walker,722,425,37,0,260
+White,Shoal Creek,U.S. Senate,,Rep,Herschel Junior Walker,1203,579,35,0,589
+White,Tesnatee,U.S. Senate,,Rep,Herschel Junior Walker,616,360,24,0,232
+White,Town Creek,U.S. Senate,,Rep,Herschel Junior Walker,810,398,29,0,383
+White,White Creek,U.S. Senate,,Rep,Herschel Junior Walker,954,470,47,0,437
+White,Blue Creek,U.S. Senate,,Dem,Raphael Warnock ,322,200,36,0,86
+White,Blue Ridge,U.S. Senate,,Dem,Raphael Warnock ,97,56,6,0,35
+White,Robertstown-Helen,U.S. Senate,,Dem,Raphael Warnock ,140,86,8,0,46
+White,Mossy Creek,U.S. Senate,,Dem,Raphael Warnock ,213,117,13,0,83
+White,Mt Yonah,U.S. Senate,,Dem,Raphael Warnock ,438,296,37,0,105
+White,Nacoochee,U.S. Senate,,Dem,Raphael Warnock ,299,162,48,0,89
+White,Shoal Creek,U.S. Senate,,Dem,Raphael Warnock ,168,96,26,0,46
+White,Tesnatee,U.S. Senate,,Dem,Raphael Warnock ,124,79,13,0,32
+White,Town Creek,U.S. Senate,,Dem,Raphael Warnock ,173,101,27,0,45
+White,White Creek,U.S. Senate,,Dem,Raphael Warnock ,89,55,11,0,23
+White,Blue Creek,U.S. Senate,,Lib,Chase Oliver,41,16,4,0,21
+White,Blue Ridge,U.S. Senate,,Lib,Chase Oliver,11,1,1,0,9
+White,Robertstown-Helen,U.S. Senate,,Lib,Chase Oliver,21,9,0,0,12
+White,Mossy Creek,U.S. Senate,,Lib,Chase Oliver,56,26,2,0,28
+White,Mt Yonah,U.S. Senate,,Lib,Chase Oliver,61,34,6,0,21
+White,Nacoochee,U.S. Senate,,Lib,Chase Oliver,28,14,3,0,11
+White,Shoal Creek,U.S. Senate,,Lib,Chase Oliver,37,19,2,0,16
+White,Tesnatee,U.S. Senate,,Lib,Chase Oliver,26,9,5,0,12
+White,Town Creek,U.S. Senate,,Lib,Chase Oliver,36,12,0,0,24
+White,White Creek,U.S. Senate,,Lib,Chase Oliver,31,8,0,0,23
+White,Blue Creek,Governor,,Rep,Brian Kemp ,1292,677,66,0,549
+White,Blue Ridge,Governor,,Rep,Brian Kemp ,574,297,23,0,254
+White,Robertstown-Helen,Governor,,Rep,Brian Kemp ,490,229,18,0,243
+White,Mossy Creek,Governor,,Rep,Brian Kemp ,1755,863,60,1,831
+White,Mt Yonah,Governor,,Rep,Brian Kemp ,2266,1412,106,1,747
+White,Nacoochee,Governor,,Rep,Brian Kemp ,792,463,46,0,283
+White,Shoal Creek,Governor,,Rep,Brian Kemp ,1274,623,42,0,609
+White,Tesnatee,Governor,,Rep,Brian Kemp ,677,391,35,0,251
+White,Town Creek,Governor,,Rep,Brian Kemp ,871,419,35,0,417
+White,White Creek,Governor,,Rep,Brian Kemp ,1008,496,49,0,463
+White,Blue Creek,Governor,,Dem,Stacey Abrams,258,168,27,0,63
+White,Blue Ridge,Governor,,Dem,Stacey Abrams,72,44,4,0,24
+White,Robertstown-Helen,Governor,,Dem,Stacey Abrams,117,77,7,0,33
+White,Mossy Creek,Governor,,Dem,Stacey Abrams,162,92,11,0,59
+White,Mt Yonah,Governor,,Dem,Stacey Abrams,334,226,31,0,77
+White,Nacoochee,Governor,,Dem,Stacey Abrams,253,139,42,0,72
+White,Shoal Creek,Governor,,Dem,Stacey Abrams,124,73,20,0,31
+White,Tesnatee,Governor,,Dem,Stacey Abrams,98,60,10,0,28
+White,Town Creek,Governor,,Dem,Stacey Abrams,134,88,20,0,26
+White,White Creek,Governor,,Dem,Stacey Abrams,66,45,8,0,13
+White,Blue Creek,Governor,,Lib,Shane Hazel,12,6,0,0,6
+White,Blue Ridge,Governor,,Lib,Shane Hazel,3,2,0,0,1
+White,Robertstown-Helen,Governor,,Lib,Shane Hazel,5,4,0,0,1
+White,Mossy Creek,Governor,,Lib,Shane Hazel,25,15,0,0,10
+White,Mt Yonah,Governor,,Lib,Shane Hazel,23,6,3,0,14
+White,Nacoochee,Governor,,Lib,Shane Hazel,7,3,0,0,4
+White,Shoal Creek,Governor,,Lib,Shane Hazel,11,3,0,0,8
+White,Tesnatee,Governor,,Lib,Shane Hazel,5,4,0,0,1
+White,Town Creek,Governor,,Lib,Shane Hazel,14,5,1,0,8
+White,White Creek,Governor,,Lib,Shane Hazel,8,0,2,0,6
+White,Blue Creek,Lieutenant Governor,,Rep,Burt Jones,1225,647,58,0,520
+White,Blue Ridge,Lieutenant Governor,,Rep,Burt Jones,547,286,23,0,238
+White,Robertstown-Helen,Lieutenant Governor,,Rep,Burt Jones,461,214,17,0,230
+White,Mossy Creek,Lieutenant Governor,,Rep,Burt Jones,1720,850,59,1,810
+White,Mt Yonah,Lieutenant Governor,,Rep,Burt Jones,2181,1354,98,0,729
+White,Nacoochee,Lieutenant Governor,,Rep,Burt Jones,755,441,43,0,271
+White,Shoal Creek,Lieutenant Governor,,Rep,Burt Jones,1233,603,36,0,594
+White,Tesnatee,Lieutenant Governor,,Rep,Burt Jones,647,379,31,0,237
+White,Town Creek,Lieutenant Governor,,Rep,Burt Jones,835,404,29,0,402
+White,White Creek,Lieutenant Governor,,Rep,Burt Jones,983,484,49,0,450
+White,Blue Creek,Lieutenant Governor,,Dem,Charlie Bailey,298,187,33,0,78
+White,Blue Ridge,Lieutenant Governor,,Dem,Charlie Bailey,87,48,4,0,35
+White,Robertstown-Helen,Lieutenant Governor,,Dem,Charlie Bailey,133,86,8,0,39
+White,Mossy Creek,Lieutenant Governor,,Dem,Charlie Bailey,176,99,11,0,66
+White,Mt Yonah,Lieutenant Governor,,Dem,Charlie Bailey,379,259,37,1,82
+White,Nacoochee,Lieutenant Governor,,Dem,Charlie Bailey,277,151,45,0,81
+White,Shoal Creek,Lieutenant Governor,,Dem,Charlie Bailey,137,78,24,0,35
+White,Tesnatee,Lieutenant Governor,,Dem,Charlie Bailey,115,68,13,0,34
+White,Town Creek,Lieutenant Governor,,Dem,Charlie Bailey,151,95,26,0,30
+White,White Creek,Lieutenant Governor,,Dem,Charlie Bailey,76,50,10,0,16
+White,Blue Creek,Lieutenant Governor,,Lib,Ryan Graham,29,13,1,0,15
+White,Blue Ridge,Lieutenant Governor,,Lib,Ryan Graham,11,7,0,0,4
+White,Robertstown-Helen,Lieutenant Governor,,Lib,Ryan Graham,10,6,0,0,4
+White,Mossy Creek,Lieutenant Governor,,Lib,Ryan Graham,44,18,0,0,26
+White,Mt Yonah,Lieutenant Governor,,Lib,Ryan Graham,53,24,4,0,25
+White,Nacoochee,Lieutenant Governor,,Lib,Ryan Graham,16,10,0,0,6
+White,Shoal Creek,Lieutenant Governor,,Lib,Ryan Graham,36,15,2,0,19
+White,Tesnatee,Lieutenant Governor,,Lib,Ryan Graham,11,6,1,0,4
+White,Town Creek,Lieutenant Governor,,Lib,Ryan Graham,30,11,1,0,18
+White,White Creek,Lieutenant Governor,,Lib,Ryan Graham,19,3,0,0,16
+White,Blue Creek,Secretary of State,,Rep,Brad Raffensperger ,1213,648,65,0,500
+White,Blue Ridge,Secretary of State,,Rep,Brad Raffensperger ,551,288,23,0,240
+White,Robertstown-Helen,Secretary of State,,Rep,Brad Raffensperger ,474,225,19,0,230
+White,Mossy Creek,Secretary of State,,Rep,Brad Raffensperger ,1669,817,55,1,796
+White,Mt Yonah,Secretary of State,,Rep,Brad Raffensperger ,2150,1340,105,1,704
+White,Nacoochee,Secretary of State,,Rep,Brad Raffensperger ,768,449,49,0,270
+White,Shoal Creek,Secretary of State,,Rep,Brad Raffensperger ,1210,604,41,0,565
+White,Tesnatee,Secretary of State,,Rep,Brad Raffensperger ,634,362,32,0,240
+White,Town Creek,Secretary of State,,Rep,Brad Raffensperger ,818,394,32,0,392
+White,White Creek,Secretary of State,,Rep,Brad Raffensperger ,947,462,54,0,431
+White,Blue Creek,Secretary of State,,Dem,Bee Nguyen,255,159,26,0,70
+White,Blue Ridge,Secretary of State,,Dem,Bee Nguyen,69,42,3,0,24
+White,Robertstown-Helen,Secretary of State,,Dem,Bee Nguyen,108,69,6,0,33
+White,Mossy Creek,Secretary of State,,Dem,Bee Nguyen,159,91,14,0,54
+White,Mt Yonah,Secretary of State,,Dem,Bee Nguyen,325,215,31,0,79
+White,Nacoochee,Secretary of State,,Dem,Bee Nguyen,235,130,38,0,67
+White,Shoal Creek,Secretary of State,,Dem,Bee Nguyen,129,66,22,0,41
+White,Tesnatee,Secretary of State,,Dem,Bee Nguyen,96,59,11,0,26
+White,Town Creek,Secretary of State,,Dem,Bee Nguyen,135,88,22,0,25
+White,White Creek,Secretary of State,,Dem,Bee Nguyen,78,51,5,0,22
+White,Blue Creek,Secretary of State,,Lib,Ted Metz,74,36,1,0,37
+White,Blue Ridge,Secretary of State,,Lib,Ted Metz,25,12,1,0,12
+White,Robertstown-Helen,Secretary of State,,Lib,Ted Metz,22,14,0,0,8
+White,Mossy Creek,Secretary of State,,Lib,Ted Metz,92,44,2,0,46
+White,Mt Yonah,Secretary of State,,Lib,Ted Metz,119,69,3,0,47
+White,Nacoochee,Secretary of State,,Lib,Ted Metz,44,21,0,0,23
+White,Shoal Creek,Secretary of State,,Lib,Ted Metz,58,20,0,0,38
+White,Tesnatee,Secretary of State,,Lib,Ted Metz,34,22,2,0,10
+White,Town Creek,Secretary of State,,Lib,Ted Metz,57,25,1,0,31
+White,White Creek,Secretary of State,,Lib,Ted Metz,49,21,0,0,28
+White,Blue Creek,Attorney General,,Rep,Chris Carr ,1229,646,60,0,523
+White,Blue Ridge,Attorney General,,Rep,Chris Carr ,549,287,22,0,240
+White,Robertstown-Helen,Attorney General,,Rep,Chris Carr ,465,218,17,0,230
+White,Mossy Creek,Attorney General,,Rep,Chris Carr ,1714,847,58,1,808
+White,Mt Yonah,Attorney General,,Rep,Chris Carr ,2189,1359,102,1,727
+White,Nacoochee,Attorney General,,Rep,Chris Carr ,769,449,44,0,276
+White,Shoal Creek,Attorney General,,Rep,Chris Carr ,1240,609,39,0,592
+White,Tesnatee,Attorney General,,Rep,Chris Carr ,648,379,31,0,238
+White,Town Creek,Attorney General,,Rep,Chris Carr ,840,416,26,0,398
+White,White Creek,Attorney General,,Rep,Chris Carr ,978,480,52,0,446
+White,Blue Creek,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",297,187,32,0,78
+White,Blue Ridge,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",87,53,5,0,29
+White,Robertstown-Helen,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",133,85,7,0,41
+White,Mossy Creek,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",184,103,12,0,69
+White,Mt Yonah,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",383,258,37,0,88
+White,Nacoochee,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",262,146,43,0,73
+White,Shoal Creek,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",145,80,23,0,42
+White,Tesnatee,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",111,65,13,0,33
+White,Town Creek,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",150,90,28,0,32
+White,White Creek,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",84,53,6,0,25
+White,Blue Creek,Attorney General,,Lib,Martin Cowen,26,13,1,0,12
+White,Blue Ridge,Attorney General,,Lib,Martin Cowen,11,4,0,0,7
+White,Robertstown-Helen,Attorney General,,Lib,Martin Cowen,6,4,1,0,1
+White,Mossy Creek,Attorney General,,Lib,Martin Cowen,35,14,0,0,21
+White,Mt Yonah,Attorney General,,Lib,Martin Cowen,37,17,1,0,19
+White,Nacoochee,Attorney General,,Lib,Martin Cowen,17,6,1,0,10
+White,Shoal Creek,Attorney General,,Lib,Martin Cowen,21,9,0,0,12
+White,Tesnatee,Attorney General,,Lib,Martin Cowen,9,5,1,0,3
+White,Town Creek,Attorney General,,Lib,Martin Cowen,22,5,0,0,17
+White,White Creek,Attorney General,,Lib,Martin Cowen,18,7,0,0,11
+White,Blue Creek,Commissioner of Agriculture,,Rep,Tyler Harper,1245,654,64,0,527
+White,Blue Ridge,Commissioner of Agriculture,,Rep,Tyler Harper,556,289,23,0,244
+White,Robertstown-Helen,Commissioner of Agriculture,,Rep,Tyler Harper,474,228,17,0,229
+White,Mossy Creek,Commissioner of Agriculture,,Rep,Tyler Harper,1734,856,58,1,819
+White,Mt Yonah,Commissioner of Agriculture,,Rep,Tyler Harper,2227,1385,107,1,734
+White,Nacoochee,Commissioner of Agriculture,,Rep,Tyler Harper,781,457,47,0,277
+White,Shoal Creek,Commissioner of Agriculture,,Rep,Tyler Harper,1247,613,37,0,597
+White,Tesnatee,Commissioner of Agriculture,,Rep,Tyler Harper,669,391,34,0,244
+White,Town Creek,Commissioner of Agriculture,,Rep,Tyler Harper,848,414,28,0,406
+White,White Creek,Commissioner of Agriculture,,Rep,Tyler Harper,989,488,49,0,452
+White,Blue Creek,Commissioner of Agriculture,,Dem,Nakita Hemingway,270,170,29,0,71
+White,Blue Ridge,Commissioner of Agriculture,,Dem,Nakita Hemingway,80,48,4,0,28
+White,Robertstown-Helen,Commissioner of Agriculture,,Dem,Nakita Hemingway,115,74,7,0,34
+White,Mossy Creek,Commissioner of Agriculture,,Dem,Nakita Hemingway,149,85,11,0,53
+White,Mt Yonah,Commissioner of Agriculture,,Dem,Nakita Hemingway,331,221,31,0,79
+White,Nacoochee,Commissioner of Agriculture,,Dem,Nakita Hemingway,247,133,41,0,73
+White,Shoal Creek,Commissioner of Agriculture,,Dem,Nakita Hemingway,122,66,24,0,32
+White,Tesnatee,Commissioner of Agriculture,,Dem,Nakita Hemingway,93,56,10,0,27
+White,Town Creek,Commissioner of Agriculture,,Dem,Nakita Hemingway,129,83,25,0,21
+White,White Creek,Commissioner of Agriculture,,Dem,Nakita Hemingway,69,41,9,0,19
+White,Blue Creek,Commissioner of Agriculture,,Lib,David Raudabaugh,40,22,1,0,17
+White,Blue Ridge,Commissioner of Agriculture,,Lib,David Raudabaugh,13,6,0,0,7
+White,Robertstown-Helen,Commissioner of Agriculture,,Lib,David Raudabaugh,17,8,1,0,8
+White,Mossy Creek,Commissioner of Agriculture,,Lib,David Raudabaugh,44,19,0,0,25
+White,Mt Yonah,Commissioner of Agriculture,,Lib,David Raudabaugh,48,24,2,0,22
+White,Nacoochee,Commissioner of Agriculture,,Lib,David Raudabaugh,19,10,0,0,9
+White,Shoal Creek,Commissioner of Agriculture,,Lib,David Raudabaugh,37,18,1,0,18
+White,Tesnatee,Commissioner of Agriculture,,Lib,David Raudabaugh,10,6,1,0,3
+White,Town Creek,Commissioner of Agriculture,,Lib,David Raudabaugh,33,11,2,0,20
+White,White Creek,Commissioner of Agriculture,,Lib,David Raudabaugh,22,10,1,0,11
+White,Blue Creek,Commissioner of Insurance,,Rep,John King ,1264,662,64,0,538
+White,Blue Ridge,Commissioner of Insurance,,Rep,John King ,567,296,22,0,249
+White,Robertstown-Helen,Commissioner of Insurance,,Rep,John King ,479,224,18,0,237
+White,Mossy Creek,Commissioner of Insurance,,Rep,John King ,1755,863,60,1,831
+White,Mt Yonah,Commissioner of Insurance,,Rep,John King ,2240,1383,107,1,749
+White,Nacoochee,Commissioner of Insurance,,Rep,John King ,787,459,45,0,283
+White,Shoal Creek,Commissioner of Insurance,,Rep,John King ,1265,622,38,0,605
+White,Tesnatee,Commissioner of Insurance,,Rep,John King ,665,390,31,0,244
+White,Town Creek,Commissioner of Insurance,,Rep,John King ,862,418,28,0,416
+White,White Creek,Commissioner of Insurance,,Rep,John King ,998,491,49,0,458
+White,Blue Creek,Commissioner of Insurance,,Dem,Janice Laws Robinson,285,180,29,0,76
+White,Blue Ridge,Commissioner of Insurance,,Dem,Janice Laws Robinson,78,44,5,0,29
+White,Robertstown-Helen,Commissioner of Insurance,,Dem,Janice Laws Robinson,122,80,7,0,35
+White,Mossy Creek,Commissioner of Insurance,,Dem,Janice Laws Robinson,171,97,10,0,64
+White,Mt Yonah,Commissioner of Insurance,,Dem,Janice Laws Robinson,355,240,32,0,83
+White,Nacoochee,Commissioner of Insurance,,Dem,Janice Laws Robinson,258,141,43,0,74
+White,Shoal Creek,Commissioner of Insurance,,Dem,Janice Laws Robinson,137,73,24,0,40
+White,Tesnatee,Commissioner of Insurance,,Dem,Janice Laws Robinson,103,60,13,0,30
+White,Town Creek,Commissioner of Insurance,,Dem,Janice Laws Robinson,143,89,25,0,29
+White,White Creek,Commissioner of Insurance,,Dem,Janice Laws Robinson,75,43,10,0,22
+White,Blue Creek,State School Superintendent,,Rep,Richard Woods ,1281,673,65,0,543
+White,Blue Ridge,State School Superintendent,,Rep,Richard Woods ,565,292,22,0,251
+White,Robertstown-Helen,State School Superintendent,,Rep,Richard Woods ,473,223,18,0,232
+White,Mossy Creek,State School Superintendent,,Rep,Richard Woods ,1753,864,59,1,829
+White,Mt Yonah,State School Superintendent,,Rep,Richard Woods ,2251,1387,108,1,755
+White,Nacoochee,State School Superintendent,,Rep,Richard Woods ,784,460,45,0,279
+White,Shoal Creek,State School Superintendent,,Rep,Richard Woods ,1265,620,37,0,608
+White,Tesnatee,State School Superintendent,,Rep,Richard Woods ,670,393,32,0,245
+White,Town Creek,State School Superintendent,,Rep,Richard Woods ,861,415,30,0,416
+White,White Creek,State School Superintendent,,Rep,Richard Woods ,1000,495,52,0,453
+White,Blue Creek,State School Superintendent,,Dem,Alisha Thomas Searcy,274,173,29,0,72
+White,Blue Ridge,State School Superintendent,,Dem,Alisha Thomas Searcy,84,52,5,0,27
+White,Robertstown-Helen,State School Superintendent,,Dem,Alisha Thomas Searcy,128,82,7,0,39
+White,Mossy Creek,State School Superintendent,,Dem,Alisha Thomas Searcy,174,98,11,0,65
+White,Mt Yonah,State School Superintendent,,Dem,Alisha Thomas Searcy,354,240,32,0,82
+White,Nacoochee,State School Superintendent,,Dem,Alisha Thomas Searcy,263,142,43,0,78
+White,Shoal Creek,State School Superintendent,,Dem,Alisha Thomas Searcy,140,78,24,0,38
+White,Tesnatee,State School Superintendent,,Dem,Alisha Thomas Searcy,99,56,13,0,30
+White,Town Creek,State School Superintendent,,Dem,Alisha Thomas Searcy,148,94,24,0,30
+White,White Creek,State School Superintendent,,Dem,Alisha Thomas Searcy,76,42,7,0,27
+White,Blue Creek,Commissioner of Labor,,Rep,Bruce Thompson,1235,646,63,0,526
+White,Blue Ridge,Commissioner of Labor,,Rep,Bruce Thompson,549,286,23,0,240
+White,Robertstown-Helen,Commissioner of Labor,,Rep,Bruce Thompson,466,222,17,0,227
+White,Mossy Creek,Commissioner of Labor,,Rep,Bruce Thompson,1712,850,57,1,804
+White,Mt Yonah,Commissioner of Labor,,Rep,Bruce Thompson,2198,1368,101,0,729
+White,Nacoochee,Commissioner of Labor,,Rep,Bruce Thompson,776,456,45,0,275
+White,Shoal Creek,Commissioner of Labor,,Rep,Bruce Thompson,1230,602,37,0,591
+White,Tesnatee,Commissioner of Labor,,Rep,Bruce Thompson,657,385,30,0,242
+White,Town Creek,Commissioner of Labor,,Rep,Bruce Thompson,832,401,28,0,403
+White,White Creek,Commissioner of Labor,,Rep,Bruce Thompson,986,481,51,0,454
+White,Blue Creek,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",283,177,30,0,76
+White,Blue Ridge,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",77,46,4,0,27
+White,Robertstown-Helen,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",118,75,7,0,36
+White,Mossy Creek,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",167,95,12,0,60
+White,Mt Yonah,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",347,230,33,1,83
+White,Nacoochee,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",250,137,40,0,73
+White,Shoal Creek,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",128,72,21,0,35
+White,Tesnatee,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",102,63,12,0,27
+White,Town Creek,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",133,84,25,0,24
+White,White Creek,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",72,49,8,0,15
+White,Blue Creek,Commissioner of Labor,,Lib,Emily Anderson,31,19,1,0,11
+White,Blue Ridge,Commissioner of Labor,,Lib,Emily Anderson,17,8,0,0,9
+White,Robertstown-Helen,Commissioner of Labor,,Lib,Emily Anderson,19,10,1,0,8
+White,Mossy Creek,Commissioner of Labor,,Lib,Emily Anderson,50,18,1,0,31
+White,Mt Yonah,Commissioner of Labor,,Lib,Emily Anderson,60,32,4,0,24
+White,Nacoochee,Commissioner of Labor,,Lib,Emily Anderson,23,10,3,0,10
+White,Shoal Creek,Commissioner of Labor,,Lib,Emily Anderson,43,21,3,0,19
+White,Tesnatee,Commissioner of Labor,,Lib,Emily Anderson,9,4,2,0,3
+White,Town Creek,Commissioner of Labor,,Lib,Emily Anderson,43,21,1,0,21
+White,White Creek,Commissioner of Labor,,Lib,Emily Anderson,20,8,0,0,12
+White,Blue Creek,U.S. House,,Rep,Andrew Clyde ,1249,658,60,0,531
+White,Blue Ridge,U.S. House,,Rep,Andrew Clyde ,561,293,21,0,247
+White,Robertstown-Helen,U.S. House,,Rep,Andrew Clyde ,465,221,18,0,226
+White,Mossy Creek,U.S. House,,Rep,Andrew Clyde ,1729,847,58,1,823
+White,Mt Yonah,U.S. House,,Rep,Andrew Clyde ,2193,1349,105,1,738
+White,Nacoochee,U.S. House,,Rep,Andrew Clyde ,767,449,43,0,275
+White,Shoal Creek,U.S. House,,Rep,Andrew Clyde ,1251,610,39,0,602
+White,Tesnatee,U.S. House,,Rep,Andrew Clyde ,652,381,30,0,241
+White,Town Creek,U.S. House,,Rep,Andrew Clyde ,853,408,29,0,416
+White,White Creek,U.S. House,,Rep,Andrew Clyde ,991,487,52,0,452
+White,Blue Creek,U.S. House,,Dem,"Michael """"Mike"""" Ford",306,190,32,0,84
+White,Blue Ridge,U.S. House,,Dem,"Michael """"Mike"""" Ford",87,50,6,0,31
+White,Robertstown-Helen,U.S. House,,Dem,"Michael """"Mike"""" Ford",135,85,7,0,43
+White,Mossy Creek,U.S. House,,Dem,"Michael """"Mike"""" Ford",202,117,13,0,72
+White,Mt Yonah,U.S. House,,Dem,"Michael """"Mike"""" Ford",408,277,34,0,97
+White,Nacoochee,U.S. House,,Dem,"Michael """"Mike"""" Ford",279,153,44,0,82
+White,Shoal Creek,U.S. House,,Dem,"Michael """"Mike"""" Ford",151,86,23,0,42
+White,Tesnatee,U.S. House,,Dem,"Michael """"Mike"""" Ford",114,70,13,0,31
+White,Town Creek,U.S. House,,Dem,"Michael """"Mike"""" Ford",160,101,25,0,34
+White,White Creek,U.S. House,,Dem,"Michael """"Mike"""" Ford",85,50,7,0,28
+White,Blue Creek,State Senate,,Rep,Bo Hatchett ,1262,662,62,0,538
+White,Robertstown-Helen,State Senate,,Rep,Bo Hatchett ,469,220,18,0,231
+White,Mossy Creek,State Senate,,Rep,Bo Hatchett ,1746,855,59,1,831
+White,Nacoochee,State Senate,,Rep,Bo Hatchett ,775,452,45,0,278
+White,White Creek,State Senate,,Rep,Bo Hatchett ,1003,492,51,0,460
+White,Blue Creek,State Senate,,Dem,Paulette Williams,289,183,31,0,75
+White,Robertstown-Helen,State Senate,,Dem,Paulette Williams,131,85,7,0,39
+White,Mossy Creek,State Senate,,Dem,Paulette Williams,183,106,11,0,66
+White,Nacoochee,State Senate,,Dem,Paulette Williams,273,151,43,0,79
+White,White Creek,State Senate,,Dem,Paulette Williams,72,44,8,0,20
+White,Blue Ridge,State Senate,,Rep,Steve Gooch ,596,311,22,0,263
+White,Mt Yonah,State Senate,,Rep,Steve Gooch ,2399,1492,121,0,786
+White,Shoal Creek,State Senate,,Rep,Steve Gooch ,1315,647,45,0,623
+White,Tesnatee,State Senate,,Rep,Steve Gooch ,718,424,35,0,259
+White,Town Creek,State Senate,,Rep,Steve Gooch ,922,460,36,0,426
+White,Blue Creek,State House,,Rep,Stan Gunter ,1252,653,60,0,539
+White,Blue Ridge,State House,,Rep,Stan Gunter ,560,292,22,0,246
+White,Robertstown-Helen,State House,,Rep,Stan Gunter ,464,219,18,0,227
+White,Mossy Creek,State House,,Rep,Stan Gunter ,1739,857,59,0,823
+White,Mt Yonah,State House,,Rep,Stan Gunter ,2233,1382,106,1,744
+White,Nacoochee,State House,,Rep,Stan Gunter ,772,451,45,0,276
+White,Tesnatee,State House,,Rep,Stan Gunter ,667,387,33,0,247
+White,White Creek,State House,,Rep,Stan Gunter ,995,487,52,0,456
+White,Blue Creek,State House,,Dem,June Krise,301,192,34,0,75
+White,Blue Ridge,State House,,Dem,June Krise,86,50,5,0,31
+White,Robertstown-Helen,State House,,Dem,June Krise,139,87,7,0,45
+White,Mossy Creek,State House,,Dem,June Krise,189,107,10,0,72
+White,Mt Yonah,State House,,Dem,June Krise,372,247,32,0,93
+White,Nacoochee,State House,,Dem,June Krise,275,150,43,0,82
+White,Tesnatee,State House,,Dem,June Krise,105,64,12,0,29
+White,White Creek,State House,,Dem,June Krise,80,48,7,0,25
+White,Shoal Creek,State House,,Rep,Will Wade ,1305,643,42,0,620
+White,Town Creek,State House,,Rep,Will Wade ,914,452,35,0,427
+White,Blue Creek,District Attorney,,Rep,Jeff Langley ,1399,748,71,0,580
+White,Blue Ridge,District Attorney,,Rep,Jeff Langley ,592,309,22,0,261
+White,Robertstown-Helen,District Attorney,,Rep,Jeff Langley ,543,261,24,0,258
+White,Mossy Creek,District Attorney,,Rep,Jeff Langley ,1834,907,61,1,865
+White,Mt Yonah,District Attorney,,Rep,Jeff Langley ,2403,1493,120,1,789
+White,Nacoochee,District Attorney,,Rep,Jeff Langley ,912,526,58,0,328
+White,Shoal Creek,District Attorney,,Rep,Jeff Langley ,1317,648,44,0,625
+White,Tesnatee,District Attorney,,Rep,Jeff Langley ,718,424,34,0,260
+White,Town Creek,District Attorney,,Rep,Jeff Langley ,920,454,34,0,432
+White,White Creek,District Attorney,,Rep,Jeff Langley ,1046,524,53,0,469
+White,Mossy Creek,County Commission,,Rep,Lyn Holcomb ,1680,821,60,1,798
+White,Mt Yonah,County Commission,,Rep,Lyn Holcomb ,48,26,0,0,22
+White,White Creek,County Commission,,Rep,Lyn Holcomb ,958,468,50,0,440
+White,Mossy Creek,County Commission,,Dem,Mike Devincentis,219,123,10,0,86
+White,Mt Yonah,County Commission,,Dem,Mike Devincentis,2,1,0,0,1
+White,White Creek,County Commission,,Dem,Mike Devincentis,106,61,8,0,37
+White,Blue Ridge,County Commission,,Rep,Edwin Nix ,527,272,17,0,238
+White,Mt Yonah,County Commission,,Rep,Edwin Nix ,48,29,5,0,14
+White,Shoal Creek,County Commission,,Rep,Edwin Nix ,1298,635,46,0,617
+White,Town Creek,County Commission,,Rep,Edwin Nix ,921,459,39,0,423
+White,Blue Creek,County BOE,,Rep,John Solmon ,1389,746,68,0,575
+White,Blue Ridge,County BOE,,Rep,John Solmon ,590,305,21,0,264
+White,Robertstown-Helen,County BOE,,Rep,John Solmon ,549,266,24,0,259
+White,Mossy Creek,County BOE,,Rep,John Solmon ,1829,904,60,1,864
+White,Mt Yonah,County BOE,,Rep,John Solmon ,2395,1489,122,1,783
+White,Nacoochee,County BOE,,Rep,John Solmon ,898,521,51,0,326
+White,Shoal Creek,County BOE,,Rep,John Solmon ,1306,646,43,0,617
+White,Tesnatee,County BOE,,Rep,John Solmon ,722,425,36,0,261
+White,Town Creek,County BOE,,Rep,John Solmon ,916,456,34,0,426
+White,White Creek,County BOE,,Rep,John Solmon ,1047,520,55,0,472
+White,Blue Creek,County BOE,,Rep,Linda Erbele ,1412,762,72,0,578
+White,Blue Ridge,County BOE,,Rep,Linda Erbele ,596,313,19,0,264
+White,Robertstown-Helen,County BOE,,Rep,Linda Erbele ,553,272,24,0,257
+White,Mossy Creek,County BOE,,Rep,Linda Erbele ,1837,911,62,1,863
+White,Mt Yonah,County BOE,,Rep,Linda Erbele ,2401,1493,124,0,784
+White,Nacoochee,County BOE,,Rep,Linda Erbele ,924,536,61,0,327
+White,Shoal Creek,County BOE,,Rep,Linda Erbele ,1317,652,44,0,621
+White,Tesnatee,County BOE,,Rep,Linda Erbele ,720,423,36,0,261
+White,Town Creek,County BOE,,Rep,Linda Erbele ,919,456,35,0,428
+White,White Creek,County BOE,,Rep,Linda Erbele ,1047,521,55,0,471
+White,Blue Creek,Soil and Water Conservation District Supervisor,,,David B. Sills ,1355,728,74,0,553
+White,Blue Ridge,Soil and Water Conservation District Supervisor,,,David B. Sills ,569,297,19,0,253
+White,Robertstown-Helen,Soil and Water Conservation District Supervisor,,,David B. Sills ,531,265,24,0,242
+White,Mossy Creek,Soil and Water Conservation District Supervisor,,,David B. Sills ,1757,869,57,0,831
+White,Mt Yonah,Soil and Water Conservation District Supervisor,,,David B. Sills ,2330,1445,123,1,761
+White,Nacoochee,Soil and Water Conservation District Supervisor,,,David B. Sills ,905,519,67,0,319
+White,Shoal Creek,Soil and Water Conservation District Supervisor,,,David B. Sills ,1267,627,49,0,591
+White,Tesnatee,Soil and Water Conservation District Supervisor,,,David B. Sills ,688,401,36,0,251
+White,Town Creek,Soil and Water Conservation District Supervisor,,,David B. Sills ,899,444,42,0,413
+White,White Creek,Soil and Water Conservation District Supervisor,,,David B. Sills ,1001,491,52,0,458
+White,Blue Creek,Proposed Constitutional Amendment 1,,,Yes,1371,758,84,0,529
+White,Blue Ridge,Proposed Constitutional Amendment 1,,,Yes,562,301,25,0,236
+White,Robertstown-Helen,Proposed Constitutional Amendment 1,,,Yes,522,275,18,0,229
+White,Mossy Creek,Proposed Constitutional Amendment 1,,,Yes,1693,851,65,1,776
+White,Mt Yonah,Proposed Constitutional Amendment 1,,,Yes,2269,1426,117,1,725
+White,Nacoochee,Proposed Constitutional Amendment 1,,,Yes,927,545,73,0,309
+White,Shoal Creek,Proposed Constitutional Amendment 1,,,Yes,1206,594,57,0,555
+White,Tesnatee,Proposed Constitutional Amendment 1,,,Yes,682,392,44,0,246
+White,Town Creek,Proposed Constitutional Amendment 1,,,Yes,889,454,46,0,389
+White,White Creek,Proposed Constitutional Amendment 1,,,Yes,930,467,47,0,416
+White,Blue Creek,Proposed Constitutional Amendment 1,,,No,157,77,9,0,71
+White,Blue Ridge,Proposed Constitutional Amendment 1,,,No,73,35,2,0,36
+White,Robertstown-Helen,Proposed Constitutional Amendment 1,,,No,66,26,6,0,34
+White,Mossy Creek,Proposed Constitutional Amendment 1,,,No,206,92,4,0,110
+White,Mt Yonah,Proposed Constitutional Amendment 1,,,No,284,170,21,0,93
+White,Nacoochee,Proposed Constitutional Amendment 1,,,No,104,52,11,0,41
+White,Shoal Creek,Proposed Constitutional Amendment 1,,,No,166,85,6,0,75
+White,Tesnatee,Proposed Constitutional Amendment 1,,,No,69,41,0,0,28
+White,Town Creek,Proposed Constitutional Amendment 1,,,No,113,49,9,0,55
+White,White Creek,Proposed Constitutional Amendment 1,,,No,128,59,9,0,60
+White,Blue Creek,Proposed Constitutional Amendment 2,,,Yes,1395,775,82,0,538
+White,Blue Ridge,Proposed Constitutional Amendment 2,,,Yes,577,309,26,0,242
+White,Robertstown-Helen,Proposed Constitutional Amendment 2,,,Yes,550,281,24,0,245
+White,Mossy Creek,Proposed Constitutional Amendment 2,,,Yes,1735,868,62,1,804
+White,Mt Yonah,Proposed Constitutional Amendment 2,,,Yes,2355,1470,122,1,762
+White,Nacoochee,Proposed Constitutional Amendment 2,,,Yes,955,563,79,0,313
+White,Shoal Creek,Proposed Constitutional Amendment 2,,,Yes,1246,610,57,0,579
+White,Tesnatee,Proposed Constitutional Amendment 2,,,Yes,701,405,41,0,255
+White,Town Creek,Proposed Constitutional Amendment 2,,,Yes,924,465,47,0,412
+White,White Creek,Proposed Constitutional Amendment 2,,,Yes,958,469,52,0,437
+White,Blue Creek,Proposed Constitutional Amendment 2,,,No,141,65,11,0,65
+White,Blue Ridge,Proposed Constitutional Amendment 2,,,No,58,27,1,0,30
+White,Robertstown-Helen,Proposed Constitutional Amendment 2,,,No,47,22,0,0,25
+White,Mossy Creek,Proposed Constitutional Amendment 2,,,No,171,80,7,0,84
+White,Mt Yonah,Proposed Constitutional Amendment 2,,,No,217,139,16,0,62
+White,Nacoochee,Proposed Constitutional Amendment 2,,,No,89,40,6,0,43
+White,Shoal Creek,Proposed Constitutional Amendment 2,,,No,142,72,6,0,64
+White,Tesnatee,Proposed Constitutional Amendment 2,,,No,65,41,3,0,21
+White,Town Creek,Proposed Constitutional Amendment 2,,,No,86,42,8,0,36
+White,White Creek,Proposed Constitutional Amendment 2,,,No,103,57,4,0,42
+White,Blue Creek,Statewide Referendum Question 1,,,Yes,887,474,39,0,374
+White,Blue Ridge,Statewide Referendum Question 1,,,Yes,397,206,17,0,174
+White,Robertstown-Helen,Statewide Referendum Question 1,,,Yes,356,167,18,0,171
+White,Mossy Creek,Statewide Referendum Question 1,,,Yes,1228,591,31,1,605
+White,Mt Yonah,Statewide Referendum Question 1,,,Yes,1561,951,63,1,546
+White,Nacoochee,Statewide Referendum Question 1,,,Yes,598,347,40,0,211
+White,Shoal Creek,Statewide Referendum Question 1,,,Yes,867,434,26,0,407
+White,Tesnatee,Statewide Referendum Question 1,,,Yes,483,278,25,0,180
+White,Town Creek,Statewide Referendum Question 1,,,Yes,606,290,22,0,294
+White,White Creek,Statewide Referendum Question 1,,,Yes,709,338,33,0,338
+White,Blue Creek,Statewide Referendum Question 1,,,No,622,348,53,0,221
+White,Blue Ridge,Statewide Referendum Question 1,,,No,230,127,10,0,93
+White,Robertstown-Helen,Statewide Referendum Question 1,,,No,228,128,6,0,94
+White,Mossy Creek,Statewide Referendum Question 1,,,No,642,331,32,0,279
+White,Mt Yonah,Statewide Referendum Question 1,,,No,971,632,71,0,268
+White,Nacoochee,Statewide Referendum Question 1,,,No,429,247,45,0,137
+White,Shoal Creek,Statewide Referendum Question 1,,,No,506,243,35,0,228
+White,Tesnatee,Statewide Referendum Question 1,,,No,270,163,18,0,89
+White,Town Creek,Statewide Referendum Question 1,,,No,385,208,31,0,146
+White,White Creek,Statewide Referendum Question 1,,,No,342,180,21,0,141
+White,Blue Creek,Statewide Referendum Question 2,,,Yes,1189,650,60,0,479
+White,Blue Ridge,Statewide Referendum Question 2,,,Yes,498,263,24,0,211
+White,Robertstown-Helen,Statewide Referendum Question 2,,,Yes,466,228,17,0,221
+White,Mossy Creek,Statewide Referendum Question 2,,,Yes,1524,737,47,1,739
+White,Mt Yonah,Statewide Referendum Question 2,,,Yes,2032,1247,90,1,694
+White,Nacoochee,Statewide Referendum Question 2,,,Yes,812,468,59,0,285
+White,Shoal Creek,Statewide Referendum Question 2,,,Yes,1126,544,45,0,537
+White,Tesnatee,Statewide Referendum Question 2,,,Yes,622,364,37,0,221
+White,Town Creek,Statewide Referendum Question 2,,,Yes,823,409,33,0,381
+White,White Creek,Statewide Referendum Question 2,,,Yes,853,420,37,0,396
+White,Blue Creek,Statewide Referendum Question 2,,,No,329,177,31,0,121
+White,Blue Ridge,Statewide Referendum Question 2,,,No,133,71,3,0,59
+White,Robertstown-Helen,Statewide Referendum Question 2,,,No,125,67,7,0,51
+White,Mossy Creek,Statewide Referendum Question 2,,,No,356,197,14,0,145
+White,Mt Yonah,Statewide Referendum Question 2,,,No,525,353,45,0,127
+White,Nacoochee,Statewide Referendum Question 2,,,No,215,126,25,0,64
+White,Shoal Creek,Statewide Referendum Question 2,,,No,250,132,17,0,101
+White,Tesnatee,Statewide Referendum Question 2,,,No,133,78,7,0,48
+White,Town Creek,Statewide Referendum Question 2,,,No,176,95,20,0,61
+White,White Creek,Statewide Referendum Question 2,,,No,194,97,15,0,82
+White,Mt Yonah,Special Alcohol Referendum,,,Yes,642,375,32,0,235
+White,Mt Yonah,Special Alcohol Referendum,,,No,264,159,25,0,80

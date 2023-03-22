@@ -1,0 +1,294 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Brooks,Quitman ,U.S. Senate,,Rep,Herschel Junior Walker,749,457,28,1,263
+Brooks,Barwick,U.S. Senate,,Rep,Herschel Junior Walker,161,38,2,0,121
+Brooks,Dixie,U.S. Senate,,Rep,Herschel Junior Walker,301,136,4,2,159
+Brooks,Briggs,U.S. Senate,,Rep,Herschel Junior Walker,916,372,25,0,519
+Brooks,Pavo,U.S. Senate,,Rep,Herschel Junior Walker,278,71,2,0,205
+Brooks,Nankin,U.S. Senate,,Rep,Herschel Junior Walker,337,132,4,0,201
+Brooks,Morven,U.S. Senate,,Rep,Herschel Junior Walker,786,326,12,4,444
+Brooks,Quitman ,U.S. Senate,,Dem,Raphael Warnock ,989,579,137,4,269
+Brooks,Barwick,U.S. Senate,,Dem,Raphael Warnock ,58,23,8,0,27
+Brooks,Dixie,U.S. Senate,,Dem,Raphael Warnock ,286,150,51,0,85
+Brooks,Briggs,U.S. Senate,,Dem,Raphael Warnock ,224,108,10,0,106
+Brooks,Pavo,U.S. Senate,,Dem,Raphael Warnock ,75,12,8,0,55
+Brooks,Nankin,U.S. Senate,,Dem,Raphael Warnock ,61,38,3,0,20
+Brooks,Morven,U.S. Senate,,Dem,Raphael Warnock ,306,146,45,2,113
+Brooks,Quitman ,U.S. Senate,,L,Chase Oliver,23,9,4,0,10
+Brooks,Barwick,U.S. Senate,,L,Chase Oliver,4,2,0,0,2
+Brooks,Dixie,U.S. Senate,,L,Chase Oliver,6,2,0,0,4
+Brooks,Briggs,U.S. Senate,,L,Chase Oliver,16,6,0,0,10
+Brooks,Pavo,U.S. Senate,,L,Chase Oliver,5,2,1,0,2
+Brooks,Nankin,U.S. Senate,,L,Chase Oliver,5,2,0,0,3
+Brooks,Morven,U.S. Senate,,L,Chase Oliver,18,7,1,0,10
+Brooks,Quitman ,Governor,,Rep,Brian Kemp ,785,479,31,1,274
+Brooks,Barwick,Governor,,Rep,Brian Kemp ,166,41,2,0,123
+Brooks,Dixie,Governor,,Rep,Brian Kemp ,314,137,5,2,170
+Brooks,Briggs,Governor,,Rep,Brian Kemp ,942,382,25,0,535
+Brooks,Pavo,Governor,,Rep,Brian Kemp ,282,71,3,0,208
+Brooks,Nankin,Governor,,Rep,Brian Kemp ,347,136,4,0,207
+Brooks,Morven,Governor,,Rep,Brian Kemp ,808,336,16,4,452
+Brooks,Quitman ,Governor,,Dem,Stacey Abrams,982,575,134,3,270
+Brooks,Barwick,Governor,,Dem,Stacey Abrams,57,23,8,0,26
+Brooks,Dixie,Governor,,Dem,Stacey Abrams,281,152,49,0,80
+Brooks,Briggs,Governor,,Dem,Stacey Abrams,206,100,10,0,96
+Brooks,Pavo,Governor,,Dem,Stacey Abrams,78,13,8,0,57
+Brooks,Nankin,Governor,,Dem,Stacey Abrams,57,36,3,0,18
+Brooks,Morven,Governor,,Dem,Stacey Abrams,298,142,43,2,111
+Brooks,Quitman ,Governor,,L,Shane Hazel,11,3,3,1,4
+Brooks,Barwick,Governor,,L,Shane Hazel,1,1,0,0,0
+Brooks,Dixie,Governor,,L,Shane Hazel,3,1,0,0,2
+Brooks,Briggs,Governor,,L,Shane Hazel,9,4,0,0,5
+Brooks,Pavo,Governor,,L,Shane Hazel,2,1,0,0,1
+Brooks,Nankin,Governor,,L,Shane Hazel,2,1,0,0,1
+Brooks,Morven,Governor,,L,Shane Hazel,11,4,1,0,6
+Brooks,Quitman ,Lieutenant Governor,,Rep,Burt Jones,756,461,31,1,263
+Brooks,Barwick,Lieutenant Governor,,Rep,Burt Jones,168,41,2,0,125
+Brooks,Dixie,Lieutenant Governor,,Rep,Burt Jones,304,135,5,2,162
+Brooks,Briggs,Lieutenant Governor,,Rep,Burt Jones,927,375,25,0,527
+Brooks,Pavo,Lieutenant Governor,,Rep,Burt Jones,274,71,2,0,201
+Brooks,Nankin,Lieutenant Governor,,Rep,Burt Jones,334,130,4,0,200
+Brooks,Morven,Lieutenant Governor,,Rep,Burt Jones,788,327,15,4,442
+Brooks,Quitman ,Lieutenant Governor,,Dem,Charlie Bailey,931,542,133,2,254
+Brooks,Barwick,Lieutenant Governor,,Dem,Charlie Bailey,55,22,8,0,25
+Brooks,Dixie,Lieutenant Governor,,Dem,Charlie Bailey,267,144,50,0,73
+Brooks,Briggs,Lieutenant Governor,,Dem,Charlie Bailey,207,103,9,0,95
+Brooks,Pavo,Lieutenant Governor,,Dem,Charlie Bailey,73,13,8,0,52
+Brooks,Nankin,Lieutenant Governor,,Dem,Charlie Bailey,56,35,3,0,18
+Brooks,Morven,Lieutenant Governor,,Dem,Charlie Bailey,293,139,43,2,109
+Brooks,Quitman ,Lieutenant Governor,,L,Ryan Graham,29,10,3,1,15
+Brooks,Barwick,Lieutenant Governor,,L,Ryan Graham,1,1,0,0,0
+Brooks,Dixie,Lieutenant Governor,,L,Ryan Graham,9,3,0,0,6
+Brooks,Briggs,Lieutenant Governor,,L,Ryan Graham,16,6,0,0,10
+Brooks,Pavo,Lieutenant Governor,,L,Ryan Graham,8,1,1,0,6
+Brooks,Nankin,Lieutenant Governor,,L,Ryan Graham,6,3,0,0,3
+Brooks,Morven,Lieutenant Governor,,L,Ryan Graham,13,7,0,0,6
+Brooks,Quitman ,Secretary of State,,Rep,Brad Raffensperger ,786,478,37,2,269
+Brooks,Barwick,Secretary of State,,Rep,Brad Raffensperger ,165,42,3,0,120
+Brooks,Dixie,Secretary of State,,Rep,Brad Raffensperger ,314,140,7,2,165
+Brooks,Briggs,Secretary of State,,Rep,Brad Raffensperger ,918,370,26,0,522
+Brooks,Pavo,Secretary of State,,Rep,Brad Raffensperger ,274,72,2,0,200
+Brooks,Nankin,Secretary of State,,Rep,Brad Raffensperger ,333,130,3,0,200
+Brooks,Morven,Secretary of State,,Rep,Brad Raffensperger ,792,332,17,4,439
+Brooks,Quitman ,Secretary of State,,Dem,Bee Nguyen,891,514,126,2,249
+Brooks,Barwick,Secretary of State,,Dem,Bee Nguyen,52,21,7,0,24
+Brooks,Dixie,Secretary of State,,Dem,Bee Nguyen,256,140,48,0,68
+Brooks,Briggs,Secretary of State,,Dem,Bee Nguyen,198,94,8,0,96
+Brooks,Pavo,Secretary of State,,Dem,Bee Nguyen,69,10,9,0,50
+Brooks,Nankin,Secretary of State,,Dem,Bee Nguyen,53,33,3,0,17
+Brooks,Morven,Secretary of State,,Dem,Bee Nguyen,271,126,39,2,104
+Brooks,Quitman ,Secretary of State,,L,Ted Metz,37,17,3,0,17
+Brooks,Barwick,Secretary of State,,L,Ted Metz,6,1,0,0,5
+Brooks,Dixie,Secretary of State,,L,Ted Metz,9,3,0,0,6
+Brooks,Briggs,Secretary of State,,L,Ted Metz,28,13,0,0,15
+Brooks,Pavo,Secretary of State,,L,Ted Metz,13,2,0,0,11
+Brooks,Nankin,Secretary of State,,L,Ted Metz,9,5,1,0,3
+Brooks,Morven,Secretary of State,,L,Ted Metz,39,17,2,0,20
+Brooks,Quitman ,Attorney General,,Rep,Chris Carr ,755,458,29,1,267
+Brooks,Barwick,Attorney General,,Rep,Chris Carr ,166,41,2,0,123
+Brooks,Dixie,Attorney General,,Rep,Chris Carr ,310,137,5,2,166
+Brooks,Briggs,Attorney General,,Rep,Chris Carr ,917,371,24,0,522
+Brooks,Pavo,Attorney General,,Rep,Chris Carr ,282,72,3,0,207
+Brooks,Nankin,Attorney General,,Rep,Chris Carr ,336,133,4,0,199
+Brooks,Morven,Attorney General,,Rep,Chris Carr ,801,334,15,4,448
+Brooks,Quitman ,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",948,550,134,3,261
+Brooks,Barwick,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",57,23,8,0,26
+Brooks,Dixie,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",274,148,49,0,77
+Brooks,Briggs,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",208,101,10,0,97
+Brooks,Pavo,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",77,14,8,0,55
+Brooks,Nankin,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",59,36,3,0,20
+Brooks,Morven,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",288,132,43,2,111
+Brooks,Quitman ,Attorney General,,L,Martin Cowen,17,8,2,0,7
+Brooks,Barwick,Attorney General,,L,Martin Cowen,2,1,0,0,1
+Brooks,Dixie,Attorney General,,L,Martin Cowen,2,1,0,0,1
+Brooks,Briggs,Attorney General,,L,Martin Cowen,18,7,0,0,11
+Brooks,Pavo,Attorney General,,L,Martin Cowen,1,0,0,0,1
+Brooks,Nankin,Attorney General,,L,Martin Cowen,4,0,0,0,4
+Brooks,Morven,Attorney General,,L,Martin Cowen,11,9,0,0,2
+Brooks,Quitman ,Commissioner of Agriculture,,Rep,Tyler Harper,766,467,31,1,267
+Brooks,Barwick,Commissioner of Agriculture,,Rep,Tyler Harper,163,41,2,0,120
+Brooks,Dixie,Commissioner of Agriculture,,Rep,Tyler Harper,312,137,5,2,168
+Brooks,Briggs,Commissioner of Agriculture,,Rep,Tyler Harper,937,379,27,0,531
+Brooks,Pavo,Commissioner of Agriculture,,Rep,Tyler Harper,286,73,2,0,211
+Brooks,Nankin,Commissioner of Agriculture,,Rep,Tyler Harper,338,134,4,0,200
+Brooks,Morven,Commissioner of Agriculture,,Rep,Tyler Harper,808,334,15,4,455
+Brooks,Quitman ,Commissioner of Agriculture,,Dem,Nakita Hemingway,936,540,132,3,261
+Brooks,Barwick,Commissioner of Agriculture,,Dem,Nakita Hemingway,57,23,8,0,26
+Brooks,Dixie,Commissioner of Agriculture,,Dem,Nakita Hemingway,268,146,50,0,72
+Brooks,Briggs,Commissioner of Agriculture,,Dem,Nakita Hemingway,184,93,8,0,83
+Brooks,Pavo,Commissioner of Agriculture,,Dem,Nakita Hemingway,71,13,8,0,50
+Brooks,Nankin,Commissioner of Agriculture,,Dem,Nakita Hemingway,54,34,3,0,17
+Brooks,Morven,Commissioner of Agriculture,,Dem,Nakita Hemingway,275,129,43,1,102
+Brooks,Quitman ,Commissioner of Agriculture,,L,David Raudabaugh,22,11,1,0,10
+Brooks,Barwick,Commissioner of Agriculture,,L,David Raudabaugh,3,1,0,0,2
+Brooks,Dixie,Commissioner of Agriculture,,L,David Raudabaugh,8,4,0,0,4
+Brooks,Briggs,Commissioner of Agriculture,,L,David Raudabaugh,25,7,0,0,18
+Brooks,Pavo,Commissioner of Agriculture,,L,David Raudabaugh,4,0,1,0,3
+Brooks,Nankin,Commissioner of Agriculture,,L,David Raudabaugh,8,2,0,0,6
+Brooks,Morven,Commissioner of Agriculture,,L,David Raudabaugh,22,14,0,1,7
+Brooks,Quitman ,Commissioner of Insurance,,Rep,John King ,773,466,33,1,273
+Brooks,Barwick,Commissioner of Insurance,,Rep,John King ,167,42,2,0,123
+Brooks,Dixie,Commissioner of Insurance,,Rep,John King ,315,136,5,2,172
+Brooks,Briggs,Commissioner of Insurance,,Rep,John King ,932,375,25,0,532
+Brooks,Pavo,Commissioner of Insurance,,Rep,John King ,285,73,3,0,209
+Brooks,Nankin,Commissioner of Insurance,,Rep,John King ,340,133,4,0,203
+Brooks,Morven,Commissioner of Insurance,,Rep,John King ,812,344,16,4,448
+Brooks,Quitman ,Commissioner of Insurance,,Dem,Janice Laws Robinson,940,545,133,3,259
+Brooks,Barwick,Commissioner of Insurance,,Dem,Janice Laws Robinson,58,23,8,0,27
+Brooks,Dixie,Commissioner of Insurance,,Dem,Janice Laws Robinson,268,147,50,0,71
+Brooks,Briggs,Commissioner of Insurance,,Dem,Janice Laws Robinson,207,101,9,0,97
+Brooks,Pavo,Commissioner of Insurance,,Dem,Janice Laws Robinson,75,13,8,0,54
+Brooks,Nankin,Commissioner of Insurance,,Dem,Janice Laws Robinson,58,36,3,0,19
+Brooks,Morven,Commissioner of Insurance,,Dem,Janice Laws Robinson,286,133,43,2,108
+Brooks,Quitman ,State School Superintendent,,Rep,Richard Woods ,788,476,32,1,279
+Brooks,Barwick,State School Superintendent,,Rep,Richard Woods ,167,42,2,0,123
+Brooks,Dixie,State School Superintendent,,Rep,Richard Woods ,314,138,6,2,168
+Brooks,Briggs,State School Superintendent,,Rep,Richard Woods ,941,379,25,0,537
+Brooks,Pavo,State School Superintendent,,Rep,Richard Woods ,286,73,3,0,210
+Brooks,Nankin,State School Superintendent,,Rep,Richard Woods ,341,133,4,0,204
+Brooks,Morven,State School Superintendent,,Rep,Richard Woods ,813,339,15,4,455
+Brooks,Quitman ,State School Superintendent,,Dem,Alisha Thomas Searcy,932,538,134,3,257
+Brooks,Barwick,State School Superintendent,,Dem,Alisha Thomas Searcy,57,23,8,0,26
+Brooks,Dixie,State School Superintendent,,Dem,Alisha Thomas Searcy,269,147,48,0,74
+Brooks,Briggs,State School Superintendent,,Dem,Alisha Thomas Searcy,205,102,8,0,95
+Brooks,Pavo,State School Superintendent,,Dem,Alisha Thomas Searcy,74,13,8,0,53
+Brooks,Nankin,State School Superintendent,,Dem,Alisha Thomas Searcy,60,36,3,0,21
+Brooks,Morven,State School Superintendent,,Dem,Alisha Thomas Searcy,293,139,43,2,109
+Brooks,Quitman ,Commissioner of Labor,,Rep,Bruce Thompson,764,464,30,1,269
+Brooks,Barwick,Commissioner of Labor,,Rep,Bruce Thompson,166,41,2,0,123
+Brooks,Dixie,Commissioner of Labor,,Rep,Bruce Thompson,308,133,5,2,168
+Brooks,Briggs,Commissioner of Labor,,Rep,Bruce Thompson,923,374,24,0,525
+Brooks,Pavo,Commissioner of Labor,,Rep,Bruce Thompson,278,72,2,0,204
+Brooks,Nankin,Commissioner of Labor,,Rep,Bruce Thompson,342,133,4,0,205
+Brooks,Morven,Commissioner of Labor,,Rep,Bruce Thompson,795,333,14,4,444
+Brooks,Quitman ,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",928,534,132,3,259
+Brooks,Barwick,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",56,22,8,0,26
+Brooks,Dixie,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",272,149,50,0,73
+Brooks,Briggs,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",199,96,10,0,93
+Brooks,Pavo,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",75,13,8,0,54
+Brooks,Nankin,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",56,35,3,0,18
+Brooks,Morven,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",283,133,43,2,105
+Brooks,Quitman ,Commissioner of Labor,,L,Emily Anderson,29,16,3,0,10
+Brooks,Barwick,Commissioner of Labor,,L,Emily Anderson,3,2,0,0,1
+Brooks,Dixie,Commissioner of Labor,,L,Emily Anderson,8,4,0,0,4
+Brooks,Briggs,Commissioner of Labor,,L,Emily Anderson,23,9,0,0,14
+Brooks,Pavo,Commissioner of Labor,,L,Emily Anderson,6,1,1,0,4
+Brooks,Nankin,Commissioner of Labor,,L,Emily Anderson,2,0,0,0,2
+Brooks,Morven,Commissioner of Labor,,L,Emily Anderson,22,10,1,0,11
+Brooks,Quitman ,U.S. House,,Rep,Austin Scott ,781,476,33,1,271
+Brooks,Barwick,U.S. House,,Rep,Austin Scott ,168,42,2,0,124
+Brooks,Dixie,U.S. House,,Rep,Austin Scott ,321,139,6,2,174
+Brooks,Briggs,U.S. House,,Rep,Austin Scott ,945,382,25,0,538
+Brooks,Pavo,U.S. House,,Rep,Austin Scott ,285,72,3,0,210
+Brooks,Nankin,U.S. House,,Rep,Austin Scott ,345,136,4,0,205
+Brooks,Morven,U.S. House,,Rep,Austin Scott ,816,340,18,3,455
+Brooks,Quitman ,U.S. House,,Dem,Darrius Butler,944,547,130,3,264
+Brooks,Barwick,U.S. House,,Dem,Darrius Butler,56,23,8,0,25
+Brooks,Dixie,U.S. House,,Dem,Darrius Butler,270,149,49,0,72
+Brooks,Briggs,U.S. House,,Dem,Darrius Butler,202,99,9,0,94
+Brooks,Pavo,U.S. House,,Dem,Darrius Butler,74,13,8,0,53
+Brooks,Nankin,U.S. House,,Dem,Darrius Butler,53,34,3,0,16
+Brooks,Morven,U.S. House,,Dem,Darrius Butler,281,137,40,1,103
+Brooks,Quitman ,State Senate,,Rep,Dean Burke ,1105,649,65,3,388
+Brooks,Barwick,State Senate,,Rep,Dean Burke ,191,49,3,0,139
+Brooks,Dixie,State Senate,,Rep,Dean Burke ,398,183,18,2,195
+Brooks,Briggs,State Senate,,Rep,Dean Burke ,1018,416,26,0,576
+Brooks,Pavo,State Senate,,Rep,Dean Burke ,304,77,4,0,223
+Brooks,Nankin,State Senate,,Rep,Dean Burke ,352,137,7,0,208
+Brooks,Morven,State Senate,,Rep,Dean Burke ,903,387,23,4,489
+Brooks,Quitman ,State House,,Rep,John Lahood ,1119,652,68,3,396
+Brooks,Barwick,State House,,Rep,John Lahood ,189,48,2,0,139
+Brooks,Dixie,State House,,Rep,John Lahood ,408,185,20,2,201
+Brooks,Briggs,State House,,Rep,John Lahood ,1019,420,26,0,573
+Brooks,Pavo,State House,,Rep,John Lahood ,303,78,4,0,221
+Brooks,Nankin,State House,,Rep,John Lahood ,356,139,7,0,210
+Brooks,Morven,State House,,Rep,John Lahood ,916,390,25,4,497
+Brooks,Quitman ,Board of Education, At-Large,(Republican,Kasey Knight ,907,538,49,1,319
+Brooks,Barwick,Board of Education, At-Large,(Republican,Kasey Knight ,170,44,2,0,124
+Brooks,Dixie,Board of Education, At-Large,(Republican,Kasey Knight ,337,148,10,2,177
+Brooks,Briggs,Board of Education, At-Large,(Republican,Kasey Knight ,941,376,26,0,539
+Brooks,Pavo,Board of Education, At-Large,(Republican,Kasey Knight ,283,73,3,0,207
+Brooks,Nankin,Board of Education, At-Large,(Republican,Kasey Knight ,347,136,4,0,207
+Brooks,Morven,Board of Education, At-Large,(Republican,Kasey Knight ,818,345,14,3,456
+Brooks,Quitman ,Board of Education, At-Large,Dem,Gary Christian,824,490,112,3,219
+Brooks,Barwick,Board of Education, At-Large,Dem,Gary Christian,54,21,8,0,25
+Brooks,Dixie,Board of Education, At-Large,Dem,Gary Christian,257,140,45,0,72
+Brooks,Briggs,Board of Education, At-Large,Dem,Gary Christian,203,103,8,0,92
+Brooks,Pavo,Board of Education, At-Large,Dem,Gary Christian,76,13,8,0,55
+Brooks,Nankin,Board of Education, At-Large,Dem,Gary Christian,53,32,3,0,18
+Brooks,Morven,Board of Education, At-Large,Dem,Gary Christian,280,133,43,1,103
+Brooks,Quitman ,County Commissioner D1,,(Republican,Lee Larko ,227,128,4,0,95
+Brooks,Barwick,County Commissioner D1,,(Republican,Lee Larko ,129,34,3,0,92
+Brooks,Pavo,County Commissioner D1,,(Republican,Lee Larko ,286,74,3,0,209
+Brooks,Morven,County Commissioner D1,,(Republican,Lee Larko ,383,173,8,2,200
+Brooks,Quitman ,County Commissioner D1,,Dem,Donnie Ware,104,69,6,0,29
+Brooks,Barwick,County Commissioner D1,,Dem,Donnie Ware,22,5,3,0,14
+Brooks,Pavo,County Commissioner D1,,Dem,Donnie Ware,74,12,8,0,54
+Brooks,Morven,County Commissioner D1,,Dem,Donnie Ware,88,49,9,0,30
+Brooks,Quitman ,County Commissioner D2,,(Republican,Patrick Folsom ,175,116,3,0,56
+Brooks,Briggs,County Commissioner D2,,(Republican,Patrick Folsom ,580,234,17,0,329
+Brooks,Nankin,County Commissioner D2,,(Republican,Patrick Folsom ,248,92,4,0,152
+Brooks,Quitman ,County Commissioner D3,,Dem,"Willie """"Be-Bop"""" Cody ",412,232,49,0,131
+Brooks,Barwick,County Commissioner D3,,Dem,"Willie """"Be-Bop"""" Cody ",42,16,3,0,23
+Brooks,Dixie,County Commissioner D3,,Dem,"Willie """"Be-Bop"""" Cody ",188,91,22,0,75
+Brooks,Quitman ,Board of Education D2,,Dem,Larry Cunningham ,174,116,5,0,53
+Brooks,Briggs,Board of Education D2,,Dem,Larry Cunningham ,426,182,9,0,235
+Brooks,Nankin,Board of Education D2,,Dem,Larry Cunningham ,212,78,3,0,131
+Brooks,Quitman ,Board of Education D4,,Rep,Jessica Goodman,41,27,0,2,12
+Brooks,Briggs,Board of Education D4,,Rep,Jessica Goodman,432,186,9,0,237
+Brooks,Morven,Board of Education D4,,Rep,Jessica Goodman,493,197,15,2,279
+Brooks,Quitman ,Constitutional Amendment #1,,,Yes,1365,807,124,3,431
+Brooks,Barwick,Constitutional Amendment #1,,,Yes,181,54,9,0,118
+Brooks,Dixie,Constitutional Amendment #1,,,Yes,492,239,52,2,199
+Brooks,Briggs,Constitutional Amendment #1,,,Yes,967,410,28,0,529
+Brooks,Pavo,Constitutional Amendment #1,,,Yes,306,68,10,0,228
+Brooks,Nankin,Constitutional Amendment #1,,,Yes,318,139,4,0,175
+Brooks,Morven,Constitutional Amendment #1,,,Yes,922,413,46,3,460
+Brooks,Quitman ,Constitutional Amendment #1,,,No,268,159,27,0,82
+Brooks,Barwick,Constitutional Amendment #1,,,No,32,6,1,0,25
+Brooks,Dixie,Constitutional Amendment #1,,,No,71,33,3,0,35
+Brooks,Briggs,Constitutional Amendment #1,,,No,135,59,5,0,71
+Brooks,Pavo,Constitutional Amendment #1,,,No,43,14,1,0,28
+Brooks,Nankin,Constitutional Amendment #1,,,No,59,25,3,0,31
+Brooks,Morven,Constitutional Amendment #1,,,No,142,48,9,0,85
+Brooks,Quitman ,Constitutional Amendment #2,,,Yes,1442,847,132,3,460
+Brooks,Barwick,Constitutional Amendment #2,,,Yes,195,58,10,0,127
+Brooks,Dixie,Constitutional Amendment #2,,,Yes,489,240,38,1,210
+Brooks,Briggs,Constitutional Amendment #2,,,Yes,994,424,28,0,542
+Brooks,Pavo,Constitutional Amendment #2,,,Yes,322,72,9,0,241
+Brooks,Nankin,Constitutional Amendment #2,,,Yes,333,146,7,0,180
+Brooks,Morven,Constitutional Amendment #2,,,Yes,946,403,53,4,486
+Brooks,Quitman ,Constitutional Amendment #2,,,No,220,143,19,0,58
+Brooks,Barwick,Constitutional Amendment #2,,,No,22,6,0,0,16
+Brooks,Dixie,Constitutional Amendment #2,,,No,84,35,17,1,31
+Brooks,Briggs,Constitutional Amendment #2,,,No,122,50,4,0,68
+Brooks,Pavo,Constitutional Amendment #2,,,No,31,10,2,0,19
+Brooks,Nankin,Constitutional Amendment #2,,,No,49,17,0,0,32
+Brooks,Morven,Constitutional Amendment #2,,,No,137,67,4,0,66
+Brooks,Quitman ,Statewide Referendum A,,,Yes,933,548,66,2,317
+Brooks,Barwick,Statewide Referendum A,,,Yes,144,41,5,0,98
+Brooks,Dixie,Statewide Referendum A,,,Yes,333,159,21,2,151
+Brooks,Briggs,Statewide Referendum A,,,Yes,668,284,7,0,377
+Brooks,Pavo,Statewide Referendum A,,,Yes,226,48,5,0,173
+Brooks,Nankin,Statewide Referendum A,,,Yes,225,94,6,0,125
+Brooks,Morven,Statewide Referendum A,,,Yes,663,281,29,2,351
+Brooks,Quitman ,Statewide Referendum A,,,No,696,422,78,1,195
+Brooks,Barwick,Statewide Referendum A,,,No,68,22,4,0,42
+Brooks,Dixie,Statewide Referendum A,,,No,229,111,31,0,87
+Brooks,Briggs,Statewide Referendum A,,,No,423,179,22,0,222
+Brooks,Pavo,Statewide Referendum A,,,No,124,33,6,0,85
+Brooks,Nankin,Statewide Referendum A,,,No,151,69,1,0,81
+Brooks,Morven,Statewide Referendum A,,,No,393,179,23,1,190
+Brooks,Quitman ,Statewide Referendum B,,,Yes,1108,639,79,3,387
+Brooks,Barwick,Statewide Referendum B,,,Yes,179,48,8,0,123
+Brooks,Dixie,Statewide Referendum B,,,Yes,390,185,22,2,181
+Brooks,Briggs,Statewide Referendum B,,,Yes,848,353,16,0,479
+Brooks,Pavo,Statewide Referendum B,,,Yes,269,58,7,0,204
+Brooks,Nankin,Statewide Referendum B,,,Yes,290,125,6,0,159
+Brooks,Morven,Statewide Referendum B,,,Yes,806,345,35,3,423
+Brooks,Quitman ,Statewide Referendum B,,,No,530,336,66,0,128
+Brooks,Barwick,Statewide Referendum B,,,No,39,16,2,0,21
+Brooks,Dixie,Statewide Referendum B,,,No,168,81,29,0,58
+Brooks,Briggs,Statewide Referendum B,,,No,251,112,13,0,126
+Brooks,Pavo,Statewide Referendum B,,,No,82,24,4,0,54
+Brooks,Nankin,Statewide Referendum B,,,No,92,39,1,0,52
+Brooks,Morven,Statewide Referendum B,,,No,259,120,16,1,122

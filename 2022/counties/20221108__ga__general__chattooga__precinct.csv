@@ -1,0 +1,288 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Chattooga,Haywood,U.S. Senate,,Rep,Herschel Junior Walker,71,7,0,0,64
+Chattooga,Lyerly,U.S. Senate,,Rep,Herschel Junior Walker,693,295,16,0,382
+Chattooga,Trion,U.S. Senate,,Rep,Herschel Junior Walker,1945,1048,43,0,854
+Chattooga,Summerville,U.S. Senate,,Rep,Herschel Junior Walker,1907,1135,74,0,698
+Chattooga,Dirttown,U.S. Senate,,Rep,Herschel Junior Walker,455,164,8,0,283
+Chattooga,Subligna,U.S. Senate,,Rep,Herschel Junior Walker,281,85,8,0,188
+Chattooga,Menlo,U.S. Senate,,Rep,Herschel Junior Walker,625,235,11,0,379
+Chattooga,Haywood,U.S. Senate,,Dem,Raphael Warnock ,13,3,0,0,10
+Chattooga,Lyerly,U.S. Senate,,Dem,Raphael Warnock ,176,83,15,0,78
+Chattooga,Trion,U.S. Senate,,Dem,Raphael Warnock ,361,203,30,0,128
+Chattooga,Summerville,U.S. Senate,,Dem,Raphael Warnock ,655,374,56,0,225
+Chattooga,Dirttown,U.S. Senate,,Dem,Raphael Warnock ,103,46,8,0,49
+Chattooga,Subligna,U.S. Senate,,Dem,Raphael Warnock ,28,11,2,0,15
+Chattooga,Menlo,U.S. Senate,,Dem,Raphael Warnock ,178,91,9,0,78
+Chattooga,Haywood,U.S. Senate,,Lib,Chase Oliver,5,0,0,0,5
+Chattooga,Lyerly,U.S. Senate,,Lib,Chase Oliver,22,11,0,0,11
+Chattooga,Trion,U.S. Senate,,Lib,Chase Oliver,63,27,2,0,34
+Chattooga,Summerville,U.S. Senate,,Lib,Chase Oliver,49,31,4,0,14
+Chattooga,Dirttown,U.S. Senate,,Lib,Chase Oliver,13,2,0,0,11
+Chattooga,Subligna,U.S. Senate,,Lib,Chase Oliver,4,1,3,0,0
+Chattooga,Menlo,U.S. Senate,,Lib,Chase Oliver,16,5,2,0,9
+Chattooga,Haywood,Governor,,Rep,Brian Kemp ,82,8,0,0,74
+Chattooga,Lyerly,Governor,,Rep,Brian Kemp ,749,320,16,0,413
+Chattooga,Trion,Governor,,Rep,Brian Kemp ,2114,1138,52,0,924
+Chattooga,Summerville,Governor,,Rep,Brian Kemp ,2068,1227,84,0,757
+Chattooga,Dirttown,Governor,,Rep,Brian Kemp ,483,169,9,0,305
+Chattooga,Subligna,Governor,,Rep,Brian Kemp ,291,89,12,0,190
+Chattooga,Menlo,Governor,,Rep,Brian Kemp ,684,253,15,0,416
+Chattooga,Haywood,Governor,,Dem,Stacey Abrams,7,2,0,0,5
+Chattooga,Lyerly,Governor,,Dem,Stacey Abrams,142,73,15,0,54
+Chattooga,Trion,Governor,,Dem,Stacey Abrams,259,141,24,0,94
+Chattooga,Summerville,Governor,,Dem,Stacey Abrams,547,312,48,0,187
+Chattooga,Dirttown,Governor,,Dem,Stacey Abrams,89,44,8,0,37
+Chattooga,Subligna,Governor,,Dem,Stacey Abrams,20,10,1,0,9
+Chattooga,Menlo,Governor,,Dem,Stacey Abrams,128,74,7,0,47
+Chattooga,Haywood,Governor,,Lib,Shane Hazel,1,0,0,0,1
+Chattooga,Lyerly,Governor,,Lib,Shane Hazel,5,0,0,0,5
+Chattooga,Trion,Governor,,Lib,Shane Hazel,14,10,0,0,4
+Chattooga,Summerville,Governor,,Lib,Shane Hazel,15,11,1,0,3
+Chattooga,Dirttown,Governor,,Lib,Shane Hazel,3,0,0,0,3
+Chattooga,Subligna,Governor,,Lib,Shane Hazel,3,0,0,0,3
+Chattooga,Menlo,Governor,,Lib,Shane Hazel,8,3,0,0,5
+Chattooga,Haywood,Lieutenant Governor,,Rep,Burt Jones,68,6,0,0,62
+Chattooga,Lyerly,Lieutenant Governor,,Rep,Burt Jones,709,302,16,0,391
+Chattooga,Trion,Lieutenant Governor,,Rep,Burt Jones,2011,1090,46,0,875
+Chattooga,Summerville,Lieutenant Governor,,Rep,Burt Jones,1960,1159,82,0,719
+Chattooga,Dirttown,Lieutenant Governor,,Rep,Burt Jones,471,164,9,0,298
+Chattooga,Subligna,Lieutenant Governor,,Rep,Burt Jones,285,88,11,0,186
+Chattooga,Menlo,Lieutenant Governor,,Rep,Burt Jones,646,238,13,0,395
+Chattooga,Haywood,Lieutenant Governor,,Dem,Charlie Bailey,15,3,0,0,12
+Chattooga,Lyerly,Lieutenant Governor,,Dem,Charlie Bailey,162,80,15,0,67
+Chattooga,Trion,Lieutenant Governor,,Dem,Charlie Bailey,303,167,29,0,107
+Chattooga,Summerville,Lieutenant Governor,,Dem,Charlie Bailey,564,335,45,0,184
+Chattooga,Dirttown,Lieutenant Governor,,Dem,Charlie Bailey,95,46,8,0,41
+Chattooga,Subligna,Lieutenant Governor,,Dem,Charlie Bailey,22,10,1,0,11
+Chattooga,Menlo,Lieutenant Governor,,Dem,Charlie Bailey,154,84,8,0,62
+Chattooga,Haywood,Lieutenant Governor,,Lib,Ryan Graham,6,1,0,0,5
+Chattooga,Lyerly,Lieutenant Governor,,Lib,Ryan Graham,17,9,0,0,8
+Chattooga,Trion,Lieutenant Governor,,Lib,Ryan Graham,45,17,0,0,28
+Chattooga,Summerville,Lieutenant Governor,,Lib,Ryan Graham,49,23,3,0,23
+Chattooga,Dirttown,Lieutenant Governor,,Lib,Ryan Graham,8,3,0,0,5
+Chattooga,Subligna,Lieutenant Governor,,Lib,Ryan Graham,5,1,0,0,4
+Chattooga,Menlo,Lieutenant Governor,,Lib,Ryan Graham,11,4,1,0,6
+Chattooga,Haywood,Secretary of State,,Rep,Brad Raffensperger ,73,6,0,0,67
+Chattooga,Lyerly,Secretary of State,,Rep,Brad Raffensperger ,715,309,14,0,392
+Chattooga,Trion,Secretary of State,,Rep,Brad Raffensperger ,2003,1083,51,0,869
+Chattooga,Summerville,Secretary of State,,Rep,Brad Raffensperger ,2010,1179,86,0,745
+Chattooga,Dirttown,Secretary of State,,Rep,Brad Raffensperger ,467,163,9,0,295
+Chattooga,Subligna,Secretary of State,,Rep,Brad Raffensperger ,275,86,6,0,183
+Chattooga,Menlo,Secretary of State,,Rep,Brad Raffensperger ,665,253,14,0,398
+Chattooga,Haywood,Secretary of State,,Dem,Bee Nguyen,11,3,0,0,8
+Chattooga,Lyerly,Secretary of State,,Dem,Bee Nguyen,140,67,16,0,57
+Chattooga,Trion,Secretary of State,,Dem,Bee Nguyen,268,143,23,0,102
+Chattooga,Summerville,Secretary of State,,Dem,Bee Nguyen,511,302,44,0,165
+Chattooga,Dirttown,Secretary of State,,Dem,Bee Nguyen,85,40,8,0,37
+Chattooga,Subligna,Secretary of State,,Dem,Bee Nguyen,23,11,2,0,10
+Chattooga,Menlo,Secretary of State,,Dem,Bee Nguyen,126,64,8,0,54
+Chattooga,Haywood,Secretary of State,,Lib,Ted Metz,6,1,0,0,5
+Chattooga,Lyerly,Secretary of State,,Lib,Ted Metz,29,12,1,0,16
+Chattooga,Trion,Secretary of State,,Lib,Ted Metz,76,42,1,0,33
+Chattooga,Summerville,Secretary of State,,Lib,Ted Metz,64,41,2,0,21
+Chattooga,Dirttown,Secretary of State,,Lib,Ted Metz,16,8,0,0,8
+Chattooga,Subligna,Secretary of State,,Lib,Ted Metz,12,2,3,0,7
+Chattooga,Menlo,Secretary of State,,Lib,Ted Metz,22,11,0,0,11
+Chattooga,Haywood,Attorney General,,Rep,Chris Carr ,73,7,0,0,66
+Chattooga,Lyerly,Attorney General,,Rep,Chris Carr ,724,310,16,0,398
+Chattooga,Trion,Attorney General,,Rep,Chris Carr ,2025,1097,46,0,882
+Chattooga,Summerville,Attorney General,,Rep,Chris Carr ,1995,1189,83,0,723
+Chattooga,Dirttown,Attorney General,,Rep,Chris Carr ,469,161,9,0,299
+Chattooga,Subligna,Attorney General,,Rep,Chris Carr ,283,88,11,0,184
+Chattooga,Menlo,Attorney General,,Rep,Chris Carr ,647,243,12,0,392
+Chattooga,Haywood,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",14,3,0,0,11
+Chattooga,Lyerly,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",150,75,15,0,60
+Chattooga,Trion,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",302,164,28,0,110
+Chattooga,Summerville,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",574,332,46,0,196
+Chattooga,Dirttown,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",94,46,8,0,40
+Chattooga,Subligna,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",25,10,1,0,14
+Chattooga,Menlo,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",159,83,10,0,66
+Chattooga,Haywood,Attorney General,,Lib,Martin Cowen,2,0,0,0,2
+Chattooga,Lyerly,Attorney General,,Lib,Martin Cowen,13,5,0,0,8
+Chattooga,Trion,Attorney General,,Lib,Martin Cowen,35,16,1,0,18
+Chattooga,Summerville,Attorney General,,Lib,Martin Cowen,28,14,0,0,14
+Chattooga,Dirttown,Attorney General,,Lib,Martin Cowen,6,4,0,0,2
+Chattooga,Subligna,Attorney General,,Lib,Martin Cowen,3,0,0,0,3
+Chattooga,Menlo,Attorney General,,Lib,Martin Cowen,9,4,0,0,5
+Chattooga,Haywood,Commissioner Of Agriculture,,Rep,Tyler Harper,75,7,0,0,68
+Chattooga,Lyerly,Commissioner Of Agriculture,,Rep,Tyler Harper,725,310,17,0,398
+Chattooga,Trion,Commissioner Of Agriculture,,Rep,Tyler Harper,2049,1108,51,0,890
+Chattooga,Summerville,Commissioner Of Agriculture,,Rep,Tyler Harper,2009,1186,82,0,741
+Chattooga,Dirttown,Commissioner Of Agriculture,,Rep,Tyler Harper,471,160,9,0,302
+Chattooga,Subligna,Commissioner Of Agriculture,,Rep,Tyler Harper,291,91,11,0,189
+Chattooga,Menlo,Commissioner Of Agriculture,,Rep,Tyler Harper,663,245,14,0,404
+Chattooga,Haywood,Commissioner Of Agriculture,,Dem,Nakita Hemingway,10,3,0,0,7
+Chattooga,Lyerly,Commissioner Of Agriculture,,Dem,Nakita Hemingway,143,73,14,0,56
+Chattooga,Trion,Commissioner Of Agriculture,,Dem,Nakita Hemingway,270,148,23,0,99
+Chattooga,Summerville,Commissioner Of Agriculture,,Dem,Nakita Hemingway,539,318,47,0,174
+Chattooga,Dirttown,Commissioner Of Agriculture,,Dem,Nakita Hemingway,91,47,8,0,36
+Chattooga,Subligna,Commissioner Of Agriculture,,Dem,Nakita Hemingway,16,8,1,0,7
+Chattooga,Menlo,Commissioner Of Agriculture,,Dem,Nakita Hemingway,136,77,7,0,52
+Chattooga,Haywood,Commissioner Of Agriculture,,Lib,David Raudabaugh,3,0,0,0,3
+Chattooga,Lyerly,Commissioner Of Agriculture,,Lib,David Raudabaugh,17,6,0,0,11
+Chattooga,Trion,Commissioner Of Agriculture,,Lib,David Raudabaugh,48,24,0,0,24
+Chattooga,Summerville,Commissioner Of Agriculture,,Lib,David Raudabaugh,40,26,0,0,14
+Chattooga,Dirttown,Commissioner Of Agriculture,,Lib,David Raudabaugh,9,4,0,0,5
+Chattooga,Subligna,Commissioner Of Agriculture,,Lib,David Raudabaugh,3,0,0,0,3
+Chattooga,Menlo,Commissioner Of Agriculture,,Lib,David Raudabaugh,13,5,1,0,7
+Chattooga,Haywood,Commissioner Of Insurance,,Rep,John King ,72,7,0,0,65
+Chattooga,Lyerly,Commissioner Of Insurance,,Rep,John King ,740,316,17,0,407
+Chattooga,Trion,Commissioner Of Insurance,,Rep,John King ,2063,1107,50,0,906
+Chattooga,Summerville,Commissioner Of Insurance,,Rep,John King ,2036,1208,84,0,744
+Chattooga,Dirttown,Commissioner Of Insurance,,Rep,John King ,480,166,9,0,305
+Chattooga,Subligna,Commissioner Of Insurance,,Rep,John King ,289,90,11,0,188
+Chattooga,Menlo,Commissioner Of Insurance,,Rep,John King ,666,248,12,0,406
+Chattooga,Haywood,Commissioner Of Insurance,,Dem,Janice Laws Robinson,16,3,0,0,13
+Chattooga,Lyerly,Commissioner Of Insurance,,Dem,Janice Laws Robinson,146,73,14,0,59
+Chattooga,Trion,Commissioner Of Insurance,,Dem,Janice Laws Robinson,292,165,25,0,102
+Chattooga,Summerville,Commissioner Of Insurance,,Dem,Janice Laws Robinson,554,319,47,0,188
+Chattooga,Dirttown,Commissioner Of Insurance,,Dem,Janice Laws Robinson,86,43,7,0,36
+Chattooga,Subligna,Commissioner Of Insurance,,Dem,Janice Laws Robinson,20,9,1,0,10
+Chattooga,Menlo,Commissioner Of Insurance,,Dem,Janice Laws Robinson,145,80,10,0,55
+Chattooga,Haywood,State School Superintendent,,Rep,Richard Woods ,74,7,0,0,67
+Chattooga,Lyerly,State School Superintendent,,Rep,Richard Woods ,731,309,16,0,406
+Chattooga,Trion,State School Superintendent,,Rep,Richard Woods ,2075,1108,51,0,916
+Chattooga,Summerville,State School Superintendent,,Rep,Richard Woods ,2036,1206,83,0,747
+Chattooga,Dirttown,State School Superintendent,,Rep,Richard Woods ,480,165,9,0,306
+Chattooga,Subligna,State School Superintendent,,Rep,Richard Woods ,292,89,11,0,192
+Chattooga,Menlo,State School Superintendent,,Rep,Richard Woods ,669,249,14,0,406
+Chattooga,Haywood,State School Superintendent,,Dem,Alisha Thomas Searcy,14,3,0,0,11
+Chattooga,Lyerly,State School Superintendent,,Dem,Alisha Thomas Searcy,155,80,15,0,60
+Chattooga,Trion,State School Superintendent,,Dem,Alisha Thomas Searcy,288,167,24,0,97
+Chattooga,Summerville,State School Superintendent,,Dem,Alisha Thomas Searcy,561,324,49,0,188
+Chattooga,Dirttown,State School Superintendent,,Dem,Alisha Thomas Searcy,88,46,8,0,34
+Chattooga,Subligna,State School Superintendent,,Dem,Alisha Thomas Searcy,18,10,1,0,7
+Chattooga,Menlo,State School Superintendent,,Dem,Alisha Thomas Searcy,143,77,8,0,58
+Chattooga,Haywood,Commissioner Of Labor,,Rep,Bruce Thompson,72,7,0,0,65
+Chattooga,Lyerly,Commissioner Of Labor,,Rep,Bruce Thompson,715,304,16,0,395
+Chattooga,Trion,Commissioner Of Labor,,Rep,Bruce Thompson,2031,1095,46,0,890
+Chattooga,Summerville,Commissioner Of Labor,,Rep,Bruce Thompson,1987,1172,83,0,732
+Chattooga,Dirttown,Commissioner Of Labor,,Rep,Bruce Thompson,464,159,9,0,296
+Chattooga,Subligna,Commissioner Of Labor,,Rep,Bruce Thompson,285,89,10,0,186
+Chattooga,Menlo,Commissioner Of Labor,,Rep,Bruce Thompson,651,242,12,0,397
+Chattooga,Haywood,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",14,3,0,0,11
+Chattooga,Lyerly,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",157,79,15,0,63
+Chattooga,Trion,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",290,160,28,0,102
+Chattooga,Summerville,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",560,326,47,0,187
+Chattooga,Dirttown,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",88,43,8,0,37
+Chattooga,Subligna,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",21,9,2,0,10
+Chattooga,Menlo,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",139,76,8,0,55
+Chattooga,Haywood,Commissioner Of Labor,,Lib,Emily Anderson,3,0,0,0,3
+Chattooga,Lyerly,Commissioner Of Labor,,Lib,Emily Anderson,16,7,0,0,9
+Chattooga,Trion,Commissioner Of Labor,,Lib,Emily Anderson,42,20,1,0,21
+Chattooga,Summerville,Commissioner Of Labor,,Lib,Emily Anderson,37,24,0,0,13
+Chattooga,Dirttown,Commissioner Of Labor,,Lib,Emily Anderson,15,7,0,0,8
+Chattooga,Subligna,Commissioner Of Labor,,Lib,Emily Anderson,4,1,0,0,3
+Chattooga,Menlo,Commissioner Of Labor,,Lib,Emily Anderson,22,9,2,0,11
+Chattooga,Haywood,U.S. House,14,Rep,Marjorie Taylor Greene ,72,7,0,0,65
+Chattooga,Lyerly,U.S. House,14,Rep,Marjorie Taylor Greene ,677,287,15,0,375
+Chattooga,Trion,U.S. House,14,Rep,Marjorie Taylor Greene ,1921,1038,42,0,841
+Chattooga,Summerville,U.S. House,14,Rep,Marjorie Taylor Greene ,1872,1105,73,0,694
+Chattooga,Dirttown,U.S. House,14,Rep,Marjorie Taylor Greene ,446,156,5,0,285
+Chattooga,Subligna,U.S. House,14,Rep,Marjorie Taylor Greene ,277,83,10,0,184
+Chattooga,Menlo,U.S. House,14,Rep,Marjorie Taylor Greene ,625,239,11,0,375
+Chattooga,Haywood,U.S. House,14,Dem,Marcus Flowers,18,3,0,0,15
+Chattooga,Lyerly,U.S. House,14,Dem,Marcus Flowers,207,98,16,0,93
+Chattooga,Trion,U.S. House,14,Dem,Marcus Flowers,427,222,33,0,172
+Chattooga,Summerville,U.S. House,14,Dem,Marcus Flowers,723,419,60,0,244
+Chattooga,Dirttown,U.S. House,14,Dem,Marcus Flowers,126,54,12,0,60
+Chattooga,Subligna,U.S. House,14,Dem,Marcus Flowers,38,16,3,0,19
+Chattooga,Menlo,U.S. House,14,Dem,Marcus Flowers,194,96,9,0,89
+Chattooga,Haywood,State Senate,53,Rep,Colton Moore,83,9,0,0,74
+Chattooga,Lyerly,State Senate,53,Rep,Colton Moore,786,345,15,0,426
+Chattooga,Trion,State Senate,53,Rep,Colton Moore,2190,1173,59,0,958
+Chattooga,Summerville,State Senate,53,Rep,Colton Moore,2227,1297,93,0,837
+Chattooga,Dirttown,State Senate,53,Rep,Colton Moore,503,179,10,0,314
+Chattooga,Subligna,State Senate,53,Rep,Colton Moore,306,97,12,0,197
+Chattooga,Menlo,State Senate,53,Rep,Colton Moore,718,275,15,0,428
+Chattooga,Haywood,State House,12,Rep,Eddie Lumsden ,82,9,0,0,73
+Chattooga,Lyerly,State House,12,Rep,Eddie Lumsden ,796,348,17,0,431
+Chattooga,Trion,State House,12,Rep,Eddie Lumsden ,2200,1183,60,0,957
+Chattooga,Summerville,State House,12,Rep,Eddie Lumsden ,2256,1319,98,0,839
+Chattooga,Dirttown,State House,12,Rep,Eddie Lumsden ,498,177,10,0,311
+Chattooga,Subligna,State House,12,Rep,Eddie Lumsden ,307,98,12,0,197
+Chattooga,Menlo,State House,12,Rep,Eddie Lumsden ,722,274,15,0,433
+Chattooga,Haywood,County Board of Education Dist 2,,Rep,Tiffany Lawrence,83,9,0,0,74
+Chattooga,Lyerly,County Board of Education Dist 2,,Rep,Tiffany Lawrence,800,347,16,0,437
+Chattooga,Trion,County Board of Education Dist 2,,Rep,Tiffany Lawrence,1723,966,51,0,706
+Chattooga,Summerville,County Board of Education Dist 2,,Rep,Tiffany Lawrence,2276,1335,97,0,844
+Chattooga,Dirttown,County Board of Education Dist 2,,Rep,Tiffany Lawrence,499,178,10,0,311
+Chattooga,Subligna,County Board of Education Dist 2,,Rep,Tiffany Lawrence,305,97,12,0,196
+Chattooga,Menlo,County Board of Education Dist 2,,Rep,Tiffany Lawrence,725,278,16,0,431
+Chattooga,Haywood,County Board of Education Dist 3,,Rep,Lori Ann Brady,73,8,0,0,65
+Chattooga,Lyerly,County Board of Education Dist 3,,Rep,Lori Ann Brady,574,248,12,0,314
+Chattooga,Trion,County Board of Education Dist 3,,Rep,Lori Ann Brady,1408,799,32,0,577
+Chattooga,Summerville,County Board of Education Dist 3,,Rep,Lori Ann Brady,1688,1005,60,0,623
+Chattooga,Dirttown,County Board of Education Dist 3,,Rep,Lori Ann Brady,416,147,9,0,260
+Chattooga,Subligna,County Board of Education Dist 3,,Rep,Lori Ann Brady,250,75,11,0,164
+Chattooga,Menlo,County Board of Education Dist 3,,Rep,Lori Ann Brady,528,207,10,0,311
+Chattooga,Haywood,County Board of Education Dist 3,,Dem,Lynn Hall ,16,2,0,0,14
+Chattooga,Lyerly,County Board of Education Dist 3,,Dem,Lynn Hall ,310,140,19,0,151
+Chattooga,Trion,County Board of Education Dist 3,,Dem,Lynn Hall ,404,216,27,0,161
+Chattooga,Summerville,County Board of Education Dist 3,,Dem,Lynn Hall ,882,515,65,0,302
+Chattooga,Dirttown,County Board of Education Dist 3,,Dem,Lynn Hall ,148,60,8,0,80
+Chattooga,Subligna,County Board of Education Dist 3,,Dem,Lynn Hall ,59,23,1,0,35
+Chattooga,Menlo,County Board of Education Dist 3,,Dem,Lynn Hall ,280,115,12,0,153
+Chattooga,Haywood,County Board of Education Dist 4,,Rep,Bonnie Fletcher,81,9,0,0,72
+Chattooga,Lyerly,County Board of Education Dist 4,,Rep,Bonnie Fletcher,797,345,17,0,435
+Chattooga,Trion,County Board of Education Dist 4,,Rep,Bonnie Fletcher,1727,966,49,0,712
+Chattooga,Summerville,County Board of Education Dist 4,,Rep,Bonnie Fletcher,2283,1346,94,0,843
+Chattooga,Dirttown,County Board of Education Dist 4,,Rep,Bonnie Fletcher,492,173,10,0,309
+Chattooga,Subligna,County Board of Education Dist 4,,Rep,Bonnie Fletcher,304,98,11,0,195
+Chattooga,Menlo,County Board of Education Dist 4,,Rep,Bonnie Fletcher,724,279,15,0,430
+Chattooga,Haywood,Constitutional Amendment #1,,,Yes,80,10,0,0,70
+Chattooga,Lyerly,Constitutional Amendment #1,,,Yes,751,329,24,0,398
+Chattooga,Trion,Constitutional Amendment #1,,,Yes,2041,1117,67,0,857
+Chattooga,Summerville,Constitutional Amendment #1,,,Yes,2221,1328,105,0,788
+Chattooga,Dirttown,Constitutional Amendment #1,,,Yes,471,181,15,0,275
+Chattooga,Subligna,Constitutional Amendment #1,,,Yes,269,92,6,0,171
+Chattooga,Menlo,Constitutional Amendment #1,,,Yes,700,291,17,0,392
+Chattooga,Haywood,Constitutional Amendment #1,,,No,6,0,0,0,6
+Chattooga,Lyerly,Constitutional Amendment #1,,,No,112,50,6,0,56
+Chattooga,Trion,Constitutional Amendment #1,,,No,264,124,5,0,135
+Chattooga,Summerville,Constitutional Amendment #1,,,No,305,172,16,0,117
+Chattooga,Dirttown,Constitutional Amendment #1,,,No,83,24,2,0,57
+Chattooga,Subligna,Constitutional Amendment #1,,,No,38,5,7,0,26
+Chattooga,Menlo,Constitutional Amendment #1,,,No,95,35,4,0,56
+Chattooga,Haywood,Constitutional Amendment #2,,,Yes,82,10,0,0,72
+Chattooga,Lyerly,Constitutional Amendment #2,,,Yes,800,348,23,0,429
+Chattooga,Trion,Constitutional Amendment #2,,,Yes,2159,1164,67,0,928
+Chattooga,Summerville,Constitutional Amendment #2,,,Yes,2380,1417,116,0,847
+Chattooga,Dirttown,Constitutional Amendment #2,,,Yes,520,192,17,0,311
+Chattooga,Subligna,Constitutional Amendment #2,,,Yes,283,93,10,0,180
+Chattooga,Menlo,Constitutional Amendment #2,,,Yes,749,308,21,0,420
+Chattooga,Haywood,Constitutional Amendment #2,,,No,4,0,0,0,4
+Chattooga,Lyerly,Constitutional Amendment #2,,,No,74,36,7,0,31
+Chattooga,Trion,Constitutional Amendment #2,,,No,170,93,6,0,71
+Chattooga,Summerville,Constitutional Amendment #2,,,No,172,99,5,0,68
+Chattooga,Dirttown,Constitutional Amendment #2,,,No,36,15,0,0,21
+Chattooga,Subligna,Constitutional Amendment #2,,,No,24,4,3,0,17
+Chattooga,Menlo,Constitutional Amendment #2,,,No,51,19,0,0,32
+Chattooga,Haywood,Statewide Referendum A,,,Yes,66,8,0,0,58
+Chattooga,Lyerly,Statewide Referendum A,,,Yes,534,219,10,0,305
+Chattooga,Trion,Statewide Referendum A,,,Yes,1477,787,36,0,654
+Chattooga,Summerville,Statewide Referendum A,,,Yes,1654,955,78,0,621
+Chattooga,Dirttown,Statewide Referendum A,,,Yes,355,119,7,0,229
+Chattooga,Subligna,Statewide Referendum A,,,Yes,212,61,6,0,145
+Chattooga,Menlo,Statewide Referendum A,,,Yes,498,190,15,0,293
+Chattooga,Haywood,Statewide Referendum A,,,No,21,2,0,0,19
+Chattooga,Lyerly,Statewide Referendum A,,,No,323,156,18,0,149
+Chattooga,Trion,Statewide Referendum A,,,No,800,446,34,0,320
+Chattooga,Summerville,Statewide Referendum A,,,No,850,527,42,0,281
+Chattooga,Dirttown,Statewide Referendum A,,,No,190,85,9,0,96
+Chattooga,Subligna,Statewide Referendum A,,,No,88,33,6,0,49
+Chattooga,Menlo,Statewide Referendum A,,,No,284,131,6,0,147
+Chattooga,Haywood,Statewide Referendum B,,,Yes,77,8,0,0,69
+Chattooga,Lyerly,Statewide Referendum B,,,Yes,702,301,16,0,385
+Chattooga,Trion,Statewide Referendum B,,,Yes,1900,1019,50,0,831
+Chattooga,Summerville,Statewide Referendum B,,,Yes,2061,1198,95,0,768
+Chattooga,Dirttown,Statewide Referendum B,,,Yes,450,156,13,0,281
+Chattooga,Subligna,Statewide Referendum B,,,Yes,262,83,7,0,172
+Chattooga,Menlo,Statewide Referendum B,,,Yes,657,265,19,0,373
+Chattooga,Haywood,Statewide Referendum B,,,No,9,2,0,0,7
+Chattooga,Lyerly,Statewide Referendum B,,,No,163,80,12,0,71
+Chattooga,Trion,Statewide Referendum B,,,No,390,217,20,0,153
+Chattooga,Summerville,Statewide Referendum B,,,No,456,289,27,0,140
+Chattooga,Dirttown,Statewide Referendum B,,,No,109,51,4,0,54
+Chattooga,Subligna,Statewide Referendum B,,,No,41,10,6,0,25
+Chattooga,Menlo,Statewide Referendum B,,,No,134,59,2,0,73

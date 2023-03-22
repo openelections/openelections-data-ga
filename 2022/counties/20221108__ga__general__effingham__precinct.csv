@@ -1,0 +1,796 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Effingham,1A,U.S. Senate,,Rep,Herschel Junior Walker,1174,503,24,2,645
+Effingham,1B,U.S. Senate,,Rep,Herschel Junior Walker,1169,559,18,1,591
+Effingham,1C,U.S. Senate,,Rep,Herschel Junior Walker,800,226,6,2,566
+Effingham,1D,U.S. Senate,,Rep,Herschel Junior Walker,926,241,20,0,665
+Effingham,2A,U.S. Senate,,Rep,Herschel Junior Walker,941,312,18,0,611
+Effingham,2B,U.S. Senate,,Rep,Herschel Junior Walker,726,305,17,0,404
+Effingham,2C,U.S. Senate,,Rep,Herschel Junior Walker,971,476,25,1,469
+Effingham,2D,U.S. Senate,,Rep,Herschel Junior Walker,1266,595,25,1,645
+Effingham,3A,U.S. Senate,,Rep,Herschel Junior Walker,620,251,9,0,360
+Effingham,3B,U.S. Senate,,Rep,Herschel Junior Walker,978,492,26,0,460
+Effingham,3C,U.S. Senate,,Rep,Herschel Junior Walker,565,297,16,0,252
+Effingham,3D,U.S. Senate,,Rep,Herschel Junior Walker,1164,616,14,0,534
+Effingham,3E,U.S. Senate,,Rep,Herschel Junior Walker,517,304,9,0,204
+Effingham,4A,U.S. Senate,,Rep,Herschel Junior Walker,1459,877,30,0,552
+Effingham,4B,U.S. Senate,,Rep,Herschel Junior Walker,684,342,17,2,323
+Effingham,4C,U.S. Senate,,Rep,Herschel Junior Walker,888,520,15,0,353
+Effingham,5A,U.S. Senate,,Rep,Herschel Junior Walker,1169,548,34,0,587
+Effingham,5B,U.S. Senate,,Rep,Herschel Junior Walker,762,366,23,0,373
+Effingham,5C,U.S. Senate,,Rep,Herschel Junior Walker,790,416,11,0,363
+Effingham,5D,U.S. Senate,,Rep,Herschel Junior Walker,662,328,5,0,329
+Effingham,1A,U.S. Senate,,Dem,Raphael Warnock ,326,142,24,0,160
+Effingham,1B,U.S. Senate,,Dem,Raphael Warnock ,240,138,18,0,84
+Effingham,1C,U.S. Senate,,Dem,Raphael Warnock ,206,61,16,0,129
+Effingham,1D,U.S. Senate,,Dem,Raphael Warnock ,178,53,25,0,100
+Effingham,2A,U.S. Senate,,Dem,Raphael Warnock ,329,146,19,1,163
+Effingham,2B,U.S. Senate,,Dem,Raphael Warnock ,206,108,14,0,84
+Effingham,2C,U.S. Senate,,Dem,Raphael Warnock ,386,202,29,0,155
+Effingham,2D,U.S. Senate,,Dem,Raphael Warnock ,486,232,48,0,206
+Effingham,3A,U.S. Senate,,Dem,Raphael Warnock ,144,67,17,0,60
+Effingham,3B,U.S. Senate,,Dem,Raphael Warnock ,377,164,38,0,175
+Effingham,3C,U.S. Senate,,Dem,Raphael Warnock ,192,98,15,0,79
+Effingham,3D,U.S. Senate,,Dem,Raphael Warnock ,515,244,39,0,232
+Effingham,3E,U.S. Senate,,Dem,Raphael Warnock ,131,89,12,0,30
+Effingham,4A,U.S. Senate,,Dem,Raphael Warnock ,469,282,43,0,144
+Effingham,4B,U.S. Senate,,Dem,Raphael Warnock ,459,255,44,1,159
+Effingham,4C,U.S. Senate,,Dem,Raphael Warnock ,275,169,22,1,83
+Effingham,5A,U.S. Senate,,Dem,Raphael Warnock ,453,229,34,0,190
+Effingham,5B,U.S. Senate,,Dem,Raphael Warnock ,287,139,22,1,125
+Effingham,5C,U.S. Senate,,Dem,Raphael Warnock ,504,289,45,0,170
+Effingham,5D,U.S. Senate,,Dem,Raphael Warnock ,310,134,23,0,153
+Effingham,1A,U.S. Senate,,Lib,Chase Oliver,33,10,0,0,23
+Effingham,1B,U.S. Senate,,Lib,Chase Oliver,25,12,0,0,13
+Effingham,1C,U.S. Senate,,Lib,Chase Oliver,17,4,0,0,13
+Effingham,1D,U.S. Senate,,Lib,Chase Oliver,23,4,1,0,18
+Effingham,2A,U.S. Senate,,Lib,Chase Oliver,39,6,0,0,33
+Effingham,2B,U.S. Senate,,Lib,Chase Oliver,25,11,2,0,12
+Effingham,2C,U.S. Senate,,Lib,Chase Oliver,33,16,1,0,16
+Effingham,2D,U.S. Senate,,Lib,Chase Oliver,47,15,2,0,30
+Effingham,3A,U.S. Senate,,Lib,Chase Oliver,18,6,0,0,12
+Effingham,3B,U.S. Senate,,Lib,Chase Oliver,27,18,0,0,9
+Effingham,3C,U.S. Senate,,Lib,Chase Oliver,16,7,2,0,7
+Effingham,3D,U.S. Senate,,Lib,Chase Oliver,44,20,0,0,24
+Effingham,3E,U.S. Senate,,Lib,Chase Oliver,34,17,1,0,16
+Effingham,4A,U.S. Senate,,Lib,Chase Oliver,42,22,2,0,18
+Effingham,4B,U.S. Senate,,Lib,Chase Oliver,22,10,1,0,11
+Effingham,4C,U.S. Senate,,Lib,Chase Oliver,20,8,1,0,11
+Effingham,5A,U.S. Senate,,Lib,Chase Oliver,57,18,4,0,35
+Effingham,5B,U.S. Senate,,Lib,Chase Oliver,34,16,2,0,16
+Effingham,5C,U.S. Senate,,Lib,Chase Oliver,31,11,5,0,15
+Effingham,5D,U.S. Senate,,Lib,Chase Oliver,17,9,0,0,8
+Effingham,1A,Governor,,Rep,Brian Kemp ,1254,535,26,2,691
+Effingham,1B,Governor,,Rep,Brian Kemp ,1225,589,17,1,618
+Effingham,1C,Governor,,Rep,Brian Kemp ,853,241,7,2,603
+Effingham,1D,Governor,,Rep,Brian Kemp ,984,257,23,0,704
+Effingham,2A,Governor,,Rep,Brian Kemp ,1010,323,21,0,666
+Effingham,2B,Governor,,Rep,Brian Kemp ,763,323,20,0,420
+Effingham,2C,Governor,,Rep,Brian Kemp ,1052,513,30,1,508
+Effingham,2D,Governor,,Rep,Brian Kemp ,1373,631,34,1,707
+Effingham,3A,Governor,,Rep,Brian Kemp ,664,268,12,0,384
+Effingham,3B,Governor,,Rep,Brian Kemp ,1044,531,32,0,481
+Effingham,3C,Governor,,Rep,Brian Kemp ,591,305,20,0,266
+Effingham,3D,Governor,,Rep,Brian Kemp ,1252,660,17,0,575
+Effingham,3E,Governor,,Rep,Brian Kemp ,560,322,12,0,226
+Effingham,4A,Governor,,Rep,Brian Kemp ,1556,937,37,0,582
+Effingham,4B,Governor,,Rep,Brian Kemp ,735,368,19,1,347
+Effingham,4C,Governor,,Rep,Brian Kemp ,952,562,23,0,367
+Effingham,5A,Governor,,Rep,Brian Kemp ,1267,588,38,0,641
+Effingham,5B,Governor,,Rep,Brian Kemp ,827,399,25,0,403
+Effingham,5C,Governor,,Rep,Brian Kemp ,860,445,16,0,399
+Effingham,5D,Governor,,Rep,Brian Kemp ,731,364,6,0,361
+Effingham,1A,Governor,,Dem,Stacey Abrams,271,120,20,0,131
+Effingham,1B,Governor,,Dem,Stacey Abrams,204,121,17,0,66
+Effingham,1C,Governor,,Dem,Stacey Abrams,165,50,15,0,100
+Effingham,1D,Governor,,Dem,Stacey Abrams,137,43,23,0,71
+Effingham,2A,Governor,,Dem,Stacey Abrams,290,138,16,1,135
+Effingham,2B,Governor,,Dem,Stacey Abrams,179,94,14,0,71
+Effingham,2C,Governor,,Dem,Stacey Abrams,320,174,24,0,122
+Effingham,2D,Governor,,Dem,Stacey Abrams,416,211,40,0,165
+Effingham,3A,Governor,,Dem,Stacey Abrams,116,53,14,0,49
+Effingham,3B,Governor,,Dem,Stacey Abrams,330,142,32,0,156
+Effingham,3C,Governor,,Dem,Stacey Abrams,176,93,12,0,71
+Effingham,3D,Governor,,Dem,Stacey Abrams,463,219,37,0,207
+Effingham,3E,Governor,,Dem,Stacey Abrams,112,80,11,0,21
+Effingham,4A,Governor,,Dem,Stacey Abrams,407,247,35,0,125
+Effingham,4B,Governor,,Dem,Stacey Abrams,423,239,44,1,139
+Effingham,4C,Governor,,Dem,Stacey Abrams,222,134,15,1,72
+Effingham,5A,Governor,,Dem,Stacey Abrams,406,206,33,0,167
+Effingham,5B,Governor,,Dem,Stacey Abrams,253,124,22,1,106
+Effingham,5C,Governor,,Dem,Stacey Abrams,459,266,44,0,149
+Effingham,5D,Governor,,Dem,Stacey Abrams,254,107,22,0,125
+Effingham,1A,Governor,,Lib,Shane Hazel,13,2,2,0,9
+Effingham,1B,Governor,,Lib,Shane Hazel,10,2,2,0,6
+Effingham,1C,Governor,,Lib,Shane Hazel,8,0,0,0,8
+Effingham,1D,Governor,,Lib,Shane Hazel,9,0,0,0,9
+Effingham,2A,Governor,,Lib,Shane Hazel,15,3,0,0,12
+Effingham,2B,Governor,,Lib,Shane Hazel,21,10,1,0,10
+Effingham,2C,Governor,,Lib,Shane Hazel,19,8,0,0,11
+Effingham,2D,Governor,,Lib,Shane Hazel,16,2,1,0,13
+Effingham,3A,Governor,,Lib,Shane Hazel,4,3,0,0,1
+Effingham,3B,Governor,,Lib,Shane Hazel,12,5,0,0,7
+Effingham,3C,Governor,,Lib,Shane Hazel,6,3,0,0,3
+Effingham,3D,Governor,,Lib,Shane Hazel,16,3,0,0,13
+Effingham,3E,Governor,,Lib,Shane Hazel,14,9,0,0,5
+Effingham,4A,Governor,,Lib,Shane Hazel,16,6,1,0,9
+Effingham,4B,Governor,,Lib,Shane Hazel,8,2,0,1,5
+Effingham,4C,Governor,,Lib,Shane Hazel,13,4,0,0,9
+Effingham,5A,Governor,,Lib,Shane Hazel,13,6,1,0,6
+Effingham,5B,Governor,,Lib,Shane Hazel,9,4,0,0,5
+Effingham,5C,Governor,,Lib,Shane Hazel,9,3,2,0,4
+Effingham,5D,Governor,,Lib,Shane Hazel,11,4,0,0,7
+Effingham,1A,Lieutenant Governor,,Rep,Burt Jones,1215,518,24,2,671
+Effingham,1B,Lieutenant Governor,,Rep,Burt Jones,1196,576,17,1,602
+Effingham,1C,Lieutenant Governor,,Rep,Burt Jones,810,225,7,2,576
+Effingham,1D,Lieutenant Governor,,Rep,Burt Jones,958,248,23,0,687
+Effingham,2A,Lieutenant Governor,,Rep,Burt Jones,976,315,20,0,641
+Effingham,2B,Lieutenant Governor,,Rep,Burt Jones,746,318,18,0,410
+Effingham,2C,Lieutenant Governor,,Rep,Burt Jones,1014,499,26,1,488
+Effingham,2D,Lieutenant Governor,,Rep,Burt Jones,1317,614,33,1,669
+Effingham,3A,Lieutenant Governor,,Rep,Burt Jones,654,268,12,0,374
+Effingham,3B,Lieutenant Governor,,Rep,Burt Jones,1016,519,27,0,470
+Effingham,3C,Lieutenant Governor,,Rep,Burt Jones,580,303,17,0,260
+Effingham,3D,Lieutenant Governor,,Rep,Burt Jones,1215,642,15,0,558
+Effingham,3E,Lieutenant Governor,,Rep,Burt Jones,540,315,12,0,213
+Effingham,4A,Lieutenant Governor,,Rep,Burt Jones,1503,911,35,0,557
+Effingham,4B,Lieutenant Governor,,Rep,Burt Jones,715,364,18,2,331
+Effingham,4C,Lieutenant Governor,,Rep,Burt Jones,923,537,23,0,363
+Effingham,5A,Lieutenant Governor,,Rep,Burt Jones,1221,570,38,0,613
+Effingham,5B,Lieutenant Governor,,Rep,Burt Jones,793,385,24,0,384
+Effingham,5C,Lieutenant Governor,,Rep,Burt Jones,832,432,15,0,385
+Effingham,5D,Lieutenant Governor,,Rep,Burt Jones,691,349,6,0,336
+Effingham,1A,Lieutenant Governor,,Dem,Charlie Bailey,281,128,21,0,132
+Effingham,1B,Lieutenant Governor,,Dem,Charlie Bailey,206,119,17,0,70
+Effingham,1C,Lieutenant Governor,,Dem,Charlie Bailey,174,53,13,0,108
+Effingham,1D,Lieutenant Governor,,Dem,Charlie Bailey,145,48,22,0,75
+Effingham,2A,Lieutenant Governor,,Dem,Charlie Bailey,290,133,14,1,142
+Effingham,2B,Lieutenant Governor,,Dem,Charlie Bailey,181,93,13,0,75
+Effingham,2C,Lieutenant Governor,,Dem,Charlie Bailey,328,176,26,0,126
+Effingham,2D,Lieutenant Governor,,Dem,Charlie Bailey,426,207,41,0,178
+Effingham,3A,Lieutenant Governor,,Dem,Charlie Bailey,113,52,13,0,48
+Effingham,3B,Lieutenant Governor,,Dem,Charlie Bailey,320,135,35,0,150
+Effingham,3C,Lieutenant Governor,,Dem,Charlie Bailey,176,90,14,0,72
+Effingham,3D,Lieutenant Governor,,Dem,Charlie Bailey,447,214,37,0,196
+Effingham,3E,Lieutenant Governor,,Dem,Charlie Bailey,121,83,11,0,27
+Effingham,4A,Lieutenant Governor,,Dem,Charlie Bailey,406,239,36,0,131
+Effingham,4B,Lieutenant Governor,,Dem,Charlie Bailey,410,221,44,1,144
+Effingham,4C,Lieutenant Governor,,Dem,Charlie Bailey,230,141,15,0,74
+Effingham,5A,Lieutenant Governor,,Dem,Charlie Bailey,405,210,32,0,163
+Effingham,5B,Lieutenant Governor,,Dem,Charlie Bailey,254,123,21,1,109
+Effingham,5C,Lieutenant Governor,,Dem,Charlie Bailey,462,267,42,0,153
+Effingham,5D,Lieutenant Governor,,Dem,Charlie Bailey,266,112,21,0,133
+Effingham,1A,Lieutenant Governor,,Lib,Ryan Graham,32,9,1,0,22
+Effingham,1B,Lieutenant Governor,,Lib,Ryan Graham,22,8,2,0,12
+Effingham,1C,Lieutenant Governor,,Lib,Ryan Graham,26,6,0,0,20
+Effingham,1D,Lieutenant Governor,,Lib,Ryan Graham,16,1,0,0,15
+Effingham,2A,Lieutenant Governor,,Lib,Ryan Graham,38,9,1,0,28
+Effingham,2B,Lieutenant Governor,,Lib,Ryan Graham,27,11,2,0,14
+Effingham,2C,Lieutenant Governor,,Lib,Ryan Graham,34,13,2,0,19
+Effingham,2D,Lieutenant Governor,,Lib,Ryan Graham,44,13,1,0,30
+Effingham,3A,Lieutenant Governor,,Lib,Ryan Graham,8,2,0,0,6
+Effingham,3B,Lieutenant Governor,,Lib,Ryan Graham,21,11,0,0,10
+Effingham,3C,Lieutenant Governor,,Lib,Ryan Graham,11,5,1,0,5
+Effingham,3D,Lieutenant Governor,,Lib,Ryan Graham,40,13,1,0,26
+Effingham,3E,Lieutenant Governor,,Lib,Ryan Graham,23,12,0,0,11
+Effingham,4A,Lieutenant Governor,,Lib,Ryan Graham,41,18,2,0,21
+Effingham,4B,Lieutenant Governor,,Lib,Ryan Graham,23,9,0,0,14
+Effingham,4C,Lieutenant Governor,,Lib,Ryan Graham,22,10,0,0,12
+Effingham,5A,Lieutenant Governor,,Lib,Ryan Graham,48,17,1,0,30
+Effingham,5B,Lieutenant Governor,,Lib,Ryan Graham,32,12,1,0,19
+Effingham,5C,Lieutenant Governor,,Lib,Ryan Graham,24,11,5,0,8
+Effingham,5D,Lieutenant Governor,,Lib,Ryan Graham,28,10,0,0,18
+Effingham,1A,Secretary of State,,Rep,Brad Raffensperger ,1221,520,32,2,667
+Effingham,1B,Secretary of State,,Rep,Brad Raffensperger ,1185,570,17,1,597
+Effingham,1C,Secretary of State,,Rep,Brad Raffensperger ,806,230,8,2,566
+Effingham,1D,Secretary of State,,Rep,Brad Raffensperger ,950,248,25,0,677
+Effingham,2A,Secretary of State,,Rep,Brad Raffensperger ,988,321,18,0,649
+Effingham,2B,Secretary of State,,Rep,Brad Raffensperger ,746,321,21,0,404
+Effingham,2C,Secretary of State,,Rep,Brad Raffensperger ,1026,505,30,1,490
+Effingham,2D,Secretary of State,,Rep,Brad Raffensperger ,1355,632,37,1,685
+Effingham,3A,Secretary of State,,Rep,Brad Raffensperger ,638,262,12,0,364
+Effingham,3B,Secretary of State,,Rep,Brad Raffensperger ,1003,516,28,0,459
+Effingham,3C,Secretary of State,,Rep,Brad Raffensperger ,571,305,19,0,247
+Effingham,3D,Secretary of State,,Rep,Brad Raffensperger ,1230,652,19,0,559
+Effingham,3E,Secretary of State,,Rep,Brad Raffensperger ,536,316,10,0,210
+Effingham,4A,Secretary of State,,Rep,Brad Raffensperger ,1523,926,39,0,558
+Effingham,4B,Secretary of State,,Rep,Brad Raffensperger ,738,376,19,2,341
+Effingham,4C,Secretary of State,,Rep,Brad Raffensperger ,931,545,26,0,360
+Effingham,5A,Secretary of State,,Rep,Brad Raffensperger ,1211,568,34,0,609
+Effingham,5B,Secretary of State,,Rep,Brad Raffensperger ,795,388,24,0,383
+Effingham,5C,Secretary of State,,Rep,Brad Raffensperger ,853,442,17,0,394
+Effingham,5D,Secretary of State,,Rep,Brad Raffensperger ,712,353,6,0,353
+Effingham,1A,Secretary of State,,Dem,Bee Nguyen,259,116,14,0,129
+Effingham,1B,Secretary of State,,Dem,Bee Nguyen,198,117,16,0,65
+Effingham,1C,Secretary of State,,Dem,Bee Nguyen,170,46,13,0,111
+Effingham,1D,Secretary of State,,Dem,Bee Nguyen,135,44,18,0,73
+Effingham,2A,Secretary of State,,Dem,Bee Nguyen,274,126,15,1,132
+Effingham,2B,Secretary of State,,Dem,Bee Nguyen,170,87,10,0,73
+Effingham,2C,Secretary of State,,Dem,Bee Nguyen,311,164,23,0,124
+Effingham,2D,Secretary of State,,Dem,Bee Nguyen,381,188,36,0,157
+Effingham,3A,Secretary of State,,Dem,Bee Nguyen,115,52,12,0,51
+Effingham,3B,Secretary of State,,Dem,Bee Nguyen,320,134,34,0,152
+Effingham,3C,Secretary of State,,Dem,Bee Nguyen,159,83,12,0,64
+Effingham,3D,Secretary of State,,Dem,Bee Nguyen,412,189,35,0,188
+Effingham,3E,Secretary of State,,Dem,Bee Nguyen,119,80,12,0,27
+Effingham,4A,Secretary of State,,Dem,Bee Nguyen,380,224,33,0,123
+Effingham,4B,Secretary of State,,Dem,Bee Nguyen,388,212,44,1,131
+Effingham,4C,Secretary of State,,Dem,Bee Nguyen,216,133,12,0,71
+Effingham,5A,Secretary of State,,Dem,Bee Nguyen,383,193,33,0,157
+Effingham,5B,Secretary of State,,Dem,Bee Nguyen,242,117,22,1,102
+Effingham,5C,Secretary of State,,Dem,Bee Nguyen,435,249,41,0,145
+Effingham,5D,Secretary of State,,Dem,Bee Nguyen,238,99,21,0,118
+Effingham,1A,Secretary of State,,Lib,Ted Metz,46,16,1,0,29
+Effingham,1B,Secretary of State,,Lib,Ted Metz,38,11,2,0,25
+Effingham,1C,Secretary of State,,Lib,Ted Metz,35,6,0,0,29
+Effingham,1D,Secretary of State,,Lib,Ted Metz,31,5,1,0,25
+Effingham,2A,Secretary of State,,Lib,Ted Metz,44,13,2,0,29
+Effingham,2B,Secretary of State,,Lib,Ted Metz,38,14,2,0,22
+Effingham,2C,Secretary of State,,Lib,Ted Metz,41,17,1,0,23
+Effingham,2D,Secretary of State,,Lib,Ted Metz,56,17,2,0,37
+Effingham,3A,Secretary of State,,Lib,Ted Metz,22,7,1,0,14
+Effingham,3B,Secretary of State,,Lib,Ted Metz,34,14,0,0,20
+Effingham,3C,Secretary of State,,Lib,Ted Metz,30,7,1,0,22
+Effingham,3D,Secretary of State,,Lib,Ted Metz,61,26,0,0,35
+Effingham,3E,Secretary of State,,Lib,Ted Metz,27,15,1,0,11
+Effingham,4A,Secretary of State,,Lib,Ted Metz,51,24,1,0,26
+Effingham,4B,Secretary of State,,Lib,Ted Metz,25,8,0,0,17
+Effingham,4C,Secretary of State,,Lib,Ted Metz,32,15,0,0,17
+Effingham,5A,Secretary of State,,Lib,Ted Metz,72,30,4,0,38
+Effingham,5B,Secretary of State,,Lib,Ted Metz,40,15,1,0,24
+Effingham,5C,Secretary of State,,Lib,Ted Metz,30,17,4,0,9
+Effingham,5D,Secretary of State,,Lib,Ted Metz,35,15,1,0,19
+Effingham,1A,Attorney General,,Rep,Chris Carr ,1219,518,24,2,675
+Effingham,1B,Attorney General,,Rep,Chris Carr ,1188,568,16,1,603
+Effingham,1C,Attorney General,,Rep,Chris Carr ,829,234,7,2,586
+Effingham,1D,Attorney General,,Rep,Chris Carr ,960,247,22,0,691
+Effingham,2A,Attorney General,,Rep,Chris Carr ,977,319,19,0,639
+Effingham,2B,Attorney General,,Rep,Chris Carr ,746,319,18,0,409
+Effingham,2C,Attorney General,,Rep,Chris Carr ,1021,503,25,1,492
+Effingham,2D,Attorney General,,Rep,Chris Carr ,1325,618,31,1,675
+Effingham,3A,Attorney General,,Rep,Chris Carr ,651,266,11,0,374
+Effingham,3B,Attorney General,,Rep,Chris Carr ,1015,520,25,0,470
+Effingham,3C,Attorney General,,Rep,Chris Carr ,588,304,20,0,264
+Effingham,3D,Attorney General,,Rep,Chris Carr ,1219,647,15,0,557
+Effingham,3E,Attorney General,,Rep,Chris Carr ,542,317,10,0,215
+Effingham,4A,Attorney General,,Rep,Chris Carr ,1509,911,34,0,564
+Effingham,4B,Attorney General,,Rep,Chris Carr ,715,359,19,2,335
+Effingham,4C,Attorney General,,Rep,Chris Carr ,922,544,21,0,357
+Effingham,5A,Attorney General,,Rep,Chris Carr ,1214,567,32,0,615
+Effingham,5B,Attorney General,,Rep,Chris Carr ,798,387,24,0,387
+Effingham,5C,Attorney General,,Rep,Chris Carr ,836,431,17,0,388
+Effingham,5D,Attorney General,,Rep,Chris Carr ,713,351,6,0,356
+Effingham,1A,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",291,132,20,0,139
+Effingham,1B,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",223,132,18,0,73
+Effingham,1C,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",173,50,13,0,110
+Effingham,1D,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",152,48,24,0,80
+Effingham,2A,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",303,134,16,1,152
+Effingham,2B,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",184,92,13,0,79
+Effingham,2C,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",336,179,27,0,130
+Effingham,2D,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",429,208,43,0,178
+Effingham,3A,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",119,55,13,0,51
+Effingham,3B,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",338,145,37,0,156
+Effingham,3C,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",168,90,12,0,66
+Effingham,3D,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",468,222,37,0,209
+Effingham,3E,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",125,86,13,0,26
+Effingham,4A,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",423,256,37,0,130
+Effingham,4B,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",414,231,44,1,138
+Effingham,4C,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",234,142,17,0,75
+Effingham,5A,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",418,217,35,0,166
+Effingham,5B,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",256,126,23,1,106
+Effingham,5C,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",463,272,41,0,150
+Effingham,5D,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",258,114,22,0,122
+Effingham,1A,Attorney General,,Lib,Martin Cowen,20,5,2,0,13
+Effingham,1B,Attorney General,,Lib,Martin Cowen,18,6,2,0,10
+Effingham,1C,Attorney General,,Lib,Martin Cowen,12,2,0,0,10
+Effingham,1D,Attorney General,,Lib,Martin Cowen,9,0,0,0,9
+Effingham,2A,Attorney General,,Lib,Martin Cowen,25,5,0,0,20
+Effingham,2B,Attorney General,,Lib,Martin Cowen,25,12,2,0,11
+Effingham,2C,Attorney General,,Lib,Martin Cowen,25,8,0,0,17
+Effingham,2D,Attorney General,,Lib,Martin Cowen,44,16,1,0,27
+Effingham,3A,Attorney General,,Lib,Martin Cowen,4,1,1,0,2
+Effingham,3B,Attorney General,,Lib,Martin Cowen,19,9,0,0,10
+Effingham,3C,Attorney General,,Lib,Martin Cowen,10,4,0,0,6
+Effingham,3D,Attorney General,,Lib,Martin Cowen,26,6,1,0,19
+Effingham,3E,Attorney General,,Lib,Martin Cowen,18,8,0,0,10
+Effingham,4A,Attorney General,,Lib,Martin Cowen,25,8,1,0,16
+Effingham,4B,Attorney General,,Lib,Martin Cowen,22,7,0,0,15
+Effingham,4C,Attorney General,,Lib,Martin Cowen,20,7,0,0,13
+Effingham,5A,Attorney General,,Lib,Martin Cowen,42,12,3,0,27
+Effingham,5B,Attorney General,,Lib,Martin Cowen,25,9,0,0,16
+Effingham,5C,Attorney General,,Lib,Martin Cowen,18,7,4,0,7
+Effingham,5D,Attorney General,,Lib,Martin Cowen,18,7,0,0,11
+Effingham,1A,Commissioner of Agriculture,,Rep,Tyler Harper,1237,525,27,2,683
+Effingham,1B,Commissioner of Agriculture,,Rep,Tyler Harper,1199,583,16,1,599
+Effingham,1C,Commissioner of Agriculture,,Rep,Tyler Harper,822,231,7,2,582
+Effingham,1D,Commissioner of Agriculture,,Rep,Tyler Harper,965,250,25,0,690
+Effingham,2A,Commissioner of Agriculture,,Rep,Tyler Harper,992,323,19,0,650
+Effingham,2B,Commissioner of Agriculture,,Rep,Tyler Harper,749,322,18,0,409
+Effingham,2C,Commissioner of Agriculture,,Rep,Tyler Harper,1035,513,27,1,494
+Effingham,2D,Commissioner of Agriculture,,Rep,Tyler Harper,1337,624,32,1,680
+Effingham,3A,Commissioner of Agriculture,,Rep,Tyler Harper,656,266,11,0,379
+Effingham,3B,Commissioner of Agriculture,,Rep,Tyler Harper,1019,523,30,0,466
+Effingham,3C,Commissioner of Agriculture,,Rep,Tyler Harper,592,307,20,0,265
+Effingham,3D,Commissioner of Agriculture,,Rep,Tyler Harper,1239,654,15,0,570
+Effingham,3E,Commissioner of Agriculture,,Rep,Tyler Harper,551,317,11,0,223
+Effingham,4A,Commissioner of Agriculture,,Rep,Tyler Harper,1514,916,35,0,563
+Effingham,4B,Commissioner of Agriculture,,Rep,Tyler Harper,709,362,16,2,329
+Effingham,4C,Commissioner of Agriculture,,Rep,Tyler Harper,925,544,23,0,358
+Effingham,5A,Commissioner of Agriculture,,Rep,Tyler Harper,1240,578,37,0,625
+Effingham,5B,Commissioner of Agriculture,,Rep,Tyler Harper,806,390,25,0,391
+Effingham,5C,Commissioner of Agriculture,,Rep,Tyler Harper,842,436,16,0,390
+Effingham,5D,Commissioner of Agriculture,,Rep,Tyler Harper,710,353,5,0,352
+Effingham,1A,Commissioner of Agriculture,,Dem,Nakita Hemingway,262,123,16,0,123
+Effingham,1B,Commissioner of Agriculture,,Dem,Nakita Hemingway,205,116,17,0,72
+Effingham,1C,Commissioner of Agriculture,,Dem,Nakita Hemingway,162,48,13,0,101
+Effingham,1D,Commissioner of Agriculture,,Dem,Nakita Hemingway,134,42,20,0,72
+Effingham,2A,Commissioner of Agriculture,,Dem,Nakita Hemingway,280,128,14,1,137
+Effingham,2B,Commissioner of Agriculture,,Dem,Nakita Hemingway,174,89,13,0,72
+Effingham,2C,Commissioner of Agriculture,,Dem,Nakita Hemingway,315,165,27,0,123
+Effingham,2D,Commissioner of Agriculture,,Dem,Nakita Hemingway,403,200,42,0,161
+Effingham,3A,Commissioner of Agriculture,,Dem,Nakita Hemingway,109,54,13,0,42
+Effingham,3B,Commissioner of Agriculture,,Dem,Nakita Hemingway,324,137,33,0,154
+Effingham,3C,Commissioner of Agriculture,,Dem,Nakita Hemingway,165,89,12,0,64
+Effingham,3D,Commissioner of Agriculture,,Dem,Nakita Hemingway,439,208,38,0,193
+Effingham,3E,Commissioner of Agriculture,,Dem,Nakita Hemingway,116,85,11,0,20
+Effingham,4A,Commissioner of Agriculture,,Dem,Nakita Hemingway,410,243,36,0,131
+Effingham,4B,Commissioner of Agriculture,,Dem,Nakita Hemingway,412,227,44,1,140
+Effingham,4C,Commissioner of Agriculture,,Dem,Nakita Hemingway,226,143,13,0,70
+Effingham,5A,Commissioner of Agriculture,,Dem,Nakita Hemingway,387,201,32,0,154
+Effingham,5B,Commissioner of Agriculture,,Dem,Nakita Hemingway,248,121,21,1,105
+Effingham,5C,Commissioner of Agriculture,,Dem,Nakita Hemingway,446,259,43,0,144
+Effingham,5D,Commissioner of Agriculture,,Dem,Nakita Hemingway,247,108,22,0,117
+Effingham,1A,Commissioner of Agriculture,,Lib,David Raudabaugh,29,7,3,0,19
+Effingham,1B,Commissioner of Agriculture,,Lib,David Raudabaugh,26,9,3,0,14
+Effingham,1C,Commissioner of Agriculture,,Lib,David Raudabaugh,24,5,0,0,19
+Effingham,1D,Commissioner of Agriculture,,Lib,David Raudabaugh,20,2,0,0,18
+Effingham,2A,Commissioner of Agriculture,,Lib,David Raudabaugh,35,9,2,0,24
+Effingham,2B,Commissioner of Agriculture,,Lib,David Raudabaugh,31,12,1,0,18
+Effingham,2C,Commissioner of Agriculture,,Lib,David Raudabaugh,31,12,0,0,19
+Effingham,2D,Commissioner of Agriculture,,Lib,David Raudabaugh,50,16,0,0,34
+Effingham,3A,Commissioner of Agriculture,,Lib,David Raudabaugh,10,3,1,0,6
+Effingham,3B,Commissioner of Agriculture,,Lib,David Raudabaugh,24,12,0,0,12
+Effingham,3C,Commissioner of Agriculture,,Lib,David Raudabaugh,10,3,0,0,7
+Effingham,3D,Commissioner of Agriculture,,Lib,David Raudabaugh,31,9,1,0,21
+Effingham,3E,Commissioner of Agriculture,,Lib,David Raudabaugh,17,8,1,0,8
+Effingham,4A,Commissioner of Agriculture,,Lib,David Raudabaugh,37,16,1,0,20
+Effingham,4B,Commissioner of Agriculture,,Lib,David Raudabaugh,23,7,1,0,15
+Effingham,4C,Commissioner of Agriculture,,Lib,David Raudabaugh,29,9,2,0,18
+Effingham,5A,Commissioner of Agriculture,,Lib,David Raudabaugh,46,17,1,0,28
+Effingham,5B,Commissioner of Agriculture,,Lib,David Raudabaugh,24,7,0,0,17
+Effingham,5C,Commissioner of Agriculture,,Lib,David Raudabaugh,26,14,2,0,10
+Effingham,5D,Commissioner of Agriculture,,Lib,David Raudabaugh,27,9,1,0,17
+Effingham,1A,Commissioner of Insurance,,Rep,John King ,1250,529,26,2,693
+Effingham,1B,Commissioner of Insurance,,Rep,John King ,1211,582,19,1,609
+Effingham,1C,Commissioner of Insurance,,Rep,John King ,842,237,7,2,596
+Effingham,1D,Commissioner of Insurance,,Rep,John King ,973,249,24,0,700
+Effingham,2A,Commissioner of Insurance,,Rep,John King ,1007,326,20,0,661
+Effingham,2B,Commissioner of Insurance,,Rep,John King ,767,326,21,0,420
+Effingham,2C,Commissioner of Insurance,,Rep,John King ,1052,518,27,1,506
+Effingham,2D,Commissioner of Insurance,,Rep,John King ,1373,637,31,1,704
+Effingham,3A,Commissioner of Insurance,,Rep,John King ,663,271,12,0,380
+Effingham,3B,Commissioner of Insurance,,Rep,John King ,1031,524,28,0,479
+Effingham,3C,Commissioner of Insurance,,Rep,John King ,603,310,20,0,273
+Effingham,3D,Commissioner of Insurance,,Rep,John King ,1250,655,15,0,580
+Effingham,3E,Commissioner of Insurance,,Rep,John King ,562,323,11,0,228
+Effingham,4A,Commissioner of Insurance,,Rep,John King ,1536,927,33,0,576
+Effingham,4B,Commissioner of Insurance,,Rep,John King ,725,365,20,2,338
+Effingham,4C,Commissioner of Insurance,,Rep,John King ,946,549,25,0,372
+Effingham,5A,Commissioner of Insurance,,Rep,John King ,1277,592,38,0,647
+Effingham,5B,Commissioner of Insurance,,Rep,John King ,827,395,24,0,408
+Effingham,5C,Commissioner of Insurance,,Rep,John King ,857,440,16,0,401
+Effingham,5D,Commissioner of Insurance,,Rep,John King ,727,356,7,0,364
+Effingham,1A,Commissioner of Insurance,,Dem,Janice Laws Robinson,277,125,21,0,131
+Effingham,1B,Commissioner of Insurance,,Dem,Janice Laws Robinson,216,123,17,0,76
+Effingham,1C,Commissioner of Insurance,,Dem,Janice Laws Robinson,168,49,13,0,106
+Effingham,1D,Commissioner of Insurance,,Dem,Janice Laws Robinson,145,46,20,0,79
+Effingham,2A,Commissioner of Insurance,,Dem,Janice Laws Robinson,298,134,15,1,148
+Effingham,2B,Commissioner of Insurance,,Dem,Janice Laws Robinson,186,94,14,0,78
+Effingham,2C,Commissioner of Insurance,,Dem,Janice Laws Robinson,326,169,27,0,130
+Effingham,2D,Commissioner of Insurance,,Dem,Janice Laws Robinson,419,204,43,0,172
+Effingham,3A,Commissioner of Insurance,,Dem,Janice Laws Robinson,112,53,13,0,46
+Effingham,3B,Commissioner of Insurance,,Dem,Janice Laws Robinson,329,139,35,0,155
+Effingham,3C,Commissioner of Insurance,,Dem,Janice Laws Robinson,165,90,12,0,63
+Effingham,3D,Commissioner of Insurance,,Dem,Janice Laws Robinson,455,213,39,0,203
+Effingham,3E,Commissioner of Insurance,,Dem,Janice Laws Robinson,118,84,12,0,22
+Effingham,4A,Commissioner of Insurance,,Dem,Janice Laws Robinson,417,247,39,0,131
+Effingham,4B,Commissioner of Insurance,,Dem,Janice Laws Robinson,417,227,43,1,146
+Effingham,4C,Commissioner of Insurance,,Dem,Janice Laws Robinson,232,145,13,0,74
+Effingham,5A,Commissioner of Insurance,,Dem,Janice Laws Robinson,394,203,32,0,159
+Effingham,5B,Commissioner of Insurance,,Dem,Janice Laws Robinson,251,123,23,1,104
+Effingham,5C,Commissioner of Insurance,,Dem,Janice Laws Robinson,453,266,45,0,142
+Effingham,5D,Commissioner of Insurance,,Dem,Janice Laws Robinson,260,115,21,0,124
+Effingham,1A,State School Superintendent,,Rep,Richard Woods ,1242,521,30,2,689
+Effingham,1B,State School Superintendent,,Rep,Richard Woods ,1217,590,16,1,610
+Effingham,1C,State School Superintendent,,Rep,Richard Woods ,838,234,9,2,593
+Effingham,1D,State School Superintendent,,Rep,Richard Woods ,974,251,25,0,698
+Effingham,2A,State School Superintendent,,Rep,Richard Woods ,1010,326,20,0,664
+Effingham,2B,State School Superintendent,,Rep,Richard Woods ,769,327,19,0,423
+Effingham,2C,State School Superintendent,,Rep,Richard Woods ,1048,518,27,1,502
+Effingham,2D,State School Superintendent,,Rep,Richard Woods ,1376,636,32,1,707
+Effingham,3A,State School Superintendent,,Rep,Richard Woods ,663,270,11,0,382
+Effingham,3B,State School Superintendent,,Rep,Richard Woods ,1039,529,28,0,482
+Effingham,3C,State School Superintendent,,Rep,Richard Woods ,599,310,20,0,269
+Effingham,3D,State School Superintendent,,Rep,Richard Woods ,1246,655,15,0,576
+Effingham,3E,State School Superintendent,,Rep,Richard Woods ,563,324,12,0,227
+Effingham,4A,State School Superintendent,,Rep,Richard Woods ,1547,931,35,0,581
+Effingham,4B,State School Superintendent,,Rep,Richard Woods ,729,367,20,2,340
+Effingham,4C,State School Superintendent,,Rep,Richard Woods ,951,557,25,0,369
+Effingham,5A,State School Superintendent,,Rep,Richard Woods ,1277,592,38,0,647
+Effingham,5B,State School Superintendent,,Rep,Richard Woods ,823,395,26,0,402
+Effingham,5C,State School Superintendent,,Rep,Richard Woods ,860,442,19,0,399
+Effingham,5D,State School Superintendent,,Rep,Richard Woods ,728,361,7,0,360
+Effingham,1A,State School Superintendent,,Dem,Alisha Thomas Searcy,284,134,16,0,134
+Effingham,1B,State School Superintendent,,Dem,Alisha Thomas Searcy,213,118,20,0,75
+Effingham,1C,State School Superintendent,,Dem,Alisha Thomas Searcy,170,49,12,0,109
+Effingham,1D,State School Superintendent,,Dem,Alisha Thomas Searcy,140,43,19,0,78
+Effingham,2A,State School Superintendent,,Dem,Alisha Thomas Searcy,297,135,15,1,146
+Effingham,2B,State School Superintendent,,Dem,Alisha Thomas Searcy,183,93,14,0,76
+Effingham,2C,State School Superintendent,,Dem,Alisha Thomas Searcy,332,169,27,0,136
+Effingham,2D,State School Superintendent,,Dem,Alisha Thomas Searcy,418,203,42,0,173
+Effingham,3A,State School Superintendent,,Dem,Alisha Thomas Searcy,115,54,14,0,47
+Effingham,3B,State School Superintendent,,Dem,Alisha Thomas Searcy,328,140,36,0,152
+Effingham,3C,State School Superintendent,,Dem,Alisha Thomas Searcy,171,91,12,0,68
+Effingham,3D,State School Superintendent,,Dem,Alisha Thomas Searcy,465,214,39,0,212
+Effingham,3E,State School Superintendent,,Dem,Alisha Thomas Searcy,118,84,11,0,23
+Effingham,4A,State School Superintendent,,Dem,Alisha Thomas Searcy,410,243,37,0,130
+Effingham,4B,State School Superintendent,,Dem,Alisha Thomas Searcy,417,229,43,1,144
+Effingham,4C,State School Superintendent,,Dem,Alisha Thomas Searcy,231,140,13,0,78
+Effingham,5A,State School Superintendent,,Dem,Alisha Thomas Searcy,399,206,32,0,161
+Effingham,5B,State School Superintendent,,Dem,Alisha Thomas Searcy,257,126,21,1,109
+Effingham,5C,State School Superintendent,,Dem,Alisha Thomas Searcy,453,266,41,0,146
+Effingham,5D,State School Superintendent,,Dem,Alisha Thomas Searcy,259,110,21,0,128
+Effingham,1A,Commissioner of Labor,,Rep,Bruce Thompson,1219,521,24,2,672
+Effingham,1B,Commissioner of Labor,,Rep,Bruce Thompson,1185,571,16,1,597
+Effingham,1C,Commissioner of Labor,,Rep,Bruce Thompson,819,230,7,2,580
+Effingham,1D,Commissioner of Labor,,Rep,Bruce Thompson,958,248,22,0,688
+Effingham,2A,Commissioner of Labor,,Rep,Bruce Thompson,975,318,18,0,639
+Effingham,2B,Commissioner of Labor,,Rep,Bruce Thompson,745,321,18,0,406
+Effingham,2C,Commissioner of Labor,,Rep,Bruce Thompson,1028,505,27,1,495
+Effingham,2D,Commissioner of Labor,,Rep,Bruce Thompson,1324,612,32,1,679
+Effingham,3A,Commissioner of Labor,,Rep,Bruce Thompson,648,264,10,0,374
+Effingham,3B,Commissioner of Labor,,Rep,Bruce Thompson,1012,521,26,0,465
+Effingham,3C,Commissioner of Labor,,Rep,Bruce Thompson,586,307,18,0,261
+Effingham,3D,Commissioner of Labor,,Rep,Bruce Thompson,1210,641,15,0,554
+Effingham,3E,Commissioner of Labor,,Rep,Bruce Thompson,544,319,11,0,214
+Effingham,4A,Commissioner of Labor,,Rep,Bruce Thompson,1497,906,33,0,558
+Effingham,4B,Commissioner of Labor,,Rep,Bruce Thompson,709,361,17,2,329
+Effingham,4C,Commissioner of Labor,,Rep,Bruce Thompson,924,543,23,0,358
+Effingham,5A,Commissioner of Labor,,Rep,Bruce Thompson,1220,566,37,0,617
+Effingham,5B,Commissioner of Labor,,Rep,Bruce Thompson,793,386,25,0,382
+Effingham,5C,Commissioner of Labor,,Rep,Bruce Thompson,836,437,17,0,382
+Effingham,5D,Commissioner of Labor,,Rep,Bruce Thompson,694,347,5,0,342
+Effingham,1A,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",277,126,20,0,131
+Effingham,1B,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",214,128,18,0,68
+Effingham,1C,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",169,48,13,0,108
+Effingham,1D,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",141,44,21,0,76
+Effingham,2A,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",291,133,16,1,141
+Effingham,2B,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",173,89,13,0,71
+Effingham,2C,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",310,167,25,0,118
+Effingham,2D,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",411,205,42,0,164
+Effingham,3A,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",115,54,15,0,46
+Effingham,3B,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",323,136,35,0,152
+Effingham,3C,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",171,89,14,0,68
+Effingham,3D,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",457,219,38,0,200
+Effingham,3E,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",118,82,11,0,25
+Effingham,4A,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",408,245,37,0,126
+Effingham,4B,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",407,228,44,1,134
+Effingham,4C,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",224,141,14,0,69
+Effingham,5A,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",398,207,31,0,160
+Effingham,5B,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",251,121,20,1,109
+Effingham,5C,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",444,257,42,0,145
+Effingham,5D,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",257,111,22,0,124
+Effingham,1A,Commissioner of Labor,,Lib,Emily Anderson,31,8,2,0,21
+Effingham,1B,Commissioner of Labor,,Lib,Emily Anderson,28,7,2,0,19
+Effingham,1C,Commissioner of Labor,,Lib,Emily Anderson,20,5,0,0,15
+Effingham,1D,Commissioner of Labor,,Lib,Emily Anderson,17,3,1,0,13
+Effingham,2A,Commissioner of Labor,,Lib,Emily Anderson,39,7,1,0,31
+Effingham,2B,Commissioner of Labor,,Lib,Emily Anderson,34,12,1,0,21
+Effingham,2C,Commissioner of Labor,,Lib,Emily Anderson,36,15,2,0,19
+Effingham,2D,Commissioner of Labor,,Lib,Emily Anderson,53,18,0,0,35
+Effingham,3A,Commissioner of Labor,,Lib,Emily Anderson,10,4,1,0,5
+Effingham,3B,Commissioner of Labor,,Lib,Emily Anderson,32,14,2,0,16
+Effingham,3C,Commissioner of Labor,,Lib,Emily Anderson,10,4,1,0,5
+Effingham,3D,Commissioner of Labor,,Lib,Emily Anderson,40,10,1,0,29
+Effingham,3E,Commissioner of Labor,,Lib,Emily Anderson,22,10,1,0,11
+Effingham,4A,Commissioner of Labor,,Lib,Emily Anderson,45,20,2,0,23
+Effingham,4B,Commissioner of Labor,,Lib,Emily Anderson,29,7,1,0,21
+Effingham,4C,Commissioner of Labor,,Lib,Emily Anderson,30,11,1,0,18
+Effingham,5A,Commissioner of Labor,,Lib,Emily Anderson,53,23,2,0,28
+Effingham,5B,Commissioner of Labor,,Lib,Emily Anderson,33,9,1,0,23
+Effingham,5C,Commissioner of Labor,,Lib,Emily Anderson,29,15,2,0,12
+Effingham,5D,Commissioner of Labor,,Lib,Emily Anderson,33,12,1,0,20
+Effingham,1A,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",1242,523,26,2,691
+Effingham,1B,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",1200,575,18,1,606
+Effingham,1C,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",831,231,7,2,591
+Effingham,1D,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",956,243,20,0,693
+Effingham,2A,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",998,324,21,0,653
+Effingham,2B,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",760,322,19,0,419
+Effingham,2C,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",1036,506,27,1,502
+Effingham,2D,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",1351,628,29,1,693
+Effingham,3E,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",555,321,11,0,223
+Effingham,4B,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",726,364,19,2,341
+Effingham,4C,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",928,538,23,0,367
+Effingham,5A,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",979,425,23,0,531
+Effingham,5B,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",808,385,23,0,400
+Effingham,5C,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",849,437,16,0,396
+Effingham,5D,U.S. House,,Rep,"Earl L. """"Buddy"""" Carter ",708,346,6,0,356
+Effingham,1A,U.S. House,,Dem,Wade Herring,289,132,21,0,136
+Effingham,1B,U.S. House,,Dem,Wade Herring,230,134,18,0,78
+Effingham,1C,U.S. House,,Dem,Wade Herring,185,58,14,0,113
+Effingham,1D,U.S. House,,Dem,Wade Herring,166,52,26,0,88
+Effingham,2A,U.S. House,,Dem,Wade Herring,307,136,15,1,155
+Effingham,2B,U.S. House,,Dem,Wade Herring,194,100,14,0,80
+Effingham,2C,U.S. House,,Dem,Wade Herring,348,183,28,0,137
+Effingham,2D,U.S. House,,Dem,Wade Herring,446,212,46,0,188
+Effingham,3E,U.S. House,,Dem,Wade Herring,126,88,11,0,27
+Effingham,4B,U.S. House,,Dem,Wade Herring,431,237,44,1,149
+Effingham,4C,U.S. House,,Dem,Wade Herring,247,156,15,0,76
+Effingham,5A,U.S. House,,Dem,Wade Herring,310,151,36,0,123
+Effingham,5B,U.S. House,,Dem,Wade Herring,273,139,24,1,109
+Effingham,5C,U.S. House,,Dem,Wade Herring,472,276,46,0,150
+Effingham,5D,U.S. House,,Dem,Wade Herring,281,126,21,0,134
+Effingham,3A,U.S. House,,Rep,Rick W. Allen ,664,268,13,0,383
+Effingham,3B,U.S. House,,Rep,Rick W. Allen ,1030,525,27,0,478
+Effingham,3C,U.S. House,,Rep,Rick W. Allen ,597,308,20,0,269
+Effingham,3D,U.S. House,,Rep,Rick W. Allen ,1247,654,17,0,576
+Effingham,4A,U.S. House,,Rep,Rick W. Allen ,1532,927,36,0,569
+Effingham,5A,U.S. House,,Rep,Rick W. Allen ,279,158,11,0,110
+Effingham,3A,U.S. House,,Dem,Elizabeth 'Liz' Johnson,113,54,12,0,47
+Effingham,3B,U.S. House,,Dem,Elizabeth 'Liz' Johnson,339,147,36,0,156
+Effingham,3C,U.S. House,,Dem,Elizabeth 'Liz' Johnson,168,89,11,0,68
+Effingham,3D,U.S. House,,Dem,Elizabeth 'Liz' Johnson,470,222,37,0,211
+Effingham,4A,U.S. House,,Dem,Elizabeth 'Liz' Johnson,431,253,39,0,139
+Effingham,5A,U.S. House,,Dem,Elizabeth 'Liz' Johnson,113,67,2,0,44
+Effingham,1A,State Senate,,Rep,Billy Hickman ,1372,584,32,2,754
+Effingham,1B,State Senate,,Rep,Billy Hickman ,1310,630,25,1,654
+Effingham,1C,State Senate,,Rep,Billy Hickman ,907,255,8,2,642
+Effingham,1D,State Senate,,Rep,Billy Hickman ,1031,269,26,0,736
+Effingham,2A,State Senate,,Rep,Billy Hickman ,1141,383,21,0,737
+Effingham,2B,State Senate,,Rep,Billy Hickman ,837,355,23,0,459
+Effingham,2C,State Senate,,Rep,Billy Hickman ,1166,580,32,1,553
+Effingham,2D,State Senate,,Rep,Billy Hickman ,1543,718,41,1,783
+Effingham,3A,State Senate,,Rep,Billy Hickman ,696,280,14,0,402
+Effingham,3B,State Senate,,Rep,Billy Hickman ,1171,579,37,0,555
+Effingham,3C,State Senate,,Rep,Billy Hickman ,672,345,21,0,306
+Effingham,3D,State Senate,,Rep,Billy Hickman ,1470,755,35,0,680
+Effingham,3E,State Senate,,Rep,Billy Hickman ,617,362,14,0,241
+Effingham,4A,State Senate,,Rep,Billy Hickman ,1720,1033,44,0,643
+Effingham,4B,State Senate,,Rep,Billy Hickman ,901,460,29,3,409
+Effingham,4C,State Senate,,Rep,Billy Hickman ,1036,597,29,0,410
+Effingham,5A,State Senate,,Rep,Billy Hickman ,1432,673,44,0,715
+Effingham,5B,State Senate,,Rep,Billy Hickman ,933,436,33,0,464
+Effingham,5C,State Senate,,Rep,Billy Hickman ,1032,537,31,0,464
+Effingham,5D,State Senate,,Rep,Billy Hickman ,828,406,12,0,410
+Effingham,1A,State House,,Rep,Jon G. Burns ,1355,579,33,2,741
+Effingham,1B,State House,,Rep,Jon G. Burns ,1290,621,25,1,643
+Effingham,1C,State House,,Rep,Jon G. Burns ,898,252,8,2,636
+Effingham,3A,State House,,Rep,Jon G. Burns ,691,277,15,0,399
+Effingham,3B,State House,,Rep,Jon G. Burns ,1175,580,40,0,555
+Effingham,3C,State House,,Rep,Jon G. Burns ,671,342,24,0,305
+Effingham,3D,State House,,Rep,Jon G. Burns ,1468,749,35,0,684
+Effingham,3E,State House,,Rep,Jon G. Burns ,606,357,13,0,236
+Effingham,4A,State House,,Rep,Jon G. Burns ,1721,1036,45,0,640
+Effingham,4C,State House,,Rep,Jon G. Burns ,1032,594,29,0,409
+Effingham,5A,State House,,Rep,Jon G. Burns ,330,187,11,0,132
+Effingham,1D,State House,,Rep,Bill Hitchens ,974,249,22,0,703
+Effingham,2A,State House,,Rep,Bill Hitchens ,1009,328,20,0,661
+Effingham,2B,State House,,Rep,Bill Hitchens ,763,324,19,0,420
+Effingham,2C,State House,,Rep,Bill Hitchens ,1039,512,27,1,499
+Effingham,2D,State House,,Rep,Bill Hitchens ,1377,637,31,1,708
+Effingham,4B,State House,,Rep,Bill Hitchens ,727,364,19,1,343
+Effingham,5A,State House,,Rep,Bill Hitchens ,987,427,27,0,533
+Effingham,5B,State House,,Rep,Bill Hitchens ,825,395,26,0,404
+Effingham,5C,State House,,Rep,Bill Hitchens ,867,450,14,0,403
+Effingham,5D,State House,,Rep,Bill Hitchens ,722,357,6,0,359
+Effingham,1D,State House,,Dem,Margo Barbee,147,47,22,0,78
+Effingham,2A,State House,,Dem,Margo Barbee,291,129,16,0,146
+Effingham,2B,State House,,Dem,Margo Barbee,188,95,14,0,79
+Effingham,2C,State House,,Dem,Margo Barbee,334,171,27,0,136
+Effingham,2D,State House,,Dem,Margo Barbee,409,202,42,0,165
+Effingham,4B,State House,,Dem,Margo Barbee,418,232,43,0,143
+Effingham,5A,State House,,Dem,Margo Barbee,296,146,31,0,119
+Effingham,5B,State House,,Dem,Margo Barbee,255,126,20,1,108
+Effingham,5C,State House,,Dem,Margo Barbee,445,259,46,0,140
+Effingham,5D,State House,,Dem,Margo Barbee,258,111,20,0,127
+Effingham,1A,Solicitor General,,Rep,Richard R. Rafter,1365,576,33,2,754
+Effingham,1B,Solicitor General,,Rep,Richard R. Rafter,1309,630,25,1,653
+Effingham,1C,Solicitor General,,Rep,Richard R. Rafter,908,255,8,2,643
+Effingham,1D,Solicitor General,,Rep,Richard R. Rafter,1030,266,24,0,740
+Effingham,2A,Solicitor General,,Rep,Richard R. Rafter,1139,386,20,0,733
+Effingham,2B,Solicitor General,,Rep,Richard R. Rafter,831,354,22,0,455
+Effingham,2C,Solicitor General,,Rep,Richard R. Rafter,1163,574,32,1,556
+Effingham,2D,Solicitor General,,Rep,Richard R. Rafter,1540,719,41,1,779
+Effingham,3A,Solicitor General,,Rep,Richard R. Rafter,694,279,13,0,402
+Effingham,3B,Solicitor General,,Rep,Richard R. Rafter,1166,578,39,0,549
+Effingham,3C,Solicitor General,,Rep,Richard R. Rafter,682,349,22,0,311
+Effingham,3D,Solicitor General,,Rep,Richard R. Rafter,1472,755,31,0,686
+Effingham,3E,Solicitor General,,Rep,Richard R. Rafter,616,362,13,0,241
+Effingham,4A,Solicitor General,,Rep,Richard R. Rafter,1728,1036,47,0,645
+Effingham,4B,Solicitor General,,Rep,Richard R. Rafter,892,453,31,3,405
+Effingham,4C,Solicitor General,,Rep,Richard R. Rafter,1038,599,28,0,411
+Effingham,5A,Solicitor General,,Rep,Richard R. Rafter,1429,675,42,0,712
+Effingham,5B,Solicitor General,,Rep,Richard R. Rafter,937,438,31,0,468
+Effingham,5C,Solicitor General,,Rep,Richard R. Rafter,1036,541,34,0,461
+Effingham,5D,Solicitor General,,Rep,Richard R. Rafter,832,405,15,0,412
+Effingham,2A,County Commissioner,,Rep,Roger Burdette ,1120,375,20,0,725
+Effingham,2B,County Commissioner,,Rep,Roger Burdette ,763,325,22,0,416
+Effingham,2C,County Commissioner,,Rep,Roger Burdette ,1063,522,30,1,510
+Effingham,2D,County Commissioner,,Rep,Roger Burdette ,1511,703,40,1,767
+Effingham,3A,County Commissioner,,Rep,Jamie DeLoach ,647,265,12,0,370
+Effingham,3B,County Commissioner,,Rep,Jamie DeLoach ,1038,529,28,0,481
+Effingham,3C,County Commissioner,,Rep,Jamie DeLoach ,595,309,20,0,266
+Effingham,3D,County Commissioner,,Rep,Jamie DeLoach ,1245,647,18,0,580
+Effingham,3E,County Commissioner,,Rep,Jamie DeLoach ,558,320,10,0,228
+Effingham,3A,County Commissioner,,Dem,Richard D. M. Garvin,128,59,14,0,55
+Effingham,3B,County Commissioner,,Dem,Richard D. M. Garvin,338,143,33,0,162
+Effingham,3C,County Commissioner,,Dem,Richard D. M. Garvin,172,92,12,0,68
+Effingham,3D,County Commissioner,,Dem,Richard D. M. Garvin,469,226,35,0,208
+Effingham,3E,County Commissioner,,Dem,Richard D. M. Garvin,125,90,12,0,23
+Effingham,5A,County Commissioner,,Rep,Phil Kieffer ,1252,576,38,0,638
+Effingham,5B,County Commissioner,,Rep,Phil Kieffer ,797,384,25,0,388
+Effingham,5C,County Commissioner,,Rep,Phil Kieffer ,862,447,18,0,397
+Effingham,5D,County Commissioner,,Rep,Phil Kieffer ,692,341,6,0,345
+Effingham,5A,County Commissioner,,Dem,Delmons White,418,217,33,0,168
+Effingham,5B,County Commissioner,,Dem,Delmons White,281,138,21,0,122
+Effingham,5C,County Commissioner,,Dem,Delmons White,447,259,42,0,146
+Effingham,5D,County Commissioner,,Dem,Delmons White,286,128,19,0,139
+Effingham,1A,Proposed Constitutional Amendment 1,,,Yes,1332,567,45,2,718
+Effingham,1B,Proposed Constitutional Amendment 1,,,Yes,1240,607,27,1,605
+Effingham,1C,Proposed Constitutional Amendment 1,,,Yes,868,251,19,2,596
+Effingham,1D,Proposed Constitutional Amendment 1,,,Yes,965,263,41,0,661
+Effingham,2A,Proposed Constitutional Amendment 1,,,Yes,1171,415,31,1,724
+Effingham,2B,Proposed Constitutional Amendment 1,,,Yes,831,372,33,0,426
+Effingham,2C,Proposed Constitutional Amendment 1,,,Yes,1209,610,49,1,549
+Effingham,2D,Proposed Constitutional Amendment 1,,,Yes,1609,757,70,1,781
+Effingham,3A,Proposed Constitutional Amendment 1,,,Yes,685,295,23,0,367
+Effingham,3B,Proposed Constitutional Amendment 1,,,Yes,1189,595,50,0,544
+Effingham,3C,Proposed Constitutional Amendment 1,,,Yes,684,346,24,0,314
+Effingham,3D,Proposed Constitutional Amendment 1,,,Yes,1491,766,47,0,678
+Effingham,3E,Proposed Constitutional Amendment 1,,,Yes,611,377,20,0,214
+Effingham,4A,Proposed Constitutional Amendment 1,,,Yes,1726,1036,63,0,627
+Effingham,4B,Proposed Constitutional Amendment 1,,,Yes,1007,520,49,2,436
+Effingham,4C,Proposed Constitutional Amendment 1,,,Yes,1050,632,31,1,386
+Effingham,5A,Proposed Constitutional Amendment 1,,,Yes,1500,707,63,0,730
+Effingham,5B,Proposed Constitutional Amendment 1,,,Yes,954,461,41,0,452
+Effingham,5C,Proposed Constitutional Amendment 1,,,Yes,1154,632,52,0,470
+Effingham,5D,Proposed Constitutional Amendment 1,,,Yes,881,418,26,0,437
+Effingham,1A,Proposed Constitutional Amendment 1,,,No,168,72,1,0,95
+Effingham,1B,Proposed Constitutional Amendment 1,,,No,163,90,7,0,66
+Effingham,1C,Proposed Constitutional Amendment 1,,,No,127,31,1,0,95
+Effingham,1D,Proposed Constitutional Amendment 1,,,No,127,28,3,0,96
+Effingham,2A,Proposed Constitutional Amendment 1,,,No,117,40,2,0,75
+Effingham,2B,Proposed Constitutional Amendment 1,,,No,97,33,0,0,64
+Effingham,2C,Proposed Constitutional Amendment 1,,,No,144,61,4,0,79
+Effingham,2D,Proposed Constitutional Amendment 1,,,No,156,70,3,0,83
+Effingham,3A,Proposed Constitutional Amendment 1,,,No,77,24,1,0,52
+Effingham,3B,Proposed Constitutional Amendment 1,,,No,143,62,8,0,73
+Effingham,3C,Proposed Constitutional Amendment 1,,,No,72,43,7,0,22
+Effingham,3D,Proposed Constitutional Amendment 1,,,No,197,93,7,0,97
+Effingham,3E,Proposed Constitutional Amendment 1,,,No,63,31,0,0,32
+Effingham,4A,Proposed Constitutional Amendment 1,,,No,212,127,9,0,76
+Effingham,4B,Proposed Constitutional Amendment 1,,,No,125,67,10,1,47
+Effingham,4C,Proposed Constitutional Amendment 1,,,No,116,60,6,0,50
+Effingham,5A,Proposed Constitutional Amendment 1,,,No,154,75,7,0,72
+Effingham,5B,Proposed Constitutional Amendment 1,,,No,114,53,5,1,55
+Effingham,5C,Proposed Constitutional Amendment 1,,,No,135,63,3,0,69
+Effingham,5D,Proposed Constitutional Amendment 1,,,No,103,51,2,0,50
+Effingham,1A,Proposed Constitutional Amendment 2,,,Yes,1384,597,44,2,741
+Effingham,1B,Proposed Constitutional Amendment 2,,,Yes,1271,615,32,1,623
+Effingham,1C,Proposed Constitutional Amendment 2,,,Yes,908,263,19,2,624
+Effingham,1D,Proposed Constitutional Amendment 2,,,Yes,1012,267,43,0,702
+Effingham,2A,Proposed Constitutional Amendment 2,,,Yes,1201,433,30,1,737
+Effingham,2B,Proposed Constitutional Amendment 2,,,Yes,852,376,34,0,442
+Effingham,2C,Proposed Constitutional Amendment 2,,,Yes,1248,618,50,1,579
+Effingham,2D,Proposed Constitutional Amendment 2,,,Yes,1636,760,73,1,802
+Effingham,3A,Proposed Constitutional Amendment 2,,,Yes,702,289,23,0,390
+Effingham,3B,Proposed Constitutional Amendment 2,,,Yes,1211,591,51,0,569
+Effingham,3C,Proposed Constitutional Amendment 2,,,Yes,712,362,31,0,319
+Effingham,3D,Proposed Constitutional Amendment 2,,,Yes,1576,800,51,0,725
+Effingham,3E,Proposed Constitutional Amendment 2,,,Yes,623,379,18,0,226
+Effingham,4A,Proposed Constitutional Amendment 2,,,Yes,1797,1074,69,0,654
+Effingham,4B,Proposed Constitutional Amendment 2,,,Yes,1037,539,53,2,443
+Effingham,4C,Proposed Constitutional Amendment 2,,,Yes,1074,636,34,1,403
+Effingham,5A,Proposed Constitutional Amendment 2,,,Yes,1534,732,65,0,737
+Effingham,5B,Proposed Constitutional Amendment 2,,,Yes,988,480,45,0,463
+Effingham,5C,Proposed Constitutional Amendment 2,,,Yes,1216,661,55,0,500
+Effingham,5D,Proposed Constitutional Amendment 2,,,Yes,910,439,28,0,443
+Effingham,1A,Proposed Constitutional Amendment 2,,,No,128,47,2,0,79
+Effingham,1B,Proposed Constitutional Amendment 2,,,No,140,87,4,0,49
+Effingham,1C,Proposed Constitutional Amendment 2,,,No,90,19,1,0,70
+Effingham,1D,Proposed Constitutional Amendment 2,,,No,91,26,2,0,63
+Effingham,2A,Proposed Constitutional Amendment 2,,,No,91,24,3,0,64
+Effingham,2B,Proposed Constitutional Amendment 2,,,No,80,31,0,0,49
+Effingham,2C,Proposed Constitutional Amendment 2,,,No,113,59,3,0,51
+Effingham,2D,Proposed Constitutional Amendment 2,,,No,139,73,1,0,65
+Effingham,3A,Proposed Constitutional Amendment 2,,,No,66,30,1,0,35
+Effingham,3B,Proposed Constitutional Amendment 2,,,No,142,72,8,0,62
+Effingham,3C,Proposed Constitutional Amendment 2,,,No,42,26,1,0,15
+Effingham,3D,Proposed Constitutional Amendment 2,,,No,122,64,2,0,56
+Effingham,3E,Proposed Constitutional Amendment 2,,,No,52,29,2,0,21
+Effingham,4A,Proposed Constitutional Amendment 2,,,No,142,87,4,0,51
+Effingham,4B,Proposed Constitutional Amendment 2,,,No,102,55,6,1,40
+Effingham,4C,Proposed Constitutional Amendment 2,,,No,99,58,3,0,38
+Effingham,5A,Proposed Constitutional Amendment 2,,,No,130,57,6,0,67
+Effingham,5B,Proposed Constitutional Amendment 2,,,No,85,39,1,0,45
+Effingham,5C,Proposed Constitutional Amendment 2,,,No,83,40,2,0,41
+Effingham,5D,Proposed Constitutional Amendment 2,,,No,68,29,0,0,39
+Effingham,1A,Statewide Referendum Question A,,,Yes,891,360,31,1,499
+Effingham,1B,Statewide Referendum Question A,,,Yes,877,404,17,1,455
+Effingham,1C,Statewide Referendum Question A,,,Yes,578,166,8,2,402
+Effingham,1D,Statewide Referendum Question A,,,Yes,712,174,18,0,520
+Effingham,2A,Statewide Referendum Question A,,,Yes,789,275,15,0,499
+Effingham,2B,Statewide Referendum Question A,,,Yes,533,216,13,0,304
+Effingham,2C,Statewide Referendum Question A,,,Yes,783,362,27,1,393
+Effingham,2D,Statewide Referendum Question A,,,Yes,1038,457,29,1,551
+Effingham,3A,Statewide Referendum Question A,,,Yes,512,207,14,0,291
+Effingham,3B,Statewide Referendum Question A,,,Yes,894,425,28,0,441
+Effingham,3C,Statewide Referendum Question A,,,Yes,491,246,15,0,230
+Effingham,3D,Statewide Referendum Question A,,,Yes,1093,533,28,0,532
+Effingham,3E,Statewide Referendum Question A,,,Yes,415,243,8,0,164
+Effingham,4A,Statewide Referendum Question A,,,Yes,1223,725,39,0,459
+Effingham,4B,Statewide Referendum Question A,,,Yes,675,358,32,3,282
+Effingham,4C,Statewide Referendum Question A,,,Yes,702,393,20,1,288
+Effingham,5A,Statewide Referendum Question A,,,Yes,1005,489,27,0,489
+Effingham,5B,Statewide Referendum Question A,,,Yes,615,293,16,1,305
+Effingham,5C,Statewide Referendum Question A,,,Yes,737,375,26,0,336
+Effingham,5D,Statewide Referendum Question A,,,Yes,574,270,6,0,298
+Effingham,1A,Statewide Referendum Question A,,,No,587,269,12,1,305
+Effingham,1B,Statewide Referendum Question A,,,No,524,290,18,0,216
+Effingham,1C,Statewide Referendum Question A,,,No,411,116,12,0,283
+Effingham,1D,Statewide Referendum Question A,,,No,370,112,25,0,233
+Effingham,2A,Statewide Referendum Question A,,,No,482,174,16,1,291
+Effingham,2B,Statewide Referendum Question A,,,No,391,189,20,0,182
+Effingham,2C,Statewide Referendum Question A,,,No,564,306,26,0,232
+Effingham,2D,Statewide Referendum Question A,,,No,719,367,42,0,310
+Effingham,3A,Statewide Referendum Question A,,,No,247,109,9,0,129
+Effingham,3B,Statewide Referendum Question A,,,No,440,230,26,0,184
+Effingham,3C,Statewide Referendum Question A,,,No,255,136,16,0,103
+Effingham,3D,Statewide Referendum Question A,,,No,581,318,25,0,238
+Effingham,3E,Statewide Referendum Question A,,,No,258,164,12,0,82
+Effingham,4A,Statewide Referendum Question A,,,No,697,430,31,0,236
+Effingham,4B,Statewide Referendum Question A,,,No,444,225,26,0,193
+Effingham,4C,Statewide Referendum Question A,,,No,457,290,16,0,151
+Effingham,5A,Statewide Referendum Question A,,,No,638,288,44,0,306
+Effingham,5B,Statewide Referendum Question A,,,No,442,217,29,0,196
+Effingham,5C,Statewide Referendum Question A,,,No,535,315,25,0,195
+Effingham,5D,Statewide Referendum Question A,,,No,387,193,20,0,174
+Effingham,1A,Statewide Referendum Question B,,,Yes,1170,499,38,1,632
+Effingham,1B,Statewide Referendum Question B,,,Yes,1153,547,28,1,577
+Effingham,1C,Statewide Referendum Question B,,,Yes,784,220,10,2,552
+Effingham,1D,Statewide Referendum Question B,,,Yes,903,232,28,0,643
+Effingham,2A,Statewide Referendum Question B,,,Yes,1057,371,22,1,663
+Effingham,2B,Statewide Referendum Question B,,,Yes,721,300,19,0,402
+Effingham,2C,Statewide Referendum Question B,,,Yes,1062,509,40,1,512
+Effingham,2D,Statewide Referendum Question B,,,Yes,1385,630,58,1,696
+Effingham,3A,Statewide Referendum Question B,,,Yes,635,254,16,0,365
+Effingham,3B,Statewide Referendum Question B,,,Yes,1067,505,38,0,524
+Effingham,3C,Statewide Referendum Question B,,,Yes,621,310,24,0,287
+Effingham,3D,Statewide Referendum Question B,,,Yes,1390,706,39,0,645
+Effingham,3E,Statewide Referendum Question B,,,Yes,552,336,9,0,207
+Effingham,4A,Statewide Referendum Question B,,,Yes,1547,931,48,0,568
+Effingham,4B,Statewide Referendum Question B,,,Yes,862,449,43,3,367
+Effingham,4C,Statewide Referendum Question B,,,Yes,950,540,33,1,376
+Effingham,5A,Statewide Referendum Question B,,,Yes,1327,627,47,0,653
+Effingham,5B,Statewide Referendum Question B,,,Yes,841,410,27,1,403
+Effingham,5C,Statewide Referendum Question B,,,Yes,1021,541,34,0,446
+Effingham,5D,Statewide Referendum Question B,,,Yes,766,364,15,0,387
+Effingham,1A,Statewide Referendum Question B,,,No,318,136,7,1,174
+Effingham,1B,Statewide Referendum Question B,,,No,253,150,8,0,95
+Effingham,1C,Statewide Referendum Question B,,,No,208,62,10,0,136
+Effingham,1D,Statewide Referendum Question B,,,No,183,55,15,0,113
+Effingham,2A,Statewide Referendum Question B,,,No,220,81,9,0,130
+Effingham,2B,Statewide Referendum Question B,,,No,200,104,11,0,85
+Effingham,2C,Statewide Referendum Question B,,,No,286,161,12,0,113
+Effingham,2D,Statewide Referendum Question B,,,No,378,195,14,0,169
+Effingham,3A,Statewide Referendum Question B,,,No,126,65,7,0,54
+Effingham,3B,Statewide Referendum Question B,,,No,274,156,15,0,103
+Effingham,3C,Statewide Referendum Question B,,,No,125,71,7,0,47
+Effingham,3D,Statewide Referendum Question B,,,No,294,153,14,0,127
+Effingham,3E,Statewide Referendum Question B,,,No,122,72,11,0,39
+Effingham,4A,Statewide Referendum Question B,,,No,371,219,23,0,129
+Effingham,4B,Statewide Referendum Question B,,,No,256,134,16,0,106
+Effingham,4C,Statewide Referendum Question B,,,No,213,145,4,0,64
+Effingham,5A,Statewide Referendum Question B,,,No,324,159,24,0,141
+Effingham,5B,Statewide Referendum Question B,,,No,221,104,18,0,99
+Effingham,5C,Statewide Referendum Question B,,,No,256,150,19,0,87
+Effingham,5D,Statewide Referendum Question B,,,No,195,97,12,0,86

@@ -1,0 +1,606 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Haralson,Bremen,U.S. Senate,,Rep,Herschel Junior Walker,3003,1480,131,0,1392
+Haralson,Buchanan,U.S. Senate,,Rep,Herschel Junior Walker,1198,636,27,0,535
+Haralson,Buncombe,U.S. Senate,,Rep,Herschel Junior Walker,477,171,8,0,298
+Haralson,Corinth,U.S. Senate,,Rep,Herschel Junior Walker,835,307,32,0,496
+Haralson,Twentieth,U.S. Senate,,Rep,Herschel Junior Walker,418,147,4,0,267
+Haralson,Felton,U.S. Senate,,Rep,Herschel Junior Walker,196,53,5,0,138
+Haralson,Little Creek,U.S. Senate,,Rep,Herschel Junior Walker,417,96,18,0,303
+Haralson,Mt View,U.S. Senate,,Rep,Herschel Junior Walker,202,47,5,0,150
+Haralson,Seventh,U.S. Senate,,Rep,Herschel Junior Walker,900,384,24,0,492
+Haralson,Berea-Steadman,U.S. Senate,,Rep,Herschel Junior Walker,356,100,17,0,239
+Haralson,Tallapoosa,U.S. Senate,,Rep,Herschel Junior Walker,1240,540,43,0,657
+Haralson,Waco,U.S. Senate,,Rep,Herschel Junior Walker,547,182,12,0,353
+Haralson,Bremen,U.S. Senate,,Dem,Raphael Warnock ,619,328,73,0,218
+Haralson,Buchanan,U.S. Senate,,Dem,Raphael Warnock ,152,93,13,0,46
+Haralson,Buncombe,U.S. Senate,,Dem,Raphael Warnock ,65,23,5,0,37
+Haralson,Corinth,U.S. Senate,,Dem,Raphael Warnock ,76,45,7,0,24
+Haralson,Twentieth,U.S. Senate,,Dem,Raphael Warnock ,50,24,1,0,25
+Haralson,Felton,U.S. Senate,,Dem,Raphael Warnock ,10,2,3,0,5
+Haralson,Little Creek,U.S. Senate,,Dem,Raphael Warnock ,36,16,0,0,20
+Haralson,Mt View,U.S. Senate,,Dem,Raphael Warnock ,14,3,0,0,11
+Haralson,Seventh,U.S. Senate,,Dem,Raphael Warnock ,142,86,11,0,45
+Haralson,Berea-Steadman,U.S. Senate,,Dem,Raphael Warnock ,33,21,0,0,12
+Haralson,Tallapoosa,U.S. Senate,,Dem,Raphael Warnock ,242,91,28,0,123
+Haralson,Waco,U.S. Senate,,Dem,Raphael Warnock ,59,23,0,0,36
+Haralson,Bremen,U.S. Senate,,Lib,Chase Oliver,107,47,4,0,56
+Haralson,Buchanan,U.S. Senate,,Lib,Chase Oliver,35,15,0,0,20
+Haralson,Buncombe,U.S. Senate,,Lib,Chase Oliver,15,5,0,0,10
+Haralson,Corinth,U.S. Senate,,Lib,Chase Oliver,19,5,1,0,13
+Haralson,Twentieth,U.S. Senate,,Lib,Chase Oliver,9,1,1,0,7
+Haralson,Felton,U.S. Senate,,Lib,Chase Oliver,1,0,0,0,1
+Haralson,Little Creek,U.S. Senate,,Lib,Chase Oliver,10,1,0,0,9
+Haralson,Mt View,U.S. Senate,,Lib,Chase Oliver,3,0,0,0,3
+Haralson,Seventh,U.S. Senate,,Lib,Chase Oliver,27,12,0,0,15
+Haralson,Berea-Steadman,U.S. Senate,,Lib,Chase Oliver,13,4,0,0,9
+Haralson,Tallapoosa,U.S. Senate,,Lib,Chase Oliver,48,11,3,0,34
+Haralson,Waco,U.S. Senate,,Lib,Chase Oliver,21,9,0,0,12
+Haralson,Bremen,Governor,,Rep,Brian Kemp ,3224,1592,146,0,1486
+Haralson,Buchanan,Governor,,Rep,Brian Kemp ,1273,672,36,0,565
+Haralson,Buncombe,Governor,,Rep,Brian Kemp ,514,182,10,0,322
+Haralson,Corinth,Governor,,Rep,Brian Kemp ,861,318,33,0,510
+Haralson,Twentieth,Governor,,Rep,Brian Kemp ,447,158,5,0,284
+Haralson,Felton,Governor,,Rep,Brian Kemp ,197,51,5,0,141
+Haralson,Little Creek,Governor,,Rep,Brian Kemp ,432,99,18,0,315
+Haralson,Mt View,Governor,,Rep,Brian Kemp ,210,47,5,0,158
+Haralson,Seventh,Governor,,Rep,Brian Kemp ,956,412,26,0,518
+Haralson,Berea-Steadman,Governor,,Rep,Brian Kemp ,376,108,17,0,251
+Haralson,Tallapoosa,Governor,,Rep,Brian Kemp ,1343,564,58,0,721
+Haralson,Waco,Governor,,Rep,Brian Kemp ,565,189,12,0,364
+Haralson,Bremen,Governor,,Dem,Stacey Abrams,505,264,63,0,178
+Haralson,Buchanan,Governor,,Dem,Stacey Abrams,109,73,5,0,31
+Haralson,Buncombe,Governor,,Dem,Stacey Abrams,47,17,3,0,27
+Haralson,Corinth,Governor,,Dem,Stacey Abrams,65,40,6,0,19
+Haralson,Twentieth,Governor,,Dem,Stacey Abrams,30,13,1,0,16
+Haralson,Felton,Governor,,Dem,Stacey Abrams,8,2,3,0,3
+Haralson,Little Creek,Governor,,Dem,Stacey Abrams,26,12,0,0,14
+Haralson,Mt View,Governor,,Dem,Stacey Abrams,11,3,0,0,8
+Haralson,Seventh,Governor,,Dem,Stacey Abrams,115,76,9,0,30
+Haralson,Berea-Steadman,Governor,,Dem,Stacey Abrams,24,16,0,0,8
+Haralson,Tallapoosa,Governor,,Dem,Stacey Abrams,172,75,14,0,83
+Haralson,Waco,Governor,,Dem,Stacey Abrams,54,21,0,0,33
+Haralson,Bremen,Governor,,Lib,Shane Hazel,19,8,2,0,9
+Haralson,Buchanan,Governor,,Lib,Shane Hazel,12,2,0,0,10
+Haralson,Buncombe,Governor,,Lib,Shane Hazel,1,1,0,0,0
+Haralson,Corinth,Governor,,Lib,Shane Hazel,7,0,1,0,6
+Haralson,Twentieth,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Haralson,Felton,Governor,,Lib,Shane Hazel,2,1,0,0,1
+Haralson,Little Creek,Governor,,Lib,Shane Hazel,6,2,0,0,4
+Haralson,Mt View,Governor,,Lib,Shane Hazel,1,0,0,0,1
+Haralson,Seventh,Governor,,Lib,Shane Hazel,7,2,0,0,5
+Haralson,Berea-Steadman,Governor,,Lib,Shane Hazel,3,1,0,0,2
+Haralson,Tallapoosa,Governor,,Lib,Shane Hazel,18,4,2,0,12
+Haralson,Waco,Governor,,Lib,Shane Hazel,9,5,0,0,4
+Haralson,Bremen,Lieutenant Governor,,Rep,Burt Jones,3091,1533,132,0,1426
+Haralson,Buchanan,Lieutenant Governor,,Rep,Burt Jones,1233,649,31,0,553
+Haralson,Buncombe,Lieutenant Governor,,Rep,Burt Jones,497,177,9,0,311
+Haralson,Corinth,Lieutenant Governor,,Rep,Burt Jones,838,310,32,0,496
+Haralson,Twentieth,Lieutenant Governor,,Rep,Burt Jones,433,153,5,0,275
+Haralson,Felton,Lieutenant Governor,,Rep,Burt Jones,195,51,5,0,139
+Haralson,Little Creek,Lieutenant Governor,,Rep,Burt Jones,417,97,17,0,303
+Haralson,Mt View,Lieutenant Governor,,Rep,Burt Jones,205,47,5,0,153
+Haralson,Seventh,Lieutenant Governor,,Rep,Burt Jones,923,398,26,0,499
+Haralson,Berea-Steadman,Lieutenant Governor,,Rep,Burt Jones,362,104,17,0,241
+Haralson,Tallapoosa,Lieutenant Governor,,Rep,Burt Jones,1279,550,51,0,678
+Haralson,Waco,Lieutenant Governor,,Rep,Burt Jones,559,187,12,0,360
+Haralson,Bremen,Lieutenant Governor,,Dem,Charlie Bailey,553,291,71,0,191
+Haralson,Buchanan,Lieutenant Governor,,Dem,Charlie Bailey,130,81,10,0,39
+Haralson,Buncombe,Lieutenant Governor,,Dem,Charlie Bailey,55,18,4,0,33
+Haralson,Corinth,Lieutenant Governor,,Dem,Charlie Bailey,71,41,6,0,24
+Haralson,Twentieth,Lieutenant Governor,,Dem,Charlie Bailey,37,17,1,0,19
+Haralson,Felton,Lieutenant Governor,,Dem,Charlie Bailey,9,2,3,0,4
+Haralson,Little Creek,Lieutenant Governor,,Dem,Charlie Bailey,33,13,1,0,19
+Haralson,Mt View,Lieutenant Governor,,Dem,Charlie Bailey,12,3,0,0,9
+Haralson,Seventh,Lieutenant Governor,,Dem,Charlie Bailey,124,75,9,0,40
+Haralson,Berea-Steadman,Lieutenant Governor,,Dem,Charlie Bailey,30,17,0,0,13
+Haralson,Tallapoosa,Lieutenant Governor,,Dem,Charlie Bailey,210,80,20,0,110
+Haralson,Waco,Lieutenant Governor,,Dem,Charlie Bailey,55,24,0,0,31
+Haralson,Bremen,Lieutenant Governor,,Lib,Ryan Graham,76,23,6,0,47
+Haralson,Buchanan,Lieutenant Governor,,Lib,Ryan Graham,22,8,0,0,14
+Haralson,Buncombe,Lieutenant Governor,,Lib,Ryan Graham,8,4,0,0,4
+Haralson,Corinth,Lieutenant Governor,,Lib,Ryan Graham,20,5,1,0,14
+Haralson,Twentieth,Lieutenant Governor,,Lib,Ryan Graham,4,1,0,0,3
+Haralson,Felton,Lieutenant Governor,,Lib,Ryan Graham,4,2,0,0,2
+Haralson,Little Creek,Lieutenant Governor,,Lib,Ryan Graham,11,2,0,0,9
+Haralson,Mt View,Lieutenant Governor,,Lib,Ryan Graham,3,0,0,0,3
+Haralson,Seventh,Lieutenant Governor,,Lib,Ryan Graham,19,11,0,0,8
+Haralson,Berea-Steadman,Lieutenant Governor,,Lib,Ryan Graham,11,4,0,0,7
+Haralson,Tallapoosa,Lieutenant Governor,,Lib,Ryan Graham,30,5,2,0,23
+Haralson,Waco,Lieutenant Governor,,Lib,Ryan Graham,14,5,0,0,9
+Haralson,Bremen,Secretary of State,,Rep,Brad Raffensperger ,3063,1510,133,0,1420
+Haralson,Buchanan,Secretary of State,,Rep,Brad Raffensperger ,1187,629,31,0,527
+Haralson,Buncombe,Secretary of State,,Rep,Brad Raffensperger ,492,178,9,0,305
+Haralson,Corinth,Secretary of State,,Rep,Brad Raffensperger ,822,303,33,0,486
+Haralson,Twentieth,Secretary of State,,Rep,Brad Raffensperger ,433,155,5,0,273
+Haralson,Felton,Secretary of State,,Rep,Brad Raffensperger ,185,49,5,0,131
+Haralson,Little Creek,Secretary of State,,Rep,Brad Raffensperger ,407,92,18,0,297
+Haralson,Mt View,Secretary of State,,Rep,Brad Raffensperger ,202,44,5,0,153
+Haralson,Seventh,Secretary of State,,Rep,Brad Raffensperger ,901,393,24,0,484
+Haralson,Berea-Steadman,Secretary of State,,Rep,Brad Raffensperger ,362,106,15,0,241
+Haralson,Tallapoosa,Secretary of State,,Rep,Brad Raffensperger ,1278,550,56,0,672
+Haralson,Waco,Secretary of State,,Rep,Brad Raffensperger ,539,178,11,0,350
+Haralson,Bremen,Secretary of State,,Dem,Bee Nguyen,499,260,66,0,173
+Haralson,Buchanan,Secretary of State,,Dem,Bee Nguyen,125,77,8,0,40
+Haralson,Buncombe,Secretary of State,,Dem,Bee Nguyen,50,16,4,0,30
+Haralson,Corinth,Secretary of State,,Dem,Bee Nguyen,68,38,7,0,23
+Haralson,Twentieth,Secretary of State,,Dem,Bee Nguyen,31,15,1,0,15
+Haralson,Felton,Secretary of State,,Dem,Bee Nguyen,8,2,3,0,3
+Haralson,Little Creek,Secretary of State,,Dem,Bee Nguyen,31,13,0,0,18
+Haralson,Mt View,Secretary of State,,Dem,Bee Nguyen,12,3,0,0,9
+Haralson,Seventh,Secretary of State,,Dem,Bee Nguyen,114,68,9,0,37
+Haralson,Berea-Steadman,Secretary of State,,Dem,Bee Nguyen,27,17,0,0,10
+Haralson,Tallapoosa,Secretary of State,,Dem,Bee Nguyen,174,62,15,0,97
+Haralson,Waco,Secretary of State,,Dem,Bee Nguyen,53,22,0,0,31
+Haralson,Bremen,Secretary of State,,Lib,Ted Metz,143,68,7,0,68
+Haralson,Buchanan,Secretary of State,,Lib,Ted Metz,66,31,2,0,33
+Haralson,Buncombe,Secretary of State,,Lib,Ted Metz,14,6,0,0,8
+Haralson,Corinth,Secretary of State,,Lib,Ted Metz,31,12,0,0,19
+Haralson,Twentieth,Secretary of State,,Lib,Ted Metz,10,1,0,0,9
+Haralson,Felton,Secretary of State,,Lib,Ted Metz,11,4,0,0,7
+Haralson,Little Creek,Secretary of State,,Lib,Ted Metz,21,6,0,0,15
+Haralson,Mt View,Secretary of State,,Lib,Ted Metz,6,2,0,0,4
+Haralson,Seventh,Secretary of State,,Lib,Ted Metz,40,16,1,0,23
+Haralson,Berea-Steadman,Secretary of State,,Lib,Ted Metz,9,1,2,0,6
+Haralson,Tallapoosa,Secretary of State,,Lib,Ted Metz,60,23,2,0,35
+Haralson,Waco,Secretary of State,,Lib,Ted Metz,27,12,1,0,14
+Haralson,Bremen,Attorney General,,Rep,Chris Carr ,3132,1548,141,0,1443
+Haralson,Buchanan,Attorney General,,Rep,Chris Carr ,1221,647,30,0,544
+Haralson,Buncombe,Attorney General,,Rep,Chris Carr ,500,182,9,0,309
+Haralson,Corinth,Attorney General,,Rep,Chris Carr ,849,313,32,0,504
+Haralson,Twentieth,Attorney General,,Rep,Chris Carr ,423,148,5,0,270
+Haralson,Felton,Attorney General,,Rep,Chris Carr ,195,51,5,0,139
+Haralson,Little Creek,Attorney General,,Rep,Chris Carr ,421,99,18,0,304
+Haralson,Mt View,Attorney General,,Rep,Chris Carr ,205,47,5,0,153
+Haralson,Seventh,Attorney General,,Rep,Chris Carr ,918,395,25,0,498
+Haralson,Berea-Steadman,Attorney General,,Rep,Chris Carr ,367,104,17,0,246
+Haralson,Tallapoosa,Attorney General,,Rep,Chris Carr ,1294,553,52,0,689
+Haralson,Waco,Attorney General,,Rep,Chris Carr ,555,186,12,0,357
+Haralson,Bremen,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",544,287,65,0,192
+Haralson,Buchanan,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",138,86,10,0,42
+Haralson,Buncombe,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",51,16,4,0,31
+Haralson,Corinth,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",70,41,7,0,22
+Haralson,Twentieth,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",45,20,1,0,24
+Haralson,Felton,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",8,2,3,0,3
+Haralson,Little Creek,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",34,13,0,0,21
+Haralson,Mt View,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",14,3,0,0,11
+Haralson,Seventh,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",136,85,10,0,41
+Haralson,Berea-Steadman,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",31,20,0,0,11
+Haralson,Tallapoosa,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",211,82,19,0,110
+Haralson,Waco,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",56,23,0,0,33
+Haralson,Bremen,Attorney General,,Lib,Martin Cowen,57,24,4,0,29
+Haralson,Buchanan,Attorney General,,Lib,Martin Cowen,22,7,0,0,15
+Haralson,Buncombe,Attorney General,,Lib,Martin Cowen,8,1,0,0,7
+Haralson,Corinth,Attorney General,,Lib,Martin Cowen,11,2,0,0,9
+Haralson,Twentieth,Attorney General,,Lib,Martin Cowen,6,3,0,0,3
+Haralson,Felton,Attorney General,,Lib,Martin Cowen,3,1,0,0,2
+Haralson,Little Creek,Attorney General,,Lib,Martin Cowen,6,1,0,0,5
+Haralson,Mt View,Attorney General,,Lib,Martin Cowen,2,0,0,0,2
+Haralson,Seventh,Attorney General,,Lib,Martin Cowen,16,6,0,0,10
+Haralson,Berea-Steadman,Attorney General,,Lib,Martin Cowen,4,1,0,0,3
+Haralson,Tallapoosa,Attorney General,,Lib,Martin Cowen,20,3,2,0,15
+Haralson,Waco,Attorney General,,Lib,Martin Cowen,13,6,0,0,7
+Haralson,Bremen,Commissioner Of Agriculture,,Rep,Tyler Harper,3179,1576,144,0,1459
+Haralson,Buchanan,Commissioner Of Agriculture,,Rep,Tyler Harper,1247,658,35,0,554
+Haralson,Buncombe,Commissioner Of Agriculture,,Rep,Tyler Harper,508,182,9,0,317
+Haralson,Corinth,Commissioner Of Agriculture,,Rep,Tyler Harper,849,313,34,0,502
+Haralson,Twentieth,Commissioner Of Agriculture,,Rep,Tyler Harper,432,150,5,0,277
+Haralson,Felton,Commissioner Of Agriculture,,Rep,Tyler Harper,197,52,6,0,139
+Haralson,Little Creek,Commissioner Of Agriculture,,Rep,Tyler Harper,429,100,18,0,311
+Haralson,Mt View,Commissioner Of Agriculture,,Rep,Tyler Harper,211,48,5,0,158
+Haralson,Seventh,Commissioner Of Agriculture,,Rep,Tyler Harper,933,407,26,0,500
+Haralson,Berea-Steadman,Commissioner Of Agriculture,,Rep,Tyler Harper,373,108,17,0,248
+Haralson,Tallapoosa,Commissioner Of Agriculture,,Rep,Tyler Harper,1317,559,55,0,703
+Haralson,Waco,Commissioner Of Agriculture,,Rep,Tyler Harper,562,187,12,0,363
+Haralson,Bremen,Commissioner Of Agriculture,,Dem,Nakita Hemingway,483,254,60,0,169
+Haralson,Buchanan,Commissioner Of Agriculture,,Dem,Nakita Hemingway,113,75,6,0,32
+Haralson,Buncombe,Commissioner Of Agriculture,,Dem,Nakita Hemingway,41,15,4,0,22
+Haralson,Corinth,Commissioner Of Agriculture,,Dem,Nakita Hemingway,63,38,5,0,20
+Haralson,Twentieth,Commissioner Of Agriculture,,Dem,Nakita Hemingway,35,17,1,0,17
+Haralson,Felton,Commissioner Of Agriculture,,Dem,Nakita Hemingway,8,2,2,0,4
+Haralson,Little Creek,Commissioner Of Agriculture,,Dem,Nakita Hemingway,24,12,0,0,12
+Haralson,Mt View,Commissioner Of Agriculture,,Dem,Nakita Hemingway,10,2,0,0,8
+Haralson,Seventh,Commissioner Of Agriculture,,Dem,Nakita Hemingway,118,74,9,0,35
+Haralson,Berea-Steadman,Commissioner Of Agriculture,,Dem,Nakita Hemingway,24,16,0,0,8
+Haralson,Tallapoosa,Commissioner Of Agriculture,,Dem,Nakita Hemingway,173,69,17,0,87
+Haralson,Waco,Commissioner Of Agriculture,,Dem,Nakita Hemingway,47,21,0,0,26
+Haralson,Bremen,Commissioner Of Agriculture,,Lib,David Raudabaugh,65,26,6,0,33
+Haralson,Buchanan,Commissioner Of Agriculture,,Lib,David Raudabaugh,24,8,0,0,16
+Haralson,Buncombe,Commissioner Of Agriculture,,Lib,David Raudabaugh,13,2,0,0,11
+Haralson,Corinth,Commissioner Of Agriculture,,Lib,David Raudabaugh,19,4,1,0,14
+Haralson,Twentieth,Commissioner Of Agriculture,,Lib,David Raudabaugh,9,5,0,0,4
+Haralson,Felton,Commissioner Of Agriculture,,Lib,David Raudabaugh,2,0,0,0,2
+Haralson,Little Creek,Commissioner Of Agriculture,,Lib,David Raudabaugh,8,1,0,0,7
+Haralson,Mt View,Commissioner Of Agriculture,,Lib,David Raudabaugh,1,0,0,0,1
+Haralson,Seventh,Commissioner Of Agriculture,,Lib,David Raudabaugh,17,4,0,0,13
+Haralson,Berea-Steadman,Commissioner Of Agriculture,,Lib,David Raudabaugh,6,1,0,0,5
+Haralson,Tallapoosa,Commissioner Of Agriculture,,Lib,David Raudabaugh,31,10,2,0,19
+Haralson,Waco,Commissioner Of Agriculture,,Lib,David Raudabaugh,17,6,0,0,11
+Haralson,Bremen,Commissioner Of Insurance,,Rep,John King ,3202,1582,144,0,1476
+Haralson,Buchanan,Commissioner Of Insurance,,Rep,John King ,1259,661,34,0,564
+Haralson,Buncombe,Commissioner Of Insurance,,Rep,John King ,508,182,9,0,317
+Haralson,Corinth,Commissioner Of Insurance,,Rep,John King ,858,313,31,0,514
+Haralson,Twentieth,Commissioner Of Insurance,,Rep,John King ,439,154,5,0,280
+Haralson,Felton,Commissioner Of Insurance,,Rep,John King ,197,53,5,0,139
+Haralson,Little Creek,Commissioner Of Insurance,,Rep,John King ,429,99,17,0,313
+Haralson,Mt View,Commissioner Of Insurance,,Rep,John King ,208,47,5,0,156
+Haralson,Seventh,Commissioner Of Insurance,,Rep,John King ,937,406,24,0,507
+Haralson,Berea-Steadman,Commissioner Of Insurance,,Rep,John King ,371,105,17,0,249
+Haralson,Tallapoosa,Commissioner Of Insurance,,Rep,John King ,1312,562,54,0,696
+Haralson,Waco,Commissioner Of Insurance,,Rep,John King ,566,189,12,0,365
+Haralson,Bremen,Commissioner Of Insurance,,Dem,Janice Laws Robinson,509,263,65,0,181
+Haralson,Buchanan,Commissioner Of Insurance,,Dem,Janice Laws Robinson,123,78,7,0,38
+Haralson,Buncombe,Commissioner Of Insurance,,Dem,Janice Laws Robinson,47,17,4,0,26
+Haralson,Corinth,Commissioner Of Insurance,,Dem,Janice Laws Robinson,72,42,8,0,22
+Haralson,Twentieth,Commissioner Of Insurance,,Dem,Janice Laws Robinson,34,17,1,0,16
+Haralson,Felton,Commissioner Of Insurance,,Dem,Janice Laws Robinson,10,2,3,0,5
+Haralson,Little Creek,Commissioner Of Insurance,,Dem,Janice Laws Robinson,30,14,1,0,15
+Haralson,Mt View,Commissioner Of Insurance,,Dem,Janice Laws Robinson,12,3,0,0,9
+Haralson,Seventh,Commissioner Of Insurance,,Dem,Janice Laws Robinson,130,80,11,0,39
+Haralson,Berea-Steadman,Commissioner Of Insurance,,Dem,Janice Laws Robinson,29,20,0,0,9
+Haralson,Tallapoosa,Commissioner Of Insurance,,Dem,Janice Laws Robinson,201,73,19,0,109
+Haralson,Waco,Commissioner Of Insurance,,Dem,Janice Laws Robinson,57,23,0,0,34
+Haralson,Bremen,State School Superintendent,,Rep,Richard Woods ,3212,1588,141,0,1483
+Haralson,Buchanan,State School Superintendent,,Rep,Richard Woods ,1254,658,34,0,562
+Haralson,Buncombe,State School Superintendent,,Rep,Richard Woods ,508,183,9,0,316
+Haralson,Corinth,State School Superintendent,,Rep,Richard Woods ,860,314,32,0,514
+Haralson,Twentieth,State School Superintendent,,Rep,Richard Woods ,441,157,5,0,279
+Haralson,Felton,State School Superintendent,,Rep,Richard Woods ,199,52,6,0,141
+Haralson,Little Creek,State School Superintendent,,Rep,Richard Woods ,434,101,17,0,316
+Haralson,Mt View,State School Superintendent,,Rep,Richard Woods ,208,47,5,0,156
+Haralson,Seventh,State School Superintendent,,Rep,Richard Woods ,932,404,25,0,503
+Haralson,Berea-Steadman,State School Superintendent,,Rep,Richard Woods ,376,109,17,0,250
+Haralson,Tallapoosa,State School Superintendent,,Rep,Richard Woods ,1312,561,57,0,694
+Haralson,Waco,State School Superintendent,,Rep,Richard Woods ,568,187,12,0,369
+Haralson,Bremen,State School Superintendent,,Dem,Alisha Thomas Searcy,508,265,67,0,176
+Haralson,Buchanan,State School Superintendent,,Dem,Alisha Thomas Searcy,127,81,5,0,41
+Haralson,Buncombe,State School Superintendent,,Dem,Alisha Thomas Searcy,50,16,4,0,30
+Haralson,Corinth,State School Superintendent,,Dem,Alisha Thomas Searcy,69,41,7,0,21
+Haralson,Twentieth,State School Superintendent,,Dem,Alisha Thomas Searcy,34,14,1,0,19
+Haralson,Felton,State School Superintendent,,Dem,Alisha Thomas Searcy,7,2,2,0,3
+Haralson,Little Creek,State School Superintendent,,Dem,Alisha Thomas Searcy,26,12,1,0,13
+Haralson,Mt View,State School Superintendent,,Dem,Alisha Thomas Searcy,12,3,0,0,9
+Haralson,Seventh,State School Superintendent,,Dem,Alisha Thomas Searcy,133,79,10,0,44
+Haralson,Berea-Steadman,State School Superintendent,,Dem,Alisha Thomas Searcy,27,16,0,0,11
+Haralson,Tallapoosa,State School Superintendent,,Dem,Alisha Thomas Searcy,206,78,17,0,111
+Haralson,Waco,State School Superintendent,,Dem,Alisha Thomas Searcy,54,23,0,0,31
+Haralson,Bremen,Commissioner Of Labor,,Rep,Bruce Thompson,3139,1558,135,0,1446
+Haralson,Buchanan,Commissioner Of Labor,,Rep,Bruce Thompson,1227,654,30,0,543
+Haralson,Buncombe,Commissioner Of Labor,,Rep,Bruce Thompson,501,179,9,0,313
+Haralson,Corinth,Commissioner Of Labor,,Rep,Bruce Thompson,848,311,33,0,504
+Haralson,Twentieth,Commissioner Of Labor,,Rep,Bruce Thompson,431,151,5,0,275
+Haralson,Felton,Commissioner Of Labor,,Rep,Bruce Thompson,195,51,6,0,138
+Haralson,Little Creek,Commissioner Of Labor,,Rep,Bruce Thompson,420,98,17,0,305
+Haralson,Mt View,Commissioner Of Labor,,Rep,Bruce Thompson,207,47,5,0,155
+Haralson,Seventh,Commissioner Of Labor,,Rep,Bruce Thompson,922,401,25,0,496
+Haralson,Berea-Steadman,Commissioner Of Labor,,Rep,Bruce Thompson,366,106,17,0,243
+Haralson,Tallapoosa,Commissioner Of Labor,,Rep,Bruce Thompson,1291,554,53,0,684
+Haralson,Waco,Commissioner Of Labor,,Rep,Bruce Thompson,562,185,12,0,365
+Haralson,Bremen,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",504,266,66,0,172
+Haralson,Buchanan,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",126,79,10,0,37
+Haralson,Buncombe,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",50,18,4,0,28
+Haralson,Corinth,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",68,42,6,0,20
+Haralson,Twentieth,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",37,18,1,0,18
+Haralson,Felton,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",8,3,2,0,3
+Haralson,Little Creek,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",29,13,1,0,15
+Haralson,Mt View,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",10,3,0,0,7
+Haralson,Seventh,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",128,79,10,0,39
+Haralson,Berea-Steadman,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",27,18,0,0,9
+Haralson,Tallapoosa,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",194,74,18,0,102
+Haralson,Waco,Commissioner Of Labor,,Dem,"William """"Will"""" Boddie, Jr",50,21,0,0,29
+Haralson,Bremen,Commissioner Of Labor,,Lib,Emily Anderson,75,28,6,0,41
+Haralson,Buchanan,Commissioner Of Labor,,Lib,Emily Anderson,31,6,1,0,24
+Haralson,Buncombe,Commissioner Of Labor,,Lib,Emily Anderson,9,2,0,0,7
+Haralson,Corinth,Commissioner Of Labor,,Lib,Emily Anderson,8,1,0,0,7
+Haralson,Twentieth,Commissioner Of Labor,,Lib,Emily Anderson,6,2,0,0,4
+Haralson,Felton,Commissioner Of Labor,,Lib,Emily Anderson,3,0,0,0,3
+Haralson,Little Creek,Commissioner Of Labor,,Lib,Emily Anderson,11,2,0,0,9
+Haralson,Mt View,Commissioner Of Labor,,Lib,Emily Anderson,2,0,0,0,2
+Haralson,Seventh,Commissioner Of Labor,,Lib,Emily Anderson,22,7,0,0,15
+Haralson,Berea-Steadman,Commissioner Of Labor,,Lib,Emily Anderson,8,1,0,0,7
+Haralson,Tallapoosa,Commissioner Of Labor,,Lib,Emily Anderson,34,8,2,0,24
+Haralson,Waco,Commissioner Of Labor,,Lib,Emily Anderson,14,8,0,0,6
+Haralson,Bremen,U.S. House,3,Rep,Drew Ferguson ,3210,1585,145,0,1480
+Haralson,Buchanan,U.S. House,3,Rep,Drew Ferguson ,1258,659,33,0,566
+Haralson,Buncombe,U.S. House,3,Rep,Drew Ferguson ,507,182,9,0,316
+Haralson,Corinth,U.S. House,3,Rep,Drew Ferguson ,857,314,31,0,512
+Haralson,Twentieth,U.S. House,3,Rep,Drew Ferguson ,441,153,5,0,283
+Haralson,Felton,U.S. House,3,Rep,Drew Ferguson ,200,53,5,0,142
+Haralson,Little Creek,U.S. House,3,Rep,Drew Ferguson ,432,100,18,0,314
+Haralson,Mt View,U.S. House,3,Rep,Drew Ferguson ,207,47,5,0,155
+Haralson,Seventh,U.S. House,3,Rep,Drew Ferguson ,940,407,27,0,506
+Haralson,Berea-Steadman,U.S. House,3,Rep,Drew Ferguson ,373,107,17,0,249
+Haralson,Tallapoosa,U.S. House,3,Rep,Drew Ferguson ,1321,563,56,0,702
+Haralson,Waco,U.S. House,3,Rep,Drew Ferguson ,567,189,12,0,366
+Haralson,Bremen,U.S. House,3,Dem,Val Almonord,513,267,64,0,182
+Haralson,Buchanan,U.S. House,3,Dem,Val Almonord,120,79,8,0,33
+Haralson,Buncombe,U.S. House,3,Dem,Val Almonord,49,16,4,0,29
+Haralson,Corinth,U.S. House,3,Dem,Val Almonord,66,39,8,0,19
+Haralson,Twentieth,U.S. House,3,Dem,Val Almonord,35,18,1,0,16
+Haralson,Felton,U.S. House,3,Dem,Val Almonord,7,2,3,0,2
+Haralson,Little Creek,U.S. House,3,Dem,Val Almonord,28,13,0,0,15
+Haralson,Mt View,U.S. House,3,Dem,Val Almonord,12,3,0,0,9
+Haralson,Seventh,U.S. House,3,Dem,Val Almonord,128,80,8,0,40
+Haralson,Berea-Steadman,U.S. House,3,Dem,Val Almonord,28,18,0,0,10
+Haralson,Tallapoosa,U.S. House,3,Dem,Val Almonord,197,74,19,0,104
+Haralson,Waco,U.S. House,3,Dem,Val Almonord,53,22,0,0,31
+Haralson,Bremen,State Senate,30,Rep,Mike Dugan ,3447,1695,167,0,1585
+Haralson,Buchanan,State Senate,30,Rep,Mike Dugan ,1310,691,33,0,586
+Haralson,Buncombe,State Senate,30,Rep,Mike Dugan ,534,193,8,0,333
+Haralson,Corinth,State Senate,30,Rep,Mike Dugan ,893,335,36,0,522
+Haralson,Twentieth,State Senate,30,Rep,Mike Dugan ,459,163,5,0,291
+Haralson,Felton,State Senate,30,Rep,Mike Dugan ,203,54,6,0,143
+Haralson,Little Creek,State Senate,30,Rep,Mike Dugan ,444,107,17,0,320
+Haralson,Mt View,State Senate,30,Rep,Mike Dugan ,213,49,5,0,159
+Haralson,Seventh,State Senate,30,Rep,Mike Dugan ,1004,449,31,0,524
+Haralson,Berea-Steadman,State Senate,30,Rep,Mike Dugan ,386,119,15,0,252
+Haralson,Tallapoosa,State Senate,30,Rep,Mike Dugan ,1414,590,64,0,760
+Haralson,Waco,State Senate,30,Rep,Mike Dugan ,601,202,12,0,387
+Haralson,Bremen,State House,18,Rep,Tyler Paul Smith ,3221,1584,146,0,1491
+Haralson,Buchanan,State House,18,Rep,Tyler Paul Smith ,1274,674,32,0,568
+Haralson,Buncombe,State House,18,Rep,Tyler Paul Smith ,510,183,8,0,319
+Haralson,Corinth,State House,18,Rep,Tyler Paul Smith ,861,316,32,0,513
+Haralson,Twentieth,State House,18,Rep,Tyler Paul Smith ,441,156,5,0,280
+Haralson,Felton,State House,18,Rep,Tyler Paul Smith ,200,53,5,0,142
+Haralson,Little Creek,State House,18,Rep,Tyler Paul Smith ,429,99,17,0,313
+Haralson,Mt View,State House,18,Rep,Tyler Paul Smith ,207,47,5,0,155
+Haralson,Seventh,State House,18,Rep,Tyler Paul Smith ,944,409,26,0,509
+Haralson,Berea-Steadman,State House,18,Rep,Tyler Paul Smith ,377,109,17,0,251
+Haralson,Tallapoosa,State House,18,Rep,Tyler Paul Smith ,1324,569,56,0,699
+Haralson,Waco,State House,18,Rep,Tyler Paul Smith ,571,188,12,0,371
+Haralson,Bremen,State House,18,Dem,Pat Rhudy,497,262,64,0,171
+Haralson,Buchanan,State House,18,Dem,Pat Rhudy,110,69,7,0,34
+Haralson,Buncombe,State House,18,Dem,Pat Rhudy,47,16,4,0,27
+Haralson,Corinth,State House,18,Dem,Pat Rhudy,63,39,6,0,18
+Haralson,Twentieth,State House,18,Dem,Pat Rhudy,32,15,0,0,17
+Haralson,Felton,State House,18,Dem,Pat Rhudy,7,2,3,0,2
+Haralson,Little Creek,State House,18,Dem,Pat Rhudy,31,14,1,0,16
+Haralson,Mt View,State House,18,Dem,Pat Rhudy,13,3,0,0,10
+Haralson,Seventh,State House,18,Dem,Pat Rhudy,126,78,8,0,40
+Haralson,Berea-Steadman,State House,18,Dem,Pat Rhudy,25,16,0,0,9
+Haralson,Tallapoosa,State House,18,Dem,Pat Rhudy,189,67,18,0,104
+Haralson,Waco,State House,18,Dem,Pat Rhudy,47,21,0,0,26
+Haralson,Bremen,County Commissioner Dist 2,,Rep,Danny Elsberry,314,167,15,0,132
+Haralson,Corinth,County Commissioner Dist 2,,Rep,Danny Elsberry,881,329,36,0,516
+Haralson,Twentieth,County Commissioner Dist 2,,Rep,Danny Elsberry,447,160,5,0,282
+Haralson,Felton,County Commissioner Dist 2,,Rep,Danny Elsberry,4,0,0,0,4
+Haralson,Mt View,County Commissioner Dist 2,,Rep,Danny Elsberry,211,47,5,0,159
+Haralson,Seventh,County Commissioner Dist 2,,Rep,Danny Elsberry,988,442,27,0,519
+Haralson,Buncombe,County Commissioner Dist 4,,Rep,Ryan Farmer ,539,192,9,0,338
+Haralson,Little Creek,County Commissioner Dist 4,,Rep,Ryan Farmer ,37,5,3,0,29
+Haralson,Berea-Steadman,County Commissioner Dist 4,,Rep,Ryan Farmer ,307,83,9,0,215
+Haralson,Tallapoosa,County Commissioner Dist 4,,Rep,Ryan Farmer ,1431,590,67,0,774
+Haralson,Waco,County Commissioner Dist 4,,Rep,Ryan Farmer ,93,22,2,0,69
+Haralson,Buchanan,County Board of Education Dist 2,,Rep,Mike Benefield ,874,485,23,0,366
+Haralson,Corinth,County Board of Education Dist 2,,Rep,Mike Benefield ,184,63,11,0,110
+Haralson,Twentieth,County Board of Education Dist 2,,Rep,Mike Benefield ,451,162,5,0,284
+Haralson,Felton,County Board of Education Dist 2,,Rep,Mike Benefield ,199,53,5,0,141
+Haralson,Mt View,County Board of Education Dist 2,,Rep,Mike Benefield ,212,48,5,0,159
+Haralson,Buncombe,County Board of Education Dist 3,,Rep,Kendall Robinson ,536,191,10,0,335
+Haralson,Tallapoosa,County Board of Education Dist 3,,Rep,Kendall Robinson ,562,214,30,0,318
+Haralson,Waco,County Board of Education Dist 3,,Rep,Kendall Robinson ,276,94,3,0,179
+Haralson,Bremen,County Board of Education Dist 5,,Rep,James M. Watson ,740,413,46,0,281
+Haralson,Buchanan,County Board of Education Dist 5,,Rep,James M. Watson ,1,0,1,0,0
+Haralson,Seventh,County Board of Education Dist 5,,Rep,James M. Watson ,459,210,9,0,240
+Haralson,Waco,County Board of Education Dist 5,,Rep,James M. Watson ,302,98,9,0,195
+Haralson,Bremen,West Georgia Soil and Water,,,Billy Sims ,3329,1668,174,0,1487
+Haralson,Buchanan,West Georgia Soil and Water,,,Billy Sims ,1245,673,34,0,538
+Haralson,Buncombe,West Georgia Soil and Water,,,Billy Sims ,516,185,10,0,321
+Haralson,Corinth,West Georgia Soil and Water,,,Billy Sims ,846,315,35,0,496
+Haralson,Twentieth,West Georgia Soil and Water,,,Billy Sims ,422,145,6,0,271
+Haralson,Felton,West Georgia Soil and Water,,,Billy Sims ,183,50,6,0,127
+Haralson,Little Creek,West Georgia Soil and Water,,,Billy Sims ,421,98,16,0,307
+Haralson,Mt View,West Georgia Soil and Water,,,Billy Sims ,203,46,5,0,152
+Haralson,Seventh,West Georgia Soil and Water,,,Billy Sims ,955,423,29,0,503
+Haralson,Berea-Steadman,West Georgia Soil and Water,,,Billy Sims ,360,113,14,0,233
+Haralson,Tallapoosa,West Georgia Soil and Water,,,Billy Sims ,1351,556,63,0,732
+Haralson,Waco,West Georgia Soil and Water,,,Billy Sims ,565,190,12,0,363
+Haralson,Bremen,Constitutional Amendment #1,,,Yes,3251,1605,190,0,1456
+Haralson,Buchanan,Constitutional Amendment #1,,,Yes,1151,627,33,0,491
+Haralson,Buncombe,Constitutional Amendment #1,,,Yes,490,182,11,0,297
+Haralson,Corinth,Constitutional Amendment #1,,,Yes,781,298,36,0,447
+Haralson,Twentieth,Constitutional Amendment #1,,,Yes,396,144,6,0,246
+Haralson,Felton,Constitutional Amendment #1,,,Yes,175,49,8,0,118
+Haralson,Little Creek,Constitutional Amendment #1,,,Yes,382,98,10,0,274
+Haralson,Mt View,Constitutional Amendment #1,,,Yes,192,43,5,0,144
+Haralson,Seventh,Constitutional Amendment #1,,,Yes,919,416,29,0,474
+Haralson,Berea-Steadman,Constitutional Amendment #1,,,Yes,342,110,12,0,220
+Haralson,Tallapoosa,Constitutional Amendment #1,,,Yes,1301,555,63,0,683
+Haralson,Waco,Constitutional Amendment #1,,,Yes,538,182,12,0,344
+Haralson,Bremen,Constitutional Amendment #1,,,No,399,207,18,0,174
+Haralson,Buchanan,Constitutional Amendment #1,,,No,207,101,6,0,100
+Haralson,Buncombe,Constitutional Amendment #1,,,No,60,14,2,0,44
+Haralson,Corinth,Constitutional Amendment #1,,,No,114,46,2,0,66
+Haralson,Twentieth,Constitutional Amendment #1,,,No,71,23,0,0,48
+Haralson,Felton,Constitutional Amendment #1,,,No,28,5,0,0,23
+Haralson,Little Creek,Constitutional Amendment #1,,,No,65,14,7,0,44
+Haralson,Mt View,Constitutional Amendment #1,,,No,25,7,0,0,18
+Haralson,Seventh,Constitutional Amendment #1,,,No,126,61,4,0,61
+Haralson,Berea-Steadman,Constitutional Amendment #1,,,No,49,14,2,0,33
+Haralson,Tallapoosa,Constitutional Amendment #1,,,No,183,65,7,0,111
+Haralson,Waco,Constitutional Amendment #1,,,No,73,26,0,0,47
+Haralson,Bremen,Constitutional Amendment #2,,,Yes,3385,1670,193,0,1522
+Haralson,Buchanan,Constitutional Amendment #2,,,Yes,1257,668,38,0,551
+Haralson,Buncombe,Constitutional Amendment #2,,,Yes,519,187,11,0,321
+Haralson,Corinth,Constitutional Amendment #2,,,Yes,852,322,36,0,494
+Haralson,Twentieth,Constitutional Amendment #2,,,Yes,427,151,6,0,270
+Haralson,Felton,Constitutional Amendment #2,,,Yes,191,52,8,0,131
+Haralson,Little Creek,Constitutional Amendment #2,,,Yes,408,97,13,0,298
+Haralson,Mt View,Constitutional Amendment #2,,,Yes,203,44,5,0,154
+Haralson,Seventh,Constitutional Amendment #2,,,Yes,970,446,30,0,494
+Haralson,Berea-Steadman,Constitutional Amendment #2,,,Yes,377,121,15,0,241
+Haralson,Tallapoosa,Constitutional Amendment #2,,,Yes,1378,571,64,0,743
+Haralson,Waco,Constitutional Amendment #2,,,Yes,572,196,12,0,364
+Haralson,Bremen,Constitutional Amendment #2,,,No,290,153,12,0,125
+Haralson,Buchanan,Constitutional Amendment #2,,,No,102,59,1,0,42
+Haralson,Buncombe,Constitutional Amendment #2,,,No,31,7,2,0,22
+Haralson,Corinth,Constitutional Amendment #2,,,No,58,29,2,0,27
+Haralson,Twentieth,Constitutional Amendment #2,,,No,41,15,0,0,26
+Haralson,Felton,Constitutional Amendment #2,,,No,14,3,0,0,11
+Haralson,Little Creek,Constitutional Amendment #2,,,No,40,15,2,0,23
+Haralson,Mt View,Constitutional Amendment #2,,,No,16,4,0,0,12
+Haralson,Seventh,Constitutional Amendment #2,,,No,82,35,2,0,45
+Haralson,Berea-Steadman,Constitutional Amendment #2,,,No,20,4,2,0,14
+Haralson,Tallapoosa,Constitutional Amendment #2,,,No,113,47,7,0,59
+Haralson,Waco,Constitutional Amendment #2,,,No,45,16,0,0,29
+Haralson,Bremen,Statewide Referendum A,,,Yes,2299,1102,102,0,1095
+Haralson,Buchanan,Statewide Referendum A,,,Yes,837,437,11,0,389
+Haralson,Buncombe,Statewide Referendum A,,,Yes,381,134,4,0,243
+Haralson,Corinth,Statewide Referendum A,,,Yes,630,235,16,0,379
+Haralson,Twentieth,Statewide Referendum A,,,Yes,309,105,4,0,200
+Haralson,Felton,Statewide Referendum A,,,Yes,141,37,1,0,103
+Haralson,Little Creek,Statewide Referendum A,,,Yes,293,61,4,0,228
+Haralson,Mt View,Statewide Referendum A,,,Yes,143,38,0,0,105
+Haralson,Seventh,Statewide Referendum A,,,Yes,697,303,16,0,378
+Haralson,Berea-Steadman,Statewide Referendum A,,,Yes,255,77,9,0,169
+Haralson,Tallapoosa,Statewide Referendum A,,,Yes,936,385,30,0,521
+Haralson,Waco,Statewide Referendum A,,,Yes,405,132,5,0,268
+Haralson,Bremen,Statewide Referendum A,,,No,1313,684,102,0,527
+Haralson,Buchanan,Statewide Referendum A,,,No,496,285,24,0,187
+Haralson,Buncombe,Statewide Referendum A,,,No,157,56,8,0,93
+Haralson,Corinth,Statewide Referendum A,,,No,268,111,22,0,135
+Haralson,Twentieth,Statewide Referendum A,,,No,149,55,2,0,92
+Haralson,Felton,Statewide Referendum A,,,No,62,17,7,0,38
+Haralson,Little Creek,Statewide Referendum A,,,No,150,49,13,0,88
+Haralson,Mt View,Statewide Referendum A,,,No,72,12,5,0,55
+Haralson,Seventh,Statewide Referendum A,,,No,341,174,16,0,151
+Haralson,Berea-Steadman,Statewide Referendum A,,,No,140,47,7,0,86
+Haralson,Tallapoosa,Statewide Referendum A,,,No,526,219,37,0,270
+Haralson,Waco,Statewide Referendum A,,,No,206,80,7,0,119
+Haralson,Bremen,Statewide Referendum B,,,Yes,2948,1456,135,0,1357
+Haralson,Buchanan,Statewide Referendum B,,,Yes,1127,589,29,0,509
+Haralson,Buncombe,Statewide Referendum B,,,Yes,461,170,6,0,285
+Haralson,Corinth,Statewide Referendum B,,,Yes,787,297,20,0,470
+Haralson,Twentieth,Statewide Referendum B,,,Yes,391,135,3,0,253
+Haralson,Felton,Statewide Referendum B,,,Yes,171,45,5,0,121
+Haralson,Little Creek,Statewide Referendum B,,,Yes,384,93,12,0,279
+Haralson,Mt View,Statewide Referendum B,,,Yes,191,40,3,0,148
+Haralson,Seventh,Statewide Referendum B,,,Yes,875,392,20,0,463
+Haralson,Berea-Steadman,Statewide Referendum B,,,Yes,341,99,12,0,230
+Haralson,Tallapoosa,Statewide Referendum B,,,Yes,1215,515,48,0,652
+Haralson,Waco,Statewide Referendum B,,,Yes,526,171,5,0,350
+Haralson,Bremen,Statewide Referendum B,,,No,677,341,69,0,267
+Haralson,Buchanan,Statewide Referendum B,,,No,209,127,9,0,73
+Haralson,Buncombe,Statewide Referendum B,,,No,80,22,7,0,51
+Haralson,Corinth,Statewide Referendum B,,,No,110,52,18,0,40
+Haralson,Twentieth,Statewide Referendum B,,,No,70,27,3,0,40
+Haralson,Felton,Statewide Referendum B,,,No,29,9,2,0,18
+Haralson,Little Creek,Statewide Referendum B,,,No,62,19,5,0,38
+Haralson,Mt View,Statewide Referendum B,,,No,28,10,2,0,16
+Haralson,Seventh,Statewide Referendum B,,,No,161,83,11,0,67
+Haralson,Berea-Steadman,Statewide Referendum B,,,No,54,25,4,0,25
+Haralson,Tallapoosa,Statewide Referendum B,,,No,256,98,20,0,138
+Haralson,Waco,Statewide Referendum B,,,No,86,38,7,0,41
+Haralson,Bremen,Haralson County Sunday Sales by the Drink,,,Yes,2239,1086,111,0,1042
+Haralson,Buchanan,Haralson County Sunday Sales by the Drink,,,Yes,718,374,15,0,329
+Haralson,Buncombe,Haralson County Sunday Sales by the Drink,,,Yes,321,115,9,0,197
+Haralson,Corinth,Haralson County Sunday Sales by the Drink,,,Yes,498,186,20,0,292
+Haralson,Twentieth,Haralson County Sunday Sales by the Drink,,,Yes,264,81,2,0,181
+Haralson,Felton,Haralson County Sunday Sales by the Drink,,,Yes,108,32,4,0,72
+Haralson,Little Creek,Haralson County Sunday Sales by the Drink,,,Yes,235,53,2,0,180
+Haralson,Mt View,Haralson County Sunday Sales by the Drink,,,Yes,107,24,1,0,82
+Haralson,Seventh,Haralson County Sunday Sales by the Drink,,,Yes,613,279,14,0,320
+Haralson,Berea-Steadman,Haralson County Sunday Sales by the Drink,,,Yes,213,71,8,0,134
+Haralson,Tallapoosa,Haralson County Sunday Sales by the Drink,,,Yes,851,342,29,0,480
+Haralson,Waco,Haralson County Sunday Sales by the Drink,,,Yes,400,131,6,0,263
+Haralson,Bremen,Haralson County Sunday Sales by the Drink,,,No,1438,741,95,0,602
+Haralson,Buchanan,Haralson County Sunday Sales by the Drink,,,No,649,360,25,0,264
+Haralson,Buncombe,Haralson County Sunday Sales by the Drink,,,No,230,80,4,0,146
+Haralson,Corinth,Haralson County Sunday Sales by the Drink,,,No,423,167,18,0,238
+Haralson,Twentieth,Haralson County Sunday Sales by the Drink,,,No,204,85,4,0,115
+Haralson,Felton,Haralson County Sunday Sales by the Drink,,,No,98,23,4,0,71
+Haralson,Little Creek,Haralson County Sunday Sales by the Drink,,,No,218,59,14,0,145
+Haralson,Mt View,Haralson County Sunday Sales by the Drink,,,No,113,26,4,0,83
+Haralson,Seventh,Haralson County Sunday Sales by the Drink,,,No,442,202,18,0,222
+Haralson,Berea-Steadman,Haralson County Sunday Sales by the Drink,,,No,187,53,9,0,125
+Haralson,Tallapoosa,Haralson County Sunday Sales by the Drink,,,No,659,289,43,0,327
+Haralson,Waco,Haralson County Sunday Sales by the Drink,,,No,221,82,6,0,133
+Haralson,Bremen,Haralson County Sunday Alcohol Package Sales,,,Yes,2229,1076,116,0,1037
+Haralson,Buchanan,Haralson County Sunday Alcohol Package Sales,,,Yes,724,381,16,0,327
+Haralson,Buncombe,Haralson County Sunday Alcohol Package Sales,,,Yes,329,114,9,0,206
+Haralson,Corinth,Haralson County Sunday Alcohol Package Sales,,,Yes,500,184,19,0,297
+Haralson,Twentieth,Haralson County Sunday Alcohol Package Sales,,,Yes,258,80,2,0,176
+Haralson,Felton,Haralson County Sunday Alcohol Package Sales,,,Yes,116,32,4,0,80
+Haralson,Little Creek,Haralson County Sunday Alcohol Package Sales,,,Yes,238,59,3,0,176
+Haralson,Mt View,Haralson County Sunday Alcohol Package Sales,,,Yes,116,28,1,0,87
+Haralson,Seventh,Haralson County Sunday Alcohol Package Sales,,,Yes,632,282,17,0,333
+Haralson,Berea-Steadman,Haralson County Sunday Alcohol Package Sales,,,Yes,214,71,8,0,135
+Haralson,Tallapoosa,Haralson County Sunday Alcohol Package Sales,,,Yes,840,337,30,0,473
+Haralson,Waco,Haralson County Sunday Alcohol Package Sales,,,Yes,400,132,7,0,261
+Haralson,Bremen,Haralson County Sunday Alcohol Package Sales,,,No,1446,749,91,0,606
+Haralson,Buchanan,Haralson County Sunday Alcohol Package Sales,,,No,644,353,24,0,267
+Haralson,Buncombe,Haralson County Sunday Alcohol Package Sales,,,No,222,82,4,0,136
+Haralson,Corinth,Haralson County Sunday Alcohol Package Sales,,,No,423,171,19,0,233
+Haralson,Twentieth,Haralson County Sunday Alcohol Package Sales,,,No,209,87,4,0,118
+Haralson,Felton,Haralson County Sunday Alcohol Package Sales,,,No,88,23,4,0,61
+Haralson,Little Creek,Haralson County Sunday Alcohol Package Sales,,,No,212,53,12,0,147
+Haralson,Mt View,Haralson County Sunday Alcohol Package Sales,,,No,104,22,4,0,78
+Haralson,Seventh,Haralson County Sunday Alcohol Package Sales,,,No,420,196,15,0,209
+Haralson,Berea-Steadman,Haralson County Sunday Alcohol Package Sales,,,No,184,52,9,0,123
+Haralson,Tallapoosa,Haralson County Sunday Alcohol Package Sales,,,No,669,293,42,0,334
+Haralson,Waco,Haralson County Sunday Alcohol Package Sales,,,No,219,81,5,0,133
+Haralson,Bremen,Haralson County Licenses for Package Sales,,,Yes,2395,1159,116,0,1120
+Haralson,Buchanan,Haralson County Licenses for Package Sales,,,Yes,789,402,19,0,368
+Haralson,Buncombe,Haralson County Licenses for Package Sales,,,Yes,345,122,9,0,214
+Haralson,Corinth,Haralson County Licenses for Package Sales,,,Yes,532,192,23,0,317
+Haralson,Twentieth,Haralson County Licenses for Package Sales,,,Yes,283,93,2,0,188
+Haralson,Felton,Haralson County Licenses for Package Sales,,,Yes,123,33,4,0,86
+Haralson,Little Creek,Haralson County Licenses for Package Sales,,,Yes,264,67,6,0,191
+Haralson,Mt View,Haralson County Licenses for Package Sales,,,Yes,121,24,1,0,96
+Haralson,Seventh,Haralson County Licenses for Package Sales,,,Yes,675,302,15,0,358
+Haralson,Berea-Steadman,Haralson County Licenses for Package Sales,,,Yes,234,75,6,0,153
+Haralson,Tallapoosa,Haralson County Licenses for Package Sales,,,Yes,905,364,35,0,506
+Haralson,Waco,Haralson County Licenses for Package Sales,,,Yes,428,143,5,0,280
+Haralson,Bremen,Haralson County Licenses for Package Sales,,,No,1267,662,89,0,516
+Haralson,Buchanan,Haralson County Licenses for Package Sales,,,No,578,331,20,0,227
+Haralson,Buncombe,Haralson County Licenses for Package Sales,,,No,208,74,4,0,130
+Haralson,Corinth,Haralson County Licenses for Package Sales,,,No,384,163,15,0,206
+Haralson,Twentieth,Haralson County Licenses for Package Sales,,,No,181,72,4,0,105
+Haralson,Felton,Haralson County Licenses for Package Sales,,,No,81,22,4,0,55
+Haralson,Little Creek,Haralson County Licenses for Package Sales,,,No,185,45,9,0,131
+Haralson,Mt View,Haralson County Licenses for Package Sales,,,No,97,26,4,0,67
+Haralson,Seventh,Haralson County Licenses for Package Sales,,,No,370,175,16,0,179
+Haralson,Berea-Steadman,Haralson County Licenses for Package Sales,,,No,162,49,11,0,102
+Haralson,Tallapoosa,Haralson County Licenses for Package Sales,,,No,596,264,37,0,295
+Haralson,Waco,Haralson County Licenses for Package Sales,,,No,191,69,7,0,115
+Haralson,Bremen,Haralson County Consumption of Distilled Spirits,,,Yes,2560,1221,116,0,1223
+Haralson,Buchanan,Haralson County Consumption of Distilled Spirits,,,Yes,839,426,17,0,396
+Haralson,Buncombe,Haralson County Consumption of Distilled Spirits,,,Yes,362,128,8,0,226
+Haralson,Corinth,Haralson County Consumption of Distilled Spirits,,,Yes,552,203,25,0,324
+Haralson,Twentieth,Haralson County Consumption of Distilled Spirits,,,Yes,295,97,2,0,196
+Haralson,Felton,Haralson County Consumption of Distilled Spirits,,,Yes,130,37,4,0,89
+Haralson,Little Creek,Haralson County Consumption of Distilled Spirits,,,Yes,275,70,4,0,201
+Haralson,Mt View,Haralson County Consumption of Distilled Spirits,,,Yes,135,28,1,0,106
+Haralson,Seventh,Haralson County Consumption of Distilled Spirits,,,Yes,694,308,17,0,369
+Haralson,Berea-Steadman,Haralson County Consumption of Distilled Spirits,,,Yes,242,80,9,0,153
+Haralson,Tallapoosa,Haralson County Consumption of Distilled Spirits,,,Yes,939,380,34,0,525
+Haralson,Waco,Haralson County Consumption of Distilled Spirits,,,Yes,431,148,6,0,277
+Haralson,Bremen,Haralson County Consumption of Distilled Spirits,,,No,1113,601,90,0,422
+Haralson,Buchanan,Haralson County Consumption of Distilled Spirits,,,No,532,312,23,0,197
+Haralson,Buncombe,Haralson County Consumption of Distilled Spirits,,,No,188,68,4,0,116
+Haralson,Corinth,Haralson County Consumption of Distilled Spirits,,,No,365,151,13,0,201
+Haralson,Twentieth,Haralson County Consumption of Distilled Spirits,,,No,167,66,4,0,97
+Haralson,Felton,Haralson County Consumption of Distilled Spirits,,,No,73,18,4,0,51
+Haralson,Little Creek,Haralson County Consumption of Distilled Spirits,,,No,175,42,11,0,122
+Haralson,Mt View,Haralson County Consumption of Distilled Spirits,,,No,84,22,4,0,58
+Haralson,Seventh,Haralson County Consumption of Distilled Spirits,,,No,354,170,14,0,170
+Haralson,Berea-Steadman,Haralson County Consumption of Distilled Spirits,,,No,157,44,8,0,105
+Haralson,Tallapoosa,Haralson County Consumption of Distilled Spirits,,,No,567,247,38,0,282
+Haralson,Waco,Haralson County Consumption of Distilled Spirits,,,No,190,65,6,0,119
+Haralson,Buchanan,City of Buchanan Sunday Alcohol Sales,,,Yes,167,82,3,0,82
+Haralson,Buchanan,City of Buchanan Sunday Alcohol Sales,,,No,101,62,2,0,37
+Haralson,Buncombe,City of Tallapoosa Consumption of Distilled Spirits,,,Yes,13,3,0,0,10
+Haralson,Tallapoosa,City of Tallapoosa Consumption of Distilled Spirits,,,Yes,663,255,24,0,384
+Haralson,Buncombe,City of Tallapoosa Consumption of Distilled Spirits,,,No,6,3,0,0,3
+Haralson,Tallapoosa,City of Tallapoosa Consumption of Distilled Spirits,,,No,367,155,27,0,185
+Haralson,Buncombe,City of Tallapoosa Licenses for Package Sales,,,Yes,12,4,0,0,8
+Haralson,Tallapoosa,City of Tallapoosa Licenses for Package Sales,,,Yes,653,250,25,0,378
+Haralson,Buncombe,City of Tallapoosa Licenses for Package Sales,,,No,7,2,0,0,5
+Haralson,Tallapoosa,City of Tallapoosa Licenses for Package Sales,,,No,372,158,26,0,188
+Haralson,Buncombe,City of Tallapoosa Sunday Alcohol Package Sales,,,Yes,10,2,0,0,8
+Haralson,Tallapoosa,City of Tallapoosa Sunday Alcohol Package Sales,,,Yes,590,224,21,0,345
+Haralson,Buncombe,City of Tallapoosa Sunday Alcohol Package Sales,,,No,9,4,0,0,5
+Haralson,Tallapoosa,City of Tallapoosa Sunday Alcohol Package Sales,,,No,435,184,30,0,221
+Haralson,Buncombe,City of Tallapoosa Sunday Sales by the Drink,,,Yes,11,3,0,0,8
+Haralson,Tallapoosa,City of Tallapoosa Sunday Sales by the Drink,,,Yes,588,223,20,0,345
+Haralson,Buncombe,City of Tallapoosa Sunday Sales by the Drink,,,No,8,3,0,0,5
+Haralson,Tallapoosa,City of Tallapoosa Sunday Sales by the Drink,,,No,439,186,30,0,223

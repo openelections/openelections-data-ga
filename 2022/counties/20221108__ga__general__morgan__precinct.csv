@@ -1,0 +1,217 @@
+county,precinct,office,district,party,candidate,votes,advance_voting_votes,absentee_by_mail_votes,provisional_votes,election_day_votes
+Morgan,Rec Dept,U.S. Senate,,Rep,Herschel Junior Walker,657,485,19,0,153
+Morgan,Centennial,U.S. Senate,,Rep,Herschel Junior Walker,1650,843,33,0,774
+Morgan,Gibbs,U.S. Senate,,Rep,Herschel Junior Walker,1638,826,49,1,762
+Morgan,DFACS,U.S. Senate,,Rep,Herschel Junior Walker,1654,1105,44,5,500
+Morgan,Buckhead,U.S. Senate,,Rep,Herschel Junior Walker,1723,903,41,1,778
+Morgan,Rec Dept,U.S. Senate,,Dem,Raphael Warnock ,996,643,96,1,256
+Morgan,Centennial,U.S. Senate,,Dem,Raphael Warnock ,373,215,25,0,133
+Morgan,Gibbs,U.S. Senate,,Dem,Raphael Warnock ,444,276,31,0,137
+Morgan,DFACS,U.S. Senate,,Dem,Raphael Warnock ,481,314,59,0,108
+Morgan,Buckhead,U.S. Senate,,Dem,Raphael Warnock ,468,266,57,0,145
+Morgan,Rec Dept,U.S. Senate,,Lib,Chase Oliver,32,17,3,0,12
+Morgan,Centennial,U.S. Senate,,Lib,Chase Oliver,34,14,0,0,20
+Morgan,Gibbs,U.S. Senate,,Lib,Chase Oliver,38,14,0,0,24
+Morgan,DFACS,U.S. Senate,,Lib,Chase Oliver,27,15,2,0,10
+Morgan,Buckhead,U.S. Senate,,Lib,Chase Oliver,43,18,0,0,25
+Morgan,Rec Dept,Governor,,Rep,Brian Kemp ,724,525,24,0,175
+Morgan,Centennial,Governor,,Rep,Brian Kemp ,1742,888,42,0,812
+Morgan,Gibbs,Governor,,Rep,Brian Kemp ,1716,855,52,1,808
+Morgan,DFACS,Governor,,Rep,Brian Kemp ,1748,1169,49,5,525
+Morgan,Buckhead,Governor,,Rep,Brian Kemp ,1834,956,50,1,827
+Morgan,Rec Dept,Governor,,Dem,Stacey Abrams,956,621,93,1,241
+Morgan,Centennial,Governor,,Dem,Stacey Abrams,307,183,17,0,107
+Morgan,Gibbs,Governor,,Dem,Stacey Abrams,396,257,27,0,112
+Morgan,DFACS,Governor,,Dem,Stacey Abrams,407,265,58,0,84
+Morgan,Buckhead,Governor,,Dem,Stacey Abrams,407,240,48,0,119
+Morgan,Rec Dept,Governor,,Lib,Shane Hazel,14,9,1,0,4
+Morgan,Centennial,Governor,,Lib,Shane Hazel,19,8,0,0,11
+Morgan,Gibbs,Governor,,Lib,Shane Hazel,20,11,1,0,8
+Morgan,DFACS,Governor,,Lib,Shane Hazel,18,7,0,0,11
+Morgan,Buckhead,Governor,,Lib,Shane Hazel,18,6,0,0,12
+Morgan,Rec Dept,Lieutenant Governor,,Rep,Burt Jones,689,502,22,0,165
+Morgan,Centennial,Lieutenant Governor,,Rep,Burt Jones,1704,877,35,0,792
+Morgan,Gibbs,Lieutenant Governor,,Rep,Burt Jones,1686,847,51,1,787
+Morgan,DFACS,Lieutenant Governor,,Rep,Burt Jones,1697,1136,44,5,512
+Morgan,Buckhead,Lieutenant Governor,,Rep,Burt Jones,1775,923,49,1,802
+Morgan,Rec Dept,Lieutenant Governor,,Dem,Charlie Bailey,933,598,93,1,241
+Morgan,Centennial,Lieutenant Governor,,Dem,Charlie Bailey,321,181,24,0,116
+Morgan,Gibbs,Lieutenant Governor,,Dem,Charlie Bailey,399,256,28,0,115
+Morgan,DFACS,Lieutenant Governor,,Dem,Charlie Bailey,443,292,61,0,90
+Morgan,Buckhead,Lieutenant Governor,,Dem,Charlie Bailey,422,250,48,0,124
+Morgan,Rec Dept,Lieutenant Governor,,Lib,Ryan Graham,39,32,0,0,7
+Morgan,Centennial,Lieutenant Governor,,Lib,Ryan Graham,35,13,0,0,22
+Morgan,Gibbs,Lieutenant Governor,,Lib,Ryan Graham,34,12,1,0,21
+Morgan,DFACS,Lieutenant Governor,,Lib,Ryan Graham,28,14,1,0,13
+Morgan,Buckhead,Lieutenant Governor,,Lib,Ryan Graham,43,19,1,0,23
+Morgan,Rec Dept,Secretary of State,,Rep,Brad Raffensperger ,755,548,29,0,178
+Morgan,Centennial,Secretary of State,,Rep,Brad Raffensperger ,1701,872,43,0,786
+Morgan,Gibbs,Secretary of State,,Rep,Brad Raffensperger ,1652,833,53,1,765
+Morgan,DFACS,Secretary of State,,Rep,Brad Raffensperger ,1693,1132,52,5,504
+Morgan,Buckhead,Secretary of State,,Rep,Brad Raffensperger ,1758,920,48,1,789
+Morgan,Rec Dept,Secretary of State,,Dem,Bee Nguyen,876,557,88,1,230
+Morgan,Centennial,Secretary of State,,Dem,Bee Nguyen,280,163,16,0,101
+Morgan,Gibbs,Secretary of State,,Dem,Bee Nguyen,379,242,27,0,110
+Morgan,DFACS,Secretary of State,,Dem,Bee Nguyen,391,255,53,0,83
+Morgan,Buckhead,Secretary of State,,Dem,Bee Nguyen,404,231,48,0,125
+Morgan,Rec Dept,Secretary of State,,Lib,Ted Metz,36,31,0,0,5
+Morgan,Centennial,Secretary of State,,Lib,Ted Metz,68,31,0,0,37
+Morgan,Gibbs,Secretary of State,,Lib,Ted Metz,80,36,1,0,43
+Morgan,DFACS,Secretary of State,,Lib,Ted Metz,68,41,1,0,26
+Morgan,Buckhead,Secretary of State,,Lib,Ted Metz,73,36,2,0,35
+Morgan,Rec Dept,Attorney General,,Rep,Chris Carr ,704,514,23,0,167
+Morgan,Centennial,Attorney General,,Rep,Chris Carr ,1711,881,36,0,794
+Morgan,Gibbs,Attorney General,,Rep,Chris Carr ,1690,849,49,1,791
+Morgan,DFACS,Attorney General,,Rep,Chris Carr ,1710,1142,46,5,517
+Morgan,Buckhead,Attorney General,,Rep,Chris Carr ,1782,924,50,1,807
+Morgan,Rec Dept,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",935,604,93,1,237
+Morgan,Centennial,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",327,191,23,0,113
+Morgan,Gibbs,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",403,256,28,0,119
+Morgan,DFACS,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",428,282,60,0,86
+Morgan,Buckhead,Attorney General,,Dem,"Jennifer """"Jen"""" Jordan",425,250,48,0,127
+Morgan,Rec Dept,Attorney General,,Lib,Martin Cowen,25,16,0,0,9
+Morgan,Centennial,Attorney General,,Lib,Martin Cowen,26,6,0,0,20
+Morgan,Gibbs,Attorney General,,Lib,Martin Cowen,24,11,0,0,13
+Morgan,DFACS,Attorney General,,Lib,Martin Cowen,25,14,0,0,11
+Morgan,Buckhead,Attorney General,,Lib,Martin Cowen,38,20,0,0,18
+Morgan,Rec Dept,Commissioner of Agriculture,,Rep,Tyler Harper,742,543,27,0,172
+Morgan,Centennial,Commissioner of Agriculture,,Rep,Tyler Harper,1731,890,37,0,804
+Morgan,Gibbs,Commissioner of Agriculture,,Rep,Tyler Harper,1714,861,52,1,800
+Morgan,DFACS,Commissioner of Agriculture,,Rep,Tyler Harper,1737,1167,49,5,516
+Morgan,Buckhead,Commissioner of Agriculture,,Rep,Tyler Harper,1798,937,51,1,809
+Morgan,Rec Dept,Commissioner of Agriculture,,Dem,Nakita Hemingway,876,557,87,1,231
+Morgan,Centennial,Commissioner of Agriculture,,Dem,Nakita Hemingway,290,172,22,0,96
+Morgan,Gibbs,Commissioner of Agriculture,,Dem,Nakita Hemingway,359,235,22,0,102
+Morgan,DFACS,Commissioner of Agriculture,,Dem,Nakita Hemingway,385,245,56,0,84
+Morgan,Buckhead,Commissioner of Agriculture,,Dem,Nakita Hemingway,390,224,45,0,121
+Morgan,Rec Dept,Commissioner of Agriculture,,Lib,David Raudabaugh,37,29,2,0,6
+Morgan,Centennial,Commissioner of Agriculture,,Lib,David Raudabaugh,41,15,0,0,26
+Morgan,Gibbs,Commissioner of Agriculture,,Lib,David Raudabaugh,35,13,3,0,19
+Morgan,DFACS,Commissioner of Agriculture,,Lib,David Raudabaugh,33,20,0,0,13
+Morgan,Buckhead,Commissioner of Agriculture,,Lib,David Raudabaugh,42,21,1,0,20
+Morgan,Rec Dept,Commissioner of Insurance,,Rep,John King ,741,541,24,0,176
+Morgan,Centennial,Commissioner of Insurance,,Rep,John King ,1746,891,36,0,819
+Morgan,Gibbs,Commissioner of Insurance,,Rep,John King ,1723,866,50,0,807
+Morgan,DFACS,Commissioner of Insurance,,Rep,John King ,1743,1171,48,5,519
+Morgan,Buckhead,Commissioner of Insurance,,Rep,John King ,1808,937,49,1,821
+Morgan,Rec Dept,Commissioner of Insurance,,Dem,Janice Laws Robinson,909,585,92,1,231
+Morgan,Centennial,Commissioner of Insurance,,Dem,Janice Laws Robinson,306,182,22,0,102
+Morgan,Gibbs,Commissioner of Insurance,,Dem,Janice Laws Robinson,378,239,27,0,112
+Morgan,DFACS,Commissioner of Insurance,,Dem,Janice Laws Robinson,409,262,58,0,89
+Morgan,Buckhead,Commissioner of Insurance,,Dem,Janice Laws Robinson,414,245,47,0,122
+Morgan,Rec Dept,State School Superintendent,,Rep,Richard Woods ,758,555,24,0,179
+Morgan,Centennial,State School Superintendent,,Rep,Richard Woods ,1755,898,39,0,818
+Morgan,Gibbs,State School Superintendent,,Rep,Richard Woods ,1727,866,52,1,808
+Morgan,DFACS,State School Superintendent,,Rep,Richard Woods ,1756,1179,48,5,524
+Morgan,Buckhead,State School Superintendent,,Rep,Richard Woods ,1836,955,52,1,828
+Morgan,Rec Dept,State School Superintendent,,Dem,Alisha Thomas Searcy,900,577,92,1,230
+Morgan,Centennial,State School Superintendent,,Dem,Alisha Thomas Searcy,305,180,20,0,105
+Morgan,Gibbs,State School Superintendent,,Dem,Alisha Thomas Searcy,381,241,27,0,113
+Morgan,DFACS,State School Superintendent,,Dem,Alisha Thomas Searcy,398,256,57,0,85
+Morgan,Buckhead,State School Superintendent,,Dem,Alisha Thomas Searcy,399,233,45,0,121
+Morgan,Rec Dept,Commissioner of Labor,,Rep,Bruce Thompson,706,514,24,0,168
+Morgan,Centennial,Commissioner of Labor,,Rep,Bruce Thompson,1698,871,37,0,790
+Morgan,Gibbs,Commissioner of Labor,,Rep,Bruce Thompson,1701,859,48,1,793
+Morgan,DFACS,Commissioner of Labor,,Rep,Bruce Thompson,1716,1147,46,5,518
+Morgan,Buckhead,Commissioner of Labor,,Rep,Bruce Thompson,1778,918,49,1,810
+Morgan,Rec Dept,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",913,589,91,1,232
+Morgan,Centennial,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",316,187,22,0,107
+Morgan,Gibbs,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",377,241,27,0,109
+Morgan,DFACS,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",402,262,58,0,82
+Morgan,Buckhead,Commissioner of Labor,,Dem,"William """"Will"""" Boddie, Jr",403,239,47,0,117
+Morgan,Rec Dept,Commissioner of Labor,,Lib,Emily Anderson,42,30,1,0,11
+Morgan,Centennial,Commissioner of Labor,,Lib,Emily Anderson,40,14,0,0,26
+Morgan,Gibbs,Commissioner of Labor,,Lib,Emily Anderson,27,12,2,0,13
+Morgan,DFACS,Commissioner of Labor,,Lib,Emily Anderson,34,22,0,0,12
+Morgan,Buckhead,Commissioner of Labor,,Lib,Emily Anderson,54,30,1,0,23
+Morgan,Rec Dept,U.S. House,,Rep,Mike Collins,714,525,23,0,166
+Morgan,Centennial,U.S. House,,Rep,Mike Collins,1728,885,36,0,807
+Morgan,Gibbs,U.S. House,,Rep,Mike Collins,1721,864,51,1,805
+Morgan,DFACS,U.S. House,,Rep,Mike Collins,1732,1158,46,5,523
+Morgan,Buckhead,U.S. House,,Rep,Mike Collins,1821,948,52,1,820
+Morgan,Rec Dept,U.S. House,,Dem,Tabitha Johnson-Green,943,606,91,1,245
+Morgan,Centennial,U.S. House,,Dem,Tabitha Johnson-Green,325,187,23,0,115
+Morgan,Gibbs,U.S. House,,Dem,Tabitha Johnson-Green,392,253,27,0,112
+Morgan,DFACS,U.S. House,,Dem,Tabitha Johnson-Green,426,275,59,0,92
+Morgan,Buckhead,U.S. House,,Dem,Tabitha Johnson-Green,421,244,46,0,131
+Morgan,Rec Dept,State Senate,,Rep,Brian Strickland ,726,526,25,0,175
+Morgan,Centennial,State Senate,,Rep,Brian Strickland ,1741,894,37,0,810
+Morgan,Gibbs,State Senate,,Rep,Brian Strickland ,1725,869,49,1,806
+Morgan,DFACS,State Senate,,Rep,Brian Strickland ,1741,1167,46,5,523
+Morgan,Buckhead,State Senate,,Rep,Brian Strickland ,1825,951,50,1,823
+Morgan,Rec Dept,State Senate,,Dem,Kacy D. Morgan,929,601,90,1,237
+Morgan,Centennial,State Senate,,Dem,Kacy D. Morgan,311,179,20,0,112
+Morgan,Gibbs,State Senate,,Dem,Kacy D. Morgan,383,245,29,0,109
+Morgan,DFACS,State Senate,,Dem,Kacy D. Morgan,413,262,58,0,93
+Morgan,Buckhead,State Senate,,Dem,Kacy D. Morgan,413,238,45,0,130
+Morgan,Rec Dept,State House,,Rep,Tim Fleming,713,523,22,0,168
+Morgan,Centennial,State House,,Rep,Tim Fleming,1725,881,37,0,807
+Morgan,Gibbs,State House,,Rep,Tim Fleming,1715,862,48,1,804
+Morgan,DFACS,State House,,Rep,Tim Fleming,1730,1160,46,5,519
+Morgan,Buckhead,State House,,Rep,Tim Fleming,1803,937,49,1,816
+Morgan,Rec Dept,State House,,Dem,Malcolm Adams,946,611,92,1,242
+Morgan,Centennial,State House,,Dem,Malcolm Adams,327,193,22,0,112
+Morgan,Gibbs,State House,,Dem,Malcolm Adams,389,249,30,0,110
+Morgan,DFACS,State House,,Dem,Malcolm Adams,427,274,59,0,94
+Morgan,Buckhead,State House,,Dem,Malcolm Adams,436,255,48,0,133
+Morgan,Rec Dept,County Commission,,Dem,Donald Harris ,1402,944,99,1,358
+Morgan,Centennial,County Commission,,Rep,Blake McCormack,1713,874,34,0,805
+Morgan,Centennial,County Commission,,Dem,Bob Baldwin,343,202,25,0,116
+Morgan,DFACS,County BOE,,Rep,Andrew Ainslie III ,1888,1255,69,1,563
+Morgan,Buckhead,County BOE,,Rep,Forest Pagett ,1883,987,54,0,842
+Morgan,Buckhead,County BOE,,Dem,Claudia Crenshaw,354,203,43,0,108
+Morgan,Rec Dept,Soil and Water Conservation District Supervisor,,,John Marvin Ruark ,1334,902,87,1,344
+Morgan,Centennial,Soil and Water Conservation District Supervisor,,,John Marvin Ruark ,1848,973,48,0,827
+Morgan,Gibbs,Soil and Water Conservation District Supervisor,,,John Marvin Ruark ,1879,967,70,1,841
+Morgan,DFACS,Soil and Water Conservation District Supervisor,,,John Marvin Ruark ,1862,1242,72,5,543
+Morgan,Buckhead,Soil and Water Conservation District Supervisor,,,John Marvin Ruark ,2007,1054,79,1,873
+Morgan,Rec Dept,Proposed Constitutional Amendment 1,,,Yes,1391,953,87,1,350
+Morgan,Centennial,Proposed Constitutional Amendment 1,,,Yes,1800,945,52,0,803
+Morgan,Gibbs,Proposed Constitutional Amendment 1,,,Yes,1841,968,67,0,806
+Morgan,DFACS,Proposed Constitutional Amendment 1,,,Yes,1867,1253,89,4,521
+Morgan,Buckhead,Proposed Constitutional Amendment 1,,,Yes,1916,1026,83,1,806
+Morgan,Rec Dept,Proposed Constitutional Amendment 1,,,No,231,145,26,0,60
+Morgan,Centennial,Proposed Constitutional Amendment 1,,,No,221,110,6,0,105
+Morgan,Gibbs,Proposed Constitutional Amendment 1,,,No,213,117,9,1,86
+Morgan,DFACS,Proposed Constitutional Amendment 1,,,No,231,142,13,1,75
+Morgan,Buckhead,Proposed Constitutional Amendment 1,,,No,279,141,13,0,125
+Morgan,Rec Dept,Proposed Constitutional Amendment 2,,,Yes,1468,1005,98,1,364
+Morgan,Centennial,Proposed Constitutional Amendment 2,,,Yes,1812,947,51,0,814
+Morgan,Gibbs,Proposed Constitutional Amendment 2,,,Yes,1858,971,67,1,819
+Morgan,DFACS,Proposed Constitutional Amendment 2,,,Yes,1900,1257,101,5,537
+Morgan,Buckhead,Proposed Constitutional Amendment 2,,,Yes,1964,1037,93,1,833
+Morgan,Rec Dept,Proposed Constitutional Amendment 2,,,No,163,106,15,0,42
+Morgan,Centennial,Proposed Constitutional Amendment 2,,,No,214,112,7,0,95
+Morgan,Gibbs,Proposed Constitutional Amendment 2,,,No,215,126,8,0,81
+Morgan,DFACS,Proposed Constitutional Amendment 2,,,No,210,141,2,0,67
+Morgan,Buckhead,Proposed Constitutional Amendment 2,,,No,234,131,3,0,100
+Morgan,Rec Dept,Statewide Referendum Question 1,,,Yes,930,621,49,0,260
+Morgan,Centennial,Statewide Referendum Question 1,,,Yes,1215,610,25,0,580
+Morgan,Gibbs,Statewide Referendum Question 1,,,Yes,1282,633,37,0,612
+Morgan,DFACS,Statewide Referendum Question 1,,,Yes,1323,875,38,2,408
+Morgan,Buckhead,Statewide Referendum Question 1,,,Yes,1352,708,37,1,606
+Morgan,Rec Dept,Statewide Referendum Question 1,,,No,662,462,61,1,138
+Morgan,Centennial,Statewide Referendum Question 1,,,No,778,430,30,0,318
+Morgan,Gibbs,Statewide Referendum Question 1,,,No,770,452,36,1,281
+Morgan,DFACS,Statewide Referendum Question 1,,,No,754,503,64,2,185
+Morgan,Buckhead,Statewide Referendum Question 1,,,No,803,443,57,0,303
+Morgan,Rec Dept,Statewide Referendum Question 2,,,Yes,1101,760,57,1,283
+Morgan,Centennial,Statewide Referendum Question 2,,,Yes,1587,808,32,0,747
+Morgan,Gibbs,Statewide Referendum Question 2,,,Yes,1644,835,50,0,759
+Morgan,DFACS,Statewide Referendum Question 2,,,Yes,1697,1118,61,3,515
+Morgan,Buckhead,Statewide Referendum Question 2,,,Yes,1742,912,50,1,779
+Morgan,Rec Dept,Statewide Referendum Question 2,,,No,493,324,54,0,115
+Morgan,Centennial,Statewide Referendum Question 2,,,No,420,237,23,0,160
+Morgan,Gibbs,Statewide Referendum Question 2,,,No,421,257,25,1,138
+Morgan,DFACS,Statewide Referendum Question 2,,,No,391,264,38,2,87
+Morgan,Buckhead,Statewide Referendum Question 2,,,No,432,240,45,0,147
+Morgan,Rec Dept,TSPLOST,,,Yes,925,630,66,1,228
+Morgan,Centennial,TSPLOST,,,Yes,927,529,22,0,376
+Morgan,Gibbs,TSPLOST,,,Yes,983,556,37,0,390
+Morgan,DFACS,TSPLOST,,,Yes,1061,723,48,2,288
+Morgan,Buckhead,TSPLOST,,,Yes,1144,627,49,1,467
+Morgan,Rec Dept,TSPLOST,,,No,686,468,45,0,173
+Morgan,Centennial,TSPLOST,,,No,1091,522,36,0,533
+Morgan,Gibbs,TSPLOST,,,No,1080,539,39,0,502
+Morgan,DFACS,TSPLOST,,,No,1041,674,53,3,311
+Morgan,Buckhead,TSPLOST,,,No,1036,537,46,0,453
