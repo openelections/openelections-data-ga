@@ -3,7 +3,7 @@ library(tidyverse)
 ```
 
 ```{r}
-ga_general <- read_csv("/Users/dwillis/code/openelections-data-ga/2022/20221108__ga__general__precinct.csv", guess_max =65132)
+ga_general <- read_csv("/Users/derekwillis/code/openelections-data-ga/2022/20221108__ga__general__precinct.csv", guess_max =65132)
 ```
 
 ```{r}
