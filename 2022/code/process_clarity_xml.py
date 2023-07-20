@@ -10,7 +10,7 @@ import helpers
 
 DATABASE = '2022_race_results.db'
 
-TABLE_NAME = 'ga_special_20220405'
+TABLE_NAME = 'ga_special_20220503'
 
 CREATE_TABLE_SQL = f"""
 CREATE TABLE IF NOT EXISTS {TABLE_NAME} (
