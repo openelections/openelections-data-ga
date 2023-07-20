@@ -31,6 +31,6 @@ if __name__ == '__main__':
 
     logger = helpers.setup_logger_stdout('get_detail_xml_files')
 
-    url = 'https://results.enr.clarityelections.com/GA/112431/web.285569/#/access-to-races' # noqa
+    url = 'https://results.enr.clarityelections.com/GA/112811/web.285569/#/access-to-races' # noqa
 
     get_detail_xml_files(url, logger)

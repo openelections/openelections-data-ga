@@ -60,19 +60,19 @@ def get_participating_counties(url, logger):
         links.append(link.get('href'))
     county_urls = []
     for link in links:
-        if [c for c in counties if(c in link)]:
+        if [c for c in counties if (c in link)]:
             county_urls.append(link)
     logger.info(f'Found {len(county_urls)} counties to process')
     return county_urls
 
 
-def get_rendered_html(url):
-    browser = webdriver.Chrome(
-        executable_path="/Users/skunkworks/Development/chromedriver",
-    )
+def get_rendered_html(url, sleep_seconds=3):
+    browser = webdriver.Chrome()
     browser.get(url)
+    time.sleep(sleep_seconds)
     scroll_to_bottom(browser)
     html = browser.page_source
+    print(html)
     browser.close()
     return html
 
