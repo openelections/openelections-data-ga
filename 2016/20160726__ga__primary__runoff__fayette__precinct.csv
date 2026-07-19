@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Fayette,,U.S. Representative,3,REP,MIKE CRANE,4639,107,3594,937,1
 Fayette,BLACKROCK,U.S. Representative,3,REP,MIKE CRANE,131,5,81,44,1
 Fayette,BROOKS,U.S. Representative,3,REP,MIKE CRANE,192,7,156,29,0
 Fayette,FAYETTEVILLE EAST,U.S. Representative,3,REP,MIKE CRANE,98,3,66,29,0
@@ -30,7 +29,6 @@ Fayette,CAMP CREEK,U.S. Representative,3,REP,MIKE CRANE,157,3,132,22,0
 Fayette,RISING STAR,U.S. Representative,3,REP,MIKE CRANE,198,2,165,31,0
 Fayette,SPRING HILL,U.S. Representative,3,REP,MIKE CRANE,179,7,116,56,0
 Fayette,ANTIOCH,U.S. Representative,3,REP,MIKE CRANE,163,3,116,44,0
-Fayette,,U.S. Representative,3,REP,DREW FERGUSON,2872,100,2121,651,0
 Fayette,BLACKROCK,U.S. Representative,3,REP,DREW FERGUSON,84,10,48,26,0
 Fayette,BROOKS,U.S. Representative,3,REP,DREW FERGUSON,175,11,137,27,0
 Fayette,FAYETTEVILLE EAST,U.S. Representative,3,REP,DREW FERGUSON,67,0,31,36,0
@@ -61,7 +59,6 @@ Fayette,CAMP CREEK,U.S. Representative,3,REP,DREW FERGUSON,86,2,72,12,0
 Fayette,RISING STAR,U.S. Representative,3,REP,DREW FERGUSON,120,0,102,18,0
 Fayette,SPRING HILL,U.S. Representative,3,REP,DREW FERGUSON,100,1,76,23,0
 Fayette,ANTIOCH,U.S. Representative,3,REP,DREW FERGUSON,89,3,59,27,0
-Fayette,,State Representative,63,DEM,DEBRA BAZEMORE,320,7,264,49,0
 Fayette,EUROPE,State Representative,63,DEM,DEBRA BAZEMORE,131,3,114,14,0
 Fayette,FAYETTEVILLE EAST,State Representative,63,DEM,DEBRA BAZEMORE,13,0,9,4,0
 Fayette,FLINT,State Representative,63,DEM,DEBRA BAZEMORE,27,0,23,4,0
@@ -72,7 +69,6 @@ Fayette,WILLOW POND,State Representative,63,DEM,DEBRA BAZEMORE,8,0,8,0,0
 Fayette,OAK RIDGE,State Representative,63,DEM,DEBRA BAZEMORE,31,0,27,4,0
 Fayette,JEFF DAVIS,State Representative,63,DEM,DEBRA BAZEMORE,26,0,22,4,0
 Fayette,SPRING HILL,State Representative,63,DEM,DEBRA BAZEMORE,29,2,20,7,0
-Fayette,,State Representative,63,DEM,LINDA PRITCHETT,336,6,266,64,0
 Fayette,EUROPE,State Representative,63,DEM,LINDA PRITCHETT,153,1,120,32,0
 Fayette,FAYETTEVILLE EAST,State Representative,63,DEM,LINDA PRITCHETT,14,1,9,4,0
 Fayette,FLINT,State Representative,63,DEM,LINDA PRITCHETT,12,0,10,2,0
@@ -83,17 +79,14 @@ Fayette,WILLOW POND,State Representative,63,DEM,LINDA PRITCHETT,2,0,2,0,0
 Fayette,OAK RIDGE,State Representative,63,DEM,LINDA PRITCHETT,22,0,20,2,0
 Fayette,JEFF DAVIS,State Representative,63,DEM,LINDA PRITCHETT,19,1,14,4,0
 Fayette,SPRING HILL,State Representative,63,DEM,LINDA PRITCHETT,30,2,23,5,0
-Fayette,,State Representative,73,REP,KAREN MATHIAK,668,22,416,230,0
 Fayette,WOOLSEY,State Representative,73,REP,KAREN MATHIAK,222,14,141,67,0
 Fayette,HARPS CROSSING,State Representative,73,REP,KAREN MATHIAK,131,3,81,47,0
 Fayette,MURPHY,State Representative,73,REP,KAREN MATHIAK,169,1,102,66,0
 Fayette,ANTIOCH,State Representative,73,REP,KAREN MATHIAK,146,4,92,50,0
-Fayette,,State Representative,73,REP,JOHN YATES (I),562,19,427,116,0
 Fayette,WOOLSEY,State Representative,73,REP,JOHN YATES (I),201,9,153,39,0
 Fayette,HARPS CROSSING,State Representative,73,REP,JOHN YATES (I),117,2,90,25,0
 Fayette,MURPHY,State Representative,73,REP,JOHN YATES (I),144,6,105,33,0
 Fayette,ANTIOCH,State Representative,73,REP,JOHN YATES (I),100,2,79,19,0
-Fayette,,District Attorney,Griffin Circuit - REP,REP,BEN COKER,2760,111,1937,712,0
 Fayette,BLACKROCK,District Attorney,Griffin Circuit - REP,REP,BEN COKER,70,5,38,27,0
 Fayette,BROOKS,District Attorney,Griffin Circuit - REP,REP,BEN COKER,149,6,118,25,0
 Fayette,EUROPE,District Attorney,Griffin Circuit - REP,REP,BEN COKER,17,3,10,4,0
@@ -132,7 +125,6 @@ Fayette,CAMP CREEK,District Attorney,Griffin Circuit - REP,REP,BEN COKER,51,3,44
 Fayette,RISING STAR,District Attorney,Griffin Circuit - REP,REP,BEN COKER,66,1,55,10,0
 Fayette,SPRING HILL,District Attorney,Griffin Circuit - REP,REP,BEN COKER,117,7,79,31,0
 Fayette,ANTIOCH,District Attorney,Griffin Circuit - REP,REP,BEN COKER,94,2,61,31,0
-Fayette,,District Attorney,Griffin Circuit - REP,REP,RUDJARD M HAYES,5524,123,4301,1100,0
 Fayette,BLACKROCK,District Attorney,Griffin Circuit - REP,REP,RUDJARD M HAYES,142,10,93,39,0
 Fayette,BROOKS,District Attorney,Griffin Circuit - REP,REP,RUDJARD M HAYES,220,11,180,29,0
 Fayette,EUROPE,District Attorney,Griffin Circuit - REP,REP,RUDJARD M HAYES,38,2,26,10,0

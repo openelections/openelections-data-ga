@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Cherokee,,President of the United States,,,DONALD J. TRUMP,80649,3546,31540,45545,18
 Cherokee,AIR ACRES,President of the United States,,,DONALD J. TRUMP,1285,87,551,646,1
 Cherokee,ARNOLD MILL,President of the United States,,,DONALD J. TRUMP,2184,108,859,1217,0
 Cherokee,AVERY,President of the United States,,,DONALD J. TRUMP,1661,68,546,1047,0
@@ -42,7 +41,6 @@ Cherokee,WALESKA,President of the United States,,,DONALD J. TRUMP,1260,56,603,60
 Cherokee,WILDCAT,President of the United States,,,DONALD J. TRUMP,1531,56,623,852,0
 Cherokee,WOODLANDS,President of the United States,,,DONALD J. TRUMP,1411,53,814,544,0
 Cherokee,NEESE,President of the United States,,,DONALD J. TRUMP,2842,155,1282,1404,1
-Cherokee,,President of the United States,,,HILLARY CLINTON,25231,1574,10241,13410,6
 Cherokee,AIR ACRES,President of the United States,,,HILLARY CLINTON,491,29,201,261,0
 Cherokee,ARNOLD MILL,President of the United States,,,HILLARY CLINTON,618,32,271,315,0
 Cherokee,AVERY,President of the United States,,,HILLARY CLINTON,268,25,83,160,0
@@ -85,7 +83,6 @@ Cherokee,WALESKA,President of the United States,,,HILLARY CLINTON,353,29,152,172
 Cherokee,WILDCAT,President of the United States,,,HILLARY CLINTON,387,20,151,216,0
 Cherokee,WOODLANDS,President of the United States,,,HILLARY CLINTON,819,88,458,272,1
 Cherokee,NEESE,President of the United States,,,HILLARY CLINTON,1286,86,541,658,1
-Cherokee,,President of the United States,,,GARY JOHNSON,5015,245,2772,1996,2
 Cherokee,AIR ACRES,President of the United States,,,GARY JOHNSON,105,4,61,40,0
 Cherokee,ARNOLD MILL,President of the United States,,,GARY JOHNSON,151,13,73,65,0
 Cherokee,AVERY,President of the United States,,,GARY JOHNSON,86,3,50,33,0
@@ -128,7 +125,6 @@ Cherokee,WALESKA,President of the United States,,,GARY JOHNSON,52,2,32,18,0
 Cherokee,WILDCAT,President of the United States,,,GARY JOHNSON,107,1,56,50,0
 Cherokee,WOODLANDS,President of the United States,,,GARY JOHNSON,132,12,93,27,0
 Cherokee,NEESE,President of the United States,,,GARY JOHNSON,247,8,139,100,0
-Cherokee,,United States Senator,,,JOHNNY ISAKSON,80166,3775,31598,44777,16
 Cherokee,AIR ACRES,United States Senator,,,JOHNNY ISAKSON,1313,91,561,661,0
 Cherokee,ARNOLD MILL,United States Senator,,,JOHNNY ISAKSON,2173,110,856,1207,0
 Cherokee,AVERY,United States Senator,,,JOHNNY ISAKSON,1615,73,530,1012,0
@@ -171,7 +167,6 @@ Cherokee,WALESKA,United States Senator,,,JOHNNY ISAKSON,1236,60,588,587,1
 Cherokee,WILDCAT,United States Senator,,,JOHNNY ISAKSON,1468,59,606,803,0
 Cherokee,WOODLANDS,United States Senator,,,JOHNNY ISAKSON,1496,61,887,548,0
 Cherokee,NEESE,United States Senator,,,JOHNNY ISAKSON,2890,159,1322,1408,1
-Cherokee,,United States Senator,,,JIM BARKSDALE,20717,1290,8284,11137,6
 Cherokee,AIR ACRES,United States Senator,,,JIM BARKSDALE,414,28,159,226,1
 Cherokee,ARNOLD MILL,United States Senator,,,JIM BARKSDALE,501,33,221,247,0
 Cherokee,AVERY,United States Senator,,,JIM BARKSDALE,224,18,75,131,0
@@ -214,7 +209,6 @@ Cherokee,WALESKA,United States Senator,,,JIM BARKSDALE,278,25,120,133,0
 Cherokee,WILDCAT,United States Senator,,,JIM BARKSDALE,338,16,128,194,0
 Cherokee,WOODLANDS,United States Senator,,,JIM BARKSDALE,663,82,356,224,1
 Cherokee,NEESE,United States Senator,,,JIM BARKSDALE,1063,70,434,558,1
-Cherokee,,United States Senator,,,ALLEN BUCKLEY,6438,289,3286,2862,1
 Cherokee,AIR ACRES,United States Senator,,,ALLEN BUCKLEY,125,5,68,52,0
 Cherokee,ARNOLD MILL,United States Senator,,,ALLEN BUCKLEY,204,11,94,99,0
 Cherokee,AVERY,United States Senator,,,ALLEN BUCKLEY,128,3,68,57,0
@@ -257,7 +251,6 @@ Cherokee,WALESKA,United States Senator,,,ALLEN BUCKLEY,98,7,51,40,0
 Cherokee,WILDCAT,United States Senator,,,ALLEN BUCKLEY,128,2,56,70,0
 Cherokee,WOODLANDS,United States Senator,,,ALLEN BUCKLEY,149,8,90,51,0
 Cherokee,NEESE,United States Senator,,,ALLEN BUCKLEY,305,12,165,128,0
-Cherokee,,"Public Service Commission, District 2",2,,TIM ECHOLS,82502,3862,32534,46090,16
 Cherokee,AIR ACRES,"Public Service Commission, District 2",2,,TIM ECHOLS,1356,97,574,685,0
 Cherokee,ARNOLD MILL,"Public Service Commission, District 2",2,,TIM ECHOLS,2216,111,883,1222,0
 Cherokee,AVERY,"Public Service Commission, District 2",2,,TIM ECHOLS,1644,73,536,1035,0
@@ -300,7 +293,6 @@ Cherokee,WALESKA,"Public Service Commission, District 2",2,,TIM ECHOLS,1263,56,5
 Cherokee,WILDCAT,"Public Service Commission, District 2",2,,TIM ECHOLS,1523,61,624,838,0
 Cherokee,WOODLANDS,"Public Service Commission, District 2",2,,TIM ECHOLS,1558,65,921,572,0
 Cherokee,NEESE,"Public Service Commission, District 2",2,,TIM ECHOLS,2982,167,1355,1459,1
-Cherokee,,"Public Service Commission, District 2",2,,ERIC HOSKINS,21523,972,9748,10796,7
 Cherokee,AIR ACRES,"Public Service Commission, District 2",2,,ERIC HOSKINS,421,17,193,210,1
 Cherokee,ARNOLD MILL,"Public Service Commission, District 2",2,,ERIC HOSKINS,601,35,267,299,0
 Cherokee,AVERY,"Public Service Commission, District 2",2,,ERIC HOSKINS,311,17,133,161,0
@@ -343,7 +335,6 @@ Cherokee,WALESKA,"Public Service Commission, District 2",2,,ERIC HOSKINS,301,22,
 Cherokee,WILDCAT,"Public Service Commission, District 2",2,,ERIC HOSKINS,378,9,167,202,0
 Cherokee,WOODLANDS,"Public Service Commission, District 2",2,,ERIC HOSKINS,584,19,363,202,0
 Cherokee,NEESE,"Public Service Commission, District 2",2,,ERIC HOSKINS,1086,46,502,537,1
-Cherokee,,U.S. Representative,11,,BARRY LOUDERMILK,85342,3826,34441,47058,17
 Cherokee,AIR ACRES,U.S. Representative,11,,BARRY LOUDERMILK,1413,94,625,694,0
 Cherokee,ARNOLD MILL,U.S. Representative,11,,BARRY LOUDERMILK,2332,115,948,1269,0
 Cherokee,AVERY,U.S. Representative,11,,BARRY LOUDERMILK,1721,72,578,1071,0
@@ -386,7 +377,6 @@ Cherokee,WALESKA,U.S. Representative,11,,BARRY LOUDERMILK,1313,61,636,615,1
 Cherokee,WILDCAT,U.S. Representative,11,,BARRY LOUDERMILK,1584,58,649,877,0
 Cherokee,WOODLANDS,U.S. Representative,11,,BARRY LOUDERMILK,1585,63,952,570,0
 Cherokee,NEESE,U.S. Representative,11,,BARRY LOUDERMILK,3100,161,1456,1482,1
-Cherokee,,U.S. Representative,11,,DON WILSON,22946,1369,9209,12361,7
 Cherokee,AIR ACRES,U.S. Representative,11,,DON WILSON,448,27,175,245,1
 Cherokee,ARNOLD MILL,U.S. Representative,11,,DON WILSON,557,36,234,287,0
 Cherokee,AVERY,U.S. Representative,11,,DON WILSON,250,19,90,141,0
@@ -429,7 +419,6 @@ Cherokee,WALESKA,U.S. Representative,11,,DON WILSON,320,27,133,160,0
 Cherokee,WILDCAT,U.S. Representative,11,,DON WILSON,382,17,151,214,0
 Cherokee,WOODLANDS,U.S. Representative,11,,DON WILSON,718,81,381,255,1
 Cherokee,NEESE,U.S. Representative,11,,DON WILSON,1195,71,488,635,1
-Cherokee,,State Senator,14,,BRUCE THOMPSON,35748,1521,15356,18860,11
 Cherokee,BASCOMB,State Senator,14,,BRUCE THOMPSON,891,36,333,522,0
 Cherokee,BELLS,State Senator,14,,BRUCE THOMPSON,2457,98,1301,1058,0
 Cherokee,BOOTH,State Senator,14,,BRUCE THOMPSON,109,3,45,61,0
@@ -448,7 +437,6 @@ Cherokee,SUTALLEE,State Senator,14,,BRUCE THOMPSON,1377,34,752,591,0
 Cherokee,TEASLEY,State Senator,14,,BRUCE THOMPSON,3945,157,1664,2123,1
 Cherokee,VICTORIA,State Senator,14,,BRUCE THOMPSON,1658,52,741,863,2
 Cherokee,WALESKA,State Senator,14,,BRUCE THOMPSON,1414,67,685,661,1
-Cherokee,,State Senator,21,(REP,BRANDON BEACH,55595,2431,22042,31115,7
 Cherokee,AIR ACRES,State Senator,21,(REP,BRANDON BEACH,1615,105,703,806,1
 Cherokee,ARNOLD MILL,State Senator,21,(REP,BRANDON BEACH,2549,127,1042,1380,0
 Cherokee,AVERY,State Senator,21,(REP,BRANDON BEACH,1820,80,622,1118,0
@@ -475,11 +463,8 @@ Cherokee,UNIVETER,State Senator,21,(REP,BRANDON BEACH,2911,122,816,1973,0
 Cherokee,WILDCAT,State Senator,21,(REP,BRANDON BEACH,1735,63,724,948,0
 Cherokee,WOODLANDS,State Senator,21,(REP,BRANDON BEACH,1885,71,1131,683,0
 Cherokee,NEESE,State Senator,21,(REP,BRANDON BEACH,3600,178,1672,1748,2
-Cherokee,,State Senator,56,(REP,JOHN ALBERS,2723,225,1008,1489,1
 Cherokee,LITTLE RIVER,State Senator,56,(REP,JOHN ALBERS,2723,225,1008,1489,1
-Cherokee,,State Senator,56,DEM,PATRICK THOMPSON,1193,100,422,671,0
 Cherokee,LITTLE RIVER,State Senator,56,DEM,PATRICK THOMPSON,1193,100,422,671,0
-Cherokee,,State Representative,20,(REP,MICHAEL CALDWELL,23543,1092,9830,12618,3
 Cherokee,BASCOMB,State Representative,20,(REP,MICHAEL CALDWELL,2251,94,930,1227,0
 Cherokee,BOOTH,State Representative,20,(REP,MICHAEL CALDWELL,2365,145,801,1418,1
 Cherokee,CARMEL,State Representative,20,(REP,MICHAEL CALDWELL,1825,94,832,899,0
@@ -491,7 +476,6 @@ Cherokee,ROSECREEK,State Representative,20,(REP,MICHAEL CALDWELL,2282,99,966,121
 Cherokee,SIXES,State Representative,20,(REP,MICHAEL CALDWELL,1783,71,767,945,0
 Cherokee,VICTORIA,State Representative,20,(REP,MICHAEL CALDWELL,1672,52,752,868,0
 Cherokee,NEESE,State Representative,20,(REP,MICHAEL CALDWELL,2017,76,995,945,1
-Cherokee,,State Representative,21,(REP,SCOT TURNER,23967,1056,9492,13413,6
 Cherokee,AIR ACRES,State Representative,21,(REP,SCOT TURNER,883,55,381,446,1
 Cherokee,ARNOLD MILL,State Representative,21,(REP,SCOT TURNER,2560,126,1046,1388,0
 Cherokee,AVERY,State Representative,21,(REP,SCOT TURNER,383,19,119,245,0
@@ -503,7 +487,6 @@ Cherokee,MOUNTAIN ROAD,State Representative,21,(REP,SCOT TURNER,1820,72,791,957,
 Cherokee,TEASLEY,State Representative,21,(REP,SCOT TURNER,2146,100,855,1190,1
 Cherokee,TOONIGH,State Representative,21,(REP,SCOT TURNER,3436,136,1368,1932,0
 Cherokee,WILDCAT,State Representative,21,(REP,SCOT TURNER,1721,61,716,944,0
-Cherokee,,State Representative,22,(REP,WES CANTRELL,17628,734,6369,10524,1
 Cherokee,AVERY,State Representative,22,(REP,WES CANTRELL,1373,58,477,838,0
 Cherokee,BALL GROUND,State Representative,22,(REP,WES CANTRELL,1989,61,558,1369,1
 Cherokee,BRADSHAW,State Representative,22,(REP,WES CANTRELL,2486,125,675,1686,0
@@ -514,7 +497,6 @@ Cherokee,HIGHTOWER,State Representative,22,(REP,WES CANTRELL,1885,63,740,1082,0
 Cherokee,MACEDONIA,State Representative,22,(REP,WES CANTRELL,2578,86,895,1597,0
 Cherokee,UNION HILL,State Representative,22,(REP,WES CANTRELL,2225,106,1008,1111,0
 Cherokee,UNIVETER,State Representative,22,(REP,WES CANTRELL,1276,53,329,894,0
-Cherokee,,State Representative,22,DEM,"OSCAR ""ASGHAR"" HAJLOO",2469,133,890,1446,0
 Cherokee,AVERY,State Representative,22,DEM,"OSCAR ""ASGHAR"" HAJLOO",169,12,52,105,0
 Cherokee,BALL GROUND,State Representative,22,DEM,"OSCAR ""ASGHAR"" HAJLOO",215,4,65,146,0
 Cherokee,BRADSHAW,State Representative,22,DEM,"OSCAR ""ASGHAR"" HAJLOO",408,19,106,283,0
@@ -525,7 +507,6 @@ Cherokee,HIGHTOWER,State Representative,22,DEM,"OSCAR ""ASGHAR"" HAJLOO",211,15,
 Cherokee,MACEDONIA,State Representative,22,DEM,"OSCAR ""ASGHAR"" HAJLOO",417,27,162,228,0
 Cherokee,UNION HILL,State Representative,22,DEM,"OSCAR ""ASGHAR"" HAJLOO",304,13,133,158,0
 Cherokee,UNIVETER,State Representative,22,DEM,"OSCAR ""ASGHAR"" HAJLOO",190,9,59,122,0
-Cherokee,,State Representative,23,(REP,MANDI BALLINGER,20944,813,9164,10963,4
 Cherokee,BELLS,State Representative,23,(REP,MANDI BALLINGER,2438,95,1290,1053,0
 Cherokee,CANTON,State Representative,23,(REP,MANDI BALLINGER,2829,154,908,1767,0
 Cherokee,CLAYTON,State Representative,23,(REP,MANDI BALLINGER,1976,62,711,1203,0
@@ -538,12 +519,10 @@ Cherokee,SUTALLEE,State Representative,23,(REP,MANDI BALLINGER,1365,34,742,589,0
 Cherokee,TEASLEY,State Representative,23,(REP,MANDI BALLINGER,1791,58,807,926,0
 Cherokee,UNIVETER,State Representative,23,(REP,MANDI BALLINGER,1569,67,462,1040,0
 Cherokee,WALESKA,State Representative,23,(REP,MANDI BALLINGER,1424,68,686,669,1
-Cherokee,,State Representative,46,(REP,JOHN CARSON,7883,506,3499,3877,1
 Cherokee,AIR ACRES,State Representative,46,(REP,JOHN CARSON,735,51,327,357,0
 Cherokee,LITTLE RIVER,State Representative,46,(REP,JOHN CARSON,3662,278,1351,2032,1
 Cherokee,WOODLANDS,State Representative,46,(REP,JOHN CARSON,1890,71,1133,686,0
 Cherokee,NEESE,State Representative,46,(REP,JOHN CARSON,1596,106,688,802,0
-Cherokee,,District Attorney,Blue Ridge Circuit,(REP,SHANNON WALLACE,94782,4180,38682,51899,21
 Cherokee,AIR ACRES,District Attorney,Blue Ridge Circuit,(REP,SHANNON WALLACE,1612,103,707,801,1
 Cherokee,ARNOLD MILL,District Attorney,Blue Ridge Circuit,(REP,SHANNON WALLACE,2565,125,1046,1394,0
 Cherokee,AVERY,District Attorney,Blue Ridge Circuit,(REP,SHANNON WALLACE,1808,81,616,1111,0
@@ -586,7 +565,6 @@ Cherokee,WALESKA,District Attorney,Blue Ridge Circuit,(REP,SHANNON WALLACE,1427,
 Cherokee,WILDCAT,District Attorney,Blue Ridge Circuit,(REP,SHANNON WALLACE,1727,61,718,948,0
 Cherokee,WOODLANDS,District Attorney,Blue Ridge Circuit,(REP,SHANNON WALLACE,1904,68,1147,689,0
 Cherokee,NEESE,District Attorney,Blue Ridge Circuit,(REP,SHANNON WALLACE,3605,177,1675,1751,2
-Cherokee,,JUDGE PROBATE,,R,K. WOOD,94026,4201,38271,51533,21
 Cherokee,AIR ACRES,JUDGE PROBATE,,R,K. WOOD,1601,104,695,801,1
 Cherokee,ARNOLD MILL,JUDGE PROBATE,,R,K. WOOD,2538,124,1040,1374,0
 Cherokee,AVERY,JUDGE PROBATE,,R,K. WOOD,1807,81,620,1106,0
@@ -629,7 +607,6 @@ Cherokee,WALESKA,JUDGE PROBATE,,R,K. WOOD,1418,68,683,666,1
 Cherokee,WILDCAT,JUDGE PROBATE,,R,K. WOOD,1702,59,709,934,0
 Cherokee,WOODLANDS,JUDGE PROBATE,,R,K. WOOD,1879,68,1134,677,0
 Cherokee,NEESE,JUDGE PROBATE,,R,K. WOOD,3596,179,1662,1754,1
-Cherokee,,CLERK SUPERIOR CT,,R,P. BAKER,94658,4211,38470,51955,22
 Cherokee,AIR ACRES,CLERK SUPERIOR CT,,R,P. BAKER,1612,104,701,806,1
 Cherokee,ARNOLD MILL,CLERK SUPERIOR CT,,R,P. BAKER,2551,125,1047,1379,0
 Cherokee,AVERY,CLERK SUPERIOR CT,,R,P. BAKER,1804,82,616,1106,0
@@ -672,7 +649,6 @@ Cherokee,WALESKA,CLERK SUPERIOR CT,,R,P. BAKER,1422,67,681,673,1
 Cherokee,WILDCAT,CLERK SUPERIOR CT,,R,P. BAKER,1720,62,712,946,0
 Cherokee,WOODLANDS,CLERK SUPERIOR CT,,R,P. BAKER,1898,70,1141,687,0
 Cherokee,NEESE,CLERK SUPERIOR CT,,R,P. BAKER,3612,178,1671,1761,2
-Cherokee,,SHERIFF,,R,F. REYNOLDS,95540,4285,38766,52466,23
 Cherokee,AIR ACRES,SHERIFF,,R,F. REYNOLDS,1621,105,708,807,1
 Cherokee,ARNOLD MILL,SHERIFF,,R,F. REYNOLDS,2571,124,1057,1390,0
 Cherokee,AVERY,SHERIFF,,R,F. REYNOLDS,1837,85,624,1128,0
@@ -715,7 +691,6 @@ Cherokee,WALESKA,SHERIFF,,R,F. REYNOLDS,1442,68,694,679,1
 Cherokee,WILDCAT,SHERIFF,,R,F. REYNOLDS,1754,61,732,961,0
 Cherokee,WOODLANDS,SHERIFF,,R,F. REYNOLDS,1905,71,1138,696,0
 Cherokee,NEESE,SHERIFF,,R,F. REYNOLDS,3634,188,1680,1764,2
-Cherokee,,TAX COMMISSIONER,,R,S. LITTLE,95837,4293,38838,52684,22
 Cherokee,AIR ACRES,TAX COMMISSIONER,,R,S. LITTLE,1637,105,709,822,1
 Cherokee,ARNOLD MILL,TAX COMMISSIONER,,R,S. LITTLE,2587,124,1054,1409,0
 Cherokee,AVERY,TAX COMMISSIONER,,R,S. LITTLE,1823,81,619,1123,0
@@ -758,7 +733,6 @@ Cherokee,WALESKA,TAX COMMISSIONER,,R,S. LITTLE,1432,68,686,677,1
 Cherokee,WILDCAT,TAX COMMISSIONER,,R,S. LITTLE,1746,61,723,962,0
 Cherokee,WOODLANDS,TAX COMMISSIONER,,R,S. LITTLE,1933,72,1158,703,0
 Cherokee,NEESE,TAX COMMISSIONER,,R,S. LITTLE,3664,191,1682,1789,2
-Cherokee,,SURVEYOR,,R,R. R. WIKLE JR.,93406,4200,37959,51224,23
 Cherokee,AIR ACRES,SURVEYOR,,R,R. R. WIKLE JR.,1597,104,694,798,1
 Cherokee,ARNOLD MILL,SURVEYOR,,R,R. R. WIKLE JR.,2531,125,1029,1377,0
 Cherokee,AVERY,SURVEYOR,,R,R. R. WIKLE JR.,1787,83,607,1097,0
@@ -801,7 +775,6 @@ Cherokee,WALESKA,SURVEYOR,,R,R. R. WIKLE JR.,1410,67,681,661,1
 Cherokee,WILDCAT,SURVEYOR,,R,R. R. WIKLE JR.,1701,60,706,935,0
 Cherokee,WOODLANDS,SURVEYOR,,R,R. R. WIKLE JR.,1863,69,1119,675,0
 Cherokee,NEESE,SURVEYOR,,R,R. R. WIKLE JR.,3556,180,1645,1729,2
-Cherokee,,CORONER,,R,E. W. DARBY,93929,4236,38145,51526,22
 Cherokee,AIR ACRES,CORONER,,R,E. W. DARBY,1603,104,695,803,1
 Cherokee,ARNOLD MILL,CORONER,,R,E. W. DARBY,2526,126,1030,1370,0
 Cherokee,AVERY,CORONER,,R,E. W. DARBY,1799,82,613,1104,0
@@ -844,7 +817,6 @@ Cherokee,WALESKA,CORONER,,R,E. W. DARBY,1415,68,687,659,1
 Cherokee,WILDCAT,CORONER,,R,E. W. DARBY,1728,60,721,947,0
 Cherokee,WOODLANDS,CORONER,,R,E. W. DARBY,1870,71,1121,678,0
 Cherokee,NEESE,CORONER,,R,E. W. DARBY,3575,180,1655,1738,2
-Cherokee,,CHIEF MAGISTRATE,,R,J. E. DRANE III,93301,4191,37939,51150,21
 Cherokee,AIR ACRES,CHIEF MAGISTRATE,,R,J. E. DRANE III,1583,102,687,793,1
 Cherokee,ARNOLD MILL,CHIEF MAGISTRATE,,R,J. E. DRANE III,2524,123,1033,1368,0
 Cherokee,AVERY,CHIEF MAGISTRATE,,R,J. E. DRANE III,1788,78,612,1098,0
@@ -887,7 +859,6 @@ Cherokee,WALESKA,CHIEF MAGISTRATE,,R,J. E. DRANE III,1406,67,682,656,1
 Cherokee,WILDCAT,CHIEF MAGISTRATE,,R,J. E. DRANE III,1701,60,706,935,0
 Cherokee,WOODLANDS,CHIEF MAGISTRATE,,R,J. E. DRANE III,1870,71,1120,679,0
 Cherokee,NEESE,CHIEF MAGISTRATE,,R,J. E. DRANE III,3560,182,1648,1729,1
-Cherokee,,CC D2,,R,R. GUNNIN,25210,1284,10227,13697,2
 Cherokee,AIR ACRES,CC D2,,R,R. GUNNIN,1594,103,692,799,0
 Cherokee,ARNOLD MILL,CC D2,,R,R. GUNNIN,2542,126,1038,1378,0
 Cherokee,AVERY,CC D2,,R,R. GUNNIN,1776,82,605,1089,0
@@ -899,7 +870,6 @@ Cherokee,UNION HILL,CC D2,,R,R. GUNNIN,2286,109,1044,1133,0
 Cherokee,UNIVETER,CC D2,,R,R. GUNNIN,537,13,190,334,0
 Cherokee,WOODLANDS,CC D2,,R,R. GUNNIN,1871,67,1118,686,0
 Cherokee,NEESE,CC D2,,R,R. GUNNIN,3576,180,1658,1737,1
-Cherokee,,CC D3,,R,B. KOVACS,22430,916,9238,12271,5
 Cherokee,BASCOMB,CC D3,,R,B. KOVACS,2200,90,918,1192,0
 Cherokee,BRIDGEMILL,CC D3,,R,B. KOVACS,2986,159,1128,1698,1
 Cherokee,HOLLY SPRINGS,CC D3,,R,B. KOVACS,1378,49,603,725,1
@@ -910,7 +880,6 @@ Cherokee,TEASLEY,CC D3,,R,B. KOVACS,2126,97,844,1184,1
 Cherokee,TOONIGH,CC D3,,R,B. KOVACS,3390,135,1341,1914,0
 Cherokee,VICTORIA,CC D3,,R,B. KOVACS,1630,52,724,854,0
 Cherokee,WILDCAT,CC D3,,R,B. KOVACS,1707,60,708,939,0
-Cherokee,,BOE CHAIRPERSON,,R,K. CROMER,93715,4171,38132,51390,22
 Cherokee,AIR ACRES,BOE CHAIRPERSON,,R,K. CROMER,1609,103,699,806,1
 Cherokee,ARNOLD MILL,BOE CHAIRPERSON,,R,K. CROMER,2512,120,1028,1364,0
 Cherokee,AVERY,BOE CHAIRPERSON,,R,K. CROMER,1784,82,607,1095,0
@@ -953,7 +922,6 @@ Cherokee,WALESKA,BOE CHAIRPERSON,,R,K. CROMER,1405,66,682,656,1
 Cherokee,WILDCAT,BOE CHAIRPERSON,,R,K. CROMER,1696,60,700,936,0
 Cherokee,WOODLANDS,BOE CHAIRPERSON,,R,K. CROMER,1887,69,1132,686,0
 Cherokee,NEESE,BOE CHAIRPERSON,,R,K. CROMER,3591,180,1659,1750,2
-Cherokee,,BOE D1,,R,K. POOLE,15523,656,6182,8681,4
 Cherokee,BRIDGEMILL,BOE D1,,R,K. POOLE,2982,161,1122,1698,1
 Cherokee,HOLLY SPRINGS,BOE D1,,R,K. POOLE,1380,49,606,724,1
 Cherokee,LIBERTY,BOE D1,,R,K. POOLE,3921,174,1500,2245,2
@@ -961,7 +929,6 @@ Cherokee,SIXES,BOE D1,,R,K. POOLE,1768,70,757,941,0
 Cherokee,TOONIGH,BOE D1,,R,K. POOLE,3401,134,1346,1921,0
 Cherokee,UNIVETER,BOE D1,,R,K. POOLE,370,9,150,211,0
 Cherokee,WILDCAT,BOE D1,,R,K. POOLE,1701,59,701,941,0
-Cherokee,,BOE D2,,R,P. JORDAN,18064,718,6698,10647,1
 Cherokee,AVERY,BOE D2,,R,P. JORDAN,1785,81,608,1096,0
 Cherokee,BALL GROUND,BOE D2,,R,P. JORDAN,2070,55,605,1409,1
 Cherokee,CLAYTON,BOE D2,,R,P. JORDAN,1973,61,718,1194,0
@@ -972,7 +939,6 @@ Cherokee,MACEDONIA,BOE D2,,R,P. JORDAN,2686,100,934,1652,0
 Cherokee,R T JONES,BOE D2,,R,P. JORDAN,32,1,6,25,0
 Cherokee,UNION HILL,BOE D2,,R,P. JORDAN,2272,109,1029,1134,0
 Cherokee,UNIVETER,BOE D2,,R,P. JORDAN,1794,81,451,1262,0
-Cherokee,,SOIL AND WATER,,,W. GRIZZLE,90055,4072,36743,49219,21
 Cherokee,AIR ACRES,SOIL AND WATER,,,W. GRIZZLE,1570,101,683,785,1
 Cherokee,ARNOLD MILL,SOIL AND WATER,,,W. GRIZZLE,2416,111,997,1308,0
 Cherokee,AVERY,SOIL AND WATER,,,W. GRIZZLE,1715,79,592,1044,0
@@ -1015,7 +981,6 @@ Cherokee,WALESKA,SOIL AND WATER,,,W. GRIZZLE,1357,66,662,628,1
 Cherokee,WILDCAT,SOIL AND WATER,,,W. GRIZZLE,1645,53,686,906,0
 Cherokee,WOODLANDS,SOIL AND WATER,,,W. GRIZZLE,1786,73,1063,650,0
 Cherokee,NEESE,SOIL AND WATER,,,W. GRIZZLE,3459,177,1598,1683,1
-Cherokee,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,43070,2436,17979,22644,11
 Cherokee,AIR ACRES,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,711,62,320,328,1
 Cherokee,ARNOLD MILL,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1149,70,503,576,0
 Cherokee,AVERY,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,813,50,304,459,0
@@ -1058,7 +1023,6 @@ Cherokee,WALESKA,Constitutional Amendment #1<br>Provides greater flexibility and
 Cherokee,WILDCAT,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,679,32,277,370,0
 Cherokee,WOODLANDS,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,964,52,563,349,0
 Cherokee,NEESE,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1691,98,792,800,1
-Cherokee,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,67089,2751,26668,37657,13
 Cherokee,AIR ACRES,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1193,61,495,637,0
 Cherokee,ARNOLD MILL,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1812,80,714,1018,0
 Cherokee,AVERY,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1191,43,374,774,0
@@ -1101,7 +1065,6 @@ Cherokee,WALESKA,Constitutional Amendment #1<br>Provides greater flexibility and
 Cherokee,WILDCAT,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1320,43,546,731,0
 Cherokee,WOODLANDS,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1334,50,799,484,1
 Cherokee,NEESE,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,2683,134,1202,1346,1
-Cherokee,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,91758,4491,36706,50539,22
 Cherokee,AIR ACRES,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1578,107,691,780,0
 Cherokee,ARNOLD MILL,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2424,130,970,1324,0
 Cherokee,AVERY,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1639,75,547,1017,0
@@ -1144,7 +1107,6 @@ Cherokee,WALESKA,Constitutional Amendment #2<br>Authorizes penalties for sexual 
 Cherokee,WILDCAT,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1628,67,663,898,0
 Cherokee,WOODLANDS,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1912,85,1122,705,0
 Cherokee,NEESE,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,3633,213,1626,1792,2
-Cherokee,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,17039,665,7346,9026,2
 Cherokee,AIR ACRES,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,306,14,125,166,1
 Cherokee,ARNOLD MILL,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,505,25,226,254,0
 Cherokee,AVERY,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,357,17,131,209,0
@@ -1187,7 +1149,6 @@ Cherokee,WALESKA,Constitutional Amendment #2<br>Authorizes penalties for sexual 
 Cherokee,WILDCAT,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,354,8,150,196,0
 Cherokee,WOODLANDS,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,360,15,219,125,1
 Cherokee,NEESE,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,693,25,337,331,0
-Cherokee,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,64466,3198,25700,35550,18
 Cherokee,AIR ACRES,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1107,77,492,538,0
 Cherokee,ARNOLD MILL,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1678,103,685,890,0
 Cherokee,AVERY,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1156,49,372,735,0
@@ -1230,7 +1191,6 @@ Cherokee,WALESKA,Constitutional Amendment #3<br>Reforms and re-establishes the J
 Cherokee,WILDCAT,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1171,46,476,649,0
 Cherokee,WOODLANDS,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1324,61,770,492,1
 Cherokee,NEESE,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,2526,136,1151,1239,0
-Cherokee,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,37001,1594,15335,20066,6
 Cherokee,AIR ACRES,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,655,32,274,348,1
 Cherokee,ARNOLD MILL,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,1042,36,426,580,0
 Cherokee,AVERY,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,732,39,271,422,0
@@ -1273,7 +1233,6 @@ Cherokee,WALESKA,Constitutional Amendment #3<br>Reforms and re-establishes the J
 Cherokee,WILDCAT,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,696,27,288,381,0
 Cherokee,WOODLANDS,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,791,29,486,276,0
 Cherokee,NEESE,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,1527,81,688,757,1
-Cherokee,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,89740,4409,35730,49579,22
 Cherokee,AIR ACRES,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1542,101,670,770,1
 Cherokee,ARNOLD MILL,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,2408,130,977,1301,0
 Cherokee,AVERY,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1615,75,515,1025,0
@@ -1316,7 +1275,6 @@ Cherokee,WALESKA,Constitutional Amendment #4<br>Dedicates revenue from existing 
 Cherokee,WILDCAT,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1620,67,647,906,0
 Cherokee,WOODLANDS,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1905,86,1114,704,1
 Cherokee,NEESE,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,3585,206,1592,1786,1
-Cherokee,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,18659,715,8111,9831,2
 Cherokee,AIR ACRES,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,343,19,146,178,0
 Cherokee,ARNOLD MILL,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,525,21,225,279,0
 Cherokee,AVERY,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,381,19,161,201,0
@@ -1359,7 +1317,6 @@ Cherokee,WALESKA,Constitutional Amendment #4<br>Dedicates revenue from existing 
 Cherokee,WILDCAT,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,362,8,164,190,0
 Cherokee,WOODLANDS,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,366,13,227,126,0
 Cherokee,NEESE,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,735,30,368,337,0
-Cherokee,,SPLOST AND BONDS,,,YES,78796,3633,31954,43190,19
 Cherokee,AIR ACRES,SPLOST AND BONDS,,,YES,1316,80,557,678,1
 Cherokee,ARNOLD MILL,SPLOST AND BONDS,,,YES,2047,98,843,1106,0
 Cherokee,AVERY,SPLOST AND BONDS,,,YES,1340,63,445,832,0
@@ -1402,7 +1359,6 @@ Cherokee,WALESKA,SPLOST AND BONDS,,,YES,1145,58,533,553,1
 Cherokee,WILDCAT,SPLOST AND BONDS,,,YES,1430,45,600,785,0
 Cherokee,WOODLANDS,SPLOST AND BONDS,,,YES,1643,78,980,585,0
 Cherokee,NEESE,SPLOST AND BONDS,,,YES,3035,169,1356,1508,2
-Cherokee,,SPLOST AND BONDS,,,NO,29720,1408,11965,16342,5
 Cherokee,AIR ACRES,SPLOST AND BONDS,,,NO,541,33,244,264,0
 Cherokee,ARNOLD MILL,SPLOST AND BONDS,,,NO,878,49,351,478,0
 Cherokee,AVERY,SPLOST AND BONDS,,,NO,649,28,229,392,0
@@ -1445,7 +1401,6 @@ Cherokee,WALESKA,SPLOST AND BONDS,,,NO,501,31,243,227,0
 Cherokee,WILDCAT,SPLOST AND BONDS,,,NO,559,29,215,315,0
 Cherokee,WOODLANDS,SPLOST AND BONDS,,,NO,598,21,347,229,1
 Cherokee,NEESE,SPLOST AND BONDS,,,NO,1241,60,586,595,0
-Cherokee,,HOLLY SPRINGS MAYOR,,,J. LAUGHLIN,2162,89,891,1181,1
 Cherokee,AVERY,HOLLY SPRINGS MAYOR,,,J. LAUGHLIN,4,1,2,1,0
 Cherokee,BRADSHAW,HOLLY SPRINGS MAYOR,,,J. LAUGHLIN,3,0,0,3,0
 Cherokee,HICKORY FLAT,HOLLY SPRINGS MAYOR,,,J. LAUGHLIN,747,26,275,445,1
@@ -1454,7 +1409,6 @@ Cherokee,LIBERTY,HOLLY SPRINGS MAYOR,,,J. LAUGHLIN,278,10,108,160,0
 Cherokee,SIXES,HOLLY SPRINGS MAYOR,,,J. LAUGHLIN,0,0,0,0,0
 Cherokee,TOONIGH,HOLLY SPRINGS MAYOR,,,J. LAUGHLIN,257,16,122,119,0
 Cherokee,WILDCAT,HOLLY SPRINGS MAYOR,,,J. LAUGHLIN,356,19,142,195,0
-Cherokee,,HOLLY SPRINGS MAYOR,,,S. MILLER,2414,88,937,1389,0
 Cherokee,AVERY,HOLLY SPRINGS MAYOR,,,S. MILLER,2,2,0,0,0
 Cherokee,BRADSHAW,HOLLY SPRINGS MAYOR,,,S. MILLER,1,0,0,1,0
 Cherokee,HICKORY FLAT,HOLLY SPRINGS MAYOR,,,S. MILLER,1107,44,389,674,0
@@ -1463,7 +1417,6 @@ Cherokee,LIBERTY,HOLLY SPRINGS MAYOR,,,S. MILLER,291,6,111,174,0
 Cherokee,SIXES,HOLLY SPRINGS MAYOR,,,S. MILLER,5,0,2,3,0
 Cherokee,TOONIGH,HOLLY SPRINGS MAYOR,,,S. MILLER,214,7,77,130,0
 Cherokee,WILDCAT,HOLLY SPRINGS MAYOR,,,S. MILLER,254,10,109,135,0
-Cherokee,,HOLLY SPRINGS CITY COUNCIL W3,,,M. ZENCHUK,4047,153,1641,2252,1
 Cherokee,AVERY,HOLLY SPRINGS CITY COUNCIL W3,,,M. ZENCHUK,5,2,3,0,0
 Cherokee,BRADSHAW,HOLLY SPRINGS CITY COUNCIL W3,,,M. ZENCHUK,3,0,0,3,0
 Cherokee,HICKORY FLAT,HOLLY SPRINGS CITY COUNCIL W3,,,M. ZENCHUK,1648,61,603,983,1
@@ -1472,7 +1425,6 @@ Cherokee,LIBERTY,HOLLY SPRINGS CITY COUNCIL W3,,,M. ZENCHUK,506,14,198,294,0
 Cherokee,SIXES,HOLLY SPRINGS CITY COUNCIL W3,,,M. ZENCHUK,5,0,2,3,0
 Cherokee,TOONIGH,HOLLY SPRINGS CITY COUNCIL W3,,,M. ZENCHUK,414,21,180,213,0
 Cherokee,WILDCAT,HOLLY SPRINGS CITY COUNCIL W3,,,M. ZENCHUK,528,24,221,283,0
-Cherokee,,HOLLY SPRINGS CITY COUNCIL W4,,,K. J. BARNETT,2796,96,1130,1570,0
 Cherokee,AVERY,HOLLY SPRINGS CITY COUNCIL W4,,,K. J. BARNETT,4,1,3,0,0
 Cherokee,BRADSHAW,HOLLY SPRINGS CITY COUNCIL W4,,,K. J. BARNETT,4,0,0,4,0
 Cherokee,HICKORY FLAT,HOLLY SPRINGS CITY COUNCIL W4,,,K. J. BARNETT,1147,36,423,688,0
@@ -1481,7 +1433,6 @@ Cherokee,LIBERTY,HOLLY SPRINGS CITY COUNCIL W4,,,K. J. BARNETT,351,7,141,203,0
 Cherokee,SIXES,HOLLY SPRINGS CITY COUNCIL W4,,,K. J. BARNETT,3,0,1,2,0
 Cherokee,TOONIGH,HOLLY SPRINGS CITY COUNCIL W4,,,K. J. BARNETT,317,16,139,162,0
 Cherokee,WILDCAT,HOLLY SPRINGS CITY COUNCIL W4,,,K. J. BARNETT,366,17,150,199,0
-Cherokee,,HOLLY SPRINGS CITY COUNCIL W4,,,K. W. MOORE,1487,67,582,837,1
 Cherokee,AVERY,HOLLY SPRINGS CITY COUNCIL W4,,,K. W. MOORE,1,1,0,0,0
 Cherokee,BRADSHAW,HOLLY SPRINGS CITY COUNCIL W4,,,K. W. MOORE,0,0,0,0,0
 Cherokee,HICKORY FLAT,HOLLY SPRINGS CITY COUNCIL W4,,,K. W. MOORE,544,25,184,334,1
@@ -1490,7 +1441,6 @@ Cherokee,LIBERTY,HOLLY SPRINGS CITY COUNCIL W4,,,K. W. MOORE,189,9,66,114,0
 Cherokee,SIXES,HOLLY SPRINGS CITY COUNCIL W4,,,K. W. MOORE,2,0,1,1,0
 Cherokee,TOONIGH,HOLLY SPRINGS CITY COUNCIL W4,,,K. W. MOORE,125,6,48,71,0
 Cherokee,WILDCAT,HOLLY SPRINGS CITY COUNCIL W4,,,K. W. MOORE,213,10,86,117,0
-Cherokee,,HOLLY SPRINGS CITY COUNCIL W5,,,J. S. SMITH,3972,145,1611,2216,0
 Cherokee,AVERY,HOLLY SPRINGS CITY COUNCIL W5,,,J. S. SMITH,5,2,3,0,0
 Cherokee,BRADSHAW,HOLLY SPRINGS CITY COUNCIL W5,,,J. S. SMITH,4,0,0,4,0
 Cherokee,HICKORY FLAT,HOLLY SPRINGS CITY COUNCIL W5,,,J. S. SMITH,1580,55,574,951,0

@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Clarke,,United States Senator,,REP,MARY KAY BACALLAO,188,16,143,29,0
 Clarke,1A W'ville Train Depot,United States Senator,,REP,MARY KAY BACALLAO,13,1,10,2,0
 Clarke,1B Gaines School,United States Senator,,REP,MARY KAY BACALLAO,15,2,11,2,0
 Clarke,1C Whit Davis School,United States Senator,,REP,MARY KAY BACALLAO,5,1,4,0,0
@@ -24,7 +23,6 @@ Clarke,7C Firestation #3,United States Senator,,REP,MARY KAY BACALLAO,12,2,8,2,0
 Clarke,8A Gaines School,United States Senator,,REP,MARY KAY BACALLAO,9,0,9,0,0
 Clarke,8B Cedar Shls High Sch,United States Senator,,REP,MARY KAY BACALLAO,4,1,3,0,0
 Clarke,8C Firestation #7,United States Senator,,REP,MARY KAY BACALLAO,7,0,7,0,0
-Clarke,,United States Senator,,REP,DERRICK GRAYSON,173,12,143,18,0
 Clarke,1A W'ville Train Depot,United States Senator,,REP,DERRICK GRAYSON,9,0,9,0,0
 Clarke,1B Gaines School,United States Senator,,REP,DERRICK GRAYSON,9,1,7,1,0
 Clarke,1C Whit Davis School,United States Senator,,REP,DERRICK GRAYSON,6,0,6,0,0
@@ -49,7 +47,6 @@ Clarke,7C Firestation #3,United States Senator,,REP,DERRICK GRAYSON,8,0,7,1,0
 Clarke,8A Gaines School,United States Senator,,REP,DERRICK GRAYSON,7,0,7,0,0
 Clarke,8B Cedar Shls High Sch,United States Senator,,REP,DERRICK GRAYSON,9,2,7,0,0
 Clarke,8C Firestation #7,United States Senator,,REP,DERRICK GRAYSON,14,0,13,1,0
-Clarke,,United States Senator,,REP,JOHNNY ISAKSON (I),1647,164,1196,286,1
 Clarke,1A W'ville Train Depot,United States Senator,,REP,JOHNNY ISAKSON (I),81,7,63,11,0
 Clarke,1B Gaines School,United States Senator,,REP,JOHNNY ISAKSON (I),62,8,45,9,0
 Clarke,1C Whit Davis School,United States Senator,,REP,JOHNNY ISAKSON (I),53,1,47,5,0
@@ -74,7 +71,6 @@ Clarke,7C Firestation #3,United States Senator,,REP,JOHNNY ISAKSON (I),130,11,94
 Clarke,8A Gaines School,United States Senator,,REP,JOHNNY ISAKSON (I),75,7,55,13,0
 Clarke,8B Cedar Shls High Sch,United States Senator,,REP,JOHNNY ISAKSON (I),77,13,45,19,0
 Clarke,8C Firestation #7,United States Senator,,REP,JOHNNY ISAKSON (I),55,4,43,8,0
-Clarke,,United States Senator,,DEM,JIM BARKSDALE,1669,61,1209,399,0
 Clarke,1A W'ville Train Depot,United States Senator,,DEM,JIM BARKSDALE,51,2,33,16,0
 Clarke,1B Gaines School,United States Senator,,DEM,JIM BARKSDALE,81,1,63,17,0
 Clarke,1C Whit Davis School,United States Senator,,DEM,JIM BARKSDALE,60,2,42,16,0
@@ -99,7 +95,6 @@ Clarke,7C Firestation #3,United States Senator,,DEM,JIM BARKSDALE,64,3,49,12,0
 Clarke,8A Gaines School,United States Senator,,DEM,JIM BARKSDALE,115,0,87,28,0
 Clarke,8B Cedar Shls High Sch,United States Senator,,DEM,JIM BARKSDALE,83,1,67,15,0
 Clarke,8C Firestation #7,United States Senator,,DEM,JIM BARKSDALE,56,4,41,11,0
-Clarke,,United States Senator,,DEM,CHERYL COPELAND,859,45,669,144,1
 Clarke,1A W'ville Train Depot,United States Senator,,DEM,CHERYL COPELAND,28,1,20,7,0
 Clarke,1B Gaines School,United States Senator,,DEM,CHERYL COPELAND,36,2,21,13,0
 Clarke,1C Whit Davis School,United States Senator,,DEM,CHERYL COPELAND,13,1,8,4,0
@@ -124,7 +119,6 @@ Clarke,7C Firestation #3,United States Senator,,DEM,CHERYL COPELAND,34,2,28,4,0
 Clarke,8A Gaines School,United States Senator,,DEM,CHERYL COPELAND,61,3,48,10,0
 Clarke,8B Cedar Shls High Sch,United States Senator,,DEM,CHERYL COPELAND,46,1,37,8,0
 Clarke,8C Firestation #7,United States Senator,,DEM,CHERYL COPELAND,55,6,38,11,0
-Clarke,,United States Senator,,DEM,JOHN F COYNE III,96,5,78,13,0
 Clarke,1A W'ville Train Depot,United States Senator,,DEM,JOHN F COYNE III,4,0,2,2,0
 Clarke,1B Gaines School,United States Senator,,DEM,JOHN F COYNE III,5,1,4,0,0
 Clarke,1C Whit Davis School,United States Senator,,DEM,JOHN F COYNE III,3,0,3,0,0
@@ -149,7 +143,6 @@ Clarke,7C Firestation #3,United States Senator,,DEM,JOHN F COYNE III,1,0,1,0,0
 Clarke,8A Gaines School,United States Senator,,DEM,JOHN F COYNE III,5,1,4,0,0
 Clarke,8B Cedar Shls High Sch,United States Senator,,DEM,JOHN F COYNE III,2,0,2,0,0
 Clarke,8C Firestation #7,United States Senator,,DEM,JOHN F COYNE III,4,0,3,1,0
-Clarke,,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,240,15,179,46,0
 Clarke,1A W'ville Train Depot,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,10,1,8,1,0
 Clarke,1B Gaines School,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,13,0,9,4,0
 Clarke,1C Whit Davis School,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,7,0,7,0,0
@@ -174,7 +167,6 @@ Clarke,7C Firestation #3,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,1
 Clarke,8A Gaines School,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,6,0,6,0,0
 Clarke,8B Cedar Shls High Sch,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,13,2,10,1,0
 Clarke,8C Firestation #7,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,18,0,17,1,0
-Clarke,,Public Service Commission,2,REP,TIM ECHOLS (I),1476,160,1069,246,1
 Clarke,1A W'ville Train Depot,Public Service Commission,2,REP,TIM ECHOLS (I),73,7,54,12,0
 Clarke,1B Gaines School,Public Service Commission,2,REP,TIM ECHOLS (I),58,11,42,5,0
 Clarke,1C Whit Davis School,Public Service Commission,2,REP,TIM ECHOLS (I),51,2,44,5,0
@@ -199,7 +191,6 @@ Clarke,7C Firestation #3,Public Service Commission,2,REP,TIM ECHOLS (I),109,11,7
 Clarke,8A Gaines School,Public Service Commission,2,REP,TIM ECHOLS (I),74,5,57,12,0
 Clarke,8B Cedar Shls High Sch,Public Service Commission,2,REP,TIM ECHOLS (I),65,11,38,16,0
 Clarke,8C Firestation #7,Public Service Commission,2,REP,TIM ECHOLS (I),50,4,39,7,0
-Clarke,,Public Service Commission,2,REP,MICHELLE MILLER,176,10,142,24,0
 Clarke,1A W'ville Train Depot,Public Service Commission,2,REP,MICHELLE MILLER,17,0,16,1,0
 Clarke,1B Gaines School,Public Service Commission,2,REP,MICHELLE MILLER,13,0,10,3,0
 Clarke,1C Whit Davis School,Public Service Commission,2,REP,MICHELLE MILLER,4,0,4,0,0
@@ -224,32 +215,26 @@ Clarke,7C Firestation #3,Public Service Commission,2,REP,MICHELLE MILLER,12,0,11
 Clarke,8A Gaines School,Public Service Commission,2,REP,MICHELLE MILLER,5,1,4,0,0
 Clarke,8B Cedar Shls High Sch,Public Service Commission,2,REP,MICHELLE MILLER,7,2,4,1,0
 Clarke,8C Firestation #7,Public Service Commission,2,REP,MICHELLE MILLER,5,0,5,0,0
-Clarke,,U.S. Representative,9,REP,PAUL C BROUN,62,3,50,9,0
 Clarke,1A W'ville Train Depot,U.S. Representative,9,REP,PAUL C BROUN,30,3,25,2,0
 Clarke,2A Judia J. Harris Sch,U.S. Representative,9,REP,PAUL C BROUN,9,0,7,2,0
 Clarke,5D ACC Fleet Mgt Bldg,U.S. Representative,9,REP,PAUL C BROUN,23,0,18,5,0
 Clarke,8C Firestation #7,U.S. Representative,9,REP,PAUL C BROUN,0,0,0,0,0
-Clarke,,U.S. Representative,9,REP,DOUG COLLINS (I),118,6,86,26,0
 Clarke,1A W'ville Train Depot,U.S. Representative,9,REP,DOUG COLLINS (I),60,5,45,10,0
 Clarke,2A Judia J. Harris Sch,U.S. Representative,9,REP,DOUG COLLINS (I),19,1,17,1,0
 Clarke,5D ACC Fleet Mgt Bldg,U.S. Representative,9,REP,DOUG COLLINS (I),39,0,24,15,0
 Clarke,8C Firestation #7,U.S. Representative,9,REP,DOUG COLLINS (I),0,0,0,0,0
-Clarke,,U.S. Representative,9,REP,ROGER FITZPATRICK,12,1,8,3,0
 Clarke,1A W'ville Train Depot,U.S. Representative,9,REP,ROGER FITZPATRICK,6,0,5,1,0
 Clarke,2A Judia J. Harris Sch,U.S. Representative,9,REP,ROGER FITZPATRICK,3,1,2,0,0
 Clarke,5D ACC Fleet Mgt Bldg,U.S. Representative,9,REP,ROGER FITZPATRICK,3,0,1,2,0
 Clarke,8C Firestation #7,U.S. Representative,9,REP,ROGER FITZPATRICK,0,0,0,0,0
-Clarke,,U.S. Representative,9,REP,BERNIE FONTAINE,6,0,6,0,0
 Clarke,1A W'ville Train Depot,U.S. Representative,9,REP,BERNIE FONTAINE,5,0,5,0,0
 Clarke,2A Judia J. Harris Sch,U.S. Representative,9,REP,BERNIE FONTAINE,0,0,0,0,0
 Clarke,5D ACC Fleet Mgt Bldg,U.S. Representative,9,REP,BERNIE FONTAINE,1,0,1,0,0
 Clarke,8C Firestation #7,U.S. Representative,9,REP,BERNIE FONTAINE,0,0,0,0,0
-Clarke,,U.S. Representative,9,REP,MIKE SCUPIN,4,0,3,1,0
 Clarke,1A W'ville Train Depot,U.S. Representative,9,REP,MIKE SCUPIN,3,0,2,1,0
 Clarke,2A Judia J. Harris Sch,U.S. Representative,9,REP,MIKE SCUPIN,1,0,1,0,0
 Clarke,5D ACC Fleet Mgt Bldg,U.S. Representative,9,REP,MIKE SCUPIN,0,0,0,0,0
 Clarke,8C Firestation #7,U.S. Representative,9,REP,MIKE SCUPIN,0,0,0,0,0
-Clarke,,U.S. Representative,10,REP,JODY HICE (I),1521,157,1120,244,0
 Clarke,1B Gaines School,U.S. Representative,10,REP,JODY HICE (I),78,11,56,11,0
 Clarke,1C Whit Davis School,U.S. Representative,10,REP,JODY HICE (I),56,2,50,4,0
 Clarke,1D Whit Davis School,U.S. Representative,10,REP,JODY HICE (I),95,3,86,6,0
@@ -271,7 +256,6 @@ Clarke,7C Firestation #3,U.S. Representative,10,REP,JODY HICE (I),112,12,81,19,0
 Clarke,8A Gaines School,U.S. Representative,10,REP,JODY HICE (I),71,4,59,8,0
 Clarke,8B Cedar Shls High Sch,U.S. Representative,10,REP,JODY HICE (I),66,13,38,15,0
 Clarke,8C Firestation #7,U.S. Representative,10,REP,JODY HICE (I),59,3,49,7,0
-Clarke,,State Senator,46,REP,BILL COWSERT (I),1047,122,746,178,1
 Clarke,2B Howard Stroud School,State Senator,46,REP,BILL COWSERT (I),7,1,5,1,0
 Clarke,3A Clarke Central High,State Senator,46,REP,BILL COWSERT (I),6,0,5,1,0
 Clarke,3B Thomas N. Lay Park,State Senator,46,REP,BILL COWSERT (I),17,2,8,7,0
@@ -286,7 +270,6 @@ Clarke,6D Firestation #4,State Senator,46,REP,BILL COWSERT (I),23,3,19,1,0
 Clarke,7A Timothy Road School,State Senator,46,REP,BILL COWSERT (I),114,17,84,13,0
 Clarke,7B Alps Elem. School,State Senator,46,REP,BILL COWSERT (I),122,25,74,23,0
 Clarke,7C Firestation #3,State Senator,46,REP,BILL COWSERT (I),136,13,95,27,1
-Clarke,,State Senator,46,REP,PATRICIA DAUGHERTY,228,14,172,42,0
 Clarke,2B Howard Stroud School,State Senator,46,REP,PATRICIA DAUGHERTY,3,0,2,1,0
 Clarke,3A Clarke Central High,State Senator,46,REP,PATRICIA DAUGHERTY,1,0,1,0,0
 Clarke,3B Thomas N. Lay Park,State Senator,46,REP,PATRICIA DAUGHERTY,4,1,2,1,0
@@ -301,7 +284,6 @@ Clarke,6D Firestation #4,State Senator,46,REP,PATRICIA DAUGHERTY,14,1,12,1,0
 Clarke,7A Timothy Road School,State Senator,46,REP,PATRICIA DAUGHERTY,16,1,13,2,0
 Clarke,7B Alps Elem. School,State Senator,46,REP,PATRICIA DAUGHERTY,17,3,11,3,0
 Clarke,7C Firestation #3,State Senator,46,REP,PATRICIA DAUGHERTY,13,0,13,0,0
-Clarke,,State Senator,47,REP,FRANK GINN (I),588,45,455,88,0
 Clarke,1A W'ville Train Depot,State Senator,47,REP,FRANK GINN (I),84,8,64,12,0
 Clarke,1B Gaines School,State Senator,47,REP,FRANK GINN (I),66,10,47,9,0
 Clarke,1C Whit Davis School,State Senator,47,REP,FRANK GINN (I),58,2,52,4,0
@@ -312,7 +294,6 @@ Clarke,5D ACC Fleet Mgt Bldg,State Senator,47,REP,FRANK GINN (I),52,0,33,19,0
 Clarke,8A Gaines School,State Senator,47,REP,FRANK GINN (I),75,5,59,11,0
 Clarke,8B Cedar Shls High Sch,State Senator,47,REP,FRANK GINN (I),74,12,46,16,0
 Clarke,8C Firestation #7,State Senator,47,REP,FRANK GINN (I),60,3,50,7,0
-Clarke,,State Senator,47,REP,TYLER HOLLIFIELD,119,8,95,16,0
 Clarke,1A W'ville Train Depot,State Senator,47,REP,TYLER HOLLIFIELD,18,0,16,2,0
 Clarke,1B Gaines School,State Senator,47,REP,TYLER HOLLIFIELD,20,1,16,3,0
 Clarke,1C Whit Davis School,State Senator,47,REP,TYLER HOLLIFIELD,5,0,4,1,0
@@ -323,7 +304,6 @@ Clarke,5D ACC Fleet Mgt Bldg,State Senator,47,REP,TYLER HOLLIFIELD,11,0,9,2,0
 Clarke,8A Gaines School,State Senator,47,REP,TYLER HOLLIFIELD,9,1,7,1,0
 Clarke,8B Cedar Shls High Sch,State Senator,47,REP,TYLER HOLLIFIELD,10,2,6,2,0
 Clarke,8C Firestation #7,State Senator,47,REP,TYLER HOLLIFIELD,15,1,13,1,0
-Clarke,,State Representative,117,REP,REGINA QUICK (I),620,73,446,101,0
 Clarke,3A Clarke Central High,State Representative,117,REP,REGINA QUICK (I),5,0,4,1,0
 Clarke,4B Memorial Park,State Representative,117,REP,REGINA QUICK (I),43,3,28,12,0
 Clarke,6A Cleveland Rd School,State Representative,117,REP,REGINA QUICK (I),105,6,89,10,0
@@ -332,7 +312,6 @@ Clarke,6C Timothy Road School,State Representative,117,REP,REGINA QUICK (I),121,
 Clarke,6D Firestation #4,State Representative,117,REP,REGINA QUICK (I),29,2,25,2,0
 Clarke,7A Timothy Road School,State Representative,117,REP,REGINA QUICK (I),98,13,72,13,0
 Clarke,7B Alps Elem. School,State Representative,117,REP,REGINA QUICK (I),107,20,67,20,0
-Clarke,,State Representative,118,DEM,SPENCER FRYE (I),1196,44,903,249,0
 Clarke,1A W'ville Train Depot,State Representative,118,DEM,SPENCER FRYE (I),84,2,57,25,0
 Clarke,1B Gaines School,State Representative,118,DEM,SPENCER FRYE (I),127,4,94,29,0
 Clarke,2A Judia J. Harris Sch,State Representative,118,DEM,SPENCER FRYE (I),106,5,80,21,0
@@ -343,7 +322,6 @@ Clarke,5B Whitehead Rd School,State Representative,118,DEM,SPENCER FRYE (I),123,
 Clarke,5C Chase Street School,State Representative,118,DEM,SPENCER FRYE (I),124,2,101,21,0
 Clarke,5D ACC Fleet Mgt Bldg,State Representative,118,DEM,SPENCER FRYE (I),80,0,69,11,0
 Clarke,8A Gaines School,State Representative,118,DEM,SPENCER FRYE (I),216,6,165,45,0
-Clarke,,State Representative,119,REP,CHUCK WILLIAMS (I),407,33,310,64,0
 Clarke,1C Whit Davis School,State Representative,119,REP,CHUCK WILLIAMS (I),53,2,46,5,0
 Clarke,1D Whit Davis School,State Representative,119,REP,CHUCK WILLIAMS (I),82,2,75,5,0
 Clarke,4A Athens Transit Ctr,State Representative,119,REP,CHUCK WILLIAMS (I),15,2,9,4,0
@@ -352,7 +330,6 @@ Clarke,7A Timothy Road School,State Representative,119,REP,CHUCK WILLIAMS (I),1,
 Clarke,7C Firestation #3,State Representative,119,REP,CHUCK WILLIAMS (I),119,12,82,25,0
 Clarke,8B Cedar Shls High Sch,State Representative,119,REP,CHUCK WILLIAMS (I),62,11,35,16,0
 Clarke,8C Firestation #7,State Representative,119,REP,CHUCK WILLIAMS (I),57,4,46,7,0
-Clarke,,District Attorney,Western Circuit - DEM,DEM,KEN MAULDIN (I),2532,103,1891,536,2
 Clarke,1A W'ville Train Depot,District Attorney,Western Circuit - DEM,DEM,KEN MAULDIN (I),85,2,59,24,0
 Clarke,1B Gaines School,District Attorney,Western Circuit - DEM,DEM,KEN MAULDIN (I),123,4,88,31,0
 Clarke,1C Whit Davis School,District Attorney,Western Circuit - DEM,DEM,KEN MAULDIN (I),77,3,55,19,0
@@ -377,7 +354,6 @@ Clarke,7C Firestation #3,District Attorney,Western Circuit - DEM,DEM,KEN MAULDIN
 Clarke,8A Gaines School,District Attorney,Western Circuit - DEM,DEM,KEN MAULDIN (I),210,5,161,44,0
 Clarke,8B Cedar Shls High Sch,District Attorney,Western Circuit - DEM,DEM,KEN MAULDIN (I),142,2,112,28,0
 Clarke,8C Firestation #7,District Attorney,Western Circuit - DEM,DEM,KEN MAULDIN (I),114,11,81,21,1
-Clarke,,Superior Court Clerk - D,,I,B. LOGAN,2622,108,1951,561,2
 Clarke,1A W'ville Train Depot,Superior Court Clerk - D,,I,B. LOGAN,91,2,63,26,0
 Clarke,1B Gaines School,Superior Court Clerk - D,,I,B. LOGAN,128,4,92,32,0
 Clarke,1C Whit Davis School,Superior Court Clerk - D,,I,B. LOGAN,78,3,54,21,0
@@ -402,7 +378,6 @@ Clarke,7C Firestation #3,Superior Court Clerk - D,,I,B. LOGAN,97,5,78,14,0
 Clarke,8A Gaines School,Superior Court Clerk - D,,I,B. LOGAN,212,5,163,44,0
 Clarke,8B Cedar Shls High Sch,Superior Court Clerk - D,,I,B. LOGAN,148,2,117,29,0
 Clarke,8C Firestation #7,Superior Court Clerk - D,,I,B. LOGAN,116,11,83,21,1
-Clarke,,Sheriff - D,,I,I. EDWARDS JR.,2603,107,1935,559,2
 Clarke,1A W'ville Train Depot,Sheriff - D,,I,I. EDWARDS JR.,87,2,58,27,0
 Clarke,1B Gaines School,Sheriff - D,,I,I. EDWARDS JR.,130,4,92,34,0
 Clarke,1C Whit Davis School,Sheriff - D,,I,I. EDWARDS JR.,73,3,51,19,0
@@ -427,7 +402,6 @@ Clarke,7C Firestation #3,Sheriff - D,,I,I. EDWARDS JR.,93,5,75,13,0
 Clarke,8A Gaines School,Sheriff - D,,I,I. EDWARDS JR.,208,5,160,43,0
 Clarke,8B Cedar Shls High Sch,Sheriff - D,,I,I. EDWARDS JR.,145,2,118,25,0
 Clarke,8C Firestation #7,Sheriff - D,,I,I. EDWARDS JR.,120,11,84,24,1
-Clarke,,Tax Commissioner - D,,,D. HUDGINS,1136,55,867,213,1
 Clarke,1A W'ville Train Depot,Tax Commissioner - D,,,D. HUDGINS,39,2,27,10,0
 Clarke,1B Gaines School,Tax Commissioner - D,,,D. HUDGINS,38,1,29,8,0
 Clarke,1C Whit Davis School,Tax Commissioner - D,,,D. HUDGINS,33,0,27,6,0
@@ -452,7 +426,6 @@ Clarke,7C Firestation #3,Tax Commissioner - D,,,D. HUDGINS,30,1,26,3,0
 Clarke,8A Gaines School,Tax Commissioner - D,,,D. HUDGINS,83,0,66,17,0
 Clarke,8B Cedar Shls High Sch,Tax Commissioner - D,,,D. HUDGINS,26,3,20,3,0
 Clarke,8C Firestation #7,Tax Commissioner - D,,,D. HUDGINS,57,6,42,8,1
-Clarke,,Tax Commissioner - D,,,T. H. MEADOW,1835,64,1368,402,1
 Clarke,1A W'ville Train Depot,Tax Commissioner - D,,,T. H. MEADOW,65,1,45,19,0
 Clarke,1B Gaines School,Tax Commissioner - D,,,T. H. MEADOW,101,3,77,21,0
 Clarke,1C Whit Davis School,Tax Commissioner - D,,,T. H. MEADOW,65,3,45,17,0
@@ -477,7 +450,6 @@ Clarke,7C Firestation #3,Tax Commissioner - D,,,T. H. MEADOW,81,4,64,13,0
 Clarke,8A Gaines School,Tax Commissioner - D,,,T. H. MEADOW,155,6,118,31,0
 Clarke,8B Cedar Shls High Sch,Tax Commissioner - D,,,T. H. MEADOW,147,0,116,31,0
 Clarke,8C Firestation #7,Tax Commissioner - D,,,T. H. MEADOW,72,4,52,16,0
-Clarke,,Coroner - D,,I,S. WILSON,2325,104,1735,484,2
 Clarke,1A W'ville Train Depot,Coroner - D,,I,S. WILSON,78,2,53,23,0
 Clarke,1B Gaines School,Coroner - D,,I,S. WILSON,129,4,94,31,0
 Clarke,1C Whit Davis School,Coroner - D,,I,S. WILSON,63,3,46,14,0
@@ -502,7 +474,6 @@ Clarke,7C Firestation #3,Coroner - D,,I,S. WILSON,88,5,71,12,0
 Clarke,8A Gaines School,Coroner - D,,I,S. WILSON,192,5,149,38,0
 Clarke,8B Cedar Shls High Sch,Coroner - D,,I,S. WILSON,121,2,100,19,0
 Clarke,8C Firestation #7,Coroner - D,,I,S. WILSON,105,11,74,19,1
-Clarke,,Republican Party Question 1,,REP,YES,1475,130,1110,235,0
 Clarke,1A W'ville Train Depot,Republican Party Question 1,,REP,YES,71,5,56,10,0
 Clarke,1B Gaines School,Republican Party Question 1,,REP,YES,70,10,49,11,0
 Clarke,1C Whit Davis School,Republican Party Question 1,,REP,YES,48,2,42,4,0
@@ -527,7 +498,6 @@ Clarke,7C Firestation #3,Republican Party Question 1,,REP,YES,109,5,84,20,0
 Clarke,8A Gaines School,Republican Party Question 1,,REP,YES,59,4,49,6,0
 Clarke,8B Cedar Shls High Sch,Republican Party Question 1,,REP,YES,58,9,39,10,0
 Clarke,8C Firestation #7,Republican Party Question 1,,REP,YES,48,2,40,6,0
-Clarke,,Republican Party Question 1,,REP,NO,513,55,368,89,1
 Clarke,1A W'ville Train Depot,Republican Party Question 1,,REP,NO,32,2,26,4,0
 Clarke,1B Gaines School,Republican Party Question 1,,REP,NO,14,1,12,1,0
 Clarke,1C Whit Davis School,Republican Party Question 1,,REP,NO,17,0,16,1,0
@@ -552,7 +522,6 @@ Clarke,7C Firestation #3,Republican Party Question 1,,REP,NO,36,7,22,6,1
 Clarke,8A Gaines School,Republican Party Question 1,,REP,NO,33,2,24,7,0
 Clarke,8B Cedar Shls High Sch,Republican Party Question 1,,REP,NO,31,6,17,8,0
 Clarke,8C Firestation #7,Republican Party Question 1,,REP,NO,27,2,22,3,0
-Clarke,,Democratic Party Question 1,,DEM,YES,2786,102,2113,569,2
 Clarke,1A W'ville Train Depot,Democratic Party Question 1,,DEM,YES,92,3,64,25,0
 Clarke,1B Gaines School,Democratic Party Question 1,,DEM,YES,125,2,95,28,0
 Clarke,1C Whit Davis School,Democratic Party Question 1,,DEM,YES,94,3,69,22,0
@@ -577,7 +546,6 @@ Clarke,7C Firestation #3,Democratic Party Question 1,,DEM,YES,111,5,90,16,0
 Clarke,8A Gaines School,Democratic Party Question 1,,DEM,YES,221,3,177,41,0
 Clarke,8B Cedar Shls High Sch,Democratic Party Question 1,,DEM,YES,156,3,124,29,0
 Clarke,8C Firestation #7,Democratic Party Question 1,,DEM,YES,133,11,95,26,1
-Clarke,,Democratic Party Question 1,,DEM,NO,302,21,201,80,0
 Clarke,1A W'ville Train Depot,Democratic Party Question 1,,DEM,NO,13,0,9,4,0
 Clarke,1B Gaines School,Democratic Party Question 1,,DEM,NO,20,2,12,6,0
 Clarke,1C Whit Davis School,Democratic Party Question 1,,DEM,NO,6,0,4,2,0
@@ -602,7 +570,6 @@ Clarke,7C Firestation #3,Democratic Party Question 1,,DEM,NO,6,0,5,1,0
 Clarke,8A Gaines School,Democratic Party Question 1,,DEM,NO,27,3,17,7,0
 Clarke,8B Cedar Shls High Sch,Democratic Party Question 1,,DEM,NO,17,0,12,5,0
 Clarke,8C Firestation #7,Democratic Party Question 1,,DEM,NO,6,0,5,1,0
-Clarke,,Democratic Party Question 2,,DEM,YES,2856,104,2173,577,2
 Clarke,1A W'ville Train Depot,Democratic Party Question 2,,DEM,YES,92,1,66,25,0
 Clarke,1B Gaines School,Democratic Party Question 2,,DEM,YES,140,2,105,33,0
 Clarke,1C Whit Davis School,Democratic Party Question 2,,DEM,YES,96,3,71,22,0
@@ -627,7 +594,6 @@ Clarke,7C Firestation #3,Democratic Party Question 2,,DEM,YES,110,4,90,16,0
 Clarke,8A Gaines School,Democratic Party Question 2,,DEM,YES,224,6,176,42,0
 Clarke,8B Cedar Shls High Sch,Democratic Party Question 2,,DEM,YES,158,3,127,28,0
 Clarke,8C Firestation #7,Democratic Party Question 2,,DEM,YES,133,8,97,27,1
-Clarke,,Democratic Party Question 2,,DEM,NO,228,19,142,67,0
 Clarke,1A W'ville Train Depot,Democratic Party Question 2,,DEM,NO,12,2,6,4,0
 Clarke,1B Gaines School,Democratic Party Question 2,,DEM,NO,7,2,4,1,0
 Clarke,1C Whit Davis School,Democratic Party Question 2,,DEM,NO,5,0,2,3,0
@@ -652,7 +618,6 @@ Clarke,7C Firestation #3,Democratic Party Question 2,,DEM,NO,6,1,4,1,0
 Clarke,8A Gaines School,Democratic Party Question 2,,DEM,NO,24,0,18,6,0
 Clarke,8B Cedar Shls High Sch,Democratic Party Question 2,,DEM,NO,19,0,13,6,0
 Clarke,8C Firestation #7,Democratic Party Question 2,,DEM,NO,7,3,4,0,0
-Clarke,,Democratic Party Question 3,,DEM,YES,2781,107,2093,579,2
 Clarke,1A W'ville Train Depot,Democratic Party Question 3,,DEM,YES,91,3,64,24,0
 Clarke,1B Gaines School,Democratic Party Question 3,,DEM,YES,124,2,89,33,0
 Clarke,1C Whit Davis School,Democratic Party Question 3,,DEM,YES,96,3,71,22,0
@@ -677,7 +642,6 @@ Clarke,7C Firestation #3,Democratic Party Question 3,,DEM,YES,104,4,86,14,0
 Clarke,8A Gaines School,Democratic Party Question 3,,DEM,YES,230,6,177,47,0
 Clarke,8B Cedar Shls High Sch,Democratic Party Question 3,,DEM,YES,151,3,122,26,0
 Clarke,8C Firestation #7,Democratic Party Question 3,,DEM,YES,127,10,89,27,1
-Clarke,,Democratic Party Question 3,,DEM,NO,274,16,203,55,0
 Clarke,1A W'ville Train Depot,Democratic Party Question 3,,DEM,NO,14,0,9,5,0
 Clarke,1B Gaines School,Democratic Party Question 3,,DEM,NO,18,2,15,1,0
 Clarke,1C Whit Davis School,Democratic Party Question 3,,DEM,NO,5,0,3,2,0
@@ -702,7 +666,6 @@ Clarke,7C Firestation #3,Democratic Party Question 3,,DEM,NO,12,1,9,2,0
 Clarke,8A Gaines School,Democratic Party Question 3,,DEM,NO,19,1,17,1,0
 Clarke,8B Cedar Shls High Sch,Democratic Party Question 3,,DEM,NO,16,0,10,6,0
 Clarke,8C Firestation #7,Democratic Party Question 3,,DEM,NO,10,1,9,0,0
-Clarke,,Democratic Party Question 4,,DEM,YES,2642,102,1991,547,2
 Clarke,1A W'ville Train Depot,Democratic Party Question 4,,DEM,YES,88,3,62,23,0
 Clarke,1B Gaines School,Democratic Party Question 4,,DEM,YES,121,2,90,29,0
 Clarke,1C Whit Davis School,Democratic Party Question 4,,DEM,YES,90,2,69,19,0
@@ -727,7 +690,6 @@ Clarke,7C Firestation #3,Democratic Party Question 4,,DEM,YES,104,5,83,16,0
 Clarke,8A Gaines School,Democratic Party Question 4,,DEM,YES,211,4,168,39,0
 Clarke,8B Cedar Shls High Sch,Democratic Party Question 4,,DEM,YES,147,3,120,24,0
 Clarke,8C Firestation #7,Democratic Party Question 4,,DEM,YES,128,11,91,25,1
-Clarke,,Democratic Party Question 4,,DEM,NO,426,21,306,99,0
 Clarke,1A W'ville Train Depot,Democratic Party Question 4,,DEM,NO,17,0,11,6,0
 Clarke,1B Gaines School,Democratic Party Question 4,,DEM,NO,24,2,16,6,0
 Clarke,1C Whit Davis School,Democratic Party Question 4,,DEM,NO,12,1,5,6,0
@@ -752,7 +714,6 @@ Clarke,7C Firestation #3,Democratic Party Question 4,,DEM,NO,10,0,9,1,0
 Clarke,8A Gaines School,Democratic Party Question 4,,DEM,NO,34,3,22,9,0
 Clarke,8B Cedar Shls High Sch,Democratic Party Question 4,,DEM,NO,26,0,17,9,0
 Clarke,8C Firestation #7,Democratic Party Question 4,,DEM,NO,10,0,8,2,0
-Clarke,,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,4125,246,3056,819,4
 Clarke,1A W'ville Train Depot,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,174,9,128,37,0
 Clarke,1B Gaines School,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,204,17,146,40,1
 Clarke,1C Whit Davis School,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,123,4,99,20,0
@@ -777,7 +738,6 @@ Clarke,7C Firestation #3,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,211,16,15
 Clarke,8A Gaines School,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,285,8,223,54,0
 Clarke,8B Cedar Shls High Sch,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,219,10,165,44,0
 Clarke,8C Firestation #7,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,174,14,131,28,1
-Clarke,,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,4187,247,3107,829,4
 Clarke,1A W'ville Train Depot,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,171,8,128,35,0
 Clarke,1B Gaines School,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,204,16,147,40,1
 Clarke,1C Whit Davis School,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,120,4,96,20,0
@@ -802,7 +762,6 @@ Clarke,7C Firestation #3,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,218,
 Clarke,8A Gaines School,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,289,8,225,56,0
 Clarke,8B Cedar Shls High Sch,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,223,10,167,46,0
 Clarke,8C Firestation #7,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,177,14,134,28,1
-Clarke,,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,4106,240,3046,816,4
 Clarke,1A W'ville Train Depot,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,170,9,126,35,0
 Clarke,1B Gaines School,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,202,16,144,41,1
 Clarke,1C Whit Davis School,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,119,4,96,19,0
@@ -827,7 +786,6 @@ Clarke,7C Firestation #3,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,214,15,16
 Clarke,8A Gaines School,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,281,8,219,54,0
 Clarke,8B Cedar Shls High Sch,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,218,10,164,44,0
 Clarke,8C Firestation #7,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,175,14,132,28,1
-Clarke,,Superior Court Judge,Western Circuit (Haggard),I,H. PATRICK HAGGARD,4275,261,3164,847,3
 Clarke,1A W'ville Train Depot,Superior Court Judge,Western Circuit (Haggard),I,H. PATRICK HAGGARD,175,9,129,37,0
 Clarke,1B Gaines School,Superior Court Judge,Western Circuit (Haggard),I,H. PATRICK HAGGARD,208,16,149,42,1
 Clarke,1C Whit Davis School,Superior Court Judge,Western Circuit (Haggard),I,H. PATRICK HAGGARD,123,4,96,23,0
@@ -852,7 +810,6 @@ Clarke,7C Firestation #3,Superior Court Judge,Western Circuit (Haggard),I,H. PAT
 Clarke,8A Gaines School,Superior Court Judge,Western Circuit (Haggard),I,H. PATRICK HAGGARD,290,10,225,55,0
 Clarke,8B Cedar Shls High Sch,Superior Court Judge,Western Circuit (Haggard),I,H. PATRICK HAGGARD,222,11,166,45,0
 Clarke,8C Firestation #7,Superior Court Judge,Western Circuit (Haggard),I,H. PATRICK HAGGARD,178,14,136,27,1
-Clarke,,Superior Court Judge,Western Circuit (Stephens),I,LAWTON EVANS STEPHENS,4481,263,3327,887,4
 Clarke,1A W'ville Train Depot,Superior Court Judge,Western Circuit (Stephens),I,LAWTON EVANS STEPHENS,180,9,135,36,0
 Clarke,1B Gaines School,Superior Court Judge,Western Circuit (Stephens),I,LAWTON EVANS STEPHENS,213,16,154,42,1
 Clarke,1C Whit Davis School,Superior Court Judge,Western Circuit (Stephens),I,LAWTON EVANS STEPHENS,132,4,102,26,0
@@ -877,7 +834,6 @@ Clarke,7C Firestation #3,Superior Court Judge,Western Circuit (Stephens),I,LAWTO
 Clarke,8A Gaines School,Superior Court Judge,Western Circuit (Stephens),I,LAWTON EVANS STEPHENS,307,11,238,58,0
 Clarke,8B Cedar Shls High Sch,Superior Court Judge,Western Circuit (Stephens),I,LAWTON EVANS STEPHENS,240,11,179,50,0
 Clarke,8C Firestation #7,Superior Court Judge,Western Circuit (Stephens),I,LAWTON EVANS STEPHENS,183,14,139,29,1
-Clarke,,State Court Judge - Auslander,,I,C. E. AUSLANDER,4149,240,3083,822,4
 Clarke,1A W'ville Train Depot,State Court Judge - Auslander,,I,C. E. AUSLANDER,166,8,123,35,0
 Clarke,1B Gaines School,State Court Judge - Auslander,,I,C. E. AUSLANDER,202,16,145,40,1
 Clarke,1C Whit Davis School,State Court Judge - Auslander,,I,C. E. AUSLANDER,119,4,93,22,0
@@ -902,7 +858,6 @@ Clarke,7C Firestation #3,State Court Judge - Auslander,,I,C. E. AUSLANDER,215,15
 Clarke,8A Gaines School,State Court Judge - Auslander,,I,C. E. AUSLANDER,282,9,219,54,0
 Clarke,8B Cedar Shls High Sch,State Court Judge - Auslander,,I,C. E. AUSLANDER,224,10,170,44,0
 Clarke,8C Firestation #7,State Court Judge - Auslander,,I,C. E. AUSLANDER,173,14,131,27,1
-Clarke,,State Court Judge - Simpson,,I,E. N. SIMPSON,4226,247,3127,848,4
 Clarke,1A W'ville Train Depot,State Court Judge - Simpson,,I,E. N. SIMPSON,169,8,126,35,0
 Clarke,1B Gaines School,State Court Judge - Simpson,,I,E. N. SIMPSON,204,16,146,41,1
 Clarke,1C Whit Davis School,State Court Judge - Simpson,,I,E. N. SIMPSON,122,4,94,24,0
@@ -927,7 +882,6 @@ Clarke,7C Firestation #3,State Court Judge - Simpson,,I,E. N. SIMPSON,224,15,170
 Clarke,8A Gaines School,State Court Judge - Simpson,,I,E. N. SIMPSON,287,9,221,57,0
 Clarke,8B Cedar Shls High Sch,State Court Judge - Simpson,,I,E. N. SIMPSON,225,10,167,48,0
 Clarke,8C Firestation #7,State Court Judge - Simpson,,I,E. N. SIMPSON,174,14,132,27,1
-Clarke,,Probate Judge,,I,S. P. TATE,4390,258,3245,883,4
 Clarke,1A W'ville Train Depot,Probate Judge,,I,S. P. TATE,181,9,134,38,0
 Clarke,1B Gaines School,Probate Judge,,I,S. P. TATE,207,16,146,44,1
 Clarke,1C Whit Davis School,Probate Judge,,I,S. P. TATE,127,4,99,24,0
@@ -952,7 +906,6 @@ Clarke,7C Firestation #3,Probate Judge,,I,S. P. TATE,224,15,169,39,1
 Clarke,8A Gaines School,Probate Judge,,I,S. P. TATE,295,10,227,58,0
 Clarke,8B Cedar Shls High Sch,Probate Judge,,I,S. P. TATE,233,11,172,50,0
 Clarke,8C Firestation #7,Probate Judge,,I,S. P. TATE,183,15,138,29,1
-Clarke,,Chief Magistrate,,I,P. BARRON,4228,250,3132,842,4
 Clarke,1A W'ville Train Depot,Chief Magistrate,,I,P. BARRON,172,8,128,36,0
 Clarke,1B Gaines School,Chief Magistrate,,I,P. BARRON,205,16,146,42,1
 Clarke,1C Whit Davis School,Chief Magistrate,,I,P. BARRON,118,4,92,22,0
@@ -977,7 +930,6 @@ Clarke,7C Firestation #3,Chief Magistrate,,I,P. BARRON,207,15,158,33,1
 Clarke,8A Gaines School,Chief Magistrate,,I,P. BARRON,293,9,226,58,0
 Clarke,8B Cedar Shls High Sch,Chief Magistrate,,I,P. BARRON,225,10,167,48,0
 Clarke,8C Firestation #7,Chief Magistrate,,I,P. BARRON,181,15,138,27,1
-Clarke,,County Comm 2,,I,H. L. SIMS,261,18,168,75,0
 Clarke,1A W'ville Train Depot,County Comm 2,,I,H. L. SIMS,19,0,12,7,0
 Clarke,1B Gaines School,County Comm 2,,I,H. L. SIMS,19,4,14,1,0
 Clarke,2B Howard Stroud School,County Comm 2,,I,H. L. SIMS,96,4,64,28,0
@@ -985,45 +937,36 @@ Clarke,3B Thomas N. Lay Park,County Comm 2,,I,H. L. SIMS,19,0,8,11,0
 Clarke,4A Athens Transit Ctr,County Comm 2,,I,H. L. SIMS,18,1,8,9,0
 Clarke,4B Memorial Park,County Comm 2,,I,H. L. SIMS,0,0,0,0,0
 Clarke,8C Firestation #7,County Comm 2,,I,H. L. SIMS,90,9,62,19,0
-Clarke,,County Comm 4,,I,A. WRIGHT,206,10,145,51,0
 Clarke,3B Thomas N. Lay Park,County Comm 4,,I,A. WRIGHT,1,0,0,1,0
 Clarke,4A Athens Transit Ctr,County Comm 4,,I,A. WRIGHT,25,1,19,5,0
 Clarke,4B Memorial Park,County Comm 4,,I,A. WRIGHT,180,9,126,45,0
-Clarke,,County Comm 6,,I,J. NESMITH,522,29,404,89,0
 Clarke,6A Cleveland Rd School,County Comm 6,,I,J. NESMITH,182,8,154,20,0
 Clarke,6B Ga Square Mall,County Comm 6,,I,J. NESMITH,226,18,154,54,0
 Clarke,6D Firestation #4,County Comm 6,,I,J. NESMITH,114,3,96,15,0
-Clarke,,County Comm 8,,I,A. HEROD,719,28,552,138,1
 Clarke,1B Gaines School,County Comm 8,,I,A. HEROD,65,3,45,17,0
 Clarke,8A Gaines School,County Comm 8,,I,A. HEROD,315,9,248,58,0
 Clarke,8B Cedar Shls High Sch,County Comm 8,,I,A. HEROD,246,11,184,51,0
 Clarke,8C Firestation #7,County Comm 8,,I,A. HEROD,93,5,75,12,1
-Clarke,,County Comm 10,,I,MIKE HAMBY,645,66,462,117,0
 Clarke,6C Timothy Road School,County Comm 10,,I,MIKE HAMBY,234,14,172,48,0
 Clarke,7A Timothy Road School,County Comm 10,,I,MIKE HAMBY,213,20,159,34,0
 Clarke,7B Alps Elem. School,County Comm 10,,I,MIKE HAMBY,198,32,131,35,0
-Clarke,,BOE 2,,I,V. PAYNE,244,9,170,65,0
 Clarke,1A W'ville Train Depot,BOE 2,,I,V. PAYNE,86,3,61,22,0
 Clarke,1B Gaines School,BOE 2,,I,V. PAYNE,6,1,5,0,0
 Clarke,2A Judia J. Harris Sch,BOE 2,,I,V. PAYNE,37,1,28,8,0
 Clarke,2B Howard Stroud School,BOE 2,,I,V. PAYNE,92,3,64,25,0
 Clarke,4A Athens Transit Ctr,BOE 2,,I,V. PAYNE,23,1,12,10,0
-Clarke,,BOE 4,,,J. BYBEE,227,14,163,50,0
 Clarke,1C Whit Davis School,BOE 4,,,J. BYBEE,9,0,6,3,0
 Clarke,4A Athens Transit Ctr,BOE 4,,,J. BYBEE,14,1,9,4,0
 Clarke,4B Memorial Park,BOE 4,,,J. BYBEE,168,10,118,40,0
 Clarke,7C Firestation #3,BOE 4,,,J. BYBEE,36,3,30,3,0
-Clarke,,BOE 6,,I,C. WORTHY,674,42,491,141,0
 Clarke,5B Whitehead Rd School,BOE 6,,I,C. WORTHY,213,17,157,39,0
 Clarke,5D ACC Fleet Mgt Bldg,BOE 6,,I,C. WORTHY,69,0,46,23,0
 Clarke,6A Cleveland Rd School,BOE 6,,I,C. WORTHY,185,9,154,22,0
 Clarke,6B Ga Square Mall,BOE 6,,I,C. WORTHY,207,16,134,57,0
-Clarke,,BOE 8,,,A. K. HULL,395,22,287,85,1
 Clarke,4A Athens Transit Ctr,BOE 8,,,A. K. HULL,4,0,4,0,0
 Clarke,8A Gaines School,BOE 8,,,A. K. HULL,185,8,145,32,0
 Clarke,8B Cedar Shls High Sch,BOE 8,,,A. K. HULL,91,4,62,25,0
 Clarke,8C Firestation #7,BOE 8,,,A. K. HULL,115,10,76,28,1
-Clarke,,BOE 8,,,J. A. KNOX,431,23,347,61,0
 Clarke,4A Athens Transit Ctr,BOE 8,,,J. A. KNOX,1,0,1,0,0
 Clarke,8A Gaines School,BOE 8,,,J. A. KNOX,183,4,148,31,0
 Clarke,8B Cedar Shls High Sch,BOE 8,,,J. A. KNOX,138,13,104,21,0

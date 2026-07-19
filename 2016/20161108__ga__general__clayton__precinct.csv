@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Clayton,,President of the United States,,,DONALD J. TRUMP,12645,889,4119,7621,16
 Clayton,ELLENWOOD,President of the United States,,,DONALD J. TRUMP,219,16,64,139,0
 Clayton,FOREST PARK 1,President of the United States,,,DONALD J. TRUMP,267,19,122,126,0
 Clayton,FOREST PARK 2,President of the United States,,,DONALD J. TRUMP,184,16,91,77,0
@@ -58,7 +57,6 @@ Clayton,RIVERDALE 9,President of the United States,,,DONALD J. TRUMP,147,9,54,84
 Clayton,RIVERDALE 10,President of the United States,,,DONALD J. TRUMP,44,1,21,22,0
 Clayton,RIVERDALE 11,President of the United States,,,DONALD J. TRUMP,60,4,19,37,0
 Clayton,RIVERDALE 12,President of the United States,,,DONALD J. TRUMP,115,13,54,47,1
-Clayton,,President of the United States,,,HILLARY CLINTON,78220,2179,28567,47341,133
 Clayton,ELLENWOOD,President of the United States,,,HILLARY CLINTON,3174,83,854,2233,4
 Clayton,FOREST PARK 1,President of the United States,,,HILLARY CLINTON,1014,32,574,407,1
 Clayton,FOREST PARK 2,President of the United States,,,HILLARY CLINTON,955,31,471,453,0
@@ -117,7 +115,6 @@ Clayton,RIVERDALE 9,President of the United States,,,HILLARY CLINTON,1231,44,486
 Clayton,RIVERDALE 10,President of the United States,,,HILLARY CLINTON,1150,13,538,595,4
 Clayton,RIVERDALE 11,President of the United States,,,HILLARY CLINTON,990,34,317,638,1
 Clayton,RIVERDALE 12,President of the United States,,,HILLARY CLINTON,1526,57,545,923,1
-Clayton,,President of the United States,,,GARY JOHNSON,1647,54,794,794,5
 Clayton,ELLENWOOD,President of the United States,,,GARY JOHNSON,59,2,25,32,0
 Clayton,FOREST PARK 1,President of the United States,,,GARY JOHNSON,37,1,24,12,0
 Clayton,FOREST PARK 2,President of the United States,,,GARY JOHNSON,24,1,12,11,0
@@ -176,7 +173,6 @@ Clayton,RIVERDALE 9,President of the United States,,,GARY JOHNSON,22,0,12,10,0
 Clayton,RIVERDALE 10,President of the United States,,,GARY JOHNSON,12,0,6,6,0
 Clayton,RIVERDALE 11,President of the United States,,,GARY JOHNSON,8,0,4,4,0
 Clayton,RIVERDALE 12,President of the United States,,,GARY JOHNSON,20,2,8,10,0
-Clayton,,United States Senator,,,JOHNNY ISAKSON,14918,994,4781,9124,19
 Clayton,ELLENWOOD,United States Senator,,,JOHNNY ISAKSON,321,24,77,220,0
 Clayton,FOREST PARK 1,United States Senator,,,JOHNNY ISAKSON,305,21,143,141,0
 Clayton,FOREST PARK 2,United States Senator,,,JOHNNY ISAKSON,213,19,110,84,0
@@ -235,7 +231,6 @@ Clayton,RIVERDALE 9,United States Senator,,,JOHNNY ISAKSON,187,10,71,105,1
 Clayton,RIVERDALE 10,United States Senator,,,JOHNNY ISAKSON,69,2,28,39,0
 Clayton,RIVERDALE 11,United States Senator,,,JOHNNY ISAKSON,104,5,25,74,0
 Clayton,RIVERDALE 12,United States Senator,,,JOHNNY ISAKSON,162,12,61,88,1
-Clayton,,United States Senator,,,JIM BARKSDALE,69400,2009,25440,41828,123
 Clayton,ELLENWOOD,United States Senator,,,JIM BARKSDALE,2920,78,798,2041,3
 Clayton,FOREST PARK 1,United States Senator,,,JIM BARKSDALE,868,28,493,346,1
 Clayton,FOREST PARK 2,United States Senator,,,JIM BARKSDALE,845,31,407,407,0
@@ -294,7 +289,6 @@ Clayton,RIVERDALE 9,United States Senator,,,JIM BARKSDALE,1078,40,421,616,1
 Clayton,RIVERDALE 10,United States Senator,,,JIM BARKSDALE,1005,10,471,521,3
 Clayton,RIVERDALE 11,United States Senator,,,JIM BARKSDALE,883,31,291,560,1
 Clayton,RIVERDALE 12,United States Senator,,,JIM BARKSDALE,1324,52,473,798,1
-Clayton,,United States Senator,,,ALLEN BUCKLEY,2428,88,1086,1247,7
 Clayton,ELLENWOOD,United States Senator,,,ALLEN BUCKLEY,58,0,24,34,0
 Clayton,FOREST PARK 1,United States Senator,,,ALLEN BUCKLEY,49,1,32,16,0
 Clayton,FOREST PARK 2,United States Senator,,,ALLEN BUCKLEY,37,2,23,12,0
@@ -353,7 +347,6 @@ Clayton,RIVERDALE 9,United States Senator,,,ALLEN BUCKLEY,30,1,12,17,0
 Clayton,RIVERDALE 10,United States Senator,,,ALLEN BUCKLEY,27,1,13,12,1
 Clayton,RIVERDALE 11,United States Senator,,,ALLEN BUCKLEY,19,2,7,10,0
 Clayton,RIVERDALE 12,United States Senator,,,ALLEN BUCKLEY,36,4,18,14,0
-Clayton,,"Public Service Commission, District 2",2,,TIM ECHOLS,23384,1233,7822,14291,38
 Clayton,ELLENWOOD,"Public Service Commission, District 2",2,,TIM ECHOLS,664,27,168,469,0
 Clayton,FOREST PARK 1,"Public Service Commission, District 2",2,,TIM ECHOLS,383,20,189,174,0
 Clayton,FOREST PARK 2,"Public Service Commission, District 2",2,,TIM ECHOLS,330,22,171,137,0
@@ -412,7 +405,6 @@ Clayton,RIVERDALE 9,"Public Service Commission, District 2",2,,TIM ECHOLS,316,22
 Clayton,RIVERDALE 10,"Public Service Commission, District 2",2,,TIM ECHOLS,165,1,71,93,0
 Clayton,RIVERDALE 11,"Public Service Commission, District 2",2,,TIM ECHOLS,232,17,58,157,0
 Clayton,RIVERDALE 12,"Public Service Commission, District 2",2,,TIM ECHOLS,324,16,123,184,1
-Clayton,,"Public Service Commission, District 2",2,,ERIC HOSKINS,52777,1292,19984,31411,90
 Clayton,ELLENWOOD,"Public Service Commission, District 2",2,,ERIC HOSKINS,2178,45,621,1510,2
 Clayton,FOREST PARK 1,"Public Service Commission, District 2",2,,ERIC HOSKINS,703,19,415,268,1
 Clayton,FOREST PARK 2,"Public Service Commission, District 2",2,,ERIC HOSKINS,649,23,320,306,0
@@ -471,7 +463,6 @@ Clayton,RIVERDALE 9,"Public Service Commission, District 2",2,,ERIC HOSKINS,803,
 Clayton,RIVERDALE 10,"Public Service Commission, District 2",2,,ERIC HOSKINS,777,11,385,378,3
 Clayton,RIVERDALE 11,"Public Service Commission, District 2",2,,ERIC HOSKINS,635,18,221,395,1
 Clayton,RIVERDALE 12,"Public Service Commission, District 2",2,,ERIC HOSKINS,984,11,371,602,0
-Clayton,,U.S. Representative,5,REP,DOUGLAS BELL,4314,298,1625,2381,10
 Clayton,ELLENWOOD,U.S. Representative,5,REP,DOUGLAS BELL,235,18,74,143,0
 Clayton,FOREST PARK 1,U.S. Representative,5,REP,DOUGLAS BELL,266,15,128,123,0
 Clayton,FOREST PARK 2,U.S. Representative,5,REP,DOUGLAS BELL,195,18,100,77,0
@@ -495,7 +486,6 @@ Clayton,OAK 2,U.S. Representative,5,REP,DOUGLAS BELL,43,5,17,21,0
 Clayton,OAK 3,U.S. Representative,5,REP,DOUGLAS BELL,92,3,48,41,0
 Clayton,OAK 4,U.S. Representative,5,REP,DOUGLAS BELL,80,5,35,40,0
 Clayton,RIVERDALE 12,U.S. Representative,5,REP,DOUGLAS BELL,2,2,0,0,0
-Clayton,,U.S. Representative,5,(DEM,JOHN R. LEWIS,26941,747,10674,15485,35
 Clayton,ELLENWOOD,U.S. Representative,5,(DEM,JOHN R. LEWIS,3162,83,854,2223,2
 Clayton,FOREST PARK 1,U.S. Representative,5,(DEM,JOHN R. LEWIS,993,33,568,391,1
 Clayton,FOREST PARK 2,U.S. Representative,5,(DEM,JOHN R. LEWIS,942,34,464,444,0
@@ -519,7 +509,6 @@ Clayton,OAK 2,U.S. Representative,5,(DEM,JOHN R. LEWIS,686,16,347,322,1
 Clayton,OAK 3,U.S. Representative,5,(DEM,JOHN R. LEWIS,1664,35,768,859,2
 Clayton,OAK 4,U.S. Representative,5,(DEM,JOHN R. LEWIS,1612,34,737,837,4
 Clayton,RIVERDALE 12,U.S. Representative,5,(DEM,JOHN R. LEWIS,9,9,0,0,0
-Clayton,,U.S. Representative,13,(DEM,DAVID SCOTT,54998,1679,19101,34148,70
 Clayton,JONESBORO 1,U.S. Representative,13,(DEM,DAVID SCOTT,2279,80,792,1403,4
 Clayton,JONESBORO 2,U.S. Representative,13,(DEM,DAVID SCOTT,2067,64,672,1327,4
 Clayton,JONESBORO 3,U.S. Representative,13,(DEM,DAVID SCOTT,2009,76,599,1332,2
@@ -556,7 +545,6 @@ Clayton,RIVERDALE 9,U.S. Representative,13,(DEM,DAVID SCOTT,1300,48,514,736,2
 Clayton,RIVERDALE 10,U.S. Representative,13,(DEM,DAVID SCOTT,1143,13,536,594,0
 Clayton,RIVERDALE 11,U.S. Representative,13,(DEM,DAVID SCOTT,1011,37,331,642,1
 Clayton,RIVERDALE 12,U.S. Representative,13,(DEM,DAVID SCOTT,1554,48,570,934,2
-Clayton,,State Senator,34,(DEM,VALENCIA SEAY,39804,1147,16370,22229,58
 Clayton,FOREST PARK 1,State Senator,34,(DEM,VALENCIA SEAY,1091,39,608,443,1
 Clayton,FOREST PARK 2,State Senator,34,(DEM,VALENCIA SEAY,1020,40,503,477,0
 Clayton,FOREST PARK 3,State Senator,34,(DEM,VALENCIA SEAY,934,74,453,407,0
@@ -588,7 +576,6 @@ Clayton,RIVERDALE 9,State Senator,34,(DEM,VALENCIA SEAY,1263,45,497,719,2
 Clayton,RIVERDALE 10,State Senator,34,(DEM,VALENCIA SEAY,1128,13,530,582,3
 Clayton,RIVERDALE 11,State Senator,34,(DEM,VALENCIA SEAY,988,36,326,625,1
 Clayton,RIVERDALE 12,State Senator,34,(DEM,VALENCIA SEAY,1497,28,557,910,2
-Clayton,,State Senator,44,(DEM,GAIL DAVENPORT,43360,1311,13941,28059,49
 Clayton,ELLENWOOD,State Senator,44,(DEM,GAIL DAVENPORT,3262,87,885,2287,3
 Clayton,JONESBORO 3,State Senator,44,(DEM,GAIL DAVENPORT,1985,70,603,1311,1
 Clayton,JONESBORO 5,State Senator,44,(DEM,GAIL DAVENPORT,970,34,400,536,0
@@ -616,20 +603,16 @@ Clayton,MORROW 8,State Senator,44,(DEM,GAIL DAVENPORT,1529,34,466,1029,0
 Clayton,MORROW 9,State Senator,44,(DEM,GAIL DAVENPORT,654,19,213,415,7
 Clayton,PANHANDLE 1,State Senator,44,(DEM,GAIL DAVENPORT,1652,52,507,1093,0
 Clayton,PANHANDLE 2,State Senator,44,(DEM,GAIL DAVENPORT,1405,34,412,959,0
-Clayton,,State Representative,60,REP,RALPH NOBLES,544,35,275,234,0
 Clayton,FOREST PARK 1,State Representative,60,REP,RALPH NOBLES,257,14,133,110,0
 Clayton,FOREST PARK 2,State Representative,60,REP,RALPH NOBLES,193,17,94,82,0
 Clayton,OAK 1,State Representative,60,REP,RALPH NOBLES,46,0,25,21,0
 Clayton,OAK 2,State Representative,60,REP,RALPH NOBLES,48,4,23,21,0
-Clayton,,State Representative,60,(DEM,KEISHA WAITES,3642,96,1837,1705,4
 Clayton,FOREST PARK 1,State Representative,60,(DEM,KEISHA WAITES,975,29,552,393,1
 Clayton,FOREST PARK 2,State Representative,60,(DEM,KEISHA WAITES,929,32,463,434,0
 Clayton,OAK 1,State Representative,60,(DEM,KEISHA WAITES,1069,18,486,563,2
 Clayton,OAK 2,State Representative,60,(DEM,KEISHA WAITES,669,17,336,315,1
-Clayton,,State Representative,63,DEM,DEBRA BAZEMORE,3051,87,923,2041,0
 Clayton,PANHANDLE 1,State Representative,63,DEM,DEBRA BAZEMORE,1656,54,512,1090,0
 Clayton,PANHANDLE 2,State Representative,63,DEM,DEBRA BAZEMORE,1395,33,411,951,0
-Clayton,,State Representative,74,(DEM,VALENCIA STOVALL,14995,448,6091,8437,19
 Clayton,FOREST PARK 3,State Representative,74,(DEM,VALENCIA STOVALL,941,74,455,412,0
 Clayton,FOREST PARK 4,State Representative,74,(DEM,VALENCIA STOVALL,704,25,327,352,0
 Clayton,FOREST PARK 5,State Representative,74,(DEM,VALENCIA STOVALL,1358,38,687,630,3
@@ -643,7 +626,6 @@ Clayton,RIVERDALE 3,State Representative,74,(DEM,VALENCIA STOVALL,1690,41,627,10
 Clayton,RIVERDALE 8,State Representative,74,(DEM,VALENCIA STOVALL,1509,42,458,1007,2
 Clayton,RIVERDALE 10,State Representative,74,(DEM,VALENCIA STOVALL,1122,13,527,580,2
 Clayton,RIVERDALE 11,State Representative,74,(DEM,VALENCIA STOVALL,979,34,323,621,1
-Clayton,,State Representative,75,(DEM,MIKE GLANTON,18063,557,6518,10975,13
 Clayton,JONESBORO 1,State Representative,75,(DEM,MIKE GLANTON,2237,80,780,1373,4
 Clayton,JONESBORO 3,State Representative,75,(DEM,MIKE GLANTON,1810,61,541,1207,1
 Clayton,JONESBORO 4,State Representative,75,(DEM,MIKE GLANTON,883,29,389,465,0
@@ -657,7 +639,6 @@ Clayton,LOVEJOY 1,State Representative,75,(DEM,MIKE GLANTON,1747,37,580,1130,0
 Clayton,LOVEJOY 5,State Representative,75,(DEM,MIKE GLANTON,1008,14,335,659,0
 Clayton,MORROW 4,State Representative,75,(DEM,MIKE GLANTON,844,33,345,466,0
 Clayton,MORROW 7,State Representative,75,(DEM,MIKE GLANTON,831,25,375,431,0
-Clayton,,State Representative,76,(DEM,SANDRA SCOTT,12544,343,4027,8165,9
 Clayton,ELLENWOOD,State Representative,76,(DEM,SANDRA SCOTT,3250,86,892,2270,2
 Clayton,LAKE CITY,State Representative,76,(DEM,SANDRA SCOTT,510,21,178,311,0
 Clayton,MORROW 1,State Representative,76,(DEM,SANDRA SCOTT,1391,36,684,669,2
@@ -665,7 +646,6 @@ Clayton,MORROW 3,State Representative,76,(DEM,SANDRA SCOTT,1982,69,710,1201,2
 Clayton,MORROW 5,State Representative,76,(DEM,SANDRA SCOTT,2555,63,623,1869,0
 Clayton,MORROW 6,State Representative,76,(DEM,SANDRA SCOTT,1335,34,477,822,2
 Clayton,MORROW 8,State Representative,76,(DEM,SANDRA SCOTT,1521,34,463,1023,1
-Clayton,,State Representative,77,DEM,RHONDA BURNOUGH,15848,428,6405,9000,15
 Clayton,JONESBORO 2,State Representative,77,DEM,RHONDA BURNOUGH,2048,61,670,1314,3
 Clayton,JONESBORO 9,State Representative,77,DEM,RHONDA BURNOUGH,535,8,263,262,2
 Clayton,JONESBORO 12,State Representative,77,DEM,RHONDA BURNOUGH,1349,40,529,779,1
@@ -678,7 +658,6 @@ Clayton,RIVERDALE 6,State Representative,77,DEM,RHONDA BURNOUGH,1310,39,650,620,
 Clayton,RIVERDALE 7,State Representative,77,DEM,RHONDA BURNOUGH,948,22,447,479,0
 Clayton,RIVERDALE 9,State Representative,77,DEM,RHONDA BURNOUGH,1267,45,498,722,2
 Clayton,RIVERDALE 12,State Representative,77,DEM,RHONDA BURNOUGH,1508,28,562,917,1
-Clayton,,State Representative,78,(DEM,DEMETRIUS DOUGLAS,14345,467,4292,9561,25
 Clayton,JONESBORO 3,State Representative,78,(DEM,DEMETRIUS DOUGLAS,174,11,56,107,0
 Clayton,JONESBORO 5,State Representative,78,(DEM,DEMETRIUS DOUGLAS,942,34,384,524,0
 Clayton,JONESBORO 6,State Representative,78,(DEM,DEMETRIUS DOUGLAS,1169,86,281,802,0
@@ -691,7 +670,6 @@ Clayton,LOVEJOY 3,State Representative,78,(DEM,DEMETRIUS DOUGLAS,2879,79,815,198
 Clayton,LOVEJOY 4,State Representative,78,(DEM,DEMETRIUS DOUGLAS,2097,49,524,1522,2
 Clayton,LOVEJOY 5,State Representative,78,(DEM,DEMETRIUS DOUGLAS,411,8,139,263,1
 Clayton,MORROW 9,State Representative,78,(DEM,DEMETRIUS DOUGLAS,631,17,204,404,6
-Clayton,,District Attorney,Clayton Circuit,(DEM,TRACY GRAHAM-LAWSON,83904,2556,30504,50710,134
 Clayton,ELLENWOOD,District Attorney,Clayton Circuit,(DEM,TRACY GRAHAM-LAWSON,3235,83,888,2261,3
 Clayton,FOREST PARK 1,District Attorney,Clayton Circuit,(DEM,TRACY GRAHAM-LAWSON,1135,38,630,466,1
 Clayton,FOREST PARK 2,District Attorney,Clayton Circuit,(DEM,TRACY GRAHAM-LAWSON,1048,40,518,490,0
@@ -750,7 +728,6 @@ Clayton,RIVERDALE 9,District Attorney,Clayton Circuit,(DEM,TRACY GRAHAM-LAWSON,1
 Clayton,RIVERDALE 10,District Attorney,Clayton Circuit,(DEM,TRACY GRAHAM-LAWSON,1133,13,525,591,4
 Clayton,RIVERDALE 11,District Attorney,Clayton Circuit,(DEM,TRACY GRAHAM-LAWSON,978,36,321,621,0
 Clayton,RIVERDALE 12,District Attorney,Clayton Circuit,(DEM,TRACY GRAHAM-LAWSON,1488,31,553,903,1
-Clayton,,JUDGE PROBATE,,D,P. P. FERGUSON,83704,2508,30469,50594,133
 Clayton,ELLENWOOD,JUDGE PROBATE,,D,P. P. FERGUSON,3230,83,885,2259,3
 Clayton,FOREST PARK 1,JUDGE PROBATE,,D,P. P. FERGUSON,1112,39,616,456,1
 Clayton,FOREST PARK 2,JUDGE PROBATE,,D,P. P. FERGUSON,1043,37,516,490,0
@@ -809,7 +786,6 @@ Clayton,RIVERDALE 9,JUDGE PROBATE,,D,P. P. FERGUSON,1273,45,502,724,2
 Clayton,RIVERDALE 10,JUDGE PROBATE,,D,P. P. FERGUSON,1132,12,531,585,4
 Clayton,RIVERDALE 11,JUDGE PROBATE,,D,P. P. FERGUSON,983,36,324,622,1
 Clayton,RIVERDALE 12,JUDGE PROBATE,,D,P. P. FERGUSON,1499,30,553,915,1
-Clayton,,CLERK SUPERIOR CT,,D,J. D. WILLS,82788,2451,30218,49983,136
 Clayton,ELLENWOOD,CLERK SUPERIOR CT,,D,J. D. WILLS,3215,81,878,2253,3
 Clayton,FOREST PARK 1,CLERK SUPERIOR CT,,D,J. D. WILLS,1107,37,619,450,1
 Clayton,FOREST PARK 2,CLERK SUPERIOR CT,,D,J. D. WILLS,1031,39,512,480,0
@@ -868,7 +844,6 @@ Clayton,RIVERDALE 9,CLERK SUPERIOR CT,,D,J. D. WILLS,1257,47,498,710,2
 Clayton,RIVERDALE 10,CLERK SUPERIOR CT,,D,J. D. WILLS,1121,13,526,578,4
 Clayton,RIVERDALE 11,CLERK SUPERIOR CT,,D,J. D. WILLS,979,35,323,620,1
 Clayton,RIVERDALE 12,CLERK SUPERIOR CT,,D,J. D. WILLS,1501,29,557,913,2
-Clayton,,SHERIFF,,D,V. HILL,75910,2155,27494,46140,121
 Clayton,ELLENWOOD,SHERIFF,,D,V. HILL,2991,82,806,2100,3
 Clayton,FOREST PARK 1,SHERIFF,,D,V. HILL,978,31,548,399,0
 Clayton,FOREST PARK 2,SHERIFF,,D,V. HILL,941,31,461,449,0
@@ -927,7 +902,6 @@ Clayton,RIVERDALE 9,SHERIFF,,D,V. HILL,1163,45,466,650,2
 Clayton,RIVERDALE 10,SHERIFF,,D,V. HILL,1055,11,495,546,3
 Clayton,RIVERDALE 11,SHERIFF,,D,V. HILL,918,33,298,586,1
 Clayton,RIVERDALE 12,SHERIFF,,D,V. HILL,1389,28,516,844,1
-Clayton,,TAX COMMISSIONER,,D,T. L. BASKIN,83830,2545,30427,50724,134
 Clayton,ELLENWOOD,TAX COMMISSIONER,,D,T. L. BASKIN,3245,88,885,2269,3
 Clayton,FOREST PARK 1,TAX COMMISSIONER,,D,T. L. BASKIN,1121,38,632,450,1
 Clayton,FOREST PARK 2,TAX COMMISSIONER,,D,T. L. BASKIN,1039,40,514,485,0
@@ -986,7 +960,6 @@ Clayton,RIVERDALE 9,TAX COMMISSIONER,,D,T. L. BASKIN,1278,47,506,723,2
 Clayton,RIVERDALE 10,TAX COMMISSIONER,,D,T. L. BASKIN,1122,13,527,578,4
 Clayton,RIVERDALE 11,TAX COMMISSIONER,,D,T. L. BASKIN,987,36,326,624,1
 Clayton,RIVERDALE 12,TAX COMMISSIONER,,D,T. L. BASKIN,1514,32,558,923,1
-Clayton,,MAGISTRATE JUDGE,,D,W. L. DALLAS,81970,2426,29933,49477,134
 Clayton,ELLENWOOD,MAGISTRATE JUDGE,,D,W. L. DALLAS,3209,84,884,2238,3
 Clayton,FOREST PARK 1,MAGISTRATE JUDGE,,D,W. L. DALLAS,1097,36,620,440,1
 Clayton,FOREST PARK 2,MAGISTRATE JUDGE,,D,W. L. DALLAS,1016,38,506,472,0
@@ -1045,7 +1018,6 @@ Clayton,RIVERDALE 9,MAGISTRATE JUDGE,,D,W. L. DALLAS,1248,46,490,710,2
 Clayton,RIVERDALE 10,MAGISTRATE JUDGE,,D,W. L. DALLAS,1119,13,524,578,4
 Clayton,RIVERDALE 11,MAGISTRATE JUDGE,,D,W. L. DALLAS,969,32,322,614,1
 Clayton,RIVERDALE 12,MAGISTRATE JUDGE,,D,W. L. DALLAS,1489,28,550,910,1
-Clayton,,SOLICITOR,,D,T. M. MOSLEY,82444,2460,30012,49837,135
 Clayton,ELLENWOOD,SOLICITOR,,D,T. M. MOSLEY,3211,85,875,2248,3
 Clayton,FOREST PARK 1,SOLICITOR,,D,T. M. MOSLEY,1108,39,617,452,0
 Clayton,FOREST PARK 2,SOLICITOR,,D,T. M. MOSLEY,1021,37,502,482,0
@@ -1104,7 +1076,6 @@ Clayton,RIVERDALE 9,SOLICITOR,,D,T. M. MOSLEY,1258,46,490,720,2
 Clayton,RIVERDALE 10,SOLICITOR,,D,T. M. MOSLEY,1122,12,527,579,4
 Clayton,RIVERDALE 11,SOLICITOR,,D,T. M. MOSLEY,978,34,320,623,1
 Clayton,RIVERDALE 12,SOLICITOR,,D,T. M. MOSLEY,1505,29,559,916,1
-Clayton,,CHAIR COMMISSIONER,,D,J. E. TURNER,83315,2501,30294,50388,132
 Clayton,ELLENWOOD,CHAIR COMMISSIONER,,D,J. E. TURNER,3226,85,884,2254,3
 Clayton,FOREST PARK 1,CHAIR COMMISSIONER,,D,J. E. TURNER,1122,38,626,458,0
 Clayton,FOREST PARK 2,CHAIR COMMISSIONER,,D,J. E. TURNER,1036,39,514,483,0
@@ -1163,7 +1134,6 @@ Clayton,RIVERDALE 9,CHAIR COMMISSIONER,,D,J. E. TURNER,1272,47,494,729,2
 Clayton,RIVERDALE 10,CHAIR COMMISSIONER,,D,J. E. TURNER,1127,12,529,582,4
 Clayton,RIVERDALE 11,CHAIR COMMISSIONER,,D,J. E. TURNER,973,35,318,619,1
 Clayton,RIVERDALE 12,CHAIR COMMISSIONER,,D,J. E. TURNER,1505,30,557,917,1
-Clayton,,CC D2,,D,G. HAMBRICK,18396,497,7744,10130,25
 Clayton,FOREST PARK 1,CC D2,,D,G. HAMBRICK,1103,38,624,441,0
 Clayton,FOREST PARK 3,CC D2,,D,G. HAMBRICK,933,72,452,409,0
 Clayton,FOREST PARK 4,CC D2,,D,G. HAMBRICK,250,11,124,115,0
@@ -1180,7 +1150,6 @@ Clayton,RIVERDALE 8,CC D2,,D,G. HAMBRICK,1515,43,463,1007,2
 Clayton,RIVERDALE 10,CC D2,,D,G. HAMBRICK,1113,13,522,575,3
 Clayton,RIVERDALE 11,CC D2,,D,G. HAMBRICK,999,35,326,637,1
 Clayton,RIVERDALE 12,CC D2,,D,G. HAMBRICK,1503,29,557,916,1
-Clayton,,CC D3,,D,F. F. WARNER,23317,612,7534,15153,18
 Clayton,JONESBORO 1,CC D3,,D,F. F. WARNER,2227,76,772,1376,3
 Clayton,JONESBORO 2,CC D3,,D,F. F. WARNER,2048,60,667,1320,1
 Clayton,JONESBORO 3,CC D3,,D,F. F. WARNER,1528,41,438,1048,1
@@ -1196,7 +1165,6 @@ Clayton,LOVEJOY 5,CC D3,,D,F. F. WARNER,1435,22,480,932,1
 Clayton,PANHANDLE 1,CC D3,,D,F. F. WARNER,1633,51,502,1080,0
 Clayton,PANHANDLE 2,CC D3,,D,F. F. WARNER,1408,33,413,962,0
 Clayton,RIVERDALE 2,CC D3,,D,F. F. WARNER,760,30,300,429,1
-Clayton,,BOE D2,,D,M. CHRISTMAS,9957,312,3668,5966,11
 Clayton,JONESBORO 1,BOE D2,,D,M. CHRISTMAS,2183,75,769,1336,3
 Clayton,JONESBORO 2,BOE D2,,D,M. CHRISTMAS,2014,60,651,1301,2
 Clayton,JONESBORO 12,BOE D2,,D,M. CHRISTMAS,1323,41,511,770,1
@@ -1204,7 +1172,6 @@ Clayton,JONESBORO 16,BOE D2,,D,M. CHRISTMAS,947,30,397,520,0
 Clayton,JONESBORO 17,BOE D2,,D,M. CHRISTMAS,999,26,369,601,3
 Clayton,RIVERDALE 2,BOE D2,,D,M. CHRISTMAS,1552,45,616,890,1
 Clayton,RIVERDALE 9,BOE D2,,D,M. CHRISTMAS,939,35,355,548,1
-Clayton,,BOE D3,,D,J. GOREE,9630,266,3421,5935,8
 Clayton,OAK 4,BOE D3,,D,J. GOREE,594,12,272,310,0
 Clayton,RIVERDALE 1,BOE D3,,D,J. GOREE,1255,32,314,908,1
 Clayton,RIVERDALE 3,BOE D3,,D,J. GOREE,1680,44,619,1014,3
@@ -1214,7 +1181,6 @@ Clayton,RIVERDALE 8,BOE D3,,D,J. GOREE,1499,45,459,994,1
 Clayton,RIVERDALE 10,BOE D3,,D,J. GOREE,45,2,15,28,0
 Clayton,RIVERDALE 11,BOE D3,,D,J. GOREE,956,35,318,602,1
 Clayton,RIVERDALE 12,BOE D3,,D,J. GOREE,1489,27,551,910,1
-Clayton,,BOE D5,,D,O. BURROUGHS,9130,285,3557,5284,4
 Clayton,JONESBORO 3,BOE D5,,D,O. BURROUGHS,318,21,116,181,0
 Clayton,JONESBORO 4,BOE D5,,D,O. BURROUGHS,858,27,378,453,0
 Clayton,JONESBORO 5,BOE D5,,D,O. BURROUGHS,98,4,37,57,0
@@ -1226,7 +1192,6 @@ Clayton,JONESBORO 18,BOE D5,,D,O. BURROUGHS,1403,34,531,838,0
 Clayton,RIVERDALE 4,BOE D5,,D,O. BURROUGHS,597,13,255,329,0
 Clayton,RIVERDALE 5,BOE D5,,D,O. BURROUGHS,1431,29,574,827,1
 Clayton,RIVERDALE 9,BOE D5,,D,O. BURROUGHS,320,11,145,164,0
-Clayton,,BOE D6,,D,M. BAKER,10994,411,3469,7106,8
 Clayton,JONESBORO 3,BOE D6,,D,M. BAKER,1630,48,468,1113,1
 Clayton,JONESBORO 5,BOE D6,,D,M. BAKER,866,32,347,487,0
 Clayton,JONESBORO 6,BOE D6,,D,M. BAKER,1233,87,297,849,0
@@ -1236,7 +1201,6 @@ Clayton,JONESBORO 13,BOE D6,,D,M. BAKER,1005,33,347,623,2
 Clayton,JONESBORO 14,BOE D6,,D,M. BAKER,2196,99,570,1522,5
 Clayton,JONESBORO 17,BOE D6,,D,M. BAKER,1175,31,472,672,0
 Clayton,LOVEJOY 1,BOE D6,,D,M. BAKER,1877,48,616,1213,0
-Clayton,,BOE D7,,D,J. JOHNSON,6021,225,2787,3002,7
 Clayton,FOREST PARK 3,BOE D7,,D,J. JOHNSON,748,64,357,327,0
 Clayton,FOREST PARK 4,BOE D7,,D,J. JOHNSON,726,28,331,367,0
 Clayton,FOREST PARK 5,BOE D7,,D,J. JOHNSON,1380,37,692,648,3
@@ -1244,7 +1208,6 @@ Clayton,FOREST PARK 6,BOE D7,,D,J. JOHNSON,569,26,231,310,2
 Clayton,JONESBORO 15,BOE D7,,D,J. JOHNSON,1091,18,474,598,1
 Clayton,MORROW 2,BOE D7,,D,J. JOHNSON,212,12,58,142,0
 Clayton,RIVERDALE 6,BOE D7,,D,J. JOHNSON,1295,40,644,610,1
-Clayton,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,35509,1478,14198,19769,64
 Clayton,ELLENWOOD,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1126,43,368,713,2
 Clayton,FOREST PARK 1,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,520,26,302,192,0
 Clayton,FOREST PARK 2,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,485,21,275,189,0
@@ -1303,7 +1266,6 @@ Clayton,RIVERDALE 9,Constitutional Amendment #1<br>Provides greater flexibility 
 Clayton,RIVERDALE 10,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,536,8,261,264,3
 Clayton,RIVERDALE 11,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,308,15,112,181,0
 Clayton,RIVERDALE 12,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,561,16,243,301,1
-Clayton,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,55780,1460,18957,35283,80
 Clayton,ELLENWOOD,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,2299,56,577,1665,1
 Clayton,FOREST PARK 1,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,766,22,407,336,1
 Clayton,FOREST PARK 2,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,656,27,295,334,0
@@ -1362,7 +1324,6 @@ Clayton,RIVERDALE 9,Constitutional Amendment #1<br>Provides greater flexibility 
 Clayton,RIVERDALE 10,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,648,5,290,352,1
 Clayton,RIVERDALE 11,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,739,23,226,489,1
 Clayton,RIVERDALE 12,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1036,22,353,660,1
-Clayton,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,76984,2585,27433,46845,121
 Clayton,ELLENWOOD,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2883,81,783,2017,2
 Clayton,FOREST PARK 1,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1039,45,559,434,1
 Clayton,FOREST PARK 2,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,967,47,475,445,0
@@ -1421,7 +1382,6 @@ Clayton,RIVERDALE 9,Constitutional Amendment #2<br>Authorizes penalties for sexu
 Clayton,RIVERDALE 10,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1010,12,477,518,3
 Clayton,RIVERDALE 11,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,876,32,267,577,0
 Clayton,RIVERDALE 12,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1347,31,497,818,1
-Clayton,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,13177,348,5301,7506,22
 Clayton,ELLENWOOD,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,498,18,148,332,0
 Clayton,FOREST PARK 1,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,221,4,138,79,0
 Clayton,FOREST PARK 2,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,171,3,89,79,0
@@ -1480,7 +1440,6 @@ Clayton,RIVERDALE 9,Constitutional Amendment #2<br>Authorizes penalties for sexu
 Clayton,RIVERDALE 10,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,165,1,71,92,1
 Clayton,RIVERDALE 11,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,154,4,64,85,1
 Clayton,RIVERDALE 12,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,229,5,88,135,1
-Clayton,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,60323,1999,22172,36057,95
 Clayton,ELLENWOOD,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,2262,63,625,1572,2
 Clayton,FOREST PARK 1,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,839,36,471,331,1
 Clayton,FOREST PARK 2,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,748,35,388,325,0
@@ -1539,7 +1498,6 @@ Clayton,RIVERDALE 9,Constitutional Amendment #3<br>Reforms and re-establishes th
 Clayton,RIVERDALE 10,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,812,12,388,409,3
 Clayton,RIVERDALE 11,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,648,22,217,409,0
 Clayton,RIVERDALE 12,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1079,24,421,634,0
-Clayton,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,26240,776,9328,16094,42
 Clayton,ELLENWOOD,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,984,28,268,688,0
 Clayton,FOREST PARK 1,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,393,10,214,169,0
 Clayton,FOREST PARK 2,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,341,13,157,171,0
@@ -1598,7 +1556,6 @@ Clayton,RIVERDALE 9,Constitutional Amendment #3<br>Reforms and re-establishes th
 Clayton,RIVERDALE 10,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,317,1,139,176,1
 Clayton,RIVERDALE 11,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,345,13,107,224,1
 Clayton,RIVERDALE 12,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,436,11,147,276,2
-Clayton,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,74649,2604,26514,45427,104
 Clayton,ELLENWOOD,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,2776,84,742,1948,2
 Clayton,FOREST PARK 1,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1016,45,533,437,1
 Clayton,FOREST PARK 2,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,905,42,445,418,0
@@ -1657,7 +1614,6 @@ Clayton,RIVERDALE 9,Constitutional Amendment #4<br>Dedicates revenue from existi
 Clayton,RIVERDALE 10,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,966,12,452,500,2
 Clayton,RIVERDALE 11,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,875,30,279,566,0
 Clayton,RIVERDALE 12,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1303,31,479,793,0
-Clayton,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,15480,334,6163,8944,39
 Clayton,ELLENWOOD,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,576,12,178,385,1
 Clayton,FOREST PARK 1,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,248,4,163,81,0
 Clayton,FOREST PARK 2,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,228,9,118,101,0
@@ -1716,26 +1672,20 @@ Clayton,RIVERDALE 9,Constitutional Amendment #4<br>Dedicates revenue from existi
 Clayton,RIVERDALE 10,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,207,1,93,111,2
 Clayton,RIVERDALE 11,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,159,6,56,96,1
 Clayton,RIVERDALE 12,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,280,6,111,161,2
-Clayton,,COLLEGE PARK NOISE INSULATION,,,YES,107,3,59,45,0
 Clayton,OAK 1,COLLEGE PARK NOISE INSULATION,,,YES,107,3,59,45,0
-Clayton,,COLLEGE PARK NOISE INSULATION,,,NO,40,1,30,9,0
 Clayton,OAK 1,COLLEGE PARK NOISE INSULATION,,,NO,40,1,30,9,0
-Clayton,,JONESBORO COUNCILMAN SPECIAL,,,A. CHARLES,160,7,61,92,0
 Clayton,JONESBORO 3,JONESBORO COUNCILMAN SPECIAL,,,A. CHARLES,75,2,20,53,0
 Clayton,JONESBORO 4,JONESBORO COUNCILMAN SPECIAL,,,A. CHARLES,24,4,11,9,0
 Clayton,JONESBORO 5,JONESBORO COUNCILMAN SPECIAL,,,A. CHARLES,52,1,26,25,0
 Clayton,JONESBORO 11,JONESBORO COUNCILMAN SPECIAL,,,A. CHARLES,9,0,4,5,0
-Clayton,,JONESBORO COUNCILMAN SPECIAL,,,A. DIXON,344,14,142,188,0
 Clayton,JONESBORO 3,JONESBORO COUNCILMAN SPECIAL,,,A. DIXON,202,10,79,113,0
 Clayton,JONESBORO 4,JONESBORO COUNCILMAN SPECIAL,,,A. DIXON,57,3,19,35,0
 Clayton,JONESBORO 5,JONESBORO COUNCILMAN SPECIAL,,,A. DIXON,73,0,40,33,0
 Clayton,JONESBORO 11,JONESBORO COUNCILMAN SPECIAL,,,A. DIXON,12,1,4,7,0
-Clayton,,JONESBORO COUNCILMAN SPECIAL,,,B. LESTER,184,13,65,106,0
 Clayton,JONESBORO 3,JONESBORO COUNCILMAN SPECIAL,,,B. LESTER,114,10,39,65,0
 Clayton,JONESBORO 4,JONESBORO COUNCILMAN SPECIAL,,,B. LESTER,41,2,15,24,0
 Clayton,JONESBORO 5,JONESBORO COUNCILMAN SPECIAL,,,B. LESTER,24,1,6,17,0
 Clayton,JONESBORO 11,JONESBORO COUNCILMAN SPECIAL,,,B. LESTER,5,0,5,0,0
-Clayton,,JONESBORO COUNCILMAN SPECIAL,,,K. NORRINGTON,243,22,75,146,0
 Clayton,JONESBORO 3,JONESBORO COUNCILMAN SPECIAL,,,K. NORRINGTON,153,14,44,95,0
 Clayton,JONESBORO 4,JONESBORO COUNCILMAN SPECIAL,,,K. NORRINGTON,23,3,10,10,0
 Clayton,JONESBORO 5,JONESBORO COUNCILMAN SPECIAL,,,K. NORRINGTON,56,3,20,33,0

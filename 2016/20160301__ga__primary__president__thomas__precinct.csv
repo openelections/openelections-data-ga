@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Thomas,,President,,REP,JEB BUSH,72,2,37,33,0
 Thomas,Barwick,President,,REP,JEB BUSH,1,0,0,1,0
 Thomas,Boston,President,,REP,JEB BUSH,2,0,2,0,0
 Thomas,Central,President,,REP,JEB BUSH,14,0,9,5,0
@@ -20,7 +19,6 @@ Thomas,Pavo,President,,REP,JEB BUSH,1,0,0,1,0
 Thomas,Remington ESC,President,,REP,JEB BUSH,5,1,1,3,0
 Thomas,Resource Center,President,,REP,JEB BUSH,0,0,0,0,0
 Thomas,Scott,President,,REP,JEB BUSH,10,0,2,8,0
-Thomas,,President,,REP,BEN CARSON,669,1,596,72,0
 Thomas,Barwick,President,,REP,BEN CARSON,15,0,13,2,0
 Thomas,Boston,President,,REP,BEN CARSON,31,0,27,4,0
 Thomas,Central,President,,REP,BEN CARSON,110,0,93,17,0
@@ -41,7 +39,6 @@ Thomas,Pavo,President,,REP,BEN CARSON,21,0,21,0,0
 Thomas,Remington ESC,President,,REP,BEN CARSON,56,1,53,2,0
 Thomas,Resource Center,President,,REP,BEN CARSON,5,0,5,0,0
 Thomas,Scott,President,,REP,BEN CARSON,63,0,57,6,0
-Thomas,,President,,REP,CHRIS CHRISTIE,6,0,3,3,0
 Thomas,Barwick,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
 Thomas,Boston,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
 Thomas,Central,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
@@ -62,7 +59,6 @@ Thomas,Pavo,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
 Thomas,Remington ESC,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
 Thomas,Resource Center,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
 Thomas,Scott,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
-Thomas,,President,,REP,TED CRUZ,1557,6,1313,238,0
 Thomas,Barwick,President,,REP,TED CRUZ,54,0,44,10,0
 Thomas,Boston,President,,REP,TED CRUZ,55,1,49,5,0
 Thomas,Central,President,,REP,TED CRUZ,184,0,134,50,0
@@ -83,7 +79,6 @@ Thomas,Pavo,President,,REP,TED CRUZ,52,0,49,3,0
 Thomas,Remington ESC,President,,REP,TED CRUZ,101,1,78,22,0
 Thomas,Resource Center,President,,REP,TED CRUZ,3,0,2,1,0
 Thomas,Scott,President,,REP,TED CRUZ,181,0,156,25,0
-Thomas,,President,,REP,CARLY FIORINA,8,0,7,1,0
 Thomas,Barwick,President,,REP,CARLY FIORINA,0,0,0,0,0
 Thomas,Boston,President,,REP,CARLY FIORINA,0,0,0,0,0
 Thomas,Central,President,,REP,CARLY FIORINA,0,0,0,0,0
@@ -104,7 +99,6 @@ Thomas,Pavo,President,,REP,CARLY FIORINA,0,0,0,0,0
 Thomas,Remington ESC,President,,REP,CARLY FIORINA,0,0,0,0,0
 Thomas,Resource Center,President,,REP,CARLY FIORINA,1,0,1,0,0
 Thomas,Scott,President,,REP,CARLY FIORINA,3,0,2,1,0
-Thomas,,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
 Thomas,Barwick,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
 Thomas,Boston,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
 Thomas,Central,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
@@ -125,7 +119,6 @@ Thomas,Pavo,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
 Thomas,Remington ESC,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
 Thomas,Resource Center,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
 Thomas,Scott,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
-Thomas,,President,,REP,MIKE HUCKABEE,20,0,19,1,0
 Thomas,Barwick,President,,REP,MIKE HUCKABEE,0,0,0,0,0
 Thomas,Boston,President,,REP,MIKE HUCKABEE,1,0,1,0,0
 Thomas,Central,President,,REP,MIKE HUCKABEE,3,0,2,1,0
@@ -146,7 +139,6 @@ Thomas,Pavo,President,,REP,MIKE HUCKABEE,0,0,0,0,0
 Thomas,Remington ESC,President,,REP,MIKE HUCKABEE,2,0,2,0,0
 Thomas,Resource Center,President,,REP,MIKE HUCKABEE,0,0,0,0,0
 Thomas,Scott,President,,REP,MIKE HUCKABEE,4,0,4,0,0
-Thomas,,President,,REP,JOHN R. KASICH,316,7,231,78,0
 Thomas,Barwick,President,,REP,JOHN R. KASICH,7,0,6,1,0
 Thomas,Boston,President,,REP,JOHN R. KASICH,6,0,5,1,0
 Thomas,Central,President,,REP,JOHN R. KASICH,31,0,21,10,0
@@ -167,7 +159,6 @@ Thomas,Pavo,President,,REP,JOHN R. KASICH,5,0,5,0,0
 Thomas,Remington ESC,President,,REP,JOHN R. KASICH,34,0,28,6,0
 Thomas,Resource Center,President,,REP,JOHN R. KASICH,1,0,0,1,0
 Thomas,Scott,President,,REP,JOHN R. KASICH,42,1,32,9,0
-Thomas,,President,,REP,GEORGE PATAKI,3,0,2,1,0
 Thomas,Barwick,President,,REP,GEORGE PATAKI,0,0,0,0,0
 Thomas,Boston,President,,REP,GEORGE PATAKI,0,0,0,0,0
 Thomas,Central,President,,REP,GEORGE PATAKI,0,0,0,0,0
@@ -188,7 +179,6 @@ Thomas,Pavo,President,,REP,GEORGE PATAKI,0,0,0,0,0
 Thomas,Remington ESC,President,,REP,GEORGE PATAKI,1,0,1,0,0
 Thomas,Resource Center,President,,REP,GEORGE PATAKI,1,0,1,0,0
 Thomas,Scott,President,,REP,GEORGE PATAKI,0,0,0,0,0
-Thomas,,President,,REP,RAND PAUL,10,0,8,2,0
 Thomas,Barwick,President,,REP,RAND PAUL,0,0,0,0,0
 Thomas,Boston,President,,REP,RAND PAUL,1,0,1,0,0
 Thomas,Central,President,,REP,RAND PAUL,1,0,1,0,0
@@ -209,7 +199,6 @@ Thomas,Pavo,President,,REP,RAND PAUL,0,0,0,0,0
 Thomas,Remington ESC,President,,REP,RAND PAUL,1,0,0,1,0
 Thomas,Resource Center,President,,REP,RAND PAUL,0,0,0,0,0
 Thomas,Scott,President,,REP,RAND PAUL,3,0,2,1,0
-Thomas,,President,,REP,MARCO RUBIO,1307,23,953,330,1
 Thomas,Barwick,President,,REP,MARCO RUBIO,15,0,8,7,0
 Thomas,Boston,President,,REP,MARCO RUBIO,50,1,42,7,0
 Thomas,Central,President,,REP,MARCO RUBIO,150,1,96,53,0
@@ -230,7 +219,6 @@ Thomas,Pavo,President,,REP,MARCO RUBIO,34,0,27,7,0
 Thomas,Remington ESC,President,,REP,MARCO RUBIO,104,6,81,17,0
 Thomas,Resource Center,President,,REP,MARCO RUBIO,14,0,9,5,0
 Thomas,Scott,President,,REP,MARCO RUBIO,183,3,121,59,0
-Thomas,,President,,REP,RICK SANTORUM,4,0,3,1,0
 Thomas,Barwick,President,,REP,RICK SANTORUM,0,0,0,0,0
 Thomas,Boston,President,,REP,RICK SANTORUM,0,0,0,0,0
 Thomas,Central,President,,REP,RICK SANTORUM,0,0,0,0,0
@@ -251,7 +239,6 @@ Thomas,Pavo,President,,REP,RICK SANTORUM,0,0,0,0,0
 Thomas,Remington ESC,President,,REP,RICK SANTORUM,0,0,0,0,0
 Thomas,Resource Center,President,,REP,RICK SANTORUM,0,0,0,0,0
 Thomas,Scott,President,,REP,RICK SANTORUM,0,0,0,0,0
-Thomas,,President,,REP,DONALD J. TRUMP,2651,24,2112,513,2
 Thomas,Barwick,President,,REP,DONALD J. TRUMP,79,3,65,11,0
 Thomas,Boston,President,,REP,DONALD J. TRUMP,146,3,126,17,0
 Thomas,Central,President,,REP,DONALD J. TRUMP,252,2,185,65,0
@@ -272,7 +259,6 @@ Thomas,Pavo,President,,REP,DONALD J. TRUMP,102,1,86,15,0
 Thomas,Remington ESC,President,,REP,DONALD J. TRUMP,175,1,131,43,0
 Thomas,Resource Center,President,,REP,DONALD J. TRUMP,12,0,9,3,0
 Thomas,Scott,President,,REP,DONALD J. TRUMP,228,2,170,56,0
-Thomas,,President,,DEM,HILLARY CLINTON,2054,27,1667,359,1
 Thomas,Barwick,President,,DEM,HILLARY CLINTON,24,0,21,3,0
 Thomas,Boston,President,,DEM,HILLARY CLINTON,142,1,126,15,0
 Thomas,Central,President,,DEM,HILLARY CLINTON,183,7,140,35,1
@@ -293,7 +279,6 @@ Thomas,Pavo,President,,DEM,HILLARY CLINTON,26,0,20,6,0
 Thomas,Remington ESC,President,,DEM,HILLARY CLINTON,102,2,81,19,0
 Thomas,Resource Center,President,,DEM,HILLARY CLINTON,289,6,227,56,0
 Thomas,Scott,President,,DEM,HILLARY CLINTON,124,2,92,30,0
-Thomas,,President,,DEM,MARTIN O'MALLEY,11,0,8,3,0
 Thomas,Barwick,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
 Thomas,Boston,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
 Thomas,Central,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
@@ -314,7 +299,6 @@ Thomas,Pavo,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
 Thomas,Remington ESC,President,,DEM,MARTIN O'MALLEY,2,0,0,2,0
 Thomas,Resource Center,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
 Thomas,Scott,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
-Thomas,,President,,DEM,BERNIE SANDERS,551,8,446,97,0
 Thomas,Barwick,President,,DEM,BERNIE SANDERS,4,0,3,1,0
 Thomas,Boston,President,,DEM,BERNIE SANDERS,29,0,26,3,0
 Thomas,Central,President,,DEM,BERNIE SANDERS,53,3,36,14,0
@@ -335,7 +319,6 @@ Thomas,Pavo,President,,DEM,BERNIE SANDERS,7,0,7,0,0
 Thomas,Remington ESC,President,,DEM,BERNIE SANDERS,57,0,48,9,0
 Thomas,Resource Center,President,,DEM,BERNIE SANDERS,45,0,39,6,0
 Thomas,Scott,President,,DEM,BERNIE SANDERS,81,0,60,21,0
-Thomas,,President,,DEM,MICHAEL STEINBERG,9,0,6,3,0
 Thomas,Barwick,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
 Thomas,Boston,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
 Thomas,Central,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
@@ -356,7 +339,6 @@ Thomas,Pavo,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
 Thomas,Remington ESC,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
 Thomas,Resource Center,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
 Thomas,Scott,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
-Thomas,,ESPLOST,,,YES,6188,53,4915,1217,3
 Thomas,Barwick,ESPLOST,,,YES,127,1,96,30,0
 Thomas,Boston,ESPLOST,,,YES,324,3,282,39,0
 Thomas,Central,ESPLOST,,,YES,677,10,491,175,1
@@ -377,7 +359,6 @@ Thomas,Pavo,ESPLOST,,,YES,160,0,136,24,0
 Thomas,Remington ESC,ESPLOST,,,YES,437,6,346,85,0
 Thomas,Resource Center,ESPLOST,,,YES,258,4,199,55,0
 Thomas,Scott,ESPLOST,,,YES,638,2,485,151,0
-Thomas,,ESPLOST,,,NO,2923,38,2392,492,1
 Thomas,Barwick,ESPLOST,,,NO,67,2,59,6,0
 Thomas,Boston,ESPLOST,,,NO,137,3,120,14,0
 Thomas,Central,ESPLOST,,,NO,286,1,215,70,0

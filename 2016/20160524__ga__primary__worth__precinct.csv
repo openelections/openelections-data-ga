@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Worth,,United States Senator,,REP,MARY KAY BACALLAO,186,3,139,43,1
 Worth,Sylvester,United States Senator,,REP,MARY KAY BACALLAO,30,0,16,14,0
 Worth,Scooterville,United States Senator,,REP,MARY KAY BACALLAO,3,0,3,0,0
 Worth,Minton,United States Senator,,REP,MARY KAY BACALLAO,10,0,9,1,0
@@ -15,7 +14,6 @@ Worth,Red Rock,United States Senator,,REP,MARY KAY BACALLAO,9,0,9,0,0
 Worth,Doles,United States Senator,,REP,MARY KAY BACALLAO,10,0,7,3,0
 Worth,Oakfield,United States Senator,,REP,MARY KAY BACALLAO,3,0,3,0,0
 Worth,Warwick,United States Senator,,REP,MARY KAY BACALLAO,12,0,10,2,0
-Worth,,United States Senator,,REP,DERRICK GRAYSON,305,0,235,70,0
 Worth,Sylvester,United States Senator,,REP,DERRICK GRAYSON,48,0,32,16,0
 Worth,Scooterville,United States Senator,,REP,DERRICK GRAYSON,16,0,12,4,0
 Worth,Minton,United States Senator,,REP,DERRICK GRAYSON,15,0,10,5,0
@@ -31,7 +29,6 @@ Worth,Red Rock,United States Senator,,REP,DERRICK GRAYSON,23,0,21,2,0
 Worth,Doles,United States Senator,,REP,DERRICK GRAYSON,17,0,13,4,0
 Worth,Oakfield,United States Senator,,REP,DERRICK GRAYSON,3,0,3,0,0
 Worth,Warwick,United States Senator,,REP,DERRICK GRAYSON,13,0,13,0,0
-Worth,,United States Senator,,REP,JOHNNY ISAKSON (I),2248,33,1676,537,2
 Worth,Sylvester,United States Senator,,REP,JOHNNY ISAKSON (I),227,6,125,96,0
 Worth,Scooterville,United States Senator,,REP,JOHNNY ISAKSON (I),101,3,89,9,0
 Worth,Minton,United States Senator,,REP,JOHNNY ISAKSON (I),124,1,103,20,0
@@ -47,7 +44,6 @@ Worth,Red Rock,United States Senator,,REP,JOHNNY ISAKSON (I),165,2,144,19,0
 Worth,Doles,United States Senator,,REP,JOHNNY ISAKSON (I),93,2,71,20,0
 Worth,Oakfield,United States Senator,,REP,JOHNNY ISAKSON (I),26,0,20,6,0
 Worth,Warwick,United States Senator,,REP,JOHNNY ISAKSON (I),95,1,88,6,0
-Worth,,United States Senator,,DEM,JIM BARKSDALE,353,27,233,93,0
 Worth,Sylvester,United States Senator,,DEM,JIM BARKSDALE,164,4,105,55,0
 Worth,Scooterville,United States Senator,,DEM,JIM BARKSDALE,2,0,2,0,0
 Worth,Minton,United States Senator,,DEM,JIM BARKSDALE,8,5,3,0,0
@@ -63,7 +59,6 @@ Worth,Red Rock,United States Senator,,DEM,JIM BARKSDALE,17,0,12,5,0
 Worth,Doles,United States Senator,,DEM,JIM BARKSDALE,2,0,2,0,0
 Worth,Oakfield,United States Senator,,DEM,JIM BARKSDALE,3,0,3,0,0
 Worth,Warwick,United States Senator,,DEM,JIM BARKSDALE,40,17,23,0,0
-Worth,,United States Senator,,DEM,CHERYL COPELAND,180,5,115,60,0
 Worth,Sylvester,United States Senator,,DEM,CHERYL COPELAND,102,1,61,40,0
 Worth,Scooterville,United States Senator,,DEM,CHERYL COPELAND,1,0,0,1,0
 Worth,Minton,United States Senator,,DEM,CHERYL COPELAND,0,0,0,0,0
@@ -79,7 +74,6 @@ Worth,Red Rock,United States Senator,,DEM,CHERYL COPELAND,6,0,5,1,0
 Worth,Doles,United States Senator,,DEM,CHERYL COPELAND,1,0,1,0,0
 Worth,Oakfield,United States Senator,,DEM,CHERYL COPELAND,3,0,3,0,0
 Worth,Warwick,United States Senator,,DEM,CHERYL COPELAND,17,3,13,1,0
-Worth,,United States Senator,,DEM,JOHN F COYNE III,17,0,12,5,0
 Worth,Sylvester,United States Senator,,DEM,JOHN F COYNE III,5,0,5,0,0
 Worth,Scooterville,United States Senator,,DEM,JOHN F COYNE III,0,0,0,0,0
 Worth,Minton,United States Senator,,DEM,JOHN F COYNE III,0,0,0,0,0
@@ -95,7 +89,6 @@ Worth,Red Rock,United States Senator,,DEM,JOHN F COYNE III,1,0,1,0,0
 Worth,Doles,United States Senator,,DEM,JOHN F COYNE III,0,0,0,0,0
 Worth,Oakfield,United States Senator,,DEM,JOHN F COYNE III,1,0,0,1,0
 Worth,Warwick,United States Senator,,DEM,JOHN F COYNE III,3,0,2,1,0
-Worth,,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,322,4,248,70,0
 Worth,Sylvester,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,43,0,26,17,0
 Worth,Scooterville,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,11,0,9,2,0
 Worth,Minton,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,12,0,10,2,0
@@ -111,7 +104,6 @@ Worth,Red Rock,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,31,0,27,4,0
 Worth,Doles,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,15,0,12,3,0
 Worth,Oakfield,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,7,0,7,0,0
 Worth,Warwick,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,16,0,16,0,0
-Worth,,Public Service Commission,2,REP,TIM ECHOLS (I),1873,29,1401,441,2
 Worth,Sylvester,Public Service Commission,2,REP,TIM ECHOLS (I),186,6,100,80,0
 Worth,Scooterville,Public Service Commission,2,REP,TIM ECHOLS (I),88,3,77,8,0
 Worth,Minton,Public Service Commission,2,REP,TIM ECHOLS (I),105,1,88,16,0
@@ -127,7 +119,6 @@ Worth,Red Rock,Public Service Commission,2,REP,TIM ECHOLS (I),133,2,117,14,0
 Worth,Doles,Public Service Commission,2,REP,TIM ECHOLS (I),83,1,62,20,0
 Worth,Oakfield,Public Service Commission,2,REP,TIM ECHOLS (I),17,0,13,4,0
 Worth,Warwick,Public Service Commission,2,REP,TIM ECHOLS (I),78,0,74,4,0
-Worth,,Public Service Commission,2,REP,MICHELLE MILLER,394,1,296,97,0
 Worth,Sylvester,Public Service Commission,2,REP,MICHELLE MILLER,57,0,37,20,0
 Worth,Scooterville,Public Service Commission,2,REP,MICHELLE MILLER,17,0,15,2,0
 Worth,Minton,Public Service Commission,2,REP,MICHELLE MILLER,23,0,18,5,0
@@ -143,7 +134,6 @@ Worth,Red Rock,Public Service Commission,2,REP,MICHELLE MILLER,22,0,19,3,0
 Worth,Doles,Public Service Commission,2,REP,MICHELLE MILLER,16,1,12,3,0
 Worth,Oakfield,Public Service Commission,2,REP,MICHELLE MILLER,6,0,5,1,0
 Worth,Warwick,Public Service Commission,2,REP,MICHELLE MILLER,18,0,18,0,0
-Worth,,U.S. Representative,8,REP,ANGELA HICKS,386,5,287,93,1
 Worth,Sylvester,U.S. Representative,8,REP,ANGELA HICKS,69,1,41,27,0
 Worth,Scooterville,U.S. Representative,8,REP,ANGELA HICKS,17,0,13,4,0
 Worth,Minton,U.S. Representative,8,REP,ANGELA HICKS,19,0,17,2,0
@@ -159,7 +149,6 @@ Worth,Red Rock,U.S. Representative,8,REP,ANGELA HICKS,26,0,25,1,0
 Worth,Doles,U.S. Representative,8,REP,ANGELA HICKS,20,0,15,5,0
 Worth,Oakfield,U.S. Representative,8,REP,ANGELA HICKS,6,0,6,0,0
 Worth,Warwick,U.S. Representative,8,REP,ANGELA HICKS,19,0,17,2,0
-Worth,,U.S. Representative,8,REP,AUSTIN SCOTT (I),2397,31,1796,568,2
 Worth,Sylvester,U.S. Representative,8,REP,AUSTIN SCOTT (I),241,5,132,104,0
 Worth,Scooterville,U.S. Representative,8,REP,AUSTIN SCOTT (I),106,3,94,9,0
 Worth,Minton,U.S. Representative,8,REP,AUSTIN SCOTT (I),134,1,107,26,0
@@ -175,7 +164,6 @@ Worth,Red Rock,U.S. Representative,8,REP,AUSTIN SCOTT (I),170,2,148,20,0
 Worth,Doles,U.S. Representative,8,REP,AUSTIN SCOTT (I),104,2,80,22,0
 Worth,Oakfield,U.S. Representative,8,REP,AUSTIN SCOTT (I),27,0,21,6,0
 Worth,Warwick,U.S. Representative,8,REP,AUSTIN SCOTT (I),104,1,97,6,0
-Worth,,U.S. Representative,8,DEM,JAMES NEAL HARRIS,473,32,304,137,0
 Worth,Sylvester,U.S. Representative,8,DEM,JAMES NEAL HARRIS,229,5,147,77,0
 Worth,Scooterville,U.S. Representative,8,DEM,JAMES NEAL HARRIS,4,0,3,1,0
 Worth,Minton,U.S. Representative,8,DEM,JAMES NEAL HARRIS,6,5,1,0,0
@@ -191,7 +179,6 @@ Worth,Red Rock,U.S. Representative,8,DEM,JAMES NEAL HARRIS,21,0,15,6,0
 Worth,Doles,U.S. Representative,8,DEM,JAMES NEAL HARRIS,2,0,2,0,0
 Worth,Oakfield,U.S. Representative,8,DEM,JAMES NEAL HARRIS,5,0,4,1,0
 Worth,Warwick,U.S. Representative,8,DEM,JAMES NEAL HARRIS,52,20,30,2,0
-Worth,,State Senator,13,REP,GREG KIRK (I),2452,30,1853,566,3
 Worth,Sylvester,State Senator,13,REP,GREG KIRK (I),254,5,146,103,0
 Worth,Scooterville,State Senator,13,REP,GREG KIRK (I),112,2,99,11,0
 Worth,Minton,State Senator,13,REP,GREG KIRK (I),133,1,109,23,0
@@ -207,7 +194,6 @@ Worth,Red Rock,State Senator,13,REP,GREG KIRK (I),172,2,152,18,0
 Worth,Doles,State Senator,13,REP,GREG KIRK (I),108,2,82,24,0
 Worth,Oakfield,State Senator,13,REP,GREG KIRK (I),29,0,25,4,0
 Worth,Warwick,State Senator,13,REP,GREG KIRK (I),103,0,98,5,0
-Worth,,State Senator,13,DEM,RUENETT MELTON,457,32,304,121,0
 Worth,Sylvester,State Senator,13,DEM,RUENETT MELTON,211,5,136,70,0
 Worth,Scooterville,State Senator,13,DEM,RUENETT MELTON,4,0,3,1,0
 Worth,Minton,State Senator,13,DEM,RUENETT MELTON,8,5,3,0,0
@@ -223,7 +209,6 @@ Worth,Red Rock,State Senator,13,DEM,RUENETT MELTON,20,0,14,6,0
 Worth,Doles,State Senator,13,DEM,RUENETT MELTON,2,0,2,0,0
 Worth,Oakfield,State Senator,13,DEM,RUENETT MELTON,6,0,5,1,0
 Worth,Warwick,State Senator,13,DEM,RUENETT MELTON,54,20,32,2,0
-Worth,,State Representative,152,REP,MARY EGLER,447,1,315,130,1
 Worth,Sylvester,State Representative,152,REP,MARY EGLER,66,0,42,24,0
 Worth,Scooterville,State Representative,152,REP,MARY EGLER,17,0,16,1,0
 Worth,Minton,State Representative,152,REP,MARY EGLER,20,0,17,3,0
@@ -239,7 +224,6 @@ Worth,Red Rock,State Representative,152,REP,MARY EGLER,36,0,29,7,0
 Worth,Doles,State Representative,152,REP,MARY EGLER,18,0,11,7,0
 Worth,Oakfield,State Representative,152,REP,MARY EGLER,5,0,5,0,0
 Worth,Warwick,State Representative,152,REP,MARY EGLER,21,0,19,2,0
-Worth,,State Representative,152,REP,ED RYNDERS (I),2280,35,1735,508,2
 Worth,Sylvester,State Representative,152,REP,ED RYNDERS (I),238,6,130,102,0
 Worth,Scooterville,State Representative,152,REP,ED RYNDERS (I),106,3,91,12,0
 Worth,Minton,State Representative,152,REP,ED RYNDERS (I),127,1,104,22,0
@@ -255,7 +239,6 @@ Worth,Red Rock,State Representative,152,REP,ED RYNDERS (I),163,2,147,14,0
 Worth,Doles,State Representative,152,REP,ED RYNDERS (I),101,2,80,19,0
 Worth,Oakfield,State Representative,152,REP,ED RYNDERS (I),30,0,24,6,0
 Worth,Warwick,State Representative,152,REP,ED RYNDERS (I),97,1,90,6,0
-Worth,,District Attorney,Tifton Circuit - REP,REP,PAUL BOWDEN (I),2440,29,1854,554,3
 Worth,Sylvester,District Attorney,Tifton Circuit - REP,REP,PAUL BOWDEN (I),258,6,152,100,0
 Worth,Scooterville,District Attorney,Tifton Circuit - REP,REP,PAUL BOWDEN (I),110,2,97,11,0
 Worth,Minton,District Attorney,Tifton Circuit - REP,REP,PAUL BOWDEN (I),137,1,114,22,0
@@ -271,7 +254,6 @@ Worth,Red Rock,District Attorney,Tifton Circuit - REP,REP,PAUL BOWDEN (I),171,2,
 Worth,Doles,District Attorney,Tifton Circuit - REP,REP,PAUL BOWDEN (I),106,2,82,22,0
 Worth,Oakfield,District Attorney,Tifton Circuit - REP,REP,PAUL BOWDEN (I),30,0,26,4,0
 Worth,Warwick,District Attorney,Tifton Circuit - REP,REP,PAUL BOWDEN (I),99,0,95,4,0
-Worth,,JUDGE,PROBATE COURT - R,I,V. ACORD,2536,29,1903,602,2
 Worth,Sylvester,JUDGE,PROBATE COURT - R,I,V. ACORD,277,6,155,116,0
 Worth,Scooterville,JUDGE,PROBATE COURT - R,I,V. ACORD,114,2,101,11,0
 Worth,Minton,JUDGE,PROBATE COURT - R,I,V. ACORD,145,1,117,27,0
@@ -287,7 +269,6 @@ Worth,Red Rock,JUDGE,PROBATE COURT - R,I,V. ACORD,186,2,163,21,0
 Worth,Doles,JUDGE,PROBATE COURT - R,I,V. ACORD,107,2,82,23,0
 Worth,Oakfield,JUDGE,PROBATE COURT - R,I,V. ACORD,30,0,25,5,0
 Worth,Warwick,JUDGE,PROBATE COURT - R,I,V. ACORD,103,1,95,7,0
-Worth,,CLERK,SUPERIOR COURT - D,I,B. W. HICKS,566,32,371,163,0
 Worth,Sylvester,CLERK,SUPERIOR COURT - D,I,B. W. HICKS,285,5,180,100,0
 Worth,Scooterville,CLERK,SUPERIOR COURT - D,I,B. W. HICKS,5,0,4,1,0
 Worth,Minton,CLERK,SUPERIOR COURT - D,I,B. W. HICKS,9,5,4,0,0
@@ -303,7 +284,6 @@ Worth,Red Rock,CLERK,SUPERIOR COURT - D,I,B. W. HICKS,22,0,16,6,0
 Worth,Doles,CLERK,SUPERIOR COURT - D,I,B. W. HICKS,2,0,2,0,0
 Worth,Oakfield,CLERK,SUPERIOR COURT - D,I,B. W. HICKS,9,0,8,1,0
 Worth,Warwick,CLERK,SUPERIOR COURT - D,I,B. W. HICKS,55,20,33,2,0
-Worth,,SHERIFF - R,,,C. FORTSON,656,7,479,170,0
 Worth,Sylvester,SHERIFF - R,,,C. FORTSON,114,0,71,43,0
 Worth,Scooterville,SHERIFF - R,,,C. FORTSON,11,0,9,2,0
 Worth,Minton,SHERIFF - R,,,C. FORTSON,20,0,16,4,0
@@ -319,7 +299,6 @@ Worth,Red Rock,SHERIFF - R,,,C. FORTSON,46,0,42,4,0
 Worth,Doles,SHERIFF - R,,,C. FORTSON,19,0,12,7,0
 Worth,Oakfield,SHERIFF - R,,,C. FORTSON,10,0,10,0,0
 Worth,Warwick,SHERIFF - R,,,C. FORTSON,19,0,19,0,0
-Worth,,SHERIFF - R,,I,J. HOBBY,2204,28,1662,510,4
 Worth,Sylvester,SHERIFF - R,,I,J. HOBBY,210,6,116,88,0
 Worth,Scooterville,SHERIFF - R,,I,J. HOBBY,114,3,98,13,0
 Worth,Minton,SHERIFF - R,,I,J. HOBBY,137,1,111,25,0
@@ -335,7 +314,6 @@ Worth,Red Rock,SHERIFF - R,,I,J. HOBBY,161,2,141,18,0
 Worth,Doles,SHERIFF - R,,I,J. HOBBY,107,2,83,21,1
 Worth,Oakfield,SHERIFF - R,,I,J. HOBBY,27,0,21,6,0
 Worth,Warwick,SHERIFF - R,,I,J. HOBBY,105,1,96,8,0
-Worth,,SHERIFF - D,,,T. JONES,490,32,323,135,0
 Worth,Sylvester,SHERIFF - D,,,T. JONES,247,5,160,82,0
 Worth,Scooterville,SHERIFF - D,,,T. JONES,4,0,3,1,0
 Worth,Minton,SHERIFF - D,,,T. JONES,8,5,3,0,0
@@ -351,7 +329,6 @@ Worth,Red Rock,SHERIFF - D,,,T. JONES,19,0,12,7,0
 Worth,Doles,SHERIFF - D,,,T. JONES,1,0,1,0,0
 Worth,Oakfield,SHERIFF - D,,,T. JONES,7,0,6,1,0
 Worth,Warwick,SHERIFF - D,,,T. JONES,55,20,33,2,0
-Worth,,TAX COMMISSIONER - R,,I,T. G. DUPRIEST,2479,29,1871,578,1
 Worth,Sylvester,TAX COMMISSIONER - R,,I,T. G. DUPRIEST,271,6,157,108,0
 Worth,Scooterville,TAX COMMISSIONER - R,,I,T. G. DUPRIEST,110,2,97,11,0
 Worth,Minton,TAX COMMISSIONER - R,,I,T. G. DUPRIEST,132,1,110,21,0
@@ -367,7 +344,6 @@ Worth,Red Rock,TAX COMMISSIONER - R,,I,T. G. DUPRIEST,181,2,158,21,0
 Worth,Doles,TAX COMMISSIONER - R,,I,T. G. DUPRIEST,104,2,79,23,0
 Worth,Oakfield,TAX COMMISSIONER - R,,I,T. G. DUPRIEST,31,0,26,5,0
 Worth,Warwick,TAX COMMISSIONER - R,,I,T. G. DUPRIEST,103,1,98,4,0
-Worth,,SURVEYOR - R,,I,R. A. MEDDERS,2458,29,1854,573,2
 Worth,Sylvester,SURVEYOR - R,,I,R. A. MEDDERS,257,6,146,105,0
 Worth,Scooterville,SURVEYOR - R,,I,R. A. MEDDERS,111,2,98,11,0
 Worth,Minton,SURVEYOR - R,,I,R. A. MEDDERS,132,1,110,21,0
@@ -383,7 +359,6 @@ Worth,Red Rock,SURVEYOR - R,,I,R. A. MEDDERS,179,2,157,20,0
 Worth,Doles,SURVEYOR - R,,I,R. A. MEDDERS,107,2,81,24,0
 Worth,Oakfield,SURVEYOR - R,,I,R. A. MEDDERS,30,0,25,5,0
 Worth,Warwick,SURVEYOR - R,,I,R. A. MEDDERS,101,1,96,4,0
-Worth,,CORONER - R,,,B. BROWN,1297,10,934,351,2
 Worth,Sylvester,CORONER - R,,,B. BROWN,185,1,97,87,0
 Worth,Scooterville,CORONER - R,,,B. BROWN,39,0,34,5,0
 Worth,Minton,CORONER - R,,,B. BROWN,71,1,61,9,0
@@ -399,7 +374,6 @@ Worth,Red Rock,CORONER - R,,,B. BROWN,61,0,58,3,0
 Worth,Doles,CORONER - R,,,B. BROWN,53,0,38,15,0
 Worth,Oakfield,CORONER - R,,,B. BROWN,16,0,15,1,0
 Worth,Warwick,CORONER - R,,,B. BROWN,21,0,21,0,0
-Worth,,CORONER - R,,I,J. JOHNSON,1470,24,1134,311,1
 Worth,Sylvester,CORONER - R,,I,J. JOHNSON,122,5,76,41,0
 Worth,Scooterville,CORONER - R,,I,J. JOHNSON,81,3,69,9,0
 Worth,Minton,CORONER - R,,I,J. JOHNSON,84,0,65,19,0
@@ -415,7 +389,6 @@ Worth,Red Rock,CORONER - R,,I,J. JOHNSON,136,2,115,19,0
 Worth,Doles,CORONER - R,,I,J. JOHNSON,67,2,54,11,0
 Worth,Oakfield,CORONER - R,,I,J. JOHNSON,21,0,16,5,0
 Worth,Warwick,CORONER - R,,I,J. JOHNSON,101,1,92,8,0
-Worth,,CORONER - D,,,J. LUKE,472,32,317,123,0
 Worth,Sylvester,CORONER - D,,,J. LUKE,225,5,148,72,0
 Worth,Scooterville,CORONER - D,,,J. LUKE,3,0,3,0,0
 Worth,Minton,CORONER - D,,,J. LUKE,8,5,3,0,0
@@ -431,7 +404,6 @@ Worth,Red Rock,CORONER - D,,,J. LUKE,22,0,16,6,0
 Worth,Doles,CORONER - D,,,J. LUKE,2,0,2,0,0
 Worth,Oakfield,CORONER - D,,,J. LUKE,7,0,6,1,0
 Worth,Warwick,CORONER - D,,,J. LUKE,52,20,30,2,0
-Worth,,CHIEF MAGISTRATE - R,,I,T. STRENTH,2536,28,1903,603,2
 Worth,Sylvester,CHIEF MAGISTRATE - R,,I,T. STRENTH,273,6,152,115,0
 Worth,Scooterville,CHIEF MAGISTRATE - R,,I,T. STRENTH,113,2,100,11,0
 Worth,Minton,CHIEF MAGISTRATE - R,,I,T. STRENTH,145,1,119,25,0
@@ -447,7 +419,6 @@ Worth,Red Rock,CHIEF MAGISTRATE - R,,I,T. STRENTH,182,2,161,19,0
 Worth,Doles,CHIEF MAGISTRATE - R,,I,T. STRENTH,110,2,85,23,0
 Worth,Oakfield,CHIEF MAGISTRATE - R,,I,T. STRENTH,33,0,27,6,0
 Worth,Warwick,CHIEF MAGISTRATE - R,,I,T. STRENTH,100,1,93,6,0
-Worth,,SOLICITOR - R,,I,R. D. BRYAN,2446,27,1844,573,2
 Worth,Sylvester,SOLICITOR - R,,I,R. D. BRYAN,257,6,143,108,0
 Worth,Scooterville,SOLICITOR - R,,I,R. D. BRYAN,112,2,100,10,0
 Worth,Minton,SOLICITOR - R,,I,R. D. BRYAN,137,1,113,23,0
@@ -463,7 +434,6 @@ Worth,Red Rock,SOLICITOR - R,,I,R. D. BRYAN,171,2,150,19,0
 Worth,Doles,SOLICITOR - R,,I,R. D. BRYAN,106,2,82,22,0
 Worth,Oakfield,SOLICITOR - R,,I,R. D. BRYAN,28,0,23,5,0
 Worth,Warwick,SOLICITOR - R,,I,R. D. BRYAN,98,0,94,4,0
-Worth,,CHAIR CC - R,,I,M. COSBY,1088,11,835,242,0
 Worth,Sylvester,CHAIR CC - R,,I,M. COSBY,129,2,70,57,0
 Worth,Scooterville,CHAIR CC - R,,I,M. COSBY,48,2,44,2,0
 Worth,Minton,CHAIR CC - R,,I,M. COSBY,59,0,51,8,0
@@ -479,7 +449,6 @@ Worth,Red Rock,CHAIR CC - R,,I,M. COSBY,83,2,69,12,0
 Worth,Doles,CHAIR CC - R,,I,M. COSBY,54,1,40,13,0
 Worth,Oakfield,CHAIR CC - R,,I,M. COSBY,14,0,13,1,0
 Worth,Warwick,CHAIR CC - R,,I,M. COSBY,46,0,43,3,0
-Worth,,CHAIR CC - R,,,F. DENT,1702,23,1254,421,4
 Worth,Sylvester,CHAIR CC - R,,,F. DENT,177,4,104,69,0
 Worth,Scooterville,CHAIR CC - R,,,F. DENT,73,1,60,12,0
 Worth,Minton,CHAIR CC - R,,,F. DENT,96,1,73,22,0
@@ -495,24 +464,19 @@ Worth,Red Rock,CHAIR CC - R,,,F. DENT,115,0,106,9,0
 Worth,Doles,CHAIR CC - R,,,F. DENT,69,1,52,15,1
 Worth,Oakfield,CHAIR CC - R,,,F. DENT,21,0,17,4,0
 Worth,Warwick,CHAIR CC - R,,,F. DENT,74,1,68,5,0
-Worth,,CC,D1 - D,I,J. GAINES,207,5,130,72,0
 Worth,Sylvester,CC,D1 - D,I,J. GAINES,189,5,113,71,0
 Worth,Piney Woods,CC,D1 - D,I,J. GAINES,18,0,17,1,0
-Worth,,CC,D1 - D,,T. HALL,144,0,101,43,0
 Worth,Sylvester,CC,D1 - D,,T. HALL,139,0,96,43,0
 Worth,Piney Woods,CC,D1 - D,,T. HALL,5,0,5,0,0
-Worth,,BOE,D2 - R,,R. BEARD,787,6,548,232,1
 Worth,Sylver East,BOE,D2 - R,,R. BEARD,332,2,185,144,1
 Worth,Poulan,BOE,D2 - R,,R. BEARD,166,3,122,41,0
 Worth,Sumner,BOE,D2 - R,,R. BEARD,138,0,112,26,0
 Worth,Shingler,BOE,D2 - R,,R. BEARD,151,1,129,21,0
-Worth,,BOE,D3 - R,I,B. R. OLIVER,774,7,626,140,1
 Worth,Isabella,BOE,D3 - R,I,B. R. OLIVER,382,3,286,92,1
 Worth,Red Rock,BOE,D3 - R,I,B. R. OLIVER,166,2,147,17,0
 Worth,Doles,BOE,D3 - R,I,B. R. OLIVER,103,2,78,23,0
 Worth,Oakfield,BOE,D3 - R,I,B. R. OLIVER,29,0,25,4,0
 Worth,Warwick,BOE,D3 - R,I,B. R. OLIVER,94,0,90,4,0
-Worth,,Republican Party Question 1,,REP,YES,2186,30,1645,509,2
 Worth,Sylvester,Republican Party Question 1,,REP,YES,253,5,149,99,0
 Worth,Scooterville,Republican Party Question 1,,REP,YES,94,2,81,11,0
 Worth,Minton,Republican Party Question 1,,REP,YES,105,1,84,20,0
@@ -528,7 +492,6 @@ Worth,Red Rock,Republican Party Question 1,,REP,YES,169,2,150,17,0
 Worth,Doles,Republican Party Question 1,,REP,YES,99,2,76,21,0
 Worth,Oakfield,Republican Party Question 1,,REP,YES,27,0,22,5,0
 Worth,Warwick,Republican Party Question 1,,REP,YES,96,0,88,8,0
-Worth,,Republican Party Question 1,,REP,NO,607,4,446,156,1
 Worth,Sylvester,Republican Party Question 1,,REP,NO,62,0,30,32,0
 Worth,Scooterville,Republican Party Question 1,,REP,NO,27,0,25,2,0
 Worth,Minton,Republican Party Question 1,,REP,NO,46,0,37,9,0
@@ -544,7 +507,6 @@ Worth,Red Rock,Republican Party Question 1,,REP,NO,35,0,31,4,0
 Worth,Doles,Republican Party Question 1,,REP,NO,24,0,18,6,0
 Worth,Oakfield,Republican Party Question 1,,REP,NO,9,0,8,1,0
 Worth,Warwick,Republican Party Question 1,,REP,NO,25,1,24,0,0
-Worth,,Democratic Party Question 1,,DEM,YES,554,26,362,166,0
 Worth,Sylvester,Democratic Party Question 1,,DEM,YES,286,4,180,102,0
 Worth,Scooterville,Democratic Party Question 1,,DEM,YES,7,0,4,3,0
 Worth,Minton,Democratic Party Question 1,,DEM,YES,2,0,2,0,0
@@ -560,7 +522,6 @@ Worth,Red Rock,Democratic Party Question 1,,DEM,YES,19,0,14,5,0
 Worth,Doles,Democratic Party Question 1,,DEM,YES,2,0,2,0,0
 Worth,Oakfield,Democratic Party Question 1,,DEM,YES,11,0,10,1,0
 Worth,Warwick,Democratic Party Question 1,,DEM,YES,61,20,39,2,0
-Worth,,Democratic Party Question 1,,DEM,NO,82,6,51,25,0
 Worth,Sylvester,Democratic Party Question 1,,DEM,NO,34,1,21,12,0
 Worth,Scooterville,Democratic Party Question 1,,DEM,NO,0,0,0,0,0
 Worth,Minton,Democratic Party Question 1,,DEM,NO,7,5,2,0,0
@@ -576,7 +537,6 @@ Worth,Red Rock,Democratic Party Question 1,,DEM,NO,7,0,6,1,0
 Worth,Doles,Democratic Party Question 1,,DEM,NO,1,0,1,0,0
 Worth,Oakfield,Democratic Party Question 1,,DEM,NO,0,0,0,0,0
 Worth,Warwick,Democratic Party Question 1,,DEM,NO,1,0,1,0,0
-Worth,,Democratic Party Question 2,,DEM,YES,583,32,381,170,0
 Worth,Sylvester,Democratic Party Question 2,,DEM,YES,291,5,187,99,0
 Worth,Scooterville,Democratic Party Question 2,,DEM,YES,7,0,4,3,0
 Worth,Minton,Democratic Party Question 2,,DEM,YES,8,5,3,0,0
@@ -592,7 +552,6 @@ Worth,Red Rock,Democratic Party Question 2,,DEM,YES,22,0,17,5,0
 Worth,Doles,Democratic Party Question 2,,DEM,YES,3,0,3,0,0
 Worth,Oakfield,Democratic Party Question 2,,DEM,YES,11,0,10,1,0
 Worth,Warwick,Democratic Party Question 2,,DEM,YES,60,20,38,2,0
-Worth,,Democratic Party Question 2,,DEM,NO,55,0,33,22,0
 Worth,Sylvester,Democratic Party Question 2,,DEM,NO,26,0,12,14,0
 Worth,Scooterville,Democratic Party Question 2,,DEM,NO,0,0,0,0,0
 Worth,Minton,Democratic Party Question 2,,DEM,NO,1,0,1,0,0
@@ -608,7 +567,6 @@ Worth,Red Rock,Democratic Party Question 2,,DEM,NO,3,0,2,1,0
 Worth,Doles,Democratic Party Question 2,,DEM,NO,0,0,0,0,0
 Worth,Oakfield,Democratic Party Question 2,,DEM,NO,0,0,0,0,0
 Worth,Warwick,Democratic Party Question 2,,DEM,NO,2,0,2,0,0
-Worth,,Democratic Party Question 3,,DEM,YES,544,31,343,170,0
 Worth,Sylvester,Democratic Party Question 3,,DEM,YES,277,4,170,103,0
 Worth,Scooterville,Democratic Party Question 3,,DEM,YES,6,0,3,3,0
 Worth,Minton,Democratic Party Question 3,,DEM,YES,6,5,1,0,0
@@ -624,7 +582,6 @@ Worth,Red Rock,Democratic Party Question 3,,DEM,YES,20,0,14,6,0
 Worth,Doles,Democratic Party Question 3,,DEM,YES,2,0,2,0,0
 Worth,Oakfield,Democratic Party Question 3,,DEM,YES,9,0,8,1,0
 Worth,Warwick,Democratic Party Question 3,,DEM,YES,58,20,37,1,0
-Worth,,Democratic Party Question 3,,DEM,NO,80,1,58,21,0
 Worth,Sylvester,Democratic Party Question 3,,DEM,NO,35,1,22,12,0
 Worth,Scooterville,Democratic Party Question 3,,DEM,NO,1,0,1,0,0
 Worth,Minton,Democratic Party Question 3,,DEM,NO,2,0,2,0,0
@@ -640,7 +597,6 @@ Worth,Red Rock,Democratic Party Question 3,,DEM,NO,4,0,4,0,0
 Worth,Doles,Democratic Party Question 3,,DEM,NO,1,0,1,0,0
 Worth,Oakfield,Democratic Party Question 3,,DEM,NO,2,0,2,0,0
 Worth,Warwick,Democratic Party Question 3,,DEM,NO,3,0,2,1,0
-Worth,,Democratic Party Question 4,,DEM,YES,524,26,343,155,0
 Worth,Sylvester,Democratic Party Question 4,,DEM,YES,274,5,177,92,0
 Worth,Scooterville,Democratic Party Question 4,,DEM,YES,6,0,3,3,0
 Worth,Minton,Democratic Party Question 4,,DEM,YES,0,0,0,0,0
@@ -656,7 +612,6 @@ Worth,Red Rock,Democratic Party Question 4,,DEM,YES,21,0,16,5,0
 Worth,Doles,Democratic Party Question 4,,DEM,YES,2,0,2,0,0
 Worth,Oakfield,Democratic Party Question 4,,DEM,YES,9,0,8,1,0
 Worth,Warwick,Democratic Party Question 4,,DEM,YES,57,19,36,2,0
-Worth,,Democratic Party Question 4,,DEM,NO,100,6,59,35,0
 Worth,Sylvester,Democratic Party Question 4,,DEM,NO,36,0,16,20,0
 Worth,Scooterville,Democratic Party Question 4,,DEM,NO,1,0,1,0,0
 Worth,Minton,Democratic Party Question 4,,DEM,NO,8,5,3,0,0
@@ -672,7 +627,6 @@ Worth,Red Rock,Democratic Party Question 4,,DEM,NO,4,0,3,1,0
 Worth,Doles,Democratic Party Question 4,,DEM,NO,1,0,1,0,0
 Worth,Oakfield,Democratic Party Question 4,,DEM,NO,2,0,2,0,0
 Worth,Warwick,Democratic Party Question 4,,DEM,NO,4,1,3,0,0
-Worth,,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,2854,59,2097,697,1
 Worth,Sylvester,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,494,11,291,192,0
 Worth,Scooterville,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,111,2,98,11,0
 Worth,Minton,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,131,6,105,20,0
@@ -688,7 +642,6 @@ Worth,Red Rock,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,184,2,158,24,0
 Worth,Doles,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,105,2,80,23,0
 Worth,Oakfield,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,32,0,27,5,0
 Worth,Warwick,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,155,20,126,9,0
-Worth,,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,2873,58,2121,693,1
 Worth,Sylvester,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,504,11,302,191,0
 Worth,Scooterville,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,112,2,99,11,0
 Worth,Minton,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,133,6,107,20,0
@@ -704,7 +657,6 @@ Worth,Red Rock,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,184,2,158,24,0
 Worth,Doles,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,105,2,80,23,0
 Worth,Oakfield,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,34,0,30,4,0
 Worth,Warwick,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,154,20,128,6,0
-Worth,,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,2868,57,2114,696,1
 Worth,Sylvester,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,495,10,291,194,0
 Worth,Scooterville,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,112,2,98,12,0
 Worth,Minton,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,133,6,107,20,0
@@ -720,7 +672,6 @@ Worth,Red Rock,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,184,2,158,24,0
 Worth,Doles,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,104,2,78,24,0
 Worth,Oakfield,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,32,0,27,5,0
 Worth,Warwick,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,157,20,131,6,0
-Worth,,Superior Court Judge,Tifton Circuit (Cross),I,MELANIE BARBEE CROSS,3028,57,2215,755,1
 Worth,Sylvester,Superior Court Judge,Tifton Circuit (Cross),I,MELANIE BARBEE CROSS,527,11,308,208,0
 Worth,Scooterville,Superior Court Judge,Tifton Circuit (Cross),I,MELANIE BARBEE CROSS,119,0,104,15,0
 Worth,Minton,Superior Court Judge,Tifton Circuit (Cross),I,MELANIE BARBEE CROSS,145,6,115,24,0
@@ -736,7 +687,6 @@ Worth,Red Rock,Superior Court Judge,Tifton Circuit (Cross),I,MELANIE BARBEE CROS
 Worth,Doles,Superior Court Judge,Tifton Circuit (Cross),I,MELANIE BARBEE CROSS,109,2,84,23,0
 Worth,Oakfield,Superior Court Judge,Tifton Circuit (Cross),I,MELANIE BARBEE CROSS,37,0,32,5,0
 Worth,Warwick,Superior Court Judge,Tifton Circuit (Cross),I,MELANIE BARBEE CROSS,158,20,130,8,0
-Worth,,JUDGE,STATE COURT,,J. CROWE,1491,24,1098,368,1
 Worth,Sylvester,JUDGE,STATE COURT,,J. CROWE,302,7,182,113,0
 Worth,Scooterville,JUDGE,STATE COURT,,J. CROWE,55,0,50,5,0
 Worth,Minton,JUDGE,STATE COURT,,J. CROWE,53,5,40,8,0
@@ -752,7 +702,6 @@ Worth,Red Rock,JUDGE,STATE COURT,,J. CROWE,116,0,103,13,0
 Worth,Doles,JUDGE,STATE COURT,,J. CROWE,47,1,38,8,0
 Worth,Oakfield,JUDGE,STATE COURT,,J. CROWE,24,0,22,2,0
 Worth,Warwick,JUDGE,STATE COURT,,J. CROWE,53,0,51,2,0
-Worth,,JUDGE,STATE COURT,I,R. POWELL,2040,42,1485,510,3
 Worth,Sylvester,JUDGE,STATE COURT,I,R. POWELL,349,4,208,137,0
 Worth,Scooterville,JUDGE,STATE COURT,I,R. POWELL,77,3,61,13,0
 Worth,Minton,JUDGE,STATE COURT,I,R. POWELL,114,1,91,22,0

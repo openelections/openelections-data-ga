@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Burke,,United States Senator,,REP,MARY KAY BACALLAO,63,1,45,17,0
 Burke,Alexander,United States Senator,,REP,MARY KAY BACALLAO,2,0,2,0,0
 Burke,Four Points,United States Senator,,REP,MARY KAY BACALLAO,17,0,14,3,0
 Burke,Girard,United States Senator,,REP,MARY KAY BACALLAO,2,0,1,1,0
@@ -16,7 +15,6 @@ Burke,Vidette,United States Senator,,REP,MARY KAY BACALLAO,4,0,3,1,0
 Burke,North Waynesboro,United States Senator,,REP,MARY KAY BACALLAO,4,0,3,1,0
 Burke,South Waynesboro,United States Senator,,REP,MARY KAY BACALLAO,16,1,6,9,0
 Burke,Blakeney,United States Senator,,REP,MARY KAY BACALLAO,0,0,0,0,0
-Burke,,United States Senator,,REP,DERRICK GRAYSON,89,1,76,12,0
 Burke,Alexander,United States Senator,,REP,DERRICK GRAYSON,2,0,2,0,0
 Burke,Four Points,United States Senator,,REP,DERRICK GRAYSON,21,0,20,1,0
 Burke,Girard,United States Senator,,REP,DERRICK GRAYSON,4,0,4,0,0
@@ -33,7 +31,6 @@ Burke,Vidette,United States Senator,,REP,DERRICK GRAYSON,3,0,2,1,0
 Burke,North Waynesboro,United States Senator,,REP,DERRICK GRAYSON,6,0,5,1,0
 Burke,South Waynesboro,United States Senator,,REP,DERRICK GRAYSON,15,1,9,5,0
 Burke,Blakeney,United States Senator,,REP,DERRICK GRAYSON,5,0,3,2,0
-Burke,,United States Senator,,REP,JOHNNY ISAKSON (I),983,43,726,214,0
 Burke,Alexander,United States Senator,,REP,JOHNNY ISAKSON (I),22,1,21,0,0
 Burke,Four Points,United States Senator,,REP,JOHNNY ISAKSON (I),172,5,148,19,0
 Burke,Girard,United States Senator,,REP,JOHNNY ISAKSON (I),35,0,30,5,0
@@ -50,7 +47,6 @@ Burke,Vidette,United States Senator,,REP,JOHNNY ISAKSON (I),28,1,25,2,0
 Burke,North Waynesboro,United States Senator,,REP,JOHNNY ISAKSON (I),81,4,45,32,0
 Burke,South Waynesboro,United States Senator,,REP,JOHNNY ISAKSON (I),260,18,144,98,0
 Burke,Blakeney,United States Senator,,REP,JOHNNY ISAKSON (I),33,2,24,7,0
-Burke,,United States Senator,,DEM,JIM BARKSDALE,876,92,606,178,0
 Burke,Alexander,United States Senator,,DEM,JIM BARKSDALE,30,6,21,3,0
 Burke,Four Points,United States Senator,,DEM,JIM BARKSDALE,72,2,55,15,0
 Burke,Girard,United States Senator,,DEM,JIM BARKSDALE,40,1,36,3,0
@@ -67,7 +63,6 @@ Burke,Vidette,United States Senator,,DEM,JIM BARKSDALE,19,0,14,5,0
 Burke,North Waynesboro,United States Senator,,DEM,JIM BARKSDALE,159,27,98,34,0
 Burke,South Waynesboro,United States Senator,,DEM,JIM BARKSDALE,202,20,113,69,0
 Burke,Blakeney,United States Senator,,DEM,JIM BARKSDALE,34,6,22,6,0
-Burke,,United States Senator,,DEM,CHERYL COPELAND,825,97,565,163,0
 Burke,Alexander,United States Senator,,DEM,CHERYL COPELAND,19,0,17,2,0
 Burke,Four Points,United States Senator,,DEM,CHERYL COPELAND,61,1,45,15,0
 Burke,Girard,United States Senator,,DEM,CHERYL COPELAND,41,4,34,3,0
@@ -84,7 +79,6 @@ Burke,Vidette,United States Senator,,DEM,CHERYL COPELAND,20,0,18,2,0
 Burke,North Waynesboro,United States Senator,,DEM,CHERYL COPELAND,217,41,123,53,0
 Burke,South Waynesboro,United States Senator,,DEM,CHERYL COPELAND,166,17,103,46,0
 Burke,Blakeney,United States Senator,,DEM,CHERYL COPELAND,42,8,22,12,0
-Burke,,United States Senator,,DEM,JOHN F COYNE III,297,92,153,52,0
 Burke,Alexander,United States Senator,,DEM,JOHN F COYNE III,3,1,2,0,0
 Burke,Four Points,United States Senator,,DEM,JOHN F COYNE III,16,3,9,4,0
 Burke,Girard,United States Senator,,DEM,JOHN F COYNE III,10,2,7,1,0
@@ -101,7 +95,6 @@ Burke,Vidette,United States Senator,,DEM,JOHN F COYNE III,6,1,4,1,0
 Burke,North Waynesboro,United States Senator,,DEM,JOHN F COYNE III,102,43,39,20,0
 Burke,South Waynesboro,United States Senator,,DEM,JOHN F COYNE III,72,23,36,13,0
 Burke,Blakeney,United States Senator,,DEM,JOHN F COYNE III,10,3,6,1,0
-Burke,,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,125,3,95,27,0
 Burke,Alexander,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,3,0,3,0,0
 Burke,Four Points,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,30,0,28,2,0
 Burke,Girard,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,3,0,3,0,0
@@ -118,7 +111,6 @@ Burke,Vidette,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,2,0,2,0,0
 Burke,North Waynesboro,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,11,0,6,5,0
 Burke,South Waynesboro,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,34,3,18,13,0
 Burke,Blakeney,Public Service Commission,2,REP,KELLIE POLLARD AUSTIN,2,0,1,1,0
-Burke,,Public Service Commission,2,REP,TIM ECHOLS (I),799,38,585,176,0
 Burke,Alexander,Public Service Commission,2,REP,TIM ECHOLS (I),18,1,17,0,0
 Burke,Four Points,Public Service Commission,2,REP,TIM ECHOLS (I),144,5,121,18,0
 Burke,Girard,Public Service Commission,2,REP,TIM ECHOLS (I),32,0,26,6,0
@@ -135,7 +127,6 @@ Burke,Vidette,Public Service Commission,2,REP,TIM ECHOLS (I),27,1,22,4,0
 Burke,North Waynesboro,Public Service Commission,2,REP,TIM ECHOLS (I),63,4,36,23,0
 Burke,South Waynesboro,Public Service Commission,2,REP,TIM ECHOLS (I),200,13,113,74,0
 Burke,Blakeney,Public Service Commission,2,REP,TIM ECHOLS (I),34,2,24,8,0
-Burke,,Public Service Commission,2,REP,MICHELLE MILLER,127,0,100,27,0
 Burke,Alexander,Public Service Commission,2,REP,MICHELLE MILLER,2,0,2,0,0
 Burke,Four Points,Public Service Commission,2,REP,MICHELLE MILLER,26,0,24,2,0
 Burke,Girard,Public Service Commission,2,REP,MICHELLE MILLER,4,0,4,0,0
@@ -152,7 +143,6 @@ Burke,Vidette,Public Service Commission,2,REP,MICHELLE MILLER,4,0,4,0,0
 Burke,North Waynesboro,Public Service Commission,2,REP,MICHELLE MILLER,11,0,6,5,0
 Burke,South Waynesboro,Public Service Commission,2,REP,MICHELLE MILLER,31,0,16,15,0
 Burke,Blakeney,Public Service Commission,2,REP,MICHELLE MILLER,1,0,1,0,0
-Burke,,U.S. Representative,12,REP,RICK ALLEN (I),925,39,679,207,0
 Burke,Alexander,U.S. Representative,12,REP,RICK ALLEN (I),22,1,21,0,0
 Burke,Four Points,U.S. Representative,12,REP,RICK ALLEN (I),160,5,140,15,0
 Burke,Girard,U.S. Representative,12,REP,RICK ALLEN (I),35,0,30,5,0
@@ -169,7 +159,6 @@ Burke,Vidette,U.S. Representative,12,REP,RICK ALLEN (I),21,1,16,4,0
 Burke,North Waynesboro,U.S. Representative,12,REP,RICK ALLEN (I),78,4,43,31,0
 Burke,South Waynesboro,U.S. Representative,12,REP,RICK ALLEN (I),260,17,143,100,0
 Burke,Blakeney,U.S. Representative,12,REP,RICK ALLEN (I),35,2,24,9,0
-Burke,,U.S. Representative,12,REP,EUGENE YU,229,6,185,38,0
 Burke,Alexander,U.S. Representative,12,REP,EUGENE YU,5,0,5,0,0
 Burke,Four Points,U.S. Representative,12,REP,EUGENE YU,55,0,47,8,0
 Burke,Girard,U.S. Representative,12,REP,EUGENE YU,6,0,5,1,0
@@ -186,7 +175,6 @@ Burke,Vidette,U.S. Representative,12,REP,EUGENE YU,15,0,15,0,0
 Burke,North Waynesboro,U.S. Representative,12,REP,EUGENE YU,16,0,11,5,0
 Burke,South Waynesboro,U.S. Representative,12,REP,EUGENE YU,33,3,19,11,0
 Burke,Blakeney,U.S. Representative,12,REP,EUGENE YU,4,0,4,0,0
-Burke,,U.S. Representative,12,DEM,PATRICIA C MCCRACKEN,1295,128,903,264,0
 Burke,Alexander,U.S. Representative,12,DEM,PATRICIA C MCCRACKEN,35,0,31,4,0
 Burke,Four Points,U.S. Representative,12,DEM,PATRICIA C MCCRACKEN,93,2,74,17,0
 Burke,Girard,U.S. Representative,12,DEM,PATRICIA C MCCRACKEN,66,3,59,4,0
@@ -203,7 +191,6 @@ Burke,Vidette,U.S. Representative,12,DEM,PATRICIA C MCCRACKEN,32,0,27,5,0
 Burke,North Waynesboro,U.S. Representative,12,DEM,PATRICIA C MCCRACKEN,275,37,168,70,0
 Burke,South Waynesboro,U.S. Representative,12,DEM,PATRICIA C MCCRACKEN,295,27,177,91,0
 Burke,Blakeney,U.S. Representative,12,DEM,PATRICIA C MCCRACKEN,52,6,33,13,0
-Burke,,U.S. Representative,12,DEM,J. NOLIN,859,160,510,189,0
 Burke,Alexander,U.S. Representative,12,DEM,J. NOLIN,24,6,15,3,0
 Burke,Four Points,U.S. Representative,12,DEM,J. NOLIN,80,5,50,25,0
 Burke,Girard,U.S. Representative,12,DEM,J. NOLIN,32,4,24,4,0
@@ -220,7 +207,6 @@ Burke,Vidette,U.S. Representative,12,DEM,J. NOLIN,16,1,12,3,0
 Burke,North Waynesboro,U.S. Representative,12,DEM,J. NOLIN,232,76,111,45,0
 Burke,South Waynesboro,U.S. Representative,12,DEM,J. NOLIN,198,33,101,64,0
 Burke,Blakeney,U.S. Representative,12,DEM,J. NOLIN,40,11,21,8,0
-Burke,,State Senator,23,REP,STEPHEN HAMMOND,115,6,93,16,0
 Burke,Alexander,State Senator,23,REP,STEPHEN HAMMOND,3,0,3,0,0
 Burke,Four Points,State Senator,23,REP,STEPHEN HAMMOND,25,0,22,3,0
 Burke,Girard,State Senator,23,REP,STEPHEN HAMMOND,4,0,3,1,0
@@ -237,7 +223,6 @@ Burke,Vidette,State Senator,23,REP,STEPHEN HAMMOND,5,0,5,0,0
 Burke,North Waynesboro,State Senator,23,REP,STEPHEN HAMMOND,11,0,8,3,0
 Burke,South Waynesboro,State Senator,23,REP,STEPHEN HAMMOND,25,4,16,5,0
 Burke,Blakeney,State Senator,23,REP,STEPHEN HAMMOND,2,0,2,0,0
-Burke,,State Senator,23,REP,JESSE STONE (I),1050,40,779,231,0
 Burke,Alexander,State Senator,23,REP,JESSE STONE (I),23,1,22,0,0
 Burke,Four Points,State Senator,23,REP,JESSE STONE (I),189,5,164,20,0
 Burke,Girard,State Senator,23,REP,JESSE STONE (I),37,0,32,5,0
@@ -254,7 +239,6 @@ Burke,Vidette,State Senator,23,REP,JESSE STONE (I),31,1,26,4,0
 Burke,North Waynesboro,State Senator,23,REP,JESSE STONE (I),83,4,46,33,0
 Burke,South Waynesboro,State Senator,23,REP,JESSE STONE (I),273,16,149,108,0
 Burke,Blakeney,State Senator,23,REP,JESSE STONE (I),38,3,26,9,0
-Burke,,State Representative,126,DEM,GLORIA FRAZIER (I),2221,320,1413,488,0
 Burke,Alexander,State Representative,126,DEM,GLORIA FRAZIER (I),63,7,49,7,0
 Burke,Four Points,State Representative,126,DEM,GLORIA FRAZIER (I),173,6,122,45,0
 Burke,Girard,State Representative,126,DEM,GLORIA FRAZIER (I),95,7,81,7,0
@@ -271,7 +255,6 @@ Burke,Vidette,State Representative,126,DEM,GLORIA FRAZIER (I),48,1,35,12,0
 Burke,North Waynesboro,State Representative,126,DEM,GLORIA FRAZIER (I),536,127,281,128,0
 Burke,South Waynesboro,State Representative,126,DEM,GLORIA FRAZIER (I),517,65,286,166,0
 Burke,Blakeney,State Representative,126,DEM,GLORIA FRAZIER (I),105,19,57,29,0
-Burke,,District Attorney,Augusta Circuit - REP,REP,ASHLEY WRIGHT (I),935,37,697,201,0
 Burke,Alexander,District Attorney,Augusta Circuit - REP,REP,ASHLEY WRIGHT (I),24,1,23,0,0
 Burke,Four Points,District Attorney,Augusta Circuit - REP,REP,ASHLEY WRIGHT (I),184,5,160,19,0
 Burke,Girard,District Attorney,Augusta Circuit - REP,REP,ASHLEY WRIGHT (I),32,0,27,5,0
@@ -288,7 +271,6 @@ Burke,Vidette,District Attorney,Augusta Circuit - REP,REP,ASHLEY WRIGHT (I),24,1
 Burke,North Waynesboro,District Attorney,Augusta Circuit - REP,REP,ASHLEY WRIGHT (I),74,4,42,28,0
 Burke,South Waynesboro,District Attorney,Augusta Circuit - REP,REP,ASHLEY WRIGHT (I),245,15,139,91,0
 Burke,Blakeney,District Attorney,Augusta Circuit - REP,REP,ASHLEY WRIGHT (I),29,1,22,6,0
-Burke,,Probate Judge - D,,I,P. B. LEWIS III,2296,316,1468,512,0
 Burke,Alexander,Probate Judge - D,,I,P. B. LEWIS III,62,4,51,7,0
 Burke,Four Points,Probate Judge - D,,I,P. B. LEWIS III,165,6,120,39,0
 Burke,Girard,Probate Judge - D,,I,P. B. LEWIS III,98,7,82,9,0
@@ -305,7 +287,6 @@ Burke,Vidette,Probate Judge - D,,I,P. B. LEWIS III,49,1,39,9,0
 Burke,North Waynesboro,Probate Judge - D,,I,P. B. LEWIS III,534,128,279,127,0
 Burke,South Waynesboro,Probate Judge - D,,I,P. B. LEWIS III,559,65,307,187,0
 Burke,Blakeney,Probate Judge - D,,I,P. B. LEWIS III,106,19,56,31,0
-Burke,,Superior Court Clerk - D,,,K. ELLISON,1049,64,706,279,0
 Burke,Alexander,Superior Court Clerk - D,,,K. ELLISON,36,2,28,6,0
 Burke,Four Points,Superior Court Clerk - D,,,K. ELLISON,94,1,68,25,0
 Burke,Girard,Superior Court Clerk - D,,,K. ELLISON,58,2,49,7,0
@@ -322,7 +303,6 @@ Burke,Vidette,Superior Court Clerk - D,,,K. ELLISON,25,0,17,8,0
 Burke,North Waynesboro,Superior Court Clerk - D,,,K. ELLISON,166,23,103,40,0
 Burke,South Waynesboro,Superior Court Clerk - D,,,K. ELLISON,291,23,142,126,0
 Burke,Blakeney,Superior Court Clerk - D,,,K. ELLISON,44,2,23,19,0
-Burke,,Superior Court Clerk - D,,,R. SMITH,1785,284,1153,348,0
 Burke,Alexander,Superior Court Clerk - D,,,R. SMITH,40,7,29,4,0
 Burke,Four Points,Superior Court Clerk - D,,,R. SMITH,112,5,81,26,0
 Burke,Girard,Superior Court Clerk - D,,,R. SMITH,67,7,56,4,0
@@ -339,7 +319,6 @@ Burke,Vidette,Superior Court Clerk - D,,,R. SMITH,33,1,26,6,0
 Burke,North Waynesboro,Superior Court Clerk - D,,,R. SMITH,484,114,258,112,0
 Burke,South Waynesboro,Superior Court Clerk - D,,,R. SMITH,392,51,242,99,0
 Burke,Blakeney,Superior Court Clerk - D,,,R. SMITH,81,16,45,20,0
-Burke,,Sheriff - R,,,F. YELTON,746,34,558,154,0
 Burke,Alexander,Sheriff - R,,,F. YELTON,19,1,18,0,0
 Burke,Four Points,Sheriff - R,,,F. YELTON,143,5,122,16,0
 Burke,Girard,Sheriff - R,,,F. YELTON,28,0,23,5,0
@@ -356,7 +335,6 @@ Burke,Vidette,Sheriff - R,,,F. YELTON,21,1,17,3,0
 Burke,North Waynesboro,Sheriff - R,,,F. YELTON,55,1,35,19,0
 Burke,South Waynesboro,Sheriff - R,,,F. YELTON,168,17,83,68,0
 Burke,Blakeney,Sheriff - R,,,F. YELTON,29,1,21,7,0
-Burke,,Sheriff - D,,,A. WILLIAMS,2738,346,1816,576,0
 Burke,Alexander,Sheriff - D,,,A. WILLIAMS,72,9,54,9,0
 Burke,Four Points,Sheriff - D,,,A. WILLIAMS,205,7,149,49,0
 Burke,Girard,Sheriff - D,,,A. WILLIAMS,117,8,99,10,0
@@ -373,7 +351,6 @@ Burke,Vidette,Sheriff - D,,,A. WILLIAMS,61,1,47,13,0
 Burke,North Waynesboro,Sheriff - D,,,A. WILLIAMS,661,141,368,152,0
 Burke,South Waynesboro,Sheriff - D,,,A. WILLIAMS,629,71,363,195,0
 Burke,Blakeney,Sheriff - D,,,A. WILLIAMS,119,16,66,37,0
-Burke,,Tax Commissioner - D,,I,M. JACKSON,2427,318,1583,526,0
 Burke,Alexander,Tax Commissioner - D,,I,M. JACKSON,66,5,54,7,0
 Burke,Four Points,Tax Commissioner - D,,I,M. JACKSON,176,7,123,46,0
 Burke,Girard,Tax Commissioner - D,,I,M. JACKSON,100,7,85,8,0
@@ -390,7 +367,6 @@ Burke,Vidette,Tax Commissioner - D,,I,M. JACKSON,51,1,38,12,0
 Burke,North Waynesboro,Tax Commissioner - D,,I,M. JACKSON,590,130,320,140,0
 Burke,South Waynesboro,Tax Commissioner - D,,I,M. JACKSON,574,64,332,178,0
 Burke,Blakeney,Tax Commissioner - D,,I,M. JACKSON,113,19,60,34,0
-Burke,,Coroner - D,,I,S. SALEMI,1594,152,1061,381,0
 Burke,Alexander,Coroner - D,,I,S. SALEMI,46,2,41,3,0
 Burke,Four Points,Coroner - D,,I,S. SALEMI,116,7,84,25,0
 Burke,Girard,Coroner - D,,I,S. SALEMI,81,4,68,9,0
@@ -407,7 +383,6 @@ Burke,Vidette,Coroner - D,,I,S. SALEMI,27,0,21,6,0
 Burke,North Waynesboro,Coroner - D,,I,S. SALEMI,355,58,203,94,0
 Burke,South Waynesboro,Coroner - D,,I,S. SALEMI,415,30,228,157,0
 Burke,Blakeney,Coroner - D,,I,S. SALEMI,70,8,37,25,0
-Burke,,Coroner - D,,,R. WEBSTER,1169,192,754,223,0
 Burke,Alexander,Coroner - D,,,R. WEBSTER,32,7,18,7,0
 Burke,Four Points,Coroner - D,,,R. WEBSTER,88,0,65,23,0
 Burke,Girard,Coroner - D,,,R. WEBSTER,40,3,36,1,0
@@ -424,7 +399,6 @@ Burke,Vidette,Coroner - D,,,R. WEBSTER,36,1,28,7,0
 Burke,North Waynesboro,Coroner - D,,,R. WEBSTER,280,76,154,50,0
 Burke,South Waynesboro,Coroner - D,,,R. WEBSTER,252,43,147,62,0
 Burke,Blakeney,Coroner - D,,,R. WEBSTER,55,11,30,14,0
-Burke,,Chief Magistrate - R,,,R. O'BRIEN,849,33,627,189,0
 Burke,Alexander,Chief Magistrate - R,,,R. O'BRIEN,20,1,19,0,0
 Burke,Four Points,Chief Magistrate - R,,,R. O'BRIEN,158,5,135,18,0
 Burke,Girard,Chief Magistrate - R,,,R. O'BRIEN,30,0,25,5,0
@@ -441,7 +415,6 @@ Burke,Vidette,Chief Magistrate - R,,,R. O'BRIEN,27,1,22,4,0
 Burke,North Waynesboro,Chief Magistrate - R,,,R. O'BRIEN,65,1,38,26,0
 Burke,South Waynesboro,Chief Magistrate - R,,,R. O'BRIEN,219,15,120,84,0
 Burke,Blakeney,Chief Magistrate - R,,,R. O'BRIEN,34,2,25,7,0
-Burke,,Chief Magistrate - D,,I,S. WIMBERLY,2387,322,1561,504,0
 Burke,Alexander,Chief Magistrate - D,,I,S. WIMBERLY,65,7,51,7,0
 Burke,Four Points,Chief Magistrate - D,,I,S. WIMBERLY,177,7,125,45,0
 Burke,Girard,Chief Magistrate - D,,I,S. WIMBERLY,96,6,80,10,0
@@ -458,7 +431,6 @@ Burke,Vidette,Chief Magistrate - D,,I,S. WIMBERLY,53,1,41,11,0
 Burke,North Waynesboro,Chief Magistrate - D,,I,S. WIMBERLY,596,132,322,142,0
 Burke,South Waynesboro,Chief Magistrate - D,,I,S. WIMBERLY,527,65,299,163,0
 Burke,Blakeney,Chief Magistrate - D,,I,S. WIMBERLY,103,16,58,29,0
-Burke,,County Comm 1 - D,,I,L. ABRAMS JR,514,40,391,83,0
 Burke,Gough,County Comm 1 - D,,I,L. ABRAMS JR,106,8,87,11,0
 Burke,Keysville,County Comm 1 - D,,I,L. ABRAMS JR,29,0,28,1,0
 Burke,Midville,County Comm 1 - D,,I,L. ABRAMS JR,70,3,60,7,0
@@ -467,21 +439,15 @@ Burke,Scotts Crossroads,County Comm 1 - D,,I,L. ABRAMS JR,38,2,35,1,0
 Burke,St. Clair,County Comm 1 - D,,I,L. ABRAMS JR,76,7,54,15,0
 Burke,Vidette,County Comm 1 - D,,I,L. ABRAMS JR,54,1,41,12,0
 Burke,Blakeney,County Comm 1 - D,,I,L. ABRAMS JR,111,19,60,32,0
-Burke,,County Comm 3 - R,,,E. MARTIN,231,7,203,21,0
 Burke,Four Points,County Comm 3 - R,,,E. MARTIN,106,3,96,7,0
 Burke,Greenscut,County Comm 3 - R,,,E. MARTIN,125,4,107,14,0
-Burke,,County Comm 3 - R,,,H.L. MCNORRILL,139,2,115,22,0
 Burke,Four Points,County Comm 3 - R,,,H.L. MCNORRILL,100,2,83,15,0
 Burke,Greenscut,County Comm 3 - R,,,H.L. MCNORRILL,39,0,32,7,0
-Burke,,County Comm 3 - D,,,A. MIETUNEN,165,11,122,32,0
 Burke,Four Points,County Comm 3 - D,,,A. MIETUNEN,118,3,93,22,0
 Burke,Greenscut,County Comm 3 - D,,,A. MIETUNEN,47,8,29,10,0
-Burke,,County Comm 3 - D,,,G. WIMBERLY,173,27,111,35,0
 Burke,Four Points,County Comm 3 - D,,,G. WIMBERLY,84,4,56,24,0
 Burke,Greenscut,County Comm 3 - D,,,G. WIMBERLY,89,23,55,11,0
-Burke,,County Comm 5 - R,,I,G. DELOACH,256,19,138,99,0
 Burke,South Waynesboro,County Comm 5 - R,,I,G. DELOACH,256,19,138,99,0
-Burke,,Republican Party Question 1,,REP,YES,984,41,732,211,0
 Burke,Alexander,Republican Party Question 1,,REP,YES,23,1,22,0,0
 Burke,Four Points,Republican Party Question 1,,REP,YES,187,4,167,16,0
 Burke,Girard,Republican Party Question 1,,REP,YES,31,0,26,5,0
@@ -498,7 +464,6 @@ Burke,Vidette,Republican Party Question 1,,REP,YES,28,1,23,4,0
 Burke,North Waynesboro,Republican Party Question 1,,REP,YES,82,3,47,32,0
 Burke,South Waynesboro,Republican Party Question 1,,REP,YES,254,20,135,99,0
 Burke,Blakeney,Republican Party Question 1,,REP,YES,37,2,26,9,0
-Burke,,Republican Party Question 1,,REP,NO,162,4,121,37,0
 Burke,Alexander,Republican Party Question 1,,REP,NO,5,0,5,0,0
 Burke,Four Points,Republican Party Question 1,,REP,NO,28,1,20,7,0
 Burke,Girard,Republican Party Question 1,,REP,NO,6,0,5,1,0
@@ -515,7 +480,6 @@ Burke,Vidette,Republican Party Question 1,,REP,NO,6,0,6,0,0
 Burke,North Waynesboro,Republican Party Question 1,,REP,NO,11,1,6,4,0
 Burke,South Waynesboro,Republican Party Question 1,,REP,NO,42,0,26,16,0
 Burke,Blakeney,Republican Party Question 1,,REP,NO,3,1,2,0,0
-Burke,,Democratic Party Question 1,,DEM,YES,2111,312,1375,424,0
 Burke,Alexander,Democratic Party Question 1,,DEM,YES,56,8,42,6,0
 Burke,Four Points,Democratic Party Question 1,,DEM,YES,154,6,110,38,0
 Burke,Girard,Democratic Party Question 1,,DEM,YES,91,8,76,7,0
@@ -532,7 +496,6 @@ Burke,Vidette,Democratic Party Question 1,,DEM,YES,49,1,35,13,0
 Burke,North Waynesboro,Democratic Party Question 1,,DEM,YES,553,128,300,125,0
 Burke,South Waynesboro,Democratic Party Question 1,,DEM,YES,460,66,272,122,0
 Burke,Blakeney,Democratic Party Question 1,,DEM,YES,91,18,49,24,0
-Burke,,Democratic Party Question 1,,DEM,NO,645,33,434,178,0
 Burke,Alexander,Democratic Party Question 1,,DEM,NO,23,1,18,4,0
 Burke,Four Points,Democratic Party Question 1,,DEM,NO,60,1,45,14,0
 Burke,Girard,Democratic Party Question 1,,DEM,NO,25,0,23,2,0
@@ -549,7 +512,6 @@ Burke,Vidette,Democratic Party Question 1,,DEM,NO,12,0,11,1,0
 Burke,North Waynesboro,Democratic Party Question 1,,DEM,NO,87,8,51,28,0
 Burke,South Waynesboro,Democratic Party Question 1,,DEM,NO,202,7,104,91,0
 Burke,Blakeney,Democratic Party Question 1,,DEM,NO,30,1,18,11,0
-Burke,,Democratic Party Question 2,,DEM,YES,2397,334,1572,491,0
 Burke,Alexander,Democratic Party Question 2,,DEM,YES,58,9,40,9,0
 Burke,Four Points,Democratic Party Question 2,,DEM,YES,184,7,133,44,0
 Burke,Girard,Democratic Party Question 2,,DEM,YES,97,7,82,8,0
@@ -566,7 +528,6 @@ Burke,Vidette,Democratic Party Question 2,,DEM,YES,50,1,37,12,0
 Burke,North Waynesboro,Democratic Party Question 2,,DEM,YES,595,137,324,134,0
 Burke,South Waynesboro,Democratic Party Question 2,,DEM,YES,538,70,310,158,0
 Burke,Blakeney,Democratic Party Question 2,,DEM,YES,105,18,58,29,0
-Burke,,Democratic Party Question 2,,DEM,NO,386,19,256,111,0
 Burke,Alexander,Democratic Party Question 2,,DEM,NO,18,0,17,1,0
 Burke,Four Points,Democratic Party Question 2,,DEM,NO,32,0,23,9,0
 Burke,Girard,Democratic Party Question 2,,DEM,NO,20,1,18,1,0
@@ -583,7 +544,6 @@ Burke,Vidette,Democratic Party Question 2,,DEM,NO,11,0,9,2,0
 Burke,North Waynesboro,Democratic Party Question 2,,DEM,NO,53,4,32,17,0
 Burke,South Waynesboro,Democratic Party Question 2,,DEM,NO,127,6,69,52,0
 Burke,Blakeney,Democratic Party Question 2,,DEM,NO,16,1,8,7,0
-Burke,,Democratic Party Question 3,,DEM,YES,2288,306,1487,495,0
 Burke,Alexander,Democratic Party Question 3,,DEM,YES,63,7,46,10,0
 Burke,Four Points,Democratic Party Question 3,,DEM,YES,182,6,131,45,0
 Burke,Girard,Democratic Party Question 3,,DEM,YES,100,8,84,8,0
@@ -600,7 +560,6 @@ Burke,Vidette,Democratic Party Question 3,,DEM,YES,54,1,42,11,0
 Burke,North Waynesboro,Democratic Party Question 3,,DEM,YES,551,123,301,127,0
 Burke,South Waynesboro,Democratic Party Question 3,,DEM,YES,520,64,289,167,0
 Burke,Blakeney,Democratic Party Question 3,,DEM,YES,92,16,50,26,0
-Burke,,Democratic Party Question 3,,DEM,NO,449,36,314,99,0
 Burke,Alexander,Democratic Party Question 3,,DEM,NO,12,1,11,0,0
 Burke,Four Points,Democratic Party Question 3,,DEM,NO,35,1,26,8,0
 Burke,Girard,Democratic Party Question 3,,DEM,NO,20,0,18,2,0
@@ -617,7 +576,6 @@ Burke,Vidette,Democratic Party Question 3,,DEM,NO,6,0,4,2,0
 Burke,North Waynesboro,Democratic Party Question 3,,DEM,NO,84,10,55,19,0
 Burke,South Waynesboro,Democratic Party Question 3,,DEM,NO,129,11,74,44,0
 Burke,Blakeney,Democratic Party Question 3,,DEM,NO,29,2,18,9,0
-Burke,,Democratic Party Question 4,,DEM,YES,1909,198,1303,408,0
 Burke,Alexander,Democratic Party Question 4,,DEM,YES,53,5,40,8,0
 Burke,Four Points,Democratic Party Question 4,,DEM,YES,162,3,120,39,0
 Burke,Girard,Democratic Party Question 4,,DEM,YES,73,2,66,5,0
@@ -634,7 +592,6 @@ Burke,Vidette,Democratic Party Question 4,,DEM,YES,38,0,29,9,0
 Burke,North Waynesboro,Democratic Party Question 4,,DEM,YES,465,77,273,115,0
 Burke,South Waynesboro,Democratic Party Question 4,,DEM,YES,426,35,257,134,0
 Burke,Blakeney,Democratic Party Question 4,,DEM,YES,86,13,50,23,0
-Burke,,Democratic Party Question 4,,DEM,NO,793,137,469,187,0
 Burke,Alexander,Democratic Party Question 4,,DEM,NO,20,2,16,2,0
 Burke,Four Points,Democratic Party Question 4,,DEM,NO,48,4,32,12,0
 Burke,Girard,Democratic Party Question 4,,DEM,NO,44,6,33,5,0
@@ -651,7 +608,6 @@ Burke,Vidette,Democratic Party Question 4,,DEM,NO,21,1,17,3,0
 Burke,North Waynesboro,Democratic Party Question 4,,DEM,NO,171,58,79,34,0
 Burke,South Waynesboro,Democratic Party Question 4,,DEM,NO,226,37,112,77,0
 Burke,Blakeney,Democratic Party Question 4,,DEM,NO,32,6,16,10,0
-Burke,,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,2861,327,1921,613,0
 Burke,Alexander,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,75,4,64,7,0
 Burke,Four Points,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,336,12,265,59,0
 Burke,Girard,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,113,7,94,12,0
@@ -668,7 +624,6 @@ Burke,Vidette,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,68,2,54,12,0
 Burke,North Waynesboro,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,538,122,280,136,0
 Burke,South Waynesboro,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,697,75,391,231,0
 Burke,Blakeney,Supreme Court Justice,Nahmias,I,DAVID NAHMIAS,119,20,69,30,0
-Burke,,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,2916,334,1962,620,0
 Burke,Alexander,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,76,5,64,7,0
 Burke,Four Points,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,336,12,265,59,0
 Burke,Girard,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,120,7,101,12,0
@@ -685,7 +640,6 @@ Burke,Vidette,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,68,2,54,12,0
 Burke,North Waynesboro,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,554,121,294,139,0
 Burke,South Waynesboro,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,714,80,396,238,0
 Burke,Blakeney,Appeals Court Judge,Barnes,I,ANNE ELIZABETH BARNES,118,20,69,29,0
-Burke,,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,2886,327,1937,622,0
 Burke,Alexander,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,73,4,62,7,0
 Burke,Four Points,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,337,12,266,59,0
 Burke,Girard,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,115,7,96,12,0
@@ -702,7 +656,6 @@ Burke,Vidette,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,69,2,55,12,0
 Burke,North Waynesboro,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,545,119,286,140,0
 Burke,South Waynesboro,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,702,78,388,236,0
 Burke,Blakeney,Appeals Court Judge,McFadden,I,CHRIS MCFADDEN,118,20,69,29,0
-Burke,,Superior Court Judge,Augusta Circuit (Annis),I,MICHAEL N. ANNIS,2963,334,1982,647,0
 Burke,Alexander,Superior Court Judge,Augusta Circuit (Annis),I,MICHAEL N. ANNIS,76,4,65,7,0
 Burke,Four Points,Superior Court Judge,Augusta Circuit (Annis),I,MICHAEL N. ANNIS,348,12,277,59,0
 Burke,Girard,Superior Court Judge,Augusta Circuit (Annis),I,MICHAEL N. ANNIS,123,7,103,13,0
@@ -719,7 +672,6 @@ Burke,Vidette,Superior Court Judge,Augusta Circuit (Annis),I,MICHAEL N. ANNIS,71
 Burke,North Waynesboro,Superior Court Judge,Augusta Circuit (Annis),I,MICHAEL N. ANNIS,553,121,294,138,0
 Burke,South Waynesboro,Superior Court Judge,Augusta Circuit (Annis),I,MICHAEL N. ANNIS,728,79,397,252,0
 Burke,Blakeney,Superior Court Judge,Augusta Circuit (Annis),I,MICHAEL N. ANNIS,120,19,68,33,0
-Burke,,Superior Court Judge,Augusta Circuit (Brown),I,CARL C. BROWN JR.,3105,352,2105,648,0
 Burke,Alexander,Superior Court Judge,Augusta Circuit (Brown),I,CARL C. BROWN JR.,82,10,66,6,0
 Burke,Four Points,Superior Court Judge,Augusta Circuit (Brown),I,CARL C. BROWN JR.,316,11,246,59,0
 Burke,Girard,Superior Court Judge,Augusta Circuit (Brown),I,CARL C. BROWN JR.,126,7,107,12,0
@@ -736,7 +688,6 @@ Burke,Vidette,Superior Court Judge,Augusta Circuit (Brown),I,CARL C. BROWN JR.,7
 Burke,North Waynesboro,Superior Court Judge,Augusta Circuit (Brown),I,CARL C. BROWN JR.,601,127,330,144,0
 Burke,South Waynesboro,Superior Court Judge,Augusta Circuit (Brown),I,CARL C. BROWN JR.,748,75,421,252,0
 Burke,Blakeney,Superior Court Judge,Augusta Circuit (Brown),I,CARL C. BROWN JR.,140,21,80,39,0
-Burke,,Superior Court Judge,Augusta Circuit (Brown),,CHRIS GEORGE NICHOLSON,575,26,410,139,0
 Burke,Alexander,Superior Court Judge,Augusta Circuit (Brown),,CHRIS GEORGE NICHOLSON,15,0,13,2,0
 Burke,Four Points,Superior Court Judge,Augusta Circuit (Brown),,CHRIS GEORGE NICHOLSON,89,1,76,12,0
 Burke,Girard,Superior Court Judge,Augusta Circuit (Brown),,CHRIS GEORGE NICHOLSON,28,0,26,2,0
@@ -753,7 +704,6 @@ Burke,Vidette,Superior Court Judge,Augusta Circuit (Brown),,CHRIS GEORGE NICHOLS
 Burke,North Waynesboro,Superior Court Judge,Augusta Circuit (Brown),,CHRIS GEORGE NICHOLSON,80,5,54,21,0
 Burke,South Waynesboro,Superior Court Judge,Augusta Circuit (Brown),,CHRIS GEORGE NICHOLSON,148,14,73,61,0
 Burke,Blakeney,Superior Court Judge,Augusta Circuit (Brown),,CHRIS GEORGE NICHOLSON,14,1,9,4,0
-Burke,,Superior Court Judge,Augusta Circuit (Craig),I,DANNY CRAIG,3323,357,2231,735,0
 Burke,Alexander,Superior Court Judge,Augusta Circuit (Craig),I,DANNY CRAIG,83,5,70,8,0
 Burke,Four Points,Superior Court Judge,Augusta Circuit (Craig),I,DANNY CRAIG,372,12,297,63,0
 Burke,Girard,Superior Court Judge,Augusta Circuit (Craig),I,DANNY CRAIG,134,7,114,13,0
@@ -770,7 +720,6 @@ Burke,Vidette,Superior Court Judge,Augusta Circuit (Craig),I,DANNY CRAIG,83,2,69
 Burke,North Waynesboro,Superior Court Judge,Augusta Circuit (Craig),I,DANNY CRAIG,621,131,328,162,0
 Burke,South Waynesboro,Superior Court Judge,Augusta Circuit (Craig),I,DANNY CRAIG,818,83,450,285,0
 Burke,Blakeney,Superior Court Judge,Augusta Circuit (Craig),I,DANNY CRAIG,140,21,79,40,0
-Burke,,Superior Court Judge,Augusta Circuit (Jolly),I,SHERYL B. JOLLY,3063,333,2053,677,0
 Burke,Alexander,Superior Court Judge,Augusta Circuit (Jolly),I,SHERYL B. JOLLY,80,4,68,8,0
 Burke,Four Points,Superior Court Judge,Augusta Circuit (Jolly),I,SHERYL B. JOLLY,359,12,284,63,0
 Burke,Girard,Superior Court Judge,Augusta Circuit (Jolly),I,SHERYL B. JOLLY,126,7,106,13,0
@@ -787,7 +736,6 @@ Burke,Vidette,Superior Court Judge,Augusta Circuit (Jolly),I,SHERYL B. JOLLY,73,
 Burke,North Waynesboro,Superior Court Judge,Augusta Circuit (Jolly),I,SHERYL B. JOLLY,564,122,299,143,0
 Burke,South Waynesboro,Superior Court Judge,Augusta Circuit (Jolly),I,SHERYL B. JOLLY,756,78,419,259,0
 Burke,Blakeney,Superior Court Judge,Augusta Circuit (Jolly),I,SHERYL B. JOLLY,128,18,73,37,0
-Burke,,Superior Court Judge,Augusta Circuit (Overstreet),,JOHN FLYTHE,2102,97,1485,520,0
 Burke,Alexander,Superior Court Judge,Augusta Circuit (Overstreet),,JOHN FLYTHE,69,4,57,8,0
 Burke,Four Points,Superior Court Judge,Augusta Circuit (Overstreet),,JOHN FLYTHE,306,7,252,47,0
 Burke,Girard,Superior Court Judge,Augusta Circuit (Overstreet),,JOHN FLYTHE,86,1,76,9,0
@@ -804,7 +752,6 @@ Burke,Vidette,Superior Court Judge,Augusta Circuit (Overstreet),,JOHN FLYTHE,57,
 Burke,North Waynesboro,Superior Court Judge,Augusta Circuit (Overstreet),,JOHN FLYTHE,244,16,149,79,0
 Burke,South Waynesboro,Superior Court Judge,Augusta Circuit (Overstreet),,JOHN FLYTHE,588,36,313,239,0
 Burke,Blakeney,Superior Court Judge,Augusta Circuit (Overstreet),,JOHN FLYTHE,80,6,45,29,0
-Burke,,Superior Court Judge,Augusta Circuit (Overstreet),,EVITA PASCHALL,1574,277,1004,293,0
 Burke,Alexander,Superior Court Judge,Augusta Circuit (Overstreet),,EVITA PASCHALL,29,6,20,3,0
 Burke,Four Points,Superior Court Judge,Augusta Circuit (Overstreet),,EVITA PASCHALL,103,5,75,23,0
 Burke,Girard,Superior Court Judge,Augusta Circuit (Overstreet),,EVITA PASCHALL,61,6,50,5,0
@@ -821,7 +768,6 @@ Burke,Vidette,Superior Court Judge,Augusta Circuit (Overstreet),,EVITA PASCHALL,
 Burke,North Waynesboro,Superior Court Judge,Augusta Circuit (Overstreet),,EVITA PASCHALL,439,116,225,98,0
 Burke,South Waynesboro,Superior Court Judge,Augusta Circuit (Overstreet),,EVITA PASCHALL,307,54,177,76,0
 Burke,Blakeney,Superior Court Judge,Augusta Circuit (Overstreet),,EVITA PASCHALL,73,16,40,17,0
-Burke,,State Court,,I,J. E. COX,3424,352,2318,754,0
 Burke,Alexander,State Court,,I,J. E. COX,84,4,74,6,0
 Burke,Four Points,State Court,,I,J. E. COX,376,12,299,65,0
 Burke,Girard,State Court,,I,J. E. COX,134,5,115,14,0
@@ -838,18 +784,14 @@ Burke,Vidette,State Court,,I,J. E. COX,82,2,68,12,0
 Burke,North Waynesboro,State Court,,I,J. E. COX,630,130,337,163,0
 Burke,South Waynesboro,State Court,,I,J. E. COX,852,86,473,293,0
 Burke,Blakeney,State Court,,I,J. E. COX,151,22,85,44,0
-Burke,,BOE 3,,I,L. CREWS,469,11,394,64,0
 Burke,Four Points,BOE 3,,I,L. CREWS,272,7,232,33,0
 Burke,Greenscut,BOE 3,,I,L. CREWS,197,4,162,31,0
-Burke,,BOE 3,,,B. V. WIMBERLY,275,36,180,59,0
 Burke,Four Points,BOE 3,,,B. V. WIMBERLY,156,5,108,43,0
 Burke,Greenscut,BOE 3,,,B. V. WIMBERLY,119,31,72,16,0
-Burke,,BOE 4,,I,G. CHANDLER,471,47,374,50,0
 Burke,Alexander,BOE 4,,I,G. CHANDLER,78,5,68,5,0
 Burke,Girard,BOE 4,,I,G. CHANDLER,91,4,82,5,0
 Burke,Sardis,BOE 4,,I,G. CHANDLER,157,5,136,16,0
 Burke,Telfair,BOE 4,,I,G. CHANDLER,145,33,88,24,0
-Burke,,BOE 4,,,R. LANE,233,17,192,24,0
 Burke,Alexander,BOE 4,,,R. LANE,31,5,20,6,0
 Burke,Girard,BOE 4,,,R. LANE,77,5,61,11,0
 Burke,Sardis,BOE 4,,,R. LANE,58,0,55,3,0
