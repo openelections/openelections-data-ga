@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,advance_in_person,election_day,provisional
-Richmond,,President of the United States,,,DONALD J. TRUMP,24461,1556,10707,12183,15
 Richmond,101,President of the United States,,,DONALD J. TRUMP,253,20,95,138,0
 Richmond,102,President of the United States,,,DONALD J. TRUMP,189,18,64,106,1
 Richmond,103,President of the United States,,,DONALD J. TRUMP,16,2,7,7,0
@@ -69,7 +68,6 @@ Richmond,807,President of the United States,,,DONALD J. TRUMP,197,5,90,102,0
 Richmond,808,President of the United States,,,DONALD J. TRUMP,784,34,307,443,0
 Richmond,809,President of the United States,,,DONALD J. TRUMP,30,0,21,9,0
 Richmond,810,President of the United States,,,DONALD J. TRUMP,150,4,76,70,0
-Richmond,,President of the United States,,,HILLARY CLINTON,48814,2804,24246,21676,88
 Richmond,101,President of the United States,,,HILLARY CLINTON,262,16,95,151,0
 Richmond,102,President of the United States,,,HILLARY CLINTON,520,65,171,283,1
 Richmond,103,President of the United States,,,HILLARY CLINTON,735,78,268,387,2
@@ -139,7 +137,6 @@ Richmond,807,President of the United States,,,HILLARY CLINTON,544,24,263,256,1
 Richmond,808,President of the United States,,,HILLARY CLINTON,586,28,308,250,0
 Richmond,809,President of the United States,,,HILLARY CLINTON,508,16,355,136,1
 Richmond,810,President of the United States,,,HILLARY CLINTON,80,3,46,31,0
-Richmond,,President of the United States,,,GARY JOHNSON,1811,105,603,1099,4
 Richmond,101,President of the United States,,,GARY JOHNSON,26,1,9,16,0
 Richmond,102,President of the United States,,,GARY JOHNSON,22,1,4,17,0
 Richmond,103,President of the United States,,,GARY JOHNSON,5,1,1,3,0
@@ -209,7 +206,6 @@ Richmond,807,President of the United States,,,GARY JOHNSON,20,2,13,5,0
 Richmond,808,President of the United States,,,GARY JOHNSON,28,8,8,12,0
 Richmond,809,President of the United States,,,GARY JOHNSON,9,2,3,4,0
 Richmond,810,President of the United States,,,GARY JOHNSON,8,0,1,7,0
-Richmond,,United States Senator,,,JOHNNY ISAKSON,25908,1755,11371,12764,18
 Richmond,101,United States Senator,,,JOHNNY ISAKSON,281,24,100,157,0
 Richmond,102,United States Senator,,,JOHNNY ISAKSON,207,20,68,118,1
 Richmond,103,United States Senator,,,JOHNNY ISAKSON,54,5,20,29,0
@@ -279,7 +275,6 @@ Richmond,807,United States Senator,,,JOHNNY ISAKSON,200,6,95,99,0
 Richmond,808,United States Senator,,,JOHNNY ISAKSON,779,43,301,435,0
 Richmond,809,United States Senator,,,JOHNNY ISAKSON,38,0,29,9,0
 Richmond,810,United States Senator,,,JOHNNY ISAKSON,138,4,73,61,0
-Richmond,,United States Senator,,,JIM BARKSDALE,42229,2573,20906,18674,76
 Richmond,101,United States Senator,,,JIM BARKSDALE,222,11,79,132,0
 Richmond,102,United States Senator,,,JIM BARKSDALE,421,57,139,224,1
 Richmond,103,United States Senator,,,JIM BARKSDALE,610,70,220,318,2
@@ -349,7 +344,6 @@ Richmond,807,United States Senator,,,JIM BARKSDALE,473,23,229,220,1
 Richmond,808,United States Senator,,,JIM BARKSDALE,518,21,271,226,0
 Richmond,809,United States Senator,,,JIM BARKSDALE,455,16,313,125,1
 Richmond,810,United States Senator,,,JIM BARKSDALE,74,3,41,30,0
-Richmond,,United States Senator,,,ALLEN BUCKLEY,2196,111,799,1276,10
 Richmond,101,United States Senator,,,ALLEN BUCKLEY,23,2,8,13,0
 Richmond,102,United States Senator,,,ALLEN BUCKLEY,37,4,7,26,0
 Richmond,103,United States Senator,,,ALLEN BUCKLEY,11,3,5,3,0
@@ -419,7 +413,6 @@ Richmond,807,United States Senator,,,ALLEN BUCKLEY,22,1,9,12,0
 Richmond,808,United States Senator,,,ALLEN BUCKLEY,26,3,11,12,0
 Richmond,809,United States Senator,,,ALLEN BUCKLEY,15,2,6,7,0
 Richmond,810,United States Senator,,,ALLEN BUCKLEY,15,0,5,10,0
-Richmond,,"Public Service Commission, District 2",2,,TIM ECHOLS,33607,2210,15331,16042,24
 Richmond,101,"Public Service Commission, District 2",2,,TIM ECHOLS,340,28,130,182,0
 Richmond,102,"Public Service Commission, District 2",2,,TIM ECHOLS,282,29,98,154,1
 Richmond,103,"Public Service Commission, District 2",2,,TIM ECHOLS,139,16,57,66,0
@@ -489,7 +482,6 @@ Richmond,807,"Public Service Commission, District 2",2,,TIM ECHOLS,305,14,152,13
 Richmond,808,"Public Service Commission, District 2",2,,TIM ECHOLS,892,47,354,491,0
 Richmond,809,"Public Service Commission, District 2",2,,TIM ECHOLS,121,3,92,26,0
 Richmond,810,"Public Service Commission, District 2",2,,TIM ECHOLS,152,4,76,72,0
-Richmond,,"Public Service Commission, District 2",2,,ERIC HOSKINS,28240,1485,13443,13249,63
 Richmond,101,"Public Service Commission, District 2",2,,ERIC HOSKINS,153,6,47,100,0
 Richmond,102,"Public Service Commission, District 2",2,,ERIC HOSKINS,300,36,87,176,1
 Richmond,103,"Public Service Commission, District 2",2,,ERIC HOSKINS,394,45,140,207,2
@@ -559,7 +551,6 @@ Richmond,807,"Public Service Commission, District 2",2,,ERIC HOSKINS,329,12,152,
 Richmond,808,"Public Service Commission, District 2",2,,ERIC HOSKINS,361,14,193,154,0
 Richmond,809,"Public Service Commission, District 2",2,,ERIC HOSKINS,326,14,221,90,1
 Richmond,810,"Public Service Commission, District 2",2,,ERIC HOSKINS,65,2,34,29,0
-Richmond,,U.S. Representative,12,,RICK ALLEN,28161,1785,12196,14158,22
 Richmond,101,U.S. Representative,12,,RICK ALLEN,314,25,114,175,0
 Richmond,102,U.S. Representative,12,,RICK ALLEN,247,20,86,140,1
 Richmond,103,U.S. Representative,12,,RICK ALLEN,62,3,25,34,0
@@ -629,7 +620,6 @@ Richmond,807,U.S. Representative,12,,RICK ALLEN,221,5,106,110,0
 Richmond,808,U.S. Representative,12,,RICK ALLEN,821,43,308,470,0
 Richmond,809,U.S. Representative,12,,RICK ALLEN,46,2,34,10,0
 Richmond,810,U.S. Representative,12,,RICK ALLEN,156,4,80,72,0
-Richmond,,U.S. Representative,12,,PATRICIA C. MCCRACKEN,45023,2563,22484,19895,81
 Richmond,101,U.S. Representative,12,,PATRICIA C. MCCRACKEN,225,13,81,131,0
 Richmond,102,U.S. Representative,12,,PATRICIA C. MCCRACKEN,453,60,138,254,1
 Richmond,103,U.S. Representative,12,,PATRICIA C. MCCRACKEN,639,74,225,338,2
@@ -699,7 +689,6 @@ Richmond,807,U.S. Representative,12,,PATRICIA C. MCCRACKEN,522,24,255,242,1
 Richmond,808,U.S. Representative,12,,PATRICIA C. MCCRACKEN,559,25,301,233,0
 Richmond,809,U.S. Representative,12,,PATRICIA C. MCCRACKEN,491,16,338,136,1
 Richmond,810,U.S. Representative,12,,PATRICIA C. MCCRACKEN,76,3,41,32,0
-Richmond,,State Senator,22,(DEM,HAROLD V. JONES II,52532,2968,25255,24228,81
 Richmond,101,State Senator,22,(DEM,HAROLD V. JONES II,402,22,149,231,0
 Richmond,102,State Senator,22,(DEM,HAROLD V. JONES II,606,75,194,336,1
 Richmond,103,State Senator,22,(DEM,HAROLD V. JONES II,684,76,246,360,2
@@ -757,7 +746,6 @@ Richmond,804,State Senator,22,(DEM,HAROLD V. JONES II,874,33,476,364,1
 Richmond,805,State Senator,22,(DEM,HAROLD V. JONES II,348,11,170,167,0
 Richmond,807,State Senator,22,(DEM,HAROLD V. JONES II,657,28,313,315,1
 Richmond,809,State Senator,22,(DEM,HAROLD V. JONES II,522,16,365,140,1
-Richmond,,State Senator,23,,JESSE STONE,9544,536,4331,4670,7
 Richmond,308,State Senator,23,,JESSE STONE,241,7,126,108,0
 Richmond,608,State Senator,23,,JESSE STONE,685,43,253,388,1
 Richmond,705,State Senator,23,,JESSE STONE,1285,99,665,520,1
@@ -769,11 +757,8 @@ Richmond,804H,State Senator,23,,JESSE STONE,1291,77,471,742,1
 Richmond,806,State Senator,23,,JESSE STONE,586,14,198,374,0
 Richmond,808,State Senator,23,,JESSE STONE,1095,57,450,588,0
 Richmond,810,State Senator,23,,JESSE STONE,190,4,96,90,0
-Richmond,,State Senator,24,,LEE ANDERSON,177,12,87,78,0
 Richmond,709,State Senator,24,,LEE ANDERSON,177,12,87,78,0
-Richmond,,State Senator,24,,BRENDA J. JORDAN,160,7,95,58,0
 Richmond,709,State Senator,24,,BRENDA J. JORDAN,160,7,95,58,0
-Richmond,,State Representative,123,,MARK NEWTON,9129,571,4604,3949,5
 Richmond,107,State Representative,123,,MARK NEWTON,781,30,324,426,1
 Richmond,108,State Representative,123,,MARK NEWTON,158,12,76,70,0
 Richmond,301,State Representative,123,,MARK NEWTON,1490,104,712,674,0
@@ -784,7 +769,6 @@ Richmond,308,State Representative,123,,MARK NEWTON,240,7,126,107,0
 Richmond,701,State Representative,123,,MARK NEWTON,1345,84,630,630,1
 Richmond,705,State Representative,123,,MARK NEWTON,1272,97,657,517,1
 Richmond,706,State Representative,123,,MARK NEWTON,1786,96,1144,545,1
-Richmond,,State Representative,124,(DEM,"HENRY ""WAYNE"" HOWARD",14751,962,5876,7898,15
 Richmond,101,State Representative,124,(DEM,"HENRY ""WAYNE"" HOWARD",398,26,149,223,0
 Richmond,102,State Representative,124,(DEM,"HENRY ""WAYNE"" HOWARD",619,75,198,345,1
 Richmond,103,State Representative,124,(DEM,"HENRY ""WAYNE"" HOWARD",709,78,261,370,0
@@ -808,7 +792,6 @@ Richmond,703,State Representative,124,(DEM,"HENRY ""WAYNE"" HOWARD",1973,76,944,
 Richmond,707,State Representative,124,(DEM,"HENRY ""WAYNE"" HOWARD",908,55,416,437,0
 Richmond,708,State Representative,124,(DEM,"HENRY ""WAYNE"" HOWARD",123,6,69,48,0
 Richmond,709,State Representative,124,(DEM,"HENRY ""WAYNE"" HOWARD",257,16,134,107,0
-Richmond,,State Representative,125,DEM,SHEILA CLARK NELSON,15120,853,6609,7650,8
 Richmond,104,State Representative,125,DEM,SHEILA CLARK NELSON,1396,122,550,724,0
 Richmond,109,State Representative,125,DEM,SHEILA CLARK NELSON,495,29,220,245,1
 Richmond,114,State Representative,125,DEM,SHEILA CLARK NELSON,406,15,193,198,0
@@ -825,7 +808,6 @@ Richmond,802,State Representative,125,DEM,SHEILA CLARK NELSON,1128,71,401,654,2
 Richmond,805,State Representative,125,DEM,SHEILA CLARK NELSON,346,10,171,165,0
 Richmond,806,State Representative,125,DEM,SHEILA CLARK NELSON,510,13,188,309,0
 Richmond,808,State Representative,125,DEM,SHEILA CLARK NELSON,1012,49,469,494,0
-Richmond,,State Representative,126,,GLORIA FRAZIER,12062,534,6885,4633,10
 Richmond,401,State Representative,126,,GLORIA FRAZIER,1273,68,667,537,1
 Richmond,404,State Representative,126,,GLORIA FRAZIER,959,50,526,382,1
 Richmond,405,State Representative,126,,GLORIA FRAZIER,2339,79,1571,686,3
@@ -837,7 +819,6 @@ Richmond,804H,State Representative,126,,GLORIA FRAZIER,1270,74,549,647,0
 Richmond,807,State Representative,126,,GLORIA FRAZIER,654,29,312,312,1
 Richmond,809,State Representative,126,,GLORIA FRAZIER,533,18,371,143,1
 Richmond,810,State Representative,126,,GLORIA FRAZIER,172,5,89,78,0
-Richmond,,State Representative,127,,BRIAN L. PRINCE,11288,653,5963,4665,7
 Richmond,306,State Representative,127,,BRIAN L. PRINCE,1693,102,882,709,0
 Richmond,309,State Representative,127,,BRIAN L. PRINCE,1575,78,937,558,2
 Richmond,310,State Representative,127,,BRIAN L. PRINCE,2134,115,1222,797,0
@@ -847,7 +828,6 @@ Richmond,503,State Representative,127,,BRIAN L. PRINCE,1973,149,1130,692,2
 Richmond,801,State Representative,127,,BRIAN L. PRINCE,192,6,42,144,0
 Richmond,801B,State Representative,127,,BRIAN L. PRINCE,183,8,29,146,0
 Richmond,803,State Representative,127,,BRIAN L. PRINCE,21,3,1,17,0
-Richmond,,District Attorney,Augusta Circuit,,ASHLEY WRIGHT,51543,2955,23720,24805,63
 Richmond,101,District Attorney,Augusta Circuit,,ASHLEY WRIGHT,431,27,160,244,0
 Richmond,102,District Attorney,Augusta Circuit,,ASHLEY WRIGHT,467,45,150,270,2
 Richmond,103,District Attorney,Augusta Circuit,,ASHLEY WRIGHT,412,43,156,212,1
@@ -917,7 +897,6 @@ Richmond,807,District Attorney,Augusta Circuit,,ASHLEY WRIGHT,515,22,245,248,0
 Richmond,808,District Attorney,Augusta Circuit,,ASHLEY WRIGHT,1102,56,457,589,0
 Richmond,809,District Attorney,Augusta Circuit,,ASHLEY WRIGHT,326,10,233,83,0
 Richmond,810,District Attorney,Augusta Circuit,,ASHLEY WRIGHT,188,5,92,91,0
-Richmond,,Probate Judge,,(D,H. JAMES,61260,3528,29314,28327,91
 Richmond,101,Probate Judge,,(D,H. JAMES,398,24,149,225,0
 Richmond,102,Probate Judge,,(D,H. JAMES,595,70,189,335,1
 Richmond,103,Probate Judge,,(D,H. JAMES,678,76,247,353,2
@@ -987,7 +966,6 @@ Richmond,807,Probate Judge,,(D,H. JAMES,650,28,310,311,1
 Richmond,808,Probate Judge,,(D,H. JAMES,1048,51,484,513,0
 Richmond,809,Probate Judge,,(D,H. JAMES,520,18,361,140,1
 Richmond,810,Probate Judge,,(D,H. JAMES,176,4,93,79,0
-Richmond,,Superior Court Clerk,,D,H. SULLIVAN,61163,3464,29326,28284,89
 Richmond,101,Superior Court Clerk,,D,H. SULLIVAN,389,25,142,222,0
 Richmond,102,Superior Court Clerk,,D,H. SULLIVAN,599,71,198,329,1
 Richmond,103,Superior Court Clerk,,D,H. SULLIVAN,687,74,252,359,2
@@ -1057,7 +1035,6 @@ Richmond,807,Superior Court Clerk,,D,H. SULLIVAN,654,29,312,312,1
 Richmond,808,Superior Court Clerk,,D,H. SULLIVAN,1033,50,476,507,0
 Richmond,809,Superior Court Clerk,,D,H. SULLIVAN,524,18,363,142,1
 Richmond,810,Superior Court Clerk,,D,H. SULLIVAN,173,4,92,77,0
-Richmond,,Sheriff,,R,B. MCDUFFIE,19369,1200,8221,9925,23
 Richmond,101,Sheriff,,R,B. MCDUFFIE,206,16,79,111,0
 Richmond,102,Sheriff,,R,B. MCDUFFIE,162,10,49,102,1
 Richmond,103,Sheriff,,R,B. MCDUFFIE,42,4,7,30,1
@@ -1127,7 +1104,6 @@ Richmond,807,Sheriff,,R,B. MCDUFFIE,172,5,79,88,0
 Richmond,808,Sheriff,,R,B. MCDUFFIE,567,28,207,332,0
 Richmond,809,Sheriff,,R,B. MCDUFFIE,37,1,24,12,0
 Richmond,810,Sheriff,,R,B. MCDUFFIE,108,3,50,55,0
-Richmond,,Sheriff,,(D,R. ROUNDTREE,54192,3127,26632,24353,80
 Richmond,101,Sheriff,,(D,R. ROUNDTREE,326,18,114,194,0
 Richmond,102,Sheriff,,(D,R. ROUNDTREE,549,70,176,302,1
 Richmond,103,Sheriff,,(D,R. ROUNDTREE,695,75,269,350,1
@@ -1197,7 +1173,6 @@ Richmond,807,Sheriff,,(D,R. ROUNDTREE,571,26,278,266,1
 Richmond,808,Sheriff,,(D,R. ROUNDTREE,810,37,407,366,0
 Richmond,809,Sheriff,,(D,R. ROUNDTREE,502,17,350,134,1
 Richmond,810,Sheriff,,(D,R. ROUNDTREE,127,4,70,53,0
-Richmond,,Tax Commissioner,,(D,S. KENDRICK,63342,3625,30428,29196,93
 Richmond,101,Tax Commissioner,,(D,S. KENDRICK,420,24,154,242,0
 Richmond,102,Tax Commissioner,,(D,S. KENDRICK,609,74,200,333,2
 Richmond,103,Tax Commissioner,,(D,S. KENDRICK,694,77,254,361,2
@@ -1267,7 +1242,6 @@ Richmond,807,Tax Commissioner,,(D,S. KENDRICK,668,28,319,320,1
 Richmond,808,Tax Commissioner,,(D,S. KENDRICK,1084,49,501,534,0
 Richmond,809,Tax Commissioner,,(D,S. KENDRICK,523,18,365,139,1
 Richmond,810,Tax Commissioner,,(D,S. KENDRICK,181,4,97,80,0
-Richmond,,Coroner,,(D,M. BOWEN,62289,3636,29748,28816,89
 Richmond,101,Coroner,,(D,M. BOWEN,419,24,154,241,0
 Richmond,102,Coroner,,(D,M. BOWEN,610,74,198,337,1
 Richmond,103,Coroner,,(D,M. BOWEN,684,76,246,360,2
@@ -1337,7 +1311,6 @@ Richmond,807,Coroner,,(D,M. BOWEN,660,30,315,314,1
 Richmond,808,Coroner,,(D,M. BOWEN,1076,51,490,535,0
 Richmond,809,Coroner,,(D,M. BOWEN,510,18,356,135,1
 Richmond,810,Coroner,,(D,M. BOWEN,179,5,96,78,0
-Richmond,,Chief Civil Judge,,(D,W. JENNINGS III,62235,3599,29864,28680,92
 Richmond,101,Chief Civil Judge,,(D,W. JENNINGS III,414,26,157,231,0
 Richmond,102,Chief Civil Judge,,(D,W. JENNINGS III,605,74,194,336,1
 Richmond,103,Chief Civil Judge,,(D,W. JENNINGS III,691,77,250,362,2
@@ -1407,7 +1380,6 @@ Richmond,807,Chief Civil Judge,,(D,W. JENNINGS III,659,28,317,313,1
 Richmond,808,Chief Civil Judge,,(D,W. JENNINGS III,1057,49,488,520,0
 Richmond,809,Chief Civil Judge,,(D,W. JENNINGS III,518,18,358,141,1
 Richmond,810,Chief Civil Judge,,(D,W. JENNINGS III,179,4,96,79,0
-Richmond,,Presiding Civil Judge,,(D,H. ALLEN,62482,3567,30013,28813,89
 Richmond,101,Presiding Civil Judge,,(D,H. ALLEN,409,23,152,234,0
 Richmond,102,Presiding Civil Judge,,(D,H. ALLEN,592,73,193,325,1
 Richmond,103,Presiding Civil Judge,,(D,H. ALLEN,679,77,250,350,2
@@ -1477,7 +1449,6 @@ Richmond,807,Presiding Civil Judge,,(D,H. ALLEN,661,28,318,314,1
 Richmond,808,Presiding Civil Judge,,(D,H. ALLEN,1066,49,496,521,0
 Richmond,809,Presiding Civil Judge,,(D,H. ALLEN,520,18,362,139,1
 Richmond,810,Presiding Civil Judge,,(D,H. ALLEN,179,4,95,80,0
-Richmond,,Solicitor,,D,O. LOGGINS,60331,3436,28961,27841,93
 Richmond,101,Solicitor,,D,O. LOGGINS,384,20,142,222,0
 Richmond,102,Solicitor,,D,O. LOGGINS,585,72,192,320,1
 Richmond,103,Solicitor,,D,O. LOGGINS,673,75,246,350,2
@@ -1547,7 +1518,6 @@ Richmond,807,Solicitor,,D,O. LOGGINS,647,29,315,302,1
 Richmond,808,Solicitor,,D,O. LOGGINS,1022,47,471,504,0
 Richmond,809,Solicitor,,D,O. LOGGINS,512,18,355,138,1
 Richmond,810,Solicitor,,D,O. LOGGINS,172,4,89,79,0
-Richmond,,BOE D1,,,M. E. BARNES,4919,437,2006,2470,6
 Richmond,101,BOE D1,,,M. E. BARNES,268,16,103,149,0
 Richmond,102,BOE D1,,,M. E. BARNES,411,59,139,212,1
 Richmond,103,BOE D1,,,M. E. BARNES,510,60,193,257,0
@@ -1561,7 +1531,6 @@ Richmond,111,BOE D1,,,M. E. BARNES,455,43,183,229,0
 Richmond,112,BOE D1,,,M. E. BARNES,252,59,120,73,0
 Richmond,114,BOE D1,,,M. E. BARNES,283,15,140,128,0
 Richmond,115,BOE D1,,,M. E. BARNES,109,5,37,66,1
-Richmond,,BOE D1,,,B. S. GREEN,2145,137,838,1168,2
 Richmond,101,BOE D1,,,B. S. GREEN,171,10,59,102,0
 Richmond,102,BOE D1,,,B. S. GREEN,200,11,59,129,1
 Richmond,103,BOE D1,,,B. S. GREEN,152,15,55,82,0
@@ -1575,19 +1544,16 @@ Richmond,111,BOE D1,,,B. S. GREEN,203,7,70,126,0
 Richmond,112,BOE D1,,,B. S. GREEN,122,22,64,36,0
 Richmond,114,BOE D1,,,B. S. GREEN,97,2,43,52,0
 Richmond,115,BOE D1,,,B. S. GREEN,59,2,21,36,0
-Richmond,,BOE D4,,,W. FRAZIER,4024,170,2232,1617,5
 Richmond,401,BOE D4,,,W. FRAZIER,623,28,314,280,1
 Richmond,402,BOE D4,,,W. FRAZIER,783,41,328,412,2
 Richmond,404,BOE D4,,,W. FRAZIER,512,29,274,208,1
 Richmond,405,BOE D4,,,W. FRAZIER,1212,43,801,367,1
 Richmond,406,BOE D4,,,W. FRAZIER,894,29,515,350,0
-Richmond,,BOE D4,,,B. PULLIAM,3736,200,2226,1310,0
 Richmond,401,BOE D4,,,B. PULLIAM,599,39,329,231,0
 Richmond,402,BOE D4,,,B. PULLIAM,644,54,293,297,0
 Richmond,404,BOE D4,,,B. PULLIAM,443,25,244,174,0
 Richmond,405,BOE D4,,,B. PULLIAM,1135,38,774,323,0
 Richmond,406,BOE D4,,,B. PULLIAM,915,44,586,285,0
-Richmond,,BOE D5,,,P. Y. SCOTT,7435,432,3955,3045,3
 Richmond,501,BOE D5,,,P. Y. SCOTT,1455,91,801,561,2
 Richmond,502,BOE D5,,,P. Y. SCOTT,1848,88,960,799,1
 Richmond,503,BOE D5,,,P. Y. SCOTT,1807,139,1051,617,0
@@ -1595,7 +1561,6 @@ Richmond,504,BOE D5,,,P. Y. SCOTT,801,40,309,452,0
 Richmond,506,BOE D5,,,P. Y. SCOTT,153,4,81,68,0
 Richmond,507,BOE D5,,,P. Y. SCOTT,350,14,175,161,0
 Richmond,509,BOE D5,,,P. Y. SCOTT,1021,56,578,387,0
-Richmond,,BOE D8,,,J. ATKINS,7007,320,2978,3705,4
 Richmond,801,BOE D8,,,J. ATKINS,221,6,50,165,0
 Richmond,801B,BOE D8,,,J. ATKINS,218,9,34,175,0
 Richmond,802,BOE D8,,,J. ATKINS,1268,75,424,766,3
@@ -1608,7 +1573,6 @@ Richmond,807,BOE D8,,,J. ATKINS,583,30,276,277,0
 Richmond,808,BOE D8,,,J. ATKINS,1097,55,489,553,0
 Richmond,809,BOE D8,,,J. ATKINS,424,14,305,104,1
 Richmond,810,BOE D8,,,J. ATKINS,177,3,92,82,0
-Richmond,,BOE 10,,,H. MINCHEW,24005,1335,11744,10910,16
 Richmond,301,BOE 10,,,H. MINCHEW,1084,84,538,462,0
 Richmond,302,BOE 10,,,H. MINCHEW,328,13,132,182,1
 Richmond,303,BOE 10,,,H. MINCHEW,647,48,326,273,0
@@ -1645,7 +1609,6 @@ Richmond,807,BOE 10,,,H. MINCHEW,439,21,211,207,0
 Richmond,808,BOE 10,,,H. MINCHEW,846,43,394,409,0
 Richmond,809,BOE 10,,,H. MINCHEW,344,11,248,84,1
 Richmond,810,BOE 10,,,H. MINCHEW,133,4,74,55,0
-Richmond,,BOE 10,,,T. WHITESIDE,8854,520,4010,4320,4
 Richmond,301,BOE 10,,,T. WHITESIDE,369,18,169,182,0
 Richmond,302,BOE 10,,,T. WHITESIDE,118,6,44,68,0
 Richmond,303,BOE 10,,,T. WHITESIDE,176,15,81,80,0
@@ -1682,7 +1645,6 @@ Richmond,807,BOE 10,,,T. WHITESIDE,170,9,81,80,0
 Richmond,808,BOE 10,,,T. WHITESIDE,295,18,126,151,0
 Richmond,809,BOE 10,,,T. WHITESIDE,108,4,70,34,0
 Richmond,810,BOE 10,,,T. WHITESIDE,58,1,27,30,0
-Richmond,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,32826,2154,14372,16243,57
 Richmond,101,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,292,23,91,178,0
 Richmond,102,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,346,37,116,192,1
 Richmond,103,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,282,36,94,151,1
@@ -1752,7 +1714,6 @@ Richmond,807,Constitutional Amendment #1<br>Provides greater flexibility and sta
 Richmond,808,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,625,35,259,331,0
 Richmond,809,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,217,13,146,57,1
 Richmond,810,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,101,4,49,48,0
-Richmond,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,40716,2105,20448,18120,43
 Richmond,101,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,243,13,101,129,0
 Richmond,102,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,351,39,113,198,1
 Richmond,103,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,438,38,166,233,1
@@ -1822,7 +1783,6 @@ Richmond,807,Constitutional Amendment #1<br>Provides greater flexibility and sta
 Richmond,808,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,765,28,364,373,0
 Richmond,809,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,329,5,231,93,0
 Richmond,810,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,131,3,69,59,0
-Richmond,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,60540,3717,28748,27992,83
 Richmond,101,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,453,31,169,253,0
 Richmond,102,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,562,66,182,312,2
 Richmond,103,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,573,59,219,294,1
@@ -1892,7 +1852,6 @@ Richmond,807,Constitutional Amendment #2<br>Authorizes penalties for sexual expl
 Richmond,808,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1183,60,516,607,0
 Richmond,809,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,452,18,311,122,1
 Richmond,810,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,195,6,100,89,0
-Richmond,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,12061,530,5613,5903,15
 Richmond,101,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,80,6,23,51,0
 Richmond,102,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,131,10,44,77,0
 Richmond,103,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,144,15,43,85,1
@@ -1962,7 +1921,6 @@ Richmond,807,Constitutional Amendment #2<br>Authorizes penalties for sexual expl
 Richmond,808,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,195,6,101,88,0
 Richmond,809,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,84,0,59,25,0
 Richmond,810,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,39,1,18,20,0
-Richmond,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,45336,2708,21609,20946,73
 Richmond,101,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,293,14,119,160,0
 Richmond,102,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,452,52,145,253,2
 Richmond,103,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,460,45,162,252,1
@@ -2032,7 +1990,6 @@ Richmond,807,Constitutional Amendment #3<br>Reforms and re-establishes the Judic
 Richmond,808,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,854,46,386,422,0
 Richmond,809,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,348,14,235,98,1
 Richmond,810,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,151,4,84,63,0
-Richmond,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,23618,1220,11045,11330,23
 Richmond,101,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,197,18,53,126,0
 Richmond,102,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,213,18,73,122,0
 Richmond,103,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,226,27,88,110,1
@@ -2102,7 +2059,6 @@ Richmond,807,Constitutional Amendment #3<br>Reforms and re-establishes the Judic
 Richmond,808,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,453,16,197,240,0
 Richmond,809,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,166,4,114,48,0
 Richmond,810,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,71,2,29,40,0
-Richmond,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,58509,3697,27916,26825,71
 Richmond,101,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,451,30,167,254,0
 Richmond,102,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,563,66,192,303,2
 Richmond,103,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,556,57,211,287,1
@@ -2172,7 +2128,6 @@ Richmond,807,Constitutional Amendment #4<br>Dedicates revenue from existing taxe
 Richmond,808,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1106,60,495,551,0
 Richmond,809,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,427,16,302,108,1
 Richmond,810,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,176,5,93,78,0
-Richmond,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,14152,523,6508,7097,24
 Richmond,101,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,91,8,29,54,0
 Richmond,102,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,132,9,36,87,0
 Richmond,103,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,162,18,48,95,1
@@ -2242,7 +2197,6 @@ Richmond,807,Constitutional Amendment #4<br>Dedicates revenue from existing taxe
 Richmond,808,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,249,3,110,136,0
 Richmond,809,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,108,2,66,40,0
 Richmond,810,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,57,2,25,30,0
-Richmond,,ESPLOST,,,YES,49619,3037,23541,22966,75
 Richmond,101,ESPLOST,,,YES,367,21,131,215,0
 Richmond,102,ESPLOST,,,YES,478,56,162,259,1
 Richmond,103,ESPLOST,,,YES,529,58,195,274,2
@@ -2312,7 +2266,6 @@ Richmond,807,ESPLOST,,,YES,494,24,224,246,0
 Richmond,808,ESPLOST,,,YES,843,48,391,404,0
 Richmond,809,ESPLOST,,,YES,364,13,256,94,1
 Richmond,810,ESPLOST,,,YES,130,4,65,61,0
-Richmond,,ESPLOST,,,NO,22646,1081,10784,10759,22
 Richmond,101,ESPLOST,,,NO,159,11,60,88,0
 Richmond,102,ESPLOST,,,NO,217,16,64,136,1
 Richmond,103,ESPLOST,,,NO,187,16,63,108,0

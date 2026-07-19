@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Jackson,,President,,REP,JEB BUSH,42,0,27,15,0
 Jackson,North Jefferson,President,,REP,JEB BUSH,8,0,3,5,0
 Jackson,North Minish,President,,REP,JEB BUSH,2,0,1,1,0
 Jackson,South Jefferson,President,,REP,JEB BUSH,1,0,0,1,0
@@ -16,7 +15,6 @@ Jackson,Talmo,President,,REP,JEB BUSH,0,0,0,0,0
 Jackson,Center,President,,REP,JEB BUSH,1,0,1,0,0
 Jackson,Attica,President,,REP,JEB BUSH,1,0,1,0,0
 Jackson,Porter,President,,REP,JEB BUSH,3,0,3,0,0
-Jackson,,President,,REP,BEN CARSON,830,5,702,123,0
 Jackson,North Jefferson,President,,REP,BEN CARSON,130,0,104,26,0
 Jackson,North Minish,President,,REP,BEN CARSON,46,1,39,6,0
 Jackson,South Jefferson,President,,REP,BEN CARSON,75,0,58,17,0
@@ -33,7 +31,6 @@ Jackson,Talmo,President,,REP,BEN CARSON,29,0,28,1,0
 Jackson,Center,President,,REP,BEN CARSON,18,0,18,0,0
 Jackson,Attica,President,,REP,BEN CARSON,25,1,20,4,0
 Jackson,Porter,President,,REP,BEN CARSON,92,0,84,8,0
-Jackson,,President,,REP,CHRIS CHRISTIE,12,1,7,4,0
 Jackson,North Jefferson,President,,REP,CHRIS CHRISTIE,2,0,0,2,0
 Jackson,North Minish,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
 Jackson,South Jefferson,President,,REP,CHRIS CHRISTIE,2,1,0,1,0
@@ -50,7 +47,6 @@ Jackson,Talmo,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
 Jackson,Center,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
 Jackson,Attica,President,,REP,CHRIS CHRISTIE,0,0,0,0,0
 Jackson,Porter,President,,REP,CHRIS CHRISTIE,1,0,1,0,0
-Jackson,,President,,REP,TED CRUZ,3553,40,2921,590,2
 Jackson,North Jefferson,President,,REP,TED CRUZ,548,9,406,131,2
 Jackson,North Minish,President,,REP,TED CRUZ,163,2,130,31,0
 Jackson,South Jefferson,President,,REP,TED CRUZ,249,4,173,72,0
@@ -67,7 +63,6 @@ Jackson,Talmo,President,,REP,TED CRUZ,126,1,113,12,0
 Jackson,Center,President,,REP,TED CRUZ,72,3,68,1,0
 Jackson,Attica,President,,REP,TED CRUZ,166,0,150,16,0
 Jackson,Porter,President,,REP,TED CRUZ,403,4,352,47,0
-Jackson,,President,,REP,CARLY FIORINA,9,0,9,0,0
 Jackson,North Jefferson,President,,REP,CARLY FIORINA,1,0,1,0,0
 Jackson,North Minish,President,,REP,CARLY FIORINA,0,0,0,0,0
 Jackson,South Jefferson,President,,REP,CARLY FIORINA,0,0,0,0,0
@@ -84,7 +79,6 @@ Jackson,Talmo,President,,REP,CARLY FIORINA,1,0,1,0,0
 Jackson,Center,President,,REP,CARLY FIORINA,2,0,2,0,0
 Jackson,Attica,President,,REP,CARLY FIORINA,0,0,0,0,0
 Jackson,Porter,President,,REP,CARLY FIORINA,0,0,0,0,0
-Jackson,,President,,REP,LINDSEY GRAHAM,5,1,4,0,0
 Jackson,North Jefferson,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
 Jackson,North Minish,President,,REP,LINDSEY GRAHAM,2,1,1,0,0
 Jackson,South Jefferson,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
@@ -101,7 +95,6 @@ Jackson,Talmo,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
 Jackson,Center,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
 Jackson,Attica,President,,REP,LINDSEY GRAHAM,0,0,0,0,0
 Jackson,Porter,President,,REP,LINDSEY GRAHAM,1,0,1,0,0
-Jackson,,President,,REP,MIKE HUCKABEE,27,0,26,1,0
 Jackson,North Jefferson,President,,REP,MIKE HUCKABEE,4,0,4,0,0
 Jackson,North Minish,President,,REP,MIKE HUCKABEE,5,0,5,0,0
 Jackson,South Jefferson,President,,REP,MIKE HUCKABEE,0,0,0,0,0
@@ -118,7 +111,6 @@ Jackson,Talmo,President,,REP,MIKE HUCKABEE,0,0,0,0,0
 Jackson,Center,President,,REP,MIKE HUCKABEE,1,0,1,0,0
 Jackson,Attica,President,,REP,MIKE HUCKABEE,1,0,1,0,0
 Jackson,Porter,President,,REP,MIKE HUCKABEE,3,0,3,0,0
-Jackson,,President,,REP,JOHN R. KASICH,404,5,303,96,0
 Jackson,North Jefferson,President,,REP,JOHN R. KASICH,80,0,49,31,0
 Jackson,North Minish,President,,REP,JOHN R. KASICH,20,0,12,8,0
 Jackson,South Jefferson,President,,REP,JOHN R. KASICH,28,0,20,8,0
@@ -135,7 +127,6 @@ Jackson,Talmo,President,,REP,JOHN R. KASICH,9,0,8,1,0
 Jackson,Center,President,,REP,JOHN R. KASICH,11,0,10,1,0
 Jackson,Attica,President,,REP,JOHN R. KASICH,19,0,16,3,0
 Jackson,Porter,President,,REP,JOHN R. KASICH,52,0,44,8,0
-Jackson,,President,,REP,GEORGE PATAKI,0,0,0,0,0
 Jackson,North Jefferson,President,,REP,GEORGE PATAKI,0,0,0,0,0
 Jackson,North Minish,President,,REP,GEORGE PATAKI,0,0,0,0,0
 Jackson,South Jefferson,President,,REP,GEORGE PATAKI,0,0,0,0,0
@@ -152,7 +143,6 @@ Jackson,Talmo,President,,REP,GEORGE PATAKI,0,0,0,0,0
 Jackson,Center,President,,REP,GEORGE PATAKI,0,0,0,0,0
 Jackson,Attica,President,,REP,GEORGE PATAKI,0,0,0,0,0
 Jackson,Porter,President,,REP,GEORGE PATAKI,0,0,0,0,0
-Jackson,,President,,REP,RAND PAUL,19,1,15,3,0
 Jackson,North Jefferson,President,,REP,RAND PAUL,3,0,3,0,0
 Jackson,North Minish,President,,REP,RAND PAUL,0,0,0,0,0
 Jackson,South Jefferson,President,,REP,RAND PAUL,3,0,2,1,0
@@ -169,7 +159,6 @@ Jackson,Talmo,President,,REP,RAND PAUL,0,0,0,0,0
 Jackson,Center,President,,REP,RAND PAUL,0,0,0,0,0
 Jackson,Attica,President,,REP,RAND PAUL,0,0,0,0,0
 Jackson,Porter,President,,REP,RAND PAUL,2,0,2,0,0
-Jackson,,President,,REP,MARCO RUBIO,2398,35,1808,554,1
 Jackson,North Jefferson,President,,REP,MARCO RUBIO,459,5,297,156,1
 Jackson,North Minish,President,,REP,MARCO RUBIO,104,3,71,30,0
 Jackson,South Jefferson,President,,REP,MARCO RUBIO,202,2,137,63,0
@@ -186,7 +175,6 @@ Jackson,Talmo,President,,REP,MARCO RUBIO,39,0,35,4,0
 Jackson,Center,President,,REP,MARCO RUBIO,39,2,33,4,0
 Jackson,Attica,President,,REP,MARCO RUBIO,74,0,65,9,0
 Jackson,Porter,President,,REP,MARCO RUBIO,247,4,199,44,0
-Jackson,,President,,REP,RICK SANTORUM,4,0,2,2,0
 Jackson,North Jefferson,President,,REP,RICK SANTORUM,0,0,0,0,0
 Jackson,North Minish,President,,REP,RICK SANTORUM,0,0,0,0,0
 Jackson,South Jefferson,President,,REP,RICK SANTORUM,0,0,0,0,0
@@ -203,7 +191,6 @@ Jackson,Talmo,President,,REP,RICK SANTORUM,0,0,0,0,0
 Jackson,Center,President,,REP,RICK SANTORUM,1,0,0,1,0
 Jackson,Attica,President,,REP,RICK SANTORUM,0,0,0,0,0
 Jackson,Porter,President,,REP,RICK SANTORUM,0,0,0,0,0
-Jackson,,President,,REP,DONALD J. TRUMP,5488,80,4178,1226,4
 Jackson,North Jefferson,President,,REP,DONALD J. TRUMP,770,13,536,221,0
 Jackson,North Minish,President,,REP,DONALD J. TRUMP,289,3,205,81,0
 Jackson,South Jefferson,President,,REP,DONALD J. TRUMP,497,7,310,179,1
@@ -220,7 +207,6 @@ Jackson,Talmo,President,,REP,DONALD J. TRUMP,184,1,164,19,0
 Jackson,Center,President,,REP,DONALD J. TRUMP,124,0,116,8,0
 Jackson,Attica,President,,REP,DONALD J. TRUMP,200,3,176,21,0
 Jackson,Porter,President,,REP,DONALD J. TRUMP,536,8,402,126,0
-Jackson,,President,,DEM,HILLARY CLINTON,1193,12,902,279,0
 Jackson,North Jefferson,President,,DEM,HILLARY CLINTON,128,2,85,41,0
 Jackson,North Minish,President,,DEM,HILLARY CLINTON,110,1,77,32,0
 Jackson,South Jefferson,President,,DEM,HILLARY CLINTON,177,4,120,53,0
@@ -237,7 +223,6 @@ Jackson,Talmo,President,,DEM,HILLARY CLINTON,16,0,7,9,0
 Jackson,Center,President,,DEM,HILLARY CLINTON,43,1,39,3,0
 Jackson,Attica,President,,DEM,HILLARY CLINTON,72,0,68,4,0
 Jackson,Porter,President,,DEM,HILLARY CLINTON,88,0,72,16,0
-Jackson,,President,,DEM,MARTIN O'MALLEY,13,0,12,1,0
 Jackson,North Jefferson,President,,DEM,MARTIN O'MALLEY,3,0,3,0,0
 Jackson,North Minish,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
 Jackson,South Jefferson,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
@@ -254,7 +239,6 @@ Jackson,Talmo,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
 Jackson,Center,President,,DEM,MARTIN O'MALLEY,0,0,0,0,0
 Jackson,Attica,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
 Jackson,Porter,President,,DEM,MARTIN O'MALLEY,1,0,1,0,0
-Jackson,,President,,DEM,BERNIE SANDERS,733,5,622,102,4
 Jackson,North Jefferson,President,,DEM,BERNIE SANDERS,125,1,102,22,0
 Jackson,North Minish,President,,DEM,BERNIE SANDERS,47,0,33,14,0
 Jackson,South Jefferson,President,,DEM,BERNIE SANDERS,59,1,43,15,0
@@ -271,7 +255,6 @@ Jackson,Talmo,President,,DEM,BERNIE SANDERS,9,0,9,0,0
 Jackson,Center,President,,DEM,BERNIE SANDERS,17,0,15,2,0
 Jackson,Attica,President,,DEM,BERNIE SANDERS,42,0,40,2,0
 Jackson,Porter,President,,DEM,BERNIE SANDERS,67,0,59,8,0
-Jackson,,President,,DEM,MICHAEL STEINBERG,9,1,6,2,0
 Jackson,North Jefferson,President,,DEM,MICHAEL STEINBERG,4,0,3,1,0
 Jackson,North Minish,President,,DEM,MICHAEL STEINBERG,1,0,0,1,0
 Jackson,South Jefferson,President,,DEM,MICHAEL STEINBERG,1,0,1,0,0
@@ -288,7 +271,6 @@ Jackson,Talmo,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
 Jackson,Center,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
 Jackson,Attica,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
 Jackson,Porter,President,,DEM,MICHAEL STEINBERG,0,0,0,0,0
-Jackson,,Special - SPLOST,,,YES,10704,153,8361,2179,11
 Jackson,North Jefferson,Special - SPLOST,,,YES,1725,21,1215,486,3
 Jackson,North Minish,Special - SPLOST,,,YES,623,11,461,151,0
 Jackson,South Jefferson,Special - SPLOST,,,YES,936,15,628,291,2
@@ -305,7 +287,6 @@ Jackson,Talmo,Special - SPLOST,,,YES,285,1,259,25,0
 Jackson,Center,Special - SPLOST,,,YES,224,5,207,12,0
 Jackson,Attica,Special - SPLOST,,,YES,421,3,375,43,0
 Jackson,Porter,Special - SPLOST,,,YES,1026,14,834,178,0
-Jackson,,Special - SPLOST,,,NO,3998,37,3168,792,1
 Jackson,North Jefferson,Special - SPLOST,,,NO,547,9,392,146,0
 Jackson,North Minish,Special - SPLOST,,,NO,159,1,109,49,0
 Jackson,South Jefferson,Special - SPLOST,,,NO,352,5,230,117,0
@@ -322,7 +303,6 @@ Jackson,Talmo,Special - SPLOST,,,NO,133,1,111,21,0
 Jackson,Center,Special - SPLOST,,,NO,105,1,96,8,0
 Jackson,Attica,Special - SPLOST,,,NO,170,1,154,15,0
 Jackson,Porter,Special - SPLOST,,,NO,456,4,376,76,0
-Jackson,,Special - ESPLOST,,,YES,10077,135,7873,2058,11
 Jackson,North Jefferson,Special - ESPLOST,,,YES,1722,21,1225,473,3
 Jackson,North Minish,Special - ESPLOST,,,YES,561,10,404,147,0
 Jackson,South Jefferson,Special - ESPLOST,,,YES,914,14,621,277,2
@@ -339,7 +319,6 @@ Jackson,Talmo,Special - ESPLOST,,,YES,264,1,237,26,0
 Jackson,Center,Special - ESPLOST,,,YES,212,4,197,11,0
 Jackson,Attica,Special - ESPLOST,,,YES,394,2,350,42,0
 Jackson,Porter,Special - ESPLOST,,,YES,964,14,791,159,0
-Jackson,,Special - ESPLOST,,,NO,4569,47,3614,907,1
 Jackson,North Jefferson,Special - ESPLOST,,,NO,548,8,379,161,0
 Jackson,North Minish,Special - ESPLOST,,,NO,218,1,164,53,0
 Jackson,South Jefferson,Special - ESPLOST,,,NO,372,5,238,129,0

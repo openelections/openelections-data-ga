@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Hall,,President of the United States,,,DONALD J. TRUMP,51733,2422,23488,25781,42
 Hall,01-Wilson,President of the United States,,,DONALD J. TRUMP,2279,124,493,1661,1
 Hall,02-Chicopee,President of the United States,,,DONALD J. TRUMP,710,40,284,384,2
 Hall,03-Oakwood I,President of the United States,,,DONALD J. TRUMP,800,36,396,367,1
@@ -31,7 +30,6 @@ Hall,28-Friendship I,President of the United States,,,DONALD J. TRUMP,4065,301,1
 Hall,29-Friendship II,President of the United States,,,DONALD J. TRUMP,1548,67,769,711,1
 Hall,30-Friendship III,President of the United States,,,DONALD J. TRUMP,2085,62,952,1069,2
 Hall,31-Friendship IV,President of the United States,,,DONALD J. TRUMP,1153,34,520,599,0
-Hall,,President of the United States,,,HILLARY CLINTON,16180,1081,7161,7920,18
 Hall,01-Wilson,President of the United States,,,HILLARY CLINTON,840,49,263,526,2
 Hall,02-Chicopee,President of the United States,,,HILLARY CLINTON,496,11,277,208,0
 Hall,03-Oakwood I,President of the United States,,,HILLARY CLINTON,389,10,212,167,0
@@ -63,7 +61,6 @@ Hall,28-Friendship I,President of the United States,,,HILLARY CLINTON,1108,127,3
 Hall,29-Friendship II,President of the United States,,,HILLARY CLINTON,331,27,153,151,0
 Hall,30-Friendship III,President of the United States,,,HILLARY CLINTON,543,36,255,252,0
 Hall,31-Friendship IV,President of the United States,,,HILLARY CLINTON,364,19,154,191,0
-Hall,,President of the United States,,,GARY JOHNSON,2307,124,1380,798,5
 Hall,01-Wilson,President of the United States,,,GARY JOHNSON,98,3,41,53,1
 Hall,02-Chicopee,President of the United States,,,GARY JOHNSON,60,3,30,27,0
 Hall,03-Oakwood I,President of the United States,,,GARY JOHNSON,50,3,29,18,0
@@ -95,7 +92,6 @@ Hall,28-Friendship I,President of the United States,,,GARY JOHNSON,161,8,95,58,0
 Hall,29-Friendship II,President of the United States,,,GARY JOHNSON,74,3,44,27,0
 Hall,30-Friendship III,President of the United States,,,GARY JOHNSON,107,4,74,29,0
 Hall,31-Friendship IV,President of the United States,,,GARY JOHNSON,40,0,31,9,0
-Hall,,United States Senator,,,JOHNNY ISAKSON,50124,2504,22804,24778,38
 Hall,01-Wilson,United States Senator,,,JOHNNY ISAKSON,2247,133,492,1621,1
 Hall,02-Chicopee,United States Senator,,,JOHNNY ISAKSON,693,37,283,371,2
 Hall,03-Oakwood I,United States Senator,,,JOHNNY ISAKSON,759,39,374,346,0
@@ -127,7 +123,6 @@ Hall,28-Friendship I,United States Senator,,,JOHNNY ISAKSON,4017,310,1520,2187,0
 Hall,29-Friendship II,United States Senator,,,JOHNNY ISAKSON,1484,68,742,673,1
 Hall,30-Friendship III,United States Senator,,,JOHNNY ISAKSON,2006,57,912,1035,2
 Hall,31-Friendship IV,United States Senator,,,JOHNNY ISAKSON,1144,34,530,580,0
-Hall,,United States Senator,,,JIM BARKSDALE,13602,891,6026,6663,22
 Hall,01-Wilson,United States Senator,,,JIM BARKSDALE,691,38,215,435,3
 Hall,02-Chicopee,United States Senator,,,JIM BARKSDALE,427,12,237,178,0
 Hall,03-Oakwood I,United States Senator,,,JIM BARKSDALE,348,6,186,156,0
@@ -159,7 +154,6 @@ Hall,28-Friendship I,United States Senator,,,JIM BARKSDALE,851,107,266,478,0
 Hall,29-Friendship II,United States Senator,,,JIM BARKSDALE,286,20,123,143,0
 Hall,30-Friendship III,United States Senator,,,JIM BARKSDALE,468,30,218,220,0
 Hall,31-Friendship IV,United States Senator,,,JIM BARKSDALE,293,13,124,156,0
-Hall,,United States Senator,,,ALLEN BUCKLEY,3547,179,1888,1476,4
 Hall,01-Wilson,United States Senator,,,ALLEN BUCKLEY,141,6,58,77,0
 Hall,02-Chicopee,United States Senator,,,ALLEN BUCKLEY,66,3,34,29,0
 Hall,03-Oakwood I,United States Senator,,,ALLEN BUCKLEY,70,2,42,25,1
@@ -191,7 +185,6 @@ Hall,28-Friendship I,United States Senator,,,ALLEN BUCKLEY,257,19,124,114,0
 Hall,29-Friendship II,United States Senator,,,ALLEN BUCKLEY,112,7,63,42,0
 Hall,30-Friendship III,United States Senator,,,ALLEN BUCKLEY,161,10,92,59,0
 Hall,31-Friendship IV,United States Senator,,,ALLEN BUCKLEY,73,5,35,33,0
-Hall,,"Public Service Commission, District 2",2,,TIM ECHOLS,53944,2669,24689,26542,44
 Hall,01-Wilson,"Public Service Commission, District 2",2,,TIM ECHOLS,2431,139,552,1739,1
 Hall,02-Chicopee,"Public Service Commission, District 2",2,,TIM ECHOLS,804,38,357,407,2
 Hall,03-Oakwood I,"Public Service Commission, District 2",2,,TIM ECHOLS,858,35,444,378,1
@@ -223,7 +216,6 @@ Hall,28-Friendship I,"Public Service Commission, District 2",2,,TIM ECHOLS,4243,
 Hall,29-Friendship II,"Public Service Commission, District 2",2,,TIM ECHOLS,1563,69,788,705,1
 Hall,30-Friendship III,"Public Service Commission, District 2",2,,TIM ECHOLS,2124,63,967,1093,1
 Hall,31-Friendship IV,"Public Service Commission, District 2",2,,TIM ECHOLS,1225,40,561,624,0
-Hall,,"Public Service Commission, District 2",2,,ERIC HOSKINS,11950,592,5721,5621,16
 Hall,01-Wilson,"Public Service Commission, District 2",2,,ERIC HOSKINS,576,24,196,353,3
 Hall,02-Chicopee,"Public Service Commission, District 2",2,,ERIC HOSKINS,338,7,181,150,0
 Hall,03-Oakwood I,"Public Service Commission, District 2",2,,ERIC HOSKINS,295,9,160,126,0
@@ -255,7 +247,6 @@ Hall,28-Friendship I,"Public Service Commission, District 2",2,,ERIC HOSKINS,782
 Hall,29-Friendship II,"Public Service Commission, District 2",2,,ERIC HOSKINS,306,17,154,135,0
 Hall,30-Friendship III,"Public Service Commission, District 2",2,,ERIC HOSKINS,485,22,257,206,0
 Hall,31-Friendship IV,"Public Service Commission, District 2",2,,ERIC HOSKINS,249,10,110,129,0
-Hall,,U.S. Representative,9,,DOUG COLLINS,60542,2907,28292,29288,55
 Hall,01-Wilson,U.S. Representative,9,,DOUG COLLINS,2739,150,677,1909,3
 Hall,02-Chicopee,U.S. Representative,9,,DOUG COLLINS,1039,42,484,511,2
 Hall,03-Oakwood I,U.S. Representative,9,,DOUG COLLINS,1036,37,563,435,1
@@ -287,7 +278,6 @@ Hall,28-Friendship I,U.S. Representative,9,,DOUG COLLINS,4674,344,1812,2518,0
 Hall,29-Friendship II,U.S. Representative,9,,DOUG COLLINS,1733,81,882,769,1
 Hall,30-Friendship III,U.S. Representative,9,,DOUG COLLINS,2410,77,1136,1195,2
 Hall,31-Friendship IV,U.S. Representative,9,,DOUG COLLINS,1370,45,634,691,0
-Hall,,State Senator,49,(REP,CECIL T. BUTCH MILLER,59242,2827,27428,28939,48
 Hall,01-Wilson,State Senator,49,(REP,CECIL T. BUTCH MILLER,2717,151,665,1898,3
 Hall,02-Chicopee,State Senator,49,(REP,CECIL T. BUTCH MILLER,1035,42,478,513,2
 Hall,03-Oakwood I,State Senator,49,(REP,CECIL T. BUTCH MILLER,1026,34,555,436,1
@@ -318,10 +308,8 @@ Hall,28-Friendship I,State Senator,49,(REP,CECIL T. BUTCH MILLER,4656,342,1805,2
 Hall,29-Friendship II,State Senator,49,(REP,CECIL T. BUTCH MILLER,1747,80,883,783,1
 Hall,30-Friendship III,State Senator,49,(REP,CECIL T. BUTCH MILLER,2390,71,1120,1198,1
 Hall,31-Friendship IV,State Senator,49,(REP,CECIL T. BUTCH MILLER,1379,46,638,695,0
-Hall,,State Senator,50,,JOHN K WILKINSON,1378,51,866,461,0
 Hall,11-Tadmore,State Senator,50,,JOHN K WILKINSON,735,22,448,265,0
 Hall,26-Gillsville,State Senator,50,,JOHN K WILKINSON,643,29,418,196,0
-Hall,,State Representative,27,(REP,LEE HAWKINS,18729,752,9369,8604,4
 Hall,11-Tadmore,State Representative,27,(REP,LEE HAWKINS,963,33,490,439,1
 Hall,12-Glade,State Representative,27,(REP,LEE HAWKINS,749,40,373,336,0
 Hall,13-Lula,State Representative,27,(REP,LEE HAWKINS,1701,66,1023,612,0
@@ -334,7 +322,6 @@ Hall,19-Whelchel,State Representative,27,(REP,LEE HAWKINS,1392,60,653,679,0
 Hall,23-Gainesville III,State Representative,27,(REP,LEE HAWKINS,596,28,292,276,0
 Hall,26-Gillsville,State Representative,27,(REP,LEE HAWKINS,649,30,422,197,0
 Hall,27-Big Hickory,State Representative,27,(REP,LEE HAWKINS,2271,84,1073,1113,1
-Hall,,State Representative,29,REP,MATT DUBNIK,12733,815,5149,6760,9
 Hall,01-Wilson,State Representative,29,REP,MATT DUBNIK,2346,133,543,1668,2
 Hall,02-Chicopee,State Representative,29,REP,MATT DUBNIK,821,33,350,438,0
 Hall,12-Glade,State Representative,29,REP,MATT DUBNIK,948,57,408,481,2
@@ -345,7 +332,6 @@ Hall,22-Gainesville II,State Representative,29,REP,MATT DUBNIK,589,49,249,291,0
 Hall,23-Gainesville III,State Representative,29,REP,MATT DUBNIK,1056,46,484,523,3
 Hall,24-Gainesville IV,State Representative,29,REP,MATT DUBNIK,1084,63,443,577,1
 Hall,25-Gainesville V,State Representative,29,REP,MATT DUBNIK,718,33,351,333,1
-Hall,,State Representative,30,(REP,EMORY DUNAHOO JR,15115,631,7138,7338,8
 Hall,01-Wilson,State Representative,30,(REP,EMORY DUNAHOO JR,284,14,92,178,0
 Hall,02-Chicopee,State Representative,30,(REP,EMORY DUNAHOO JR,142,5,91,45,1
 Hall,03-Oakwood I,State Representative,30,(REP,EMORY DUNAHOO JR,787,37,397,353,0
@@ -360,7 +346,6 @@ Hall,22-Gainesville II,State Representative,30,(REP,EMORY DUNAHOO JR,13,2,5,6,0
 Hall,24-Gainesville IV,State Representative,30,(REP,EMORY DUNAHOO JR,46,1,18,27,0
 Hall,30-Friendship III,State Representative,30,(REP,EMORY DUNAHOO JR,1783,52,830,900,1
 Hall,31-Friendship IV,State Representative,30,(REP,EMORY DUNAHOO JR,207,11,82,114,0
-Hall,,State Representative,30,DEM,MICHELLE JONES,5302,239,2625,2433,5
 Hall,01-Wilson,State Representative,30,DEM,MICHELLE JONES,101,6,43,52,0
 Hall,02-Chicopee,State Representative,30,DEM,MICHELLE JONES,116,3,70,43,0
 Hall,03-Oakwood I,State Representative,30,DEM,MICHELLE JONES,414,9,224,181,0
@@ -375,14 +360,12 @@ Hall,22-Gainesville II,State Representative,30,DEM,MICHELLE JONES,54,1,14,39,0
 Hall,24-Gainesville IV,State Representative,30,DEM,MICHELLE JONES,63,0,35,28,0
 Hall,30-Friendship III,State Representative,30,DEM,MICHELLE JONES,537,22,270,245,0
 Hall,31-Friendship IV,State Representative,30,DEM,MICHELLE JONES,73,3,25,45,0
-Hall,,State Representative,103,,TIMOTHY BARR,10786,578,4893,5314,1
 Hall,07-Roberts,State Representative,103,,TIMOTHY BARR,921,33,480,407,1
 Hall,08-Morgan I,State Representative,103,,TIMOTHY BARR,2077,87,1066,924,0
 Hall,28-Friendship I,State Representative,103,,TIMOTHY BARR,4631,337,1803,2491,0
 Hall,29-Friendship II,State Representative,103,,TIMOTHY BARR,1731,80,879,772,0
 Hall,30-Friendship III,State Representative,103,,TIMOTHY BARR,308,10,129,169,0
 Hall,31-Friendship IV,State Representative,103,,TIMOTHY BARR,1118,31,536,551,0
-Hall,,Probate Judge,,(R,P. W. LAINE,60357,2889,28141,29274,53
 Hall,01-Wilson,Probate Judge,,(R,P. W. LAINE,2703,146,671,1882,4
 Hall,02-Chicopee,Probate Judge,,(R,P. W. LAINE,1038,40,483,513,2
 Hall,03-Oakwood I,Probate Judge,,(R,P. W. LAINE,1036,38,555,442,1
@@ -414,7 +397,6 @@ Hall,28-Friendship I,Probate Judge,,(R,P. W. LAINE,4646,343,1805,2498,0
 Hall,29-Friendship II,Probate Judge,,(R,P. W. LAINE,1738,81,884,772,1
 Hall,30-Friendship III,Probate Judge,,(R,P. W. LAINE,2398,71,1129,1196,2
 Hall,31-Friendship IV,Probate Judge,,(R,P. W. LAINE,1370,44,632,694,0
-Hall,,Superior Court Clerk,,(R,C. BAKER,60555,2895,28214,29394,52
 Hall,01-Wilson,Superior Court Clerk,,(R,C. BAKER,2721,149,670,1898,4
 Hall,02-Chicopee,Superior Court Clerk,,(R,C. BAKER,1038,40,485,511,2
 Hall,03-Oakwood I,Superior Court Clerk,,(R,C. BAKER,1032,39,552,440,1
@@ -446,7 +428,6 @@ Hall,28-Friendship I,Superior Court Clerk,,(R,C. BAKER,4656,342,1805,2509,0
 Hall,29-Friendship II,Superior Court Clerk,,(R,C. BAKER,1737,82,881,773,1
 Hall,30-Friendship III,Superior Court Clerk,,(R,C. BAKER,2389,68,1124,1196,1
 Hall,31-Friendship IV,Superior Court Clerk,,(R,C. BAKER,1369,44,632,693,0
-Hall,,Sheriff,,(R,G. COUCH,60726,2905,28232,29535,54
 Hall,01-Wilson,Sheriff,,(R,G. COUCH,2737,150,670,1914,3
 Hall,02-Chicopee,Sheriff,,(R,G. COUCH,1041,41,485,513,2
 Hall,03-Oakwood I,Sheriff,,(R,G. COUCH,1048,38,558,451,1
@@ -478,7 +459,6 @@ Hall,28-Friendship I,Sheriff,,(R,G. COUCH,4663,348,1793,2522,0
 Hall,29-Friendship II,Sheriff,,(R,G. COUCH,1746,81,883,781,1
 Hall,30-Friendship III,Sheriff,,(R,G. COUCH,2401,71,1127,1201,2
 Hall,31-Friendship IV,Sheriff,,(R,G. COUCH,1378,45,634,699,0
-Hall,,Tax Commissioner,,(R,D. EDEN,60668,2911,28170,29534,53
 Hall,01-Wilson,Tax Commissioner,,(R,D. EDEN,2745,150,676,1915,4
 Hall,02-Chicopee,Tax Commissioner,,(R,D. EDEN,1045,42,485,516,2
 Hall,03-Oakwood I,Tax Commissioner,,(R,D. EDEN,1035,38,548,448,1
@@ -510,7 +490,6 @@ Hall,28-Friendship I,Tax Commissioner,,(R,D. EDEN,4663,344,1795,2524,0
 Hall,29-Friendship II,Tax Commissioner,,(R,D. EDEN,1747,81,884,781,1
 Hall,30-Friendship III,Tax Commissioner,,(R,D. EDEN,2383,70,1122,1189,2
 Hall,31-Friendship IV,Tax Commissioner,,(R,D. EDEN,1379,45,634,700,0
-Hall,,Surveyor,,R,C. M. PATTON,60058,2873,27962,29169,54
 Hall,01-Wilson,Surveyor,,R,C. M. PATTON,2708,150,664,1890,4
 Hall,02-Chicopee,Surveyor,,R,C. M. PATTON,1023,39,477,505,2
 Hall,03-Oakwood I,Surveyor,,R,C. M. PATTON,1025,37,544,443,1
@@ -542,7 +521,6 @@ Hall,28-Friendship I,Surveyor,,R,C. M. PATTON,4607,339,1780,2488,0
 Hall,29-Friendship II,Surveyor,,R,C. M. PATTON,1733,81,875,776,1
 Hall,30-Friendship III,Surveyor,,R,C. M. PATTON,2373,69,1117,1185,2
 Hall,31-Friendship IV,Surveyor,,R,C. M. PATTON,1362,44,631,687,0
-Hall,,Coroner,,(R,M. G. MERCK,60558,2891,28149,29465,53
 Hall,01-Wilson,Coroner,,(R,M. G. MERCK,2742,149,676,1913,4
 Hall,02-Chicopee,Coroner,,(R,M. G. MERCK,1033,43,479,509,2
 Hall,03-Oakwood I,Coroner,,(R,M. G. MERCK,1041,37,550,453,1
@@ -574,7 +552,6 @@ Hall,28-Friendship I,Coroner,,(R,M. G. MERCK,4627,341,1788,2498,0
 Hall,29-Friendship II,Coroner,,(R,M. G. MERCK,1728,82,870,775,1
 Hall,30-Friendship III,Coroner,,(R,M. G. MERCK,2398,70,1124,1202,2
 Hall,31-Friendship IV,Coroner,,(R,M. G. MERCK,1365,44,633,688,0
-Hall,,Chief Magistrate,,(R,M. S. GREGORY,59830,2853,27856,29068,53
 Hall,01-Wilson,Chief Magistrate,,(R,M. S. GREGORY,2697,149,660,1884,4
 Hall,02-Chicopee,Chief Magistrate,,(R,M. S. GREGORY,1019,40,471,506,2
 Hall,03-Oakwood I,Chief Magistrate,,(R,M. S. GREGORY,1018,37,541,439,1
@@ -606,7 +583,6 @@ Hall,28-Friendship I,Chief Magistrate,,(R,M. S. GREGORY,4607,342,1782,2483,0
 Hall,29-Friendship II,Chief Magistrate,,(R,M. S. GREGORY,1728,81,874,772,1
 Hall,30-Friendship III,Chief Magistrate,,(R,M. S. GREGORY,2367,67,1110,1188,2
 Hall,31-Friendship IV,Chief Magistrate,,(R,M. S. GREGORY,1358,44,627,687,0
-Hall,,County Comm at Large,,R,R. HIGGINS,59624,2807,27781,28987,49
 Hall,01-Wilson,County Comm at Large,,R,R. HIGGINS,2657,142,649,1863,3
 Hall,02-Chicopee,County Comm at Large,,R,R. HIGGINS,1023,41,476,504,2
 Hall,03-Oakwood I,County Comm at Large,,R,R. HIGGINS,1020,38,541,440,1
@@ -638,7 +614,6 @@ Hall,28-Friendship I,County Comm at Large,,R,R. HIGGINS,4596,335,1781,2480,0
 Hall,29-Friendship II,County Comm at Large,,R,R. HIGGINS,1720,78,869,772,1
 Hall,30-Friendship III,County Comm at Large,,R,R. HIGGINS,2355,69,1105,1180,1
 Hall,31-Friendship IV,County Comm at Large,,R,R. HIGGINS,1355,45,624,686,0
-Hall,,County Comm 2,,(R,B. POWELL,16987,849,7117,9017,4
 Hall,01-Wilson,County Comm 2,,(R,B. POWELL,2611,141,638,1831,1
 Hall,02-Chicopee,County Comm 2,,(R,B. POWELL,816,34,345,437,0
 Hall,03-Oakwood I,County Comm 2,,(R,B. POWELL,1018,38,544,436,0
@@ -648,7 +623,6 @@ Hall,16-Bark Camp,County Comm 2,,(R,B. POWELL,2943,124,1376,1443,0
 Hall,17-Chestatee,County Comm 2,,(R,B. POWELL,2002,93,879,1029,1
 Hall,18-Fork,County Comm 2,,(R,B. POWELL,1859,63,764,1032,0
 Hall,20-West Whelchel,County Comm 2,,(R,B. POWELL,2438,234,1058,1146,0
-Hall,,County Comm 4,,(R,J. R. STOWE,5769,319,2576,2870,4
 Hall,02-Chicopee,County Comm 4,,(R,J. R. STOWE,142,7,88,46,1
 Hall,10-Candler,County Comm 4,,(R,J. R. STOWE,631,27,292,312,0
 Hall,11-Tadmore,County Comm 4,,(R,J. R. STOWE,194,7,104,83,0
@@ -659,7 +633,6 @@ Hall,22-Gainesville II,County Comm 4,,(R,J. R. STOWE,119,10,48,61,0
 Hall,23-Gainesville III,County Comm 4,,(R,J. R. STOWE,1150,58,507,584,1
 Hall,24-Gainesville IV,County Comm 4,,(R,J. R. STOWE,893,52,354,486,1
 Hall,25-Gainesville V,County Comm 4,,(R,J. R. STOWE,567,27,270,270,0
-Hall,,County Comm 4,,D,A. T. MIDDLETON,4133,264,1778,2087,4
 Hall,02-Chicopee,County Comm 4,,D,A. T. MIDDLETON,111,2,66,43,0
 Hall,10-Candler,County Comm 4,,D,A. T. MIDDLETON,244,9,109,125,1
 Hall,11-Tadmore,County Comm 4,,D,A. T. MIDDLETON,302,13,113,176,0
@@ -670,7 +643,6 @@ Hall,22-Gainesville II,County Comm 4,,D,A. T. MIDDLETON,1007,105,409,493,0
 Hall,23-Gainesville III,County Comm 4,,D,A. T. MIDDLETON,857,33,388,434,2
 Hall,24-Gainesville IV,County Comm 4,,D,A. T. MIDDLETON,492,28,205,259,0
 Hall,25-Gainesville V,County Comm 4,,D,A. T. MIDDLETON,260,16,134,109,1
-Hall,,BOE 3,,(R,C. HERRINGTON,50662,2303,24175,24156,28
 Hall,01-Wilson,BOE 3,,(R,C. HERRINGTON,1466,74,452,939,1
 Hall,02-Chicopee,BOE 3,,(R,C. HERRINGTON,440,25,250,164,1
 Hall,03-Oakwood I,BOE 3,,(R,C. HERRINGTON,1015,38,542,435,0
@@ -702,7 +674,6 @@ Hall,28-Friendship I,BOE 3,,(R,C. HERRINGTON,4583,335,1779,2469,0
 Hall,29-Friendship II,BOE 3,,(R,C. HERRINGTON,1673,77,849,746,1
 Hall,30-Friendship III,BOE 3,,(R,C. HERRINGTON,2371,70,1113,1187,1
 Hall,31-Friendship IV,BOE 3,,(R,C. HERRINGTON,1353,43,626,684,0
-Hall,,BOE 4,,(R,N. MORRIS,50761,2319,24210,24204,28
 Hall,01-Wilson,BOE 4,,(R,N. MORRIS,1468,73,459,935,1
 Hall,02-Chicopee,BOE 4,,(R,N. MORRIS,435,22,249,163,1
 Hall,03-Oakwood I,BOE 4,,(R,N. MORRIS,1020,37,546,437,0
@@ -734,7 +705,6 @@ Hall,28-Friendship I,BOE 4,,(R,N. MORRIS,4581,336,1776,2469,0
 Hall,29-Friendship II,BOE 4,,(R,N. MORRIS,1683,77,853,752,1
 Hall,30-Friendship III,BOE 4,,(R,N. MORRIS,2369,70,1117,1181,1
 Hall,31-Friendship IV,BOE 4,,(R,N. MORRIS,1361,43,632,686,0
-Hall,,Soil and Water,,,M. HAYNES,53039,2717,24350,25934,38
 Hall,01-Wilson,Soil and Water,,,M. HAYNES,2381,134,596,1649,2
 Hall,02-Chicopee,Soil and Water,,,M. HAYNES,886,36,402,446,2
 Hall,03-Oakwood I,Soil and Water,,,M. HAYNES,884,35,460,388,1
@@ -766,7 +736,6 @@ Hall,28-Friendship I,Soil and Water,,,M. HAYNES,4190,330,1567,2293,0
 Hall,29-Friendship II,Soil and Water,,,M. HAYNES,1533,73,771,689,0
 Hall,30-Friendship III,Soil and Water,,,M. HAYNES,2092,65,972,1054,1
 Hall,31-Friendship IV,Soil and Water,,,M. HAYNES,1230,41,557,632,0
-Hall,,Soil and Water,,,T. NIX,42643,2509,19258,20839,37
 Hall,01-Wilson,Soil and Water,,,T. NIX,1984,124,468,1388,4
 Hall,02-Chicopee,Soil and Water,,,T. NIX,743,40,338,363,2
 Hall,03-Oakwood I,Soil and Water,,,T. NIX,705,31,372,301,1
@@ -798,7 +767,6 @@ Hall,28-Friendship I,Soil and Water,,,T. NIX,3483,309,1299,1875,0
 Hall,29-Friendship II,Soil and Water,,,T. NIX,1248,71,591,585,1
 Hall,30-Friendship III,Soil and Water,,,T. NIX,1653,60,743,849,1
 Hall,31-Friendship IV,Soil and Water,,,T. NIX,1049,42,469,538,0
-Hall,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,29436,1692,13245,14469,30
 Hall,01-Wilson,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1473,86,362,1023,2
 Hall,02-Chicopee,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,552,25,267,258,2
 Hall,03-Oakwood I,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,537,22,262,253,0
@@ -830,7 +798,6 @@ Hall,28-Friendship I,Constitutional Amendment #1<br>Provides greater flexibility
 Hall,29-Friendship II,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,809,44,420,344,1
 Hall,30-Friendship III,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1125,46,523,556,0
 Hall,31-Friendship IV,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,689,27,317,345,0
-Hall,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,39841,1788,18566,19459,28
 Hall,01-Wilson,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1694,88,422,1182,2
 Hall,02-Chicopee,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,671,24,306,341,0
 Hall,03-Oakwood I,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,683,25,367,290,1
@@ -862,7 +829,6 @@ Hall,28-Friendship I,Constitutional Amendment #1<br>Provides greater flexibility
 Hall,29-Friendship II,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1126,46,544,536,0
 Hall,30-Friendship III,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1566,42,748,775,1
 Hall,31-Friendship IV,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,869,26,394,449,0
-Hall,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,57634,2968,26260,28355,51
 Hall,01-Wilson,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2674,146,659,1865,4
 Hall,02-Chicopee,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1040,37,487,515,1
 Hall,03-Oakwood I,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1011,34,523,453,1
@@ -894,7 +860,6 @@ Hall,28-Friendship I,Constitutional Amendment #2<br>Authorizes penalties for sex
 Hall,29-Friendship II,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1625,75,812,737,1
 Hall,30-Friendship III,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2276,75,1065,1136,0
 Hall,31-Friendship IV,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1357,50,611,696,0
-Hall,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,10960,486,5256,5212,6
 Hall,01-Wilson,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,465,25,124,316,0
 Hall,02-Chicopee,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,178,12,88,77,1
 Hall,03-Oakwood I,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,194,14,101,79,0
@@ -926,7 +891,6 @@ Hall,28-Friendship I,Constitutional Amendment #2<br>Authorizes penalties for sex
 Hall,29-Friendship II,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,309,17,153,139,0
 Hall,30-Friendship III,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,390,11,187,191,1
 Hall,31-Friendship IV,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,167,3,82,82,0
-Hall,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,40928,2116,18490,20288,34
 Hall,01-Wilson,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1960,113,479,1366,2
 Hall,02-Chicopee,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,768,32,367,368,1
 Hall,03-Oakwood I,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,747,25,381,340,1
@@ -958,7 +922,6 @@ Hall,28-Friendship I,Constitutional Amendment #3<br>Reforms and re-establishes t
 Hall,29-Friendship II,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1174,62,589,522,1
 Hall,30-Friendship III,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1668,57,766,845,0
 Hall,31-Friendship IV,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,946,37,420,489,0
-Hall,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,23786,1109,11207,11448,22
 Hall,01-Wilson,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,1004,42,262,698,2
 Hall,02-Chicopee,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,383,15,182,185,1
 Hall,03-Oakwood I,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,399,18,217,164,0
@@ -990,7 +953,6 @@ Hall,28-Friendship I,Constitutional Amendment #3<br>Reforms and re-establishes t
 Hall,29-Friendship II,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,663,25,320,318,0
 Hall,30-Friendship III,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,844,25,403,415,1
 Hall,31-Friendship IV,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,486,12,233,241,0
-Hall,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,55321,2949,24885,27437,50
 Hall,01-Wilson,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,2611,147,628,1832,4
 Hall,02-Chicopee,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,998,42,459,495,2
 Hall,03-Oakwood I,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,991,40,515,435,1
@@ -1022,7 +984,6 @@ Hall,28-Friendship I,Constitutional Amendment #4<br>Dedicates revenue from exist
 Hall,29-Friendship II,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1549,79,759,710,1
 Hall,30-Friendship III,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,2189,74,1024,1090,1
 Hall,31-Friendship IV,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1282,43,562,677,0
-Hall,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,12711,485,6344,5875,7
 Hall,01-Wilson,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,496,22,146,328,0
 Hall,02-Chicopee,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,197,7,107,83,0
 Hall,03-Oakwood I,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,198,5,104,89,0
@@ -1054,7 +1015,6 @@ Hall,28-Friendship I,Constitutional Amendment #4<br>Dedicates revenue from exist
 Hall,29-Friendship II,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,377,13,201,163,0
 Hall,30-Friendship III,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,448,11,217,220,0
 Hall,31-Friendship IV,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,232,9,132,91,0
-Hall,,Advisory Referendum,,,YES,31178,1553,13828,15769,28
 Hall,01-Wilson,Advisory Referendum,,,YES,1591,77,399,1113,2
 Hall,02-Chicopee,Advisory Referendum,,,YES,588,20,286,280,2
 Hall,03-Oakwood I,Advisory Referendum,,,YES,545,20,272,252,1
@@ -1086,7 +1046,6 @@ Hall,28-Friendship I,Advisory Referendum,,,YES,2539,236,899,1404,0
 Hall,29-Friendship II,Advisory Referendum,,,YES,818,37,402,378,1
 Hall,30-Friendship III,Advisory Referendum,,,YES,1204,39,551,614,0
 Hall,31-Friendship IV,Advisory Referendum,,,YES,731,16,333,382,0
-Hall,,Advisory Referendum,,,NO,33718,1723,15884,16087,24
 Hall,01-Wilson,Advisory Referendum,,,NO,1377,84,337,954,2
 Hall,02-Chicopee,Advisory Referendum,,,NO,548,28,254,266,0
 Hall,03-Oakwood I,Advisory Referendum,,,NO,600,21,324,255,0
@@ -1118,7 +1077,5 @@ Hall,28-Friendship I,Advisory Referendum,,,NO,2365,172,931,1262,0
 Hall,29-Friendship II,Advisory Referendum,,,NO,1023,50,516,457,0
 Hall,30-Friendship III,Advisory Referendum,,,NO,1322,47,628,646,1
 Hall,31-Friendship IV,Advisory Referendum,,,NO,686,29,319,338,0
-Hall,,Special,,,YES,462,12,303,147,0
 Hall,13-Lula,Special,,,YES,462,12,303,147,0
-Hall,,Special,,,NO,336,9,232,94,1
 Hall,13-Lula,Special,,,NO,336,9,232,94,1

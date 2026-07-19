@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Houston,,President of the United States,,,DONALD J. TRUMP,35430,1478,10481,23416,55
 Houston,ANNX,President of the United States,,,DONALD J. TRUMP,2077,114,486,1476,1
 Houston,BMS,President of the United States,,,DONALD J. TRUMP,3875,165,1184,2525,1
 Houston,CENT,President of the United States,,,DONALD J. TRUMP,2791,113,965,1706,7
@@ -17,7 +16,6 @@ Houston,ROZR,President of the United States,,,DONALD J. TRUMP,4961,191,1080,3690
 Houston,TMS,President of the United States,,,DONALD J. TRUMP,1292,53,418,818,3
 Houston,TWPK,President of the United States,,,DONALD J. TRUMP,1797,69,566,1159,3
 Houston,VHS,President of the United States,,,DONALD J. TRUMP,2402,67,734,1599,2
-Houston,,President of the United States,,,HILLARY CLINTON,22553,1085,7537,13860,71
 Houston,ANNX,President of the United States,,,HILLARY CLINTON,828,33,218,575,2
 Houston,BMS,President of the United States,,,HILLARY CLINTON,1500,77,423,1000,0
 Houston,CENT,President of the United States,,,HILLARY CLINTON,1519,63,528,924,4
@@ -35,7 +33,6 @@ Houston,ROZR,President of the United States,,,HILLARY CLINTON,2475,157,733,1581,
 Houston,TMS,President of the United States,,,HILLARY CLINTON,1495,65,533,893,4
 Houston,TWPK,President of the United States,,,HILLARY CLINTON,1060,47,353,658,2
 Houston,VHS,President of the United States,,,HILLARY CLINTON,899,36,282,576,5
-Houston,,President of the United States,,,GARY JOHNSON,1761,99,791,861,10
 Houston,ANNX,President of the United States,,,GARY JOHNSON,98,17,35,45,1
 Houston,BMS,President of the United States,,,GARY JOHNSON,155,10,71,74,0
 Houston,CENT,President of the United States,,,GARY JOHNSON,130,6,75,49,0
@@ -53,7 +50,6 @@ Houston,ROZR,President of the United States,,,GARY JOHNSON,195,10,70,115,0
 Houston,TMS,President of the United States,,,GARY JOHNSON,87,3,45,39,0
 Houston,TWPK,President of the United States,,,GARY JOHNSON,106,4,40,62,0
 Houston,VHS,President of the United States,,,GARY JOHNSON,89,3,39,47,0
-Houston,,United States Senator,,,JOHNNY ISAKSON,35289,1571,10594,23069,55
 Houston,ANNX,United States Senator,,,JOHNNY ISAKSON,2058,129,503,1425,1
 Houston,BMS,United States Senator,,,JOHNNY ISAKSON,3822,171,1172,2478,1
 Houston,CENT,United States Senator,,,JOHNNY ISAKSON,2704,115,961,1622,6
@@ -71,7 +67,6 @@ Houston,ROZR,United States Senator,,,JOHNNY ISAKSON,4934,207,1086,3640,1
 Houston,TMS,United States Senator,,,JOHNNY ISAKSON,1315,54,418,841,2
 Houston,TWPK,United States Senator,,,JOHNNY ISAKSON,1778,68,569,1139,2
 Houston,VHS,United States Senator,,,JOHNNY ISAKSON,2358,73,736,1547,2
-Houston,,United States Senator,,,JIM BARKSDALE,19191,978,6364,11784,65
 Houston,ANNX,United States Senator,,,JIM BARKSDALE,707,32,178,495,2
 Houston,BMS,United States Senator,,,JIM BARKSDALE,1275,57,373,845,0
 Houston,CENT,United States Senator,,,JIM BARKSDALE,1313,60,443,807,3
@@ -89,7 +84,6 @@ Houston,ROZR,United States Senator,,,JIM BARKSDALE,2053,136,601,1313,3
 Houston,TMS,United States Senator,,,JIM BARKSDALE,1310,59,468,779,4
 Houston,TWPK,United States Senator,,,JIM BARKSDALE,914,47,302,564,1
 Houston,VHS,United States Senator,,,JIM BARKSDALE,739,32,226,477,4
-Houston,,United States Senator,,,ALLEN BUCKLEY,2063,94,837,1124,8
 Houston,ANNX,United States Senator,,,ALLEN BUCKLEY,107,8,38,60,1
 Houston,BMS,United States Senator,,,ALLEN BUCKLEY,204,20,88,96,0
 Houston,CENT,United States Senator,,,ALLEN BUCKLEY,170,8,84,78,0
@@ -107,7 +101,6 @@ Houston,ROZR,United States Senator,,,ALLEN BUCKLEY,196,4,66,126,0
 Houston,TMS,United States Senator,,,ALLEN BUCKLEY,100,3,47,49,1
 Houston,TWPK,United States Senator,,,ALLEN BUCKLEY,107,2,48,57,0
 Houston,VHS,United States Senator,,,ALLEN BUCKLEY,118,1,46,70,1
-Houston,,"Public Service Commission, District 2",2,,TIM ECHOLS,39031,1708,11732,25526,65
 Houston,ANNX,"Public Service Commission, District 2",2,,TIM ECHOLS,2220,137,522,1559,2
 Houston,BMS,"Public Service Commission, District 2",2,,TIM ECHOLS,4167,190,1264,2712,1
 Houston,CENT,"Public Service Commission, District 2",2,,TIM ECHOLS,2946,125,1037,1776,8
@@ -125,7 +118,6 @@ Houston,ROZR,"Public Service Commission, District 2",2,,TIM ECHOLS,5279,223,1199
 Houston,TMS,"Public Service Commission, District 2",2,,TIM ECHOLS,1559,62,514,981,2
 Houston,TWPK,"Public Service Commission, District 2",2,,TIM ECHOLS,2021,81,639,1299,2
 Houston,VHS,"Public Service Commission, District 2",2,,TIM ECHOLS,2541,73,793,1670,5
-Houston,,"Public Service Commission, District 2",2,,ERIC HOSKINS,14049,550,5102,8362,35
 Houston,ANNX,"Public Service Commission, District 2",2,,ERIC HOSKINS,545,20,164,359,2
 Houston,BMS,"Public Service Commission, District 2",2,,ERIC HOSKINS,996,35,336,625,0
 Houston,CENT,"Public Service Commission, District 2",2,,ERIC HOSKINS,990,30,377,582,1
@@ -143,7 +135,6 @@ Houston,ROZR,"Public Service Commission, District 2",2,,ERIC HOSKINS,1422,63,474
 Houston,TMS,"Public Service Commission, District 2",2,,ERIC HOSKINS,935,37,362,534,2
 Houston,TWPK,"Public Service Commission, District 2",2,,ERIC HOSKINS,663,23,239,401,0
 Houston,VHS,"Public Service Commission, District 2",2,,ERIC HOSKINS,593,22,190,380,1
-Houston,,U.S. Representative,8,,AUSTIN SCOTT,37646,1636,11375,24576,59
 Houston,ANNX,U.S. Representative,8,,AUSTIN SCOTT,2182,130,519,1532,1
 Houston,BMS,U.S. Representative,8,,AUSTIN SCOTT,4110,184,1265,2661,0
 Houston,CENT,U.S. Representative,8,,AUSTIN SCOTT,2900,118,1035,1741,6
@@ -161,7 +152,6 @@ Houston,ROZR,U.S. Representative,8,,AUSTIN SCOTT,5171,211,1154,3805,1
 Houston,TMS,U.S. Representative,8,,AUSTIN SCOTT,1398,54,462,879,3
 Houston,TWPK,U.S. Representative,8,,AUSTIN SCOTT,1928,73,617,1236,2
 Houston,VHS,U.S. Representative,8,,AUSTIN SCOTT,2525,73,793,1656,3
-Houston,,U.S. Representative,8,,JAMES NEAL HARRIS,20886,960,7010,12847,69
 Houston,ANNX,U.S. Representative,8,,JAMES NEAL HARRIS,775,35,199,538,3
 Houston,BMS,U.S. Representative,8,,JAMES NEAL HARRIS,1373,57,410,905,1
 Houston,CENT,U.S. Representative,8,,JAMES NEAL HARRIS,1425,57,497,868,3
@@ -179,13 +169,11 @@ Houston,ROZR,U.S. Representative,8,,JAMES NEAL HARRIS,2249,133,673,1440,3
 Houston,TMS,U.S. Representative,8,,JAMES NEAL HARRIS,1426,62,512,848,4
 Houston,TWPK,U.S. Representative,8,,JAMES NEAL HARRIS,994,44,330,619,1
 Houston,VHS,U.S. Representative,8,,JAMES NEAL HARRIS,810,32,247,527,4
-Houston,,State Senator,18,,JOHN F. KENNEDY,8031,327,2826,4870,8
 Houston,CENT,State Senator,18,,JOHN F. KENNEDY,3520,136,1276,2104,4
 Houston,HHPC,State Senator,18,,JOHN F. KENNEDY,2020,87,602,1329,2
 Houston,NSES,State Senator,18,,JOHN F. KENNEDY,1190,53,474,662,1
 Houston,RECR,State Senator,18,,JOHN F. KENNEDY,357,16,128,212,1
 Houston,TMS,State Senator,18,,JOHN F. KENNEDY,944,35,346,563,0
-Houston,,State Senator,20,,LARRY WALKER,38369,1589,11615,25113,52
 Houston,ANNX,State Senator,20,,LARRY WALKER,2581,142,636,1801,2
 Houston,BMS,State Senator,20,,LARRY WALKER,4831,209,1505,3117,0
 Houston,CGTC,State Senator,20,,LARRY WALKER,2340,77,498,1762,3
@@ -201,20 +189,15 @@ Houston,ROZR,State Senator,20,,LARRY WALKER,6491,273,1583,4634,1
 Houston,TMS,State Senator,20,,LARRY WALKER,1190,50,400,738,2
 Houston,TWPK,State Senator,20,,LARRY WALKER,2438,91,784,1562,1
 Houston,VHS,State Senator,20,,LARRY WALKER,2917,81,927,1904,5
-Houston,,State Senator,26,,DAVID LUCAS SR,2458,144,1028,1283,3
 Houston,HHPC,State Senator,26,,DAVID LUCAS SR,202,10,83,108,1
 Houston,NSES,State Senator,26,,DAVID LUCAS SR,33,3,15,15,0
 Houston,RECR,State Senator,26,,DAVID LUCAS SR,2223,131,930,1160,2
-Houston,,State Representative,140,,ROBERT DICKEY,3918,181,1444,2286,7
 Houston,CENT,State Representative,140,,ROBERT DICKEY,244,6,95,141,2
 Houston,HHPC,State Representative,140,,ROBERT DICKEY,1324,53,411,859,1
 Houston,NSES,State Representative,140,,ROBERT DICKEY,1223,57,497,668,1
 Houston,RECR,State Representative,140,,ROBERT DICKEY,1127,65,441,618,3
-Houston,,State Representative,144,,JAMES BUBBER EPPS,2495,84,824,1587,0
 Houston,BMS,State Representative,144,,JAMES BUBBER EPPS,2495,84,824,1587,0
-Houston,,State Representative,144,,JOYCE DENSON,849,34,260,555,0
 Houston,BMS,State Representative,144,,JOYCE DENSON,849,34,260,555,0
-Houston,,State Representative,146,(REP,SHAW BLACKMON,21346,827,5899,14594,26
 Houston,BMS,State Representative,146,(REP,SHAW BLACKMON,1842,108,511,1223,0
 Houston,CGTC,State Representative,146,(REP,SHAW BLACKMON,2306,77,482,1745,2
 Houston,FMMS,State Representative,146,(REP,SHAW BLACKMON,4298,150,1416,2731,1
@@ -222,7 +205,6 @@ Houston,MCMS,State Representative,146,(REP,SHAW BLACKMON,4303,146,1172,2965,20
 Houston,ROZR,State Representative,146,(REP,SHAW BLACKMON,5272,228,1319,3725,0
 Houston,TWPK,State Representative,146,(REP,SHAW BLACKMON,2018,78,671,1267,2
 Houston,VHS,State Representative,146,(REP,SHAW BLACKMON,1307,40,328,938,1
-Houston,,State Representative,147,(REP,HEATH CLARK,14923,754,5027,9127,15
 Houston,ANNX,State Representative,147,(REP,HEATH CLARK,2524,140,622,1761,1
 Houston,CENT,State Representative,147,(REP,HEATH CLARK,3250,129,1174,1944,3
 Houston,HCTC,State Representative,147,(REP,HEATH CLARK,2783,199,862,1719,3
@@ -231,12 +213,10 @@ Houston,MILL,State Representative,147,(REP,HEATH CLARK,1064,46,471,546,1
 Houston,RECR,State Representative,147,(REP,HEATH CLARK,1326,71,581,674,0
 Houston,TMS,State Representative,147,(REP,HEATH CLARK,2093,83,731,1277,2
 Houston,TWPK,State Representative,147,(REP,HEATH CLARK,379,10,104,265,0
-Houston,,State Representative,148,,BUDDY HARDEN,3992,108,1473,2408,3
 Houston,HAFS,State Representative,148,,BUDDY HARDEN,886,22,414,450,0
 Houston,HEFS,State Representative,148,,BUDDY HARDEN,613,19,289,304,1
 Houston,ROZR,State Representative,148,,BUDDY HARDEN,930,28,194,708,0
 Houston,VHS,State Representative,148,,BUDDY HARDEN,1563,39,576,946,2
-Houston,,District Attorney,Houston Circuit,(REP,GEORGE HARTWIG,47420,1977,14962,30392,89
 Houston,ANNX,District Attorney,Houston Circuit,(REP,GEORGE HARTWIG,2545,135,629,1779,2
 Houston,BMS,District Attorney,Houston Circuit,(REP,GEORGE HARTWIG,4792,200,1506,3085,1
 Houston,CENT,District Attorney,Houston Circuit,(REP,GEORGE HARTWIG,3529,136,1279,2105,9
@@ -254,7 +234,6 @@ Houston,ROZR,District Attorney,Houston Circuit,(REP,GEORGE HARTWIG,6200,256,1512
 Houston,TMS,District Attorney,Houston Circuit,(REP,GEORGE HARTWIG,2094,84,734,1274,2
 Houston,TWPK,District Attorney,Houston Circuit,(REP,GEORGE HARTWIG,2414,89,782,1541,2
 Houston,VHS,District Attorney,Houston Circuit,(REP,GEORGE HARTWIG,2895,80,919,1890,6
-Houston,,JUDGE PROBATE,,R,J. D. SPIRES,47626,2004,14969,30561,92
 Houston,ANNX,JUDGE PROBATE,,R,J. D. SPIRES,2532,138,631,1761,2
 Houston,BMS,JUDGE PROBATE,,R,J. D. SPIRES,4803,208,1499,3095,1
 Houston,CENT,JUDGE PROBATE,,R,J. D. SPIRES,3524,136,1264,2115,9
@@ -272,7 +251,6 @@ Houston,ROZR,JUDGE PROBATE,,R,J. D. SPIRES,6228,257,1503,4466,2
 Houston,TMS,JUDGE PROBATE,,R,J. D. SPIRES,2111,84,735,1289,3
 Houston,TWPK,JUDGE PROBATE,,R,J. D. SPIRES,2397,87,780,1528,2
 Houston,VHS,JUDGE PROBATE,,R,J. D. SPIRES,2918,86,916,1910,6
-Houston,,CLERK SUPERIOR COURT,,R,C. V. SULLIVAN,47703,2002,14977,30634,90
 Houston,ANNX,CLERK SUPERIOR COURT,,R,C. V. SULLIVAN,2540,139,625,1774,2
 Houston,BMS,CLERK SUPERIOR COURT,,R,C. V. SULLIVAN,4787,204,1495,3087,1
 Houston,CENT,CLERK SUPERIOR COURT,,R,C. V. SULLIVAN,3519,136,1266,2108,9
@@ -290,7 +268,6 @@ Houston,ROZR,CLERK SUPERIOR COURT,,R,C. V. SULLIVAN,6265,259,1503,4500,3
 Houston,TMS,CLERK SUPERIOR COURT,,R,C. V. SULLIVAN,2108,86,739,1281,2
 Houston,TWPK,CLERK SUPERIOR COURT,,R,C. V. SULLIVAN,2414,90,780,1542,2
 Houston,VHS,CLERK SUPERIOR COURT,,R,C. V. SULLIVAN,2907,83,910,1908,6
-Houston,,SHERIFF,,R,H. C. TALTON,48392,2027,15191,31083,91
 Houston,ANNX,SHERIFF,,R,H. C. TALTON,2573,139,633,1799,2
 Houston,BMS,SHERIFF,,R,H. C. TALTON,4821,205,1504,3111,1
 Houston,CENT,SHERIFF,,R,H. C. TALTON,3586,135,1281,2160,10
@@ -308,7 +285,6 @@ Houston,ROZR,SHERIFF,,R,H. C. TALTON,6357,269,1529,4557,2
 Houston,TMS,SHERIFF,,R,H. C. TALTON,2127,86,744,1294,3
 Houston,TWPK,SHERIFF,,R,H. C. TALTON,2443,92,793,1556,2
 Houston,VHS,SHERIFF,,R,H. C. TALTON,2935,83,929,1917,6
-Houston,,TAX COMMISSIONER,,R,M. K. KUSHINKA,47831,2004,15006,30734,87
 Houston,ANNX,TAX COMMISSIONER,,R,M. K. KUSHINKA,2555,137,629,1787,2
 Houston,BMS,TAX COMMISSIONER,,R,M. K. KUSHINKA,4808,209,1498,3100,1
 Houston,CENT,TAX COMMISSIONER,,R,M. K. KUSHINKA,3558,137,1279,2134,8
@@ -326,7 +302,6 @@ Houston,ROZR,TAX COMMISSIONER,,R,M. K. KUSHINKA,6224,255,1501,4467,1
 Houston,TMS,TAX COMMISSIONER,,R,M. K. KUSHINKA,2104,85,731,1285,3
 Houston,TWPK,TAX COMMISSIONER,,R,M. K. KUSHINKA,2429,92,788,1548,1
 Houston,VHS,TAX COMMISSIONER,,R,M. K. KUSHINKA,2917,81,923,1907,6
-Houston,,CORONER,,R,D. L. GALPIN,47524,1996,14937,30499,92
 Houston,ANNX,CORONER,,R,D. L. GALPIN,2541,138,625,1776,2
 Houston,BMS,CORONER,,R,D. L. GALPIN,4768,203,1487,3077,1
 Houston,CENT,CORONER,,R,D. L. GALPIN,3527,136,1268,2113,10
@@ -344,7 +319,6 @@ Houston,ROZR,CORONER,,R,D. L. GALPIN,6181,252,1486,4440,3
 Houston,TMS,CORONER,,R,D. L. GALPIN,2110,85,740,1281,4
 Houston,TWPK,CORONER,,R,D. L. GALPIN,2415,90,788,1535,2
 Houston,VHS,CORONER,,R,D. L. GALPIN,2883,82,907,1888,6
-Houston,,SOLICITOR GENERAL,,R,A. E. SMITH,46985,1929,14792,30182,82
 Houston,ANNX,SOLICITOR GENERAL,,R,A. E. SMITH,2512,135,619,1756,2
 Houston,BMS,SOLICITOR GENERAL,,R,A. E. SMITH,4728,199,1478,3050,1
 Houston,CENT,SOLICITOR GENERAL,,R,A. E. SMITH,3488,131,1255,2094,8
@@ -362,7 +336,6 @@ Houston,ROZR,SOLICITOR GENERAL,,R,A. E. SMITH,6105,242,1481,4379,3
 Houston,TMS,SOLICITOR GENERAL,,R,A. E. SMITH,2086,83,730,1271,2
 Houston,TWPK,SOLICITOR GENERAL,,R,A. E. SMITH,2378,82,769,1525,2
 Houston,VHS,SOLICITOR GENERAL,,R,A. E. SMITH,2868,81,900,1882,5
-Houston,,CC P3,,R,G. C. ROBINSON,47053,1938,14835,30199,81
 Houston,ANNX,CC P3,,R,G. C. ROBINSON,2518,135,624,1757,2
 Houston,BMS,CC P3,,R,G. C. ROBINSON,4732,203,1477,3051,1
 Houston,CENT,CC P3,,R,G. C. ROBINSON,3492,134,1258,2092,8
@@ -380,7 +353,6 @@ Houston,ROZR,CC P3,,R,G. C. ROBINSON,6120,243,1485,4390,2
 Houston,TMS,CC P3,,R,G. C. ROBINSON,2086,83,727,1274,2
 Houston,TWPK,CC P3,,R,G. C. ROBINSON,2389,84,778,1525,2
 Houston,VHS,CC P3,,R,G. C. ROBINSON,2870,81,905,1879,5
-Houston,,CC P4,,R,L. THOMSON,46873,1935,14782,30074,82
 Houston,ANNX,CC P4,,R,L. THOMSON,2509,135,627,1746,1
 Houston,BMS,CC P4,,R,L. THOMSON,4713,201,1475,3036,1
 Houston,CENT,CC P4,,R,L. THOMSON,3477,133,1253,2083,8
@@ -398,7 +370,6 @@ Houston,ROZR,CC P4,,R,L. THOMSON,6137,244,1498,4392,3
 Houston,TMS,CC P4,,R,L. THOMSON,2080,84,727,1267,2
 Houston,TWPK,CC P4,,R,L. THOMSON,2376,87,774,1513,2
 Houston,VHS,CC P4,,R,L. THOMSON,2860,81,903,1871,5
-Houston,,CC P5,,R,T. MCMICHAEL,37293,1564,11243,24434,52
 Houston,ANNX,CC P5,,R,T. MCMICHAEL,2163,133,512,1517,1
 Houston,BMS,CC P5,,R,T. MCMICHAEL,4033,178,1232,2622,1
 Houston,CENT,CC P5,,R,T. MCMICHAEL,2827,113,994,1714,6
@@ -416,7 +387,6 @@ Houston,ROZR,CC P5,,R,T. MCMICHAEL,5123,191,1140,3791,1
 Houston,TMS,CC P5,,R,T. MCMICHAEL,1403,55,461,885,2
 Houston,TWPK,CC P5,,R,T. MCMICHAEL,1900,63,601,1234,2
 Houston,VHS,CC P5,,R,T. MCMICHAEL,2492,69,783,1638,2
-Houston,,CC P5,,D,G. HICKS,19742,855,6613,12214,60
 Houston,ANNX,CC P5,,D,G. HICKS,726,27,193,504,2
 Houston,BMS,CC P5,,D,G. HICKS,1331,53,393,885,0
 Houston,CENT,CC P5,,D,G. HICKS,1377,54,484,836,3
@@ -434,7 +404,6 @@ Houston,ROZR,CC P5,,D,G. HICKS,2101,120,634,1345,2
 Houston,TMS,CC P5,,D,G. HICKS,1361,55,488,814,4
 Houston,TWPK,CC P5,,D,G. HICKS,946,37,314,594,1
 Houston,VHS,CC P5,,D,G. HICKS,768,32,234,498,4
-Houston,,SOIL AND WATER,,,L. S. MORTON,46802,1999,14778,29943,82
 Houston,ANNX,SOIL AND WATER,,,L. S. MORTON,2471,136,614,1718,3
 Houston,BMS,SOIL AND WATER,,,L. S. MORTON,4649,202,1464,2982,1
 Houston,CENT,SOIL AND WATER,,,L. S. MORTON,3425,134,1237,2046,8
@@ -452,7 +421,6 @@ Houston,ROZR,SOIL AND WATER,,,L. S. MORTON,6060,254,1477,4328,1
 Houston,TMS,SOIL AND WATER,,,L. S. MORTON,2111,86,740,1281,4
 Houston,TWPK,SOIL AND WATER,,,L. S. MORTON,2366,86,767,1511,2
 Houston,VHS,SOIL AND WATER,,,L. S. MORTON,2804,83,886,1830,5
-Houston,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,22798,1193,7982,13544,79
 Houston,ANNX,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1040,73,280,685,2
 Houston,BMS,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,2002,127,685,1189,1
 Houston,CENT,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1794,87,691,1009,7
@@ -470,7 +438,6 @@ Houston,ROZR,Constitutional Amendment #1<br>Provides greater flexibility and sta
 Houston,TMS,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1179,69,444,662,4
 Houston,TWPK,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1103,55,391,654,3
 Houston,VHS,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1194,46,409,734,5
-Houston,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,35707,1330,10443,23899,35
 Houston,ANNX,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1940,94,451,1393,2
 Houston,BMS,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,3451,113,984,2354,0
 Houston,CENT,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,2532,80,843,1606,3
@@ -488,7 +455,6 @@ Houston,ROZR,Constitutional Amendment #1<br>Provides greater flexibility and sta
 Houston,TMS,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1649,46,538,1064,1
 Houston,TWPK,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1810,53,555,1202,0
 Houston,VHS,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,2132,54,637,1440,1
-Houston,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,48669,2168,15230,31168,103
 Houston,ANNX,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2462,145,601,1712,4
 Houston,BMS,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,4530,218,1375,2936,1
 Houston,CENT,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,3614,152,1268,2187,7
@@ -506,7 +472,6 @@ Houston,ROZR,Constitutional Amendment #2<br>Authorizes penalties for sexual expl
 Houston,TMS,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2353,102,832,1414,5
 Houston,TWPK,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2442,94,781,1564,3
 Houston,VHS,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2786,86,852,1842,6
-Houston,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,9592,343,3109,6128,12
 Houston,ANNX,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,501,21,132,348,0
 Houston,BMS,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,911,21,294,596,0
 Houston,CENT,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,686,22,254,408,2
@@ -524,7 +489,6 @@ Houston,ROZR,Constitutional Amendment #2<br>Authorizes penalties for sexual expl
 Houston,TMS,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,462,11,140,311,0
 Houston,TWPK,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,468,14,168,286,0
 Houston,VHS,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,524,13,181,330,0
-Houston,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,35434,1570,11291,22492,81
 Houston,ANNX,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1791,110,446,1232,3
 Houston,BMS,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,3227,165,1007,2054,1
 Houston,CENT,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,2643,101,933,1601,8
@@ -542,7 +506,6 @@ Houston,ROZR,Constitutional Amendment #3<br>Reforms and re-establishes the Judic
 Houston,TMS,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1756,76,626,1050,4
 Houston,TWPK,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1742,75,568,1097,2
 Houston,VHS,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1943,63,614,1262,4
-Houston,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,20184,783,6249,13131,21
 Houston,ANNX,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,1038,50,256,732,0
 Houston,BMS,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,1984,55,595,1334,0
 Houston,CENT,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,1439,56,515,867,1
@@ -560,7 +523,6 @@ Houston,ROZR,Constitutional Amendment #3<br>Reforms and re-establishes the Judic
 Houston,TMS,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,920,30,288,602,0
 Houston,TWPK,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,1048,32,340,675,1
 Houston,VHS,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,1221,29,386,804,2
-Houston,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,47070,2156,14650,30169,95
 Houston,ANNX,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,2382,147,591,1640,4
 Houston,BMS,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,4357,216,1303,2837,1
 Houston,CENT,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,3572,151,1264,2148,9
@@ -578,7 +540,6 @@ Houston,ROZR,Constitutional Amendment #4<br>Dedicates revenue from existing taxe
 Houston,TMS,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,2282,102,777,1398,5
 Houston,TWPK,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,2351,95,736,1519,1
 Houston,VHS,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,2630,84,801,1741,4
-Houston,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,11182,351,3687,7124,20
 Houston,ANNX,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,576,20,138,418,0
 Houston,BMS,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,1083,28,364,691,0
 Houston,CENT,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,725,21,267,436,1
