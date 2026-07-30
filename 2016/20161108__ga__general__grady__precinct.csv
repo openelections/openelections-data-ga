@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Grady,,President of the United States,,,DONALD J. TRUMP,6053,180,2588,3279,6
 Grady,Blowing Cave,President of the United States,,,DONALD J. TRUMP,416,8,204,203,1
 Grady,Cairo 4th District,President of the United States,,,DONALD J. TRUMP,269,19,68,182,0
 Grady,Cairo 5th District,President of the United States,,,DONALD J. TRUMP,846,30,264,551,1
@@ -13,7 +12,6 @@ Grady,Spence,President of the United States,,,DONALD J. TRUMP,411,22,222,166,1
 Grady,Spring Hill,President of the United States,,,DONALD J. TRUMP,335,3,194,138,0
 Grady,Whigham,President of the United States,,,DONALD J. TRUMP,543,17,245,281,0
 Grady,Woodland,President of the United States,,,DONALD J. TRUMP,1243,34,402,806,1
-Grady,,President of the United States,,,HILLARY CLINTON,3013,107,1199,1699,8
 Grady,Blowing Cave,President of the United States,,,HILLARY CLINTON,79,1,38,38,2
 Grady,Cairo 4th District,President of the United States,,,HILLARY CLINTON,1096,39,373,682,2
 Grady,Cairo 5th District,President of the United States,,,HILLARY CLINTON,615,20,245,349,1
@@ -27,7 +25,6 @@ Grady,Spence,President of the United States,,,HILLARY CLINTON,40,2,22,16,0
 Grady,Spring Hill,President of the United States,,,HILLARY CLINTON,43,0,25,16,2
 Grady,Whigham,President of the United States,,,HILLARY CLINTON,180,8,90,82,0
 Grady,Woodland,President of the United States,,,HILLARY CLINTON,215,9,56,150,0
-Grady,,President of the United States,,,GARY JOHNSON,135,8,83,44,0
 Grady,Blowing Cave,President of the United States,,,GARY JOHNSON,5,0,2,3,0
 Grady,Cairo 4th District,President of the United States,,,GARY JOHNSON,17,2,8,7,0
 Grady,Cairo 5th District,President of the United States,,,GARY JOHNSON,26,3,14,9,0
@@ -41,7 +38,6 @@ Grady,Spence,President of the United States,,,GARY JOHNSON,10,0,7,3,0
 Grady,Spring Hill,President of the United States,,,GARY JOHNSON,5,0,4,1,0
 Grady,Whigham,President of the United States,,,GARY JOHNSON,11,1,5,5,0
 Grady,Woodland,President of the United States,,,GARY JOHNSON,20,1,12,7,0
-Grady,,United States Senator,,,JOHNNY ISAKSON,5534,176,2348,3006,4
 Grady,Blowing Cave,United States Senator,,,JOHNNY ISAKSON,389,7,196,185,1
 Grady,Cairo 4th District,United States Senator,,,JOHNNY ISAKSON,268,21,61,186,0
 Grady,Cairo 5th District,United States Senator,,,JOHNNY ISAKSON,796,28,258,510,0
@@ -55,7 +51,6 @@ Grady,Spence,United States Senator,,,JOHNNY ISAKSON,375,21,197,156,1
 Grady,Spring Hill,United States Senator,,,JOHNNY ISAKSON,302,3,178,121,0
 Grady,Whigham,United States Senator,,,JOHNNY ISAKSON,485,16,218,251,0
 Grady,Woodland,United States Senator,,,JOHNNY ISAKSON,1149,32,365,751,1
-Grady,,United States Senator,,,JIM BARKSDALE,2671,102,1090,1471,8
 Grady,Blowing Cave,United States Senator,,,JIM BARKSDALE,70,1,29,38,2
 Grady,Cairo 4th District,United States Senator,,,JIM BARKSDALE,943,40,333,568,2
 Grady,Cairo 5th District,United States Senator,,,JIM BARKSDALE,542,20,221,300,1
@@ -69,7 +64,6 @@ Grady,Spence,United States Senator,,,JIM BARKSDALE,41,2,21,18,0
 Grady,Spring Hill,United States Senator,,,JIM BARKSDALE,39,0,23,14,2
 Grady,Whigham,United States Senator,,,JIM BARKSDALE,161,6,77,78,0
 Grady,Woodland,United States Senator,,,JIM BARKSDALE,203,8,61,134,0
-Grady,,United States Senator,,,ALLEN BUCKLEY,261,14,133,114,0
 Grady,Blowing Cave,United States Senator,,,ALLEN BUCKLEY,12,0,6,6,0
 Grady,Cairo 4th District,United States Senator,,,ALLEN BUCKLEY,31,0,16,15,0
 Grady,Cairo 5th District,United States Senator,,,ALLEN BUCKLEY,40,5,7,28,0
@@ -83,7 +77,6 @@ Grady,Spence,United States Senator,,,ALLEN BUCKLEY,18,1,16,1,0
 Grady,Spring Hill,United States Senator,,,ALLEN BUCKLEY,9,0,7,2,0
 Grady,Whigham,United States Senator,,,ALLEN BUCKLEY,25,2,14,9,0
 Grady,Woodland,United States Senator,,,ALLEN BUCKLEY,43,3,13,27,0
-Grady,,"Public Service Commission, District 2",2,,TIM ECHOLS,6198,185,2665,3342,6
 Grady,Blowing Cave,"Public Service Commission, District 2",2,,TIM ECHOLS,408,5,205,196,2
 Grady,Cairo 4th District,"Public Service Commission, District 2",2,,TIM ECHOLS,432,19,121,292,0
 Grady,Cairo 5th District,"Public Service Commission, District 2",2,,TIM ECHOLS,916,36,306,574,0
@@ -97,7 +90,6 @@ Grady,Spence,"Public Service Commission, District 2",2,,TIM ECHOLS,398,22,215,16
 Grady,Spring Hill,"Public Service Commission, District 2",2,,TIM ECHOLS,315,3,185,127,0
 Grady,Whigham,"Public Service Commission, District 2",2,,TIM ECHOLS,531,15,246,270,0
 Grady,Woodland,"Public Service Commission, District 2",2,,TIM ECHOLS,1218,34,391,792,1
-Grady,,"Public Service Commission, District 2",2,,ERIC HOSKINS,1760,65,766,925,4
 Grady,Blowing Cave,"Public Service Commission, District 2",2,,ERIC HOSKINS,58,2,27,28,1
 Grady,Cairo 4th District,"Public Service Commission, District 2",2,,ERIC HOSKINS,530,20,203,306,1
 Grady,Cairo 5th District,"Public Service Commission, District 2",2,,ERIC HOSKINS,354,13,137,203,1
@@ -111,7 +103,6 @@ Grady,Spence,"Public Service Commission, District 2",2,,ERIC HOSKINS,39,1,26,12,
 Grady,Spring Hill,"Public Service Commission, District 2",2,,ERIC HOSKINS,31,0,23,8,0
 Grady,Whigham,"Public Service Commission, District 2",2,,ERIC HOSKINS,111,7,51,53,0
 Grady,Woodland,"Public Service Commission, District 2",2,,ERIC HOSKINS,155,4,50,101,0
-Grady,,U.S. Representative,2,,GREG DUKE,4937,141,2121,2672,3
 Grady,Blowing Cave,U.S. Representative,2,,GREG DUKE,338,6,168,163,1
 Grady,Cairo 4th District,U.S. Representative,2,,GREG DUKE,240,16,63,161,0
 Grady,Cairo 5th District,U.S. Representative,2,,GREG DUKE,694,22,210,462,0
@@ -125,7 +116,6 @@ Grady,Spence,U.S. Representative,2,,GREG DUKE,325,21,182,122,0
 Grady,Spring Hill,U.S. Representative,2,,GREG DUKE,273,3,157,113,0
 Grady,Whigham,U.S. Representative,2,,GREG DUKE,427,9,194,224,0
 Grady,Woodland,U.S. Representative,2,,GREG DUKE,1003,23,321,658,1
-Grady,,U.S. Representative,2,,SANFORD BISHOP,4068,148,1674,2237,9
 Grady,Blowing Cave,U.S. Representative,2,,SANFORD BISHOP,156,2,75,77,2
 Grady,Cairo 4th District,U.S. Representative,2,,SANFORD BISHOP,1113,45,372,694,2
 Grady,Cairo 5th District,U.S. Representative,2,,SANFORD BISHOP,762,31,301,429,1
@@ -139,7 +129,6 @@ Grady,Spence,U.S. Representative,2,,SANFORD BISHOP,129,3,69,56,1
 Grady,Spring Hill,U.S. Representative,2,,SANFORD BISHOP,102,0,63,37,2
 Grady,Whigham,U.S. Representative,2,,SANFORD BISHOP,286,14,138,134,0
 Grady,Woodland,U.S. Representative,2,,SANFORD BISHOP,447,18,139,290,0
-Grady,,State Senator,11,,DEAN BURKE,7178,226,3132,3813,7
 Grady,Blowing Cave,State Senator,11,,DEAN BURKE,441,4,221,214,2
 Grady,Cairo 4th District,State Senator,11,,DEAN BURKE,716,31,236,448,1
 Grady,Cairo 5th District,State Senator,11,,DEAN BURKE,1107,44,379,683,1
@@ -153,7 +142,6 @@ Grady,Spence,State Senator,11,,DEAN BURKE,418,23,234,160,1
 Grady,Spring Hill,State Senator,11,,DEAN BURKE,342,3,204,135,0
 Grady,Whigham,State Senator,11,,DEAN BURKE,601,18,280,303,0
 Grady,Woodland,State Senator,11,,DEAN BURKE,1293,37,429,826,1
-Grady,,State Representative,173,,DARLENE TAYLOR,6087,181,2637,3266,3
 Grady,Blowing Cave,State Representative,173,,DARLENE TAYLOR,409,8,204,196,1
 Grady,Cairo 4th District,State Representative,173,,DARLENE TAYLOR,322,18,86,218,0
 Grady,Cairo 5th District,State Representative,173,,DARLENE TAYLOR,906,33,303,570,0
@@ -167,7 +155,6 @@ Grady,Spence,State Representative,173,,DARLENE TAYLOR,416,22,229,164,1
 Grady,Spring Hill,State Representative,173,,DARLENE TAYLOR,325,3,189,133,0
 Grady,Whigham,State Representative,173,,DARLENE TAYLOR,526,16,238,272,0
 Grady,Woodland,State Representative,173,,DARLENE TAYLOR,1222,32,397,793,0
-Grady,,State Representative,173,,"TOMMY ""TC"" HILL",2852,104,1132,1607,9
 Grady,Blowing Cave,State Representative,173,,"TOMMY ""TC"" HILL",86,1,38,45,2
 Grady,Cairo 4th District,State Representative,173,,"TOMMY ""TC"" HILL",1007,38,349,618,2
 Grady,Cairo 5th District,State Representative,173,,"TOMMY ""TC"" HILL",541,19,201,320,1
@@ -181,7 +168,6 @@ Grady,Spence,State Representative,173,,"TOMMY ""TC"" HILL",42,2,23,17,0
 Grady,Spring Hill,State Representative,173,,"TOMMY ""TC"" HILL",40,0,25,13,2
 Grady,Whigham,State Representative,173,,"TOMMY ""TC"" HILL",178,7,88,83,0
 Grady,Woodland,State Representative,173,,"TOMMY ""TC"" HILL",219,10,62,146,1
-Grady,,District Attorney,South Georgia Circuit,,JOE MULHOLLAND,7136,222,3003,3902,9
 Grady,Blowing Cave,District Attorney,South Georgia Circuit,,JOE MULHOLLAND,384,2,195,184,3
 Grady,Cairo 4th District,District Attorney,South Georgia Circuit,,JOE MULHOLLAND,1148,49,383,714,2
 Grady,Cairo 5th District,District Attorney,South Georgia Circuit,,JOE MULHOLLAND,1202,43,425,733,1
@@ -195,7 +181,6 @@ Grady,Spence,District Attorney,South Georgia Circuit,,JOE MULHOLLAND,339,18,185,
 Grady,Spring Hill,District Attorney,South Georgia Circuit,,JOE MULHOLLAND,285,2,169,113,1
 Grady,Whigham,District Attorney,South Georgia Circuit,,JOE MULHOLLAND,553,18,248,287,0
 Grady,Woodland,District Attorney,South Georgia Circuit,,JOE MULHOLLAND,1131,32,366,733,0
-Grady,,CLERK,SUPERIOR COURT,R,D. KINES,7630,235,3275,4113,7
 Grady,Blowing Cave,CLERK,SUPERIOR COURT,R,D. KINES,450,4,225,219,2
 Grady,Cairo 4th District,CLERK,SUPERIOR COURT,R,D. KINES,858,35,279,543,1
 Grady,Cairo 5th District,CLERK,SUPERIOR COURT,R,D. KINES,1194,44,407,742,1
@@ -209,7 +194,6 @@ Grady,Spence,CLERK,SUPERIOR COURT,R,D. KINES,430,24,239,166,1
 Grady,Spring Hill,CLERK,SUPERIOR COURT,R,D. KINES,350,3,212,135,0
 Grady,Whigham,CLERK,SUPERIOR COURT,R,D. KINES,624,21,285,318,0
 Grady,Woodland,CLERK,SUPERIOR COURT,R,D. KINES,1354,38,436,879,1
-Grady,,SHERIFF,,R,H. C. YOUNG,6182,196,2648,3332,6
 Grady,Blowing Cave,SHERIFF,,R,H. C. YOUNG,418,8,201,208,1
 Grady,Cairo 4th District,SHERIFF,,R,H. C. YOUNG,372,21,102,249,0
 Grady,Cairo 5th District,SHERIFF,,R,H. C. YOUNG,905,37,298,570,0
@@ -223,7 +207,6 @@ Grady,Spence,SHERIFF,,R,H. C. YOUNG,413,20,232,160,1
 Grady,Spring Hill,SHERIFF,,R,H. C. YOUNG,328,3,195,130,0
 Grady,Whigham,SHERIFF,,R,H. C. YOUNG,515,16,240,259,0
 Grady,Woodland,SHERIFF,,R,H. C. YOUNG,1210,38,374,797,1
-Grady,,SHERIFF,,D,G. DONALD,2919,91,1198,1623,7
 Grady,Blowing Cave,SHERIFF,,D,G. DONALD,81,1,42,36,2
 Grady,Cairo 4th District,SHERIFF,,D,G. DONALD,991,33,346,610,2
 Grady,Cairo 5th District,SHERIFF,,D,G. DONALD,564,16,218,329,1
@@ -237,7 +220,6 @@ Grady,Spence,SHERIFF,,D,G. DONALD,47,3,23,21,0
 Grady,Spring Hill,SHERIFF,,D,G. DONALD,51,0,26,23,2
 Grady,Whigham,SHERIFF,,D,G. DONALD,205,9,97,99,0
 Grady,Woodland,SHERIFF,,D,G. DONALD,252,5,90,157,0
-Grady,,TAX COMMISSIONER,,R,B. DARUS,4459,141,1932,2382,4
 Grady,Blowing Cave,TAX COMMISSIONER,,R,B. DARUS,306,5,151,149,1
 Grady,Cairo 4th District,TAX COMMISSIONER,,R,B. DARUS,212,11,56,145,0
 Grady,Cairo 5th District,TAX COMMISSIONER,,R,B. DARUS,666,23,220,423,0
@@ -251,7 +233,6 @@ Grady,Spence,TAX COMMISSIONER,,R,B. DARUS,323,15,180,127,1
 Grady,Spring Hill,TAX COMMISSIONER,,R,B. DARUS,246,3,144,99,0
 Grady,Whigham,TAX COMMISSIONER,,R,B. DARUS,381,13,177,191,0
 Grady,Woodland,TAX COMMISSIONER,,R,B. DARUS,900,29,286,584,1
-Grady,,TAX COMMISSIONER,,D,C. SLAUGHTER,4412,142,1801,2461,8
 Grady,Blowing Cave,TAX COMMISSIONER,,D,C. SLAUGHTER,182,4,87,89,2
 Grady,Cairo 4th District,TAX COMMISSIONER,,D,C. SLAUGHTER,1098,44,368,684,2
 Grady,Cairo 5th District,TAX COMMISSIONER,,D,C. SLAUGHTER,778,28,287,462,1
@@ -265,7 +246,6 @@ Grady,Spence,TAX COMMISSIONER,,D,C. SLAUGHTER,132,8,70,54,0
 Grady,Spring Hill,TAX COMMISSIONER,,D,C. SLAUGHTER,127,0,74,51,2
 Grady,Whigham,TAX COMMISSIONER,,D,C. SLAUGHTER,320,11,146,163,0
 Grady,Woodland,TAX COMMISSIONER,,D,C. SLAUGHTER,534,14,167,353,0
-Grady,,CORONER,,R,R. POWE,7415,232,3184,3992,7
 Grady,Blowing Cave,CORONER,,R,R. POWE,450,4,227,217,2
 Grady,Cairo 4th District,CORONER,,R,R. POWE,770,33,251,485,1
 Grady,Cairo 5th District,CORONER,,R,R. POWE,1163,44,388,730,1
@@ -279,7 +259,6 @@ Grady,Spence,CORONER,,R,R. POWE,426,23,236,166,1
 Grady,Spring Hill,CORONER,,R,R. POWE,346,3,209,134,0
 Grady,Whigham,CORONER,,R,R. POWE,611,21,277,313,0
 Grady,Woodland,CORONER,,R,R. POWE,1319,38,430,850,1
-Grady,,CHIEF MAGISTRATE,,R,P. POLLOCK,5732,174,2439,3115,4
 Grady,Blowing Cave,CHIEF MAGISTRATE,,R,P. POLLOCK,396,8,194,193,1
 Grady,Cairo 4th District,CHIEF MAGISTRATE,,R,P. POLLOCK,325,17,88,220,0
 Grady,Cairo 5th District,CHIEF MAGISTRATE,,R,P. POLLOCK,836,29,263,544,0
@@ -293,7 +272,6 @@ Grady,Spence,CHIEF MAGISTRATE,,R,P. POLLOCK,395,18,221,155,1
 Grady,Spring Hill,CHIEF MAGISTRATE,,R,P. POLLOCK,307,3,176,128,0
 Grady,Whigham,CHIEF MAGISTRATE,,R,P. POLLOCK,505,16,231,258,0
 Grady,Woodland,CHIEF MAGISTRATE,,R,P. POLLOCK,1173,33,368,771,1
-Grady,,CHIEF MAGISTRATE,,D,H. BRYANT,3180,109,1318,1745,8
 Grady,Blowing Cave,CHIEF MAGISTRATE,,D,H. BRYANT,99,1,48,48,2
 Grady,Cairo 4th District,CHIEF MAGISTRATE,,D,H. BRYANT,977,38,336,601,2
 Grady,Cairo 5th District,CHIEF MAGISTRATE,,D,H. BRYANT,604,23,241,339,1
@@ -307,41 +285,34 @@ Grady,Spence,CHIEF MAGISTRATE,,D,H. BRYANT,68,6,32,30,0
 Grady,Spring Hill,CHIEF MAGISTRATE,,D,H. BRYANT,70,0,44,24,2
 Grady,Whigham,CHIEF MAGISTRATE,,D,H. BRYANT,207,8,100,99,0
 Grady,Woodland,CHIEF MAGISTRATE,,D,H. BRYANT,268,8,90,170,0
-Grady,,CC,D1,R,E. CHILDS,1630,31,839,759,1
 Grady,Blowing Cave,CC,D1,R,E. CHILDS,440,4,223,212,1
 Grady,Higdon,CC,D1,R,E. CHILDS,44,1,25,18,0
 Grady,Limesink,CC,D1,R,E. CHILDS,171,4,100,67,0
 Grady,Ragan,CC,D1,R,E. CHILDS,34,0,14,20,0
 Grady,Spring Hill,CC,D1,R,E. CHILDS,334,3,198,133,0
 Grady,Whigham,CC,D1,R,E. CHILDS,607,19,279,309,0
-Grady,,CC,D3,R,K. MOYE,1645,46,819,779,1
 Grady,Cairo 5th District,CC,D3,R,K. MOYE,20,0,12,8,0
 Grady,Duncanville,CC,D3,R,K. MOYE,258,4,172,82,0
 Grady,Higdon,CC,D3,R,K. MOYE,378,8,233,137,0
 Grady,Midway,CC,D3,R,K. MOYE,712,26,257,428,1
 Grady,Pine Park,CC,D3,R,K. MOYE,38,1,19,18,0
 Grady,Ragan,CC,D3,R,K. MOYE,239,7,126,106,0
-Grady,,CC,D4,D,L. COPELAND,1534,65,489,980,0
 Grady,Cairo 4th District,CC,D4,D,L. COPELAND,1212,50,404,758,0
 Grady,Woodland,CC,D4,D,L. COPELAND,322,15,85,222,0
-Grady,,BOE,D1,R,J. WORSHAM,1635,31,852,751,1
 Grady,Blowing Cave,BOE,D1,R,J. WORSHAM,434,4,220,209,1
 Grady,Higdon,BOE,D1,R,J. WORSHAM,42,1,25,16,0
 Grady,Limesink,BOE,D1,R,J. WORSHAM,171,3,102,66,0
 Grady,Ragan,BOE,D1,R,J. WORSHAM,36,0,15,21,0
 Grady,Spring Hill,BOE,D1,R,J. WORSHAM,341,3,207,131,0
 Grady,Whigham,BOE,D1,R,J. WORSHAM,611,20,283,308,0
-Grady,,BOE,D3,D,L. REGISTER,1503,42,734,726,1
 Grady,Cairo 5th District,BOE,D3,D,L. REGISTER,19,0,10,9,0
 Grady,Duncanville,BOE,D3,D,L. REGISTER,233,4,143,86,0
 Grady,Higdon,BOE,D3,D,L. REGISTER,372,8,231,132,1
 Grady,Midway,BOE,D3,D,L. REGISTER,626,20,220,386,0
 Grady,Pine Park,BOE,D3,D,L. REGISTER,32,1,16,15,0
 Grady,Ragan,BOE,D3,D,L. REGISTER,221,9,114,98,0
-Grady,,BOE,D4,D,T. G. HARRIS,1580,67,502,1011,0
 Grady,Cairo 4th District,BOE,D4,D,T. G. HARRIS,1238,52,411,775,0
 Grady,Woodland,BOE,D4,D,T. G. HARRIS,342,15,91,236,0
-Grady,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,3640,131,1474,2030,5
 Grady,Blowing Cave,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,172,4,70,97,1
 Grady,Cairo 4th District,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,697,28,250,418,1
 Grady,Cairo 5th District,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,620,26,213,381,0
@@ -355,7 +326,6 @@ Grady,Spence,Constitutional Amendment #1<br>Provides greater flexibility and sta
 Grady,Spring Hill,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,126,2,65,59,0
 Grady,Whigham,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,272,13,124,135,0
 Grady,Woodland,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,531,17,166,348,0
-Grady,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,5253,145,2278,2825,5
 Grady,Blowing Cave,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,310,5,168,136,1
 Grady,Cairo 4th District,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,606,21,176,408,1
 Grady,Cairo 5th District,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,835,27,294,513,1
@@ -369,7 +339,6 @@ Grady,Spence,Constitutional Amendment #1<br>Provides greater flexibility and sta
 Grady,Spring Hill,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,245,1,153,91,0
 Grady,Whigham,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,425,11,198,216,0
 Grady,Woodland,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,914,20,293,600,1
-Grady,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,7003,218,2960,3818,7
 Grady,Blowing Cave,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,393,9,182,201,1
 Grady,Cairo 4th District,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,960,34,340,585,1
 Grady,Cairo 5th District,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1160,40,416,703,1
@@ -383,7 +352,6 @@ Grady,Spence,Constitutional Amendment #2<br>Authorizes penalties for sexual expl
 Grady,Spring Hill,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,293,3,170,120,0
 Grady,Whigham,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,543,21,254,268,0
 Grady,Woodland,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1177,31,389,756,1
-Grady,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,1721,46,738,935,2
 Grady,Blowing Cave,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,88,0,60,27,1
 Grady,Cairo 4th District,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,292,10,79,202,1
 Grady,Cairo 5th District,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,271,10,85,176,0
@@ -397,7 +365,6 @@ Grady,Spence,Constitutional Amendment #2<br>Authorizes penalties for sexual expl
 Grady,Spring Hill,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,69,0,43,26,0
 Grady,Whigham,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,138,2,60,76,0
 Grady,Woodland,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,247,7,67,173,0
-Grady,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,5048,155,2075,2813,5
 Grady,Blowing Cave,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,265,6,121,137,1
 Grady,Cairo 4th District,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,836,29,276,530,1
 Grady,Cairo 5th District,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,826,31,272,522,1
@@ -411,7 +378,6 @@ Grady,Spence,Constitutional Amendment #3<br>Reforms and re-establishes the Judic
 Grady,Spring Hill,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,186,1,101,84,0
 Grady,Whigham,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,390,18,187,185,0
 Grady,Woodland,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,785,18,256,511,0
-Grady,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,3214,94,1408,1709,3
 Grady,Blowing Cave,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,193,2,105,85,1
 Grady,Cairo 4th District,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,385,12,125,247,1
 Grady,Cairo 5th District,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,523,19,187,317,0
@@ -425,7 +391,6 @@ Grady,Spence,Constitutional Amendment #3<br>Reforms and re-establishes the Judic
 Grady,Spring Hill,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,155,2,101,52,0
 Grady,Whigham,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,253,5,106,142,0
 Grady,Woodland,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,541,12,171,358,0
-Grady,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,6475,216,2708,3544,7
 Grady,Blowing Cave,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,372,9,179,182,2
 Grady,Cairo 4th District,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,922,35,315,571,1
 Grady,Cairo 5th District,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1061,44,363,653,1
@@ -439,7 +404,6 @@ Grady,Spence,Constitutional Amendment #4<br>Dedicates revenue from existing taxe
 Grady,Spring Hill,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,261,3,149,109,0
 Grady,Whigham,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,479,22,226,231,0
 Grady,Woodland,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1080,30,355,694,1
-Grady,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,2163,54,937,1170,2
 Grady,Blowing Cave,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,109,0,60,49,0
 Grady,Cairo 4th District,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,334,11,98,224,1
 Grady,Cairo 5th District,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,344,8,127,209,0
@@ -453,6 +417,5 @@ Grady,Spence,Constitutional Amendment #4<br>Dedicates revenue from existing taxe
 Grady,Spring Hill,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,96,0,60,36,0
 Grady,Whigham,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,188,3,77,108,0
 Grady,Woodland,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,327,6,92,229,0
-Grady,,SPECIAL- BOE 5,,,J. A. WHITE,1196,49,403,743,1
 Grady,Cairo 5th District,SPECIAL- BOE 5,,,J. A. WHITE,1181,45,396,739,1
 Grady,Midway,SPECIAL- BOE 5,,,J. A. WHITE,15,4,7,4,0

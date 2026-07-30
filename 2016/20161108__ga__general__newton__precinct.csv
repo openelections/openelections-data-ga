@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Newton,,President of the United States,,,DONALD J. TRUMP,20913,981,10445,9485,2
 Newton,City Pond,President of the United States,,,DONALD J. TRUMP,310,12,154,144,0
 Newton,Town,President of the United States,,,DONALD J. TRUMP,488,35,191,262,0
 Newton,Almon,President of the United States,,,DONALD J. TRUMP,706,45,323,338,0
@@ -24,7 +23,6 @@ Newton,Stansells,President of the United States,,,DONALD J. TRUMP,726,50,283,393
 Newton,Fairview,President of the United States,,,DONALD J. TRUMP,217,10,104,103,0
 Newton,Crowell,President of the United States,,,DONALD J. TRUMP,367,13,163,191,0
 Newton,Hub,President of the United States,,,DONALD J. TRUMP,1331,53,757,521,0
-Newton,,President of the United States,,,HILLARY CLINTON,21943,980,8927,12035,1
 Newton,City Pond,President of the United States,,,HILLARY CLINTON,552,33,270,249,0
 Newton,Town,President of the United States,,,HILLARY CLINTON,1687,135,711,841,0
 Newton,Almon,President of the United States,,,HILLARY CLINTON,1963,81,710,1171,1
@@ -49,7 +47,6 @@ Newton,Stansells,President of the United States,,,HILLARY CLINTON,1662,62,624,97
 Newton,Fairview,President of the United States,,,HILLARY CLINTON,1155,40,534,581,0
 Newton,Crowell,President of the United States,,,HILLARY CLINTON,2109,84,851,1174,0
 Newton,Hub,President of the United States,,,HILLARY CLINTON,267,15,128,124,0
-Newton,,President of the United States,,,GARY JOHNSON,947,45,590,311,1
 Newton,City Pond,President of the United States,,,GARY JOHNSON,17,1,8,8,0
 Newton,Town,President of the United States,,,GARY JOHNSON,39,6,21,11,1
 Newton,Almon,President of the United States,,,GARY JOHNSON,49,2,33,14,0
@@ -74,7 +71,6 @@ Newton,Stansells,President of the United States,,,GARY JOHNSON,41,2,23,16,0
 Newton,Fairview,President of the United States,,,GARY JOHNSON,19,1,12,6,0
 Newton,Crowell,President of the United States,,,GARY JOHNSON,28,0,15,13,0
 Newton,Hub,President of the United States,,,GARY JOHNSON,40,3,24,13,0
-Newton,,United States Senator,,,JOHNNY ISAKSON,20584,1046,10178,9358,2
 Newton,City Pond,United States Senator,,,JOHNNY ISAKSON,306,11,148,147,0
 Newton,Town,United States Senator,,,JOHNNY ISAKSON,535,43,206,286,0
 Newton,Almon,United States Senator,,,JOHNNY ISAKSON,730,45,326,359,0
@@ -99,7 +95,6 @@ Newton,Stansells,United States Senator,,,JOHNNY ISAKSON,744,51,279,414,0
 Newton,Fairview,United States Senator,,,JOHNNY ISAKSON,238,12,108,118,0
 Newton,Crowell,United States Senator,,,JOHNNY ISAKSON,386,15,169,202,0
 Newton,Hub,United States Senator,,,JOHNNY ISAKSON,1300,57,734,509,0
-Newton,,United States Senator,,,JIM BARKSDALE,19851,899,8073,10877,2
 Newton,City Pond,United States Senator,,,JIM BARKSDALE,500,34,240,226,0
 Newton,Town,United States Senator,,,JIM BARKSDALE,1472,128,620,723,1
 Newton,Almon,United States Senator,,,JIM BARKSDALE,1780,78,645,1056,1
@@ -124,7 +119,6 @@ Newton,Stansells,United States Senator,,,JIM BARKSDALE,1514,58,558,898,0
 Newton,Fairview,United States Senator,,,JIM BARKSDALE,1054,38,492,524,0
 Newton,Crowell,United States Senator,,,JIM BARKSDALE,1929,80,771,1078,0
 Newton,Hub,United States Senator,,,JIM BARKSDALE,228,13,107,108,0
-Newton,,United States Senator,,,ALLEN BUCKLEY,1401,49,805,547,0
 Newton,City Pond,United States Senator,,,ALLEN BUCKLEY,19,0,17,2,0
 Newton,Town,United States Senator,,,ALLEN BUCKLEY,66,2,43,21,0
 Newton,Almon,United States Senator,,,ALLEN BUCKLEY,72,3,39,30,0
@@ -149,7 +143,6 @@ Newton,Stansells,United States Senator,,,ALLEN BUCKLEY,56,4,27,25,0
 Newton,Fairview,United States Senator,,,ALLEN BUCKLEY,25,2,12,11,0
 Newton,Crowell,United States Senator,,,ALLEN BUCKLEY,47,1,21,25,0
 Newton,Hub,United States Senator,,,ALLEN BUCKLEY,60,1,37,22,0
-Newton,,"Public Service Commission, District 2",2,,TIM ECHOLS,23261,1180,11339,10740,2
 Newton,City Pond,"Public Service Commission, District 2",2,,TIM ECHOLS,386,22,191,173,0
 Newton,Town,"Public Service Commission, District 2",2,,TIM ECHOLS,698,54,278,366,0
 Newton,Almon,"Public Service Commission, District 2",2,,TIM ECHOLS,1003,55,418,530,0
@@ -174,7 +167,6 @@ Newton,Stansells,"Public Service Commission, District 2",2,,TIM ECHOLS,942,62,35
 Newton,Fairview,"Public Service Commission, District 2",2,,TIM ECHOLS,341,17,150,174,0
 Newton,Crowell,"Public Service Commission, District 2",2,,TIM ECHOLS,622,24,262,336,0
 Newton,Hub,"Public Service Commission, District 2",2,,TIM ECHOLS,1346,57,765,524,0
-Newton,,"Public Service Commission, District 2",2,,ERIC HOSKINS,14148,550,6308,7288,2
 Newton,City Pond,"Public Service Commission, District 2",2,,ERIC HOSKINS,296,17,152,127,0
 Newton,Town,"Public Service Commission, District 2",2,,ERIC HOSKINS,978,72,454,451,1
 Newton,Almon,"Public Service Commission, District 2",2,,ERIC HOSKINS,1170,50,477,642,1
@@ -199,7 +191,6 @@ Newton,Stansells,"Public Service Commission, District 2",2,,ERIC HOSKINS,1055,36
 Newton,Fairview,"Public Service Commission, District 2",2,,ERIC HOSKINS,718,23,360,335,0
 Newton,Crowell,"Public Service Commission, District 2",2,,ERIC HOSKINS,1293,41,577,675,0
 Newton,Hub,"Public Service Commission, District 2",2,,ERIC HOSKINS,227,13,114,100,0
-Newton,,U.S. Representative,4,,VICTOR ARMENDARIZ,12611,635,5702,6274,0
 Newton,City Pond,U.S. Representative,4,,VICTOR ARMENDARIZ,288,9,149,130,0
 Newton,Town,U.S. Representative,4,,VICTOR ARMENDARIZ,459,34,187,238,0
 Newton,Almon,U.S. Representative,4,,VICTOR ARMENDARIZ,679,37,310,332,0
@@ -217,7 +208,6 @@ Newton,Stansells,U.S. Representative,4,,VICTOR ARMENDARIZ,696,46,268,382,0
 Newton,Fairview,U.S. Representative,4,,VICTOR ARMENDARIZ,214,12,97,105,0
 Newton,Crowell,U.S. Representative,4,,VICTOR ARMENDARIZ,366,12,169,185,0
 Newton,Hub,U.S. Representative,4,,VICTOR ARMENDARIZ,0,0,0,0,0
-Newton,,U.S. Representative,4,,HENRY C “HANK” JOHNSON JR,19797,907,7948,10939,3
 Newton,City Pond,U.S. Representative,4,,HENRY C “HANK” JOHNSON JR,546,33,262,251,0
 Newton,Town,U.S. Representative,4,,HENRY C “HANK” JOHNSON JR,1635,139,699,796,1
 Newton,Almon,U.S. Representative,4,,HENRY C “HANK” JOHNSON JR,1942,90,711,1140,1
@@ -235,7 +225,6 @@ Newton,Stansells,U.S. Representative,4,,HENRY C “HANK” JOHNSON JR,1664,67,62
 Newton,Fairview,U.S. Representative,4,,HENRY C “HANK” JOHNSON JR,1129,40,528,561,0
 Newton,Crowell,U.S. Representative,4,,HENRY C “HANK” JOHNSON JR,2059,85,821,1153,0
 Newton,Hub,U.S. Representative,4,,HENRY C “HANK” JOHNSON JR,0,0,0,0,0
-Newton,,U.S. Representative,10,,JODY HICE,8800,368,5161,3271,0
 Newton,Alcovy-10,U.S. Representative,10,,JODY HICE,225,17,89,119,0
 Newton,Brewers,U.S. Representative,10,,JODY HICE,1737,67,1064,606,0
 Newton,Brick Store,U.S. Representative,10,,JODY HICE,1475,75,766,634,0
@@ -244,7 +233,6 @@ Newton,Mansfield,U.S. Representative,10,,JODY HICE,911,29,696,186,0
 Newton,Newborn,U.S. Representative,10,,JODY HICE,475,17,367,91,0
 Newton,Rocky Plains-10,U.S. Representative,10,,JODY HICE,1299,44,656,599,0
 Newton,Hub,U.S. Representative,10,,JODY HICE,1512,66,846,600,0
-Newton,,State Senator,17,,RICHARD JEFFARES,11790,506,6332,4952,0
 Newton,Alcovy-4,State Senator,17,,RICHARD JEFFARES,1306,66,556,684,0
 Newton,Alcovy-10,State Senator,17,,RICHARD JEFFARES,211,18,80,113,0
 Newton,Covington Mills,State Senator,17,,RICHARD JEFFARES,786,46,363,377,0
@@ -257,7 +245,6 @@ Newton,Newborn,State Senator,17,,RICHARD JEFFARES,429,15,330,84,0
 Newton,Rocky Plains-4,State Senator,17,,RICHARD JEFFARES,137,7,72,58,0
 Newton,Rocky Plains-10,State Senator,17,,RICHARD JEFFARES,956,32,478,446,0
 Newton,Hub,State Senator,17,,RICHARD JEFFARES,1351,52,766,533,0
-Newton,,State Senator,17,,BILL BLACKMON,5703,252,2405,3046,0
 Newton,Alcovy-4,State Senator,17,,BILL BLACKMON,922,53,337,532,0
 Newton,Alcovy-10,State Senator,17,,BILL BLACKMON,42,2,17,23,0
 Newton,Covington Mills,State Senator,17,,BILL BLACKMON,758,33,304,421,0
@@ -270,7 +257,6 @@ Newton,Newborn,State Senator,17,,BILL BLACKMON,98,7,73,18,0
 Newton,Rocky Plains-4,State Senator,17,,BILL BLACKMON,138,8,54,76,0
 Newton,Rocky Plains-10,State Senator,17,,BILL BLACKMON,675,25,319,331,0
 Newton,Hub,State Senator,17,,BILL BLACKMON,261,15,124,122,0
-Newton,,State Senator,43,,JANICE VAN NESS,9636,526,4447,4662,1
 Newton,City Pond,State Senator,43,,JANICE VAN NESS,319,12,159,148,0
 Newton,Town,State Senator,43,,JANICE VAN NESS,524,40,215,269,0
 Newton,Almon,State Senator,43,,JANICE VAN NESS,776,43,350,383,0
@@ -283,7 +269,6 @@ Newton,Buck Creek,State Senator,43,,JANICE VAN NESS,1404,69,587,748,0
 Newton,Stansells,State Senator,43,,JANICE VAN NESS,782,53,298,431,0
 Newton,Fairview,State Senator,43,,JANICE VAN NESS,237,12,114,111,0
 Newton,Crowell,State Senator,43,,JANICE VAN NESS,405,12,185,208,0
-Newton,,State Senator,43,,TONYA P. ANDERSON,15513,681,6219,8611,2
 Newton,City Pond,State Senator,43,,TONYA P. ANDERSON,530,31,260,239,0
 Newton,Town,State Senator,43,,TONYA P. ANDERSON,1605,136,674,794,1
 Newton,Almon,State Senator,43,,TONYA P. ANDERSON,1875,82,677,1115,1
@@ -296,17 +281,13 @@ Newton,Buck Creek,State Senator,43,,TONYA P. ANDERSON,1327,62,500,765,0
 Newton,Stansells,State Senator,43,,TONYA P. ANDERSON,1599,58,604,937,0
 Newton,Fairview,State Senator,43,,TONYA P. ANDERSON,1126,38,522,566,0
 Newton,Crowell,State Senator,43,,TONYA P. ANDERSON,2055,84,821,1150,0
-Newton,,State Representative,109,,DALE RUTLEDGE,833,30,348,455,0
 Newton,Downs,State Representative,109,,DALE RUTLEDGE,833,30,348,455,0
-Newton,,State Representative,109,,JANE ASKEW RUTLEDGE,725,17,279,429,0
 Newton,Downs,State Representative,109,,JANE ASKEW RUTLEDGE,725,17,279,429,0
-Newton,,State Representative,110,,ANDY WELCH,4009,158,1849,2002,0
 Newton,Brewers,State Representative,110,,ANDY WELCH,338,10,194,134,0
 Newton,Livingston,State Representative,110,,ANDY WELCH,739,42,315,382,0
 Newton,Downs,State Representative,110,,ANDY WELCH,1448,51,591,806,0
 Newton,Rocky Plains-4,State Representative,110,,ANDY WELCH,207,13,99,95,0
 Newton,Rocky Plains-10,State Representative,110,,ANDY WELCH,1277,42,650,585,0
-Newton,,State Representative,112,,DAVE BELTON,13854,690,7470,5693,1
 Newton,City Pond,State Representative,112,,DAVE BELTON,544,34,270,240,0
 Newton,Alcovy-4,State Representative,112,,DAVE BELTON,1726,89,743,894,0
 Newton,Alcovy-10,State Representative,112,,DAVE BELTON,230,17,90,123,0
@@ -319,7 +300,6 @@ Newton,Mansfield,State Representative,112,,DAVE BELTON,908,27,696,185,0
 Newton,Newborn,State Representative,112,,DAVE BELTON,470,17,363,90,0
 Newton,Oxford,State Representative,112,,DAVE BELTON,1206,80,620,506,0
 Newton,Hub,State Representative,112,,DAVE BELTON,1492,65,835,592,0
-Newton,,State Representative,113,(DEM,"PAMELA ""PAM"" DICKERSON",16629,736,6871,9022,0
 Newton,Town,State Representative,113,(DEM,"PAMELA ""PAM"" DICKERSON",1897,159,807,931,0
 Newton,Almon,State Representative,113,(DEM,"PAMELA ""PAM"" DICKERSON",2316,106,894,1316,0
 Newton,Covington Mills,State Representative,113,(DEM,"PAMELA ""PAM"" DICKERSON",297,10,132,155,0
@@ -330,7 +310,6 @@ Newton,Buck Creek,State Representative,113,(DEM,"PAMELA ""PAM"" DICKERSON",2087,
 Newton,Stansells,State Representative,113,(DEM,"PAMELA ""PAM"" DICKERSON",1993,87,752,1154,0
 Newton,Fairview,State Representative,113,(DEM,"PAMELA ""PAM"" DICKERSON",1247,43,585,619,0
 Newton,Crowell,State Representative,113,(DEM,"PAMELA ""PAM"" DICKERSON",2273,89,933,1251,0
-Newton,,District Attorney,Alcovy Circuit,(REP,LAYLA ZON,31277,1472,15118,14683,4
 Newton,City Pond,District Attorney,Alcovy Circuit,(REP,LAYLA ZON,563,35,279,249,0
 Newton,Town,District Attorney,Alcovy Circuit,(REP,LAYLA ZON,1294,96,561,636,1
 Newton,Almon,District Attorney,Alcovy Circuit,(REP,LAYLA ZON,1664,84,703,876,1
@@ -355,7 +334,6 @@ Newton,Stansells,District Attorney,Alcovy Circuit,(REP,LAYLA ZON,1487,81,587,819
 Newton,Fairview,District Attorney,Alcovy Circuit,(REP,LAYLA ZON,759,32,361,366,0
 Newton,Crowell,District Attorney,Alcovy Circuit,(REP,LAYLA ZON,1370,46,616,708,0
 Newton,Hub,District Attorney,Alcovy Circuit,(REP,LAYLA ZON,1484,64,826,594,0
-Newton,,Probate Judge,,R,M. M. BELL,31231,1472,15133,14622,4
 Newton,City Pond,Probate Judge,,R,M. M. BELL,556,35,280,241,0
 Newton,Town,Probate Judge,,R,M. M. BELL,1262,100,556,605,1
 Newton,Almon,Probate Judge,,R,M. M. BELL,1640,83,691,865,1
@@ -380,7 +358,6 @@ Newton,Stansells,Probate Judge,,R,M. M. BELL,1491,81,579,831,0
 Newton,Fairview,Probate Judge,,R,M. M. BELL,757,32,361,364,0
 Newton,Crowell,Probate Judge,,R,M. M. BELL,1345,45,609,691,0
 Newton,Hub,Probate Judge,,R,M. M. BELL,1483,65,834,584,0
-Newton,,Superior Court Clerk,,(R,L. D. HAYS,32009,1502,15440,15063,4
 Newton,City Pond,Superior Court Clerk,,(R,L. D. HAYS,595,35,296,264,0
 Newton,Town,Superior Court Clerk,,(R,L. D. HAYS,1377,105,596,675,1
 Newton,Almon,Superior Court Clerk,,(R,L. D. HAYS,1692,87,715,889,1
@@ -405,7 +382,6 @@ Newton,Stansells,Superior Court Clerk,,(R,L. D. HAYS,1504,79,582,843,0
 Newton,Fairview,Superior Court Clerk,,(R,L. D. HAYS,769,33,370,366,0
 Newton,Crowell,Superior Court Clerk,,(R,L. D. HAYS,1363,44,616,703,0
 Newton,Hub,Superior Court Clerk,,(R,L. D. HAYS,1503,66,842,595,0
-Newton,,Sheriff,,(D,E. BROWN,36438,1659,16461,18315,3
 Newton,City Pond,Sheriff,,(D,E. BROWN,764,41,382,341,0
 Newton,Town,Sheriff,,(D,E. BROWN,2000,164,847,988,1
 Newton,Almon,Sheriff,,(D,E. BROWN,2416,108,935,1372,1
@@ -430,7 +406,6 @@ Newton,Stansells,Sheriff,,(D,E. BROWN,2067,88,784,1195,0
 Newton,Fairview,Sheriff,,(D,E. BROWN,1284,45,599,640,0
 Newton,Crowell,Sheriff,,(D,E. BROWN,2298,86,941,1271,0
 Newton,Hub,Sheriff,,(D,E. BROWN,1231,59,682,490,0
-Newton,,Tax Commissioner,,(R,B. DINGLER,22929,1169,11254,10505,1
 Newton,City Pond,Tax Commissioner,,(R,B. DINGLER,395,18,197,180,0
 Newton,Town,Tax Commissioner,,(R,B. DINGLER,703,52,295,356,0
 Newton,Almon,Tax Commissioner,,(R,B. DINGLER,906,57,382,467,0
@@ -455,7 +430,6 @@ Newton,Stansells,Tax Commissioner,,(R,B. DINGLER,851,60,309,482,0
 Newton,Fairview,Tax Commissioner,,(R,B. DINGLER,289,16,132,141,0
 Newton,Crowell,Tax Commissioner,,(R,B. DINGLER,507,18,225,264,0
 Newton,Hub,Tax Commissioner,,(R,B. DINGLER,1340,56,758,526,0
-Newton,,Tax Commissioner,,D,C. DUREN,19862,807,8246,10806,3
 Newton,City Pond,Tax Commissioner,,D,C. DUREN,443,26,220,197,0
 Newton,Town,Tax Commissioner,,D,C. DUREN,1406,123,590,692,1
 Newton,Almon,Tax Commissioner,,D,C. DUREN,1734,65,644,1024,1
@@ -480,7 +454,6 @@ Newton,Stansells,Tax Commissioner,,D,C. DUREN,1512,53,583,876,0
 Newton,Fairview,Tax Commissioner,,D,C. DUREN,1059,36,497,526,0
 Newton,Crowell,Tax Commissioner,,D,C. DUREN,1933,75,777,1081,0
 Newton,Hub,Tax Commissioner,,D,C. DUREN,293,15,148,130,0
-Newton,,Coroner,,(R,T. DAVIS,22767,1117,11409,10239,2
 Newton,City Pond,Coroner,,(R,T. DAVIS,360,15,184,161,0
 Newton,Town,Coroner,,(R,T. DAVIS,634,46,273,315,0
 Newton,Almon,Coroner,,(R,T. DAVIS,812,47,366,399,0
@@ -505,7 +478,6 @@ Newton,Stansells,Coroner,,(R,T. DAVIS,801,53,300,448,0
 Newton,Fairview,Coroner,,(R,T. DAVIS,247,12,120,115,0
 Newton,Crowell,Coroner,,(R,T. DAVIS,436,13,198,225,0
 Newton,Hub,Coroner,,(R,T. DAVIS,1415,58,798,559,0
-Newton,,Coroner,,D,D. BAILEY-BUTTS,19962,846,8043,11071,2
 Newton,City Pond,Coroner,,D,D. BAILEY-BUTTS,481,28,232,221,0
 Newton,Town,Coroner,,D,D. BAILEY-BUTTS,1482,125,611,745,1
 Newton,Almon,Coroner,,D,D. BAILEY-BUTTS,1829,73,663,1092,1
@@ -530,7 +502,6 @@ Newton,Stansells,Coroner,,D,D. BAILEY-BUTTS,1558,57,596,905,0
 Newton,Fairview,Coroner,,D,D. BAILEY-BUTTS,1102,39,509,554,0
 Newton,Crowell,Coroner,,D,D. BAILEY-BUTTS,2005,81,801,1123,0
 Newton,Hub,Coroner,,D,D. BAILEY-BUTTS,217,13,103,101,0
-Newton,,County Comm Chair,,R,R. A. VARNER,21261,1034,10680,9545,2
 Newton,City Pond,County Comm Chair,,R,R. A. VARNER,319,13,158,148,0
 Newton,Town,County Comm Chair,,R,R. A. VARNER,546,42,219,285,0
 Newton,Almon,County Comm Chair,,R,R. A. VARNER,744,41,340,363,0
@@ -555,7 +526,6 @@ Newton,Stansells,County Comm Chair,,R,R. A. VARNER,726,55,275,396,0
 Newton,Fairview,County Comm Chair,,R,R. A. VARNER,212,10,104,98,0
 Newton,Crowell,County Comm Chair,,R,R. A. VARNER,383,15,170,198,0
 Newton,Hub,County Comm Chair,,R,R. A. VARNER,1349,57,763,529,0
-Newton,,County Comm Chair,,D,M. BANES,21461,908,8778,11773,2
 Newton,City Pond,County Comm Chair,,D,M. BANES,531,29,262,240,0
 Newton,Town,County Comm Chair,,D,M. BANES,1609,128,691,789,1
 Newton,Almon,County Comm Chair,,D,M. BANES,1902,81,688,1132,1
@@ -580,7 +550,6 @@ Newton,Stansells,County Comm Chair,,D,M. BANES,1642,54,623,965,0
 Newton,Fairview,County Comm Chair,,D,M. BANES,1139,41,525,573,0
 Newton,Crowell,County Comm Chair,,D,M. BANES,2069,79,838,1152,0
 Newton,Hub,County Comm Chair,,D,M. BANES,266,13,132,121,0
-Newton,,County Comm 1,,R,"A. S. EDWARDS, JR.",7753,327,4480,2946,0
 Newton,Brewers,County Comm 1,,R,"A. S. EDWARDS, JR.",1612,70,990,552,0
 Newton,Brick Store,County Comm 1,,R,"A. S. EDWARDS, JR.",1483,76,767,640,0
 Newton,Downs,County Comm 1,,R,"A. S. EDWARDS, JR.",858,41,332,485,0
@@ -589,14 +558,12 @@ Newton,Newborn,County Comm 1,,R,"A. S. EDWARDS, JR.",471,18,365,88,0
 Newton,Rocky Plains-4,County Comm 1,,R,"A. S. EDWARDS, JR.",206,13,98,95,0
 Newton,Rocky Plains-10,County Comm 1,,R,"A. S. EDWARDS, JR.",1269,43,635,591,0
 Newton,Hub,County Comm 1,,R,"A. S. EDWARDS, JR.",956,36,607,313,0
-Newton,,County Comm 3,,(D,N. SCHULZ,8035,341,3348,4346,0
 Newton,Almon,County Comm 3,,(D,N. SCHULZ,2288,101,899,1288,0
 Newton,Gum Creek,County Comm 3,,(D,N. SCHULZ,1603,79,753,771,0
 Newton,Beaverdam,County Comm 3,,(D,N. SCHULZ,1205,37,451,717,0
 Newton,Stansells,County Comm 3,,(D,N. SCHULZ,77,6,34,37,0
 Newton,Fairview,County Comm 3,,(D,N. SCHULZ,1231,42,580,609,0
 Newton,Crowell,County Comm 3,,(D,N. SCHULZ,1631,76,631,924,0
-Newton,,County Comm 5,,R,R. COWAN,7109,366,3428,3315,0
 Newton,City Pond,County Comm 5,,R,R. COWAN,35,6,13,16,0
 Newton,Alcovy-4,County Comm 5,,R,R. COWAN,1725,91,735,899,0
 Newton,Alcovy-10,County Comm 5,,R,R. COWAN,226,17,90,119,0
@@ -609,12 +576,10 @@ Newton,Leguinn,County Comm 5,,R,R. COWAN,1160,52,676,432,0
 Newton,Mansfield,County Comm 5,,R,R. COWAN,23,0,14,9,0
 Newton,Oxford,County Comm 5,,R,R. COWAN,944,68,457,419,0
 Newton,Hub,County Comm 5,,R,R. COWAN,542,31,234,277,0
-Newton,,BOE 2,,(D,E. JOHNSON,6811,270,2693,3848,0
 Newton,Livingston,BOE 2,,(D,E. JOHNSON,992,49,392,551,0
 Newton,Downs,BOE 2,,(D,E. JOHNSON,1835,48,746,1041,0
 Newton,Buck Creek,BOE 2,,(D,E. JOHNSON,2096,95,836,1165,0
 Newton,Stansells,BOE 2,,(D,E. JOHNSON,1888,78,719,1091,0
-Newton,,BOE 4,,(D,A. TURNER,5694,281,2597,2814,2
 Newton,City Pond,BOE 4,,(D,A. TURNER,699,33,354,312,0
 Newton,Town,BOE 4,,(D,A. TURNER,1921,160,821,939,1
 Newton,Almon,BOE 4,,(D,A. TURNER,15,2,5,8,0
@@ -623,7 +588,6 @@ Newton,Cedar Shoals,BOE 4,,(D,A. TURNER,670,18,280,371,1
 Newton,Beaverdam,BOE 4,,(D,A. TURNER,1144,33,511,600,0
 Newton,Oxford,BOE 4,,(D,A. TURNER,359,14,212,133,0
 Newton,Crowell,BOE 4,,(D,A. TURNER,587,11,280,296,0
-Newton,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,16092,845,7448,7797,2
 Newton,City Pond,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,280,12,144,124,0
 Newton,Town,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,766,58,346,362,0
 Newton,Almon,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1012,61,420,531,0
@@ -648,7 +612,6 @@ Newton,Stansells,Constitutional Amendment #1<br>Provides greater flexibility and
 Newton,Fairview,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,525,23,244,258,0
 Newton,Crowell,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,947,36,404,507,0
 Newton,Hub,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,550,35,293,222,0
-Newton,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,27057,1086,12304,13665,2
 Newton,City Pond,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,562,32,272,258,0
 Newton,Town,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1379,114,558,706,1
 Newton,Almon,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1657,61,630,965,1
@@ -673,7 +636,6 @@ Newton,Stansells,Constitutional Amendment #1<br>Provides greater flexibility and
 Newton,Fairview,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,840,29,389,422,0
 Newton,Crowell,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1513,57,613,843,0
 Newton,Hub,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1075,32,607,436,0
-Newton,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,35835,1657,16155,18019,4
 Newton,City Pond,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,684,35,339,310,0
 Newton,Town,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1735,136,731,867,1
 Newton,Almon,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2270,100,892,1277,1
@@ -698,7 +660,6 @@ Newton,Stansells,Constitutional Amendment #2<br>Authorizes penalties for sexual 
 Newton,Fairview,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1147,41,524,582,0
 Newton,Crowell,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2095,84,836,1175,0
 Newton,Hub,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1348,64,739,545,0
-Newton,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,6628,262,3286,3080,0
 Newton,City Pond,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,140,7,71,62,0
 Newton,Town,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,354,29,159,166,0
 Newton,Almon,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,369,19,144,206,0
@@ -723,7 +684,6 @@ Newton,Stansells,Constitutional Amendment #2<br>Authorizes penalties for sexual 
 Newton,Fairview,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,209,10,103,96,0
 Newton,Crowell,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,338,10,172,156,0
 Newton,Hub,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,259,4,147,108,0
-Newton,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,25336,1196,11666,12470,4
 Newton,City Pond,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,469,25,254,190,0
 Newton,Town,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1204,90,552,561,1
 Newton,Almon,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1658,85,664,908,1
@@ -748,7 +708,6 @@ Newton,Stansells,Constitutional Amendment #3<br>Reforms and re-establishes the J
 Newton,Fairview,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,881,36,398,447,0
 Newton,Crowell,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1551,61,661,829,0
 Newton,Hub,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,900,52,473,375,0
-Newton,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,14985,619,6811,7555,0
 Newton,City Pond,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,316,15,140,161,0
 Newton,Town,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,806,69,307,430,0
 Newton,Almon,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,842,28,322,492,0
@@ -773,7 +732,6 @@ Newton,Stansells,Constitutional Amendment #3<br>Reforms and re-establishes the J
 Newton,Fairview,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,406,14,204,188,0
 Newton,Crowell,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,776,27,307,442,0
 Newton,Hub,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,614,13,361,240,0
-Newton,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,35112,1688,15738,17682,4
 Newton,City Pond,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,668,31,323,314,0
 Newton,Town,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1687,139,700,847,1
 Newton,Almon,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,2239,102,857,1279,1
@@ -798,7 +756,6 @@ Newton,Stansells,Constitutional Amendment #4<br>Dedicates revenue from existing 
 Newton,Fairview,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1130,45,508,577,0
 Newton,Crowell,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,2059,82,831,1146,0
 Newton,Hub,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1279,63,699,517,0
-Newton,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,7424,249,3734,3441,0
 Newton,City Pond,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,162,10,88,64,0
 Newton,Town,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,420,27,195,198,0
 Newton,Almon,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,406,22,179,205,0
@@ -823,7 +780,6 @@ Newton,Stansells,Constitutional Amendment #4<br>Dedicates revenue from existing 
 Newton,Fairview,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,226,6,128,92,0
 Newton,Crowell,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,378,10,178,190,0
 Newton,Hub,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,320,6,188,126,0
-Newton,,Special,,(R,T. BAILEY,7798,317,4510,2971,0
 Newton,Brewers,Special,,(R,T. BAILEY,1621,68,995,558,0
 Newton,Brick Store,Special,,(R,T. BAILEY,1493,74,771,648,0
 Newton,Downs,Special,,(R,T. BAILEY,867,40,342,485,0

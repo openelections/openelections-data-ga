@@ -1,5 +1,4 @@
 county,precinct,office,district,party,candidate,votes,absentee_by_mail,election_day,advance_in_person,provisional
-Fayette,,President of the United States,,,DONALD J. TRUMP,35048,1625,10790,22626,7
 Fayette,BLACKROCK,President of the United States,,,DONALD J. TRUMP,628,56,164,408,0
 Fayette,BROOKS,President of the United States,,,DONALD J. TRUMP,1468,66,747,655,0
 Fayette,EUROPE,President of the United States,,,DONALD J. TRUMP,286,22,76,188,0
@@ -38,7 +37,6 @@ Fayette,CAMP CREEK,President of the United States,,,DONALD J. TRUMP,953,35,269,6
 Fayette,RISING STAR,President of the United States,,,DONALD J. TRUMP,1711,72,508,1130,1
 Fayette,SPRING HILL,President of the United States,,,DONALD J. TRUMP,1005,44,251,710,0
 Fayette,ANTIOCH,President of the United States,,,DONALD J. TRUMP,854,30,336,488,0
-Fayette,,President of the United States,,,HILLARY CLINTON,23284,1156,6724,15389,15
 Fayette,BLACKROCK,President of the United States,,,HILLARY CLINTON,1215,50,293,871,1
 Fayette,BROOKS,President of the United States,,,HILLARY CLINTON,194,16,90,88,0
 Fayette,EUROPE,President of the United States,,,HILLARY CLINTON,1903,71,494,1338,0
@@ -77,7 +75,6 @@ Fayette,CAMP CREEK,President of the United States,,,HILLARY CLINTON,382,35,89,25
 Fayette,RISING STAR,President of the United States,,,HILLARY CLINTON,643,50,182,411,0
 Fayette,SPRING HILL,President of the United States,,,HILLARY CLINTON,1029,50,233,746,0
 Fayette,ANTIOCH,President of the United States,,,HILLARY CLINTON,423,21,156,246,0
-Fayette,,President of the United States,,,GARY JOHNSON,2103,134,965,1004,0
 Fayette,BLACKROCK,President of the United States,,,GARY JOHNSON,56,4,23,29,0
 Fayette,BROOKS,President of the United States,,,GARY JOHNSON,62,7,31,24,0
 Fayette,EUROPE,President of the United States,,,GARY JOHNSON,36,2,11,23,0
@@ -116,7 +113,6 @@ Fayette,CAMP CREEK,President of the United States,,,GARY JOHNSON,53,2,31,20,0
 Fayette,RISING STAR,President of the United States,,,GARY JOHNSON,123,7,49,67,0
 Fayette,SPRING HILL,President of the United States,,,GARY JOHNSON,63,8,24,31,0
 Fayette,ANTIOCH,President of the United States,,,GARY JOHNSON,62,1,32,29,0
-Fayette,,United States Senator,,,JOHNNY ISAKSON,36356,1787,11324,23237,8
 Fayette,BLACKROCK,United States Senator,,,JOHNNY ISAKSON,686,61,177,448,0
 Fayette,BROOKS,United States Senator,,,JOHNNY ISAKSON,1442,68,739,635,0
 Fayette,EUROPE,United States Senator,,,JOHNNY ISAKSON,347,23,87,237,0
@@ -155,7 +151,6 @@ Fayette,CAMP CREEK,United States Senator,,,JOHNNY ISAKSON,958,43,271,644,0
 Fayette,RISING STAR,United States Senator,,,JOHNNY ISAKSON,1799,86,550,1162,1
 Fayette,SPRING HILL,United States Senator,,,JOHNNY ISAKSON,1062,48,266,748,0
 Fayette,ANTIOCH,United States Senator,,,JOHNNY ISAKSON,853,30,340,483,0
-Fayette,,United States Senator,,,JIM BARKSDALE,19602,982,5595,13014,11
 Fayette,BLACKROCK,United States Senator,,,JIM BARKSDALE,1075,46,279,749,1
 Fayette,BROOKS,United States Senator,,,JIM BARKSDALE,163,13,73,77,0
 Fayette,EUROPE,United States Senator,,,JIM BARKSDALE,1734,69,451,1214,0
@@ -194,7 +189,6 @@ Fayette,CAMP CREEK,United States Senator,,,JIM BARKSDALE,297,30,68,199,0
 Fayette,RISING STAR,United States Senator,,,JIM BARKSDALE,486,38,136,312,0
 Fayette,SPRING HILL,United States Senator,,,JIM BARKSDALE,862,43,199,620,0
 Fayette,ANTIOCH,United States Senator,,,JIM BARKSDALE,366,19,133,214,0
-Fayette,,United States Senator,,,ALLEN BUCKLEY,2549,126,1022,1397,4
 Fayette,BLACKROCK,United States Senator,,,ALLEN BUCKLEY,48,2,14,32,0
 Fayette,BROOKS,United States Senator,,,ALLEN BUCKLEY,75,9,37,29,0
 Fayette,EUROPE,United States Senator,,,ALLEN BUCKLEY,45,3,16,26,0
@@ -233,7 +227,6 @@ Fayette,CAMP CREEK,United States Senator,,,ALLEN BUCKLEY,77,1,31,45,0
 Fayette,RISING STAR,United States Senator,,,ALLEN BUCKLEY,126,5,35,86,0
 Fayette,SPRING HILL,United States Senator,,,ALLEN BUCKLEY,91,7,22,62,0
 Fayette,ANTIOCH,United States Senator,,,ALLEN BUCKLEY,70,1,35,34,0
-Fayette,,"Public Service Commission, District 2",2,,TIM ECHOLS,39185,1915,12153,25107,10
 Fayette,BLACKROCK,"Public Service Commission, District 2",2,,TIM ECHOLS,850,65,235,550,0
 Fayette,BROOKS,"Public Service Commission, District 2",2,,TIM ECHOLS,1435,68,739,628,0
 Fayette,EUROPE,"Public Service Commission, District 2",2,,TIM ECHOLS,594,31,168,395,0
@@ -272,7 +265,6 @@ Fayette,CAMP CREEK,"Public Service Commission, District 2",2,,TIM ECHOLS,1003,43
 Fayette,RISING STAR,"Public Service Commission, District 2",2,,TIM ECHOLS,1920,100,579,1240,1
 Fayette,SPRING HILL,"Public Service Commission, District 2",2,,TIM ECHOLS,1191,60,298,833,0
 Fayette,ANTIOCH,"Public Service Commission, District 2",2,,TIM ECHOLS,904,30,365,509,0
-Fayette,,"Public Service Commission, District 2",2,,ERIC HOSKINS,14954,589,4811,9543,11
 Fayette,BLACKROCK,"Public Service Commission, District 2",2,,ERIC HOSKINS,679,22,173,483,1
 Fayette,BROOKS,"Public Service Commission, District 2",2,,ERIC HOSKINS,199,14,96,89,0
 Fayette,EUROPE,"Public Service Commission, District 2",2,,ERIC HOSKINS,1097,32,294,771,0
@@ -311,7 +303,6 @@ Fayette,CAMP CREEK,"Public Service Commission, District 2",2,,ERIC HOSKINS,270,1
 Fayette,RISING STAR,"Public Service Commission, District 2",2,,ERIC HOSKINS,412,16,134,262,0
 Fayette,SPRING HILL,"Public Service Commission, District 2",2,,ERIC HOSKINS,636,20,172,444,0
 Fayette,ANTIOCH,"Public Service Commission, District 2",2,,ERIC HOSKINS,292,10,109,173,0
-Fayette,,U.S. Representative,3,,DREW FERGUSON,33242,1586,10490,21160,6
 Fayette,BLACKROCK,U.S. Representative,3,,DREW FERGUSON,668,56,181,431,0
 Fayette,BROOKS,U.S. Representative,3,,DREW FERGUSON,1505,75,779,651,0
 Fayette,FAYETTEVILLE EAST,U.S. Representative,3,,DREW FERGUSON,636,36,182,418,0
@@ -342,7 +333,6 @@ Fayette,CAMP CREEK,U.S. Representative,3,,DREW FERGUSON,1005,40,296,669,0
 Fayette,RISING STAR,U.S. Representative,3,,DREW FERGUSON,1887,87,575,1224,1
 Fayette,SPRING HILL,U.S. Representative,3,,DREW FERGUSON,1106,57,287,762,0
 Fayette,ANTIOCH,U.S. Representative,3,,DREW FERGUSON,917,29,381,507,0
-Fayette,,U.S. Representative,3,,ANGELA PENDLEY,15589,776,4460,10346,7
 Fayette,BLACKROCK,U.S. Representative,3,,ANGELA PENDLEY,1183,48,292,842,1
 Fayette,BROOKS,U.S. Representative,3,,ANGELA PENDLEY,176,15,71,90,0
 Fayette,FAYETTEVILLE EAST,U.S. Representative,3,,ANGELA PENDLEY,605,22,194,389,0
@@ -373,7 +363,6 @@ Fayette,CAMP CREEK,U.S. Representative,3,,ANGELA PENDLEY,338,30,79,229,0
 Fayette,RISING STAR,U.S. Representative,3,,ANGELA PENDLEY,547,39,157,351,0
 Fayette,SPRING HILL,U.S. Representative,3,,ANGELA PENDLEY,946,39,221,686,0
 Fayette,ANTIOCH,U.S. Representative,3,,ANGELA PENDLEY,390,18,133,239,0
-Fayette,,U.S. Representative,13,,DAVID SCOTT,7734,301,2437,4991,5
 Fayette,EUROPE,U.S. Representative,13,,DAVID SCOTT,2021,76,537,1408,0
 Fayette,HOPEFUL,U.S. Representative,13,,DAVID SCOTT,968,30,356,582,0
 Fayette,MORNING CREEK,U.S. Representative,13,,DAVID SCOTT,1449,63,424,961,1
@@ -383,7 +372,6 @@ Fayette,BANKS,U.S. Representative,13,,DAVID SCOTT,752,34,270,446,2
 Fayette,DOGWOOD-13,U.S. Representative,13,,DAVID SCOTT,361,11,118,232,0
 Fayette,OAK RIDGE,U.S. Representative,13,,DAVID SCOTT,1002,45,368,589,0
 Fayette,ANTIOCH,U.S. Representative,13,,DAVID SCOTT,0,0,0,0,0
-Fayette,,State Senator,16,(REP,MARTY HARBIN,33789,1509,10831,21443,6
 Fayette,BROOKS,State Senator,16,(REP,MARTY HARBIN,1535,74,792,669,0
 Fayette,RAREOVER,State Senator,16,(REP,MARTY HARBIN,1700,38,366,1296,0
 Fayette,SHAKERAG EAST,State Senator,16,(REP,MARTY HARBIN,842,30,301,511,0
@@ -409,7 +397,6 @@ Fayette,CAMP CREEK,State Senator,16,(REP,MARTY HARBIN,1138,50,333,755,0
 Fayette,RISING STAR,State Senator,16,(REP,MARTY HARBIN,2102,102,639,1360,1
 Fayette,SPRING HILL,State Senator,16,(REP,MARTY HARBIN,1466,71,388,1007,0
 Fayette,ANTIOCH,State Senator,16,(REP,MARTY HARBIN,1037,37,420,580,0
-Fayette,,State Senator,34,,VALENCIA SEAY,13630,588,4088,8942,12
 Fayette,BLACKROCK,State Senator,34,,VALENCIA SEAY,1386,67,354,964,1
 Fayette,EUROPE,State Senator,34,,VALENCIA SEAY,1971,74,505,1392,0
 Fayette,FAYETTEVILLE EAST,State Senator,34,,VALENCIA SEAY,851,43,276,532,0
@@ -423,7 +410,6 @@ Fayette,KENWOOD,State Senator,34,,VALENCIA SEAY,573,10,208,353,2
 Fayette,BANKS,State Senator,34,,VALENCIA SEAY,746,32,267,444,3
 Fayette,OAK RIDGE,State Senator,34,,VALENCIA SEAY,979,44,359,576,0
 Fayette,JEFF DAVIS,State Senator,34,,VALENCIA SEAY,1243,70,354,816,3
-Fayette,,State Representative,63,,DEBRA BAZEMORE,9391,410,2832,6141,8
 Fayette,EUROPE,State Representative,63,,DEBRA BAZEMORE,1971,72,514,1385,0
 Fayette,FAYETTEVILLE EAST,State Representative,63,,DEBRA BAZEMORE,857,43,279,535,0
 Fayette,FLINT,State Representative,63,,DEBRA BAZEMORE,739,41,236,460,2
@@ -434,7 +420,6 @@ Fayette,WILLOW POND,State Representative,63,,DEBRA BAZEMORE,697,36,220,441,0
 Fayette,OAK RIDGE,State Representative,63,,DEBRA BAZEMORE,743,33,285,425,0
 Fayette,JEFF DAVIS,State Representative,63,,DEBRA BAZEMORE,1246,70,351,822,3
 Fayette,SPRING HILL,State Representative,63,,DEBRA BAZEMORE,1350,63,330,957,0
-Fayette,,State Representative,64,DEM,DERRICK L. JACKSON,8462,334,2410,5715,3
 Fayette,BLACKROCK,State Representative,64,DEM,DERRICK L. JACKSON,1408,69,360,978,1
 Fayette,FAYETTEVILLE WEST,State Representative,64,DEM,DERRICK L. JACKSON,718,23,238,457,0
 Fayette,HOPEFUL,State Representative,64,DEM,DERRICK L. JACKSON,946,30,346,570,0
@@ -445,13 +430,10 @@ Fayette,SANDY CREEK-13,State Representative,64,DEM,DERRICK L. JACKSON,583,32,146
 Fayette,DOGWOOD-03,State Representative,64,DEM,DERRICK L. JACKSON,753,28,231,493,1
 Fayette,DOGWOOD-13,State Representative,64,DEM,DERRICK L. JACKSON,341,12,115,214,0
 Fayette,OAK RIDGE,State Representative,64,DEM,DERRICK L. JACKSON,225,11,72,142,0
-Fayette,,State Representative,71,,DAVID STOVER,1229,47,420,762,0
 Fayette,KEDRON,State Representative,71,,DAVID STOVER,682,24,233,425,0
 Fayette,FIELDING RIDGE,State Representative,71,,DAVID STOVER,547,23,187,337,0
-Fayette,,State Representative,71,,CYNTHIA C. BENNETT,772,30,240,502,0
 Fayette,KEDRON,State Representative,71,,CYNTHIA C. BENNETT,525,19,171,335,0
 Fayette,FIELDING RIDGE,State Representative,71,,CYNTHIA C. BENNETT,247,11,69,167,0
-Fayette,,State Representative,72,,JOSH BONNER,21413,992,6867,13549,5
 Fayette,BROOKS,State Representative,72,,JOSH BONNER,1549,74,800,675,0
 Fayette,SHAKERAG EAST,State Representative,72,,JOSH BONNER,845,30,299,516,0
 Fayette,SHAKERAG WEST,State Representative,72,,JOSH BONNER,762,26,146,590,0
@@ -469,17 +451,14 @@ Fayette,FIELDING RIDGE,State Representative,72,,JOSH BONNER,1454,68,444,942,0
 Fayette,WILLOWBEND,State Representative,72,,JOSH BONNER,1138,40,361,737,0
 Fayette,CAMP CREEK,State Representative,72,,JOSH BONNER,1137,50,332,755,0
 Fayette,RISING STAR,State Representative,72,,JOSH BONNER,2114,102,647,1364,1
-Fayette,,State Representative,73,REP,KAREN MATHIAK,4676,196,1780,2700,0
 Fayette,WOOLSEY,State Representative,73,REP,KAREN MATHIAK,1507,61,675,771,0
 Fayette,HARPS CROSSING,State Representative,73,REP,KAREN MATHIAK,905,49,318,538,0
 Fayette,MURPHY,State Representative,73,REP,KAREN MATHIAK,1322,57,395,870,0
 Fayette,ANTIOCH,State Representative,73,REP,KAREN MATHIAK,942,29,392,521,0
-Fayette,,State Representative,73,DEM,RAHIM TALLEY,1692,85,522,1085,0
 Fayette,WOOLSEY,State Representative,73,DEM,RAHIM TALLEY,224,19,72,133,0
 Fayette,HARPS CROSSING,State Representative,73,DEM,RAHIM TALLEY,309,19,101,189,0
 Fayette,MURPHY,State Representative,73,DEM,RAHIM TALLEY,799,29,233,537,0
 Fayette,ANTIOCH,State Representative,73,DEM,RAHIM TALLEY,360,18,116,226,0
-Fayette,,District Attorney,Griffin Circuit,REP,BEN COKER,46163,2124,14693,29330,16
 Fayette,BLACKROCK,District Attorney,Griffin Circuit,REP,BEN COKER,1130,72,314,744,0
 Fayette,BROOKS,District Attorney,Griffin Circuit,REP,BEN COKER,1559,74,804,681,0
 Fayette,EUROPE,District Attorney,Griffin Circuit,REP,BEN COKER,1075,44,303,728,0
@@ -518,7 +497,6 @@ Fayette,CAMP CREEK,District Attorney,Griffin Circuit,REP,BEN COKER,1140,50,333,7
 Fayette,RISING STAR,District Attorney,Griffin Circuit,REP,BEN COKER,2108,101,646,1360,1
 Fayette,SPRING HILL,District Attorney,Griffin Circuit,REP,BEN COKER,1482,73,388,1021,0
 Fayette,ANTIOCH,District Attorney,Griffin Circuit,REP,BEN COKER,1049,38,431,580,0
-Fayette,,JUDGE,PROBATE COURT,R,A. S. JACKSON,46703,2157,14819,29711,16
 Fayette,BLACKROCK,JUDGE,PROBATE COURT,R,A. S. JACKSON,1155,74,327,754,0
 Fayette,BROOKS,JUDGE,PROBATE COURT,R,A. S. JACKSON,1547,76,797,674,0
 Fayette,EUROPE,JUDGE,PROBATE COURT,R,A. S. JACKSON,1136,46,317,773,0
@@ -557,7 +535,6 @@ Fayette,CAMP CREEK,JUDGE,PROBATE COURT,R,A. S. JACKSON,1151,51,334,766,0
 Fayette,RISING STAR,JUDGE,PROBATE COURT,R,A. S. JACKSON,2123,102,649,1371,1
 Fayette,SPRING HILL,JUDGE,PROBATE COURT,R,A. S. JACKSON,1502,73,389,1040,0
 Fayette,ANTIOCH,JUDGE,PROBATE COURT,R,A. S. JACKSON,1052,39,432,581,0
-Fayette,,CLERK,SUPERIOR COURT,R,S. STUDDARD,47009,2150,14895,29948,16
 Fayette,BLACKROCK,CLERK,SUPERIOR COURT,R,S. STUDDARD,1172,74,330,768,0
 Fayette,BROOKS,CLERK,SUPERIOR COURT,R,S. STUDDARD,1545,76,794,675,0
 Fayette,EUROPE,CLERK,SUPERIOR COURT,R,S. STUDDARD,1149,45,321,783,0
@@ -596,7 +573,6 @@ Fayette,CAMP CREEK,CLERK,SUPERIOR COURT,R,S. STUDDARD,1155,53,335,767,0
 Fayette,RISING STAR,CLERK,SUPERIOR COURT,R,S. STUDDARD,2126,101,649,1375,1
 Fayette,SPRING HILL,CLERK,SUPERIOR COURT,R,S. STUDDARD,1539,75,402,1062,0
 Fayette,ANTIOCH,CLERK,SUPERIOR COURT,R,S. STUDDARD,1064,38,437,589,0
-Fayette,,SHERIFF,,R,B. H. BABB,47730,2179,15056,30480,15
 Fayette,BLACKROCK,SHERIFF,,R,B. H. BABB,1210,78,329,803,0
 Fayette,BROOKS,SHERIFF,,R,B. H. BABB,1593,80,816,697,0
 Fayette,EUROPE,SHERIFF,,R,B. H. BABB,1182,47,315,820,0
@@ -635,7 +611,6 @@ Fayette,CAMP CREEK,SHERIFF,,R,B. H. BABB,1150,51,330,769,0
 Fayette,RISING STAR,SHERIFF,,R,B. H. BABB,2147,101,653,1392,1
 Fayette,SPRING HILL,SHERIFF,,R,B. H. BABB,1564,75,406,1083,0
 Fayette,ANTIOCH,SHERIFF,,R,B. H. BABB,1096,39,447,610,0
-Fayette,,TAX COMMISSIONER,,R,K. KING,39514,1872,12538,25095,9
 Fayette,BLACKROCK,TAX COMMISSIONER,,R,K. KING,736,59,202,475,0
 Fayette,BROOKS,TAX COMMISSIONER,,R,K. KING,1553,77,804,672,0
 Fayette,EUROPE,TAX COMMISSIONER,,R,K. KING,364,25,88,251,0
@@ -674,7 +649,6 @@ Fayette,CAMP CREEK,TAX COMMISSIONER,,R,K. KING,1064,45,303,716,0
 Fayette,RISING STAR,TAX COMMISSIONER,,R,K. KING,1953,90,599,1263,1
 Fayette,SPRING HILL,TAX COMMISSIONER,,R,K. KING,1180,58,313,809,0
 Fayette,ANTIOCH,TAX COMMISSIONER,,R,K. KING,950,31,397,522,0
-Fayette,,TAX COMMISSIONER,,D,R. DAWODU,19123,878,5467,12765,13
 Fayette,BLACKROCK,TAX COMMISSIONER,,D,R. DAWODU,1105,41,269,794,1
 Fayette,BROOKS,TAX COMMISSIONER,,D,R. DAWODU,127,12,48,67,0
 Fayette,EUROPE,TAX COMMISSIONER,,D,R. DAWODU,1780,63,466,1251,0
@@ -713,7 +687,6 @@ Fayette,CAMP CREEK,TAX COMMISSIONER,,D,R. DAWODU,264,23,66,175,0
 Fayette,RISING STAR,TAX COMMISSIONER,,D,R. DAWODU,452,34,120,298,0
 Fayette,SPRING HILL,TAX COMMISSIONER,,D,R. DAWODU,854,38,192,624,0
 Fayette,ANTIOCH,TAX COMMISSIONER,,D,R. DAWODU,338,15,112,211,0
-Fayette,,CORONER,,R,W. B. HUDDLESTON,47064,2187,14935,29926,16
 Fayette,BLACKROCK,CORONER,,R,W. B. HUDDLESTON,1167,79,328,760,0
 Fayette,BROOKS,CORONER,,R,W. B. HUDDLESTON,1571,77,800,694,0
 Fayette,EUROPE,CORONER,,R,W. B. HUDDLESTON,1112,46,306,760,0
@@ -752,7 +725,6 @@ Fayette,CAMP CREEK,CORONER,,R,W. B. HUDDLESTON,1155,53,331,771,0
 Fayette,RISING STAR,CORONER,,R,W. B. HUDDLESTON,2122,102,653,1366,1
 Fayette,SPRING HILL,CORONER,,R,W. B. HUDDLESTON,1526,73,396,1057,0
 Fayette,ANTIOCH,CORONER,,R,W. B. HUDDLESTON,1063,38,437,588,0
-Fayette,,SOLICITOR GENERAL,,R,J. K. INAGAWA,46117,2072,14654,29377,14
 Fayette,BLACKROCK,SOLICITOR GENERAL,,R,J. K. INAGAWA,1137,70,327,740,0
 Fayette,BROOKS,SOLICITOR GENERAL,,R,J. K. INAGAWA,1530,71,792,667,0
 Fayette,EUROPE,SOLICITOR GENERAL,,R,J. K. INAGAWA,1079,43,300,736,0
@@ -791,7 +763,6 @@ Fayette,CAMP CREEK,SOLICITOR GENERAL,,R,J. K. INAGAWA,1132,47,330,755,0
 Fayette,RISING STAR,SOLICITOR GENERAL,,R,J. K. INAGAWA,2105,99,643,1362,1
 Fayette,SPRING HILL,SOLICITOR GENERAL,,R,J. K. INAGAWA,1488,71,388,1029,0
 Fayette,ANTIOCH,SOLICITOR GENERAL,,R,J. K. INAGAWA,1036,36,425,575,0
-Fayette,,CC D1,,R,E. MAXWELL,9306,434,2491,6380,1
 Fayette,FAYETTEVILLE WEST,CC D1,,R,E. MAXWELL,476,31,136,309,0
 Fayette,MORNING CREEK,CC D1,,R,E. MAXWELL,177,12,36,129,0
 Fayette,RAREOVER,CC D1,,R,E. MAXWELL,1452,36,308,1108,0
@@ -804,7 +775,6 @@ Fayette,WILLOW POND,CC D1,,R,E. MAXWELL,1106,58,342,705,1
 Fayette,DOGWOOD-03,CC D1,,R,E. MAXWELL,947,59,274,614,0
 Fayette,DOGWOOD-13,CC D1,,R,E. MAXWELL,422,14,117,291,0
 Fayette,SPRING HILL,CC D1,,R,E. MAXWELL,1045,46,268,731,0
-Fayette,,CC D1,,D,P. REID,4784,228,1294,3261,1
 Fayette,FAYETTEVILLE WEST,CC D1,,D,P. REID,351,11,119,221,0
 Fayette,MORNING CREEK,CC D1,,D,P. REID,75,8,10,57,0
 Fayette,RAREOVER,CC D1,,D,P. REID,521,9,111,401,0
@@ -817,7 +787,6 @@ Fayette,WILLOW POND,CC D1,,D,P. REID,746,34,230,482,0
 Fayette,DOGWOOD-03,CC D1,,D,P. REID,408,13,115,279,1
 Fayette,DOGWOOD-13,CC D1,,D,P. REID,195,9,61,125,0
 Fayette,SPRING HILL,CC D1,,D,P. REID,1019,51,245,723,0
-Fayette,,CC D2,,R,R. C. OGNIO,13313,605,4782,7923,3
 Fayette,BROOKS,CC D2,,R,R. C. OGNIO,1502,72,778,652,0
 Fayette,FLINT,CC D2,,R,R. C. OGNIO,733,35,258,439,1
 Fayette,STARRSMILL,CC D2,,R,R. C. OGNIO,2096,94,650,1352,0
@@ -830,7 +799,6 @@ Fayette,JEFF DAVIS,CC D2,,R,R. C. OGNIO,289,20,73,196,0
 Fayette,MURPHY,CC D2,,R,R. C. OGNIO,1598,66,482,1050,0
 Fayette,RISING STAR,CC D2,,R,R. C. OGNIO,2076,100,637,1338,1
 Fayette,ANTIOCH,CC D2,,R,R. C. OGNIO,1017,34,414,569,0
-Fayette,,CC D5,,R,C. W. ODDO,45462,2072,14483,28892,15
 Fayette,BLACKROCK,CC D5,,R,C. W. ODDO,1117,69,316,732,0
 Fayette,BROOKS,CC D5,,R,C. W. ODDO,1522,72,784,666,0
 Fayette,EUROPE,CC D5,,R,C. W. ODDO,1091,43,299,749,0
@@ -869,7 +837,6 @@ Fayette,CAMP CREEK,CC D5,,R,C. W. ODDO,1115,48,324,743,0
 Fayette,RISING STAR,CC D5,,R,C. W. ODDO,2068,98,634,1335,1
 Fayette,SPRING HILL,CC D5,,R,C. W. ODDO,1420,69,372,979,0
 Fayette,ANTIOCH,CC D5,,R,C. W. ODDO,1031,36,425,570,0
-Fayette,,BOE D1,,R,B. MARCHMAN,8836,433,2344,6058,1
 Fayette,FAYETTEVILLE WEST,BOE D1,,R,B. MARCHMAN,484,34,134,316,0
 Fayette,MORNING CREEK,BOE D1,,R,B. MARCHMAN,169,13,29,127,0
 Fayette,RAREOVER,BOE D1,,R,B. MARCHMAN,1274,35,259,980,0
@@ -882,7 +849,6 @@ Fayette,WILLOW POND,BOE D1,,R,B. MARCHMAN,1080,60,334,685,1
 Fayette,DOGWOOD-03,BOE D1,,R,B. MARCHMAN,885,54,260,571,0
 Fayette,DOGWOOD-13,BOE D1,,R,B. MARCHMAN,425,13,113,299,0
 Fayette,SPRING HILL,BOE D1,,R,B. MARCHMAN,1033,52,266,715,0
-Fayette,,BOE D1,,D,M. LOHR,5230,226,1440,3563,1
 Fayette,FAYETTEVILLE WEST,BOE D1,,D,M. LOHR,334,9,117,208,0
 Fayette,MORNING CREEK,BOE D1,,D,M. LOHR,80,6,16,58,0
 Fayette,RAREOVER,BOE D1,,D,M. LOHR,698,9,167,522,0
@@ -895,7 +861,6 @@ Fayette,WILLOW POND,BOE D1,,D,M. LOHR,767,31,237,499,0
 Fayette,DOGWOOD-03,BOE D1,,D,M. LOHR,471,20,128,322,1
 Fayette,DOGWOOD-13,BOE D1,,D,M. LOHR,192,10,63,119,0
 Fayette,SPRING HILL,BOE D1,,D,M. LOHR,999,43,239,717,0
-Fayette,,BOE D3,,R,S. A. HOLLOWELL,12472,548,3927,7993,4
 Fayette,SHAKERAG WEST,BOE D3,,R,S. A. HOLLOWELL,747,26,142,579,0
 Fayette,WHITEWATER,BOE D3,,R,S. A. HOLLOWELL,818,43,223,552,0
 Fayette,OAK GROVE,BOE D3,,R,S. A. HOLLOWELL,816,35,329,450,2
@@ -907,7 +872,6 @@ Fayette,BRAELINN,BOE D3,,R,S. A. HOLLOWELL,1262,63,413,786,0
 Fayette,FIELDING RIDGE,BOE D3,,R,S. A. HOLLOWELL,2116,94,663,1358,1
 Fayette,WILLOWBEND,BOE D3,,R,S. A. HOLLOWELL,1135,43,357,735,0
 Fayette,CAMP CREEK,BOE D3,,R,S. A. HOLLOWELL,1124,49,328,747,0
-Fayette,,BOE D5,,R,B. ANDERSON,37257,1794,11661,23793,9
 Fayette,BLACKROCK,BOE D5,,R,B. ANDERSON,693,58,187,448,0
 Fayette,BROOKS,BOE D5,,R,B. ANDERSON,1498,73,762,663,0
 Fayette,EUROPE,BOE D5,,R,B. ANDERSON,353,20,98,235,0
@@ -946,7 +910,6 @@ Fayette,CAMP CREEK,BOE D5,,R,B. ANDERSON,995,39,281,675,0
 Fayette,RISING STAR,BOE D5,,R,B. ANDERSON,1819,89,542,1187,1
 Fayette,SPRING HILL,BOE D5,,R,B. ANDERSON,1101,53,284,764,0
 Fayette,ANTIOCH,BOE D5,,R,B. ANDERSON,899,30,362,507,0
-Fayette,,BOE D5,,D,C. C. YAP,21350,927,6306,14103,14
 Fayette,BLACKROCK,BOE D5,,D,C. C. YAP,1151,44,289,817,1
 Fayette,BROOKS,BOE D5,,D,C. C. YAP,178,14,88,76,0
 Fayette,EUROPE,BOE D5,,D,C. C. YAP,1807,69,462,1276,0
@@ -985,7 +948,6 @@ Fayette,CAMP CREEK,BOE D5,,D,C. C. YAP,329,25,86,218,0
 Fayette,RISING STAR,BOE D5,,D,C. C. YAP,593,34,181,378,0
 Fayette,SPRING HILL,BOE D5,,D,C. C. YAP,943,43,219,681,0
 Fayette,ANTIOCH,BOE D5,,D,C. C. YAP,396,16,147,233,0
-Fayette,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,25048,1407,7744,15887,10
 Fayette,BLACKROCK,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,686,45,191,449,1
 Fayette,BROOKS,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,685,42,324,319,0
 Fayette,EUROPE,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,655,34,168,453,0
@@ -1024,7 +986,6 @@ Fayette,CAMP CREEK,Constitutional Amendment #1<br>Provides greater flexibility a
 Fayette,RISING STAR,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,1138,58,332,748,0
 Fayette,SPRING HILL,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,860,50,226,584,0
 Fayette,ANTIOCH,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,YES,484,23,202,259,0
-Fayette,,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,34668,1363,10694,22601,10
 Fayette,BLACKROCK,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1185,54,295,836,0
 Fayette,BROOKS,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,995,42,529,424,0
 Fayette,EUROPE,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1552,57,408,1087,0
@@ -1063,7 +1024,6 @@ Fayette,CAMP CREEK,Constitutional Amendment #1<br>Provides greater flexibility a
 Fayette,RISING STAR,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1293,68,391,834,0
 Fayette,SPRING HILL,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,1236,51,292,893,0
 Fayette,ANTIOCH,Constitutional Amendment #1<br>Provides greater flexibility and state accountability to fix failing schools through increasing community involvement.,,,NO,835,26,320,489,0
-Fayette,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,48689,2391,14588,31692,18
 Fayette,BLACKROCK,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1576,86,402,1087,1
 Fayette,BROOKS,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1351,75,680,596,0
 Fayette,EUROPE,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1792,75,455,1262,0
@@ -1102,7 +1062,6 @@ Fayette,CAMP CREEK,Constitutional Amendment #2<br>Authorizes penalties for sexua
 Fayette,RISING STAR,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,2033,108,593,1331,1
 Fayette,SPRING HILL,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1727,92,422,1213,0
 Fayette,ANTIOCH,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,YES,1051,45,404,602,0
-Fayette,,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,10619,384,3711,6521,3
 Fayette,BLACKROCK,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,273,15,73,185,0
 Fayette,BROOKS,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,323,12,165,146,0
 Fayette,EUROPE,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,392,15,111,266,0
@@ -1141,7 +1100,6 @@ Fayette,CAMP CREEK,Constitutional Amendment #2<br>Authorizes penalties for sexua
 Fayette,RISING STAR,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,420,20,143,257,0
 Fayette,SPRING HILL,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,352,9,93,250,0
 Fayette,ANTIOCH,Constitutional Amendment #2<br>Authorizes penalties for sexual exploitation and assessments on adult entertainment to fund child victims' services.,,,NO,259,4,115,140,0
-Fayette,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,33489,1643,10159,21669,18
 Fayette,BLACKROCK,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1096,58,282,755,1
 Fayette,BROOKS,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,913,55,462,396,0
 Fayette,EUROPE,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1208,55,316,837,0
@@ -1180,7 +1138,6 @@ Fayette,CAMP CREEK,Constitutional Amendment #3<br>Reforms and re-establishes the
 Fayette,RISING STAR,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1407,69,407,931,0
 Fayette,SPRING HILL,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,1182,65,295,822,0
 Fayette,ANTIOCH,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,YES,698,28,267,403,0
-Fayette,,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,22047,890,6975,14180,2
 Fayette,BLACKROCK,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,663,38,172,453,0
 Fayette,BROOKS,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,635,23,324,288,0
 Fayette,EUROPE,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,893,30,228,635,0
@@ -1219,7 +1176,6 @@ Fayette,CAMP CREEK,Constitutional Amendment #3<br>Reforms and re-establishes the
 Fayette,RISING STAR,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,863,46,271,546,0
 Fayette,SPRING HILL,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,746,25,177,544,0
 Fayette,ANTIOCH,Constitutional Amendment #3<br>Reforms and re-establishes the Judicial Qualifications Commission and provides for its composition,governance,,NO,534,18,220,296,0
-Fayette,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,47345,2400,14196,30732,17
 Fayette,BLACKROCK,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1528,85,380,1062,1
 Fayette,BROOKS,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1301,74,651,576,0
 Fayette,EUROPE,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1808,80,462,1266,0
@@ -1258,7 +1214,6 @@ Fayette,CAMP CREEK,Constitutional Amendment #4<br>Dedicates revenue from existin
 Fayette,RISING STAR,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1972,107,589,1275,1
 Fayette,SPRING HILL,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1649,84,402,1163,0
 Fayette,ANTIOCH,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,YES,1002,44,393,565,0
-Fayette,,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,11756,366,4014,7372,4
 Fayette,BLACKROCK,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,321,14,99,208,0
 Fayette,BROOKS,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,368,13,195,160,0
 Fayette,EUROPE,Constitutional Amendment #4<br>Dedicates revenue from existing taxes on fireworks to trauma care,fire services,,NO,377,12,103,262,0
