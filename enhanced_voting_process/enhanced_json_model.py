@@ -13,15 +13,15 @@ class PrecinctResult(BaseModel):
     precinct_name: str = Field(alias='name')
     total_votes: int = Field(alias='voteCount')
     reporting_status: str = Field(alias='reportingStatus')
-    precinct_votes: List[GroupResult] = Field(alias='groupResults')
+    precinct_votes: Optional[List[GroupResult]] = Field(None, alias='groupResults')
 
 
 class BallotOption(BaseModel):
     candidate: str = Field(alias='name')
     total_votes: int = Field(alias='voteCount')
     party: str | None = Field(alias='politicalParty')
-    county_votes: List[GroupResult] = Field(alias='groupResults')
-    precinct_results: Optional[List[PrecinctResult]] = Field(alias='precinctResults') # noqa
+    county_votes: Optional[List[GroupResult]] = Field(None, alias='groupResults')
+    precinct_results: Optional[List[PrecinctResult]] = Field(None, alias='precinctResults') # noqa
 
 
 class BallotItem(BaseModel):
