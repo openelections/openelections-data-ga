@@ -13,17 +13,38 @@ def flatten_precinct_level_election_data(data):
     flattened_data = []
 
     # Iterate through each county/precinct results
-    for result in json_data.get('local_results'):
-        for ballot_item in result.get('ballot_items'):
-            for ballot_option in ballot_item.get('ballot_options'):
-                for precinct_result in ballot_option.get('precinct_results'):
-                    for precinct_vote in precinct_result.get('precinct_votes'):
+    for result in json_data.get('local_results') or []:
+        for ballot_item in result.get('ballot_items') or []:
+            for ballot_option in ballot_item.get('ballot_options') or []:
+                precinct_results = ballot_option.get('precinct_results') or []
+                for precinct_result in precinct_results:
+                    precinct_votes = precinct_result.get('precinct_votes')
+                    if precinct_votes:
+                        for precinct_vote in precinct_votes:
+                            flattened_data.append(
+                                {
+                                    'election_name': election_name,
+                                    'election_date': election_date,
+                                    'county': result.get('county'),
+                                    'number_precincts': len(precinct_results),
+                                    'office': ballot_item.get('office'),
+                                    'candidate': ballot_option.get('candidate'),
+                                    'party': ballot_option.get('party'),
+                                    'precinct_id': precinct_result.get('precinct_id'),
+                                    'precinct_name': precinct_result.get('precinct_name'),
+                                    'precinct_reporting_status': precinct_result.get('reporting_status'),
+                                    'total_votes': precinct_result.get('total_votes'),
+                                    'vote_type': precinct_vote.get('vote_type'),
+                                    'votes': precinct_vote.get('votes')
+                                }
+                            )
+                    else:
                         flattened_data.append(
                             {
                                 'election_name': election_name,
                                 'election_date': election_date,
                                 'county': result.get('county'),
-                                'number_precincts': len(ballot_option.get('precinct_results')),
+                                'number_precincts': len(precinct_results),
                                 'office': ballot_item.get('office'),
                                 'candidate': ballot_option.get('candidate'),
                                 'party': ballot_option.get('party'),
@@ -31,8 +52,8 @@ def flatten_precinct_level_election_data(data):
                                 'precinct_name': precinct_result.get('precinct_name'),
                                 'precinct_reporting_status': precinct_result.get('reporting_status'),
                                 'total_votes': precinct_result.get('total_votes'),
-                                'vote_type': precinct_vote.get('vote_type'),
-                                'votes': precinct_vote.get('votes')
+                                'vote_type': None,
+                                'votes': precinct_result.get('total_votes')
                             }
                         )
 
@@ -51,10 +72,26 @@ def flatten_county_level_election_data(data):
     flattened_data = []
 
     # Iterate through each county's results
-    for result in json_data.get('local_results'):
-        for ballot_item in result.get('ballot_items'):
-            for ballot_option in ballot_item.get('ballot_options'):
-                for county_vote in ballot_option.get('county_votes'):
+    for result in json_data.get('local_results') or []:
+        for ballot_item in result.get('ballot_items') or []:
+            for ballot_option in ballot_item.get('ballot_options') or []:
+                county_votes = ballot_option.get('county_votes')
+                if county_votes:
+                    for county_vote in county_votes:
+                        flattened_data.append(
+                            {
+                                'election_name': election_name,
+                                'election_date': election_date,
+                                'county': result.get('county'),
+                                'office': ballot_item.get('office'),
+                                'candidate': ballot_option.get('candidate'),
+                                'party': ballot_option.get('party'),
+                                'vote_type': county_vote.get('vote_type'),
+                                'votes': county_vote.get('votes'),
+                                'total_votes': ballot_option.get('total_votes')
+                            }
+                        )
+                else:
                     flattened_data.append(
                         {
                             'election_name': election_name,
@@ -63,8 +100,8 @@ def flatten_county_level_election_data(data):
                             'office': ballot_item.get('office'),
                             'candidate': ballot_option.get('candidate'),
                             'party': ballot_option.get('party'),
-                            'vote_type': county_vote.get('vote_type'),
-                            'votes': county_vote.get('votes'),
+                            'vote_type': None,
+                            'votes': ballot_option.get('total_votes'),
                             'total_votes': ballot_option.get('total_votes')
                         }
                     )
