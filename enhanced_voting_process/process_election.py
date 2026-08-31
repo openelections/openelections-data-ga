@@ -409,15 +409,23 @@ class ElectionProcessor:
         print(f"[Exported] County-level CSV:   {county_file}"
               f" ({len(county_rows):,} rows)")
 
-        with open(precinct_file, "w", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=precinct_fields)
-            writer.writeheader()
-            writer.writerows(precinct_rows)
-        print(f"[Exported] Precinct-level CSV: {precinct_file}"
-              f" ({len(precinct_rows):,} rows)")
+        if precinct_rows:
+            with open(precinct_file, "w", newline="", encoding="utf-8") as f:
+                writer = csv.DictWriter(f, fieldnames=precinct_fields)
+                writer.writeheader()
+                writer.writerows(precinct_rows)
+            print(f"[Exported] Precinct-level CSV: {precinct_file}"
+                  f" ({len(precinct_rows):,} rows)")
+        else:
+            precinct_file = None
+            print("[INFO] No precinct data in source JSON. "
+                  "Skipped precinct-level CSV export.")
 
-        self.reconciler.export_csv(recon_file)
-        print(f"[Exported] QC Recon Report:    {recon_file}")
+        if recon_records:
+            self.reconciler.export_csv(recon_file)
+            print(f"[Exported] QC Recon Report:    {recon_file}")
+        else:
+            recon_file = None
 
         # Optional DuckDB insertion
         if duckdb_path:
@@ -432,10 +440,11 @@ class ElectionProcessor:
                 f"CREATE TABLE IF NOT EXISTS {tbl_base}_county AS "
                 f"SELECT * FROM read_csv_auto('{county_file}')"
             )
-            con.execute(
-                f"CREATE TABLE IF NOT EXISTS {tbl_base}_precinct AS "
-                f"SELECT * FROM read_csv_auto('{precinct_file}')"
-            )
+            if precinct_file:
+                con.execute(
+                    f"CREATE TABLE IF NOT EXISTS {tbl_base}_precinct AS "
+                    f"SELECT * FROM read_csv_auto('{precinct_file}')"
+                )
             con.close()
             print(f"[DuckDB] Loaded tables into:  {duckdb_path}")
 

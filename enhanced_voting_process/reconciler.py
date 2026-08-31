@@ -27,6 +27,10 @@ class ElectionReconciler:
         county_rows: List[Dict[str, Any]],
         precinct_rows: List[Dict[str, Any]]
     ) -> List[Dict[str, Any]]:
+        if not precinct_rows:
+            self.records = []
+            return self.records
+
         # Aggregate county votes
         county_map: Dict[tuple, int] = defaultdict(int)
         for r in county_rows:
@@ -95,7 +99,8 @@ class ElectionReconciler:
 
     def print_summary(self, max_diff_rows: int = 15):
         if not self.records:
-            print("No reconciliation records found.")
+            print("\n[INFO] County-level only election "
+                  "(no precinct data in source JSON to reconcile).")
             return
 
         total_county_votes = sum(r["county_votes"] for r in self.records)
