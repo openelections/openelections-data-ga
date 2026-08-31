@@ -290,10 +290,16 @@ class ElectionProcessor:
                             )
                             p_grp = extract_vote_groups(p_res.precinct_votes)
                             if has_precinct_groups:
-                                ed = p_grp["election_day_votes"] if p_grp else p_res.total_votes  # noqa: E501
-                                adv = p_grp["advanced_votes"] if p_grp else 0
-                                ab = p_grp["absentee_by_mail_votes"] if p_grp else 0  # noqa: E501
-                                prov = p_grp["provisional_votes"] if p_grp else 0  # noqa: E501
+                                if p_grp:
+                                    ed = p_grp["election_day_votes"]
+                                    adv = p_grp["advanced_votes"]
+                                    ab = p_grp["absentee_by_mail_votes"]
+                                    prov = p_grp["provisional_votes"]
+                                else:
+                                    ed = ""
+                                    adv = ""
+                                    ab = ""
+                                    prov = ""
                                 precinct_rows.append({
                                     "county": county_name,
                                     "precinct": precinct_name,
@@ -301,6 +307,7 @@ class ElectionProcessor:
                                     "district": district,
                                     "party": party,
                                     "candidate": candidate,
+                                    "votes": p_res.total_votes,
                                     "election_day_votes": ed,
                                     "advanced_votes": adv,
                                     "absentee_by_mail_votes": ab,
@@ -393,7 +400,7 @@ class ElectionProcessor:
         if has_precinct_groups:
             precinct_fields = [
                 "county", "precinct", "office", "district", "party",
-                "candidate", "election_day_votes", "advanced_votes",
+                "candidate", "votes", "election_day_votes", "advanced_votes",
                 "absentee_by_mail_votes", "provisional_votes"
             ]
         else:
@@ -432,21 +439,41 @@ class ElectionProcessor:
             import duckdb
             db_file = duckdb_path.expanduser()
             db_file.parent.mkdir(parents=True, exist_ok=True)
-            con = duckdb.connect(str(db_file))
-            tbl_base = f"ga_{election_date_clean}_{election_slug}".replace(
-                "-", "_"
-            )
-            con.execute(
-                f"CREATE TABLE IF NOT EXISTS {tbl_base}_county AS "
-                f"SELECT * FROM read_csv_auto('{county_file}')"
-            )
-            if precinct_file:
-                con.execute(
-                    f"CREATE TABLE IF NOT EXISTS {tbl_base}_precinct AS "
-                    f"SELECT * FROM read_csv_auto('{precinct_file}')"
+            try:
+                con = duckdb.connect(str(db_file))
+                tbl_base = f"ga_{election_date_clean}_{election_slug}".replace(
+                    "-", "_"
                 )
-            con.close()
-            print(f"[DuckDB] Loaded tables into:  {duckdb_path}")
+                con.execute(
+                    f"CREATE TABLE IF NOT EXISTS {tbl_base}_county AS "
+                    f"SELECT * FROM read_csv_auto('{county_file}')"
+                )
+                if precinct_file:
+                    con.execute(
+                        f"CREATE TABLE IF NOT EXISTS {tbl_base}_precinct AS "
+                        f"SELECT * FROM read_csv_auto('{precinct_file}')"
+                    )
+                con.close()
+                print(f"[DuckDB] Loaded tables into:  {db_file}")
+            except Exception as e:
+                err_msg = str(e)
+                if "lock" in err_msg.lower():
+                    print(
+                        f"\n[WARNING] DuckDB database is currently locked by "
+                        f"another application (e.g. DataGrip, DBeaver).\n"
+                        f"          CSVs were exported successfully, but "
+                        f"tables were not loaded into:\n"
+                        f"          {db_file}\n"
+                        f"          Close the database in DataGrip/DBeaver "
+                        f"and re-run if you wish to load the tables."
+                    )
+                else:
+                    print(
+                        f"\n[WARNING] Could not load tables into DuckDB: "
+                        f"{err_msg}\n"
+                        f"          CSVs were exported successfully to "
+                        f"{target_outdir}."
+                    )
 
         print("=" * 88 + "\n")
         return {
