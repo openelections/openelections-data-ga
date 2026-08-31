@@ -11,5 +11,3 @@ settings.json
 chromedriver
 *.json
 .env
-*.duckdb
-*.duckdb.wal
