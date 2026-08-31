@@ -1,0 +1,152 @@
+# Master cleaning rules and canonical OpenElections mappings for Georgia
+
+# 1. Canonical Federal and State Offices (Included in OpenElections Georgia scope)
+canonical_offices:
+  - "Appeals Court Judge"
+  - "Attorney General"
+  - "Commissioner of Agriculture"
+  - "Commissioner of Insurance"
+  - "Commissioner of Labor"
+  - "District Attorney"
+  - "Governor"
+  - "Lieutenant Governor"
+  - "President"
+  - "Public Service Commissioner"
+  - "Secretary of State"
+  - "State House"
+  - "State School Superintendent"
+  - "State Senate"
+  - "Superior Court Judge"
+  - "Supreme Court Justice"
+  - "U.S. House"
+  - "U.S. Senate"
+  - "Vice President"
+
+# 2. Party Normalization Mapping
+parties:
+  DEM: "Democrat"
+  Dem: "Democrat"
+  Democratic: "Democrat"
+  (D: "Democrat"
+  (DEM: "Democrat"
+  REP: "Republican"
+  Rep: "Republican"
+  (R: "Republican"
+  (REP: "Republican"
+  LIB: "Libertarian"
+  Lib: "Libertarian"
+  (L: "Libertarian"
+  IND: "Independent"
+  Ind: "Independent"
+  (I: "Independent"
+  (Ind: "Independent"
+  GRN: "Green"
+  Green: "Green"
+  NON: "Nonpartisan"
+  NP: "Nonpartisan"
+  Nonpartisan: "Nonpartisan"
+  "Write-In": "Write-In"
+  "Unknown": "Unknown"
+
+# 3. Office & District Extraction Patterns
+office_patterns:
+  - pattern: '(?i)^PSC\s*-\s*District\s*(\d+)(?:\s*-\s*(?:Dem|Rep|Lib|Ind))?'
+    canonical_office: "Public Service Commissioner"
+    district_group: 1
+  - pattern: '(?i)^Public Service Commission(?:er)?\s*-\s*District\s*(\d+)'
+    canonical_office: "Public Service Commissioner"
+    district_group: 1
+  - pattern: '(?i)^(?:Special\s+)?State Senate\s*-\s*District\s*(\d+)'
+    canonical_office: "State Senate"
+    district_group: 1
+  - pattern: '(?i)^(?:Special\s+)?State House(?:\s+of Representatives)?\s*-\s*District\s*(\d+)'
+    canonical_office: "State House"
+    district_group: 1
+  - pattern: '(?i)^U\.?S\.?\s*House(?:\s+of Representatives)?\s*-\s*District\s*(\d+)'
+    canonical_office: "U.S. House"
+    district_group: 1
+  - pattern: '(?i)^U\.?S\.?\s*Senate(?:\s*-\s*(.*))?'
+    canonical_office: "U.S. Senate"
+    district_group: null
+  - pattern: '(?i)^Governor'
+    canonical_office: "Governor"
+    district_group: null
+  - pattern: '(?i)^Lieutenant Governor'
+    canonical_office: "Lieutenant Governor"
+    district_group: null
+  - pattern: '(?i)^Secretary of State'
+    canonical_office: "Secretary of State"
+    district_group: null
+  - pattern: '(?i)^Attorney General'
+    canonical_office: "Attorney General"
+    district_group: null
+  - pattern: '(?i)^State School Superintendent'
+    canonical_office: "State School Superintendent"
+    district_group: null
+  - pattern: '(?i)^Commissioner of Agriculture'
+    canonical_office: "Commissioner of Agriculture"
+    district_group: null
+  - pattern: '(?i)^Commissioner of Insurance'
+    canonical_office: "Commissioner of Insurance"
+    district_group: null
+  - pattern: '(?i)^Commissioner of Labor'
+    canonical_office: "Commissioner of Labor"
+    district_group: null
+  - pattern: '(?i)^President(?:\s+of the United States)?'
+    canonical_office: "President"
+    district_group: null
+  - pattern: '(?i)^Vice President'
+    canonical_office: "Vice President"
+    district_group: null
+  - pattern: '(?i)^District Attorney\s*-\s*(.*)'
+    canonical_office: "District Attorney"
+    district_group: 1
+  - pattern: '(?i)^Supreme Court Justice(?:\s*-\s*(.*))?'
+    canonical_office: "Supreme Court Justice"
+    district_group: 1
+  - pattern: '(?i)^Appeals Court Judge(?:\s*-\s*(.*))?'
+    canonical_office: "Appeals Court Judge"
+    district_group: 1
+  - pattern: '(?i)^Superior Court Judge(?:\s*-\s*(.*))?'
+    canonical_office: "Superior Court Judge"
+    district_group: 1
+
+# 4. Known Local / County / Municipal Offices to Exclude
+excluded_local_patterns:
+  - '(?i)Tax Commissioner'
+  - '(?i)Sheriff'
+  - '(?i)Coroner'
+  - '(?i)County Commissioner'
+  - '(?i)Board of Commissioners'
+  - '(?i)Board of Education'
+  - '(?i)School Board'
+  - '(?i)Mayor'
+  - '(?i)City Council'
+  - '(?i)City of '
+  - '(?i)Town of '
+  - '(?i)Clerk of Superior Court'
+  - '(?i)Judge of the? Probate Court'
+  - '(?i)Probate Judge'
+  - '(?i)Magistrate Court'
+  - '(?i)Chief Magistrate'
+  - '(?i)State Court Judge'
+  - '(?i)Solicitor General'
+  - '(?i)Surveyor'
+  - '(?i)SPLOST'
+  - '(?i)T-SPLOST'
+  - '(?i)E-SPLOST'
+  - '(?i)Referendum'
+  - '(?i)Alcohol'
+  - '(?i)Bond'
+  - '(?i)Homestead'
+  - '(?i)Special County Commission'
+
+office_overrides: {}
+
+cleaning_patterns:
+  strip_candidate_suffixes:
+    - '\s*\([I|i]\)$'
+    - '\s*\((?:Rep|Dem|Lib|Ind|Non|DEM|REP|LIB|IND)\)$'
+    - '\s*-\s*Incumbent$'
+  strip_county_suffixes:
+    - '\s+County$'

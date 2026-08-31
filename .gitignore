@@ -10,3 +10,4 @@ settings.json
 *.db
 chromedriver
 *.json
+.env
