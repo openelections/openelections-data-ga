@@ -1,17 +1,19 @@
 # OpenElections Georgia — Enhanced Voting Results Processor
 
-A unified, high-performance CLI pipeline for standardizing Georgia election results directly from raw Secretary of State / Enhanced Voting JSON exports into canonical OpenElections CSVs (`county-level.csv`, `precinct-level.csv`), complete with automated Federal/State race filtering, non-blocking reconciliation QC, and Google Gemini AI assistance.
+A unified, high-performance CLI pipeline for standardizing Georgia election results directly from raw Secretary of State / Enhanced Voting JSON exports into canonical OpenElections CSVs (`county-level.csv`, `precinct-level.csv`), complete with automated Federal/State race filtering, privacy-safe vote-method extraction, non-blocking reconciliation QC, and optional Google Gemini AI assistance.
 
 ---
 
 ## Table of Contents
-1. [Overview & Architecture](#overview--architecture)
-2. [How Office Filtering Works (Federal/State vs. Local)](#how-office-filtering-works)
-3. [Reconciliation & Quality Control](#reconciliation--quality-control)
-4. [Google Gemini AI Assistant](#google-gemini-ai-assistant)
-5. [CLI Reference & Options](#cli-reference--options)
-6. [Step-by-Step Usage Guide](#step-by-step-usage-guide)
-7. [Directory & File Layout](#directory--file-layout)
+1. [Overview & Architecture](#1-overview--architecture)
+2. [How Office Filtering Works](#2-how-office-filtering-works)
+3. [Output Schemas & Vote-Method Breakouts](#3-output-schemas--vote-method-breakouts)
+4. [Reconciliation & Quality Control](#4-reconciliation--quality-control)
+5. [Google Gemini AI Assistant](#5-google-gemini-ai-assistant)
+6. [CLI Reference & Options](#6-cli-reference--options)
+7. [Step-by-Step Usage Guide](#7-step-by-step-usage-guide)
+8. [Testing & Linting](#8-testing--linting)
+9. [Directory & File Layout](#9-directory--file-layout)
 
 ---
 
@@ -24,20 +26,20 @@ Previously, standardizing election results required multiple disconnected steps:
 4. Manually updating SQL strings for office/party cleanup and running `COPY` commands.
 
 ### The Streamlined Pipeline
-The new processor replaces the entire multi-stage process with a single deterministic pipeline:
+The processor replaces the multi-stage workflow with a single deterministic pipeline:
 
 ```mermaid
 flowchart TD
     A["Raw Election JSON Export<br>(export-*.json)"] --> B["ElectionProcessor CLI<br>(process_election.py)"]
-    
+
     subgraph Core ["Core Pipeline"]
         B --> C["1. Schema Validation<br>(Pydantic ElectionResults)"]
         C --> D["2. Office & Race Filtering<br>(Include Federal/State | Exclude Local)"]
-        D --> E["3. Deterministic Normalization<br>(Candidate cleanup, Party mapping)"]
-        E --> F["4. Multi-Level Aggregation<br>(County-Level & Precinct-Level Rows)"]
+        D --> E["3. Deterministic Normalization<br>(County, Candidate, Precinct & Party cleanup)"]
+        E --> F["4. Multi-Level Extraction<br>(County-Level & Precinct-Level Rows)"]
         F --> G["5. Diagnostic Reconciliation QC<br>(County Totals vs. Sum of Precincts)"]
     end
-    
+
     subgraph AI ["AI Assistant (Optional)"]
         D -.-> H["Google Gemini 2.5 Flash<br>Suggest Office Mappings & Anomaly Analysis"]
         H -.-> D
@@ -46,62 +48,80 @@ flowchart TD
     G --> I["Final OpenElections County CSV<br>YYYYMMDD__ga__*__county-level.csv"]
     G --> J["Final OpenElections Precinct CSV<br>YYYYMMDD__ga__*__precinct-level.csv"]
     G --> K["Reconciliation Diagnostic Report<br>YYYYMMDD__ga__*__reconciliation_report.csv"]
-    G -.-> L["(Optional) DuckDB Database Table"]
+    G -.-> L["(Optional) DuckDB Database Tables"]
 ```
 
 ---
 
 ## 2. How Office Filtering Works
 
-OpenElections tracks **Federal and State offices** in Georgia. In major elections, state JSON exports often bundle municipal, county, and local ballot items (e.g. `Tax Commissioner`, `Mayor`, `Sheriff`, `Board of Education`, `SPLOST` referendums) that must be excluded.
+OpenElections tracks **Federal and State offices** in Georgia. In major or municipal elections, state JSON exports often bundle county and local ballot items (e.g. `Tax Commissioner`, `Mayor`, `Sheriff`, `Board of Education`, `SPLOST` referendums) that are excluded by default.
 
-### The Filtering Logic:
-1. **Canonical Federal & State Offices (Included)**:
-   The master configuration [`cleaning_rules.yaml`](cleaning_rules.yaml) maintains the 19 standard OpenElections Georgia offices:
+### Classification Precedence (`cleaner.py`)
+Each raw office string is classified deterministically against [`cleaning_rules.yaml`](cleaning_rules.yaml) in the following order:
+
+1. **Exact Overrides (`office_overrides`)** — Immediately classified as `[INCLUDED]` using the configured canonical office, district, and optional party hint.
+2. **Canonical Office Patterns (`office_patterns`)** — Allow-list regex patterns for the 19 standard OpenElections Georgia offices (with automatic district extraction):
    - **Federal**: `President`, `Vice President`, `U.S. Senate`, `U.S. House`
    - **State Executive**: `Governor`, `Lieutenant Governor`, `Secretary of State`, `Attorney General`, `State School Superintendent`, `Commissioner of Agriculture`, `Commissioner of Insurance`, `Commissioner of Labor`, `Public Service Commissioner`
    - **State Legislative**: `State Senate`, `State House`
    - **State Judicial**: `Supreme Court Justice`, `Appeals Court Judge`, `Superior Court Judge`, `District Attorney`
-
-2. **Known Local / Municipal Patterns (Excluded by Default)**:
-   Any race matching local patterns (e.g. `Tax Commissioner`, `Sheriff`, `Coroner`, `County Commissioner`, `Mayor`, `City Council`, `Board of Education`, `SPLOST`, `Referendum`, `Probate Court`, etc.) is automatically categorized as `[EXCLUDED - LOCAL]` and dropped from the output CSVs.
-
-3. **Unrecognized Races (Flagged)**:
-   Any office string that is neither in the canonical Federal/State list nor in the known local exclusion list is flagged as `[UNMAPPED]`. If `--ai` is enabled, Google Gemini is prompted to classify it.
-
-4. **Optional Inclusion**:
-   If you ever want to process all races (including local ones), pass the `--all-offices` flag.
+3. **Direct Canonical Match (`canonical_offices`)** — If the raw string already matches one of the 19 canonical office names, it is `[INCLUDED]` with an empty district.
+4. **Known Local / Municipal Patterns (`excluded_local_patterns`)** — Block-list patterns (e.g. `Tax Commissioner`, `Sheriff`, `Coroner`, `County Commission`, `Mayor`, `City Council`, `Board of Education`, `SPLOST`, `Referendum`, `Probate`, alcohol/tax questions) are categorized as `[EXCLUDED - NON-FEDERAL/STATE]` and dropped by default.
+5. **Unrecognized Races (`UNMAPPED`)** — Any office matching neither allow-list nor block-list is flagged as `[UNMAPPED]` (and dropped unless `--all-offices` is passed or an override is added).
+6. **Optional Local Inclusion (`--all-offices`)** — Includes all races (preserving raw office titles for non-canonical contests).
 
 ---
 
-## 3. Reconciliation & Quality Control
+## 3. Output Schemas & Vote-Method Breakouts
 
-In real-world voting data (especially in Georgia SOS / Enhanced Voting exports), **precinct totals rarely sum up to 100% of county totals**:
-- Small precincts are often withheld or suppressed for voter privacy.
-- Certain ballot categories (such as countywide provisional ballots, challenged ballots, or overseas ballots) are tabulated at the county level but never allocated to individual precincts.
+CSV columns are chosen dynamically based on whether the source JSON includes vote-method breakdowns (`groupResults`):
 
-### How QC is Handled:
-Instead of a rigid assertion that fails the build, [`reconciler.py`](reconciler.py) evaluates each contest:
+- **When vote-method breakdowns are present:**
+  - **County-level CSV** (`precinct = not available`):
+    `county, precinct, office, district, party, candidate, votes, election_day_votes, advanced_votes, absentee_by_mail_votes, provisional_votes`
+  - **Precinct-level CSV**:
+    `county, precinct, office, district, party, candidate, votes, election_day_votes, advanced_votes, absentee_by_mail_votes, provisional_votes`
+- **When no vote-method breakdowns are present (totals-only exports):**
+  - Both CSVs use: `county, precinct, office, district, party, candidate, votes`
+
+### Privacy-Suppressed Breakdowns
+Georgia SOS / Enhanced Voting hides vote-method counts (`voteCount: null`, displayed as `-` on the SOS website) when too few ballots were cast to protect voter privacy—this occurs frequently at the precinct level and occasionally at the county level in single-precinct counties.
+
+- If **any** vote-method entry in a row's `groupResults` is `None` (or `groupResults` is empty), `extract_vote_groups()` returns `None`.
+- Both county-level and precinct-level rows retain the certified total in `votes` and leave all four vote-method columns blank (`,,,,`), preventing fabricated `0`s or misattribution to `election_day_votes`.
+- If the source JSON has no `precinctResults`, precinct CSV and reconciliation report exports are skipped cleanly.
+
+---
+
+## 4. Reconciliation & Quality Control
+
+In Georgia SOS / Enhanced Voting exports, **precinct sums occasionally differ slightly from county totals**:
+- Very small precincts may have even their total votes suppressed (`-` on SOS, `0` in JSON) for voter privacy.
+- Certain ballot categories (such as countywide provisional, challenged, or overseas ballots) can be tabulated at the county level without precinct assignment.
+
+### How QC is Handled
+Instead of a rigid assertion that aborts export, [`reconciler.py`](reconciler.py) compares every county-candidate total against the sum of its precinct `votes`:
 - $\text{Diff} = \text{County Total} - \sum(\text{Precincts})$
-- Contests with small variances ($\le 15$ votes or $\ge 90\%$ coverage) are categorized as `[EXPECTED_RESIDUAL]`.
-- Non-standard discrepancies are flagged as `[DISCREPANCY]`.
-- The CLI prints a diagnostic summary table and outputs a companion `*_reconciliation_report.csv` file for complete auditability.
+- `MATCH`: $\text{Diff} = 0$
+- `EXPECTED_RESIDUAL`: $\text{Diff} > 0$ and ($\text{Diff} \le 15$ or coverage $\ge 90\%$)
+- `DISCREPANCY`: Any larger or negative variance flagged for manual review
+- The CLI prints a diagnostic summary table and writes a companion `*_reconciliation_report.csv` file (gitignored).
 
 ---
 
-## 4. Google Gemini AI Assistant
+## 5. Google Gemini AI Assistant
 
-The AI assistant ([`ai_assistant.py`](ai_assistant.py)) is powered by Google Gemini (`gemini-2.5-flash`):
-- **Automated Office & District Resolution**: If an election export has weird or newly structured office strings (e.g. `"PSC - District 3/ Para servicio público Comisión - Distrito 3 - Dem"`), Gemini parses the canonical office name, district number, and party affiliation.
-- **Rule Learning (`--save-ai-rules`)**: When enabled, Gemini's approved mappings are automatically saved into `cleaning_rules.yaml` for permanent deterministic reuse.
-- **Anomaly Assessment**: When significant discrepancies occur, Gemini provides a plain-text assessment of likely causes (such as unassigned early voting batches).
-- **Zero API Key Penalty**: If no `GEMINI_API_KEY` is provided, the tool falls back seamlessly to rule heuristics.
+The optional AI assistant ([`ai_assistant.py`](ai_assistant.py)) uses Google Gemini (`gemini-2.5-flash`) via `google-genai`:
+- **Unmapped Office Resolution**: Triggered whenever unmapped offices are found and either `--ai` is passed or `GEMINI_API_KEY` is configured (in `enhanced_voting_process/.env`, environment variables, or `--api-key`). If `--ai` is passed without a key (or if the API call fails), it falls back cleanly to rule-based heuristics.
+- **Rule Persistence (`--save-ai-rules`)**: Saves suggested office mappings into `office_overrides` in `cleaning_rules.yaml` for deterministic reuse on future runs.
+- **Reconciliation Anomaly Assessment**: Runs when **both** `--ai` is passed and `GEMINI_API_KEY` is available, and at least one contest is flagged `DISCREPANCY`.
 
 ---
 
-## 5. CLI Reference & Options
+## 6. CLI Reference & Options
 
-Run the CLI using `uv run python enhanced_voting_process/process_election.py [OPTIONS]`:
+Run the CLI from the repository root using `uv run python enhanced_voting_process/process_election.py [OPTIONS]`:
 
 ```text
 usage: process_election.py [-h] -i INPUT [-o OUTDIR] [--inspect] [--ai]
@@ -114,21 +134,21 @@ OpenElections Georgia Voter Results Processor
 options:
   -h, --help            show this help message and exit
   -i INPUT, --input INPUT
-                        (Required) Path to raw JSON election export file
+                        Path to raw JSON election export file
   -o OUTDIR, --outdir OUTDIR
                         Output directory for generated CSV files (defaults to input dir)
-  --inspect             Inspect / dry-run mode (prints summary & QC without writing CSVs)
-  --ai                  Enable Gemini AI assistant for unmapped offices & anomaly analysis
-  --save-ai-rules       Auto-save AI approved mappings into cleaning_rules.yaml
-  --all-offices         Process all offices (including non-standard local/municipal races)
-  --duckdb DUCKDB       Optional path to DuckDB file to load cleaned tables into
-  --rules RULES         Custom path to cleaning_rules.yaml file
+  --inspect             Inspect / dry-run mode (does not write CSVs)
+  --ai                  Enable Gemini AI assistant for mappings & anomaly analysis
+  --save-ai-rules       Auto-save AI approved mappings to cleaning_rules.yaml
+  --all-offices         Process all offices (including non-standard local races)
+  --duckdb DUCKDB       Optional path to DuckDB file to load cleaned tables
+  --rules RULES         Custom path to cleaning_rules.yaml
   --api-key API_KEY     Google Gemini API Key (or set GEMINI_API_KEY env var)
 ```
 
 ---
 
-## 6. Step-by-Step Usage Guide
+## 7. Step-by-Step Usage Guide
 
 ### Step 1: Configure Gemini API Key (Optional)
 ```bash
@@ -140,15 +160,15 @@ GEMINI_API_KEY="AIzaSy..."
 ```
 
 ### Step 2: Inspect a New File (Dry Run)
-Verify the detected races, excluded local contests, and candidate totals:
+Verify detected races, excluded local contests, unmapped offices, and county-vs-precinct reconciliation without writing files:
 ```bash
 uv run python enhanced_voting_process/process_election.py \
   --input ~/Development/openelections-sources-ga/2025/export-2025PSCPrimaryRunoff.json \
   --inspect
 ```
 
-### Step 3: Run with AI Assistance
-If new office formats exist and you want Gemini to suggest and save mappings:
+### Step 3: Run with AI Assistance (Optional)
+If unrecognized office strings appear and you want Gemini to suggest and persist mappings:
 ```bash
 uv run python enhanced_voting_process/process_election.py \
   --input ~/Development/openelections-sources-ga/2025/export-2025PSCPrimaryRunoff.json \
@@ -157,15 +177,15 @@ uv run python enhanced_voting_process/process_election.py \
 ```
 
 ### Step 4: Generate Final OpenElections CSVs
-Produce standard county-level and precinct-level CSVs:
+Produce county-level CSV, precinct-level CSV, and reconciliation diagnostic CSV:
 ```bash
 uv run python enhanced_voting_process/process_election.py \
   --input ~/Development/openelections-sources-ga/2025/export-2025PSCPrimaryRunoff.json \
   --outdir ./2025/
 ```
 
-### Step 5: (Optional) Load into DuckDB
-Directly insert clean tables into your DuckDB database:
+### Step 5: Load into DuckDB (Optional)
+Insert the generated CSVs into tables (`<tbl_base>_county` and `<tbl_base>_precinct`) in a DuckDB database. If the database is locked by another tool (e.g., DataGrip or DBeaver), CSV export still succeeds and a warning is printed:
 ```bash
 uv run python enhanced_voting_process/process_election.py \
   --input ~/Development/openelections-sources-ga/2025/export-2025PSCPrimaryRunoff.json \
@@ -175,16 +195,34 @@ uv run python enhanced_voting_process/process_election.py \
 
 ---
 
-## 7. Directory & File Layout
+## 8. Testing & Linting
+
+Run unit tests (`tests/test_cleaner.py`, `tests/test_process_election.py`) and PEP 8 linting from the repository root:
+
+```bash
+# Unit tests
+uv run pytest -v
+
+# Linting (79-char line limit)
+uv run flake8 enhanced_voting_process/ tests/
+```
+
+*(If invoking after moving the repo directory, run `uv sync` first or use `uv run python -m pytest -v` / `uv run python -m flake8 enhanced_voting_process/ tests/`.)*
+
+---
+
+## 9. Directory & File Layout
 
 ```text
 enhanced_voting_process/
-├── process_election.py     # Main CLI entrypoint
-├── cleaner.py              # String normalization & regex engine
-├── reconciler.py           # County vs. Precinct diagnostic reconciliation logic
-├── ai_assistant.py         # Google Gemini integration & anomaly reporter
-├── cleaning_rules.yaml     # Pre-seeded master rules & exclusion patterns
-├── enhanced_json_model.py  # Pydantic schema validator
+├── __init__.py             # Package marker
+├── process_election.py     # Main CLI entrypoint (ElectionProcessor)
+├── cleaner.py              # Office classification & string normalization engine
+├── reconciler.py           # County vs. Precinct diagnostic reconciliation QC
+├── ai_assistant.py         # Optional Google Gemini integration & heuristic fallback
+├── cleaning_rules.yaml     # Canonical offices, party map, regex rules & local exclusions
+├── enhanced_json_model.py  # Pydantic schema validator for raw Enhanced Voting JSON
 ├── .env.example            # API key environment template
+├── archived/               # Legacy notebooks and SQL processing scripts
 └── README.md               # Pipeline documentation
 ```

@@ -1,6 +1,6 @@
 from pathlib import Path
 import re
-from typing import Optional, Tuple
+from typing import Optional
 import yaml
 
 DEFAULT_RULES_PATH = Path(__file__).parent / 'cleaning_rules.yaml'
@@ -28,7 +28,14 @@ class DataCleaner:
 
         self.canonical_offices = set(self.rules.get('canonical_offices', []))
         self.parties = self.rules.get('parties', {})
-        self.office_patterns = self.rules.get('office_patterns', [])
+        self.office_patterns = [
+            {
+                **item,
+                'regex': re.compile(item['pattern']),
+            }
+            for item in self.rules.get('office_patterns', [])
+            if item.get('pattern')
+        ]
         self.office_overrides = self.rules.get('office_overrides', {})
 
         strip_cand = self.rules.get(
@@ -90,39 +97,31 @@ class DataCleaner:
             return self.parties[raw.upper()]
         return raw
 
-    def is_known_local_office(self, raw_office: str) -> bool:
-        if not raw_office:
-            return False
-        for pat in self.excluded_local_patterns:
-            if pat.search(raw_office):
-                return True
-        return False
-
-    def clean_office_and_district(
+    def classify_office(
         self,
         raw_office: str
-    ) -> Tuple[str, str, Optional[str]]:
+    ) -> tuple[str, Optional[str], Optional[str]]:
         """
-        Returns (canonical_office, district, party_hint)
+        Classifies a raw office string into INCLUDED, EXCLUDED, or UNMAPPED.
+        Returns: (status, canonical_office, district)
         """
         if not raw_office:
-            return ('', '', None)
+            return "UNMAPPED", None, None
 
         raw = raw_office.strip()
 
-        # 1. Check exact overrides
+        # 1. Check exact overrides (Implicitly INCLUDED)
         if raw in self.office_overrides:
             override = self.office_overrides[raw]
             return (
+                "INCLUDED",
                 override.get('office', raw),
-                str(override.get('district', '')),
-                override.get('party')
+                str(override.get('district', ''))
             )
 
-        # 2. Check regex patterns
+        # 2. Try Allow-list (Canonical Patterns)
         for item in self.office_patterns:
-            pattern = item.get('pattern')
-            match = re.search(pattern, raw)
+            match = item['regex'].search(raw)
             if match:
                 canonical = item.get('canonical_office')
                 district_group = item.get('district_group')
@@ -136,25 +135,34 @@ class DataCleaner:
                             ).strip()
                     except IndexError:
                         district = ''
-
-                party_hint = None
-                if re.search(r'\bDem(?:ocrat)?\b', raw, re.I):
-                    party_hint = 'Democrat'
-                elif re.search(r'\bRep(?:ublican)?\b', raw, re.I):
-                    party_hint = 'Republican'
-                elif re.search(r'\bLib(?:ertarian)?\b', raw, re.I):
-                    party_hint = 'Libertarian'
-
-                return (canonical, district, party_hint)
+                return "INCLUDED", canonical, district
 
         # 3. Fallback: if already a known canonical office
         if raw in self.canonical_offices:
-            return (raw, '', None)
+            return "INCLUDED", raw, ''
 
-        return (raw, '', None)
+        # 4. Try Block-list (Excluded Patterns)
+        for pat in self.excluded_local_patterns:
+            if pat.search(raw):
+                return "EXCLUDED", None, None
 
-    def is_canonical_office(self, office: str) -> bool:
-        return office in self.canonical_offices
+        # 5. Final Fallback to Unmapped
+        return "UNMAPPED", None, None
+
+    def extract_party_hint(self, raw_office: str) -> Optional[str]:
+        """Extract an optional party hint from overrides or office text."""
+        if not raw_office:
+            return None
+        raw = raw_office.strip()
+        if raw in self.office_overrides:
+            return self.office_overrides[raw].get('party')
+        if re.search(r'\bDem(?:ocrat)?\b', raw, re.I):
+            return 'Democrat'
+        if re.search(r'\bRep(?:ublican)?\b', raw, re.I):
+            return 'Republican'
+        if re.search(r'\bLib(?:ertarian)?\b', raw, re.I):
+            return 'Libertarian'
+        return None
 
     def add_office_override(
         self,

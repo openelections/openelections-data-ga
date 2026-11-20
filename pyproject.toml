@@ -14,3 +14,11 @@ dependencies = [
     "pydantic>=2.12.5",
     "pyyaml>=6.0.3",
 ]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

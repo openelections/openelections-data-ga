@@ -23,7 +23,8 @@ from enhanced_voting_process.ai_assistant import (  # noqa: E402
 def extract_vote_groups(group_results: Optional[List[Any]]) -> Optional[Dict[str, int]]:  # noqa: E501
     """
     Extracts standard Georgia vote group counts from groupResults.
-    Returns None if group_results is empty or all vote counts are None.
+    Returns None if group_results is empty or any vote count is None
+    (e.g., hidden/suppressed for voter privacy).
     """
     if not group_results:
         return None
@@ -49,17 +50,19 @@ def extract_vote_groups(group_results: Optional[List[Any]]) -> Optional[Dict[str
         elif votes is None:
             votes = getattr(g, "voteCount", None)
 
-        if votes is not None:
-            has_valid_count = True
-            name_lower = str(name).lower()
-            if "election day" in name_lower:
-                counts["election_day_votes"] += votes
-            elif "advance" in name_lower or "early" in name_lower:
-                counts["advanced_votes"] += votes
-            elif "absentee" in name_lower or "mail" in name_lower:
-                counts["absentee_by_mail_votes"] += votes
-            elif "provisional" in name_lower:
-                counts["provisional_votes"] += votes
+        if votes is None:
+            return None
+
+        has_valid_count = True
+        name_lower = str(name).lower()
+        if "election day" in name_lower:
+            counts["election_day_votes"] += votes
+        elif "advance" in name_lower or "early" in name_lower:
+            counts["advanced_votes"] += votes
+        elif "absentee" in name_lower or "mail" in name_lower:
+            counts["absentee_by_mail_votes"] += votes
+        elif "provisional" in name_lower:
+            counts["provisional_votes"] += votes
 
     return counts if has_valid_count else None
 
@@ -182,12 +185,10 @@ class ElectionProcessor:
         unmapped_offices = []
 
         for raw_off in sorted(raw_offices):
-            canonical, dist, _ = self.cleaner.clean_office_and_district(
-                raw_off
-            )
-            if self.cleaner.is_canonical_office(canonical):
+            status, canonical, dist = self.cleaner.classify_office(raw_off)
+            if status == "INCLUDED":
                 included_offices.append((raw_off, canonical, dist))
-            elif self.cleaner.is_known_local_office(raw_off):
+            elif status == "EXCLUDED":
                 excluded_local_offices.append(raw_off)
             else:
                 unmapped_offices.append(raw_off)
@@ -239,15 +240,17 @@ class ElectionProcessor:
             county_name = self.cleaner.clean_county(county_res.county)
 
             for item in county_res.ballot_items:
-                canonical_office, district, party_hint = (
-                    self.cleaner.clean_office_and_district(item.office)
+                status, canonical, dist = self.cleaner.classify_office(
+                    item.office
                 )
-
-                if (
-                    not self.all_offices
-                    and not self.cleaner.is_canonical_office(canonical_office)
-                ):
+                if not self.all_offices and status != "INCLUDED":
                     continue
+
+                canonical_office = (
+                    canonical if status == "INCLUDED" else item.office
+                )
+                district = dist or '' if status == "INCLUDED" else ''
+                party_hint = self.cleaner.extract_party_hint(item.office)
 
                 for opt in item.ballot_options:
                     candidate = self.cleaner.clean_candidate(opt.candidate)
@@ -256,10 +259,16 @@ class ElectionProcessor:
                     # County row extraction
                     county_grp = extract_vote_groups(opt.county_votes)
                     if has_county_groups:
-                        ed = county_grp["election_day_votes"] if county_grp else opt.total_votes  # noqa: E501
-                        adv = county_grp["advanced_votes"] if county_grp else 0
-                        ab = county_grp["absentee_by_mail_votes"] if county_grp else 0  # noqa: E501
-                        prov = county_grp["provisional_votes"] if county_grp else 0  # noqa: E501
+                        if county_grp:
+                            ed = county_grp["election_day_votes"]
+                            adv = county_grp["advanced_votes"]
+                            ab = county_grp["absentee_by_mail_votes"]
+                            prov = county_grp["provisional_votes"]
+                        else:
+                            ed = ""
+                            adv = ""
+                            ab = ""
+                            prov = ""
                         county_rows.append({
                             "county": county_name,
                             "precinct": "not available",
@@ -267,6 +276,7 @@ class ElectionProcessor:
                             "district": district,
                             "party": party,
                             "candidate": candidate,
+                            "votes": opt.total_votes,
                             "election_day_votes": ed,
                             "advanced_votes": adv,
                             "absentee_by_mail_votes": ab,
@@ -389,7 +399,7 @@ class ElectionProcessor:
         if has_county_groups:
             county_fields = [
                 "county", "precinct", "office", "district", "party",
-                "candidate", "election_day_votes", "advanced_votes",
+                "candidate", "votes", "election_day_votes", "advanced_votes",
                 "absentee_by_mail_votes", "provisional_votes"
             ]
         else:
