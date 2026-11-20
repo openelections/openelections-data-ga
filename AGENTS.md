@@ -15,10 +15,10 @@ This repository (`openelections-data-ga`) stores standardized, machine-readable 
 ## Environment & Tooling
 
 - **Python**: `>=3.13` (see `pyproject.toml`)
-- **Package manager**: `uv` (dependencies locked in `uv.lock`)
-- Key libraries: `pydantic`, `pandas`, `duckdb`, `pyyaml`, `google-genai`, `flake8`.
+- **Package manager**: `uv` (dependencies locked in `uv.lock`; `pytest` is in `[dependency-groups] dev`)
+- Key libraries: `pydantic`, `pandas`, `duckdb`, `pyyaml`, `google-genai`, `flake8`, `pytest`.
 
-Run Python commands from the repository root with `uv run`:
+Run Python commands from the repository root with `uv run` (run `uv sync` first if setting up or after moving the repo directory):
 
 ```bash
 uv run python <script.py>
@@ -71,13 +71,35 @@ uv run python <script.py>
     - `Supreme Court Justice`, `Appeals Court Judge`, `Superior Court Judge`, `District Attorney`
   - Standard party names: `Democrat`, `Republican`, `Libertarian`, `Independent`, `Nonpartisan`, `Green`, `Write-In`, `Unknown`.
 - **County vs. Precinct Vote Breakouts** (see `2025/Precinct_Votes_README.md`):
-  - **County-level CSVs** use `precinct = not available` and contain certified totals across `election_day_votes`, `advanced_votes`, `absentee_by_mail_votes`, and `provisional_votes`.
+  - **County-level CSVs** use `precinct = not available`, include `votes` for certified totals, and populate `election_day_votes`, `advanced_votes`, `absentee_by_mail_votes`, and `provisional_votes` when vote-method breakdowns are reported. If a county's breakdown is privacy-suppressed (`-` / `voteCount: null`, common in single-precinct counties), `votes` retains the certified total and the four modality columns are left blank (`,,,,`).
   - **Precinct-level CSVs** use the `votes` column for total precinct votes. Vote-method breakout columns at the precinct level are often blank (`,,,,`) when counties tabulate early/absentee ballots centrally or withhold small-precinct breakdowns for voter privacy. Never sum precinct breakout columns to estimate countywide modality totals.
   - Minor residuals between county totals and precinct sums can occur due to suppressed small precincts or countywide provisional/overseas ballots.
 - **Gitignored Files** (see `.gitignore`):
   - `*.json`, `*reconciliation_report.csv`, `*.db`, and `.env` are gitignored. Do not commit raw JSON exports, reconciliation reports, DuckDB files, or API keys.
 
-## Validation & CI Checks
+## Testing, Linting & Validation
+
+### Unit Tests (`pytest`)
+
+Unit tests live in `tests/` (`tests/test_cleaner.py`, `tests/test_process_election.py`), with `pythonpath = ["."]` configured in `pyproject.toml`:
+
+```bash
+uv run pytest -v
+# Or invoke via Python module directly:
+uv run python -m pytest -v
+```
+
+### Linting (`flake8`)
+
+Check PEP 8 / style compliance (79-character line limit) before committing Python changes:
+
+```bash
+uv run flake8 enhanced_voting_process/ tests/
+# Or invoke via Python module directly:
+uv run python -m flake8 enhanced_voting_process/ tests/
+```
+
+### OpenElections Data CI & Website Validation
 
 - **Automated CI**: `.github/workflows/data_tests.yml` runs `openelections/openelections-data-tests` (`v2.2.0`) on push and pull requests for:
   - `duplicate_entries`
@@ -85,6 +107,7 @@ uv run python <script.py>
   - `missing_values`
   - `vote_breakdown_totals`
 - **Manual / Website Validation**: When validating generated CSVs against `https://results.sos.ga.gov`, verify:
-  1. County-level vote-method columns (`election_day_votes`, `advanced_votes`, `absentee_by_mail_votes`, `provisional_votes`) match the county results pages.
-  2. Precinct-level `votes` (and any non-blank vote-method columns) match the drilled-down precinct tables.
-  3. Precinct `votes` sum to county totals (or any variance is documented in `*_reconciliation_report.csv`).
+  1. Statewide totals match the SOS summary page (noting that counties with privacy-suppressed `-` breakdowns have blank modality columns in the county CSV even though statewide totals include them).
+  2. County-level `votes` and vote-method columns (`election_day_votes`, `advanced_votes`, `absentee_by_mail_votes`, `provisional_votes`) match the county results pages.
+  3. Precinct-level `votes` (and any non-blank vote-method columns) match the drilled-down precinct tables.
+  4. Precinct `votes` sum to county totals (or any minor variance is confirmed as privacy-suppressed precincts and documented in `*_reconciliation_report.csv`).
