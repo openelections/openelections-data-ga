@@ -82,41 +82,42 @@ def sanitize_filename_slug(election_name: str) -> str:
     s = re.sub(r"\b\d{1,2}/\d{1,2}/\d{2,4}\b", " ", s)
     s = re.sub(r"\b(19\d\d|20\d\d)\b", " ", s)
 
-    # 2. Lowercase and clean non-alphanumeric
+    # 2. Lowercase and clean non-alphanumeric to spaces
     s = s.lower()
-    s = re.sub(r"[^a-z0-9]+", "_", s).strip("_")
+    s = re.sub(r"[^a-z0-9]+", " ", s)
 
-    # 3. Standardize common OpenElections phrases
-    long_psc = (
-        "special_primary_public_service_commissioner_psc_"
-        "special_election_runoff"
-    )
-    s = s.replace(long_psc, "special__runoff__psc")
-    s = s.replace(
-        "public_service_commissioner_psc_special_election_runoff",
-        "special__runoff__psc"
-    )
-    s = s.replace("public_service_commissioner_psc", "psc")
-    s = s.replace(
-        "special_election_state_senate_district_",
-        "special__state_senate__"
-    )
-    s = s.replace(
-        "special_election_state_house_district_",
-        "special__state_house__"
-    )
-    s = s.replace("general_primary_runoff", "general__primary__runoff")
-    s = s.replace("special_primary_runoff", "special__primary__runoff")
-    s = s.replace("special_primary", "special__primary")
-    s = s.replace("special_election", "special")
-    s = s.replace("general_election", "general")
+    # 3. Standardize phrases and expand common abbreviations
+    s = re.sub(r"\bsd\s*(\d+)\b", r"state senate \1", s)
+    s = re.sub(r"\bhd\s*(\d+)\b", r"state house \1", s)
+    s = re.sub(r"\bdistrict\s+(\d+)\b", r"\1", s)
 
-    # 4. Clean formatting
-    s = re.sub(r"_+", "_", s).strip("_")
-    s = s.replace("_runoff", "__runoff")
-    s = s.replace("_psc", "__psc")
-    s = re.sub(r"__+", "__", s).strip("_")
-    return s
+    # PSC replacements
+    s = re.sub(
+        r"public\s+service\s+commissioner\s*\(?psc\)?",
+        "psc",
+        s
+    )
+    s = re.sub(r"public\s+service\s+commissioner", "psc", s)
+    s = re.sub(
+        r"special\s+primary\s+psc\s*(?:/\s*)?special\s+election\s+runoff",
+        "special runoff psc",
+        s
+    )
+    s = re.sub(
+        r"special\s+primary\s+psc\s*(?:/\s*)?special\s+election",
+        "special primary psc",
+        s
+    )
+
+    s = re.sub(r"\bspecial\s+election\b", "special", s)
+    s = re.sub(r"\bgeneral\s+election\b", "general", s)
+    s = re.sub(r"\belection\b", "", s)
+    s = re.sub(r"\band\b", "", s)
+
+    # 4. Tokenize and join every element with double underscores
+    tokens = [w for w in s.split() if w]
+    slug = "__".join(tokens)
+    return slug
 
 
 class ElectionProcessor:
