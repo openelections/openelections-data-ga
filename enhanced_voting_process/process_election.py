@@ -182,12 +182,10 @@ class ElectionProcessor:
         unmapped_offices = []
 
         for raw_off in sorted(raw_offices):
-            canonical, dist, _ = self.cleaner.clean_office_and_district(
-                raw_off
-            )
-            if self.cleaner.is_canonical_office(canonical):
+            status, canonical, dist = self.cleaner.classify_office(raw_off)
+            if status == "INCLUDED":
                 included_offices.append((raw_off, canonical, dist))
-            elif self.cleaner.is_known_local_office(raw_off):
+            elif status == "EXCLUDED":
                 excluded_local_offices.append(raw_off)
             else:
                 unmapped_offices.append(raw_off)
@@ -239,15 +237,17 @@ class ElectionProcessor:
             county_name = self.cleaner.clean_county(county_res.county)
 
             for item in county_res.ballot_items:
-                canonical_office, district, party_hint = (
-                    self.cleaner.clean_office_and_district(item.office)
+                status, canonical, dist = self.cleaner.classify_office(
+                    item.office
                 )
-
-                if (
-                    not self.all_offices
-                    and not self.cleaner.is_canonical_office(canonical_office)
-                ):
+                if not self.all_offices and status != "INCLUDED":
                     continue
+
+                canonical_office = (
+                    canonical if status == "INCLUDED" else item.office
+                )
+                district = dist or '' if status == "INCLUDED" else ''
+                party_hint = self.cleaner.extract_party_hint(item.office)
 
                 for opt in item.ballot_options:
                     candidate = self.cleaner.clean_candidate(opt.candidate)
