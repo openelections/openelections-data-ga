@@ -58,8 +58,14 @@ class DataCleaner:
         if not candidate:
             return ''
         name = candidate.strip()
-        for pat in self.candidate_strip_patterns:
-            name = pat.sub('', name).strip()
+        changed = True
+        while changed:
+            changed = False
+            for pat in self.candidate_strip_patterns:
+                new_name = pat.sub('', name).strip()
+                if new_name != name:
+                    name = new_name
+                    changed = True
         # Collapse multiple internal whitespace / spaces into a single space
         name = re.sub(r'\s+', ' ', name).strip()
         return name

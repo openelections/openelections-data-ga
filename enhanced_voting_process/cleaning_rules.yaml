@@ -145,8 +145,9 @@ office_overrides: {}
 
 cleaning_patterns:
   strip_candidate_suffixes:
-    - '\s*\([I|i]\)$'
     - '\s*\((?:Rep|Dem|Lib|Ind|Non|DEM|REP|LIB|IND)\)$'
+    - '\s*\([Ii]\)$'
     - '\s*-\s*Incumbent$'
+    - '\s*\([Ii]ncumbent\)$'
   strip_county_suffixes:
     - '\s+County$'
