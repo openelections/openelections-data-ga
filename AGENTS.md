@@ -16,7 +16,7 @@ This repository (`openelections-data-ga`) stores standardized, machine-readable 
 
 - **Python**: `>=3.13` (see `pyproject.toml`)
 - **Package manager**: `uv` (dependencies locked in `uv.lock`; `pytest` is in `[dependency-groups] dev`)
-- Key libraries: `pydantic`, `pandas`, `duckdb`, `pyyaml`, `google-genai`, `flake8`, `pytest`.
+- Key libraries: `pydantic`, `pandas`, `duckdb`, `pyyaml`, `flake8`, `pytest`.
 
 Run Python commands from the repository root with `uv run` (run `uv sync` first if setting up or after moving the repo directory):
 
@@ -46,8 +46,6 @@ uv run python <script.py>
    This writes the county-level CSV, precinct-level CSV, and a diagnostic `*_reconciliation_report.csv` into `--outdir` (defaults to the input file's directory if omitted).
 
 3. **Optional Flags**:
-   - `--ai`: Enable Gemini AI (`gemini-2.5-flash`) to classify unmapped office strings and summarize reconciliation anomalies. Requires `GEMINI_API_KEY` in `enhanced_voting_process/.env` (copy from `enhanced_voting_process/.env.example`) or `--api-key`.
-   - `--save-ai-rules`: Persist AI-approved mappings into `enhanced_voting_process/cleaning_rules.yaml`.
    - `--all-offices`: Include local/municipal offices instead of filtering to canonical Federal and State offices.
    - `--duckdb <path/to/file.duckdb>`: Load cleaned tables into a DuckDB database.
    - `--rules <path/to/cleaning_rules.yaml>`: Use a custom rules YAML file.
@@ -59,7 +57,6 @@ uv run python <script.py>
 - `cleaner.py` — Deterministic office/party/candidate normalization and Federal/State vs. local filtering.
 - `cleaning_rules.yaml` — Canonical office list, party mappings, and local exclusion patterns.
 - `reconciler.py` — Non-blocking QC comparing county totals against sums of precinct totals.
-- `ai_assistant.py` — Optional Google Gemini integration (falls back cleanly if no API key is set).
 
 ## Data Conventions & Important Gotchas
 
@@ -75,7 +72,7 @@ uv run python <script.py>
   - **Precinct-level CSVs** use the `votes` column for total precinct votes. Vote-method breakout columns at the precinct level are often blank (`,,,,`) when counties tabulate early/absentee ballots centrally or withhold small-precinct breakdowns for voter privacy. Never sum precinct breakout columns to estimate countywide modality totals.
   - Minor residuals between county totals and precinct sums can occur due to suppressed small precincts or countywide provisional/overseas ballots.
 - **Gitignored Files** (see `.gitignore`):
-  - `*.json`, `*reconciliation_report.csv`, `*.db`, and `.env` are gitignored. Do not commit raw JSON exports, reconciliation reports, DuckDB files, or API keys.
+  - `*.json`, `*reconciliation_report.csv`, `*.db`, and `.env` are gitignored. Do not commit raw JSON exports, reconciliation reports, DuckDB files, or local `.env` files.
 
 ## Testing, Linting & Validation
 

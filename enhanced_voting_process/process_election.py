@@ -15,9 +15,6 @@ from enhanced_voting_process.enhanced_json_model import (  # noqa: E402
 )
 from enhanced_voting_process.cleaner import DataCleaner  # noqa: E402
 from enhanced_voting_process.reconciler import ElectionReconciler  # noqa: E402
-from enhanced_voting_process.ai_assistant import (  # noqa: E402
-    GeminiAssistant
-)
 
 
 def extract_vote_groups(group_results: Optional[List[Any]]) -> Optional[Dict[str, int]]:  # noqa: E501
@@ -127,23 +124,18 @@ class ElectionProcessor:
     def __init__(
         self,
         rules_path: Optional[Path] = None,
-        all_offices: bool = False,
-        use_ai: bool = False,
-        api_key: Optional[str] = None
+        all_offices: bool = False
     ):
         self.cleaner = DataCleaner(rules_path=rules_path)
         self.reconciler = ElectionReconciler()
         self.all_offices = all_offices
-        self.use_ai = use_ai
-        self.ai = GeminiAssistant(api_key=api_key)
 
     def process_file(
         self,
         input_path: Path,
         outdir: Optional[Path] = None,
         inspect_mode: bool = False,
-        duckdb_path: Optional[Path] = None,
-        save_ai_rules: bool = False
+        duckdb_path: Optional[Path] = None
     ) -> Dict[str, Any]:
         input_path = input_path.expanduser()
         with open(input_path, "r", encoding="utf-8") as f:
@@ -212,25 +204,8 @@ class ElectionProcessor:
                   f"[UNMAPPED]:")
             for u in unmapped_offices:
                 print(f"    ? '{u}'")
-
-            if self.use_ai or self.ai.is_available():
-                print("\n[AI Assistant] Querying Gemini"
-                      " for office mappings...")
-                suggestions = self.ai.suggest_office_mappings(
-                    unmapped_offices,
-                    sorted(list(self.cleaner.canonical_offices))
-                )
-                print(json.dumps(suggestions, indent=2))
-                if save_ai_rules and suggestions:
-                    for raw_k, mapping in suggestions.items():
-                        self.cleaner.add_office_override(
-                            raw_k,
-                            mapping.get("office", raw_k),
-                            str(mapping.get("district", "")),
-                            mapping.get("party")
-                        )
-                    print("[AI Assistant] Rules updated"
-                          " in cleaning_rules.yaml!")
+            print("    (Add patterns or overrides in cleaning_rules.yaml "
+                  "to classify these races.)")
 
         # 2. Extract County and Precinct Rows
         # Build a cross-county candidate party map so counties omitting
@@ -397,15 +372,6 @@ class ElectionProcessor:
         recon_records = self.reconciler.reconcile(county_rows, precinct_rows)
         self.reconciler.print_summary()
 
-        if self.use_ai and self.ai.is_available():
-            discrepancies = [
-                r for r in recon_records if r["status"] == "DISCREPANCY"
-            ]
-            if discrepancies:
-                print("[AI Assistant] Anomaly Analysis:")
-                analysis = self.ai.analyze_anomalies(recon_records)
-                print(analysis)
-
         # 4. Save Outputs if not inspect mode
         if inspect_mode:
             print("[Inspect Mode] Dry run complete. No files written.")
@@ -534,7 +500,7 @@ class ElectionProcessor:
         }
 
 
-def main():
+def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description="OpenElections Georgia Voter Results Processor"
     )
@@ -551,14 +517,6 @@ def main():
         help="Inspect / dry-run mode (does not write CSVs)"
     )
     parser.add_argument(
-        "--ai", action="store_true",
-        help="Enable Gemini AI assistant for mappings & anomaly analysis"
-    )
-    parser.add_argument(
-        "--save-ai-rules", action="store_true",
-        help="Auto-save AI approved mappings to cleaning_rules.yaml"
-    )
-    parser.add_argument(
         "--all-offices", action="store_true",
         help="Process all offices (including non-standard local races)"
     )
@@ -570,26 +528,22 @@ def main():
         "--rules", type=Path, default=None,
         help="Custom path to cleaning_rules.yaml"
     )
-    parser.add_argument(
-        "--api-key", type=str, default=None,
-        help="Google Gemini API Key (or set GEMINI_API_KEY env var)"
-    )
+    return parser
 
-    args = parser.parse_args()
+
+def main():
+    args = build_parser().parse_args()
 
     processor = ElectionProcessor(
         rules_path=args.rules,
-        all_offices=args.all_offices,
-        use_ai=args.ai,
-        api_key=args.api_key
+        all_offices=args.all_offices
     )
 
     processor.process_file(
         input_path=args.input,
         outdir=args.outdir,
         inspect_mode=args.inspect,
-        duckdb_path=args.duckdb,
-        save_ai_rules=args.save_ai_rules
+        duckdb_path=args.duckdb
     )
 
 
