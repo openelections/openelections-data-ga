@@ -89,3 +89,23 @@ def test_basic_cleaners():
     assert cleaner.clean_precinct("Precinct   01A ") == "Precinct 01A"
     assert cleaner.clean_party("DEM") == "Democrat"
     assert cleaner.clean_party(None) == "Nonpartisan"
+
+
+@pytest.mark.parametrize(
+    "raw_candidate, expected_party",
+    [
+        ("Roger Bruce (Dem)", "Democrat"),
+        ("Josh Tolbert (Rep)", "Republican"),
+        ("Corenza Morris (Ind)", "Independent"),
+        ("Jane Doe (Lib)", "Libertarian"),
+        ("Tim Echols (I) (Rep)", "Republican"),
+        ("Tim Echols (I)", None),
+        ("Plain Candidate", None),
+        ("", None),
+    ],
+)
+def test_extract_party_from_candidate(raw_candidate, expected_party):
+    cleaner = DataCleaner()
+    assert (
+        cleaner.extract_party_from_candidate(raw_candidate) == expected_party
+    )

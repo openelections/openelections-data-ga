@@ -16,7 +16,7 @@ This repository (`openelections-data-ga`) stores standardized, machine-readable 
 
 - **Python**: `>=3.13` (see `pyproject.toml`)
 - **Package manager**: `uv` (dependencies locked in `uv.lock`; `pytest` is in `[dependency-groups] dev`)
-- Key libraries: `pydantic`, `pandas`, `duckdb`, `pyyaml`, `google-genai`, `flake8`, `pytest`.
+- Key libraries: `pydantic`, `pandas`, `duckdb`, `pyyaml`, `flake8`, `pytest`.
 
 Run Python commands from the repository root with `uv run` (run `uv sync` first if setting up or after moving the repo directory):
 
@@ -46,8 +46,6 @@ uv run python <script.py>
    This writes the county-level CSV, precinct-level CSV, and a diagnostic `*_reconciliation_report.csv` into `--outdir` (defaults to the input file's directory if omitted).
 
 3. **Optional Flags**:
-   - `--ai`: Enable Gemini AI (`gemini-2.5-flash`) to classify unmapped office strings and summarize reconciliation anomalies. Requires `GEMINI_API_KEY` in `enhanced_voting_process/.env` (copy from `enhanced_voting_process/.env.example`) or `--api-key`.
-   - `--save-ai-rules`: Persist AI-approved mappings into `enhanced_voting_process/cleaning_rules.yaml`.
    - `--all-offices`: Include local/municipal offices instead of filtering to canonical Federal and State offices.
    - `--duckdb <path/to/file.duckdb>`: Load cleaned tables into a DuckDB database.
    - `--rules <path/to/cleaning_rules.yaml>`: Use a custom rules YAML file.
@@ -59,7 +57,6 @@ uv run python <script.py>
 - `cleaner.py` — Deterministic office/party/candidate normalization and Federal/State vs. local filtering.
 - `cleaning_rules.yaml` — Canonical office list, party mappings, and local exclusion patterns.
 - `reconciler.py` — Non-blocking QC comparing county totals against sums of precinct totals.
-- `ai_assistant.py` — Optional Google Gemini integration (falls back cleanly if no API key is set).
 
 ## Data Conventions & Important Gotchas
 
@@ -70,12 +67,13 @@ uv run python <script.py>
     - `State Senate`, `State House`
     - `Supreme Court Justice`, `Appeals Court Judge`, `Superior Court Judge`, `District Attorney`
   - Standard party names: `Democrat`, `Republican`, `Libertarian`, `Independent`, `Nonpartisan`, `Green`, `Write-In`, `Unknown`.
+  - **Party resolution across counties**: When a county omits `politicalParty` in raw JSON, `process_election.py` resolves party in order: `opt.party` → parenthesized suffix in `opt.candidate` (e.g. `(Dem)`, `(Rep)`, `(Ind)` — ignoring `(I)`, which Georgia SOS uses for Incumbent) → office-level hint / `office_overrides` → explicit party for the same `(office, district, candidate)` in sibling counties → default `'Nonpartisan'`. Never drop rows solely because `politicalParty` is `null` (Georgia judicial races — `Supreme Court Justice`, `Appeals Court Judge`, `Superior Court Judge` — are nonpartisan).
 - **County vs. Precinct Vote Breakouts** (see `2025/Precinct_Votes_README.md`):
   - **County-level CSVs** use `precinct = not available`, include `votes` for certified totals, and populate `election_day_votes`, `advanced_votes`, `absentee_by_mail_votes`, and `provisional_votes` when vote-method breakdowns are reported. If a county's breakdown is privacy-suppressed (`-` / `voteCount: null`, common in single-precinct counties), `votes` retains the certified total and the four modality columns are left blank (`,,,,`).
   - **Precinct-level CSVs** use the `votes` column for total precinct votes. Vote-method breakout columns at the precinct level are often blank (`,,,,`) when counties tabulate early/absentee ballots centrally or withhold small-precinct breakdowns for voter privacy. Never sum precinct breakout columns to estimate countywide modality totals.
   - Minor residuals between county totals and precinct sums can occur due to suppressed small precincts or countywide provisional/overseas ballots.
 - **Gitignored Files** (see `.gitignore`):
-  - `*.json`, `*reconciliation_report.csv`, `*.db`, and `.env` are gitignored. Do not commit raw JSON exports, reconciliation reports, DuckDB files, or API keys.
+  - `*.json`, `*reconciliation_report.csv`, `*.db`, `*.duckdb`, and `.env` are gitignored. Do not commit raw JSON exports, reconciliation reports, DuckDB files, or local `.env` files.
 
 ## Testing, Linting & Validation
 
@@ -94,9 +92,9 @@ uv run python -m pytest -v
 Check PEP 8 / style compliance (79-character line limit) before committing Python changes:
 
 ```bash
-uv run flake8 enhanced_voting_process/ tests/
+uv run flake8 --exclude=enhanced_voting_process/archived enhanced_voting_process/ tests/
 # Or invoke via Python module directly:
-uv run python -m flake8 enhanced_voting_process/ tests/
+uv run python -m flake8 --exclude=enhanced_voting_process/archived enhanced_voting_process/ tests/
 ```
 
 ### OpenElections Data CI & Website Validation
@@ -106,6 +104,7 @@ uv run python -m flake8 enhanced_voting_process/ tests/
   - `file_format`
   - `missing_values`
   - `vote_breakdown_totals`
+- **Post-Conversion QC Notebook**: `2025/code/qc_race_results.ipynb` uses DuckDB to inspect overall totals, county reconciliation, precinct drill-downs, and integrity checks alongside the SOS portal.
 - **Manual / Website Validation**: When validating generated CSVs against `https://results.sos.ga.gov`, verify:
   1. Statewide totals match the SOS summary page (noting that counties with privacy-suppressed `-` breakdowns have blank modality columns in the county CSV even though statewide totals include them).
   2. County-level `votes` and vote-method columns (`election_day_votes`, `advanced_votes`, `absentee_by_mail_votes`, `provisional_votes`) match the county results pages.
