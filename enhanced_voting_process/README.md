@@ -175,10 +175,10 @@ Run unit tests (`tests/test_cleaner.py`, `tests/test_process_election.py`) and P
 uv run pytest -v
 
 # Linting (79-char line limit)
-uv run flake8 enhanced_voting_process/ tests/
+uv run flake8 --exclude=enhanced_voting_process/archived enhanced_voting_process/ tests/
 ```
 
-*(If invoking after moving the repo directory, run `uv sync` first or use `uv run python -m pytest -v` / `uv run python -m flake8 enhanced_voting_process/ tests/`.)*
+*(If invoking after moving the repo directory, run `uv sync` first or use `uv run python -m pytest -v` / `uv run python -m flake8 --exclude=enhanced_voting_process/archived enhanced_voting_process/ tests/`.)*
 
 ---
 

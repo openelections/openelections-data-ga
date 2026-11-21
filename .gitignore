@@ -8,6 +8,8 @@ requirements.txt
 settings.json
 .vscode
 *.db
+*.duckdb
+*.duckdb.wal
 chromedriver
 *.json
 *reconciliation_report.csv
