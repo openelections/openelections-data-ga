@@ -97,6 +97,27 @@ class DataCleaner:
             return self.parties[raw.upper()]
         return raw
 
+    def extract_party_from_candidate(
+        self,
+        raw_candidate: str
+    ) -> Optional[str]:
+        """Extract a party hint from suffixes like '(Dem)', '(Rep)', '(Ind)'.
+
+        Excludes bare '(I)' because Georgia SOS uses '(I)' for Incumbent.
+        """
+        if not raw_candidate:
+            return None
+        match = re.search(
+            r'\(\s*(Dem(?:ocrat(?:ic)?)?|Rep(?:ublican)?|'
+            r'Lib(?:ertarian)?|Ind(?:ependent)?|Grn|Green|'
+            r'Non(?:partisan)?|NP)\s*\)',
+            raw_candidate,
+            re.I,
+        )
+        if not match:
+            return None
+        return self.clean_party(match.group(1))
+
     def classify_office(
         self,
         raw_office: str

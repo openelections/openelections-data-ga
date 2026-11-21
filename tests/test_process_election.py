@@ -145,3 +145,131 @@ def test_suppressed_county_preserves_votes_with_blank_modalities(tmp_path):
     assert rows["Candler"]["advanced_votes"] == ""
     assert rows["Candler"]["absentee_by_mail_votes"] == ""
     assert rows["Candler"]["provisional_votes"] == ""
+
+
+def test_missing_political_party_inferred_across_counties(tmp_path):
+    raw_export = {
+        "electionName": "November 18, 2025 - State Senate 35 Special Election",
+        "electionDate": "2025-11-18",
+        "localResults": [
+            {
+                "name": "Cobb",
+                "ballotItems": [
+                    {
+                        "name": "State Senate - District 35",
+                        "ballotOptions": [
+                            {
+                                "name": "Jaha V. Howard",
+                                "voteCount": 3343,
+                                "politicalParty": "Dem",
+                                "groupResults": None,
+                                "precinctResults": None,
+                            },
+                            {
+                                "name": "Josh Tolbert",
+                                "voteCount": 2622,
+                                "politicalParty": "Rep",
+                                "groupResults": None,
+                                "precinctResults": None,
+                            },
+                        ],
+                    }
+                ],
+            },
+            {
+                "name": "Fulton",
+                "ballotItems": [
+                    {
+                        "name": "State Senate - District 35",
+                        "ballotOptions": [
+                            {
+                                "name": "Jaha V. Howard",
+                                "voteCount": 1792,
+                                "politicalParty": None,
+                                "groupResults": None,
+                                "precinctResults": None,
+                            },
+                            {
+                                "name": "Josh Tolbert (Rep)",
+                                "voteCount": 500,
+                                "politicalParty": None,
+                                "groupResults": None,
+                                "precinctResults": None,
+                            },
+                            {
+                                "name": "Corenza Morris (Ind)",
+                                "voteCount": 100,
+                                "politicalParty": None,
+                                "groupResults": None,
+                                "precinctResults": None,
+                            },
+                        ],
+                    }
+                ],
+            },
+        ],
+    }
+
+    input_json = tmp_path / "sd35.json"
+    input_json.write_text(json.dumps(raw_export), encoding="utf-8")
+
+    result = ElectionProcessor().process_file(
+        input_path=input_json, outdir=tmp_path
+    )
+    with open(result["county_file"], newline="", encoding="utf-8") as f:
+        rows = {(r["county"], r["candidate"]): r for r in csv.DictReader(f)}
+
+    assert len(rows) == 5
+    assert rows[("Cobb", "Jaha V. Howard")]["party"] == "Democrat"
+    assert rows[("Fulton", "Jaha V. Howard")]["party"] == "Democrat"
+    assert rows[("Fulton", "Jaha V. Howard")]["votes"] == "1792"
+    assert rows[("Fulton", "Josh Tolbert")]["party"] == "Republican"
+    assert rows[("Fulton", "Corenza Morris")]["party"] == "Independent"
+
+
+def test_nonpartisan_judicial_race_is_preserved(tmp_path):
+    raw_export = {
+        "electionName": "May 21, 2024 - General Primary Election",
+        "electionDate": "2024-05-21",
+        "localResults": [
+            {
+                "name": "Fulton",
+                "ballotItems": [
+                    {
+                        "name": "Supreme Court Justice - Seat 1",
+                        "ballotOptions": [
+                            {
+                                "name": "Andrew Pinson (I)",
+                                "voteCount": 1000,
+                                "politicalParty": None,
+                                "groupResults": None,
+                                "precinctResults": None,
+                            },
+                            {
+                                "name": "John Barrow",
+                                "voteCount": 900,
+                                "politicalParty": None,
+                                "groupResults": None,
+                                "precinctResults": None,
+                            },
+                        ],
+                    }
+                ],
+            }
+        ],
+    }
+
+    input_json = tmp_path / "judicial.json"
+    input_json.write_text(json.dumps(raw_export), encoding="utf-8")
+
+    result = ElectionProcessor().process_file(
+        input_path=input_json, outdir=tmp_path
+    )
+    with open(result["county_file"], newline="", encoding="utf-8") as f:
+        rows = {r["candidate"]: r for r in csv.DictReader(f)}
+
+    assert len(rows) == 2
+    assert rows["Andrew Pinson"]["party"] == "Nonpartisan"
+    assert rows["Andrew Pinson"]["votes"] == "1000"
+    assert rows["John Barrow"]["party"] == "Nonpartisan"
+    assert rows["John Barrow"]["votes"] == "900"

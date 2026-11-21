@@ -233,6 +233,33 @@ class ElectionProcessor:
                           " in cleaning_rules.yaml!")
 
         # 2. Extract County and Precinct Rows
+        # Build a cross-county candidate party map so counties omitting
+        # politicalParty inherit the explicit party from sibling counties.
+        candidate_party_map: Dict[tuple, str] = {}
+        for county_res in election.local_results:
+            for item in county_res.ballot_items:
+                status, canonical, dist = self.cleaner.classify_office(
+                    item.office
+                )
+                if not self.all_offices and status != "INCLUDED":
+                    continue
+                canonical_office = (
+                    canonical if status == "INCLUDED" else item.office
+                )
+                district = dist or '' if status == "INCLUDED" else ''
+                office_party = self.cleaner.extract_party_hint(item.office)
+                for opt in item.ballot_options:
+                    cand = self.cleaner.clean_candidate(opt.candidate)
+                    cand_party = self.cleaner.extract_party_from_candidate(
+                        opt.candidate
+                    )
+                    explicit_party = opt.party or cand_party or office_party
+                    if explicit_party:
+                        key = (canonical_office, district, cand)
+                        candidate_party_map.setdefault(
+                            key, self.cleaner.clean_party(explicit_party)
+                        )
+
         county_rows: List[Dict[str, Any]] = []
         precinct_rows: List[Dict[str, Any]] = []
 
@@ -254,7 +281,20 @@ class ElectionProcessor:
 
                 for opt in item.ballot_options:
                     candidate = self.cleaner.clean_candidate(opt.candidate)
-                    party = self.cleaner.clean_party(opt.party or party_hint)
+                    cand_party_hint = (
+                        self.cleaner.extract_party_from_candidate(
+                            opt.candidate
+                        )
+                    )
+                    inferred_party = candidate_party_map.get(
+                        (canonical_office, district, candidate)
+                    )
+                    party = self.cleaner.clean_party(
+                        opt.party
+                        or cand_party_hint
+                        or party_hint
+                        or inferred_party
+                    )
 
                     # County row extraction
                     county_grp = extract_vote_groups(opt.county_votes)
