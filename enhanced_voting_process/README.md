@@ -19,14 +19,7 @@ A unified, deterministic CLI pipeline for standardizing Georgia election results
 
 ## 1. Overview & Architecture
 
-Previously, standardizing election results required multiple disconnected steps:
-1. Running a Jupyter notebook (`load_json.ipynb`) with an interactive file chooser.
-2. Generating intermediate flattened JSON files on disk.
-3. Loading intermediate JSONs into DuckDB and manually executing multi-step SQL scripts (`jun2025_psc_special_election_county.sql`).
-4. Manually updating SQL strings for office/party cleanup and running `COPY` commands.
-
-### The Streamlined Pipeline
-The processor replaces the multi-stage workflow with a single offline, deterministic pipeline:
+`enhanced_voting_process` converts raw Georgia Secretary of State JSON exports (powered by [Enhanced Voting](https://www.enhancedvoting.com/)) into standardized OpenElections CSVs through a single offline, deterministic pipeline:
 
 ```mermaid
 flowchart TD
@@ -88,9 +81,9 @@ Georgia SOS / Enhanced Voting hides vote-method counts (`voteCount: null`, displ
 - If the source JSON has no `precinctResults`, precinct CSV and reconciliation report exports are skipped cleanly.
 
 ### Party Resolution Across Counties
-If an individual county omits `politicalParty` in the JSON, the processor resolves party in priority order:
+If an individual county omits `politicalParty` in the JSON, `DataCleaner.resolve_party()` resolves party in priority order:
 1. Explicit `politicalParty` from the JSON
-2. Parenthesized party suffix in the candidate string (e.g. `(Dem)`, `(Rep)`, `(Ind)` — ignoring `(I)` for Incumbent)
+2. Party suffix in the candidate string (e.g. `(Dem)`, `(Rep)`, `(Ind)` or `- Dem`, `- Rep` — ignoring `(I)` for Incumbent)
 3. Party hint from the office title or `office_overrides`
 4. Explicit party for the same `(office, district, candidate)` from another county in the same election
 5. Default `'Nonpartisan'` (preserving nonpartisan judicial races such as `Supreme Court Justice`, `Appeals Court Judge`, and `Superior Court Judge`)
@@ -221,6 +214,5 @@ enhanced_voting_process/
 ├── cleaning_rules.yaml         # Canonical offices, party map, regex rules & local exclusions
 ├── enhanced_json_model.py      # Pydantic schema validator for raw Enhanced Voting JSON
 ├── election_results_qc.ipynb   # Cross-year DuckDB notebook for spot-checking CSVs vs. GA SOS
-├── archived/                   # Legacy notebooks and SQL processing scripts
 └── README.md                   # Pipeline documentation
 ```

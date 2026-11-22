@@ -73,6 +73,29 @@ def test_office_override_preserves_party(tmp_path):
     assert cleaner.extract_party_hint("Special Senate Race") == "Democrat"
 
 
+def test_add_office_override_persists_to_rules_file(tmp_path):
+    rules_file = tmp_path / "rules.yaml"
+    rules_file.write_text(
+        "canonical_offices:\n  - 'State House'\noffice_overrides: {}\n",
+        encoding="utf-8",
+    )
+    cleaner = DataCleaner(rules_path=rules_file)
+    cleaner.add_office_override(
+        raw_office="Custom HD 99 Contest",
+        canonical_office="State House",
+        district="99",
+        party="Republican",
+    )
+
+    reloaded = DataCleaner(rules_path=rules_file)
+    assert reloaded.classify_office("Custom HD 99 Contest") == (
+        "INCLUDED",
+        "State House",
+        "99",
+    )
+    assert reloaded.extract_party_hint("Custom HD 99 Contest") == "Republican"
+
+
 def test_extract_party_hint():
     cleaner = DataCleaner()
     assert cleaner.extract_party_hint("PSC - District 2 - Rep") == "Republican"
@@ -120,4 +143,79 @@ def test_extract_party_from_candidate(raw_candidate, expected_party):
     cleaner = DataCleaner()
     assert (
         cleaner.extract_party_from_candidate(raw_candidate) == expected_party
+    )
+
+
+@pytest.mark.parametrize(
+    "raw_party, raw_candidate, raw_office, inferred_party, default, expected",
+    [
+        # 1. Explicit raw_party wins over everything else
+        (
+            "Dem",
+            "Jane Doe (Rep)",
+            "PSC - District 2 - Lib",
+            "Independent",
+            "Nonpartisan",
+            "Democrat",
+        ),
+        # 2. Candidate suffix wins when raw_party is missing
+        (
+            None,
+            "Shawn Harris - Dem",
+            "U.S. House - District 14 - Rep",
+            "Libertarian",
+            "Nonpartisan",
+            "Democrat",
+        ),
+        # 3. Office hint wins when raw_party and candidate suffix are missing
+        (
+            None,
+            "Tim Echols (I)",
+            "PSC - District 2 - Rep",
+            "Democrat",
+            "Nonpartisan",
+            "Republican",
+        ),
+        # 4. Inferred sibling-county party wins when explicit signals are None
+        (
+            None,
+            "Jaha V. Howard",
+            "State Senate - District 35",
+            "Democrat",
+            "Nonpartisan",
+            "Democrat",
+        ),
+        # 5. Falls back to default ('Nonpartisan') when no signal is present
+        (
+            None,
+            "Andrew Pinson (I)",
+            "Supreme Court Justice - Seat 1",
+            None,
+            "Nonpartisan",
+            "Nonpartisan",
+        ),
+        # 6. Supports default=None for Pass 1 explicit party discovery
+        (
+            None,
+            "Andrew Pinson (I)",
+            "Supreme Court Justice - Seat 1",
+            None,
+            None,
+            None,
+        ),
+    ],
+)
+def test_resolve_party_hierarchy(
+    raw_party, raw_candidate, raw_office, inferred_party, default, expected
+):
+    cleaner = DataCleaner()
+    assert (
+        cleaner.resolve_party(
+            raw_party=raw_party,
+            raw_candidate=raw_candidate,
+            raw_office=raw_office,
+            inferred_party=inferred_party,
+            default=default,
+        )
+        == expected
     )

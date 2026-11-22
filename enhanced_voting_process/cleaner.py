@@ -21,7 +21,7 @@ class DataCleaner:
 
     def load_rules(self):
         if self.rules_path.exists():
-            with open(self.rules_path, 'r', encoding='utf-8') as f:
+            with self.rules_path.open('r', encoding='utf-8') as f:
                 self.rules = yaml.safe_load(f) or {}
         else:
             self.rules = {}
@@ -189,6 +189,25 @@ class DataCleaner:
             return 'Libertarian'
         return None
 
+    def resolve_party(
+        self,
+        raw_party: Optional[str],
+        raw_candidate: str = '',
+        raw_office: str = '',
+        inferred_party: Optional[str] = None,
+        default: Optional[str] = 'Nonpartisan'
+    ) -> Optional[str]:
+        """Resolve canonical party using the 5-step fallback hierarchy:
+        raw_party -> candidate suffix -> office hint -> inferred_party
+        -> default.
+        """
+        candidate_hint = self.extract_party_from_candidate(raw_candidate)
+        office_hint = self.extract_party_hint(raw_office)
+        chosen = raw_party or candidate_hint or office_hint or inferred_party
+        if not chosen:
+            return default
+        return self.clean_party(chosen)
+
     def add_office_override(
         self,
         raw_office: str,
@@ -202,5 +221,5 @@ class DataCleaner:
             'party': party
         }
         self.rules['office_overrides'] = self.office_overrides
-        with open(self.rules_path, 'w', encoding='utf-8') as f:
+        with self.rules_path.open('w', encoding='utf-8') as f:
             yaml.dump(self.rules, f, sort_keys=False, default_flow_style=False)

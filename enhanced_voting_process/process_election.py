@@ -11,16 +11,19 @@ sys.path.insert(0, str(Path(__file__).parent.parent))
 sys.path.insert(0, str(Path(__file__).parent))
 
 from enhanced_voting_process.enhanced_json_model import (  # noqa: E402
-    ElectionResults
+    ElectionResults,
+    GroupResult,
 )
 from enhanced_voting_process.cleaner import DataCleaner  # noqa: E402
 from enhanced_voting_process.reconciler import ElectionReconciler  # noqa: E402
 
 
-def extract_vote_groups(group_results: Optional[List[Any]]) -> Optional[Dict[str, int]]:  # noqa: E501
+def extract_vote_groups(
+    group_results: Optional[List[GroupResult]]
+) -> Optional[Dict[str, int]]:
     """
-    Extracts standard Georgia vote group counts from groupResults.
-    Returns None if group_results is empty or any vote count is None
+    Extracts standard Georgia vote group counts from validated GroupResult
+    objects. Returns None if group_results is empty or any vote count is None
     (e.g., hidden/suppressed for voter privacy).
     """
     if not group_results:
@@ -32,36 +35,22 @@ def extract_vote_groups(group_results: Optional[List[Any]]) -> Optional[Dict[str
         "absentee_by_mail_votes": 0,
         "provisional_votes": 0,
     }
-    has_valid_count = False
 
     for g in group_results:
-        name = getattr(g, "vote_type", None)
-        if name is None and isinstance(g, dict):
-            name = g.get("groupName", "")
-        elif name is None:
-            name = getattr(g, "groupName", "")
-
-        votes = getattr(g, "votes", None)
-        if votes is None and isinstance(g, dict):
-            votes = g.get("voteCount")
-        elif votes is None:
-            votes = getattr(g, "voteCount", None)
-
-        if votes is None:
+        if g.votes is None:
             return None
 
-        has_valid_count = True
-        name_lower = str(name).lower()
+        name_lower = g.vote_type.lower()
         if "election day" in name_lower:
-            counts["election_day_votes"] += votes
+            counts["election_day_votes"] += g.votes
         elif "advance" in name_lower or "early" in name_lower:
-            counts["advanced_votes"] += votes
+            counts["advanced_votes"] += g.votes
         elif "absentee" in name_lower or "mail" in name_lower:
-            counts["absentee_by_mail_votes"] += votes
+            counts["absentee_by_mail_votes"] += g.votes
         elif "provisional" in name_lower:
-            counts["provisional_votes"] += votes
+            counts["provisional_votes"] += g.votes
 
-    return counts if has_valid_count else None
+    return counts
 
 
 def sanitize_filename_slug(election_name: str) -> str:
@@ -138,7 +127,7 @@ class ElectionProcessor:
         duckdb_path: Optional[Path] = None
     ) -> Dict[str, Any]:
         input_path = input_path.expanduser()
-        with open(input_path, "r", encoding="utf-8") as f:
+        with input_path.open("r", encoding="utf-8") as f:
             raw_data = json.load(f)
 
         election = ElectionResults.model_validate(raw_data)
@@ -222,18 +211,17 @@ class ElectionProcessor:
                     canonical if status == "INCLUDED" else item.office
                 )
                 district = dist or '' if status == "INCLUDED" else ''
-                office_party = self.cleaner.extract_party_hint(item.office)
                 for opt in item.ballot_options:
                     cand = self.cleaner.clean_candidate(opt.candidate)
-                    cand_party = self.cleaner.extract_party_from_candidate(
-                        opt.candidate
+                    explicit_party = self.cleaner.resolve_party(
+                        opt.party,
+                        opt.candidate,
+                        item.office,
+                        default=None
                     )
-                    explicit_party = opt.party or cand_party or office_party
                     if explicit_party:
                         key = (canonical_office, district, cand)
-                        candidate_party_map.setdefault(
-                            key, self.cleaner.clean_party(explicit_party)
-                        )
+                        candidate_party_map.setdefault(key, explicit_party)
 
         county_rows: List[Dict[str, Any]] = []
         precinct_rows: List[Dict[str, Any]] = []
@@ -252,23 +240,17 @@ class ElectionProcessor:
                     canonical if status == "INCLUDED" else item.office
                 )
                 district = dist or '' if status == "INCLUDED" else ''
-                party_hint = self.cleaner.extract_party_hint(item.office)
 
                 for opt in item.ballot_options:
                     candidate = self.cleaner.clean_candidate(opt.candidate)
-                    cand_party_hint = (
-                        self.cleaner.extract_party_from_candidate(
-                            opt.candidate
-                        )
-                    )
                     inferred_party = candidate_party_map.get(
                         (canonical_office, district, candidate)
                     )
-                    party = self.cleaner.clean_party(
-                        opt.party
-                        or cand_party_hint
-                        or party_hint
-                        or inferred_party
+                    party = self.cleaner.resolve_party(
+                        opt.party,
+                        opt.candidate,
+                        item.office,
+                        inferred_party=inferred_party
                     )
 
                     # County row extraction
@@ -382,7 +364,7 @@ class ElectionProcessor:
             }
 
         target_outdir = (
-            outdir.expanduser() if outdir else Path(input_path.parent)
+            outdir.expanduser() if outdir else input_path.parent
         )
         target_outdir.mkdir(parents=True, exist_ok=True)
 
@@ -426,7 +408,7 @@ class ElectionProcessor:
                 "candidate", "votes"
             ]
 
-        with open(county_file, "w", newline="", encoding="utf-8") as f:
+        with county_file.open("w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=county_fields)
             writer.writeheader()
             writer.writerows(county_rows)
@@ -434,7 +416,7 @@ class ElectionProcessor:
               f" ({len(county_rows):,} rows)")
 
         if precinct_rows:
-            with open(precinct_file, "w", newline="", encoding="utf-8") as f:
+            with precinct_file.open("w", newline="", encoding="utf-8") as f:
                 writer = csv.DictWriter(f, fieldnames=precinct_fields)
                 writer.writeheader()
                 writer.writerows(precinct_rows)
