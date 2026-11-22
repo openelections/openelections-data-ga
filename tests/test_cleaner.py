@@ -73,6 +73,29 @@ def test_office_override_preserves_party(tmp_path):
     assert cleaner.extract_party_hint("Special Senate Race") == "Democrat"
 
 
+def test_add_office_override_persists_to_rules_file(tmp_path):
+    rules_file = tmp_path / "rules.yaml"
+    rules_file.write_text(
+        "canonical_offices:\n  - 'State House'\noffice_overrides: {}\n",
+        encoding="utf-8",
+    )
+    cleaner = DataCleaner(rules_path=rules_file)
+    cleaner.add_office_override(
+        raw_office="Custom HD 99 Contest",
+        canonical_office="State House",
+        district="99",
+        party="Republican",
+    )
+
+    reloaded = DataCleaner(rules_path=rules_file)
+    assert reloaded.classify_office("Custom HD 99 Contest") == (
+        "INCLUDED",
+        "State House",
+        "99",
+    )
+    assert reloaded.extract_party_hint("Custom HD 99 Contest") == "Republican"
+
+
 def test_extract_party_hint():
     cleaner = DataCleaner()
     assert cleaner.extract_party_hint("PSC - District 2 - Rep") == "Republican"

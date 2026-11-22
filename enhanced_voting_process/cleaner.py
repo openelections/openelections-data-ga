@@ -21,7 +21,7 @@ class DataCleaner:
 
     def load_rules(self):
         if self.rules_path.exists():
-            with open(self.rules_path, 'r', encoding='utf-8') as f:
+            with self.rules_path.open('r', encoding='utf-8') as f:
                 self.rules = yaml.safe_load(f) or {}
         else:
             self.rules = {}
@@ -202,5 +202,5 @@ class DataCleaner:
             'party': party
         }
         self.rules['office_overrides'] = self.office_overrides
-        with open(self.rules_path, 'w', encoding='utf-8') as f:
+        with self.rules_path.open('w', encoding='utf-8') as f:
             yaml.dump(self.rules, f, sort_keys=False, default_flow_style=False)

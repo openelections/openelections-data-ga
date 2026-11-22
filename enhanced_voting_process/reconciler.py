@@ -164,7 +164,7 @@ class ElectionReconciler:
         if not self.records:
             return
         output_path.parent.mkdir(parents=True, exist_ok=True)
-        with open(output_path, "w", newline="", encoding="utf-8") as f:
+        with output_path.open("w", newline="", encoding="utf-8") as f:
             fieldnames = [
                 "county", "office", "district", "candidate", "party",
                 "county_votes", "precinct_votes_sum", "precinct_count",
