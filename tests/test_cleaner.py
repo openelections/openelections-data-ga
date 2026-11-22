@@ -86,6 +86,13 @@ def test_basic_cleaners():
     assert cleaner.clean_candidate(
         "Jane   Doe (Rep) (Incumbent)"
     ) == "Jane Doe"
+    assert cleaner.clean_candidate("Shawn Harris - Dem") == "Shawn Harris"
+    assert cleaner.clean_candidate(
+        'Rob "Rush" Ruszkowski - Ind'
+    ) == 'Rob "Rush" Ruszkowski'
+    assert cleaner.clean_candidate(
+        "LaFawn S. Pinkney-Mealing"
+    ) == "LaFawn S. Pinkney-Mealing"
     assert cleaner.clean_precinct("Precinct   01A ") == "Precinct 01A"
     assert cleaner.clean_party("DEM") == "Democrat"
     assert cleaner.clean_party(None) == "Nonpartisan"
@@ -98,6 +105,11 @@ def test_basic_cleaners():
         ("Josh Tolbert (Rep)", "Republican"),
         ("Corenza Morris (Ind)", "Independent"),
         ("Jane Doe (Lib)", "Libertarian"),
+        ("Shawn Harris - Dem", "Democrat"),
+        ("Clay Fuller - Rep", "Republican"),
+        ("Andrew Underwood - Lib", "Libertarian"),
+        ('Rob "Rush" Ruszkowski - Ind', "Independent"),
+        ("LaFawn S. Pinkney-Mealing", None),
         ("Tim Echols (I) (Rep)", "Republican"),
         ("Tim Echols (I)", None),
         ("Plain Candidate", None),

@@ -6,7 +6,7 @@ Guidance for AI coding agents working in `openelections-data-ga`.
 
 This repository (`openelections-data-ga`) stores standardized, machine-readable election results for Georgia as part of the [OpenElections](https://openelections.net/) project.
 
-- Election results are organized by year (`2000/`–`2025/`) as canonical OpenElections CSVs:
+- Election results are organized by year (`2000/`–`2026/`) as canonical OpenElections CSVs:
   - `YYYYMMDD__ga__<election_details>__county-level.csv`
   - `YYYYMMDD__ga__<election_details>__precinct-level.csv`
 - Raw sources come from the Georgia Secretary of State: pre-2011 elections were scraped/pre-processed from SOS HTML pages and PDF files; starting in 2012 the state used Clarity, and recent elections use Enhanced Voting JSON exports.
@@ -104,9 +104,16 @@ uv run python -m flake8 --exclude=enhanced_voting_process/archived enhanced_voti
   - `file_format`
   - `missing_values`
   - `vote_breakdown_totals`
-- **Post-Conversion QC Notebook**: `2025/code/qc_race_results.ipynb` uses DuckDB to inspect overall totals, county reconciliation, precinct drill-downs, and integrity checks alongside the SOS portal.
+- **Local Pre-Commit Validator**: Run `python3 .agents/skills/validate-ga-sos-results/scripts/validate_csvs.py --county <path/to/county-level.csv>` for structural, modality-math, rectangular precinct, and county-vs-precinct reconciliation checks.
+- **Post-Conversion QC Notebook**: `enhanced_voting_process/election_results_qc.ipynb` uses DuckDB to spot-check overall totals, county results, precinct drill-downs, and residuals across any election year alongside the SOS portal.
 - **Manual / Website Validation**: When validating generated CSVs against `https://results.sos.ga.gov`, verify:
   1. Statewide totals match the SOS summary page (noting that counties with privacy-suppressed `-` breakdowns have blank modality columns in the county CSV even though statewide totals include them).
   2. County-level `votes` and vote-method columns (`election_day_votes`, `advanced_votes`, `absentee_by_mail_votes`, `provisional_votes`) match the county results pages.
   3. Precinct-level `votes` (and any non-blank vote-method columns) match the drilled-down precinct tables.
   4. Precinct `votes` sum to county totals (or any minor variance is confirmed as privacy-suppressed precincts and documented in `*_reconciliation_report.csv`).
+
+## Agent Skills (`.agents/skills/`)
+
+Two workspace skills codify repeatable workflows for Georgia elections:
+- **`process-ga-election`** (`.agents/skills/process-ga-election/SKILL.md`): End-to-end runbook for `--inspect`, tuning `cleaning_rules.yaml`, exporting CSVs, running `pytest`/`flake8`, and preparing clean commits or upstream PRs.
+- **`validate-ga-sos-results`** (`.agents/skills/validate-ga-sos-results/SKILL.md`): Runs local structural/reconciliation checks via `.agents/skills/validate-ga-sos-results/scripts/validate_csvs.py` and cross-checks certification status (`Official` vs. `Unofficial`), totals, and county/precinct samples against `https://results.sos.ga.gov`.

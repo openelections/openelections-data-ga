@@ -11,8 +11,9 @@ A unified, deterministic CLI pipeline for standardizing Georgia election results
 4. [Reconciliation & Quality Control](#4-reconciliation--quality-control)
 5. [CLI Reference & Options](#5-cli-reference--options)
 6. [Step-by-Step Usage Guide](#6-step-by-step-usage-guide)
-7. [Testing & Linting](#7-testing--linting)
-8. [Directory & File Layout](#8-directory--file-layout)
+7. [Agent-Assisted Workflow & Prompts](#7-agent-assisted-workflow--prompts)
+8. [Testing & Linting](#8-testing--linting)
+9. [Directory & File Layout](#9-directory--file-layout)
 
 ---
 
@@ -166,7 +167,34 @@ uv run python enhanced_voting_process/process_election.py \
 
 ---
 
-## 7. Testing & Linting
+## 7. Agent-Assisted Workflow & Prompts
+
+This repository includes two workspace skills under `.agents/skills/` (`process-ga-election` and `validate-ga-sos-results`) so an AI coding agent can run the full pipeline, cross-check the live Georgia SOS portal (`results.sos.ga.gov`), and draft clean commits.
+
+### Example Prompts
+
+- **Process, validate against GA SOS, and preview a commit plan:**
+  > `Process ~/Development/openelections-sources-ga/2026/export-January20SpecialElection.json into 2026/ and validate them and if they look good please show me your plan for the commit.`
+
+- **Validate already-generated CSVs against a specific GA SOS URL:**
+  > `Validate 2025/20251104__ga__municipal__general__special__psc__county-level.csv and 2025/20251104__ga__municipal__general__special__psc__precinct-level.csv against https://results.sos.ga.gov/results/public/Georgia/elections/MunicipalGeneralSpecialElectionPSC11042025`
+
+- **Update the commit plan after renaming files (or draft an upstream PR):**
+  > `I've updated the csv file names, please show me an updated commit plan for this now`
+  > `Draft a PR title and description to push from ATLJoeReed/openelections-data-ga to openelections/openelections-data-ga.`
+
+### Standalone Local Validation Script
+
+You can also run the bundled zero-dependency validator directly from your terminal (it auto-detects the matching `__precinct-level.csv` file):
+
+```bash
+python3 .agents/skills/validate-ga-sos-results/scripts/validate_csvs.py \
+  --county 2026/20260120__ga__state__senate__18__special__county-level.csv
+```
+
+---
+
+## 8. Testing & Linting
 
 Run unit tests (`tests/test_cleaner.py`, `tests/test_process_election.py`) and PEP 8 linting from the repository root:
 
@@ -182,16 +210,17 @@ uv run flake8 --exclude=enhanced_voting_process/archived enhanced_voting_process
 
 ---
 
-## 8. Directory & File Layout
+## 9. Directory & File Layout
 
 ```text
 enhanced_voting_process/
-├── __init__.py             # Package marker
-├── process_election.py     # Main CLI entrypoint (ElectionProcessor)
-├── cleaner.py              # Office classification & string normalization engine
-├── reconciler.py           # County vs. Precinct diagnostic reconciliation QC
-├── cleaning_rules.yaml     # Canonical offices, party map, regex rules & local exclusions
-├── enhanced_json_model.py  # Pydantic schema validator for raw Enhanced Voting JSON
-├── archived/               # Legacy notebooks and SQL processing scripts
-└── README.md               # Pipeline documentation
+├── __init__.py                 # Package marker
+├── process_election.py         # Main CLI entrypoint (ElectionProcessor)
+├── cleaner.py                  # Office classification & string normalization engine
+├── reconciler.py               # County vs. Precinct diagnostic reconciliation QC
+├── cleaning_rules.yaml         # Canonical offices, party map, regex rules & local exclusions
+├── enhanced_json_model.py      # Pydantic schema validator for raw Enhanced Voting JSON
+├── election_results_qc.ipynb   # Cross-year DuckDB notebook for spot-checking CSVs vs. GA SOS
+├── archived/                   # Legacy notebooks and SQL processing scripts
+└── README.md                   # Pipeline documentation
 ```

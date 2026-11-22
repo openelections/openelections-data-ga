@@ -181,6 +181,7 @@ office_overrides: {}
 cleaning_patterns:
   strip_candidate_suffixes:
     - '\s*\((?:Rep|Dem|Lib|Ind|Non|DEM|REP|LIB|IND)\)$'
+    - '(?i)\s+-\s*(?:Rep|Dem|Lib|Ind|Grn|Non|Democrat(?:ic)?|Republican|Libertarian|Independent|Green|Nonpartisan|NP)$'
     - '\s*\([Ii]\)$'
     - '\s*-\s*Incumbent$'
     - '\s*\([Ii]ncumbent\)$'
