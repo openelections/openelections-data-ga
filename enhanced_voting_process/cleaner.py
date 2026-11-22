@@ -101,22 +101,26 @@ class DataCleaner:
         self,
         raw_candidate: str
     ) -> Optional[str]:
-        """Extract a party hint from suffixes like '(Dem)', '(Rep)', '(Ind)'.
+        """Extract a party hint from suffixes like '(Dem)' or '- Dem'.
 
         Excludes bare '(I)' because Georgia SOS uses '(I)' for Incumbent.
         """
         if not raw_candidate:
             return None
-        match = re.search(
-            r'\(\s*(Dem(?:ocrat(?:ic)?)?|Rep(?:ublican)?|'
+        party_token = (
+            r'Dem(?:ocrat(?:ic)?)?|Rep(?:ublican)?|'
             r'Lib(?:ertarian)?|Ind(?:ependent)?|Grn|Green|'
-            r'Non(?:partisan)?|NP)\s*\)',
+            r'Non(?:partisan)?|NP'
+        )
+        match = re.search(
+            rf'(?:\(\s*({party_token})\s*\)|\s+-\s*({party_token})\s*$)',
             raw_candidate,
             re.I,
         )
         if not match:
             return None
-        return self.clean_party(match.group(1))
+        token = match.group(1) or match.group(2)
+        return self.clean_party(token)
 
     def classify_office(
         self,
