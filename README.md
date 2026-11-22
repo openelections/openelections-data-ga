@@ -3,7 +3,7 @@
 # OpenElections Data Georgia
 ### Pre-processed raw election results for Georgia election results
 
-This repository contains scraped or pre-processed election results from HTML pages and PDF files from the [Georgia Secretary of State](http://sos.ga.gov/index.php/Elections/current_and_past_elections_results). Elections before 2011 are included in the data; beginning in 2012, the state has used Clarity.
+This repository contains scraped or pre-processed election results from the [Georgia Secretary of State](https://results.sos.ga.gov/). Elections before 2011 were sourced from SOS HTML pages and PDF files; starting in 2012 the state used Clarity, and recent elections use the Georgia SOS results portal powered by [Enhanced Voting](https://www.enhancedvoting.com/).
 
 ### Contributors
 
