@@ -211,18 +211,17 @@ class ElectionProcessor:
                     canonical if status == "INCLUDED" else item.office
                 )
                 district = dist or '' if status == "INCLUDED" else ''
-                office_party = self.cleaner.extract_party_hint(item.office)
                 for opt in item.ballot_options:
                     cand = self.cleaner.clean_candidate(opt.candidate)
-                    cand_party = self.cleaner.extract_party_from_candidate(
-                        opt.candidate
+                    explicit_party = self.cleaner.resolve_party(
+                        opt.party,
+                        opt.candidate,
+                        item.office,
+                        default=None
                     )
-                    explicit_party = opt.party or cand_party or office_party
                     if explicit_party:
                         key = (canonical_office, district, cand)
-                        candidate_party_map.setdefault(
-                            key, self.cleaner.clean_party(explicit_party)
-                        )
+                        candidate_party_map.setdefault(key, explicit_party)
 
         county_rows: List[Dict[str, Any]] = []
         precinct_rows: List[Dict[str, Any]] = []
@@ -241,23 +240,17 @@ class ElectionProcessor:
                     canonical if status == "INCLUDED" else item.office
                 )
                 district = dist or '' if status == "INCLUDED" else ''
-                party_hint = self.cleaner.extract_party_hint(item.office)
 
                 for opt in item.ballot_options:
                     candidate = self.cleaner.clean_candidate(opt.candidate)
-                    cand_party_hint = (
-                        self.cleaner.extract_party_from_candidate(
-                            opt.candidate
-                        )
-                    )
                     inferred_party = candidate_party_map.get(
                         (canonical_office, district, candidate)
                     )
-                    party = self.cleaner.clean_party(
-                        opt.party
-                        or cand_party_hint
-                        or party_hint
-                        or inferred_party
+                    party = self.cleaner.resolve_party(
+                        opt.party,
+                        opt.candidate,
+                        item.office,
+                        inferred_party=inferred_party
                     )
 
                     # County row extraction

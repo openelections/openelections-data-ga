@@ -189,6 +189,25 @@ class DataCleaner:
             return 'Libertarian'
         return None
 
+    def resolve_party(
+        self,
+        raw_party: Optional[str],
+        raw_candidate: str = '',
+        raw_office: str = '',
+        inferred_party: Optional[str] = None,
+        default: Optional[str] = 'Nonpartisan'
+    ) -> Optional[str]:
+        """Resolve canonical party using the 5-step fallback hierarchy:
+        raw_party -> candidate suffix -> office hint -> inferred_party
+        -> default.
+        """
+        candidate_hint = self.extract_party_from_candidate(raw_candidate)
+        office_hint = self.extract_party_hint(raw_office)
+        chosen = raw_party or candidate_hint or office_hint or inferred_party
+        if not chosen:
+            return default
+        return self.clean_party(chosen)
+
     def add_office_override(
         self,
         raw_office: str,
