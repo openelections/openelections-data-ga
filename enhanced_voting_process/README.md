@@ -214,12 +214,13 @@ uv run flake8 --exclude=enhanced_voting_process/archived enhanced_voting_process
 
 ```text
 enhanced_voting_process/
-├── __init__.py             # Package marker
-├── process_election.py     # Main CLI entrypoint (ElectionProcessor)
-├── cleaner.py              # Office classification & string normalization engine
-├── reconciler.py           # County vs. Precinct diagnostic reconciliation QC
-├── cleaning_rules.yaml     # Canonical offices, party map, regex rules & local exclusions
-├── enhanced_json_model.py  # Pydantic schema validator for raw Enhanced Voting JSON
-├── archived/               # Legacy notebooks and SQL processing scripts
-└── README.md               # Pipeline documentation
+├── __init__.py                 # Package marker
+├── process_election.py         # Main CLI entrypoint (ElectionProcessor)
+├── cleaner.py                  # Office classification & string normalization engine
+├── reconciler.py               # County vs. Precinct diagnostic reconciliation QC
+├── cleaning_rules.yaml         # Canonical offices, party map, regex rules & local exclusions
+├── enhanced_json_model.py      # Pydantic schema validator for raw Enhanced Voting JSON
+├── election_results_qc.ipynb   # Cross-year DuckDB notebook for spot-checking CSVs vs. GA SOS
+├── archived/                   # Legacy notebooks and SQL processing scripts
+└── README.md                   # Pipeline documentation
 ```

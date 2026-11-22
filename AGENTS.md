@@ -105,7 +105,7 @@ uv run python -m flake8 --exclude=enhanced_voting_process/archived enhanced_voti
   - `missing_values`
   - `vote_breakdown_totals`
 - **Local Pre-Commit Validator**: Run `python3 .agents/skills/validate-ga-sos-results/scripts/validate_csvs.py --county <path/to/county-level.csv>` for structural, modality-math, rectangular precinct, and county-vs-precinct reconciliation checks.
-- **Post-Conversion QC Notebook**: `2025/code/qc_race_results.ipynb` uses DuckDB to inspect overall totals, county reconciliation, precinct drill-downs, and integrity checks alongside the SOS portal.
+- **Post-Conversion QC Notebook**: `enhanced_voting_process/election_results_qc.ipynb` uses DuckDB to spot-check overall totals, county results, precinct drill-downs, and residuals across any election year alongside the SOS portal.
 - **Manual / Website Validation**: When validating generated CSVs against `https://results.sos.ga.gov`, verify:
   1. Statewide totals match the SOS summary page (noting that counties with privacy-suppressed `-` breakdowns have blank modality columns in the county CSV even though statewide totals include them).
   2. County-level `votes` and vote-method columns (`election_day_votes`, `advanced_votes`, `absentee_by_mail_votes`, `provisional_votes`) match the county results pages.

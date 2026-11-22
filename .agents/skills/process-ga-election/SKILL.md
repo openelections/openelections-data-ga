@@ -74,7 +74,7 @@ If `[UNMAPPED]` races appeared (or an office/party was misclassified):
     *(or `add unofficial results ...` when GA SOS still lists results as
     Unofficial, noting certification status in the commit body)*.
 - **Do not commit**: `*.json`, `*reconciliation_report.csv`, `*.db`, `*.duckdb`,
-  `.env`, or unrelated scratch edits in `2025/code/qc_race_results.ipynb`.
+  `.env`, or unrelated scratch edits in `enhanced_voting_process/election_results_qc.ipynb`.
 - **Upstream PR checklist** (`ATLJoeReed/openelections-data-ga` ->
   `openelections/openelections-data-ga`):
   - Include a summary table of every new election CSV with date, contests,
